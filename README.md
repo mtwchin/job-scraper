@@ -1,0 +1,138 @@
+# Internship Radar 🛰️
+
+Polls top tech companies' **official career APIs** every ~10 minutes and pings a
+**Discord webhook** the moment a new **SWE/SDE internship or new-grad** role opens.
+Tuned for **off-season** (fall/winter/spring) internships by default.
+
+It runs free on **GitHub Actions** — no server, no laptop-on-required.
+
+---
+
+## How it works
+
+```
+companies.md  ──►  per-company adapter  ──►  filter (SWE + intern/new-grad)
+                                                     │
+            seen_jobs.json  ◄── dedup ──────────────┘
+                                                     │
+                                              Discord webhook 🚨
+```
+
+- **`companies.md`** is the source of truth: a markdown table of companies, the
+  adapter to use, and its config. Edit this to add/remove companies.
+- Each company is fetched independently — **one broken site never stops the run.**
+- **`seen_jobs.json`** records every job already seen, so you only get pinged on
+  genuinely new postings. On GitHub Actions it's committed back after each run.
+- The **first run seeds quietly**: it records all currently-open roles and sends a
+  single "I'm live" message instead of spamming you with hundreds of existing jobs.
+
+### Supported adapters
+
+| Adapter      | Platform                        | Config needed                         |
+|--------------|---------------------------------|---------------------------------------|
+| `greenhouse` | boards-api.greenhouse.io        | `token=<board_token>`                 |
+| `lever`      | api.lever.co                    | `slug=<company_slug>`                 |
+| `ashby`      | api.ashbyhq.com                 | `slug=<company_slug>`                 |
+| `workday`    | *.myworkdayjobs.com             | `host=;tenant=;site=`                 |
+| `amazon`     | amazon.jobs                     | — (custom)                            |
+| `google`     | google.com/about/careers        | — (custom, scrapes results page)      |
+| `meta`       | metacareers.com GraphQL         | — (custom, **disabled**, doc_id rotates) |
+| `microsoft`  | careers.microsoft.com           | — (custom, **disabled**, old API dead) |
+| `apple`      | jobs.apple.com                  | — (custom, **disabled**, needs JS CSRF) |
+
+Verified-working out of the box: **Amazon, Google, Netflix, Palantir, OpenAI,
+Ramp, Notion, Plaid, Stripe, Databricks, Coinbase, Robinhood, Airbnb, Dropbox,
+Reddit, Pinterest, DoorDash, Instacart, Lyft, Brex, Figma, Discord, Anthropic,
+Scale AI, Cloudflare, Roblox, Block, Affirm, Asana, Samsara, Nvidia, Salesforce,
+Adobe, PayPal**.
+
+> **Meta / Microsoft / Apple** are coded but disabled — their public APIs are
+> currently locked behind rotating tokens, dead endpoints, or JS-rendered CSRF.
+> See "Adding & fixing companies" below to re-enable when you find a live endpoint.
+
+---
+
+## Setup (≈10 minutes)
+
+### 1. Create the Discord webhook
+In Discord: **Server Settings → Integrations → Webhooks → New Webhook**, pick the
+channel you want notifications in, then **Copy Webhook URL**. It looks like
+`https://discord.com/api/webhooks/123.../abc...`.
+
+### 2. Test it locally first (optional but recommended)
+```bash
+python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+
+# Dry run — hits every API, prints what it WOULD send, sends nothing:
+DRY_RUN=true .venv/bin/python -m jobscraper
+
+# Real send to your Discord (delete seen_jobs.json first to force a fresh seed):
+DISCORD_WEBHOOK_URL='https://discord.com/api/webhooks/...' .venv/bin/python -m jobscraper
+```
+
+### 3. Push to GitHub
+```bash
+gh repo create internship-radar --private --source=. --remote=origin --push
+# or create a repo in the UI and: git remote add origin <url> && git push -u origin main
+```
+
+### 4. Add the webhook as a secret
+Repo → **Settings → Secrets and variables → Actions → New repository secret**:
+- **Name:** `DISCORD_WEBHOOK_URL`
+- **Value:** your webhook URL
+
+(Or via CLI: `gh secret set DISCORD_WEBHOOK_URL`.)
+
+### 5. Done
+The workflow in `.github/workflows/scraper.yml` runs every 10 minutes. Trigger the
+first run manually from the **Actions** tab → *internship-radar* → **Run workflow**
+to confirm everything works. The first run sends one "I'm live" message and seeds
+state; after that you only get pinged on new postings.
+
+---
+
+## Tuning
+
+Set these as env vars (locally) or edit the `env:` block in the workflow:
+
+| Variable            | Default            | Meaning                                            |
+|---------------------|--------------------|----------------------------------------------------|
+| `ROLE_TYPES`        | `intern,new_grad`  | Comma list; use `intern` only or `new_grad` only.  |
+| `OFF_SEASON_ONLY`   | `true`             | `true` drops summer-only internships.              |
+| `DRY_RUN`           | `false`            | `true` = print only, never send/save.              |
+| `SEED_QUIETLY`      | `true`             | `true` = first run seeds silently.                 |
+| `MAX_NOTIFICATIONS_PER_RUN` | `60`       | Safety cap per run.                                |
+
+Matching logic lives in `jobscraper/filters.py` — tweak the keyword lists there to
+broaden/narrow what counts as a SWE/intern/new-grad role.
+
+---
+
+## Adding & fixing companies
+
+Edit the table in **`companies.md`** — add a row, or flip the **On** column to
+`no` to pause one. Finding a company's config:
+
+- **Greenhouse** — board lives at `boards.greenhouse.io/<token>`; use that token.
+  Verify: `curl https://boards-api.greenhouse.io/v1/boards/<token>/jobs`
+- **Lever** — board at `jobs.lever.co/<slug>`.
+  Verify: `curl https://api.lever.co/v0/postings/<slug>?mode=json`
+- **Ashby** — board at `jobs.ashbyhq.com/<slug>`.
+  Verify: `curl https://api.ashbyhq.com/posting-api/job-board/<slug>`
+- **Workday** — open the company's Workday careers page; the URL is
+  `https://<host>/<tenant>/<site>`. Use those three values.
+
+If a company shows `0 fetched` with an error in the run log, the token/slug/config
+is wrong — fix it in `companies.md`.
+
+---
+
+## Scheduling reality check
+
+- GitHub's cron minimum is **5 minutes** (`*/5`). In practice scheduled runs are
+  often **delayed 5–15 min** during busy periods and a run is occasionally
+  **skipped** entirely — GitHub does not guarantee on-time scheduled execution.
+  For most internship hunts that's fine; you'll still hear within ~10-20 min.
+- Want it tighter/guaranteed? Options: run the same `python -m jobscraper` on a
+  cheap always-on box via cron, or on your Mac via `launchd`. The script is
+  identical; only the scheduler changes.
