@@ -1,5 +1,5 @@
 {
-  "count": 33,
+  "count": 53,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -37,6 +37,36 @@
       "title": "Software Development Engineer Fall Intern - Military Veteran",
       "url": "https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-fall-intern-military-veteran"
     },
+    "anduril::4802146007": {
+      "company": "Anduril",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "2026 Early Career Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007"
+    },
+    "anduril::5148079007": {
+      "company": "Anduril",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "2027 Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"
+    },
+    "anduril::5162263007": {
+      "company": "Anduril",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "2027 Early Career Software Engineer ",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007"
+    },
+    "cohere::8c035d3d-081d-4c8a-914a-72f4efaad254": {
+      "company": "Cohere",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "Software Engineer Intern (Fall / Winter 2026)",
+      "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254"
+    },
+    "datadog::7646452": {
+      "company": "Datadog",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "Software Engineer - Early Career",
+      "url": "https://careers.datadoghq.com/detail/7646452/?gh_jid=7646452"
+    },
     "google::111182182432547526": {
       "company": "Google",
       "first_seen": "2026-06-28T23:35:42+00:00",
@@ -61,6 +91,66 @@
       "title": "Software Engineer Early Career For Women In Tech Candidates",
       "url": "https://www.google.com/about/careers/applications/jobs/results/80313547497579206-software-engineer-early-career-for-women-in-tech-candidates"
     },
+    "imc trading::4564480101": {
+      "company": "IMC Trading",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "Graduate Software Engineer (2026)",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4564480101"
+    },
+    "imc trading::4577504101": {
+      "company": "IMC Trading",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "Software Engineer, Early Career",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4577504101"
+    },
+    "imc trading::4635938101": {
+      "company": "IMC Trading",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "Graduate Software Engineer (2026)",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101"
+    },
+    "jump trading::7565728": {
+      "company": "Jump Trading",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "Campus Trading Team Software Engineer  (Intern)",
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7565728"
+    },
+    "neuralink::5469298003": {
+      "company": "Neuralink",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "Software Engineer Intern, Infrastructure",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003"
+    },
+    "neuralink::5469305003": {
+      "company": "Neuralink",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "Software Engineer Intern, Robotics",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003"
+    },
+    "neuralink::6083322003": {
+      "company": "Neuralink",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "Software Engineer Intern, Internal Apps",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003"
+    },
+    "neuralink::6283663003": {
+      "company": "Neuralink",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "Embedded Software Engineer Intern, Implant Embedded Systems",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003"
+    },
+    "neuralink::6569018003": {
+      "company": "Neuralink",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "Software Engineer Intern, Implant",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003"
+    },
+    "neuralink::6594422003": {
+      "company": "Neuralink",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "Software Engineer Intern, BCI Applications",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003"
+    },
     "notion::5b15697c-fa91-4511-9482-c98a6ff29f90": {
       "company": "Notion",
       "first_seen": "2026-06-28T23:35:42+00:00",
@@ -78,6 +168,12 @@
       "first_seen": "2026-06-28T23:35:42+00:00",
       "title": "Software Engineer, New Grad",
       "url": "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555"
+    },
+    "optiver::8450243002": {
+      "company": "Optiver",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "Expressions of Interest - Graduate Software Developer 2027",
+      "url": "https://www.optiver.com/join-us/jobs/8450243002/?gh_jid=8450243002"
     },
     "palantir::1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a": {
       "company": "Palantir",
@@ -181,6 +277,30 @@
       "title": "Software Engineer Internship, Android ",
       "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b"
     },
+    "snowflake::26a0ae52-97a6-4a46-9216-3c382570d89b": {
+      "company": "Snowflake",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "Software Engineer Intern - Zurich (2026)",
+      "url": "https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b"
+    },
+    "snowflake::41e65c6c-a01e-4f40-af14-ae75d3b95e27": {
+      "company": "Snowflake",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "Software Engineer Intern - Berlin (2026)",
+      "url": "https://jobs.ashbyhq.com/snowflake/41e65c6c-a01e-4f40-af14-ae75d3b95e27"
+    },
+    "snowflake::897e1850-c590-4462-b187-0516b65b2034": {
+      "company": "Snowflake",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "Software Engineer Intern (AI/ML) - 2026",
+      "url": "https://jobs.ashbyhq.com/snowflake/897e1850-c590-4462-b187-0516b65b2034"
+    },
+    "spacex::8403219002": {
+      "company": "SpaceX",
+      "first_seen": "2026-06-28T23:46:38+00:00",
+      "title": "Fall 2026 Software Engineering Internship/Co-op",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8403219002?gh_jid=8403219002"
+    },
     "stripe::7176977": {
       "company": "Stripe",
       "first_seen": "2026-06-28T23:35:42+00:00",
@@ -200,5 +320,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7991718"
     }
   },
-  "updated_at": "2026-06-28T23:37:12+00:00"
+  "updated_at": "2026-06-28T23:46:39+00:00"
 }
