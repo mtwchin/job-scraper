@@ -1,0 +1,204 @@
+{
+  "count": 33,
+  "jobs": {
+    "affirm::7485068003": {
+      "company": "Affirm",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Software Engineer, Early Career",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7485068003"
+    },
+    "amazon::10377042": {
+      "company": "Amazon",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "SEED Engineer Program - Software Development Engineer Intern, 2026 Shenzhen",
+      "url": "https://www.amazon.jobs/en/jobs/10377042/seed-engineer-program-software-development-engineer-intern-2026-shenzhen"
+    },
+    "amazon::10412530": {
+      "company": "Amazon",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)",
+      "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us"
+    },
+    "amazon::3136266": {
+      "company": "Amazon",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Robotics - Software Development Engineer Intern/Co-op - 2026",
+      "url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026"
+    },
+    "amazon::3136815": {
+      "company": "Amazon",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Robotics - Software Development Engineer Intern - 2026 - Toronto",
+      "url": "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto"
+    },
+    "amazon::3179209": {
+      "company": "Amazon",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Software Development Engineer Fall Intern - Military Veteran",
+      "url": "https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-fall-intern-military-veteran"
+    },
+    "google::111182182432547526": {
+      "company": "Google",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Software Engineer Compilers Runtimes And Toolchains Early Career",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/111182182432547526-software-engineer-compilers-runtimes-and-toolchains-early-career"
+    },
+    "google::123365080841495238": {
+      "company": "Google",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Mobile Software Engineer Multiplatform Early Careers",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/123365080841495238-mobile-software-engineer-multiplatform-early-careers"
+    },
+    "google::136778768644481734": {
+      "company": "Google",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Early Career Software Engineer People With Disabilities",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/136778768644481734-early-career-software-engineer-people-with-disabilities"
+    },
+    "google::80313547497579206": {
+      "company": "Google",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Software Engineer Early Career For Women In Tech Candidates",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/80313547497579206-software-engineer-early-career-for-women-in-tech-candidates"
+    },
+    "notion::5b15697c-fa91-4511-9482-c98a6ff29f90": {
+      "company": "Notion",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Software Engineer Intern (Fall 2026)",
+      "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90"
+    },
+    "notion::7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9": {
+      "company": "Notion",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Software Engineer, New Grad (AI)",
+      "url": "https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9"
+    },
+    "notion::a6311f97-4850-4674-a5f3-d9fe5f6f2555": {
+      "company": "Notion",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Software Engineer, New Grad",
+      "url": "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555"
+    },
+    "palantir::1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a": {
+      "company": "Palantir",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Forward Deployed Software Engineer, Internship",
+      "url": "https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a"
+    },
+    "palantir::315f695d-04d1-4a9a-848e-cb2bec7a997e": {
+      "company": "Palantir",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Forward Deployed Software Engineer, Internship - US Government",
+      "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e"
+    },
+    "palantir::395a4483-fc3d-4b77-a500-501923fd0976": {
+      "company": "Palantir",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Forward Deployed Software Engineer, Internship - AUS Government",
+      "url": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976"
+    },
+    "palantir::5c4c65c5-77da-4d36-856c-4ade87631019": {
+      "company": "Palantir",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
+      "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019"
+    },
+    "palantir::5c7bb70c-83ea-43e7-8055-0c8f319f4333": {
+      "company": "Palantir",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
+      "url": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333"
+    },
+    "palantir::655f9937-a4ce-4e7d-80e2-a6659af07329": {
+      "company": "Palantir",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Year at Palantir - Software Engineer, Internship",
+      "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329"
+    },
+    "palantir::75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3": {
+      "company": "Palantir",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+      "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3"
+    },
+    "palantir::ac0dc094-2480-43c2-8495-26ade227ff4f": {
+      "company": "Palantir",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Forward Deployed Software Engineer, Internship - France",
+      "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f"
+    },
+    "palantir::cbe90327-3e6e-451c-a54c-1d3cbcef5aeb": {
+      "company": "Palantir",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Forward Deployed Software Engineer, New Grad - US Government",
+      "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb"
+    },
+    "palantir::cccfe1bd-f15b-4fe5-b044-c793e7961c1b": {
+      "company": "Palantir",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Forward Deployed Software Engineer, Internship - Defense Tech",
+      "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b"
+    },
+    "palantir::d1ac83d0-e923-42a5-8e6d-58dd0cab25ca": {
+      "company": "Palantir",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Forward Deployed Software Engineer, New Grad - US Government",
+      "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca"
+    },
+    "palantir::d582cd84-14fd-4aa3-b413-15982d286bd9": {
+      "company": "Palantir",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Forward Deployed Software Engineer, Internship - Poland",
+      "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9"
+    },
+    "palantir::e0010393-c300-446f-bf67-fa2ef067f16f": {
+      "company": "Palantir",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Forward Deployed Software Engineer, Internship - US Government",
+      "url": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f"
+    },
+    "palantir::e6789b17-62fb-4226-a079-f8c17ff19e2d": {
+      "company": "Palantir",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
+      "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d"
+    },
+    "palantir::e6ff8bf2-135e-474d-ad37-24f490ae1dd2": {
+      "company": "Palantir",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Forward Deployed Software Engineer, Internship - US Government",
+      "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2"
+    },
+    "palantir::fbca0358-083a-4222-bdbb-3bd729b48382": {
+      "company": "Palantir",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Forward Deployed Software Engineer, New Grad - Intel, US Government",
+      "url": "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382"
+    },
+    "ramp::67fadb77-43d8-4449-954b-d4cf2c6d3b8b": {
+      "company": "Ramp",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Software Engineer Internship, Android ",
+      "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b"
+    },
+    "stripe::7176977": {
+      "company": "Stripe",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Software Engineering, New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=7176977"
+    },
+    "stripe::7532256": {
+      "company": "Stripe",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Software Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=7532256"
+    },
+    "stripe::7991718": {
+      "company": "Stripe",
+      "first_seen": "2026-06-28T23:35:42+00:00",
+      "title": "Software Engineer, New Grad, Developer & End User Experience Platform",
+      "url": "https://stripe.com/jobs/search?gh_jid=7991718"
+    }
+  },
+  "updated_at": "2026-06-28T23:35:42+00:00"
+}
