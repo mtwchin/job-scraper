@@ -62,8 +62,69 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Salesforce     | workday    | host=salesforce.wd12.myworkdayjobs.com;tenant=salesforce;site=External_Career_Site | yes | Verified |
 | Adobe          | workday    | host=adobe.wd5.myworkdayjobs.com;tenant=adobe;site=external_experienced | yes | Verified |
 | PayPal         | workday    | host=paypal.wd1.myworkdayjobs.com;tenant=paypal;site=jobs          | yes | Verified |
-| Snowflake      | greenhouse | token=snowflakecomputing                                           | no  | Token wrong — find real platform before enabling |
-| Rippling       | greenhouse | token=rippling                                                     | no  | Token wrong — find real platform before enabling |
+| DeepMind       | greenhouse | token=deepmind                                                     | yes | Verified — prestige #3 |
+| Jane Street    | greenhouse | token=janestreet                                                   | yes | Verified — quant |
+| Hudson R.T.    | custom     |                                                                    | no  | HRT — no public ATS API; custom careers site |
+| Citadel        | custom     |                                                                    | no  | Custom careers site |
+| Jump Trading   | greenhouse | token=jumptrading                                                  | yes | Verified — quant |
+| Two Sigma      | custom     |                                                                    | no  | Custom careers site |
+| xAI            | greenhouse | token=xai                                                          | yes | Verified |
+| Renaissance    | custom     |                                                                    | no  | RenTech — custom careers site |
+| Intel          | workday    |                                                                    | no  | Workday — need host/tenant/site |
+| IMC Trading    | greenhouse | token=imc                                                          | yes | Verified — quant |
+| Optiver        | greenhouse | token=optiverus                                                    | yes | Verified — quant |
+| Radix Trading  | custom     |                                                                    | no  | Custom careers site |
+| SpaceX         | greenhouse | token=spacex                                                       | yes | Verified |
+| D.E. Shaw      | custom     |                                                                    | no  | Custom careers site |
+| Five Rings     | greenhouse | token=fiveringsllc                                                 | yes | Verified — quant |
+| Neuralink      | greenhouse | token=neuralink                                                    | yes | Verified |
+| Cursor         | ashby      | slug=cursor                                                        | yes | Verified — Anysphere |
+| Snowflake      | ashby      | slug=snowflake                                                     | yes | Verified (fixed from bad greenhouse token) |
+| Akuna Capital  | greenhouse | token=akunacapital                                                 | yes | Verified — quant |
+| LinkedIn       | custom     |                                                                    | no  | Microsoft-owned; custom careers site |
+| Hugging Face   | custom     |                                                                    | no  | No public ATS API found |
+| Disney         | workday    |                                                                    | no  | Workday — need host/tenant/site |
+| GitHub         | custom     |                                                                    | no  | Microsoft-owned; custom careers site |
+| Bloomberg      | custom     |                                                                    | no  | Custom careers site |
+| X (Twitter)    | custom     |                                                                    | no  | Custom careers site |
+| Spotify        | lever      | slug=spotify                                                       | yes | Verified |
+| Tesla          | custom     |                                                                    | no  | Custom careers site |
+| Anduril        | greenhouse | token=andurilindustries                                            | yes | Verified |
+| Nextdoor       | greenhouse | token=nextdoor                                                     | yes | Verified |
+| Datadog        | greenhouse | token=datadog                                                      | yes | Verified |
+| NASA           | custom     |                                                                    | no  | Government — USAJobs.gov |
+| ByteDance      | custom     |                                                                    | no  | Custom careers site |
+| Twitch         | custom     |                                                                    | no  | Amazon-owned; custom careers site |
+| Indeed         | custom     |                                                                    | no  | No public ATS API for main brand |
+| Slack          | workday    |                                                                    | no  | Salesforce-owned; Workday — need config |
+| Blue Origin    | custom     |                                                                    | no  | No public ATS API found |
+| Snap           | custom     |                                                                    | no  | Custom careers site |
+| Atlassian      | custom     |                                                                    | no  | Custom careers site |
+| Verily         | custom     |                                                                    | no  | Alphabet; no public ATS API found |
+| MongoDB        | greenhouse | token=mongodb                                                      | yes | Verified |
+| Goldman Sachs  | custom     |                                                                    | no  | Custom careers site |
+| Flow Traders   | greenhouse | token=flowtraders                                                  | yes | Verified — quant |
+| eBay           | workday    |                                                                    | no  | Workday — need host/tenant/site |
+| Oracle         | custom     |                                                                    | no  | Custom careers site |
+| Palo Alto Nets | custom     |                                                                    | no  | SmartRecruiters — needs adapter |
+| Riot Games     | greenhouse | token=riotgames                                                    | yes | Verified |
+| Shopify        | custom     |                                                                    | no  | Custom careers site |
+| Splunk         | workday    |                                                                    | no  | Cisco-owned; Workday — need config |
+| Blackrock      | custom     |                                                                    | no  | Custom careers site |
+| Capital One    | workday    |                                                                    | no  | Workday — need host/tenant/site |
+| Duolingo       | greenhouse | token=duolingo                                                     | yes | Verified |
+| Morgan Stanley | custom     |                                                                    | no  | Custom careers site |
+| Lockheed       | workday    |                                                                    | no  | Workday — need host/tenant/site |
+| Red Hat        | workday    |                                                                    | no  | IBM-owned; Workday — need config |
+| IBM            | custom     |                                                                    | no  | Custom careers site (cutoff company) |
+| Samsung        | greenhouse | token=samsungsemiconductor                                         | yes | Verified — Samsung Semiconductor board |
+| Zoom           | custom     |                                                                    | no  | No public ATS API found |
+| Cohere         | ashby      | slug=cohere                                                        | yes | Verified |
+| Glean          | greenhouse | token=gleanwork                                                    | yes | Verified |
+| Box            | greenhouse | token=boxinc                                                       | yes | Verified |
+| JPMC           | custom     |                                                                    | no  | Custom careers site |
+| Okta           | greenhouse | token=okta                                                         | yes | Verified |
+| Rippling       | custom     |                                                                    | no  | No public ATS API found (was bad greenhouse token) |
 | Intuit         | workday    | host=intuit.wd1.myworkdayjobs.com;tenant=intuit;site=External      | no  | Workday config returns 401; verify site/tenant |
 | Cisco          | workday    | host=cisco.wd5.myworkdayjobs.com;tenant=cisco;site=External_Career_Site | no  | Workday config 404; verify host/site |
 | Uber           | workday    | host=uber.wd1.myworkdayjobs.com;tenant=uber;site=External          | no  | Workday config 422; verify site/tenant |

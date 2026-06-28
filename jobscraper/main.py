@@ -91,7 +91,8 @@ def run() -> int:
 
     if to_send:
         notify.notify_jobs(to_send)
-    store.save()
+    if new_jobs:  # only rewrite state when something actually changed
+        store.save()
     print("Done.")
     return 0
 
