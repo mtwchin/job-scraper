@@ -99,9 +99,23 @@ Set these as env vars (locally) or edit the `env:` block in the workflow:
 |---------------------|--------------------|----------------------------------------------------|
 | `ROLE_TYPES`        | `intern,new_grad`  | Comma list; use `intern` only or `new_grad` only.  |
 | `OFF_SEASON_ONLY`   | `true`             | `true` drops summer-only internships.              |
+| `US_CANADA_ONLY`    | `true`             | `true` keeps only US/Canada roles.                 |
+| `INCLUDE_UNKNOWN_LOCATIONS` | `true`     | Keep roles with no/ambiguous location.             |
+| `MAX_AGE_DAYS`      | `7`                | Only alert on roles posted within N days (`0`=off).|
 | `DRY_RUN`           | `false`            | `true` = print only, never send/save.              |
 | `SEED_QUIETLY`      | `true`             | `true` = first run seeds silently.                 |
 | `MAX_NOTIFICATIONS_PER_RUN` | `60`       | Safety cap per run.                                |
+
+**Location filter** (`US_CANADA_ONLY`): a role is kept if its location names a US
+state/Canadian province, a US/Canada city, `US-`/`CA-` prefix, or "United
+States"/"Canada"; dropped if it clearly names another country/city; kept if
+unknown (unless `INCLUDE_UNKNOWN_LOCATIONS=false`). Google is filtered at query
+time since its listings carry no parseable location.
+
+**Recency filter** (`MAX_AGE_DAYS`): only roles *posted* within N days alert —
+this is what makes it "new listings only." It sits on top of dedup, so it also
+stops stale roles that reappear with a new id. Roles whose date can't be parsed
+are never dropped on a guess. Widen to `14`/`30` if you want a longer window.
 
 Matching logic lives in `jobscraper/filters.py` — tweak the keyword lists there to
 broaden/narrow what counts as a SWE/intern/new-grad role.

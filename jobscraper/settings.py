@@ -26,6 +26,23 @@ ROLE_TYPES = {
 # New-grad roles are unaffected.
 OFF_SEASON_ONLY = os.environ.get("OFF_SEASON_ONLY", "true").lower() in {"1", "true", "yes"}
 
+# --- Location: US + Canada only --------------------------------------------
+# Keep only roles located in the United States or Canada.
+US_CANADA_ONLY = os.environ.get("US_CANADA_ONLY", "true").lower() in {"1", "true", "yes"}
+# Some sources give no/ambiguous location (e.g. "4 Locations", or Google). When
+# True, those are kept (better to over-notify than miss a US/CA role); when
+# False they're dropped.
+INCLUDE_UNKNOWN_LOCATIONS = os.environ.get(
+    "INCLUDE_UNKNOWN_LOCATIONS", "true"
+).lower() in {"1", "true", "yes"}
+
+# --- Recency: only genuinely NEW listings ----------------------------------
+# Only alert on roles posted within this many days. 0 disables the check.
+# Layered on top of dedup: dedup stops repeats, this stops stale postings that
+# re-appear with a new id or get surfaced when a board is first added.
+# Roles whose posting date can't be parsed are kept (never dropped on a guess).
+MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS", "7"))
+
 # --- Behavior --------------------------------------------------------------
 # Print what would be sent, don't actually call Discord and don't save state.
 DRY_RUN = os.environ.get("DRY_RUN", "false").lower() in {"1", "true", "yes"}

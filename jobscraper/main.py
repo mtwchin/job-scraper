@@ -19,7 +19,8 @@ def collect_matches() -> tuple[list[Job], list[str]]:
 
     enabled = [c for c in companies if c.enabled]
     print(f"Checking {len(enabled)} enabled companies "
-          f"(roles={sorted(settings.ROLE_TYPES)}, off_season_only={settings.OFF_SEASON_ONLY})")
+          f"(roles={sorted(settings.ROLE_TYPES)}, off_season_only={settings.OFF_SEASON_ONLY}, "
+          f"us_canada_only={settings.US_CANADA_ONLY}, max_age_days={settings.MAX_AGE_DAYS})")
 
     for company in enabled:
         fetch = adapters.get(company.adapter)
@@ -36,10 +37,19 @@ def collect_matches() -> tuple[list[Job], list[str]]:
         for job in jobs:
             if not job.url or job.uid in seen_uids:
                 continue
-            if filters.matches(job, settings.ROLE_TYPES, settings.OFF_SEASON_ONLY):
-                seen_uids.add(job.uid)
-                matches.append(job)
-                hits += 1
+            if not filters.matches(job, settings.ROLE_TYPES, settings.OFF_SEASON_ONLY):
+                continue
+            if settings.US_CANADA_ONLY and not filters.in_north_america(
+                job.location, settings.INCLUDE_UNKNOWN_LOCATIONS
+            ):
+                continue
+            if settings.MAX_AGE_DAYS > 0:
+                age = filters.posted_age_days(job.posted_at)
+                if age is not None and age > settings.MAX_AGE_DAYS:
+                    continue
+            seen_uids.add(job.uid)
+            matches.append(job)
+            hits += 1
         print(f"  {company.name:<16} {len(jobs):>4} fetched  ->  {hits} match")
 
     return matches, errors
