@@ -1,5 +1,5 @@
 {
-  "count": 209,
+  "count": 214,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -192,6 +192,13 @@
       "first_seen": "2026-06-28T23:46:38+00:00",
       "title": "Campus Trading Team Software Engineer  (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7565728"
+    },
+    "netflix::790313241540": {
+      "company": "Netflix",
+      "first_seen": "2026-06-29T20:24:39+00:00",
+      "posted_at": "1765324800",
+      "title": "Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)",
+      "url": "https://explore.jobs.netflix.net/careers/job/790313241540"
     },
     "neuralink::5469298003": {
       "company": "Neuralink",
@@ -578,6 +585,13 @@
       "title": "Software Engineer Internship, Android ",
       "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b"
     },
+    "replit::12737078-74c7-4e63-98a7-5e8da1e9deb1": {
+      "company": "Replit",
+      "first_seen": "2026-06-29T20:24:39+00:00",
+      "posted_at": "2025-10-01T16:02:40.431+00:00",
+      "title": "Software Engineering Intern (Summer 2026)",
+      "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1"
+    },
     "simplify:affirm::simplify-3d6d6af9-2d80-47cd-bab7-3de78427877d": {
       "company": "Affirm",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -591,6 +605,13 @@
       "posted_at": "1770851522",
       "title": "Software Development Engineer Intern - Military Veteran",
       "url": "https://amazon.jobs/en/jobs/3179209/software-development-engineer-internship-military-veteran"
+    },
+    "simplify:amazon::simplify-c44d58c3-05e3-470a-9f21-4722f9d8522d": {
+      "company": "Amazon",
+      "first_seen": "2026-06-29T20:24:39+00:00",
+      "posted_at": "1765328439",
+      "title": "Software Development Engineer Internship - Summer 2026 - US",
+      "url": "https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us"
     },
     "simplify:amazon::simplify-c895bb20-219c-416d-972e-21199a4af2c4": {
       "company": "Amazon",
@@ -1327,6 +1348,20 @@
       "title": "Backend Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099422007"
     },
+    "simplify:waymo::simplify-272ebb56-c365-4e6e-ba31-7f272187adca": {
+      "company": "Waymo",
+      "first_seen": "2026-06-29T20:24:39+00:00",
+      "posted_at": "1763392672",
+      "title": "2026 Summer Intern, MS/PhD, Software Engineer, Planner Reasoning ML/DL",
+      "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-software-engineer-planner-reasoning-ml-dl-mountain-view-california-united-states?gh_jid=7393132"
+    },
+    "simplify:waymo::simplify-912e8dd5-8278-402b-9bdb-55202c7dc6d9": {
+      "company": "Waymo",
+      "first_seen": "2026-06-29T20:24:39+00:00",
+      "posted_at": "1762179336",
+      "title": "2026 Summer Intern, PhD, Software Engineer, Predictive Planner ML/DL",
+      "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-phd-software-engineer-predictive-planner-ml-dl-mountain-view-california-united-states?gh_jid=7368864"
+    },
     "skydio::7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915": {
       "company": "Skydio",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -1405,5 +1440,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-06-29T20:16:36+00:00"
+  "updated_at": "2026-06-29T20:24:39+00:00"
 }
