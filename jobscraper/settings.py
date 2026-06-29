@@ -24,7 +24,7 @@ ROLE_TYPES = {
 # When True, intern roles whose title clearly says "Summer" (and no other
 # season) are dropped, so you only get off-season (fall/winter/spring) interns.
 # New-grad roles are unaffected.
-OFF_SEASON_ONLY = os.environ.get("OFF_SEASON_ONLY", "true").lower() in {"1", "true", "yes"}
+OFF_SEASON_ONLY = os.environ.get("OFF_SEASON_ONLY", "false").lower() in {"1", "true", "yes"}
 
 # --- Location: US + Canada only --------------------------------------------
 # Keep only roles located in the United States or Canada.

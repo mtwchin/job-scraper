@@ -130,7 +130,7 @@ Set these as env vars (locally) or edit the `env:` block in the workflow:
 | Variable            | Default            | Meaning                                            |
 |---------------------|--------------------|----------------------------------------------------|
 | `ROLE_TYPES`        | `intern,new_grad`  | Comma list; use `intern` only or `new_grad` only.  |
-| `OFF_SEASON_ONLY`   | `true`             | `true` drops summer-only internships.              |
+| `OFF_SEASON_ONLY`   | `false`            | `true` drops summer-only internships.              |
 | `US_CANADA_ONLY`    | `true`             | `true` keeps only US/Canada roles.                 |
 | `INCLUDE_UNKNOWN_LOCATIONS` | `true`     | Keep roles with no/ambiguous location.             |
 | `STALE_POSTED_DAYS` | `21`               | Hide the "Posted" label when the board date is older (display only). |
