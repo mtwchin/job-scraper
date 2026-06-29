@@ -2,10 +2,11 @@ name: internship-radar
 
 on:
   schedule:
-    # Every 10 minutes. GitHub's minimum is 5 min (*/5), but scheduled runs are
-    # frequently delayed 5-15 min under load and can occasionally be skipped, so
-    # 10 min is the realistic sweet spot. Change to '*/5 * * * *' if you want.
-    - cron: "*/10 * * * *"
+    # Every 5 minutes — GitHub's minimum, for the freshest catches. Note GitHub
+    # does not guarantee on-time scheduled runs (they can be delayed/skipped under
+    # load), so effective cadence is often ~5-12 min. Free + unlimited because the
+    # repo is public.
+    - cron: "*/5 * * * *"
   workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
 
 # Never let two runs overlap (they'd both touch seen_jobs.json).
