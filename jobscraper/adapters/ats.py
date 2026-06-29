@@ -105,7 +105,9 @@ def fetch_workday(company: CompanyConfig) -> list[Job]:
                 break
             for p in postings:
                 ext = p.get("externalPath", "")
-                url = f"https://{host}{ext}" if ext else ""
+                # externalPath is "/job/<loc>/<title>_<req>" — the public job URL
+                # needs the site segment inserted, else it 404s.
+                url = f"https://{host}/{site}{ext}" if ext else ""
                 # externalPath is unique + stable; prefer it as the id.
                 jid = ext.rsplit("/", 1)[-1] if ext else str(
                     (p.get("bulletFields") or [p.get("title")])[0]
