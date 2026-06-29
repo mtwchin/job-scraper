@@ -1,5 +1,5 @@
 {
-  "count": 208,
+  "count": 209,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -361,6 +361,13 @@
       "first_seen": "2026-06-28T23:35:42+00:00",
       "title": "Forward Deployed Software Engineer, Internship - AUS Government",
       "url": "https://jobs.lever.co/palantir/395a4483-fc3d-4b77-a500-501923fd0976"
+    },
+    "palantir::3ab9e715-1ea9-4c6c-ad50-7340eac14e86": {
+      "company": "Palantir",
+      "first_seen": "2026-06-29T20:16:36+00:00",
+      "posted_at": "1755596487314",
+      "title": "Software Engineer, Internship - Production Infrastructure",
+      "url": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86"
     },
     "palantir::4abf26b4-795c-420a-bf22-1ab98db268b4": {
       "company": "Palantir",
@@ -1398,5 +1405,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-06-29T20:12:41+00:00"
+  "updated_at": "2026-06-29T20:16:36+00:00"
 }
