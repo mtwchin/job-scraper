@@ -1,109 +1,146 @@
-"""Entry point: fetch every enabled company, filter, dedup, notify."""
+"""Core run loop: fetch every enabled company (concurrently), filter, dedup, notify."""
 from __future__ import annotations
 
-import sys
-import traceback
+import concurrent.futures as cf
+from dataclasses import dataclass, field
 
-from . import adapters, filters, notify, settings
+from . import adapters, filters, log, notify, settings
 from .companies import load_companies
-from .models import Job
+from .models import CompanyConfig, Job
 from .state import SeenStore
 
+logger = log.get()
 
-def collect_matches() -> tuple[list[Job], list[str]]:
-    """Return (matching jobs across all companies, human-readable error lines)."""
-    companies = load_companies(settings.COMPANIES_FILE)
-    matches: list[Job] = []
-    errors: list[str] = []
+
+@dataclass
+class Collection:
+    matches: list[Job] = field(default_factory=list)
+    errors: list[str] = field(default_factory=list)
+    n_enabled: int = 0
+    n_fetched: int = 0
+
+
+def _fetch_company(company: CompanyConfig) -> tuple[CompanyConfig, list[Job], str | None]:
+    """Fetch one company. Never raises — returns an error string instead so a
+    single bad board can't take down the run."""
+    fetch = adapters.get(company.adapter)
+    if fetch is None:
+        return company, [], f"unknown adapter '{company.adapter}'"
+    try:
+        return company, fetch(company), None
+    except Exception as exc:  # noqa: BLE001 - isolation is the whole point
+        return company, [], f"[{company.adapter}] {type(exc).__name__}: {exc}"
+
+
+def _passes_filters(job: Job) -> bool:
+    if not job.url:
+        return False
+    if not filters.matches(job, settings.ROLE_TYPES, settings.OFF_SEASON_ONLY):
+        return False
+    if settings.US_CANADA_ONLY and not filters.in_north_america(
+        job.location, settings.INCLUDE_UNKNOWN_LOCATIONS
+    ):
+        return False
+    if settings.MAX_AGE_DAYS > 0 and not filters.is_recent(job.posted_at, settings.MAX_AGE_DAYS):
+        return False
+    return True
+
+
+def collect_matches() -> Collection:
+    """Fetch all enabled companies in parallel, then filter + dedup in one place."""
+    enabled = [c for c in load_companies(settings.COMPANIES_FILE) if c.enabled]
+    result = Collection(n_enabled=len(enabled))
     seen_uids: set[str] = set()
 
-    enabled = [c for c in companies if c.enabled]
-    print(f"Checking {len(enabled)} enabled companies "
-          f"(roles={sorted(settings.ROLE_TYPES)}, off_season_only={settings.OFF_SEASON_ONLY}, "
-          f"us_canada_only={settings.US_CANADA_ONLY}, max_age_days={settings.MAX_AGE_DAYS})")
+    logger.info(
+        "Checking %d companies | roles=%s off_season=%s us_ca=%s max_age_days=%d concurrency=%d",
+        len(enabled), sorted(settings.ROLE_TYPES), settings.OFF_SEASON_ONLY,
+        settings.US_CANADA_ONLY, settings.MAX_AGE_DAYS, settings.CONCURRENCY,
+    )
 
-    for company in enabled:
-        fetch = adapters.get(company.adapter)
-        if fetch is None:
-            errors.append(f"{company.name}: unknown adapter '{company.adapter}'")
-            continue
-        try:
-            jobs = fetch(company)
-        except Exception as exc:  # one company must never kill the run
-            errors.append(f"{company.name} [{company.adapter}]: {type(exc).__name__}: {exc}")
-            continue
+    with cf.ThreadPoolExecutor(max_workers=settings.CONCURRENCY) as ex:
+        for company, jobs, error in ex.map(_fetch_company, enabled):
+            if error is not None:
+                result.errors.append(f"{company.name}: {error}")
+                logger.debug("%-18s ERROR %s", company.name, error)
+                continue
+            result.n_fetched += len(jobs)
+            hits = 0
+            for job in jobs:
+                if job.uid in seen_uids or not _passes_filters(job):
+                    continue
+                seen_uids.add(job.uid)
+                result.matches.append(job)
+                hits += 1
+            if hits:
+                logger.debug("%-18s %4d fetched -> %d match", company.name, len(jobs), hits)
 
-        hits = 0
-        for job in jobs:
-            if not job.url or job.uid in seen_uids:
-                continue
-            if not filters.matches(job, settings.ROLE_TYPES, settings.OFF_SEASON_ONLY):
-                continue
-            if settings.US_CANADA_ONLY and not filters.in_north_america(
-                job.location, settings.INCLUDE_UNKNOWN_LOCATIONS
-            ):
-                continue
-            if settings.MAX_AGE_DAYS > 0 and not filters.is_recent(
-                job.posted_at, settings.MAX_AGE_DAYS
-            ):
-                continue
-            seen_uids.add(job.uid)
-            matches.append(job)
-            hits += 1
-        print(f"  {company.name:<16} {len(jobs):>4} fetched  ->  {hits} match")
+    return result
 
-    return matches, errors
+
+def _maybe_health_alert(c: Collection) -> None:
+    """Warn on Discord if an unusually large share of companies failed this run."""
+    if c.n_enabled == 0:
+        return
+    rate = len(c.errors) / c.n_enabled
+    if rate >= settings.HEALTH_ALERT_THRESHOLD:
+        msg = (
+            f"⚠️ Scraper health: {len(c.errors)}/{c.n_enabled} companies errored "
+            f"this run ({rate:.0%}). Possible platform outage or a broken adapter. "
+            f"First few: " + "; ".join(c.errors[:3])
+        )
+        logger.warning(msg)
+        if not settings.DRY_RUN and settings.DISCORD_WEBHOOK_URL:
+            notify.notify_summary(msg)
 
 
 def run() -> int:
     if not settings.DISCORD_WEBHOOK_URL and not settings.DRY_RUN:
-        print("ERROR: DISCORD_WEBHOOK_URL is not set. "
-              "Set it in the environment (or use DRY_RUN=true to test).", file=sys.stderr)
+        logger.error("DISCORD_WEBHOOK_URL is not set (or use DRY_RUN=true to test).")
         return 2
 
     store = SeenStore(settings.STATE_FILE)
-    matches, errors = collect_matches()
+    c = collect_matches()
+    new_jobs = [j for j in c.matches if store.is_new(j.uid)]
 
-    new_jobs = [j for j in matches if store.is_new(j.uid)]
-    print(f"\n{len(matches)} matching role(s) total, {len(new_jobs)} new since last run.")
-
-    if errors:
-        print(f"\n{len(errors)} company error(s):")
-        for line in errors:
-            print(f"  ! {line}")
+    logger.info(
+        "%d match / %d new | %d fetched | %d errors",
+        len(c.matches), len(new_jobs), c.n_fetched, len(c.errors),
+    )
+    if c.errors:
+        for line in c.errors:
+            logger.debug("  ! %s", line)
+    _maybe_health_alert(c)
 
     first_run = not store.existed
     for job in new_jobs:
         store.add(job.uid, job.title, job.company, job.url, job.posted_at)
 
     if first_run and settings.SEED_QUIETLY:
-        # Don't blast hundreds of already-open roles on the first run.
-        print("First run: seeding state quietly (no per-job pings).")
+        logger.info("First run: seeding %d roles quietly (no per-job pings).", len(new_jobs))
         if not settings.DRY_RUN:
             notify.notify_summary(
-                f"✅ Internship Radar is live. Tracking is on — seeded "
-                f"{len(new_jobs)} currently-open matching role(s). "
-                f"You'll get pinged when *new* ones drop."
+                f"✅ Internship Radar is live — seeded {len(new_jobs)} currently-open "
+                f"role(s). You'll get pinged when new ones drop."
             )
             store.save()
         return 0
 
     to_send = new_jobs[: settings.MAX_NOTIFICATIONS_PER_RUN]
     if len(new_jobs) > len(to_send):
-        print(f"Capping notifications at {settings.MAX_NOTIFICATIONS_PER_RUN} "
-              f"(had {len(new_jobs)}).")
+        logger.warning("Capping notifications at %d (had %d).",
+                       settings.MAX_NOTIFICATIONS_PER_RUN, len(new_jobs))
 
     if settings.DRY_RUN:
-        print("\n[DRY_RUN] Would notify about:")
         for j in to_send:
-            print(f"  - {j.company}: {j.title}  {j.url}")
+            logger.info("[DRY_RUN] would notify: %s — %s  %s", j.company, j.title, j.url)
         return 0
 
     if to_send:
         notify.notify_jobs(to_send)
+        logger.info("Sent %d notification(s).", len(to_send))
     if new_jobs:  # only rewrite state when something actually changed
         store.save()
-    print("Done.")
     return 0
 
 
@@ -111,7 +148,7 @@ def main() -> int:
     try:
         return run()
     except Exception:
-        traceback.print_exc()
+        logger.exception("Unhandled error during run")
         return 1
 
 

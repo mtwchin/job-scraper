@@ -91,6 +91,30 @@ state; after that you only get pinged on new postings.
 
 ---
 
+## Commands
+
+Install once (`pip install -e .`) to get a `jobscraper` command, or use
+`python -m jobscraper <cmd>`:
+
+| Command | What it does |
+|---------|--------------|
+| `jobscraper run` | Fetch all companies (in parallel), filter, dedup, notify. The scheduled command. |
+| `jobscraper list [--disabled]` | Show tracked companies and the adapter breakdown. |
+| `jobscraper audit` | Freshness report — catch latency of past alerts (see below). |
+| `jobscraper discover <name\|url>` | Detect a company's ATS config to add/fix it. |
+| `jobscraper test-webhook` | Send a test message to confirm your Discord webhook works. |
+
+Run fetches companies concurrently (`CONCURRENCY`, default 12), so ~136 companies
+complete in ~25–30 s rather than minutes. Logs are structured (`LOG_LEVEL=DEBUG`
+for per-company detail), and if a large share of companies error in one run
+(`HEALTH_ALERT_THRESHOLD`) it posts a Discord heads-up so a systemic break — a
+platform outage or a shipped bug — doesn't fail silently.
+
+`pytest` covers the filter and config logic and runs in CI (`.github/workflows/
+tests.yml`) on every push.
+
+---
+
 ## Tuning
 
 Set these as env vars (locally) or edit the `env:` block in the workflow:
@@ -105,6 +129,9 @@ Set these as env vars (locally) or edit the `env:` block in the workflow:
 | `DRY_RUN`           | `false`            | `true` = print only, never send/save.              |
 | `SEED_QUIETLY`      | `true`             | `true` = first run seeds silently.                 |
 | `MAX_NOTIFICATIONS_PER_RUN` | `60`       | Safety cap per run.                                |
+| `CONCURRENCY`       | `12`               | Companies fetched in parallel.                     |
+| `HEALTH_ALERT_THRESHOLD` | `0.25`        | Discord heads-up if this share of companies error. |
+| `LOG_LEVEL`         | `INFO`             | `DEBUG` shows per-company fetch/error lines.        |
 
 **Location filter** (`US_CANADA_ONLY`): a role is kept if its location names a US
 state/Canadian province, a US/Canada city, `US-`/`CA-` prefix, or "United

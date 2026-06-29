@@ -37,7 +37,7 @@ jobs:
           OFF_SEASON_ONLY: "true"
           US_CANADA_ONLY: "true"   # only roles in the US or Canada
           MAX_AGE_DAYS: "1"        # only roles posted within the last day (newly-posted only)
-        run: python -m jobscraper
+        run: python -m jobscraper run
 
       - name: Persist seen-jobs state
         run: |

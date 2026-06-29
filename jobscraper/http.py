@@ -1,18 +1,23 @@
-"""Shared requests session with sane defaults and light retry."""
+"""HTTP helper with per-thread sessions, sane defaults, and light retry.
+
+Sessions are thread-local because the scraper fetches companies concurrently and
+requests.Session's connection pool is not safe to share across threads.
+"""
 from __future__ import annotations
 
+import threading
 import time
 
 import requests
 
 from . import settings
 
-_session: requests.Session | None = None
+_local = threading.local()
 
 
 def session() -> requests.Session:
-    global _session
-    if _session is None:
+    s = getattr(_local, "session", None)
+    if s is None:
         s = requests.Session()
         s.headers.update(
             {
@@ -21,8 +26,8 @@ def session() -> requests.Session:
                 "Accept-Language": "en-US,en;q=0.9",
             }
         )
-        _session = s
-    return _session
+        _local.session = s
+    return s
 
 
 def request(method: str, url: str, *, retries: int = 2, **kwargs) -> requests.Response:

@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "internship-radar"
+version = "1.0.0"
+description = "Polls top tech companies' career APIs and alerts Discord on new SWE intern / new-grad roles."
+requires-python = ">=3.10"
+dependencies = ["requests>=2.31.0"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+jobscraper = "jobscraper.cli:main"
+
+[tool.setuptools]
+packages = ["jobscraper", "jobscraper.adapters"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

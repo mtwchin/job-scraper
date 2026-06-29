@@ -64,3 +64,11 @@ USER_AGENT = os.environ.get(
 MAX_EMBEDS_PER_MESSAGE = 10
 # Safety valve: never send more than this many new jobs in one run.
 MAX_NOTIFICATIONS_PER_RUN = int(os.environ.get("MAX_NOTIFICATIONS_PER_RUN", "60"))
+
+# --- Scale & health --------------------------------------------------------
+# How many companies to fetch in parallel. Different companies are on different
+# hosts, so this doesn't hammer any single API.
+CONCURRENCY = int(os.environ.get("CONCURRENCY", "12"))
+# If this fraction of companies error in a single run, post a Discord heads-up —
+# a systemic break (a platform outage, a shipped bug) rather than one stale board.
+HEALTH_ALERT_THRESHOLD = float(os.environ.get("HEALTH_ALERT_THRESHOLD", "0.25"))
