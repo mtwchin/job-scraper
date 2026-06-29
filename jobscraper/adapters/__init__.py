@@ -12,6 +12,7 @@ REGISTRY: dict[str, FetchFn] = {
     "greenhouse": ats.fetch_greenhouse,
     "lever": ats.fetch_lever,
     "workday": ats.fetch_workday,
+    "eightfold": ats.fetch_eightfold,
     "ashby": ashby.fetch,
     "amazon": amazon.fetch,
     "microsoft": microsoft.fetch,

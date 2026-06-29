@@ -1,8 +1,15 @@
-"""Generic adapters for the big shared ATS platforms: Greenhouse, Lever, Workday."""
+"""Generic adapters for shared ATS platforms: Greenhouse, Lever, Ashby, Workday, Eightfold."""
 from __future__ import annotations
 
 from .. import http
 from ..models import CompanyConfig, Job
+
+_ROLE_QUERIES = (
+    "software engineer intern",
+    "software engineer new grad",
+    "software engineer graduate",
+    "software developer intern",
+)
 
 
 # --------------------------------------------------------------------------- #
@@ -122,5 +129,45 @@ def fetch_workday(company: CompanyConfig) -> list[Job]:
                 )
             offset += _WORKDAY_PAGE
             if offset >= data.get("total", 0):
+                break
+    return list(jobs.values())
+
+
+# --------------------------------------------------------------------------- #
+# Eightfold:  GET https://<host>/api/apply/v2/jobs?domain=<domain>&query=...
+# --------------------------------------------------------------------------- #
+def fetch_eightfold(company: CompanyConfig) -> list[Job]:
+    host = company.params.get("host")
+    domain = company.params.get("domain")
+    if not (host and domain):
+        raise ValueError("eightfold adapter requires config 'host=;domain='")
+    api = f"https://{host}/api/apply/v2/jobs"
+    jobs: dict[str, Job] = {}
+    for query in _ROLE_QUERIES:
+        start = 0
+        while start < 200:
+            resp = http.get(
+                api,
+                params={"domain": domain, "query": query, "start": start, "num": 50},
+                retries=1, timeout=20,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+            positions = data.get("positions", [])
+            if not positions:
+                break
+            for p in positions:
+                pid = str(p.get("id"))
+                locs = p.get("locations") or ([p["location"]] if p.get("location") else [])
+                jobs[pid] = Job(
+                    company=company.name,
+                    job_id=pid,
+                    title=p.get("name", ""),
+                    url=p.get("canonicalPositionUrl", ""),
+                    location=", ".join(locs),
+                    posted_at=str(p.get("t_create", "")),  # unix seconds
+                )
+            start += 50
+            if start >= data.get("count", 0):
                 break
     return list(jobs.values())

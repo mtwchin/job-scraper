@@ -12,11 +12,13 @@ class Job:
     url: str
     location: str = ""
     posted_at: str = ""  # free-form, whatever the source gives us
+    source: str = ""     # "" for direct API, "simplify" for the aggregator
 
     @property
     def uid(self) -> str:
         """Globally unique, stable key used for dedup."""
-        return f"{self.company.lower()}::{self.job_id}"
+        prefix = f"{self.source}:" if self.source else ""
+        return f"{prefix}{self.company.lower()}::{self.job_id}"
 
 
 @dataclass

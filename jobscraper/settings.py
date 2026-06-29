@@ -72,3 +72,15 @@ CONCURRENCY = int(os.environ.get("CONCURRENCY", "12"))
 # If this fraction of companies error in a single run, post a Discord heads-up —
 # a systemic break (a platform outage, a shipped bug) rather than one stale board.
 HEALTH_ALERT_THRESHOLD = float(os.environ.get("HEALTH_ALERT_THRESHOLD", "0.25"))
+
+# --- Simplify aggregator source --------------------------------------------
+# Also pull from SimplifyJobs' community GitHub listing repos and alert on new
+# postings whose company is in companies.md. This adds coverage — including for
+# the disabled custom-site companies (Apple, Meta, Tesla, …) that we can't scrape
+# directly but Simplify often lists.
+SIMPLIFY_ENABLED = os.environ.get("SIMPLIFY_ENABLED", "true").lower() in {"1", "true", "yes"}
+# (repo, branch) pairs on github.com/SimplifyJobs.
+SIMPLIFY_REPOS = [
+    ("Summer2026-Internships", "dev"),
+    ("New-Grad-Positions", "dev"),
+]

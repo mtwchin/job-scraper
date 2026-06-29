@@ -43,6 +43,51 @@ def _cmd_audit(_args) -> int:
     return audit_main()
 
 
+def _cmd_doctor(_args) -> int:
+    """Health-check every enabled company: which can actually produce alerts?"""
+    import concurrent.futures as cf
+
+    from . import filters
+    from .companies import load_companies
+    from .main import _fetch_company
+
+    enabled = [c for c in load_companies(settings.COMPANIES_FILE) if c.enabled]
+    dead, silent, healthy = [], [], 0
+    with cf.ThreadPoolExecutor(max_workers=settings.CONCURRENCY) as ex:
+        for company, jobs, err in ex.map(_fetch_company, enabled):
+            if err:
+                dead.append(f"{company.name}: {err}")
+                continue
+            if not jobs:
+                dead.append(f"{company.name}: 0 jobs fetched (check token/slug/config)")
+                continue
+            # matches ignoring recency — "could this company ever alert?"
+            m = sum(
+                1 for j in jobs
+                if filters.matches(j, settings.ROLE_TYPES, settings.OFF_SEASON_ONLY)
+                and (not settings.US_CANADA_ONLY
+                     or filters.in_north_america(j.location, settings.INCLUDE_UNKNOWN_LOCATIONS))
+            )
+            if m == 0:
+                silent.append(f"{company.name} ({len(jobs)} jobs, none SWE+US/CA right now)")
+            else:
+                healthy += 1
+
+    print(f"\n{len(enabled)} enabled companies checked:\n")
+    print(f"  ✅ {healthy} have matching roles open now (will alert when one is fresh)")
+    print(f"  🟡 {len(silent)} fetch fine but have no SWE+US/CA role right now")
+    print(f"  ❌ {len(dead)} BROKEN — fetch nothing/error, can never alert\n")
+    if dead:
+        print("BROKEN (fix these — likely a bad token/slug):")
+        for d in dead:
+            print(f"  ❌ {d}")
+    if silent:
+        print("\nNo matching role at the moment (usually fine — off-season):")
+        for s in silent[:40]:
+            print(f"  🟡 {s}")
+    return 1 if dead else 0
+
+
 def _cmd_discover(args) -> int:
     from .discover import main as discover_main
     return discover_main(args.target)
@@ -71,6 +116,9 @@ def build_parser() -> argparse.ArgumentParser:
     pl.set_defaults(fn=_cmd_list)
 
     sub.add_parser("audit", help="freshness report of past alerts").set_defaults(fn=_cmd_audit)
+
+    sub.add_parser("doctor", help="health-check companies: which can produce alerts?").set_defaults(
+        fn=_cmd_doctor)
 
     pd = sub.add_parser("discover", help="detect a company's ATS config")
     pd.add_argument("target", nargs="+", help="company name(s) or careers URL(s)")

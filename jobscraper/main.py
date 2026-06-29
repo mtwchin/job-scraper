@@ -75,7 +75,29 @@ def collect_matches() -> Collection:
             if hits:
                 logger.debug("%-18s %4d fetched -> %d match", company.name, len(jobs), hits)
 
+    _collect_simplify(result, seen_uids)
     return result
+
+
+def _collect_simplify(result: Collection, seen_uids: set[str]) -> None:
+    """Add matches from the SimplifyJobs aggregator (covers disabled companies too)."""
+    if not settings.SIMPLIFY_ENABLED:
+        return
+    from .sources import simplify
+    try:
+        listings = simplify.fetch()
+    except Exception as exc:  # noqa: BLE001
+        result.errors.append(f"Simplify: {type(exc).__name__}: {exc}")
+        return
+    result.n_fetched += len(listings)
+    hits = 0
+    for job in listings:
+        if job.uid in seen_uids or not _passes_filters(job):
+            continue
+        seen_uids.add(job.uid)
+        result.matches.append(job)
+        hits += 1
+    logger.info("Simplify: %d listings from tracked companies -> %d match", len(listings), hits)
 
 
 def _maybe_health_alert(c: Collection) -> None:

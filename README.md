@@ -34,6 +34,7 @@ companies.md  ──►  per-company adapter  ──►  filter (SWE + intern/ne
 | `lever`      | api.lever.co                    | `slug=<company_slug>`                 |
 | `ashby`      | api.ashbyhq.com                 | `slug=<company_slug>`                 |
 | `workday`    | *.myworkdayjobs.com             | `host=;tenant=;site=` (deep paginated) |
+| `eightfold`  | *.eightfold.ai / careers hosts  | `host=;domain=`                       |
 | `amazon`     | amazon.jobs                     | — (custom)                            |
 | `google`     | google.com/about/careers        | — (custom, scrapes results page)      |
 | `meta`       | metacareers.com GraphQL         | — (custom, **disabled**, doc_id rotates) |
@@ -101,8 +102,15 @@ Install once (`pip install -e .`) to get a `jobscraper` command, or use
 | `jobscraper run` | Fetch all companies (in parallel), filter, dedup, notify. The scheduled command. |
 | `jobscraper list [--disabled]` | Show tracked companies and the adapter breakdown. |
 | `jobscraper audit` | Freshness report — catch latency of past alerts (see below). |
+| `jobscraper doctor` | Health-check every company: which can produce alerts, which are broken. |
 | `jobscraper discover <name\|url>` | Detect a company's ATS config to add/fix it. |
 | `jobscraper test-webhook` | Send a test message to confirm your Discord webhook works. |
+
+**`doctor`** is the tool for "are all my companies actually working?" It flags
+companies that fetch nothing (a broken token — can never alert), separately from
+companies that fetch fine but happen to have no matching role open right now
+(normal, especially off-season). Most runs alerting on few roles is expected: at
+any moment only a handful of companies have a *fresh* (<24 h) US/CA SWE role.
 
 Run fetches companies concurrently (`CONCURRENCY`, default 12), so ~136 companies
 complete in ~25–30 s rather than minutes. Logs are structured (`LOG_LEVEL=DEBUG`
@@ -239,6 +247,22 @@ instead of scraping arbitrary HTML — that's why the 130+ enabled companies are
 reliable and the disabled ones aren't. Adding a new *platform* adapter (e.g.
 SmartRecruiters, iCIMS, Eightfold) is the scalable way to unlock more companies;
 chasing individual custom sites is not.
+
+…but the **Simplify source closes much of that gap anyway** (see below).
+
+## Extra source: the Simplify aggregator
+
+On top of the direct APIs, the run also pulls
+[SimplifyJobs](https://github.com/SimplifyJobs)' community listing repos
+(`Summer2026-Internships`, `New-Grad-Positions`) and alerts on new postings whose
+company is in `companies.md`. Why it matters:
+
+- **It covers the disabled custom-site companies.** Simplify currently lists
+  hundreds of roles from companies we can't scrape directly — Tesla, Apple,
+  ByteDance, Oracle, etc. — so those now produce alerts too.
+- Same role/location/recency filters apply, so it only adds *fresh* matches, and
+  dedup means a role found both directly and via Simplify won't double-alert.
+- These alerts carry a **"via Simplify"** footer. Toggle with `SIMPLIFY_ENABLED`.
 
 ## Scheduling reality check
 

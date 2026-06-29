@@ -30,7 +30,7 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Meta           | meta       |                                                                    | no  | GraphQL doc_id rotates; needs maintenance to re-enable |
 | Microsoft      | microsoft  |                                                                    | no  | Old gcsservices API is dead (cert/host gone). Needs a new endpoint |
 | Apple          | apple      |                                                                    | no  | jobs.apple.com needs a JS-rendered CSRF token; not scrapable headless |
-| Netflix        | lever      | slug=netflix                                                       | yes | Verified |
+| Netflix        | eightfold  | host=explore.jobs.netflix.net;domain=netflix.com                   | yes | Verified (moved off Lever to Eightfold) |
 | Palantir       | lever      | slug=palantir                                                      | yes | Verified |
 | Plaid          | ashby      | slug=plaid                                                         | yes | Verified |
 | OpenAI         | ashby      | slug=openai                                                        | yes | Verified |

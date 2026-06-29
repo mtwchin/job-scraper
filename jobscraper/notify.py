@@ -36,13 +36,16 @@ def _embed(job: Job) -> dict:
         fields.append({"name": "📍 Location", "value": job.location[:1024], "inline": True})
     if (posted := _posted_field(job)):
         fields.append(posted)
-    return {
+    embed = {
         "title": job.title[:256],
         "url": job.url,
         "color": color,
         "author": {"name": job.company[:256]},
         "fields": fields,
     }
+    if job.source == "simplify":
+        embed["footer"] = {"text": "via Simplify"}
+    return embed
 
 
 def _post(payload: dict) -> None:
