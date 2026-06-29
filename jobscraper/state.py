@@ -22,11 +22,12 @@ class SeenStore:
     def is_new(self, uid: str) -> bool:
         return uid not in self._seen
 
-    def add(self, uid: str, title: str, company: str, url: str) -> None:
+    def add(self, uid: str, title: str, company: str, url: str, posted_at: str = "") -> None:
         self._seen[uid] = {
             "title": title,
             "company": company,
             "url": url,
+            "posted_at": posted_at,  # the board's posting time, for freshness auditing
             "first_seen": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         }
 

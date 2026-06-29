@@ -166,6 +166,35 @@ is wrong — fix it in `companies.md`.
 
 ---
 
+## How do I know alerts are actually fresh (not old jobs newly surfaced)?
+
+Three layers:
+
+1. **Per alert — the 🕐 Posted field.** Every notification shows the real posting
+   time. For most boards it's a live "Posted 6 minutes ago" — that *is* the proof
+   the posting is fresh, not just newly seen by a cron run.
+2. **The guarantee — `MAX_AGE_DAYS=1`.** Even if an old job is "new to us" (e.g. a
+   board gets added, or a role re-appears with a new id), it won't alert unless its
+   *posting date* is within 24 h. Dedup stops repeats; this stops stale surfacing.
+3. **Audit the history — `python -m jobscraper.audit`.** For every job alerted, it
+   reports the **catch latency** (time between the board posting it and us alerting):
+
+   ```
+   Most recent alerts — 'caught after' = time between posting and our alert:
+     caught after   company          title
+               2m   Stripe           Software Engineer, New Grad
+               1.0h Ramp             New Grad SWE
+   Freshness of N audited alerts:
+     caught within 1 hour of posting : .../...  (XX%)
+     caught within 24 hours          : .../...  (100%)
+     ✅ Every alert was for a posting newer than 24h. Working as intended.
+   ```
+
+   Small latencies = you're catching genuinely new postings. Any row >24 h gets a
+   ⚠️ STALE flag (the only way that happens is a board that exposes no posting date
+   — currently just Google — where freshness relies on dedup alone). Posting times
+   are recorded from now on, so the audit fills in as new alerts arrive.
+
 ## Why some stay disabled
 
 A company is `On=no` when it has **no clean public job API**:

@@ -74,7 +74,7 @@ def run() -> int:
 
     first_run = not store.existed
     for job in new_jobs:
-        store.add(job.uid, job.title, job.company, job.url)
+        store.add(job.uid, job.title, job.company, job.url, job.posted_at)
 
     if first_run and settings.SEED_QUIETLY:
         # Don't blast hundreds of already-open roles on the first run.
