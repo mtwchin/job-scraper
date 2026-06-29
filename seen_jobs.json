@@ -1,5 +1,5 @@
 {
-  "count": 214,
+  "count": 218,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -592,6 +592,20 @@
       "title": "Software Engineering Intern (Summer 2026)",
       "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1"
     },
+    "seatgeek::7858968": {
+      "company": "SeatGeek",
+      "first_seen": "2026-06-29T20:35:16+00:00",
+      "posted_at": "2026-06-11T16:23:10-04:00",
+      "title": "Software Engineer - New Grad",
+      "url": "https://seatgeek.com/jobs/7858968?gh_jid=7858968"
+    },
+    "sigma computing::7690411003": {
+      "company": "Sigma Computing",
+      "first_seen": "2026-06-29T20:35:16+00:00",
+      "posted_at": "2026-04-06T01:37:45-04:00",
+      "title": "Software Engineer (New Grad Program)",
+      "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003"
+    },
     "simplify:affirm::simplify-3d6d6af9-2d80-47cd-bab7-3de78427877d": {
       "company": "Affirm",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -1040,6 +1054,20 @@
       "title": "Software Engineer Intern - Backend Focused",
       "url": "https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484"
     },
+    "simplify:seatgeek::simplify-497ebde0-832e-47ef-be0f-4960afd0a13a": {
+      "company": "SeatGeek",
+      "first_seen": "2026-06-29T20:35:16+00:00",
+      "posted_at": "1777327676",
+      "title": "Software Engineer \u2013 New Grad",
+      "url": "https://seatgeek.com/jobs/7858968?gh_jid=7858968"
+    },
+    "simplify:sigma computing::simplify-f0c09f25-6461-4b5e-8bce-950aa917c086": {
+      "company": "Sigma Computing",
+      "first_seen": "2026-06-29T20:35:16+00:00",
+      "posted_at": "1775456189",
+      "title": "Software Engineer New Grad",
+      "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003"
+    },
     "simplify:skydio::simplify-2b1522e6-dea2-45f4-ad2e-0ffa0f132863": {
       "company": "Skydio",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -1440,5 +1468,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-06-29T20:24:39+00:00"
+  "updated_at": "2026-06-29T20:35:16+00:00"
 }
