@@ -60,6 +60,21 @@ def fetch_lever(company: CompanyConfig) -> list[Job]:
 # --------------------------------------------------------------------------- #
 # Workday:  POST https://<host>/wday/cxs/<tenant>/<site>/jobs
 # --------------------------------------------------------------------------- #
+# Workday boards hold thousands of roles, so instead of grabbing the first page
+# of everything we run several targeted searches (each returns a small, fully
+# paginatable set) and merge. This reliably surfaces the intern/new-grad roles we
+# care about instead of truncating at an arbitrary 40.
+_WORKDAY_QUERIES = (
+    "software engineer intern",
+    "software engineer new grad",
+    "software engineer graduate",
+    "software developer intern",
+    "early career software",
+)
+_WORKDAY_PAGE = 20
+_WORKDAY_MAX_PER_QUERY = 200
+
+
 def fetch_workday(company: CompanyConfig) -> list[Job]:
     host = company.params.get("host")
     tenant = company.params.get("tenant")
@@ -69,36 +84,41 @@ def fetch_workday(company: CompanyConfig) -> list[Job]:
 
     api = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
     headers = {"Content-Type": "application/json", "Accept": "application/json"}
-    jobs: list[Job] = []
-    offset = 0
-    # Pull a couple of pages of most-recent postings.
-    for _ in range(2):
-        body = {
-            "appliedFacets": {},
-            "limit": 20,
-            "offset": offset,
-            "searchText": "software engineer",
-        }
-        resp = http.post(api, json=body, headers=headers)
-        resp.raise_for_status()
-        data = resp.json()
-        postings = data.get("jobPostings", [])
-        if not postings:
-            break
-        for p in postings:
-            ext = p.get("externalPath", "")
-            url = f"https://{host}{ext}" if ext else ""
-            jobs.append(
-                Job(
+    jobs: dict[str, Job] = {}
+
+    for query in _WORKDAY_QUERIES:
+        offset = 0
+        while offset < _WORKDAY_MAX_PER_QUERY:
+            body = {
+                "appliedFacets": {},
+                "limit": _WORKDAY_PAGE,
+                "offset": offset,
+                "searchText": query,
+            }
+            # Bound time so one slow Workday host can't stall the whole run
+            # (a failure here is caught per-company by main.py).
+            resp = http.post(api, json=body, headers=headers, retries=1, timeout=20)
+            resp.raise_for_status()
+            data = resp.json()
+            postings = data.get("jobPostings", [])
+            if not postings:
+                break
+            for p in postings:
+                ext = p.get("externalPath", "")
+                url = f"https://{host}{ext}" if ext else ""
+                # externalPath is unique + stable; prefer it as the id.
+                jid = ext.rsplit("/", 1)[-1] if ext else str(
+                    (p.get("bulletFields") or [p.get("title")])[0]
+                )
+                jobs[jid] = Job(
                     company=company.name,
-                    job_id=str(p.get("bulletFields", [p.get("title")])[0] or ext),
+                    job_id=jid,
                     title=p.get("title", ""),
                     url=url,
                     location=p.get("locationsText", ""),
                     posted_at=p.get("postedOn", ""),
                 )
-            )
-        offset += 20
-        if offset >= data.get("total", 0):
-            break
-    return jobs
+            offset += _WORKDAY_PAGE
+            if offset >= data.get("total", 0):
+                break
+    return list(jobs.values())

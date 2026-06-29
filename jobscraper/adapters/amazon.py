@@ -10,7 +10,13 @@ SEARCH = "https://www.amazon.jobs/en/search.json"
 def fetch(company: CompanyConfig) -> list[Job]:
     jobs: dict[str, Job] = {}
     # Query a few keyword slices and merge; category narrows to software roles.
-    for query in ("software engineer intern", "software development engineer graduate"):
+    # Amazon titles use "SDE" / "Software Development Engineer", so cover both.
+    for query in (
+        "software development engineer intern",
+        "software engineer intern",
+        "software development engineer graduate",
+        "software engineer new grad",
+    ):
         params = {
             "base_query": query,
             "category[]": "software-development",

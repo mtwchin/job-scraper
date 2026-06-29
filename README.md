@@ -33,7 +33,7 @@ companies.md  ──►  per-company adapter  ──►  filter (SWE + intern/ne
 | `greenhouse` | boards-api.greenhouse.io        | `token=<board_token>`                 |
 | `lever`      | api.lever.co                    | `slug=<company_slug>`                 |
 | `ashby`      | api.ashbyhq.com                 | `slug=<company_slug>`                 |
-| `workday`    | *.myworkdayjobs.com             | `host=;tenant=;site=`                 |
+| `workday`    | *.myworkdayjobs.com             | `host=;tenant=;site=` (deep paginated) |
 | `amazon`     | amazon.jobs                     | — (custom)                            |
 | `google`     | google.com/about/careers        | — (custom, scrapes results page)      |
 | `meta`       | metacareers.com GraphQL         | — (custom, **disabled**, doc_id rotates) |
