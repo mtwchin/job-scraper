@@ -179,7 +179,7 @@ A company is `On=no` when it has **no clean public job API**:
   just need the right URL. Run `discover` on the board URL to wire them up.
 
 The scraper deliberately targets **known ATS platforms with stable JSON APIs**
-instead of scraping arbitrary HTML — that's why the 60+ enabled companies are
+instead of scraping arbitrary HTML — that's why the 130+ enabled companies are
 reliable and the disabled ones aren't. Adding a new *platform* adapter (e.g.
 SmartRecruiters, iCIMS, Eightfold) is the scalable way to unlock more companies;
 chasing individual custom sites is not.

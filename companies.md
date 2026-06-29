@@ -128,3 +128,92 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Intuit         | workday    | host=intuit.wd1.myworkdayjobs.com;tenant=intuit;site=External      | no  | Workday config returns 401; verify site/tenant |
 | Cisco          | workday    | host=cisco.wd5.myworkdayjobs.com;tenant=cisco;site=Cisco_Careers    | yes | Verified (covers Splunk too) |
 | Uber           | workday    | host=uber.wd1.myworkdayjobs.com;tenant=uber;site=External          | no  | Workday config 422; verify site/tenant |
+
+## Expanded list — additional high-prestige companies (verified via bulk ATS probe)
+
+### AI labs / ML
+| Mistral AI     | lever      | slug=mistral                                                       | yes | Verified |
+| Perplexity     | ashby      | slug=perplexity                                                    | yes | Verified |
+| Together AI    | greenhouse | token=togetherai                                                   | yes | Verified |
+| Runway         | ashby      | slug=runway                                                        | yes | Verified |
+| Character AI   | ashby      | slug=character                                                     | yes | Verified |
+| Sierra         | ashby      | slug=sierra                                                        | yes | Verified |
+| Harvey         | ashby      | slug=harvey                                                        | yes | Verified |
+| Cresta         | greenhouse | token=cresta                                                       | yes | Verified |
+| ElevenLabs     | ashby      | slug=elevenlabs                                                    | yes | Verified |
+| Stability AI   | greenhouse | token=stabilityai                                                  | yes | Verified |
+| Decagon        | ashby      | slug=decagon                                                       | yes | Verified |
+| Cognition      | ashby      | slug=cognition                                                     | yes | Verified |
+| Thinking Machines | greenhouse | token=thinkingmachines                                          | yes | Verified |
+| Imbue          | greenhouse | token=imbue                                                        | yes | Verified |
+| Suno           | ashby      | slug=suno                                                          | yes | Verified |
+| World Labs     | greenhouse | token=worldlabs                                                    | yes | Verified |
+| Physical Intelligence | ashby | slug=physicalintelligence                                       | yes | Verified |
+
+### Dev tools / infra / data
+| Confluent      | ashby      | slug=confluent                                                     | yes | Verified |
+| Cockroach Labs | greenhouse | token=cockroachlabs                                                | yes | Verified |
+| PlanetScale    | greenhouse | token=planetscale                                                  | yes | Verified |
+| Supabase       | ashby      | slug=supabase                                                      | yes | Verified |
+| Vercel         | greenhouse | token=vercel                                                       | yes | Verified |
+| Netlify        | greenhouse | token=netlify                                                      | yes | Verified |
+| Temporal       | ashby      | slug=temporal                                                      | yes | Verified |
+| Airbyte        | ashby      | slug=airbyte                                                       | yes | Verified |
+| Fivetran       | greenhouse | token=fivetran                                                     | yes | Verified |
+| Replit         | ashby      | slug=replit                                                        | yes | Verified |
+| GitLab         | greenhouse | token=gitlab                                                       | yes | Verified |
+| Postman        | greenhouse | token=postman                                                      | yes | Verified |
+| Grafana Labs   | greenhouse | token=grafanalabs                                                  | yes | Verified |
+| Linear         | ashby      | slug=linear                                                        | yes | Verified |
+| Webflow        | greenhouse | token=webflow                                                      | yes | Verified |
+| Zapier         | ashby      | slug=zapier                                                        | yes | Verified |
+| Miro           | ashby      | slug=miro                                                          | yes | Verified |
+| Workday        | workday    | host=workday.wd5.myworkdayjobs.com;tenant=workday;site=Workday     | yes | Verified |
+
+### Fintech / crypto
+| Mercury        | greenhouse | token=mercury                                                      | yes | Verified |
+| Modern Treasury | ashby     | slug=moderntreasury                                                | yes | Verified |
+| Gusto          | greenhouse | token=gusto                                                        | yes | Verified |
+| Chime          | greenhouse | token=chime                                                        | yes | Verified |
+| Marqeta        | greenhouse | token=marqeta                                                      | yes | Verified |
+| Checkr         | greenhouse | token=checkr                                                       | yes | Verified |
+| Carta          | greenhouse | token=carta                                                        | yes | Verified |
+| Anchorage Digital | lever   | slug=anchorage                                                     | yes | Verified |
+| Gemini         | greenhouse | token=gemini                                                       | yes | Verified |
+| Fireblocks     | greenhouse | token=fireblocks                                                   | yes | Verified |
+| Faire          | greenhouse | token=faire                                                        | yes | Verified |
+
+### Security
+| 1Password      | ashby      | slug=1password                                                     | yes | Verified |
+| Abnormal Security | greenhouse | token=abnormalsecurity                                          | yes | Verified |
+| Zscaler        | greenhouse | token=zscaler                                                      | yes | Verified |
+| Tailscale      | greenhouse | token=tailscale                                                    | yes | Verified |
+| Verkada        | greenhouse | token=verkada                                                      | yes | Verified |
+
+### Robotics / space / autonomy
+| Applied Intuition | ashby   | slug=applied                                                       | yes | Verified |
+| Astranis       | greenhouse | token=astranis                                                     | yes | Verified |
+| Relativity Space | greenhouse | token=relativity                                                 | yes | Verified |
+| Rocket Lab     | greenhouse | token=rocketlab                                                    | yes | Verified |
+| Waymo          | greenhouse | token=waymo                                                        | yes | Verified |
+| Nuro           | greenhouse | token=nuro                                                         | yes | Verified |
+| Zoox           | lever      | slug=zoox                                                          | yes | Verified |
+| Skydio         | ashby      | slug=skydio                                                        | yes | Verified |
+| Shield AI      | lever      | slug=shieldai                                                      | yes | Verified |
+
+### Quant / trading
+| Point72        | greenhouse | token=point72                                                      | yes | Verified |
+| Tower Research | greenhouse | token=towerresearchcapital                                         | yes | Verified |
+| Virtu Financial | greenhouse | token=virtu                                                       | yes | Verified |
+| Chicago Trading | greenhouse | token=chicagotrading                                              | yes | Verified |
+| Old Mission    | greenhouse | token=oldmissioncapital                                            | yes | Verified |
+| Squarepoint    | greenhouse | token=squarepointcapital                                           | yes | Verified |
+| PDT Partners   | greenhouse | token=pdtpartners                                                  | yes | Verified |
+| Vatic Labs     | greenhouse | token=vaticlabs                                                    | yes | Verified |
+| Belvedere Trading | lever   | slug=belvederetrading                                              | yes | Verified |
+| Cubist         | ashby      | slug=cubist                                                        | yes | Verified (Point72 quant arm) |
+
+### Consumer
+| Strava         | ashby      | slug=strava                                                        | yes | Verified |
+| Patreon        | ashby      | slug=patreon                                                       | yes | Verified |
+| Substack       | ashby      | slug=substack                                                      | yes | Verified |
