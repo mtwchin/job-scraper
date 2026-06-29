@@ -38,10 +38,11 @@ INCLUDE_UNKNOWN_LOCATIONS = os.environ.get(
 
 # --- Recency: only genuinely NEW listings ----------------------------------
 # Only alert on roles posted within this many days. 0 disables the check.
-# Layered on top of dedup: dedup stops repeats, this stops stale postings that
-# re-appear with a new id or get surfaced when a board is first added.
+# Layered on top of dedup: dedup is what makes "new" mean "appeared since the
+# last run (~10 min ago)"; this guard stops stale postings that re-appear with a
+# new id or get surfaced when a board is first added, so notifications stay fresh.
 # Roles whose posting date can't be parsed are kept (never dropped on a guess).
-MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS", "7"))
+MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS", "3"))
 
 # --- Behavior --------------------------------------------------------------
 # Print what would be sent, don't actually call Discord and don't save state.

@@ -101,7 +101,7 @@ Set these as env vars (locally) or edit the `env:` block in the workflow:
 | `OFF_SEASON_ONLY`   | `true`             | `true` drops summer-only internships.              |
 | `US_CANADA_ONLY`    | `true`             | `true` keeps only US/Canada roles.                 |
 | `INCLUDE_UNKNOWN_LOCATIONS` | `true`     | Keep roles with no/ambiguous location.             |
-| `MAX_AGE_DAYS`      | `7`                | Only alert on roles posted within N days (`0`=off).|
+| `MAX_AGE_DAYS`      | `3`                | Only alert on roles posted within N days (`0`=off).|
 | `DRY_RUN`           | `false`            | `true` = print only, never send/save.              |
 | `SEED_QUIETLY`      | `true`             | `true` = first run seeds silently.                 |
 | `MAX_NOTIFICATIONS_PER_RUN` | `60`       | Safety cap per run.                                |
@@ -112,10 +112,17 @@ States"/"Canada"; dropped if it clearly names another country/city; kept if
 unknown (unless `INCLUDE_UNKNOWN_LOCATIONS=false`). Google is filtered at query
 time since its listings carry no parseable location.
 
-**Recency filter** (`MAX_AGE_DAYS`): only roles *posted* within N days alert —
-this is what makes it "new listings only." It sits on top of dedup, so it also
-stops stale roles that reappear with a new id. Roles whose date can't be parsed
-are never dropped on a guess. Widen to `14`/`30` if you want a longer window.
+**Recency filter** (`MAX_AGE_DAYS`): only roles *posted* within N days alert.
+Dedup is what actually makes "new" mean "appeared since the last run (~10 min
+ago)"; this guard stops stale roles that reappear with a new id from sneaking in,
+keeping notifications fresh. Roles whose date can't be parsed are never dropped on
+a guess. Set `1` for same-day only, or widen to `7`/`14`.
+
+**Freshness in the alert**: each notification shows a **🕐 Posted** field. For the
+boards that expose an exact timestamp (Greenhouse, Lever, Ashby, and most others)
+it's a Discord *live relative time* — so a fresh drop reads "Posted 6 minutes ago"
+and keeps counting up. Day-granularity boards (Amazon, Workday) show "today" /
+"N days ago". In steady state most alerts will read minutes-old.
 
 Matching logic lives in `jobscraper/filters.py` — tweak the keyword lists there to
 broaden/narrow what counts as a SWE/intern/new-grad role.

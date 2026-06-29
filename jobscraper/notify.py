@@ -10,6 +10,22 @@ _COLOR_INTERN = 0x5865F2   # blurple
 _COLOR_NEWGRAD = 0x57F287  # green
 
 
+def _posted_field(job: Job) -> dict | None:
+    """A 'Posted' field. Uses Discord's live relative timestamp when we know the
+    exact time (most boards), so it reads e.g. 'Posted 6 minutes ago' and keeps
+    updating; falls back to a coarse 'today'/'N days ago' otherwise."""
+    from .filters import humanize_posted, posted_instant
+
+    inst = posted_instant(job.posted_at)
+    if inst is not None:
+        value = f"<t:{int(inst.timestamp())}:R>"  # Discord renders "N minutes ago"
+    else:
+        value = humanize_posted(job.posted_at)
+    if not value:
+        return None
+    return {"name": "🕐 Posted", "value": value, "inline": True}
+
+
 def _embed(job: Job) -> dict:
     from .filters import role_type
 
@@ -17,9 +33,9 @@ def _embed(job: Job) -> dict:
     color = _COLOR_NEWGRAD if rtype == "new_grad" else _COLOR_INTERN
     fields = []
     if job.location:
-        fields.append({"name": "Location", "value": job.location[:1024], "inline": True})
-    if job.posted_at:
-        fields.append({"name": "Posted", "value": str(job.posted_at)[:1024], "inline": True})
+        fields.append({"name": "📍 Location", "value": job.location[:1024], "inline": True})
+    if (posted := _posted_field(job)):
+        fields.append(posted)
     return {
         "title": job.title[:256],
         "url": job.url,

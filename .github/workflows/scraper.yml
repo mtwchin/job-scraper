@@ -35,7 +35,7 @@ jobs:
           ROLE_TYPES: "intern,new_grad"
           OFF_SEASON_ONLY: "true"
           US_CANADA_ONLY: "true"   # only roles in the US or Canada
-          MAX_AGE_DAYS: "7"        # only roles posted within the last 7 days
+          MAX_AGE_DAYS: "3"        # only roles posted within the last 3 days (freshness guard)
         run: python -m jobscraper
 
       - name: Persist seen-jobs state

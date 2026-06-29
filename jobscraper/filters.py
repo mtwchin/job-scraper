@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 from .models import Job
 
@@ -176,60 +176,92 @@ def in_north_america(location: str, include_unknown: bool = True) -> bool:
 
 
 # --------------------------------------------------------------------------- #
-# Recency: parse a posting date into "days ago"
+# Recency: parse a posting date
 # --------------------------------------------------------------------------- #
 _REL_DAYS = re.compile(r"(\d+)\+?\s*day", re.I)
 _REL_MONTHS = re.compile(r"(\d+)\+?\s*month", re.I)
 
 
-def posted_age_days(posted_at: str) -> int | None:
-    """Best-effort: how many days ago was this posted? None if undeterminable.
+def parse_posted(posted_at: str) -> tuple[datetime, bool] | None:
+    """Parse a posting date. Returns (datetime_utc, exact) or None.
 
-    Handles ISO 8601, epoch milliseconds, "May 6, 2026", and Workday's
-    "Posted N Days Ago" / "Posted Today" / "Posted Yesterday".
+    `exact` is True when we know the actual time of day (ISO timestamps, epoch
+    millis) — those let us show a to-the-minute "posted N minutes ago". It's
+    False for day-granularity sources ("May 6, 2026") and Workday's relative
+    strings ("Posted Today" / "Posted N Days Ago"), where we only know the day.
+    Handles: ISO 8601, epoch ms/s, "Mon D, YYYY", "Today"/"Yesterday"/"N days ago".
     """
     if not posted_at:
         return None
     s = str(posted_at).strip()
     now = datetime.now(timezone.utc)
 
-    # Epoch milliseconds (Lever) or seconds.
+    # Epoch milliseconds (Lever) or seconds — exact.
     if s.isdigit():
         try:
             ts = int(s)
             if ts > 1_000_000_000_000:  # ms
                 ts /= 1000.0
-            dt = datetime.fromtimestamp(ts, tz=timezone.utc)
-            return max((now - dt).days, 0)
+            return datetime.fromtimestamp(ts, tz=timezone.utc), True
         except (ValueError, OverflowError, OSError):
             return None
 
-    # ISO 8601 (Greenhouse, Ashby).
+    # ISO 8601 (Greenhouse, Ashby) — exact if it carries a time component.
     try:
         dt = datetime.fromisoformat(s)
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
-        return max((now - dt).days, 0)
+        return dt, ("T" in s or " " in s.strip())
     except ValueError:
         pass
 
     low = s.lower()
     if "today" in low or "just posted" in low:
-        return 0
+        return now, False
     if "yesterday" in low:
-        return 1
+        return now - timedelta(days=1), False
     if (m := _REL_DAYS.search(low)):
-        return int(m.group(1))
+        return now - timedelta(days=int(m.group(1))), False
     if (m := _REL_MONTHS.search(low)):
-        return int(m.group(1)) * 30
+        return now - timedelta(days=int(m.group(1)) * 30), False
 
-    # "May  6, 2026" / "May 6, 2026"
     cleaned = re.sub(r"\s+", " ", s)
     for fmt in ("%B %d, %Y", "%b %d, %Y"):
         try:
-            dt = datetime.strptime(cleaned, fmt).replace(tzinfo=timezone.utc)
-            return max((now - dt).days, 0)
+            return datetime.strptime(cleaned, fmt).replace(tzinfo=timezone.utc), False
         except ValueError:
             continue
 
     return None
+
+
+def posted_age_days(posted_at: str) -> int | None:
+    """How many days ago was this posted? None if undeterminable."""
+    parsed = parse_posted(posted_at)
+    if parsed is None:
+        return None
+    dt, _ = parsed
+    return max((datetime.now(timezone.utc) - dt).days, 0)
+
+
+def posted_instant(posted_at: str) -> datetime | None:
+    """The exact posting datetime, only when we know the time of day."""
+    parsed = parse_posted(posted_at)
+    if parsed is None:
+        return None
+    dt, exact = parsed
+    return dt if exact else None
+
+
+def humanize_posted(posted_at: str) -> str:
+    """Coarse human string for day-granularity sources ('today', '3 days ago')."""
+    parsed = parse_posted(posted_at)
+    if parsed is None:
+        return ""
+    dt, _ = parsed
+    days = (datetime.now(timezone.utc) - dt).days
+    if days <= 0:
+        return "today"
+    if days == 1:
+        return "yesterday"
+    return f"{days} days ago"
