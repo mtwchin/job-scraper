@@ -217,3 +217,14 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Strava         | ashby      | slug=strava                                                        | yes | Verified |
 | Patreon        | ashby      | slug=patreon                                                       | yes | Verified |
 | Substack       | ashby      | slug=substack                                                      | yes | Verified |
+
+### User-requested additions
+| SeatGeek       | greenhouse | token=seatgeek                                                     | yes | Verified |
+| Sigma Computing | greenhouse | token=sigmacomputing                                              | yes | Verified |
+| ZipRecruiter   | greenhouse | token=ziprecruiter                                                 | yes | Verified |
+| Barclays       | workday    | host=barclays.wd3.myworkdayjobs.com;tenant=barclays;site=External_Career_Site_Barclays | yes | Verified |
+| AMD            | custom     |                                                                    | no  | iCIMS site (no clean API); covered via Simplify |
+| DocuSign       | custom     |                                                                    | no  | iCIMS site (no clean API); covered via Simplify |
+| HubSpot        | custom     |                                                                    | no  | Custom/JS careers site; covered via Simplify |
+| Qualcomm       | custom     |                                                                    | no  | Moved off public Workday; covered via Simplify |
+| PlayStation    | custom     |                                                                    | no  | Sony custom careers site; covered via Simplify |
