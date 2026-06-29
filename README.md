@@ -101,7 +101,7 @@ Set these as env vars (locally) or edit the `env:` block in the workflow:
 | `OFF_SEASON_ONLY`   | `true`             | `true` drops summer-only internships.              |
 | `US_CANADA_ONLY`    | `true`             | `true` keeps only US/Canada roles.                 |
 | `INCLUDE_UNKNOWN_LOCATIONS` | `true`     | Keep roles with no/ambiguous location.             |
-| `MAX_AGE_DAYS`      | `3`                | Only alert on roles posted within N days (`0`=off).|
+| `MAX_AGE_DAYS`      | `1`                | Only alert on roles posted within N days (`0`=off).|
 | `DRY_RUN`           | `false`            | `true` = print only, never send/save.              |
 | `SEED_QUIETLY`      | `true`             | `true` = first run seeds silently.                 |
 | `MAX_NOTIFICATIONS_PER_RUN` | `60`       | Safety cap per run.                                |
@@ -112,11 +112,14 @@ States"/"Canada"; dropped if it clearly names another country/city; kept if
 unknown (unless `INCLUDE_UNKNOWN_LOCATIONS=false`). Google is filtered at query
 time since its listings carry no parseable location.
 
-**Recency filter** (`MAX_AGE_DAYS`): only roles *posted* within N days alert.
-Dedup is what actually makes "new" mean "appeared since the last run (~10 min
-ago)"; this guard stops stale roles that reappear with a new id from sneaking in,
-keeping notifications fresh. Roles whose date can't be parsed are never dropped on
-a guess. Set `1` for same-day only, or widen to `7`/`14`.
+**Recency filter** (`MAX_AGE_DAYS`, default `1`): only roles *posted* within N
+days alert — so you only get newly-posted jobs. For boards that expose an exact
+timestamp (Greenhouse/Lever/Ashby/most) it's a precise rolling window (`1` =
+strictly the last 24 h); day-granularity boards (Amazon, Workday) compare whole
+days. Dedup + the 5-min cadence are what make "new" mean "appeared since the last
+run"; this filter guarantees the posting itself is fresh. Roles whose date can't
+be parsed are never dropped on a guess (dedup keeps those fresh). Widen to `3`/`7`
+if you ever want a longer window.
 
 **Freshness in the alert**: each notification shows a **🕐 Posted** field. For the
 boards that expose an exact timestamp (Greenhouse, Lever, Ashby, and most others)

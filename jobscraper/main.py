@@ -43,10 +43,10 @@ def collect_matches() -> tuple[list[Job], list[str]]:
                 job.location, settings.INCLUDE_UNKNOWN_LOCATIONS
             ):
                 continue
-            if settings.MAX_AGE_DAYS > 0:
-                age = filters.posted_age_days(job.posted_at)
-                if age is not None and age > settings.MAX_AGE_DAYS:
-                    continue
+            if settings.MAX_AGE_DAYS > 0 and not filters.is_recent(
+                job.posted_at, settings.MAX_AGE_DAYS
+            ):
+                continue
             seen_uids.add(job.uid)
             matches.append(job)
             hits += 1

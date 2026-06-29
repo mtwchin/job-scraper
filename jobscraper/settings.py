@@ -42,7 +42,7 @@ INCLUDE_UNKNOWN_LOCATIONS = os.environ.get(
 # last run (~10 min ago)"; this guard stops stale postings that re-appear with a
 # new id or get surfaced when a board is first added, so notifications stay fresh.
 # Roles whose posting date can't be parsed are kept (never dropped on a guess).
-MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS", "3"))
+MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS", "1"))
 
 # --- Behavior --------------------------------------------------------------
 # Print what would be sent, don't actually call Discord and don't save state.

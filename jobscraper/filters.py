@@ -244,6 +244,25 @@ def posted_age_days(posted_at: str) -> int | None:
     return max((datetime.now(timezone.utc) - dt).days, 0)
 
 
+def is_recent(posted_at: str, max_days: int) -> bool:
+    """Was this posted within the last `max_days`?
+
+    For boards that give an exact timestamp (Greenhouse/Lever/Ashby/most), this is
+    a precise rolling window — max_days=1 means strictly the last 24 hours. For
+    day-granularity boards (Amazon date, Workday "Posted N Days Ago") we can only
+    compare whole days. Unknown/unparseable dates return True (never dropped on a
+    guess — dedup + the 5-min cadence already keep those fresh).
+    """
+    parsed = parse_posted(posted_at)
+    if parsed is None:
+        return True
+    dt, exact = parsed
+    now = datetime.now(timezone.utc)
+    if exact:
+        return (now - dt) <= timedelta(days=max_days)
+    return (now - dt).days <= max_days
+
+
 def posted_instant(posted_at: str) -> datetime | None:
     """The exact posting datetime, only when we know the time of day."""
     parsed = parse_posted(posted_at)
