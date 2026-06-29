@@ -124,8 +124,23 @@ broaden/narrow what counts as a SWE/intern/new-grad role.
 
 ## Adding & fixing companies
 
-Edit the table in **`companies.md`** — add a row, or flip the **On** column to
-`no` to pause one. Finding a company's config:
+**Fastest way — let the `discover` tool find the config:**
+
+```bash
+python -m jobscraper.discover "Databricks"                         # guess by name
+python -m jobscraper.discover https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers
+```
+
+It detects the ATS (Greenhouse / Lever / Ashby / Workday), verifies the endpoint
+actually returns jobs, and prints a ready-to-paste `companies.md` row. For a
+disabled Workday/custom company: open its careers page, copy the real board URL
+from the address bar (or DevTools → Network tab), and pass that URL to `discover`.
+
+If it prints ❌, the company runs a custom/JS-rendered site with no clean public
+API — see "Why some stay disabled" below.
+
+You can also do it by hand. Edit the table in **`companies.md`** — add a row, or
+flip the **On** column to `no` to pause one. Finding a company's config:
 
 - **Greenhouse** — board lives at `boards.greenhouse.io/<token>`; use that token.
   Verify: `curl https://boards-api.greenhouse.io/v1/boards/<token>/jobs`
@@ -140,6 +155,24 @@ If a company shows `0 fetched` with an error in the run log, the token/slug/conf
 is wrong — fix it in `companies.md`.
 
 ---
+
+## Why some stay disabled
+
+A company is `On=no` when it has **no clean public job API**:
+
+- **Custom / JS-rendered sites** (Jane Street, Bloomberg, Citadel, Two Sigma,
+  Tesla, the banks, Apple, Meta, Microsoft, LinkedIn, Indeed): the listings are
+  rendered by JavaScript and/or sit behind anti-bot protection. Reading them
+  reliably needs a full headless browser (Playwright/Selenium) per site, which is
+  brittle and high-maintenance — every site is a one-off that breaks on redesign.
+- **Workday/SmartRecruiters with an unknown board**: these *do* have an API; you
+  just need the right URL. Run `discover` on the board URL to wire them up.
+
+The scraper deliberately targets **known ATS platforms with stable JSON APIs**
+instead of scraping arbitrary HTML — that's why the 60+ enabled companies are
+reliable and the disabled ones aren't. Adding a new *platform* adapter (e.g.
+SmartRecruiters, iCIMS, Eightfold) is the scalable way to unlock more companies;
+chasing individual custom sites is not.
 
 ## Scheduling reality check
 

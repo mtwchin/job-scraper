@@ -70,7 +70,7 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Two Sigma      | custom     |                                                                    | no  | Custom careers site |
 | xAI            | greenhouse | token=xai                                                          | yes | Verified |
 | Renaissance    | custom     |                                                                    | no  | RenTech — custom careers site |
-| Intel          | workday    |                                                                    | no  | Workday — need host/tenant/site |
+| Intel          | workday    | host=intel.wd1.myworkdayjobs.com;tenant=intel;site=External         | yes | Verified |
 | IMC Trading    | greenhouse | token=imc                                                          | yes | Verified — quant |
 | Optiver        | greenhouse | token=optiverus                                                    | yes | Verified — quant |
 | Radix Trading  | custom     |                                                                    | no  | Custom careers site |
@@ -109,13 +109,13 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Palo Alto Nets | custom     |                                                                    | no  | SmartRecruiters — needs adapter |
 | Riot Games     | greenhouse | token=riotgames                                                    | yes | Verified |
 | Shopify        | custom     |                                                                    | no  | Custom careers site |
-| Splunk         | workday    |                                                                    | no  | Cisco-owned; Workday — need config |
+| Splunk         | workday    |                                                                    | no  | Now part of Cisco's board (cisco.wd5/Cisco_Careers) |
 | Blackrock      | custom     |                                                                    | no  | Custom careers site |
-| Capital One    | workday    |                                                                    | no  | Workday — need host/tenant/site |
+| Capital One    | workday    | host=capitalone.wd12.myworkdayjobs.com;tenant=capitalone;site=Capital_One | yes | Verified |
 | Duolingo       | greenhouse | token=duolingo                                                     | yes | Verified |
 | Morgan Stanley | custom     |                                                                    | no  | Custom careers site |
 | Lockheed       | workday    |                                                                    | no  | Workday — need host/tenant/site |
-| Red Hat        | workday    |                                                                    | no  | IBM-owned; Workday — need config |
+| Red Hat        | workday    | host=redhat.wd5.myworkdayjobs.com;tenant=redhat;site=jobs           | yes | Verified |
 | IBM            | custom     |                                                                    | no  | Custom careers site (cutoff company) |
 | Samsung        | greenhouse | token=samsungsemiconductor                                         | yes | Verified — Samsung Semiconductor board |
 | Zoom           | custom     |                                                                    | no  | No public ATS API found |
@@ -126,5 +126,5 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Okta           | greenhouse | token=okta                                                         | yes | Verified |
 | Rippling       | custom     |                                                                    | no  | No public ATS API found (was bad greenhouse token) |
 | Intuit         | workday    | host=intuit.wd1.myworkdayjobs.com;tenant=intuit;site=External      | no  | Workday config returns 401; verify site/tenant |
-| Cisco          | workday    | host=cisco.wd5.myworkdayjobs.com;tenant=cisco;site=External_Career_Site | no  | Workday config 404; verify host/site |
+| Cisco          | workday    | host=cisco.wd5.myworkdayjobs.com;tenant=cisco;site=Cisco_Careers    | yes | Verified (covers Splunk too) |
 | Uber           | workday    | host=uber.wd1.myworkdayjobs.com;tenant=uber;site=External          | no  | Workday config 422; verify site/tenant |
