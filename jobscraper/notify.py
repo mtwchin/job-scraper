@@ -11,16 +11,19 @@ _COLOR_NEWGRAD = 0x57F287  # green
 
 
 def _posted_field(job: Job) -> dict | None:
-    """A 'Posted' field. Uses Discord's live relative timestamp when we know the
-    exact time (most boards), so it reads e.g. 'Posted 6 minutes ago' and keeps
-    updating; falls back to a coarse 'today'/'N days ago' otherwise."""
-    from .filters import humanize_posted, posted_instant
+    """A 'Posted' field, shown only when the board's date is plausibly fresh.
+    Uses Discord's live relative timestamp when we know the exact time (most
+    boards) so it reads e.g. 'Posted 6 minutes ago'; coarse 'today'/'N days ago'
+    otherwise. Suppressed when the board date is stale (some boards report a
+    req-creation date, not go-live), so we don't slap 'Posted 10 months ago' on a
+    job that just went live — the alert itself means we just detected it."""
+    from .filters import humanize_posted, posted_age_days, posted_instant
 
+    age = posted_age_days(job.posted_at)
+    if age is None or age > settings.STALE_POSTED_DAYS:
+        return None
     inst = posted_instant(job.posted_at)
-    if inst is not None:
-        value = f"<t:{int(inst.timestamp())}:R>"  # Discord renders "N minutes ago"
-    else:
-        value = humanize_posted(job.posted_at)
+    value = f"<t:{int(inst.timestamp())}:R>" if inst else humanize_posted(job.posted_at)
     if not value:
         return None
     return {"name": "🕐 Posted", "value": value, "inline": True}

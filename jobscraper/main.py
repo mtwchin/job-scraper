@@ -33,6 +33,11 @@ def _fetch_company(company: CompanyConfig) -> tuple[CompanyConfig, list[Job], st
 
 
 def _passes_filters(job: Job) -> bool:
+    """Role + location only. We deliberately do NOT gate on the board's posted
+    date: many boards (e.g. Lever) report the requisition-creation date, not when
+    a role goes live, so a freshly-listed job can carry a months-old date. Gating
+    on that permanently hides real new postings. "Newly dropped" is instead
+    determined by dedup (first time we see it) + quiet first-run seeding."""
     if not job.url:
         return False
     if not filters.matches(job, settings.ROLE_TYPES, settings.OFF_SEASON_ONLY):
@@ -40,8 +45,6 @@ def _passes_filters(job: Job) -> bool:
     if settings.US_CANADA_ONLY and not filters.in_north_america(
         job.location, settings.INCLUDE_UNKNOWN_LOCATIONS
     ):
-        return False
-    if settings.MAX_AGE_DAYS > 0 and not filters.is_recent(job.posted_at, settings.MAX_AGE_DAYS):
         return False
     return True
 
@@ -53,9 +56,9 @@ def collect_matches() -> Collection:
     seen_uids: set[str] = set()
 
     logger.info(
-        "Checking %d companies | roles=%s off_season=%s us_ca=%s max_age_days=%d concurrency=%d",
+        "Checking %d companies | roles=%s off_season=%s us_ca=%s concurrency=%d (freshness=dedup)",
         len(enabled), sorted(settings.ROLE_TYPES), settings.OFF_SEASON_ONLY,
-        settings.US_CANADA_ONLY, settings.MAX_AGE_DAYS, settings.CONCURRENCY,
+        settings.US_CANADA_ONLY, settings.CONCURRENCY,
     )
 
     with cf.ThreadPoolExecutor(max_workers=settings.CONCURRENCY) as ex:

@@ -36,13 +36,17 @@ INCLUDE_UNKNOWN_LOCATIONS = os.environ.get(
     "INCLUDE_UNKNOWN_LOCATIONS", "true"
 ).lower() in {"1", "true", "yes"}
 
-# --- Recency: only genuinely NEW listings ----------------------------------
-# Only alert on roles posted within this many days. 0 disables the check.
-# Layered on top of dedup: dedup is what makes "new" mean "appeared since the
-# last run (~10 min ago)"; this guard stops stale postings that re-appear with a
-# new id or get surfaced when a board is first added, so notifications stay fresh.
-# Roles whose posting date can't be parsed are kept (never dropped on a guess).
-MAX_AGE_DAYS = int(os.environ.get("MAX_AGE_DAYS", "1"))
+# --- Freshness -------------------------------------------------------------
+# "Newly dropped" is determined by dedup (first time the scraper sees a job) plus
+# quiet first-run seeding — NOT by the board's self-reported posted date, which is
+# unreliable (some boards report req-creation date, so a freshly-listed role can
+# carry a months-old date and would be wrongly hidden).
+#
+# This value only controls *display*: the "🕐 Posted" field is shown when the
+# board's date is within this many days, and suppressed when it's older (so a
+# stale board date doesn't show a misleading "Posted 10 months ago" on a job that
+# just went live).
+STALE_POSTED_DAYS = int(os.environ.get("STALE_POSTED_DAYS", "21"))
 
 # --- Behavior --------------------------------------------------------------
 # Print what would be sent, don't actually call Discord and don't save state.
