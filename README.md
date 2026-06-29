@@ -133,7 +133,7 @@ Set these as env vars (locally) or edit the `env:` block in the workflow:
 | `OFF_SEASON_ONLY`   | `true`             | `true` drops summer-only internships.              |
 | `US_CANADA_ONLY`    | `true`             | `true` keeps only US/Canada roles.                 |
 | `INCLUDE_UNKNOWN_LOCATIONS` | `true`     | Keep roles with no/ambiguous location.             |
-| `MAX_AGE_DAYS`      | `1`                | Only alert on roles posted within N days (`0`=off).|
+| `STALE_POSTED_DAYS` | `21`               | Hide the "Posted" label when the board date is older (display only). |
 | `DRY_RUN`           | `false`            | `true` = print only, never send/save.              |
 | `SEED_QUIETLY`      | `true`             | `true` = first run seeds silently.                 |
 | `MAX_NOTIFICATIONS_PER_RUN` | `60`       | Safety cap per run.                                |
@@ -147,14 +147,14 @@ States"/"Canada"; dropped if it clearly names another country/city; kept if
 unknown (unless `INCLUDE_UNKNOWN_LOCATIONS=false`). Google is filtered at query
 time since its listings carry no parseable location.
 
-**Recency filter** (`MAX_AGE_DAYS`, default `1`): only roles *posted* within N
-days alert — so you only get newly-posted jobs. For boards that expose an exact
-timestamp (Greenhouse/Lever/Ashby/most) it's a precise rolling window (`1` =
-strictly the last 24 h); day-granularity boards (Amazon, Workday) compare whole
-days. Dedup + the 5-min cadence are what make "new" mean "appeared since the last
-run"; this filter guarantees the posting itself is fresh. Roles whose date can't
-be parsed are never dropped on a guess (dedup keeps those fresh). Widen to `3`/`7`
-if you ever want a longer window.
+**Freshness is dedup-based, not date-based.** A role alerts the first time the
+scraper sees it (new id not in state) — that's what "just dropped" actually means.
+We deliberately do **not** gate on the board's self-reported posted date: many
+boards (Lever especially) report the *requisition-creation* date, not when a role
+goes live, so a job published today can carry a months-old date. Gating on that
+silently hides real new postings (this exact bug missed a Palantir internship).
+First-run seeding prevents the initial backlog from flooding you; after that,
+dedup + the 5-min cadence mean you get each role within minutes of it appearing.
 
 **Freshness in the alert**: each notification shows a **🕐 Posted** field. For the
 boards that expose an exact timestamp (Greenhouse, Lever, Ashby, and most others)
