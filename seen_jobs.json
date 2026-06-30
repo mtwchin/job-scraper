@@ -1,5 +1,5 @@
 {
-  "count": 225,
+  "count": 226,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -500,6 +500,13 @@
       "first_seen": "2026-06-28T23:35:42+00:00",
       "title": "Forward Deployed Software Engineer, New Grad - US Government",
       "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca"
+    },
+    "palantir::d5486403-c050-4920-b2e0-91b69b61ebb2": {
+      "company": "Palantir",
+      "first_seen": "2026-06-30T20:14:10+00:00",
+      "posted_at": "1782849666026",
+      "title": "Forward Deployed Software Engineer, Internship - Commercial",
+      "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2"
     },
     "palantir::d582cd84-14fd-4aa3-b413-15982d286bd9": {
       "company": "Palantir",
@@ -1517,5 +1524,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-06-29T22:42:00+00:00"
+  "updated_at": "2026-06-30T20:14:10+00:00"
 }
