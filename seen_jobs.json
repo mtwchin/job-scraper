@@ -1,5 +1,5 @@
 {
-  "count": 243,
+  "count": 245,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -143,6 +143,20 @@
       "first_seen": "2026-06-28T23:46:38+00:00",
       "title": "Graduate Software Engineer (2026)",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101"
+    },
+    "imc trading::4818790101": {
+      "company": "IMC Trading",
+      "first_seen": "2026-07-01T18:17:45+00:00",
+      "posted_at": "2026-07-01T13:09:49-04:00",
+      "title": "Graduate Software Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4818790101"
+    },
+    "imc trading::4823924101": {
+      "company": "IMC Trading",
+      "first_seen": "2026-07-01T18:17:45+00:00",
+      "posted_at": "2026-07-01T13:11:54-04:00",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101"
     },
     "intel::AI-Software-Engineering-Intern_JR0282639": {
       "company": "Intel",
@@ -1643,5 +1657,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-01T08:41:48+00:00"
+  "updated_at": "2026-07-01T18:17:46+00:00"
 }
