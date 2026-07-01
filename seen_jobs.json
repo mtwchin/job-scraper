@@ -1,5 +1,5 @@
 {
-  "count": 232,
+  "count": 243,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -858,6 +858,13 @@
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639"
     },
+    "simplify:intuit::simplify-d249bf80-6b21-4361-bcab-b047533c7142": {
+      "company": "Intuit",
+      "first_seen": "2026-07-01T08:41:47+00:00",
+      "posted_at": "1782770899",
+      "title": "Software Developer Co-op",
+      "url": "https://jobs.intuit.com/job/toronto/fall-2026-software-developer-co-op-8-months/27595/97091591056"
+    },
     "simplify:mongodb::simplify-34e5f044-5304-4c9e-af40-55a70118657b": {
       "company": "MongoDB",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -1012,12 +1019,33 @@
       "title": "Forward Deployed Software Engineer New Grad - Commercial",
       "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40/apply"
     },
+    "simplify:palantir::simplify-2c1046a7-cf40-410a-bf96-843e6e4db629": {
+      "company": "Palantir",
+      "first_seen": "2026-07-01T08:41:47+00:00",
+      "posted_at": "1782770694",
+      "title": "Software Engineer Intern - Production Infrastructure",
+      "url": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86/apply"
+    },
     "simplify:palantir::simplify-2da60465-c35e-418c-ba70-4bdf052f70b7": {
       "company": "Palantir",
       "first_seen": "2026-07-01T04:48:56+00:00",
       "posted_at": "1782770697",
       "title": "Software Engineer New Grad - Production Infrastructure",
       "url": "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6/apply"
+    },
+    "simplify:palantir::simplify-33da215d-313a-45b7-8ad3-bde21b250ffe": {
+      "company": "Palantir",
+      "first_seen": "2026-07-01T08:41:47+00:00",
+      "posted_at": "1782770697",
+      "title": "Software Engineer Intern - Production Infrastructure",
+      "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1/apply"
+    },
+    "simplify:palantir::simplify-345a57b5-fae1-45c1-8deb-5bbec4479e03": {
+      "company": "Palantir",
+      "first_seen": "2026-07-01T08:41:47+00:00",
+      "posted_at": "1782770695",
+      "title": "Software Engineer New Grad - Defense",
+      "url": "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3/apply"
     },
     "simplify:palantir::simplify-441050ea-b57f-4448-ae69-2a4a8646229f": {
       "company": "Palantir",
@@ -1047,6 +1075,13 @@
       "title": "Forward Deployed Software Engineer New Grad",
       "url": "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382/apply"
     },
+    "simplify:palantir::simplify-645100d8-0e6e-414b-aa7c-96ecb3ea36e4": {
+      "company": "Palantir",
+      "first_seen": "2026-07-01T08:41:47+00:00",
+      "posted_at": "1782770695",
+      "title": "Software Engineer New Grad - Defense",
+      "url": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278/apply"
+    },
     "simplify:palantir::simplify-690e4022-41e1-411c-bf12-489f610f12f1": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -1061,6 +1096,13 @@
       "title": "Forward Deployed Software Engineer Intern",
       "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f/apply"
     },
+    "simplify:palantir::simplify-6f48a60c-c53f-4258-9d61-02f627a6072a": {
+      "company": "Palantir",
+      "first_seen": "2026-07-01T08:41:47+00:00",
+      "posted_at": "1782338825",
+      "title": "Palantir Software Engineer Intern - Forward Deployed Software Engineer - Commercial",
+      "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3/apply"
+    },
     "simplify:palantir::simplify-7107711b-0874-460d-932c-0c0d7b729f42": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -1068,12 +1110,26 @@
       "title": "Year at Palantir Intern - Forward Deployed Software Engineer",
       "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019/apply"
     },
+    "simplify:palantir::simplify-9f078de1-afbf-46ec-a41a-9ed1bd030aa0": {
+      "company": "Palantir",
+      "first_seen": "2026-07-01T08:41:47+00:00",
+      "posted_at": "1782770694",
+      "title": "Software Engineer Intern - Infrastructure",
+      "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3/apply"
+    },
     "simplify:palantir::simplify-ada5c220-536e-454a-8ba0-1f7629d949e6": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
       "posted_at": "1765581501",
       "title": "Forward Deployed Software Engineer \u2013 Internship - US Government",
       "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e/apply"
+    },
+    "simplify:palantir::simplify-c8c5aa40-1271-42fb-937f-a311fcaf917d": {
+      "company": "Palantir",
+      "first_seen": "2026-07-01T08:41:47+00:00",
+      "posted_at": "1762540592",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d/apply"
     },
     "simplify:palantir::simplify-d0302d05-c84f-4a36-a91e-cc293f08604e": {
       "company": "Palantir",
@@ -1110,6 +1166,20 @@
       "title": "Year at Palantir Intern - Forward Deployed Software Engineer - Commercial",
       "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d/apply"
     },
+    "simplify:palantir::simplify-ea21f599-680e-4822-8289-fe0af38a4bfe": {
+      "company": "Palantir",
+      "first_seen": "2026-07-01T08:41:47+00:00",
+      "posted_at": "1782770691",
+      "title": "Privacy and Civil Liberties Software Engineer Intern",
+      "url": "https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b/apply"
+    },
+    "simplify:palantir::simplify-eed44008-bc56-4a68-9f65-0b98b4876804": {
+      "company": "Palantir",
+      "first_seen": "2026-07-01T08:41:47+00:00",
+      "posted_at": "1782741889",
+      "title": "Forward Deployed Software Engineer Intern - Commercial",
+      "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6/apply"
+    },
     "simplify:palantir::simplify-f6f83b45-cf4c-4a3e-8f32-4c64672610a1": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -1123,6 +1193,13 @@
       "posted_at": "1781638661",
       "title": "Forward Deployed Software Engineer Intern - Defense Tech",
       "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply"
+    },
+    "simplify:palantir::simplify-fef271f0-0395-41e1-bc64-b0f2f454e58f": {
+      "company": "Palantir",
+      "first_seen": "2026-07-01T08:41:47+00:00",
+      "posted_at": "1782741889",
+      "title": "Forward Deployed Software Engineer New Grad - Commercial",
+      "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728/apply"
     },
     "simplify:palantir::simplify-ffc1f08c-7dd5-4fce-986e-2e3b824aabb4": {
       "company": "Palantir",
@@ -1566,5 +1643,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-01T04:48:56+00:00"
+  "updated_at": "2026-07-01T08:41:48+00:00"
 }
