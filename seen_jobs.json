@@ -1,5 +1,5 @@
 {
-  "count": 249,
+  "count": 254,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -984,6 +984,34 @@
       "title": "PhD Software Engineer Intern - Decision Intelligence",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522"
     },
+    "simplify:optiver::simplify-1e2b7529-adf7-49ab-8d4a-8979fab4e3e9": {
+      "company": "Optiver",
+      "first_seen": "2026-07-01T22:57:08+00:00",
+      "posted_at": "1782943968",
+      "title": "Graduate Software Engineer",
+      "url": "https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002"
+    },
+    "simplify:optiver::simplify-895ea579-0ca7-4aa8-82a2-db62cfeba95c": {
+      "company": "Optiver",
+      "first_seen": "2026-07-01T22:57:08+00:00",
+      "posted_at": "1782943981",
+      "title": "Software Engineer Intern",
+      "url": "https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002"
+    },
+    "simplify:optiver::simplify-9806b0c4-6f96-463b-b16f-410fc0a1ae51": {
+      "company": "Optiver",
+      "first_seen": "2026-07-01T22:57:08+00:00",
+      "posted_at": "1782943968",
+      "title": "Graduate Software Engineer",
+      "url": "https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002"
+    },
+    "simplify:optiver::simplify-f49b4766-f352-4e81-9cb2-0f42fb9fd101": {
+      "company": "Optiver",
+      "first_seen": "2026-07-01T22:57:08+00:00",
+      "posted_at": "1782943980",
+      "title": "Software Engineer Intern",
+      "url": "https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002"
+    },
     "simplify:oracle::simplify-6d571674-acba-44ce-b089-81a367473086": {
       "company": "Oracle",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -1474,6 +1502,13 @@
       "title": "Software Engineer Intern - Site Controller Software Engineer - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/272615"
     },
+    "simplify:tesla::simplify-87b3e2e9-6e48-46cf-a3ad-0144480aaea6": {
+      "company": "Tesla",
+      "first_seen": "2026-07-01T22:57:08+00:00",
+      "posted_at": "1782944195",
+      "title": "Software Engineer Intern - Distributed Systems Software Engineer - Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/275558"
+    },
     "simplify:tesla::simplify-88766d81-38a1-4e05-86b9-0d4f5f4f630b": {
       "company": "Tesla",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -1685,5 +1720,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-01T20:17:32+00:00"
+  "updated_at": "2026-07-01T22:57:08+00:00"
 }
