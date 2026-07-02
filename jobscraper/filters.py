@@ -6,7 +6,9 @@ from datetime import datetime, timedelta, timezone
 
 from .models import Job
 
-# Must look like a software-engineering role.
+# Must look like a software-engineering role. Includes software-adjacent titles
+# (systems/platform/infra/backend/frontend/full-stack engineer) since many SWE
+# intern roles don't literally say "software" in the title.
 SWE_PATTERNS = [
     r"software\s+engineer",
     r"software\s+developer",
@@ -16,6 +18,14 @@ SWE_PATTERNS = [
     r"software\s+engineering",
     r"member\s+of\s+technical\s+staff",
     r"\bprogrammer\b",
+    r"systems?\s+engineer",
+    r"platform\s+engineer",
+    r"infrastructure\s+engineer",
+    r"back[\s-]?end\s+engineer",
+    r"front[\s-]?end\s+engineer",
+    r"full[\s-]?stack\s+engineer",
+    r"distributed\s+systems",
+    r"forward\s+deployed\s+engineer",
 ]
 
 # Internship signals.

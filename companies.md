@@ -64,12 +64,12 @@ token/slug is probably wrong. See the README for how to find the right one.
 | PayPal         | workday    | host=paypal.wd1.myworkdayjobs.com;tenant=paypal;site=jobs          | yes | Verified |
 | DeepMind       | greenhouse | token=deepmind                                                     | yes | Verified — prestige #3 |
 | Jane Street    | greenhouse | token=janestreet                                                   | yes | Verified — quant |
-| Hudson R.T.    | custom     |                                                                    | no  | HRT — no public ATS API; custom careers site |
+| Hudson River Trading | custom     |                                                                    | no  | HRT — no public ATS API; custom careers site |
 | Citadel        | custom     |                                                                    | no  | Custom careers site |
 | Jump Trading   | greenhouse | token=jumptrading                                                  | yes | Verified — quant |
 | Two Sigma      | custom     |                                                                    | no  | Custom careers site |
 | xAI            | greenhouse | token=xai                                                          | yes | Verified |
-| Renaissance    | custom     |                                                                    | no  | RenTech — custom careers site |
+| Renaissance Technologies | custom     |                                                                    | no  | RenTech — custom careers site |
 | Intel          | workday    | host=intel.wd1.myworkdayjobs.com;tenant=intel;site=External         | yes | Verified |
 | IMC Trading    | greenhouse | token=imc                                                          | yes | Verified — quant |
 | Optiver        | greenhouse | token=optiverus                                                    | yes | Verified — quant |
@@ -106,7 +106,7 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Flow Traders   | greenhouse | token=flowtraders                                                  | yes | Verified — quant |
 | eBay           | workday    |                                                                    | no  | Workday — need host/tenant/site |
 | Oracle         | custom     |                                                                    | no  | Custom careers site |
-| Palo Alto Nets | custom     |                                                                    | no  | SmartRecruiters — needs adapter |
+| Palo Alto Networks | custom     |                                                                    | no  | SmartRecruiters — needs adapter |
 | Riot Games     | greenhouse | token=riotgames                                                    | yes | Verified |
 | Shopify        | custom     |                                                                    | no  | Custom careers site |
 | Splunk         | workday    |                                                                    | no  | Now part of Cisco's board (cisco.wd5/Cisco_Careers) |
@@ -114,7 +114,7 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Capital One    | workday    | host=capitalone.wd12.myworkdayjobs.com;tenant=capitalone;site=Capital_One | yes | Verified |
 | Duolingo       | greenhouse | token=duolingo                                                     | yes | Verified |
 | Morgan Stanley | custom     |                                                                    | no  | Custom careers site |
-| Lockheed       | workday    |                                                                    | no  | Workday — need host/tenant/site |
+| Lockheed Martin | workday    |                                                                    | no  | Workday — need host/tenant/site |
 | Red Hat        | workday    | host=redhat.wd5.myworkdayjobs.com;tenant=redhat;site=jobs           | yes | Verified |
 | IBM            | custom     |                                                                    | no  | Custom careers site (cutoff company) |
 | Samsung        | greenhouse | token=samsungsemiconductor                                         | yes | Verified — Samsung Semiconductor board |

@@ -40,7 +40,12 @@ def _passes_filters(job: Job) -> bool:
     determined by dedup (first time we see it) + quiet first-run seeding."""
     if not job.url:
         return False
-    if not filters.matches(job, settings.ROLE_TYPES, settings.OFF_SEASON_ONLY):
+    # Simplify listings are already curated to software intern/new-grad by the
+    # source (via Simplify's category), so we only geo-filter them here. Direct
+    # adapter jobs get the full title-based role match.
+    if job.source != "simplify" and not filters.matches(
+        job, settings.ROLE_TYPES, settings.OFF_SEASON_ONLY
+    ):
         return False
     if settings.US_CANADA_ONLY and not filters.in_north_america(
         job.location, settings.INCLUDE_UNKNOWN_LOCATIONS
@@ -137,11 +142,10 @@ def run() -> int:
             logger.debug("  ! %s", line)
     _maybe_health_alert(c)
 
-    first_run = not store.existed
-    for job in new_jobs:
-        store.add(job.uid, job.title, job.company, job.url, job.posted_at)
-
-    if first_run and settings.SEED_QUIETLY:
+    if not store.existed and settings.SEED_QUIETLY:
+        # Genuine first run: absorb the whole backlog silently so we don't dump it.
+        for job in new_jobs:
+            store.add(job.uid, job.title, job.company, job.url, job.posted_at)
         logger.info("First run: seeding %d roles quietly (no per-job pings).", len(new_jobs))
         if not settings.DRY_RUN:
             notify.notify_summary(
@@ -153,8 +157,8 @@ def run() -> int:
 
     to_send = new_jobs[: settings.MAX_NOTIFICATIONS_PER_RUN]
     if len(new_jobs) > len(to_send):
-        logger.warning("Capping notifications at %d (had %d).",
-                       settings.MAX_NOTIFICATIONS_PER_RUN, len(new_jobs))
+        logger.warning("Capping at %d this run; the other %d will send next run(s).",
+                       settings.MAX_NOTIFICATIONS_PER_RUN, len(new_jobs) - len(to_send))
 
     if settings.DRY_RUN:
         for j in to_send:
@@ -163,9 +167,12 @@ def run() -> int:
 
     if to_send:
         notify.notify_jobs(to_send)
-        logger.info("Sent %d notification(s).", len(to_send))
-    if new_jobs:  # only rewrite state when something actually changed
+        # Seed ONLY what we actually sent, so any capped overflow is picked up on
+        # the next run instead of being silently marked seen and lost.
+        for job in to_send:
+            store.add(job.uid, job.title, job.company, job.url, job.posted_at)
         store.save()
+        logger.info("Sent %d notification(s).", len(to_send))
     return 0
 
 

@@ -83,8 +83,9 @@ HEALTH_ALERT_THRESHOLD = float(os.environ.get("HEALTH_ALERT_THRESHOLD", "0.25"))
 # the disabled custom-site companies (Apple, Meta, Tesla, …) that we can't scrape
 # directly but Simplify often lists.
 SIMPLIFY_ENABLED = os.environ.get("SIMPLIFY_ENABLED", "true").lower() in {"1", "true", "yes"}
-# (repo, branch) pairs on github.com/SimplifyJobs.
+# (repo, branch, role_type) on github.com/SimplifyJobs. The Summer repo carries
+# both summer and off-season internships; New-Grad carries new-grad roles.
 SIMPLIFY_REPOS = [
-    ("Summer2026-Internships", "dev"),
-    ("New-Grad-Positions", "dev"),
+    ("Summer2026-Internships", "dev", "intern"),
+    ("New-Grad-Positions", "dev", "new_grad"),
 ]

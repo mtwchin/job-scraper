@@ -1,9 +1,10 @@
 """SimplifyJobs GitHub listing repos as an extra source.
 
-Pulls each repo's listings.json and yields jobs whose company is in companies.md
-(matched on a normalized name). The same role/location/recency filters then apply
-in main, so this is purely an additional, redundant feed — valuable because it
-also covers the disabled custom-site companies we can't scrape directly.
+Pulls each repo's listings.json and yields software intern / new-grad roles whose
+company is in companies.md. We trust Simplify's own `category` classification for
+"is this software?" (so titles like "Systems Engineer Intern" are caught), and
+match companies on a normalized name plus a small alias map (TikTok→ByteDance …).
+Valuable because it also covers the disabled custom-site companies we can't scrape.
 """
 from __future__ import annotations
 
@@ -17,6 +18,20 @@ logger = log.get()
 
 _SUFFIXES = ("incorporated", "inc", "llc", "ltd", "corporation", "corp", "labs",
              "technologies", "capital", "trading", "group", "holdings", "ai")
+
+# Simplify categories we treat as software-engineering roles.
+SOFTWARE_CATEGORIES = {"Software", "Software Engineering"}
+
+# Simplify's company name (normalized) -> our normalized name, for brand mismatches.
+ALIASES = {
+    "tiktok": "bytedance",
+    "googledeepmind": "deepmind",
+    "aws": "amazon",
+    "amazonwebservices": "amazon",
+    "metaplatforms": "meta",
+    "alphabet": "google",
+    "rocketlabusa": "rocketlab",
+}
 
 
 def normalize_company(name: str) -> str:
@@ -34,25 +49,34 @@ def our_company_names() -> set[str]:
     return {normalize_company(c.name) for c in load_companies(settings.COMPANIES_FILE)}
 
 
+def _matches_company(cn: str, ours: set[str]) -> bool:
+    n = normalize_company(cn)
+    return n in ours or (n in ALIASES and ALIASES[n] in ours)
+
+
 def _raw_url(repo: str, branch: str) -> str:
     return f"https://raw.githubusercontent.com/SimplifyJobs/{repo}/{branch}/.github/scripts/listings.json"
 
 
 def fetch() -> list[Job]:
-    """All currently-active listings from our tracked companies. Raises on a hard
-    network failure so main can record it as a source error."""
+    """Active, visible, software intern/new-grad listings from our tracked
+    companies. Raises on a hard network failure so main records a source error."""
     ours = our_company_names()
     jobs: dict[str, Job] = {}
-    for repo, branch in settings.SIMPLIFY_REPOS:
+    for repo, branch, role in settings.SIMPLIFY_REPOS:
+        if settings.ROLE_TYPES and role not in settings.ROLE_TYPES:
+            continue
         resp = http.get(_raw_url(repo, branch), retries=1, timeout=25)
         resp.raise_for_status()
         listings = resp.json()
         kept = 0
         for x in listings:
-            if not x.get("active"):
+            if not (x.get("active") and x.get("is_visible")):
+                continue
+            if x.get("category") not in SOFTWARE_CATEGORIES:
                 continue
             cn = x.get("company_name", "")
-            if normalize_company(cn) not in ours:
+            if not _matches_company(cn, ours):
                 continue
             cid = str(x.get("id") or x.get("url"))
             locs = x.get("locations") or []
@@ -66,5 +90,6 @@ def fetch() -> list[Job]:
                 source="simplify",
             )
             kept += 1
-        logger.debug("simplify %s@%s: %d listings, %d from our companies", repo, branch, len(listings), kept)
+        logger.debug("simplify %s@%s: %d listings, %d software from our companies",
+                     repo, branch, len(listings), kept)
     return list(jobs.values())
