@@ -1,5 +1,5 @@
 {
-  "count": 256,
+  "count": 257,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -490,6 +490,13 @@
       "posted_at": "1625171097701",
       "title": "Software Engineer, New Grad",
       "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92"
+    },
+    "palantir::9e40d77f-b07c-437b-98e7-def9b0184d89": {
+      "company": "Palantir",
+      "first_seen": "2026-07-02T04:16:17+00:00",
+      "posted_at": "1782933745074",
+      "title": "Forward Deployed Software Engineer, Internship - Intel",
+      "url": "https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89"
     },
     "palantir::a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d": {
       "company": "Palantir",
@@ -1734,5 +1741,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-02T00:04:24+00:00"
+  "updated_at": "2026-07-02T04:16:17+00:00"
 }
