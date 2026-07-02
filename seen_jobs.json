@@ -1,5 +1,5 @@
 {
-  "count": 258,
+  "count": 439,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -88,6 +88,13 @@
       "posted_at": "2026-06-29T15:00:23-04:00",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/cresta/jobs/4123841008"
+    },
+    "cresta::5106468008": {
+      "company": "Cresta",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "2026-06-29T15:00:23-04:00",
+      "title": "Forward Deployed Engineering Intern (AI Agent)",
+      "url": "https://job-boards.greenhouse.io/cresta/jobs/5106468008"
     },
     "datadog::7646452": {
       "company": "Datadog",
@@ -648,6 +655,13 @@
       "title": "Software Engineering Intern (Summer 2026)",
       "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1"
     },
+    "rocket lab::7725384003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "2026-07-01T15:25:49-04:00",
+      "title": "Systems Engineering Intern Fall 2026",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7725384003"
+    },
     "seatgeek::7858968": {
       "company": "SeatGeek",
       "first_seen": "2026-06-29T20:35:16+00:00",
@@ -662,6 +676,34 @@
       "title": "Software Engineer (New Grad Program)",
       "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003"
     },
+    "simplify:1password::simplify-4474324d-fc29-44ab-ac6b-ad29c0babae6": {
+      "company": "1Password",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781053790",
+      "title": "Developer Intern - Trust Platforms",
+      "url": "https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application"
+    },
+    "simplify:1password::simplify-b329a355-37a2-4a60-8ff5-bc9b42bf00c0": {
+      "company": "1Password",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781820605",
+      "title": "Developer Intern - Service Development",
+      "url": "https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/application"
+    },
+    "simplify:adobe::simplify-4ecf87ec-1b44-44fa-a19a-7f1bb05e51ae": {
+      "company": "Adobe",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1774994969",
+      "title": "Software Development Engineer",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R166829"
+    },
+    "simplify:adobe::simplify-94553853-01a8-4ae7-8aff-21e02d826aa5": {
+      "company": "Adobe",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781774746",
+      "title": "Software Development Engineer 2",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-2_R169364-1"
+    },
     "simplify:affirm::simplify-3d6d6af9-2d80-47cd-bab7-3de78427877d": {
       "company": "Affirm",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -669,12 +711,40 @@
       "title": "Software Engineer, Early Career",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7485068003"
     },
+    "simplify:amazon::simplify-12b63c6b-1151-4084-a798-a22c27fd6f2c": {
+      "company": "Amazon",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1769579993",
+      "title": "Software Development Engineer - 2026",
+      "url": "https://www.amazon.jobs/en/jobs/3165932/software-development-engineer-2026-canada"
+    },
+    "simplify:amazon::simplify-6d55f27f-9786-4c75-ab7c-c79dd9c729e0": {
+      "company": "Amazon",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1779930365",
+      "title": "Software Engineer 1",
+      "url": "https://amazon.jobs/en/jobs/3141336/software-engineer-i"
+    },
     "simplify:amazon::simplify-8cfec360-0de7-4099-97df-66400369c836": {
       "company": "Amazon",
       "first_seen": "2026-06-29T20:12:41+00:00",
       "posted_at": "1770851522",
       "title": "Software Development Engineer Intern - Military Veteran",
       "url": "https://amazon.jobs/en/jobs/3179209/software-development-engineer-internship-military-veteran"
+    },
+    "simplify:amazon::simplify-9fc959fb-5511-4d94-a76d-f7175d92c3fc": {
+      "company": "Amazon",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1777644239",
+      "title": "Software Development Engineer",
+      "url": "https://amazon.jobs/en/jobs/10408763/software-development-engineer-2026"
+    },
+    "simplify:amazon::simplify-bfa6d860-85c2-4118-8d8c-e224b9e52584": {
+      "company": "Amazon",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1777932230",
+      "title": "Software Development Engineer",
+      "url": "https://amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us"
     },
     "simplify:amazon::simplify-c44d58c3-05e3-470a-9f21-4722f9d8522d": {
       "company": "Amazon",
@@ -690,12 +760,26 @@
       "title": "Software Development Engineer Intern",
       "url": "https://amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada"
     },
+    "simplify:amazon::simplify-e3155c50-29ce-48b3-a6f0-47903713b81b": {
+      "company": "Amazon",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1779930364",
+      "title": "ITS Support Engineer 1",
+      "url": "https://amazon.jobs/en/jobs/10432510/its-support-engineer-i"
+    },
     "simplify:anduril::simplify-59da20b4-89d9-4050-8d93-b79c0953d1c7": {
       "company": "Anduril",
       "first_seen": "2026-06-29T20:12:41+00:00",
       "posted_at": "1776895692",
       "title": "Early Career Software Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802146007"
+    },
+    "simplify:anduril::simplify-9b3d2be7-1291-4e46-8d88-5212363141cd": {
+      "company": "Anduril",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781216095",
+      "title": "Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007"
     },
     "simplify:anduril::simplify-a5a74a79-9e57-4bc6-b89d-a5635316f006": {
       "company": "Anduril",
@@ -711,6 +795,13 @@
       "title": "Software Engineer Intern",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007"
     },
+    "simplify:apple::simplify-0ad7f4c0-4ab8-4bed-8204-15a557a79c1e": {
+      "company": "Apple",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782972499",
+      "title": "Darwin Runtime Engineer - Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200668853"
+    },
     "simplify:apple::simplify-1c3d075a-8671-4995-b1ae-f11e46373031": {
       "company": "Apple",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -718,12 +809,61 @@
       "title": "SWE \u2013 Early Career - User Land Security Researcher - Sear",
       "url": "https://jobs.apple.com/en-us/details/200622968"
     },
+    "simplify:apple::simplify-1d6bc24e-7367-4dfd-9b3f-53a17c97a567": {
+      "company": "Apple",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1778076619",
+      "title": "Privacy-Preserving Machine Learning Privacy Engineering Rotation Intern",
+      "url": "https://jobs.apple.com/en-us/details/200658504"
+    },
     "simplify:apple::simplify-610568cb-c1f5-479d-922a-33dd9b2bda3a": {
       "company": "Apple",
       "first_seen": "2026-06-29T20:12:41+00:00",
       "posted_at": "1778076529",
       "title": "Software Engineer Intern - Visual Intelligence",
       "url": "https://jobs.apple.com/en-us/details/200604470"
+    },
+    "simplify:apple::simplify-707771fb-25df-4144-b1f3-3c16c3211429": {
+      "company": "Apple",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1779872735",
+      "title": "Software Engineer-SoC Level Validation Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200665150"
+    },
+    "simplify:apple::simplify-8673e698-fd13-4dcc-aef5-1ccc0e8dff9b": {
+      "company": "Apple",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1778076509",
+      "title": "Software Engineer Silicon Engineering Documentation Tools",
+      "url": "https://jobs.apple.com/en-us/details/200661584"
+    },
+    "simplify:apple::simplify-9dc730cf-7fa0-4052-b285-b1301c4db9e7": {
+      "company": "Apple",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1779430057",
+      "title": "Software Undergrad Engineer Intern",
+      "url": "https://jobs.apple.com/en-us/details/200664785"
+    },
+    "simplify:apple::simplify-ae2ced0f-f2e0-45de-9937-89deb69a3565": {
+      "company": "Apple",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782972444",
+      "title": "Software Engineer-Systems",
+      "url": "https://jobs.apple.com/en-us/details/200669153"
+    },
+    "simplify:apple::simplify-bda8e644-cbbf-4bf8-9a2b-14157ea1cb43": {
+      "company": "Apple",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1778076871",
+      "title": "Finder and Files Application Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200643671"
+    },
+    "simplify:apple::simplify-da7a12e5-701f-463f-9b1d-1a62bb743dfa": {
+      "company": "Apple",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1779430057",
+      "title": "Software PhD Intern",
+      "url": "https://jobs.apple.com/en-us/details/200664323"
     },
     "simplify:apple::simplify-e385d69d-8eb3-4a95-969e-3d2e6d216b1e": {
       "company": "Apple",
@@ -746,6 +886,13 @@
       "title": "Software Engineer-Backend Intern",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4681183006"
     },
+    "simplify:blue origin::simplify-3cf8c81a-cf6a-4d33-8b8a-e221d86aa57b": {
+      "company": "Blue Origin",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781129377",
+      "title": "Avionics Software Intern",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Spring-2027-Avionics-Software-Internship---Graduate_R66209"
+    },
     "simplify:blue origin::simplify-447da65c-cf16-4766-8c92-9114d245adf3": {
       "company": "Blue Origin",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -760,12 +907,33 @@
       "title": "Security Software Engineer Project Intern - Network Security - 2026 Start",
       "url": "https://jobs.bytedance.com/en/position/7600201731980675333/detail"
     },
+    "simplify:bytedance::simplify-0933265f-9c29-4dbd-b67d-a804773304d6": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1775869716",
+      "title": "Student Researcher - Seed Infra Compiler",
+      "url": "https://jobs.bytedance.com/en/position/7626504892836530485/detail"
+    },
     "simplify:bytedance::simplify-093acc82-ac5e-463e-8739-43de0fe8a38d": {
       "company": "ByteDance",
       "first_seen": "2026-06-29T20:12:41+00:00",
       "posted_at": "1780466900",
       "title": "Graduate Software Development Engineer",
       "url": "https://jobs.bytedance.com/en/position/7509266973236152583/detail"
+    },
+    "simplify:bytedance::simplify-0cbe5f0d-bc44-4b45-85bb-9272f05546e8": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1775023744",
+      "title": "Research Scientist in AI Foundation Model Infrastructure \u2013 Graduates - Seed",
+      "url": "https://jobs.bytedance.com/en/position/7623552015124154629/detail"
+    },
+    "simplify:bytedance::simplify-1a5bab17-a87a-4a4a-90a6-d59319742705": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780438068",
+      "title": "Software Engineer Graduate - Cloud Native Infrastructure",
+      "url": "https://jobs.bytedance.com/en/position/7540437542564301063/detail"
     },
     "simplify:bytedance::simplify-1c46b945-3a24-4c37-b029-66008dc23b63": {
       "company": "ByteDance",
@@ -781,6 +949,13 @@
       "title": "Security Software Engineer Project Intern - Network Security - BS/MS",
       "url": "https://jobs.bytedance.com/en/position/7618396290598045957/detail"
     },
+    "simplify:bytedance::simplify-1fbda922-46f7-467c-92fd-f4b3ee1dc2fd": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780438065",
+      "title": "Software Engineer Graduate - Cloud Native Infrastructure",
+      "url": "https://jobs.bytedance.com/en/position/7540430373219977479/detail"
+    },
     "simplify:bytedance::simplify-45f439c5-48ee-4f58-a636-14a5e0912e61": {
       "company": "ByteDance",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -795,12 +970,82 @@
       "title": "Graduate Software Engineer - Cloud Native Infrastructure",
       "url": "https://jobs.bytedance.com/en/position/7538951609075271943/detail"
     },
+    "simplify:bytedance::simplify-70940fcd-5a16-43f2-a8b6-6d04d6592298": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780466900",
+      "title": "RDMA Network Software Development Engineer Graduate - High Speed Network",
+      "url": "https://jobs.bytedance.com/en/position/7509266973013690631/detail"
+    },
+    "simplify:bytedance::simplify-77ff658e-cabb-48be-9248-a271f5f898ff": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1775023743",
+      "title": "Student Researcher - AI Foundation Model Infrastructure",
+      "url": "https://jobs.bytedance.com/en/position/7623552947364317445/detail"
+    },
+    "simplify:bytedance::simplify-788a250d-5057-4584-ba08-4aece01fb4c1": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780438067",
+      "title": "Software Engineer Graduate - Cloud Native Infrastructure - BS/MS",
+      "url": "https://jobs.bytedance.com/en/position/7540437283565848850/detail"
+    },
+    "simplify:bytedance::simplify-7bf6db8c-27ff-4940-b8ef-19a292ee39bd": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1773441116",
+      "title": "Student Researcher - AI Foundation Models Infrastructure - Seed Infra",
+      "url": "https://jobs.bytedance.com/en/position/7614301443042642229/detail"
+    },
+    "simplify:bytedance::simplify-864af4f6-3292-4ecc-9131-99c07de4bdd5": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1774660236",
+      "title": "Software Development Engineer - Network Monitoring & Alerts",
+      "url": "https://jobs.bytedance.com/en/position/7399926633496365321/detail"
+    },
+    "simplify:bytedance::simplify-88789b47-9fb6-403c-bad2-041cccae3d74": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780466894",
+      "title": "Research Intern - SDN Traffic Intelligence & Control",
+      "url": "https://jobs.bytedance.com/en/position/7537161497627281682/detail"
+    },
+    "simplify:bytedance::simplify-89ccf335-da8f-40af-b51d-6a73182f3f67": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1775686176",
+      "title": "Graduate Research Scientist - AI Agent Memory Infrastructure - PhD",
+      "url": "https://jobs.bytedance.com/en/position/7626145948402010421/detail"
+    },
     "simplify:bytedance::simplify-8d981cf1-c610-41cc-84d1-800ea078fd37": {
       "company": "ByteDance",
       "first_seen": "2026-06-29T20:12:41+00:00",
       "posted_at": "1780466896",
       "title": "Software Development Engineer Intern - Network Automation",
       "url": "https://jobs.bytedance.com/en/position/7537152632018012424/detail"
+    },
+    "simplify:bytedance::simplify-8e4681bc-b6c9-4d01-beaa-cc1ded6e2b9c": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780438068",
+      "title": "Software Engineer Graduate - Inference Infrastructure",
+      "url": "https://jobs.bytedance.com/en/position/7556509698578663687/detail"
+    },
+    "simplify:bytedance::simplify-8ec30018-f2c6-45b8-ba34-9afbf20eee7f": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780466897",
+      "title": "Research Intern - SDN Traffic Intelligence & Control",
+      "url": "https://jobs.bytedance.com/en/position/7537161874254776583/detail"
+    },
+    "simplify:bytedance::simplify-95aa47dc-146b-4b77-b4bf-c6e32f6d99ad": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1775023743",
+      "title": "Research Scientist in AI Foundation Model Infrastructure \u2013 Graduates",
+      "url": "https://jobs.bytedance.com/en/position/7623550778255165701/detail"
     },
     "simplify:bytedance::simplify-9736b037-9a12-4587-8cf7-4a4cdde4054f": {
       "company": "ByteDance",
@@ -830,6 +1075,20 @@
       "title": "Software Development Engineer Intern - Network Automation",
       "url": "https://jobs.bytedance.com/en/position/7537152240618195208/detail"
     },
+    "simplify:bytedance::simplify-ad0c0ea3-6eff-409b-91d6-adcf6f76c26e": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780466897",
+      "title": "Software Development Engineer Graduate - SDN Traffic Intelligence & Control",
+      "url": "https://jobs.bytedance.com/en/position/7509262736619571474/detail"
+    },
+    "simplify:bytedance::simplify-ce80bcf6-6d8c-468a-9fec-fb8418fd27af": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1763091532",
+      "title": "3D Graphics Engineer",
+      "url": "https://jobs.bytedance.com/en/position/7564516412456306997/detail"
+    },
     "simplify:bytedance::simplify-d55233d5-c04b-4722-b48b-b39c50e6b4c9": {
       "company": "ByteDance",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -843,6 +1102,13 @@
       "posted_at": "1770430243",
       "title": "Software Engineer Project Intern - Security Engineering",
       "url": "https://jobs.bytedance.com/en/position/7600176309125466373/detail"
+    },
+    "simplify:bytedance::simplify-de291dac-66b0-4867-84dc-697d2f4f487c": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1775869718",
+      "title": "Student Researcher - Seed Infra-Compiler - PhD",
+      "url": "https://jobs.bytedance.com/en/position/7626502798363920693/detail"
     },
     "simplify:bytedance::simplify-e26e8687-b77f-46d9-bdfe-01a22ce2be5e": {
       "company": "ByteDance",
@@ -865,6 +1131,13 @@
       "title": "Software Engineer Intern - Applied Machine Learning-Enterprise",
       "url": "https://jobs.bytedance.com/en/position/7533045355162044690/detail"
     },
+    "simplify:bytedance::simplify-f3007eae-7ae6-48d3-8e58-2c2ab54559dd": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1775023743",
+      "title": "Student Researcher - AI Foundation Model Infrastructure",
+      "url": "https://jobs.bytedance.com/en/position/7623552847531493685/detail"
+    },
     "simplify:bytedance::simplify-f9c3682d-25e0-42b3-aeb8-ae98854876fe": {
       "company": "ByteDance",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -879,6 +1152,20 @@
       "title": "Associate \u2013 New Grad Card Expansion - Software Engineer",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R236833"
     },
+    "simplify:cisco::simplify-dff4c026-8cab-4cdd-92eb-26189980b28c": {
+      "company": "Cisco",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1763557991",
+      "title": "Software Engineer Data/AI/Intelligent Systems I (Full Time)",
+      "url": "https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States"
+    },
+    "simplify:cloudflare::simplify-a7ef9f52-96c8-4e0d-8788-af7650bc8e9b": {
+      "company": "Cloudflare",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782944061",
+      "title": "Systems Engineer \u2013 Data Residency Intern - Global Resource Management",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8015230"
+    },
     "simplify:cohere::simplify-6a053db8-23fb-4075-8cbb-7ed2328d5f43": {
       "company": "Cohere",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -886,12 +1173,40 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application"
     },
+    "simplify:elevenlabs::simplify-adc5a21a-d562-41a3-a86d-b7855931a573": {
+      "company": "ElevenLabs",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1770246598",
+      "title": "Full-Stack Growth Engineer",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/5881bc5d-765a-430e-9d28-7d598a0e1a03/application"
+    },
     "simplify:gemini::simplify-33d49b99-ffcc-4d51-ab65-58a97d2afbf0": {
       "company": "Gemini",
       "first_seen": "2026-06-29T20:12:41+00:00",
       "posted_at": "1777673326",
       "title": "Software Engineer Intern",
       "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125"
+    },
+    "simplify:goldman sachs::simplify-3ac699af-5c50-4a7c-81af-6dfb56f595db": {
+      "company": "Goldman Sachs",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782742023",
+      "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978"
+    },
+    "simplify:google::simplify-e1b4d8a5-e0ba-4b52-9363-36b5f62610d9": {
+      "company": "Google",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780927520",
+      "title": "Software Engineer - Translation Mobile - Extended Reality",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/81260991748154054"
+    },
+    "simplify:hudson river trading::simplify-65d9dfbd-5d39-42b0-988c-dd59701000db": {
+      "company": "Hudson River Trading",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1770085762",
+      "title": "Software Engineer - Python",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7398013"
     },
     "simplify:imc trading::simplify-1c8d5fb4-7d30-4fff-adcc-7926baadf184": {
       "company": "IMC Trading",
@@ -907,12 +1222,26 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101"
     },
+    "simplify:intel::simplify-0f0efd25-01fa-419b-9d3a-916d06967722": {
+      "company": "Intel",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1779930577",
+      "title": "Frame Automation Software Engineer",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/LTD-Frame-Automation-Software-Engineer_JR0284284"
+    },
     "simplify:intel::simplify-438a49bd-1732-4815-b2b2-e048f205949f": {
       "company": "Intel",
       "first_seen": "2026-06-29T20:12:41+00:00",
       "posted_at": "1781215679",
       "title": "AI Software Engineer Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641"
+    },
+    "simplify:intel::simplify-6a9037a8-cfc4-43f5-841f-202346e3bfb4": {
+      "company": "Intel",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1776474487",
+      "title": "Image Processing Engineer - C++/Linux",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Image-Processing-Engineer--C---Linux-_JR0282835"
     },
     "simplify:intel::simplify-e18b5659-3658-49dd-a554-9ba2b49123a9": {
       "company": "Intel",
@@ -921,12 +1250,47 @@
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639"
     },
+    "simplify:intuit::simplify-55a00559-28b9-41bc-b6dc-cda5714e2846": {
+      "company": "Intuit",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1776118194",
+      "title": "Software Engineer 1",
+      "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720"
+    },
     "simplify:intuit::simplify-d249bf80-6b21-4361-bcab-b047533c7142": {
       "company": "Intuit",
       "first_seen": "2026-07-01T08:41:47+00:00",
       "posted_at": "1782770899",
       "title": "Software Developer Co-op",
       "url": "https://jobs.intuit.com/job/toronto/fall-2026-software-developer-co-op-8-months/27595/97091591056"
+    },
+    "simplify:intuit::simplify-de640e08-263c-44ff-ab17-1c5225ee4e2b": {
+      "company": "Intuit",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782425274",
+      "title": "Full Stack Software Developer 1",
+      "url": "https://jobs.intuit.com/job/toronto/full-stack-software-developer-i/27595/96927470608"
+    },
+    "simplify:jane street::simplify-d45ab101-255d-4a8e-b0ad-917ad0a1cc88": {
+      "company": "Jane Street",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1776780831",
+      "title": "Linux Engineer",
+      "url": "https://job-boards.greenhouse.io/janestreet/jobs/8061059002"
+    },
+    "simplify:microsoft::simplify-14db6e31-af67-481d-befd-ea19b152f57a": {
+      "company": "Microsoft",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782181299",
+      "title": "AI Engineer 2 & Senior AI Engineer - Getting Customers Ready for AI",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556899615"
+    },
+    "simplify:microsoft::simplify-31b3c490-c657-472c-8aec-d367ec0d3a3a": {
+      "company": "Microsoft",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782770988",
+      "title": "Software Engineer 2",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556917742"
     },
     "simplify:mongodb::simplify-34e5f044-5304-4c9e-af40-55a70118657b": {
       "company": "MongoDB",
@@ -984,6 +1348,13 @@
       "title": "Software Engineer New Grad - Performance",
       "url": "https://nuro.ai/careersitem?gh_jid=7978432"
     },
+    "simplify:nvidia::simplify-0317c6ee-8867-463c-899c-dab81eee99b4": {
+      "company": "NVIDIA",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782957642",
+      "title": "PhD Research Intern - System Software and I/O Architecture",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667"
+    },
     "simplify:nvidia::simplify-2b993794-3395-48ae-a0ac-7d78d66b56aa": {
       "company": "NVIDIA",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -998,12 +1369,33 @@
       "title": "Software Engineering Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745"
     },
+    "simplify:nvidia::simplify-5da6cb6c-5d67-4819-ad52-80be74042612": {
+      "company": "NVIDIA",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782957559",
+      "title": "Compiler Engineer New Grad",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer---Smart-Network-Devices--New-College-Grad-2026_JR2020535"
+    },
+    "simplify:nvidia::simplify-cf5b742b-7660-43e5-969b-f4a57b8b9935": {
+      "company": "NVIDIA",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782957556",
+      "title": "Java Engineer Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Java-Engineering-Intern---Fall-2026_JR2019769"
+    },
     "simplify:nvidia::simplify-d2de708b-89ff-406f-bd7a-70f5d52cf392": {
       "company": "NVIDIA",
       "first_seen": "2026-06-29T20:12:41+00:00",
       "posted_at": "1779528687",
       "title": "PhD Software Engineer Intern - Decision Intelligence",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522"
+    },
+    "simplify:openai::simplify-b522993e-8dbe-4f12-a486-e92174ac0fda": {
+      "company": "OpenAI",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1767751980",
+      "title": "Software Engineer - Cooperative AI",
+      "url": "https://jobs.ashbyhq.com/openai/7613aca3-9dd8-41cd-b114-06ef4de967a9/application"
     },
     "simplify:optiver::simplify-1e2b7529-adf7-49ab-8d4a-8979fab4e3e9": {
       "company": "Optiver",
@@ -1054,12 +1446,33 @@
       "title": "Software Engineer Intern - Ovip",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333"
     },
+    "simplify:oracle::simplify-a3b2484c-c68d-46ca-ac1b-30899e81b01f": {
+      "company": "Oracle",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781820322",
+      "title": "Software Developer 3",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/337610"
+    },
+    "simplify:oracle::simplify-c8d01702-9baf-46fb-b887-f54a8f24a12a": {
+      "company": "Oracle",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1764804755",
+      "title": "Oracle Pathways Software School Intern",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/318087"
+    },
     "simplify:oracle::simplify-ca02d914-593b-486b-8f1a-3cbedfb545cd": {
       "company": "Oracle",
       "first_seen": "2026-06-29T20:12:41+00:00",
       "posted_at": "1766247431",
       "title": "Advanced Degree Software Engineer Intern - Industries",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/320947"
+    },
+    "simplify:oracle::simplify-d814462b-3da1-4eea-a608-4b26245a5207": {
+      "company": "Oracle",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781831109",
+      "title": "Senior Configuration Analyst - Pathnet Blood Bank",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/337358"
     },
     "simplify:palantir::simplify-01a5ff88-29a2-4b09-9814-582b4e1fe212": {
       "company": "Palantir",
@@ -1194,12 +1607,26 @@
       "title": "Palantir Software Engineer Intern - Forward Deployed Software Engineer - Commercial",
       "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3/apply"
     },
+    "simplify:palantir::simplify-6f509f3e-5e63-482f-8eb9-7847a0c9d9b6": {
+      "company": "Palantir",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782511501",
+      "title": "Privacy & Civil Liberties Engineer New Grad",
+      "url": "https://jobs.lever.co/palantir/95e0d2b0-437a-4096-a5c6-0f247f426c90/apply"
+    },
     "simplify:palantir::simplify-7107711b-0874-460d-932c-0c0d7b729f42": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
       "posted_at": "1778796362",
       "title": "Year at Palantir Intern - Forward Deployed Software Engineer",
       "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019/apply"
+    },
+    "simplify:palantir::simplify-7e134007-3fa8-4732-84ca-e7119c8f4116": {
+      "company": "Palantir",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1762540600",
+      "title": "Software Engineer",
+      "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply"
     },
     "simplify:palantir::simplify-9f078de1-afbf-46ec-a41a-9ed1bd030aa0": {
       "company": "Palantir",
@@ -1306,6 +1733,279 @@
       "title": "Forward Deployed Software Engineer Intern - Commercial",
       "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply"
     },
+    "simplify:palo alto networks::simplify-01788188-df5d-4bc7-8a1c-b32f1569da13": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943818",
+      "title": "Software Engineer Intern",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011589"
+    },
+    "simplify:palo alto networks::simplify-01d46802-0616-4267-b69b-e69902565213": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943822",
+      "title": "Software Engineer Intern",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011598"
+    },
+    "simplify:palo alto networks::simplify-03846952-d653-4d85-82ca-f4d9b87f6a53": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943821",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011526"
+    },
+    "simplify:palo alto networks::simplify-0e4a7168-4066-4c3d-a37e-732f9fe8db1c": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943821",
+      "title": "Software Engineer Intern",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011595"
+    },
+    "simplify:palo alto networks::simplify-116541fa-771d-4823-a666-0884c8ececfd": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943821",
+      "title": "Software Engineer Intern",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011599"
+    },
+    "simplify:palo alto networks::simplify-148f5d32-0272-4e18-8f2a-7b0e48c7fa21": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943820",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011522"
+    },
+    "simplify:palo alto networks::simplify-1e93719f-be56-4b80-ade4-8960827c0469": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943833",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011505"
+    },
+    "simplify:palo alto networks::simplify-21161652-9269-4156-abf9-9cd2dd5a5c08": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943822",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011517"
+    },
+    "simplify:palo alto networks::simplify-2b07160e-c4a3-4106-afed-f3aa356288a7": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943822",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011521"
+    },
+    "simplify:palo alto networks::simplify-377693c9-171b-4df1-8bcc-6cb070ca6cee": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943820",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011530"
+    },
+    "simplify:palo alto networks::simplify-38bfa52f-a27c-4720-83bc-a784421b3807": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943820",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011531"
+    },
+    "simplify:palo alto networks::simplify-624c0133-f465-4e8f-aba1-48f1e5507db3": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943823",
+      "title": "Software Engineer \u2013 Bachelors Pipeline",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/SWE---Bachelors-Pipeline--NCG-_JR-010195"
+    },
+    "simplify:palo alto networks::simplify-6910d1ac-48bc-4244-8d72-826b8363066f": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943823",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011504"
+    },
+    "simplify:palo alto networks::simplify-6e69997b-700a-45d9-802f-0b918f67f279": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943820",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011516"
+    },
+    "simplify:palo alto networks::simplify-74333d30-58ba-4ff7-8045-b83f0f107e27": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943821",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011535"
+    },
+    "simplify:palo alto networks::simplify-81ba1e38-8f0f-46fc-9ea3-58930bd9d5b1": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943821",
+      "title": "Software Engineer Intern",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011605"
+    },
+    "simplify:palo alto networks::simplify-84e71300-87d8-4137-b668-e505942b7dc7": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943824",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011528"
+    },
+    "simplify:palo alto networks::simplify-87f322af-ad80-4204-84c9-8fd007bad17c": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943822",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011511"
+    },
+    "simplify:palo alto networks::simplify-9565cf4f-99e7-4693-a5c0-4e0d6f8e10dc": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943820",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011519"
+    },
+    "simplify:palo alto networks::simplify-99ce2c9b-4b87-41b8-b970-321354839c77": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943823",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011529"
+    },
+    "simplify:palo alto networks::simplify-9e72b9a6-a1e0-451b-a985-64a2ef4d7171": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943822",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011544"
+    },
+    "simplify:palo alto networks::simplify-a563a6da-dcd7-4320-a60e-89e6021a35c9": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943821",
+      "title": "Software Engineer Intern",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer--Bachelor-s-_JR-010190"
+    },
+    "simplify:palo alto networks::simplify-b7d021aa-5607-4809-a3f2-fec2242c4ac8": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943822",
+      "title": "Software Engineer Intern",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011602"
+    },
+    "simplify:palo alto networks::simplify-c038aac0-6db1-415c-a34c-0eadd28627fb": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943819",
+      "title": "Software Engineer Intern",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011603"
+    },
+    "simplify:palo alto networks::simplify-c34ca314-19b9-470e-9a50-e2bd7cc25d8e": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943821",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011523"
+    },
+    "simplify:palo alto networks::simplify-c58457ce-e22e-4633-bddb-0886f0537cc2": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943820",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011524"
+    },
+    "simplify:palo alto networks::simplify-cf3d79b9-1918-43b5-8ad0-b027987ed266": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943822",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011497"
+    },
+    "simplify:palo alto networks::simplify-d02026d4-2f71-4409-b31d-8f9903fd4492": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943822",
+      "title": "Staff Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Staff-Software-Engineer_JR-013408"
+    },
+    "simplify:palo alto networks::simplify-d15d5660-4610-47ec-a1ec-ef087f9dea4f": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943819",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011539"
+    },
+    "simplify:palo alto networks::simplify-e0e1a29a-d1cb-4648-a75c-6916cdc8cbfe": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943824",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-010172"
+    },
+    "simplify:palo alto networks::simplify-e7d75784-3452-4e8b-ab92-f6c42a3641c1": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943821",
+      "title": "Software Engineer Intern",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011570"
+    },
+    "simplify:palo alto networks::simplify-f31feaa4-e89d-4c20-b16e-06bd9d94cc8f": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943821",
+      "title": "Software Engineer Intern",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011594"
+    },
+    "simplify:palo alto networks::simplify-f520ebfe-2fb2-464b-ad24-a35fca378024": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943822",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011520"
+    },
+    "simplify:palo alto networks::simplify-fd7ab8ef-51eb-4509-94ee-5b644a84cf76": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943824",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011506"
+    },
+    "simplify:palo alto networks::simplify-fe99f8f0-316b-46b5-8453-78ece4219304": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782943822",
+      "title": "Software Engineer Intern",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011590"
+    },
+    "simplify:perplexity ai::simplify-e9bddf7b-c66c-41f2-a149-321d40ff2a9b": {
+      "company": "Perplexity AI",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782436146",
+      "title": "Member of Technical Staff - AI Policy and Strategic Initiatives",
+      "url": "https://jobs.ashbyhq.com/Perplexity/91b941ae-0bd0-4322-8c0e-491abacdc33a/application"
+    },
+    "simplify:playstation::simplify-5b657cc4-20ce-4094-a37e-f219f0ce9265": {
+      "company": "PlayStation",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1774908806",
+      "title": "Software Engineer 1",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5840958004"
+    },
+    "simplify:qualcomm::simplify-91387a3c-cb9a-4442-904b-ae76cac858ab": {
+      "company": "Qualcomm",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1766110989",
+      "title": "GPU Kernel Development Engineer - Multiple Levels Available - Graphics Software Engineering",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446715939731"
+    },
+    "simplify:red hat::simplify-36ff8e0b-f625-4828-b84a-5d968bf1d5e1": {
+      "company": "Red Hat",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1779401104",
+      "title": "Software Engineer",
+      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Software-Engineer_R-057365"
+    },
     "simplify:rippling::simplify-0271dfee-afcf-4a95-ad39-156710edc8ce": {
       "company": "Rippling",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -1326,6 +2026,48 @@
       "posted_at": "1780697360",
       "title": "Software Engineer Intern - Backend Focused",
       "url": "https://ats.rippling.com/rippling/jobs/00cbc991-d2fb-452c-a8b6-2978f109a484"
+    },
+    "simplify:robinhood::simplify-836979c6-5b5b-4052-b554-a29bef35e938": {
+      "company": "Robinhood",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780438253",
+      "title": "Software Engineer",
+      "url": "https://boards.greenhouse.io/robinhood/jobs/7975516"
+    },
+    "simplify:rocket lab usa::simplify-37998569-3501-402e-baa5-4dcdbf1b7bae": {
+      "company": "Rocket Lab USA",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1779402163",
+      "title": "Software Intern",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7736776003"
+    },
+    "simplify:salesforce::simplify-2306c8cb-5299-4e79-9eb0-b728d55ed1ca": {
+      "company": "Salesforce",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782955874",
+      "title": "Software Engineering MTS - Salesforce Engineer",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Salesforce-Developer_JR318246"
+    },
+    "simplify:salesforce::simplify-5ffb792a-06f6-4670-b8ba-24c5402f1824": {
+      "company": "Salesforce",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1774908272",
+      "title": "Software Engineering AMTS College Grad",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400"
+    },
+    "simplify:salesforce::simplify-9c9d72e2-4773-4a77-b5c5-5776ba645c14": {
+      "company": "Salesforce",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1771640186",
+      "title": "Software Engineering AMTS/MTS \u2013 College Grad",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1"
+    },
+    "simplify:scale ai::simplify-10f26a2e-0806-4a95-ab5a-9937df1917fa": {
+      "company": "Scale AI",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780726158",
+      "title": "AI Builder Intern",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005"
     },
     "simplify:seatgeek::simplify-497ebde0-832e-47ef-be0f-4960afd0a13a": {
       "company": "SeatGeek",
@@ -1355,12 +2097,173 @@
       "title": "Middleware Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915/application"
     },
+    "simplify:snowflake::simplify-79cff93c-d811-4bef-a7ef-af475aef4d67": {
+      "company": "Snowflake",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1778537262",
+      "title": "Software Engineer - Snowflake Postgres",
+      "url": "https://jobs.ashbyhq.com/snowflake/19ff5740-e678-4f43-a6c6-29bab94fbc21/application"
+    },
+    "simplify:spacex::simplify-11300faa-161b-483b-9520-12054a5957e6": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1770103404",
+      "title": "Full Stack Software Engineer - Top Secret Clearance",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8397609002"
+    },
+    "simplify:spacex::simplify-15ab606d-06a7-4c26-a9f0-13694d5b2e85": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781831744",
+      "title": "Application Software Engineer - Manufacturing Systems",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8600012002"
+    },
+    "simplify:spacex::simplify-1754d523-64ad-4dea-b74a-f246efa815db": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1776129506",
+      "title": "Full Stack Software Engineer",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8501225002"
+    },
+    "simplify:spacex::simplify-2008e979-6d81-4fe7-9be3-e05bce3c0990": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1772494104",
+      "title": "Radio Frequency Silicon Software Engineer - Radio Frequency Integrated Circuit Engineering",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8439627002"
+    },
+    "simplify:spacex::simplify-2aec360c-7d97-44c9-90e1-5ad25913c551": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1779919835",
+      "title": "Software Engineer - Hardware Test & Automation - Starlink",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8565155002"
+    },
+    "simplify:spacex::simplify-32f28caf-1112-476e-abf0-98d17b1d1c30": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781821063",
+      "title": "Software Engineer - High Assurance Test - Starshield",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8550675002"
+    },
+    "simplify:spacex::simplify-404802e3-b765-48db-b1b1-78b712cdd293": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1779401495",
+      "title": "Software Engineer - Platform Team",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8560537002"
+    },
+    "simplify:spacex::simplify-423da967-d87f-4eb2-878e-67789a6b375b": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782177415",
+      "title": "Application Software Engineer - Manufacturing",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8603667002"
+    },
+    "simplify:spacex::simplify-4eb66fa6-dd81-415a-9719-a5c8c1e7e12b": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1779401495",
+      "title": "Software Engineer - Platform Team",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8560546002"
+    },
+    "simplify:spacex::simplify-5a89b36a-15cb-426f-8483-93092c9b170e": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1772637507",
+      "title": "Software Engineer - Cdn - Starlink",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8448505002"
+    },
     "simplify:spacex::simplify-72234fcf-6866-4797-aa4b-afd49f2e7924": {
       "company": "SpaceX",
       "first_seen": "2026-06-29T20:12:41+00:00",
       "posted_at": "1773699945",
       "title": "Software Engineering Intern/Co-op",
       "url": "https://boards.greenhouse.io/spacex/jobs/8403219002"
+    },
+    "simplify:spacex::simplify-778e1777-fab9-418c-a38b-1acb7ac03dd1": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781821066",
+      "title": "Software Engineer - Pcba - Starlink",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8584271002"
+    },
+    "simplify:spacex::simplify-7ded4e20-5915-4f94-be05-cbe546931c8b": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1770333365",
+      "title": "Full Stack Software Engineer",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8398604002"
+    },
+    "simplify:spacex::simplify-821b8f90-dfea-4ed9-b42f-afc50d5fe33f": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780006233",
+      "title": "Software Engineer - Starlink Mobile",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8567634002"
+    },
+    "simplify:spacex::simplify-89193688-20ca-44aa-b2df-5bc8c90e3cf9": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1775513995",
+      "title": "Full Stack Software Engineer - Application Software",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8495180002"
+    },
+    "simplify:spacex::simplify-9c5494a4-fb44-4218-bc4d-4a41e1f6f607": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781129274",
+      "title": "Software Engineer - Hardware-in-the-Loop - Starlink",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8583074002"
+    },
+    "simplify:spacex::simplify-ab5425fe-34cf-4b24-ace3-73fdb7eb3b44": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781053721",
+      "title": "Software Engineer - Test Infrastructure - Application Software",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8585072002"
+    },
+    "simplify:spacex::simplify-c8ebd7cf-ad8f-40af-b281-b1f22b13842f": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1779315080",
+      "title": "Software Engineer - Platform Team",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8558859002"
+    },
+    "simplify:spacex::simplify-cb57e254-4f39-4f51-8730-e469091a4650": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1771456993",
+      "title": "Software Engineer - Tracking - Starshield",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8414648002"
+    },
+    "simplify:spacex::simplify-ceb2a9a3-fcd7-4b2b-ae29-f17de014d0f8": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1768606797",
+      "title": "New Graduate Engineer - Software - Starlink",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8376990002"
+    },
+    "simplify:spacex::simplify-ed8feb9e-1d5d-49ae-a70f-b4d24228a9d6": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1779343906",
+      "title": "OS/Platform Software Engineer - Starlink",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8552882002"
+    },
+    "simplify:spacex::simplify-f651121d-673f-4c6a-9e6f-431307f6601d": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780449039",
+      "title": "Software Engineer - Components - Starshield",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8575987002"
+    },
+    "simplify:spacex::simplify-f882cdb9-df98-4ee6-a167-e778ea4c4a50": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1779487816",
+      "title": "Software Engineer - Flight Software - Starship",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8562284002"
     },
     "simplify:stripe::simplify-a55aca04-011d-41fa-949e-be14c4e3956f": {
       "company": "Stripe",
@@ -1390,12 +2293,26 @@
       "title": "Software Engineer Intern - Linux Update Systems",
       "url": "https://www.tesla.com/careers/search/job/266986"
     },
+    "simplify:tesla::simplify-1941cf58-d377-4f13-8d66-ee6d978d4f5a": {
+      "company": "Tesla",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781820624",
+      "title": "Frontend Software Engineer - Infrastructure",
+      "url": "https://www.tesla.com/careers/search/job/274330"
+    },
     "simplify:tesla::simplify-27b0ff71-9c47-4670-a917-7c371d53f755": {
       "company": "Tesla",
       "first_seen": "2026-06-29T20:12:41+00:00",
       "posted_at": "1781647916",
       "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Steering,Chassis Systems",
       "url": "https://www.tesla.com/careers/search/job/274047"
+    },
+    "simplify:tesla::simplify-308cebd0-af4e-4e6f-8da2-0a9a58a1182f": {
+      "company": "Tesla",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780794816",
+      "title": "Fullstack Engineer Intern - Fullstack Engineer - Build Infrastructure",
+      "url": "https://www.tesla.com/careers/search/job/267005"
     },
     "simplify:tesla::simplify-31c33423-00ae-4812-8d33-cdb0744b3c81": {
       "company": "Tesla",
@@ -1418,6 +2335,13 @@
       "title": "Software Engineer Intern - Software Engineer - Update Systems",
       "url": "https://www.tesla.com/careers/search/job/267002"
     },
+    "simplify:tesla::simplify-358798bb-3dee-4d2f-a674-03e9665aead1": {
+      "company": "Tesla",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1778050996",
+      "title": "Machine Learning Platform Intern - Multiple Teams",
+      "url": "https://www.tesla.com/careers/search/job/269812"
+    },
     "simplify:tesla::simplify-3d51e2e5-16ae-4dcc-80ae-e0198058f1e0": {
       "company": "Tesla",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -1438,6 +2362,13 @@
       "posted_at": "1778050930",
       "title": "Software Engineer Intern - Integration Tools",
       "url": "https://www.tesla.com/careers/search/job/269445"
+    },
+    "simplify:tesla::simplify-4ad87d63-2221-4e93-9644-1fafb2275d88": {
+      "company": "Tesla",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781639081",
+      "title": "Systems Modeling & Optimization Intern - Robotaxi Simulation Engineer - Systems Modeling & Optimization",
+      "url": "https://www.tesla.com/careers/search/job/273933"
     },
     "simplify:tesla::simplify-4c400c0a-2206-461c-9b0e-098446c599a8": {
       "company": "Tesla",
@@ -1488,6 +2419,13 @@
       "title": "Software Engineer Intern - Software Engineer - AI Hardware Infrastructure",
       "url": "https://www.tesla.com/careers/search/job/260382"
     },
+    "simplify:tesla::simplify-630f6c80-efb2-4a6c-9c00-0dbd2f998d26": {
+      "company": "Tesla",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780823238",
+      "title": "Physics Engine Development Intern - Physics Engine Development Engineer - Optimus",
+      "url": "https://www.tesla.com/careers/search/job/257048"
+    },
     "simplify:tesla::simplify-64725ad4-eb28-4c0e-8af0-7e56f560abc2": {
       "company": "Tesla",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -1516,6 +2454,13 @@
       "title": "Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy",
       "url": "https://www.tesla.com/careers/search/job/271352"
     },
+    "simplify:tesla::simplify-8422ee5e-41c5-42df-93e9-13a2f1f8efda": {
+      "company": "Tesla",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781639085",
+      "title": "Data Capture Engineering Intern - Data Capture Application Engineer - Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/273927"
+    },
     "simplify:tesla::simplify-85552c86-a402-4c13-80b0-25f02bf023cb": {
       "company": "Tesla",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -1543,6 +2488,13 @@
       "posted_at": "1780842585",
       "title": "Embedded Systems Software Engineer Intern - Embedded Systems Software Engineer - AI Platforms",
       "url": "https://www.tesla.com/careers/search/job/270778"
+    },
+    "simplify:tesla::simplify-8f121dc0-1713-477e-834e-8e750c15465c": {
+      "company": "Tesla",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782886099",
+      "title": "Vehicle Software Intern - Torque Path & Chassis Controls",
+      "url": "https://www.tesla.com/careers/search/job/274760"
     },
     "simplify:tesla::simplify-91e02296-e111-4285-9087-9c63a3cb566b": {
       "company": "Tesla",
@@ -1614,12 +2566,40 @@
       "title": "Software Engineer Intern - Software Engineer Industrial Firmware - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/273820"
     },
+    "simplify:tesla::simplify-cd64a5ea-e39f-46da-9968-2118ff190093": {
+      "company": "Tesla",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782263415",
+      "title": "Product Management Intern - Product Engineer - Applications Engineering",
+      "url": "https://www.tesla.com/careers/search/job/274754"
+    },
+    "simplify:tesla::simplify-cf47c883-2639-4a34-8c85-22ca57d03eea": {
+      "company": "Tesla",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780755075",
+      "title": "Service Engineering Intern - Product Support Engineer - Service Engineering",
+      "url": "https://www.tesla.com/careers/search/job/271630"
+    },
+    "simplify:tesla::simplify-d8407a57-173d-4104-a650-05c5456bd0b5": {
+      "company": "Tesla",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780794797",
+      "title": "Mobile Applications Engineering Intern - Android Engineer - Mobile Software",
+      "url": "https://www.tesla.com/careers/search/job/266980"
+    },
     "simplify:tesla::simplify-e3572f00-4cdb-46a4-aff9-c31ac7612f18": {
       "company": "Tesla",
       "first_seen": "2026-06-29T20:12:41+00:00",
       "posted_at": "1780812729",
       "title": "Internship - Software Engineer - Maps & Navigation Validation - Fall 2026",
       "url": "https://www.tesla.com/careers/search/job/270186"
+    },
+    "simplify:tesla::simplify-e5e96098-6521-4bb0-8994-3127501c8908": {
+      "company": "Tesla",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780812897",
+      "title": "AI Inference Engineer Intern - Software Compiler Engineer - AI Inference",
+      "url": "https://www.tesla.com/careers/search/job/263211"
     },
     "simplify:tesla::simplify-e899751e-0313-4b38-844c-137b5cba368a": {
       "company": "Tesla",
@@ -1642,6 +2622,286 @@
       "title": "Software Engineer Intern - Fullstack Software Engineer - Fleetnet",
       "url": "https://www.tesla.com/careers/search/job/266764"
     },
+    "simplify:tiktok::simplify-00e70c4e-9171-45b8-a583-f063356c94e1": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1773565826",
+      "title": "Backend Software Engineer Intern - Foundation Platform",
+      "url": "https://lifeattiktok.com/search/7538307729329277202"
+    },
+    "simplify:tiktok::simplify-0226ad2b-76b9-4a34-83eb-b0dd7ee4e68e": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1762771383",
+      "title": "Software Engineer Graduate (Data Arch - Data Ecosystem)",
+      "url": "https://lifeattiktok.com/search/7535220808265681159"
+    },
+    "simplify:tiktok::simplify-0e83c8c5-9327-4ec4-94be-d0454a2f596b": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781503945",
+      "title": "Software Engineer/Mobile Engineer Intern - Monetization Technology - Ads Core Demonstration",
+      "url": "https://lifeattiktok.com/search/7532444719809628424"
+    },
+    "simplify:tiktok::simplify-16f1fcf2-38ef-4e04-9a67-4b82b5c9433c": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1772003686",
+      "title": "Software Engineer Intern - Multiple Teams",
+      "url": "https://lifeattiktok.com/search/7533295761208559890"
+    },
+    "simplify:tiktok::simplify-177690e4-6703-4698-a2bd-350db211f356": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1774966426",
+      "title": "Software Engineer Intern - AI Model Optimization",
+      "url": "https://lifeattiktok.com/search/7540823148805032210"
+    },
+    "simplify:tiktok::simplify-1ada89a0-c765-47f9-8ed0-e353250a765d": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1775610739",
+      "title": "Software Engineer Graduate",
+      "url": "https://lifeattiktok.com/search/7532009150009755911"
+    },
+    "simplify:tiktok::simplify-213cf83e-b4b0-4179-9a19-d3e6c3e4518b": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1779948705",
+      "title": "Software Engineer Intern - Recommendation Infrastructure",
+      "url": "https://lifeattiktok.com/search/7534878965941766408"
+    },
+    "simplify:tiktok::simplify-35d73839-e8d5-46bd-9d06-9cfafc3a8c62": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782956219",
+      "title": "Frontend Software Engineer Project Intern - Global CRM",
+      "url": "https://lifeattiktok.com/search/7654431844394322229"
+    },
+    "simplify:tiktok::simplify-42b0f3dc-9fe2-4f26-ac9b-eaaa21075017": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1769469496",
+      "title": "Software Engineer Intern - Ads Interface Platform",
+      "url": "https://lifeattiktok.com/search/7473334964256393479"
+    },
+    "simplify:tiktok::simplify-47768da2-8643-4881-8249-a78543064605": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1780996220",
+      "title": "AI Software Engineer Intern - Transaction Platform",
+      "url": "https://lifeattiktok.com/search/7646621925436131637"
+    },
+    "simplify:tiktok::simplify-504f0b08-afb2-4964-b3cd-5dee1937b1ad": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781503901",
+      "title": "Frontend Software Engineer - Global CRM Platform",
+      "url": "https://lifeattiktok.com/search/7104433489986734350"
+    },
+    "simplify:tiktok::simplify-691d2914-24b3-4473-8d84-3ea9c6d4ee39": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1769048068",
+      "title": "Technical Support Engineer - Android/iOS SDK",
+      "url": "https://lifeattiktok.com/search/7443902253976570120"
+    },
+    "simplify:tiktok::simplify-779d2f66-723d-4e79-8ccb-416f18693b9e": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781503951",
+      "title": "Software Engineer Intern - Monetization Technology - Ads Creative",
+      "url": "https://lifeattiktok.com/search/7532460740410738952"
+    },
+    "simplify:tiktok::simplify-779f212c-f34e-4260-b5af-2e54a8c159fb": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781503945",
+      "title": "Software Engineer Project Intern - Platform efficiency",
+      "url": "https://lifeattiktok.com/search/7530513185797359880"
+    },
+    "simplify:tiktok::simplify-799037f7-5af0-47ab-9dc8-b77d7a0fa096": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1774505827",
+      "title": "Software Engineer Project Intern - Content AI Infrastructure",
+      "url": "https://lifeattiktok.com/search/7621299118434961669"
+    },
+    "simplify:tiktok::simplify-7a8c16e6-b29e-441d-9635-d193fe1c96fa": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781503937",
+      "title": "Software Engineer Graduate",
+      "url": "https://lifeattiktok.com/search/7531175534148045063"
+    },
+    "simplify:tiktok::simplify-7cbf5e66-95b6-4b66-b41f-fa9cdeadcadc": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1769123849",
+      "title": "Software Engineer Intern - Commerce Ads - 2026 Summer",
+      "url": "https://lifeattiktok.com/search/7595346355196954933"
+    },
+    "simplify:tiktok::simplify-83c3132a-5b70-4dc2-84ee-d9cbdf95535b": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1768435653",
+      "title": "Frontend Software Engineer Intern - Ads Measurement Signal and Privacy",
+      "url": "https://lifeattiktok.com/search/7595306554946193717"
+    },
+    "simplify:tiktok::simplify-85c7ef68-e176-469b-920b-6d6e0dfda0e3": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1776953473",
+      "title": "Software Engineer Intern - Multiple Teams",
+      "url": "https://lifeattiktok.com/search/7527618943449909522"
+    },
+    "simplify:tiktok::simplify-89f594f1-36b8-4da1-a6b7-4c345fc51e0b": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1768529851",
+      "title": "Frontend Engineer Intern",
+      "url": "https://lifeattiktok.com/search/7595733632086591797"
+    },
+    "simplify:tiktok::simplify-8ac7eb44-6399-4d0c-a4f2-b563664d76d2": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1768443441",
+      "title": "Software Engineer Intern - Global Site Reliability Engineer",
+      "url": "https://lifeattiktok.com/search/7536042624604997896"
+    },
+    "simplify:tiktok::simplify-8e3d641a-8bc6-43f8-9fc3-16e49711a6d9": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1776676329",
+      "title": "Software Engineer Project Intern - Recommendation Infrastructure",
+      "url": "https://lifeattiktok.com/search/7629500062003218741"
+    },
+    "simplify:tiktok::simplify-a07c63b9-4897-47fe-89b2-3dbd74199d97": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1771830913",
+      "title": "Software Engineer Project Intern - Video-on-Demand Algorithm - 2026 Start','BS/MS",
+      "url": "https://lifeattiktok.com/search/7609019984313452805"
+    },
+    "simplify:tiktok::simplify-ac124cf6-870e-4078-b871-ec6c45459919": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781503948",
+      "title": "Backend Software Engineer Intern - Media Platform",
+      "url": "https://lifeattiktok.com/search/7538301580093720840"
+    },
+    "simplify:tiktok::simplify-b615c259-2137-4453-b93f-ca3cdfe6995d": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1769642097",
+      "title": "Security Software Engineer Project Intern - Product Security - 2026 Start",
+      "url": "https://lifeattiktok.com/search/7600535181632457013"
+    },
+    "simplify:tiktok::simplify-c5b25325-04c9-4ecd-af56-abb6aeaa6da2": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781503936",
+      "title": "Software Engineer Intern - Monetization Technology",
+      "url": "https://lifeattiktok.com/search/7561941583777941813"
+    },
+    "simplify:tiktok::simplify-c6b69846-839a-44c7-b22c-fa62c69a2ffd": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1764641787",
+      "title": "GPU/AI Application System Software Engineer Intern - System Technologies and Engineering - 2026 Summer",
+      "url": "https://lifeattiktok.com/search/7572358528171510069"
+    },
+    "simplify:tiktok::simplify-c89cddfc-ea4d-453c-91cd-3f9293e56a32": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781503952",
+      "title": "Software Engineer - Data Arch - Data Ecosystem",
+      "url": "https://lifeattiktok.com/search/7527441329384147208"
+    },
+    "simplify:tiktok::simplify-d7a737ee-392f-4ed2-97f3-7b7b61ebefd5": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781503942",
+      "title": "Software Engineer Graduate - Experimentation and Evaluation",
+      "url": "https://lifeattiktok.com/search/7533278507406182674"
+    },
+    "simplify:tiktok::simplify-e2e06e62-480d-4138-935e-deee2f8784fd": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1768605546",
+      "title": "Frontend Engineer Intern - Ads Interface and Platform",
+      "url": "https://lifeattiktok.com/search/7595344466313529653"
+    },
+    "simplify:tiktok::simplify-e7d90cdc-955f-4bb2-8a94-81ea48265d84": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1768443444",
+      "title": "Software Engineer Intern - Ads Infrastructure",
+      "url": "https://lifeattiktok.com/search/7572665884037826869"
+    },
+    "simplify:tiktok::simplify-e7edc8a3-8756-4127-82d1-45ef3ff3cee4": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1770430378",
+      "title": "Security Software Engineer Project Intern - Product Security - 2026 Start",
+      "url": "https://lifeattiktok.com/search/7600536394771564853"
+    },
+    "simplify:tiktok::simplify-f553c9db-3713-4057-af64-1d08966b7ed4": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1781503935",
+      "title": "Software Engineer Intern - Capital Platform",
+      "url": "https://lifeattiktok.com/search/7534536157456058632"
+    },
+    "simplify:tiktok::simplify-f7d5b131-06e8-4d41-8a6a-3513004116da": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1767828476",
+      "title": "General Hire \u2013 Software Engineer Intern",
+      "url": "https://lifeattiktok.com/search/7592368550477465909"
+    },
+    "simplify:tiktok::simplify-fd5ce344-8090-4978-9130-22580b2ba64d": {
+      "company": "TikTok",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1765840896",
+      "title": "Software Engineer Project Intern \u2013 Lead Ads - 2026 Start - BS/MS",
+      "url": "https://lifeattiktok.com/search/7584179082162653445"
+    },
+    "simplify:together ai::simplify-5da20293-2c74-42a8-8b06-4bfd19c76280": {
+      "company": "Together AI",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1773267824",
+      "title": "Backend Software Engineer",
+      "url": "https://job-boards.greenhouse.io/togetherai/jobs/5064263007"
+    },
+    "simplify:twitch::simplify-39fea75e-0741-4f91-b9ff-0233de1242b2": {
+      "company": "Twitch",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1782513658",
+      "title": "Software Engineer - Memberships",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8605153002"
+    },
+    "simplify:twitch::simplify-84537aaf-2816-4b2c-9c5e-d04454e92f47": {
+      "company": "Twitch",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1777080097",
+      "title": "Software Engineer 1",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8519628002"
+    },
+    "simplify:twitch::simplify-d44042f6-e655-4729-ac89-d1b336b02aeb": {
+      "company": "Twitch",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1774477298",
+      "title": "Software Engineer 1 - Commerce Engineering",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8459320002"
+    },
+    "simplify:twitch::simplify-da4700de-48be-43db-a6c2-b9fa2038a4e0": {
+      "company": "Twitch",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1774477292",
+      "title": "Software Engineer 1 - Commerce Engineering",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8457711002"
+    },
     "simplify:verkada::simplify-1b2a515c-420c-4739-90eb-0ca8c93613b4": {
       "company": "Verkada",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -1655,6 +2915,13 @@
       "posted_at": "1775524867",
       "title": "Backend Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099422007"
+    },
+    "simplify:virtu financial::simplify-f65657ff-9f42-4256-ac69-c3a4b36628ea": {
+      "company": "Virtu Financial",
+      "first_seen": "2026-07-02T21:01:41+00:00",
+      "posted_at": "1777932683",
+      "title": "Software Engineer - Desktop Frontend Developer - C#/Winforms",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8516902002"
     },
     "simplify:waymo::simplify-272ebb56-c365-4e6e-ba31-7f272187adca": {
       "company": "Waymo",
@@ -1748,5 +3015,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-02T07:45:17+00:00"
+  "updated_at": "2026-07-02T21:01:41+00:00"
 }
