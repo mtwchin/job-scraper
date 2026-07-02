@@ -1,5 +1,5 @@
 {
-  "count": 439,
+  "count": 440,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1193,6 +1193,13 @@
       "posted_at": "1782742023",
       "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
       "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978"
+    },
+    "simplify:goldman sachs::simplify-d7efd06c-f78a-41c8-9b51-59e2289f8eff": {
+      "company": "Goldman Sachs",
+      "first_seen": "2026-07-02T22:51:19+00:00",
+      "posted_at": "1783030004",
+      "title": "Software Engineer - IAM Entitlements",
+      "url": "https://higher.gs.com/roles/177874"
     },
     "simplify:google::simplify-e1b4d8a5-e0ba-4b52-9363-36b5f62610d9": {
       "company": "Google",
@@ -3015,5 +3022,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-02T21:01:41+00:00"
+  "updated_at": "2026-07-02T22:51:19+00:00"
 }
