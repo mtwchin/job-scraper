@@ -1,5 +1,5 @@
 {
-  "count": 442,
+  "count": 443,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1298,6 +1298,13 @@
       "posted_at": "1782770988",
       "title": "Software Engineer 2",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556917742"
+    },
+    "simplify:microsoft::simplify-56b688ac-5461-4812-9be2-46a7c60e49be": {
+      "company": "Microsoft",
+      "first_seen": "2026-07-03T11:02:40+00:00",
+      "posted_at": "1778767648",
+      "title": "Software Engineer 2 - Foundry Agents - CoreAI",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556863227"
     },
     "simplify:mongodb::simplify-34e5f044-5304-4c9e-af40-55a70118657b": {
       "company": "MongoDB",
@@ -3036,5 +3043,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-03T08:18:45+00:00"
+  "updated_at": "2026-07-03T11:02:40+00:00"
 }
