@@ -1,5 +1,5 @@
 {
-  "count": 443,
+  "count": 445,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -75,6 +75,13 @@
       "posted_at": "Posted 30+ Days Ago",
       "title": "Associate, Software Engineer, New Grad Card Expansion",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R236833"
+    },
+    "capital one::Associate--Software-Engineer--New-Grad-Card-Expansion_R243795": {
+      "company": "Capital One",
+      "first_seen": "2026-07-03T15:18:26+00:00",
+      "posted_at": "Posted Today",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R243795"
     },
     "cohere::8c035d3d-081d-4c8a-914a-72f4efaad254": {
       "company": "Cohere",
@@ -1144,6 +1151,13 @@
       "posted_at": "1764374244",
       "title": "Software Engineer Intern - Payment Network - Global Payment",
       "url": "https://jobs.bytedance.com/en/position/7533369475380070663/detail"
+    },
+    "simplify:capital one::simplify-46675389-0f58-4172-9093-35f703f53e33": {
+      "company": "Capital One",
+      "first_seen": "2026-07-03T15:18:26+00:00",
+      "posted_at": "1783087781",
+      "title": "Software Engineer New Grad - Software Engineer",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R243795"
     },
     "simplify:capital one::simplify-8604d8aa-cc00-481b-9215-515df15cae18": {
       "company": "Capital One",
@@ -3043,5 +3057,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-03T11:02:40+00:00"
+  "updated_at": "2026-07-03T15:18:26+00:00"
 }
