@@ -1,5 +1,5 @@
 {
-  "count": 440,
+  "count": 441,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -2573,6 +2573,13 @@
       "title": "Software Engineer Intern - Software Engineer Industrial Firmware - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/273820"
     },
+    "simplify:tesla::simplify-cbf7c33c-7f5a-40a6-9ec5-b27895094847": {
+      "company": "Tesla",
+      "first_seen": "2026-07-03T05:03:09+00:00",
+      "posted_at": "1783041178",
+      "title": "Energy Engineering Intern - Software Engineer Diagnostics - Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/275805"
+    },
     "simplify:tesla::simplify-cd64a5ea-e39f-46da-9968-2118ff190093": {
       "company": "Tesla",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -3022,5 +3029,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-02T22:51:19+00:00"
+  "updated_at": "2026-07-03T05:03:09+00:00"
 }
