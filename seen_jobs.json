@@ -1,5 +1,5 @@
 {
-  "count": 441,
+  "count": 442,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -2951,6 +2951,13 @@
       "title": "2026 Summer Intern, PhD, Software Engineer, Predictive Planner ML/DL",
       "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-phd-software-engineer-predictive-planner-ml-dl-mountain-view-california-united-states?gh_jid=7368864"
     },
+    "simplify:zscaler::simplify-45f6e525-5b17-4b57-9958-20605eb69c47": {
+      "company": "Zscaler",
+      "first_seen": "2026-07-03T08:18:45+00:00",
+      "posted_at": "1783059113",
+      "title": "Software Development Engineer",
+      "url": "https://job-boards.greenhouse.io/zscaler/jobs/5177411007"
+    },
     "skydio::7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915": {
       "company": "Skydio",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -3029,5 +3036,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-03T05:03:09+00:00"
+  "updated_at": "2026-07-03T08:18:45+00:00"
 }
