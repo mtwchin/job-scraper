@@ -1,5 +1,5 @@
 {
-  "count": 449,
+  "count": 452,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1180,6 +1180,13 @@
       "title": "Associate \u2013 New Grad Card Expansion - Software Engineer",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R236833"
     },
+    "simplify:cisco::simplify-5199b683-6293-4db7-9b3b-04a3a15cb801": {
+      "company": "Cisco",
+      "first_seen": "2026-07-06T22:52:48+00:00",
+      "posted_at": "1763664375",
+      "title": "Software Engineer Data/AI/Intelligent Systems 1",
+      "url": "https://careers.cisco.com/global/en/job/2000073"
+    },
     "simplify:cisco::simplify-dff4c026-8cab-4cdd-92eb-26189980b28c": {
       "company": "Cisco",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -1292,6 +1299,13 @@
       "title": "Image Processing Engineer - C++/Linux",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Image-Processing-Engineer--C---Linux-_JR0282835"
     },
+    "simplify:intel::simplify-964aa151-7592-4263-922e-adbb07bff4bf": {
+      "company": "Intel",
+      "first_seen": "2026-07-06T22:52:48+00:00",
+      "posted_at": "1782176660",
+      "title": "Software Engineer",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Engineer_JR0285009"
+    },
     "simplify:intel::simplify-e18b5659-3658-49dd-a554-9ba2b49123a9": {
       "company": "Intel",
       "first_seen": "2026-07-01T04:48:56+00:00",
@@ -1389,6 +1403,13 @@
       "posted_at": "1775524158",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90/application"
+    },
+    "simplify:notion::simplify-65650b49-1680-440d-8f63-1cc74d0ba188": {
+      "company": "Notion",
+      "first_seen": "2026-07-06T22:52:48+00:00",
+      "posted_at": "1783375892",
+      "title": "Software Engineer \u2013 Early Career - AI",
+      "url": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28/application"
     },
     "simplify:notion::simplify-fe9e4f7b-bfee-47ca-93f1-4f31a2a74fc2": {
       "company": "Notion",
@@ -3085,5 +3106,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-06T20:25:30+00:00"
+  "updated_at": "2026-07-06T22:52:48+00:00"
 }
