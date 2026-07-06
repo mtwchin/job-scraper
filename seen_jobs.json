@@ -1,5 +1,5 @@
 {
-  "count": 447,
+  "count": 449,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -264,6 +264,13 @@
       "title": "Software Engineer Intern, BCI Applications",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003"
     },
+    "notion::297b4ece-765f-4eea-b1b8-46057cb6501f": {
+      "company": "Notion",
+      "first_seen": "2026-07-06T20:25:30+00:00",
+      "posted_at": "2026-07-06T18:37:35.161+00:00",
+      "title": "Software Engineer, Early Career",
+      "url": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f"
+    },
     "notion::5b15697c-fa91-4511-9482-c98a6ff29f90": {
       "company": "Notion",
       "first_seen": "2026-06-28T23:35:42+00:00",
@@ -275,6 +282,13 @@
       "first_seen": "2026-06-28T23:35:42+00:00",
       "title": "Software Engineer, New Grad (AI)",
       "url": "https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9"
+    },
+    "notion::85947779-6b87-466a-98bc-30a640448c28": {
+      "company": "Notion",
+      "first_seen": "2026-07-06T20:25:30+00:00",
+      "posted_at": "2026-07-06T18:37:42.434+00:00",
+      "title": "Software Engineer, Early Career (AI)",
+      "url": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28"
     },
     "notion::a6311f97-4850-4674-a5f3-d9fe5f6f2555": {
       "company": "Notion",
@@ -3071,5 +3085,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-06T09:42:12+00:00"
+  "updated_at": "2026-07-06T20:25:30+00:00"
 }
