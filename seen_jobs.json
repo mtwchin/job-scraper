@@ -1,5 +1,5 @@
 {
-  "count": 445,
+  "count": 447,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1172,6 +1172,20 @@
       "posted_at": "1763557991",
       "title": "Software Engineer Data/AI/Intelligent Systems I (Full Time)",
       "url": "https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States"
+    },
+    "simplify:citadel::simplify-28286b52-4c99-4d00-a870-d919c13d68c6": {
+      "company": "Citadel",
+      "first_seen": "2026-07-06T09:42:12+00:00",
+      "posted_at": "1783318141",
+      "title": "Software Engineer Intern",
+      "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/"
+    },
+    "simplify:citadel::simplify-410b28b6-b357-4b72-9480-bad83701b4cb": {
+      "company": "Citadel",
+      "first_seen": "2026-07-06T09:42:12+00:00",
+      "posted_at": "1783318138",
+      "title": "Software Engineer \u2013 University Graduate",
+      "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/"
     },
     "simplify:cloudflare::simplify-a7ef9f52-96c8-4e0d-8788-af7650bc8e9b": {
       "company": "Cloudflare",
@@ -3057,5 +3071,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-03T15:18:26+00:00"
+  "updated_at": "2026-07-06T09:42:12+00:00"
 }
