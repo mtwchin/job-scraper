@@ -1,5 +1,5 @@
 {
-  "count": 455,
+  "count": 456,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1088,6 +1088,13 @@
       "posted_at": "1774073406",
       "title": "Software Engineer Project Intern - Network Security",
       "url": "https://jobs.bytedance.com/en/position/7595749912930420997/detail"
+    },
+    "simplify:bytedance::simplify-a4db1cdd-98a3-4e59-b6c0-9baff85f5a46": {
+      "company": "ByteDance",
+      "first_seen": "2026-07-07T11:46:40+00:00",
+      "posted_at": "1783415561",
+      "title": "Graduate Software Engineer - Dev Infra",
+      "url": "https://jobs.bytedance.com/en/position/7536272435440716040/detail"
     },
     "simplify:bytedance::simplify-a8e74e82-891f-4ce9-9759-3376c8dea0b6": {
       "company": "ByteDance",
@@ -3127,5 +3134,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-06T23:54:08+00:00"
+  "updated_at": "2026-07-07T11:46:40+00:00"
 }
