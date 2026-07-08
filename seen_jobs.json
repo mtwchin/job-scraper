@@ -1,5 +1,5 @@
 {
-  "count": 465,
+  "count": 466,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1298,6 +1298,13 @@
       "posted_at": "1782742023",
       "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
       "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978"
+    },
+    "simplify:goldman sachs::simplify-ad57e8fa-d0bd-4c63-9809-6141b7dda000": {
+      "company": "Goldman Sachs",
+      "first_seen": "2026-07-08T22:55:37+00:00",
+      "posted_at": "1779343723",
+      "title": "Asset & Wealth Management Associate",
+      "url": "https://higher.gs.com/roles/168978"
     },
     "simplify:goldman sachs::simplify-d7efd06c-f78a-41c8-9b51-59e2289f8eff": {
       "company": "Goldman Sachs",
@@ -3197,5 +3204,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-08T21:54:44+00:00"
+  "updated_at": "2026-07-08T22:55:37+00:00"
 }
