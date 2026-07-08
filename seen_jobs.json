@@ -1,5 +1,5 @@
 {
-  "count": 458,
+  "count": 459,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1480,6 +1480,13 @@
       "posted_at": "1780708032",
       "title": "Software Engineer Intern - Mapping Autonomous Vehicles",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Mapping-Autonomous-Vehicles---Fall-2026_JR2011493"
+    },
+    "simplify:nvidia::simplify-49ac286b-0d2a-44df-b39a-c6540778f26a": {
+      "company": "NVIDIA",
+      "first_seen": "2026-07-08T11:24:37+00:00",
+      "posted_at": "1783375946",
+      "title": "Performance Engineer Intern - Systems Software",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779"
     },
     "simplify:nvidia::simplify-4d7b53f4-4839-4a21-9b3d-774c69c540bd": {
       "company": "NVIDIA",
@@ -3148,5 +3155,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-08T07:03:53+00:00"
+  "updated_at": "2026-07-08T11:24:37+00:00"
 }
