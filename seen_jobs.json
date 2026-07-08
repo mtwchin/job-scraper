@@ -1,5 +1,5 @@
 {
-  "count": 459,
+  "count": 460,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -745,6 +745,13 @@
       "posted_at": "1769579993",
       "title": "Software Development Engineer - 2026",
       "url": "https://www.amazon.jobs/en/jobs/3165932/software-development-engineer-2026-canada"
+    },
+    "simplify:amazon::simplify-27a0f900-c5b2-4b8f-85c2-8614ea5badf0": {
+      "company": "Amazon",
+      "first_seen": "2026-07-08T15:22:24+00:00",
+      "posted_at": "1783519708",
+      "title": "Software Engineer - AI Security",
+      "url": "https://amazon.jobs/en/jobs/10440600/software-engineer-ai-security"
     },
     "simplify:amazon::simplify-6d55f27f-9786-4c75-ab7c-c79dd9c729e0": {
       "company": "Amazon",
@@ -3155,5 +3162,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-08T11:24:37+00:00"
+  "updated_at": "2026-07-08T15:22:24+00:00"
 }
