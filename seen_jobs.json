@@ -1,5 +1,5 @@
 {
-  "count": 471,
+  "count": 473,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -2251,6 +2251,13 @@
       "title": "Software Intern",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7736776003"
     },
+    "simplify:salesforce::simplify-1a2e58cc-f4e5-478e-a272-afd67fbeedd1": {
+      "company": "Salesforce",
+      "first_seen": "2026-07-09T22:52:28+00:00",
+      "posted_at": "1778941436",
+      "title": "AI Builder - Emerging Talent",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR341276"
+    },
     "simplify:salesforce::simplify-2306c8cb-5299-4e79-9eb0-b728d55ed1ca": {
       "company": "Salesforce",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -2271,6 +2278,13 @@
       "posted_at": "1771640186",
       "title": "Software Engineering AMTS/MTS \u2013 College Grad",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1"
+    },
+    "simplify:salesforce::simplify-f72e4f9c-46ba-4a77-aa67-a10faac92de9": {
+      "company": "Salesforce",
+      "first_seen": "2026-07-09T22:52:28+00:00",
+      "posted_at": "1778942058",
+      "title": "AI Builder - Emerging Talent",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR341276-1"
     },
     "simplify:scale ai::simplify-10f26a2e-0806-4a95-ab5a-9937df1917fa": {
       "company": "Scale AI",
@@ -3239,5 +3253,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-09T00:00:01+00:00"
+  "updated_at": "2026-07-09T22:52:28+00:00"
 }
