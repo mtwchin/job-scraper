@@ -1,5 +1,5 @@
 {
-  "count": 466,
+  "count": 471,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -837,6 +837,13 @@
       "title": "ITS Support Engineer 1",
       "url": "https://amazon.jobs/en/jobs/10432510/its-support-engineer-i"
     },
+    "simplify:anduril::simplify-275e9160-4185-4092-a492-236d2818469a": {
+      "company": "Anduril",
+      "first_seen": "2026-07-09T00:00:01+00:00",
+      "posted_at": "1783549307",
+      "title": "Software Corporate Technology Rotation Program",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5166390007"
+    },
     "simplify:anduril::simplify-59da20b4-89d9-4050-8d93-b79c0953d1c7": {
       "company": "Anduril",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -1417,6 +1424,27 @@
       "posted_at": "1776780831",
       "title": "Linux Engineer",
       "url": "https://job-boards.greenhouse.io/janestreet/jobs/8061059002"
+    },
+    "simplify:jump trading::simplify-17780196-7325-4b2e-b9d8-42c0b3830d62": {
+      "company": "Jump Trading",
+      "first_seen": "2026-07-09T00:00:01+00:00",
+      "posted_at": "1783549631",
+      "title": "Campus UI Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8003019"
+    },
+    "simplify:jump trading::simplify-5eb655ae-5b71-490f-93e4-7026519c395f": {
+      "company": "Jump Trading",
+      "first_seen": "2026-07-09T00:00:01+00:00",
+      "posted_at": "1783549630",
+      "title": "Campus Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8002989"
+    },
+    "simplify:jump trading::simplify-b3b5bb79-eed9-4cae-a682-cc7068f5d3eb": {
+      "company": "Jump Trading",
+      "first_seen": "2026-07-09T00:00:01+00:00",
+      "posted_at": "1783549629",
+      "title": "Campus Software Engineer",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8000835"
     },
     "simplify:lyft::simplify-6cf07fce-a741-4ce5-adbc-9449cccdd79b": {
       "company": "Lyft",
@@ -2180,6 +2208,13 @@
       "posted_at": "1779401104",
       "title": "Software Engineer",
       "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Software-Engineer_R-057365"
+    },
+    "simplify:red hat::simplify-e20329ac-6427-4de0-96a0-96990e67b705": {
+      "company": "Red Hat",
+      "first_seen": "2026-07-09T00:00:01+00:00",
+      "posted_at": "1783548321",
+      "title": "Associate Software Engineer",
+      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Durham/Associate-Software-Engineer_R-058395"
     },
     "simplify:rippling::simplify-0271dfee-afcf-4a95-ad39-156710edc8ce": {
       "company": "Rippling",
@@ -3204,5 +3239,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-08T22:55:37+00:00"
+  "updated_at": "2026-07-09T00:00:01+00:00"
 }
