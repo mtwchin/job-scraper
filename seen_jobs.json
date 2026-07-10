@@ -1,5 +1,5 @@
 {
-  "count": 473,
+  "count": 474,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -2853,6 +2853,13 @@
       "title": "Software Engineer Intern - Fullstack Software Engineer - Fleetnet",
       "url": "https://www.tesla.com/careers/search/job/266764"
     },
+    "simplify:tesla::simplify-f5df0ff3-923c-48b4-abf3-9c10848eb7ed": {
+      "company": "Tesla",
+      "first_seen": "2026-07-10T01:59:21+00:00",
+      "posted_at": "1783645841",
+      "title": "Software Engineer Intern - Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/276333"
+    },
     "simplify:tiktok::simplify-00e70c4e-9171-45b8-a583-f063356c94e1": {
       "company": "TikTok",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -3253,5 +3260,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-09T22:52:28+00:00"
+  "updated_at": "2026-07-10T01:59:21+00:00"
 }
