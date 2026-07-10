@@ -9,7 +9,11 @@ SEARCH = "https://gcsservices.careers.microsoft.com/search/api/v1/search"
 
 def fetch(company: CompanyConfig) -> list[Job]:
     jobs: dict[str, Job] = {}
-    for query in ("software engineer intern", "software engineer new grad"):
+    for query in (
+        "software engineer intern",
+        "software engineer new grad",
+        "software engineer graduate",
+    ):
         params = {
             "q": query,
             "l": "en_us",

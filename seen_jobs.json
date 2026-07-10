@@ -1,5 +1,5 @@
 {
-  "count": 474,
+  "count": 495,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -18,6 +18,48 @@
       "first_seen": "2026-06-28T23:35:42+00:00",
       "title": "Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)",
       "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us"
+    },
+    "amazon::10464040": {
+      "company": "Amazon",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "July  1, 2026",
+      "title": "Software Development Engineer I, ML Infra Services, Annapurna Labs",
+      "url": "https://www.amazon.jobs/en/jobs/10464040/software-development-engineer-i-ml-infra-services-annapurna-labs"
+    },
+    "amazon::10464043": {
+      "company": "Amazon",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "July  1, 2026",
+      "title": "Software Development Engineer I, ML Infra Services, Annapurna Labs",
+      "url": "https://www.amazon.jobs/en/jobs/10464043/software-development-engineer-i-ml-infra-services-annapurna-labs"
+    },
+    "amazon::10464055": {
+      "company": "Amazon",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "July  1, 2026",
+      "title": "Software Development Engineer I, ML Infra Services, Annapurna Labs",
+      "url": "https://www.amazon.jobs/en/jobs/10464055/software-development-engineer-i-ml-infra-services-annapurna-labs"
+    },
+    "amazon::10464138": {
+      "company": "Amazon",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "July  1, 2026",
+      "title": "Jr. Software Development Engineer - Santa Barbara, CA, Jr. Developer Program",
+      "url": "https://www.amazon.jobs/en/jobs/10464138/jr-software-development-engineer-santa-barbara-ca-jr-developer-program"
+    },
+    "amazon::10468069": {
+      "company": "Amazon",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "July  7, 2026",
+      "title": "Jr. Software Development Engineer - Atlanta, GA, Jr. Developer Program",
+      "url": "https://www.amazon.jobs/en/jobs/10468069/jr-software-development-engineer-atlanta-ga-jr-developer-program"
+    },
+    "amazon::10468083": {
+      "company": "Amazon",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "July  7, 2026",
+      "title": "Jr. Software Development Engineer - Seattle/Bellevue, WA, Jr. Developer Program",
+      "url": "https://www.amazon.jobs/en/jobs/10468083/jr-software-development-engineer-seattle-bellevue-wa-jr-developer-program"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -55,6 +97,13 @@
       "title": "2027 Early Career Software Engineer ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007"
     },
+    "asana::7766762": {
+      "company": "Asana",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "2026-06-30T21:57:32-04:00",
+      "title": "Junior Software Engineer, Reykjavik",
+      "url": "https://www.asana.com/jobs/apply/7766762?gh_jid=7766762"
+    },
     "astranis::4601135006": {
       "company": "Astranis",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -89,6 +138,13 @@
       "posted_at": "Posted Today",
       "title": "Associate, Software Engineer, New Grad Card Expansion",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R243795"
+    },
+    "cisco::Junior-C---Software-Engineer---Serbia---ETR_2016195": {
+      "company": "Cisco",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "Posted 30+ Days Ago",
+      "title": "Junior C++ Software Engineer - Serbia - ETR",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Belgrade-Serbia/Junior-C---Software-Engineer---Serbia---ETR_2016195"
     },
     "cohere::8c035d3d-081d-4c8a-914a-72f4efaad254": {
       "company": "Cohere",
@@ -698,6 +754,13 @@
       "title": "Forward Deployed Software Engineer, New Grad - Intel, US Government",
       "url": "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382"
     },
+    "pinterest::6816337": {
+      "company": "Pinterest",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "2026-06-09T16:30:17-04:00",
+      "title": "Software Engineer I, Backend",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6816337"
+    },
     "point72::7297666002": {
       "company": "Point72",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -711,6 +774,27 @@
       "title": "Software Engineer Internship, Android ",
       "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b"
     },
+    "red hat::Associate-Software-Engineer_R-058395": {
+      "company": "Red Hat",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "Posted Yesterday",
+      "title": "Associate Software Engineer",
+      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Durham/Associate-Software-Engineer_R-058395"
+    },
+    "red hat::Junior-or-Software-Engineer---Networking-Services--Brno-Office--Czech-Republic-_R-056355-1": {
+      "company": "Red Hat",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "Posted 9 Days Ago",
+      "title": "Junior or Software Engineer - Networking Services (Brno Office, Czech Republic)",
+      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Brno---Tech-Park-Brno---C/Junior-or-Software-Engineer---Networking-Services--Brno-Office--Czech-Republic-_R-056355-1"
+    },
+    "red hat::Junior-or-Software-Engineer---Virtualization-Cloud-Team--Brno-Office--Czech-Republic-_R-056273-1": {
+      "company": "Red Hat",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "Posted Yesterday",
+      "title": "Junior or Software Engineer - Virtualization Cloud Team (Brno Office, Czech Republic)",
+      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Brno---Tech-Park-Brno---C/Junior-or-Software-Engineer---Virtualization-Cloud-Team--Brno-Office--Czech-Republic-_R-056273-1"
+    },
     "replit::12737078-74c7-4e63-98a7-5e8da1e9deb1": {
       "company": "Replit",
       "first_seen": "2026-06-29T20:24:39+00:00",
@@ -718,12 +802,47 @@
       "title": "Software Engineering Intern (Summer 2026)",
       "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1"
     },
+    "rocket lab::6589226003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "2026-07-01T15:25:49-04:00",
+      "title": "RF Systems Engineer I - Operations",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6589226003"
+    },
     "rocket lab::7725384003": {
       "company": "Rocket Lab",
       "first_seen": "2026-07-02T21:01:41+00:00",
       "posted_at": "2026-07-01T15:25:49-04:00",
       "title": "Systems Engineering Intern Fall 2026",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7725384003"
+    },
+    "rocket lab::7760576003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "2026-07-01T15:25:49-04:00",
+      "title": "Ground Systems Engineer I - Structures and Mechanisms",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7760576003"
+    },
+    "salesforce::Missionforce---Associate-Forward-Deployed-Engineer--FDE---Public-Sector_JR333171": {
+      "company": "Salesforce",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "Posted 23 Days Ago",
+      "title": "Missionforce - Associate Forward Deployed Engineer (FDE), Public Sector",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington-DC---Remote/Missionforce---Associate-Forward-Deployed-Engineer--FDE---Public-Sector_JR333171"
+    },
+    "salesforce::Systems-Engineering-Associate---GovCloud--Salesforce-National-Security-_JR345632-1": {
+      "company": "Salesforce",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "Posted Today",
+      "title": "Systems Engineering Associate - GovCloud [Salesforce National Security]",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Herndon/Systems-Engineering-Associate---GovCloud--Salesforce-National-Security-_JR345632-1"
+    },
+    "samsara::8042387": {
+      "company": "Samsara",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "2026-07-09T06:54:48-04:00",
+      "title": "Sr. Software Engineer I, Cloud Security Platform ",
+      "url": "https://www.samsara.com/company/careers/roles/8042387?gh_jid=8042387"
     },
     "seatgeek::7858968": {
       "company": "SeatGeek",
@@ -3220,6 +3339,34 @@
       "title": "Fall 2026 Software Engineering Internship/Co-op",
       "url": "https://boards.greenhouse.io/spacex/jobs/8403219002?gh_jid=8403219002"
     },
+    "squarepoint::6033550": {
+      "company": "Squarepoint",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "2026-05-19T10:40:29-04:00",
+      "title": "Junior Software Developer (Python)",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6033550&gh_jid=6033550"
+    },
+    "squarepoint::6034447": {
+      "company": "Squarepoint",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "2026-05-19T10:39:41-04:00",
+      "title": "Junior Software Developer - Front-end",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6034447&gh_jid=6034447"
+    },
+    "squarepoint::6040731": {
+      "company": "Squarepoint",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "2026-05-19T10:37:24-04:00",
+      "title": "Junior Software Developer (C++)",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6040731&gh_jid=6040731"
+    },
+    "squarepoint::6040773": {
+      "company": "Squarepoint",
+      "first_seen": "2026-07-10T02:08:17+00:00",
+      "posted_at": "2026-05-19T10:40:00-04:00",
+      "title": "Junior Software Developer (KDB+/Q)",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=6040773&gh_jid=6040773"
+    },
     "squarepoint::6040910": {
       "company": "Squarepoint",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -3259,6 +3406,5 @@
       "title": "Frontend Software Engineering Intern - Fall 2026",
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
-  },
-  "updated_at": "2026-07-10T01:59:21+00:00"
+  }
 }

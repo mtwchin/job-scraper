@@ -11,11 +11,16 @@ def fetch(company: CompanyConfig) -> list[Job]:
     jobs: dict[str, Job] = {}
     # Query a few keyword slices and merge; category narrows to software roles.
     # Amazon titles use "SDE" / "Software Development Engineer", so cover both.
+    # The bare "software development engineer" slice (recent-sorted, top 100)
+    # catches entry-level full-time reqs titled "SDE I" / "Software Development
+    # Engineer I" that no grad/intern keyword matches; the shared title filter
+    # keeps only the entry-level ones.
     for query in (
         "software development engineer intern",
         "software engineer intern",
         "software development engineer graduate",
         "software engineer new grad",
+        "software development engineer",
     ):
         params = {
             "base_query": query,

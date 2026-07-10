@@ -36,7 +36,11 @@ INTERN_PATTERNS = [
     r"\bplacement\b",
 ]
 
-# New-grad / entry-level signals.
+# New-grad / entry-level full-time signals. Besides explicit "new grad" wording,
+# entry-level FT roles often carry a level-1 or junior/associate marker instead
+# ("Software Engineer I", "SDE 1", "Associate Software Engineer"). Plain
+# "Software Engineer" with no level marker stays excluded — it's indistinguishable
+# from mid-level by title alone.
 NEW_GRAD_PATTERNS = [
     r"new\s+grad",
     r"new\s+graduate",
@@ -47,6 +51,11 @@ NEW_GRAD_PATTERNS = [
     r"entry[\s-]level",
     r"\bcampus\b",
     r"\bgrad(uate)?\s+(software|engineer|program|rotation)",
+    r"\bjunior\b",
+    r"\bjr\.?\s+(software|engineer|developer)",
+    r"\bassociate\b",
+    r"\b(engineer|developer)\s+[i1]\b",   # Engineer I / Engineer 1 (not II/III)
+    r"\b(sde|swe)\s*[i1]\b",              # SDE I, SDE1, SWE 1
 ]
 
 # Seasons used for off-season filtering.
@@ -56,6 +65,7 @@ OTHER_SEASON = re.compile(r"\b(fall|autumn|winter|spring|off[\s-]?season)\b", re
 # Titles that are clearly not what an applicant wants.
 NEGATIVE_PATTERNS = [
     r"\bsenior\b",
+    r"\bsr\.?\b",
     r"\bstaff\b",
     r"\bprincipal\b",
     r"\blead\b",
@@ -146,7 +156,7 @@ _FOREIGN = re.compile(
     r"spain|italy|israel|brazil|mexico|korea|taiwan|hong kong|new zealand|austria|"
     r"belgium|portugal|romania|czech|hungary|ukraine|turkey|emirates|saudi|egypt|"
     r"south africa|argentina|chile|colombia|vietnam|thailand|malaysia|indonesia|"
-    r"philippines|"
+    r"philippines|serbia|iceland|"
     # country codes
     r"chn|gbr|ind|jpn|sgp|aus|deu|fra|nld|swe|che|dnk|pol|esp|ita|isr|kor|twn|hkg|"
     # cities
@@ -154,7 +164,7 @@ _FOREIGN = re.compile(
     r"mumbai|delhi|noida|beijing|shanghai|shenzhen|guangzhou|hangzhou|tokyo|osaka|"
     r"seoul|sydney|melbourne|berlin|munich|paris|amsterdam|stockholm|zurich|zug|"
     r"geneva|copenhagen|oslo|helsinki|warsaw|krakow|madrid|barcelona|milan|rome|"
-    r"tel aviv|herzliya|yokneam|haifa|taipei|sao paulo"
+    r"tel aviv|herzliya|yokneam|haifa|taipei|sao paulo|belgrade|reykjavik|brno|prague"
     r")\b",
     re.I,
 )

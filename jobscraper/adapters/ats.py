@@ -9,6 +9,7 @@ _ROLE_QUERIES = (
     "software engineer new grad",
     "software engineer graduate",
     "software developer intern",
+    "associate software engineer",
 )
 
 
@@ -77,6 +78,7 @@ _WORKDAY_QUERIES = (
     "software engineer graduate",
     "software developer intern",
     "early career software",
+    "associate software engineer",
 )
 _WORKDAY_PAGE = 20
 _WORKDAY_MAX_PER_QUERY = 200
