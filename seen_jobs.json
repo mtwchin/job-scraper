@@ -1,5 +1,5 @@
 {
-  "count": 495,
+  "count": 496,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -906,6 +906,13 @@
       "posted_at": "1783519708",
       "title": "Software Engineer - AI Security",
       "url": "https://amazon.jobs/en/jobs/10440600/software-engineer-ai-security"
+    },
+    "simplify:amazon::simplify-49d144b5-0812-45e0-b67c-5d07571de5e5": {
+      "company": "Amazon",
+      "first_seen": "2026-07-10T15:04:01+00:00",
+      "posted_at": "1783692472",
+      "title": "Junior Software Development Engineer - Jr. Developer Program",
+      "url": "https://amazon.jobs/en/jobs/10420146/jr-software-development-engineer-san-luis-obispo-ca-jr-developer-program"
     },
     "simplify:amazon::simplify-6d55f27f-9786-4c75-ab7c-c79dd9c729e0": {
       "company": "Amazon",
@@ -3406,5 +3413,6 @@
       "title": "Frontend Software Engineering Intern - Fall 2026",
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
-  }
+  },
+  "updated_at": "2026-07-10T15:04:01+00:00"
 }
