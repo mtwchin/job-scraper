@@ -1,5 +1,5 @@
 {
-  "count": 496,
+  "count": 502,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -544,6 +544,13 @@
       "title": "Software Engineer, Internship - Production Infrastructure",
       "url": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86"
     },
+    "palantir::3db7e40a-28e0-4ad1-96c5-93de5bc96aa9": {
+      "company": "Palantir",
+      "first_seen": "2026-07-10T23:15:47+00:00",
+      "posted_at": "1783723333024",
+      "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+      "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9"
+    },
     "palantir::4abf26b4-795c-420a-bf22-1ab98db268b4": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -610,6 +617,13 @@
       "title": "Software Engineer, Internship - Defense Tech",
       "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e"
     },
+    "palantir::8f362a1f-1eff-4327-94c1-ff46e2101c69": {
+      "company": "Palantir",
+      "first_seen": "2026-07-10T23:15:47+00:00",
+      "posted_at": "1783723393762",
+      "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+      "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69"
+    },
     "palantir::94984771-0704-446c-88c6-91ce748f6d92": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -669,6 +683,13 @@
       "first_seen": "2026-06-28T23:35:42+00:00",
       "title": "Forward Deployed Software Engineer, Internship - Defense Tech",
       "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b"
+    },
+    "palantir::cf5f44ff-1b0b-4752-bcd4-2dc88798f25b": {
+      "company": "Palantir",
+      "first_seen": "2026-07-10T23:15:47+00:00",
+      "posted_at": "1783723364034",
+      "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
+      "url": "https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b"
     },
     "palantir::d1ac83d0-e923-42a5-8e6d-58dd0cab25ca": {
       "company": "Palantir",
@@ -1425,6 +1446,20 @@
       "title": "Software Engineer Intern",
       "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125"
     },
+    "simplify:glean::simplify-293f49e2-46ed-4681-8434-d125238c93fa": {
+      "company": "Glean",
+      "first_seen": "2026-07-10T23:15:47+00:00",
+      "posted_at": "1783721211",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4713145005"
+    },
+    "simplify:glean::simplify-c0ac6ad4-9461-42b9-9740-6caf78973162": {
+      "company": "Glean",
+      "first_seen": "2026-07-10T23:15:47+00:00",
+      "posted_at": "1783721212",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4713977005"
+    },
     "simplify:goldman sachs::simplify-3ac699af-5c50-4a7c-81af-6dfb56f595db": {
       "company": "Goldman Sachs",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -1718,6 +1753,13 @@
       "posted_at": "1779528687",
       "title": "PhD Software Engineer Intern - Decision Intelligence",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522"
+    },
+    "simplify:nvidia::simplify-f641296a-d046-402e-a13c-6df6218f537f": {
+      "company": "NVIDIA",
+      "first_seen": "2026-07-10T23:15:47+00:00",
+      "posted_at": "1783641600",
+      "title": "Systems Software Engineer New Grad - Autonomous Systems Mapping",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Autonomous-Systems-Mapping---New-College-Graduate-2026_JR2020838"
     },
     "simplify:openai::simplify-b522993e-8dbe-4f12-a486-e92174ac0fda": {
       "company": "OpenAI",
@@ -3414,5 +3456,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-10T15:04:01+00:00"
+  "updated_at": "2026-07-10T23:15:47+00:00"
 }
