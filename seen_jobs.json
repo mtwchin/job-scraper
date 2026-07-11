@@ -1,5 +1,5 @@
 {
-  "count": 502,
+  "count": 503,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1480,6 +1480,13 @@
       "posted_at": "1783030004",
       "title": "Software Engineer - IAM Entitlements",
       "url": "https://higher.gs.com/roles/177874"
+    },
+    "simplify:google::simplify-4f6973c1-da33-4e06-83f6-24ba86a31d95": {
+      "company": "Google",
+      "first_seen": "2026-07-11T10:46:09+00:00",
+      "posted_at": "1766012998",
+      "title": "Software Engineer 3 - AI/ML - Google Cloud AI",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/87457161382109894"
     },
     "simplify:google::simplify-e1b4d8a5-e0ba-4b52-9363-36b5f62610d9": {
       "company": "Google",
@@ -3456,5 +3463,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-10T23:15:47+00:00"
+  "updated_at": "2026-07-11T10:46:09+00:00"
 }
