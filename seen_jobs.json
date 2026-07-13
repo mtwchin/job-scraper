@@ -1,11 +1,60 @@
 {
-  "count": 503,
+  "count": 510,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
       "first_seen": "2026-06-28T23:35:42+00:00",
       "title": "Software Engineer, Early Career",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7485068003"
+    },
+    "akuna capital::8013085": {
+      "company": "Akuna Capital",
+      "first_seen": "2026-07-13T18:54:24+00:00",
+      "posted_at": "2026-07-13T14:41:18-04:00",
+      "title": "Software Engineer (Entry-Level) - C++",
+      "url": "https://www.akunacapital.com/careers/job/8013085/?gh_jid=8013085"
+    },
+    "akuna capital::8013230": {
+      "company": "Akuna Capital",
+      "first_seen": "2026-07-13T18:54:24+00:00",
+      "posted_at": "2026-07-13T14:21:16-04:00",
+      "title": "Software Engineer (Entry-Level) - Python",
+      "url": "https://www.akunacapital.com/careers/job/8013230/?gh_jid=8013230"
+    },
+    "akuna capital::8018847": {
+      "company": "Akuna Capital",
+      "first_seen": "2026-07-13T18:54:24+00:00",
+      "posted_at": "2026-07-13T14:41:20-04:00",
+      "title": "Software Engineer Intern - C++, Summer 2027",
+      "url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847"
+    },
+    "akuna capital::8018853": {
+      "company": "Akuna Capital",
+      "first_seen": "2026-07-13T18:54:24+00:00",
+      "posted_at": "2026-07-13T14:21:39-04:00",
+      "title": "Software Engineer Intern - Python, Summer 2027",
+      "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853"
+    },
+    "akuna capital::8018856": {
+      "company": "Akuna Capital",
+      "first_seen": "2026-07-13T18:54:24+00:00",
+      "posted_at": "2026-07-13T14:21:52-04:00",
+      "title": "Platform Engineer Intern, Summer 2027",
+      "url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856"
+    },
+    "akuna capital::8018886": {
+      "company": "Akuna Capital",
+      "first_seen": "2026-07-13T18:54:24+00:00",
+      "posted_at": "2026-07-13T14:21:28-04:00",
+      "title": "Software Engineer Intern - C# .NET Desktop, Summer 2027",
+      "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886"
+    },
+    "akuna capital::8018893": {
+      "company": "Akuna Capital",
+      "first_seen": "2026-07-13T18:54:24+00:00",
+      "posted_at": "2026-07-13T14:21:34-04:00",
+      "title": "Software Engineer Intern - Full Stack Web, Summer 2027",
+      "url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893"
     },
     "amazon::10377042": {
       "company": "Amazon",
@@ -3463,5 +3512,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-11T10:46:09+00:00"
+  "updated_at": "2026-07-13T18:54:24+00:00"
 }
