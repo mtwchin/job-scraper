@@ -1,5 +1,5 @@
 {
-  "count": 512,
+  "count": 521,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1495,6 +1495,13 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254/application"
     },
+    "simplify:doordash::simplify-cb54a03c-1819-40d6-85dd-7c94b79b337e": {
+      "company": "DoorDash",
+      "first_seen": "2026-07-13T23:07:58+00:00",
+      "posted_at": "1783982168",
+      "title": "Software Engineer 1",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610"
+    },
     "simplify:elevenlabs::simplify-adc5a21a-d562-41a3-a86d-b7855931a573": {
       "company": "ElevenLabs",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -1564,6 +1571,20 @@
       "posted_at": "1770085762",
       "title": "Software Engineer - Python",
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7398013"
+    },
+    "simplify:hudson river trading::simplify-87235779-9531-4bf2-b265-6cc448aa0f35": {
+      "company": "Hudson River Trading",
+      "first_seen": "2026-07-13T23:07:58+00:00",
+      "posted_at": "1783981848",
+      "title": "Software Engineer Intern - C++ or Python",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083"
+    },
+    "simplify:hudson river trading::simplify-e86b89ae-77b5-4654-8e2f-f42f32a10866": {
+      "company": "Hudson River Trading",
+      "first_seen": "2026-07-13T23:07:58+00:00",
+      "posted_at": "1783981847",
+      "title": "Software Engineer - C++ or Python",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122"
     },
     "simplify:imc trading::simplify-1c8d5fb4-7d30-4fff-adcc-7926baadf184": {
       "company": "IMC Trading",
@@ -1789,6 +1810,13 @@
       "title": "Software Engineer Intern - Mapping Autonomous Vehicles",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Mapping-Autonomous-Vehicles---Fall-2026_JR2011493"
     },
+    "simplify:nvidia::simplify-3280f6de-005d-4216-bc5c-c1052e58d650": {
+      "company": "NVIDIA",
+      "first_seen": "2026-07-13T23:07:58+00:00",
+      "posted_at": "1783900800",
+      "title": "Compiler Engineer AI Inference New Grad",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--AI-Inference--New-College-Grad-2026_JR2021230"
+    },
     "simplify:nvidia::simplify-49ac286b-0d2a-44df-b39a-c6540778f26a": {
       "company": "NVIDIA",
       "first_seen": "2026-07-08T11:24:37+00:00",
@@ -1830,6 +1858,13 @@
       "posted_at": "1783641600",
       "title": "Systems Software Engineer New Grad - Autonomous Systems Mapping",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Autonomous-Systems-Mapping---New-College-Graduate-2026_JR2020838"
+    },
+    "simplify:old mission::simplify-d0a9a917-c584-4609-9cdb-f603bc663215": {
+      "company": "Old Mission",
+      "first_seen": "2026-07-13T23:07:58+00:00",
+      "posted_at": "1783981824",
+      "title": "Software Engineer \u2013 Graduate Program - August Start",
+      "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796048003"
     },
     "simplify:openai::simplify-b522993e-8dbe-4f12-a486-e92174ac0fda": {
       "company": "OpenAI",
@@ -2678,6 +2713,13 @@
       "title": "Software Engineer - Hardware-in-the-Loop - Starlink",
       "url": "https://boards.greenhouse.io/spacex/jobs/8583074002"
     },
+    "simplify:spacex::simplify-9d30c3d7-1758-421d-a077-2d19157f76a0": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-13T23:07:58+00:00",
+      "posted_at": "1783980696",
+      "title": "Application Software Engineer",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8632103002"
+    },
     "simplify:spacex::simplify-ab5425fe-34cf-4b24-ace3-73fdb7eb3b44": {
       "company": "SpaceX",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -3413,6 +3455,27 @@
       "title": "2026 Summer Intern, PhD, Software Engineer, Predictive Planner ML/DL",
       "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-phd-software-engineer-predictive-planner-ml-dl-mountain-view-california-united-states?gh_jid=7368864"
     },
+    "simplify:xai::simplify-036f95f0-b954-4120-bd02-980666b57a4d": {
+      "company": "xAI",
+      "first_seen": "2026-07-13T23:07:58+00:00",
+      "posted_at": "1783549489",
+      "title": "Member of Technical Staff",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5173147007"
+    },
+    "simplify:xai::simplify-37cc4245-ab9f-492c-a88a-631e0daf55d2": {
+      "company": "xAI",
+      "first_seen": "2026-07-13T23:07:58+00:00",
+      "posted_at": "1777511146",
+      "title": "Software Engineer - Data",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5124616007"
+    },
+    "simplify:xai::simplify-b3876b2d-c196-46fb-96c4-bbb3e767c0b0": {
+      "company": "xAI",
+      "first_seen": "2026-07-13T23:07:58+00:00",
+      "posted_at": "1780363118",
+      "title": "Software Engineer - Ads Product",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5152408007"
+    },
     "simplify:zscaler::simplify-45f6e525-5b17-4b57-9958-20605eb69c47": {
       "company": "Zscaler",
       "first_seen": "2026-07-03T08:18:45+00:00",
@@ -3526,5 +3589,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-13T22:06:53+00:00"
+  "updated_at": "2026-07-13T23:07:58+00:00"
 }
