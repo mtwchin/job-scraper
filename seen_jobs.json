@@ -1,5 +1,5 @@
 {
-  "count": 525,
+  "count": 526,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1053,6 +1053,13 @@
       "posted_at": "1775743775",
       "title": "Software Development Engineer Intern",
       "url": "https://amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada"
+    },
+    "simplify:amazon::simplify-de413639-c1d4-4d67-91c6-800f92bfe49b": {
+      "company": "Amazon",
+      "first_seen": "2026-07-14T14:18:17+00:00",
+      "posted_at": "1784020125",
+      "title": "Software Development Engineer - Military Veterans",
+      "url": "https://amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans"
     },
     "simplify:amazon::simplify-e3155c50-29ce-48b3-a6f0-47903713b81b": {
       "company": "Amazon",
@@ -3617,5 +3624,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-14T11:02:30+00:00"
+  "updated_at": "2026-07-14T14:18:17+00:00"
 }
