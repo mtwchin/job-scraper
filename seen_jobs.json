@@ -1,5 +1,5 @@
 {
-  "count": 526,
+  "count": 527,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -470,6 +470,13 @@
       "posted_at": "2026-06-15T19:45:58-04:00",
       "title": "Software Engineer, Performance - New Grad",
       "url": "https://nuro.ai/careersitem?gh_jid=7978432"
+    },
+    "nuro::8064655": {
+      "company": "Nuro",
+      "first_seen": "2026-07-14T16:56:00+00:00",
+      "posted_at": "2026-07-14T12:20:35-04:00",
+      "title": "Software Engineer, Performance - New Grad",
+      "url": "https://nuro.ai/careersitem?gh_jid=8064655"
     },
     "nvidia::PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522": {
       "company": "Nvidia",
@@ -3624,5 +3631,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-14T14:18:17+00:00"
+  "updated_at": "2026-07-14T16:56:00+00:00"
 }
