@@ -1,5 +1,5 @@
 {
-  "count": 522,
+  "count": 523,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1859,6 +1859,13 @@
       "title": "PhD Software Engineer Intern - Decision Intelligence",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522"
     },
+    "simplify:nvidia::simplify-e705fffd-6c2f-4555-b991-f5808e23542c": {
+      "company": "NVIDIA",
+      "first_seen": "2026-07-14T07:28:47+00:00",
+      "posted_at": "1783900800",
+      "title": "System Software Engineer New Grad - Dynamo-Triton Inference Server",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767"
+    },
     "simplify:nvidia::simplify-f641296a-d046-402e-a13c-6df6218f537f": {
       "company": "NVIDIA",
       "first_seen": "2026-07-10T23:15:47+00:00",
@@ -3596,5 +3603,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-14T03:21:40+00:00"
+  "updated_at": "2026-07-14T07:28:47+00:00"
 }
