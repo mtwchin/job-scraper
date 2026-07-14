@@ -1,5 +1,5 @@
 {
-  "count": 523,
+  "count": 525,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -914,6 +914,13 @@
       "title": "Missionforce - Associate Forward Deployed Engineer (FDE), Public Sector",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington-DC---Remote/Missionforce---Associate-Forward-Deployed-Engineer--FDE---Public-Sector_JR333171"
     },
+    "salesforce::Summer-2027-Intern---Software-Engineer_JR337715": {
+      "company": "Salesforce",
+      "first_seen": "2026-07-14T11:02:30+00:00",
+      "posted_at": "Posted Today",
+      "title": "Summer 2027 Intern - Software Engineer",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715"
+    },
     "salesforce::Systems-Engineering-Associate---GovCloud--Salesforce-National-Security-_JR345632-1": {
       "company": "Salesforce",
       "first_seen": "2026-07-10T02:08:17+00:00",
@@ -990,6 +997,13 @@
       "posted_at": "1783519708",
       "title": "Software Engineer - AI Security",
       "url": "https://amazon.jobs/en/jobs/10440600/software-engineer-ai-security"
+    },
+    "simplify:amazon::simplify-4762de7d-d90a-4004-bf12-486138c11efc": {
+      "company": "Amazon",
+      "first_seen": "2026-07-14T11:02:30+00:00",
+      "posted_at": "1784020124",
+      "title": "Software Development Engineer Apprentice - Military Veterans",
+      "url": "https://amazon.jobs/en/jobs/3188438/software-development-engineer-apprentice-military-veterans"
     },
     "simplify:amazon::simplify-49d144b5-0812-45e0-b67c-5d07571de5e5": {
       "company": "Amazon",
@@ -3603,5 +3617,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-14T07:28:47+00:00"
+  "updated_at": "2026-07-14T11:02:30+00:00"
 }
