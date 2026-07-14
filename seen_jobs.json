@@ -1,5 +1,5 @@
 {
-  "count": 521,
+  "count": 522,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1831,6 +1831,13 @@
       "title": "Software Engineering Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745"
     },
+    "simplify:nvidia::simplify-58e0500b-3577-4e69-9d43-b710f8155f10": {
+      "company": "NVIDIA",
+      "first_seen": "2026-07-14T03:21:40+00:00",
+      "posted_at": "1783900800",
+      "title": "Backend Compiler Engineer New Grad",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Backend-Compiler-Engineer---New-College-Grad-2026_JR2021242"
+    },
     "simplify:nvidia::simplify-5da6cb6c-5d67-4819-ad52-80be74042612": {
       "company": "NVIDIA",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -3589,5 +3596,5 @@
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
     }
   },
-  "updated_at": "2026-07-13T23:07:58+00:00"
+  "updated_at": "2026-07-14T03:21:40+00:00"
 }
