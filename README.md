@@ -140,6 +140,8 @@ Set these as env vars (locally) or edit the `env:` block in the workflow:
 | `CONCURRENCY`       | `12`               | Companies fetched in parallel.                     |
 | `HEALTH_ALERT_THRESHOLD` | `0.25`        | Discord heads-up if this share of companies error. |
 | `LOG_LEVEL`         | `INFO`             | `DEBUG` shows per-company fetch/error lines.        |
+| `DISCORD_WEBHOOK_URL_ALL` | unset        | Second channel: every Simplify SWE role, any company. Unset = disabled. |
+| `SIMPLIFY_ALL_ENABLED` | `true`          | Master switch for the all-companies feed (still needs `DISCORD_WEBHOOK_URL_ALL`). |
 
 **Location filter** (`US_CANADA_ONLY`): a role is kept if its location names a US
 state/Canadian province, a US/Canada city, `US-`/`CA-` prefix, or "United
@@ -263,6 +265,20 @@ company is in `companies.md`. Why it matters:
 - Same role/location/recency filters apply, so it only adds *fresh* matches, and
   dedup means a role found both directly and via Simplify won't double-alert.
 - These alerts carry a **"via Simplify"** footer. Toggle with `SIMPLIFY_ENABLED`.
+
+### All-companies feed (second channel)
+
+Set `DISCORD_WEBHOOK_URL_ALL` (a second Discord webhook, e.g. in its own
+`#internship-radar-all` channel) to also get **every** SWE intern/new-grad role
+Simplify lists — no `companies.md`/prestige filter at all. It's the same
+role/location filters as everything else, just no company gate.
+
+- A role never fires on both channels: if it's from a company already tracked
+  in `companies.md`, it goes out on the main webhook only.
+- Turning this on doesn't dump the whole existing backlog into your new channel —
+  it does its own quiet first-run seed (one "I'm live" summary) the first time
+  `DISCORD_WEBHOOK_URL_ALL` is configured, same as the main feed's first run.
+- Leave `DISCORD_WEBHOOK_URL_ALL` unset to skip this feed entirely (default).
 
 ## Scheduling reality check
 

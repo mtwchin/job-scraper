@@ -8,6 +8,9 @@ ROOT = Path(__file__).resolve().parent.parent
 
 # --- Discord ---------------------------------------------------------------
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
+# Optional second channel: every SWE intern/new-grad role Simplify lists, with no
+# companies.md/prestige filter at all. Leave unset to skip this feed entirely.
+DISCORD_WEBHOOK_URL_ALL = os.environ.get("DISCORD_WEBHOOK_URL_ALL", "").strip()
 
 # --- Files -----------------------------------------------------------------
 COMPANIES_FILE = Path(os.environ.get("COMPANIES_FILE", ROOT / "companies.md"))
@@ -89,3 +92,12 @@ SIMPLIFY_REPOS = [
     ("Summer2026-Internships", "dev", "intern"),
     ("New-Grad-Positions", "dev", "new_grad"),
 ]
+
+# Also post every company Simplify lists (no companies.md filter) to a second,
+# separate channel via DISCORD_WEBHOOK_URL_ALL — for "any SWE role, not just
+# prestige-list companies". A job already matched into the curated feed above
+# is never repeated here (deduped by uid within the same run, and by
+# seen_jobs.json across runs). Actually fetching/seeding only happens once
+# DISCORD_WEBHOOK_URL_ALL is set (or DRY_RUN), so turning this on doesn't
+# quietly burn through the backlog before you've wired up the webhook.
+SIMPLIFY_ALL_ENABLED = os.environ.get("SIMPLIFY_ALL_ENABLED", "true").lower() in {"1", "true", "yes"}

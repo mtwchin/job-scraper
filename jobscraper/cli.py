@@ -95,12 +95,19 @@ def _cmd_discover(args) -> int:
 
 def _cmd_test_webhook(_args) -> int:
     logger = log.get()
-    if not settings.DISCORD_WEBHOOK_URL:
-        logger.error("DISCORD_WEBHOOK_URL is not set.")
+    if not settings.DISCORD_WEBHOOK_URL and not settings.DISCORD_WEBHOOK_URL_ALL:
+        logger.error("Neither DISCORD_WEBHOOK_URL nor DISCORD_WEBHOOK_URL_ALL is set.")
         return 2
     from . import notify
-    notify.notify_summary("🔧 Test message from Internship Radar — your webhook works!")
-    logger.info("Test message sent. Check your Discord channel.")
+    if settings.DISCORD_WEBHOOK_URL:
+        notify.notify_summary("🔧 Test message from Internship Radar — your webhook works!")
+        logger.info("Test message sent to the main webhook. Check your Discord channel.")
+    if settings.DISCORD_WEBHOOK_URL_ALL:
+        notify.notify_summary(
+            "🔧 Test message from Internship Radar — your all-companies webhook works!",
+            webhook_url=settings.DISCORD_WEBHOOK_URL_ALL,
+        )
+        logger.info("Test message sent to the all-companies webhook. Check your Discord channel.")
     return 0
 
 

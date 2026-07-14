@@ -51,10 +51,10 @@ def _embed(job: Job) -> dict:
     return embed
 
 
-def _post(payload: dict) -> None:
-    if settings.DRY_RUN or not settings.DISCORD_WEBHOOK_URL:
+def _post(payload: dict, webhook_url: str) -> None:
+    if settings.DRY_RUN or not webhook_url:
         return
-    resp = http.post(settings.DISCORD_WEBHOOK_URL, json=payload)
+    resp = http.post(webhook_url, json=payload)
     # Discord rate limit: back off and retry once.
     if resp.status_code == 429:
         retry_after = 1.0
@@ -63,15 +63,17 @@ def _post(payload: dict) -> None:
         except Exception:
             pass
         time.sleep(retry_after + 0.25)
-        http.post(settings.DISCORD_WEBHOOK_URL, json=payload)
+        http.post(webhook_url, json=payload)
     elif resp.status_code >= 300:
         print(f"[notify] Discord returned {resp.status_code}: {resp.text[:300]}")
 
 
-def notify_jobs(jobs: list[Job]) -> None:
-    """Send up to MAX_EMBEDS_PER_MESSAGE embeds per message."""
+def notify_jobs(jobs: list[Job], webhook_url: str = "") -> None:
+    """Send up to MAX_EMBEDS_PER_MESSAGE embeds per message. Defaults to the
+    main webhook; pass DISCORD_WEBHOOK_URL_ALL to target the all-companies feed."""
     if not jobs:
         return
+    webhook_url = webhook_url or settings.DISCORD_WEBHOOK_URL
     batch_size = settings.MAX_EMBEDS_PER_MESSAGE
     for i in range(0, len(jobs), batch_size):
         chunk = jobs[i : i + batch_size]
@@ -83,9 +85,9 @@ def notify_jobs(jobs: list[Job]) -> None:
             "embeds": [_embed(j) for j in chunk],
         }
         payload = {k: v for k, v in payload.items() if v is not None}
-        _post(payload)
+        _post(payload, webhook_url)
         time.sleep(0.4)  # be gentle with the webhook
 
 
-def notify_summary(text: str) -> None:
-    _post({"username": "Internship Radar", "content": text[:2000]})
+def notify_summary(text: str, webhook_url: str = "") -> None:
+    _post({"username": "Internship Radar", "content": text[:2000]}, webhook_url or settings.DISCORD_WEBHOOK_URL)

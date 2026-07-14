@@ -33,6 +33,7 @@ jobs:
       - name: Run scraper
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          DISCORD_WEBHOOK_URL_ALL: ${{ secrets.DISCORD_WEBHOOK_URL_ALL }}
           ROLE_TYPES: "intern,new_grad"
           OFF_SEASON_ONLY: "false"   # include summer internships too
           US_CANADA_ONLY: "true"   # only roles in the US or Canada

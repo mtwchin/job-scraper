@@ -1,10 +1,12 @@
 """SimplifyJobs GitHub listing repos as an extra source.
 
-Pulls each repo's listings.json and yields software intern / new-grad roles whose
-company is in companies.md. We trust Simplify's own `category` classification for
-"is this software?" (so titles like "Systems Engineer Intern" are caught), and
-match companies on a normalized name plus a small alias map (TikTok→ByteDance …).
-Valuable because it also covers the disabled custom-site companies we can't scrape.
+Pulls each repo's listings.json and yields software intern / new-grad roles. We
+trust Simplify's own `category` classification for "is this software?" (so
+titles like "Systems Engineer Intern" are caught). `fetch_pair()` returns two
+views from a single fetch: `curated` (company must be in companies.md, matched
+on a normalized name plus a small alias map — TikTok→ByteDance …) and `all`
+(every company, unfiltered — the "any SWE role" feed). Valuable because it also
+covers the disabled custom-site companies we can't scrape directly.
 """
 from __future__ import annotations
 
@@ -58,11 +60,30 @@ def _raw_url(repo: str, branch: str) -> str:
     return f"https://raw.githubusercontent.com/SimplifyJobs/{repo}/{branch}/.github/scripts/listings.json"
 
 
-def fetch() -> list[Job]:
-    """Active, visible, software intern/new-grad listings from our tracked
-    companies. Raises on a hard network failure so main records a source error."""
+def _to_job(x: dict) -> Job:
+    cid = str(x.get("id") or x.get("url"))
+    locs = x.get("locations") or []
+    return Job(
+        company=x.get("company_name", ""),
+        job_id=f"simplify-{cid}",
+        title=x.get("title", ""),
+        url=x.get("url", ""),
+        location=", ".join(locs) if isinstance(locs, list) else str(locs),
+        posted_at=str(x.get("date_posted", "")),  # unix seconds
+        source="simplify",
+    )
+
+
+def fetch_pair() -> tuple[list[Job], list[Job]]:
+    """Fetch each configured Simplify repo once and split into two views:
+    (curated, all). `curated` is restricted to companies.md (our existing
+    tracked list); `all` is every active/visible software listing regardless of
+    company — fetched once and split so both views cost a single GET per repo
+    instead of two. Raises on a hard network failure so main records a source
+    error."""
     ours = our_company_names()
-    jobs: dict[str, Job] = {}
+    curated: dict[str, Job] = {}
+    all_jobs: dict[str, Job] = {}
     for repo, branch, role in settings.SIMPLIFY_REPOS:
         if settings.ROLE_TYPES and role not in settings.ROLE_TYPES:
             continue
@@ -75,21 +96,19 @@ def fetch() -> list[Job]:
                 continue
             if x.get("category") not in SOFTWARE_CATEGORIES:
                 continue
-            cn = x.get("company_name", "")
-            if not _matches_company(cn, ours):
-                continue
-            cid = str(x.get("id") or x.get("url"))
-            locs = x.get("locations") or []
-            jobs[cid] = Job(
-                company=cn,
-                job_id=f"simplify-{cid}",
-                title=x.get("title", ""),
-                url=x.get("url", ""),
-                location=", ".join(locs) if isinstance(locs, list) else str(locs),
-                posted_at=str(x.get("date_posted", "")),  # unix seconds
-                source="simplify",
-            )
             kept += 1
-        logger.debug("simplify %s@%s: %d listings, %d software from our companies",
+            job = _to_job(x)
+            all_jobs[job.job_id] = job
+            if _matches_company(job.company, ours):
+                curated[job.job_id] = job
+        logger.debug("simplify %s@%s: %d listings, %d software",
                      repo, branch, len(listings), kept)
-    return list(jobs.values())
+    return list(curated.values()), list(all_jobs.values())
+
+
+def fetch() -> list[Job]:
+    """Active, visible, software intern/new-grad listings from our tracked
+    companies only. Raises on a hard network failure so main records a source
+    error."""
+    curated, _all = fetch_pair()
+    return curated
