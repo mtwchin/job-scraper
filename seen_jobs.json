@@ -1,5 +1,5 @@
 {
-  "count": 1416,
+  "count": 1417,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -4910,6 +4910,13 @@
       "posted_at": "1763657355",
       "title": "Software Application Developer Intern for GOES-R Series Satellites",
       "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2115543"
+    },
+    "simplify:kbr::simplify-9f8cf1af-90e3-46c9-b825-c902ce5bdddf": {
+      "company": "KBR",
+      "first_seen": "2026-07-15T12:44:14+00:00",
+      "posted_at": "1783376122",
+      "title": "Junior Systems Engineer - Digital Engineering Methodology",
+      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Jr-Systems-Engineer--Digital-Engineering-Methodology-_R2125985-1"
     },
     "simplify:kenco management services::simplify-f7de97e9-f415-42d5-a452-3b5b4903b75c": {
       "company": "Kenco Management Services",
@@ -9855,5 +9862,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-15T11:16:16+00:00"
+  "updated_at": "2026-07-15T12:44:14+00:00"
 }
