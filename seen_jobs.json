@@ -1,5 +1,5 @@
 {
-  "count": 1427,
+  "count": 1428,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -519,6 +519,13 @@
       "posted_at": "2026-07-13T15:46:19-04:00",
       "title": "Software Engineer \u2013 2027 Graduate Program (August Start)",
       "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796048003"
+    },
+    "old mission::7796180003": {
+      "company": "Old Mission",
+      "first_seen": "2026-07-15T18:35:13+00:00",
+      "posted_at": "2026-07-15T13:45:13-04:00",
+      "title": "Software Engineer \u2013 2027 Internship Program (June Start)",
+      "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003"
     },
     "optiver::8401042002": {
       "company": "Optiver",
@@ -9932,5 +9939,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-15T16:01:07+00:00"
+  "updated_at": "2026-07-15T18:35:13+00:00"
 }
