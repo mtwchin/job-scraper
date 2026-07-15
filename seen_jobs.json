@@ -1,5 +1,5 @@
 {
-  "count": 1408,
+  "count": 1412,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -2972,6 +2972,13 @@
       "title": "Software Development Engineer in Test",
       "url": "https://jobs.smartrecruiters.com/ComtechLLC2/743999653824310"
     },
+    "simplify:concept plus::simplify-2fef259f-7eea-4f01-83b4-de47794fec0d": {
+      "company": "Concept Plus",
+      "first_seen": "2026-07-15T09:46:41+00:00",
+      "posted_at": "1780610995",
+      "title": "Junior Software Developer",
+      "url": "https://ats.rippling.com/conceptplus/jobs/916978a4-fa79-4f6e-9eb6-515aa1cf3fb5"
+    },
     "simplify:confido::simplify-00142abd-9aec-4fca-9c8d-b46f6fb762d2": {
       "company": "Confido",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -3777,6 +3784,13 @@
       "title": "Collectibles - Software Engineer",
       "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26727"
     },
+    "simplify:faros ai::simplify-b638e646-a8c7-484b-9b2b-51e2b939e5c6": {
+      "company": "Faros AI",
+      "first_seen": "2026-07-15T09:46:41+00:00",
+      "posted_at": "1784106686",
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066/application?embed=true"
+    },
     "simplify:fidelity investments::simplify-17699a31-38e1-4e82-b409-fe317a841c6f": {
       "company": "Fidelity Investments",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -3881,6 +3895,13 @@
       "posted_at": "1774390413",
       "title": "Full Stack Software Developer",
       "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22399"
+    },
+    "simplify:fox::simplify-1959d4a6-4b9c-4759-9763-980fe344f2a1": {
+      "company": "FOX",
+      "first_seen": "2026-07-15T09:46:41+00:00",
+      "posted_at": "1781361320",
+      "title": "Bilingual Spanish Master Control Operator 1",
+      "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Bilingual-Spanish-Master-Control-Operator-I_R50031309"
     },
     "simplify:freedom technology solutions group::simplify-de2dabaf-389f-4f67-bf9d-1414cfa393fe": {
       "company": "Freedom Technology Solutions Group",
@@ -9265,6 +9286,13 @@
       "title": "Software Engineer",
       "url": "https://careers.varsitybrands.com/global/en/job/JR113366"
     },
+    "simplify:veeva systems::simplify-0b7e7043-7827-4ce9-ad37-87f67ec5375b": {
+      "company": "Veeva Systems",
+      "first_seen": "2026-07-15T09:46:41+00:00",
+      "posted_at": "1774391504",
+      "title": "Associate Technical Consultant - Entry-Level Consulting - Life Sciences",
+      "url": "https://jobs.lever.co/veeva/2f1ed4cd-5999-47a0-8c06-38898fed4711/apply"
+    },
     "simplify:veeva::simplify-d07dc6c0-69ed-42e6-a0f0-732bbe5b72fc": {
       "company": "Veeva",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -9799,5 +9827,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-15T07:54:12+00:00"
+  "updated_at": "2026-07-15T09:46:41+00:00"
 }
