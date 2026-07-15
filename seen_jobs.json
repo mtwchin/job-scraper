@@ -1,5 +1,5 @@
 {
-  "count": 1406,
+  "count": 1407,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -9055,6 +9055,13 @@
       "title": "Software Engineer 1 - Commerce Engineering",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8457711002"
     },
+    "simplify:twitch::simplify-da5cdf71-9a3d-481d-82ed-4bf5aedf8088": {
+      "company": "Twitch",
+      "first_seen": "2026-07-15T03:33:43+00:00",
+      "posted_at": "1784079798",
+      "title": "Software Engineer 1 - Discovery",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8623578002"
+    },
     "simplify:u.s. bank::simplify-d39e516b-ae65-4cf9-9970-b8daf6d787ef": {
       "company": "U.S. Bank",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -9785,5 +9792,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-15T00:13:08+00:00"
+  "updated_at": "2026-07-15T03:33:43+00:00"
 }
