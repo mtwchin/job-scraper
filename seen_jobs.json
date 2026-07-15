@@ -1,5 +1,5 @@
 {
-  "count": 1417,
+  "count": 1427,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -2041,6 +2041,13 @@
       "title": "Frontend Web App Engineer - Frontend/Web App",
       "url": "https://jobs.ashbyhq.com/beaconai/c7c05f23-554c-4679-a34f-bfbd6e1de79c/application"
     },
+    "simplify:beacon software::simplify-7d13d689-657d-404d-9463-284ccb89bd44": {
+      "company": "Beacon Software",
+      "first_seen": "2026-07-15T16:01:07+00:00",
+      "posted_at": "1784124718",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1/application?embed=true"
+    },
     "simplify:berkshire hathaway energy::simplify-2bc4beee-1d0a-4156-bd53-2d69f3f5743e": {
       "company": "Berkshire Hathaway Energy",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -2671,6 +2678,13 @@
       "title": "Simulation Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/cerebras/bf6f81b2-f079-483a-9238-295a184b3f0f/application"
     },
+    "simplify:cerebras::simplify-74127152-f238-47ca-b3b4-df49a5135001": {
+      "company": "Cerebras",
+      "first_seen": "2026-07-15T16:01:07+00:00",
+      "posted_at": "1784124746",
+      "title": "Software Engineer - Tools & Infrastructure / DevOps",
+      "url": "https://jobs.ashbyhq.com/cerebras/c0d8fa46-fd9e-49b5-80c9-040bbd0da916/application?embed=true"
+    },
     "simplify:cerebras::simplify-c0479012-54e4-478d-922f-1948cd356ac4": {
       "company": "Cerebras",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -3098,6 +3112,13 @@
       "title": "Software Engineer Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101987"
     },
+    "simplify:copart::simplify-27bc7565-972b-4dff-a2b6-d86296a62c88": {
+      "company": "Copart",
+      "first_seen": "2026-07-15T16:01:07+00:00",
+      "posted_at": "1784073600",
+      "title": "Software Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689"
+    },
     "simplify:copart::simplify-4fa1b683-fa30-44b0-a279-ea52a60e6a84": {
       "company": "Copart",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -3125,6 +3146,13 @@
       "posted_at": "1779527612",
       "title": "Software Engineer Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510"
+    },
+    "simplify:copart::simplify-b8a3808e-1eee-4b31-a9ed-c8790b1c82b9": {
+      "company": "Copart",
+      "first_seen": "2026-07-15T16:01:07+00:00",
+      "posted_at": "1784073600",
+      "title": "Software Engineer Intern",
+      "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673"
     },
     "simplify:copart::simplify-dc2f3a9e-bfd2-4ade-a19a-e77dfdcd2301": {
       "company": "Copart",
@@ -4091,6 +4119,13 @@
       "posted_at": "1783721212",
       "title": "Software Engineer",
       "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4713977005"
+    },
+    "simplify:glia::simplify-26303941-3af6-4ffd-9e18-ac1b1f8d1447": {
+      "company": "Glia",
+      "first_seen": "2026-07-15T16:01:07+00:00",
+      "posted_at": "1784124768",
+      "title": "Client Engineer",
+      "url": "https://jobs.ashbyhq.com/glia/9936ff15-a4b8-43a4-99a5-e774a75c829c/application?embed=true"
     },
     "simplify:glide::simplify-d68084c5-ab49-4255-ae22-0c224fc51dfe": {
       "company": "Glide",
@@ -6703,6 +6738,13 @@
       "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/PAR%20Technology/da5217c9-9b0e-493a-847e-96028574d107/application"
     },
+    "simplify:pariveda solutions::simplify-c4268818-09cf-4f39-a33e-85f5c536aeb4": {
+      "company": "Pariveda Solutions",
+      "first_seen": "2026-07-15T16:01:07+00:00",
+      "posted_at": "1784124772",
+      "title": "Technical Software Consultant",
+      "url": "https://jobs.ashbyhq.com/pariveda/d825ed65-edd8-4540-92c9-4c01f2b6a982/application?embed=true"
+    },
     "simplify:pattern data::simplify-fc07cf13-b666-439f-83e7-a5861fa41002": {
       "company": "Pattern Data",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -6969,12 +7011,26 @@
       "title": "Graduate Java Developer",
       "url": "https://jobs.smartrecruiters.com/RadiusLimited/744000137606588"
     },
+    "simplify:rainmaker::simplify-1b9a36a2-6f07-4938-983a-19a711787c74": {
+      "company": "Rainmaker",
+      "first_seen": "2026-07-15T16:01:07+00:00",
+      "posted_at": "1784124612",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b/apply"
+    },
     "simplify:rainmaker::simplify-6030164c-e664-402f-979c-959537416807": {
       "company": "Rainmaker",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1777637277",
       "title": "Software Engineering Intern",
       "url": "https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b"
+    },
+    "simplify:ravl::simplify-d0338c65-e371-4fc3-835e-5bee408cbc6b": {
+      "company": "RAVL",
+      "first_seen": "2026-07-15T16:01:07+00:00",
+      "posted_at": "1784124283",
+      "title": "Associate Engineer Apprentice - Engineering",
+      "url": "https://jobs.lever.co/ravl_io/4145932c-b493-4112-a0ed-68705ca0d720/apply"
     },
     "simplify:re:build manufacturing::simplify-aff3b07e-f991-4ab5-8103-d34a646653f8": {
       "company": "Re:Build Manufacturing",
@@ -9160,6 +9216,20 @@
       "title": "Trajectory Simulation Software Engineer 1",
       "url": "https://jobs.ulalaunch.com/job/Centennial-Trajectory-Simulation-Software-Engineer-1-CO-80112/1406055600/?ats=successfactors"
     },
+    "simplify:united parcel service (ups)::simplify-437a4476-d56d-412b-a963-91ec0c144015": {
+      "company": "United Parcel Service (UPS)",
+      "first_seen": "2026-07-15T16:01:07+00:00",
+      "posted_at": "1784073600",
+      "title": "Application Developer - Java Backend & Front end",
+      "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Application-Developer---Java-Backend---Front-end_R26020292"
+    },
+    "simplify:united parcel service (ups)::simplify-e1901e5a-e1da-4108-aa1d-7e341c93d311": {
+      "company": "United Parcel Service (UPS)",
+      "first_seen": "2026-07-15T16:01:07+00:00",
+      "posted_at": "1784073600",
+      "title": "Applications Development Associate",
+      "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Applications-Devt-Associate_R26005648"
+    },
     "simplify:university of central florida::simplify-21576dcc-16d0-4ac6-b351-2c10592d3a7a": {
       "company": "University of Central Florida",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -9862,5 +9932,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-15T12:44:14+00:00"
+  "updated_at": "2026-07-15T16:01:07+00:00"
 }
