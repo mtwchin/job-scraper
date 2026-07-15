@@ -1,5 +1,5 @@
 {
-  "count": 1412,
+  "count": 1416,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -2629,6 +2629,13 @@
       "title": "Kofax Developer",
       "url": "https://jobs.smartrecruiters.com/CareerGuidant/108467613"
     },
+    "simplify:carrier global::simplify-ce2e591f-5fd7-4ee8-b684-1d48bfea12c1": {
+      "company": "Carrier Global",
+      "first_seen": "2026-07-15T11:16:16+00:00",
+      "posted_at": "1779529203",
+      "title": "Mobile Application Developer - Service Technician",
+      "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAGAO-Carrier-Home-Georgia-Remote-Location-Remote-City-GA-30303-USA/Mobile-Application-Developer---Service-Technician_30205642"
+    },
     "simplify:caterpillar inc.::simplify-352477a3-29ad-47a1-9809-69a1da28d66c": {
       "company": "Caterpillar Inc.",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -2719,6 +2726,13 @@
       "posted_at": "1783987200",
       "title": "Student 2 - Software Engineering",
       "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering_JR223359"
+    },
+    "simplify:circleback::simplify-75892e9b-bebc-4e60-9e4b-a763af8e0759": {
+      "company": "Circleback",
+      "first_seen": "2026-07-15T11:16:16+00:00",
+      "posted_at": "1784106695",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true"
     },
     "simplify:cisco::simplify-5199b683-6293-4db7-9b3b-04a3a15cb801": {
       "company": "Cisco",
@@ -3790,6 +3804,13 @@
       "posted_at": "1784106686",
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066/application?embed=true"
+    },
+    "simplify:faros ai::simplify-c46d2cc8-7f2c-4f61-aecc-a772d5b62fe3": {
+      "company": "Faros AI",
+      "first_seen": "2026-07-15T11:16:16+00:00",
+      "posted_at": "1784106690",
+      "title": "Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/faros-ai/842a6e50-4050-4d7d-99f0-b9272c76cf43/application?embed=true"
     },
     "simplify:fidelity investments::simplify-17699a31-38e1-4e82-b409-fe317a841c6f": {
       "company": "Fidelity Investments",
@@ -9293,6 +9314,13 @@
       "title": "Associate Technical Consultant - Entry-Level Consulting - Life Sciences",
       "url": "https://jobs.lever.co/veeva/2f1ed4cd-5999-47a0-8c06-38898fed4711/apply"
     },
+    "simplify:veeva systems::simplify-ed36fcbe-2b5b-415f-b688-320bafcde449": {
+      "company": "Veeva Systems",
+      "first_seen": "2026-07-15T11:16:16+00:00",
+      "posted_at": "1774391445",
+      "title": "Associate Technical Consultant - Entry-Level Consulting - Life Sciences",
+      "url": "https://jobs.lever.co/veeva/0893f708-83d9-4a62-8011-5223ec3d373b/apply"
+    },
     "simplify:veeva::simplify-d07dc6c0-69ed-42e6-a0f0-732bbe5b72fc": {
       "company": "Veeva",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -9827,5 +9855,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-15T09:46:41+00:00"
+  "updated_at": "2026-07-15T11:16:16+00:00"
 }
