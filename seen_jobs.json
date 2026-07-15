@@ -1,5 +1,5 @@
 {
-  "count": 1407,
+  "count": 1408,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -2866,6 +2866,13 @@
       "posted_at": "1781639242",
       "title": "Software Developer Co-op",
       "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577"
+    },
+    "simplify:cloudflare::simplify-7d28754d-98f1-4b89-a78e-ecb4f103ce8b": {
+      "company": "Cloudflare",
+      "first_seen": "2026-07-15T07:54:12+00:00",
+      "posted_at": "1784097228",
+      "title": "Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785"
     },
     "simplify:cloudflare::simplify-a7ef9f52-96c8-4e0d-8788-af7650bc8e9b": {
       "company": "Cloudflare",
@@ -9792,5 +9799,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-15T03:33:43+00:00"
+  "updated_at": "2026-07-15T07:54:12+00:00"
 }
