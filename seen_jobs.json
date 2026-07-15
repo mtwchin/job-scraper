@@ -1,5 +1,5 @@
 {
-  "count": 1388,
+  "count": 1406,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -2727,6 +2727,13 @@
       "title": "Software Engineer Data/AI/Intelligent Systems 1",
       "url": "https://careers.cisco.com/global/en/job/2000073"
     },
+    "simplify:cisco::simplify-6784ff82-84bb-4425-8da6-d612962085a2": {
+      "company": "Cisco",
+      "first_seen": "2026-07-15T00:13:06+00:00",
+      "posted_at": "1783987200",
+      "title": "Software Engineer Quality Assurance 2",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-QA-II--Full-Time----United-States_1449147"
+    },
     "simplify:cisco::simplify-dff4c026-8cab-4cdd-92eb-26189980b28c": {
       "company": "Cisco",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -3168,6 +3175,13 @@
       "title": "Product Engineering Specialist",
       "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431193"
     },
+    "simplify:custom computer specialists::simplify-c3433d6a-bf30-4d16-8e0f-5126b09236cf": {
+      "company": "Custom Computer Specialists",
+      "first_seen": "2026-07-15T00:13:08+00:00",
+      "posted_at": "1784068262",
+      "title": "Developer Intern",
+      "url": "https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4221846009"
+    },
     "simplify:cylake::simplify-9c338480-379d-4ca7-b5c9-3cb606516e95": {
       "company": "Cylake",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -3202,6 +3216,13 @@
       "posted_at": "1765495709",
       "title": "Backend Engineer \u2013 New Grad",
       "url": "https://job-boards.greenhouse.io/d3/jobs/4915295008"
+    },
+    "simplify:daimler truck::simplify-9f9488ed-5677-4648-9ca2-07ff77e76705": {
+      "company": "Daimler Truck",
+      "first_seen": "2026-07-15T00:13:08+00:00",
+      "posted_at": "1783987200",
+      "title": "Mechanical Product Engineer 1 - Cab Exterior",
+      "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Mechanical-Product-Engineer-I--Cab-Exterior--L7-_DT-18755-1"
     },
     "simplify:danaher corporation::simplify-2a66eaca-fc2d-4587-8cda-8e31d4687a80": {
       "company": "Danaher Corporation",
@@ -3784,6 +3805,20 @@
       "title": "Application Developer 1 - Osf",
       "url": "https://bankatfirst.wd1.myworkdayjobs.com/ffb/job/IN---Indianapolis---Keystone-Crossing/Application-Developer-I--OSF_R9139"
     },
+    "simplify:five rings capital::simplify-14baa8ae-f151-483f-b5e0-77ca5086d04e": {
+      "company": "Five Rings Capital",
+      "first_seen": "2026-07-15T00:13:06+00:00",
+      "posted_at": "1784068202",
+      "title": "Software Developer Intern - Software Developer",
+      "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008"
+    },
+    "simplify:five rings capital::simplify-3ace8680-5997-4467-ad7e-82ecc656e241": {
+      "company": "Five Rings Capital",
+      "first_seen": "2026-07-15T00:13:06+00:00",
+      "posted_at": "1784068200",
+      "title": "Campus Full Time - Software Developer",
+      "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008"
+    },
     "simplify:flexai::simplify-af8ee11b-8ecb-4e0d-a573-663d2b202291": {
       "company": "FlexAI",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -3804,6 +3839,13 @@
       "posted_at": "1783980909",
       "title": "AI Coder",
       "url": "https://job-boards.greenhouse.io/flighthub/jobs/8060355"
+    },
+    "simplify:formlabs::simplify-0acde240-8d95-48ba-9f67-ea228b4cbb22": {
+      "company": "Formlabs",
+      "first_seen": "2026-07-15T00:13:08+00:00",
+      "posted_at": "1784067787",
+      "title": "Test Software Intern",
+      "url": "https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543"
     },
     "simplify:formlabs::simplify-e45157b9-46dc-4611-a3d0-94318359142c": {
       "company": "Formlabs",
@@ -4120,6 +4162,20 @@
       "title": "Application Engineer 1/2 Senior",
       "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-OK/Application-Engineer_JR103400-1"
     },
+    "simplify:guidewire::simplify-0d1fdb68-7acd-47a6-9000-85bad53536d8": {
+      "company": "Guidewire",
+      "first_seen": "2026-07-15T00:13:08+00:00",
+      "posted_at": "1783987200",
+      "title": "Software Engineer",
+      "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/Canada---Toronto/Software-Engineer_JR_15001-1"
+    },
+    "simplify:guidewire::simplify-17734f9e-611b-4c99-b1f8-b1434eebd5ed": {
+      "company": "Guidewire",
+      "first_seen": "2026-07-15T00:13:08+00:00",
+      "posted_at": "1783987200",
+      "title": "Software Engineer",
+      "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/Canada---Toronto/Software-Engineer_JR_15002"
+    },
     "simplify:gumloop::simplify-0e4a6769-a2f0-44f5-9fdb-0857121fd22c": {
       "company": "Gumloop",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -4386,6 +4442,20 @@
       "title": "Web Developer",
       "url": "https://jobs.smartrecruiters.com/IDEALFORCELLC/82806726"
     },
+    "simplify:ignite digital services::simplify-cec7ea72-fd1c-4f5e-94e4-3d0650cf934b": {
+      "company": "Ignite Digital Services",
+      "first_seen": "2026-07-15T00:13:08+00:00",
+      "posted_at": "1784068483",
+      "title": "Engineer/Scientist 1",
+      "url": "https://ignite-digital.com/careers/job-listings/?gh_jid=5343803008"
+    },
+    "simplify:ignite digital services::simplify-d7042ff9-73e7-4c5a-bc41-551e7b2533b7": {
+      "company": "Ignite Digital Services",
+      "first_seen": "2026-07-15T00:13:08+00:00",
+      "posted_at": "1784068485",
+      "title": "Engineer/Scientist Intern",
+      "url": "https://ignite-digital.com/careers/job-listings/?gh_jid=5348498008"
+    },
     "simplify:iherb::simplify-36e30f4d-f208-49e7-b220-df4872f5af7b": {
       "company": "iHerb",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -4427,6 +4497,13 @@
       "posted_at": "1771917254",
       "title": "Web Engineer - Entry",
       "url": "https://jobs.smartrecruiters.com/InfojiniInc1/107129288"
+    },
+    "simplify:instalily::simplify-67937ffc-14b5-4231-9e62-9a4f13dd11c2": {
+      "company": "InstaLILY",
+      "first_seen": "2026-07-15T00:13:08+00:00",
+      "posted_at": "1784068258",
+      "title": "Software Engineer 1 - General",
+      "url": "https://job-boards.greenhouse.io/instalilyai/jobs/4271757009"
     },
     "simplify:instead::simplify-ba8c4dd2-2dd5-48f2-a9c4-0c716b61b1db": {
       "company": "Instead",
@@ -5436,6 +5513,13 @@
       "title": "Graduate Software Engineer",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R62287"
     },
+    "simplify:motorola::simplify-8e8910ff-d27c-4f3c-871e-d348e505c0c5": {
+      "company": "Motorola",
+      "first_seen": "2026-07-15T00:13:08+00:00",
+      "posted_at": "1783987200",
+      "title": "Web Interface Software Engineer",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Web-Interface-Software-Engineer_R66626"
+    },
     "simplify:motorola::simplify-fcd95104-5b2a-4e23-bb5e-ee0412e59f2c": {
       "company": "Motorola",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -5632,12 +5716,26 @@
       "title": "Engineer Systems Test / Principal Engineer Systems Test",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Engineer-Systems-Test---Principal-Engineer-Systems-Test_R10237185"
     },
+    "simplify:northrop grumman::simplify-49472a99-45e3-46a5-a17f-131dee3d8b89": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-15T00:13:08+00:00",
+      "posted_at": "1783987200",
+      "title": "Material & Process Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Engineer-or-Principal-Engineer-Material---Process---HGT_R10240105"
+    },
     "simplify:northrop grumman::simplify-4c808a4b-9dbd-4687-af31-9ee3b355678e": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1781639440",
       "title": "Engineer or Principal Engineer Systems",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-or-Principal-Engineer-Systems_R10235799"
+    },
+    "simplify:northrop grumman::simplify-5015afe2-a54d-4d15-b986-71f8e2995b83": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-15T00:13:08+00:00",
+      "posted_at": "1783987200",
+      "title": "Software Engineer - Aht",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Software-Engineer--AHT-_R10240365"
     },
     "simplify:northrop grumman::simplify-7665ed7d-c986-4890-9c4d-a7b0e2545e12": {
       "company": "Northrop Grumman",
@@ -5792,6 +5890,13 @@
       "posted_at": "1779152915",
       "title": "AI Developer Co-op",
       "url": "https://jobs.ashbyhq.com/NPX/4a250618-dcfb-4ec9-8687-b2be9e2d6ef2/application"
+    },
+    "simplify:nuro::simplify-1704991d-f184-40b1-91ef-a74b76753d06": {
+      "company": "Nuro",
+      "first_seen": "2026-07-15T00:13:06+00:00",
+      "posted_at": "1784069033",
+      "title": "Software Engineer New Grad - Performance",
+      "url": "https://nuro.ai/careersitem?gh_jid=8064655"
     },
     "simplify:nuro::simplify-27c87258-83f7-4250-aea7-489c57222e3e": {
       "company": "Nuro",
@@ -7123,6 +7228,13 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01851415-1"
     },
+    "simplify:rtx::simplify-840954cd-3ba5-456f-a6cf-c4788e41762e": {
+      "company": "RTX",
+      "first_seen": "2026-07-15T00:13:08+00:00",
+      "posted_at": "1783987200",
+      "title": "Conversion Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534"
+    },
     "simplify:rtx::simplify-a3f73d95-78af-40f1-98a5-e230608dae8c": {
       "company": "RTX",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -7920,6 +8032,13 @@
       "posted_at": "1783376118",
       "title": "Quality Engineer 1 - Core-Java & Mainframe",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Quality-Engineer-I--Core-Java---Mainframe-_R_1497021"
+    },
+    "simplify:td bank::simplify-68f758fc-c478-4060-9121-db85f838a254": {
+      "company": "TD Bank",
+      "first_seen": "2026-07-15T00:13:08+00:00",
+      "posted_at": "1783987200",
+      "title": "Associate Software Engineer",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1499234"
     },
     "simplify:tech tammina::simplify-64438dd5-251c-45b7-b2b4-568865cc9f1d": {
       "company": "Tech Tammina",
@@ -9195,6 +9314,13 @@
       "title": "Full Stack Developer Intern",
       "url": "https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity"
     },
+    "simplify:viavi solutions::simplify-56ebd5c3-64ef-4742-a645-3dd905fa3007": {
+      "company": "Viavi Solutions",
+      "first_seen": "2026-07-15T00:13:08+00:00",
+      "posted_at": "1783987200",
+      "title": "Software Development Engineer",
+      "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Wichita-KS-USA/Software-Development-Engineer_260004910-1"
+    },
     "simplify:viridien::simplify-8937b4a1-831c-441b-b889-821e11516a62": {
       "company": "Viridien",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -9659,5 +9785,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-14T23:27:57+00:00"
+  "updated_at": "2026-07-15T00:13:08+00:00"
 }
