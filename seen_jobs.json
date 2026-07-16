@@ -1,5 +1,5 @@
 {
-  "count": 1479,
+  "count": 1480,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -934,6 +934,13 @@
       "posted_at": "2026-07-01T15:25:49-04:00",
       "title": "RF Systems Engineer I - Operations",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6589226003"
+    },
+    "rocket lab::7647932003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-07-16T19:25:47+00:00",
+      "posted_at": "2026-07-16T14:09:34-04:00",
+      "title": "Ground Systems Engineer I, Controls",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7647932003"
     },
     "rocket lab::7725384003": {
       "company": "Rocket Lab",
@@ -10296,5 +10303,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-16T16:58:03+00:00"
+  "updated_at": "2026-07-16T19:25:47+00:00"
 }
