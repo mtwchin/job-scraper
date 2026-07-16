@@ -1,5 +1,5 @@
 {
-  "count": 1471,
+  "count": 1474,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -7466,6 +7466,13 @@
       "title": "Android Developer Intern",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/5633bb03-cc16-47fc-af02-db9dc355eddd/application"
     },
+    "simplify:road runner::simplify-d45acc1f-f48c-4f62-8dd2-171e5665c943": {
+      "company": "Road Runner",
+      "first_seen": "2026-07-16T14:24:25+00:00",
+      "posted_at": "1783900800",
+      "title": "Junior Applications Engineer",
+      "url": "https://wd1.myworkdaysite.com/en-US/recruiting/rrts/careers/job/Downers-Grove-IL/Junior-Applications-Engineer_R0002296-2"
+    },
     "simplify:roadrunner recycling::simplify-5158ca83-fadc-46bd-8a9d-7d714853a2c3": {
       "company": "RoadRunner Recycling",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -7997,6 +8004,20 @@
       "posted_at": "1772435568",
       "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/socket/a1be82e9-bbe4-44ad-b05a-c03075e47af1/application"
+    },
+    "simplify:solar turbines::simplify-117c2f2b-e16b-44db-b634-e9cb1579b304": {
+      "company": "Solar Turbines",
+      "first_seen": "2026-07-16T14:24:25+00:00",
+      "posted_at": "1784160000",
+      "title": "Entry Level Engineer Rotation - Solutions Platforms Engineering",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Rotation----Solutions-Platforms-Engineered_R0000381658"
+    },
+    "simplify:solar turbines::simplify-f35a104f-8aa2-4e17-9c25-aec1fe42185e": {
+      "company": "Solar Turbines",
+      "first_seen": "2026-07-16T14:24:25+00:00",
+      "posted_at": "1784160000",
+      "title": "Gas Turbine Products Engineering Intern",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027--Gas-Turbine-Product-Engineering-Internship_R0000382293"
     },
     "simplify:solink::simplify-17d9db99-a20c-4b11-b8d4-c4f90a8148cb": {
       "company": "Solink",
@@ -10240,5 +10261,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-16T10:55:31+00:00"
+  "updated_at": "2026-07-16T14:24:25+00:00"
 }
