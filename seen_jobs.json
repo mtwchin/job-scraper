@@ -1,5 +1,5 @@
 {
-  "count": 1465,
+  "count": 1467,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -3286,6 +3286,20 @@
       "posted_at": "1784164185",
       "title": "Forward Deployed Engineer New Grad - Fde",
       "url": "https://jobs.ashbyhq.com/netic/f2d170eb-c4c3-4715-9d2e-84dd4fe857c8/application?embed=true"
+    },
+    "simplify:cybernetic labs::simplify-a4f1f1ef-5c02-4610-b206-1791f99b714e": {
+      "company": "Cybernetic Labs",
+      "first_seen": "2026-07-16T06:34:47+00:00",
+      "posted_at": "1784182197",
+      "title": "Software Engineer New Grad - Agent Platform",
+      "url": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f/application?embed=true"
+    },
+    "simplify:cybernetic labs::simplify-a6f02442-de0a-454f-a56f-8462c72d7c74": {
+      "company": "Cybernetic Labs",
+      "first_seen": "2026-07-16T06:34:47+00:00",
+      "posted_at": "1784182200",
+      "title": "Software Engineer Intern - Agent Platform",
+      "url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7/application?embed=true"
     },
     "simplify:cybernetic labs::simplify-d24846e3-7ab0-4dc5-8419-0d070719ad82": {
       "company": "Cybernetic Labs",
@@ -10198,5 +10212,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-16T04:18:15+00:00"
+  "updated_at": "2026-07-16T06:34:47+00:00"
 }
