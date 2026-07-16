@@ -1,5 +1,5 @@
 {
-  "count": 1474,
+  "count": 1477,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -3035,6 +3035,13 @@
       "title": "Forward Deployed Engineer",
       "url": "https://jobs.ashbyhq.com/Commure/faeeff7f-b1f9-4db2-93ff-99da570f85b0/application"
     },
+    "simplify:commvault::simplify-6452af52-4f5e-468d-8fb2-34baca8a9840": {
+      "company": "Commvault",
+      "first_seen": "2026-07-16T15:52:45+00:00",
+      "posted_at": "1784210748",
+      "title": "Entry-Level Software Engineer - AI/ML",
+      "url": "https://job-boards.greenhouse.io/commvault/jobs/5233620008"
+    },
     "simplify:comtech::simplify-126d88e3-b139-4f05-a819-7867cd679fde": {
       "company": "Comtech",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -4161,6 +4168,13 @@
       "posted_at": "1774935112",
       "title": "Junior Full Stack Engineer (Java/React)",
       "url": "https://careers-gdms.icims.com/jobs/71647/junior-full-stack-engineer-%28java-react%29/job"
+    },
+    "simplify:general dynamics::simplify-67b263fd-9197-4c3c-bcf7-fdf6ef1c0343": {
+      "company": "General Dynamics",
+      "first_seen": "2026-07-16T15:52:45+00:00",
+      "posted_at": "1784210998",
+      "title": "Engineer 1/2 - Communication Systems",
+      "url": "https://careers-gdeb.icims.com/jobs/19807/job?mobile=true&needsRedirect=false"
     },
     "simplify:general dynamics::simplify-69d2b92d-d518-4757-a412-abf062e93a65": {
       "company": "General Dynamics",
@@ -8012,6 +8026,13 @@
       "title": "Entry Level Engineer Rotation - Solutions Platforms Engineering",
       "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Rotation----Solutions-Platforms-Engineered_R0000381658"
     },
+    "simplify:solar turbines::simplify-1f641045-f717-4a41-9a0a-20d4a4e5092b": {
+      "company": "Solar Turbines",
+      "first_seen": "2026-07-16T15:52:45+00:00",
+      "posted_at": "1784160000",
+      "title": "Entry Level Gas Turbine Product Engineer - Gtpe",
+      "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Gas-Turbine-Product-Engineer--GTPE-_R0000382291"
+    },
     "simplify:solar turbines::simplify-f35a104f-8aa2-4e17-9c25-aec1fe42185e": {
       "company": "Solar Turbines",
       "first_seen": "2026-07-16T14:24:25+00:00",
@@ -10261,5 +10282,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-16T14:24:25+00:00"
+  "updated_at": "2026-07-16T15:52:45+00:00"
 }
