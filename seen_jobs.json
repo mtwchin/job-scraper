@@ -1,5 +1,5 @@
 {
-  "count": 1477,
+  "count": 1479,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -470,6 +470,13 @@
       "first_seen": "2026-06-28T23:35:42+00:00",
       "title": "Software Engineer, New Grad",
       "url": "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555"
+    },
+    "nuro::6972272": {
+      "company": "Nuro",
+      "first_seen": "2026-07-16T16:58:02+00:00",
+      "posted_at": "2026-07-16T12:50:35-04:00",
+      "title": "Software Engineer, Performance - New Grad",
+      "url": "https://nuro.ai/careersitem?gh_jid=6972272"
     },
     "nuro::7351061": {
       "company": "Nuro",
@@ -5253,6 +5260,13 @@
       "posted_at": "1783721501",
       "title": "Software Engineer \u2013 Early Career - Full Stack",
       "url": "https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817/application"
+    },
+    "simplify:l3harris technologies::simplify-72c67b39-d84c-46b6-b7b6-e9e97c47087d": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-07-16T16:58:03+00:00",
+      "posted_at": "1784210953",
+      "title": "Software Engineering Associate",
+      "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905/1409055400/?ats=successfactors"
     },
     "simplify:later::simplify-169ee4eb-3319-4a8b-9ea1-9e765661b92b": {
       "company": "Later",
@@ -10282,5 +10296,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-16T15:52:45+00:00"
+  "updated_at": "2026-07-16T16:58:03+00:00"
 }
