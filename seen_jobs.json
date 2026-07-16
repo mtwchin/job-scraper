@@ -1,5 +1,5 @@
 {
-  "count": 1468,
+  "count": 1471,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1396,6 +1396,13 @@
       "posted_at": "1783548695",
       "title": "Software Engineer - Datapath",
       "url": "https://alkira.bamboohr.com/careers/232/"
+    },
+    "simplify:alliancebernstein::simplify-38f5e07d-e077-4145-ace5-85e4eb815a92": {
+      "company": "AllianceBernstein",
+      "first_seen": "2026-07-16T10:55:31+00:00",
+      "posted_at": "1781906909",
+      "title": "Developer - Wealth Planning Tools - Wealth Forecasting System",
+      "url": "https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Developer_R0019142-2"
     },
     "simplify:allstate insurance company::simplify-8f04b5c1-b5a3-41ae-87b2-8a2339959201": {
       "company": "Allstate Insurance Company",
@@ -4050,6 +4057,13 @@
       "title": "Bilingual Spanish Master Control Operator 1",
       "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/USA---AZ---Tempe---2010-E-Centennial-Cir/Bilingual-Spanish-Master-Control-Operator-I_R50031309"
     },
+    "simplify:fox::simplify-78d4d72d-8d8b-486e-b304-6ef7beb040da": {
+      "company": "FOX",
+      "first_seen": "2026-07-16T10:55:31+00:00",
+      "posted_at": "1783635197",
+      "title": "Machine Shop CNC Operator - CNC Operators",
+      "url": "https://foxfactory.wd1.myworkdayjobs.com/FOX/job/US-GA-Gainesville-Machine-Shop/CNC-Machine-Operator---3rd-Shift_JR109102"
+    },
     "simplify:freedom technology solutions group::simplify-de2dabaf-389f-4f67-bf9d-1414cfa393fe": {
       "company": "Freedom Technology Solutions Group",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -5666,6 +5680,13 @@
       "posted_at": "1782770988",
       "title": "Software Engineer 2",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556917742"
+    },
+    "simplify:microsoft::simplify-3aa50c82-9381-4d06-bbd0-5f063ed38312": {
+      "company": "Microsoft",
+      "first_seen": "2026-07-16T10:55:31+00:00",
+      "posted_at": "1784106196",
+      "title": "Software Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556932425"
     },
     "simplify:microsoft::simplify-56b688ac-5461-4812-9be2-46a7c60e49be": {
       "company": "Microsoft",
@@ -10219,5 +10240,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-16T08:57:23+00:00"
+  "updated_at": "2026-07-16T10:55:31+00:00"
 }
