@@ -1,5 +1,5 @@
 {
-  "count": 1456,
+  "count": 1465,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -3280,6 +3280,34 @@
       "title": "Developer Intern",
       "url": "https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4221846009"
     },
+    "simplify:cybernetic labs::simplify-88e29c4b-10b6-41ea-8fff-03ffc01e516d": {
+      "company": "Cybernetic Labs",
+      "first_seen": "2026-07-16T04:18:15+00:00",
+      "posted_at": "1784164185",
+      "title": "Forward Deployed Engineer New Grad - Fde",
+      "url": "https://jobs.ashbyhq.com/netic/f2d170eb-c4c3-4715-9d2e-84dd4fe857c8/application?embed=true"
+    },
+    "simplify:cybernetic labs::simplify-d24846e3-7ab0-4dc5-8419-0d070719ad82": {
+      "company": "Cybernetic Labs",
+      "first_seen": "2026-07-16T04:18:15+00:00",
+      "posted_at": "1784164199",
+      "title": "Full-Stack Software Engineer New Grad - Product",
+      "url": "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3/application?embed=true"
+    },
+    "simplify:cybernetic labs::simplify-d939c49f-1d93-4ba9-aa2f-32e4e7398633": {
+      "company": "Cybernetic Labs",
+      "first_seen": "2026-07-16T04:18:15+00:00",
+      "posted_at": "1784164185",
+      "title": "Forward Deployed Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/netic/ffd6af1a-cebb-41f5-ac1d-e695adfd067c/application?embed=true"
+    },
+    "simplify:cybernetic labs::simplify-fe8fd0a0-0ded-47c1-8bba-8ac16fdd2926": {
+      "company": "Cybernetic Labs",
+      "first_seen": "2026-07-16T04:18:15+00:00",
+      "posted_at": "1784164187",
+      "title": "Full-Stack Software Engineer Intern - Product",
+      "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef/application?embed=true"
+    },
     "simplify:cylake::simplify-9c338480-379d-4ca7-b5c9-3cb606516e95": {
       "company": "Cylake",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -4582,6 +4610,13 @@
       "title": "Technology Software Engineer Rotation Program - Analyst",
       "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8612429002"
     },
+    "simplify:icf international::simplify-4deda6be-a646-425e-9411-9a86903827d1": {
+      "company": "ICF International",
+      "first_seen": "2026-07-16T04:18:15+00:00",
+      "posted_at": "1784073600",
+      "title": "Associate ServiceNow Developer",
+      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Associate-ServiceNow-Developer--Secret-Clearance-Required-_R2602450"
+    },
     "simplify:idealforce::simplify-ebdbdcd8-ef03-440b-a67f-e1930d725d62": {
       "company": "Idealforce",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -5302,6 +5337,13 @@
       "posted_at": "1763660980",
       "title": "AI Product Engineer \u2013 New Grad",
       "url": "https://jobs.ashbyhq.com/Lightfield/bb758825-5422-46c4-86c3-0be1cc89148f/application"
+    },
+    "simplify:lightfield::simplify-f7ad7fb2-93f8-4515-bd37-68629bc7d326": {
+      "company": "Lightfield",
+      "first_seen": "2026-07-16T04:18:15+00:00",
+      "posted_at": "1784164181",
+      "title": "Software Engineer New Grad - Applied AI",
+      "url": "https://jobs.ashbyhq.com/Lightfield/fc93a467-773d-4805-b342-bf470950732d/application?embed=true"
     },
     "simplify:liquid::simplify-536242db-62cc-4f97-b8e4-d38cd8088500": {
       "company": "Liquid",
@@ -7277,6 +7319,13 @@
       "title": "AI Developer Intern/Co-op",
       "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/AI-Developer--Intern-Co-op---REMOTE--Fall-2026-_JR-044467"
     },
+    "simplify:revvity::simplify-9f3c0656-6cef-4be9-9103-18c13986bef8": {
+      "company": "Revvity",
+      "first_seen": "2026-07-16T04:18:15+00:00",
+      "posted_at": "1784073600",
+      "title": "Full-Stack AI Developer Intern",
+      "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044913"
+    },
     "simplify:revvity::simplify-aec4ad25-f3ea-4386-99cc-b24aaa5e5926": {
       "company": "Revvity",
       "first_seen": "2026-07-15T22:38:49+00:00",
@@ -7416,6 +7465,13 @@
       "posted_at": "1779402163",
       "title": "Software Intern",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7736776003"
+    },
+    "simplify:rogers behavioral health::simplify-0b30bc91-8862-4411-aa6f-7aa4a04e32ce": {
+      "company": "Rogers Behavioral Health",
+      "first_seen": "2026-07-16T04:18:15+00:00",
+      "posted_at": "1784073600",
+      "title": "Therapist \u2013 Partial Hospitalization / Intensive Outpatient",
+      "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Kenosha-Clinic-Kenosha-WI/Therapist---PHP-IOP_R7948"
     },
     "simplify:rogers behavioral health::simplify-5c0748e1-a7ed-4bae-9ce1-edbea903c615": {
       "company": "Rogers Behavioral Health",
@@ -7661,6 +7717,13 @@
       "posted_at": "1780726158",
       "title": "AI Builder Intern",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005"
+    },
+    "simplify:schweitzer engineering laboratories::simplify-c397c573-0849-4481-968f-9dd2b5b1ab87": {
+      "company": "Schweitzer Engineering Laboratories",
+      "first_seen": "2026-07-16T04:18:15+00:00",
+      "posted_at": "1783462685",
+      "title": "Software Engineering Intern",
+      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Round-Rock/Software-Engineer-Intern_2026-21720"
     },
     "simplify:scott logic::simplify-0223a20a-4b07-4ffd-8e05-1d27c1ea47c9": {
       "company": "Scott Logic",
@@ -10135,5 +10198,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-15T23:37:55+00:00"
+  "updated_at": "2026-07-16T04:18:15+00:00"
 }
