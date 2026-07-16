@@ -1,5 +1,5 @@
 {
-  "count": 1467,
+  "count": 1468,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -4994,6 +4994,13 @@
       "posted_at": "1782963863",
       "title": "Equipment Systems Application Engineer 1",
       "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Indianapolis-Indiana-United-States-of-America/Equipment-Systems-Application-Engineer-I_WD30272554"
+    },
+    "simplify:jonas software::simplify-058e376f-60d5-425d-a1dd-6c73a4ad4224": {
+      "company": "Jonas Software",
+      "first_seen": "2026-07-16T08:57:23+00:00",
+      "posted_at": "1781346653",
+      "title": "Customer Support Analyst",
+      "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Canada---Markham---Ontario/Customer-Solution-Analyst_R12522-2"
     },
     "simplify:jp morgan chase::simplify-0ce368f3-691a-439c-98bc-3e4a3a32f91a": {
       "company": "JP Morgan Chase",
@@ -10212,5 +10219,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-16T06:34:47+00:00"
+  "updated_at": "2026-07-16T08:57:23+00:00"
 }
