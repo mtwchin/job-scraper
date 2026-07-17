@@ -1,5 +1,5 @@
 {
-  "count": 1507,
+  "count": 1508,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1130,6 +1130,13 @@
       "posted_at": "1782770709",
       "title": "Undergraduate Intern - Technology and Analytics Department-Educate Pod",
       "url": "https://job-boards.greenhouse.io/acluinternships/jobs/8612266002"
+    },
+    "simplify:acrisure::simplify-5922f002-13a5-421a-835f-d69782f4f801": {
+      "company": "Acrisure",
+      "first_seen": "2026-07-17T08:31:20+00:00",
+      "posted_at": "1784160000",
+      "title": "Software Engineer 1",
+      "url": "https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/333-Earle-Ovington-Blvd---Uniondale-NY/Software-Engineer-I_JR113871"
     },
     "simplify:ada::simplify-f59e5b11-d1a0-4afa-ac2f-9c1e54ef6179": {
       "company": "Ada",
@@ -10492,5 +10499,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-17T04:00:15+00:00"
+  "updated_at": "2026-07-17T08:31:20+00:00"
 }
