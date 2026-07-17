@@ -1,5 +1,5 @@
 {
-  "count": 1522,
+  "count": 1523,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -955,6 +955,13 @@
       "posted_at": "2026-07-01T15:25:49-04:00",
       "title": "Ground Systems Engineer I - Structures and Mechanisms",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7760576003"
+    },
+    "rocket lab::7790865003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-07-17T17:52:45+00:00",
+      "posted_at": "2026-07-17T13:39:41-04:00",
+      "title": "IT Systems Engineer I",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7790865003"
     },
     "salesforce::Missionforce---Associate-Forward-Deployed-Engineer--FDE---Public-Sector_JR333171": {
       "company": "Salesforce",
@@ -10597,5 +10604,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-17T16:51:50+00:00"
+  "updated_at": "2026-07-17T17:52:45+00:00"
 }
