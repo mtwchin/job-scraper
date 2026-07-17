@@ -1,5 +1,5 @@
 {
-  "count": 1515,
+  "count": 1517,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1410,6 +1410,13 @@
       "posted_at": "1783980612",
       "title": "Senior Software Engineer 1 - Data & Insights Engineering",
       "url": "https://jobs.lever.co/aledade/3eafe371-4bee-492f-af5c-fd2e3f71b8da/apply"
+    },
+    "simplify:alkami technology::simplify-477e4909-9fa1-4e10-a7cc-bdc0526bc2a2": {
+      "company": "Alkami Technology",
+      "first_seen": "2026-07-17T12:49:02+00:00",
+      "posted_at": "1783987200",
+      "title": "Software Engineer",
+      "url": "https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Software-Engineer_JR-000768"
     },
     "simplify:alkegen::simplify-c1aef919-6a3e-46ea-8cfa-6ec5fd93783b": {
       "company": "Alkegen",
@@ -7851,6 +7858,13 @@
       "title": "Software Engineer - Software Engineer I",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Raytheon-Full-Time---Software-Engineer-I---McKinney--TX--Onsite-_01853473"
     },
+    "simplify:rtx::simplify-ffbb5a63-45f4-4589-8f3e-814233effd30": {
+      "company": "RTX",
+      "first_seen": "2026-07-17T12:49:02+00:00",
+      "posted_at": "1784153865",
+      "title": "Digital Project Engineer Intern - Digital Project Engineering",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship-Fall-2026---Digital-Project-Engineering_01837887"
+    },
     "simplify:rural king::simplify-10e3b0cb-14b0-4d11-9324-b5a5a0049daf": {
       "company": "Rural King",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10548,5 +10562,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-17T11:45:01+00:00"
+  "updated_at": "2026-07-17T12:49:02+00:00"
 }
