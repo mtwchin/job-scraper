@@ -1,5 +1,5 @@
 {
-  "count": 1521,
+  "count": 1522,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -9636,6 +9636,13 @@
       "title": "Software Engineer Intern",
       "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-Intern_R1381"
     },
+    "simplify:townsquare media::simplify-70c0ea8f-1dde-4f9a-a70b-45bfe8fb5d50": {
+      "company": "Townsquare Media",
+      "first_seen": "2026-07-17T16:51:50+00:00",
+      "posted_at": "1784298700",
+      "title": "Board Operator - Kixz",
+      "url": "https://careers.townsquaremedia.com/job-details/?gh_jid=8071200"
+    },
     "simplify:toyota::simplify-cb3cc844-e743-4ff9-b173-f83f0dd66831": {
       "company": "Toyota",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10590,5 +10597,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-17T15:48:33+00:00"
+  "updated_at": "2026-07-17T16:51:50+00:00"
 }
