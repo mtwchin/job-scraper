@@ -1,5 +1,5 @@
 {
-  "count": 1517,
+  "count": 1521,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -4757,6 +4757,13 @@
       "title": "Software Engineer Intern - Summer 2026",
       "url": "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/891"
     },
+    "simplify:huntington bancshares::simplify-f458300e-96c0-4349-88fa-cdf6a6cd0aed": {
+      "company": "Huntington Bancshares",
+      "first_seen": "2026-07-17T15:48:33+00:00",
+      "posted_at": "1784246400",
+      "title": "Technology Delivery Analyst - Elevate",
+      "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0074064"
+    },
     "simplify:huntington ingalls industries::simplify-84a39b8e-8d89-4f91-ab45-1d53e8d86776": {
       "company": "Huntington Ingalls Industries",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -5751,6 +5758,13 @@
       "title": "Full-Stack Developer Intern - Music & Audio",
       "url": "https://jobs.ashbyhq.com/melotech/15af19d9-a318-45a6-8a06-23053ea487a5/application"
     },
+    "simplify:memorial hermann::simplify-98e4d992-5e24-4908-8792-a7a96f2babb0": {
+      "company": "Memorial Hermann",
+      "first_seen": "2026-07-17T15:48:33+00:00",
+      "posted_at": "1784246400",
+      "title": "Senior Applications Analyst",
+      "url": "https://memorialhermann.wd5.myworkdayjobs.com/external/job/Medical-Plaza-North/Senior-Applications-Analyst_100179387"
+    },
     "simplify:menasha corporation::simplify-b2852531-3bff-4d0c-b7fb-6d773bdbfd70": {
       "company": "Menasha Corporation",
       "first_seen": "2026-07-14T22:33:53+00:00",
@@ -5946,6 +5960,13 @@
       "posted_at": "1778278258",
       "title": "Software Engineer Intern - Developer Productivity",
       "url": "https://www.mongodb.com/careers/job/?gh_jid=7851388"
+    },
+    "simplify:motorola::simplify-177af578-19a1-428a-8acb-184beaa3cf9e": {
+      "company": "Motorola",
+      "first_seen": "2026-07-17T15:48:33+00:00",
+      "posted_at": "1784246400",
+      "title": "Software Engineering",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering_R66217"
     },
     "simplify:motorola::simplify-3bc11357-f814-4102-a7af-456453dc5023": {
       "company": "Motorola",
@@ -7206,6 +7227,13 @@
       "posted_at": "1782956008",
       "title": "Computer Science and Engineering Researcher",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Hussain--S_REQ_0000079781-2"
+    },
+    "simplify:pennsylvania state university::simplify-e3832dea-fb21-489b-b1cb-1dd91cd40a1e": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-07-17T15:48:33+00:00",
+      "posted_at": "1784246400",
+      "title": "Nittany AI Intern",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Nittany-AI-Innovator_REQ_0000080373-1"
     },
     "simplify:people culture talent::simplify-22a341c0-1428-4064-a7c3-2c01961fcee3": {
       "company": "People Culture Talent",
@@ -10562,5 +10590,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-17T12:49:02+00:00"
+  "updated_at": "2026-07-17T15:48:33+00:00"
 }
