@@ -1,5 +1,5 @@
 {
-  "count": 1504,
+  "count": 1507,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -3077,6 +3077,13 @@
       "title": "Entry-Level Software Engineer - AI/ML",
       "url": "https://job-boards.greenhouse.io/commvault/jobs/5233620008"
     },
+    "simplify:composio::simplify-015239c6-bc89-4abd-a7a9-97acc270ae0a": {
+      "company": "Composio",
+      "first_seen": "2026-07-17T04:00:15+00:00",
+      "posted_at": "1784250683",
+      "title": "Full-stack Intern",
+      "url": "https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9/application?embed=true"
+    },
     "simplify:comtech::simplify-126d88e3-b139-4f05-a819-7867cd679fde": {
       "company": "Comtech",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -3902,6 +3909,13 @@
       "posted_at": "1783347131",
       "title": "Software Engineer 1",
       "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/GBR_WS_Malvern/Software-Engineer-I_JR500693-1"
+    },
+    "simplify:everfox::simplify-eda8945b-09f3-4443-8b05-971607aad015": {
+      "company": "Everfox",
+      "first_seen": "2026-07-17T04:00:15+00:00",
+      "posted_at": "1784246400",
+      "title": "Software Engineer",
+      "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/GBR_WS_Malvern/Software-Engineer-I_JR500694"
     },
     "simplify:evolver::simplify-e4a31c6e-717d-4b5a-89d8-666c552afe34": {
       "company": "Evolver",
@@ -7767,6 +7781,13 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineer-I--Onsite-_01851415-1"
     },
+    "simplify:rtx::simplify-70a25a5c-fceb-42fd-8775-06160a182225": {
+      "company": "RTX",
+      "first_seen": "2026-07-17T04:00:15+00:00",
+      "posted_at": "1781215848",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01852152"
+    },
     "simplify:rtx::simplify-840954cd-3ba5-456f-a6cf-c4788e41762e": {
       "company": "RTX",
       "first_seen": "2026-07-15T00:13:08+00:00",
@@ -10471,5 +10492,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-17T00:58:34+00:00"
+  "updated_at": "2026-07-17T04:00:15+00:00"
 }
