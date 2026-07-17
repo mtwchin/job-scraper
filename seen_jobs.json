@@ -1,5 +1,5 @@
 {
-  "count": 1512,
+  "count": 1515,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -2727,6 +2727,13 @@
       "title": "Cybersecurity Application Developer - Cybersecurity",
       "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Nashville-Tennessee/Application-Developer---Cybersecurity_R0000381258"
     },
+    "simplify:cencora::simplify-dcbeb1d6-2bca-4251-af9e-4bcd4074fc46": {
+      "company": "Cencora",
+      "first_seen": "2026-07-17T11:45:01+00:00",
+      "posted_at": "1778623786",
+      "title": "Automation Developer 1",
+      "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Carrollton-TX/Automation-Developer-I_R2521185"
+    },
     "simplify:censys::simplify-14f15f8c-4d06-416b-ae40-d498a8e4b07c": {
       "company": "Censys",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -4112,6 +4119,13 @@
       "posted_at": "1784067787",
       "title": "Test Software Intern",
       "url": "https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543"
+    },
+    "simplify:formlabs::simplify-6d7eaee5-c397-4318-a363-1aca5bdb6bde": {
+      "company": "Formlabs",
+      "first_seen": "2026-07-17T11:45:01+00:00",
+      "posted_at": "1784280488",
+      "title": "Supply Chain Operations Software Intern",
+      "url": "https://careers.formlabs.com/job/8069676/apply/?gh_jid=8069676"
     },
     "simplify:formlabs::simplify-a0a6c7de-12fb-4e52-93f3-86d62a5a9b19": {
       "company": "Formlabs",
@@ -10182,6 +10196,13 @@
       "title": "Software Developer 1 - Cobol",
       "url": "https://careers-westernsouthern.icims.com/jobs/24925/job?mobile=true&needsRedirect=false"
     },
+    "simplify:western & southern financial group::simplify-e671d1ed-b76e-49b7-8d2a-81b5e6f9f4ed": {
+      "company": "Western & Southern Financial Group",
+      "first_seen": "2026-07-17T11:45:01+00:00",
+      "posted_at": "1776866666",
+      "title": "Software Developer 1",
+      "url": "https://careers-westernsouthern.icims.com/jobs/24908/job?mobile=true&needsRedirect=false"
+    },
     "simplify:western digital::simplify-668cc2ce-ddbc-4d16-9c40-c27e83c81d93": {
       "company": "Western Digital",
       "first_seen": "2026-07-17T00:58:34+00:00",
@@ -10527,5 +10548,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-17T10:20:14+00:00"
+  "updated_at": "2026-07-17T11:45:01+00:00"
 }
