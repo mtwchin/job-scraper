@@ -1,5 +1,5 @@
 {
-  "count": 1480,
+  "count": 1504,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1796,6 +1796,13 @@
       "title": "On-device AI Frameworks Engineer Intern",
       "url": "https://job-boards.greenhouse.io/argmax/jobs/4067268009"
     },
+    "simplify:arize ai::simplify-da6a6bdb-c5d2-4aa4-8350-63b033037299": {
+      "company": "Arize AI",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1781638919",
+      "title": "Forward Deployed AI Engineer",
+      "url": "https://job-boards.greenhouse.io/arizeai/jobs/6030953004"
+    },
     "simplify:arka infotech::simplify-4dd42a3c-3fcd-491f-b922-16e435212142": {
       "company": "Arka Infotech",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -2754,6 +2761,20 @@
       "posted_at": "1774505937",
       "title": "ServiceNow Architect - Sna - Junior",
       "url": "https://jobs.lever.co/cgsfederal/af321f10-50ca-48d6-b807-51428a5aee7a/apply"
+    },
+    "simplify:chevron corporation::simplify-09855ad6-f11c-4939-b41a-39ff8df98ee6": {
+      "company": "Chevron Corporation",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1784160000",
+      "title": "Software Engineer Intern - Information Technology - Software Engineer",
+      "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1"
+    },
+    "simplify:chevron corporation::simplify-b397dfd4-9a6c-4fbe-a24e-b1130513b7be": {
+      "company": "Chevron Corporation",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1784160000",
+      "title": "Information Technology Engineer - Software Engineer",
+      "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Full-Time_R000072400-1"
     },
     "simplify:chicago trading company::simplify-0489a50d-5cd6-4f17-8222-4ac7f89961cf": {
       "company": "Chicago Trading Company",
@@ -3805,6 +3826,13 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/espa/6fa2d441-971f-44c4-9a4e-3304ea041cc8/application"
     },
+    "simplify:esri::simplify-107d51de-17ca-4680-96a1-a86848cc5ca9": {
+      "company": "Esri",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1784241025",
+      "title": "Web Developer 1 - UI for Arcgis Enterprise",
+      "url": "https://www.esri.com/careers/5188696007?gh_jid=5188696007"
+    },
     "simplify:esri::simplify-5909e69f-9e25-4075-904c-d31c6aa6f5f7": {
       "company": "Esri",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -4043,6 +4071,20 @@
       "title": "Test Software Intern",
       "url": "https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543"
     },
+    "simplify:formlabs::simplify-a0a6c7de-12fb-4e52-93f3-86d62a5a9b19": {
+      "company": "Formlabs",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1784240483",
+      "title": "AI Software Intern",
+      "url": "https://careers.formlabs.com/job/8067641/apply/?gh_jid=8067641"
+    },
+    "simplify:formlabs::simplify-da57bdc2-8679-4ce5-a046-ae2d4ab54823": {
+      "company": "Formlabs",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1784240483",
+      "title": "Algorithms Software Intern",
+      "url": "https://careers.formlabs.com/job/8060759/apply/?gh_jid=8060759"
+    },
     "simplify:formlabs::simplify-e45157b9-46dc-4611-a3d0-94318359142c": {
       "company": "Formlabs",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -4112,6 +4154,13 @@
       "posted_at": "1783472744",
       "title": "Field Engineer 1",
       "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/El-Paso/Field-Engineer-1_R4043144-2"
+    },
+    "simplify:ge healthcare::simplify-a5871307-853e-486a-803c-bb9cb1f6ebd4": {
+      "company": "GE Healthcare",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1777414110",
+      "title": "Software Engineer 1",
+      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I_R4040485-2"
     },
     "simplify:gemini::simplify-33d49b99-ffcc-4d51-ab65-58a97d2afbf0": {
       "company": "Gemini",
@@ -4217,6 +4266,13 @@
       "posted_at": "1782914883",
       "title": "Machine Vision Development Engineer 1",
       "url": "https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Machine-Vision-Development-Engineer-I_REQ026227"
+    },
+    "simplify:geocomply::simplify-1d0df9c8-c66c-43a4-a73a-ee0c92dc7fc6": {
+      "company": "GeoComply",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1784239732",
+      "title": "Full Stack Developer Intern",
+      "url": "https://jobs.lever.co/geocomply-2/a3131ad8-06ec-4c6e-b27c-81aa4c02cc40/apply"
     },
     "simplify:giga ai::simplify-23e33f26-3a42-4fb5-9910-93c79b50e859": {
       "company": "Giga AI",
@@ -4504,6 +4560,13 @@
       "posted_at": "1774390964",
       "title": "Agent Deployment Engineer",
       "url": "https://jobs.ashbyhq.com/Hippocratic%20AI/0437c678-bd5a-429d-b34b-bfd3b70d1793/application"
+    },
+    "simplify:hire hangar::simplify-fd29bc2b-16af-49b4-9851-3ef072af0768": {
+      "company": "Hire Hangar",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1783548624",
+      "title": "Early Product Engineer",
+      "url": "https://jobs.ashbyhq.com/hirehangar/a2cf4f0c-c870-4fe5-ae4e-dc2105bf4bf4/application"
     },
     "simplify:hitachi energy::simplify-7717c612-0855-40d4-8f2d-ceb5c5bc2d57": {
       "company": "Hitachi Energy",
@@ -5541,6 +5604,13 @@
       "title": "FLEX Associate Software Engineer - Customer Data Platform",
       "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26085377"
     },
+    "simplify:marsh::simplify-67f616cb-649c-4944-8550-3023ef36afb9": {
+      "company": "Marsh",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1784160000",
+      "title": "Applications Developer",
+      "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/New-York---1166/Applications-Developer_R_353231"
+    },
     "simplify:marshall wace::simplify-ae7fd66d-2ccb-4c86-894b-f1f097cff21c": {
       "company": "Marshall Wace",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -5729,6 +5799,13 @@
       "posted_at": "1778767648",
       "title": "Software Engineer 2 - Foundry Agents - CoreAI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863227"
+    },
+    "simplify:microsoft::simplify-d50dd4f1-ca8c-4636-9452-4d9f4073bd45": {
+      "company": "Microsoft",
+      "first_seen": "2026-07-17T00:58:32+00:00",
+      "posted_at": "1784239482",
+      "title": "Software Engineer 2 / Senior Software Engineer - Commerce Platforms",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928670"
     },
     "simplify:mindlance::simplify-2e79b2fe-c212-4a91-ae33-f27118f41aa7": {
       "company": "Mindlance",
@@ -5982,6 +6059,13 @@
       "title": "Integration Specialist",
       "url": "https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Integration-Specialist_JR101961"
     },
+    "simplify:northeastern::simplify-039da96e-74f6-497c-9ef4-214e31ceb26e": {
+      "company": "Northeastern",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1784160000",
+      "title": "Research Assistant",
+      "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Research-Assistant_R140939-1"
+    },
     "simplify:northrop grumman::simplify-0c478e48-883a-4806-97e1-a6a73a0fa019": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -6002,6 +6086,13 @@
       "posted_at": "1782957205",
       "title": "Software Engineer/Principal Software Engineer - Flight Autonomy",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Software-Engineer-Principal-Software-Engineer---Flight-Autonomy--San-Diego-CA-_R10237576"
+    },
+    "simplify:northrop grumman::simplify-33e5b5b2-f93f-4213-bd4e-b7e175214d90": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1784160000",
+      "title": "Associate Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Huntsville-AL_R10240786"
     },
     "simplify:northrop grumman::simplify-381814e7-c378-4537-930a-24141fd8ce7c": {
       "company": "Northrop Grumman",
@@ -6044,6 +6135,13 @@
       "posted_at": "1783987200",
       "title": "Software Engineer - Aht",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Software-Engineer--AHT-_R10240365"
+    },
+    "simplify:northrop grumman::simplify-59a4a1d2-f693-4878-9ae5-7fea28c4d6e5": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1784160000",
+      "title": "Associate Software Engineer/Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10240868"
     },
     "simplify:northrop grumman::simplify-7665ed7d-c986-4890-9c4d-a7b0e2545e12": {
       "company": "Northrop Grumman",
@@ -6101,6 +6199,27 @@
       "title": "Associate Simulation Software Engineer / Simulation Software Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Simulation-Software-Engineer---Simulation-Software-Engineer_R10238808"
     },
+    "simplify:northrop grumman::simplify-a3d1960e-0ff9-4c33-a3c2-30e9652ee2ba": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1784160000",
+      "title": "Associate Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2026-Associate-Software-Engineer---Huntsville-AL_R10240672-1"
+    },
+    "simplify:northrop grumman::simplify-ab0771e9-db3f-45e7-8243-a2d147085b12": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1784160000",
+      "title": "Software Engineer/Principal Software Engineer - DevSecOps",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---DevSecOps--San-Diego---Hybrid-_R10240651"
+    },
+    "simplify:northrop grumman::simplify-ac6dfc8f-7d5b-4f50-8a9a-4add4fa19f6c": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1784160000",
+      "title": "Software Engineer - Level 2 or 3",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Software-Engineers--Level-2-or-3-_R10240742"
+    },
     "simplify:northrop grumman::simplify-b2c6d78a-2c5f-4981-a48f-ba012408e363": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -6121,6 +6240,13 @@
       "posted_at": "1783641600",
       "title": "Software Engineer - Simulation",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Software-Engineer---Simulation--Palmdale-_R10239890"
+    },
+    "simplify:northrop grumman::simplify-efdc29ac-3896-4cea-8dfa-2a4eb0e9929d": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1784160000",
+      "title": "Software Engineer Associate",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764"
     },
     "simplify:northside hospital::simplify-463c058a-22e8-40d0-a453-02ad426e2c59": {
       "company": "Northside Hospital",
@@ -6219,6 +6345,13 @@
       "posted_at": "1780467668",
       "title": "Software Engineer New Grad - Performance",
       "url": "https://nuro.ai/careersitem?gh_jid=7978432"
+    },
+    "simplify:nuro::simplify-b8074600-c8c3-4947-a115-7c212abd364f": {
+      "company": "Nuro",
+      "first_seen": "2026-07-17T00:58:32+00:00",
+      "posted_at": "1784241755",
+      "title": "Software Engineer New Grad - Performance",
+      "url": "https://nuro.ai/careersitem?gh_jid=6972272"
     },
     "simplify:nutanix::simplify-ea07752f-d6d3-4dba-a416-8e31612d86cb": {
       "company": "Nutanix",
@@ -8180,6 +8313,13 @@
       "title": "Software Engineer - Cdn - Starlink",
       "url": "https://boards.greenhouse.io/spacex/jobs/8448505002"
     },
+    "simplify:spacex::simplify-5cb1d020-580f-4457-ad97-f82309db2eca": {
+      "company": "SpaceX",
+      "first_seen": "2026-07-17T00:58:32+00:00",
+      "posted_at": "1784240032",
+      "title": "Software Engineer - Test Infrastructure - C/C++",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8637049002"
+    },
     "simplify:spacex::simplify-72234fcf-6866-4797-aa4b-afd49f2e7924": {
       "company": "SpaceX",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -8291,6 +8431,13 @@
       "posted_at": "1782956396",
       "title": "Full Stack Software Engineer",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Full-Stack-Software-Engineer--Officer_R-793044"
+    },
+    "simplify:state street::simplify-4fa24711-9cd9-46f9-a20e-0aac3586c235": {
+      "company": "State Street",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1784160000",
+      "title": "Full Stack Software Engineer - Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Officer_R-792058"
     },
     "simplify:steel dynamics::simplify-6cb41f07-3b44-49ae-8072-9a73db3ae226": {
       "company": "Steel Dynamics",
@@ -9370,6 +9517,13 @@
       "title": "Software Engineer - Mission Control",
       "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8566427002"
     },
+    "simplify:torch technologies::simplify-8c876217-e8c7-4d37-9703-ecd3485077ae": {
+      "company": "Torch Technologies",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1784160000",
+      "title": "Software Engineer Intern",
+      "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-Intern_R1381"
+    },
     "simplify:toyota::simplify-cb3cc844-e743-4ff9-b173-f83f0dd66831": {
       "company": "Toyota",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -9397,6 +9551,13 @@
       "posted_at": "1781302136",
       "title": "Associate Product Engineer",
       "url": "https://careers.tranetechnologies.com/global/en/job/JR-7562"
+    },
+    "simplify:transunion::simplify-89b14375-8bf7-4493-bd7f-1e4668a91bd8": {
+      "company": "TransUnion",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1783001326",
+      "title": "Business Systems Analyst",
+      "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Leeds-United-Kingdom/Solutions-Analyst_19040948"
     },
     "simplify:travelers::simplify-470190ee-ee16-489d-95fd-db202e5d869d": {
       "company": "Travelers",
@@ -9965,6 +10126,13 @@
       "title": "Software Developer 1 - Cobol",
       "url": "https://careers-westernsouthern.icims.com/jobs/24925/job?mobile=true&needsRedirect=false"
     },
+    "simplify:western digital::simplify-668cc2ce-ddbc-4d16-9c40-c27e83c81d93": {
+      "company": "Western Digital",
+      "first_seen": "2026-07-17T00:58:34+00:00",
+      "posted_at": "1784239496",
+      "title": "Software Engineering Co-op",
+      "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138184309"
+    },
     "simplify:westinghouse electric company::simplify-f13aeef3-c6b3-4c80-97c7-804b205a6819": {
       "company": "Westinghouse Electric Company",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10303,5 +10471,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-16T19:25:47+00:00"
+  "updated_at": "2026-07-17T00:58:34+00:00"
 }
