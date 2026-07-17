@@ -1,5 +1,5 @@
 {
-  "count": 1508,
+  "count": 1512,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1081,6 +1081,13 @@
       "posted_at": "1771427074",
       "title": "Java & Python Instructor",
       "url": "https://jobs.smartrecruiters.com/AccelLearning/743999952511823"
+    },
+    "simplify:acceldata::simplify-8c643851-d7eb-41d5-9c08-aa99ae659141": {
+      "company": "Acceldata",
+      "first_seen": "2026-07-17T10:20:14+00:00",
+      "posted_at": "1778306803",
+      "title": "Software Engineering Co-op",
+      "url": "https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4/apply"
     },
     "simplify:accenture::simplify-2fae2ca8-33da-4c81-80c9-12c6ffc8737b": {
       "company": "Accenture",
@@ -2958,6 +2965,13 @@
       "title": "Forward Deployed Engineer - Founding Customer Engineer",
       "url": "https://jobs.ashbyhq.com/clera/351ba91b-8da5-48de-9f0f-6fd6dbd392bd/application"
     },
+    "simplify:clera::simplify-e018a92b-b910-4101-8f71-6461de332da9": {
+      "company": "Clera",
+      "first_seen": "2026-07-17T10:20:14+00:00",
+      "posted_at": "1784279620",
+      "title": "Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/clera/f1755ec4-198d-4ec0-862b-448aaae45fce/application?embed=true"
+    },
     "simplify:clera::simplify-f677e047-8b60-482d-af3f-74bc07856997": {
       "company": "Clera",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -3811,6 +3825,13 @@
       "posted_at": "1774563526",
       "title": "Software Engineer \u2013 New Grads - Multiple Teams",
       "url": "https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d/application"
+    },
+    "simplify:emerson electric::simplify-7a47a886-ca29-40ec-abf3-b9c408436dca": {
+      "company": "Emerson Electric",
+      "first_seen": "2026-07-17T10:20:14+00:00",
+      "posted_at": "1784164096",
+      "title": "Software Engineer",
+      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007639"
     },
     "simplify:epic kids::simplify-ba78528d-fa1f-4c33-92fd-ac6e184830a6": {
       "company": "Epic Kids",
@@ -9244,6 +9265,13 @@
       "title": "Product Software Engineer 1",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Product-Software-Engineer-I_10151711"
     },
+    "simplify:thumbtack::simplify-189eff7a-f39b-41a6-a72c-d9e37cd08a5b": {
+      "company": "Thumbtack",
+      "first_seen": "2026-07-17T10:20:14+00:00",
+      "posted_at": "1777943287",
+      "title": "Software Engineer - AI/ML Infrastructure",
+      "url": "https://jobs.ashbyhq.com/thumbtack/fc9f96bc-bd4e-4883-95a8-91d25833fa35/application?embed=true"
+    },
     "simplify:tickpick::simplify-1084cdf5-3b7b-46a6-bf6d-10fdfa752e77": {
       "company": "TickPick",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10499,5 +10527,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-17T08:31:20+00:00"
+  "updated_at": "2026-07-17T10:20:14+00:00"
 }
