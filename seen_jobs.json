@@ -1,5 +1,5 @@
 {
-  "count": 1547,
+  "count": 1548,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1641,6 +1641,13 @@
       "posted_at": "1781129212",
       "title": "Principal Software Engineer",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---Florida---Tampa/Principal-Software-Engineer_R-240843"
+    },
+    "simplify:amgen::simplify-bdc202da-c93e-413f-ae34-0eb62dc56c07": {
+      "company": "Amgen",
+      "first_seen": "2026-07-18T16:32:07+00:00",
+      "posted_at": "1783164293",
+      "title": "Engineer 1",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Engineer-I_R-242685"
     },
     "simplify:anduril::simplify-275e9160-4185-4092-a492-236d2818469a": {
       "company": "Anduril",
@@ -10772,5 +10779,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-18T14:40:44+00:00"
+  "updated_at": "2026-07-18T16:32:07+00:00"
 }
