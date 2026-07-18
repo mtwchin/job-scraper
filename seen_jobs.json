@@ -1,5 +1,5 @@
 {
-  "count": 1546,
+  "count": 1547,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -7914,6 +7914,13 @@
       "title": "Therapist \u2013 Child & Adolescent",
       "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/St-Paul-Clinic-Woodbury-MN/Therapist---Child---Adolescent---PHP-IOP_R7031"
     },
+    "simplify:rogers behavioral health::simplify-9e07fe1f-6795-4be0-83a7-ed61fd938ce2": {
+      "company": "Rogers Behavioral Health",
+      "first_seen": "2026-07-18T14:40:44+00:00",
+      "posted_at": "1784246400",
+      "title": "Therapist \u2013 Intensive Outpatient Program",
+      "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Wausau-Clinic/Therapist---PHP-IOP---PRN_R7834"
+    },
     "simplify:rogers behavioral health::simplify-c6323b29-ccd9-4ad8-88b0-983798afde45": {
       "company": "Rogers Behavioral Health",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10765,5 +10772,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-18T12:11:18+00:00"
+  "updated_at": "2026-07-18T14:40:44+00:00"
 }
