@@ -1,5 +1,5 @@
 {
-  "count": 1542,
+  "count": 1543,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -10343,6 +10343,13 @@
       "title": "Software Engineer 3",
       "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2499802-1"
     },
+    "simplify:walmart::simplify-bbcbe0b3-c9ab-4ade-a616-f25dc9e7f7f7": {
+      "company": "Walmart",
+      "first_seen": "2026-07-18T07:18:07+00:00",
+      "posted_at": "1784246400",
+      "title": "Software Engineer 2",
+      "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Denver-CO/Software-Engineer-II_R-2510887-1"
+    },
     "simplify:walrus::simplify-ea4a1ec2-be57-42a0-b019-7e37d08513b1": {
       "company": "Walrus",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10737,5 +10744,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-18T03:25:26+00:00"
+  "updated_at": "2026-07-18T07:18:07+00:00"
 }
