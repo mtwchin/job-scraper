@@ -1,5 +1,5 @@
 {
-  "count": 1548,
+  "count": 1550,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -5653,6 +5653,13 @@
       "title": "Technology Intern - Multiple Teams",
       "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Internship-Program_R88052"
     },
+    "simplify:m&t bank::simplify-aa21a374-ee42-473d-9242-410e327ad5e3": {
+      "company": "M&T Bank",
+      "first_seen": "2026-07-18T19:44:08+00:00",
+      "posted_at": "1783900800",
+      "title": "Technology Development Program",
+      "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program_R88051"
+    },
     "simplify:magna::simplify-14d33eac-9588-4ef2-aad6-4f65465e5bc0": {
       "company": "Magna",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -8334,6 +8341,13 @@
       "title": "Software Engineer 1 - Device Control",
       "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515"
     },
+    "simplify:simpson strong-tie::simplify-09c87d1d-43ad-457b-b3ef-c2d74085e356": {
+      "company": "Simpson Strong-Tie",
+      "first_seen": "2026-07-18T19:44:08+00:00",
+      "posted_at": "1784160000",
+      "title": "Software Engineer Associate - Cloud Services & API Platform - C#/Azure track",
+      "url": "https://strongtie.wd1.myworkdayjobs.com/en-US/External/job/Plano-TX/Associate-Software-Engineer---Cloud-Services---API-Platform--C--Azure-track-_R7829"
+    },
     "simplify:simular::simplify-53db5db1-d434-4b8f-b661-f156d51ef856": {
       "company": "Simular",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10779,5 +10793,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-18T16:32:07+00:00"
+  "updated_at": "2026-07-18T19:44:08+00:00"
 }
