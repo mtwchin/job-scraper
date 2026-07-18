@@ -1,5 +1,5 @@
 {
-  "count": 1544,
+  "count": 1546,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -10014,6 +10014,13 @@
       "title": "EHR Applications Analyst 1",
       "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/30-Corporate-Woods/EHR-Applications-Analyst-I_R272507"
     },
+    "simplify:university of texas at austin::simplify-4ab36df9-7ea0-4864-8025-fc02dd2bba1c": {
+      "company": "University of Texas at Austin",
+      "first_seen": "2026-07-18T12:11:18+00:00",
+      "posted_at": "1778940838",
+      "title": "Postdoctoral Fellow - Nuclear Engineering Teaching Lab - Cockrell School of Engineering",
+      "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow--Nuclear-Engineering-Teaching-Lab--Cockrell-School-of-Engineering_R_00028498"
+    },
     "simplify:university of wyoming::simplify-05a80acf-e9d1-4244-982a-27110bc925ee": {
       "company": "University of Wyoming",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10216,6 +10223,13 @@
       "posted_at": "1772752715",
       "title": "Software Engineer - Full Stack - Emerging Talent",
       "url": "https://jobs.ashbyhq.com/versemedical/af511a89-f716-4e51-9ad1-bf4e68dbdcaa/application"
+    },
+    "simplify:vertex::simplify-9704c070-3a15-4e42-8828-6a8dd858c07f": {
+      "company": "Vertex",
+      "first_seen": "2026-07-18T12:11:18+00:00",
+      "posted_at": "1780611026",
+      "title": "AI Product Engineer",
+      "url": "https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Remote-USA/AI-Product-Engineer_JR102443-1"
     },
     "simplify:vertiv::simplify-730b33f7-4bb2-43fc-910d-4c5cbf55ab3c": {
       "company": "Vertiv",
@@ -10751,5 +10765,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-18T09:01:56+00:00"
+  "updated_at": "2026-07-18T12:11:18+00:00"
 }
