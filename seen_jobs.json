@@ -1,5 +1,5 @@
 {
-  "count": 1543,
+  "count": 1544,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -10161,6 +10161,13 @@
       "title": "Associate Technical Consultant - Entry-Level Consulting - Life Sciences",
       "url": "https://jobs.lever.co/veeva/2f1ed4cd-5999-47a0-8c06-38898fed4711/apply"
     },
+    "simplify:veeva systems::simplify-22fee02b-5498-486c-ab37-238c4f4c7ec1": {
+      "company": "Veeva Systems",
+      "first_seen": "2026-07-18T09:01:56+00:00",
+      "posted_at": "1774391444",
+      "title": "Associate Technical Consultant - Entry-Level Consulting - Life Sciences",
+      "url": "https://jobs.lever.co/veeva/7accd619-65f9-45c2-9ee3-e258081e1ee9/apply"
+    },
     "simplify:veeva systems::simplify-ed36fcbe-2b5b-415f-b688-320bafcde449": {
       "company": "Veeva Systems",
       "first_seen": "2026-07-15T11:16:16+00:00",
@@ -10744,5 +10751,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-18T07:18:07+00:00"
+  "updated_at": "2026-07-18T09:01:56+00:00"
 }
