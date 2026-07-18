@@ -1,5 +1,5 @@
 {
-  "count": 1540,
+  "count": 1542,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -2258,6 +2258,13 @@
       "title": "Full Stack Engineer - Specialist",
       "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/79369"
     },
+    "simplify:bot auto::simplify-1619e24c-542d-4737-9c8d-d2da19828cee": {
+      "company": "Bot Auto",
+      "first_seen": "2026-07-18T03:25:26+00:00",
+      "posted_at": "1784337010",
+      "title": "Software Engineer - Simulation Systems",
+      "url": "https://job-boards.greenhouse.io/botauto/jobs/5363495008"
+    },
     "simplify:bot auto::simplify-8c23452c-c16b-4b78-b154-65fac1cb24cd": {
       "company": "Bot Auto",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -3125,6 +3132,13 @@
       "posted_at": "1783548815",
       "title": "Assisted Tools Engineer",
       "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Field-Experience-Domain-Engineer_R438012"
+    },
+    "simplify:comcast::simplify-93ee2a52-ab38-49dc-8fdb-327a42940329": {
+      "company": "Comcast",
+      "first_seen": "2026-07-18T03:25:26+00:00",
+      "posted_at": "1784246400",
+      "title": "Software Development Engineer",
+      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Software-Development-Engineer_R440794"
     },
     "simplify:commerce architects::simplify-1f7a29cf-68e7-48ec-9968-729026c01ca8": {
       "company": "Commerce Architects",
@@ -10723,5 +10737,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-18T00:07:39+00:00"
+  "updated_at": "2026-07-18T03:25:26+00:00"
 }
