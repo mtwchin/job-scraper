@@ -1,5 +1,5 @@
 {
-  "count": 1553,
+  "count": 1554,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -7326,6 +7326,13 @@
       "title": "Nittany AI Intern",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Nittany-AI-Innovator_REQ_0000080373-1"
     },
+    "simplify:pennsylvania state university::simplify-e7051c49-c429-4c21-9e2f-c1310a3515f6": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-07-19T12:09:28+00:00",
+      "posted_at": "1776204516",
+      "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Part-Time-Researcher-in-Explainable-Privacy-Preserving-Cryptographic-Systems-w--Dr-Sharma_REQ_0000077335-1"
+    },
     "simplify:people culture talent::simplify-22a341c0-1428-4064-a7c3-2c01961fcee3": {
       "company": "People Culture Talent",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10814,5 +10821,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-19T10:10:14+00:00"
+  "updated_at": "2026-07-19T12:09:28+00:00"
 }
