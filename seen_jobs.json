@@ -1,5 +1,5 @@
 {
-  "count": 1556,
+  "count": 1557,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -2222,6 +2222,13 @@
       "posted_at": "1779487451",
       "title": "Software Engineer",
       "url": "https://careers-blackhawknetwork.icims.com/jobs/26610/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:blackrock::simplify-b35a2969-1549-4c14-9dea-2aa34016c109": {
+      "company": "BlackRock",
+      "first_seen": "2026-07-20T12:07:39+00:00",
+      "posted_at": "1782396405",
+      "title": "Portfolio Compliance Implementation Associate",
+      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Wilmington-DE/Associate--Investment-Guidelines-Compliance---Delaware_R261567"
     },
     "simplify:blinqlabs::simplify-8adf8a0f-8e62-4272-a4ac-197b91e8bb67": {
       "company": "BlinqLABS",
@@ -10835,5 +10842,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-20T09:54:21+00:00"
+  "updated_at": "2026-07-20T12:07:39+00:00"
 }
