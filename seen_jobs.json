@@ -1,5 +1,5 @@
 {
-  "count": 1555,
+  "count": 1556,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -3188,6 +3188,13 @@
       "posted_at": "1780610995",
       "title": "Junior Software Developer",
       "url": "https://ats.rippling.com/conceptplus/jobs/916978a4-fa79-4f6e-9eb6-515aa1cf3fb5"
+    },
+    "simplify:concept plus::simplify-310197b6-811c-4282-aaef-afdcf2115383": {
+      "company": "Concept Plus",
+      "first_seen": "2026-07-20T09:54:21+00:00",
+      "posted_at": "1780006154",
+      "title": "Support Desk Technician",
+      "url": "https://ats.rippling.com/conceptplus/jobs/1bd82388-8cfd-4dc8-b580-449d18011031"
     },
     "simplify:confido::simplify-00142abd-9aec-4fca-9c8d-b46f6fb762d2": {
       "company": "Confido",
@@ -10828,5 +10835,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-20T06:57:02+00:00"
+  "updated_at": "2026-07-20T09:54:21+00:00"
 }
