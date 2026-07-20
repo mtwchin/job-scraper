@@ -1,5 +1,5 @@
 {
-  "count": 1554,
+  "count": 1555,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -4483,6 +4483,13 @@
       "posted_at": "1784066810",
       "title": "AI Developer Co-op",
       "url": "https://www.globalrelay.com/careers/jobs?gh_jid=6112675004"
+    },
+    "simplify:globus medical::simplify-40cf634e-92e6-4592-983b-7d2595222420": {
+      "company": "Globus Medical",
+      "first_seen": "2026-07-20T06:57:02+00:00",
+      "posted_at": "1784505600",
+      "title": "Associate Software Engineer",
+      "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Software-Engineer_JR106980-1"
     },
     "simplify:gm financial::simplify-295552cf-62f8-43b8-93f0-3ceed854d125": {
       "company": "GM financial",
@@ -10821,5 +10828,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-19T12:09:28+00:00"
+  "updated_at": "2026-07-20T06:57:02+00:00"
 }
