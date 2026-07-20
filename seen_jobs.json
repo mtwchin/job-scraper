@@ -1,5 +1,5 @@
 {
-  "count": 1557,
+  "count": 1566,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -195,6 +195,13 @@
       "title": "Associate, Software Engineer, New Grad Card Expansion",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R246921"
     },
+    "capital one::Associate--Software-Engineer--New-Grad-Card-Expansion_R247320": {
+      "company": "Capital One",
+      "first_seen": "2026-07-20T16:09:51+00:00",
+      "posted_at": "Posted Today",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320"
+    },
     "cisco::Junior-C---Software-Engineer---Serbia---ETR_2016195": {
       "company": "Cisco",
       "first_seen": "2026-07-10T02:08:17+00:00",
@@ -274,11 +281,25 @@
       "title": "Early Career Software Engineer People With Disabilities",
       "url": "https://www.google.com/about/careers/applications/jobs/results/136778768644481734-early-career-software-engineer-people-with-disabilities"
     },
+    "google::76982475250639558": {
+      "company": "Google",
+      "first_seen": "2026-07-20T16:09:51+00:00",
+      "posted_at": "",
+      "title": "Software Developer Intern Bs Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/76982475250639558-software-developer-intern-bs-summer-2027"
+    },
     "google::80313547497579206": {
       "company": "Google",
       "first_seen": "2026-06-28T23:35:42+00:00",
       "title": "Software Engineer Early Career For Women In Tech Candidates",
       "url": "https://www.google.com/about/careers/applications/jobs/results/80313547497579206-software-engineer-early-career-for-women-in-tech-candidates"
+    },
+    "google::95423484271698630": {
+      "company": "Google",
+      "first_seen": "2026-07-20T16:09:51+00:00",
+      "posted_at": "",
+      "title": "Software Developer Intern Ms Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/95423484271698630-software-developer-intern-ms-summer-2027"
     },
     "imc trading::4564480101": {
       "company": "IMC Trading",
@@ -4855,6 +4876,13 @@
       "title": "Technology Delivery Analyst - Elevate",
       "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0074064"
     },
+    "simplify:huntington ingalls industries::simplify-4ea8fcdf-dd84-4d24-8098-caa377d16368": {
+      "company": "Huntington Ingalls Industries",
+      "first_seen": "2026-07-20T16:09:52+00:00",
+      "posted_at": "1770602992",
+      "title": "Software Development Engineer",
+      "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-Virg/1362993700/?ats=successfactors"
+    },
     "simplify:huntington ingalls industries::simplify-84a39b8e-8d89-4f91-ab45-1d53e8d86776": {
       "company": "Huntington Ingalls Industries",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -5337,6 +5365,20 @@
       "posted_at": "1784039318",
       "title": "Software Engineer 1 - Model and Simulation",
       "url": "https://job-boards.greenhouse.io/katalyst/jobs/6115352004"
+    },
+    "simplify:kayak::simplify-329c34b0-2085-4389-8916-e5acd0bdb164": {
+      "company": "KAYAK",
+      "first_seen": "2026-07-20T16:09:52+00:00",
+      "posted_at": "1784556700",
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.ashbyhq.com/KAYAK/8333e351-7a08-4767-9966-f75411b78d80/application?embed=true"
+    },
+    "simplify:kayak::simplify-393dc727-3264-4ec8-a08c-8633b621b07f": {
+      "company": "KAYAK",
+      "first_seen": "2026-07-20T16:09:52+00:00",
+      "posted_at": "1784556701",
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.ashbyhq.com/KAYAK/1cd42283-0b84-448f-9aac-ca94b72db320/application?embed=true"
     },
     "simplify:kbr::simplify-1130d7d5-191c-4c55-a47a-eb8a44cf5796": {
       "company": "KBR",
@@ -7984,6 +8026,13 @@
       "title": "Junior Software Engineer",
       "url": "https://apply.workable.com/rokt/j/783A754DDB/apply"
     },
+    "simplify:rtx::simplify-0d467785-7605-490e-8478-cd894e0ef1f1": {
+      "company": "RTX",
+      "first_seen": "2026-07-20T16:09:52+00:00",
+      "posted_at": "1781100525",
+      "title": "Raytheon Software Engineer 1 - Electro-Optical/Infrared Advanced Products and Solutions",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/XMLNAME-2026-Raytheon-Full-Time-Software-Engineer-I---EOIR-Advanced-Products-and-Solutions--Onsite-_01851718"
+    },
     "simplify:rtx::simplify-453d44e6-74fe-430c-83d5-1f4bb1c58338": {
       "company": "RTX",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -9468,6 +9517,13 @@
       "title": "Associate Software Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Omaha-NE/Software-Engineer_JR2026517990-1"
     },
+    "simplify:the boeing company::simplify-ec5d8a02-e212-41b7-beae-22d51584065e": {
+      "company": "The Boeing Company",
+      "first_seen": "2026-07-20T16:09:52+00:00",
+      "posted_at": "1784505600",
+      "title": "Entry Level Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry---Level-Software-Engineer_JR2026519286-1"
+    },
     "simplify:the campbell's company::simplify-24211227-397f-490d-9c1c-6296637f8a78": {
       "company": "The Campbell's Company",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10055,6 +10111,13 @@
       "posted_at": "1783375777",
       "title": "Trajectory Simulation Software Engineer 1",
       "url": "https://jobs.ulalaunch.com/job/Centennial-Trajectory-Simulation-Software-Engineer-1-CO-80112/1406055600/?ats=successfactors"
+    },
+    "simplify:united parcel service (ups)::simplify-3249c05e-dc97-4543-b9b7-4ac9a9df176b": {
+      "company": "United Parcel Service (UPS)",
+      "first_seen": "2026-07-20T16:09:52+00:00",
+      "posted_at": "1784505600",
+      "title": "Associate App Developer-Java",
+      "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Associate-App-Developer--Java_R26020266"
     },
     "simplify:united parcel service (ups)::simplify-437a4476-d56d-412b-a963-91ec0c144015": {
       "company": "United Parcel Service (UPS)",
@@ -10842,5 +10905,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-20T12:07:39+00:00"
+  "updated_at": "2026-07-20T16:09:52+00:00"
 }
