@@ -1,5 +1,5 @@
 {
-  "count": 1566,
+  "count": 1568,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -293,6 +293,20 @@
       "first_seen": "2026-06-28T23:35:42+00:00",
       "title": "Software Engineer Early Career For Women In Tech Candidates",
       "url": "https://www.google.com/about/careers/applications/jobs/results/80313547497579206-software-engineer-early-career-for-women-in-tech-candidates"
+    },
+    "google::85564713261245126": {
+      "company": "Google",
+      "first_seen": "2026-07-20T18:16:52+00:00",
+      "posted_at": "",
+      "title": "Software Engineering Intern Bs Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027"
+    },
+    "google::95141459539174086": {
+      "company": "Google",
+      "first_seen": "2026-07-20T18:16:52+00:00",
+      "posted_at": "",
+      "title": "Software Engineering Intern Ms Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/95141459539174086-software-engineering-intern-ms-summer-2027"
     },
     "google::95423484271698630": {
       "company": "Google",
@@ -10905,5 +10919,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-20T16:09:52+00:00"
+  "updated_at": "2026-07-20T18:16:52+00:00"
 }
