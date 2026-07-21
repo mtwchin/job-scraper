@@ -1,5 +1,5 @@
 {
-  "count": 1735,
+  "count": 1739,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -2832,6 +2832,13 @@
       "title": "Application Engineer",
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Application-Engineer_R53122-2"
     },
+    "simplify:cadence design systems::simplify-ff412e91-a5e3-48f6-8ed1-fa4ac83c5e81": {
+      "company": "Cadence Design Systems",
+      "first_seen": "2026-07-21T14:24:56+00:00",
+      "posted_at": "1783555200",
+      "title": "Software Engineer New Grad - Undergrads",
+      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894"
+    },
     "simplify:cae::simplify-774b0fcc-b7d3-460c-a425-b2ee55fa0c0d": {
       "company": "CAE",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -4701,6 +4708,13 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74/apply"
     },
+    "simplify:general dynamics information technology::simplify-1a22f6de-6cee-4fe0-a021-eeef9cdb81ea": {
+      "company": "General Dynamics Information Technology",
+      "first_seen": "2026-07-21T14:24:56+00:00",
+      "posted_at": "1783462430",
+      "title": "Senior Software Engineer - Software Engineering",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Software-Engineer-1_RQ222853-1"
+    },
     "simplify:general dynamics information technology::simplify-36c9b7b4-9e96-49e9-adda-25c5ec121022": {
       "company": "General Dynamics Information Technology",
       "first_seen": "2026-07-21T06:16:23+00:00",
@@ -5113,6 +5127,13 @@
       "posted_at": "1782259936",
       "title": "Intern \u2013 Software Engineering",
       "url": "https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931"
+    },
+    "simplify:hd supply::simplify-bf4e7af4-f65d-43ee-98a9-10279078e240": {
+      "company": "HD Supply",
+      "first_seen": "2026-07-21T14:24:56+00:00",
+      "posted_at": "1782252546",
+      "title": "Associate Application Engineer",
+      "url": "https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Associate-Application-Engineer_R26003212"
     },
     "simplify:hermeus::simplify-66868ef6-4a70-4bef-bfc0-d2f96de2d203": {
       "company": "Hermeus",
@@ -6989,6 +7010,13 @@
       "posted_at": "1782957205",
       "title": "Software Engineer/Principal Software Engineer - Flight Autonomy",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Software-Engineer-Principal-Software-Engineer---Flight-Autonomy--San-Diego-CA-_R10237576"
+    },
+    "simplify:northrop grumman::simplify-1dd74385-508b-4070-a030-a2f23a02a0ef": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-21T14:24:56+00:00",
+      "posted_at": "1781361789",
+      "title": "Senior Principal Software Engineer - Cloud & Applications",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Principal---Sr-Principal-Engineer-Software---Cloud---Applications_R10235026-1"
     },
     "simplify:northrop grumman::simplify-27d46f0f-ff42-4028-970a-2feef813f4b6": {
       "company": "Northrop Grumman",
@@ -12088,5 +12116,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-21T12:15:21+00:00"
+  "updated_at": "2026-07-21T14:24:56+00:00"
 }
