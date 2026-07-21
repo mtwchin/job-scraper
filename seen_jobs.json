@@ -1,5 +1,5 @@
 {
-  "count": 1703,
+  "count": 1729,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1362,6 +1362,13 @@
       "title": "Visiting Engineer: Briocare Intern",
       "url": "https://jobs.lever.co/AIFund/a5f3a47b-93e0-4941-9061-b3ee1ed82959/apply"
     },
+    "simplify:ai fund::simplify-59dfe4d1-9bb9-48d1-887c-05abedf8e167": {
+      "company": "AI Fund",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1777266411",
+      "title": "Visiting Engineer: Aicos Intern - AI Chief of Staff",
+      "url": "https://jobs.lever.co/AIFund/46a9eb55-ebd7-441f-bb12-81c130cb6722/apply"
+    },
     "simplify:ai fund::simplify-61c906f4-8ea5-4177-8afa-854efd9a7e01": {
       "company": "AI Fund",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -2104,6 +2111,13 @@
       "title": "Software Enginner New Grad",
       "url": "https://jobs.ashbyhq.com/Authorium/e9384068-af40-47b2-83cf-ec76fd8b7222/application"
     },
+    "simplify:autodesk::simplify-53914fa2-9856-4b03-8ae8-329747832957": {
+      "company": "Autodesk",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1780135769",
+      "title": "Software Developer Intern - Stagiaire en D\u00e9veloppement Logiciel",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1"
+    },
     "simplify:autodesk::simplify-5c8a98c5-fd71-49a1-a18e-0288492a5163": {
       "company": "Autodesk",
       "first_seen": "2026-07-21T08:47:36+00:00",
@@ -2111,12 +2125,26 @@
       "title": "Software Developer",
       "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_25WD91160-1"
     },
+    "simplify:autodesk::simplify-b7827240-ddc0-4787-b2b6-f95f65c55b31": {
+      "company": "Autodesk",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1780135911",
+      "title": "Software Developer Intern - Stagiaire en D\u00e9veloppement Logiciel",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2"
+    },
     "simplify:aveva::simplify-25c78c31-7ddc-4133-b614-555627b96299": {
       "company": "AVEVA",
       "first_seen": "2026-07-20T23:15:00+00:00",
       "posted_at": "1784505600",
       "title": "Software Developer Intern Co-op",
       "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478"
+    },
+    "simplify:avnet::simplify-98570ec2-f696-4929-b59d-0b2f68c8389c": {
+      "company": "Avnet",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1780351529",
+      "title": "Software Developer",
+      "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614"
     },
     "simplify:axiomatic ai::simplify-55023fd3-ef60-49f4-ac11-5d1fe01b0a7d": {
       "company": "Axiomatic AI",
@@ -2775,6 +2803,13 @@
       "posted_at": "1782425016",
       "title": "Product Engineering Intern - Simulation and Verification",
       "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Simulation-and-Verification--Fall-2026-_R53475-1"
+    },
+    "simplify:cadence design systems::simplify-d3e624fc-5c9c-4aad-b38f-f684adab013b": {
+      "company": "Cadence Design Systems",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1772179689",
+      "title": "Software Intern",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1"
     },
     "simplify:cadence design systems::simplify-f4c09f3f-0aa5-49d0-8832-6a26a6a5e3a0": {
       "company": "Cadence Design Systems",
@@ -3987,6 +4022,13 @@
       "title": "Application Development Intern",
       "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101349"
     },
+    "simplify:delta dental::simplify-ec35d3c0-8676-419f-a30b-6eafecc10f7c": {
+      "company": "Delta Dental",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1781215631",
+      "title": "Application Development Intern",
+      "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101348"
+    },
     "simplify:denari::simplify-509af5ea-e34a-4b4c-bace-1d7ffbefc797": {
       "company": "Denari",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -4638,6 +4680,13 @@
       "title": "Software Engineer 1",
       "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineer-I_R4040485-2"
     },
+    "simplify:ge vernova::simplify-a4cdfbff-a13d-4e76-9f16-0ee63fbbdbbf": {
+      "company": "GE Vernova",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1781014647",
+      "title": "Grid Automation & Software Intern",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Grid-Automation---Software-Intern_R5041706"
+    },
     "simplify:gemini::simplify-33d49b99-ffcc-4d51-ab65-58a97d2afbf0": {
       "company": "Gemini",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -4988,6 +5037,13 @@
       "title": "Application Engineer 1/2 Senior",
       "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-OK/Application-Engineer_JR103400-1"
     },
+    "simplify:greenheck group::simplify-61ca6a29-7ddd-4552-957f-a131adf1ab5e": {
+      "company": "Greenheck Group",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1780956248",
+      "title": "Product Engineer 1/2 Senior",
+      "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Product-Engineer-I-II-Sr_JR103825"
+    },
     "simplify:guidewire::simplify-0d1fdb68-7acd-47a6-9000-85bad53536d8": {
       "company": "Guidewire",
       "first_seen": "2026-07-15T00:13:08+00:00",
@@ -5204,6 +5260,13 @@
       "posted_at": "1772677178",
       "title": "MuleSoft Developer",
       "url": "https://jobs.smartrecruiters.com/HorizonTechnologiesInc/94324377"
+    },
+    "simplify:hospital for special surgery (hss)::simplify-6d205503-8ba9-4c04-bf96-31add0b07625": {
+      "company": "Hospital for Special Surgery (HSS)",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1780967357",
+      "title": "Epic Cadence Analyst 1",
+      "url": "https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Epic-Cadence-Analyst-I_JR2026-104921"
     },
     "simplify:hsssoft::simplify-63216d89-2b2c-4885-82f0-086dfd9dac5b": {
       "company": "HSSSoft",
@@ -5842,6 +5905,13 @@
       "title": "R&D Engineer - Signal Processing & Measurement Software",
       "url": "https://jobs.keysight.com/jobs/52097?lang=en-us&icims=1"
     },
+    "simplify:keysight technologies::simplify-d2e6b4e9-d706-4c25-9b2c-c8d4a9eda75b": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1780927438",
+      "title": "Software Development Intern",
+      "url": "https://jobs.keysight.com/jobs/53081?lang=en-us&icims=1"
+    },
     "simplify:kimley-horn::simplify-78b2fe28-b6b4-4bdb-ade7-200e8a96e904": {
       "company": "Kimley-Horn",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -5911,6 +5981,13 @@
       "posted_at": "1782167538",
       "title": "Applications Development Engineer",
       "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineer_2637888-1"
+    },
+    "simplify:kla::simplify-3ae738c3-1972-4573-b39f-dd2e9c32be38": {
+      "company": "KLA",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1781638738",
+      "title": "High Performance Compute - Multiple Teams",
+      "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/High-Performance-Compute--HPC--Software-Engineer---HPC-SW-Systems_2636307-2"
     },
     "simplify:klarity::simplify-1f8f1200-34a4-4c3f-b9d0-7e4cb7c4062a": {
       "company": "Klarity",
@@ -6142,6 +6219,20 @@
       "posted_at": "1778018891",
       "title": "Graduate Engineer - AI Agents",
       "url": "https://jobs.ashbyhq.com/liveflow/93a4d132-b68c-42d7-ace0-7975661130ba/application"
+    },
+    "simplify:liveramp::simplify-09174c1c-7ac5-489a-8c87-dcb67b971aa0": {
+      "company": "LiveRamp",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1780466945",
+      "title": "Software Engineer Co-op - Conversions API",
+      "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-Op--Software-Engineer---Conversions-API_JR012232-1"
+    },
+    "simplify:lumentum::simplify-6df12b44-dd54-4190-9e0b-c129286498e4": {
+      "company": "Lumentum",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1781215591",
+      "title": "Senior Product Engineer",
+      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Rose/Senior-Product-Engineer-P40_2026764"
     },
     "simplify:lyft::simplify-6cf07fce-a741-4ce5-adbc-9449cccdd79b": {
       "company": "Lyft",
@@ -6633,6 +6724,13 @@
       "title": "Web Interface Software Engineer",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Web-Interface-Software-Engineer_R66626"
     },
+    "simplify:motorola::simplify-afc48c33-7438-4ae9-b278-d1b434d99a9e": {
+      "company": "Motorola",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1779977055",
+      "title": "Graduate Software Engineer",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R65351"
+    },
     "simplify:motorola::simplify-fcd95104-5b2a-4e23-bb5e-ee0412e59f2c": {
       "company": "Motorola",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -6793,6 +6891,13 @@
       "posted_at": "1781360790",
       "title": "Application Engineer 1",
       "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Application-Engineer-I_R0015972"
+    },
+    "simplify:nidec::simplify-cfb9b365-0e85-49d1-ab5a-875453786a75": {
+      "company": "Nidec",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1780740233",
+      "title": "Application Engineering Co-op",
+      "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Application-Engineering-Co-Op_R0016076"
     },
     "simplify:nightwing intelligence solutions::simplify-74ecf24a-3da9-4055-ae12-5927fed9f147": {
       "company": "Nightwing Intelligence Solutions",
@@ -7003,6 +7108,13 @@
       "posted_at": "1783900800",
       "title": "Industrial Engineer / Principal Industrial Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-Industrial---Principal-Engineer-Industrial_R10240142"
+    },
+    "simplify:northrop grumman::simplify-c15bfdd3-3e0a-4db0-9aac-d0a6f0027459": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1783165269",
+      "title": "Software Engineer - Systems - BM/Srm",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer--Systems--BM-SRM--26-269-_R10235364"
     },
     "simplify:northrop grumman::simplify-c5cca8ff-fdd8-4df1-a38b-1d3a2f8f65a8": {
       "company": "Northrop Grumman",
@@ -8782,6 +8894,13 @@
       "title": "Application Analyst 1",
       "url": "https://careers-ruralking.icims.com/jobs/38941/job?mobile=true&needsRedirect=false"
     },
+    "simplify:ryder system::simplify-3115293e-b441-44c4-a702-ffbbf8b9ef9e": {
+      "company": "Ryder System",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1778942329",
+      "title": "Application Support Engineer 1",
+      "url": "https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Coral-Gables-FL-33134/Application-Support-Engineer-I_R170446"
+    },
     "simplify:s&c electric company::simplify-f26b1776-f5fe-489c-95fa-6479999186ed": {
       "company": "S&C Electric Company",
       "first_seen": "2026-07-17T23:11:51+00:00",
@@ -8998,6 +9117,13 @@
       "posted_at": "1777327676",
       "title": "Software Engineer \u2013 New Grad",
       "url": "https://seatgeek.com/jobs/7858968?gh_jid=7858968"
+    },
+    "simplify:semtech::simplify-6484f1f6-5a5d-4015-959c-f018f4567aaa": {
+      "company": "Semtech",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1781053517",
+      "title": "Field Application Engineer - Semiconductor",
+      "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/USA---San-Jose-CA/Field-Application-Engineer_REQ3375-1"
     },
     "simplify:sensiple::simplify-487ea07e-1522-4f04-991f-bb3026b163e1": {
       "company": "Sensiple",
@@ -9524,6 +9650,13 @@
       "title": "Full Stack Software Engineer - Officer",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Officer_R-792058"
     },
+    "simplify:state street::simplify-55b468e4-4061-40b0-9d23-5344543b9875": {
+      "company": "State Street",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1781014575",
+      "title": "Full Stack Software Engineer - Officer",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Toronto-Ontario/Full-Stack-Software-Engineer--Officer_R-792055"
+    },
     "simplify:state street::simplify-e71637f3-93d6-4e0a-9743-73e6cf063739": {
       "company": "State Street",
       "first_seen": "2026-07-21T06:16:23+00:00",
@@ -9558,6 +9691,13 @@
       "posted_at": "1763767817",
       "title": "Developer Internship",
       "url": "https://job-boards.greenhouse.io/ftandinternships/jobs/1304476"
+    },
+    "simplify:stewart::simplify-617caf94-0106-4351-99bc-6d4f930e8107": {
+      "company": "Stewart",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1781359958",
+      "title": "Copilot Systems Engineer 1",
+      "url": "https://stewart.wd1.myworkdayjobs.com/External/job/USA-TX---Remote/Systems-Engineer-I_JR108188"
     },
     "simplify:stifel::simplify-5108ce31-2ddb-4d3e-a3ef-cf274ee67639": {
       "company": "Stifel",
@@ -10287,6 +10427,13 @@
       "title": "Entry-Level Software Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026516748-1"
     },
+    "simplify:the boeing company::simplify-6805ad41-b94a-44ef-9bac-4bb826f84abb": {
+      "company": "The Boeing Company",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1781129480",
+      "title": "Linux System Administrator - Associate",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Linux-System-Administrator--Associate-_JR2026514382"
+    },
     "simplify:the boeing company::simplify-6c9fcf6b-22c0-42e4-a24d-c4fc6ec9ddca": {
       "company": "The Boeing Company",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10301,12 +10448,26 @@
       "title": "Development Security & Operations Associate - Devsecops - Software Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Development-Security---Operations--DevSecOps--Software-Engineer--Associate-or-Mid-Level-_JR2026515911-1"
     },
+    "simplify:the boeing company::simplify-a04562b9-7b11-4524-893e-827c8551693a": {
+      "company": "The Boeing Company",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1780362603",
+      "title": "Spacecraft Software Engineer Associate - Millennium Space Systems",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Software-Engineer--Associate-or-Mid-Level---Millennium-Space-Systems_JR2026512895"
+    },
     "simplify:the boeing company::simplify-a6aaef17-692b-47d3-b343-0592b9b8d586": {
       "company": "The Boeing Company",
       "first_seen": "2026-07-19T03:45:05+00:00",
       "posted_at": "1784332800",
       "title": "Associate Software Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Omaha-NE/Software-Engineer_JR2026517990-1"
+    },
+    "simplify:the boeing company::simplify-c23a7b9a-fd9b-4f1a-9ef3-a39aeada13f8": {
+      "company": "The Boeing Company",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1780611057",
+      "title": "Entry Level Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-2"
     },
     "simplify:the boeing company::simplify-ec5d8a02-e212-41b7-beae-22d51584065e": {
       "company": "The Boeing Company",
@@ -10798,6 +10959,20 @@
       "title": "Agile Software Engineer Co-op",
       "url": "https://job-boards.greenhouse.io/tribalscale/jobs/4687337006"
     },
+    "simplify:trimble::simplify-4914456a-2ef4-403c-918a-5bf46c8c8626": {
+      "company": "Trimble",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1780956624",
+      "title": "Software Engineer",
+      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/UK---Remote/Software-Engineer_R56505"
+    },
+    "simplify:trimble::simplify-66485cce-f6e0-4cb2-809d-fb6db92067c0": {
+      "company": "Trimble",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1780956623",
+      "title": "Software Engineer",
+      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/UK---Remote/Software-Engineer_R56506"
+    },
     "simplify:trm labs::simplify-f5849d4c-d690-4d3a-95c8-768b874ff26e": {
       "company": "TRM Labs",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -11056,6 +11231,13 @@
       "posted_at": "1778940838",
       "title": "Postdoctoral Fellow - Nuclear Engineering Teaching Lab - Cockrell School of Engineering",
       "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Postdoctoral-Fellow--Nuclear-Engineering-Teaching-Lab--Cockrell-School-of-Engineering_R_00028498"
+    },
+    "simplify:university of texas at austin::simplify-e19303e5-1dd5-489f-a2e1-b85888f74f79": {
+      "company": "University of Texas at Austin",
+      "first_seen": "2026-07-21T10:51:40+00:00",
+      "posted_at": "1775513100",
+      "title": "Postdoctoral Fellow-Walker Department of Mechanical Engineering - Cockrell School of Engineering",
+      "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow-Walker-Department-of-Mechancial-Engineering--Cockrell-School-of-Engineering_R_00045345"
     },
     "simplify:university of wyoming::simplify-05a80acf-e9d1-4244-982a-27110bc925ee": {
       "company": "University of Wyoming",
@@ -11864,5 +12046,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-21T08:47:36+00:00"
+  "updated_at": "2026-07-21T10:51:40+00:00"
 }
