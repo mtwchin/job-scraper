@@ -1,5 +1,5 @@
 {
-  "count": 1729,
+  "count": 1735,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -5492,6 +5492,13 @@
       "title": "Entry Level Software Engineer",
       "url": "https://careers-i3-corps.icims.com/jobs/5175/job?mobile=true&needsRedirect=false"
     },
+    "simplify:integrity::simplify-b065707e-df8b-4ae6-9436-f71afb2dfe41": {
+      "company": "Integrity",
+      "first_seen": "2026-07-21T12:15:21+00:00",
+      "posted_at": "1778796251",
+      "title": "Software Engineer 1",
+      "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Urbandale-IA/Software-Engineer-I_JR4072"
+    },
     "simplify:intel::simplify-0f0efd25-01fa-419b-9d3a-916d06967722": {
       "company": "Intel",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -5989,6 +5996,13 @@
       "title": "High Performance Compute - Multiple Teams",
       "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/High-Performance-Compute--HPC--Software-Engineer---HPC-SW-Systems_2636307-2"
     },
+    "simplify:kla::simplify-5fc930e6-b313-4d48-8645-5177e43de42e": {
+      "company": "KLA",
+      "first_seen": "2026-07-21T12:15:21+00:00",
+      "posted_at": "1781360091",
+      "title": "High Performance Compute - Multiple Teams",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/High-Performance-Compute--HPC--Software-Engineer---HPC-SW-Systems_2636307"
+    },
     "simplify:klarity::simplify-1f8f1200-34a4-4c3f-b9d0-7e4cb7c4062a": {
       "company": "Klarity",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -6443,6 +6457,13 @@
       "posted_at": "1770161965",
       "title": "Development Intern",
       "url": "https://job-boards.greenhouse.io/medicalinformaticsengineering/jobs/4116759009"
+    },
+    "simplify:medimpact::simplify-2af8cb22-829c-4e04-baef-e8e9657aeb03": {
+      "company": "MedImpact",
+      "first_seen": "2026-07-21T12:15:21+00:00",
+      "posted_at": "1781733708",
+      "title": "Full Stack Software Engineer 1",
+      "url": "https://medimpact.wd5.myworkdayjobs.com/medimpact/job/San-Diego-CA/Software-Engineer-I_JR102576"
     },
     "simplify:medpace, inc.::simplify-908ea2de-e80d-4c76-9020-f31ac7f04345": {
       "company": "Medpace, Inc.",
@@ -6969,6 +6990,13 @@
       "title": "Software Engineer/Principal Software Engineer - Flight Autonomy",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Software-Engineer-Principal-Software-Engineer---Flight-Autonomy--San-Diego-CA-_R10237576"
     },
+    "simplify:northrop grumman::simplify-27d46f0f-ff42-4028-970a-2feef813f4b6": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-21T12:15:21+00:00",
+      "posted_at": "1777673414",
+      "title": "Software Engineer / Principal Software Engineer - Simulation",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer---Principal-Software-Engineer---Simulation_R10231372"
+    },
     "simplify:northrop grumman::simplify-33e5b5b2-f93f-4213-bd4e-b7e175214d90": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-17T00:58:34+00:00",
@@ -7101,6 +7129,13 @@
       "posted_at": "1784160000",
       "title": "Software Engineer - Level 2 or 3",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Software-Engineers--Level-2-or-3-_R10240742"
+    },
+    "simplify:northrop grumman::simplify-acf0d0e1-8c4d-46ec-b752-fd7a1e27b611": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-21T12:15:21+00:00",
+      "posted_at": "1783166693",
+      "title": "Modeling and Simulation Engineer - Level 2 or 3",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Modeling-and-Simulation-Engineer---Level-2-or-3_R10237626"
     },
     "simplify:northrop grumman::simplify-b2c6d78a-2c5f-4981-a48f-ba012408e363": {
       "company": "Northrop Grumman",
@@ -10868,6 +10903,13 @@
       "title": "Software Engineer - Mission Control",
       "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8566427002"
     },
+    "simplify:torch technologies::simplify-7efb34c1-acda-40fa-b1e8-308f2ae2f6f3": {
+      "company": "Torch Technologies",
+      "first_seen": "2026-07-21T12:15:21+00:00",
+      "posted_at": "1782338949",
+      "title": "Junior Engineer/Analyst",
+      "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Junior-Engineer-Analyst_R1275"
+    },
     "simplify:torch technologies::simplify-8c876217-e8c7-4d37-9703-ecd3485077ae": {
       "company": "Torch Technologies",
       "first_seen": "2026-07-17T00:58:34+00:00",
@@ -12046,5 +12088,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-21T10:51:40+00:00"
+  "updated_at": "2026-07-21T12:15:21+00:00"
 }
