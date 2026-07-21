@@ -1,5 +1,5 @@
 {
-  "count": 1784,
+  "count": 1787,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -6486,6 +6486,13 @@
       "title": "AI Engineer",
       "url": "https://jobs.ashbyhq.com/makai-labs/a350e730-8d80-4528-9d41-497acbd01223/application"
     },
+    "simplify:maritz::simplify-e5dcf151-a718-4c4b-9591-5dfe88d744dc": {
+      "company": "Maritz",
+      "first_seen": "2026-07-21T22:15:56+00:00",
+      "posted_at": "1783641600",
+      "title": "Software Engineer 1",
+      "url": "https://maritz.wd1.myworkdayjobs.com/Maritz/job/Fenton-MO/Software-Engineer-I_R15306"
+    },
     "simplify:mark43::simplify-5839397b-fbad-4dae-875c-f2eec69f3d71": {
       "company": "Mark43",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -7263,6 +7270,13 @@
       "title": "Associate Software Engineer/Software Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10240868"
     },
+    "simplify:northrop grumman::simplify-64e4132f-4013-4cca-8734-977dba502024": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-21T22:15:56+00:00",
+      "posted_at": "1783555200",
+      "title": "Software Engineer/Principal Software Engineer - Java",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---Java_R10239296-1"
+    },
     "simplify:northrop grumman::simplify-7665ed7d-c986-4890-9c4d-a7b0e2545e12": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -7346,6 +7360,13 @@
       "posted_at": "1783166693",
       "title": "Modeling and Simulation Engineer - Level 2 or 3",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Modeling-and-Simulation-Engineer---Level-2-or-3_R10237626"
+    },
+    "simplify:northrop grumman::simplify-aed12709-b072-4233-a4fe-23389392a6aa": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-21T22:15:56+00:00",
+      "posted_at": "1783158903",
+      "title": "Electrical Engineer - Level",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Engineer-Electrical-Principal-Engineer-Electrical--Level-2-3-_R10238716"
     },
     "simplify:northrop grumman::simplify-b2c6d78a-2c5f-4981-a48f-ba012408e363": {
       "company": "Northrop Grumman",
@@ -12431,5 +12452,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-21T21:22:56+00:00"
+  "updated_at": "2026-07-21T22:15:56+00:00"
 }
