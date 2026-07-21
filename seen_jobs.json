@@ -1,5 +1,5 @@
 {
-  "count": 1770,
+  "count": 1784,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -109,6 +109,13 @@
       "posted_at": "July  7, 2026",
       "title": "Jr. Software Development Engineer - Seattle/Bellevue, WA, Jr. Developer Program",
       "url": "https://www.amazon.jobs/en/jobs/10468083/jr-software-development-engineer-seattle-bellevue-wa-jr-developer-program"
+    },
+    "amazon::10475660": {
+      "company": "Amazon",
+      "first_seen": "2026-07-21T21:22:55+00:00",
+      "posted_at": "July 16, 2026",
+      "title": "Software Development Engineer I \u2013 AI/ML Network Infrastructure, Annapurna Labs",
+      "url": "https://www.amazon.jobs/en/jobs/10475660/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -2972,6 +2979,20 @@
       "title": "Application Engineer",
       "url": "https://www.captiveaire.com/Careers/Opening.asp?id=8560951002&gh_jid=8560951002"
     },
+    "simplify:captiveaire systems::simplify-31d1e5b5-d44e-4e9a-a946-16852122bbba": {
+      "company": "CaptiveAire Systems",
+      "first_seen": "2026-07-21T21:22:56+00:00",
+      "posted_at": "1779401231",
+      "title": "Application Engineer",
+      "url": "https://www.captiveaire.com/Careers/Opening.asp?id=8560958002&gh_jid=8560958002"
+    },
+    "simplify:captiveaire systems::simplify-75a1c4ee-6cf5-47a7-ba62-eb6954779862": {
+      "company": "CaptiveAire Systems",
+      "first_seen": "2026-07-21T21:22:56+00:00",
+      "posted_at": "1779401231",
+      "title": "Application Engineer",
+      "url": "https://www.captiveaire.com/Careers/Opening.asp?id=8560942002&gh_jid=8560942002"
+    },
     "simplify:captiveaire systems::simplify-d9b08630-982b-4b8c-99f1-c6ad6174aaf3": {
       "company": "CaptiveAire Systems",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -3104,6 +3125,13 @@
       "posted_at": "1783415519",
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application"
+    },
+    "simplify:cerence::simplify-ffb41745-2e42-4e1e-a0bc-f617a050a263": {
+      "company": "Cerence",
+      "first_seen": "2026-07-21T21:22:56+00:00",
+      "posted_at": "1783087615",
+      "title": "Student Worker",
+      "url": "https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---Great-Britain/Student-Worker_R0005973"
     },
     "simplify:cetera financial group::simplify-77adf232-6e00-43ad-807d-31429904aa0a": {
       "company": "Cetera Financial Group",
@@ -4316,6 +4344,13 @@
       "title": "Technology Intern",
       "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Technology-Intern_J00170964"
     },
+    "simplify:ercot::simplify-a7c61c00-3f37-4f60-a827-43ce1d719294": {
+      "company": "Ercot",
+      "first_seen": "2026-07-21T21:22:56+00:00",
+      "posted_at": "1779314763",
+      "title": "Entry Level Power & Computer Engineer",
+      "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Development-Program---Entry-Level-Power---Computer-Engineer_R2289-1"
+    },
     "simplify:ernst & young::simplify-9a15de10-77b4-4bb2-ae42-ed469259f5e8": {
       "company": "Ernst & Young",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -5197,6 +5232,13 @@
       "posted_at": "1782259936",
       "title": "Intern \u2013 Software Engineering",
       "url": "https://jobsearch.harman.com/en_US/careers/JobDetail/Intern-Software-Engineering/31931"
+    },
+    "simplify:harris computer::simplify-eb5df7f1-c18d-497e-8a13-2febadd687e1": {
+      "company": "Harris Computer",
+      "first_seen": "2026-07-21T21:22:56+00:00",
+      "posted_at": "1781140203",
+      "title": "Co-Op Student Developer",
+      "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/British-Columbia-Canada/XMLNAME--Remote--Co-Op-Student-Developer_R0044310-2"
     },
     "simplify:hd supply::simplify-bf4e7af4-f65d-43ee-98a9-10279078e240": {
       "company": "HD Supply",
@@ -6101,6 +6143,13 @@
       "title": "High Performance Compute - Multiple Teams",
       "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/High-Performance-Compute--HPC--Software-Engineer---HPC-SW-Systems_2636307"
     },
+    "simplify:kla::simplify-e51c9740-5833-4cde-9afd-23b440bfe8d8": {
+      "company": "KLA",
+      "first_seen": "2026-07-21T21:22:56+00:00",
+      "posted_at": "1782165928",
+      "title": "Applications Development Engineer",
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Applications-Development-Engineer_2637888"
+    },
     "simplify:klarity::simplify-1f8f1200-34a4-4c3f-b9d0-7e4cb7c4062a": {
       "company": "Klarity",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -6927,6 +6976,13 @@
       "title": "New Grad Software Engineer - Backend Rust",
       "url": "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application"
     },
+    "simplify:national laboratory of the rockies::simplify-c1d1053c-438a-481e-8375-57149313ea2f": {
+      "company": "National Laboratory of the Rockies",
+      "first_seen": "2026-07-21T21:22:56+00:00",
+      "posted_at": "1783548990",
+      "title": "Software and Data Infrastructure Intern",
+      "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394"
+    },
     "simplify:nationgraph::simplify-a196474c-7f86-4710-8275-f7701867a7ad": {
       "company": "NationGraph",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -7108,6 +7164,13 @@
       "posted_at": "1781215805",
       "title": "Materials & Processes Engineer/Principal Engineer - Composites",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/Materials---Processes-Engineer-Principal-Engineer--Composites----2nd-Shift_R10236040-1"
+    },
+    "simplify:northrop grumman::simplify-12dac20b-912f-4745-8fc4-76b5c94d7d2d": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-21T21:22:56+00:00",
+      "posted_at": "1781361723",
+      "title": "Structural Analysis Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-or-Principal-Engineer-Structural-Analysis--4-10-2nd-Shift-_R10231985"
     },
     "simplify:northrop grumman::simplify-1c140b14-cbd4-45da-9316-2fd50f440ccf": {
       "company": "Northrop Grumman",
@@ -8823,6 +8886,13 @@
       "posted_at": "1782379858",
       "title": "Fullstack Web Development Peer Tutor",
       "url": "https://rfcuny.wd108.myworkdayjobs.com/RFCUNY/job/New-York-NY/Fullstack-Web-Development-Peer-Tutor_JR2051"
+    },
+    "simplify:ribbon::simplify-97d542d1-34cd-4cd5-a7fc-6d841b5b0a28": {
+      "company": "Ribbon",
+      "first_seen": "2026-07-21T21:22:56+00:00",
+      "posted_at": "1782828484",
+      "title": "UI Engineer Co-op",
+      "url": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Ontario-Ottawa/Canada--Co-op-_REQ-2026-2965"
     },
     "simplify:rippling::simplify-0271dfee-afcf-4a95-ad39-156710edc8ce": {
       "company": "Rippling",
@@ -10637,6 +10707,13 @@
       "title": "Associate Software Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Omaha-NE/Software-Engineer_JR2026517990"
     },
+    "simplify:the boeing company::simplify-2be4d166-0f14-4931-b9f1-d0cf0e9564fc": {
+      "company": "The Boeing Company",
+      "first_seen": "2026-07-21T21:22:56+00:00",
+      "posted_at": "1780611023",
+      "title": "Entry Level Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-1"
+    },
     "simplify:the boeing company::simplify-2f4065cc-4605-457b-a477-ec094346c65d": {
       "company": "The Boeing Company",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10650,6 +10727,13 @@
       "posted_at": "1783549077",
       "title": "Development Security & Operations Associate - Devsecops - Software Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Colorado-Springs-CO/Development-Security---Operations--DevSecOps--Software-Engineer--Associate-or-Mid-Level-_JR2026515911"
+    },
+    "simplify:the boeing company::simplify-337cc959-7b73-48b1-a554-663f5dadf462": {
+      "company": "The Boeing Company",
+      "first_seen": "2026-07-21T21:22:56+00:00",
+      "posted_at": "1781129496",
+      "title": "Linux System Administrator - Associate",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Linux-System-Administrator--Associate-_JR2026514382-1"
     },
     "simplify:the boeing company::simplify-5f0ff2a4-3dfa-42fb-9d2c-e7e3241e1285": {
       "company": "The Boeing Company",
@@ -11519,6 +11603,13 @@
       "title": "Makerspace Aide - UWIN Makerspace Tech - Academic Technology Services",
       "url": "https://eeik.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260263"
     },
+    "simplify:university system of new hampshire::simplify-17d853eb-3412-4b94-a962-815fd64e1b6c": {
+      "company": "University System of New Hampshire",
+      "first_seen": "2026-07-21T21:22:56+00:00",
+      "posted_at": "1780610681",
+      "title": "Broadband Intern",
+      "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/High-Tech-Bound-Broadband-Intern_JR8298"
+    },
     "simplify:university system of new hampshire::simplify-345420e4-2381-481f-aca5-052fb38b61d3": {
       "company": "University System of New Hampshire",
       "first_seen": "2026-07-21T08:47:36+00:00",
@@ -11910,6 +12001,13 @@
       "posted_at": "1782741862",
       "title": "Associate Software Engineer",
       "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000134797351"
+    },
+    "simplify:wellsky::simplify-e93e54ef-8346-4df2-bd91-dd2a9f14956a": {
+      "company": "WellSky",
+      "first_seen": "2026-07-21T21:22:56+00:00",
+      "posted_at": "1782166129",
+      "title": "Associate Software Engineer",
+      "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer---Onsite_JR4907"
     },
     "simplify:western & southern financial group::simplify-6420dbca-62cf-469e-b003-fcf4252c3df8": {
       "company": "Western & Southern Financial Group",
@@ -12333,5 +12431,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-21T20:06:43+00:00"
+  "updated_at": "2026-07-21T21:22:56+00:00"
 }
