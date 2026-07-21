@@ -1,5 +1,5 @@
 {
-  "count": 1760,
+  "count": 1770,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1404,6 +1404,13 @@
       "title": "Demo Engineer - Pre-Sales Solutions Consulting",
       "url": "https://job-boards.greenhouse.io/airtable/jobs/8423374002"
     },
+    "simplify:akamai technologies::simplify-09196c2e-4267-4ca4-b899-14fa16e52c59": {
+      "company": "Akamai Technologies",
+      "first_seen": "2026-07-21T20:06:43+00:00",
+      "posted_at": "1784642910",
+      "title": "Software Engineer",
+      "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2668"
+    },
     "simplify:akima::simplify-1b47df5a-a950-4f67-8411-1bb9a8fd4554": {
       "company": "Akima",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -2166,6 +2173,13 @@
       "posted_at": "1777637092",
       "title": "Software Engineering Internship \u2013 AI/Agentic Systems",
       "url": "https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848121101"
+    },
+    "simplify:axon::simplify-01ae98fa-826d-40b3-990a-3254933cd747": {
+      "company": "Axon",
+      "first_seen": "2026-07-21T20:06:43+00:00",
+      "posted_at": "1784614995",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003"
     },
     "simplify:axos bank::simplify-70c0ef41-3b9b-40dc-84cf-e3cb9e43e0a2": {
       "company": "Axos Bank",
@@ -6192,6 +6206,13 @@
       "title": "Junior Full-Stack Engineer",
       "url": "https://jobs.smartrecruiters.com/Laxir1/743999834183955"
     },
+    "simplify:leidos::simplify-3308ac34-523a-4204-824a-4cbe54e395b0": {
+      "company": "Leidos",
+      "first_seen": "2026-07-21T20:06:43+00:00",
+      "posted_at": "1784160000",
+      "title": "Radar Sustainment Engineer - System Model Development",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Radar-Sustainment-Engineer---System-Model-Development_R-00187367"
+    },
     "simplify:leidos::simplify-4ab2be7c-c405-42fa-9dbf-cb0e5ff6a73d": {
       "company": "Leidos",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -6471,6 +6492,13 @@
       "posted_at": "1783375381",
       "title": "Technology Intern",
       "url": "https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002"
+    },
+    "simplify:marvell::simplify-b43d2fae-47d0-4b65-bd4b-dd44ca366b00": {
+      "company": "Marvell",
+      "first_seen": "2026-07-21T20:06:43+00:00",
+      "posted_at": "1782770877",
+      "title": "Application Engineer \u2013 Early Career",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Application-Engineer---Early-Career_2503703-2"
     },
     "simplify:mastercard::simplify-6fc2b307-1b8e-46f9-aa14-0d528e6fd4a9": {
       "company": "Mastercard",
@@ -6836,6 +6864,13 @@
       "title": "Graduate Software Engineer",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R65351"
     },
+    "simplify:motorola::simplify-f586670c-43fc-4aa0-876f-128f612b446a": {
+      "company": "Motorola",
+      "first_seen": "2026-07-21T20:06:43+00:00",
+      "posted_at": "1780437891",
+      "title": "Junior Backend Engineer",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Junior-Back-End-Engineer_R65538"
+    },
     "simplify:motorola::simplify-fcd95104-5b2a-4e23-bb5e-ee0412e59f2c": {
       "company": "Motorola",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -7115,6 +7150,13 @@
       "posted_at": "1783549092",
       "title": "Software Engineer Level 1 or 2",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-1-or-2_R10239388"
+    },
+    "simplify:northrop grumman::simplify-3a24dd9f-82e9-4b0b-ae1d-f2084e7a92b8": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-21T20:06:43+00:00",
+      "posted_at": "1781639446",
+      "title": "AI Software Engineer - Level 2 or 3",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/AI-Engineer-Software--Level-2-or-3-_R10236090-1"
     },
     "simplify:northrop grumman::simplify-3a29091e-49cb-4e77-b096-8c192ea3daa2": {
       "company": "Northrop Grumman",
@@ -7416,6 +7458,13 @@
       "posted_at": "1783900800",
       "title": "Compiler Engineer AI Inference New Grad",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--AI-Inference--New-College-Grad-2026_JR2021230"
+    },
+    "simplify:nvidia::simplify-373ffa0d-6efb-4fdc-9e34-45018a822f3d": {
+      "company": "NVIDIA",
+      "first_seen": "2026-07-21T20:06:21+00:00",
+      "posted_at": "1784505600",
+      "title": "Compiler Engineer New Grad - Infrastructure",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Infrastructure----New-College-Grad-2026_JR2021228"
     },
     "simplify:nvidia::simplify-49ac286b-0d2a-44df-b39a-c6540778f26a": {
       "company": "NVIDIA",
@@ -8172,6 +8221,13 @@
       "posted_at": "1782943822",
       "title": "Software Engineer",
       "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011520"
+    },
+    "simplify:palo alto networks::simplify-f73fef07-4935-451c-b921-b37714844677": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-21T20:06:21+00:00",
+      "posted_at": "1783160381",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011532"
     },
     "simplify:palo alto networks::simplify-fd7ab8ef-51eb-4509-94ee-5b644a84cf76": {
       "company": "Palo Alto Networks",
@@ -10616,6 +10672,13 @@
       "title": "Software Engineer - Commercial Modification",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Software-Engineer---Commercial-Modification--Associate-or-Experienced-level-_JR2026514887-2"
     },
+    "simplify:the boeing company::simplify-71df40cc-03d5-4fff-9f25-188f6aef357a": {
+      "company": "The Boeing Company",
+      "first_seen": "2026-07-21T20:06:43+00:00",
+      "posted_at": "1784160000",
+      "title": "Software Architect",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Software-Architect--Associate-and-Experienced-_JR2026515264-2"
+    },
     "simplify:the boeing company::simplify-8816ab03-e4eb-442b-9c8d-d79618277c9d": {
       "company": "The Boeing Company",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10636,6 +10699,13 @@
       "posted_at": "1784332800",
       "title": "Associate Software Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Omaha-NE/Software-Engineer_JR2026517990-1"
+    },
+    "simplify:the boeing company::simplify-ab31b2e7-d70c-4b00-9f94-375767675a53": {
+      "company": "The Boeing Company",
+      "first_seen": "2026-07-21T20:06:43+00:00",
+      "posted_at": "1784160000",
+      "title": "Modernization Software Engineer \u2013 Associate or Mid-Level",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Modernization-Software-Engineer--Associate-or-Mid-Level-_JR2026519283-1"
     },
     "simplify:the boeing company::simplify-b7a7213e-4e27-48ac-82d9-593ced5ab46d": {
       "company": "The Boeing Company",
@@ -12263,5 +12333,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-21T18:43:37+00:00"
+  "updated_at": "2026-07-21T20:06:43+00:00"
 }
