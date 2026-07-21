@@ -1,5 +1,5 @@
 {
-  "count": 1739,
+  "count": 1745,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -4364,6 +4364,13 @@
       "posted_at": "1783347131",
       "title": "Software Engineer 1",
       "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/GBR_WS_Malvern/Software-Engineer-I_JR500693-1"
+    },
+    "simplify:everfox::simplify-5d4273a4-4eda-4ac4-8656-a398851d11d7": {
+      "company": "Everfox",
+      "first_seen": "2026-07-21T15:59:09+00:00",
+      "posted_at": "1784592000",
+      "title": "Software Engineer 1",
+      "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500751"
     },
     "simplify:everfox::simplify-eda8945b-09f3-4443-8b05-971607aad015": {
       "company": "Everfox",
@@ -9237,6 +9244,13 @@
       "title": "Software Engineer - Agentic AI Systems - Moveworks",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000126417779"
     },
+    "simplify:servicenow::simplify-ce260f13-eca8-4ce4-b243-d56296546ce9": {
+      "company": "ServiceNow",
+      "first_seen": "2026-07-21T15:59:09+00:00",
+      "posted_at": "1778720777",
+      "title": "Software Engineer - Agentic AI Systems - Moveworks",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000126417779"
+    },
     "simplify:servicenow::simplify-d2686e45-dd4b-4b65-870c-0ea4607f8198": {
       "company": "ServiceNow",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -11001,6 +11015,13 @@
       "title": "Software Engineer 1",
       "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-50268"
     },
+    "simplify:travelers::simplify-f6865848-c6d8-4488-a94b-ee21317efaa1": {
+      "company": "Travelers",
+      "first_seen": "2026-07-21T15:59:09+00:00",
+      "posted_at": "1784073600",
+      "title": "Software Engineer 1 - Guidewire Policy Configuration",
+      "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Guidewire-Policy-Configuration_R-51545"
+    },
     "simplify:trend micro::simplify-0a6dd19d-c361-449a-b4b1-ea15ad2d816f": {
       "company": "Trend Micro",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -11245,6 +11266,13 @@
       "posted_at": "1781639125",
       "title": "Web Designer and Developer",
       "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Illinois-Chicago/Web-Designer-and-Developer_JR33945-1"
+    },
+    "simplify:university of mississippi medical center::simplify-1718b4ac-ef2a-4459-a483-ba8cfd292d59": {
+      "company": "University of Mississippi Medical Center",
+      "first_seen": "2026-07-21T15:59:09+00:00",
+      "posted_at": "1783029925",
+      "title": "Epic Applications Analyst",
+      "url": "https://ummc.wd5.myworkdayjobs.com/UMCCareers/job/Jackson-MS---Main-Campus/Epic-Applications-Analyst---Transplant-and-Dialysis---Division-of-Information-Systems_R00051826-2"
     },
     "simplify:university of nevada, reno::simplify-6731f217-2663-4905-a34f-077fa361c987": {
       "company": "University of Nevada, Reno",
@@ -11820,6 +11848,13 @@
       "title": "Temporary Computer Science Developer",
       "url": "https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Temporary-Computer-Science-Developer_R0003493"
     },
+    "simplify:worcester polytechnic institute::simplify-64f8ea93-94b9-49f5-8369-66579fc43d6d": {
+      "company": "Worcester Polytechnic Institute",
+      "first_seen": "2026-07-21T15:59:09+00:00",
+      "posted_at": "1782828043",
+      "title": "Research Software Engineer",
+      "url": "https://wpi.wd5.myworkdayjobs.com/WPI_External_Career_Site/job/Worcester/Temporary-Research-Software-Engineer_R0003515"
+    },
     "simplify:worldwide techservices::simplify-3527e449-a09c-47ac-850d-b7aa8557d0b4": {
       "company": "Worldwide TechServices",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -12113,8 +12148,15 @@
       "posted_at": "2026-06-24T17:45:17-04:00",
       "title": "Frontend Software Engineering Intern - Fall 2026",
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5099529007"
+    },
+    "virtu financial::8624410002": {
+      "company": "Virtu Financial",
+      "first_seen": "2026-07-21T15:59:08+00:00",
+      "posted_at": "2026-07-21T11:34:18-04:00",
+      "title": "Internship - Software Engineer",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002"
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-21T14:24:56+00:00"
+  "updated_at": "2026-07-21T15:59:09+00:00"
 }
