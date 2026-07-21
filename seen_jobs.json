@@ -1,5 +1,5 @@
 {
-  "count": 1754,
+  "count": 1760,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -2132,6 +2132,13 @@
       "title": "Software Developer Intern - Stagiaire en D\u00e9veloppement Logiciel",
       "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2"
     },
+    "simplify:autodesk::simplify-e7ca86c9-9b55-4d3a-a409-f781291f435d": {
+      "company": "Autodesk",
+      "first_seen": "2026-07-21T18:43:37+00:00",
+      "posted_at": "1781791573",
+      "title": "Cloud Developer Intern",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2"
+    },
     "simplify:aveva::simplify-25c78c31-7ddc-4133-b614-555627b96299": {
       "company": "AVEVA",
       "first_seen": "2026-07-20T23:15:00+00:00",
@@ -2747,6 +2754,13 @@
       "posted_at": "1783641600",
       "title": "AI Prompt Engineer",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer_328834"
+    },
+    "simplify:caci::simplify-274aa428-8769-4ec7-ab3b-c7010c375afe": {
+      "company": "CACI",
+      "first_seen": "2026-07-21T18:43:37+00:00",
+      "posted_at": "1783641600",
+      "title": "Junior Systems Engineer",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Systems-Engineer_328922"
     },
     "simplify:caci::simplify-4d3b608b-7d50-4226-ab3c-d8e8033c794c": {
       "company": "CACI",
@@ -5268,6 +5282,13 @@
       "title": "Software Analyst Intern",
       "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--12months-_R1012380-1"
     },
+    "simplify:hitachi::simplify-a86f5630-f0c3-4242-8953-47503546c39f": {
+      "company": "Hitachi",
+      "first_seen": "2026-07-21T18:43:37+00:00",
+      "posted_at": "1783404633",
+      "title": "Software Analyst Intern",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1"
+    },
     "simplify:hntb::simplify-1e8e3363-5834-49b1-98aa-0410f693f593": {
       "company": "HNTB",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -6976,6 +6997,13 @@
       "title": "Application Engineer 1",
       "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Application-Engineer-I_R0015972"
     },
+    "simplify:nidec::simplify-c056d7df-fdde-419f-8c90-d5405fb5557b": {
+      "company": "Nidec",
+      "first_seen": "2026-07-21T18:43:37+00:00",
+      "posted_at": "1782770702",
+      "title": "Application Engineer 1",
+      "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Application-Engineer-I_R0016497"
+    },
     "simplify:nidec::simplify-cfb9b365-0e85-49d1-ab5a-875453786a75": {
       "company": "Nidec",
       "first_seen": "2026-07-21T10:51:40+00:00",
@@ -7543,6 +7571,13 @@
       "title": "Senior Software Engineer",
       "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Upton/Senior-Software-Engineer_R-4963"
     },
+    "simplify:onto innovation::simplify-dfc6abcd-7f1b-4472-abff-5d0f26bab592": {
+      "company": "Onto Innovation",
+      "first_seen": "2026-07-21T18:43:37+00:00",
+      "posted_at": "1784160000",
+      "title": "Applications Engineer 3",
+      "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Upton/Applications-Engineer-3_R-6211"
+    },
     "simplify:onware::simplify-47396485-020d-4723-a0eb-84364424bc72": {
       "company": "Onware",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -7941,6 +7976,13 @@
       "posted_at": "1782943820",
       "title": "Software Engineer",
       "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011522"
+    },
+    "simplify:palo alto networks::simplify-1a30f17b-7e1c-425f-be9a-36f0533d68f5": {
+      "company": "Palo Alto Networks",
+      "first_seen": "2026-07-21T18:43:37+00:00",
+      "posted_at": "1782943820",
+      "title": "Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Software-Engineer_JR-011514"
     },
     "simplify:palo alto networks::simplify-1e93719f-be56-4b80-ade4-8960827c0469": {
       "company": "Palo Alto Networks",
@@ -12221,5 +12263,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-21T17:19:03+00:00"
+  "updated_at": "2026-07-21T18:43:37+00:00"
 }
