@@ -1,5 +1,5 @@
 {
-  "count": 1887,
+  "count": 1891,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1067,6 +1067,13 @@
       "posted_at": "1781820605",
       "title": "Developer Intern - Service Development",
       "url": "https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/application"
+    },
+    "simplify:2020 companies::simplify-e78d9861-7865-4fcd-963b-b1697694a2f5": {
+      "company": "2020 Companies",
+      "first_seen": "2026-07-22T22:53:16+00:00",
+      "posted_at": "1784678400",
+      "title": "Android Project Specialist",
+      "url": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Dallas-TX/Seasonal-Android-Project-Specialist_REQ_108774"
     },
     "simplify:3redpartners::simplify-325ff49d-973e-4e00-97d6-7f909349da90": {
       "company": "3RedPartners",
@@ -2544,6 +2551,13 @@
       "posted_at": "1782253050",
       "title": "Full Stack Engineer - Specialist",
       "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/79369"
+    },
+    "simplify:boson ai::simplify-62d11aec-ce0b-4085-b323-3da6cb9f2ea0": {
+      "company": "Boson Ai",
+      "first_seen": "2026-07-22T22:53:16+00:00",
+      "posted_at": "1784758126",
+      "title": "Software Engineer - Platform & Application",
+      "url": "https://jobs.lever.co/bosonai/2b520a0f-556a-4dc2-a5a7-d8845a921335/apply"
     },
     "simplify:bot auto::simplify-1619e24c-542d-4737-9c8d-d2da19828cee": {
       "company": "Bot Auto",
@@ -5044,6 +5058,13 @@
       "title": "Junior Software Developer - Active TS/SCI with Poly Required",
       "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Developer--Active-TS-SCI-with-Poly-Required-_RQ212931"
     },
+    "simplify:general dynamics information technology::simplify-8b0a6977-f796-456e-a016-3191e02750a7": {
+      "company": "General Dynamics Information Technology",
+      "first_seen": "2026-07-22T22:53:16+00:00",
+      "posted_at": "1784678400",
+      "title": "Reverse Engineer / Analyst",
+      "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Reverse-Engineer---Analyst_RQ224343-1"
+    },
     "simplify:general dynamics information technology::simplify-a8310416-f49f-453b-98ea-266bb88d01b4": {
       "company": "General Dynamics Information Technology",
       "first_seen": "2026-07-21T06:16:23+00:00",
@@ -6548,6 +6569,13 @@
       "posted_at": "1783636553",
       "title": "Software Development Co-op",
       "url": "https://job-boards.greenhouse.io/later/jobs/8621762002"
+    },
+    "simplify:later::simplify-eda1aead-c8ff-4d2b-84d5-5e921bdfc622": {
+      "company": "Later",
+      "first_seen": "2026-07-22T22:53:16+00:00",
+      "posted_at": "1784758137",
+      "title": "Software Development Co-op - Later Influence",
+      "url": "https://job-boards.greenhouse.io/later/jobs/8643138002"
     },
     "simplify:lawrence livermore national laboratory (llnl)::simplify-5792b5a2-ef1d-434b-b7d6-f3b05887383d": {
       "company": "Lawrence Livermore National Laboratory (LLNL)",
@@ -13152,5 +13180,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-22T15:57:50+00:00"
+  "updated_at": "2026-07-22T22:53:16+00:00"
 }
