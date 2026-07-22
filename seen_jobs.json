@@ -1,5 +1,5 @@
 {
-  "count": 1882,
+  "count": 1887,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1214,6 +1214,13 @@
       "posted_at": "1784160000",
       "title": "Software Engineer 1",
       "url": "https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/333-Earle-Ovington-Blvd---Uniondale-NY/Software-Engineer-I_JR113871"
+    },
+    "simplify:acxiom::simplify-3338f52b-1609-4387-84c5-cd609da9c84e": {
+      "company": "Acxiom",
+      "first_seen": "2026-07-22T15:57:50+00:00",
+      "posted_at": "1784678400",
+      "title": "Associate Software Engineer",
+      "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/3397/Associate-Software-Engineer_JR014379"
     },
     "simplify:ada::simplify-f59e5b11-d1a0-4afa-ac2f-9c1e54ef6179": {
       "company": "Ada",
@@ -5506,6 +5513,13 @@
       "title": "Graduate Web Developer - 1 year Placement",
       "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-Web-Developer--1-year-Placement_3159344"
     },
+    "simplify:hewlett packard (hp)::simplify-55f9d906-6fa5-49e9-8717-7e16023326ac": {
+      "company": "Hewlett Packard (HP)",
+      "first_seen": "2026-07-22T15:57:50+00:00",
+      "posted_at": "1784678400",
+      "title": "Graduate Software Developer",
+      "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Software-Development-Graduate-Roles_3165699"
+    },
     "simplify:hewlett packard (hp)::simplify-f2003bcd-3a85-486f-ab57-496ec1a066b8": {
       "company": "Hewlett Packard (HP)",
       "first_seen": "2026-07-21T06:16:23+00:00",
@@ -9041,6 +9055,13 @@
       "title": "Full Stack Engineer",
       "url": "https://jobs.ashbyhq.com/joinpogo/8e023749-da1c-458a-885b-fe0f33da5901/application?embed=true"
     },
+    "simplify:pogo technologies, inc.::simplify-b9dddc91-404f-4923-b104-dda004ce620a": {
+      "company": "Pogo Technologies, Inc.",
+      "first_seen": "2026-07-22T15:57:50+00:00",
+      "posted_at": "1784729599",
+      "title": "Full Stack Engineer",
+      "url": "https://jobs.ashbyhq.com/joinpogo/5cb77d21-34bd-46ad-995f-62a7428b7061/application?embed=true"
+    },
     "simplify:pointone::simplify-80ed1f87-b2ee-49df-bc46-c9a78897a5ad": {
       "company": "PointOne",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10454,6 +10475,13 @@
       "posted_at": "1778947012",
       "title": "CPQ Systems Engineer",
       "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Jacksonville-FL/CPQ-Systems-Engineer_R43427"
+    },
+    "simplify:ss&c::simplify-c6d3e347-aaa3-4ae3-a5fc-9feec76b9f77": {
+      "company": "SS&C",
+      "first_seen": "2026-07-22T15:57:50+00:00",
+      "posted_at": "1784678400",
+      "title": "Healthcare AI & Automation Intern",
+      "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Healthcare-AI---Automation-Intern_R45126"
     },
     "simplify:state street::simplify-336cbbc3-eb04-4282-b306-8d4ed5362bec": {
       "company": "State Street",
@@ -12807,6 +12835,13 @@
       "title": "Dynamic PC Support",
       "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000125159509"
     },
+    "simplify:worldwide techservices::simplify-a930e99b-11a7-4c4c-9117-1732331af6ba": {
+      "company": "Worldwide TechServices",
+      "first_seen": "2026-07-22T15:57:50+00:00",
+      "posted_at": "1784729395",
+      "title": "Dynamic PC Support",
+      "url": "https://jobs.smartrecruiters.com/WorldwideTechServices/744000139081829"
+    },
     "simplify:worldwide techservices::simplify-b1c64112-c23a-4e62-a783-274edfdc3506": {
       "company": "Worldwide TechServices",
       "first_seen": "2026-07-22T06:13:38+00:00",
@@ -13117,5 +13152,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-22T14:27:16+00:00"
+  "updated_at": "2026-07-22T15:57:50+00:00"
 }
