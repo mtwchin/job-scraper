@@ -1,5 +1,5 @@
 {
-  "count": 1875,
+  "count": 1878,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1620,6 +1620,13 @@
       "posted_at": "1783519708",
       "title": "Software Engineer - AI Security",
       "url": "https://amazon.jobs/en/jobs/10440600/software-engineer-ai-security"
+    },
+    "simplify:amazon::simplify-328f9f48-1b9a-42bd-8438-ab12c2bde5bf": {
+      "company": "Amazon",
+      "first_seen": "2026-07-22T10:52:15+00:00",
+      "posted_at": "1784711419",
+      "title": "Programmer Analyst 1",
+      "url": "https://amazon.jobs/en/jobs/10480255/programmer-analyst-i-ftc"
     },
     "simplify:amazon::simplify-4762de7d-d90a-4004-bf12-486138c11efc": {
       "company": "Amazon",
@@ -9020,6 +9027,13 @@
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/PointOne/1e312db8-6d18-4d07-af99-ed3ba165e7d9/application"
     },
+    "simplify:polymarket::simplify-a422035a-8c4c-4612-9ef6-e5f88dbae73a": {
+      "company": "Polymarket",
+      "first_seen": "2026-07-22T10:52:16+00:00",
+      "posted_at": "1781129353",
+      "title": "Forward Deployed Engineer - Institutional",
+      "url": "https://jobs.ashbyhq.com/polymarket/9d54dede-9ca1-4c3e-a404-270b8e3d523c/application?embed=true"
+    },
     "simplify:pony.ai::simplify-bf81e231-61f0-481a-9930-6a924fda265a": {
       "company": "pony.ai",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -12303,6 +12317,13 @@
       "title": "Full-Stack Software Engineer - C2 & Tactical Integration",
       "url": "https://jobs.ashbyhq.com/valinor/c2fbf6c0-fa83-4f51-885d-3ac09eb1e80e/application?embed=true"
     },
+    "simplify:valsoft corporation::simplify-17a4eca6-f636-4d76-ae6b-949e863c7613": {
+      "company": "Valsoft Corporation",
+      "first_seen": "2026-07-22T10:52:16+00:00",
+      "posted_at": "1784585560",
+      "title": "Fullstack Software Developer - AI-enabled",
+      "url": "https://apply.workable.com/valsoft-corp/j/E96D7950A5/apply"
+    },
     "simplify:vanguard::simplify-8f747a9b-4b52-417a-9d0b-e1f750dcb692": {
       "company": "Vanguard",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -13068,5 +13089,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-22T06:13:38+00:00"
+  "updated_at": "2026-07-22T10:52:16+00:00"
 }
