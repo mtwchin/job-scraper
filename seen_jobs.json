@@ -1,5 +1,5 @@
 {
-  "count": 1878,
+  "count": 1881,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -5464,6 +5464,13 @@
       "title": "Co-Op Student Developer",
       "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/British-Columbia-Canada/XMLNAME--Remote--Co-Op-Student-Developer_R0044310-2"
     },
+    "simplify:hcsc::simplify-ae7ac1d8-d114-4fd2-8588-3298ee46931a": {
+      "company": "HCSC",
+      "first_seen": "2026-07-22T12:17:49+00:00",
+      "posted_at": "1784505600",
+      "title": "Mainframe Developer",
+      "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Developer---Mainframe_R0054977"
+    },
     "simplify:hd supply::simplify-bf4e7af4-f65d-43ee-98a9-10279078e240": {
       "company": "HD Supply",
       "first_seen": "2026-07-21T14:24:56+00:00",
@@ -6380,6 +6387,13 @@
       "posted_at": "1782167538",
       "title": "Applications Development Engineer",
       "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineer_2637888-1"
+    },
+    "simplify:kla corporation::simplify-f3a9de98-82b9-40ff-be18-62ed750578c6": {
+      "company": "KLA Corporation",
+      "first_seen": "2026-07-22T12:17:49+00:00",
+      "posted_at": "1784592000",
+      "title": "HPC Software Engineer",
+      "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/HPC-Software-Engineer_2638794"
     },
     "simplify:kla::simplify-3ae738c3-1972-4573-b39f-dd2e9c32be38": {
       "company": "KLA",
@@ -12569,6 +12583,13 @@
       "title": "Software Engineer 3",
       "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Service-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2499802-1"
     },
+    "simplify:walmart::simplify-99d03a1a-766a-4c0d-92a6-d283adc7583a": {
+      "company": "Walmart",
+      "first_seen": "2026-07-22T12:17:49+00:00",
+      "posted_at": "1784592000",
+      "title": "Software Engineer 3",
+      "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2578445-1"
+    },
     "simplify:walmart::simplify-bbcbe0b3-c9ab-4ade-a616-f25dc9e7f7f7": {
       "company": "Walmart",
       "first_seen": "2026-07-18T07:18:07+00:00",
@@ -13089,5 +13110,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-22T10:52:16+00:00"
+  "updated_at": "2026-07-22T12:17:49+00:00"
 }
