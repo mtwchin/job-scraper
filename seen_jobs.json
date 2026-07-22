@@ -1,5 +1,5 @@
 {
-  "count": 1881,
+  "count": 1882,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -4952,6 +4952,13 @@
       "posted_at": "1769182182",
       "title": "Software Engineering Co-op Spring 2027",
       "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832"
+    },
+    "simplify:ge appliances::simplify-b1a50830-e5ae-4f43-a69b-471c3c58ea97": {
+      "company": "GE Appliances",
+      "first_seen": "2026-07-22T14:27:16+00:00",
+      "posted_at": "1783721246",
+      "title": "Engineering Co-op",
+      "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Fall-2026_REQ-23567"
     },
     "simplify:ge healthcare::simplify-0d4fe4d8-2a3c-4bae-ab91-fcfa10a631c4": {
       "company": "GE Healthcare",
@@ -13110,5 +13117,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-22T12:17:49+00:00"
+  "updated_at": "2026-07-22T14:27:16+00:00"
 }
