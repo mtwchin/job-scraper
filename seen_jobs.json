@@ -1,5 +1,5 @@
 {
-  "count": 1933,
+  "count": 1938,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1256,6 +1256,13 @@
       "posted_at": "1781774746",
       "title": "Software Development Engineer 2",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer-2_R169364-1"
+    },
+    "simplify:adobe::simplify-94be9874-44c0-445c-a293-6f469b674484": {
+      "company": "Adobe",
+      "first_seen": "2026-07-23T12:58:57+00:00",
+      "posted_at": "1784505600",
+      "title": "Software Development Engineer",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/Software-Development-Engineer_R170466-1"
     },
     "simplify:adtran::simplify-165267eb-fe07-4e0c-a458-6e1a39df468d": {
       "company": "Adtran",
@@ -3707,6 +3714,13 @@
       "title": "Software Engineer",
       "url": "https://jobs.lever.co/commercearchitects/ec4bd3b5-3219-4524-805a-d9dff354c5ec/apply"
     },
+    "simplify:commerceiq::simplify-0ac792eb-ee45-477f-863f-d896897e6c8d": {
+      "company": "CommerceIQ",
+      "first_seen": "2026-07-23T12:58:58+00:00",
+      "posted_at": "1784626059",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/commerceiq/jobs/7803169003"
+    },
     "simplify:commure::simplify-5cdafd83-dd1b-4e63-8712-e50a41b28317": {
       "company": "Commure",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -5610,6 +5624,20 @@
       "posted_at": "1781140203",
       "title": "Co-Op Student Developer",
       "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/British-Columbia-Canada/XMLNAME--Remote--Co-Op-Student-Developer_R0044310-2"
+    },
+    "simplify:harvey::simplify-c4ff30bf-4501-46af-832e-cbe45a12f9f9": {
+      "company": "Harvey",
+      "first_seen": "2026-07-23T12:58:57+00:00",
+      "posted_at": "1777673281",
+      "title": "Software Engineer - Agents",
+      "url": "https://jobs.ashbyhq.com/harvey/2bd5b22c-d873-45da-a6d3-89944edb701c/application?embed=true"
+    },
+    "simplify:harvey::simplify-cacfc470-6400-450a-881f-83ffd81c3477": {
+      "company": "Harvey",
+      "first_seen": "2026-07-23T12:58:57+00:00",
+      "posted_at": "1777673281",
+      "title": "Software Engineer - Agents",
+      "url": "https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc/application?embed=true"
     },
     "simplify:hcsc::simplify-ae7ac1d8-d114-4fd2-8588-3298ee46931a": {
       "company": "HCSC",
@@ -10371,6 +10399,13 @@
       "title": "Software Developer - Services",
       "url": "https://slice.careers/careers-listing?gh_jid=7228672"
     },
+    "simplify:smithfield foods::simplify-522fa117-c316-4e57-a2a1-8e128d51a306": {
+      "company": "Smithfield Foods",
+      "first_seen": "2026-07-23T12:58:58+00:00",
+      "posted_at": "1781360830",
+      "title": "Software Engineer",
+      "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Suffolk-VA/Software-Engineer_R-2026-6268"
+    },
     "simplify:smiths detection::simplify-751867f3-533e-4690-8897-2b77e95e20b3": {
       "company": "Smiths Detection",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -13474,5 +13509,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-23T11:28:38+00:00"
+  "updated_at": "2026-07-23T12:58:58+00:00"
 }
