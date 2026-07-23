@@ -1,5 +1,5 @@
 {
-  "count": 1955,
+  "count": 1963,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -173,6 +173,13 @@
       "posted_at": "2026-06-12T19:27:03-04:00",
       "title": "Software Engineer- Backend Intern (Fall 2026)",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4681183006"
+    },
+    "astranis::4699071006": {
+      "company": "Astranis",
+      "first_seen": "2026-07-23T22:36:29+00:00",
+      "posted_at": "2026-07-23T18:06:26-04:00",
+      "title": "Software Engineer Intern - Enterprise Systems (Fall 2026)",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006"
     },
     "capital one::Associate--Software-Engineer--New-Grad-Card-Expansion_R236833": {
       "company": "Capital One",
@@ -1691,6 +1698,13 @@
       "title": "EFA Network Software Engineer 1 - Annapurna Labs",
       "url": "https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs"
     },
+    "simplify:amazon::simplify-5fde436c-570a-464b-9d9c-3a3e457151d0": {
+      "company": "Amazon",
+      "first_seen": "2026-07-23T22:36:29+00:00",
+      "posted_at": "1765926915",
+      "title": "Software Development Engineer - Amazon Leo - US",
+      "url": "https://amazon.jobs/en/jobs/3144341/software-development-engineer-amazon-leo-us"
+    },
     "simplify:amazon::simplify-6d55f27f-9786-4c75-ab7c-c79dd9c729e0": {
       "company": "Amazon",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -2341,6 +2355,13 @@
       "posted_at": "1776377145",
       "title": "Automation Analyst Intern",
       "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Automation-Analyst-Intern_JR4507"
+    },
+    "simplify:azenta::simplify-7c2fa168-ddab-4de9-b079-324d9c069d22": {
+      "company": "Azenta",
+      "first_seen": "2026-07-23T22:36:30+00:00",
+      "posted_at": "1784764800",
+      "title": "Software Developer",
+      "url": "https://azenta.wd1.myworkdayjobs.com/AzentaJobs/job/US---South-Plainfield-NJ/Software-Developer_R20260491"
     },
     "simplify:babel street::simplify-f41790eb-8c94-4879-9b85-5c60ed5f3d6c": {
       "company": "Babel Street",
@@ -5576,6 +5597,13 @@
       "title": "Applications Specialist 1",
       "url": "https://careers-group1auto.icims.com/jobs/36615/job?mobile=true&needsRedirect=false"
     },
+    "simplify:guidehouse::simplify-e6d7765d-e77d-4662-a2fe-0007dad9f27a": {
+      "company": "Guidehouse",
+      "first_seen": "2026-07-23T22:36:30+00:00",
+      "posted_at": "1784764800",
+      "title": "Technical Associate - Platforms - Technology",
+      "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Technical-Associate---Platforms--Technology---Campus-2026--San-Antonio-_42401"
+    },
     "simplify:guidewire::simplify-0d1fdb68-7acd-47a6-9000-85bad53536d8": {
       "company": "Guidewire",
       "first_seen": "2026-07-15T00:13:08+00:00",
@@ -6128,6 +6156,13 @@
       "posted_at": "1781215679",
       "title": "AI Software Engineer Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641"
+    },
+    "simplify:intel::simplify-4c2be7ac-eebd-440e-964d-55577780ece6": {
+      "company": "Intel",
+      "first_seen": "2026-07-23T22:36:29+00:00",
+      "posted_at": "1784844751",
+      "title": "Software Development Engineer",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0285267"
     },
     "simplify:intel::simplify-6a9037a8-cfc4-43f5-841f-202346e3bfb4": {
       "company": "Intel",
@@ -7143,6 +7178,13 @@
       "posted_at": "1784505600",
       "title": "Software Engineer 1",
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Development-Engineer_R-284431"
+    },
+    "simplify:mastercard::simplify-c218131b-b198-483e-94bc-03192688c34b": {
+      "company": "Mastercard",
+      "first_seen": "2026-07-23T22:36:30+00:00",
+      "posted_at": "1784246400",
+      "title": "Software Engineer 1",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Development-Engineer_R-284435"
     },
     "simplify:mastercard::simplify-c3250137-008d-4db4-9bef-fdf8b14174c8": {
       "company": "Mastercard",
@@ -10966,6 +11008,13 @@
       "title": "Junior Software Engineer",
       "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/Junior-Software-Engineer_JR5922"
     },
+    "simplify:sun life::simplify-d752d3de-1880-4a55-86e3-f62e4c6ce7d0": {
+      "company": "Sun Life",
+      "first_seen": "2026-07-23T22:36:30+00:00",
+      "posted_at": "1782338879",
+      "title": "Student Associate Front-End Developer",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Sun-Life-Toronto-One-York/Student--Associate-Front-End-Developer--Fall-2026-_JR00125432"
+    },
     "simplify:sunbird software inc.::simplify-5ffc89cf-42df-49a7-bd5c-59a9a9d50f7c": {
       "company": "Sunbird Software Inc.",
       "first_seen": "2026-07-23T09:36:36+00:00",
@@ -11245,6 +11294,13 @@
       "posted_at": "1784153782",
       "title": "Associate ServiceNow Technical Consultant",
       "url": "https://job-boards.greenhouse.io/tenon/jobs/8067766"
+    },
+    "simplify:tenstorrent::simplify-3084c516-85ae-493d-a322-241adba5a8ed": {
+      "company": "Tenstorrent",
+      "first_seen": "2026-07-23T22:36:30+00:00",
+      "posted_at": "1784844302",
+      "title": "Software Engineer Intern - Power Modeling & AI Tools",
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007"
     },
     "simplify:tenstorrent::simplify-e971a3e2-631b-4ad9-ab78-effc38c864ed": {
       "company": "Tenstorrent",
@@ -13628,5 +13684,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-23T16:42:59+00:00"
+  "updated_at": "2026-07-23T22:36:30+00:00"
 }
