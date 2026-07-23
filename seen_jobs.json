@@ -1,5 +1,5 @@
 {
-  "count": 1963,
+  "count": 1979,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1873,6 +1873,13 @@
       "title": "Systems Architect Apprentice",
       "url": "https://careers-apogeeusa.icims.com/jobs/1448/job?mobile=true&needsRedirect=false"
     },
+    "simplify:appian::simplify-31b95070-c5a6-4523-b7d4-54fbaa062677": {
+      "company": "Appian",
+      "first_seen": "2026-07-23T23:33:02+00:00",
+      "posted_at": "1784846149",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8041237"
+    },
     "simplify:appian::simplify-d19704d8-7b6b-440d-a51f-42454b440db4": {
       "company": "Appian",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -1970,6 +1977,13 @@
       "posted_at": "1783375535",
       "title": "Associate Software Engineer",
       "url": "https://careers-appliedsystems.icims.com/jobs/7318/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:applied systems, inc.::simplify-baa6a8ff-d13c-457a-97fd-48484c7d24db": {
+      "company": "Applied Systems, Inc.",
+      "first_seen": "2026-07-23T23:33:02+00:00",
+      "posted_at": "1784844702",
+      "title": "Associate AI Automation Engineer/AI Automation Engineer",
+      "url": "https://careers-appliedsystems.icims.com/jobs/7719/job?mobile=true&needsRedirect=false"
     },
     "simplify:applovin::simplify-b8ccf2d6-f57b-44fd-bb25-fdda3e617777": {
       "company": "AppLovin",
@@ -2145,6 +2159,13 @@
       "posted_at": "1778710791",
       "title": "Software Engineer-Backend Intern",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4681183006"
+    },
+    "simplify:astranis::simplify-f00fc66c-967f-457b-8706-d3f0c5a5c874": {
+      "company": "Astranis",
+      "first_seen": "2026-07-23T23:33:00+00:00",
+      "posted_at": "1784846279",
+      "title": "Software Engineer Intern - Enterprise Systems",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006"
     },
     "simplify:astronomer::simplify-85b3d57c-17e3-4b2e-9786-3b5d828d0199": {
       "company": "Astronomer",
@@ -2656,6 +2677,13 @@
       "posted_at": "1784596545",
       "title": "Founding Engineer",
       "url": "https://jobs.ashbyhq.com/brainbaselabs/54fe9496-006d-4604-94a0-90258f2c3dd3/application?embed=true"
+    },
+    "simplify:bridger::simplify-e2dbbfb0-5164-4098-99ba-6fc554978c24": {
+      "company": "Bridger",
+      "first_seen": "2026-07-23T23:33:02+00:00",
+      "posted_at": "1784845363",
+      "title": "Early Career Product Engineer",
+      "url": "https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f/application?embed=true"
     },
     "simplify:brigham young university::simplify-6d262d1c-25c4-44ac-a7af-e1b47254bb74": {
       "company": "Brigham Young University",
@@ -3532,12 +3560,26 @@
       "title": "Software Engineer \u2013 University Graduate",
       "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/"
     },
+    "simplify:citi::simplify-88daf4b9-edae-47b1-a817-45fafebd36ee": {
+      "company": "Citi",
+      "first_seen": "2026-07-23T23:33:02+00:00",
+      "posted_at": "1784764800",
+      "title": "Applications Development Intermediate Programmer Analyst",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Apps-Dev-Intmd-Programmer-Analyst_26980086"
+    },
     "simplify:citi::simplify-e260dcba-6860-4a88-af61-8057ccf8970d": {
       "company": "Citi",
       "first_seen": "2026-07-17T23:11:51+00:00",
       "posted_at": "1784246400",
       "title": "Applications Development Intermediate Programmer Analyst",
       "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Apps-Dev-Intmd-Programmer-Analyst---C11---MISSISSAUGA_26980069"
+    },
+    "simplify:citi::simplify-e4bf962c-7909-44e9-87df-e094623b1d07": {
+      "company": "Citi",
+      "first_seen": "2026-07-23T23:33:02+00:00",
+      "posted_at": "1784764800",
+      "title": "Applications Development Intermediate Programmer Analyst",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Apps-Dev-Intmd-Programmer-Analyst_26980088"
     },
     "simplify:city and county of san francisco::simplify-1ad5e34b-7418-46fe-9725-948719ed2572": {
       "company": "City and County of San Francisco",
@@ -3783,6 +3825,13 @@
       "posted_at": "1784210748",
       "title": "Entry-Level Software Engineer - AI/ML",
       "url": "https://job-boards.greenhouse.io/commvault/jobs/5233620008"
+    },
+    "simplify:compassion international::simplify-452bd6d1-0b35-4f40-aa51-c0ae49420249": {
+      "company": "Compassion International",
+      "first_seen": "2026-07-23T23:33:02+00:00",
+      "posted_at": "1784764800",
+      "title": "Software Developer Fellow",
+      "url": "https://compassion.wd5.myworkdayjobs.com/CompassionCareersPrivateLink/job/Remote---USA/Software-Developer-Fellow---CVG_R8264"
     },
     "simplify:composio::simplify-015239c6-bc89-4abd-a7a9-97acc270ae0a": {
       "company": "Composio",
@@ -6430,6 +6479,13 @@
       "title": "Emerging Talent Software Engineer \u2013 City College of Tech Apprenticeship - Emerging Talent",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210700938"
     },
+    "simplify:jp morgan chase::simplify-87afd5e6-c90a-42d0-a2f7-3d5ac0176d87": {
+      "company": "JP Morgan Chase",
+      "first_seen": "2026-07-23T23:33:02+00:00",
+      "posted_at": "1784844601",
+      "title": "Java Backend Software Engineer 2 - Artificial Intelligence",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758513"
+    },
     "simplify:julius ai::simplify-3029721d-d2a5-4aba-9f0b-3fca2d03b9f5": {
       "company": "Julius AI",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -7592,6 +7648,13 @@
       "title": "Graduate Software Engineer",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R65351"
     },
+    "simplify:motorola::simplify-c54c2724-23e7-4ffe-a01b-8640a88be59e": {
+      "company": "Motorola",
+      "first_seen": "2026-07-23T23:33:02+00:00",
+      "posted_at": "1784764800",
+      "title": "Software Engineer Co-op",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Software-Engineer-Co-op_R66130"
+    },
     "simplify:motorola::simplify-f586670c-43fc-4aa0-876f-128f612b446a": {
       "company": "Motorola",
       "first_seen": "2026-07-21T20:06:43+00:00",
@@ -8096,6 +8159,13 @@
       "title": "Industrial Engineer / Principal Industrial Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-Industrial---Principal-Engineer-Industrial_R10240142"
     },
+    "simplify:northrop grumman::simplify-b58aed3a-c2f5-4853-ad63-e9ed97cfdd74": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-23T23:33:02+00:00",
+      "posted_at": "1784764800",
+      "title": "Systems Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/Engineer-Principal-Engineer-Systems_R10241911"
+    },
     "simplify:northrop grumman::simplify-b5b8fd8d-bfe1-4bc0-a902-6285c6270a00": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -8172,6 +8242,13 @@
       "posted_at": "1783980688",
       "title": "Forward Deployed Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/northslope-technologies/80b82167-7101-4f78-9006-7755dd2ca01e/application"
+    },
+    "simplify:northwell health::simplify-6c1fb526-53c3-4b84-b3b9-f057092282c6": {
+      "company": "Northwell Health",
+      "first_seen": "2026-07-23T23:33:02+00:00",
+      "posted_at": "1784844589",
+      "title": "Associate Software Engineer",
+      "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/192698"
     },
     "simplify:northwestern mutual::simplify-5de63ca7-6fec-48eb-84d5-706e1d8038be": {
       "company": "Northwestern Mutual",
@@ -8369,6 +8446,13 @@
       "title": "Machine Learning Applications and Compiler Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016937"
     },
+    "simplify:nvidia::simplify-a455da9d-eaec-41c8-9de6-819c1f5bac60": {
+      "company": "NVIDIA",
+      "first_seen": "2026-07-23T23:33:00+00:00",
+      "posted_at": "1784764800",
+      "title": "Software Engineer New Grad - Physical Design Infrastructure",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823"
+    },
     "simplify:nvidia::simplify-cf5b742b-7660-43e5-969b-f4a57b8b9935": {
       "company": "NVIDIA",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -8382,6 +8466,13 @@
       "posted_at": "1779528687",
       "title": "PhD Software Engineer Intern - Decision Intelligence",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522"
+    },
+    "simplify:nvidia::simplify-e3815529-57c7-41bb-8d69-cad889c3b01e": {
+      "company": "NVIDIA",
+      "first_seen": "2026-07-23T23:33:00+00:00",
+      "posted_at": "1784764800",
+      "title": "AI and ML Infra Software Engineer New Grad - GPU Clusters",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2026_JR2021591"
     },
     "simplify:nvidia::simplify-e705fffd-6c2f-4555-b991-f5808e23542c": {
       "company": "NVIDIA",
@@ -11204,6 +11295,13 @@
       "title": "Associate Software Engineer",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1496579"
     },
+    "simplify:td bank::simplify-88991ebe-50a5-4065-8905-4186af747615": {
+      "company": "TD Bank",
+      "first_seen": "2026-07-23T23:33:02+00:00",
+      "posted_at": "1784764800",
+      "title": "Software Engineer Associate",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1495599"
+    },
     "simplify:td synnex::simplify-39c947cb-0cab-41b0-8056-745f80dc13af": {
       "company": "TD Synnex",
       "first_seen": "2026-07-21T08:47:36+00:00",
@@ -12863,6 +12961,13 @@
       "title": "Entry Level Application Engineer - 2026 Start Date",
       "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Entry-Level-Application-Engineer---2026-Start-Date_168908-1"
     },
+    "simplify:vanguard::simplify-e7563970-e9fe-4113-a13b-d286b6149540": {
+      "company": "Vanguard",
+      "first_seen": "2026-07-23T23:33:02+00:00",
+      "posted_at": "1784764800",
+      "title": "Entry Level Application Engineer",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Entry-Level-Application-Engineer---2027-Start-Date---Malvern_180413"
+    },
     "simplify:vantor::simplify-7056e132-e311-407b-b4f0-383070144ec9": {
       "company": "Vantor",
       "first_seen": "2026-07-23T15:09:16+00:00",
@@ -13261,6 +13366,13 @@
       "posted_at": "1784246400",
       "title": "Software Engineer Python/Angular",
       "url": "https://wgu.wd5.myworkdayjobs.com/en-US/External/job/Salt-Lake-City-UT/Software-Engineer-Python-Angular_JR-025709"
+    },
+    "simplify:wgu::simplify-a2f1914e-0d8a-4ad1-9ec9-b41b6f58e680": {
+      "company": "WGU",
+      "first_seen": "2026-07-23T23:33:02+00:00",
+      "posted_at": "1784844548",
+      "title": "Salesforce Engineer 1",
+      "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Salesforce-Engineer-I_JR-025457"
     },
     "simplify:wgu::simplify-db55c587-2810-474f-bd78-03115f713ea4": {
       "company": "WGU",
@@ -13684,5 +13796,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-23T22:36:30+00:00"
+  "updated_at": "2026-07-23T23:33:02+00:00"
 }
