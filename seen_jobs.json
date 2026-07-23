@@ -1,5 +1,5 @@
 {
-  "count": 1901,
+  "count": 1904,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -4288,6 +4288,13 @@
       "title": "Entry Level .Net Developer",
       "url": "https://jobs.smartrecruiters.com/DellforTechnologies/102104086"
     },
+    "simplify:deloitte::simplify-7599b00f-543d-45cf-ad21-d80fa58b6d90": {
+      "company": "Deloitte",
+      "first_seen": "2026-07-23T01:17:04+00:00",
+      "posted_at": "1784758495",
+      "title": "Software Engineering Analyst - Government & Public Services - Software Engineering",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering-Fall-2026-Hire/360282"
+    },
     "simplify:deloitte::simplify-9119a940-c285-418f-8fad-397e77889ae6": {
       "company": "Deloitte",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -4833,6 +4840,13 @@
       "posted_at": "1784678400",
       "title": "Mainframe Software Engineer 1",
       "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0308257-1"
+    },
+    "simplify:fidelity national information services::simplify-93256d0a-8438-4762-951a-51e4ca7fe948": {
+      "company": "Fidelity National Information Services",
+      "first_seen": "2026-07-23T01:17:04+00:00",
+      "posted_at": "1784678400",
+      "title": "Mainframe Software Engineer 1",
+      "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0308256-1"
     },
     "simplify:field ai::simplify-5d600989-4dfa-4062-855c-d4b92dc5ffa7": {
       "company": "Field AI",
@@ -7003,6 +7017,13 @@
       "posted_at": "1766764373",
       "title": "Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/mcghealth/jobs/8350486002"
+    },
+    "simplify:mcmaster-carr::simplify-4600d580-8dad-49ce-93c7-89ae51839461": {
+      "company": "McMaster-Carr",
+      "first_seen": "2026-07-23T01:17:04+00:00",
+      "posted_at": "1784759219",
+      "title": "Technology - Development - Design",
+      "url": "https://job-boards.greenhouse.io/mcmastercarr/jobs/4250906009"
     },
     "simplify:mechanize::simplify-25a28b63-1772-404b-a5c1-29c24b2ceb2d": {
       "company": "Mechanize",
@@ -13250,5 +13271,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-22T23:48:29+00:00"
+  "updated_at": "2026-07-23T01:17:04+00:00"
 }
