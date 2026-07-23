@@ -1,5 +1,5 @@
 {
-  "count": 1947,
+  "count": 1955,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -3322,6 +3322,13 @@
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/cerebras/99c289fa-8fc6-49f7-b7e8-78ac4e9d99ac/application"
     },
+    "simplify:cerebras::simplify-d5647d2a-f398-444e-b1ac-3d03cc6604a7": {
+      "company": "Cerebras",
+      "first_seen": "2026-07-23T16:42:59+00:00",
+      "posted_at": "1784816239",
+      "title": "Software Engineer - Cluster Deployment",
+      "url": "https://jobs.ashbyhq.com/cerebras/63b9c135-ce5d-4898-8e4d-9422d39e4ca6/application?embed=true"
+    },
     "simplify:cerence::simplify-ffb41745-2e42-4e1e-a0bc-f617a050a263": {
       "company": "Cerence",
       "first_seen": "2026-07-21T21:22:56+00:00",
@@ -6017,6 +6024,13 @@
       "title": "Software Engineer",
       "url": "https://careers.itw.com/global/en/job/JR8874"
     },
+    "simplify:illumia::simplify-3547f1fc-3473-484d-9766-31b2a0f754c1": {
+      "company": "Illumia",
+      "first_seen": "2026-07-23T16:42:59+00:00",
+      "posted_at": "1784816659",
+      "title": "Associate Integration Engineer",
+      "url": "https://transact-campus.breezy.hr/p/e8d28d6d8087/apply"
+    },
     "simplify:imc trading::simplify-1c8d5fb4-7d30-4fff-adcc-7926baadf184": {
       "company": "IMC Trading",
       "first_seen": "2026-07-02T00:04:23+00:00",
@@ -6717,6 +6731,13 @@
       "title": "Software Engineer Associate",
       "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1410863700/?ats=successfactors"
     },
+    "simplify:l3harris technologies::simplify-4644bdd6-0956-4473-86a3-ef0a98bdcd5c": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-07-23T16:42:59+00:00",
+      "posted_at": "1784815472",
+      "title": "Associate \u2013 Software Engineer",
+      "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1411849300/?ats=successfactors"
+    },
     "simplify:l3harris technologies::simplify-72c67b39-d84c-46b6-b7b6-e9e97c47087d": {
       "company": "L3Harris Technologies",
       "first_seen": "2026-07-16T16:58:03+00:00",
@@ -6940,6 +6961,13 @@
       "posted_at": "1780466945",
       "title": "Software Engineer Co-op - Conversions API",
       "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-Op--Software-Engineer---Conversions-API_JR012232-1"
+    },
+    "simplify:lmi ::simplify-eb6d5f77-90a1-46ca-97de-1e5ad01af6a5": {
+      "company": "LMI ",
+      "first_seen": "2026-07-23T16:42:59+00:00",
+      "posted_at": "1784816022",
+      "title": "Junior Back-End Software Application Developer",
+      "url": "https://careers-lmi.icims.com/jobs/14309/job?mobile=true&needsRedirect=false"
     },
     "simplify:lumentum::simplify-6df12b44-dd54-4190-9e0b-c129286498e4": {
       "company": "Lumentum",
@@ -9342,6 +9370,13 @@
       "title": "Full Stack Engineer",
       "url": "https://jobs.ashbyhq.com/joinpogo/5cb77d21-34bd-46ad-995f-62a7428b7061/application?embed=true"
     },
+    "simplify:pogo technologies, inc.::simplify-c63e3c05-9a47-401f-ae91-17cfc9ff81ff": {
+      "company": "Pogo Technologies, Inc.",
+      "first_seen": "2026-07-23T16:42:59+00:00",
+      "posted_at": "1784816600",
+      "title": "Full Stack Engineer",
+      "url": "https://jobs.ashbyhq.com/joinpogo/052dc86b-4f85-44a3-ac11-2dbd9ffebd0a/application?embed=true"
+    },
     "simplify:pointone::simplify-80ed1f87-b2ee-49df-bc46-c9a78897a5ad": {
       "company": "PointOne",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -9936,6 +9971,13 @@
       "posted_at": "1783433300",
       "title": "Leadership Development Program - Engineering - Software",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Software--Starts-June-2027-_01853289-1"
+    },
+    "simplify:rtx::simplify-502a427d-2a14-4b25-8a0e-2b093361ed1a": {
+      "company": "RTX",
+      "first_seen": "2026-07-23T16:42:59+00:00",
+      "posted_at": "1784764800",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01861434"
     },
     "simplify:rtx::simplify-703cda76-22ba-4087-a142-4fe4289646b5": {
       "company": "RTX",
@@ -12849,6 +12891,13 @@
       "title": "Software Engineering Co-op",
       "url": "https://veralto.wd1.myworkdayjobs.com/hachjobs/job/Vancouver-British-Columbia-Canada/Aquatic-Informatics---Software-Engineering-Co-op_R10267344"
     },
+    "simplify:vercel::simplify-5367f94f-a612-439d-bcd3-7cfc8f6daf65": {
+      "company": "Vercel",
+      "first_seen": "2026-07-23T16:42:58+00:00",
+      "posted_at": "1783463654",
+      "title": "Software Engineer - CDN Content",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6105394004"
+    },
     "simplify:verkada::simplify-1b2a515c-420c-4739-90eb-0ca8c93613b4": {
       "company": "Verkada",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -13444,6 +13493,13 @@
       "title": "Software Development Engineer",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5177411007"
     },
+    "simplify:zurich insurance::simplify-ac56ab22-4e58-404f-bd27-334854dd766c": {
+      "company": "Zurich Insurance",
+      "first_seen": "2026-07-23T16:42:59+00:00",
+      "posted_at": "1784815795",
+      "title": "Software Engineer Associate",
+      "url": "https://www.careers.zurich.com/job/Bath-Associate-Software-Engineer-GB-E/1367510657/?ats=successfactors"
+    },
     "simplify:zurn elkay water solutions::simplify-14e1d321-87e3-43d7-86b2-7826d4163a57": {
       "company": "Zurn Elkay Water Solutions",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -13572,5 +13628,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-23T15:09:16+00:00"
+  "updated_at": "2026-07-23T16:42:59+00:00"
 }
