@@ -1,5 +1,5 @@
 {
-  "count": 1918,
+  "count": 1923,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1074,6 +1074,13 @@
       "posted_at": "1784678400",
       "title": "Android Project Specialist",
       "url": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Dallas-TX/Seasonal-Android-Project-Specialist_REQ_108774"
+    },
+    "simplify:3db labs::simplify-e21e6f0c-d60c-47df-aee9-20fc973d43ba": {
+      "company": "3dB Labs",
+      "first_seen": "2026-07-23T09:36:36+00:00",
+      "posted_at": "1784788074",
+      "title": "Labs",
+      "url": "https://3dblabs.applytojob.com/apply/cIQG0IKloM/Digital-Signal-Processing-DSP-Engineer"
     },
     "simplify:3redpartners::simplify-325ff49d-973e-4e00-97d6-7f909349da90": {
       "company": "3RedPartners",
@@ -5590,6 +5597,13 @@
       "title": "Associate Application Engineer",
       "url": "https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Associate-Application-Engineer_R26003212"
     },
+    "simplify:hello fresh::simplify-24f7e872-4855-4f4d-8aad-c73ffe276cbf": {
+      "company": "Hello Fresh",
+      "first_seen": "2026-07-23T09:36:36+00:00",
+      "posted_at": "1782857384",
+      "title": "Senior React Native Developer - Growth",
+      "url": "https://careers.hellofresh.com/global/en/job/7862406"
+    },
     "simplify:hermeus::simplify-66868ef6-4a70-4bef-bfc0-d2f96de2d203": {
       "company": "Hermeus",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -6681,6 +6695,13 @@
       "posted_at": "1771917435",
       "title": "Junior Full-Stack Engineer",
       "url": "https://jobs.smartrecruiters.com/Laxir1/743999834183955"
+    },
+    "simplify:layer financial technologies::simplify-57184400-c81e-4ede-b8a3-d47cfe8f2d1c": {
+      "company": "Layer Financial Technologies",
+      "first_seen": "2026-07-23T09:36:36+00:00",
+      "posted_at": "1783415505",
+      "title": "Frontend Engineer",
+      "url": "https://jobs.ashbyhq.com/layerfi/a34fcd0d-6d73-44e9-8821-5bcb9fc10474/application?embed=true"
     },
     "simplify:leidos::simplify-3308ac34-523a-4204-824a-4cbe54e395b0": {
       "company": "Leidos",
@@ -10770,6 +10791,20 @@
       "title": "Junior Software Engineer",
       "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/Junior-Software-Engineer_JR5922"
     },
+    "simplify:sunbird software inc.::simplify-5ffc89cf-42df-49a7-bd5c-59a9a9d50f7c": {
+      "company": "Sunbird Software Inc.",
+      "first_seen": "2026-07-23T09:36:36+00:00",
+      "posted_at": "1784788205",
+      "title": "Software Support Engineer",
+      "url": "https://sunbirdsoftwareinc.applytojob.com/apply/YEyTkwbnWT/Software-Support-Engineer"
+    },
+    "simplify:sunbird software inc.::simplify-6c2d559a-c15a-44a8-83ca-b2334187426b": {
+      "company": "Sunbird Software Inc.",
+      "first_seen": "2026-07-23T09:36:36+00:00",
+      "posted_at": "1784788202",
+      "title": "Sunbird Software Inc Product Support Engineer",
+      "url": "https://sunbirdsoftwareinc.applytojob.com/apply/wsB1TcU0Gf/Product-Support-Engineer"
+    },
     "simplify:super micro computer::simplify-58482676-348d-4ce8-83f5-39def79ad066": {
       "company": "Super Micro Computer",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -13369,5 +13404,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-23T07:13:32+00:00"
+  "updated_at": "2026-07-23T09:36:36+00:00"
 }
