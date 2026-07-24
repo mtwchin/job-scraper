@@ -1,5 +1,5 @@
 {
-  "count": 2000,
+  "count": 2002,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1816,6 +1816,13 @@
       "posted_at": "1783164293",
       "title": "Engineer 1",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Engineer-I_R-242685"
+    },
+    "simplify:amgen::simplify-e5a5d5ed-1322-4019-b65e-3a1961b62915": {
+      "company": "Amgen",
+      "first_seen": "2026-07-24T14:25:52+00:00",
+      "posted_at": "1783158147",
+      "title": "SAP Principal Architect - Transportation Management",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/SAP-Principal-Architect--Transportation-Management_R-244752"
     },
     "simplify:ampliwork, inc::simplify-8b2cbddc-da27-4fb2-b8db-666cf3beb9ca": {
       "company": "Ampliwork, Inc",
@@ -9377,6 +9384,13 @@
       "title": "Computer Science and Engineering Researcher",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Hussain--S_REQ_0000079781-2"
     },
+    "simplify:pennsylvania state university::simplify-e0f4ad95-621b-4469-be39-0a9855d90b63": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-07-24T14:25:52+00:00",
+      "posted_at": "1783167642",
+      "title": "Software Engineer",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Software-Engineer_REQ_0000077212-2"
+    },
     "simplify:pennsylvania state university::simplify-e3832dea-fb21-489b-b1cb-1dd91cd40a1e": {
       "company": "Pennsylvania State University",
       "first_seen": "2026-07-17T15:48:33+00:00",
@@ -13943,5 +13957,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-24T12:43:35+00:00"
+  "updated_at": "2026-07-24T14:25:52+00:00"
 }
