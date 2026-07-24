@@ -1,5 +1,5 @@
 {
-  "count": 2002,
+  "count": 2008,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -215,6 +215,13 @@
       "posted_at": "Posted Today",
       "title": "Associate, Software Engineer, New Grad Card Expansion",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320"
+    },
+    "capital one::Associate--Software-Engineer--New-Grad-Card-Expansion_R247335": {
+      "company": "Capital One",
+      "first_seen": "2026-07-24T15:52:31+00:00",
+      "posted_at": "Posted Today",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247335"
     },
     "cisco::Junior-C---Software-Engineer---Serbia---ETR_2016195": {
       "company": "Cisco",
@@ -5142,6 +5149,13 @@
       "title": "Application Developer 1 - Osf",
       "url": "https://bankatfirst.wd1.myworkdayjobs.com/ffb/job/IN---Indianapolis---Keystone-Crossing/Application-Developer-I--OSF_R9139"
     },
+    "simplify:firstenergy::simplify-125e89e8-a75c-41d0-81bc-174497ab9a4a": {
+      "company": "FirstEnergy",
+      "first_seen": "2026-07-24T15:52:31+00:00",
+      "posted_at": "1784902270",
+      "title": "Application Configuration Analyst - Work Management & GIS",
+      "url": "https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/FirstEnergyCareers/job/104807"
+    },
     "simplify:five rings capital::simplify-14baa8ae-f151-483f-b5e0-77ca5086d04e": {
       "company": "Five Rings Capital",
       "first_seen": "2026-07-15T00:13:06+00:00",
@@ -6556,6 +6570,13 @@
       "title": "Customer Support Analyst",
       "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Canada---Markham---Ontario/Customer-Solution-Analyst_R12522-2"
     },
+    "simplify:jones lang lasalle (jll)::simplify-ba0fbd69-5e56-4eb3-9233-5fdd64f5073f": {
+      "company": "Jones Lang LaSalle (JLL)",
+      "first_seen": "2026-07-24T15:52:31+00:00",
+      "posted_at": "1784851200",
+      "title": "General Maintenance Operative - Mobile Engineering Services",
+      "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Norfolk-GBR/Specialist--Mobile-Engineering-Services_REQ524271"
+    },
     "simplify:jp morgan chase::simplify-0ce368f3-691a-439c-98bc-3e4a3a32f91a": {
       "company": "JP Morgan Chase",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -7430,6 +7451,13 @@
       "posted_at": "1779228404",
       "title": "Software Development Co-op",
       "url": "https://careers.medpace.com/jobs/12766?lang=en-us&icims=1"
+    },
+    "simplify:medtronic::simplify-c21ea81c-9844-46be-9e30-5d382756f674": {
+      "company": "Medtronic",
+      "first_seen": "2026-07-24T15:52:31+00:00",
+      "posted_at": "1784851200",
+      "title": "Software Engineer 1 - AI-Driven Data Solutions",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435"
     },
     "simplify:melotech::simplify-0ee42cec-fd2b-4ffa-8687-8c302e90fbcf": {
       "company": "Melotech",
@@ -8796,6 +8824,13 @@
       "title": "Senior Configuration Analyst - Pathnet Blood Bank",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/337358"
     },
+    "simplify:oxford quantum circuits (oqc)::simplify-832938a4-3ffe-4b33-92a1-cb77b96ca582": {
+      "company": "Oxford Quantum Circuits (OQC)",
+      "first_seen": "2026-07-24T15:52:31+00:00",
+      "posted_at": "1784902619",
+      "title": "Associate Scientific Software Engineer",
+      "url": "https://apply.workable.com/oxford-quantum-circuits-8/j/FFA221764E/apply"
+    },
     "simplify:packz::simplify-a9432e02-af17-408c-bd3e-b6f7f958091d": {
       "company": "Packz",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -9628,6 +9663,13 @@
       "posted_at": "1784816600",
       "title": "Full Stack Engineer",
       "url": "https://jobs.ashbyhq.com/joinpogo/052dc86b-4f85-44a3-ac11-2dbd9ffebd0a/application?embed=true"
+    },
+    "simplify:pogo technologies, inc.::simplify-d8f80069-7e92-4a82-9b1f-b8aaa60b695c": {
+      "company": "Pogo Technologies, Inc.",
+      "first_seen": "2026-07-24T15:52:31+00:00",
+      "posted_at": "1784902911",
+      "title": "Full Stack Engineer",
+      "url": "https://jobs.ashbyhq.com/joinpogo/570c8f47-ee6f-4c54-9858-33d9f2233fb6/application?embed=true"
     },
     "simplify:pointone::simplify-80ed1f87-b2ee-49df-bc46-c9a78897a5ad": {
       "company": "PointOne",
@@ -13957,5 +13999,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-24T14:25:52+00:00"
+  "updated_at": "2026-07-24T15:52:31+00:00"
 }
