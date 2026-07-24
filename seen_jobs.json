@@ -1,5 +1,5 @@
 {
-  "count": 1996,
+  "count": 2000,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -969,6 +969,13 @@
       "posted_at": "Posted Yesterday",
       "title": "Junior or Software Engineer - Virtualization Cloud Team (Brno Office, Czech Republic)",
       "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Brno---Tech-Park-Brno---C/Junior-or-Software-Engineer---Virtualization-Cloud-Team--Brno-Office--Czech-Republic-_R-056273-1"
+    },
+    "red hat::Software-Engineering-Intern_R-058560": {
+      "company": "Red Hat",
+      "first_seen": "2026-07-24T12:43:34+00:00",
+      "posted_at": "Posted Today",
+      "title": "Software Engineering Intern",
+      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560"
     },
     "replit::12737078-74c7-4e63-98a7-5e8da1e9deb1": {
       "company": "Replit",
@@ -9384,6 +9391,13 @@
       "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Part-Time-Researcher-in-Explainable-Privacy-Preserving-Cryptographic-Systems-w--Dr-Sharma_REQ_0000077335-1"
     },
+    "simplify:pennsylvania state university::simplify-f5128a8e-8b27-4d14-823e-e3291bca22f2": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-07-24T12:43:35+00:00",
+      "posted_at": "1784678400",
+      "title": "Systems Administrator - Linux/Cloud",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/Systems-Administrator--Linux-Cloud-_REQ_0000079324-2"
+    },
     "simplify:people culture talent::simplify-22a341c0-1428-4064-a7c3-2c01961fcee3": {
       "company": "People Culture Talent",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10188,6 +10202,13 @@
       "posted_at": "1776377502",
       "title": "Junior Software Engineer",
       "url": "https://apply.workable.com/rokt/j/783A754DDB/apply"
+    },
+    "simplify:royal bank of canada::simplify-5c3cff64-adff-4063-92f2-242e9159bb57": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-07-24T12:43:35+00:00",
+      "posted_at": "1783376338",
+      "title": "Associate Director Senior Software Engineer - .Net C#",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/90-WESTERN-PKYBEDFORD/Associate-Director--Senior-Full-Stack-Python-C---Developer_R-0000161475-1"
     },
     "simplify:rtx::simplify-0d467785-7605-490e-8478-cd894e0ef1f1": {
       "company": "RTX",
@@ -11189,6 +11210,13 @@
       "posted_at": "1783462029",
       "title": "Software Engineer 1 - Core Compute Platform",
       "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4921819101"
+    },
+    "simplify:studycast::simplify-9f5d48f6-bd0d-4055-94d9-a60792839957": {
+      "company": "Studycast",
+      "first_seen": "2026-07-24T12:43:35+00:00",
+      "posted_at": "1784596609",
+      "title": "Automation Engineer",
+      "url": "https://ats.rippling.com/core-sound-imaging/jobs/f56c3bcb-4f11-4f4f-98bb-ce2560297c05"
     },
     "simplify:stv::simplify-1010548a-bf89-4255-b286-bac1944e2f44": {
       "company": "STV",
@@ -13915,5 +13943,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-24T11:09:47+00:00"
+  "updated_at": "2026-07-24T12:43:35+00:00"
 }
