@@ -1,5 +1,5 @@
 {
-  "count": 1979,
+  "count": 1988,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1810,6 +1810,13 @@
       "title": "Full-Stack Developer",
       "url": "https://ats.rippling.com/ampliwork-inc/jobs/df7e9bf9-b88b-4f5b-9ac7-51e85664fe0e"
     },
+    "simplify:ando::simplify-f5021ba3-ab40-4f41-8ba1-9bb148f6533d": {
+      "company": "Ando",
+      "first_seen": "2026-07-24T01:00:21+00:00",
+      "posted_at": "1784845484",
+      "title": "Mobile Engineer",
+      "url": "https://jobs.ashbyhq.com/ando/3b23fc33-9e45-4213-959b-d313e418e6d0/application?embed=true"
+    },
     "simplify:anduril::simplify-275e9160-4185-4092-a492-236d2818469a": {
       "company": "Anduril",
       "first_seen": "2026-07-09T00:00:01+00:00",
@@ -1879,6 +1886,20 @@
       "posted_at": "1784846149",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/appian/jobs/8041237"
+    },
+    "simplify:appian::simplify-58649bd4-c621-49ec-9ed6-236a6d8882ad": {
+      "company": "Appian",
+      "first_seen": "2026-07-24T01:00:21+00:00",
+      "posted_at": "1784846094",
+      "title": "Associate Application Engineer",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8035372"
+    },
+    "simplify:appian::simplify-61c0c8df-1076-44d6-987e-3b5e536c6e12": {
+      "company": "Appian",
+      "first_seen": "2026-07-24T01:00:21+00:00",
+      "posted_at": "1784846147",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8041241"
     },
     "simplify:appian::simplify-d19704d8-7b6b-440d-a51f-42454b440db4": {
       "company": "Appian",
@@ -3315,6 +3336,13 @@
       "title": "MineStar Application Specialist",
       "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Home-in-Ontario/Mining-Application-Specialist---Early-Career_R0000384426"
     },
+    "simplify:caterpillar inc.::simplify-c5296342-1505-4fcc-b322-901fd4c3e978": {
+      "company": "Caterpillar Inc.",
+      "first_seen": "2026-07-24T01:00:21+00:00",
+      "posted_at": "1784764800",
+      "title": "Minestar Application Specialist",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Home-in-Ontario/MineStar-Application-Specialist_R0000368919"
+    },
     "simplify:cencora::simplify-dcbeb1d6-2bca-4251-af9e-4bcd4074fc46": {
       "company": "Cencora",
       "first_seen": "2026-07-17T11:45:01+00:00",
@@ -3364,6 +3392,13 @@
       "title": "Software Engineer - Tools & Infrastructure / DevOps",
       "url": "https://jobs.ashbyhq.com/cerebras/c0d8fa46-fd9e-49b5-80c9-040bbd0da916/application?embed=true"
     },
+    "simplify:cerebras::simplify-be8f4bc8-3744-45dd-96b4-35a6d931e52a": {
+      "company": "Cerebras",
+      "first_seen": "2026-07-24T01:00:21+00:00",
+      "posted_at": "1784845009",
+      "title": "ML Software Engineer New Grad - Integration & Quality",
+      "url": "https://jobs.ashbyhq.com/cerebras/05fd05ea-b515-4c26-851e-b3882dfba154/application?embed=true"
+    },
     "simplify:cerebras::simplify-c0479012-54e4-478d-922f-1948cd356ac4": {
       "company": "Cerebras",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -3377,6 +3412,13 @@
       "posted_at": "1784816239",
       "title": "Software Engineer - Cluster Deployment",
       "url": "https://jobs.ashbyhq.com/cerebras/63b9c135-ce5d-4898-8e4d-9422d39e4ca6/application?embed=true"
+    },
+    "simplify:cerebras::simplify-fabf124a-32b2-45ba-bffe-d3084937296a": {
+      "company": "Cerebras",
+      "first_seen": "2026-07-24T01:00:21+00:00",
+      "posted_at": "1784845011",
+      "title": "Kernel Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application?embed=true"
     },
     "simplify:cerence::simplify-ffb41745-2e42-4e1e-a0bc-f617a050a263": {
       "company": "Cerence",
@@ -3825,6 +3867,13 @@
       "posted_at": "1784210748",
       "title": "Entry-Level Software Engineer - AI/ML",
       "url": "https://job-boards.greenhouse.io/commvault/jobs/5233620008"
+    },
+    "simplify:compass::simplify-da048e8f-6ba6-43fd-8dc9-7c5a1adf494a": {
+      "company": "Compass",
+      "first_seen": "2026-07-24T01:00:21+00:00",
+      "posted_at": "1784845722",
+      "title": "Software Engineer - Mobile - iOS",
+      "url": "https://www.compass.com/careers?gh_jid=8081848"
     },
     "simplify:compassion international::simplify-452bd6d1-0b35-4f40-aa51-c0ae49420249": {
       "company": "Compassion International",
@@ -7612,6 +7661,13 @@
       "posted_at": "1784596648",
       "title": "Software Engineer Intern - Backend & API",
       "url": "https://ats.rippling.com/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b"
+    },
+    "simplify:morgan stanley::simplify-62878ecb-5fb2-4394-b0c3-c215cfb06308": {
+      "company": "Morgan Stanley",
+      "first_seen": "2026-07-24T01:00:20+00:00",
+      "posted_at": "1784764800",
+      "title": "Consultant Conversion Software Engineer 3 - Associate",
+      "url": "https://ms.wd5.myworkdayjobs.com/private/job/Montreal-Canada/Consultant-Conversion-Software-Eng-III---Job-Level---Associate_PT-JR040750"
     },
     "simplify:morris health technologies inc.::simplify-87686f55-6312-4dc1-a69b-1b70710add27": {
       "company": "Morris Health Technologies Inc.",
@@ -13612,6 +13668,13 @@
       "title": "Software Engineer - Core team",
       "url": "https://ats.rippling.com/zededa/jobs/f289c83c-1afd-47fd-bd2a-f57fdba3fd4e"
     },
+    "simplify:zello::simplify-22fac0ef-83eb-431d-923e-def7b3640c11": {
+      "company": "Zello",
+      "first_seen": "2026-07-24T01:00:21+00:00",
+      "posted_at": "1784845453",
+      "title": "Software Engineer 1 - AI Generalist",
+      "url": "https://jobs.ashbyhq.com/Zello/66de7a50-17cb-42aa-87eb-cd40c637338e/application?embed=true"
+    },
     "simplify:zello::simplify-a695ca02-4e18-475f-a605-839901e002c6": {
       "company": "Zello",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -13796,5 +13859,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-23T23:33:02+00:00"
+  "updated_at": "2026-07-24T01:00:21+00:00"
 }
