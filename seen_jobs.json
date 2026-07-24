@@ -1,5 +1,5 @@
 {
-  "count": 1992,
+  "count": 1996,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1284,6 +1284,13 @@
       "posted_at": "1782857335",
       "title": "Software Engineer 1",
       "url": "https://adtran.wd3.myworkdayjobs.com/adtran/job/Atlanta-GA/Software-Engineer-I_R005699"
+    },
+    "simplify:adventist health::simplify-599526f9-fdb6-4d08-b061-57f3933545e8": {
+      "company": "Adventist Health",
+      "first_seen": "2026-07-24T11:09:47+00:00",
+      "posted_at": "1783721185",
+      "title": "Epic Certified EHR Systems Analyst 1 - Multiple Teams",
+      "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/68616"
     },
     "simplify:adventist health::simplify-ff2bba2e-723d-46cb-88df-b5fcf1050049": {
       "company": "Adventist Health",
@@ -3741,6 +3748,13 @@
       "posted_at": "1781639242",
       "title": "Software Developer Co-op",
       "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577"
+    },
+    "simplify:closinglock::simplify-5f0c7466-a88a-459b-8ab1-4419d5fa2750": {
+      "company": "Closinglock",
+      "first_seen": "2026-07-24T11:09:47+00:00",
+      "posted_at": "1780898875",
+      "title": "Software Engineer",
+      "url": "https://ats.rippling.com/closinglock/jobs/00263a48-3158-443d-bbdc-7bf1249a57a7"
     },
     "simplify:cloudfit software::simplify-52bbfd3d-d9c3-4963-9367-97c721bcced4": {
       "company": "CloudFit Software",
@@ -8096,6 +8110,13 @@
       "title": "Engineer or Principal Engineer Systems",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-or-Principal-Engineer-Systems_R10235799"
     },
+    "simplify:northrop grumman::simplify-4db085c5-fa06-4b71-9641-e578b6896eaa": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-24T11:09:47+00:00",
+      "posted_at": "1783030633",
+      "title": "Algorithms Software Engineer - Level 2",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Algorithms-Software-Engineer---Level-2_R10238820-1"
+    },
     "simplify:northrop grumman::simplify-5015afe2-a54d-4d15-b986-71f8e2995b83": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-15T00:13:08+00:00",
@@ -9586,6 +9607,13 @@
       "posted_at": "1782770925",
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/PointOne/1e312db8-6d18-4d07-af99-ed3ba165e7d9/application"
+    },
+    "simplify:polyai::simplify-9b0f6ef9-ad8a-4800-8e96-110f4283c6f8": {
+      "company": "PolyAI",
+      "first_seen": "2026-07-24T11:09:47+00:00",
+      "posted_at": "1780409853",
+      "title": "Forward Deployed AI Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/polyai/jobs/4880510101"
     },
     "simplify:polymarket::simplify-a422035a-8c4c-4612-9ef6-e5f88dbae73a": {
       "company": "Polymarket",
@@ -13887,5 +13915,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-24T06:42:05+00:00"
+  "updated_at": "2026-07-24T11:09:47+00:00"
 }
