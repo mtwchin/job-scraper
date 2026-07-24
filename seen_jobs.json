@@ -1,5 +1,5 @@
 {
-  "count": 2008,
+  "count": 2010,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -935,6 +935,20 @@
       "first_seen": "2026-06-28T23:35:42+00:00",
       "title": "Forward Deployed Software Engineer, New Grad - Intel, US Government",
       "url": "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382"
+    },
+    "pdt partners::8077685": {
+      "company": "PDT Partners",
+      "first_seen": "2026-07-24T21:16:41+00:00",
+      "posted_at": "2026-07-24T16:16:09-04:00",
+      "title": "Summer 2027 Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685"
+    },
+    "pdt partners::8083292": {
+      "company": "PDT Partners",
+      "first_seen": "2026-07-24T21:16:41+00:00",
+      "posted_at": "2026-07-24T16:21:44-04:00",
+      "title": "Summer 2027 Systems Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292"
     },
     "pinterest::6816337": {
       "company": "Pinterest",
@@ -13999,5 +14013,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-24T15:52:31+00:00"
+  "updated_at": "2026-07-24T21:16:41+00:00"
 }
