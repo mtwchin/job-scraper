@@ -1,5 +1,5 @@
 {
-  "count": 1988,
+  "count": 1991,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -2719,6 +2719,13 @@
       "posted_at": "1782338834",
       "title": "Support Engineer - Mainframe",
       "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-IL-Lisle-Warrenville-Road/Support-Engineer---Mainframe_R026327"
+    },
+    "simplify:broadridge::simplify-6e46ee35-62d6-45c2-a8e5-1056b7d01e45": {
+      "company": "Broadridge",
+      "first_seen": "2026-07-24T04:18:24+00:00",
+      "posted_at": "1784764800",
+      "title": "Software Engineer",
+      "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Denver-CO/Software-Engineer-_JR1084518"
     },
     "simplify:brunswick::simplify-a2b670ca-0966-45f7-9a77-1365adca98b8": {
       "company": "Brunswick",
@@ -6891,6 +6898,13 @@
       "posted_at": "1784671470",
       "title": "Senior Systems Engineer - Systems Engineer",
       "url": "https://jobs.l3harris.com/job/Clifton-Sr-Associate,-Systems-Engineer-NJ-07014/1411014700/?ats=successfactors"
+    },
+    "simplify:l3harris technologies::simplify-bdecc16e-8605-4d50-933d-efd4212bd848": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-07-24T04:18:24+00:00",
+      "posted_at": "1784855070",
+      "title": "Senior Software Engineer - Software Engineer",
+      "url": "https://jobs.l3harris.com/job/Herndon-Senior-Associate,-Software-Engineer-VA-20171/1412220600/?ats=successfactors"
     },
     "simplify:laserfiche::simplify-3937a504-382b-4061-a6ac-e27d6b2f4540": {
       "company": "Laserfiche",
@@ -12632,6 +12646,13 @@
       "title": "Software Engineer 1",
       "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2567-1"
     },
+    "simplify:twitch::simplify-150760be-94ba-4811-8967-65c696778efc": {
+      "company": "Twitch",
+      "first_seen": "2026-07-24T04:18:24+00:00",
+      "posted_at": "1777501083",
+      "title": "Software Development Engineer - Discovery",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8527544002"
+    },
     "simplify:twitch::simplify-39fea75e-0741-4f91-b9ff-0233de1242b2": {
       "company": "Twitch",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -13859,5 +13880,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-24T01:00:21+00:00"
+  "updated_at": "2026-07-24T04:18:24+00:00"
 }
