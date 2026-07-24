@@ -1,5 +1,5 @@
 {
-  "count": 1991,
+  "count": 1992,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -9678,6 +9678,13 @@
       "title": "AI Engineer 1",
       "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Suwanee-GA/AI-Engineer-I_R2026-1543"
     },
+    "simplify:quadrillion::simplify-53663e4c-42be-4d2a-ba0f-ac7a0d65da22": {
+      "company": "Quadrillion",
+      "first_seen": "2026-07-24T06:42:05+00:00",
+      "posted_at": "1784874073",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05/application?embed=true"
+    },
     "simplify:quadrillion::simplify-5ea98056-c56b-4b75-bc44-d64a3c6c73a3": {
       "company": "Quadrillion",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -13880,5 +13887,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-24T04:18:24+00:00"
+  "updated_at": "2026-07-24T06:42:05+00:00"
 }
