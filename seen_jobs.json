@@ -1,5 +1,5 @@
 {
-  "count": 2010,
+  "count": 2013,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -671,6 +671,13 @@
       "title": "Forward Deployed Software Engineer, Internship - US Government",
       "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e"
     },
+    "palantir::33243fb5-6907-40c7-930c-968b25d825d0": {
+      "company": "Palantir",
+      "first_seen": "2026-07-24T22:29:19+00:00",
+      "posted_at": "1761769577197",
+      "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+      "url": "https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0"
+    },
     "palantir::373367a9-3160-49d8-b7af-2efec062fad1": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -733,6 +740,13 @@
       "title": "Software Engineer, New Grad - Production Infrastructure",
       "url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af"
     },
+    "palantir::5a28f3a5-8655-47f2-ab19-a79b8a319da8": {
+      "company": "Palantir",
+      "first_seen": "2026-07-24T22:29:19+00:00",
+      "posted_at": "1761769632326",
+      "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+      "url": "https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8"
+    },
     "palantir::5c4c65c5-77da-4d36-856c-4ade87631019": {
       "company": "Palantir",
       "first_seen": "2026-06-28T23:35:42+00:00",
@@ -784,6 +798,13 @@
       "posted_at": "1783723393762",
       "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
       "url": "https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69"
+    },
+    "palantir::91117724-9389-48dc-912f-98e48d4d45d8": {
+      "company": "Palantir",
+      "first_seen": "2026-07-24T22:29:19+00:00",
+      "posted_at": "1761762442352",
+      "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+      "url": "https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8"
     },
     "palantir::94984771-0704-446c-88c6-91ce748f6d92": {
       "company": "Palantir",
@@ -14013,5 +14034,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-24T21:16:41+00:00"
+  "updated_at": "2026-07-24T22:29:19+00:00"
 }
