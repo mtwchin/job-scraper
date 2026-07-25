@@ -1,5 +1,5 @@
 {
-  "count": 2057,
+  "count": 2058,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -2691,6 +2691,13 @@
       "posted_at": "1782349812",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895/application"
+    },
+    "simplify:black cape::simplify-d57b14ea-69f3-486f-abba-3677ea919fc6": {
+      "company": "Black Cape",
+      "first_seen": "2026-07-25T11:32:22+00:00",
+      "posted_at": "1784787158",
+      "title": "Junior Full Stack Software Engineer",
+      "url": "https://blackcape.applytojob.com/apply/Hxw7V35F52/Full-Stack-Software-Engineer"
     },
     "simplify:blackhawk network holdings::simplify-7a71ece6-7f17-47ea-a182-140670868d14": {
       "company": "Blackhawk Network Holdings",
@@ -14342,5 +14349,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-25T10:11:31+00:00"
+  "updated_at": "2026-07-25T11:32:22+00:00"
 }
