@@ -1,5 +1,5 @@
 {
-  "count": 2051,
+  "count": 2053,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -2782,6 +2782,13 @@
       "posted_at": "1784758126",
       "title": "Software Engineer - Platform & Application",
       "url": "https://jobs.lever.co/bosonai/2b520a0f-556a-4dc2-a5a7-d8845a921335/apply"
+    },
+    "simplify:bot auto::simplify-085d792a-4c79-4104-946c-89da75b559db": {
+      "company": "Bot Auto",
+      "first_seen": "2026-07-25T08:33:07+00:00",
+      "posted_at": "1784960306",
+      "title": "Software Engineer - Generalist in Autonomous Driving System",
+      "url": "https://job-boards.greenhouse.io/botauto/jobs/5370717008"
     },
     "simplify:bot auto::simplify-1619e24c-542d-4737-9c8d-d2da19828cee": {
       "company": "Bot Auto",
@@ -12471,6 +12478,13 @@
       "title": "AI Engineer 1 - Platform Integration & AI/Data",
       "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5285585008"
     },
+    "simplify:the redesign group::simplify-0012aa78-86b4-4df6-adf6-b46844f4ad9f": {
+      "company": "The Redesign Group",
+      "first_seen": "2026-07-25T08:33:07+00:00",
+      "posted_at": "1784596290",
+      "title": "Infrastructure Implementation Engineer",
+      "url": "https://ats.rippling.com/redesigncareers/jobs/cf4c6c27-b2c3-4803-ab86-62b4118904aa"
+    },
     "simplify:the trade desk::simplify-1cb48f29-b8a3-47e1-98f2-1a2b893d0027": {
       "company": "The Trade Desk",
       "first_seen": "2026-07-15T23:37:55+00:00",
@@ -14300,5 +14314,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-25T04:20:05+00:00"
+  "updated_at": "2026-07-25T08:33:07+00:00"
 }
