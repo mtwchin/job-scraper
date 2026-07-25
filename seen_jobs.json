@@ -1,5 +1,5 @@
 {
-  "count": 2053,
+  "count": 2057,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -4063,6 +4063,13 @@
       "posted_at": "1782943792",
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/confido/69c0e572-b2f4-442f-beb8-1240155c629e/application"
+    },
+    "simplify:confluence technologies::simplify-6694cd0e-74db-438a-bc09-b57fed2cb371": {
+      "company": "Confluence Technologies",
+      "first_seen": "2026-07-25T10:11:31+00:00",
+      "posted_at": "1783721450",
+      "title": "Software Engineer - .NET & AI",
+      "url": "https://confluence.pinpointhq.com/en/postings/49d5aa65-dc1b-4254-ae94-f645e7488aa1?ats=pinpointhq"
     },
     "simplify:consultadd public services::simplify-0feed693-981e-4e08-8b5c-c552dde2d841": {
       "company": "Consultadd Public Services",
@@ -10392,6 +10399,13 @@
       "title": "Therapist \u2013 Partial Hospitalization / Intensive Outpatient",
       "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Kenosha-Clinic-Kenosha-WI/Therapist---PHP-IOP_R7948"
     },
+    "simplify:rogers behavioral health::simplify-30043d75-d70a-4808-a69c-7c71162b791b": {
+      "company": "Rogers Behavioral Health",
+      "first_seen": "2026-07-25T10:11:31+00:00",
+      "posted_at": "1770766948",
+      "title": "Therapist - PHP/Iop",
+      "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Lincoln-Center-Clinic-West-Allis-WI/Therapist---PHP-IOP_R6263"
+    },
     "simplify:rogers behavioral health::simplify-5c0748e1-a7ed-4bae-9ce1-edbea903c615": {
       "company": "Rogers Behavioral Health",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -13122,6 +13136,13 @@
       "title": "Banco de Talentos J\u00f3venes Intern",
       "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Bogota-DC-Colombia/Banco-de-Talentos-Jvenes---UIS-Colombia_REQ563731"
     },
+    "simplify:united airlines::simplify-6131fc0a-92b8-493d-9444-82f1e8b4a4db": {
+      "company": "United Airlines",
+      "first_seen": "2026-07-25T10:11:31+00:00",
+      "posted_at": "1784841706",
+      "title": "Developer \u2013 IT - Front End Developer",
+      "url": "https://careers.united.com/us/en/job/HSC00001085"
+    },
     "simplify:united launch alliance::simplify-4b522d5e-1655-476c-ba76-1ada826022c7": {
       "company": "United Launch Alliance",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -13632,6 +13653,13 @@
       "posted_at": "1777932683",
       "title": "Software Engineer - Desktop Frontend Developer - C#/Winforms",
       "url": "https://job-boards.greenhouse.io/virtu/jobs/8516902002"
+    },
+    "simplify:visa::simplify-1997626d-c3df-42dc-9710-0ea1e9fc21b4": {
+      "company": "Visa",
+      "first_seen": "2026-07-25T10:11:31+00:00",
+      "posted_at": "1784851200",
+      "title": "Software Engineer",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer_REF081843W-1"
     },
     "simplify:visa::simplify-3bd0ee22-015a-46b2-bd09-a7d1297b6963": {
       "company": "Visa",
@@ -14314,5 +14342,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-25T08:33:07+00:00"
+  "updated_at": "2026-07-25T10:11:31+00:00"
 }
