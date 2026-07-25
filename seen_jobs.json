@@ -1,5 +1,5 @@
 {
-  "count": 2058,
+  "count": 2062,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -3791,6 +3791,13 @@
       "title": "Junior Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007"
     },
+    "simplify:clasp::simplify-ef4fedf7-9b97-458e-b742-f5be11a6b2ff": {
+      "company": "Clasp",
+      "first_seen": "2026-07-25T14:12:51+00:00",
+      "posted_at": "1782482847",
+      "title": "Fullstack Software Engineer - Clasp Talent",
+      "url": "https://jobs.ashbyhq.com/clasp-group/2bcb2aa7-b4c5-4b64-ad4a-599be47f7326/application?embed=true"
+    },
     "simplify:clear::simplify-f5da9e60-f1f5-407b-baaa-28a9a5ceb024": {
       "company": "CLEAR",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -4252,6 +4259,13 @@
       "posted_at": "1780956633",
       "title": "Software Engineer Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393"
+    },
+    "simplify:coreweave::simplify-f51da956-7968-41bf-9b6a-860c33aeb7aa": {
+      "company": "CoreWeave",
+      "first_seen": "2026-07-25T14:12:51+00:00",
+      "posted_at": "1781639342",
+      "title": "GPU Performance Engineer",
+      "url": "https://coreweave.com/careers/job?4689223006&board=coreweave&gh_jid=4689223006"
     },
     "simplify:cornell university::simplify-f71cadfe-dc6d-4908-ab16-8a9bb933bb52": {
       "company": "Cornell University",
@@ -7039,6 +7053,13 @@
       "title": "Software Engineer 2",
       "url": "https://job-boards.greenhouse.io/klaviyojobs/jobs/7764229003"
     },
+    "simplify:kobo::simplify-4b6839e2-e49a-4a07-8df2-fae7b6226e2b": {
+      "company": "Kobo",
+      "first_seen": "2026-07-25T14:12:51+00:00",
+      "posted_at": "1784073600",
+      "title": "Software Engineer Co-op",
+      "url": "https://rakuten.wd1.myworkdayjobs.com/Kobo/job/Toronto-Canada/Software-Quality-Assurance-Engineer-Co-op_1035873"
+    },
     "simplify:kos.ai::simplify-b8c23e53-79db-45ab-a105-78a3d344b881": {
       "company": "kos.ai",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -9628,6 +9649,13 @@
       "posted_at": "1782956008",
       "title": "Computer Science and Engineering Researcher",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Hussain--S_REQ_0000079781-2"
+    },
+    "simplify:pennsylvania state university::simplify-cff6c5a6-5c4a-4f30-bb48-4543328cc059": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-07-25T14:12:51+00:00",
+      "posted_at": "1784678400",
+      "title": "Research Engineering Intern",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1"
     },
     "simplify:pennsylvania state university::simplify-e0f4ad95-621b-4469-be39-0a9855d90b63": {
       "company": "Pennsylvania State University",
@@ -14349,5 +14377,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-25T11:32:22+00:00"
+  "updated_at": "2026-07-25T14:12:51+00:00"
 }
