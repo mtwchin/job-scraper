@@ -1,5 +1,5 @@
 {
-  "count": 2069,
+  "count": 2070,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -5190,6 +5190,13 @@
       "posted_at": "1784596375",
       "title": "Rust Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/fab2/009d0819-c688-4ab9-8816-a3c7ab002470/application?embed=true"
+    },
+    "simplify:face reality::simplify-ed55e27a-2573-4a50-9932-9ba94b96ac11": {
+      "company": "Face Reality",
+      "first_seen": "2026-07-26T11:48:26+00:00",
+      "posted_at": "1784596291",
+      "title": "Website Operations Manager",
+      "url": "https://ats.rippling.com/facereality/jobs/ec958859-0aed-4aef-82ba-c07962ef36b0"
     },
     "simplify:fanatics::simplify-b8ae5631-fcba-47bf-a0d0-e14c18d4a882": {
       "company": "Fanatics",
@@ -14426,5 +14433,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-26T10:44:48+00:00"
+  "updated_at": "2026-07-26T11:48:26+00:00"
 }
