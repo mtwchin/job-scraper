@@ -1,5 +1,5 @@
 {
-  "count": 2072,
+  "count": 2074,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -10245,6 +10245,20 @@
       "title": "Android Developer Intern",
       "url": "https://jobs.lever.co/reply/0fb458db-7cb9-4bfd-b9b6-c1c681316061/apply"
     },
+    "simplify:retell ai::simplify-15516d2c-266f-4437-aa09-f737ed54939c": {
+      "company": "Retell AI",
+      "first_seen": "2026-07-26T23:35:59+00:00",
+      "posted_at": "1785104495",
+      "title": "Internal Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/retell-ai/2e3f3930-0949-4b86-8ed1-7f5d9e068c87/application?embed=true"
+    },
+    "simplify:retell ai::simplify-2b6ae9a3-338f-478c-8bb1-24ae92d0c4cf": {
+      "company": "Retell AI",
+      "first_seen": "2026-07-26T23:35:59+00:00",
+      "posted_at": "1785104495",
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/retell-ai/538ecfa9-2315-42a6-89cc-3cae52165526/application?embed=true"
+    },
     "simplify:revel::simplify-befb95ee-468b-47b8-9575-5fcbc777da7a": {
       "company": "Revel",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -14447,5 +14461,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-26T15:32:38+00:00"
+  "updated_at": "2026-07-26T23:35:59+00:00"
 }
