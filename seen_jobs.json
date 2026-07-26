@@ -1,5 +1,5 @@
 {
-  "count": 2063,
+  "count": 2065,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -6289,6 +6289,13 @@
       "posted_at": "1784009157",
       "title": "Software Engineer 1",
       "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1408046100/?ats=successfactors"
+    },
+    "simplify:huntington ingalls industries::simplify-b916f41f-f7eb-4b6f-8f44-0548ef19671b": {
+      "company": "Huntington Ingalls Industries",
+      "first_seen": "2026-07-26T08:58:52+00:00",
+      "posted_at": "1785046231",
+      "title": "Software Engineer 1",
+      "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1412050700/?ats=successfactors"
     },
     "simplify:huntington ingalls industries::simplify-c5365d64-d498-41ed-a9f3-e71bb00a3fbd": {
       "company": "Huntington Ingalls Industries",
@@ -13486,6 +13493,13 @@
       "title": "Fullstack Software Developer - AI-enabled",
       "url": "https://apply.workable.com/valsoft-corp/j/E96D7950A5/apply"
     },
+    "simplify:vanderbilt health::simplify-654f8583-841f-42d1-9ffa-4687d0d8bcd1": {
+      "company": "Vanderbilt Health",
+      "first_seen": "2026-07-26T08:58:52+00:00",
+      "posted_at": "1785024000",
+      "title": "C# / Angular Associate Application Developer",
+      "url": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/C----Angular-Associate-Application-Developer--Local---Hybrid-_R-63031-1"
+    },
     "simplify:vanguard::simplify-75aa7777-17b6-4d18-aee4-1c1eec8392e7": {
       "company": "Vanguard",
       "first_seen": "2026-07-25T04:20:05+00:00",
@@ -14384,5 +14398,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-26T03:56:28+00:00"
+  "updated_at": "2026-07-26T08:58:52+00:00"
 }
