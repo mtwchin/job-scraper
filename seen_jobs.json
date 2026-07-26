@@ -1,5 +1,5 @@
 {
-  "count": 2065,
+  "count": 2069,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -7186,6 +7186,13 @@
       "title": "Software Development Co-op",
       "url": "https://job-boards.greenhouse.io/later/jobs/8621762002"
     },
+    "simplify:later::simplify-ad5c3ca9-6619-499f-a5c9-e1776db1c6d8": {
+      "company": "Later",
+      "first_seen": "2026-07-26T10:44:48+00:00",
+      "posted_at": "1784758137",
+      "title": "Software Development Co-op - Later Influence",
+      "url": "https://job-boards.greenhouse.io/later/jobs/8643138002"
+    },
     "simplify:later::simplify-eda1aead-c8ff-4d2b-84d5-5e921bdfc622": {
       "company": "Later",
       "first_seen": "2026-07-22T22:53:16+00:00",
@@ -7213,6 +7220,13 @@
       "posted_at": "1783415505",
       "title": "Frontend Engineer",
       "url": "https://jobs.ashbyhq.com/layerfi/a34fcd0d-6d73-44e9-8821-5bcb9fc10474/application?embed=true"
+    },
+    "simplify:leidos::simplify-1d4ccaec-ea2e-4ca6-8715-9278732e08b4": {
+      "company": "Leidos",
+      "first_seen": "2026-07-26T10:44:48+00:00",
+      "posted_at": "1782956496",
+      "title": "Software Developer",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Eagan-MN/Software-Developer_R-00185862-1"
     },
     "simplify:leidos::simplify-3308ac34-523a-4204-824a-4cbe54e395b0": {
       "company": "Leidos",
@@ -7732,6 +7746,13 @@
       "title": "Application Developer Level 1 - iOS",
       "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/ocUhzfwG?nl=1&nl=1&fr=false"
     },
+    "simplify:metropolitan transportation authority::simplify-4c0dab45-55ba-43b4-a4c3-9f1bd32957ed": {
+      "company": "Metropolitan Transportation Authority",
+      "first_seen": "2026-07-26T10:44:48+00:00",
+      "posted_at": "1772676547",
+      "title": "Application Developer 1 - PeopleSoft",
+      "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oVkxxfw3?nl=1&nl=1&fr=false"
+    },
     "simplify:metropolitan transportation authority::simplify-7bd6d4b2-7f58-44d8-b17b-c9825db464b0": {
       "company": "Metropolitan Transportation Authority",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -8242,6 +8263,13 @@
       "posted_at": "1777932251",
       "title": "Incubation Developer Coop/Intern",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34227"
+    },
+    "simplify:north cloud::simplify-29f7ea93-41b1-408b-a3e0-8b6945e95e3e": {
+      "company": "North Cloud",
+      "first_seen": "2026-07-26T10:44:48+00:00",
+      "posted_at": "1784596630",
+      "title": "AI Automation Intern",
+      "url": "https://ats.rippling.com/north-cloud/jobs/9d9d6db9-2da0-45e2-a3d3-6373c61763a4"
     },
     "simplify:north star staffing solutions::simplify-4e472c61-4cc0-44ba-b561-5d8a90ba46a5": {
       "company": "North Star Staffing Solutions",
@@ -14398,5 +14426,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-26T08:58:52+00:00"
+  "updated_at": "2026-07-26T10:44:48+00:00"
 }
