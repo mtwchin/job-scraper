@@ -1,5 +1,5 @@
 {
-  "count": 2070,
+  "count": 2072,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -11211,12 +11211,26 @@
       "title": "Associate Technical Director - Assistant Technical Director",
       "url": "https://job-boards.greenhouse.io/sonypicturesimageworks/jobs/7120254003"
     },
+    "simplify:sony::simplify-4d3d6b39-6054-4635-bd98-91a166dbe9b8": {
+      "company": "Sony",
+      "first_seen": "2026-07-26T15:32:38+00:00",
+      "posted_at": "1785024000",
+      "title": "Associate Software Engineer",
+      "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Basingstoke/Associate-Software-Engineer_JR-119414-2"
+    },
     "simplify:sony::simplify-95f67d1a-0c71-458d-a724-50a943e61f90": {
       "company": "Sony",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1781733863",
       "title": "Software Engineer Intern",
       "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/San-Diego/Software-Engineer-Intern_JR-119282"
+    },
+    "simplify:sony::simplify-9ff31af3-45c0-4e11-975a-5568d5bda4dc": {
+      "company": "Sony",
+      "first_seen": "2026-07-26T15:32:38+00:00",
+      "posted_at": "1785024000",
+      "title": "Software Engineer Associate",
+      "url": "https://sonyglobal.wd1.myworkdayjobs.com/Sony_Europe_Careers/job/Basingstoke/Associate-Software-Engineer_JR-119414-1"
     },
     "simplify:sourcedirect talent::simplify-08c705ca-04ce-417a-8f8b-9a0998c91224": {
       "company": "SourceDirect Talent",
@@ -14433,5 +14447,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-26T11:48:26+00:00"
+  "updated_at": "2026-07-26T15:32:38+00:00"
 }
