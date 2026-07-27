@@ -1,5 +1,5 @@
 {
-  "count": 2096,
+  "count": 2129,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1186,6 +1186,13 @@
       "posted_at": "1783549112",
       "title": "Application Engineering Intern",
       "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Fall-2026_JR00038999"
+    },
+    "simplify:abbott::simplify-2b3ef5f6-ea0a-4bc6-bef8-a1342f3a9584": {
+      "company": "Abbott",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785110400",
+      "title": "Systems Engineer 1",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Pleasanton/Systems-Engineer-I_31157404"
     },
     "simplify:abbvie::simplify-af31d257-e826-465a-bc7a-4c04fb574032": {
       "company": "AbbVie",
@@ -2447,6 +2454,13 @@
       "title": "Cloud Developer Intern",
       "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2"
     },
+    "simplify:autozone::simplify-93719788-ccef-4aa1-b254-806b22d56b81": {
+      "company": "AutoZone",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785190249",
+      "title": "Systems Engineer Associate",
+      "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/130511"
+    },
     "simplify:aveva::simplify-25c78c31-7ddc-4133-b614-555627b96299": {
       "company": "AVEVA",
       "first_seen": "2026-07-20T23:15:00+00:00",
@@ -2572,6 +2586,13 @@
       "posted_at": "1771484925",
       "title": "Software Intern",
       "url": "https://jobs.smartrecruiters.com/barkbackLlc/90864007"
+    },
+    "simplify:barry-wehmiller::simplify-b8f78492-15f1-4f82-89cd-020a8716caec": {
+      "company": "Barry-Wehmiller",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785110400",
+      "title": "Entry Level Software Engineer",
+      "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Denver-CO/Entry-Level-Software-Engineer_R022282"
     },
     "simplify:base power::simplify-e2e3917f-309a-4c40-9db2-2b8beedf29be": {
       "company": "Base Power",
@@ -3602,6 +3623,13 @@
       "title": "ServiceNow Architect - Sna - Junior",
       "url": "https://jobs.lever.co/cgsfederal/af321f10-50ca-48d6-b807-51428a5aee7a/apply"
     },
+    "simplify:chainlink labs::simplify-4914cc60-b5e1-4765-b6f1-fd0fcabcfd72": {
+      "company": "Chainlink Labs",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785191002",
+      "title": "Software Engineer 1",
+      "url": "https://jobs.ashbyhq.com/chainlink-labs/8485e325-111f-4370-b3c6-0ed95872144f/application?embed=true"
+    },
     "simplify:chevron corporation::simplify-09855ad6-f11c-4939-b41a-39ff8df98ee6": {
       "company": "Chevron Corporation",
       "first_seen": "2026-07-17T00:58:34+00:00",
@@ -3700,6 +3728,13 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true"
     },
+    "simplify:cisco::simplify-09747fec-195a-49d6-8a70-a6377773a9bb": {
+      "company": "Cisco",
+      "first_seen": "2026-07-27T23:47:04+00:00",
+      "posted_at": "1785110400",
+      "title": "Software Engineer",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Seattle-Washington-US/Software-Engineer_2019587"
+    },
     "simplify:cisco::simplify-5199b683-6293-4db7-9b3b-04a3a15cb801": {
       "company": "Cisco",
       "first_seen": "2026-07-06T22:52:48+00:00",
@@ -3713,6 +3748,13 @@
       "posted_at": "1783987200",
       "title": "Software Engineer Quality Assurance 2",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-QA-II--Full-Time----United-States_1449147"
+    },
+    "simplify:cisco::simplify-816fa3ce-73c5-4f4b-8a2a-6fab0a909948": {
+      "company": "Cisco",
+      "first_seen": "2026-07-27T23:47:04+00:00",
+      "posted_at": "1785191046",
+      "title": "Software Engineer",
+      "url": "https://careers.cisco.com/global/en/job/2019587"
     },
     "simplify:cisco::simplify-dff4c026-8cab-4cdd-92eb-26189980b28c": {
       "company": "Cisco",
@@ -4316,6 +4358,13 @@
       "title": "Software Developer \u2013 Co-op",
       "url": "https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866"
     },
+    "simplify:costar group::simplify-61a0ad54-27a3-4039-8fbc-0ff3439803fd": {
+      "company": "CoStar Group",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785110400",
+      "title": "Software Engineer 1 CoStar Suite",
+      "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R39484"
+    },
     "simplify:cox::simplify-05815051-0821-4191-949b-c618f3a8d36e": {
       "company": "Cox",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -4469,6 +4518,13 @@
       "posted_at": "1764260175",
       "title": "Software Engineer, Intern",
       "url": "https://jobs.ashbyhq.com/dandy/d8491a88-fa90-4299-afb0-af3a2121663f"
+    },
+    "simplify:dartmouth health::simplify-d4ab9cd3-d28a-492f-9243-8813a685900f": {
+      "company": "Dartmouth Health",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785190346",
+      "title": "Database Developer",
+      "url": "https://careers-dartmouth-hitchcock.icims.com/jobs/40915/job?mobile=true&needsRedirect=false"
     },
     "simplify:dat freight & analytics::simplify-3859ee3a-9bd7-4c36-98c9-4e3c8984ced5": {
       "company": "DAT Freight & Analytics",
@@ -4959,6 +5015,13 @@
       "posted_at": "1784596539",
       "title": "Forward Deployed Engineer",
       "url": "https://jobs.ashbyhq.com/endeavorai/e397ddef-2102-40e5-82e8-cd1e126f9da8/application?embed=true"
+    },
+    "simplify:energyhub::simplify-a9e5e669-126e-41ac-abf9-dcfba7c7130e": {
+      "company": "EnergyHub",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785191246",
+      "title": "Software Engineer - Supporthub",
+      "url": "https://job-boards.greenhouse.io/energyhub/jobs/8385899002"
     },
     "simplify:envision horizons llc::simplify-584d6519-6f67-48f9-b88c-0c1b41e3f7e3": {
       "company": "Envision Horizons LLC",
@@ -6591,6 +6654,13 @@
       "title": "Graduate Application Specialist",
       "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=7676948003"
     },
+    "simplify:intertek::simplify-13d2ff87-84b1-43fb-8824-edb2aae79d4f": {
+      "company": "Intertek",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785190233",
+      "title": "Associate Software Developer",
+      "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15326"
+    },
     "simplify:intuit::simplify-55a00559-28b9-41bc-b6dc-cda5714e2846": {
       "company": "Intuit",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -6787,6 +6857,13 @@
       "title": "Technology Leadership Development Program - Tldp",
       "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Class-of-2027-Technology-Leadership-Development-Program--TLDP-_R-088676"
     },
+    "simplify:johnson controls::simplify-a86a72df-04d0-4c52-bf2f-71170d986cf4": {
+      "company": "Johnson Controls",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1781951422",
+      "title": "Software Engineer - Data Center Engineering",
+      "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Software-Engineer---Data-Center-Engineering_WD30270944-1"
+    },
     "simplify:johnson controls::simplify-a96e051e-0011-414a-ac15-bede853f8700": {
       "company": "Johnson Controls",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -6842,6 +6919,13 @@
       "posted_at": "1784844601",
       "title": "Java Backend Software Engineer 2 - Artificial Intelligence",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758513"
+    },
+    "simplify:jp morgan chase::simplify-ca2e0d80-9a79-444c-8113-4d3810fca8bc": {
+      "company": "JP Morgan Chase",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785191126",
+      "title": "Software Engineer 2 - Java/Fullstack/React",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210771738"
     },
     "simplify:julius ai::simplify-3029721d-d2a5-4aba-9f0b-3fca2d03b9f5": {
       "company": "Julius AI",
@@ -7837,6 +7921,13 @@
       "title": "Application Developer 1 - PeopleSoft",
       "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oVkxxfw3?nl=1&nl=1&fr=false"
     },
+    "simplify:metropolitan transportation authority::simplify-66aed69d-0acd-43a5-9aa1-fcbdc96ceebd": {
+      "company": "Metropolitan Transportation Authority",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785191009",
+      "title": "Computer Specialist - Software",
+      "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oCroAfwL?nl=1&nl=1&fr=false"
+    },
     "simplify:metropolitan transportation authority::simplify-7bd6d4b2-7f58-44d8-b17b-c9825db464b0": {
       "company": "Metropolitan Transportation Authority",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -7850,6 +7941,13 @@
       "posted_at": "1781215727",
       "title": "Application Developer Level 1 - Geographic Information Systems",
       "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/ot2fAfw4?nl=1&nl=1&fr=false"
+    },
+    "simplify:metropolitan transportation authority::simplify-d954b282-1586-4e74-818f-8d83c3936a8c": {
+      "company": "Metropolitan Transportation Authority",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785191009",
+      "title": "Application Developer 1 - PeopleSoft",
+      "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oTXByfwJ?nl=1&nl=1&fr=false"
     },
     "simplify:metropolitan transportation authority::simplify-f6b08d5d-a560-4521-b32a-58a97a4d3d9f": {
       "company": "Metropolitan Transportation Authority",
@@ -8592,6 +8690,13 @@
       "posted_at": "1783900800",
       "title": "Principal Structural Engineer - Structural Analysis",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-or-Principal-Engineer---Structural-Analysis_R10240064"
+    },
+    "simplify:northrop grumman::simplify-97736cf7-6766-46a2-81bc-b5cc5f9ea248": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785110400",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378"
     },
     "simplify:northrop grumman::simplify-9ae5133e-21ac-460c-a748-48bab65a707f": {
       "company": "Northrop Grumman",
@@ -9748,6 +9853,13 @@
       "title": "Software Engineer 1 - Fullstack",
       "url": "https://www.pathai.com/careers/8466724002?gh_jid=8466724002"
     },
+    "simplify:pattern data::simplify-0f83da46-16ec-46ca-9e0d-17c88d922fdc": {
+      "company": "Pattern Data",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785191110",
+      "title": "Software Engineer - Entry",
+      "url": "https://job-boards.greenhouse.io/patterndata/jobs/5196699007"
+    },
     "simplify:pattern data::simplify-fc07cf13-b666-439f-83e7-a5861fa41002": {
       "company": "Pattern Data",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -9908,6 +10020,13 @@
       "posted_at": "1772521703",
       "title": "Full Stack Engineer Intern",
       "url": "https://jobs.ashbyhq.com/phia/71c26b8b-86cd-446d-a63f-8cd8c2a3f162/application"
+    },
+    "simplify:philips::simplify-d0ec902f-192b-4dae-a71a-8f393be88c08": {
+      "company": "Philips",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785110400",
+      "title": "Software Engineer - Medical Image Reconstruction - C++/Cuda",
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Software-Engineer---Medical-Image-Reconstruction--C---CUDA-_586931"
     },
     "simplify:phonely::simplify-5c68573e-df1f-407a-99e4-7a870ec61813": {
       "company": "Phonely",
@@ -10434,6 +10553,13 @@
       "title": "Full-Stack AI Developer Intern",
       "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905"
     },
+    "simplify:revvity::simplify-decdfd15-a2e9-4591-ba49-d916ca46129e": {
+      "company": "Revvity",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785110400",
+      "title": "Associate Software Development Engineer",
+      "url": "https://revvity.wd103.myworkdayjobs.com/External/job/US-Remote---MA/Associate-Software-Development-Engineer--Remote-US-_JR-044961"
+    },
     "simplify:revvity::simplify-ebfc6fbe-b1da-492a-9aa7-3731d3c5c9f2": {
       "company": "Revvity",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10588,6 +10714,13 @@
       "title": "IOS Mobile Software Developer 1",
       "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Seattle-WA/iOS-Mobile-Software-Developer-I_R-083670-1"
     },
+    "simplify:rocket companies::simplify-44ea6903-df27-4c25-b41c-9bccd2dc6766": {
+      "company": "Rocket Companies",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785110400",
+      "title": "Software Engineer 1",
+      "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Remote---Michigan/Software-Engineer-I_R-083975"
+    },
     "simplify:rocket companies::simplify-feddb33d-3c53-46be-9599-b215ba67e99e": {
       "company": "Rocket Companies",
       "first_seen": "2026-07-17T23:11:51+00:00",
@@ -10692,6 +10825,69 @@
       "posted_at": "1783376338",
       "title": "Associate Director Senior Software Engineer - .Net C#",
       "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/90-WESTERN-PKYBEDFORD/Associate-Director--Senior-Full-Stack-Python-C---Developer_R-0000161475-1"
+    },
+    "simplify:royal bank of canada::simplify-c0152dcf-72b7-4563-b99d-1e4b99545082": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785110400",
+      "title": "Software Engineer",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Software-Developer_R-0000181003-1"
+    },
+    "simplify:rsm::simplify-01bec32c-d5a0-4a23-b905-fe2e3cef04b0": {
+      "company": "RSM",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785110400",
+      "title": "Microsoft Dynamics 365 Business Central Associate",
+      "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Francisco/Microsoft-D365-Business-Central-Associate---Fall-2027_JR117248"
+    },
+    "simplify:rsm::simplify-38f2baca-84e3-4cf7-931e-b04041080e85": {
+      "company": "RSM",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785110400",
+      "title": "Application Development Consulting Associate",
+      "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Des-Moines/Application-Development-Consulting-Associate---Fall-2027_JR116791"
+    },
+    "simplify:rsm::simplify-4f185fc4-87c4-4d76-8146-93e810070cfa": {
+      "company": "RSM",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785110400",
+      "title": "Application Development Consulting Associate",
+      "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Minneapolis/Application-Development-Consulting-Associate---Fall-2027_JR116795"
+    },
+    "simplify:rsm::simplify-8fd43783-717e-437c-9ad2-a3f7f542958d": {
+      "company": "RSM",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785110400",
+      "title": "ServiceNow Developer Associate",
+      "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Cyber-ServiceNow-Developer-Associate---Summer-2027_JR117288"
+    },
+    "simplify:rsm::simplify-a4a63327-9224-4cff-a56d-a4ee9adb6cf3": {
+      "company": "RSM",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785110400",
+      "title": "Business Central Associate",
+      "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Washington-DC-Metro/Microsoft-Business-Central-Associate---Fall-2027_JR117249"
+    },
+    "simplify:rsm::simplify-bca3fb5a-31ba-4b4c-ba79-d90e1105b572": {
+      "company": "RSM",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785110400",
+      "title": "Application Development Consulting Associate",
+      "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Denver-Downtown/Application-Development-Consulting-Associate---Fall-2027_JR116790"
+    },
+    "simplify:rsm::simplify-d1fd9426-66a2-4330-accc-1e88592772e5": {
+      "company": "RSM",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785110400",
+      "title": "Application Development Consulting Associate",
+      "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Minneapolis/Application-Development-Consulting-Associate---Fall-2027_JR116789"
+    },
+    "simplify:rsm::simplify-dd063926-c4ed-4671-9412-bc5e8fcb7b5d": {
+      "company": "RSM",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785110400",
+      "title": "Application Development Consulting Associate",
+      "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Denver-Downtown/Application-Development-Consulting-Associate---Fall-2027_JR116793"
     },
     "simplify:rtx::simplify-0d467785-7605-490e-8478-cd894e0ef1f1": {
       "company": "RTX",
@@ -10804,6 +11000,13 @@
       "posted_at": "1784596571",
       "title": "Full-Stack Software Engineer - Full-Stack",
       "url": "https://jobs.ashbyhq.com/runpod/87e39052-6819-4332-86ba-81e5ba9785dd/application?embed=true"
+    },
+    "simplify:runsybil::simplify-47f143c4-cc55-4bd8-bbd7-34e02431fad7": {
+      "company": "RunSybil",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785190647",
+      "title": "Software Engineer 1",
+      "url": "https://jobs.ashbyhq.com/runsybil-jobs/fd733ce7-7892-4019-9f6d-b6a75ba2aa59/application?embed=true"
     },
     "simplify:rural king::simplify-10e3b0cb-14b0-4d11-9324-b5a5a0049daf": {
       "company": "Rural King",
@@ -11616,6 +11819,13 @@
       "posted_at": "1784596702",
       "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
       "url": "https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25"
+    },
+    "simplify:sri international::simplify-33e07ede-5d28-4a3b-bf01-3140aceac8da": {
+      "company": "SRI International",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785190047",
+      "title": "Drexel University Co-op: Software Engineering/Full stack development",
+      "url": "https://careers-sri.icims.com/jobs/6432/job?mobile=true&needsRedirect=false"
     },
     "simplify:ss&c::simplify-4261438c-b2b0-4cdc-a13d-9642454eef75": {
       "company": "SS&C",
@@ -12519,6 +12729,13 @@
       "posted_at": "1781831169",
       "title": "Career Accelerator Program - Software Engineer",
       "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011161"
+    },
+    "simplify:textron::simplify-57383e43-6f9c-4c5d-b9c8-cb3b69e64fd2": {
+      "company": "Textron",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785191051",
+      "title": "Software Engineer 1 - Sea Systems",
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=341975"
     },
     "simplify:the aerospace corporation::simplify-5520fdfd-d417-47dd-9fa9-961f1e3f2457": {
       "company": "The Aerospace Corporation",
@@ -14067,6 +14284,13 @@
       "title": "2026 Summer Intern, PhD, Software Engineer, Predictive Planner ML/DL",
       "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-phd-software-engineer-predictive-planner-ml-dl-mountain-view-california-united-states?gh_jid=7368864"
     },
+    "simplify:waystar::simplify-0988d1cc-3a7b-4621-84fc-6367ac9218d9": {
+      "company": "Waystar",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785110400",
+      "title": "Application Engineer Co-op",
+      "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Atlanta-GA/Application-Engineer-Co-Op_R3313-1"
+    },
     "simplify:wellmark::simplify-7f7e2f8b-d239-4ab5-ba0f-7ddc4ecbef45": {
       "company": "Wellmark",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -14410,6 +14634,13 @@
       "title": "AI Engineer Intern",
       "url": "https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply"
     },
+    "simplify:xylem::simplify-9c3fc447-fdbf-41b3-ae09-b5bf11332501": {
+      "company": "Xylem",
+      "first_seen": "2026-07-27T23:47:06+00:00",
+      "posted_at": "1785110400",
+      "title": "Application Engineer",
+      "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Waukesha-Ridgeview-Wisconsin/Application-Engineer_R48350"
+    },
     "simplify:zededa::simplify-54eb8a09-3206-49de-ab52-5f7361b9dae4": {
       "company": "Zededa",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -14615,5 +14846,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-27T22:45:42+00:00"
+  "updated_at": "2026-07-27T23:47:06+00:00"
 }
