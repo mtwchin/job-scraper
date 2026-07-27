@@ -1,5 +1,5 @@
 {
-  "count": 2075,
+  "count": 2081,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -4736,6 +4736,13 @@
       "title": "Frontend Engineer Intern",
       "url": "https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119/application?embed=true"
     },
+    "simplify:dgr systems::simplify-172ad890-81ad-4e3a-ab8b-3e63d27b0a38": {
+      "company": "DGR Systems",
+      "first_seen": "2026-07-27T11:44:05+00:00",
+      "posted_at": "1784596611",
+      "title": "Associate Engineer - Microsoft 365 Solutions",
+      "url": "https://ats.rippling.com/dgrsystems/jobs/8165421c-9513-46ad-9a80-78c676c49771"
+    },
     "simplify:digicert::simplify-7f549e96-35e9-4370-9ece-eae9e6d752b3": {
       "company": "DigiCert",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -6780,6 +6787,13 @@
       "title": "Customer Support Analyst",
       "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Canada---Markham---Ontario/Customer-Solution-Analyst_R12522-2"
     },
+    "simplify:jonas software::simplify-3fc16a74-a9eb-4fa6-af6e-e70895f74579": {
+      "company": "Jonas Software",
+      "first_seen": "2026-07-27T11:44:05+00:00",
+      "posted_at": "1780611014",
+      "title": "Implementation Specialist 1",
+      "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Implementation-Specialist-I_R51653"
+    },
     "simplify:jones lang lasalle (jll)::simplify-ba0fbd69-5e56-4eb3-9233-5fdd64f5073f": {
       "company": "Jones Lang LaSalle (JLL)",
       "first_seen": "2026-07-24T15:52:31+00:00",
@@ -7249,6 +7263,13 @@
       "title": "Software Development Engineer",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Engineer_R-00186934-1"
     },
+    "simplify:leidos::simplify-4f269b50-3cb1-4960-9d2f-c2b2a5f0a932": {
+      "company": "Leidos",
+      "first_seen": "2026-07-27T11:44:05+00:00",
+      "posted_at": "1784246400",
+      "title": "Cybersecurity Product Engineer",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Cybersecurity-Product-Engineer_R-00187602"
+    },
     "simplify:leidos::simplify-51614fe5-c79b-42d9-997f-c9a22d17645c": {
       "company": "Leidos",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -7374,6 +7395,13 @@
       "posted_at": "1784596611",
       "title": "Application Engineer",
       "url": "https://ats.rippling.com/lightguide/jobs/6571ec49-8229-40b0-be4b-6b031d5c5af8"
+    },
+    "simplify:linenmaster::simplify-5033ea59-e6e2-4f9b-9b8f-f70eb20fac88": {
+      "company": "LinenMaster",
+      "first_seen": "2026-07-27T11:44:05+00:00",
+      "posted_at": "1783922980",
+      "title": "Technical Service Representative - Level 1",
+      "url": "https://ats.rippling.com/linenmaster/jobs/fe142242-d7d7-42d7-8958-927badbba414"
     },
     "simplify:liquid::simplify-536242db-62cc-4f97-b8e4-d38cd8088500": {
       "company": "Liquid",
@@ -8061,6 +8089,13 @@
       "title": "Junior Software Developer",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4628952006"
     },
+    "simplify:mthree::simplify-6ce4c517-ed15-4308-b1b3-db9ed7be5a53": {
+      "company": "mthree",
+      "first_seen": "2026-07-27T11:44:05+00:00",
+      "posted_at": "1781425133",
+      "title": "Technology Talent Programme",
+      "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4597297006"
+    },
     "simplify:mthree::simplify-f5e5e13c-5b95-448b-9f96-4e17ad694841": {
       "company": "mthree",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -8669,6 +8704,13 @@
       "posted_at": "1772003651",
       "title": "Application Development Intern",
       "url": "https://jobs.smartrecruiters.com/NorthwesternMutual/85751711"
+    },
+    "simplify:notability::simplify-33c29f4d-ba3e-4b4e-8d7f-ba31f0fe0e0b": {
+      "company": "Notability",
+      "first_seen": "2026-07-27T11:44:05+00:00",
+      "posted_at": "1785143651",
+      "title": "Engineer \u2013 Web Apps",
+      "url": "https://job-boards.greenhouse.io/gingerlabsinc/jobs/4928821008"
     },
     "simplify:notion::simplify-1908d7ff-00f4-4393-a004-2b6ba9ad2de8": {
       "company": "Notion",
@@ -14468,5 +14510,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-27T04:52:36+00:00"
+  "updated_at": "2026-07-27T11:44:05+00:00"
 }
