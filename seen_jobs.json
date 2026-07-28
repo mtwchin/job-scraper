@@ -1,5 +1,5 @@
 {
-  "count": 2137,
+  "count": 2140,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1200,6 +1200,13 @@
       "posted_at": "1783980313",
       "title": "Associate Engineer - Technology I",
       "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014058986"
+    },
+    "simplify:abby care::simplify-fa54869a-f35b-40df-87b1-8c44c20b5f5a": {
+      "company": "Abby Care",
+      "first_seen": "2026-07-28T13:15:01+00:00",
+      "posted_at": "1783548714",
+      "title": "Full-Stack Software Engineer",
+      "url": "https://jobs.ashbyhq.com/abby-care/36e55afe-b77d-4e5f-84bf-a1fa4ce208a2/application?embed=true"
     },
     "simplify:abridge::simplify-ccc30a08-187b-428e-a4e2-333c838dadaa": {
       "company": "Abridge",
@@ -9944,6 +9951,13 @@
       "title": "Research Engineering Intern",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1"
     },
+    "simplify:pennsylvania state university::simplify-d3981dc2-eb59-464b-bef9-70365bd9af64": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-07-28T13:15:01+00:00",
+      "posted_at": "1784073600",
+      "title": "R&D Engineer Intern",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000079178-1"
+    },
     "simplify:pennsylvania state university::simplify-e0f4ad95-621b-4469-be39-0a9855d90b63": {
       "company": "Pennsylvania State University",
       "first_seen": "2026-07-24T14:25:52+00:00",
@@ -10965,6 +10979,13 @@
       "posted_at": "1781215848",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01852152"
+    },
+    "simplify:rtx::simplify-7f814df9-4d07-4be5-b742-9ed37b9549a8": {
+      "company": "RTX",
+      "first_seen": "2026-07-28T13:15:01+00:00",
+      "posted_at": "1782963453",
+      "title": "Software Engineer 2",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-II--Onsite-_01855746"
     },
     "simplify:rtx::simplify-840954cd-3ba5-456f-a6cf-c4788e41762e": {
       "company": "RTX",
@@ -14902,5 +14923,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-28T06:46:02+00:00"
+  "updated_at": "2026-07-28T13:15:01+00:00"
 }
