@@ -1,5 +1,5 @@
 {
-  "count": 2129,
+  "count": 2134,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -4365,6 +4365,13 @@
       "title": "Software Engineer 1 CoStar Suite",
       "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Arlington/Software-Engineer-I--CoStar-Suite--Arlington--VA_R39484"
     },
+    "simplify:cox automotive::simplify-2361eb91-04c3-4c59-9b31-d26309c4ca59": {
+      "company": "Cox Automotive",
+      "first_seen": "2026-07-28T01:07:55+00:00",
+      "posted_at": "1785110400",
+      "title": "Software Engineer 1",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I---18525_R202680328"
+    },
     "simplify:cox::simplify-05815051-0821-4191-949b-c618f3a8d36e": {
       "company": "Cox",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -7403,6 +7410,13 @@
       "title": "Linux Systems Administrator",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Linux-Systems-Administrators---All-Levels_R-00185476"
     },
+    "simplify:leidos::simplify-5dbfce20-e73f-4080-acb5-e87c3799b33d": {
+      "company": "Leidos",
+      "first_seen": "2026-07-28T01:07:55+00:00",
+      "posted_at": "1785110400",
+      "title": "Software Engineer - Tactical Decision Aids - Entry-Level",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Engineer--Tactical-Decision-Aids---Entry-Level-_R-00188211"
+    },
     "simplify:leidos::simplify-73e95483-23f7-498e-83cf-df008b007d83": {
       "company": "Leidos",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -8074,6 +8088,13 @@
       "posted_at": "1777298909",
       "title": "Software Engineer \u2013 Early Career",
       "url": "https://jobs.ashbyhq.com/mirage/cbf278fd-84ec-48d9-8052-b76abb035ac7/application"
+    },
+    "simplify:mitratech::simplify-2abdeb2f-c08f-453f-bcf4-452c264696d6": {
+      "company": "Mitratech",
+      "first_seen": "2026-07-28T01:07:55+00:00",
+      "posted_at": "1785192015",
+      "title": "Software Engineer 1 - Assurehire - Go",
+      "url": "https://job-boards.greenhouse.io/mitratech/jobs/8060928"
     },
     "simplify:mobius renewables::simplify-8a94a455-b2cb-44e4-9b0b-00bfda978a73": {
       "company": "Mobius Renewables",
@@ -11449,6 +11470,13 @@
       "title": "Middleware Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/skydio/7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915/application"
     },
+    "simplify:slice (slicelife.com)::simplify-2884d651-d2f6-41f5-b48d-e12239c293ae": {
+      "company": "Slice (slicelife.com)",
+      "first_seen": "2026-07-28T01:07:55+00:00",
+      "posted_at": "1785191815",
+      "title": "Staff Software Developer - Services",
+      "url": "https://slice.careers/careers-listing?gh_jid=7547313"
+    },
     "simplify:slice (slicelife.com)::simplify-a6a3e049-7705-4778-b661-940154f9d584": {
       "company": "Slice (slicelife.com)",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -12974,6 +13002,13 @@
       "posted_at": "1784154357",
       "title": "Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007"
+    },
+    "simplify:the trade desk::simplify-8f70efd9-bbb5-49a2-8281-d6c0755dafe1": {
+      "company": "The Trade Desk",
+      "first_seen": "2026-07-28T01:07:55+00:00",
+      "posted_at": "1785191548",
+      "title": "Software Engineer 1",
+      "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5196864007"
     },
     "simplify:the walt disney company::simplify-6e9691c1-0e30-488d-8026-d2294ff808ae": {
       "company": "The Walt Disney Company",
@@ -14846,5 +14881,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-27T23:47:06+00:00"
+  "updated_at": "2026-07-28T01:07:55+00:00"
 }
