@@ -1,5 +1,5 @@
 {
-  "count": 2136,
+  "count": 2137,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -11183,6 +11183,13 @@
       "title": "Enterprise Technology Intern - AI and Automation",
       "url": "https://jobs.ashbyhq.com/saronic/c95c2e3a-4c67-47b0-a03d-0e0317ac11a3/application"
     },
+    "simplify:savannah river mission completion::simplify-a3601998-ef72-41e2-80ff-7dfdfbd87143": {
+      "company": "Savannah River Mission Completion",
+      "first_seen": "2026-07-28T06:46:02+00:00",
+      "posted_at": "1785218529",
+      "title": "Puridiom Java Developer \u2013 Associate or Mid-level IT Programmer Analyst",
+      "url": "https://careers-fsse-srmc.icims.com/jobs/2009/job?mobile=true&needsRedirect=false"
+    },
     "simplify:savannah river national laboratory::simplify-ff32533c-c798-42fa-8372-d29bc416428f": {
       "company": "Savannah River National Laboratory",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -14895,5 +14902,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-28T04:22:07+00:00"
+  "updated_at": "2026-07-28T06:46:02+00:00"
 }
