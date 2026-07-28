@@ -1,5 +1,5 @@
 {
-  "count": 2140,
+  "count": 2148,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -1676,6 +1676,13 @@
       "posted_at": "1782770892",
       "title": "AI Software Engineer",
       "url": "https://jobs.ashbyhq.com/alphalifesci/238161ca-5aa0-4089-9cdf-d41912eba9c1/application?embed=true"
+    },
+    "simplify:alta ares::simplify-6bbdcfe2-93ba-469c-9fe4-be23b9387ac6": {
+      "company": "Alta Ares",
+      "first_seen": "2026-07-28T15:35:20+00:00",
+      "posted_at": "1785248308",
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/alta-ares/ad4ace6a-823c-43ea-ae32-3d0711c33096/application?embed=true"
     },
     "simplify:altamira technologies::simplify-1402c2af-c28d-4623-814c-109cd33f2fb9": {
       "company": "Altamira Technologies",
@@ -4820,6 +4827,13 @@
       "title": "Software Developer 1",
       "url": "https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/24516"
     },
+    "simplify:dentsu::simplify-e0d51260-d097-4374-baf1-37a686e41da9": {
+      "company": "Dentsu",
+      "first_seen": "2026-07-28T15:35:20+00:00",
+      "posted_at": "1785196800",
+      "title": "Junior Developer",
+      "url": "https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Manchester---Bonded-Warehouse/Development-Junior-Associate_R1125875"
+    },
     "simplify:dexcom::simplify-70b9b44e-b155-4081-9987-0ef48b2ebb0e": {
       "company": "Dexcom",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -7312,6 +7326,13 @@
       "title": "Software Engineering Associate",
       "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905/1409055400/?ats=successfactors"
     },
+    "simplify:l3harris technologies::simplify-81476e53-2803-426e-8021-2bcd1ad52184": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-07-28T15:35:20+00:00",
+      "posted_at": "1785247449",
+      "title": "Software Engineer Associate",
+      "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1413204500/?ats=successfactors"
+    },
     "simplify:l3harris technologies::simplify-bb1f6823-179b-48c7-907a-9932b31bd155": {
       "company": "L3Harris Technologies",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -8208,6 +8229,13 @@
       "title": "Software Engineer 1",
       "url": "https://jobs.ashbyhq.com/morrishealthtech/21e734ca-b012-438d-af22-ff30ea12bf39/application?embed=true"
     },
+    "simplify:motorola::simplify-0e645a26-5aa4-441c-b793-1ef8516245ca": {
+      "company": "Motorola",
+      "first_seen": "2026-07-28T15:35:20+00:00",
+      "posted_at": "1785196800",
+      "title": "Software Engineer",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Software-Engineer_R66979"
+    },
     "simplify:motorola::simplify-177af578-19a1-428a-8acb-184beaa3cf9e": {
       "company": "Motorola",
       "first_seen": "2026-07-17T15:48:33+00:00",
@@ -8494,6 +8522,13 @@
       "posted_at": "1777932251",
       "title": "Incubation Developer Coop/Intern",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34227"
+    },
+    "simplify:nokia::simplify-e138a76e-524c-4f79-82cf-b35d43759ca1": {
+      "company": "Nokia",
+      "first_seen": "2026-07-28T15:35:20+00:00",
+      "posted_at": "1785247798",
+      "title": "Junior Nokia Network Services Platform Technical Care Specialist",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36783"
     },
     "simplify:north cloud::simplify-29f7ea93-41b1-408b-a3e0-8b6945e95e3e": {
       "company": "North Cloud",
@@ -10021,6 +10056,20 @@
       "title": "Junior Software Engineer",
       "url": "https://careers-peraton.icims.com/jobs/147065/job?mobile=true&needsRedirect=false"
     },
+    "simplify:peraton::simplify-4ba38e7e-381e-463a-9acc-2814e492da98": {
+      "company": "Peraton",
+      "first_seen": "2026-07-28T15:35:20+00:00",
+      "posted_at": "1785247864",
+      "title": "Software Development Associate",
+      "url": "https://careers-peraton.icims.com/jobs/168946/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:peraton::simplify-553369f5-663d-4019-8901-6134f7102b4d": {
+      "company": "Peraton",
+      "first_seen": "2026-07-28T15:35:20+00:00",
+      "posted_at": "1785247869",
+      "title": "Software Development Associate",
+      "url": "https://careers-peraton.icims.com/jobs/168949/job?mobile=true&needsRedirect=false"
+    },
     "simplify:peraton::simplify-b4c2db2d-3859-453b-823e-8dc517020ce3": {
       "company": "Peraton",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10188,6 +10237,13 @@
       "posted_at": "1785162110",
       "title": "Full Stack Engineer",
       "url": "https://jobs.ashbyhq.com/joinpogo/1547e923-aab9-4912-b402-49b60c782893/application?embed=true"
+    },
+    "simplify:pogo technologies, inc.::simplify-33972c52-575d-4ede-a314-0ccebc85ee47": {
+      "company": "Pogo Technologies, Inc.",
+      "first_seen": "2026-07-28T15:35:20+00:00",
+      "posted_at": "1785248418",
+      "title": "Full Stack Engineer",
+      "url": "https://jobs.ashbyhq.com/joinpogo/a54fe5c6-d695-4925-8087-d9378756dde7/application?embed=true"
     },
     "simplify:pogo technologies, inc.::simplify-57a88b77-0b46-4e53-b3ad-a13cd9123377": {
       "company": "Pogo Technologies, Inc.",
@@ -14923,5 +14979,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-28T13:15:01+00:00"
+  "updated_at": "2026-07-28T15:35:20+00:00"
 }
