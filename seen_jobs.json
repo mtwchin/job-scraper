@@ -1,5 +1,5 @@
 {
-  "count": 2134,
+  "count": 2136,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -4049,6 +4049,13 @@
       "posted_at": "1781676499",
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/collective/40516856-b29c-4b38-b434-68be5241bacf/application"
+    },
+    "simplify:color::simplify-a989c928-8174-43bf-9198-bcec981430c7": {
+      "company": "Color",
+      "first_seen": "2026-07-28T04:22:07+00:00",
+      "posted_at": "1785201529",
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96/application?embed=true"
     },
     "simplify:comcast::simplify-12ee8070-f334-4f78-a421-b5bb89bd1d64": {
       "company": "Comcast",
@@ -14144,6 +14151,13 @@
       "title": "Associate Java Software Engineer",
       "url": "https://job-boards.greenhouse.io/vestmark/jobs/8042636"
     },
+    "simplify:vestmark::simplify-fc0d7cba-48a3-45df-b65a-7a272b43dc54": {
+      "company": "Vestmark",
+      "first_seen": "2026-07-28T04:22:07+00:00",
+      "posted_at": "1782828747",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/vestmark/jobs/8009953"
+    },
     "simplify:vetsez::simplify-3b16aba4-17cf-4636-b0fa-03bc53122db2": {
       "company": "VetsEZ",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -14881,5 +14895,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-28T01:07:55+00:00"
+  "updated_at": "2026-07-28T04:22:07+00:00"
 }
