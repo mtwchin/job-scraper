@@ -1,5 +1,5 @@
 {
-  "count": 2166,
+  "count": 2186,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -2692,6 +2692,13 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1/application?embed=true"
     },
+    "simplify:berkshire grey::simplify-73bb6ea9-7c91-4d28-850a-8d24908aee9c": {
+      "company": "Berkshire Grey",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785277437",
+      "title": "Software Co-op",
+      "url": "https://berkshiregrey.bamboohr.com/careers/749/"
+    },
     "simplify:berkshire hathaway energy::simplify-2bc4beee-1d0a-4156-bd53-2d69f3f5743e": {
       "company": "Berkshire Hathaway Energy",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -4449,12 +4456,26 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/creatify/75a1f1ad-13d2-4513-952c-71b6dfcaa84f/application"
     },
+    "simplify:crusoe::simplify-a49ee478-2eea-4b54-af0a-c3ad5e31e66e": {
+      "company": "Crusoe",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785277279",
+      "title": "Software Engineer 1 - Storage",
+      "url": "https://jobs.ashbyhq.com/Crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02/application?embed=true"
+    },
     "simplify:ctgt::simplify-8c8a1f21-e711-48d0-8cec-601018138920": {
       "company": "CTGT",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1783174097",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application"
+    },
+    "simplify:cubic::simplify-eb14fde0-a057-4228-ad8b-f70f7818ae17": {
+      "company": "Cubic",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785196800",
+      "title": "Software Engineer 1 - Unified Video Sustainment",
+      "url": "https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers/job/Ashburn-Virginia/Software-Engineer-I---Unified-Video-Sustainment_REQ_49558"
     },
     "simplify:cummins::simplify-276b6815-7fb8-46f1-b5aa-156dd9ac093d": {
       "company": "Cummins",
@@ -5043,6 +5064,13 @@
       "posted_at": "1770246598",
       "title": "Full-Stack Growth Engineer",
       "url": "https://jobs.ashbyhq.com/elevenlabs/5881bc5d-765a-430e-9d28-7d598a0e1a03/application"
+    },
+    "simplify:eliza::simplify-d719689b-b5b0-4b29-abec-aba4b0475305": {
+      "company": "Eliza",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785277437",
+      "title": "Associate Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/eliza/3190c7b1-a01f-42e0-9a16-2c6dfc40eb8d/application?embed=true"
     },
     "simplify:ellipsis labs::simplify-4f45fa19-d12a-4b2b-804a-16e5c8cdc02d": {
       "company": "Ellipsis Labs",
@@ -7298,6 +7326,13 @@
       "title": "Software Engineer Co-op",
       "url": "https://rakuten.wd1.myworkdayjobs.com/Kobo/job/Toronto-Canada/Software-Quality-Assurance-Engineer-Co-op_1035873"
     },
+    "simplify:kognitos::simplify-0493a5d3-fb9f-430d-8751-58b168f5a0f4": {
+      "company": "Kognitos",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785277458",
+      "title": "Forward Deployed Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/Kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148/application?embed=true"
+    },
     "simplify:kos.ai::simplify-b8c23e53-79db-45ab-a105-78a3d344b881": {
       "company": "kos.ai",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -7878,6 +7913,13 @@
       "posted_at": "1782770877",
       "title": "Application Engineer \u2013 Early Career",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Application-Engineer---Early-Career_2503703-2"
+    },
+    "simplify:mass general brigham::simplify-d955ed42-20b3-455d-9be9-fcfa6b6c7c32": {
+      "company": "Mass General Brigham",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785196800",
+      "title": "Applications Analyst 1",
+      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Applications-Analyst-I_RQ4071746-1"
     },
     "simplify:mastercard::simplify-6fc2b307-1b8e-46f9-aa14-0d528e6fd4a9": {
       "company": "Mastercard",
@@ -8754,6 +8796,13 @@
       "title": "Python Software Engineer 2",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Python-Software-Engineer-Level-2-or-3_R10239580"
     },
+    "simplify:northrop grumman::simplify-3d40984e-d6a2-41ef-8da4-63f967b95506": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785196800",
+      "title": "Associate Systems Modeling & Simulation Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2026-Associate-Systems-Modeling---Simulation-Engineer-Systems-Modeling---Simulation-Engineer_R10242731"
+    },
     "simplify:northrop grumman::simplify-419f9f25-c624-4d13-aac1-01defde3f3cb": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -8774,6 +8823,13 @@
       "posted_at": "1781639440",
       "title": "Engineer or Principal Engineer Systems",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-or-Principal-Engineer-Systems_R10235799"
+    },
+    "simplify:northrop grumman::simplify-4d79ce2b-1cf0-4109-8848-b30f3d0760b2": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785196800",
+      "title": "Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Associate---Software-Engineer----19232_R10242757"
     },
     "simplify:northrop grumman::simplify-4db085c5-fa06-4b71-9641-e578b6896eaa": {
       "company": "Northrop Grumman",
@@ -8949,6 +9005,13 @@
       "posted_at": "1783165269",
       "title": "Software Engineer - Systems - BM/Srm",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer--Systems--BM-SRM--26-269-_R10235364"
+    },
+    "simplify:northrop grumman::simplify-c4862aba-2152-4d56-bd65-67ea30daa9f6": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785196800",
+      "title": "Software Engineer 2",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Software-Engineer-Level-2--AHT-_R10242698"
     },
     "simplify:northrop grumman::simplify-c5cca8ff-fdd8-4df1-a38b-1d3a2f8f65a8": {
       "company": "Northrop Grumman",
@@ -10637,6 +10700,13 @@
       "title": "Associate Software Engineer",
       "url": "https://reliaquest.wd5.myworkdayjobs.com/en-US/ReliaQuest_Careers/job/Tampa-FL/Associate-Software-Engineer_R15047"
     },
+    "simplify:reltio::simplify-939a6215-c585-4039-ae27-5bd6c2def8cc": {
+      "company": "Reltio",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1777331009",
+      "title": "Customer Engineer Associate",
+      "url": "https://job-boards.greenhouse.io/reltio/jobs/5576245004"
+    },
     "simplify:relx::simplify-1c9356a0-8f0b-43b6-acc9-3466330cc6c9": {
       "company": "RELX",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -11127,6 +11197,13 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Onsite-_01861434"
     },
+    "simplify:rtx::simplify-513036c6-8bdd-44bf-8c57-e5d73bf66998": {
+      "company": "RTX",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785196800",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Software-Engineer-I--Onsite-_01861373"
+    },
     "simplify:rtx::simplify-703cda76-22ba-4087-a142-4fe4289646b5": {
       "company": "RTX",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -11155,6 +11232,13 @@
       "title": "Conversion Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534"
     },
+    "simplify:rtx::simplify-8cf416d2-c4e8-4bbd-800d-6b10b4b953e3": {
+      "company": "RTX",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785196800",
+      "title": "Associate Software Engineer - Simulation",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Assoc-Software-Engineer---Simulation_01853132"
+    },
     "simplify:rtx::simplify-8fec4117-7522-42cb-b10a-0370ce86a3ff": {
       "company": "RTX",
       "first_seen": "2026-07-15T23:37:55+00:00",
@@ -11176,12 +11260,26 @@
       "title": "Software Engineer - Software Engineer I",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Raytheon-Full-Time---Software-Engineer-I---McKinney--TX--Onsite-_01853473"
     },
+    "simplify:rtx::simplify-b2fa0f21-04d7-441c-90f2-b38ee22120fb": {
+      "company": "RTX",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785196800",
+      "title": "Systems Engineer 1 - Tactical Missile System Simulation - Unreal Engine",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-I---Tactical-Missile-System-Simulation--Unreal-Engine-_01862202"
+    },
     "simplify:rtx::simplify-c29f5fe7-d092-4635-aa51-5160b768cd11": {
       "company": "RTX",
       "first_seen": "2026-07-27T16:18:41+00:00",
       "posted_at": "1785110400",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site-_01860803"
+    },
+    "simplify:rtx::simplify-d8f84d42-30b7-4a74-b193-a2adde5bac7e": {
+      "company": "RTX",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785196800",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I--On-Site-_01862626"
     },
     "simplify:rtx::simplify-e4839ecb-2777-4886-93d2-c56612b08784": {
       "company": "RTX",
@@ -11197,12 +11295,26 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-1---Engine-Indication---Crew-Alerting-Systems--Onsite-_01848535-2"
     },
+    "simplify:rtx::simplify-eade91a6-60d5-49dd-8a45-35003ed22533": {
+      "company": "RTX",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785196800",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site--_01862276"
+    },
     "simplify:rtx::simplify-fa0ebc2b-c763-4683-926b-c4befa25a42e": {
       "company": "RTX",
       "first_seen": "2026-07-27T16:18:41+00:00",
       "posted_at": "1785110400",
       "title": "Java Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806"
+    },
+    "simplify:rtx::simplify-febce9fd-e8ba-4d95-85fb-4d00b3760c44": {
+      "company": "RTX",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785196800",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Engineer-I--Summer-2027-_01862159"
     },
     "simplify:rtx::simplify-ffbb5a63-45f4-4589-8f3e-814233effd30": {
       "company": "RTX",
@@ -12394,12 +12506,33 @@
       "title": "Software Engineer Level 1",
       "url": "https://tapengineering.applytojob.com/apply/IK0hxrQaiv/Software-Engineer-Level-1"
     },
+    "simplify:tavern research::simplify-1c9e0188-d9cb-4324-afaa-fa5d4da2946f": {
+      "company": "Tavern Research",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785277342",
+      "title": "Engineer 1 - Paid Media",
+      "url": "https://ats.rippling.com/tavernresearch/jobs/17952240-27e9-4c49-8869-e3e1ea2aadc3"
+    },
     "simplify:tavern research::simplify-23748ab0-91e3-4972-9291-59273e31a724": {
       "company": "Tavern Research",
       "first_seen": "2026-07-21T03:41:07+00:00",
       "posted_at": "1784596606",
       "title": "Engineer 1",
       "url": "https://ats.rippling.com/tavernresearch/jobs/bf39b76f-cfe0-47a0-ad25-0f9aa66fdcc6"
+    },
+    "simplify:tavern research::simplify-9e6e56d1-9f9d-4225-b07a-a32e4e6988ca": {
+      "company": "Tavern Research",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785277341",
+      "title": "Engineer 1 - Digital Engagement",
+      "url": "https://ats.rippling.com/tavernresearch/jobs/328ac66c-4c82-4598-8101-3d9fa64bd436"
+    },
+    "simplify:tavern research::simplify-e4969d84-0576-4efa-86ba-e29afbe254ea": {
+      "company": "Tavern Research",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785277342",
+      "title": "Engineer 1 - Surveys",
+      "url": "https://ats.rippling.com/tavernresearch/jobs/7433de0b-caae-4c3d-8ad3-70fcbb2f3e6c"
     },
     "simplify:td bank::simplify-1bb3b6dc-d26f-4ad3-87f2-029a5a75f6f2": {
       "company": "TD Bank",
@@ -12435,6 +12568,13 @@
       "posted_at": "1784764800",
       "title": "Software Engineer Associate",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1495599"
+    },
+    "simplify:td bank::simplify-f42646c5-4269-403c-923a-b8b4e01f8f06": {
+      "company": "TD Bank",
+      "first_seen": "2026-07-29T00:10:36+00:00",
+      "posted_at": "1785196800",
+      "title": "Software Engineer 1",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1501242"
     },
     "simplify:td synnex::simplify-39c947cb-0cab-41b0-8056-745f80dc13af": {
       "company": "TD Synnex",
@@ -15105,5 +15245,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-28T23:15:13+00:00"
+  "updated_at": "2026-07-29T00:10:36+00:00"
 }
