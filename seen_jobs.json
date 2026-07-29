@@ -1,6 +1,13 @@
 {
-  "count": 2190,
+  "count": 2191,
   "jobs": {
+    "abnormal security::7814567003": {
+      "company": "Abnormal Security",
+      "first_seen": "2026-07-29T06:16:59+00:00",
+      "posted_at": "2026-07-29T01:16:04-04:00",
+      "title": "Software Engineer I, Data Platform",
+      "url": "https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003"
+    },
     "affirm::7485068003": {
       "company": "Affirm",
       "first_seen": "2026-06-28T23:35:42+00:00",
@@ -15273,5 +15280,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-29T03:35:09+00:00"
+  "updated_at": "2026-07-29T06:16:59+00:00"
 }
