@@ -1,5 +1,5 @@
 {
-  "count": 2191,
+  "count": 2194,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2937,6 +2937,13 @@
       "title": "Software Engineer",
       "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Denver-CO/Software-Engineer-_JR1084518"
     },
+    "simplify:brunswick::simplify-355b5e1d-f111-47b2-8e17-99593839fef6": {
+      "company": "Brunswick",
+      "first_seen": "2026-07-29T09:11:55+00:00",
+      "posted_at": "1785196800",
+      "title": "Software Engineer Intern",
+      "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991"
+    },
     "simplify:brunswick::simplify-a2b670ca-0966-45f7-9a77-1365adca98b8": {
       "company": "Brunswick",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -3377,6 +3384,13 @@
       "posted_at": "1774261894",
       "title": "ntern, Engineer Software",
       "url": "https://careers-calamp.icims.com/jobs/4326/intern%2c-engineer-software---carlsbad%2c-ca-%28summer-2026%29/job"
+    },
+    "simplify:camlin::simplify-273c41ba-8d4c-449e-827f-e190604ab395": {
+      "company": "Camlin",
+      "first_seen": "2026-07-29T09:11:55+00:00",
+      "posted_at": "1784585483",
+      "title": "Incident Support Engineer",
+      "url": "https://ats.rippling.com/camlin-careers/jobs/803397be-f794-4002-8c8a-c39e99a3ce2b"
     },
     "simplify:candidate fyi::simplify-d8d7e2e3-1906-4c1e-9c88-0e8a1619f222": {
       "company": "candidate fyi",
@@ -13129,6 +13143,13 @@
       "title": "Career Accelerator Program - Software Engineer",
       "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011161"
     },
+    "simplify:texas sports academy::simplify-49643f6b-95e6-4d37-af1d-1118ce4439cd": {
+      "company": "Texas Sports Academy",
+      "first_seen": "2026-07-29T09:11:55+00:00",
+      "posted_at": "1785305398",
+      "title": "Junior Software Engineer - AI-Forward",
+      "url": "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply"
+    },
     "simplify:textron::simplify-57383e43-6f9c-4c5d-b9c8-cb3b69e64fd2": {
       "company": "Textron",
       "first_seen": "2026-07-27T23:47:06+00:00",
@@ -15280,5 +15301,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-29T06:16:59+00:00"
+  "updated_at": "2026-07-29T09:11:55+00:00"
 }
