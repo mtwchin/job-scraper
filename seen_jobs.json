@@ -1,5 +1,5 @@
 {
-  "count": 2200,
+  "count": 2204,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -7823,6 +7823,13 @@
       "title": "Software Engineering Co-op",
       "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00244013"
     },
+    "simplify:magna::simplify-a574a4cd-de72-4459-8bc1-2cde97524618": {
+      "company": "Magna",
+      "first_seen": "2026-07-29T13:17:34+00:00",
+      "posted_at": "1781953338",
+      "title": "Engineer 1 - Software Algorithm",
+      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Engineer-I---Software-Algorithm_R00237795"
+    },
     "simplify:magna::simplify-d700b10f-a687-49f6-bd90-94bd0783aeab": {
       "company": "Magna",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10182,6 +10189,13 @@
       "title": "Computer Science and Engineering Researcher",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Hussain--S_REQ_0000079781-2"
     },
+    "simplify:pennsylvania state university::simplify-bea57c4a-be73-42eb-b6da-e93a1735c880": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-07-29T13:17:34+00:00",
+      "posted_at": "1783168662",
+      "title": "Software Research and Development Engineer",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Software-Research-and-Development-Engineer_REQ_0000073411-2"
+    },
     "simplify:pennsylvania state university::simplify-cff6c5a6-5c4a-4f30-bb48-4543328cc059": {
       "company": "Pennsylvania State University",
       "first_seen": "2026-07-25T14:12:51+00:00",
@@ -11147,6 +11161,13 @@
       "posted_at": "1783900800",
       "title": "Therapist \u2013 PHP/Iop",
       "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Hinsdale-Clinic-Hinsdale-IL/Therapist---PHP-IOP_R8074"
+    },
+    "simplify:rogers behavioral health::simplify-e5643783-5916-41bd-a4db-88951e55f30b": {
+      "company": "Rogers Behavioral Health",
+      "first_seen": "2026-07-29T13:17:34+00:00",
+      "posted_at": "1784851200",
+      "title": "Therapist PHP/IOP",
+      "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Madison-Clinic-Madison-WI/Therapist---PHP-IOP_R8160"
     },
     "simplify:rokt::simplify-acc77914-fec3-476d-9bcc-0804776e7465": {
       "company": "Rokt",
@@ -14368,6 +14389,13 @@
       "title": "Drupal Developer - Need GC and USC",
       "url": "https://jobs.smartrecruiters.com/USM2/101353046"
     },
+    "simplify:usul::simplify-f65da956-c9b0-47d6-aded-5cae4933df37": {
+      "company": "Usul",
+      "first_seen": "2026-07-29T13:17:34+00:00",
+      "posted_at": "1784596540",
+      "title": "Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/usul/a17d4f34-dbdc-45ac-8365-4dbfb8bfcd0b/application?embed=true"
+    },
     "simplify:ut southwestern medical center::simplify-abaa5e9d-c0a5-4c3e-bb1c-fc4e14df83ff": {
       "company": "UT Southwestern Medical Center",
       "first_seen": "2026-07-15T22:38:49+00:00",
@@ -15343,5 +15371,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-29T11:33:32+00:00"
+  "updated_at": "2026-07-29T13:17:34+00:00"
 }
