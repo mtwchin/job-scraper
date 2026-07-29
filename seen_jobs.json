@@ -1,5 +1,5 @@
 {
-  "count": 2186,
+  "count": 2190,
   "jobs": {
     "affirm::7485068003": {
       "company": "Affirm",
@@ -7256,6 +7256,13 @@
       "title": "Chemical Product Engineer - Process - Tool",
       "url": "https://kla.wd1.myworkdayjobs.com/search/job/Totowa-NJ/Product-Engineer_2636515"
     },
+    "simplify:kla corporation::simplify-98277f8e-e9e8-4bd6-86bd-2658b5f73e41": {
+      "company": "KLA Corporation",
+      "first_seen": "2026-07-29T03:35:09+00:00",
+      "posted_at": "1778941534",
+      "title": "Senior Instrumentation Software Engineer",
+      "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Senior-Instrumentation-Software-Engineer_2635655-1"
+    },
     "simplify:kla corporation::simplify-ac78bf99-5e40-411f-8671-769122893ad2": {
       "company": "KLA Corporation",
       "first_seen": "2026-07-23T04:36:54+00:00",
@@ -7878,6 +7885,13 @@
       "posted_at": "1783721455",
       "title": "FLEX Associate Software Engineer - Customer Data Platform",
       "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26085377"
+    },
+    "simplify:marsh & mclennan::simplify-2b75b805-1f1c-4167-ba95-493ef3e81786": {
+      "company": "Marsh & McLennan",
+      "first_seen": "2026-07-29T03:35:09+00:00",
+      "posted_at": "1778940306",
+      "title": "AI Analyst - Architecture",
+      "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Dublin---Charlotte/AI-Analyst---Architecture_R_347311"
     },
     "simplify:marsh::simplify-67f616cb-649c-4944-8550-3023ef36afb9": {
       "company": "Marsh",
@@ -13122,6 +13136,13 @@
       "title": "Modeling - Simulation and Analysis Engineer",
       "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Modeling--Simulation-and-Analysis-Engineer_R015751"
     },
+    "simplify:the boeing company::simplify-01a98038-5e8b-421a-9505-1e936c4c1648": {
+      "company": "The Boeing Company",
+      "first_seen": "2026-07-29T03:35:09+00:00",
+      "posted_at": "1785196800",
+      "title": "Entry-Level Software Engineer-Developers",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-level-Software-Engineer-Developers_JR2026518452"
+    },
     "simplify:the boeing company::simplify-0ff85166-c02a-4091-8195-f30ef0966eb3": {
       "company": "The Boeing Company",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -13198,6 +13219,13 @@
       "posted_at": "1783549090",
       "title": "Development Security & Operations Associate - Devsecops - Software Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Development-Security---Operations--DevSecOps--Software-Engineer--Associate-or-Mid-Level-_JR2026515911-1"
+    },
+    "simplify:the boeing company::simplify-89283851-fad6-414b-8dc2-c90c3537d123": {
+      "company": "The Boeing Company",
+      "first_seen": "2026-07-29T03:35:09+00:00",
+      "posted_at": "1785196800",
+      "title": "Entry-Level Software Engineer-Developers",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-level-Software-Engineer-Developers_JR2026518452-1"
     },
     "simplify:the boeing company::simplify-a04562b9-7b11-4524-893e-827c8551693a": {
       "company": "The Boeing Company",
@@ -15245,5 +15273,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-29T00:10:36+00:00"
+  "updated_at": "2026-07-29T03:35:09+00:00"
 }
