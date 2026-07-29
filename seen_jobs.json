@@ -1,5 +1,5 @@
 {
-  "count": 2214,
+  "count": 2216,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -5751,6 +5751,13 @@
       "title": "Software Engineer - Transmission",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova-Software-Engineer--Transmission_R5048311-2"
     },
+    "simplify:ge vernova::simplify-9fc66465-c638-4a10-a6cc-877f7f9e1966": {
+      "company": "GE Vernova",
+      "first_seen": "2026-07-29T16:42:12+00:00",
+      "posted_at": "1784592000",
+      "title": "AI Tool Developer Engineer",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/AI-Tool-Developer-Engineer_R5047870-2"
+    },
     "simplify:ge vernova::simplify-a4cdfbff-a13d-4e76-9f16-0ee63fbbdbbf": {
       "company": "GE Vernova",
       "first_seen": "2026-07-21T10:51:40+00:00",
@@ -7584,6 +7591,13 @@
       "posted_at": "1783415505",
       "title": "Frontend Engineer",
       "url": "https://jobs.ashbyhq.com/layerfi/a34fcd0d-6d73-44e9-8821-5bcb9fc10474/application?embed=true"
+    },
+    "simplify:leidos::simplify-13dd6f9c-c173-4f09-aefe-7255a8bc03f6": {
+      "company": "Leidos",
+      "first_seen": "2026-07-29T16:42:12+00:00",
+      "posted_at": "1785283200",
+      "title": "Software Developer Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311"
     },
     "simplify:leidos::simplify-1d4ccaec-ea2e-4ca6-8715-9278732e08b4": {
       "company": "Leidos",
@@ -15441,5 +15455,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-29T15:21:42+00:00"
+  "updated_at": "2026-07-29T16:42:12+00:00"
 }
