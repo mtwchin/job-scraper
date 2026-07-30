@@ -1,5 +1,5 @@
 {
-  "count": 2252,
+  "count": 2253,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -8922,6 +8922,13 @@
       "title": "Junior Nokia Network Services Platform Technical Care Specialist",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36783"
     },
+    "simplify:nooks::simplify-0d7e5ade-c787-44c5-9358-0e54abadfdfe": {
+      "company": "Nooks",
+      "first_seen": "2026-07-30T08:43:43+00:00",
+      "posted_at": "1785392549",
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53/application?embed=true"
+    },
     "simplify:north cloud::simplify-29f7ea93-41b1-408b-a3e0-8b6945e95e3e": {
       "company": "North Cloud",
       "first_seen": "2026-07-26T10:44:48+00:00",
@@ -15707,5 +15714,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-30T03:24:23+00:00"
+  "updated_at": "2026-07-30T08:43:43+00:00"
 }
