@@ -1,5 +1,5 @@
 {
-  "count": 2254,
+  "count": 2257,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1698,6 +1698,13 @@
       "title": "Developer - Wealth Planning Tools - Wealth Forecasting System",
       "url": "https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Developer_R0019142-2"
     },
+    "simplify:allina health::simplify-b488a843-82e3-4e2a-8ad4-720e0032ee23": {
+      "company": "Allina Health",
+      "first_seen": "2026-07-30T12:18:38+00:00",
+      "posted_at": "1784764800",
+      "title": "Systems Analyst",
+      "url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Systems-Analyst_R-0073055"
+    },
     "simplify:allstate insurance company::simplify-8f04b5c1-b5a3-41ae-87b2-8a2339959201": {
       "company": "Allstate Insurance Company",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -2824,6 +2831,13 @@
       "posted_at": "1779487451",
       "title": "Software Engineer",
       "url": "https://careers-blackhawknetwork.icims.com/jobs/26610/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:blackrock::simplify-87da713b-e024-4492-b0c5-f4967a852bdb": {
+      "company": "BlackRock",
+      "first_seen": "2026-07-30T12:18:37+00:00",
+      "posted_at": "1783900800",
+      "title": "Veterans Transition Program Associate - Platform Enablement Application Engineer",
+      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/Veterans-Transition-Program-Associate--Platform-Enablement-Application-Engineer_R264973"
     },
     "simplify:blackrock::simplify-b35a2969-1549-4c14-9dea-2aa34016c109": {
       "company": "BlackRock",
@@ -11421,6 +11435,13 @@
       "title": "Junior Software Engineer",
       "url": "https://apply.workable.com/rokt/j/783A754DDB/apply"
     },
+    "simplify:rollout::simplify-69aff88e-4f1d-437a-82b3-be6100ddd3ea": {
+      "company": "Rollout",
+      "first_seen": "2026-07-30T12:18:38+00:00",
+      "posted_at": "1784596554",
+      "title": "Founding Software Engineer",
+      "url": "https://jobs.ashbyhq.com/rollout/ac255ccb-888f-46d9-8d57-5e7334a5ee46/application?embed=true"
+    },
     "simplify:royal bank of canada::simplify-5083267e-7caf-40f1-ad4c-7ca8ac259584": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-07-29T23:12:09+00:00",
@@ -15721,5 +15742,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-30T10:51:15+00:00"
+  "updated_at": "2026-07-30T12:18:38+00:00"
 }
