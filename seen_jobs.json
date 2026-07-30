@@ -1,5 +1,5 @@
 {
-  "count": 2243,
+  "count": 2249,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -5877,6 +5877,13 @@
       "title": "Software Engineer Intern",
       "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Sofware-Engineer---Intern_JR14371"
     },
+    "simplify:generac::simplify-5fc3c1a1-dbbe-4761-91dd-17a0ab5f94c1": {
+      "company": "Generac",
+      "first_seen": "2026-07-30T00:10:16+00:00",
+      "posted_at": "1785283200",
+      "title": "Engineering Intern",
+      "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Intern-Engineering_JR14267"
+    },
     "simplify:general dynamics information technology::simplify-1a22f6de-6cee-4fe0-a021-eeef9cdb81ea": {
       "company": "General Dynamics Information Technology",
       "first_seen": "2026-07-21T14:24:56+00:00",
@@ -10875,6 +10882,13 @@
       "title": "Software Engineering Intern",
       "url": "https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b"
     },
+    "simplify:rapdev::simplify-1fd1fcc8-fade-4579-a322-2bc276d73ca7": {
+      "company": "RapDev",
+      "first_seen": "2026-07-30T00:10:16+00:00",
+      "posted_at": "1785363164",
+      "title": "ServiceNow Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application?embed=true"
+    },
     "simplify:ravl::simplify-d0338c65-e371-4fc3-835e-5bee408cbc6b": {
       "company": "RAVL",
       "first_seen": "2026-07-15T16:01:07+00:00",
@@ -11000,6 +11014,13 @@
       "posted_at": "1782770927",
       "title": "Full Stack Developer Co-op",
       "url": "https://jobs.ashbyhq.com/remarcable-inc/38e76aaf-d0b3-40c7-8055-cb7e11ed26cd/application"
+    },
+    "simplify:remitly::simplify-1d60545c-0180-4558-9259-1591b408c2be": {
+      "company": "Remitly",
+      "first_seen": "2026-07-30T00:10:16+00:00",
+      "posted_at": "1785283200",
+      "title": "Fullstack Software Development Engineer 1 - Card",
+      "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-I--Card_R_106624"
     },
     "simplify:reply::simplify-66505d20-4e58-4bba-99f2-daea4ab27848": {
       "company": "Reply",
@@ -12806,6 +12827,13 @@
       "posted_at": "1772175901",
       "title": "Core Java \u2013 Multithreading - Socket Programming",
       "url": "https://jobs.smartrecruiters.com/systemCanadaTechnologies/72248172"
+    },
+    "simplify:t-mobile::simplify-3012e3d5-bb48-4dbf-97fa-e1dd7ea2ce92": {
+      "company": "T-Mobile",
+      "first_seen": "2026-07-30T00:10:16+00:00",
+      "posted_at": "1785363486",
+      "title": "Associate Engineer - Software",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Assoc-Engineer--Software_REQ356124"
     },
     "simplify:t-rex solutions::simplify-20565db4-0f8e-456e-b6e3-4c484757c633": {
       "company": "T-Rex Solutions",
@@ -14928,6 +14956,13 @@
       "title": "Software Engineer Intern - Software Engineer",
       "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002"
     },
+    "simplify:virtu financial::simplify-d8419553-b116-44e9-8ec0-d1ae843c6512": {
+      "company": "Virtu Financial",
+      "first_seen": "2026-07-30T00:10:16+00:00",
+      "posted_at": "1785363946",
+      "title": "Frontend Developer Internship",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002"
+    },
     "simplify:virtu financial::simplify-f65657ff-9f42-4256-ac69-c3a4b36628ea": {
       "company": "Virtu Financial",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -15060,6 +15095,13 @@
       "posted_at": "1784246400",
       "title": "Software Engineer 2",
       "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Denver-CO/Software-Engineer-II_R-2510887-1"
+    },
+    "simplify:walmart::simplify-d7a391ff-005c-4a42-b1c9-be0dcf80c747": {
+      "company": "Walmart",
+      "first_seen": "2026-07-30T00:10:16+00:00",
+      "posted_at": "1785283200",
+      "title": "Software Engineer 3",
+      "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2556827-1"
     },
     "simplify:walrus::simplify-ea4a1ec2-be57-42a0-b019-7e37d08513b1": {
       "company": "Walrus",
@@ -15644,5 +15686,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-29T23:12:09+00:00"
+  "updated_at": "2026-07-30T00:10:16+00:00"
 }
