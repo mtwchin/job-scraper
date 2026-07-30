@@ -1,5 +1,5 @@
 {
-  "count": 2249,
+  "count": 2252,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2243,6 +2243,13 @@
       "posted_at": "1784596449",
       "title": "Migration Automation Software Engineer",
       "url": "https://jobs.ashbyhq.com/archy/5eb1c3cd-1031-4699-b89c-9bd94f15783b/application?embed=true"
+    },
+    "simplify:arevon::simplify-a71991a1-93d6-489a-acf9-092e6afe5759": {
+      "company": "Arevon",
+      "first_seen": "2026-07-30T03:24:23+00:00",
+      "posted_at": "1785373839",
+      "title": "Software Engineer - Business Systems & Analytics",
+      "url": "https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5027450007"
     },
     "simplify:argmax::simplify-db2ae7c8-3d21-42b0-9cb4-b4fb4de5cc58": {
       "company": "Argmax",
@@ -5736,6 +5743,13 @@
       "posted_at": "1774390413",
       "title": "Full Stack Software Developer",
       "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22399"
+    },
+    "simplify:forus::simplify-0b70d1e1-a241-43ea-b553-844b484972d9": {
+      "company": "Forus",
+      "first_seen": "2026-07-30T03:24:23+00:00",
+      "posted_at": "1785374564",
+      "title": "Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/forus/82e10191-232e-4e8d-9c5e-cb82940cdfc7/application?embed=true"
     },
     "simplify:fox::simplify-1959d4a6-4b9c-4759-9763-980fe344f2a1": {
       "company": "FOX",
@@ -13059,6 +13073,13 @@
       "title": "Software Engineer Intern - Vehicle UI Development",
       "url": "https://www.tesla.com/careers/search/job/270063"
     },
+    "simplify:tesla::simplify-0fe46774-0c06-4ab5-94e3-f5f8af293290": {
+      "company": "Tesla",
+      "first_seen": "2026-07-30T03:24:22+00:00",
+      "posted_at": "1785374147",
+      "title": "Software Engineer Intern - Software Engineer - AI Infrastructure",
+      "url": "https://www.tesla.com/careers/search/job/278578"
+    },
     "simplify:tesla::simplify-10b8da4f-6883-47c0-b98d-6c271f1f6357": {
       "company": "Tesla",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -15686,5 +15707,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-30T00:10:16+00:00"
+  "updated_at": "2026-07-30T03:24:23+00:00"
 }
