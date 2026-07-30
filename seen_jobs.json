@@ -1,5 +1,5 @@
 {
-  "count": 2253,
+  "count": 2254,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -9797,6 +9797,13 @@
       "title": "Senior Configuration Analyst - Pathnet Blood Bank",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/337358"
     },
+    "simplify:ou health::simplify-1123b920-9db4-4da1-aa71-92f6c33aaf5a": {
+      "company": "OU Health",
+      "first_seen": "2026-07-30T10:51:15+00:00",
+      "posted_at": "1782558382",
+      "title": "EHR Epic Patient Access Analyst",
+      "url": "https://oumedicine.wd5.myworkdayjobs.com/OUHealthCareers/job/Virtual/EHR-Epic-Patient-Access-Analyst_R0062734"
+    },
     "simplify:oxford quantum circuits (oqc)::simplify-832938a4-3ffe-4b33-92a1-cb77b96ca582": {
       "company": "Oxford Quantum Circuits (OQC)",
       "first_seen": "2026-07-24T15:52:31+00:00",
@@ -15714,5 +15721,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-30T08:43:43+00:00"
+  "updated_at": "2026-07-30T10:51:15+00:00"
 }
