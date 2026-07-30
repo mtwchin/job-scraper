@@ -1,5 +1,5 @@
 {
-  "count": 2257,
+  "count": 2260,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -236,6 +236,13 @@
       "posted_at": "Posted Today",
       "title": "Associate, Software Engineer, New Grad Card Expansion",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247336"
+    },
+    "capital one::Intern--Full-Stack-Software-Engineer---Fall-2026_R246990": {
+      "company": "Capital One",
+      "first_seen": "2026-07-30T14:36:28+00:00",
+      "posted_at": "Posted Today",
+      "title": "Intern, Full Stack Software Engineer - Fall 2026",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Fall-2026_R246990"
     },
     "cisco::Junior-C---Software-Engineer---Serbia---ETR_2016195": {
       "company": "Cisco",
@@ -10469,6 +10476,13 @@
       "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Part-Time-Researcher-in-Explainable-Privacy-Preserving-Cryptographic-Systems-w--Dr-Sharma_REQ_0000077335-1"
     },
+    "simplify:pennsylvania state university::simplify-f205101a-c504-424c-a768-a9e0ebb3adf3": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-07-30T14:36:29+00:00",
+      "posted_at": "1783163077",
+      "title": "Computer Engineer",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Computer-Engineer_REQ_0000077378-2"
+    },
     "simplify:pennsylvania state university::simplify-f5128a8e-8b27-4d14-823e-e3291bca22f2": {
       "company": "Pennsylvania State University",
       "first_seen": "2026-07-24T12:43:35+00:00",
@@ -10993,6 +11007,13 @@
       "posted_at": "1773181477",
       "title": "Senior Software Engineer - Energy Storage",
       "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5823270004"
+    },
+    "simplify:regal rexnord::simplify-5333f836-9cf2-4382-96ba-082613f49176": {
+      "company": "Regal Rexnord",
+      "first_seen": "2026-07-30T14:36:29+00:00",
+      "posted_at": "1785283200",
+      "title": "Application Engineer 1",
+      "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Auburn-Alabama-United-States/Application-Engineer-I_R26_03816"
     },
     "simplify:regal rexnord::simplify-ee4aaf62-7d90-4ccb-a4b8-316d27e6f80b": {
       "company": "Regal Rexnord",
@@ -15742,5 +15763,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-30T12:18:38+00:00"
+  "updated_at": "2026-07-30T14:36:29+00:00"
 }
