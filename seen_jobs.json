@@ -1,5 +1,5 @@
 {
-  "count": 2280,
+  "count": 2291,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2678,6 +2678,20 @@
       "title": "Software Engineer Apprentice",
       "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-SO-NAILSEA-2-HIGH-STREET/Emerging-Talent---Software-Engineer-Apprentice-2026--Nailsea-_R165829"
     },
+    "simplify:bank of montreal::simplify-2ef7a6e8-176c-4ebb-ad45-119ab4534b9f": {
+      "company": "Bank of Montreal",
+      "first_seen": "2026-07-30T23:41:21+00:00",
+      "posted_at": "1785369600",
+      "title": "Software Developer New Grad",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222"
+    },
+    "simplify:bank of montreal::simplify-44824140-4982-4240-8d81-60491e3e0f81": {
+      "company": "Bank of Montreal",
+      "first_seen": "2026-07-30T23:41:21+00:00",
+      "posted_at": "1785369600",
+      "title": "Software Developer New Grad",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222-1"
+    },
     "simplify:barkback::simplify-343fcb3c-e4be-4f12-841e-664571827fa6": {
       "company": "Barkback",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -3944,6 +3958,13 @@
       "posted_at": "1785363893",
       "title": "Software Engineer Backend/Platform Systems 1",
       "url": "https://careers.cisco.com/global/en/job/2000046"
+    },
+    "simplify:cisco::simplify-d8fd75f8-9639-4a1e-a974-f68d2c24cad7": {
+      "company": "Cisco",
+      "first_seen": "2026-07-30T23:41:20+00:00",
+      "posted_at": "1785369600",
+      "title": "Software Engineer 1",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-I--Full-Time----United-States_1449197"
     },
     "simplify:cisco::simplify-dff4c026-8cab-4cdd-92eb-26189980b28c": {
       "company": "Cisco",
@@ -5380,6 +5401,13 @@
       "title": "Web Developer 1 - UI for Arcgis Enterprise",
       "url": "https://www.esri.com/careers/5188696007?gh_jid=5188696007"
     },
+    "simplify:esri::simplify-4b4c362d-9baa-4d71-81c4-3229d3e605eb": {
+      "company": "Esri",
+      "first_seen": "2026-07-30T23:41:21+00:00",
+      "posted_at": "1785450798",
+      "title": "C++ Software Development Engineer 1",
+      "url": "https://www.esri.com/careers/5185281007?gh_jid=5185281007"
+    },
     "simplify:esri::simplify-5909e69f-9e25-4075-904c-d31c6aa6f5f7": {
       "company": "Esri",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -5407,6 +5435,13 @@
       "posted_at": "1782339000",
       "title": "Software Development Engineer 1",
       "url": "https://www.esri.com/careers/5173239007?gh_jid=5173239007"
+    },
+    "simplify:esri::simplify-ac4ef6f6-759d-4722-84e4-20b1fcd59ac8": {
+      "company": "Esri",
+      "first_seen": "2026-07-30T23:41:21+00:00",
+      "posted_at": "1785450811",
+      "title": "Product Engineer 1 - ArcGIS Maps SDKs",
+      "url": "https://www.esri.com/careers/5198108007?gh_jid=5198108007"
     },
     "simplify:esri::simplify-b94e8d1e-3c45-4d18-b334-b8f2fec267bb": {
       "company": "Esri",
@@ -5968,6 +6003,13 @@
       "title": "Engineering Intern",
       "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/Intern-Engineering_JR14267"
     },
+    "simplify:generac::simplify-6e9955f2-6e61-4e9c-9465-615ddfb93823": {
+      "company": "Generac",
+      "first_seen": "2026-07-30T23:41:21+00:00",
+      "posted_at": "1785369600",
+      "title": "Application Engineer 1",
+      "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/USA---CO-Fort-Collins/Application-Engineer-I_JR15688"
+    },
     "simplify:general dynamics information technology::simplify-1a22f6de-6cee-4fe0-a021-eeef9cdb81ea": {
       "company": "General Dynamics Information Technology",
       "first_seen": "2026-07-21T14:24:56+00:00",
@@ -6254,6 +6296,13 @@
       "posted_at": "1782338726",
       "title": "Software Engineer 1 - Adobe Exp Platform",
       "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260400"
+    },
+    "simplify:godaddy::simplify-12d18ee4-5916-44bb-8d90-d5b39f8a7c4b": {
+      "company": "GoDaddy",
+      "first_seen": "2026-07-30T23:41:21+00:00",
+      "posted_at": "1785449532",
+      "title": "Software Development Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/eventsandinterns/jobs/7820942003"
     },
     "simplify:goldman sachs::simplify-3ac699af-5c50-4a7c-81af-6dfb56f595db": {
       "company": "Goldman Sachs",
@@ -9272,6 +9321,13 @@
       "title": "Engineer/Principal Engineer - Survivability",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-Principal-Engineer---Survivability--Melbourne-FL-_R10237946"
     },
+    "simplify:northrop grumman::simplify-a04e2b85-1ba1-4a2c-9f29-07bcf6f62776": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-30T23:41:21+00:00",
+      "posted_at": "1785369600",
+      "title": "Engineer/Principal Engineer Manufacturing Level",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Engineer-Principal-Engineer-Manufacturing-Level-2-3_R10242661-1"
+    },
     "simplify:northrop grumman::simplify-a13cbb72-8a90-4b24-83d8-1896547d8948": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -9397,6 +9453,13 @@
       "posted_at": "1784160000",
       "title": "Software Engineer Associate",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764"
+    },
+    "simplify:northrop grumman::simplify-fd35bf7d-2a83-4c94-84df-7f5ae7a4429f": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-07-30T23:41:21+00:00",
+      "posted_at": "1785369600",
+      "title": "Associate Software Engineer / Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060"
     },
     "simplify:northrop grumman::simplify-fefd49e7-65d2-4e08-8a70-aa7e24525221": {
       "company": "Northrop Grumman",
@@ -11631,6 +11694,13 @@
       "title": "Leadership Development Program - Engineering - Software",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Software--Starts-June-2027-_01853289"
     },
+    "simplify:rtx::simplify-472125a8-9314-47f2-9392-39ed62ab2b3c": {
+      "company": "RTX",
+      "first_seen": "2026-07-30T23:41:21+00:00",
+      "posted_at": "1785369600",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767-1"
+    },
     "simplify:rtx::simplify-4cc19448-c709-4f52-92b4-9d868f9ad3e9": {
       "company": "RTX",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -12680,6 +12750,13 @@
       "posted_at": "1784596501",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/spacial/67b76194-6cc0-4d37-a3e3-c21a14ff4a26/application?embed=true"
+    },
+    "simplify:sparksoft::simplify-9f4f7324-75cc-408e-8f40-d332e544174f": {
+      "company": "Sparksoft",
+      "first_seen": "2026-07-30T23:41:21+00:00",
+      "posted_at": "1785450179",
+      "title": "Technical Intern",
+      "url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5199580007"
     },
     "simplify:spreeai ::simplify-0b289d87-b4b1-4056-8003-0a76181dcb52": {
       "company": "SpreeAI ",
@@ -15903,5 +15980,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-30T22:42:25+00:00"
+  "updated_at": "2026-07-30T23:41:21+00:00"
 }
