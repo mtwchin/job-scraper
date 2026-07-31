@@ -1,5 +1,5 @@
 {
-  "count": 2291,
+  "count": 2293,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3944,6 +3944,13 @@
       "posted_at": "1785191046",
       "title": "Software Engineer",
       "url": "https://careers.cisco.com/global/en/job/2019587"
+    },
+    "simplify:cisco::simplify-950f53eb-f578-4031-8d81-ac822b56d643": {
+      "company": "Cisco",
+      "first_seen": "2026-07-31T04:38:17+00:00",
+      "posted_at": "1785461045",
+      "title": "Software Engineer 1",
+      "url": "https://careers.cisco.com/global/en/job/1449197"
     },
     "simplify:cisco::simplify-b79ef152-7b8b-42ee-8bba-e1cd8098d777": {
       "company": "Cisco",
@@ -8417,6 +8424,13 @@
       "posted_at": "1784851200",
       "title": "Software Engineer 1 - AI-Driven Data Solutions",
       "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435"
+    },
+    "simplify:melius::simplify-3d88fb1f-4b46-4e88-a576-048f777a91f2": {
+      "company": "Melius",
+      "first_seen": "2026-07-31T04:38:18+00:00",
+      "posted_at": "1785460817",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true"
     },
     "simplify:melotech::simplify-0ee42cec-fd2b-4ffa-8687-8c302e90fbcf": {
       "company": "Melotech",
@@ -15980,5 +15994,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-30T23:41:21+00:00"
+  "updated_at": "2026-07-31T04:38:18+00:00"
 }
