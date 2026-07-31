@@ -1,5 +1,5 @@
 {
-  "count": 2297,
+  "count": 2299,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1410,6 +1410,13 @@
       "posted_at": "1780697288",
       "title": "Certified EHR Systems Analyst 1 - Radiant",
       "url": "https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/64291"
+    },
+    "simplify:advocate technologies inc.::simplify-3db3eeab-2418-4414-9d0c-57317714935f": {
+      "company": "Advocate Technologies Inc.",
+      "first_seen": "2026-07-31T10:08:30+00:00",
+      "posted_at": "1784596312",
+      "title": "Product Engineer",
+      "url": "https://ats.rippling.com/advocate-technologies-inc/jobs/50d16a20-4191-4bac-8915-230f81df29b3"
     },
     "simplify:aechelon technology::simplify-9082da61-057b-4091-9ce6-2092cb662419": {
       "company": "Aechelon Technology",
@@ -11540,6 +11547,13 @@
       "title": "Therapist - PHP/Iop",
       "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Lincoln-Center-Clinic-West-Allis-WI/Therapist---PHP-IOP_R6263"
     },
+    "simplify:rogers behavioral health::simplify-343de3c2-f74f-4f4b-b201-aeb6232de510": {
+      "company": "Rogers Behavioral Health",
+      "first_seen": "2026-07-31T10:08:30+00:00",
+      "posted_at": "1783462015",
+      "title": "Therapist \u2013 PHP/Iop",
+      "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Seattle-Clinic-Bellevue-WA/Therapist---PHP-IOP_R7978"
+    },
     "simplify:rogers behavioral health::simplify-5c0748e1-a7ed-4bae-9ce1-edbea903c615": {
       "company": "Rogers Behavioral Health",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -16022,5 +16036,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-31T07:31:38+00:00"
+  "updated_at": "2026-07-31T10:08:30+00:00"
 }
