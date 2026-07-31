@@ -1,5 +1,5 @@
 {
-  "count": 2317,
+  "count": 2318,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -395,6 +395,13 @@
       "posted_at": "2026-07-01T13:11:54-04:00",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101"
+    },
+    "intel::AI-Software-Engineer-Graduate-Intern_JR0285989": {
+      "company": "Intel",
+      "first_seen": "2026-07-31T17:56:25+00:00",
+      "posted_at": "Posted Today",
+      "title": "AI Software Engineer Graduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989"
     },
     "intel::AI-Software-Engineering-Intern_JR0282639": {
       "company": "Intel",
@@ -16162,5 +16169,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-31T16:18:43+00:00"
+  "updated_at": "2026-07-31T17:56:25+00:00"
 }
