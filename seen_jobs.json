@@ -1,5 +1,5 @@
 {
-  "count": 2293,
+  "count": 2297,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2327,6 +2327,13 @@
       "posted_at": "1777500502",
       "title": "Manufacturing Solutions Specialist",
       "url": "https://jobs.armstrong.com/job/Salt-Lake-City-Manufacturing-Solutions-Specialist-Job-Utah/1386739100/?ats=successfactors"
+    },
+    "simplify:artera::simplify-143e4b9d-cab8-44f1-88c8-57faf543844f": {
+      "company": "Artera",
+      "first_seen": "2026-07-31T07:31:38+00:00",
+      "posted_at": "1785477885",
+      "title": "Associate AI Builder",
+      "url": "https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0/apply"
     },
     "simplify:ask it consulting::simplify-1795cf4e-c11d-445a-b456-46e78f4e1bb6": {
       "company": "Ask IT Consulting",
@@ -6548,6 +6555,20 @@
       "posted_at": "1782252546",
       "title": "Associate Application Engineer",
       "url": "https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Associate-Application-Engineer_R26003212"
+    },
+    "simplify:heliux::simplify-5410157c-2206-4b07-8f6c-ef7f52129039": {
+      "company": "Heliux",
+      "first_seen": "2026-07-31T07:31:38+00:00",
+      "posted_at": "1785478970",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c/application?embed=true"
+    },
+    "simplify:heliux::simplify-8b98f33d-21b5-4ae4-af04-3b7378193f39": {
+      "company": "Heliux",
+      "first_seen": "2026-07-31T07:31:38+00:00",
+      "posted_at": "1785478970",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true"
     },
     "simplify:hello fresh::simplify-24f7e872-4855-4f4d-8aad-c73ffe276cbf": {
       "company": "Hello Fresh",
@@ -13612,6 +13633,13 @@
       "title": "Software Engineer Intern - Engineering Automation Software Engineer - Vehicle Engineering",
       "url": "https://www.tesla.com/careers/search/job/267767"
     },
+    "simplify:tesla::simplify-b5c7fd89-4672-4907-87b7-68a4b6957acb": {
+      "company": "Tesla",
+      "first_seen": "2026-07-31T07:31:37+00:00",
+      "posted_at": "1785478503",
+      "title": "Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface",
+      "url": "https://www.tesla.com/careers/search/job/278703"
+    },
     "simplify:tesla::simplify-c6ed98e1-2c89-4ee7-b7a3-8e6b72563fc7": {
       "company": "Tesla",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -15994,5 +16022,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-31T04:38:18+00:00"
+  "updated_at": "2026-07-31T07:31:38+00:00"
 }
