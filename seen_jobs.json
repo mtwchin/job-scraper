@@ -1,5 +1,5 @@
 {
-  "count": 2299,
+  "count": 2306,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2895,6 +2895,13 @@
       "title": "Portfolio Compliance Implementation Associate",
       "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Wilmington-DE/Associate--Investment-Guidelines-Compliance---Delaware_R261567"
     },
+    "simplify:blackrock::simplify-da170a22-9c31-4c51-8a59-7f3578b94753": {
+      "company": "BlackRock",
+      "first_seen": "2026-07-31T12:11:58+00:00",
+      "posted_at": "1783161768",
+      "title": "Associate \u2013 Frontend Software Engineer - React",
+      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Chicago-IL/Associate--Frontend-Software-Engineer--React-_R264790"
+    },
     "simplify:blinqlabs::simplify-8adf8a0f-8e62-4272-a4ac-197b91e8bb67": {
       "company": "BlinqLABS",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -5786,6 +5793,13 @@
       "title": "Software Engineer \u2013 New Grad",
       "url": "https://ats.rippling.com/flexai/jobs/93ada67c-8527-427c-b2f6-4a5557b00674"
     },
+    "simplify:flexgen::simplify-d0c5c25a-e0ac-488e-8b2f-feb1134545b5": {
+      "company": "FlexGen",
+      "first_seen": "2026-07-31T12:11:59+00:00",
+      "posted_at": "1781734359",
+      "title": "Energy Storage Application Engineer - Data Center",
+      "url": "https://ats.rippling.com/external-job-board/jobs/919d9328-a3a9-4932-b69a-93258670da2f"
+    },
     "simplify:flexport::simplify-f667aafd-a58e-4445-a974-54d1951d1f59": {
       "company": "Flexport",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -7073,6 +7087,13 @@
       "posted_at": "1782176660",
       "title": "Software Engineer",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Engineer_JR0285009"
+    },
+    "simplify:intel::simplify-dc78ae5b-1e53-4193-9e47-0549b350dd79": {
+      "company": "Intel",
+      "first_seen": "2026-07-31T12:11:58+00:00",
+      "posted_at": "1785110400",
+      "title": "System Software Engineer",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/System-Software-Engineer_JR0285048"
     },
     "simplify:intel::simplify-e18b5659-3658-49dd-a554-9ba2b49123a9": {
       "company": "Intel",
@@ -9958,6 +9979,13 @@
       "title": "Software Developer 3",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/337610"
     },
+    "simplify:oracle::simplify-b3f1d4e0-dd2c-42b1-b5e9-3075cb96e6ea": {
+      "company": "Oracle",
+      "first_seen": "2026-07-31T12:11:58+00:00",
+      "posted_at": "1780016826",
+      "title": "Application Software Engineer",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334471"
+    },
     "simplify:oracle::simplify-c8d01702-9baf-46fb-b887-f54a8f24a12a": {
       "company": "Oracle",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -10615,6 +10643,13 @@
       "posted_at": "1784073600",
       "title": "R&D Engineer Intern",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer-Intern_REQ_0000079178-1"
+    },
+    "simplify:pennsylvania state university::simplify-d49d4a3f-dcd1-4699-9cad-00b2bbc628dc": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-07-31T12:11:59+00:00",
+      "posted_at": "1783163790",
+      "title": "Simulation Software Engineer",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Simulation-Software-Engineer_REQ_0000076942-2"
     },
     "simplify:pennsylvania state university::simplify-e0f4ad95-621b-4469-be39-0a9855d90b63": {
       "company": "Pennsylvania State University",
@@ -11287,6 +11322,13 @@
       "posted_at": "1784596675",
       "title": "Software Engineer - Test - Entry-Junior",
       "url": "https://jobs.ashbyhq.com/revel/014c6445-bf8c-4213-ad97-faa83d129199/application?embed=true"
+    },
+    "simplify:reverb::simplify-b6dadd07-7fc6-4caa-a32c-73f2f0d9ffd3": {
+      "company": "Reverb",
+      "first_seen": "2026-07-31T12:11:59+00:00",
+      "posted_at": "1784596648",
+      "title": "Software Engineer-Shipping",
+      "url": "https://ats.rippling.com/reverb-careers/jobs/25af40a7-e81c-4748-bac2-51e59e78196b"
     },
     "simplify:revvity::simplify-00b3e0f0-200c-473f-a437-7cb992e24028": {
       "company": "Revvity",
@@ -15320,6 +15362,13 @@
       "title": "Software Engineer / Site Reliability Engineer - Linux",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Basingstoke-United-Kingdom/Software-Engineer_REF076350W"
     },
+    "simplify:visa::simplify-495f4902-0dd0-402b-a510-ee3ea0cd18a5": {
+      "company": "Visa",
+      "first_seen": "2026-07-31T12:11:59+00:00",
+      "posted_at": "1783987200",
+      "title": "Backend Senior Software Engineer",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Backend-Senior-Software-Engineer_REF081845W"
+    },
     "simplify:visa::simplify-d3ff5ace-964a-408c-b75f-58756c9ba738": {
       "company": "Visa",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -16036,5 +16085,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-31T10:08:30+00:00"
+  "updated_at": "2026-07-31T12:11:59+00:00"
 }
