@@ -1,5 +1,5 @@
 {
-  "count": 2318,
+  "count": 2324,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -4113,6 +4113,13 @@
       "title": "Software Engineer - Infrastructure",
       "url": "https://job-boards.greenhouse.io/clear/jobs/7901600"
     },
+    "simplify:clearwater analytics::simplify-8d1a8f69-8cf2-44eb-8e74-0921d29de230": {
+      "company": "Clearwater Analytics",
+      "first_seen": "2026-07-31T22:42:03+00:00",
+      "posted_at": "1785456000",
+      "title": "Associate Software Development Engineer",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Associate-Software-Development-Engineer_R11879"
+    },
     "simplify:clera::simplify-03866764-b942-4e9f-977f-9523a4647726": {
       "company": "Clera",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -6157,6 +6164,13 @@
       "title": "Junior ERP Developer",
       "url": "https://careers-gdeb.icims.com/jobs/19657/job?mobile=true&needsRedirect=false"
     },
+    "simplify:general motors::simplify-448885da-fdf1-4759-b904-870c29e0369e": {
+      "company": "General Motors",
+      "first_seen": "2026-07-31T22:42:03+00:00",
+      "posted_at": "1784505600",
+      "title": "Software Developer - Virtualization and SIL Integration",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Developer---Virtualization-and-SIL-Integration_JR-202610792"
+    },
     "simplify:general motors::simplify-7f07b83f-6b6f-4722-9fc9-391681b0c844": {
       "company": "General Motors",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -6205,6 +6219,20 @@
       "posted_at": "1782914883",
       "title": "Machine Vision Development Engineer 1",
       "url": "https://gentex.wd5.myworkdayjobs.com/Gentex/job/Zeeland-MI/Machine-Vision-Development-Engineer-I_REQ026227"
+    },
+    "simplify:genworth financial::simplify-8e984444-bc04-494b-b26d-4f4a8cd5d1e7": {
+      "company": "Genworth Financial",
+      "first_seen": "2026-07-31T22:42:03+00:00",
+      "posted_at": "1785456000",
+      "title": "IT Development Program Intern - IT Development Program",
+      "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Intern---Summer-2027_REQ-260269-1"
+    },
+    "simplify:genworth financial::simplify-cebc7271-6016-457a-8466-e24fd77906ce": {
+      "company": "Genworth Financial",
+      "first_seen": "2026-07-31T22:42:03+00:00",
+      "posted_at": "1785456000",
+      "title": "IT Development Program Analyst",
+      "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Richmond-Virginia/Genworth-IT-Development-Program-Analyst---2027_REQ-260271-1"
     },
     "simplify:geocomply::simplify-1d0df9c8-c66c-43a4-a73a-ee0c92dc7fc6": {
       "company": "GeoComply",
@@ -8292,6 +8320,13 @@
       "title": "AI Engineer",
       "url": "https://jobs.ashbyhq.com/makai-labs/a350e730-8d80-4528-9d41-497acbd01223/application"
     },
+    "simplify:manulife financial::simplify-4ff8ce00-d5ca-486c-b103-e438be53ee1a": {
+      "company": "Manulife Financial",
+      "first_seen": "2026-07-31T22:42:03+00:00",
+      "posted_at": "1785456000",
+      "title": "Full Stack Software Engineer - Fund Administration IT",
+      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Full-Stack-Software-Engineer_JR26070424-2"
+    },
     "simplify:manulife financial::simplify-e3d3e5c2-9d68-47ca-9dea-85edde365402": {
       "company": "Manulife Financial",
       "first_seen": "2026-07-28T23:15:13+00:00",
@@ -9061,6 +9096,13 @@
       "posted_at": "1764533170",
       "title": "Software Engineer Intern - BCI Applications",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003"
+    },
+    "simplify:newsbreak::simplify-48921fdc-0754-40c8-91cc-f5e1bb6277bb": {
+      "company": "NewsBreak",
+      "first_seen": "2026-07-31T22:42:03+00:00",
+      "posted_at": "1785536510",
+      "title": "Software Engineer Junior New Grad - ML Infra",
+      "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4615879006"
     },
     "simplify:nexhealth::simplify-310d9264-5d90-4890-983f-dae3a7451af5": {
       "company": "NexHealth",
@@ -16169,5 +16211,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-31T17:56:25+00:00"
+  "updated_at": "2026-07-31T22:42:03+00:00"
 }
