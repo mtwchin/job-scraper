@@ -1,5 +1,5 @@
 {
-  "count": 2312,
+  "count": 2317,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -6773,6 +6773,13 @@
       "title": "Epic Cadence Analyst 1",
       "url": "https://hss.wd1.myworkdayjobs.com/HSS_Careers/job/New-York-NY/Epic-Cadence-Analyst-I_JR2026-104921"
     },
+    "simplify:howden::simplify-b505b48b-e77b-457e-b978-12bd26fa4506": {
+      "company": "Howden",
+      "first_seen": "2026-07-31T16:18:43+00:00",
+      "posted_at": "1785456000",
+      "title": "AI Operations Engineer",
+      "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Home---UK--England/AI-Operations-Engineer_R0018646-1"
+    },
     "simplify:howmet aerospace::simplify-595e4ece-bee9-40de-9a07-71edd2f70957": {
       "company": "Howmet Aerospace",
       "first_seen": "2026-07-24T23:33:06+00:00",
@@ -7788,6 +7795,13 @@
       "title": "Software Engineer \u2013 Early Career - Full Stack",
       "url": "https://jobs.ashbyhq.com/kustomer/4037272a-7fd3-4040-906b-47fde875a817/application"
     },
+    "simplify:l3harris technologies::simplify-1b22c446-ca15-46a6-8a3f-b6d8575ffa66": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-07-31T16:18:43+00:00",
+      "posted_at": "1785506597",
+      "title": "Software Engineering Associate",
+      "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80925/1414513700/?ats=successfactors"
+    },
     "simplify:l3harris technologies::simplify-21d62d0d-885a-455d-b351-7f9ef87a1904": {
       "company": "L3Harris Technologies",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -7843,6 +7857,13 @@
       "posted_at": "1784855070",
       "title": "Senior Software Engineer - Software Engineer",
       "url": "https://jobs.l3harris.com/job/Herndon-Senior-Associate,-Software-Engineer-VA-20171/1412220600/?ats=successfactors"
+    },
+    "simplify:l3harris technologies::simplify-dc6217c1-230d-4b6d-9ec6-781741754f2e": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-07-31T16:18:43+00:00",
+      "posted_at": "1785506595",
+      "title": "Software Engineering Associate",
+      "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineeriing-FL-32905/1414475800/?ats=successfactors"
     },
     "simplify:l3harris technologies::simplify-f49965a8-66d7-460e-aefb-c756911f4dff": {
       "company": "L3Harris Technologies",
@@ -8501,6 +8522,13 @@
       "posted_at": "1785460817",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf/application?embed=true"
+    },
+    "simplify:melius::simplify-56196707-1bc1-44de-9e0e-a32456792771": {
+      "company": "Melius",
+      "first_seen": "2026-07-31T16:18:43+00:00",
+      "posted_at": "1785507581",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280/application?embed=true"
     },
     "simplify:melotech::simplify-0ee42cec-fd2b-4ffa-8687-8c302e90fbcf": {
       "company": "Melotech",
@@ -16124,8 +16152,15 @@
       "posted_at": "2026-07-21T11:34:18-04:00",
       "title": "Internship - Software Engineer",
       "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002"
+    },
+    "virtu financial::8657500002": {
+      "company": "Virtu Financial",
+      "first_seen": "2026-07-31T16:18:42+00:00",
+      "posted_at": "2026-07-31T11:55:16-04:00",
+      "title": "2027 Internship - Frontend Engineer (UI)",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002"
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-31T14:33:37+00:00"
+  "updated_at": "2026-07-31T16:18:43+00:00"
 }
