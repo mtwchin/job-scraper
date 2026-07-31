@@ -1,5 +1,5 @@
 {
-  "count": 2306,
+  "count": 2312,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -6010,6 +6010,13 @@
       "title": "Software Engineer Intern",
       "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125"
     },
+    "simplify:gemini::simplify-d9481744-4fc1-402b-8623-468e95e52fd1": {
+      "company": "Gemini",
+      "first_seen": "2026-07-31T14:33:37+00:00",
+      "posted_at": "1779487862",
+      "title": "Design Developer",
+      "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7951195&gh_jid=7951195"
+    },
     "simplify:genbio ai::simplify-c12ce9b6-76be-4fc6-b0fc-50a6576eb45b": {
       "company": "GenBio AI",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -7837,6 +7844,13 @@
       "title": "Senior Software Engineer - Software Engineer",
       "url": "https://jobs.l3harris.com/job/Herndon-Senior-Associate,-Software-Engineer-VA-20171/1412220600/?ats=successfactors"
     },
+    "simplify:l3harris technologies::simplify-f49965a8-66d7-460e-aefb-c756911f4dff": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-07-31T14:33:37+00:00",
+      "posted_at": "1785506597",
+      "title": "Software Engineering Associate",
+      "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors"
+    },
     "simplify:laserfiche::simplify-3937a504-382b-4061-a6ac-e27d6b2f4540": {
       "company": "Laserfiche",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -7962,6 +7976,13 @@
       "posted_at": "1783641600",
       "title": "Junior Software Engineer",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer_R-00187032"
+    },
+    "simplify:leidos::simplify-7bcafcc7-31cf-41d4-87f2-24cd9a2c4cd1": {
+      "company": "Leidos",
+      "first_seen": "2026-07-31T14:33:37+00:00",
+      "posted_at": "1785283200",
+      "title": "Software Engineer",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00188155"
     },
     "simplify:leidos::simplify-842d796a-d789-46c6-b40f-ee55dd5d2367": {
       "company": "Leidos",
@@ -10686,6 +10707,13 @@
       "title": "Systems Administrator - Linux/Cloud",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/Systems-Administrator--Linux-Cloud-_REQ_0000079324-2"
     },
+    "simplify:pennsylvania state university::simplify-fe6f340c-a4df-4a15-b14f-5d0a4ccea31f": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-07-31T14:33:37+00:00",
+      "posted_at": "1783163272",
+      "title": "DevSecOps Research Computing Software Engineer",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/DevSecOps-Research-Computing-Software-Engineer_REQ_0000079351-2"
+    },
     "simplify:people culture talent::simplify-22a341c0-1428-4064-a7c3-2c01961fcee3": {
       "company": "People Culture Talent",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10902,6 +10930,13 @@
       "posted_at": "1784505600",
       "title": "Software Engineer Associate",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Associate_R230042-1"
+    },
+    "simplify:poet::simplify-b7d89584-5255-481b-839d-d772ddca1830": {
+      "company": "POET",
+      "first_seen": "2026-07-31T14:33:37+00:00",
+      "posted_at": "1783987200",
+      "title": "Developer 1 - I",
+      "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Developer-I_R101525"
     },
     "simplify:pogo technologies, inc.::simplify-223c9803-c3ad-4d94-bee5-814efdb939ef": {
       "company": "Pogo Technologies, Inc.",
@@ -14844,6 +14879,13 @@
       "title": "Graduate Research Assistant - Developer",
       "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891"
     },
+    "simplify:university of arkansas::simplify-eda47db0-ef47-4b5a-ad10-0e9da2769dca": {
+      "company": "University of Arkansas",
+      "first_seen": "2026-07-31T14:33:37+00:00",
+      "posted_at": "1783159751",
+      "title": "Extra Help Assistant",
+      "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Extra-Help-Assistant_R0070987"
+    },
     "simplify:university of british columbia::simplify-36404717-f4b6-48b0-af03-c393a3d82a29": {
       "company": "University of British Columbia",
       "first_seen": "2026-07-20T23:15:00+00:00",
@@ -16085,5 +16127,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-31T12:11:59+00:00"
+  "updated_at": "2026-07-31T14:33:37+00:00"
 }
