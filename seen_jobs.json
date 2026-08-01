@@ -1,5 +1,5 @@
 {
-  "count": 2374,
+  "count": 2378,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2250,6 +2250,13 @@
       "posted_at": "1781762728",
       "title": "Lab Software Engineer",
       "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Epic-Lab-Software-Engineer--NCG---Master-s-PhD-_R2622219"
+    },
+    "simplify:applied materials::simplify-fef6766c-bb0d-443d-a167-9d1ebfd1a98f": {
+      "company": "Applied Materials",
+      "first_seen": "2026-08-01T17:16:43+00:00",
+      "posted_at": "1783375994",
+      "title": "Computer Vision/Machine Learning/Deep Learning Algorithm Developer",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/CV-ML-DL-Algorithm-Developer_R2622877-1"
     },
     "simplify:applied systems, inc.::simplify-51ca28a3-5501-448a-a399-6a1d14a4fcda": {
       "company": "Applied Systems, Inc.",
@@ -7703,6 +7710,13 @@
       "posted_at": "1771916877",
       "title": "Dot Net Developer",
       "url": "https://jobs.smartrecruiters.com/Learnkwikcom/743999660833307"
+    },
+    "simplify:kastle ai::simplify-92aff0db-bdf5-4675-a4ba-1989b1181a74": {
+      "company": "Kastle AI",
+      "first_seen": "2026-08-01T17:16:43+00:00",
+      "posted_at": "1783174083",
+      "title": "Founder Intern",
+      "url": "https://jobs.ashbyhq.com/kastle/2c764341-e028-4736-a1a7-0d5faf16e592/application?embed=true"
     },
     "simplify:katalyst space technologies::simplify-68a6a4dc-3fdb-4b12-83f1-c98c75b2761c": {
       "company": "Katalyst Space Technologies",
@@ -15824,6 +15838,13 @@
       "title": "Backend Senior Software Engineer",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Backend-Senior-Software-Engineer_REF081845W"
     },
+    "simplify:visa::simplify-b9ebe0ba-87b7-4311-b4f1-24c6d21285ca": {
+      "company": "Visa",
+      "first_seen": "2026-08-01T17:16:43+00:00",
+      "posted_at": "1783162157",
+      "title": "Systems Engineer - Linux - AI",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Systems-Engineer--Linux-and-AI_REF077273W"
+    },
     "simplify:visa::simplify-d3ff5ace-964a-408c-b75f-58756c9ba738": {
       "company": "Visa",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -16335,6 +16356,13 @@
       "title": "AI Engineer Intern",
       "url": "https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/apply"
     },
+    "simplify:xylem::simplify-57d7b743-3ff2-40d2-b2b8-6c14be9eefdf": {
+      "company": "Xylem",
+      "first_seen": "2026-08-01T17:16:43+00:00",
+      "posted_at": "1782914900",
+      "title": "Application Engineer 2",
+      "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Oromocto/Application-Engineer-II_R49123"
+    },
     "simplify:xylem::simplify-9c3fc447-fdbf-41b3-ae09-b5bf11332501": {
       "company": "Xylem",
       "first_seen": "2026-07-27T23:47:06+00:00",
@@ -16561,5 +16589,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-01T16:16:06+00:00"
+  "updated_at": "2026-08-01T17:16:43+00:00"
 }
