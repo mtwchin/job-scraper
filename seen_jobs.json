@@ -1,5 +1,5 @@
 {
-  "count": 2383,
+  "count": 2384,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -7808,6 +7808,13 @@
       "posted_at": "1785283200",
       "title": "Computer Science Technician Trainee",
       "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Computer-Science-Technician-Trainee_R2127492"
+    },
+    "simplify:kbr::simplify-e9b82842-eb2e-41f4-bfce-c4dd1a68c70d": {
+      "company": "KBR",
+      "first_seen": "2026-08-01T20:28:50+00:00",
+      "posted_at": "1784246400",
+      "title": "Junior Software Engineer",
+      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Junior-Software-Engineer_R2126608"
     },
     "simplify:kenco management services::simplify-f7de97e9-f415-42d5-a452-3b5b4903b75c": {
       "company": "Kenco Management Services",
@@ -16624,5 +16631,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-01T19:33:24+00:00"
+  "updated_at": "2026-08-01T20:28:50+00:00"
 }
