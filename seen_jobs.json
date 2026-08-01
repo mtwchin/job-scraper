@@ -1,5 +1,5 @@
 {
-  "count": 2348,
+  "count": 2353,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1445,6 +1445,13 @@
       "posted_at": "1782223600",
       "title": "Entry-Level Software Engineer",
       "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Dayton-OH/Entry-Level-Software-Engineer_8010"
+    },
+    "simplify:aerovironment::simplify-74b2d4ff-f0ec-41d4-bc51-c06875faa9b7": {
+      "company": "AeroVironment",
+      "first_seen": "2026-08-01T11:50:42+00:00",
+      "posted_at": "1766446090",
+      "title": "CNO Developer",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/420-National-Business-Parkway-Jessup-MD/CNO-Developer_6358"
     },
     "simplify:aerovironment::simplify-7bc6376f-bcd6-4836-99e5-8721a5d55ed8": {
       "company": "AeroVironment",
@@ -3461,6 +3468,20 @@
       "posted_at": "1785456000",
       "title": "Application Software Developer New Grad",
       "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2"
+    },
+    "simplify:cadence design systems::simplify-7fc25a2f-3933-4a77-aa4a-79e8169532c4": {
+      "company": "Cadence Design Systems",
+      "first_seen": "2026-08-01T11:50:42+00:00",
+      "posted_at": "1770164051",
+      "title": "Application Engineer",
+      "url": "https://cadence.wd1.myworkdayjobs.com/University_CST/job/SAN-JOSE/Application-Engineer_R53122"
+    },
+    "simplify:cadence design systems::simplify-83359773-2582-43b6-86d8-4e7f3a4d5e70": {
+      "company": "Cadence Design Systems",
+      "first_seen": "2026-08-01T11:50:42+00:00",
+      "posted_at": "1770163075",
+      "title": "Application Engineer",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Application-Engineer_R53122-1"
     },
     "simplify:cadence design systems::simplify-92ee85c1-b699-4161-842a-55df186233f2": {
       "company": "Cadence Design Systems",
@@ -11232,6 +11253,13 @@
       "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/prelim/62449307-e366-4c92-8d22-9a9f8ec11afa/application?embed=true"
     },
+    "simplify:probook::simplify-78ed4c00-f810-4174-be06-0382cf25176f": {
+      "company": "Probook",
+      "first_seen": "2026-08-01T11:50:42+00:00",
+      "posted_at": "1777068545",
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/probook/83a9ab68-0f4c-437f-8d9a-2566eaf9aba6/application"
+    },
     "simplify:procom::simplify-1fceed24-f2fd-41af-83d8-5c7114574435": {
       "company": "Procom",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -16195,6 +16223,13 @@
       "title": "Applied AI Engineer",
       "url": "https://jobs.ashbyhq.com/Zello/2fa8cd4a-7ddb-40c6-8577-4a004c182e80/application"
     },
+    "simplify:zettabyte::simplify-5fdf7d5e-02c5-4d49-9d2b-a9b3dc38869d": {
+      "company": "Zettabyte",
+      "first_seen": "2026-08-01T11:50:42+00:00",
+      "posted_at": "1772838473",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/zettabyte-space/ec96b63a-e11c-4589-ab25-4f1779fb8759/application?embed=true"
+    },
     "simplify:zettabyte::simplify-72d0319a-682a-47d0-b6d8-19168039b6f4": {
       "company": "Zettabyte",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -16379,5 +16414,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-01T10:50:19+00:00"
+  "updated_at": "2026-08-01T11:50:42+00:00"
 }
