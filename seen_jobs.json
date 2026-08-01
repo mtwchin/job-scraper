@@ -1,5 +1,5 @@
 {
-  "count": 2378,
+  "count": 2379,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -10945,6 +10945,13 @@
       "title": "Software Engineer - Entry",
       "url": "https://job-boards.greenhouse.io/patterndata/jobs/5092337007"
     },
+    "simplify:pdf solutions::simplify-c5a14112-6491-4ae3-a678-23d36f21c962": {
+      "company": "PDF Solutions",
+      "first_seen": "2026-08-01T18:13:25+00:00",
+      "posted_at": "1783634719",
+      "title": "Senior R&D Engineer",
+      "url": "https://careers.pdf.com/jobs/1600?icims=1"
+    },
     "simplify:pdt partners::simplify-7e5feb76-9fea-420d-a0ea-32c19e256975": {
       "company": "PDT Partners",
       "first_seen": "2026-07-24T23:33:03+00:00",
@@ -16589,5 +16596,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-01T17:16:43+00:00"
+  "updated_at": "2026-08-01T18:13:25+00:00"
 }
