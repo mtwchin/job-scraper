@@ -1,5 +1,5 @@
 {
-  "count": 2361,
+  "count": 2364,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2202,6 +2202,13 @@
       "title": "Software Undergrad Engineer Intern",
       "url": "https://jobs.apple.com/en-us/details/200664785"
     },
+    "simplify:apple::simplify-a98768c3-1d79-4f8a-89a9-d3357004a2de": {
+      "company": "Apple",
+      "first_seen": "2026-08-01T15:18:29+00:00",
+      "posted_at": "1780583255",
+      "title": "AI Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200666380"
+    },
     "simplify:apple::simplify-ae2ced0f-f2e0-45de-9937-89deb69a3565": {
       "company": "Apple",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -2677,6 +2684,13 @@
       "posted_at": "1781951151",
       "title": "Junior Business & Technology Analyst - Application Developer",
       "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Junior-Business---Technology-Analyst---Application-Developer_JR4465"
+    },
+    "simplify:axos bank::simplify-998a54fe-92c3-4ebe-8776-219fd437d1a7": {
+      "company": "Axos Bank",
+      "first_seen": "2026-08-01T15:18:30+00:00",
+      "posted_at": "1780621775",
+      "title": "AI Automation Developer",
+      "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---AI-Automation-Developer_JR4837"
     },
     "simplify:axos bank::simplify-f4bde942-8a53-4997-8a6e-3c3ad226eb46": {
       "company": "Axos Bank",
@@ -3818,6 +3832,13 @@
       "posted_at": "1784764800",
       "title": "Minestar Application Specialist",
       "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Home-in-Ontario/MineStar-Application-Specialist_R0000368919"
+    },
+    "simplify:cboe::simplify-52380edf-9fbc-4ef4-b33a-33bf00d230a4": {
+      "company": "Cboe",
+      "first_seen": "2026-08-01T15:18:30+00:00",
+      "posted_at": "1781347189",
+      "title": "Technical Content Engineer",
+      "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Technical-Content-Engineer_R-4455"
     },
     "simplify:cencora::simplify-dcbeb1d6-2bca-4251-af9e-4bcd4074fc46": {
       "company": "Cencora",
@@ -16470,5 +16491,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-01T14:12:59+00:00"
+  "updated_at": "2026-08-01T15:18:30+00:00"
 }
