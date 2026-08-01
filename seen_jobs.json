@@ -1,5 +1,5 @@
 {
-  "count": 2356,
+  "count": 2361,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1739,6 +1739,13 @@
       "posted_at": "1784764800",
       "title": "Systems Analyst",
       "url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Systems-Analyst_R-0073055"
+    },
+    "simplify:allstate insurance company::simplify-72d01bcf-1d1c-4454-97e2-d5db19cce4d1": {
+      "company": "Allstate Insurance Company",
+      "first_seen": "2026-08-01T14:12:59+00:00",
+      "posted_at": "1779977179",
+      "title": "Graduate Product Engineers - Registration of Interest",
+      "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/Belfast-10-Mays-Meadow/Graduate-Product-Engineers---Registration-of-Interest_R26289-1"
     },
     "simplify:allstate insurance company::simplify-8f04b5c1-b5a3-41ae-87b2-8a2339959201": {
       "company": "Allstate Insurance Company",
@@ -7361,6 +7368,13 @@
       "title": "Associate AI/ML Developer",
       "url": "https://jobs.jobvite.com/isoftstone/job/oXrkAfw2?nl=1&nl=1&fr=false"
     },
+    "simplify:itc federal::simplify-661f570a-c103-4c06-9b18-929661f1a1b3": {
+      "company": "ITC Federal",
+      "first_seen": "2026-08-01T14:12:59+00:00",
+      "posted_at": "1780006162",
+      "title": "Web Software Developer",
+      "url": "https://careers-itcfederal.icims.com/jobs/1532/job?mobile=true&needsRedirect=false"
+    },
     "simplify:itradenetwork::simplify-b01dc3a9-e336-4fe6-8dc1-16951ee10f7a": {
       "company": "iTradeNetwork",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -8523,6 +8537,13 @@
       "title": "Digital Production Engineering Intern OR Student Co-Op",
       "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451"
     },
+    "simplify:marmon holdings::simplify-ecb42b72-6094-48fe-8619-10c8cace6cc1": {
+      "company": "Marmon Holdings",
+      "first_seen": "2026-08-01T14:12:59+00:00",
+      "posted_at": "1778945678",
+      "title": "Digital Production Engineer Intern Co-op",
+      "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451-2"
+    },
     "simplify:marriott international::simplify-0f06e190-3900-4101-b627-e187eddcb571": {
       "company": "Marriott International",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -8936,6 +8957,13 @@
       "title": "Software Engineer 1 - Assurehire - Go",
       "url": "https://job-boards.greenhouse.io/mitratech/jobs/8060928"
     },
+    "simplify:mizuho securities usa::simplify-748035c0-8d17-45bc-b171-510ba89e2f1d": {
+      "company": "Mizuho Securities USA",
+      "first_seen": "2026-08-01T14:12:59+00:00",
+      "posted_at": "1773210828",
+      "title": "Commercial Lending Technology Intern",
+      "url": "https://mizuho.wd1.myworkdayjobs.com/Mizuho_Confidential/job/NYC-1285/XMLNAME-2026-Commercial-Lending-Technology-Summer-Internship_R6688"
+    },
     "simplify:mobius renewables::simplify-8a94a455-b2cb-44e4-9b0b-00bfda978a73": {
       "company": "Mobius Renewables",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -9054,6 +9082,13 @@
       "posted_at": "1775657368",
       "title": "Graduate Software Engineer",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R62287"
+    },
+    "simplify:motorola::simplify-730477dc-023e-4e21-aa1a-3fa0813bafb5": {
+      "company": "Motorola",
+      "first_seen": "2026-08-01T14:12:59+00:00",
+      "posted_at": "1778076367",
+      "title": "Graduate Software Engineer",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R62290"
     },
     "simplify:motorola::simplify-8e8910ff-d27c-4f3c-871e-d348e505c0c5": {
       "company": "Motorola",
@@ -16435,5 +16470,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-01T12:42:58+00:00"
+  "updated_at": "2026-08-01T14:12:59+00:00"
 }
