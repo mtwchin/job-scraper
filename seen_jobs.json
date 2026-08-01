@@ -1,5 +1,5 @@
 {
-  "count": 2353,
+  "count": 2356,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2180,6 +2180,13 @@
       "posted_at": "1778076509",
       "title": "Software Engineer Silicon Engineering Documentation Tools",
       "url": "https://jobs.apple.com/en-us/details/200661584"
+    },
+    "simplify:apple::simplify-952b7a4f-f17b-4712-96a9-08c652fbeedb": {
+      "company": "Apple",
+      "first_seen": "2026-08-01T12:42:57+00:00",
+      "posted_at": "1778076515",
+      "title": "Systems Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200636915"
     },
     "simplify:apple::simplify-9dc730cf-7fa0-4052-b285-b1301c4db9e7": {
       "company": "Apple",
@@ -9384,6 +9391,13 @@
       "title": "Research Assistant",
       "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Research-Assistant_R136132-1"
     },
+    "simplify:northeastern university::simplify-99283317-d8aa-4b4e-be87-1a9bd31e8e11": {
+      "company": "Northeastern University",
+      "first_seen": "2026-08-01T12:42:58+00:00",
+      "posted_at": "1782561451",
+      "title": "Temporary R&D Software Engineer",
+      "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Burlington-MA/Temporary-R-D-Software-Engineer_R123231"
+    },
     "simplify:northeastern::simplify-039da96e-74f6-497c-9ef4-214e31ceb26e": {
       "company": "Northeastern",
       "first_seen": "2026-07-17T00:58:34+00:00",
@@ -15467,6 +15481,13 @@
       "title": "Product Engineering Assistant Co-op",
       "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Product-Engineering-Assistant--Co-op-_R-29570"
     },
+    "simplify:varian::simplify-928db489-f3fc-4310-95d0-24f58d1d07b8": {
+      "company": "Varian",
+      "first_seen": "2026-08-01T12:42:58+00:00",
+      "posted_at": "1774479163",
+      "title": "Software Engineer - DevOps/.NET/Azure",
+      "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/DevOps-Engineer_R-26937-1"
+    },
     "simplify:varick agents::simplify-c240d04c-b78f-4385-95d6-379ebd0c3801": {
       "company": "Varick Agents",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -16414,5 +16435,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-01T11:50:42+00:00"
+  "updated_at": "2026-08-01T12:42:58+00:00"
 }
