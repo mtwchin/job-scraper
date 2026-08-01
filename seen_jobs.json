@@ -1,5 +1,5 @@
 {
-  "count": 2335,
+  "count": 2342,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2439,6 +2439,13 @@
       "posted_at": "1784671971",
       "title": "Software Engineer - Applications",
       "url": "https://jobs.ashbyhq.com/astronomer/1d29fe9a-7351-4b82-9017-de16dc86382f/application?embed=true"
+    },
+    "simplify:asure::simplify-15b8e425-7774-43c9-9a6b-93b969bef2a3": {
+      "company": "Asure",
+      "first_seen": "2026-08-01T04:34:34+00:00",
+      "posted_at": "1785547422",
+      "title": "Associate Software Engineer",
+      "url": "https://asuresoftware.bamboohr.com/careers/1020/"
     },
     "simplify:at&t::simplify-28c81062-506f-485d-959b-39015b174c5d": {
       "company": "AT&T",
@@ -8761,6 +8768,13 @@
       "title": "Engineer 1 - Software",
       "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Engineer-I-Software_R2074-26-1"
     },
+    "simplify:microchip technology::simplify-68d9d4d0-a1b3-4673-a429-1d2524909e32": {
+      "company": "Microchip Technology",
+      "first_seen": "2026-08-01T04:34:34+00:00",
+      "posted_at": "1785456000",
+      "title": "Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering",
+      "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1"
+    },
     "simplify:micron technology::simplify-0921cc7c-5118-4b58-bb30-c23a720502d9": {
       "company": "Micron Technology",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -12590,6 +12604,27 @@
       "title": "Software Engineer New Grad",
       "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003"
     },
+    "simplify:sima.ai::simplify-03f4f39a-6621-4d07-a217-dee3032bbc62": {
+      "company": "SiMa.ai",
+      "first_seen": "2026-08-01T04:34:34+00:00",
+      "posted_at": "1785546765",
+      "title": "Application Engineering Intern",
+      "url": "https://jobs.jobvite.com/simaai/job/oBUkAfw9?nl=1&nl=1&fr=false"
+    },
+    "simplify:sima.ai::simplify-0a6e8f8a-9c2f-4d47-afca-480371ebbaa1": {
+      "company": "SiMa.ai",
+      "first_seen": "2026-08-01T04:34:34+00:00",
+      "posted_at": "1785546765",
+      "title": "Application Development Intern",
+      "url": "https://jobs.jobvite.com/simaai/job/o6RqAfwH?nl=1&nl=1&fr=false"
+    },
+    "simplify:sima.ai::simplify-ce5c150d-10d5-4180-94b8-d13815629bd6": {
+      "company": "SiMa.ai",
+      "first_seen": "2026-08-01T04:34:34+00:00",
+      "posted_at": "1785546765",
+      "title": "Application Development Intern",
+      "url": "https://jobs.jobvite.com/simaai/job/ohRqAfwS?nl=1&nl=1&fr=false"
+    },
     "simplify:simile::simplify-22b43b67-f988-474a-b37a-41fa90f1aec1": {
       "company": "Simile",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -13968,6 +14003,13 @@
       "posted_at": "1783645841",
       "title": "Software Engineer Intern - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/276333"
+    },
+    "simplify:tesla::simplify-ff0616b4-484e-4ce8-b74e-55a7e8cc0e9d": {
+      "company": "Tesla",
+      "first_seen": "2026-08-01T04:34:34+00:00",
+      "posted_at": "1785546978",
+      "title": "Software Compiler Engineer Intern - AI Inference",
+      "url": "https://www.tesla.com/careers/search/job/278847"
     },
     "simplify:testing xperts::simplify-1b014c6d-16f7-4573-a4f5-7afe869d2962": {
       "company": "Testing Xperts",
@@ -15880,6 +15922,13 @@
       "title": "Product Software Engineer - Full Stack - .Net",
       "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Kennesaw-GA/Product-Software-Engineer---Full-Stack---NET---Angular-----AI-Solutions_R0058841"
     },
+    "simplify:wolverine trading::simplify-f6bb2b02-e42b-41a6-9f90-35a28fcb0708": {
+      "company": "Wolverine Trading",
+      "first_seen": "2026-08-01T04:34:34+00:00",
+      "posted_at": "1785547327",
+      "title": "Entry-Level C++ Software Engineer",
+      "url": "https://wolve.pinpointhq.com/en/postings/71814bfd-b9a3-4e7a-8c32-ef0ed6f3f7aa?ats=pinpointhq"
+    },
     "simplify:wonderschool::simplify-e5fee829-850f-4ae1-9f1f-eda2ab36fdbe": {
       "company": "Wonderschool",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -16288,5 +16337,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-07-31T23:40:58+00:00"
+  "updated_at": "2026-08-01T04:34:34+00:00"
 }
