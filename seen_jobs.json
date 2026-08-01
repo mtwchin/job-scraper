@@ -1,5 +1,5 @@
 {
-  "count": 2364,
+  "count": 2374,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2391,6 +2391,13 @@
       "title": "Associate AI Builder",
       "url": "https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0/apply"
     },
+    "simplify:ashby::simplify-51cd0743-ca8b-4606-b478-0c3aa6d02dd0": {
+      "company": "Ashby",
+      "first_seen": "2026-08-01T16:16:06+00:00",
+      "posted_at": "1781302135",
+      "title": "Design Engineer",
+      "url": "https://jobs.ashbyhq.com/ashby/85713f4a-ad14-4edd-8c56-0065f5897551/application?embed=true"
+    },
     "simplify:ask it consulting::simplify-1795cf4e-c11d-445a-b456-46e78f4e1bb6": {
       "company": "Ask IT Consulting",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -2649,6 +2656,20 @@
       "posted_at": "1780351529",
       "title": "Software Developer",
       "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614"
+    },
+    "simplify:avoca ai::simplify-5eac3b25-b6c5-4db1-a66d-f2745601de75": {
+      "company": "Avoca AI",
+      "first_seen": "2026-08-01T16:16:06+00:00",
+      "posted_at": "1782482876",
+      "title": "Senior Software Engineer - Product",
+      "url": "https://jobs.ashbyhq.com/avoca/fd85e19f-12cf-421e-9ef5-afc4997c071e/application?embed=true"
+    },
+    "simplify:avoca ai::simplify-ab74e0cc-190b-478a-989a-8a787c93a3d3": {
+      "company": "Avoca AI",
+      "first_seen": "2026-08-01T16:16:06+00:00",
+      "posted_at": "1782482875",
+      "title": "Staff Software Engineer - Product",
+      "url": "https://jobs.ashbyhq.com/avoca/4623d891-0c58-45e6-b20a-6d16cf5606ec/application?embed=true"
     },
     "simplify:axiomatic ai::simplify-55023fd3-ef60-49f4-ac11-5d1fe01b0a7d": {
       "company": "Axiomatic AI",
@@ -6626,6 +6647,13 @@
       "title": "Product Engineer 1/2 Senior",
       "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Product-Engineer-I-II-Sr_JR103825"
     },
+    "simplify:greenheck group::simplify-96be6168-3e02-400e-812d-c2904446ba29": {
+      "company": "Greenheck Group",
+      "first_seen": "2026-08-01T16:16:06+00:00",
+      "posted_at": "1782511405",
+      "title": "Application Engineer 1/2/Senior",
+      "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-OK/Application-Engineer-I-II-Sr_JR104029"
+    },
     "simplify:group 1 automotive::simplify-85d31e6a-319f-48fb-9257-4d401c4f3ad5": {
       "company": "Group 1 Automotive",
       "first_seen": "2026-07-22T00:07:28+00:00",
@@ -7914,6 +7942,13 @@
       "title": "AI Backend Engineer",
       "url": "https://jobs.ashbyhq.com/klarity-ai/99de9d9b-d0c6-42a6-9e4d-2df097dae008/application"
     },
+    "simplify:klarity::simplify-8d034128-2890-424c-8eaf-9da47edf8fd2": {
+      "company": "Klarity",
+      "first_seen": "2026-08-01T16:16:06+00:00",
+      "posted_at": "1782292243",
+      "title": "AI Frontend Engineer",
+      "url": "https://jobs.ashbyhq.com/klarity-ai/fc094114-4d6e-4bf5-977f-c5b37d7e33e1/application?embed=true"
+    },
     "simplify:klaviyo::simplify-72ad42ac-5813-49d3-9be4-1a0eec0b481a": {
       "company": "Klaviyo",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -9131,6 +9166,13 @@
       "posted_at": "1784764800",
       "title": "Software Engineer Co-op",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Software-Engineer-Co-op_R66130"
+    },
+    "simplify:motorola::simplify-e4663e63-d325-4e06-891e-2accedd8bd01": {
+      "company": "Motorola",
+      "first_seen": "2026-08-01T16:16:06+00:00",
+      "posted_at": "1783165605",
+      "title": "Frontend Software Engineer",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Frontend-Software-Engineer_R62283"
     },
     "simplify:motorola::simplify-f586670c-43fc-4aa0-876f-128f612b446a": {
       "company": "Motorola",
@@ -11056,6 +11098,13 @@
       "posted_at": "1785247869",
       "title": "Software Development Associate",
       "url": "https://careers-peraton.icims.com/jobs/168949/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:peraton::simplify-58ef82e0-8648-4b2b-8976-fee15467601b": {
+      "company": "Peraton",
+      "first_seen": "2026-08-01T16:16:06+00:00",
+      "posted_at": "1782137179",
+      "title": "Software Engineer",
+      "url": "https://careers-peraton.icims.com/jobs/167887/job?mobile=true&needsRedirect=false"
     },
     "simplify:peraton::simplify-b4c2db2d-3859-453b-823e-8dc517020ce3": {
       "company": "Peraton",
@@ -13514,6 +13563,13 @@
       "title": "Technology Intern - Technology",
       "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1"
     },
+    "simplify:synchrony financial::simplify-926aad82-a906-40e6-ad7f-97a1fca95370": {
+      "company": "Synchrony Financial",
+      "first_seen": "2026-08-01T16:16:06+00:00",
+      "posted_at": "1781301997",
+      "title": "Software Engineer Intern",
+      "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Canton-Engagement-Hub-OH/Software-Engineer-Intern---Fall-2026_2601751-1"
+    },
     "simplify:synechron::simplify-f0cb0aa2-24b1-4256-a0e2-627834bd215c": {
       "company": "Synechron",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -14220,6 +14276,13 @@
       "posted_at": "1785305398",
       "title": "Junior Software Engineer - AI-Forward",
       "url": "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply"
+    },
+    "simplify:texas sports academy::simplify-cb1b4088-7336-49cb-9256-5f2f746a9ca9": {
+      "company": "Texas Sports Academy",
+      "first_seen": "2026-08-01T16:16:06+00:00",
+      "posted_at": "1782252508",
+      "title": "Junior Software Engineer - AI-Forward",
+      "url": "https://apply.workable.com/texas-sports-academy-main/j/7CA2AC17A5/apply"
     },
     "simplify:textron::simplify-57383e43-6f9c-4c5d-b9c8-cb3b69e64fd2": {
       "company": "Textron",
@@ -15256,6 +15319,13 @@
       "posted_at": "1781360360",
       "title": "Student Worker Media Webmaster",
       "url": "https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker--Media-Webmaster_R0151457-1"
+    },
+    "simplify:university of nevada, reno::simplify-989307cb-3526-457e-a8ee-77b6cdda5c4f": {
+      "company": "University of Nevada, Reno",
+      "first_seen": "2026-08-01T16:16:06+00:00",
+      "posted_at": "1782561628",
+      "title": "Web Development Intern - Marketing & Communications",
+      "url": "https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker---Web-Development-Intern--Marketing---Communications_R0152288"
     },
     "simplify:university of rochester::simplify-41200d44-c1ae-4d74-8212-a9c18506edc5": {
       "company": "University of Rochester",
@@ -16491,5 +16561,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-01T15:18:30+00:00"
+  "updated_at": "2026-08-01T16:16:06+00:00"
 }
