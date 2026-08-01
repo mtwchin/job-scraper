@@ -1,5 +1,5 @@
 {
-  "count": 2379,
+  "count": 2383,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2195,6 +2195,13 @@
       "title": "Systems Engineer",
       "url": "https://jobs.apple.com/en-us/details/200636915"
     },
+    "simplify:apple::simplify-9b9c2cf4-ae65-4bf0-92ad-ce556576f42a": {
+      "company": "Apple",
+      "first_seen": "2026-08-01T19:33:24+00:00",
+      "posted_at": "1784211017",
+      "title": "AI Software Engineer - Apple Cloud AI Platform",
+      "url": "https://jobs.apple.com/en-us/details/200671631"
+    },
     "simplify:apple::simplify-9dc730cf-7fa0-4052-b285-b1301c4db9e7": {
       "company": "Apple",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -3475,6 +3482,13 @@
       "posted_at": "1783555200",
       "title": "Software Engineer New Grad - Undergrads",
       "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894-3"
+    },
+    "simplify:cadence design systems::simplify-1b8fb29b-402c-4497-8740-e4c955b1a30c": {
+      "company": "Cadence Design Systems",
+      "first_seen": "2026-08-01T19:33:24+00:00",
+      "posted_at": "1784073600",
+      "title": "Senior Application Engineer",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Sr-Application-Engineer_R55578"
     },
     "simplify:cadence design systems::simplify-222a9169-ad29-4c31-ae33-30a683f7f5a4": {
       "company": "Cadence Design Systems",
@@ -5275,6 +5289,13 @@
       "title": "Junior Developer",
       "url": "https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Manchester---Bonded-Warehouse/Development-Junior-Associate_R1125875"
     },
+    "simplify:dewberry::simplify-ad52ed80-727f-44ea-8bb8-209b6885fafb": {
+      "company": "Dewberry",
+      "first_seen": "2026-08-01T19:33:24+00:00",
+      "posted_at": "1784153045",
+      "title": "Junior Power Platform Developer",
+      "url": "https://careers-dewberry.icims.com/jobs/15975/job?mobile=true&needsRedirect=false"
+    },
     "simplify:dexcom::simplify-70b9b44e-b155-4081-9987-0ef48b2ebb0e": {
       "company": "Dexcom",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -6702,6 +6723,13 @@
       "posted_at": "1782868169",
       "title": "Design Engineer Intern",
       "url": "https://jobs.ashbyhq.com/Gumloop/d1c82673-a98a-4e27-8ec0-014740eb5a22/application"
+    },
+    "simplify:gumloop::simplify-ccd36192-6d5e-4378-901a-27d267a0c497": {
+      "company": "Gumloop",
+      "first_seen": "2026-08-01T19:33:24+00:00",
+      "posted_at": "1784239929",
+      "title": "Design Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/Gumloop/dcdc0658-b3fd-44cd-b0cf-4016c9513d40/application?embed=true"
     },
     "simplify:gumloop::simplify-e8a66ca5-922d-49b4-bd09-ff3fe9d0eabd": {
       "company": "Gumloop",
@@ -16596,5 +16624,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-01T18:13:25+00:00"
+  "updated_at": "2026-08-01T19:33:24+00:00"
 }
