@@ -1,5 +1,5 @@
 {
-  "count": 2342,
+  "count": 2348,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1831,6 +1831,13 @@
       "title": "Programmer Analyst 1",
       "url": "https://amazon.jobs/en/jobs/10480255/programmer-analyst-i-ftc"
     },
+    "simplify:amazon::simplify-339d95bb-c9b2-4376-9613-4e3f90631143": {
+      "company": "Amazon",
+      "first_seen": "2026-08-01T10:50:18+00:00",
+      "posted_at": "1775743775",
+      "title": "Software Development Engineer - Prime Video Personalization & Discovery",
+      "url": "https://amazon.jobs/en/jobs/10374689/software-dev-engineer-prime-video-personalization-discovery"
+    },
     "simplify:amazon::simplify-4762de7d-d90a-4004-bf12-486138c11efc": {
       "company": "Amazon",
       "first_seen": "2026-07-14T11:02:30+00:00",
@@ -2124,6 +2131,13 @@
       "posted_at": "1782972499",
       "title": "Darwin Runtime Engineer - Core OS",
       "url": "https://jobs.apple.com/en-us/details/200668853"
+    },
+    "simplify:apple::simplify-12aa2c6b-b760-419c-820f-79b597d212da": {
+      "company": "Apple",
+      "first_seen": "2026-08-01T10:50:18+00:00",
+      "posted_at": "1778076549",
+      "title": "CAD Engineer - Signoff Infrastructure",
+      "url": "https://jobs.apple.com/en-us/details/200660225"
     },
     "simplify:apple::simplify-1c3d075a-8671-4995-b1ae-f11e46373031": {
       "company": "Apple",
@@ -6367,6 +6381,13 @@
       "title": "Client Engineer",
       "url": "https://jobs.ashbyhq.com/glia/9936ff15-a4b8-43a4-99a5-e774a75c829c/application?embed=true"
     },
+    "simplify:glide::simplify-21b6e94b-4f91-465d-bc30-69fd58f8dbe5": {
+      "company": "Glide",
+      "first_seen": "2026-08-01T10:50:19+00:00",
+      "posted_at": "1770074062",
+      "title": "Full Stack Engineer Mid Level",
+      "url": "https://jobs.ashbyhq.com/glide/7954a0ba-27ef-4e8b-90c7-337001f1ce98/application?embed=true"
+    },
     "simplify:glide::simplify-d68084c5-ab49-4255-ae22-0c224fc51dfe": {
       "company": "Glide",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -8466,6 +8487,13 @@
       "posted_at": "1785333812",
       "title": "Software Engineer Level 1",
       "url": "https://careers-markon.icims.com/jobs/8540/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:marmon holdings::simplify-09806186-6904-490c-b577-2c0b53e167a9": {
+      "company": "Marmon Holdings",
+      "first_seen": "2026-08-01T10:50:19+00:00",
+      "posted_at": "1772609902",
+      "title": "Digital Production Engineering Intern OR Student Co-Op",
+      "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Digital-Production-Engineering-Intern-OR-Student-Co-Op_JR0000037451"
     },
     "simplify:marriott international::simplify-0f06e190-3900-4101-b627-e187eddcb571": {
       "company": "Marriott International",
@@ -10896,6 +10924,13 @@
       "title": "Entry-Level Full Stack Developer",
       "url": "https://careers-peraton.icims.com/jobs/168438/job?mobile=true&needsRedirect=false"
     },
+    "simplify:peraton::simplify-240a7035-37a2-46df-807a-e4b98a6e2d7f": {
+      "company": "Peraton",
+      "first_seen": "2026-08-01T10:50:19+00:00",
+      "posted_at": "1781906794",
+      "title": "Java Software Engineer",
+      "url": "https://careers-peraton.icims.com/jobs/167686/job?mobile=true&needsRedirect=false"
+    },
     "simplify:peraton::simplify-2573aeed-7da0-4b44-b555-e95d00f6563b": {
       "company": "Peraton",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -11189,6 +11224,13 @@
       "posted_at": "1774909375",
       "title": "Software Engineer",
       "url": "https://www.praetorian.com/careers/?gh_jid=5386005003#job-opening"
+    },
+    "simplify:prelim::simplify-222309af-4985-4525-a1f9-8a183a6c64b0": {
+      "company": "Prelim",
+      "first_seen": "2026-08-01T10:50:19+00:00",
+      "posted_at": "1774591742",
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/prelim/62449307-e366-4c92-8d22-9a9f8ec11afa/application?embed=true"
     },
     "simplify:procom::simplify-1fceed24-f2fd-41af-83d8-5c7114574435": {
       "company": "Procom",
@@ -16337,5 +16379,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-01T04:34:34+00:00"
+  "updated_at": "2026-08-01T10:50:19+00:00"
 }
