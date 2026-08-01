@@ -1,5 +1,5 @@
 {
-  "count": 2398,
+  "count": 2414,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2188,6 +2188,13 @@
       "title": "Software Engineer Silicon Engineering Documentation Tools",
       "url": "https://jobs.apple.com/en-us/details/200661584"
     },
+    "simplify:apple::simplify-949d8a95-4a05-4773-abf0-ef1ba68de79d": {
+      "company": "Apple",
+      "first_seen": "2026-08-01T23:24:48+00:00",
+      "posted_at": "1785478448",
+      "title": "Swift Software Engineer - SWE Program Tools",
+      "url": "https://jobs.apple.com/en-us/details/200675075"
+    },
     "simplify:apple::simplify-952b7a4f-f17b-4712-96a9-08c652fbeedb": {
       "company": "Apple",
       "first_seen": "2026-08-01T12:42:57+00:00",
@@ -2790,6 +2797,13 @@
       "title": "Software Engineer Apprentice",
       "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-SO-NAILSEA-2-HIGH-STREET/Emerging-Talent---Software-Engineer-Apprentice-2026--Nailsea-_R165829"
     },
+    "simplify:bank of montreal::simplify-021114e1-c556-4de3-ac71-007b3f8adb26": {
+      "company": "Bank of Montreal",
+      "first_seen": "2026-08-01T23:24:49+00:00",
+      "posted_at": "1785456000",
+      "title": "Software Developer",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1"
+    },
     "simplify:bank of montreal::simplify-2ef7a6e8-176c-4ebb-ad45-119ab4534b9f": {
       "company": "Bank of Montreal",
       "first_seen": "2026-07-30T23:41:21+00:00",
@@ -2803,6 +2817,13 @@
       "posted_at": "1785369600",
       "title": "Software Developer New Grad",
       "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222-1"
+    },
+    "simplify:bank of montreal::simplify-d10d917c-bc5a-4b18-8f26-0bd664956f32": {
+      "company": "Bank of Montreal",
+      "first_seen": "2026-08-01T23:24:49+00:00",
+      "posted_at": "1785456000",
+      "title": "Software Developer",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450"
     },
     "simplify:barkback::simplify-343fcb3c-e4be-4f12-841e-664571827fa6": {
       "company": "Barkback",
@@ -6150,6 +6171,41 @@
       "title": "Graduate Software Engineer",
       "url": "https://job-boards.eu.greenhouse.io/fuzehealth/jobs/4833389101"
     },
+    "simplify:garmin::simplify-0a0493c3-6930-4513-9133-44efe6284bea": {
+      "company": "Garmin",
+      "first_seen": "2026-08-01T23:24:49+00:00",
+      "posted_at": "1785579910",
+      "title": "Software Engineer 1 - Real Time Aviation Data",
+      "url": "https://careers.garmin.com/jobs/18762?icims=1"
+    },
+    "simplify:garmin::simplify-1c28b865-0988-459d-9496-f8542646ca4e": {
+      "company": "Garmin",
+      "first_seen": "2026-08-01T23:24:49+00:00",
+      "posted_at": "1785579902",
+      "title": "Software Engineer 1",
+      "url": "https://careers.garmin.com/jobs/18511?icims=1"
+    },
+    "simplify:garmin::simplify-37e9304d-c9f9-4c44-9070-e0d2a90a8b4a": {
+      "company": "Garmin",
+      "first_seen": "2026-08-01T23:24:49+00:00",
+      "posted_at": "1785579906",
+      "title": "Software Engineer 1 - Connect IQ Applications",
+      "url": "https://careers.garmin.com/jobs/18475?icims=1"
+    },
+    "simplify:garmin::simplify-d9e8b718-9447-4870-8009-8d4514f5eef8": {
+      "company": "Garmin",
+      "first_seen": "2026-08-01T23:24:49+00:00",
+      "posted_at": "1785579903",
+      "title": "Software Engineer 1 - Web Development/Applications",
+      "url": "https://careers.garmin.com/jobs/18510?icims=1"
+    },
+    "simplify:garmin::simplify-f124dd9a-d9b4-4986-81d0-72e9a02879b5": {
+      "company": "Garmin",
+      "first_seen": "2026-08-01T23:24:49+00:00",
+      "posted_at": "1785579901",
+      "title": "Software Engineer 1",
+      "url": "https://careers.garmin.com/jobs/19098?icims=1"
+    },
     "simplify:ge appliances::simplify-025cdbd3-053c-4ae7-a9b6-7b812684f7ce": {
       "company": "GE Appliances",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -7066,6 +7122,13 @@
       "posted_at": "1784930548",
       "title": "Product Engineer Co-op",
       "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118645"
+    },
+    "simplify:hpr (hyannis port research)::simplify-e142c984-ca46-4624-af2c-e5061b8b60f2": {
+      "company": "HPR (Hyannis Port Research)",
+      "first_seen": "2026-08-01T23:24:49+00:00",
+      "posted_at": "1785623162",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003"
     },
     "simplify:hsssoft::simplify-63216d89-2b2c-4885-82f0-086dfd9dac5b": {
       "company": "HSSSoft",
@@ -8880,6 +8943,13 @@
       "title": "Software Development Co-op",
       "url": "https://careers.medpace.com/jobs/12766?lang=en-us&icims=1"
     },
+    "simplify:medtronic::simplify-43929c26-d19b-4057-9543-bf087c4bbf62": {
+      "company": "Medtronic",
+      "first_seen": "2026-08-01T23:24:49+00:00",
+      "posted_at": "1785542400",
+      "title": "Software Engineer Intern",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630"
+    },
     "simplify:medtronic::simplify-c21ea81c-9844-46be-9e30-5d382756f674": {
       "company": "Medtronic",
       "first_seen": "2026-07-24T15:52:31+00:00",
@@ -9544,6 +9614,27 @@
       "posted_at": "1772667993",
       "title": "Systems Verification & Concurrent Kernel Architecture Research Intern",
       "url": "https://nio.wd3.myworkdayjobs.com/NIO_Careers/job/San-Jose-US/Systems-Verification---Concurrent-Kernel-Architecture-Research-Intern_R-000139"
+    },
+    "simplify:noblis::simplify-2efe7383-c35c-499a-8d3e-e914016e2ce0": {
+      "company": "Noblis",
+      "first_seen": "2026-08-01T23:24:49+00:00",
+      "posted_at": "1785577438",
+      "title": "Software Engineer",
+      "url": "https://careers.noblis.org/jobs/27515?icims=1"
+    },
+    "simplify:noblis::simplify-5836e123-acb1-49d2-abde-395cef4328dd": {
+      "company": "Noblis",
+      "first_seen": "2026-08-01T23:24:49+00:00",
+      "posted_at": "1785577442",
+      "title": "Software Engineer",
+      "url": "https://careers.noblis.org/jobs/26643?icims=1"
+    },
+    "simplify:noblis::simplify-a5a4c27f-4bc4-46d6-9141-f486732574b8": {
+      "company": "Noblis",
+      "first_seen": "2026-08-01T23:24:49+00:00",
+      "posted_at": "1785577439",
+      "title": "Junior Software Developer",
+      "url": "https://careers.noblis.org/jobs/27467?icims=1"
     },
     "simplify:nokia::simplify-48a3b01c-7ec9-4b30-8db4-c264431de5d9": {
       "company": "Nokia",
@@ -15425,6 +15516,27 @@
       "title": "Applications Development Associate",
       "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Applications-Devt-Associate_R25029948"
     },
+    "simplify:universal health services::simplify-6543f42c-7d9e-42f2-8ed5-5778e092ad0b": {
+      "company": "Universal Health Services",
+      "first_seen": "2026-08-01T23:24:49+00:00",
+      "posted_at": "1785575309",
+      "title": "Adolescent PHP Clinician",
+      "url": "https://jobs.uhsinc.com/jobs/361863?icims=1"
+    },
+    "simplify:universal health services::simplify-6edabdbc-0607-4235-af79-1da88b70be62": {
+      "company": "Universal Health Services",
+      "first_seen": "2026-08-01T23:24:49+00:00",
+      "posted_at": "1785575156",
+      "title": "Registered Nurse \u2013 Partial Hospitalization Program",
+      "url": "https://jobs.uhsinc.com/jobs/358390?icims=1"
+    },
+    "simplify:universal health services::simplify-c04f1768-6376-4a58-805c-12a32cdfeff0": {
+      "company": "Universal Health Services",
+      "first_seen": "2026-08-01T23:24:49+00:00",
+      "posted_at": "1785575233",
+      "title": "Partial Hospitalization Program Clinician",
+      "url": "https://jobs.uhsinc.com/jobs/357981?icims=1"
+    },
     "simplify:university of arkansas::simplify-e4f4a19a-0777-4687-9441-b8f377f86167": {
       "company": "University of Arkansas",
       "first_seen": "2026-07-23T15:09:16+00:00",
@@ -16729,5 +16841,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-01T22:24:31+00:00"
+  "updated_at": "2026-08-01T23:24:49+00:00"
 }
