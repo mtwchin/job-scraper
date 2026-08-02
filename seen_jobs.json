@@ -1,5 +1,5 @@
 {
-  "count": 2414,
+  "count": 2420,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -6192,6 +6192,13 @@
       "title": "Software Engineer 1 - Connect IQ Applications",
       "url": "https://careers.garmin.com/jobs/18475?icims=1"
     },
+    "simplify:garmin::simplify-aaaa8a89-4a65-414d-ad5f-46e681c28716": {
+      "company": "Garmin",
+      "first_seen": "2026-08-02T04:32:45+00:00",
+      "posted_at": "1785579711",
+      "title": "Software Engineer 1 - Aviation Web Development",
+      "url": "https://careers.garmin.com/jobs/17742?icims=1"
+    },
     "simplify:garmin::simplify-d9e8b718-9447-4870-8009-8d4514f5eef8": {
       "company": "Garmin",
       "first_seen": "2026-08-01T23:24:49+00:00",
@@ -8690,6 +8697,41 @@
       "posted_at": "1778882944",
       "title": "AI Engineer",
       "url": "https://jobs.ashbyhq.com/makai-labs/a350e730-8d80-4528-9d41-497acbd01223/application"
+    },
+    "simplify:mantech::simplify-678077f9-ae48-457f-8a21-5b51072d2d48": {
+      "company": "ManTech",
+      "first_seen": "2026-08-02T04:32:45+00:00",
+      "posted_at": "1785632384",
+      "title": "Associate CNO Developer",
+      "url": "https://mantech.avature.net/en_US/careers/JobDetail/64788"
+    },
+    "simplify:mantech::simplify-76c3f204-9af7-4adb-8e3a-577de865f6cf": {
+      "company": "ManTech",
+      "first_seen": "2026-08-02T04:32:45+00:00",
+      "posted_at": "1785632432",
+      "title": "Software Engineer 1",
+      "url": "https://mantech.avature.net/en_US/careers/JobDetail/61501"
+    },
+    "simplify:mantech::simplify-86247036-93b7-4e67-9fd5-4b5eb0573583": {
+      "company": "ManTech",
+      "first_seen": "2026-08-02T04:32:45+00:00",
+      "posted_at": "1785632356",
+      "title": "Associate Software Engineer",
+      "url": "https://mantech.avature.net/en_US/careers/JobDetail/65051"
+    },
+    "simplify:mantech::simplify-cb369351-882d-41be-9e85-42d3312f503a": {
+      "company": "ManTech",
+      "first_seen": "2026-08-02T04:32:45+00:00",
+      "posted_at": "1785632383",
+      "title": "Associate Computer Network Operations Developer",
+      "url": "https://mantech.avature.net/en_US/careers/JobDetail/64786"
+    },
+    "simplify:mantech::simplify-e8a83f95-a91b-4658-ad2b-d5a105fe51e9": {
+      "company": "ManTech",
+      "first_seen": "2026-08-02T04:32:45+00:00",
+      "posted_at": "1785632254",
+      "title": "Launch Vehicle Software Developer - 5th Space Launch Squadron",
+      "url": "https://mantech.avature.net/en_US/careers/JobDetail/65190"
     },
     "simplify:manulife financial::simplify-4ff8ce00-d5ca-486c-b103-e438be53ee1a": {
       "company": "Manulife Financial",
@@ -16841,5 +16883,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-01T23:24:49+00:00"
+  "updated_at": "2026-08-02T04:32:45+00:00"
 }
