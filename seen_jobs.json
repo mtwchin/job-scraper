@@ -1,5 +1,5 @@
 {
-  "count": 2424,
+  "count": 2428,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1249,6 +1249,13 @@
       "posted_at": "1783548714",
       "title": "Full-Stack Software Engineer",
       "url": "https://jobs.ashbyhq.com/abby-care/36e55afe-b77d-4e5f-84bf-a1fa4ce208a2/application?embed=true"
+    },
+    "simplify:abec::simplify-19e4f3e2-8068-46e5-b5f9-879b2594bd38": {
+      "company": "ABEC",
+      "first_seen": "2026-08-02T15:27:57+00:00",
+      "posted_at": "1785517785",
+      "title": "Product Engineer",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4372257"
     },
     "simplify:abridge::simplify-ccc30a08-187b-428e-a4e2-333c838dadaa": {
       "company": "Abridge",
@@ -10434,6 +10441,13 @@
       "title": "AI-First Software Engineer \u2013 Entry Level",
       "url": "https://nymbus.com/careers?gh_jid=5785973004"
     },
+    "simplify:obsidian solutions group::simplify-ee1bc7a8-d82f-4c73-8228-18ce9b38d4b0": {
+      "company": "Obsidian Solutions Group",
+      "first_seen": "2026-08-02T15:27:57+00:00",
+      "posted_at": "1784321985",
+      "title": "Unity 3D Developer Intern",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4341435"
+    },
     "simplify:offerup::simplify-cc2fec71-d445-40e3-be3e-b8dd51184164": {
       "company": "OfferUp",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -13682,6 +13696,13 @@
       "title": "Bank Systems Analyst",
       "url": "https://careers-stifel.icims.com/jobs/8724/job?mobile=true&needsRedirect=false"
     },
+    "simplify:storage solutions::simplify-f10c1379-0b00-4d27-9fac-9387dafbd7df": {
+      "company": "Storage Solutions",
+      "first_seen": "2026-08-02T15:27:57+00:00",
+      "posted_at": "1777339946",
+      "title": "Software Engineer",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4078621"
+    },
     "simplify:str::simplify-666026fb-b51e-4c10-bed4-38aaceade505": {
       "company": "STR",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -15137,6 +15158,13 @@
       "posted_at": "1781503942",
       "title": "Software Engineer Graduate - Experimentation and Evaluation",
       "url": "https://lifeattiktok.com/search/7533278507406182674"
+    },
+    "simplify:tiktok::simplify-dbc1b4ce-18c5-46c3-a223-dde10ddb51f0": {
+      "company": "TikTok",
+      "first_seen": "2026-08-02T15:27:56+00:00",
+      "posted_at": "1776906613",
+      "title": "Research Scientist Graduate - Compute Platform - Database Acceleration",
+      "url": "https://lifeattiktok.com/search/7631070662808160565"
     },
     "simplify:tiktok::simplify-e2e06e62-480d-4138-935e-deee2f8784fd": {
       "company": "TikTok",
@@ -16911,5 +16939,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-02T12:44:14+00:00"
+  "updated_at": "2026-08-02T15:27:57+00:00"
 }
