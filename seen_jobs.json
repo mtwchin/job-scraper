@@ -1,5 +1,5 @@
 {
-  "count": 2423,
+  "count": 2424,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -11288,6 +11288,13 @@
       "title": "Part-Time Researcher in Explainable Privacy-Preserving Cryptographic Systems Intern",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/College-of-IST-Part-Time-Researcher-in-Explainable-Privacy-Preserving-Cryptographic-Systems-w--Dr-Sharma_REQ_0000077335-1"
     },
+    "simplify:pennsylvania state university::simplify-e75c8911-e320-4bc9-9ee7-a71bf0a74473": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-08-02T12:44:14+00:00",
+      "posted_at": "1784678400",
+      "title": "DevSecOps Research Computing Software Engineer",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/DevSecOps-Research-Computing-Software--Engineer_REQ_0000079293-2"
+    },
     "simplify:pennsylvania state university::simplify-f205101a-c504-424c-a768-a9e0ebb3adf3": {
       "company": "Pennsylvania State University",
       "first_seen": "2026-07-30T14:36:29+00:00",
@@ -16904,5 +16911,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-02T10:52:31+00:00"
+  "updated_at": "2026-08-02T12:44:14+00:00"
 }
