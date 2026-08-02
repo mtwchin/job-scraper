@@ -1,5 +1,5 @@
 {
-  "count": 2428,
+  "count": 2431,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -8537,6 +8537,13 @@
       "title": "AI Product Engineer \u2013 New Grad",
       "url": "https://jobs.ashbyhq.com/Lightfield/bb758825-5422-46c4-86c3-0be1cc89148f/application"
     },
+    "simplify:lightfield::simplify-e3cfe515-6df5-4847-9b31-0a9b950a8524": {
+      "company": "Lightfield",
+      "first_seen": "2026-08-02T23:29:04+00:00",
+      "posted_at": "1785709295",
+      "title": "Early Career Infrastructure Software Engineer",
+      "url": "https://jobs.ashbyhq.com/Lightfield/9a7ef2f9-577a-4242-b884-719e3cdf4420/application?embed=true"
+    },
     "simplify:lightfield::simplify-f7ad7fb2-93f8-4515-bd37-68629bc7d326": {
       "company": "Lightfield",
       "first_seen": "2026-07-16T04:18:15+00:00",
@@ -9159,6 +9166,13 @@
       "posted_at": "1783900800",
       "title": "New Grad Electrical Engineer - Computer Engineer - Engineering Automation",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---Computer-Engineer--Engineering-Automation_JR103691"
+    },
+    "simplify:microsoft::simplify-14175068-fa33-4dcb-b0de-4819bdef5ae5": {
+      "company": "Microsoft",
+      "first_seen": "2026-08-02T23:29:04+00:00",
+      "posted_at": "1785708552",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556951951"
     },
     "simplify:microsoft::simplify-14db6e31-af67-481d-befd-ea19b152f57a": {
       "company": "Microsoft",
@@ -13619,6 +13633,13 @@
       "title": "Epic Analyst/Builder 1",
       "url": "https://sluhn.wd1.myworkdayjobs.com/SLUHN/job/Allentown-PA---1110-American-Parkway/Epic-Analyst-Builder-I_R143531-1"
     },
+    "simplify:staples::simplify-e3221443-b374-4b72-b948-ccecf7590b90": {
+      "company": "Staples",
+      "first_seen": "2026-08-02T23:29:04+00:00",
+      "posted_at": "1785708555",
+      "title": "Systems Analyst - Warehouse Management System",
+      "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/65034"
+    },
     "simplify:state street::simplify-336cbbc3-eb04-4282-b306-8d4ed5362bec": {
       "company": "State Street",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -16939,5 +16960,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-02T15:27:57+00:00"
+  "updated_at": "2026-08-02T23:29:04+00:00"
 }
