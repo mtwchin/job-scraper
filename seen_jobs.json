@@ -1,5 +1,5 @@
 {
-  "count": 2421,
+  "count": 2423,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2523,6 +2523,13 @@
       "posted_at": "1784505600",
       "title": "Senior Specialist Member of Technical Staff - Device Analytics and AI",
       "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Bothell-Washington/Sr-Specialist-Member-of-Technical-Staff---Device-Analytics-and-AI_R-115905"
+    },
+    "simplify:at&t::simplify-40902065-19b4-4131-a998-cfd08efb4308": {
+      "company": "AT&T",
+      "first_seen": "2026-08-02T10:52:31+00:00",
+      "posted_at": "1784505600",
+      "title": "Specialist Member of Technical Staff - Process Automation & AI Solutions",
+      "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXPlano--W-Plano-Pkwy---Adm--Dat2900-W-Plano-Pkwy/Sr-Specialist-Member-of-Technical-Staff---Process-Automation---AI-Solutions_R-116042"
     },
     "simplify:at&t::simplify-72f57794-d819-4050-b4bb-29575c3deb69": {
       "company": "AT&T",
@@ -11666,6 +11673,13 @@
       "title": "Java Developer",
       "url": "https://jobs.smartrecruiters.com/ProximateTechnologiesInc1/79795677"
     },
+    "simplify:proximate technologies::simplify-5c8636dd-9a87-4f4e-b8d5-4feb37823af0": {
+      "company": "Proximate Technologies",
+      "first_seen": "2026-08-02T10:52:31+00:00",
+      "posted_at": "1772003094",
+      "title": ".NET",
+      "url": "https://jobs.smartrecruiters.com/ProximateTechnologiesInc1/743999661729966"
+    },
     "simplify:psp investments::simplify-2256fb16-191d-48d3-83de-c41babc22b3b": {
       "company": "PSP Investments",
       "first_seen": "2026-07-23T11:28:38+00:00",
@@ -16890,5 +16904,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-02T07:07:49+00:00"
+  "updated_at": "2026-08-02T10:52:31+00:00"
 }
