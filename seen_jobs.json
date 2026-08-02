@@ -1,5 +1,5 @@
 {
-  "count": 2420,
+  "count": 2421,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -15558,6 +15558,13 @@
       "title": "Applications Development Associate",
       "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Applications-Devt-Associate_R25029948"
     },
+    "simplify:universal health services::simplify-625cc8ab-2104-4b98-bc4a-9013b0f4ce95": {
+      "company": "Universal Health Services",
+      "first_seen": "2026-08-02T07:07:49+00:00",
+      "posted_at": "1785575309",
+      "title": "Adolescent PHP Clinician",
+      "url": "https://jobs.uhsinc.com/jobs/361863?icims=1"
+    },
     "simplify:universal health services::simplify-6543f42c-7d9e-42f2-8ed5-5778e092ad0b": {
       "company": "Universal Health Services",
       "first_seen": "2026-08-01T23:24:49+00:00",
@@ -16883,5 +16890,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-02T04:32:45+00:00"
+  "updated_at": "2026-08-02T07:07:49+00:00"
 }
