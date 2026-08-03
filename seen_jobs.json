@@ -1,5 +1,5 @@
 {
-  "count": 2542,
+  "count": 2546,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -123,6 +123,13 @@
       "posted_at": "July 16, 2026",
       "title": "Software Development Engineer I \u2013 AI/ML Network Infrastructure, Annapurna Labs",
       "url": "https://www.amazon.jobs/en/jobs/10475660/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs"
+    },
+    "amazon::10490741": {
+      "company": "Amazon",
+      "first_seen": "2026-08-03T18:16:01+00:00",
+      "posted_at": "August  3, 2026",
+      "title": "Software Development Engineer I \u2013 AI/ML Network Infrastructure, Annapurna Labs",
+      "url": "https://www.amazon.jobs/en/jobs/10490741/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -1165,6 +1172,13 @@
       "posted_at": "2026-08-03T12:00:00-04:00",
       "title": "Software Engineering Internship 2027",
       "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091"
+    },
+    "samsara::8097343": {
+      "company": "Samsara",
+      "first_seen": "2026-08-03T18:16:01+00:00",
+      "posted_at": "2026-08-03T13:17:45-04:00",
+      "title": "Software Engineer I - New Grad, SF",
+      "url": "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343"
     },
     "seatgeek::7858968": {
       "company": "SeatGeek",
@@ -17654,6 +17668,20 @@
       "title": "Fall 2026 Software Engineering Internship/Co-op",
       "url": "https://boards.greenhouse.io/spacex/jobs/8403219002?gh_jid=8403219002"
     },
+    "spacex::8621756002": {
+      "company": "SpaceX",
+      "first_seen": "2026-08-03T18:16:01+00:00",
+      "posted_at": "2026-08-03T13:26:50-04:00",
+      "title": "Spring 2027 Software Engineering Internship/Co-op",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002"
+    },
+    "spacex::8621757002": {
+      "company": "SpaceX",
+      "first_seen": "2026-08-03T18:16:01+00:00",
+      "posted_at": "2026-08-03T13:41:40-04:00",
+      "title": "Summer 2027 Software Engineering Internship/Co-op",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002"
+    },
     "squarepoint::6033550": {
       "company": "Squarepoint",
       "first_seen": "2026-07-10T02:08:17+00:00",
@@ -17737,5 +17765,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-03T16:28:01+00:00"
+  "updated_at": "2026-08-03T18:16:01+00:00"
 }
