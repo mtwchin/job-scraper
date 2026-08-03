@@ -1,5 +1,5 @@
 {
-  "count": 2431,
+  "count": 2437,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1095,6 +1095,41 @@
       "posted_at": "2026-07-17T13:39:41-04:00",
       "title": "IT Systems Engineer I",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7790865003"
+    },
+    "rocket lab::7819722003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-08-03T04:41:00+00:00",
+      "posted_at": "2026-08-02T22:29:47-04:00",
+      "title": "Ground Systems Engineering Intern - Instrumentation & Control",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819722003"
+    },
+    "rocket lab::7819994003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-08-03T04:41:00+00:00",
+      "posted_at": "2026-08-02T23:15:31-04:00",
+      "title": "Systems Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819994003"
+    },
+    "rocket lab::7821140003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-08-03T04:41:00+00:00",
+      "posted_at": "2026-08-02T23:33:40-04:00",
+      "title": "Ground Systems Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7821140003"
+    },
+    "rocket lab::7822310003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-08-03T04:41:00+00:00",
+      "posted_at": "2026-08-03T00:04:34-04:00",
+      "title": "Ground Systems Engineering Intern - Electron",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822310003"
+    },
+    "rocket lab::7822312003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-08-03T04:41:00+00:00",
+      "posted_at": "2026-08-02T22:59:51-04:00",
+      "title": "Ground Systems Engineering Intern - Electron",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7822312003"
     },
     "salesforce::Missionforce---Associate-Forward-Deployed-Engineer--FDE---Public-Sector_JR333171": {
       "company": "Salesforce",
@@ -16265,6 +16300,13 @@
       "title": "Software Engineer - Applications",
       "url": "https://jobs.ashbyhq.com/voxel/eaed8e6e-fc6e-4d21-91b9-a722fda3997e/application"
     },
+    "simplify:walgreens::simplify-59d36e2a-3413-468e-a72e-8c350b5dad94": {
+      "company": "Walgreens",
+      "first_seen": "2026-08-03T04:41:01+00:00",
+      "posted_at": "1785722615",
+      "title": "Software Engineer 1 - Java",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141"
+    },
     "simplify:walmart::simplify-1bcf3c3c-9587-4f21-b1ab-3f6d85758d87": {
       "company": "Walmart",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -16960,5 +17002,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-02T23:29:04+00:00"
+  "updated_at": "2026-08-03T04:41:01+00:00"
 }
