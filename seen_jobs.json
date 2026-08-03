@@ -1,5 +1,5 @@
 {
-  "count": 2536,
+  "count": 2542,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1158,6 +1158,13 @@
       "posted_at": "2026-07-09T06:54:48-04:00",
       "title": "Sr. Software Engineer I, Cloud Security Platform ",
       "url": "https://www.samsara.com/company/careers/roles/8042387?gh_jid=8042387"
+    },
+    "samsara::8082091": {
+      "company": "Samsara",
+      "first_seen": "2026-08-03T16:28:00+00:00",
+      "posted_at": "2026-08-03T12:00:00-04:00",
+      "title": "Software Engineering Internship 2027",
+      "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091"
     },
     "seatgeek::7858968": {
       "company": "SeatGeek",
@@ -3980,6 +3987,13 @@
       "title": "Software Engineer New Grad - Software Engineer",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247335"
     },
+    "simplify:capital one::simplify-53a2a495-c3df-469b-964d-b5d126fdc219": {
+      "company": "Capital One",
+      "first_seen": "2026-08-03T16:28:00+00:00",
+      "posted_at": "1785715200",
+      "title": "Technology Intern",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2027_R244387-1"
+    },
     "simplify:capital one::simplify-8604d8aa-cc00-481b-9215-515df15cae18": {
       "company": "Capital One",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -6401,6 +6415,13 @@
       "posted_at": "1783635197",
       "title": "Machine Shop CNC Operator - CNC Operators",
       "url": "https://foxfactory.wd1.myworkdayjobs.com/FOX/job/US-GA-Gainesville-Machine-Shop/CNC-Machine-Operator---3rd-Shift_JR109102"
+    },
+    "simplify:freddie mac::simplify-fc4f2880-dfbe-4370-a129-24ea58c9a173": {
+      "company": "Freddie Mac",
+      "first_seen": "2026-08-03T16:28:01+00:00",
+      "posted_at": "1785715200",
+      "title": "Software Developer Analyst",
+      "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Analyst_JR17441"
     },
     "simplify:freedom technology solutions group::simplify-de2dabaf-389f-4f67-bf9d-1414cfa393fe": {
       "company": "Freedom Technology Solutions Group",
@@ -11785,6 +11806,13 @@
       "title": "Cloud Software Engineer 1",
       "url": "https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false"
     },
+    "simplify:peraton::simplify-beffc9df-d33a-4e8c-bd21-8ac5229e3ab7": {
+      "company": "Peraton",
+      "first_seen": "2026-08-03T16:28:01+00:00",
+      "posted_at": "1785766379",
+      "title": "Junior Web Developer",
+      "url": "https://careers-peraton.icims.com/jobs/169306/job?mobile=true&needsRedirect=false"
+    },
     "simplify:peregrine::simplify-0469baa7-6bac-4434-860f-795b5207c1aa": {
       "company": "Peregrine",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -15068,6 +15096,13 @@
       "title": "Junior Software Engineer - AI-Forward",
       "url": "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply"
     },
+    "simplify:texas sports academy::simplify-9ee25097-f93f-4cf5-94fc-b8071589bf17": {
+      "company": "Texas Sports Academy",
+      "first_seen": "2026-08-03T16:28:01+00:00",
+      "posted_at": "1785766493",
+      "title": "Junior AI Software Engineer",
+      "url": "https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply"
+    },
     "simplify:texas sports academy::simplify-cb1b4088-7336-49cb-9256-5f2f746a9ca9": {
       "company": "Texas Sports Academy",
       "first_seen": "2026-08-01T16:16:06+00:00",
@@ -16355,6 +16390,13 @@
       "posted_at": "1785575156",
       "title": "Registered Nurse \u2013 Partial Hospitalization Program",
       "url": "https://jobs.uhsinc.com/jobs/358390?icims=1"
+    },
+    "simplify:universal health services::simplify-9dd271a3-9548-43cb-aa06-75e9947c1623": {
+      "company": "Universal Health Services",
+      "first_seen": "2026-08-03T16:28:01+00:00",
+      "posted_at": "1785766182",
+      "title": "Associate Software Engineer - FSI",
+      "url": "https://jobs.uhsinc.com/jobs/362176?icims=1"
     },
     "simplify:universal health services::simplify-c04f1768-6376-4a58-805c-12a32cdfeff0": {
       "company": "Universal Health Services",
@@ -17695,5 +17737,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-03T13:59:54+00:00"
+  "updated_at": "2026-08-03T16:28:01+00:00"
 }
