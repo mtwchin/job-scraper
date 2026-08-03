@@ -1,5 +1,5 @@
 {
-  "count": 2535,
+  "count": 2536,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -12996,6 +12996,13 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767"
     },
+    "simplify:rtx::simplify-acab3458-c681-419e-821c-031f7b12b082": {
+      "company": "RTX",
+      "first_seen": "2026-08-03T13:59:54+00:00",
+      "posted_at": "1785369600",
+      "title": "Cyberspace Research Developer",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-COLUMBIA-720--9861-Broken-Land-Pkwy--BBN-COLUMBIA-Ste-400/Cyberspace-Research-Developer--Onsite-_01862901"
+    },
     "simplify:rtx::simplify-b2fa0f21-04d7-441c-90f2-b38ee22120fb": {
       "company": "RTX",
       "first_seen": "2026-07-29T00:10:36+00:00",
@@ -17688,5 +17695,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-03T11:36:50+00:00"
+  "updated_at": "2026-08-03T13:59:54+00:00"
 }
