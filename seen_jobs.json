@@ -1,5 +1,5 @@
 {
-  "count": 2623,
+  "count": 2625,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -6696,6 +6696,13 @@
       "title": "Grid Automation & Software Intern",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3"
     },
+    "simplify:gearset::simplify-88c5bdf1-0566-486c-9ce9-71492610af86": {
+      "company": "Gearset",
+      "first_seen": "2026-08-04T15:39:14+00:00",
+      "posted_at": "1785853200",
+      "title": "Graduate Software Engineer",
+      "url": "https://jobs.ashbyhq.com/gearset/4584873d-9645-4241-84bc-36cc4c504e7e/application?embed=true"
+    },
     "simplify:gemini::simplify-33d49b99-ffcc-4d51-ab65-58a97d2afbf0": {
       "company": "Gemini",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -11084,6 +11091,13 @@
       "posted_at": "1781313747",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/offerup/jobs/8004171"
+    },
+    "simplify:ohio state university::simplify-a34cd5b9-9bbf-4ec0-9485-89dac6af3581": {
+      "company": "Ohio State University",
+      "first_seen": "2026-08-04T15:39:14+00:00",
+      "posted_at": "1785801600",
+      "title": "Associate Applications Developer",
+      "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Associate-Applications-Developer_R156425-2"
     },
     "simplify:oklo::simplify-279e7051-e541-4865-b50d-cd10a4f29571": {
       "company": "Oklo",
@@ -18304,5 +18318,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-04T13:17:51+00:00"
+  "updated_at": "2026-08-04T15:39:14+00:00"
 }
