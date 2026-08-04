@@ -1,5 +1,5 @@
 {
-  "count": 2632,
+  "count": 2645,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2650,6 +2650,20 @@
       "title": "Associate Software Engineer",
       "url": "https://asuresoftware.bamboohr.com/careers/1020/"
     },
+    "simplify:asure::simplify-1d1eaea3-018d-4904-b3fe-43da7bb43faa": {
+      "company": "Asure",
+      "first_seen": "2026-08-04T23:42:34+00:00",
+      "posted_at": "1785881799",
+      "title": "Associate Software Engineer",
+      "url": "https://asuresoftware.bamboohr.com/careers/1053/"
+    },
+    "simplify:asure::simplify-432f2a98-6083-457b-915b-52b50828742d": {
+      "company": "Asure",
+      "first_seen": "2026-08-04T23:42:34+00:00",
+      "posted_at": "1785881802",
+      "title": "Associate Software Engineer",
+      "url": "https://asuresoftware.bamboohr.com/careers/1052/"
+    },
     "simplify:at&t::simplify-28c81062-506f-485d-959b-39015b174c5d": {
       "company": "AT&T",
       "first_seen": "2026-07-23T11:28:38+00:00",
@@ -3230,6 +3244,13 @@
       "posted_at": "1785737841",
       "title": "Full Stack Java Developer",
       "url": "https://bookerdimaio.applytojob.com/apply/jPoQXED5J3/Full-Stack-Java-Developer-With-TSSCI-Clearance-Full-Scope-PolygraphOnsite-In-Annapolis-Jct-MD"
+    },
+    "simplify:booz allen::simplify-0cd3e725-fe4b-4768-aecb-e81cf4cd5e16": {
+      "company": "Booz Allen",
+      "first_seen": "2026-08-04T23:42:34+00:00",
+      "posted_at": "1781129405",
+      "title": "Software Engineer - Software Engineer",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/University--Software-Engineer_R0241736"
     },
     "simplify:booz allen::simplify-82b6dc19-0642-419a-bc20-8206421d9643": {
       "company": "Booz Allen",
@@ -4393,6 +4414,13 @@
       "title": "Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005"
     },
+    "simplify:chicago trading company::simplify-8bd54ea8-c98b-4916-9d37-4b810ed28535": {
+      "company": "Chicago Trading Company",
+      "first_seen": "2026-08-04T23:42:34+00:00",
+      "posted_at": "1785536245",
+      "title": "Associate Engineer",
+      "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4709991005"
+    },
     "simplify:chicago trading company::simplify-cef4c60b-0a55-4305-94cf-d725b8c66ad2": {
       "company": "Chicago Trading Company",
       "first_seen": "2026-08-03T23:19:57+00:00",
@@ -4602,6 +4630,13 @@
       "posted_at": "1782957841",
       "title": "Junior Applications Developer - Programmer Analyst",
       "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Junior-Applications-Developer---Programmer-Analyst_26971294"
+    },
+    "simplify:citi::simplify-84fa0a5f-8366-48f2-9718-6823090c9978": {
+      "company": "Citi",
+      "first_seen": "2026-08-04T23:42:34+00:00",
+      "posted_at": "1781734512",
+      "title": "Digital Software Engineering Intern",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Digital-S-W-Engineer-Intm-Analyst-Officer--Irving-_26956642"
     },
     "simplify:citi::simplify-88daf4b9-edae-47b1-a817-45fafebd36ee": {
       "company": "Citi",
@@ -5233,6 +5268,13 @@
       "title": "Entry Level Software Engineer",
       "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202679034"
     },
+    "simplify:cox::simplify-b0c3891e-ee7f-4fd2-8bd6-68e85a6e9822": {
+      "company": "Cox",
+      "first_seen": "2026-08-04T23:42:34+00:00",
+      "posted_at": "1785801600",
+      "title": "Entry Level Software Engineer",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202680858-1"
+    },
     "simplify:crackajack digital solutions llc::simplify-511d9576-3972-49cf-a949-a84c117895f1": {
       "company": "CrackaJack Digital Solutions LLC",
       "first_seen": "2026-07-23T07:13:32+00:00",
@@ -5799,6 +5841,13 @@
       "posted_at": "1783982168",
       "title": "Software Engineer 1",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610"
+    },
+    "simplify:draper::simplify-25bae6a6-ddae-4c18-a721-7986920585cc": {
+      "company": "Draper",
+      "first_seen": "2026-08-04T23:42:34+00:00",
+      "posted_at": "1785881750",
+      "title": "System Analysis Engineer",
+      "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/System-Requirements-Engineer_JR002399-1"
     },
     "simplify:drw::simplify-9d3f1c22-843d-4d5f-822e-542fba89e477": {
       "company": "DRW",
@@ -6898,6 +6947,13 @@
       "posted_at": "1785283200",
       "title": "Digital Vehicle Experience Software Developer Co-op",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2026-Fall-Co-op-Digital-Vehicle-Experience-Software-Developer_JR-202616330"
+    },
+    "simplify:genetec::simplify-80735135-15c9-468b-81c1-48e4af8b28c3": {
+      "company": "Genetec",
+      "first_seen": "2026-08-04T23:42:34+00:00",
+      "posted_at": "1785881871",
+      "title": "Software Developer - Multiple Teams",
+      "url": "https://apply.workable.com/genetec-inc/j/9DC9768E16/apply"
     },
     "simplify:genetec::simplify-c1b49562-5383-4d86-a6bf-70fa57007c01": {
       "company": "Genetec",
@@ -8089,6 +8145,13 @@
       "title": "AI/ML Software Engineer",
       "url": "https://www.itradenetwork.com/jobs/5290252008?gh_jid=5290252008"
     },
+    "simplify:its logistics::simplify-3bc8bc1a-f3ec-402a-8552-c643b8acad58": {
+      "company": "ITS Logistics",
+      "first_seen": "2026-08-04T23:42:34+00:00",
+      "posted_at": "1785537409",
+      "title": "Associate AI Builder - Liberty",
+      "url": "https://job-boards.greenhouse.io/itslogisticsllc/jobs/5376450008"
+    },
     "simplify:ivo::simplify-1ca94190-fd1a-4531-953f-194660778ad9": {
       "company": "Ivo",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -8495,6 +8558,13 @@
       "title": "Software Development Intern",
       "url": "https://jobs.keysight.com/jobs/53081?lang=en-us&icims=1"
     },
+    "simplify:kimley-horn::simplify-78aeccde-cc65-477c-9f1f-b791b9597940": {
+      "company": "Kimley-Horn",
+      "first_seen": "2026-08-04T23:42:34+00:00",
+      "posted_at": "1785881490",
+      "title": "Software Analyst",
+      "url": "https://careers-kimley-horn.icims.com/jobs/25696/job?mobile=true&needsRedirect=false"
+    },
     "simplify:kimley-horn::simplify-78b2fe28-b6b4-4bdb-ade7-200e8a96e904": {
       "company": "Kimley-Horn",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -8683,6 +8753,13 @@
       "posted_at": "1785277458",
       "title": "Forward Deployed Engineer Intern",
       "url": "https://jobs.ashbyhq.com/Kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148/application?embed=true"
+    },
+    "simplify:kognitos::simplify-4bcd5c13-f55d-4f88-98d3-31644264b8b8": {
+      "company": "Kognitos",
+      "first_seen": "2026-08-04T23:42:34+00:00",
+      "posted_at": "1785881983",
+      "title": "Associate Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/Kognitos/1f7775f7-eb11-4dca-b30c-bbd077d7d1f9/application?embed=true"
     },
     "simplify:kos.ai::simplify-b8c23e53-79db-45ab-a105-78a3d344b881": {
       "company": "kos.ai",
@@ -10588,6 +10665,13 @@
       "title": "Software Engineer / User Experience Applications",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer---User-Experience-Applications_R10236991-1"
     },
+    "simplify:northrop grumman::simplify-6203f891-9874-4b06-9079-4a95178007dc": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-08-04T23:42:34+00:00",
+      "posted_at": "1785801600",
+      "title": "Associate Software Engineer / Software Engineer - Software Engineering",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Software-Engineer---Software-Engineer_R10243047"
+    },
     "simplify:northrop grumman::simplify-64e4132f-4013-4cca-8734-977dba502024": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-21T22:15:56+00:00",
@@ -12113,6 +12197,13 @@
       "posted_at": "1785766379",
       "title": "Junior Web Developer",
       "url": "https://careers-peraton.icims.com/jobs/169306/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:peraton::simplify-ecd7306e-e1ab-4153-bd2f-50c077e829c7": {
+      "company": "Peraton",
+      "first_seen": "2026-08-04T23:42:34+00:00",
+      "posted_at": "1785881593",
+      "title": "Junior Software Engineer - Developer - Space Communications Program",
+      "url": "https://careers-peraton.icims.com/jobs/169377/job?mobile=true&needsRedirect=false"
     },
     "simplify:peregrine::simplify-0469baa7-6bac-4434-860f-795b5207c1aa": {
       "company": "Peregrine",
@@ -18367,5 +18458,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-04T22:43:44+00:00"
+  "updated_at": "2026-08-04T23:42:34+00:00"
 }
