@@ -1,5 +1,5 @@
 {
-  "count": 2621,
+  "count": 2623,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -11897,6 +11897,13 @@
       "title": "Computer Science and Engineering Researcher",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Hussain--S_REQ_0000079781-2"
     },
+    "simplify:pennsylvania state university::simplify-a2143740-4000-4433-9bea-36d3ecb4ca95": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-08-04T13:17:51+00:00",
+      "posted_at": "1782955984",
+      "title": "Secure Systems Research and Development Engineer",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/Secure-Systems-Research-and-Development-Engineer_REQ_0000077943-2"
+    },
     "simplify:pennsylvania state university::simplify-bea57c4a-be73-42eb-b6da-e93a1735c880": {
       "company": "Pennsylvania State University",
       "first_seen": "2026-07-29T13:17:34+00:00",
@@ -17518,6 +17525,13 @@
       "title": "Software Engineer",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer_REF081674W-1"
     },
+    "simplify:visa::simplify-e7be092f-49c3-429c-a396-1bdbff4a3e79": {
+      "company": "Visa",
+      "first_seen": "2026-08-04T13:17:51+00:00",
+      "posted_at": "1784764800",
+      "title": "Software Engineer - Corporate GenAI",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer---Corporate-GenAI_REF085070W"
+    },
     "simplify:visa::simplify-f1ff7da9-0228-4439-858e-699aad2ebc40": {
       "company": "Visa",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -18290,5 +18304,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-04T11:32:42+00:00"
+  "updated_at": "2026-08-04T13:17:51+00:00"
 }
