@@ -1,5 +1,5 @@
 {
-  "count": 2578,
+  "count": 2581,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1599,6 +1599,13 @@
       "posted_at": "1781877913",
       "title": "TIBCO Spotfire",
       "url": "https://jobs.smartrecruiters.com/AGTechnologies1/85322486"
+    },
+    "simplify:agate software::simplify-5ced01a5-6d42-47fc-90a6-5a183c724f67": {
+      "company": "Agate Software",
+      "first_seen": "2026-08-04T03:42:42+00:00",
+      "posted_at": "1785805700",
+      "title": "Software Developer 1",
+      "url": "https://jobs.lever.co/agatesoftware/60c278e1-9b47-4ba9-8961-0e0cf41e0739/apply"
     },
     "simplify:agile defense::simplify-c524550c-525b-4838-8898-17e6386a560e": {
       "company": "Agile Defense",
@@ -6409,6 +6416,13 @@
       "title": "AI Coder",
       "url": "https://job-boards.greenhouse.io/flighthub/jobs/8060355"
     },
+    "simplify:flsmidth::simplify-75f107ab-fe4c-4244-af98-b3e635d5b74a": {
+      "company": "FLSmidth",
+      "first_seen": "2026-08-04T03:42:42+00:00",
+      "posted_at": "1785715200",
+      "title": "Graduate Development Associate",
+      "url": "https://flsmidth.wd3.myworkdayjobs.com/FLS_Global/job/Salt-Lake-City/Graduate-Development-Associate_R30826"
+    },
     "simplify:fluency::simplify-9ec02aa1-92f0-4290-9d73-e1fc81c000e6": {
       "company": "Fluency",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -9621,6 +9635,13 @@
       "posted_at": "1785456000",
       "title": "Power, Analog and Mixed-Signal IC Product Engineer Intern - Product Engineering",
       "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Product-Engineering-_R3151-26-1"
+    },
+    "simplify:microchip technology::simplify-b42f1692-5275-4f0e-8d12-d63ea6464341": {
+      "company": "Microchip Technology",
+      "first_seen": "2026-08-04T03:42:42+00:00",
+      "posted_at": "1785715200",
+      "title": "Engineering Intern - Software Development",
+      "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26"
     },
     "simplify:micron technology::simplify-0921cc7c-5118-4b58-bb30-c23a720502d9": {
       "company": "Micron Technology",
@@ -17989,5 +18010,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-04T00:17:51+00:00"
+  "updated_at": "2026-08-04T03:42:42+00:00"
 }
