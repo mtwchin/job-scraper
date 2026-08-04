@@ -1,5 +1,5 @@
 {
-  "count": 2581,
+  "count": 2603,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2348,6 +2348,13 @@
       "posted_at": "1785276759",
       "title": "Camera Framework Tooling Engineer - Photo Capture - Camera & Photos",
       "url": "https://jobs.apple.com/en-us/details/200674154"
+    },
+    "simplify:apple::simplify-d7cdec21-1d63-46c8-8dee-3c6968019ca3": {
+      "company": "Apple",
+      "first_seen": "2026-08-04T09:10:05+00:00",
+      "posted_at": "1785823963",
+      "title": "Software Engineer - Front-end",
+      "url": "https://jobs.apple.com/en-us/details/200660851"
     },
     "simplify:apple::simplify-da7a12e5-701f-463f-9b1d-1a62bb743dfa": {
       "company": "Apple",
@@ -5835,6 +5842,20 @@
       "title": "Software Developer",
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4687398005"
     },
+    "simplify:e-careers::simplify-072800b9-3b80-4a6e-8cb3-e41ea30d9a45": {
+      "company": "e-Careers",
+      "first_seen": "2026-08-04T09:10:06+00:00",
+      "posted_at": "1785824197",
+      "title": "Software Developer Trainee",
+      "url": "https://apply.workable.com/ecareers/j/C82B9AD635/apply"
+    },
+    "simplify:e-careers::simplify-ccd120be-2e26-4630-8f25-52b5259f3e00": {
+      "company": "e-Careers",
+      "first_seen": "2026-08-04T09:10:06+00:00",
+      "posted_at": "1785824199",
+      "title": "Software Developer Trainee",
+      "url": "https://apply.workable.com/ecareers/j/5049C7B338/apply"
+    },
     "simplify:eai technologies::simplify-165def57-d2b8-4820-944f-203575dd7b00": {
       "company": "EAi Technologies",
       "first_seen": "2026-08-03T08:03:11+00:00",
@@ -6842,6 +6863,13 @@
       "posted_at": "1785283200",
       "title": "Digital Vehicle Experience Software Developer Co-op",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2026-Fall-Co-op-Digital-Vehicle-Experience-Software-Developer_JR-202616330"
+    },
+    "simplify:genetec::simplify-c1b49562-5383-4d86-a6bf-70fa57007c01": {
+      "company": "Genetec",
+      "first_seen": "2026-08-04T09:10:06+00:00",
+      "posted_at": "1785824167",
+      "title": ".NET Software Developer - Multiple Teams",
+      "url": "https://apply.workable.com/genetec-inc/j/145492924C/apply"
     },
     "simplify:geneva trading::simplify-8c0be7dd-c4ae-4fd4-89fe-775e3e1c919a": {
       "company": "Geneva Trading",
@@ -9692,6 +9720,13 @@
       "title": "Software Engineer 2 - Foundry Agents - CoreAI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863227"
     },
+    "simplify:microsoft::simplify-7e143f06-1c28-41b7-9291-53a869d86325": {
+      "company": "Microsoft",
+      "first_seen": "2026-08-04T09:10:05+00:00",
+      "posted_at": "1785823778",
+      "title": "Software Engineer Intern - Cloud & Distributed Backend",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923"
+    },
     "simplify:microsoft::simplify-9fe00265-7716-44f9-bc43-1017aa863220": {
       "company": "Microsoft",
       "first_seen": "2026-08-03T11:36:49+00:00",
@@ -9699,12 +9734,26 @@
       "title": "Software Engineer Intern - CoreAI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950"
     },
+    "simplify:microsoft::simplify-b412b084-36e9-45e2-b3a0-561c4336e62e": {
+      "company": "Microsoft",
+      "first_seen": "2026-08-04T09:10:05+00:00",
+      "posted_at": "1785823783",
+      "title": "Software Engineer Security & Identity Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930"
+    },
     "simplify:microsoft::simplify-d50dd4f1-ca8c-4636-9452-4d9f4073bd45": {
       "company": "Microsoft",
       "first_seen": "2026-07-17T00:58:32+00:00",
       "posted_at": "1784239482",
       "title": "Software Engineer 2 / Senior Software Engineer - Commerce Platforms",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556928670"
+    },
+    "simplify:microsoft::simplify-ed31bd8d-9acf-436c-9628-1d4c79959bac": {
+      "company": "Microsoft",
+      "first_seen": "2026-08-04T09:10:05+00:00",
+      "posted_at": "1785823783",
+      "title": "Full-Stack Product Engineer Intern - Web + Services",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922"
     },
     "simplify:mindlance::simplify-2e79b2fe-c212-4a91-ae33-f27118f41aa7": {
       "company": "Mindlance",
@@ -13087,6 +13136,13 @@
       "title": "Application Development Consulting Associate",
       "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Denver-Downtown/Application-Development-Consulting-Associate---Fall-2027_JR116793"
     },
+    "simplify:rtx::simplify-0229beda-126f-43a7-a85a-286066c436b8": {
+      "company": "RTX",
+      "first_seen": "2026-08-04T09:10:06+00:00",
+      "posted_at": "1785715200",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749"
+    },
     "simplify:rtx::simplify-0b26c2f0-079a-457d-b9bc-8123655ff605": {
       "company": "RTX",
       "first_seen": "2026-07-30T16:11:31+00:00",
@@ -14634,6 +14690,13 @@
       "title": "Software Engineer",
       "url": "https://jobs.lever.co/synergyecp/9937b3dd-fa2f-40ae-995b-3a896a0e3bd9/apply"
     },
+    "simplify:synqor::simplify-8c4b3913-d07d-4778-9227-405aec81c720": {
+      "company": "SynQor",
+      "first_seen": "2026-08-04T09:10:06+00:00",
+      "posted_at": "1785824082",
+      "title": "Electrical Product Engineer",
+      "url": "https://jobs.jobvite.com/synqor-careers/job/o2EKxfwH?nl=1&nl=1&fr=false"
+    },
     "simplify:system canada technologies::simplify-d53eee07-0e15-482c-8a9b-e7be5a9deb57": {
       "company": "System Canada Technologies",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -15726,6 +15789,13 @@
       "title": "Software Engineer New Grad - Business Integrity",
       "url": "https://lifeattiktok.com/search/7668592494649690421"
     },
+    "simplify:tiktok::simplify-04eb8758-e0be-4ae4-aca7-40e1626d3e24": {
+      "company": "TikTok",
+      "first_seen": "2026-08-04T09:10:05+00:00",
+      "posted_at": "1785824431",
+      "title": "Backend Software Engineer Intern - Product Infrastructure",
+      "url": "https://lifeattiktok.com/search/7667935633764370741"
+    },
     "simplify:tiktok::simplify-06c11bb5-43c4-40be-8e95-f79d8f4b6ee6": {
       "company": "TikTok",
       "first_seen": "2026-08-03T08:03:09+00:00",
@@ -15739,6 +15809,13 @@
       "posted_at": "1785737700",
       "title": "Software Engineer Intern - Ads Measurement Signal and Privacy",
       "url": "https://lifeattiktok.com/search/7668582031916435717"
+    },
+    "simplify:tiktok::simplify-08be4cf5-fcc4-47ed-82fc-2dc64c84d1b4": {
+      "company": "TikTok",
+      "first_seen": "2026-08-04T09:10:05+00:00",
+      "posted_at": "1785824415",
+      "title": "Backend Software Engineer Intern - Global E-Commerce",
+      "url": "https://lifeattiktok.com/search/7668834837268416821"
     },
     "simplify:tiktok::simplify-092fac4b-3753-4d79-b797-cb3aac771420": {
       "company": "TikTok",
@@ -15774,6 +15851,13 @@
       "posted_at": "1775610739",
       "title": "Software Engineer Graduate",
       "url": "https://lifeattiktok.com/search/7532009150009755911"
+    },
+    "simplify:tiktok::simplify-1b288e59-0885-4ce7-bd60-b7cdda93c8bc": {
+      "company": "TikTok",
+      "first_seen": "2026-08-04T09:10:05+00:00",
+      "posted_at": "1785824408",
+      "title": "Software Engineer Intern",
+      "url": "https://lifeattiktok.com/search/7668921505254410549"
     },
     "simplify:tiktok::simplify-1d7d6985-791b-4b60-be34-7ca3806aacba": {
       "company": "TikTok",
@@ -15838,6 +15922,20 @@
       "title": "Software Engineer Intern - Ads Interface Platform",
       "url": "https://lifeattiktok.com/search/7473334964256393479"
     },
+    "simplify:tiktok::simplify-43cac478-76b4-4968-9ede-e3293fd02c28": {
+      "company": "TikTok",
+      "first_seen": "2026-08-04T09:10:05+00:00",
+      "posted_at": "1785824422",
+      "title": "Frontend Software Engineer New Grad - Ads Interface",
+      "url": "https://lifeattiktok.com/search/7668569995571726597"
+    },
+    "simplify:tiktok::simplify-46575741-75da-4faf-bcef-a1e47eb90fd2": {
+      "company": "TikTok",
+      "first_seen": "2026-08-04T09:10:05+00:00",
+      "posted_at": "1785824410",
+      "title": "Software Engineer New Grad - Ads Infrastructure",
+      "url": "https://lifeattiktok.com/search/7668879883938203957"
+    },
     "simplify:tiktok::simplify-47768da2-8643-4881-8249-a78543064605": {
       "company": "TikTok",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -15858,6 +15956,13 @@
       "posted_at": "1785737699",
       "title": "Software Engineer Intern - ML Infra",
       "url": "https://lifeattiktok.com/search/7668696895234197813"
+    },
+    "simplify:tiktok::simplify-4ef18c97-61e7-45fb-96b5-55d9163a1786": {
+      "company": "TikTok",
+      "first_seen": "2026-08-04T09:10:05+00:00",
+      "posted_at": "1785824419",
+      "title": "Software Engineer Intern - Effects Performance",
+      "url": "https://lifeattiktok.com/search/7668725183121000757"
     },
     "simplify:tiktok::simplify-504f0b08-afb2-4964-b3cd-5dee1937b1ad": {
       "company": "TikTok",
@@ -15908,6 +16013,13 @@
       "title": "Software Engineer Graduate - Ads Delivery",
       "url": "https://lifeattiktok.com/search/7668662545059023157"
     },
+    "simplify:tiktok::simplify-674e67ef-7ad8-486e-9f4c-f82c982d003c": {
+      "company": "TikTok",
+      "first_seen": "2026-08-04T09:10:05+00:00",
+      "posted_at": "1785824424",
+      "title": "Graduate Software Engineer - Transaction Platform",
+      "url": "https://lifeattiktok.com/search/7668557209047894325"
+    },
     "simplify:tiktok::simplify-6908222c-e936-4f53-9279-78f6f59e507d": {
       "company": "TikTok",
       "first_seen": "2026-08-03T08:03:09+00:00",
@@ -15921,6 +16033,13 @@
       "posted_at": "1769048068",
       "title": "Technical Support Engineer - Android/iOS SDK",
       "url": "https://lifeattiktok.com/search/7443902253976570120"
+    },
+    "simplify:tiktok::simplify-6fa46b99-9c48-44b2-8d38-e17ef2651837": {
+      "company": "TikTok",
+      "first_seen": "2026-08-04T09:10:05+00:00",
+      "posted_at": "1785824408",
+      "title": "Software Engineer Intern - Ads Interface",
+      "url": "https://lifeattiktok.com/search/7669705785962727733"
     },
     "simplify:tiktok::simplify-7656aad8-a423-4e16-bb7e-5b487532457f": {
       "company": "TikTok",
@@ -15971,6 +16090,13 @@
       "title": "Software Engineer Intern - Commerce Ads - 2026 Summer",
       "url": "https://lifeattiktok.com/search/7595346355196954933"
     },
+    "simplify:tiktok::simplify-7cf90be5-721e-4501-ae56-97684360dd1c": {
+      "company": "TikTok",
+      "first_seen": "2026-08-04T09:10:05+00:00",
+      "posted_at": "1785824424",
+      "title": "Frontend Software Engineer Graduate - Global CRM",
+      "url": "https://lifeattiktok.com/search/7668561079544154373"
+    },
     "simplify:tiktok::simplify-7ebfe14e-9cc5-4d58-a36d-60f66838f248": {
       "company": "TikTok",
       "first_seen": "2026-08-03T08:03:09+00:00",
@@ -16005,6 +16131,13 @@
       "posted_at": "1768443441",
       "title": "Software Engineer Intern - Global Site Reliability Engineer",
       "url": "https://lifeattiktok.com/search/7536042624604997896"
+    },
+    "simplify:tiktok::simplify-8b95003b-f01d-4d6b-a4d2-1e4c6d890df5": {
+      "company": "TikTok",
+      "first_seen": "2026-08-04T09:10:05+00:00",
+      "posted_at": "1785824407",
+      "title": "Software Engineer Intern - Global CRM",
+      "url": "https://lifeattiktok.com/search/7669711844487399685"
     },
     "simplify:tiktok::simplify-8e3d641a-8bc6-43f8-9fc3-16e49711a6d9": {
       "company": "TikTok",
@@ -16083,6 +16216,13 @@
       "title": "Frontend Engineer Intern - Open Platform",
       "url": "https://lifeattiktok.com/search/7667935739300792629"
     },
+    "simplify:tiktok::simplify-b8f5c841-1a67-4b15-bb05-70d871b0ab77": {
+      "company": "TikTok",
+      "first_seen": "2026-08-04T09:10:05+00:00",
+      "posted_at": "1785824416",
+      "title": "Backend Software Engineer Intern - Global E-Commerce",
+      "url": "https://lifeattiktok.com/search/7668834837268138293"
+    },
     "simplify:tiktok::simplify-bf3fb2af-42dc-4e27-8aad-259ae8c9dbae": {
       "company": "TikTok",
       "first_seen": "2026-08-03T08:03:09+00:00",
@@ -16110,6 +16250,13 @@
       "posted_at": "1764641787",
       "title": "GPU/AI Application System Software Engineer Intern - System Technologies and Engineering - 2026 Summer",
       "url": "https://lifeattiktok.com/search/7572358528171510069"
+    },
+    "simplify:tiktok::simplify-c78d4a32-8ee7-49e9-8f39-e63ea6cd4b9e": {
+      "company": "TikTok",
+      "first_seen": "2026-08-04T09:10:05+00:00",
+      "posted_at": "1785824420",
+      "title": "Software Engineer New Grad",
+      "url": "https://lifeattiktok.com/search/7668701361741007109"
     },
     "simplify:tiktok::simplify-c89cddfc-ea4d-453c-91cd-3f9293e56a32": {
       "company": "TikTok",
@@ -16208,6 +16355,13 @@
       "posted_at": "1785737712",
       "title": "Backend Software Engineer Graduate - Risk & Response",
       "url": "https://lifeattiktok.com/search/7663032057264244997"
+    },
+    "simplify:tiktok::simplify-fa833b4d-22a1-41d9-b0cf-9ae746021d98": {
+      "company": "TikTok",
+      "first_seen": "2026-08-04T09:10:05+00:00",
+      "posted_at": "1785824410",
+      "title": "Graduate Software Engineer - Ads Interface",
+      "url": "https://lifeattiktok.com/search/7668855346857019701"
     },
     "simplify:tiktok::simplify-fd5ce344-8090-4978-9130-22580b2ba64d": {
       "company": "TikTok",
@@ -18010,5 +18164,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-04T03:42:42+00:00"
+  "updated_at": "2026-08-04T09:10:06+00:00"
 }
