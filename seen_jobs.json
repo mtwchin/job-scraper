@@ -1,5 +1,5 @@
 {
-  "count": 2561,
+  "count": 2578,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1110,6 +1110,13 @@
       "title": "IT Systems Engineer I",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7790865003"
     },
+    "rocket lab::7819677003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-08-04T00:17:51+00:00",
+      "posted_at": "2026-08-03T20:03:52-04:00",
+      "title": "Software Engineering Intern - Production Automation",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7819677003"
+    },
     "rocket lab::7819722003": {
       "company": "Rocket Lab",
       "first_seen": "2026-08-03T04:41:00+00:00",
@@ -2111,6 +2118,13 @@
       "title": "Programmer",
       "url": "https://amsive.applytojob.com/apply/OiAV4aB3HJ/Programmer"
     },
+    "simplify:analog devices::simplify-e060f699-0319-4af1-86fe-3235c0e032c1": {
+      "company": "Analog Devices",
+      "first_seen": "2026-08-04T00:17:51+00:00",
+      "posted_at": "1785715200",
+      "title": "Product Engineer - Design Evaluation",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Product-Engineer---RF-System_R263805"
+    },
     "simplify:analytical mechanics associates::simplify-dc53bf27-8562-4b15-bb8a-5c712b61d498": {
       "company": "Analytical Mechanics Associates",
       "first_seen": "2026-08-03T23:19:57+00:00",
@@ -2341,6 +2355,13 @@
       "posted_at": "1779430055",
       "title": "Software Engineering Masters Intern",
       "url": "https://jobs.apple.com/en-us/details/200664320"
+    },
+    "simplify:applied materials::simplify-01962f7a-42a4-45ab-97e2-65d2c97ee12c": {
+      "company": "Applied Materials",
+      "first_seen": "2026-08-04T00:17:51+00:00",
+      "posted_at": "1785715200",
+      "title": "Application Engineer 3",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Application-Engineer-III-New-College-Grad_R2622545"
     },
     "simplify:applied materials::simplify-01d6602a-2166-4774-a0ad-32e0b28fd5d2": {
       "company": "Applied Materials",
@@ -7697,6 +7718,13 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101"
     },
+    "simplify:incident iq::simplify-8b2a46d9-a5b0-4325-976b-4c70e9da4077": {
+      "company": "Incident IQ",
+      "first_seen": "2026-08-04T00:17:51+00:00",
+      "posted_at": "1785796791",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/incidentiq/jobs/7824038003"
+    },
     "simplify:independent software::simplify-c6f4e0f0-e734-4061-a5fc-9a5c209b86eb": {
       "company": "Independent Software",
       "first_seen": "2026-08-03T08:03:11+00:00",
@@ -7815,6 +7843,20 @@
       "posted_at": "1776474487",
       "title": "Image Processing Engineer - C++/Linux",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Image-Processing-Engineer--C---Linux-_JR0282835"
+    },
+    "simplify:intel::simplify-6fd3ef51-26eb-4f6e-a368-592b0f49f210": {
+      "company": "Intel",
+      "first_seen": "2026-08-04T00:17:51+00:00",
+      "posted_at": "1785715200",
+      "title": "Input/Output Shift Engineer 6 - Technology Development Engineer",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/On-Shift--IOS--Technology-Development-Engineer---Night-Shift-6_JR0286100"
+    },
+    "simplify:intel::simplify-7668d718-523e-431c-a2b3-b39a409c2dec": {
+      "company": "Intel",
+      "first_seen": "2026-08-04T00:17:51+00:00",
+      "posted_at": "1785715200",
+      "title": "AI Software Engineer Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989"
     },
     "simplify:intel::simplify-964aa151-7592-4263-922e-adbb07bff4bf": {
       "company": "Intel",
@@ -10028,6 +10070,20 @@
       "title": "Member of Technical Staff Intern",
       "url": "https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866"
     },
+    "simplify:netsmart::simplify-86e907c2-6aef-4071-ae6c-20a9c6b7306c": {
+      "company": "Netsmart",
+      "first_seen": "2026-08-04T00:17:51+00:00",
+      "posted_at": "1785715200",
+      "title": "Software Engineer Intern",
+      "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667"
+    },
+    "simplify:netsmart::simplify-db9c57de-0338-484f-acbc-6ea1db0e12ed": {
+      "company": "Netsmart",
+      "first_seen": "2026-08-04T00:17:51+00:00",
+      "posted_at": "1785715200",
+      "title": "Software Engineer",
+      "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer----Dec26-May-27-Grads-_R015658"
+    },
     "simplify:neuralink::simplify-6f0099e1-42bd-4acc-879d-6d5959f30133": {
       "company": "Neuralink",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -10378,6 +10434,13 @@
       "title": "Software Engineer - Aht",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Software-Engineer--AHT-_R10240365"
     },
+    "simplify:northrop grumman::simplify-51209c2a-1386-4eea-aa73-cd13c66ca8c0": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-08-04T00:17:51+00:00",
+      "posted_at": "1785715200",
+      "title": "Associate Software Systems Engineer - Sentinel",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Associate-Software-Systems-Engineer---19148_R10243153"
+    },
     "simplify:northrop grumman::simplify-59a4a1d2-f693-4878-9ae5-7fea28c4d6e5": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-17T00:58:34+00:00",
@@ -10573,6 +10636,13 @@
       "posted_at": "1783641600",
       "title": "Software Engineer - Simulation",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Software-Engineer---Simulation--Palmdale-_R10239890"
+    },
+    "simplify:northrop grumman::simplify-d477274f-b6e9-4cd5-a6d6-1bc88d730ff9": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-08-04T00:17:51+00:00",
+      "posted_at": "1785715200",
+      "title": "Associate Cyber Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/XMLNAME-2026----Associate-Cyber-Software-Engineer---Annapolis-Junction-MD_R10243399"
     },
     "simplify:northrop grumman::simplify-ddb49233-5a37-440d-b616-cac6dc372935": {
       "company": "Northrop Grumman",
@@ -13346,6 +13416,20 @@
       "title": "Software Engineer",
       "url": "https://jobs.lever.co/salvohealth/285d6b09-7961-490b-8927-3b24698affe9/apply"
     },
+    "simplify:samsara::simplify-a10690dd-586c-41d0-9609-4b55fa5eba3a": {
+      "company": "Samsara",
+      "first_seen": "2026-08-04T00:17:51+00:00",
+      "posted_at": "1785796359",
+      "title": "Software Engineer 1 New Grad",
+      "url": "https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343"
+    },
+    "simplify:samsara::simplify-db36b892-52d0-41cd-a477-521af6328b70": {
+      "company": "Samsara",
+      "first_seen": "2026-08-04T00:17:51+00:00",
+      "posted_at": "1785796356",
+      "title": "Software Engineering Intern",
+      "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091"
+    },
     "simplify:sandhills global::simplify-1560cb5a-5cc1-4788-aa55-44b8c25b2336": {
       "company": "Sandhills Global",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -13710,6 +13794,13 @@
       "title": "Software Engineer 1 - Device Control",
       "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515"
     },
+    "simplify:simplisafe::simplify-a10ca49c-25c2-42e5-971a-9e76f1b60fdb": {
+      "company": "SimpliSafe",
+      "first_seen": "2026-08-04T00:17:51+00:00",
+      "posted_at": "1785796952",
+      "title": "Software Engineer 1 - User Systems",
+      "url": "https://job-boards.greenhouse.io/simplisafe/jobs/8095181"
+    },
     "simplify:simpson strong-tie::simplify-09c87d1d-43ad-457b-b3ef-c2d74085e356": {
       "company": "Simpson Strong-Tie",
       "first_seen": "2026-07-18T19:44:08+00:00",
@@ -14011,6 +14102,13 @@
       "title": "Software Engineer - Test Infrastructure - C/C++",
       "url": "https://boards.greenhouse.io/spacex/jobs/8637049002"
     },
+    "simplify:spacex::simplify-6339287b-3f1f-45ea-964d-65549925660a": {
+      "company": "SpaceX",
+      "first_seen": "2026-08-04T00:17:51+00:00",
+      "posted_at": "1785796283",
+      "title": "Software Engineering Intern/Co-op",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8621757002"
+    },
     "simplify:spacex::simplify-72234fcf-6866-4797-aa4b-afd49f2e7924": {
       "company": "SpaceX",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -14045,6 +14143,13 @@
       "posted_at": "1775513995",
       "title": "Full Stack Software Engineer - Application Software",
       "url": "https://boards.greenhouse.io/spacex/jobs/8495180002"
+    },
+    "simplify:spacex::simplify-9bf4727a-804d-4ee8-8c44-0eeec2960987": {
+      "company": "SpaceX",
+      "first_seen": "2026-08-04T00:17:51+00:00",
+      "posted_at": "1785796189",
+      "title": "Software Engineer Intern/Co-op",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8621756002"
     },
     "simplify:spacex::simplify-9c5494a4-fb44-4218-bc4d-4a41e1f6f607": {
       "company": "SpaceX",
@@ -15446,6 +15551,13 @@
       "title": "AI Engineer Intern",
       "url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547"
     },
+    "simplify:the new school::simplify-e27a1299-105b-46ac-b8a2-2db48c0c9d62": {
+      "company": "The New School",
+      "first_seen": "2026-08-04T00:17:51+00:00",
+      "posted_at": "1785715200",
+      "title": "Student Lab Assistant",
+      "url": "https://newschool.wd1.myworkdayjobs.com/external/job/B---65-West-11th-Street/Student-Lab-Assistant---Lang_JR109208"
+    },
     "simplify:the new york times::simplify-190a4d75-6cd1-47e7-a759-52411e0c99fd": {
       "company": "The New York Times",
       "first_seen": "2026-07-24T23:33:06+00:00",
@@ -16411,6 +16523,13 @@
       "posted_at": "1781638808",
       "title": "Software Development Intern",
       "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/9366"
+    },
+    "simplify:uline::simplify-de291c1a-da34-4159-9059-1234151298ef": {
+      "company": "Uline",
+      "first_seen": "2026-08-04T00:17:51+00:00",
+      "posted_at": "1785715200",
+      "title": "Software Development Intern",
+      "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684"
     },
     "simplify:umc health system::simplify-ad81f1a7-6557-4e78-8f50-eca834b17a15": {
       "company": "UMC Health System",
@@ -17870,5 +17989,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-03T23:19:57+00:00"
+  "updated_at": "2026-08-04T00:17:51+00:00"
 }
