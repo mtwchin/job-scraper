@@ -1,5 +1,5 @@
 {
-  "count": 2651,
+  "count": 2658,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -5758,6 +5758,13 @@
       "title": "Data and Application Developer Engineer 2",
       "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Mesa-Arizona/Data-and-Application-Developer-Engineer-II_JR119568"
     },
+    "simplify:dexcom::simplify-a9e5ba6b-2800-495b-8c9f-777e43f4c7b6": {
+      "company": "Dexcom",
+      "first_seen": "2026-08-05T06:47:05+00:00",
+      "posted_at": "1785801600",
+      "title": "Software Development Engineer 1",
+      "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/SW-Development-Engineer-1_JR120131"
+    },
     "simplify:dexmate::simplify-d9486fde-2890-432b-94f2-554f296d58bc": {
       "company": "Dexmate",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -8271,6 +8278,20 @@
       "title": "Part Time Student - Software Engineering - Champaign, IL, Technology (CA)",
       "url": "https://johndeere.eightfold.ai/careers/job/137479424866"
     },
+    "simplify:john deere::simplify-3341457c-dacb-42db-bb9e-af3db4702f0a": {
+      "company": "John Deere",
+      "first_seen": "2026-08-05T06:47:05+00:00",
+      "posted_at": "1785910546",
+      "title": "Advanced Engineering Student Intern - Product Engineering",
+      "url": "https://johndeere.eightfold.ai/careers/job/137481393611"
+    },
+    "simplify:john deere::simplify-9bbd470f-bd28-4072-9e6c-9f1fd6623c53": {
+      "company": "John Deere",
+      "first_seen": "2026-08-05T06:47:05+00:00",
+      "posted_at": "1785910544",
+      "title": "Engine Lab Support Part-Time Student - Product Engineering",
+      "url": "https://johndeere.eightfold.ai/careers/job/137482177469"
+    },
     "simplify:john deere::simplify-a1e44252-3bf0-45df-8ab0-c334f73f3a90": {
       "company": "John Deere",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -8291,6 +8312,13 @@
       "posted_at": "1770160591",
       "title": "Part-Time Student - Software Engineering - Ames IA Technology CA",
       "url": "https://johndeere.eightfold.ai/careers/job/137478709942"
+    },
+    "simplify:john deere::simplify-cf5af52b-83aa-43da-b187-a24ee19f0533": {
+      "company": "John Deere",
+      "first_seen": "2026-08-05T06:47:05+00:00",
+      "posted_at": "1785910546",
+      "title": "Software Engineer Part-Time Student - Technology",
+      "url": "https://johndeere.eightfold.ai/careers/job/137480957123"
     },
     "simplify:john deere::simplify-ef1f3a44-77c2-4d49-9805-7bc0aa9c6e79": {
       "company": "John Deere",
@@ -12618,12 +12646,33 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/quadrillion-labs/601e105d-2f0f-4482-9bae-3a825a1b97fd/application?embed=true"
     },
+    "simplify:qualcomm::simplify-0d26968d-9eb7-4cd0-bb5d-cb6ee2933e60": {
+      "company": "Qualcomm",
+      "first_seen": "2026-08-05T06:47:04+00:00",
+      "posted_at": "1768835858",
+      "title": "Graduate Software Engineer - Virtual Platforms - Software Engineering",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446716260960"
+    },
+    "simplify:qualcomm::simplify-77fe5b68-ffda-4a79-b56d-caddb2246641": {
+      "company": "Qualcomm",
+      "first_seen": "2026-08-05T06:47:04+00:00",
+      "posted_at": "1785910543",
+      "title": "Data Networking Software Engineer - Modem Software Engineering",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446719871565"
+    },
     "simplify:qualcomm::simplify-91387a3c-cb9a-4442-904b-ae76cac858ab": {
       "company": "Qualcomm",
       "first_seen": "2026-07-02T21:01:41+00:00",
       "posted_at": "1766110989",
       "title": "GPU Kernel Development Engineer - Multiple Levels Available - Graphics Software Engineering",
       "url": "https://qualcomm.eightfold.ai/careers/job/446715939731"
+    },
+    "simplify:qualcomm::simplify-d51738a7-c696-4490-8b3f-37c15f392347": {
+      "company": "Qualcomm",
+      "first_seen": "2026-08-05T06:47:04+00:00",
+      "posted_at": "1785910578",
+      "title": "AI Integration & Interoperability Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446716226621"
     },
     "simplify:qualifacts::simplify-8521a845-717b-4043-9a84-34537e07c480": {
       "company": "Qualifacts",
@@ -18500,5 +18549,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-05T04:21:08+00:00"
+  "updated_at": "2026-08-05T06:47:05+00:00"
 }
