@@ -1,5 +1,5 @@
 {
-  "count": 2670,
+  "count": 2672,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1074,6 +1074,20 @@
       "posted_at": "2025-10-01T16:02:40.431+00:00",
       "title": "Software Engineering Intern (Summer 2026)",
       "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1"
+    },
+    "roblox::8072244": {
+      "company": "Roblox",
+      "first_seen": "2026-08-05T17:04:42+00:00",
+      "posted_at": "2026-08-05T12:46:52-04:00",
+      "title": "[2027] Software Engineer, Early Career",
+      "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
+    },
+    "roblox::8072713": {
+      "company": "Roblox",
+      "first_seen": "2026-08-05T17:04:42+00:00",
+      "posted_at": "2026-08-05T12:46:52-04:00",
+      "title": "[Summer 2027] Software Engineer Intern",
+      "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713"
     },
     "rocket lab::6589226003": {
       "company": "Rocket Lab",
@@ -18633,5 +18647,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-05T15:31:06+00:00"
+  "updated_at": "2026-08-05T17:04:42+00:00"
 }
