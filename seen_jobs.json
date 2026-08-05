@@ -1,5 +1,5 @@
 {
-  "count": 2662,
+  "count": 2663,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -10518,6 +10518,13 @@
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53/application?embed=true"
     },
+    "simplify:nordstrom::simplify-6015b17d-9db7-4a5d-91d0-7c0123409f32": {
+      "company": "Nordstrom",
+      "first_seen": "2026-08-05T13:17:46+00:00",
+      "posted_at": "1785456000",
+      "title": "Engineer AI Agentic Solutions",
+      "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1--AI-Agentic-Solutions--Hybrid---Seattle--WA-_R-862126"
+    },
     "simplify:north cloud::simplify-29f7ea93-41b1-408b-a3e0-8b6945e95e3e": {
       "company": "North Cloud",
       "first_seen": "2026-07-26T10:44:48+00:00",
@@ -18577,5 +18584,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-05T11:36:17+00:00"
+  "updated_at": "2026-08-05T13:17:46+00:00"
 }
