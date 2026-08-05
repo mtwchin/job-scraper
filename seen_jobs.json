@@ -1,5 +1,5 @@
 {
-  "count": 2672,
+  "count": 2673,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -610,6 +610,13 @@
       "posted_at": "Posted 30+ Days Ago",
       "title": "PhD Software Engineering Intern, Decision Intelligence - Fall 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522"
+    },
+    "nvidia::Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295": {
+      "company": "Nvidia",
+      "first_seen": "2026-08-05T18:42:33+00:00",
+      "posted_at": "Posted Today",
+      "title": "Software Engineering Intern, Dynamo - Fall 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295"
     },
     "nvidia::Software-Engineering-Intern--JAX---Fall-2026_JR2009745": {
       "company": "Nvidia",
@@ -18647,5 +18654,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-05T17:04:42+00:00"
+  "updated_at": "2026-08-05T18:42:33+00:00"
 }
