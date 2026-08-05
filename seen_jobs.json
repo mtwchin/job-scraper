@@ -1,5 +1,5 @@
 {
-  "count": 2658,
+  "count": 2662,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3454,6 +3454,13 @@
       "posted_at": "1780438065",
       "title": "Software Engineer Graduate - Cloud Native Infrastructure",
       "url": "https://jobs.bytedance.com/en/position/7540430373219977479/detail"
+    },
+    "simplify:bytedance::simplify-3d38784e-80ec-40c4-9082-77aabd533031": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-05T11:36:16+00:00",
+      "posted_at": "1785921269",
+      "title": "Graduate AI Model Optimization Engineer - Data Speech Product R&D Engineering",
+      "url": "https://jobs.bytedance.com/en/position/7669899962768165173/detail"
     },
     "simplify:bytedance::simplify-45f439c5-48ee-4f58-a636-14a5e0912e61": {
       "company": "ByteDance",
@@ -14641,6 +14648,20 @@
       "title": "Systems Analyst - Warehouse Management System",
       "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/65034"
     },
+    "simplify:starbucks::simplify-2c2eb6e8-d129-4384-bdce-cdd5ba022bfc": {
+      "company": "Starbucks",
+      "first_seen": "2026-08-05T11:36:17+00:00",
+      "posted_at": "1785922063",
+      "title": "Software Engineer - Software Engineering",
+      "url": "https://starbucks.eightfold.ai/careers/job/481078371803"
+    },
+    "simplify:starbucks::simplify-924b8ac7-f08b-4620-9762-01deab61c794": {
+      "company": "Starbucks",
+      "first_seen": "2026-08-05T11:36:17+00:00",
+      "posted_at": "1785922136",
+      "title": "Application Developer - Application Development",
+      "url": "https://starbucks.eightfold.ai/careers/job/481078166376"
+    },
     "simplify:state street::simplify-336cbbc3-eb04-4282-b306-8d4ed5362bec": {
       "company": "State Street",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -16692,6 +16713,13 @@
       "title": "Security Software Engineer Project Intern - Product Security - 2026 Start",
       "url": "https://lifeattiktok.com/search/7600536394771564853"
     },
+    "simplify:tiktok::simplify-ec44a0f2-7cf0-4dd9-84b2-cdc746efb42e": {
+      "company": "TikTok",
+      "first_seen": "2026-08-05T11:36:16+00:00",
+      "posted_at": "1785921473",
+      "title": "Backend Software Engineer Intern - Creation Platform",
+      "url": "https://lifeattiktok.com/search/7670289874020993285"
+    },
     "simplify:tiktok::simplify-f1a4558f-cc89-48e1-8df1-49420374b44d": {
       "company": "TikTok",
       "first_seen": "2026-08-03T08:03:09+00:00",
@@ -18549,5 +18577,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-05T06:47:05+00:00"
+  "updated_at": "2026-08-05T11:36:17+00:00"
 }
