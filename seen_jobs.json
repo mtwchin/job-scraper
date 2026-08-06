@@ -1,5 +1,5 @@
 {
-  "count": 2719,
+  "count": 2727,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1228,6 +1228,13 @@
       "posted_at": "2026-04-06T01:37:45-04:00",
       "title": "Software Engineer (New Grad Program)",
       "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003"
+    },
+    "simplify: impact.com ::simplify-e80e3302-1101-475b-8706-adaf4a95d93a": {
+      "company": " impact.com ",
+      "first_seen": "2026-08-06T15:29:24+00:00",
+      "posted_at": "1786026477",
+      "title": "Associate Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/impact/jobs/8645964002"
     },
     "simplify:10a labs::simplify-a1bc5739-2d47-4f6c-8627-5b11e873e160": {
       "company": "10a Labs",
@@ -2614,6 +2621,13 @@
       "posted_at": "1766409720",
       "title": "Internship - Software Development Engineer in Test",
       "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071"
+    },
+    "simplify:assetmark::simplify-53674862-c0d4-4b5c-8529-59e8bfba387d": {
+      "company": "AssetMark",
+      "first_seen": "2026-08-06T15:29:24+00:00",
+      "posted_at": "1785974400",
+      "title": "Associate Engineer",
+      "url": "https://assetmark.wd5.myworkdayjobs.com/AssetMark_Careers/job/Charlotte-NC/Associate-Engineer_Req-003922-1"
     },
     "simplify:astera labs::simplify-5b9e82eb-e170-450f-9dfe-62e7281dc8ae": {
       "company": "Astera Labs",
@@ -7606,6 +7620,13 @@
       "title": "Junior Software Developer - .NET",
       "url": "https://harmonytech.applytojob.com/apply/uhDb8hMR9P/Junior-Software-Developer-NET"
     },
+    "simplify:harris computer::simplify-2501f0b1-c33a-4309-87a7-8de524f63285": {
+      "company": "Harris Computer",
+      "first_seen": "2026-08-06T15:29:24+00:00",
+      "posted_at": "1785974400",
+      "title": "Technology Architecture Intern - Corporate AI Foundation",
+      "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Rimouski/Stagiaire-en-architecture-technologique---Socle-IA-corporatif_R0045667-3"
+    },
     "simplify:harris computer::simplify-56950869-0fbf-431b-b2ed-b5d9d2a76efe": {
       "company": "Harris Computer",
       "first_seen": "2026-08-06T03:59:59+00:00",
@@ -8739,6 +8760,20 @@
       "posted_at": "1776071756",
       "title": "Junior Communications Systems Software Engineer",
       "url": "https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Beavercreek-Ohio/Junior-Communications-Systems-Software-Engineer_R2121814"
+    },
+    "simplify:kbr::simplify-1f1dde48-a701-40c2-b7e9-f7306c5fb5ef": {
+      "company": "KBR",
+      "first_seen": "2026-08-06T15:29:24+00:00",
+      "posted_at": "1785974400",
+      "title": "Junior Software Engineer Intern - Software Integration",
+      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Integration-Engineer_R2127834"
+    },
+    "simplify:kbr::simplify-65168593-c923-4365-b58a-af70c7f8c6cd": {
+      "company": "KBR",
+      "first_seen": "2026-08-06T15:29:24+00:00",
+      "posted_at": "1785974400",
+      "title": "Software Intern",
+      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Software-Intern_R2127863"
     },
     "simplify:kbr::simplify-698d39b9-b6c9-4c12-acb1-0515aed542c5": {
       "company": "KBR",
@@ -14018,12 +14053,26 @@
       "title": "Software Engineering AMTS College Grad",
       "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400"
     },
+    "simplify:salesforce::simplify-90326487-43c7-4181-ac71-44e331484bf4": {
+      "company": "Salesforce",
+      "first_seen": "2026-08-06T15:29:24+00:00",
+      "posted_at": "1785974400",
+      "title": "Software Engineer College Grad",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1"
+    },
     "simplify:salesforce::simplify-9c9d72e2-4773-4a77-b5c5-5776ba645c14": {
       "company": "Salesforce",
       "first_seen": "2026-07-02T21:01:41+00:00",
       "posted_at": "1771640186",
       "title": "Software Engineering AMTS/MTS \u2013 College Grad",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1"
+    },
+    "simplify:salesforce::simplify-c92fc7de-e326-4327-8f9c-5195b90591e9": {
+      "company": "Salesforce",
+      "first_seen": "2026-08-06T15:29:24+00:00",
+      "posted_at": "1785974400",
+      "title": "Software Engineer College Grad",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250"
     },
     "simplify:salesforce::simplify-ceee05f6-44e6-4990-abd6-547bbff168a8": {
       "company": "Salesforce",
@@ -15522,6 +15571,13 @@
       "posted_at": "1773181383",
       "title": "AI Compiler Software Intern",
       "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007"
+    },
+    "simplify:terminal::simplify-efcb42ec-c0ae-4445-80bf-7e91ae4e749b": {
+      "company": "Terminal",
+      "first_seen": "2026-08-06T15:29:24+00:00",
+      "posted_at": "1786025744",
+      "title": "Software Engineer Intern - Backend",
+      "url": "https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true"
     },
     "simplify:tesla::simplify-0606524d-078f-47d6-8447-f7842723a934": {
       "company": "Tesla",
@@ -18976,5 +19032,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-06T11:38:47+00:00"
+  "updated_at": "2026-08-06T15:29:24+00:00"
 }
