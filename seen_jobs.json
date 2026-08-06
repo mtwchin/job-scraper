@@ -1,5 +1,5 @@
 {
-  "count": 2716,
+  "count": 2719,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3013,6 +3013,13 @@
       "posted_at": "1785456000",
       "title": "Software Developer",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450"
+    },
+    "simplify:barclays::simplify-8a717ae4-e44a-4ade-ae84-abbc3d27e232": {
+      "company": "Barclays",
+      "first_seen": "2026-08-06T11:38:47+00:00",
+      "posted_at": "1785974400",
+      "title": "AI Engineer - Private Bank and Wealth Management",
+      "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AI-Engineer_JR-0000113698-1"
     },
     "simplify:barkback::simplify-343fcb3c-e4be-4f12-841e-664571827fa6": {
       "company": "Barkback",
@@ -6135,6 +6142,13 @@
       "posted_at": "1774563526",
       "title": "Software Engineer \u2013 New Grads - Multiple Teams",
       "url": "https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d/application"
+    },
+    "simplify:emerald ai::simplify-c8f7dd03-3fba-4f1d-850e-76adc3a00557": {
+      "company": "Emerald AI",
+      "first_seen": "2026-08-06T11:38:47+00:00",
+      "posted_at": "1781168790",
+      "title": "Distributed Systems Engineer - Backend/Distributed Systems",
+      "url": "https://jobs.ashbyhq.com/emerald-ai/ca65afd7-4b42-45ac-9e17-ea88f07240af/application?embed=true"
     },
     "simplify:emerson electric::simplify-7a47a886-ca29-40ec-abf3-b9c408436dca": {
       "company": "Emerson Electric",
@@ -16986,6 +17000,13 @@
       "title": "Backend Software Engineer Graduate - Global E-commerce",
       "url": "https://lifeattiktok.com/search/7668827379083823413"
     },
+    "simplify:tiktok::simplify-d99e79b4-f18b-4a9e-b735-a92318ea73e9": {
+      "company": "TikTok",
+      "first_seen": "2026-08-06T11:38:47+00:00",
+      "posted_at": "1781503888",
+      "title": "Tech Lead Software Engineer - AI & Agent - TikTok Ecosystem & Platform",
+      "url": "https://lifeattiktok.com/search/7647672631889873205"
+    },
     "simplify:tiktok::simplify-db960900-01f6-4f01-9c82-84153cdf5547": {
       "company": "TikTok",
       "first_seen": "2026-08-03T08:03:09+00:00",
@@ -18955,5 +18976,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-06T06:34:22+00:00"
+  "updated_at": "2026-08-06T11:38:47+00:00"
 }
