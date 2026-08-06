@@ -1,5 +1,5 @@
 {
-  "count": 2712,
+  "count": 2716,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3511,6 +3511,13 @@
       "title": "Software Engineer New Grad - AI Infra Compute",
       "url": "https://jobs.bytedance.com/en/position/7667303429264115973/detail"
     },
+    "simplify:bytedance::simplify-50e97511-4f52-43a6-985d-3fc9ce92d6bb": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-06T06:34:22+00:00",
+      "posted_at": "1785996826",
+      "title": "Backend Inference Runtime Engineer New Grad - AML Inference",
+      "url": "https://jobs.bytedance.com/en/position/7669789046777940229/detail"
+    },
     "simplify:bytedance::simplify-53afcb81-1e2e-483f-a749-45c014336327": {
       "company": "ByteDance",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -3749,6 +3756,13 @@
       "title": "Artificial Intelligence Software Engineer - Development Infrastructure",
       "url": "https://jobs.bytedance.com/en/position/7667901772678302005/detail"
     },
+    "simplify:bytedance::simplify-ca012a00-87e1-40b7-ac6f-1464ce5ad2f1": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-06T06:34:22+00:00",
+      "posted_at": "1785996830",
+      "title": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
+      "url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail"
+    },
     "simplify:bytedance::simplify-ce80bcf6-6d8c-468a-9fec-fb8418fd27af": {
       "company": "ByteDance",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -3784,6 +3798,13 @@
       "title": "Software Engineer Intern - AI Infrastructure Compute",
       "url": "https://jobs.bytedance.com/en/position/7667377525182662965/detail"
     },
+    "simplify:bytedance::simplify-da8a18fa-889f-40b2-aed8-e47cf70f8f15": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-06T06:34:22+00:00",
+      "posted_at": "1785996824",
+      "title": "Graduate Software Engineer - Data-Intelligent Creation-AI Platform-Global Vision Engineering",
+      "url": "https://jobs.bytedance.com/en/position/7669859743775000885/detail"
+    },
     "simplify:bytedance::simplify-de291dac-66b0-4867-84dc-697d2f4f487c": {
       "company": "ByteDance",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -3811,6 +3832,13 @@
       "posted_at": "1785748598",
       "title": "Backend Software Engineer Graduate - Platform",
       "url": "https://jobs.bytedance.com/en/position/7667269919588321541/detail"
+    },
+    "simplify:bytedance::simplify-ea9a3407-4535-40e5-900c-45b263afa69c": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-06T06:34:22+00:00",
+      "posted_at": "1785996824",
+      "title": "Backend Inference Framework Engineer - AML Inference",
+      "url": "https://jobs.bytedance.com/en/position/7669670735275526453/detail"
     },
     "simplify:bytedance::simplify-eb8b9ba6-d180-4ed1-9bcc-b814710b5758": {
       "company": "ByteDance",
@@ -18927,5 +18955,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-06T03:59:59+00:00"
+  "updated_at": "2026-08-06T06:34:22+00:00"
 }
