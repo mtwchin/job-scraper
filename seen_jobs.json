@@ -1,5 +1,5 @@
 {
-  "count": 2777,
+  "count": 2780,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -5912,6 +5912,13 @@
       "title": "Application Development Intern",
       "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101349"
     },
+    "simplify:delta dental::simplify-7d4b9464-fcce-47d6-9331-a1d0c501709f": {
+      "company": "Delta Dental",
+      "first_seen": "2026-08-07T15:26:37+00:00",
+      "posted_at": "1786060800",
+      "title": "Application Development Intern",
+      "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101382"
+    },
     "simplify:delta dental::simplify-ec35d3c0-8676-419f-a30b-6eafecc10f7c": {
       "company": "Delta Dental",
       "first_seen": "2026-07-21T10:51:40+00:00",
@@ -6996,6 +7003,13 @@
       "posted_at": "1784851200",
       "title": "Software Engineer - Transmission",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova-Software-Engineer--Transmission_R5048311-2"
+    },
+    "simplify:ge vernova::simplify-648c9765-3c64-46ee-8d68-1c311cb81a3b": {
+      "company": "GE Vernova",
+      "first_seen": "2026-08-07T15:26:37+00:00",
+      "posted_at": "1786060800",
+      "title": "Digital Technology Development Program - US 2027",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/GE-Vernova-Digital-Technology-Development-Program---US-2027_R5049179-1"
     },
     "simplify:ge vernova::simplify-9fc66465-c638-4a10-a6cc-877f7f9e1966": {
       "company": "GE Vernova",
@@ -15467,6 +15481,13 @@
       "title": "ServiceNow Associate Software Engineer - Application Development",
       "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Waterloo-Ontario/ServiceNow-Associate-Software-Engineer_JR00126629"
     },
+    "simplify:sun life::simplify-8faaec18-134c-4920-952c-046aa22b3053": {
+      "company": "Sun Life",
+      "first_seen": "2026-08-07T15:26:37+00:00",
+      "posted_at": "1779199539",
+      "title": "Student Software Engineer",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer--Fall-2026-_JR00123596"
+    },
     "simplify:sun life::simplify-d752d3de-1880-4a55-86e3-f62e4c6ce7d0": {
       "company": "Sun Life",
       "first_seen": "2026-07-23T22:36:30+00:00",
@@ -19382,5 +19403,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-07T09:39:52+00:00"
+  "updated_at": "2026-08-07T15:26:37+00:00"
 }
