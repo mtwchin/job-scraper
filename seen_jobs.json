@@ -1,5 +1,5 @@
 {
-  "count": 2793,
+  "count": 2824,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2825,6 +2825,13 @@
       "title": "Rust Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/atomicsemi/009d0819-c688-4ab9-8816-a3c7ab002470/application"
     },
+    "simplify:atoms::simplify-2751af83-9f4f-48b8-8aba-6f534e9681e7": {
+      "company": "Atoms",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786141165",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002"
+    },
     "simplify:atoms::simplify-5379a4df-fa7a-4799-8978-00d1844415b9": {
       "company": "Atoms",
       "first_seen": "2026-08-07T00:29:54+00:00",
@@ -2895,6 +2902,13 @@
       "title": "Math Major Software Developer",
       "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Math-Major-Software-Developer_R_1008"
     },
+    "simplify:autodesk::simplify-2c44a377-3a3b-4d57-af73-669e66675373": {
+      "company": "Autodesk",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786060800",
+      "title": "Cloud Developer Intern - Fcap",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-1"
+    },
     "simplify:autodesk::simplify-53914fa2-9856-4b03-8ae8-329747832957": {
       "company": "Autodesk",
       "first_seen": "2026-07-21T10:51:40+00:00",
@@ -2908,6 +2922,13 @@
       "posted_at": "1778105388",
       "title": "Software Developer",
       "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_25WD91160-1"
+    },
+    "simplify:autodesk::simplify-a5f9bcc3-042f-46fd-9cdd-df31579889a1": {
+      "company": "Autodesk",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786060800",
+      "title": "Cloud Developer Intern - Interactive Graphics, Media & Entertainment",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400"
     },
     "simplify:autodesk::simplify-b7827240-ddc0-4787-b2b6-f95f65c55b31": {
       "company": "Autodesk",
@@ -2923,12 +2944,26 @@
       "title": "Cloud Developer Intern",
       "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1"
     },
+    "simplify:autodesk::simplify-ca66c41c-e5ec-46c9-b384-86a95ed3dbc6": {
+      "company": "Autodesk",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786060800",
+      "title": "Cloud Developer Intern - Interactive Graphics, Media & Entertainment",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3"
+    },
     "simplify:autodesk::simplify-e7ca86c9-9b55-4d3a-a409-f781291f435d": {
       "company": "Autodesk",
       "first_seen": "2026-07-21T18:43:37+00:00",
       "posted_at": "1781791573",
       "title": "Cloud Developer Intern",
       "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2"
+    },
+    "simplify:autodesk::simplify-fb717af7-686b-4077-a8c0-033da193b3fb": {
+      "company": "Autodesk",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786060800",
+      "title": "Cloud Developer Intern - Fcap",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2"
     },
     "simplify:autozone::simplify-93719788-ccef-4aa1-b254-806b22d56b81": {
       "company": "AutoZone",
@@ -3006,6 +3041,13 @@
       "posted_at": "1775600445",
       "title": "Software Engineer 1",
       "url": "https://job-boards.greenhouse.io/axon/jobs/7576969003"
+    },
+    "simplify:axon::simplify-6eff9788-f38e-4357-8646-cd6f5984f3cb": {
+      "company": "Axon",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786141805",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003"
     },
     "simplify:axos bank::simplify-70c0ef41-3b9b-40dc-84cf-e3cb9e43e0a2": {
       "company": "Axos Bank",
@@ -3399,6 +3441,20 @@
       "title": "Full Stack Java Developer",
       "url": "https://bookerdimaio.applytojob.com/apply/jPoQXED5J3/Full-Stack-Java-Developer-With-TSSCI-Clearance-Full-Scope-PolygraphOnsite-In-Annapolis-Jct-MD"
     },
+    "simplify:booz allen::simplify-00912e53-abce-46c1-84a0-f14dc8684f13": {
+      "company": "Booz Allen",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786060800",
+      "title": "Software Engineer",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246663"
+    },
+    "simplify:booz allen::simplify-045f4a24-d094-4e92-8d9b-f185bc17e03c": {
+      "company": "Booz Allen",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786060800",
+      "title": "Software Engineer",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246362"
+    },
     "simplify:booz allen::simplify-0cd3e725-fe4b-4768-aecb-e81cf4cd5e16": {
       "company": "Booz Allen",
       "first_seen": "2026-08-04T23:42:34+00:00",
@@ -3406,12 +3462,68 @@
       "title": "Software Engineer - Software Engineer",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/University--Software-Engineer_R0241736"
     },
+    "simplify:booz allen::simplify-329ae872-f7a6-4cd2-b63f-28ec9e81bbe8": {
+      "company": "Booz Allen",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786060800",
+      "title": "Software Engineer - University",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246664"
+    },
+    "simplify:booz allen::simplify-37a1894e-f216-436f-8f54-98b6d75622b0": {
+      "company": "Booz Allen",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786060800",
+      "title": "Software Engineer - University",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246656"
+    },
+    "simplify:booz allen::simplify-3bc55052-c86c-4d0e-bb1d-1bb08f54297f": {
+      "company": "Booz Allen",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786060800",
+      "title": "Software Engineer - University",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246660"
+    },
+    "simplify:booz allen::simplify-58bdb1db-93cc-41bf-9056-473f0d4e405c": {
+      "company": "Booz Allen",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786060800",
+      "title": "Software Engineer - University",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246655"
+    },
+    "simplify:booz allen::simplify-62db8501-50e1-4e15-b869-1d6c53c8f3fb": {
+      "company": "Booz Allen",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786060800",
+      "title": "Software Engineer - University",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246666"
+    },
+    "simplify:booz allen::simplify-633c307a-f33c-4a4e-93c8-dac14e32210a": {
+      "company": "Booz Allen",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786060800",
+      "title": "Software Engineer",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246658"
+    },
     "simplify:booz allen::simplify-82b6dc19-0642-419a-bc20-8206421d9643": {
       "company": "Booz Allen",
       "first_seen": "2026-07-24T23:33:06+00:00",
       "posted_at": "1784851200",
       "title": "Power Platform Developer - Mid",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Power-Platform-Developer--Mid_R0245301"
+    },
+    "simplify:booz allen::simplify-aff27bcc-4c0d-4249-89b5-1e898f2c9726": {
+      "company": "Booz Allen",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786060800",
+      "title": "Software Engineer - University",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246653"
+    },
+    "simplify:booz allen::simplify-fb32d8c1-90d9-4e21-85fa-e0b10b5d15a5": {
+      "company": "Booz Allen",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786060800",
+      "title": "Software Engineer",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246665"
     },
     "simplify:bosch home comfort::simplify-f258c80b-4140-4f8b-a3f4-4c1682682d30": {
       "company": "Bosch Home Comfort",
@@ -3818,6 +3930,13 @@
       "posted_at": "1769566339",
       "title": "Software Engineer Project Intern - Security-Data - 2026 Start",
       "url": "https://jobs.bytedance.com/en/position/7600175469758040325/detail"
+    },
+    "simplify:bytedance::simplify-983f8874-b9ed-43ca-9910-718e20bcac70": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-07T23:34:47+00:00",
+      "posted_at": "1786140955",
+      "title": "Software Development Engineer Graduate - Intent-Based Networking",
+      "url": "https://jobs.bytedance.com/en/position/7671145911004842245/detail"
     },
     "simplify:bytedance::simplify-9b8e4726-77af-4fd7-9e6f-9986925021ff": {
       "company": "ByteDance",
@@ -5618,6 +5737,13 @@
       "title": "Product Engineering Specialist",
       "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431193"
     },
+    "simplify:curtiss-wright corporation::simplify-b62812e2-241d-4fc7-810e-2726318274e3": {
+      "company": "Curtiss-Wright Corporation",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786060800",
+      "title": "Graduate Engineer",
+      "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-MD-Frederick-Nuclear/Graduate-Engineer_JR13134"
+    },
     "simplify:custom computer specialists::simplify-c3433d6a-bf30-4d16-8e0f-5126b09236cf": {
       "company": "Custom Computer Specialists",
       "first_seen": "2026-07-15T00:13:08+00:00",
@@ -6359,6 +6485,13 @@
       "posted_at": "1785191246",
       "title": "Software Engineer - Supporthub",
       "url": "https://job-boards.greenhouse.io/energyhub/jobs/8385899002"
+    },
+    "simplify:engineers and geoscientists bc::simplify-88a53309-0a50-46d5-a5a1-9e196633f951": {
+      "company": "Engineers and Geoscientists BC",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786141147",
+      "title": "Information Systems Co-op",
+      "url": "https://egbc.applytojob.com/apply/FYOlZPW8Z5/Information-Systems-Coop"
     },
     "simplify:engineers and geoscientists bc::simplify-b11e7d78-8c61-41eb-b71c-8483802fa506": {
       "company": "Engineers and Geoscientists BC",
@@ -8775,6 +8908,13 @@
       "title": "Linux Engineer",
       "url": "https://job-boards.greenhouse.io/janestreet/jobs/8061059002"
     },
+    "simplify:john deere::simplify-17936a1f-6724-46a7-a97a-6feceb9c2a92": {
+      "company": "John Deere",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786141201",
+      "title": "Part-Time Student - Dynamic Systems Modeling - Product Engineering",
+      "url": "https://johndeere.eightfold.ai/careers/job/137482642817"
+    },
     "simplify:john deere::simplify-2cda038e-f60e-4b0f-8cf0-5dc72c51d2c2": {
       "company": "John Deere",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -8830,6 +8970,13 @@
       "posted_at": "1770650037",
       "title": "Part-Time Student - Continuous Improvement - Waterloo IA Product Engineering (CA)",
       "url": "https://johndeere.eightfold.ai/careers/job/137478896949"
+    },
+    "simplify:johnson & johnson::simplify-51b99bce-c9cc-4f6f-9a52-d602f8e9e826": {
+      "company": "Johnson & Johnson",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786060800",
+      "title": "Software Engineer Co-op",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820"
     },
     "simplify:johnson & johnson::simplify-dfeea355-646f-4376-875b-49fcd01615db": {
       "company": "Johnson & Johnson",
@@ -10909,6 +11056,13 @@
       "posted_at": "1785715200",
       "title": "Software Engineer",
       "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer----Dec26-May-27-Grads-_R015658"
+    },
+    "simplify:netsmart::simplify-dbc8423a-e279-4fee-97ce-cc3f8a124aa5": {
+      "company": "Netsmart",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786060800",
+      "title": "Software Engineer - EVV",
+      "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer--Java-Experience-Onsite--Overland-Park--KS-_R015567"
     },
     "simplify:neuralink::simplify-6f0099e1-42bd-4acc-879d-6d5959f30133": {
       "company": "Neuralink",
@@ -16727,12 +16881,33 @@
       "title": "Software Engineer - Content Data Products",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4713567005"
     },
+    "simplify:the nuclear company::simplify-44950f93-2f35-41ce-9bbc-d82279022aa6": {
+      "company": "The Nuclear Company",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786141298",
+      "title": "AI Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008"
+    },
+    "simplify:the nuclear company::simplify-50faea58-028e-467f-b373-f0c40e657222": {
+      "company": "The Nuclear Company",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786141308",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383171008"
+    },
     "simplify:the nuclear company::simplify-93e11583-f913-4e89-9721-147a9c59cf7f": {
       "company": "The Nuclear Company",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1782771571",
       "title": "AI Engineer 1 - Platform Integration & AI/Data",
       "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5285585008"
+    },
+    "simplify:the nuclear company::simplify-b57a206e-05f4-4b02-9ccd-b54ba30848e2": {
+      "company": "The Nuclear Company",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786141307",
+      "title": "Software Engineering Intern - Product - Platform",
+      "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008"
     },
     "simplify:the redesign group::simplify-0012aa78-86b4-4df6-adf6-b46844f4ad9f": {
       "company": "The Redesign Group",
@@ -17111,6 +17286,13 @@
       "posted_at": "1785737710",
       "title": "Backend Software Engineer New Grad - Emerging Products & AI Safety",
       "url": "https://lifeattiktok.com/search/7663036952090347829"
+    },
+    "simplify:tiktok::simplify-5cd02bbb-4f1e-49d8-a75c-44f5f6e2e968": {
+      "company": "TikTok",
+      "first_seen": "2026-08-07T23:34:47+00:00",
+      "posted_at": "1786141165",
+      "title": "Frontend Engineer Intern - Ads Interface",
+      "url": "https://lifeattiktok.com/search/7671211313289398581"
     },
     "simplify:tiktok::simplify-5ec4eb06-b685-4987-acef-eb1358008f6b": {
       "company": "TikTok",
@@ -17686,6 +17868,13 @@
       "title": "Software Engineer Intern",
       "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-Intern_R1381"
     },
+    "simplify:torch technologies::simplify-f0d91c80-6a29-46d4-bfb7-ad3fb4918547": {
+      "company": "Torch Technologies",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786060800",
+      "title": "Software Engineer 1",
+      "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Software-Engineer-I_R1480"
+    },
     "simplify:toshiba global commerce::simplify-5dc00cee-4e2e-4533-9b44-94c295ffddd4": {
       "company": "Toshiba Global Commerce",
       "first_seen": "2026-07-27T04:52:36+00:00",
@@ -17812,6 +18001,13 @@
       "title": "Agile Software Engineer Co-op",
       "url": "https://job-boards.greenhouse.io/tribalscale/jobs/4687337006"
     },
+    "simplify:trillium::simplify-01ba76c4-8637-49c3-a04f-324409838c74": {
+      "company": "Trillium",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786141829",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007"
+    },
     "simplify:trimble::simplify-4914456a-2ef4-403c-918a-5bf46c8c8626": {
       "company": "Trimble",
       "first_seen": "2026-07-21T10:51:40+00:00",
@@ -17832,6 +18028,13 @@
       "posted_at": "1779152917",
       "title": "Product Engineer",
       "url": "https://jobs.ashbyhq.com/trm-labs/0b8546c0-39ba-44db-aba5-3425bcb2e68d/application"
+    },
+    "simplify:trovy::simplify-4e253679-7e15-4e91-b4f3-c685ab851e82": {
+      "company": "Trovy",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786141003",
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/trovy/952381a5-607c-4470-8a97-1c7a8c48c2f0/application?embed=true"
     },
     "simplify:true anomaly::simplify-03b041a3-0eef-4230-8fee-fe47c3b3fc5b": {
       "company": "True Anomaly",
@@ -18876,6 +19079,13 @@
       "title": "Application Engineer Co-op",
       "url": "https://waystar.wd1.myworkdayjobs.com/Waystar/job/Lehi-UT/Application-Engineer-Co-op_R3312-1"
     },
+    "simplify:welbehealth::simplify-58d9d263-e25e-491b-9e3e-42e08454509c": {
+      "company": "WelbeHealth",
+      "first_seen": "2026-08-07T23:34:48+00:00",
+      "posted_at": "1786141981",
+      "title": "AI Engineer 1",
+      "url": "https://job-boards.greenhouse.io/welbehealth/jobs/8599687002"
+    },
     "simplify:wellmark::simplify-7f7e2f8b-d239-4ab5-ba0f-7ddc4ecbef45": {
       "company": "Wellmark",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -19198,6 +19408,13 @@
       "title": "Software Engineer - Data",
       "url": "https://job-boards.greenhouse.io/xai/jobs/5124616007"
     },
+    "simplify:xai::simplify-8035433a-5a4c-497b-92a1-2440c1b386d6": {
+      "company": "xAI",
+      "first_seen": "2026-08-07T23:34:47+00:00",
+      "posted_at": "1784759779",
+      "title": "Software Engineer - Evals",
+      "url": "https://job-boards.greenhouse.io/xai/jobs/5188230007"
+    },
     "simplify:xai::simplify-9745ac46-fc40-486b-bdb3-c61ecf57fa66": {
       "company": "xAI",
       "first_seen": "2026-07-22T03:38:14+00:00",
@@ -19494,5 +19711,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-07T22:59:16+00:00"
+  "updated_at": "2026-08-07T23:34:48+00:00"
 }
