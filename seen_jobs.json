@@ -1,5 +1,5 @@
 {
-  "count": 2780,
+  "count": 2782,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -194,6 +194,20 @@
       "posted_at": "2026-07-23T18:06:26-04:00",
       "title": "Software Engineer Intern - Enterprise Systems (Fall 2026)",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006"
+    },
+    "belvedere trading::10746b3d-1760-4573-9b63-b93f5a5e4fc0": {
+      "company": "Belvedere Trading",
+      "first_seen": "2026-08-07T17:59:19+00:00",
+      "posted_at": "1785862900988",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0"
+    },
+    "belvedere trading::2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f": {
+      "company": "Belvedere Trading",
+      "first_seen": "2026-08-07T17:59:19+00:00",
+      "posted_at": "1785862113119",
+      "title": "Software Engineer - Entry Level 2027",
+      "url": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f"
     },
     "capital one::Associate--Software-Engineer--New-Grad-Card-Expansion_R236833": {
       "company": "Capital One",
@@ -19403,5 +19417,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-07T15:26:37+00:00"
+  "updated_at": "2026-08-07T17:59:19+00:00"
 }
