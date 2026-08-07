@@ -1,5 +1,5 @@
 {
-  "count": 2775,
+  "count": 2777,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -7522,12 +7522,26 @@
       "title": "Software Engineer - IAM Entitlements",
       "url": "https://higher.gs.com/roles/177874"
     },
+    "simplify:google::simplify-089391ad-ee52-4c4f-993a-e79f42219682": {
+      "company": "Google",
+      "first_seen": "2026-08-07T09:39:52+00:00",
+      "posted_at": "1786093497",
+      "title": "Software Engineer - Campus",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750"
+    },
     "simplify:google::simplify-3b8153da-e90c-47cf-bf5d-2b293cf61679": {
       "company": "Google",
       "first_seen": "2026-07-21T03:41:03+00:00",
       "posted_at": "1784591923",
       "title": "Software Developer Intern - BS",
       "url": "https://www.google.com/about/careers/applications/jobs/results/76982475250639558"
+    },
+    "simplify:google::simplify-3c96cb52-6ca7-4957-b80b-22918761f688": {
+      "company": "Google",
+      "first_seen": "2026-08-07T09:39:52+00:00",
+      "posted_at": "1786093523",
+      "title": "Software Developer - Campus",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/120686451305128646"
     },
     "simplify:google::simplify-4f6973c1-da33-4e06-83f6-24ba86a31d95": {
       "company": "Google",
@@ -19368,5 +19382,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-07T08:41:14+00:00"
+  "updated_at": "2026-08-07T09:39:52+00:00"
 }
