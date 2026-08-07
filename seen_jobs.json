@@ -1,5 +1,5 @@
 {
-  "count": 2756,
+  "count": 2764,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3504,6 +3504,13 @@
       "title": "Software Engineer Graduate - Cloud Native Infrastructure",
       "url": "https://jobs.bytedance.com/en/position/7540437542564301063/detail"
     },
+    "simplify:bytedance::simplify-1a9582e0-2525-494c-8737-53db648f37cb": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-07T03:28:56+00:00",
+      "posted_at": "1786065255",
+      "title": "Network Software Engineer Intern - Network Observation",
+      "url": "https://jobs.bytedance.com/en/position/7670772641439041797/detail"
+    },
     "simplify:bytedance::simplify-1b859931-1544-478a-bc10-f4d7d0521089": {
       "company": "ByteDance",
       "first_seen": "2026-08-03T11:36:49+00:00",
@@ -3769,6 +3776,13 @@
       "posted_at": "1780466939",
       "title": "Software Development Engineer Intern - Network Automation",
       "url": "https://jobs.bytedance.com/en/position/7537152240618195208/detail"
+    },
+    "simplify:bytedance::simplify-aa7eb673-811f-4d32-a109-b840c82a1fab": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-07T03:28:56+00:00",
+      "posted_at": "1786065256",
+      "title": "Network Software Engineer Intern - Network Switch",
+      "url": "https://jobs.bytedance.com/en/position/7670778018960542005/detail"
     },
     "simplify:bytedance::simplify-ad0c0ea3-6eff-409b-91d6-adcf6f76c26e": {
       "company": "ByteDance",
@@ -10125,6 +10139,13 @@
       "posted_at": "1772205777",
       "title": "Software Engineering Associate",
       "url": "https://jobs.smartrecruiters.com/TruvenHealthAnalyticsanIBMCompany/93930814"
+    },
+    "simplify:merck::simplify-25f1d732-78f0-476f-9d25-b0f357ab023f": {
+      "company": "Merck",
+      "first_seen": "2026-08-07T03:28:57+00:00",
+      "posted_at": "1785974400",
+      "title": "Software Engineer - AI Development",
+      "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Software-Engineer---AI-Development_R408724-1"
     },
     "simplify:meshy::simplify-951080fa-b448-4ec1-8e54-80b5a3176cca": {
       "company": "Meshy",
@@ -16776,6 +16797,13 @@
       "title": "Backend Software Engineer New Grad - Trust & Safety",
       "url": "https://lifeattiktok.com/search/7664533229944178949"
     },
+    "simplify:tiktok::simplify-3eeac721-35f3-4f16-9019-05cfc80ad251": {
+      "company": "TikTok",
+      "first_seen": "2026-08-07T03:28:56+00:00",
+      "posted_at": "1786065501",
+      "title": "Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer",
+      "url": "https://lifeattiktok.com/search/7670738362521520437"
+    },
     "simplify:tiktok::simplify-42b0f3dc-9fe2-4f26-ac9b-eaaa21075017": {
       "company": "TikTok",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -16796,6 +16824,13 @@
       "posted_at": "1785824410",
       "title": "Software Engineer New Grad - Ads Infrastructure",
       "url": "https://lifeattiktok.com/search/7668879883938203957"
+    },
+    "simplify:tiktok::simplify-470d8405-efc2-46a4-984e-477fa5e3d31e": {
+      "company": "TikTok",
+      "first_seen": "2026-08-07T03:28:56+00:00",
+      "posted_at": "1786065509",
+      "title": "Software Engineer Intern - Global E-Commerce Search Infrastructure",
+      "url": "https://lifeattiktok.com/search/7662594807715072261"
     },
     "simplify:tiktok::simplify-47768da2-8643-4881-8249-a78543064605": {
       "company": "TikTok",
@@ -16887,6 +16922,13 @@
       "posted_at": "1785835212",
       "title": "Backend Software Engineer Intern - LIVE Foundation Governance Engineering",
       "url": "https://lifeattiktok.com/search/7667935150530840837"
+    },
+    "simplify:tiktok::simplify-65374907-a79c-4477-928a-78fd06e99828": {
+      "company": "TikTok",
+      "first_seen": "2026-08-07T03:28:56+00:00",
+      "posted_at": "1786065502",
+      "title": "Backend Software Engineer Graduate - Privacy and Security - Product",
+      "url": "https://lifeattiktok.com/search/7670387719826786565"
     },
     "simplify:tiktok::simplify-66b56a57-0b34-4268-9aeb-d1eeb074c004": {
       "company": "TikTok",
@@ -17027,6 +17069,13 @@
       "posted_at": "1768443441",
       "title": "Software Engineer Intern - Global Site Reliability Engineer",
       "url": "https://lifeattiktok.com/search/7536042624604997896"
+    },
+    "simplify:tiktok::simplify-8b5ac2f9-33b4-434d-b7d0-d7d0afcc5357": {
+      "company": "TikTok",
+      "first_seen": "2026-08-07T03:28:56+00:00",
+      "posted_at": "1786065503",
+      "title": "Fullstack Software Engineer Intern - Global E-Commerce",
+      "url": "https://lifeattiktok.com/search/7670700387322300677"
     },
     "simplify:tiktok::simplify-8b95003b-f01d-4d6b-a4d2-1e4c6d890df5": {
       "company": "TikTok",
@@ -17321,6 +17370,13 @@
       "posted_at": "1781503935",
       "title": "Software Engineer Intern - Capital Platform",
       "url": "https://lifeattiktok.com/search/7534536157456058632"
+    },
+    "simplify:tiktok::simplify-f555debe-b0d3-424f-b231-329a6d2df96a": {
+      "company": "TikTok",
+      "first_seen": "2026-08-07T03:28:56+00:00",
+      "posted_at": "1786065503",
+      "title": "Backend Software Engineer Graduate - Data Lifecycle Management",
+      "url": "https://lifeattiktok.com/search/7670391173613160757"
     },
     "simplify:tiktok::simplify-f7d5b131-06e8-4d41-8a6a-3513004116da": {
       "company": "TikTok",
@@ -19235,5 +19291,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-07T00:29:54+00:00"
+  "updated_at": "2026-08-07T03:28:57+00:00"
 }
