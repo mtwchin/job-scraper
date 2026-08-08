@@ -1,5 +1,5 @@
 {
-  "count": 2833,
+  "count": 2834,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -15614,6 +15614,13 @@
       "title": "Application Developer - Application Development",
       "url": "https://starbucks.eightfold.ai/careers/job/481078166376"
     },
+    "simplify:starbucks::simplify-e0a94eec-3148-4c4a-a240-6dbffb7885f3": {
+      "company": "Starbucks",
+      "first_seen": "2026-08-08T15:47:41+00:00",
+      "posted_at": "1786201027",
+      "title": "Software Engineer - Software Engineering",
+      "url": "https://starbucks.eightfold.ai/careers/job/481078166214"
+    },
     "simplify:state street::simplify-336cbbc3-eb04-4282-b306-8d4ed5362bec": {
       "company": "State Street",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -19774,5 +19781,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-08T09:51:58+00:00"
+  "updated_at": "2026-08-08T15:47:41+00:00"
 }
