@@ -1,5 +1,5 @@
 {
-  "count": 2824,
+  "count": 2832,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3721,6 +3721,13 @@
       "title": "Software Engineer Graduate - Cloud Native Infrastructure",
       "url": "https://jobs.bytedance.com/en/position/7540430373219977479/detail"
     },
+    "simplify:bytedance::simplify-30e36d66-cf25-4851-9655-d22bb0c6d319": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-08T02:09:22+00:00",
+      "posted_at": "1786151719",
+      "title": "Software Development Engineer Intern - Network Automation - 2027 Summer",
+      "url": "https://jobs.bytedance.com/en/position/7671147251943213317/detail"
+    },
     "simplify:bytedance::simplify-34fa4813-bc92-4deb-8987-cf33bc625246": {
       "company": "ByteDance",
       "first_seen": "2026-08-06T03:59:59+00:00",
@@ -6948,6 +6955,27 @@
       "title": "Software Engineer \u2013 New Grad",
       "url": "https://ats.rippling.com/flexai/jobs/93ada67c-8527-427c-b2f6-4a5557b00674"
     },
+    "simplify:flexcompute::simplify-75af4966-3c71-447e-9622-da5d0c139e79": {
+      "company": "Flexcompute",
+      "first_seen": "2026-08-08T02:09:23+00:00",
+      "posted_at": "1786151872",
+      "title": "CFD Solver Developer",
+      "url": "https://apply.workable.com/flexcompute/j/EF3D90A736/apply"
+    },
+    "simplify:flexcompute::simplify-78eb2dca-9b33-4b7e-a27e-6ac21fe1b6ff": {
+      "company": "Flexcompute",
+      "first_seen": "2026-08-08T02:09:23+00:00",
+      "posted_at": "1786151872",
+      "title": "Software Engineer - Infrastructure",
+      "url": "https://apply.workable.com/flexcompute/j/143ECD1848/apply"
+    },
+    "simplify:flexcompute::simplify-ee1a3b7b-ed9d-4664-8291-c30e79a97e63": {
+      "company": "Flexcompute",
+      "first_seen": "2026-08-08T02:09:23+00:00",
+      "posted_at": "1786151875",
+      "title": "Scientific Computing New Grad - Rising Stars",
+      "url": "https://apply.workable.com/flexcompute/j/75BA5AB5DC/apply"
+    },
     "simplify:flexgen::simplify-d0c5c25a-e0ac-488e-8b2f-feb1134545b5": {
       "company": "FlexGen",
       "first_seen": "2026-07-31T12:11:59+00:00",
@@ -8649,6 +8677,13 @@
       "title": "Engineer 1",
       "url": "https://careers-ice.icims.com/jobs/13435/job?mobile=true&needsRedirect=false"
     },
+    "simplify:interface.ai::simplify-41280a36-4216-449a-9315-6144bfec8a2b": {
+      "company": "interface.ai",
+      "first_seen": "2026-08-08T02:09:23+00:00",
+      "posted_at": "1786152029",
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/interface-ai/abbcf39d-cac3-49ee-9279-82a59821c300/application?embed=true"
+    },
     "simplify:interimage::simplify-0483a44f-f140-427e-a301-9d87c2344515": {
       "company": "InterImage",
       "first_seen": "2026-08-07T07:47:03+00:00",
@@ -9131,6 +9166,13 @@
       "posted_at": "1782511655",
       "title": "Software Engineer Co-op - Gameplay",
       "url": "https://jobs.lever.co/kabam/ad42a9d4-838d-443e-be94-e18b9097851e/apply"
+    },
+    "simplify:kanbrick::simplify-fc0ba9c7-8038-43b5-ae74-d319237d1147": {
+      "company": "Kanbrick",
+      "first_seen": "2026-08-08T02:09:23+00:00",
+      "posted_at": "1786151987",
+      "title": "Forward Deployed Engineer",
+      "url": "https://apply.workable.com/kanbrick/j/CA9D01A008/apply"
     },
     "simplify:kanshe infotech::simplify-07a5ff16-9935-4009-9cd2-32e9eb46b712": {
       "company": "Kanshe Infotech",
@@ -10783,6 +10825,13 @@
       "posted_at": "1784787494",
       "title": "Montgomery Investment Technology",
       "url": "https://fintools.applytojob.com/apply/o7r6gV8IMh/Computer-Programming-Internship-Summer-2026"
+    },
+    "simplify:montreal institute for learning algorithms::simplify-3306d8fb-6c29-4d88-94cb-972dc1945579": {
+      "company": "Montreal Institute for Learning Algorithms",
+      "first_seen": "2026-08-08T02:09:23+00:00",
+      "posted_at": "1786151995",
+      "title": "AI Applications Developer Junior - AI Applications Development",
+      "url": "https://apply.workable.com/mila-2/j/F73F31C5FD/apply"
     },
     "simplify:moog ::simplify-bb2699db-c654-4cb9-b4ca-b5140fcb8ee6": {
       "company": "Moog ",
@@ -13331,6 +13380,13 @@
       "posted_at": "1772003771",
       "title": "Web Developer",
       "url": "https://jobs.smartrecruiters.com/ProcomConsultantsGroup/88630319"
+    },
+    "simplify:pronexus::simplify-7ededa5d-af4b-4f9d-80ae-9e03985190e9": {
+      "company": "ProNexus",
+      "first_seen": "2026-08-08T02:09:23+00:00",
+      "posted_at": "1786151968",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply"
     },
     "simplify:prosidian consulting::simplify-037b975c-a205-4233-a14e-db1ef66822d9": {
       "company": "Prosidian Consulting",
@@ -19711,5 +19767,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-07T23:34:48+00:00"
+  "updated_at": "2026-08-08T02:09:23+00:00"
 }
