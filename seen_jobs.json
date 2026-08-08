@@ -1,5 +1,5 @@
 {
-  "count": 2832,
+  "count": 2833,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -13325,6 +13325,13 @@
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/PointOne/1e312db8-6d18-4d07-af99-ed3ba165e7d9/application"
     },
+    "simplify:polaris::simplify-8caf8a32-6383-404c-8f0e-49c55ec304a7": {
+      "company": "Polaris",
+      "first_seen": "2026-08-08T09:51:58+00:00",
+      "posted_at": "1786147200",
+      "title": "Digital & IT Leadership Development Program Associate - Digital Product Development",
+      "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT-Leadership-Development-Program-Associate---Digital-Product-Development_R30565"
+    },
     "simplify:polyai::simplify-9b0f6ef9-ad8a-4800-8e96-110f4283c6f8": {
       "company": "PolyAI",
       "first_seen": "2026-07-24T11:09:47+00:00",
@@ -19767,5 +19774,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-08T02:09:23+00:00"
+  "updated_at": "2026-08-08T09:51:58+00:00"
 }
