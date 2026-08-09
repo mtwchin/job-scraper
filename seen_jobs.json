@@ -1,5 +1,5 @@
 {
-  "count": 2834,
+  "count": 2835,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -4231,6 +4231,13 @@
       "posted_at": "1785456000",
       "title": "Application Software Developer New Grad",
       "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736"
+    },
+    "simplify:cadence design systems::simplify-40dbbf5f-d4ad-493a-9644-4f4b0662556c": {
+      "company": "Cadence Design Systems",
+      "first_seen": "2026-08-09T01:43:29+00:00",
+      "posted_at": "1781360086",
+      "title": "Software Engineer Intern",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2"
     },
     "simplify:cadence design systems::simplify-55c7c29d-5579-48fe-a3f7-dd38b476dba0": {
       "company": "Cadence Design Systems",
@@ -19781,5 +19788,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-08T15:47:41+00:00"
+  "updated_at": "2026-08-09T01:43:29+00:00"
 }
