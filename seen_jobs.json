@@ -1,5 +1,5 @@
 {
-  "count": 2881,
+  "count": 2885,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3784,6 +3784,13 @@
       "title": "Graduate AI Model Optimization Engineer - Data Speech Product R&D Engineering",
       "url": "https://jobs.bytedance.com/en/position/7669899962768165173/detail"
     },
+    "simplify:bytedance::simplify-42eb9963-840a-46d6-96fd-975e596c839f": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-10T23:44:22+00:00",
+      "posted_at": "1786401397",
+      "title": "Software Engineer Graduate - AML Engine Orchestration - 2027 Start",
+      "url": "https://jobs.bytedance.com/en/position/7671148355447343365/detail"
+    },
     "simplify:bytedance::simplify-45f439c5-48ee-4f58-a636-14a5e0912e61": {
       "company": "ByteDance",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -4168,6 +4175,13 @@
       "posted_at": "1780466896",
       "title": "Software Engineer Intern - Applied Machine Learning-Enterprise",
       "url": "https://jobs.bytedance.com/en/position/7533045355162044690/detail"
+    },
+    "simplify:bytedance::simplify-f1be554a-8058-43b0-9e9f-a72f39eebf4b": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-10T23:44:22+00:00",
+      "posted_at": "1786401393",
+      "title": "Software Engineer Graduate - AML-Engine-Orchestration - PhD",
+      "url": "https://jobs.bytedance.com/en/position/7671160649137588485/detail"
     },
     "simplify:bytedance::simplify-f3007eae-7ae6-48d3-8e58-2c2ab54559dd": {
       "company": "ByteDance",
@@ -7234,6 +7248,13 @@
       "posted_at": "1774448390",
       "title": "Junior Software Engineer",
       "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5089261007"
+    },
+    "simplify:fsh technologies::simplify-06753993-8ac8-46f8-95a2-773c488a8d07": {
+      "company": "FSH Technologies",
+      "first_seen": "2026-08-10T23:44:22+00:00",
+      "posted_at": "1786401072",
+      "title": "Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/FSH/71b6506a-10c2-4498-9cff-1009e0582bda/application?embed=true"
     },
     "simplify:fuze health::simplify-7d8768dc-f8bf-486b-bcea-cb2578964f69": {
       "company": "Fuze Health",
@@ -12078,6 +12099,13 @@
       "posted_at": "1770908665",
       "title": "Product Engineer 1",
       "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/39682"
+    },
+    "simplify:nova talent::simplify-fad9be14-9d62-46ad-bf50-c787ed3b48d5": {
+      "company": "Nova Talent",
+      "first_seen": "2026-08-10T23:44:22+00:00",
+      "posted_at": "1786401011",
+      "title": "Software Engineer - Early Stage",
+      "url": "https://jobs.ashbyhq.com/nova-talent/14c18114-f371-4ef2-8caa-6c0341777850/application?embed=true"
     },
     "simplify:novanta::simplify-76024ce1-258c-433e-87c4-2d704c53a61c": {
       "company": "Novanta",
@@ -20110,5 +20138,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-10T23:03:12+00:00"
+  "updated_at": "2026-08-10T23:44:22+00:00"
 }
