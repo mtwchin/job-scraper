@@ -1,5 +1,5 @@
 {
-  "count": 2842,
+  "count": 2847,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -10448,6 +10448,13 @@
       "title": "Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/mcghealth/jobs/8350486002"
     },
+    "simplify:mckesson::simplify-0f006255-ad30-4908-a94c-10b724df2e44": {
+      "company": "McKesson",
+      "first_seen": "2026-08-10T15:11:36+00:00",
+      "posted_at": "1786320000",
+      "title": "Software Developer Intern - Digital and Enterprise Technology",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-dveloppement-logiciel---Automne-2026---Software-Developer-Intern---Fall-2026_JR0151997"
+    },
     "simplify:mcmaster-carr::simplify-4600d580-8dad-49ce-93c7-89ae51839461": {
       "company": "McMaster-Carr",
       "first_seen": "2026-07-23T01:17:04+00:00",
@@ -14053,6 +14060,13 @@
       "title": "Software Engineer Intern",
       "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713"
     },
+    "simplify:rochester regional health::simplify-385dc12f-2ac2-4312-8605-7f8b09d77fd9": {
+      "company": "Rochester Regional Health",
+      "first_seen": "2026-08-10T15:11:36+00:00",
+      "posted_at": "1786320000",
+      "title": "Web Applications Co-op",
+      "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Web-Applications_REQ_233332"
+    },
     "simplify:rocket companies::simplify-16563ac6-f4a5-4af9-a956-d936a9ef337e": {
       "company": "Rocket Companies",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -14423,6 +14437,13 @@
       "posted_at": "1784073600",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Raytheon-Full-Time---Software-Engineer-I---McKinney--TX--Onsite-_01853473-1"
+    },
+    "simplify:rtx::simplify-912eecfa-63a9-49e1-8eaf-4ee42653061e": {
+      "company": "RTX",
+      "first_seen": "2026-08-10T15:11:36+00:00",
+      "posted_at": "1786320000",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineering-Intern--Summer-2027-_01865158"
     },
     "simplify:rtx::simplify-96f057ba-4984-4466-ad7a-4e8f75d1ddf9": {
       "company": "RTX",
@@ -17273,6 +17294,13 @@
       "title": "Frontend Software Engineer Intern - Ads Measurement Signal and Privacy",
       "url": "https://lifeattiktok.com/search/7668584161852229893"
     },
+    "simplify:tiktok::simplify-2851e500-7a2b-4e96-a2fa-681730e8d48e": {
+      "company": "TikTok",
+      "first_seen": "2026-08-10T15:11:36+00:00",
+      "posted_at": "1786371587",
+      "title": "Software Engineer Intern - Global E-commerce-Search",
+      "url": "https://lifeattiktok.com/search/7670839752644233525"
+    },
     "simplify:tiktok::simplify-2d1d84a0-ff46-441d-b4b8-e580fd19fa16": {
       "company": "TikTok",
       "first_seen": "2026-08-04T11:32:41+00:00",
@@ -17755,6 +17783,13 @@
       "posted_at": "1781503952",
       "title": "Software Engineer - Data Arch - Data Ecosystem",
       "url": "https://lifeattiktok.com/search/7527441329384147208"
+    },
+    "simplify:tiktok::simplify-d1768aee-f240-4353-b609-278b04785c95": {
+      "company": "TikTok",
+      "first_seen": "2026-08-10T15:11:36+00:00",
+      "posted_at": "1786371587",
+      "title": "Software Engineer Intern - Global E-commerce-Search",
+      "url": "https://lifeattiktok.com/search/7670839727059339525"
     },
     "simplify:tiktok::simplify-d4bfc074-22eb-471a-bc81-5b615c25daed": {
       "company": "TikTok",
@@ -19837,5 +19872,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-10T06:59:24+00:00"
+  "updated_at": "2026-08-10T15:11:36+00:00"
 }
