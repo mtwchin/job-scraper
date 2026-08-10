@@ -1,5 +1,5 @@
 {
-  "count": 2835,
+  "count": 2842,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2684,6 +2684,13 @@
       "posted_at": "1766409720",
       "title": "Internship - Software Development Engineer in Test",
       "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071"
+    },
+    "simplify:asr international::simplify-08cca5ea-66d4-4c06-bc78-8aa1c6a832e4": {
+      "company": "ASR INTERNATIONAL",
+      "first_seen": "2026-08-10T06:59:24+00:00",
+      "posted_at": "1786342615",
+      "title": "Junior Software Engineer Intern - Instrumentation",
+      "url": "https://asrinternationalcorp.applytojob.com/apply/nknm2W31uu/SoftwareInstrumentation-Engineer-Junior"
     },
     "simplify:assetmark::simplify-53674862-c0d4-4b5c-8529-59e8bfba387d": {
       "company": "AssetMark",
@@ -5737,6 +5744,13 @@
       "title": "Software Engineer 1 - Unified Video Sustainment",
       "url": "https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers/job/Ashburn-Virginia/Software-Engineer-I---Unified-Video-Sustainment_REQ_49558"
     },
+    "simplify:cummins::simplify-1d6917cc-c2ac-4a2b-8ffc-9e08ecc68f64": {
+      "company": "Cummins",
+      "first_seen": "2026-08-10T06:59:24+00:00",
+      "posted_at": "1786342533",
+      "title": "Electronic Systems Engineer - Software",
+      "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433277"
+    },
     "simplify:cummins::simplify-276b6815-7fb8-46f1-b5aa-156dd9ac093d": {
       "company": "Cummins",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -5744,12 +5758,40 @@
       "title": "Repower Program: Product Engineering Specialist",
       "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2430952"
     },
+    "simplify:cummins::simplify-435c2fcd-ac89-454c-8594-e00acf0c463c": {
+      "company": "Cummins",
+      "first_seen": "2026-08-10T06:59:24+00:00",
+      "posted_at": "1786342534",
+      "title": "Software Engineer 1",
+      "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435081"
+    },
     "simplify:cummins::simplify-46f6f069-21ab-4c7b-871b-f43b2f13caf4": {
       "company": "Cummins",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1781791615",
       "title": "Product Engineering Specialist",
       "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431193"
+    },
+    "simplify:cummins::simplify-794d9023-0e6c-4e52-aba9-a759253853f2": {
+      "company": "Cummins",
+      "first_seen": "2026-08-10T06:59:24+00:00",
+      "posted_at": "1786342534",
+      "title": "Product Engineer - Turbo Platform Product Engineering",
+      "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434284"
+    },
+    "simplify:cummins::simplify-8def6cd4-02f6-4045-9290-2e08f2f10b24": {
+      "company": "Cummins",
+      "first_seen": "2026-08-10T06:59:24+00:00",
+      "posted_at": "1786342535",
+      "title": "Software Engineer 1",
+      "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434164"
+    },
+    "simplify:cummins::simplify-b7d2b969-6593-4660-bd91-dc2baae3f910": {
+      "company": "Cummins",
+      "first_seen": "2026-08-10T06:59:24+00:00",
+      "posted_at": "1786342534",
+      "title": "Product Engineer",
+      "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434797"
     },
     "simplify:curtiss-wright corporation::simplify-b62812e2-241d-4fc7-810e-2726318274e3": {
       "company": "Curtiss-Wright Corporation",
@@ -9635,6 +9677,13 @@
       "posted_at": "1784815472",
       "title": "Associate \u2013 Software Engineer",
       "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1411849300/?ats=successfactors"
+    },
+    "simplify:l3harris technologies::simplify-50f47dfa-2767-4349-b388-347aa02f6f46": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-08-10T06:59:24+00:00",
+      "posted_at": "1786342229",
+      "title": "Associate Software Engineering",
+      "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineeriing-NY-14624/1417495000/?ats=successfactors"
     },
     "simplify:l3harris technologies::simplify-72c67b39-d84c-46b6-b7b6-e9e97c47087d": {
       "company": "L3Harris Technologies",
@@ -19788,5 +19837,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-09T01:43:29+00:00"
+  "updated_at": "2026-08-10T06:59:24+00:00"
 }
