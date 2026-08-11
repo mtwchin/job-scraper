@@ -1,5 +1,5 @@
 {
-  "count": 2929,
+  "count": 2952,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2447,6 +2447,13 @@
       "title": "Software Engineer-SoC Level Validation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200665150"
     },
+    "simplify:apple::simplify-77d49317-0548-4edd-9353-7f31a94c19c8": {
+      "company": "Apple",
+      "first_seen": "2026-08-11T23:09:32+00:00",
+      "posted_at": "1786486443",
+      "title": "Software Engineer - Information Systems and Technology - Early Career",
+      "url": "https://jobs.apple.com/en-us/details/200677377"
+    },
     "simplify:apple::simplify-8673e698-fd13-4dcc-aef5-1ccc0e8dff9b": {
       "company": "Apple",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -2579,6 +2586,13 @@
       "posted_at": "1785189871",
       "title": "Software Engineer Intern - ML Systems",
       "url": "https://boards.greenhouse.io/apptronik/jobs/6128057004"
+    },
+    "simplify:aptiv::simplify-d3435562-7d30-441f-b281-666a67529b9b": {
+      "company": "Aptiv",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786406400",
+      "title": "System Engineer - OS Kernel",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/System-Engineer---OS-Kernel_J000701249"
     },
     "simplify:aqr capital management::simplify-5250f2a5-20d5-40b6-b0bb-5a3317fd4385": {
       "company": "AQR Capital Management",
@@ -2761,6 +2775,13 @@
       "posted_at": "1786342615",
       "title": "Junior Software Engineer Intern - Instrumentation",
       "url": "https://asrinternationalcorp.applytojob.com/apply/nknm2W31uu/SoftwareInstrumentation-Engineer-Junior"
+    },
+    "simplify:assa abloy::simplify-7285a57f-86ed-4201-82a9-a80f0306e1a3": {
+      "company": "ASSA ABLOY",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786485751",
+      "title": "Product Engineer 1",
+      "url": "https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-I-IA-50401/1425404233/?ats=successfactors"
     },
     "simplify:assetmark::simplify-53674862-c0d4-4b5c-8529-59e8bfba387d": {
       "company": "AssetMark",
@@ -3517,6 +3538,13 @@
       "posted_at": "1786320000",
       "title": "Software Development Engineer 1 - Early Career",
       "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R70051"
+    },
+    "simplify:blue origin::simplify-2d12bca6-cc8c-4e3f-877e-0219f82a069b": {
+      "company": "Blue Origin",
+      "first_seen": "2026-08-11T23:09:32+00:00",
+      "posted_at": "1786406400",
+      "title": "Software Development Engineer 1 Intern - Corporate Functions",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Software-Development-Engineer-I_R70275"
     },
     "simplify:blue origin::simplify-3cf8c81a-cf6a-4d33-8b8a-e221d86aa57b": {
       "company": "Blue Origin",
@@ -5499,6 +5527,13 @@
       "title": "Assisted Tools Engineer",
       "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Field-Experience-Domain-Engineer_R438012"
     },
+    "simplify:comcast::simplify-37ebdda5-8386-4e92-a6b2-867a679464ad": {
+      "company": "Comcast",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786406400",
+      "title": "Software Engineer 1 - Software Development & Engineering",
+      "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R442528"
+    },
     "simplify:comcast::simplify-64888f69-080f-4916-afc2-abddf031f6f9": {
       "company": "Comcast",
       "first_seen": "2026-08-01T22:24:31+00:00",
@@ -6339,12 +6374,26 @@
       "title": "Software Engineering Analyst - Government & Public Services - Software Engineering",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering-Fall-2026-Hire/360282"
     },
+    "simplify:deloitte::simplify-8ce351e6-944c-4e61-8422-e151a5a7baf2": {
+      "company": "Deloitte",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786487046",
+      "title": "Delivery Analyst - Government & Public Services - Cyber Software Engineering Solutions",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Cyber-Software-Engineering-Solutions/362503"
+    },
     "simplify:deloitte::simplify-9119a940-c285-418f-8fad-397e77889ae6": {
       "company": "Deloitte",
       "first_seen": "2026-07-22T03:38:18+00:00",
       "posted_at": "1784672056",
       "title": "Consultative Offerings Analyst - Government & Public Services - Software Engineering",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering/350277"
+    },
+    "simplify:deloitte::simplify-a9a2e369-3bce-45ed-ac8b-e9ea8ed3da85": {
+      "company": "Deloitte",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786487064",
+      "title": "Delivery Analyst - Multiple Teams",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Software-Engineering-Solutions/362516"
     },
     "simplify:deloitte::simplify-ab415b2f-4b79-4996-a204-a63273564c89": {
       "company": "Deloitte",
@@ -6359,6 +6408,13 @@
       "posted_at": "1786401419",
       "title": "Summer Scholar Intern - Government & Public Services - Cyber Software Engineering",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Software-Engineering/362346"
+    },
+    "simplify:deloitte::simplify-f8b7d1d3-92c0-4cb3-a9d7-9d11187c69cd": {
+      "company": "Deloitte",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786487049",
+      "title": "Delivery Analyst - Multiple Teams",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Tech-Package-Solutions/362522"
     },
     "simplify:delta dental::simplify-4e1c3c96-80a3-44d4-85ff-7da897beb1f5": {
       "company": "Delta Dental",
@@ -7123,6 +7179,13 @@
       "title": "Associate Full Stack Engineer",
       "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Associate-Full-Stack-Engineer_2128066-2"
     },
+    "simplify:fidelity investments::simplify-16a47ab0-c782-4b72-b808-528f1644dc5d": {
+      "company": "Fidelity Investments",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786406400",
+      "title": "Digital Solutions Associate - Workplace Consulting",
+      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/XMLNAME-2027-Undergraduate-Full-Time---Digital-Solutions-Associate--Workplace-Consulting_2133643"
+    },
     "simplify:fidelity investments::simplify-17699a31-38e1-4e82-b409-fe317a841c6f": {
       "company": "Fidelity Investments",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -7374,6 +7437,13 @@
       "posted_at": "1783635197",
       "title": "Machine Shop CNC Operator - CNC Operators",
       "url": "https://foxfactory.wd1.myworkdayjobs.com/FOX/job/US-GA-Gainesville-Machine-Shop/CNC-Machine-Operator---3rd-Shift_JR109102"
+    },
+    "simplify:foxconn industrial internet::simplify-7fcb2e8c-cda4-468f-b6ff-2d05f6b0b2c6": {
+      "company": "Foxconn Industrial Internet",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786486610",
+      "title": "Software Engineer Intern - Engineering and Operations",
+      "url": "http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern"
     },
     "simplify:freddie mac::simplify-fc4f2880-dfbe-4370-a129-24ea58c9a173": {
       "company": "Freddie Mac",
@@ -7739,6 +7809,13 @@
       "title": "Junior Full Stack Engineer (Java/React)",
       "url": "https://careers-gdms.icims.com/jobs/71647/junior-full-stack-engineer-%28java-react%29/job"
     },
+    "simplify:general dynamics mission systems::simplify-f3f9b259-5f4f-4f09-af62-b8d45604be0d": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786486202",
+      "title": "Cybersecurity Software Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/74257/job?mobile=true&needsRedirect=false"
+    },
     "simplify:general dynamics::simplify-67b263fd-9197-4c3c-bcf7-fdf6ef1c0343": {
       "company": "General Dynamics",
       "first_seen": "2026-07-16T15:52:45+00:00",
@@ -7801,6 +7878,13 @@
       "posted_at": "1785283200",
       "title": "Digital Vehicle Experience Software Developer Co-op",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2026-Fall-Co-op-Digital-Vehicle-Experience-Software-Developer_JR-202616330"
+    },
+    "simplify:genetec::simplify-0173ecf7-6ce3-445b-b81b-12afb669dff5": {
+      "company": "Genetec",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786486853",
+      "title": "Software Developer - Physical Access Control - SaaS",
+      "url": "https://apply.workable.com/genetec-inc/j/46C9414CC4/apply"
     },
     "simplify:genetec::simplify-80735135-15c9-468b-81c1-48e4af8b28c3": {
       "company": "Genetec",
@@ -10644,6 +10728,20 @@
       "title": "FLEX Associate Software Engineer - Customer Data Platform",
       "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26085377"
     },
+    "simplify:marriott international::simplify-2719baba-26af-4458-84f7-8a2dbd2ff35b": {
+      "company": "Marriott International",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786486638",
+      "title": "Associate Software Engineer - Mobile - iOS",
+      "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26099783"
+    },
+    "simplify:marriott international::simplify-73f2a1e2-5560-45b6-9aef-e74758e86472": {
+      "company": "Marriott International",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786486636",
+      "title": "Associate Software Engineer - Android - Mobile",
+      "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26099780"
+    },
     "simplify:marsh & mclennan::simplify-2b75b805-1f1c-4167-ba95-493ef3e81786": {
       "company": "Marsh & McLennan",
       "first_seen": "2026-07-29T03:35:09+00:00",
@@ -11847,6 +11945,13 @@
       "posted_at": "1781361789",
       "title": "Senior Principal Software Engineer - Cloud & Applications",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Principal---Sr-Principal-Engineer-Software---Cloud---Applications_R10235026-1"
+    },
+    "simplify:northrop grumman::simplify-25d93b12-6922-48cc-8b99-aa6d6786667a": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786406400",
+      "title": "Software Engineer - Ground Software Engineering",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Converting-Software-Engineer-Dulles-VA_R10244689"
     },
     "simplify:northrop grumman::simplify-27d46f0f-ff42-4028-970a-2feef813f4b6": {
       "company": "Northrop Grumman",
@@ -13304,6 +13409,20 @@
       "title": "Technical Software Consultant",
       "url": "https://jobs.ashbyhq.com/pariveda/d825ed65-edd8-4540-92c9-4c01f2b6a982/application?embed=true"
     },
+    "simplify:pathai::simplify-4e2d4aa8-3825-4d49-bb96-d3194a6ced1f": {
+      "company": "PathAI",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786487003",
+      "title": "Software Engineer 1 - Fullstack",
+      "url": "https://www.pathai.com/careers/8696764002?gh_jid=8696764002"
+    },
+    "simplify:pathai::simplify-5de68737-25b5-4f5a-bfca-7ade84c68491": {
+      "company": "PathAI",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786487009",
+      "title": "Software Engineer Co-op",
+      "url": "https://www.pathai.com/careers/8623056002?gh_jid=8623056002"
+    },
     "simplify:pathai::simplify-af012315-2329-4907-89be-072d879f2916": {
       "company": "PathAI",
       "first_seen": "2026-07-15T22:38:49+00:00",
@@ -14004,6 +14123,13 @@
       "title": "Software Engineer Intern",
       "url": "https://www.quantbot.com/careers/4299458009?gh_jid=4299458009"
     },
+    "simplify:quantcast::simplify-05907ddc-a984-4b76-88f3-e3a1de4c4425": {
+      "company": "Quantcast",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786486919",
+      "title": "Software Engineer - Full Stack",
+      "url": "https://jobs.ashbyhq.com/quantcast/09271839-e273-472b-948d-3d362867f809/application?embed=true"
+    },
     "simplify:quantix scs::simplify-c22ed2b1-7dbc-4fec-8e24-0ed23174312c": {
       "company": "Quantix SCS",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -14150,6 +14276,13 @@
       "posted_at": "1771284957",
       "title": "Forward Deployed Engineer - Fresh",
       "url": "https://www.relexsolutions.com/careers/jobs/?gh_jid=7632967003"
+    },
+    "simplify:reliance::simplify-46ef73eb-48ac-4b4f-b57e-f88f4c490e1d": {
+      "company": "Reliance",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786486148",
+      "title": "AI Software Engineer 1",
+      "url": "https://careers.reliance.com/jobs/3330?icims=1"
     },
     "simplify:reliaquest::simplify-58e21683-9b4c-4bda-9bba-b8a3f07a0562": {
       "company": "ReliaQuest",
@@ -15222,6 +15355,13 @@
       "title": "Software Engineering Member of Technical Staff - Full Stack",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS--Full-Stack_JR352457"
     },
+    "simplify:salesforce::simplify-d01ebc03-05a8-45ae-90cb-8456c83c83e2": {
+      "company": "Salesforce",
+      "first_seen": "2026-08-11T23:09:32+00:00",
+      "posted_at": "1786406400",
+      "title": "Software Engineer Intern - Future Pathways",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842"
+    },
     "simplify:salesforce::simplify-f72e4f9c-46ba-4a77-aa67-a10faac92de9": {
       "company": "Salesforce",
       "first_seen": "2026-07-09T22:52:28+00:00",
@@ -15452,6 +15592,20 @@
       "posted_at": "1765784174",
       "title": "Software Engineer - New Grad",
       "url": "https://jobs.ashbyhq.com/sentra/3c9729ca-67b3-4f9f-9c64-5e1e10be1719"
+    },
+    "simplify:sentry::simplify-4165516a-c0f2-4f44-a98a-ad4501fb11ad": {
+      "company": "Sentry",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786486922",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1/application?embed=true"
+    },
+    "simplify:sentry::simplify-4fdcc0d4-193b-4853-abe2-27f1d7655607": {
+      "company": "Sentry",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786486918",
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/sentry/5c3196c7-f3d6-4dba-9c41-c886df4b2421/application?embed=true"
     },
     "simplify:serval::simplify-e86150cf-386f-4eac-99a4-224ea7eacfc3": {
       "company": "Serval",
@@ -16565,6 +16719,13 @@
       "posted_at": "1785363486",
       "title": "Associate Engineer - Software",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Assoc-Engineer--Software_REQ356124"
+    },
+    "simplify:t-mobile::simplify-db8b36af-8098-467c-ad9b-3f622129f10c": {
+      "company": "T-Mobile",
+      "first_seen": "2026-08-11T23:09:33+00:00",
+      "posted_at": "1786406400",
+      "title": "Associate Engineer - Software",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Engineer--Software_REQ367128"
     },
     "simplify:t-rex solutions::simplify-20565db4-0f8e-456e-b6e3-4c484757c633": {
       "company": "T-Rex Solutions",
@@ -20446,5 +20607,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-11T22:24:53+00:00"
+  "updated_at": "2026-08-11T23:09:33+00:00"
 }
