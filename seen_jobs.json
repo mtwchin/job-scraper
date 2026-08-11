@@ -1,5 +1,5 @@
 {
-  "count": 2928,
+  "count": 2929,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1214,6 +1214,13 @@
       "posted_at": "Posted 23 Days Ago",
       "title": "Missionforce - Associate Forward Deployed Engineer (FDE), Public Sector",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Washington-DC---Remote/Missionforce---Associate-Forward-Deployed-Engineer--FDE---Public-Sector_JR333171"
+    },
+    "salesforce::Software-Engineering-Intern---Future-Pathways_JR355842": {
+      "company": "Salesforce",
+      "first_seen": "2026-08-11T22:24:53+00:00",
+      "posted_at": "Posted Today",
+      "title": "Software Engineering Intern - Future Pathways",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842"
     },
     "salesforce::Summer-2027-Intern---Software-Engineer_JR337715": {
       "company": "Salesforce",
@@ -20439,5 +20446,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-11T20:05:23+00:00"
+  "updated_at": "2026-08-11T22:24:53+00:00"
 }
