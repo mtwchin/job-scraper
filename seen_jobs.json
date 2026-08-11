@@ -1,5 +1,5 @@
 {
-  "count": 2900,
+  "count": 2905,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2964,6 +2964,20 @@
       "posted_at": "1778105388",
       "title": "Software Developer",
       "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_25WD91160-1"
+    },
+    "simplify:autodesk::simplify-7a92d604-830a-4f21-a20c-32848b58f8d0": {
+      "company": "Autodesk",
+      "first_seen": "2026-08-11T15:13:43+00:00",
+      "posted_at": "1786406400",
+      "title": "Software Developer Intern - Interactive Graphics, Media & Entertainment",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2"
+    },
+    "simplify:autodesk::simplify-9988a888-3523-44f0-9be3-6ca66f7e7508": {
+      "company": "Autodesk",
+      "first_seen": "2026-08-11T15:13:43+00:00",
+      "posted_at": "1786406400",
+      "title": "Software Developer Intern",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-1"
     },
     "simplify:autodesk::simplify-a5f9bcc3-042f-46fd-9cdd-df31579889a1": {
       "company": "Autodesk",
@@ -8096,6 +8110,13 @@
       "title": "Software Engineer & Business Systems Intern",
       "url": "https://gulfmanagement.applytojob.com/apply/pnJkrOYga9/Software-Engineer-Business-Systems-Intern"
     },
+    "simplify:gulfstream::simplify-aa9feb49-b586-4dba-80ab-d35720db8230": {
+      "company": "Gulfstream",
+      "first_seen": "2026-08-11T15:13:43+00:00",
+      "posted_at": "1786457347",
+      "title": "IT Applications Developer",
+      "url": "https://careers.gulfstream.com/job/Savannah-IT-Apps-Developer-GA-31401/1418077600/?ats=successfactors"
+    },
     "simplify:gulfstream::simplify-c54661fa-4ea4-4783-b996-0470acb38ef8": {
       "company": "Gulfstream",
       "first_seen": "2026-08-10T23:03:12+00:00",
@@ -9908,6 +9929,13 @@
       "posted_at": "1784855070",
       "title": "Senior Software Engineer - Software Engineer",
       "url": "https://jobs.l3harris.com/job/Herndon-Senior-Associate,-Software-Engineer-VA-20171/1412220600/?ats=successfactors"
+    },
+    "simplify:l3harris technologies::simplify-d5772952-0a23-4d22-8064-4a62a28bedf6": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-08-11T15:13:43+00:00",
+      "posted_at": "1786458676",
+      "title": "Associate Systems Engineer - Integrated Communication System",
+      "url": "https://jobs.l3harris.com/job/Camden-Associate,-Systems-Engineering-NJ-08103/1418083600/?ats=successfactors"
     },
     "simplify:l3harris technologies::simplify-dc6217c1-230d-4b6d-9ec6-781741754f2e": {
       "company": "L3Harris Technologies",
@@ -19674,6 +19702,13 @@
       "title": "Software Engineering Co-op",
       "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138184309"
     },
+    "simplify:western digital::simplify-a7ad89c3-bfca-4132-bafe-f790f3d25000": {
+      "company": "Western Digital",
+      "first_seen": "2026-08-11T15:13:43+00:00",
+      "posted_at": "1786457302",
+      "title": "Software Engineer - Apps",
+      "url": "https://jobs.smartrecruiters.com/WesternDigital/744000142878952"
+    },
     "simplify:western digital::simplify-c2a64f1a-65f7-4c6f-840f-518f7696cf6d": {
       "company": "Western Digital",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -20243,5 +20278,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-11T07:24:02+00:00"
+  "updated_at": "2026-08-11T15:13:43+00:00"
 }
