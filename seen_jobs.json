@@ -1,5 +1,5 @@
 {
-  "count": 2898,
+  "count": 2900,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -10861,6 +10861,13 @@
       "title": "Application Developer 3 - Data and AI Engineering",
       "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oygdzfwk?nl=1&nl=1&fr=false"
     },
+    "simplify:meyer distributing::simplify-be884771-8768-4d4e-8fe8-545efc9a2cb0": {
+      "company": "Meyer Distributing",
+      "first_seen": "2026-08-11T07:24:02+00:00",
+      "posted_at": "1777349715",
+      "title": "Junior Full Stack Developer",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4121413"
+    },
     "simplify:mgm resorts international::simplify-0c885940-c72f-4328-9091-a397224b4ef2": {
       "company": "MGM Resorts International",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -13513,6 +13520,13 @@
       "posted_at": "1779843936",
       "title": "Systems Engineer Intern",
       "url": "https://jobs.lever.co/plus-2/1864b1be-25e5-424f-9626-09e58f6147f2/apply"
+    },
+    "simplify:plusai::simplify-1cc58798-4a64-45ce-a9b1-f7225d6d1a68": {
+      "company": "PlusAI",
+      "first_seen": "2026-08-11T07:24:02+00:00",
+      "posted_at": "1786428750",
+      "title": "Senior Simulation Software Engineer",
+      "url": "https://jobs.lever.co/plus-2/4572f534-2f3c-4d4c-9fb0-55838bf7795f/apply"
     },
     "simplify:plusai::simplify-8b8adf1c-5966-4504-87b0-6d488a0dc309": {
       "company": "PlusAI",
@@ -20229,5 +20243,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-11T02:36:54+00:00"
+  "updated_at": "2026-08-11T07:24:02+00:00"
 }
