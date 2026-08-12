@@ -1,5 +1,5 @@
 {
-  "count": 2973,
+  "count": 2977,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2292,6 +2292,13 @@
       "posted_at": "1783158147",
       "title": "SAP Principal Architect - Transportation Management",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/SAP-Principal-Architect--Transportation-Management_R-244752"
+    },
+    "simplify:amnet services::simplify-ad10670d-56f5-4600-ab6f-5c48cbd8fb5c": {
+      "company": "AmNet Services",
+      "first_seen": "2026-08-12T06:42:47+00:00",
+      "posted_at": "1786514779",
+      "title": "Software Systems Engineer 3",
+      "url": "https://jobs.smartrecruiters.com/AmNetServicesInc/743999652095708"
     },
     "simplify:ampliwork, inc::simplify-8b2cbddc-da27-4fb2-b8db-666cf3beb9ca": {
       "company": "Ampliwork, Inc",
@@ -7255,6 +7262,27 @@
       "posted_at": "1784596562",
       "title": "Forward Deployed Software Engineer",
       "url": "https://jobs.ashbyhq.com/felicity/99ab4a4f-c219-42f9-9c1b-cf832634cd46/application?embed=true"
+    },
+    "simplify:felix magazine::simplify-8ea8d323-6e8b-4380-b4c1-2367ba88c40f": {
+      "company": "Felix Magazine",
+      "first_seen": "2026-08-12T06:42:47+00:00",
+      "posted_at": "1786514758",
+      "title": "Web Developer/Programmer Intern",
+      "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/89098193"
+    },
+    "simplify:felix magazine::simplify-a51d3e95-42ac-4e2b-88ba-5f6d2c3c2595": {
+      "company": "Felix Magazine",
+      "first_seen": "2026-08-12T06:42:47+00:00",
+      "posted_at": "1786514758",
+      "title": "Web Developer/Programmer Intern",
+      "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83337884"
+    },
+    "simplify:felix magazine::simplify-e9c6fbb2-27a0-4da8-bd66-1d4be992ae95": {
+      "company": "Felix Magazine",
+      "first_seen": "2026-08-12T06:42:47+00:00",
+      "posted_at": "1786514758",
+      "title": "Web Developer/Programmer Intern",
+      "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967"
     },
     "simplify:fidelity investments::simplify-0dbacb12-284c-42d8-861c-a66dd5210013": {
       "company": "Fidelity Investments",
@@ -20754,5 +20782,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-12T05:14:25+00:00"
+  "updated_at": "2026-08-12T06:42:47+00:00"
 }
