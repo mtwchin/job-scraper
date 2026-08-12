@@ -1,5 +1,5 @@
 {
-  "count": 2979,
+  "count": 2980,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1431,6 +1431,13 @@
       "posted_at": "1785110400",
       "title": "Systems Engineer 1",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Pleasanton/Systems-Engineer-I_31157404"
+    },
+    "simplify:abbott::simplify-656014ab-4409-4e99-a202-5cf3956fd828": {
+      "company": "Abbott",
+      "first_seen": "2026-08-12T11:23:03+00:00",
+      "posted_at": "1786060800",
+      "title": "Associate Software Engineer - Multiple Teams",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107-1"
     },
     "simplify:abbvie::simplify-af31d257-e826-465a-bc7a-4c04fb574032": {
       "company": "AbbVie",
@@ -20796,5 +20803,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-12T10:29:55+00:00"
+  "updated_at": "2026-08-12T11:23:03+00:00"
 }
