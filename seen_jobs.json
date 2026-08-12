@@ -1,5 +1,5 @@
 {
-  "count": 2981,
+  "count": 2984,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -18596,6 +18596,13 @@
       "title": "Security Software Engineer Project Intern - Product Security - 2026 Start",
       "url": "https://lifeattiktok.com/search/7600535181632457013"
     },
+    "simplify:tiktok::simplify-b7fadd8a-1f88-4b03-9fa5-8befef1a3a26": {
+      "company": "TikTok",
+      "first_seen": "2026-08-12T15:34:41+00:00",
+      "posted_at": "1786545102",
+      "title": "Backend Engineer Graduate - TikTok Vertical Recommendation Architecture - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7672532801686571317"
+    },
     "simplify:tiktok::simplify-b810a416-7ff9-4dd2-9bee-5b5b5ca5e317": {
       "company": "TikTok",
       "first_seen": "2026-08-03T08:03:09+00:00",
@@ -18672,6 +18679,13 @@
       "posted_at": "1781503952",
       "title": "Software Engineer - Data Arch - Data Ecosystem",
       "url": "https://lifeattiktok.com/search/7527441329384147208"
+    },
+    "simplify:tiktok::simplify-cbc9cae5-131c-4da5-9664-90601d74f6de": {
+      "company": "TikTok",
+      "first_seen": "2026-08-12T15:34:41+00:00",
+      "posted_at": "1786545323",
+      "title": "Software Engineer Graduate - Recommendation",
+      "url": "https://lifeattiktok.com/search/7672517471946000645"
     },
     "simplify:tiktok::simplify-d1768aee-f240-4353-b609-278b04785c95": {
       "company": "TikTok",
@@ -19120,6 +19134,13 @@
       "posted_at": "1786320000",
       "title": "Technology and Operations Intern Conversion - Data",
       "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship---Intern-Conversion-_R0117276"
+    },
+    "simplify:trustpilot::simplify-b28000f1-01d7-4052-8ad3-e73e8bf916cc": {
+      "company": "Trustpilot",
+      "first_seen": "2026-08-12T15:34:41+00:00",
+      "posted_at": "1781820620",
+      "title": "Software Engineer 1 - Trust Tech",
+      "url": "https://corporate.trustpilot.com/careers/job/8015788?gh_jid=8015788"
     },
     "simplify:truveta::simplify-3c8eb845-c4d5-43c4-961f-b8130c3fff8c": {
       "company": "Truveta",
@@ -20810,5 +20831,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-12T14:39:57+00:00"
+  "updated_at": "2026-08-12T15:34:41+00:00"
 }
