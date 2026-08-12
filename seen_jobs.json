@@ -1,5 +1,5 @@
 {
-  "count": 2969,
+  "count": 2973,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -6157,6 +6157,13 @@
       "title": "Applied AI Engineering Intern",
       "url": "https://jobs.ashbyhq.com/d-Matrix/93a6e6ee-3391-4437-8459-e28eb05eace7/application"
     },
+    "simplify:d.r. horton::simplify-66396035-7ef7-4576-a4e0-7487fd68616c": {
+      "company": "D.R. Horton",
+      "first_seen": "2026-08-12T05:14:25+00:00",
+      "posted_at": "1786505432",
+      "title": "Application Developer 1",
+      "url": "https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2603801"
+    },
     "simplify:d2l::simplify-4f5e74ec-73cb-4c30-887b-3f97e6fdacd6": {
       "company": "D2L",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -8424,6 +8431,13 @@
       "posted_at": "1776982107",
       "title": "Associate Software Engineer",
       "url": "https://jobs.ashbyhq.com/handshake/e871b11e-f6c2-4adf-aeb5-278eac4aa153/application"
+    },
+    "simplify:handshake::simplify-5ddd9ecb-ced2-4c9d-8d98-a39b73f03884": {
+      "company": "Handshake",
+      "first_seen": "2026-08-12T05:14:25+00:00",
+      "posted_at": "1786505631",
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8/application?embed=true"
     },
     "simplify:handshake::simplify-668d21b2-38bf-49f9-bbca-c2a01637e348": {
       "company": "Handshake",
@@ -17392,6 +17406,13 @@
       "title": "Energy Engineering Intern - Software Engineer Diagnostics - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/275805"
     },
+    "simplify:tesla::simplify-cd27aaf0-33b6-4d6a-950e-8acff7bbe6ce": {
+      "company": "Tesla",
+      "first_seen": "2026-08-12T05:14:25+00:00",
+      "posted_at": "1786505690",
+      "title": "Software Engineer Intern - AI Inference Co Design",
+      "url": "https://www.tesla.com/careers/search/job/279600"
+    },
     "simplify:tesla::simplify-cd64a5ea-e39f-46da-9968-2118ff190093": {
       "company": "Tesla",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -19065,6 +19086,13 @@
       "title": "Software Engineer - Person Matching",
       "url": "https://job-boards.greenhouse.io/truveta/jobs/5817190004"
     },
+    "simplify:truveta::simplify-fb0623ca-1ed7-4273-adcc-dda455705721": {
+      "company": "Truveta",
+      "first_seen": "2026-08-12T05:14:25+00:00",
+      "posted_at": "1786505534",
+      "title": "Software Engineer - Live Link",
+      "url": "https://job-boards.greenhouse.io/truveta/jobs/6140479004"
+    },
     "simplify:tsc::simplify-132809cd-e4dc-4693-be73-d743fb5539a9": {
       "company": "TSC",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -20726,5 +20754,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-12T03:29:34+00:00"
+  "updated_at": "2026-08-12T05:14:25+00:00"
 }
