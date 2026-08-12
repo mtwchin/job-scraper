@@ -1,5 +1,5 @@
 {
-  "count": 2977,
+  "count": 2979,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3363,6 +3363,13 @@
       "posted_at": "1771484925",
       "title": "Software Intern",
       "url": "https://jobs.smartrecruiters.com/barkbackLlc/90864007"
+    },
+    "simplify:barrios::simplify-248bd865-39b3-4dab-8ccf-6a8fed297dc7": {
+      "company": "Barrios",
+      "first_seen": "2026-08-12T10:29:55+00:00",
+      "posted_at": "1786140365",
+      "title": "Software Developer",
+      "url": "https://careers-barrios.icims.com/jobs/2840/job?mobile=true&needsRedirect=false"
     },
     "simplify:barry-wehmiller::simplify-b8f78492-15f1-4f82-89cd-020a8716caec": {
       "company": "Barry-Wehmiller",
@@ -14277,6 +14284,13 @@
       "title": "Graduate Full Stack Developer - Python and React",
       "url": "https://jobs.smartrecruiters.com/RadiusLimited/744000138873544"
     },
+    "simplify:radius limited::simplify-5c60a2fc-e21d-48d2-9b21-f326f7d56df9": {
+      "company": "Radius Limited",
+      "first_seen": "2026-08-12T10:29:55+00:00",
+      "posted_at": "1786525714",
+      "title": "Graduate Mobile Developer - Vehicle Telematics",
+      "url": "https://jobs.smartrecruiters.com/RadiusLimited/744000143047509"
+    },
     "simplify:radius limited::simplify-710d28c8-a99e-462f-a0a4-476f2191202e": {
       "company": "Radius Limited",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -20782,5 +20796,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-12T06:42:47+00:00"
+  "updated_at": "2026-08-12T10:29:55+00:00"
 }
