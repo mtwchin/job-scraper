@@ -1,5 +1,5 @@
 {
-  "count": 2980,
+  "count": 2981,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1438,6 +1438,13 @@
       "posted_at": "1786060800",
       "title": "Associate Software Engineer - Multiple Teams",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107-1"
+    },
+    "simplify:abbott::simplify-b6b3d7a4-ef99-4d90-b54e-4875edd95d12": {
+      "company": "Abbott",
+      "first_seen": "2026-08-12T14:39:57+00:00",
+      "posted_at": "1786060800",
+      "title": "Associate Software Engineer - Multiple Teams",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107"
     },
     "simplify:abbvie::simplify-af31d257-e826-465a-bc7a-4c04fb574032": {
       "company": "AbbVie",
@@ -20803,5 +20810,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-12T11:23:03+00:00"
+  "updated_at": "2026-08-12T14:39:57+00:00"
 }
