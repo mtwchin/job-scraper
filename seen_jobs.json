@@ -1,5 +1,5 @@
 {
-  "count": 3067,
+  "count": 3068,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -7759,6 +7759,13 @@
       "posted_at": "1785374564",
       "title": "Engineer Intern",
       "url": "https://jobs.ashbyhq.com/forus/82e10191-232e-4e8d-9c5e-cb82940cdfc7/application?embed=true"
+    },
+    "simplify:four hands::simplify-e2d23a33-2859-4e62-a5a1-9d2672ebeb4e": {
+      "company": "Four Hands",
+      "first_seen": "2026-08-13T13:45:40+00:00",
+      "posted_at": "1782426326",
+      "title": "Software Engineer New Grad",
+      "url": "https://job-boards.greenhouse.io/fourhands/jobs/4297618009"
     },
     "simplify:fox::simplify-1959d4a6-4b9c-4759-9763-980fe344f2a1": {
       "company": "FOX",
@@ -21412,5 +21419,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-13T09:46:43+00:00"
+  "updated_at": "2026-08-13T13:45:40+00:00"
 }
