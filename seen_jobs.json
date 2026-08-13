@@ -1,5 +1,5 @@
 {
-  "count": 3070,
+  "count": 3071,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -13997,6 +13997,13 @@
       "title": "Computer Science and Engineering Researcher",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Hussain--S_REQ_0000079781-2"
     },
+    "simplify:pennsylvania state university::simplify-8e8f913d-4263-4281-9cf3-3e083858cf58": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-08-13T20:59:10+00:00",
+      "posted_at": "1786579200",
+      "title": "Software Research and Development Engineer - Applied Research Laboratory",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Software-Research-and-Development-Engineer_REQ_0000080402-2"
+    },
     "simplify:pennsylvania state university::simplify-a2143740-4000-4433-9bea-36d3ecb4ca95": {
       "company": "Pennsylvania State University",
       "first_seen": "2026-08-04T13:17:51+00:00",
@@ -21433,5 +21440,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-13T15:40:25+00:00"
+  "updated_at": "2026-08-13T20:59:10+00:00"
 }
