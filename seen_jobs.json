@@ -1,5 +1,5 @@
 {
-  "count": 3064,
+  "count": 3067,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2705,6 +2705,13 @@
       "posted_at": "1781762728",
       "title": "Lab Software Engineer",
       "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Epic-Lab-Software-Engineer--NCG---Master-s-PhD-_R2622219"
+    },
+    "simplify:applied materials::simplify-495c218f-20df-48c5-baef-1726f57e1d01": {
+      "company": "Applied Materials",
+      "first_seen": "2026-08-13T09:46:43+00:00",
+      "posted_at": "1786579200",
+      "title": "Software Engineer New Grad - DevOps",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762"
     },
     "simplify:applied materials::simplify-fef6766c-bb0d-443d-a167-9d1ebfd1a98f": {
       "company": "Applied Materials",
@@ -7318,6 +7325,13 @@
       "posted_at": "1781082360",
       "title": "Generative AI Engineer - Python",
       "url": "https://job-boards.greenhouse.io/evolver/jobs/4092111009"
+    },
+    "simplify:exa labs::simplify-35fa2d9c-f299-480e-9fe2-b35b1808c7aa": {
+      "company": "Exa Labs",
+      "first_seen": "2026-08-13T09:46:43+00:00",
+      "posted_at": "1770707738",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16/application"
     },
     "simplify:exact sciences::simplify-c3f3ab90-4bb8-472e-8014-d03c8539633f": {
       "company": "Exact Sciences",
@@ -18981,6 +18995,13 @@
       "title": "Software Engineer Intern - Business Integrity",
       "url": "https://lifeattiktok.com/search/7668584916620527925"
     },
+    "simplify:tiktok::simplify-823dc91a-f895-469a-b516-b3be2e1894e7": {
+      "company": "TikTok",
+      "first_seen": "2026-08-13T09:46:43+00:00",
+      "posted_at": "1786612220",
+      "title": "Software Engineer Graduate - Recommendation Infrastructure",
+      "url": "https://lifeattiktok.com/search/7673284715407886597"
+    },
     "simplify:tiktok::simplify-82b0f083-f346-4f10-91bf-8d21a2b88675": {
       "company": "TikTok",
       "first_seen": "2026-08-13T02:36:27+00:00",
@@ -21391,5 +21412,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-13T07:14:16+00:00"
+  "updated_at": "2026-08-13T09:46:43+00:00"
 }
