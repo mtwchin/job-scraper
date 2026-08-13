@@ -1,5 +1,5 @@
 {
-  "count": 3068,
+  "count": 3069,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -14844,6 +14844,13 @@
       "title": "Fullstack Software Development Engineer 1 - Card",
       "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Arlington-Virginia-United-States/Fullstack-Software-Development-Engineer-I--Card_R_106624"
     },
+    "simplify:renesas electronics::simplify-1f8e4468-cfb9-4773-8eff-5deb0dfd3370": {
+      "company": "Renesas Electronics",
+      "first_seen": "2026-08-13T14:45:39+00:00",
+      "posted_at": "1786629875",
+      "title": "AI Compiler Engineer",
+      "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143317369"
+    },
     "simplify:reply::simplify-66505d20-4e58-4bba-99f2-daea4ab27848": {
       "company": "Reply",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -21419,5 +21426,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-13T13:45:40+00:00"
+  "updated_at": "2026-08-13T14:45:39+00:00"
 }
