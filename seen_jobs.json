@@ -1,5 +1,5 @@
 {
-  "count": 3033,
+  "count": 3064,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1516,12 +1516,33 @@
       "title": "Software Engineering Co-op",
       "url": "https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4/apply"
     },
+    "simplify:accenture::simplify-0e951ce4-39c4-46ef-ab06-3c7ed19fd9af": {
+      "company": "Accenture",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786601620",
+      "title": "Software Engineering Associate",
+      "url": "https://jobs.smartrecruiters.com/AccentureFederalServices/78253961"
+    },
     "simplify:accenture::simplify-2fae2ca8-33da-4c81-80c9-12c6ffc8737b": {
       "company": "Accenture",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1778278716",
       "title": "Software Engineering Analyst",
       "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4599640006"
+    },
+    "simplify:accenture::simplify-44352150-beb1-4841-b767-18cd1d30802a": {
+      "company": "Accenture",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786601623",
+      "title": "Entry Level SAP Development Associate",
+      "url": "https://jobs.smartrecruiters.com/AccentureFederalServices/78366098"
+    },
+    "simplify:accenture::simplify-6052a761-2d5c-44a7-a666-f6975df25f03": {
+      "company": "Accenture",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786601623",
+      "title": "Entry Level Java Developer Associate",
+      "url": "https://jobs.smartrecruiters.com/AccentureFederalServices/78366121"
     },
     "simplify:accenture::simplify-8b5a3466-7c18-4d0d-8bd5-93107823d12e": {
       "company": "Accenture",
@@ -1592,6 +1613,27 @@
       "posted_at": "1783376577",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/ada18/jobs/5180710007"
+    },
+    "simplify:adidev technologies inc::simplify-2bba0fd8-a19f-4bc4-be98-e3237e625a1a": {
+      "company": "Adidev Technologies Inc",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786602153",
+      "title": "Android Developer",
+      "url": "https://adidev.bamboohr.com/careers/27/"
+    },
+    "simplify:adidev technologies inc::simplify-aa257799-08d3-405b-b906-58d61f43af09": {
+      "company": "Adidev Technologies Inc",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786602153",
+      "title": "Mobile Developer - iOS/Android",
+      "url": "https://adidev.bamboohr.com/careers/44/"
+    },
+    "simplify:adidev technologies inc::simplify-ddbc3338-08db-4c93-9c6d-d0a88e19b684": {
+      "company": "Adidev Technologies Inc",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786602150",
+      "title": "iOS Developer",
+      "url": "https://adidev.bamboohr.com/careers/34/"
     },
     "simplify:adobe::simplify-404ba643-445d-4434-b04c-20a6d12d4d18": {
       "company": "Adobe",
@@ -2467,6 +2509,13 @@
       "posted_at": "1780005932",
       "title": "Systems Architect Apprentice",
       "url": "https://careers-apogeeusa.icims.com/jobs/1448/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:apollo mission critical engineering::simplify-7fa184d8-1d6e-474e-afac-7571cf147fe7": {
+      "company": "Apollo Mission Critical Engineering",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786602116",
+      "title": "Software Engineering Associate - Software Development Associate",
+      "url": "https://apollomce.bamboohr.com/careers/96/"
     },
     "simplify:appian::simplify-31b95070-c5a6-4523-b7d4-54fbaa062677": {
       "company": "Appian",
@@ -4715,6 +4764,13 @@
       "title": "ntern, Engineer Software",
       "url": "https://careers-calamp.icims.com/jobs/4326/intern%2c-engineer-software---carlsbad%2c-ca-%28summer-2026%29/job"
     },
+    "simplify:calpion/plutus health::simplify-88a8e50a-7fc5-4f13-97c6-fe8a2e9db33c": {
+      "company": "Calpion/Plutus Health",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786602186",
+      "title": "AI Engineering Intern - Python & Agentic AI",
+      "url": "https://calpionplutus.bamboohr.com/careers/310/"
+    },
     "simplify:calstart::simplify-50713986-aff9-40ea-98ea-3a751c83b80f": {
       "company": "CALSTART",
       "first_seen": "2026-07-30T22:42:25+00:00",
@@ -5414,6 +5470,13 @@
       "posted_at": "1784764800",
       "title": "Applications Development Intermediate Programmer Analyst",
       "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Apps-Dev-Intmd-Programmer-Analyst_26980088"
+    },
+    "simplify:citizens financial group::simplify-85a7cdca-c4d0-43be-a530-3d9273287d69": {
+      "company": "Citizens Financial Group",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786601290",
+      "title": "AI Software Engineer 1",
+      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48633"
     },
     "simplify:city and county of san francisco::simplify-1ad5e34b-7418-46fe-9725-948719ed2572": {
       "company": "City and County of San Francisco",
@@ -6738,6 +6801,27 @@
       "title": "Product Engineer",
       "url": "https://jobs.ashbyhq.com/dome-systems-inc/573303b2-efe1-409d-bf58-968a6a2f82a0/application?embed=true"
     },
+    "simplify:domino's::simplify-9e297b16-0d19-47d0-8b0f-d0fe1e5b9ed0": {
+      "company": "Domino's",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786602820",
+      "title": "Customer Service Representative",
+      "url": "https://jobs.smartrecruiters.com/Dominos/744000142481704"
+    },
+    "simplify:domino's::simplify-d6f1c4bc-48d4-4d20-83d8-238e6d7afed9": {
+      "company": "Domino's",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786603245",
+      "title": "Delivery Driver",
+      "url": "https://jobs.smartrecruiters.com/Dominos/744000141160129"
+    },
+    "simplify:domino's::simplify-e38bc325-348a-4c2d-83db-ea52520367fc": {
+      "company": "Domino's",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786602939",
+      "title": "Assistant Manager",
+      "url": "https://jobs.smartrecruiters.com/Dominos/744000142338987"
+    },
     "simplify:door::simplify-ce8bff22-7655-468f-a91c-1225212c20b2": {
       "company": "DOOR",
       "first_seen": "2026-07-29T15:21:42+00:00",
@@ -6793,6 +6877,27 @@
       "posted_at": "1783548395",
       "title": "Technology Analyst",
       "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214155"
+    },
+    "simplify:dunn solutions group::simplify-067a35d4-40e1-4bbd-9e22-956a8a7ec3ad": {
+      "company": "Dunn Solutions Group",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786601533",
+      "title": "Java Developer",
+      "url": "https://jobs.smartrecruiters.com/DunnSolutionsGroup/88657168"
+    },
+    "simplify:dunn solutions group::simplify-919e3428-c805-4f21-9770-29a36d2ce524": {
+      "company": "Dunn Solutions Group",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786601535",
+      "title": "Java Developer",
+      "url": "https://jobs.smartrecruiters.com/DunnSolutionsGroup/88312248"
+    },
+    "simplify:dunn solutions group::simplify-a812bd9c-30db-4395-9348-62781c4a750d": {
+      "company": "Dunn Solutions Group",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786601535",
+      "title": "Java Developer",
+      "url": "https://jobs.smartrecruiters.com/DunnSolutionsGroup/88657218"
     },
     "simplify:duracell::simplify-7ab1c033-3124-4e15-9c57-6e49cbba7061": {
       "company": "Duracell",
@@ -7024,6 +7129,13 @@
       "posted_at": "1780006165",
       "title": "Junior Software Engineer - Full-Stack",
       "url": "https://job-boards.greenhouse.io/epickids/jobs/7751646003"
+    },
+    "simplify:epos now group::simplify-670d458a-456d-4e42-8032-bcf187bd3649": {
+      "company": "Epos Now Group",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786602082",
+      "title": "Software Engineer 3",
+      "url": "https://eposnowgroup.bamboohr.com/careers/567/"
     },
     "simplify:equifax::simplify-3e140e24-914a-47bb-907d-a78fd0345f62": {
       "company": "Equifax",
@@ -9139,6 +9251,13 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101"
     },
+    "simplify:inbulks::simplify-2528109f-019c-4732-ac00-12596861f771": {
+      "company": "Inbulks",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786601616",
+      "title": "Junior Front End Developer Intern",
+      "url": "https://jobs.smartrecruiters.com/InbulksCorp/743999750129753"
+    },
     "simplify:incident iq::simplify-8b2a46d9-a5b0-4325-976b-4c70e9da4077": {
       "company": "Incident IQ",
       "first_seen": "2026-08-04T00:17:51+00:00",
@@ -10923,6 +11042,55 @@
       "posted_at": "1785196800",
       "title": "Associate Full Stack Software Engineer",
       "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Associate-Full-Stack-Software-Engineer_JR26071165-1"
+    },
+    "simplify:mapjects::simplify-04378827-0725-43e5-b38f-7b12ca4660a4": {
+      "company": "Mapjects",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786601556",
+      "title": "Java Developer Intern - Web Application Developer",
+      "url": "https://jobs.smartrecruiters.com/Mapjectscom/78913939"
+    },
+    "simplify:mapjects::simplify-0a501bc8-1c64-467d-8c3e-ec34107b884b": {
+      "company": "Mapjects",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786601553",
+      "title": "C# ASP.NET C Intern",
+      "url": "https://jobs.smartrecruiters.com/Mapjectscom/79400823"
+    },
+    "simplify:mapjects::simplify-7237aac6-07c6-44da-8d1b-f031ee48fcd5": {
+      "company": "Mapjects",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786601556",
+      "title": "Java Developer Intern - Salary",
+      "url": "https://jobs.smartrecruiters.com/Mapjectscom/79183538"
+    },
+    "simplify:mapjects::simplify-8ee66953-a13e-4b26-89fb-1e17b87d31ad": {
+      "company": "Mapjects",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786601556",
+      "title": "PHP or Drupal Web Developer Intern",
+      "url": "https://jobs.smartrecruiters.com/Mapjectscom/79253426"
+    },
+    "simplify:mapjects::simplify-be903e86-7c58-4c0b-bec4-97d427883ebc": {
+      "company": "Mapjects",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786601556",
+      "title": "PHP Developer Intern",
+      "url": "https://jobs.smartrecruiters.com/Mapjectscom/78665247"
+    },
+    "simplify:mapjects::simplify-cefd640c-a0aa-43c8-8f45-1b6754492f1d": {
+      "company": "Mapjects",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786601557",
+      "title": "Oracle Database Administrator Intern",
+      "url": "https://jobs.smartrecruiters.com/Mapjectscom/79183345"
+    },
+    "simplify:mapjects::simplify-f2350e1c-6721-41fa-a87c-2880eaf10676": {
+      "company": "Mapjects",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786601549",
+      "title": "Java Developer Intern",
+      "url": "https://jobs.smartrecruiters.com/Mapjectscom/79770294"
     },
     "simplify:maritz::simplify-e5dcf151-a718-4c4b-9591-5dfe88d744dc": {
       "company": "Maritz",
@@ -13045,6 +13213,13 @@
       "title": "Software Engineer - Cooperative AI",
       "url": "https://jobs.ashbyhq.com/openai/7613aca3-9dd8-41cd-b114-06ef4de967a9/application"
     },
+    "simplify:options technology::simplify-03d4d191-5eff-4bbf-a18a-a070843036a0": {
+      "company": "Options Technology",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786602280",
+      "title": "PHP/SQL Web Developer - Options Market Data Team",
+      "url": "https://optionsit.bamboohr.com/careers/121/"
+    },
     "simplify:optiver::simplify-1e2b7529-adf7-49ab-8d4a-8979fab4e3e9": {
       "company": "Optiver",
       "first_seen": "2026-07-01T22:57:08+00:00",
@@ -14270,6 +14445,13 @@
       "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/prelim/62449307-e366-4c92-8d22-9a9f8ec11afa/application?embed=true"
     },
+    "simplify:presidency solutions::simplify-1e5ab0ea-1864-4dac-b3a0-480ec705e25b": {
+      "company": "Presidency Solutions",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786601041",
+      "title": "Software Developer",
+      "url": "https://jobs.smartrecruiters.com/PresidencySolutions1/82551703"
+    },
     "simplify:probook::simplify-78ed4c00-f810-4174-be06-0382cf25176f": {
       "company": "Probook",
       "first_seen": "2026-08-01T11:50:42+00:00",
@@ -15138,6 +15320,13 @@
       "title": "Software Engineer",
       "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Software-Developer_R-0000181003-1"
     },
+    "simplify:rrs group::simplify-e0791588-2fd5-4867-8c40-2b4af827a16d": {
+      "company": "RRS Group",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786601104",
+      "title": "Software Engineer Intern - Placement Year",
+      "url": "https://jobs.smartrecruiters.com/RRSGroup/744000142513209"
+    },
     "simplify:rsm::simplify-01bec32c-d5a0-4a23-b905-fe2e3cef04b0": {
       "company": "RSM",
       "first_seen": "2026-07-27T23:47:06+00:00",
@@ -15978,6 +16167,13 @@
       "title": "Engineering Analyst",
       "url": "https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Engineering-Analyst_R-010805"
     },
+    "simplify:selector software::simplify-ea47b81d-38b4-4c79-b7a8-d4b98cd222bc": {
+      "company": "Selector Software",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786602304",
+      "title": "Software Engineer",
+      "url": "https://selectorsoftware.bamboohr.com/careers/193/"
+    },
     "simplify:semtech::simplify-6484f1f6-5a5d-4015-959c-f018f4567aaa": {
       "company": "Semtech",
       "first_seen": "2026-07-21T10:51:40+00:00",
@@ -16138,6 +16334,13 @@
       "posted_at": "1779026876",
       "title": "Platform Technologies Language Design Intern",
       "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Platform-Technologies-Language-Design-Intern_R-101183"
+    },
+    "simplify:sigla::simplify-2d60016e-8a05-4302-bd2c-db0a3f11fe99": {
+      "company": "Sigla",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786601060",
+      "title": "Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/SiglaLLC/743999662580203"
     },
     "simplify:sigma computing::simplify-f0c09f25-6461-4b5e-8bce-950aa917c086": {
       "company": "Sigma Computing",
@@ -16684,6 +16887,20 @@
       "posted_at": "1785450179",
       "title": "Technical Intern",
       "url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5199580007"
+    },
+    "simplify:specter aerospace::simplify-3bb608c1-4704-4fe1-a877-eaf540f90cc1": {
+      "company": "Specter Aerospace",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786602193",
+      "title": "Full Stack Developer Co-op",
+      "url": "https://specteraerospace.bamboohr.com/careers/122/"
+    },
+    "simplify:specter aerospace::simplify-5cbd2b0f-806d-42d0-91fe-637455fe40c0": {
+      "company": "Specter Aerospace",
+      "first_seen": "2026-08-13T07:14:16+00:00",
+      "posted_at": "1786602184",
+      "title": "Front-End Software Developer Co-op",
+      "url": "https://specteraerospace.bamboohr.com/careers/120/"
     },
     "simplify:spreeai ::simplify-0b289d87-b4b1-4056-8003-0a76181dcb52": {
       "company": "SpreeAI ",
@@ -21174,5 +21391,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-13T02:36:28+00:00"
+  "updated_at": "2026-08-13T07:14:16+00:00"
 }
