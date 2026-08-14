@@ -1,5 +1,5 @@
 {
-  "count": 3129,
+  "count": 3132,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -6353,6 +6353,13 @@
       "title": "Developer Intern",
       "url": "https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4221846009"
     },
+    "simplify:cvs health::simplify-5a476d63-cb12-4e98-8fd7-35895108a039": {
+      "company": "CVS Health",
+      "first_seen": "2026-08-14T18:24:15+00:00",
+      "posted_at": "1786665600",
+      "title": "Associate Software Engineer",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Farmers-Branch/Associate-Software-Development-Engineer_R1006749"
+    },
     "simplify:cwill::simplify-a793a502-be13-4c61-a978-d990f3122ad0": {
       "company": "CWILL",
       "first_seen": "2026-08-11T02:36:54+00:00",
@@ -9117,6 +9124,13 @@
       "posted_at": "1782857415",
       "title": "Application Engineer 1",
       "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/151340"
+    },
+    "simplify:honeywell::simplify-a3a958d6-27dc-4ec5-9de4-764a76e85624": {
+      "company": "Honeywell",
+      "first_seen": "2026-08-14T18:24:15+00:00",
+      "posted_at": "1786727663",
+      "title": "Software Engineer 1",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155664"
     },
     "simplify:honeywell::simplify-b529b450-7bf3-46fa-8dc5-19bb85f8310f": {
       "company": "Honeywell",
@@ -14773,6 +14787,13 @@
       "posted_at": "1786601041",
       "title": "Software Developer",
       "url": "https://jobs.smartrecruiters.com/PresidencySolutions1/82551703"
+    },
+    "simplify:prime healthcare::simplify-ae8e3836-b9cd-4d37-a329-26a7775fbcb8": {
+      "company": "Prime Healthcare",
+      "first_seen": "2026-08-14T18:24:15+00:00",
+      "posted_at": "1782540657",
+      "title": "Epic Associate Analyst",
+      "url": "https://careers-primehealthcare.icims.com/jobs/210062/job?mobile=true&needsRedirect=false"
     },
     "simplify:probook::simplify-78ed4c00-f810-4174-be06-0382cf25176f": {
       "company": "Probook",
@@ -21846,5 +21867,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-14T10:17:14+00:00"
+  "updated_at": "2026-08-14T18:24:15+00:00"
 }
