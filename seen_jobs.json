@@ -1,5 +1,5 @@
 {
-  "count": 3118,
+  "count": 3125,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -5884,6 +5884,27 @@
       "title": "Full-stack Intern",
       "url": "https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9/application?embed=true"
     },
+    "simplify:composio::simplify-4c0cebd4-5e15-474e-8493-34860927bdfb": {
+      "company": "Composio",
+      "first_seen": "2026-08-14T06:42:06+00:00",
+      "posted_at": "1786687014",
+      "title": "Fullstack Engineer Intern - Product Team",
+      "url": "https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d/application?embed=true"
+    },
+    "simplify:composio::simplify-ceae354f-7659-436b-88e0-759362464965": {
+      "company": "Composio",
+      "first_seen": "2026-08-14T06:42:06+00:00",
+      "posted_at": "1786687014",
+      "title": "Fullstack Engineer New Grad - Product Team",
+      "url": "https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491/application?embed=true"
+    },
+    "simplify:composio::simplify-e10bdd63-43bd-4d2a-ac7b-f65c4b8b35de": {
+      "company": "Composio",
+      "first_seen": "2026-08-14T06:42:06+00:00",
+      "posted_at": "1786687014",
+      "title": "Forward Deployed Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/composio/f83a19a0-8188-4100-9dd5-b259efb342e6/application?embed=true"
+    },
     "simplify:comtech::simplify-126d88e3-b139-4f05-a819-7867cd679fde": {
       "company": "Comtech",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -11162,6 +11183,20 @@
       "title": "Technology Development Program",
       "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program_R88051"
     },
+    "simplify:m.c. dean::simplify-94b1d3c4-d5f6-4c9b-a17c-8cc97a1339c6": {
+      "company": "M.C. Dean",
+      "first_seen": "2026-08-14T06:42:06+00:00",
+      "posted_at": "1786687099",
+      "title": "Engineer 1 New Grad - Cis",
+      "url": "https://careers.mcdean.com/jobs/32119?icims=1"
+    },
+    "simplify:m.c. dean::simplify-d1fb6d0c-1130-4775-b71b-7abf9d9f4e0a": {
+      "company": "M.C. Dean",
+      "first_seen": "2026-08-14T06:42:06+00:00",
+      "posted_at": "1786687084",
+      "title": "Engineer 1 - New College Graduate",
+      "url": "https://careers.mcdean.com/jobs/32350?icims=1"
+    },
     "simplify:magna::simplify-14d33eac-9588-4ef2-aad6-4f65465e5bc0": {
       "company": "Magna",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -12176,6 +12211,13 @@
       "posted_at": "1784678400",
       "title": "Software Engineer",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer_R66351"
+    },
+    "simplify:mpr associates::simplify-3cef95cf-9ef2-4c94-9300-e032d2b20baa": {
+      "company": "MPR Associates",
+      "first_seen": "2026-08-14T06:42:06+00:00",
+      "posted_at": "1786686966",
+      "title": "Engineer Co-op - Multiple Teams",
+      "url": "https://careers-mpr.icims.com/jobs/1524/job?mobile=true&needsRedirect=false"
     },
     "simplify:mthree::simplify-5034a0e7-592a-458f-b515-579d804d7bef": {
       "company": "mthree",
@@ -20437,6 +20479,13 @@
       "title": "Research Assistant",
       "url": "https://usnh.wd5.myworkdayjobs.com/Careers/job/University-of-New-Hampshire--Main-Campus/Research-Assistant_JR5245"
     },
+    "simplify:urban science::simplify-8a7b2d5f-aeee-4b70-a908-f66aa938f067": {
+      "company": "Urban Science",
+      "first_seen": "2026-08-14T06:42:06+00:00",
+      "posted_at": "1786686951",
+      "title": "Associate Software Engineer - Serviceview",
+      "url": "https://careers-urbanscience.icims.com/jobs/5181/job?mobile=true&needsRedirect=false"
+    },
     "simplify:usm business systems::simplify-10fd1f55-da69-47fe-9aab-74af4f789977": {
       "company": "USM Business Systems",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -21769,5 +21818,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-14T05:13:27+00:00"
+  "updated_at": "2026-08-14T06:42:06+00:00"
 }
