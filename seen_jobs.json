@@ -1,5 +1,5 @@
 {
-  "count": 3126,
+  "count": 3129,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -19170,6 +19170,13 @@
       "title": "AI Software Engineer Intern - Transaction Platform",
       "url": "https://lifeattiktok.com/search/7646621925436131637"
     },
+    "simplify:tiktok::simplify-47a11f8e-c096-4cad-ba59-7807a675d2c7": {
+      "company": "TikTok",
+      "first_seen": "2026-08-14T10:17:14+00:00",
+      "posted_at": "1786698611",
+      "title": "Software Engineer Graduate - Media Engine",
+      "url": "https://lifeattiktok.com/search/7673667938889009461"
+    },
     "simplify:tiktok::simplify-492953a8-9863-41ff-b149-9e8fa3081af9": {
       "company": "TikTok",
       "first_seen": "2026-08-03T08:03:09+00:00",
@@ -19478,6 +19485,13 @@
       "title": "Software Engineer Intern",
       "url": "https://lifeattiktok.com/search/7668675500744837381"
     },
+    "simplify:tiktok::simplify-99d4157b-10cb-42d0-88ff-db290cc271f9": {
+      "company": "TikTok",
+      "first_seen": "2026-08-14T10:17:14+00:00",
+      "posted_at": "1786698606",
+      "title": "Backend Software Engineer Graduate - Creation Platform",
+      "url": "https://lifeattiktok.com/search/7673669198965278981"
+    },
     "simplify:tiktok::simplify-9fc08ecc-c555-4f84-aeef-984cfa3686f1": {
       "company": "TikTok",
       "first_seen": "2026-08-03T08:03:09+00:00",
@@ -19498,6 +19512,13 @@
       "posted_at": "1785737702",
       "title": "Software Engineer Intern",
       "url": "https://lifeattiktok.com/search/7667935738376227077"
+    },
+    "simplify:tiktok::simplify-a5d3459d-3d46-44dd-8e4e-693ca7320203": {
+      "company": "TikTok",
+      "first_seen": "2026-08-14T10:17:14+00:00",
+      "posted_at": "1786698610",
+      "title": "Mobile Software Engineer Intern - Global E-Commerce",
+      "url": "https://lifeattiktok.com/search/7673663349758675205"
     },
     "simplify:tiktok::simplify-ac124cf6-870e-4078-b871-ec6c45459919": {
       "company": "TikTok",
@@ -21825,5 +21846,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-14T08:01:51+00:00"
+  "updated_at": "2026-08-14T10:17:14+00:00"
 }
