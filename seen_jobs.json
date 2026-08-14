@@ -1,5 +1,5 @@
 {
-  "count": 3136,
+  "count": 3138,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -166,6 +166,20 @@
       "first_seen": "2026-06-28T23:46:38+00:00",
       "title": "2027 Early Career Software Engineer ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007"
+    },
+    "applied intuition::6971d533-1536-448b-96b8-544ad5383f44": {
+      "company": "Applied Intuition",
+      "first_seen": "2026-08-14T22:01:38+00:00",
+      "posted_at": "2026-08-14T21:57:00.558+00:00",
+      "title": "Embedded Software Engineer - New Grad 2027",
+      "url": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44"
+    },
+    "applied intuition::a837cbd6-9fe4-4d74-a2dc-84f602c40694": {
+      "company": "Applied Intuition",
+      "first_seen": "2026-08-14T22:01:38+00:00",
+      "posted_at": "2026-08-14T21:57:14.117+00:00",
+      "title": "Software Engineer - New Grad (December 2026)",
+      "url": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694"
     },
     "asana::7766762": {
       "company": "Asana",
@@ -21895,5 +21909,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-14T20:59:35+00:00"
+  "updated_at": "2026-08-14T22:01:38+00:00"
 }
