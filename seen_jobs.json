@@ -1,5 +1,5 @@
 {
-  "count": 3125,
+  "count": 3126,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3636,6 +3636,13 @@
       "posted_at": "1775052369",
       "title": "Software Engineer 1 Intern",
       "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004645"
+    },
+    "simplify:berkshire hathaway guard insurance companies::simplify-4b22d036-3d08-41c6-8c11-48f020f7c545": {
+      "company": "Berkshire Hathaway GUARD Insurance Companies",
+      "first_seen": "2026-08-14T08:01:51+00:00",
+      "posted_at": "1786690075",
+      "title": "Full Stack Developer",
+      "url": "https://careers-guard.icims.com/jobs/5913/job?mobile=true&needsRedirect=false"
     },
     "simplify:best buy::simplify-82831392-5ebf-4056-a93f-a94a90a417be": {
       "company": "Best Buy",
@@ -21818,5 +21825,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-14T06:42:06+00:00"
+  "updated_at": "2026-08-14T08:01:51+00:00"
 }
