@@ -1,5 +1,5 @@
 {
-  "count": 3135,
+  "count": 3136,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -264,6 +264,13 @@
       "posted_at": "Posted Today",
       "title": "Intern, Full Stack Software Engineer - Fall 2026",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Fall-2026_R246990"
+    },
+    "cisco::Dveloppeur-logiciels-I---temps-plein----Canada-Software-Developer-I--full-Time----United-States_2001076": {
+      "company": "Cisco",
+      "first_seen": "2026-08-14T20:59:35+00:00",
+      "posted_at": "Posted Today",
+      "title": "D\u00e9veloppeur logiciels I (\u00e0 temps plein) - Canada/Software Developer I (Full Time) \u2013 Canada",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Dveloppeur-logiciels-I---temps-plein----Canada-Software-Developer-I--full-Time----United-States_2001076"
     },
     "cisco::Junior-C---Software-Engineer---Serbia---ETR_2016195": {
       "company": "Cisco",
@@ -21888,5 +21895,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-14T19:25:02+00:00"
+  "updated_at": "2026-08-14T20:59:35+00:00"
 }
