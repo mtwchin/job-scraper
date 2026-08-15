@@ -1,5 +1,5 @@
 {
-  "count": 3160,
+  "count": 3161,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -11043,6 +11043,13 @@
       "title": "Software Engineer 1",
       "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003523"
     },
+    "simplify:lennar::simplify-8c04a4bb-6783-42f9-a0bb-84bb48bd65c4": {
+      "company": "Lennar",
+      "first_seen": "2026-08-15T00:24:31+00:00",
+      "posted_at": "1786579200",
+      "title": "Software Engineer 1",
+      "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Miami-FL-Job-Posting-Location/Software-Engineer-I_R26_0000003608"
+    },
     "simplify:lennox international::simplify-d565c190-51ef-4bd5-af51-6c97526c1a1a": {
       "company": "Lennox International",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -22063,5 +22070,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-14T22:52:10+00:00"
+  "updated_at": "2026-08-15T00:24:31+00:00"
 }
