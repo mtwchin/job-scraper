@@ -1,5 +1,5 @@
 {
-  "count": 3193,
+  "count": 3194,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3762,6 +3762,13 @@
       "posted_at": "1782349812",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895/application"
+    },
+    "simplify:bjc healthcare::simplify-755afd21-51a6-4a39-994c-35c6a3c2b71d": {
+      "company": "BJC HealthCare",
+      "first_seen": "2026-08-15T22:44:52+00:00",
+      "posted_at": "1786831817",
+      "title": "EHR Application Analyst 1 - Epic Security",
+      "url": "https://jobs.bjc.org/jobs/114939?icims=1"
     },
     "simplify:black cape::simplify-19c7a628-f5e1-4852-ae69-dc9b1519d3c3": {
       "company": "Black Cape",
@@ -22294,5 +22301,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-15T18:59:47+00:00"
+  "updated_at": "2026-08-15T22:44:52+00:00"
 }
