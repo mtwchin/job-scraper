@@ -1,5 +1,5 @@
 {
-  "count": 3188,
+  "count": 3190,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -16230,6 +16230,13 @@
       "title": "Conversion Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/XMLNAME-2027-Conversion-Software-Engineer-I--Onsite-_01858534"
     },
+    "simplify:rtx::simplify-87423fa3-7d45-408d-836d-dc0f9d316d0c": {
+      "company": "RTX",
+      "first_seen": "2026-08-15T09:48:56+00:00",
+      "posted_at": "1786665600",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385"
+    },
     "simplify:rtx::simplify-89bfab9f-d821-4e96-830a-ae4a6af6f4c5": {
       "company": "RTX",
       "first_seen": "2026-07-30T16:11:31+00:00",
@@ -16313,6 +16320,13 @@
       "posted_at": "1782943591",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01856767"
+    },
+    "simplify:rtx::simplify-aa0ebb73-f646-4f78-ac9d-900e2925f3e9": {
+      "company": "RTX",
+      "first_seen": "2026-08-15T09:48:56+00:00",
+      "posted_at": "1786665600",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392"
     },
     "simplify:rtx::simplify-acab3458-c681-419e-821c-031f7b12b082": {
       "company": "RTX",
@@ -22259,5 +22273,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-15T07:46:58+00:00"
+  "updated_at": "2026-08-15T09:48:56+00:00"
 }
