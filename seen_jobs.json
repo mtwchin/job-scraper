@@ -1,5 +1,5 @@
 {
-  "count": 3194,
+  "count": 3195,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -15446,6 +15446,13 @@
       "title": "AI Compiler Engineer",
       "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143317369"
     },
+    "simplify:replit::simplify-7e21b76f-fae1-4564-9f64-456d019b46b2": {
+      "company": "Replit",
+      "first_seen": "2026-08-15T23:19:59+00:00",
+      "posted_at": "1786833496",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1/application?embed=true"
+    },
     "simplify:reply::simplify-66505d20-4e58-4bba-99f2-daea4ab27848": {
       "company": "Reply",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -22301,5 +22308,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-15T22:44:52+00:00"
+  "updated_at": "2026-08-15T23:19:59+00:00"
 }
