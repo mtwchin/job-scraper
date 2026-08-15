@@ -1,5 +1,5 @@
 {
-  "count": 3180,
+  "count": 3183,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2194,6 +2194,13 @@
       "posted_at": "1780524597",
       "title": "Software Development Intern",
       "url": "https://apply.workable.com/altom-transport/j/8536165C7B/apply"
+    },
+    "simplify:amazon::simplify-00e9ac82-474b-46a0-bc46-aa9e240f3efd": {
+      "company": "Amazon",
+      "first_seen": "2026-08-15T04:58:35+00:00",
+      "posted_at": "1786767902",
+      "title": "Software Development Engineer - Early Career",
+      "url": "https://amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026"
     },
     "simplify:amazon::simplify-12b63c6b-1151-4084-a798-a22c27fd6f2c": {
       "company": "Amazon",
@@ -8760,6 +8767,20 @@
       "posted_at": "1782742023",
       "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
       "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978"
+    },
+    "simplify:goldman sachs::simplify-43a5374e-0e70-4dc9-82b0-687b54e8c5da": {
+      "company": "Goldman Sachs",
+      "first_seen": "2026-08-15T04:58:35+00:00",
+      "posted_at": "1786767954",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171570?type=students"
+    },
+    "simplify:goldman sachs::simplify-a84b5ca0-5e89-4893-97cb-4be5aead281c": {
+      "company": "Goldman Sachs",
+      "first_seen": "2026-08-15T04:58:35+00:00",
+      "posted_at": "1786767953",
+      "title": "Engineering New Analyst",
+      "url": "https://higher.gs.com/roles/171568?type=students"
     },
     "simplify:goldman sachs::simplify-ad57e8fa-d0bd-4c63-9809-6141b7dda000": {
       "company": "Goldman Sachs",
@@ -22203,5 +22224,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-15T02:44:25+00:00"
+  "updated_at": "2026-08-15T04:58:35+00:00"
 }
