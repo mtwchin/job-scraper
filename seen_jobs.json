@@ -1,5 +1,5 @@
 {
-  "count": 3161,
+  "count": 3179,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2741,6 +2741,13 @@
       "title": "Software Engineer - Applied Machine Learning - IS&T",
       "url": "https://jobs.apple.com/en-us/details/200677645"
     },
+    "simplify:applied intuition::simplify-ee50e885-5709-43c5-adf1-bd280a6e8786": {
+      "company": "Applied Intuition",
+      "first_seen": "2026-08-15T01:54:42+00:00",
+      "posted_at": "1786754505",
+      "title": "Software Engineer New Grad - December 2026",
+      "url": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694/application?embed=true"
+    },
     "simplify:applied materials::simplify-01962f7a-42a4-45ab-97e2-65d2c97ee12c": {
       "company": "Applied Materials",
       "first_seen": "2026-08-04T00:17:51+00:00",
@@ -4288,6 +4295,13 @@
       "title": "Backend Software Engineer Graduate - Platform",
       "url": "https://jobs.bytedance.com/en/position/7667267464923171077/detail"
     },
+    "simplify:bytedance::simplify-80991915-38ed-48d7-b67d-20f3f7a7b84c": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-15T01:54:42+00:00",
+      "posted_at": "1786754410",
+      "title": "Software Engineer Intern - Traffic Infrastructure",
+      "url": "https://jobs.bytedance.com/en/position/7672626707586746629/detail"
+    },
     "simplify:bytedance::simplify-84ce65c5-ee9c-4539-92d2-5d28da82832e": {
       "company": "ByteDance",
       "first_seen": "2026-07-22T06:13:37+00:00",
@@ -4575,6 +4589,13 @@
       "title": "Research Scientist Graduate - Distributed NoSQL Database Systems",
       "url": "https://jobs.bytedance.com/en/position/7668365756950137141/detail"
     },
+    "simplify:bytedance::simplify-ee8a3af2-214e-482e-9a90-3dd327c6bdf1": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-15T01:54:42+00:00",
+      "posted_at": "1786754410",
+      "title": "Software Engineer Intern - Global Traffic Architecture",
+      "url": "https://jobs.bytedance.com/en/position/7672557061679483189/detail"
+    },
     "simplify:bytedance::simplify-f023b068-443c-4a3f-a999-a2a15a39b368": {
       "company": "ByteDance",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -4595,6 +4616,13 @@
       "posted_at": "1786401393",
       "title": "Software Engineer Graduate - AML-Engine-Orchestration - PhD",
       "url": "https://jobs.bytedance.com/en/position/7671160649137588485/detail"
+    },
+    "simplify:bytedance::simplify-f271bfa3-e723-416b-aad4-0a6cf6f4f19e": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-15T01:54:42+00:00",
+      "posted_at": "1786754411",
+      "title": "Software Engineer Intern - Global Payment Infra and SRE",
+      "url": "https://jobs.bytedance.com/en/position/7668315137242351925/detail"
     },
     "simplify:bytedance::simplify-f3007eae-7ae6-48d3-8e58-2c2ab54559dd": {
       "company": "ByteDance",
@@ -4945,6 +4973,13 @@
       "posted_at": "1786054286",
       "title": "Frontend Developer - Mobile",
       "url": "https://careers.capgemini.com/job/Dallas,-TX-Mobile-Front-end-developer-TX-75201/1424082933/?ats=successfactors"
+    },
+    "simplify:capital health::simplify-2ddddf54-3c3b-4af6-b8c2-5b755d594dc1": {
+      "company": "Capital Health",
+      "first_seen": "2026-08-15T01:54:44+00:00",
+      "posted_at": "1786665600",
+      "title": "Product Engineer 1",
+      "url": "https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/Pennington-NJ/IT-Product-Engineer-I_JR110768"
     },
     "simplify:capital one::simplify-1e0a3f9d-9e1d-4b13-b9c6-eccbe4b65079": {
       "company": "Capital One",
@@ -6310,6 +6345,20 @@
       "posted_at": "1773824945",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/creatify/75a1f1ad-13d2-4513-952c-71b6dfcaa84f/application"
+    },
+    "simplify:crowe::simplify-3ba2d751-b06f-4e26-8bc2-07b6ada128ac": {
+      "company": "Crowe",
+      "first_seen": "2026-08-15T01:54:44+00:00",
+      "posted_at": "1786665600",
+      "title": "NetSuite Implementation Intern - Consulting Practice",
+      "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Intern_R-71040"
+    },
+    "simplify:crowe::simplify-c2fd6af7-2f86-4ff8-9034-27a47809d608": {
+      "company": "Crowe",
+      "first_seen": "2026-08-15T01:54:44+00:00",
+      "posted_at": "1786665600",
+      "title": "ServiceNow Implementation Intern - ServiceNow Cloud Solutions",
+      "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/ServiceNow-Implementation-Intern_R-71036"
     },
     "simplify:crusoe::simplify-a49ee478-2eea-4b54-af0a-c3ad5e31e66e": {
       "company": "Crusoe",
@@ -7795,6 +7844,13 @@
       "title": "Product Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/firetiger/a65c30a8-6bdb-4258-9d6a-5e6e90ff86e6/application?embed=true"
     },
+    "simplify:first american::simplify-cacbb3b2-0e62-4234-a536-a54968746677": {
+      "company": "First American",
+      "first_seen": "2026-08-15T01:54:44+00:00",
+      "posted_at": "1786665600",
+      "title": "Software Engineer Intern",
+      "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260"
+    },
     "simplify:first bank & trust::simplify-2bac3eef-7c9a-432b-9261-87bd7c6669d4": {
       "company": "First Bank & Trust",
       "first_seen": "2026-07-28T23:15:13+00:00",
@@ -7878,6 +7934,13 @@
       "posted_at": "1783980909",
       "title": "AI Coder",
       "url": "https://job-boards.greenhouse.io/flighthub/jobs/8060355"
+    },
+    "simplify:flow engineering::simplify-d7cea207-2957-4628-96f0-d1470db7594c": {
+      "company": "Flow Engineering",
+      "first_seen": "2026-08-15T01:54:44+00:00",
+      "posted_at": "1786754625",
+      "title": "Software Engineer - Early Career",
+      "url": "https://jobs.ashbyhq.com/flowengineering/df49e713-ce33-40a8-8d6d-3759f61f4ea5/application?embed=true"
     },
     "simplify:flsmidth::simplify-75f107ab-fe4c-4244-af98-b3e635d5b74a": {
       "company": "FLSmidth",
@@ -13248,6 +13311,13 @@
       "title": "Engineer \u2013 Web Apps",
       "url": "https://job-boards.greenhouse.io/gingerlabsinc/jobs/4928821008"
     },
+    "simplify:notion::simplify-14e51d14-067b-43b8-80cf-dcf3c6893565": {
+      "company": "Notion",
+      "first_seen": "2026-08-15T01:54:42+00:00",
+      "posted_at": "1786754510",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true"
+    },
     "simplify:notion::simplify-1908d7ff-00f4-4393-a004-2b6ba9ad2de8": {
       "company": "Notion",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -13262,12 +13332,26 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90/application"
     },
+    "simplify:notion::simplify-4ac72dac-062c-4ad9-94fb-8bd0961f1d95": {
+      "company": "Notion",
+      "first_seen": "2026-08-15T01:54:42+00:00",
+      "posted_at": "1786754511",
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816/application?embed=true"
+    },
     "simplify:notion::simplify-65650b49-1680-440d-8f63-1cc74d0ba188": {
       "company": "Notion",
       "first_seen": "2026-07-06T22:52:48+00:00",
       "posted_at": "1783375892",
       "title": "Software Engineer \u2013 Early Career - AI",
       "url": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28/application"
+    },
+    "simplify:notion::simplify-c61b3999-cfc9-4184-8e3e-3a21a00ebcef": {
+      "company": "Notion",
+      "first_seen": "2026-08-15T01:54:42+00:00",
+      "posted_at": "1786754510",
+      "title": "Software Engineer Intern - Winter 2027",
+      "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application?embed=true"
     },
     "simplify:notion::simplify-f9a48e11-7815-4b71-980b-7e26e6105db7": {
       "company": "Notion",
@@ -15852,6 +15936,13 @@
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-REMOTE/Software-Engineering--Intern--Summer-2027-_01863749"
     },
+    "simplify:rtx::simplify-0438421d-e6a6-445d-8186-059bcb69347d": {
+      "company": "RTX",
+      "first_seen": "2026-08-15T01:54:44+00:00",
+      "posted_at": "1786665600",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01867438"
+    },
     "simplify:rtx::simplify-0b26c2f0-079a-457d-b9bc-8123655ff605": {
       "company": "RTX",
       "first_seen": "2026-07-30T16:11:31+00:00",
@@ -15900,6 +15991,13 @@
       "posted_at": "1785888000",
       "title": "Software Engineer 1 - Air Traffic Solutions",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077"
+    },
+    "simplify:rtx::simplify-44a036f1-8b46-4596-939b-e10b3f0e8761": {
+      "company": "RTX",
+      "first_seen": "2026-08-15T01:54:44+00:00",
+      "posted_at": "1786665600",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129"
     },
     "simplify:rtx::simplify-44e55172-2968-45fe-9b1a-22ccf107ea1d": {
       "company": "RTX",
@@ -15970,6 +16068,13 @@
       "posted_at": "1785196800",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Software-Engineer-I--Onsite-_01861373"
+    },
+    "simplify:rtx::simplify-51b1f750-bdc8-4369-865b-5edb226a9d44": {
+      "company": "RTX",
+      "first_seen": "2026-08-15T01:54:44+00:00",
+      "posted_at": "1786665600",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952"
     },
     "simplify:rtx::simplify-52462af1-1206-44dd-b198-4abe760812d3": {
       "company": "RTX",
@@ -16082,6 +16187,13 @@
       "posted_at": "1785196800",
       "title": "Associate Software Engineer - Simulation",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Assoc-Software-Engineer---Simulation_01853132"
+    },
+    "simplify:rtx::simplify-8fea2128-ad21-47ad-b431-eb973db4321e": {
+      "company": "RTX",
+      "first_seen": "2026-08-15T01:54:44+00:00",
+      "posted_at": "1786665600",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineering-Intern--Summer-2027-_01867439"
     },
     "simplify:rtx::simplify-8fec4117-7522-42cb-b10a-0370ce86a3ff": {
       "company": "RTX",
@@ -21599,6 +21711,20 @@
       "title": "Product Software Engineer - Full Stack - .Net",
       "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Kennesaw-GA/Product-Software-Engineer---Full-Stack---NET---Angular-----AI-Solutions_R0058841"
     },
+    "simplify:wolverine trading::simplify-13e63ccc-9879-4a3a-a29a-f10688ec7ba6": {
+      "company": "Wolverine Trading",
+      "first_seen": "2026-08-15T01:54:44+00:00",
+      "posted_at": "1786754508",
+      "title": "Entry Level C++ Software Engineer",
+      "url": "https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq"
+    },
+    "simplify:wolverine trading::simplify-24b848e7-18bc-4eab-b684-9d352141cbdd": {
+      "company": "Wolverine Trading",
+      "first_seen": "2026-08-15T01:54:44+00:00",
+      "posted_at": "1786754507",
+      "title": "Entry Level C++ Software Engineer",
+      "url": "https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq"
+    },
     "simplify:wolverine trading::simplify-f6bb2b02-e42b-41a6-9f90-35a28fcb0708": {
       "company": "Wolverine Trading",
       "first_seen": "2026-08-01T04:34:34+00:00",
@@ -22070,5 +22196,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-15T00:24:31+00:00"
+  "updated_at": "2026-08-15T01:54:44+00:00"
 }
