@@ -1,5 +1,5 @@
 {
-  "count": 3192,
+  "count": 3193,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1165,6 +1165,13 @@
       "posted_at": "2025-10-01T16:02:40.431+00:00",
       "title": "Software Engineering Intern (Summer 2026)",
       "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1"
+    },
+    "replit::7e0dafe8-3eec-442e-aa76-a4d84d779fb1": {
+      "company": "Replit",
+      "first_seen": "2026-08-15T18:59:47+00:00",
+      "posted_at": "2026-08-15T18:49:00.242+00:00",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1"
     },
     "roblox::8072244": {
       "company": "Roblox",
@@ -22287,5 +22294,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-15T15:35:14+00:00"
+  "updated_at": "2026-08-15T18:59:47+00:00"
 }
