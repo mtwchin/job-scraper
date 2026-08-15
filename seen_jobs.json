@@ -1,5 +1,5 @@
 {
-  "count": 3190,
+  "count": 3191,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -15131,6 +15131,13 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application"
     },
+    "simplify:q2::simplify-83d30405-bde1-4faf-b656-f7eee716c426": {
+      "company": "Q2",
+      "first_seen": "2026-08-15T12:25:45+00:00",
+      "posted_at": "1780134802",
+      "title": "Software Engineer",
+      "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12023"
+    },
     "simplify:qts::simplify-0d9c311a-c4bf-4426-8b6a-c25c5fc88cd2": {
       "company": "QTS",
       "first_seen": "2026-07-17T23:11:51+00:00",
@@ -22273,5 +22280,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-15T09:48:56+00:00"
+  "updated_at": "2026-08-15T12:25:45+00:00"
 }
