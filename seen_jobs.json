@@ -1,5 +1,5 @@
 {
-  "count": 3191,
+  "count": 3192,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -8816,6 +8816,13 @@
       "posted_at": "1786767955",
       "title": "Engineering New Analyst - Engineering",
       "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807"
+    },
+    "simplify:goldman sachs::simplify-ebecfe1f-3890-4cf8-8663-d7b118197e24": {
+      "company": "Goldman Sachs",
+      "first_seen": "2026-08-15T15:35:14+00:00",
+      "posted_at": "1786767937",
+      "title": "New Analyst - Engineering",
+      "url": "https://higher.gs.com/roles/171569?type=students"
     },
     "simplify:google::simplify-089391ad-ee52-4c4f-993a-e79f42219682": {
       "company": "Google",
@@ -22280,5 +22287,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-15T12:25:45+00:00"
+  "updated_at": "2026-08-15T15:35:14+00:00"
 }
