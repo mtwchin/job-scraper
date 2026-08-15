@@ -1,5 +1,5 @@
 {
-  "count": 3186,
+  "count": 3187,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -8802,6 +8802,13 @@
       "posted_at": "1783030004",
       "title": "Software Engineer - IAM Entitlements",
       "url": "https://higher.gs.com/roles/177874"
+    },
+    "simplify:goldman sachs::simplify-e09149c6-13df-4156-b091-ebf0159330f8": {
+      "company": "Goldman Sachs",
+      "first_seen": "2026-08-15T07:18:09+00:00",
+      "posted_at": "1786767955",
+      "title": "Engineering New Analyst - Engineering",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807"
     },
     "simplify:google::simplify-089391ad-ee52-4c4f-993a-e79f42219682": {
       "company": "Google",
@@ -22245,5 +22252,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-15T05:23:27+00:00"
+  "updated_at": "2026-08-15T07:18:09+00:00"
 }
