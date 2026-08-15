@@ -1,5 +1,5 @@
 {
-  "count": 3183,
+  "count": 3186,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1536,6 +1536,13 @@
       "posted_at": "1785517785",
       "title": "Product Engineer",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4372257"
+    },
+    "simplify:abridge::simplify-7b78baf6-f74f-4d7b-924f-a68d5e0e0dbf": {
+      "company": "Abridge",
+      "first_seen": "2026-08-15T05:23:27+00:00",
+      "posted_at": "1786768120",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true"
     },
     "simplify:abridge::simplify-ccc30a08-187b-428e-a4e2-333c838dadaa": {
       "company": "Abridge",
@@ -9475,6 +9482,13 @@
       "title": "Software Engineer 1",
       "url": "https://jobs.smartrecruiters.com/ComputerFutures3/101016513"
     },
+    "simplify:hypercubic::simplify-ee23b508-8622-4e85-a48c-712f76a6db3b": {
+      "company": "Hypercubic",
+      "first_seen": "2026-08-15T05:23:27+00:00",
+      "posted_at": "1786768087",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490/application?embed=true"
+    },
     "simplify:hyster-yale materials handling::simplify-cc0e0d67-c2d5-49a9-92d7-2911fd78c22d": {
       "company": "Hyster-Yale Materials Handling",
       "first_seen": "2026-08-12T21:07:36+00:00",
@@ -11252,6 +11266,13 @@
       "posted_at": "1776339923",
       "title": "Member of Technical Staff",
       "url": "https://jobs.ashbyhq.com/liquid/7b47044b-4b81-44b4-8986-ea5eaaa85c27"
+    },
+    "simplify:litellm::simplify-6dda02da-3ec3-49ed-a963-fa6db627f830": {
+      "company": "LiteLLM",
+      "first_seen": "2026-08-15T05:23:27+00:00",
+      "posted_at": "1786768234",
+      "title": "Forward Deployed Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true"
     },
     "simplify:litera::simplify-ab71d070-1a5b-40d5-a65e-a1b8fbf30f38": {
       "company": "Litera",
@@ -22224,5 +22245,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-15T04:58:35+00:00"
+  "updated_at": "2026-08-15T05:23:27+00:00"
 }
