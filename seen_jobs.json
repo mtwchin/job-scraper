@@ -1,5 +1,5 @@
 {
-  "count": 3187,
+  "count": 3188,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -6646,6 +6646,13 @@
       "posted_at": "1786679946",
       "title": "Entry-level Software Developer",
       "url": "https://careers-decisionpointcorp.icims.com/jobs/3685/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:dedalus labs::simplify-8c8c7d2c-0377-4609-87fb-df719e4b5165": {
+      "company": "Dedalus Labs",
+      "first_seen": "2026-08-15T07:46:58+00:00",
+      "posted_at": "1786777878",
+      "title": "Design Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/dedalus-labs/bcd6db2e-400b-4ffa-aef3-0948a7b558c2/application?embed=true"
     },
     "simplify:deegit::simplify-256798fe-4039-417e-ba1c-2b3b647041de": {
       "company": "Deegit",
@@ -22252,5 +22259,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-15T07:18:09+00:00"
+  "updated_at": "2026-08-15T07:46:58+00:00"
 }
