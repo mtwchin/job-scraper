@@ -1,5 +1,5 @@
 {
-  "count": 3197,
+  "count": 3198,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -14487,6 +14487,13 @@
       "title": "Technical Software Consultant",
       "url": "https://jobs.ashbyhq.com/pariveda/d825ed65-edd8-4540-92c9-4c01f2b6a982/application?embed=true"
     },
+    "simplify:parsons::simplify-2e2c0e4f-cc59-4c29-a9fb-d9908fcc7e06": {
+      "company": "Parsons",
+      "first_seen": "2026-08-16T20:46:01+00:00",
+      "posted_at": "1782956964",
+      "title": "Software Engineer TS",
+      "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer_R175644-1"
+    },
     "simplify:pathai::simplify-4e2d4aa8-3825-4d49-bb96-d3194a6ced1f": {
       "company": "PathAI",
       "first_seen": "2026-08-11T23:09:33+00:00",
@@ -22322,5 +22329,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-16T09:25:28+00:00"
+  "updated_at": "2026-08-16T20:46:01+00:00"
 }
