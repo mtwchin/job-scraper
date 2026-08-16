@@ -1,5 +1,5 @@
 {
-  "count": 3199,
+  "count": 3200,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3902,6 +3902,13 @@
       "posted_at": "1785737841",
       "title": "Full Stack Java Developer",
       "url": "https://bookerdimaio.applytojob.com/apply/jPoQXED5J3/Full-Stack-Java-Developer-With-TSSCI-Clearance-Full-Scope-PolygraphOnsite-In-Annapolis-Jct-MD"
+    },
+    "simplify:boom supersonic::simplify-632238a5-1d61-4694-a8d0-c8d596b89c37": {
+      "company": "Boom Supersonic",
+      "first_seen": "2026-08-16T23:40:55+00:00",
+      "posted_at": "1786922297",
+      "title": "Software Engineer - Exceptional Talent",
+      "url": "https://ats.rippling.com/boom-supersonic/jobs/a6ea239b-70a4-4d72-b7d8-3ab1312568dc"
     },
     "simplify:booz allen::simplify-00912e53-abce-46c1-84a0-f14dc8684f13": {
       "company": "Booz Allen",
@@ -22336,5 +22343,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-16T22:49:08+00:00"
+  "updated_at": "2026-08-16T23:40:55+00:00"
 }
