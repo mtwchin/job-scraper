@@ -1,5 +1,5 @@
 {
-  "count": 3195,
+  "count": 3196,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -14809,6 +14809,13 @@
       "title": "Software Engineer Intern - Multiple Teams",
       "url": "https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5/application?embed=true"
     },
+    "simplify:photon::simplify-3a2e2c86-3612-46c8-891d-50a65e292f46": {
+      "company": "Photon",
+      "first_seen": "2026-08-16T02:07:58+00:00",
+      "posted_at": "1786843116",
+      "title": "Software Engineering Intern - AI",
+      "url": "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738"
+    },
     "simplify:pine rest::simplify-57069425-c65a-4977-9aa7-31b6c6e7fa62": {
       "company": "Pine Rest",
       "first_seen": "2026-07-21T06:16:23+00:00",
@@ -22308,5 +22315,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-15T23:19:59+00:00"
+  "updated_at": "2026-08-16T02:07:58+00:00"
 }
