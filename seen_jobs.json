@@ -1,5 +1,5 @@
 {
-  "count": 3196,
+  "count": 3197,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -10706,6 +10706,13 @@
       "posted_at": "1784592000",
       "title": "HPC Software Engineer",
       "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/HPC-Software-Engineer_2638794"
+    },
+    "simplify:kla::simplify-154cf85d-ed07-4a20-9730-3f260ba95a0f": {
+      "company": "KLA",
+      "first_seen": "2026-08-16T09:25:28+00:00",
+      "posted_at": "1786320000",
+      "title": "Applications Development Engineer - Broadband Plasma Division",
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Applications-Development-Engineer---Broadband-Plasma-Division-_2639355"
     },
     "simplify:kla::simplify-3ae738c3-1972-4573-b39f-dd2e9c32be38": {
       "company": "KLA",
@@ -22315,5 +22322,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-16T02:07:58+00:00"
+  "updated_at": "2026-08-16T09:25:28+00:00"
 }
