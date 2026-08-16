@@ -1,5 +1,5 @@
 {
-  "count": 3198,
+  "count": 3199,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -8431,6 +8431,13 @@
       "posted_at": "1783814400",
       "title": "UiPath Robotic Process Automation Developer Associate",
       "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Home-Office-LAHOME/UiPath-Robotic-Process-Automation-Developer-Associate_RQ223293-1"
+    },
+    "simplify:general dynamics mission systems::simplify-2ab3ea47-41c1-46b3-8932-fedbbb55e1cd": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-08-16T22:49:08+00:00",
+      "posted_at": "1786918299",
+      "title": "Software Engineer - Entry Level",
+      "url": "https://careers-gdms.icims.com/jobs/74274/job?mobile=true&needsRedirect=false"
     },
     "simplify:general dynamics mission systems::simplify-6507515a-808f-4502-b19f-ead22fbf63d3": {
       "company": "General Dynamics Mission Systems",
@@ -22329,5 +22336,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-16T20:46:01+00:00"
+  "updated_at": "2026-08-16T22:49:08+00:00"
 }
