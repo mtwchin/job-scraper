@@ -1,5 +1,5 @@
 {
-  "count": 3200,
+  "count": 3202,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3062,6 +3062,13 @@
       "posted_at": "1786565794",
       "title": "Product Software Developer Intern",
       "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8700953002"
+    },
+    "simplify:assyst::simplify-a8e9e244-d0b5-4ee1-a683-4b3d2d6ee8f6": {
+      "company": "ASSYST",
+      "first_seen": "2026-08-17T13:50:25+00:00",
+      "posted_at": "1786972846",
+      "title": "Junior .NET Developer",
+      "url": "https://job-boards.greenhouse.io/assystinc/jobs/4371586009"
     },
     "simplify:astera labs::simplify-5b9e82eb-e170-450f-9dfe-62e7281dc8ae": {
       "company": "Astera Labs",
@@ -10930,6 +10937,13 @@
       "posted_at": "1784815472",
       "title": "Associate \u2013 Software Engineer",
       "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1411849300/?ats=successfactors"
+    },
+    "simplify:l3harris technologies::simplify-4a623f52-ac3e-4809-bbff-79d93ef3ec63": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-08-17T13:50:25+00:00",
+      "posted_at": "1786972666",
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-(Herndon,-VA)-VA-20171/1419939200/?ats=successfactors"
     },
     "simplify:l3harris technologies::simplify-50f47dfa-2767-4349-b388-347aa02f6f46": {
       "company": "L3Harris Technologies",
@@ -22343,5 +22357,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-16T23:40:55+00:00"
+  "updated_at": "2026-08-17T13:50:25+00:00"
 }
