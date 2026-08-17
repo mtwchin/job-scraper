@@ -1,5 +1,5 @@
 {
-  "count": 3202,
+  "count": 3206,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2355,6 +2355,20 @@
       "posted_at": "1783721402",
       "title": "Software Engineer 1 - Oracle Cloud HCM - CET Services",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007827"
+    },
+    "simplify:american express::simplify-9831795d-d949-4a7a-87dd-f11aad5dc0c8": {
+      "company": "American Express",
+      "first_seen": "2026-08-17T14:13:46+00:00",
+      "posted_at": "1786972304",
+      "title": "Software Engineer Intern - Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987"
+    },
+    "simplify:american express::simplify-c344d643-aa8d-4d64-a497-67a78ca63dc9": {
+      "company": "American Express",
+      "first_seen": "2026-08-17T14:13:46+00:00",
+      "posted_at": "1786972303",
+      "title": "Software Engineer Intern - Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082"
     },
     "simplify:american fidelity::simplify-5f12771f-a545-4521-ba17-ecb175d4dbcb": {
       "company": "American Fidelity",
@@ -6667,6 +6681,13 @@
       "posted_at": "1783548398",
       "title": "AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer",
       "url": "https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255"
+    },
+    "simplify:dayshape::simplify-baec2182-f1a3-471d-b026-bb9c51afb325": {
+      "company": "Dayshape",
+      "first_seen": "2026-08-17T14:13:46+00:00",
+      "posted_at": "1786411944",
+      "title": "Software Engineer Placement",
+      "url": "https://apply.workable.com/dayshape/j/19F2A4F3F3/apply"
     },
     "simplify:decisionpoint corporation::simplify-0e6c1db8-ce0d-4d6e-8962-3757c2b0a9e8": {
       "company": "DecisionPoint Corporation",
@@ -21571,6 +21592,13 @@
       "title": "Associate Software Engineer",
       "url": "https://careers.vtgdefense.com/jobs/9316?icims=1"
     },
+    "simplify:w.w. grainger::simplify-367919b2-9f9f-4104-a7e7-811ae0b98c01": {
+      "company": "W.W. Grainger",
+      "first_seen": "2026-08-17T14:13:46+00:00",
+      "posted_at": "1786973318",
+      "title": "Software Engineer Intern - Grainger Technology Group",
+      "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors"
+    },
     "simplify:walgreens::simplify-59d36e2a-3413-468e-a72e-8c350b5dad94": {
       "company": "Walgreens",
       "first_seen": "2026-08-03T04:41:01+00:00",
@@ -22357,5 +22385,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-17T13:50:25+00:00"
+  "updated_at": "2026-08-17T14:13:46+00:00"
 }
