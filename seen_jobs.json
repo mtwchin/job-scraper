@@ -1,5 +1,5 @@
 {
-  "count": 3214,
+  "count": 3215,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -8347,6 +8347,13 @@
       "posted_at": "1786060800",
       "title": "Digital Technology Development Program - US 2027",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Atlanta/GE-Vernova-Digital-Technology-Development-Program---US-2027_R5049179-1"
+    },
+    "simplify:ge vernova::simplify-7244fd6b-6336-4205-9fc3-64dd353ab215": {
+      "company": "GE Vernova",
+      "first_seen": "2026-08-17T19:43:59+00:00",
+      "posted_at": "1786924800",
+      "title": "GridOS Solution Integration Intern",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Edinburgh/GridOS-Solution-Integration--Intern_R5049844-1"
     },
     "simplify:ge vernova::simplify-9fc66465-c638-4a10-a6cc-877f7f9e1966": {
       "company": "GE Vernova",
@@ -22441,5 +22448,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-17T15:53:03+00:00"
+  "updated_at": "2026-08-17T19:43:59+00:00"
 }
