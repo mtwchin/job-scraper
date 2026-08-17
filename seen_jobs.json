@@ -1,5 +1,5 @@
 {
-  "count": 3212,
+  "count": 3214,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -6654,6 +6654,13 @@
       "title": "Mechanical Product Engineer 1 - Cab Exterior",
       "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Mechanical-Product-Engineer-I--Cab-Exterior--L7-_DT-18755-1"
     },
+    "simplify:daktronics::simplify-e658f2bd-3684-4904-93bd-12354df5a4de": {
+      "company": "Daktronics",
+      "first_seen": "2026-08-17T15:53:03+00:00",
+      "posted_at": "1786977303",
+      "title": "Software Design Student",
+      "url": "https://careers-daktronics.icims.com/jobs/7493/job?mobile=true&needsRedirect=false"
+    },
     "simplify:danaher corporation::simplify-2a66eaca-fc2d-4587-8cda-8e31d4687a80": {
       "company": "Danaher Corporation",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -6702,6 +6709,13 @@
       "posted_at": "1781705048",
       "title": "Graduate STEM Developer",
       "url": "https://jobs.smartrecruiters.com/DataIntellect/744000132642599"
+    },
+    "simplify:datadog::simplify-47fe2157-ddd3-4233-87d7-cf96058a286d": {
+      "company": "Datadog",
+      "first_seen": "2026-08-17T15:53:02+00:00",
+      "posted_at": "1786977339",
+      "title": "Software Engineer Intern - Observability and Security Platform",
+      "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095"
     },
     "simplify:datarobot::simplify-a7d8ee7d-d813-4aac-afa0-b2cc56b8b7f6": {
       "company": "DataRobot",
@@ -22427,5 +22441,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-17T14:44:38+00:00"
+  "updated_at": "2026-08-17T15:53:03+00:00"
 }
