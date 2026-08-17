@@ -1,5 +1,5 @@
 {
-  "count": 3206,
+  "count": 3212,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -279,12 +279,40 @@
       "title": "Associate, Software Engineer, New Grad Card Expansion",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247336"
     },
+    "capital one::Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022": {
+      "company": "Capital One",
+      "first_seen": "2026-08-17T14:44:37+00:00",
+      "posted_at": "Posted Today",
+      "title": "Intern, Backend Software Engineer - Team Interstellar - Winter 2027",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022"
+    },
     "capital one::Intern--Full-Stack-Software-Engineer---Fall-2026_R246990": {
       "company": "Capital One",
       "first_seen": "2026-07-30T14:36:28+00:00",
       "posted_at": "Posted Today",
       "title": "Intern, Full Stack Software Engineer - Fall 2026",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Fall-2026_R246990"
+    },
+    "capital one::Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010": {
+      "company": "Capital One",
+      "first_seen": "2026-08-17T14:44:37+00:00",
+      "posted_at": "Posted Today",
+      "title": "Intern, Full Stack Software Engineer - Team Integrated Sprout - Winter 2027",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010"
+    },
+    "capital one::Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013": {
+      "company": "Capital One",
+      "first_seen": "2026-08-17T14:44:37+00:00",
+      "posted_at": "Posted Today",
+      "title": "Intern, Full Stack Software Engineer - Team Pickle - Winter 2027",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013"
+    },
+    "capital one::Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015": {
+      "company": "Capital One",
+      "first_seen": "2026-08-17T14:44:37+00:00",
+      "posted_at": "Posted Today",
+      "title": "Intern, Mobile Software Engineer - Team Gringotts North - Winter 2027",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015"
     },
     "cisco::Dveloppeur-logiciels-I---temps-plein----Canada-Software-Developer-I--full-Time----United-States_2001076": {
       "company": "Cisco",
@@ -332,6 +360,13 @@
       "first_seen": "2026-06-28T23:46:38+00:00",
       "title": "Software Engineer - Early Career",
       "url": "https://careers.datadoghq.com/detail/7646452/?gh_jid=7646452"
+    },
+    "datadog::8052095": {
+      "company": "Datadog",
+      "first_seen": "2026-08-17T14:44:37+00:00",
+      "posted_at": "2026-08-17T10:42:28-04:00",
+      "title": "Software Engineering Intern",
+      "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095"
     },
     "doordash::7263610": {
       "company": "DoorDash",
@@ -7773,6 +7808,13 @@
       "posted_at": "1786679934",
       "title": "Implementation Intern",
       "url": "https://careers.fastenterprises.com/jobs/1594?icims=1"
+    },
+    "simplify:fast enterprises::simplify-7838c307-daa5-4e75-b8c2-7218ab2354cb": {
+      "company": "FAST Enterprises",
+      "first_seen": "2026-08-17T14:44:38+00:00",
+      "posted_at": "1786975505",
+      "title": "Implementation Intern",
+      "url": "https://careers.fastenterprises.com/jobs/1709?icims=1"
     },
     "simplify:feathery::simplify-ec7a9307-14d3-42ca-8b60-1691f82c9dd0": {
       "company": "Feathery",
@@ -22385,5 +22427,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-17T14:13:46+00:00"
+  "updated_at": "2026-08-17T14:44:38+00:00"
 }
