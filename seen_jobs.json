@@ -1,5 +1,5 @@
 {
-  "count": 3305,
+  "count": 3310,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2838,6 +2838,13 @@
       "posted_at": "1779430057",
       "title": "Software Undergrad Engineer Intern",
       "url": "https://jobs.apple.com/en-us/details/200664785"
+    },
+    "simplify:apple::simplify-a96278c1-ade0-425c-83f0-3a2b804be61d": {
+      "company": "Apple",
+      "first_seen": "2026-08-18T07:36:14+00:00",
+      "posted_at": "1787034761",
+      "title": "Software Engineer - IS&T Early Career Opportunities",
+      "url": "https://jobs.apple.com/en-us/details/200678510"
     },
     "simplify:apple::simplify-a98768c3-1d79-4f8a-89a9-d3357004a2de": {
       "company": "Apple",
@@ -20010,6 +20017,13 @@
       "title": "Product Software Engineer 1",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Santa-Monica-CA-USA/Product-Software-Engineer-I_10151711"
     },
+    "simplify:the walt disney company::simplify-8121dc2e-ce22-45e4-a3d0-1e4b4abc83ee": {
+      "company": "The Walt Disney Company",
+      "first_seen": "2026-08-18T07:36:15+00:00",
+      "posted_at": "1786924800",
+      "title": "Software Engineer 1 - Observability & Insights",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10157423"
+    },
     "simplify:the wonderful company::simplify-168fc2aa-d320-4a77-b7fd-7149efce52c5": {
       "company": "The Wonderful Company",
       "first_seen": "2026-08-04T22:43:44+00:00",
@@ -21865,6 +21879,13 @@
       "title": "C# / Angular Associate Application Developer",
       "url": "https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/C----Angular-Associate-Application-Developer--Local---Hybrid-_R-63031-1"
     },
+    "simplify:vanguard::simplify-034062ca-af46-4066-a960-533d027a734f": {
+      "company": "Vanguard",
+      "first_seen": "2026-08-18T07:36:15+00:00",
+      "posted_at": "1786924800",
+      "title": "Entry Level Application Engineer",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Entry-Level-Application-Engineer---2027-Start-Date---Malvern_180413-1"
+    },
     "simplify:vanguard::simplify-5826f2da-52b2-4a82-9ff2-34f7b3be2d6c": {
       "company": "Vanguard",
       "first_seen": "2026-08-17T22:50:57+00:00",
@@ -21878,6 +21899,13 @@
       "posted_at": "1784851200",
       "title": "Entry Level Application Engineer",
       "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Charlotte-NC/Entry-Level-Application-Engineer----2026-Start-Date_171145-1"
+    },
+    "simplify:vanguard::simplify-80e0d020-8c43-4fa5-9126-8fa016e2b871": {
+      "company": "Vanguard",
+      "first_seen": "2026-08-18T07:36:15+00:00",
+      "posted_at": "1783491203",
+      "title": "Entry Level Application Engineer",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2026-Start-Date_171145"
     },
     "simplify:vanguard::simplify-88c08f29-0736-4562-8871-7fad9401e0b4": {
       "company": "Vanguard",
@@ -21913,6 +21941,13 @@
       "posted_at": "1784764800",
       "title": "Entry Level Application Engineer",
       "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Entry-Level-Application-Engineer---2027-Start-Date---Malvern_180413"
+    },
+    "simplify:vanguard::simplify-f296a9f4-0dae-41f4-b15d-ae910f8c8f16": {
+      "company": "Vanguard",
+      "first_seen": "2026-08-18T07:36:15+00:00",
+      "posted_at": "1786924800",
+      "title": "Application Engineer - 2027 Start Date",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2027-Start-Date_180412"
     },
     "simplify:vantor::simplify-7056e132-e311-407b-b4f0-383070144ec9": {
       "company": "Vantor",
@@ -23078,5 +23113,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-18T06:58:11+00:00"
+  "updated_at": "2026-08-18T07:36:15+00:00"
 }
