@@ -1,5 +1,5 @@
 {
-  "count": 3317,
+  "count": 3318,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -10713,6 +10713,13 @@
       "posted_at": "1784073600",
       "title": "Technology Leadership Development Program - Tldp",
       "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Class-of-2027-Technology-Leadership-Development-Program--TLDP-_R-088676"
+    },
+    "simplify:johnson controls::simplify-94cdc052-b0dd-4f83-bd97-334ea75abc20": {
+      "company": "Johnson Controls",
+      "first_seen": "2026-08-18T15:03:39+00:00",
+      "posted_at": "1787011200",
+      "title": "Software Engineer 1 - Data Center Engineering",
+      "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Glendale-Wisconsin-United-States-of-America/Software-Engineer-I---Data-Center-Engineering_WD30277201"
     },
     "simplify:johnson controls::simplify-a86a72df-04d0-4c52-bf2f-71170d986cf4": {
       "company": "Johnson Controls",
@@ -23162,5 +23169,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-18T13:58:28+00:00"
+  "updated_at": "2026-08-18T15:03:39+00:00"
 }
