@@ -1,5 +1,5 @@
 {
-  "count": 3362,
+  "count": 3369,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3266,6 +3266,13 @@
       "title": "Software Engineer Intern - Enterprise Systems",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006"
     },
+    "simplify:astrion::simplify-9d9eb552-2b86-429d-875e-4c930c609200": {
+      "company": "Astrion",
+      "first_seen": "2026-08-18T23:41:59+00:00",
+      "posted_at": "1787094059",
+      "title": "Junior Software Developer - Datalinks Test Flight",
+      "url": "https://careers.astrion.us/jobs/24705?icims=1"
+    },
     "simplify:astronomer::simplify-85b3d57c-17e3-4b2e-9786-3b5d828d0199": {
       "company": "Astronomer",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -4175,6 +4182,13 @@
       "posted_at": "1784758126",
       "title": "Software Engineer - Platform & Application",
       "url": "https://jobs.lever.co/bosonai/2b520a0f-556a-4dc2-a5a7-d8845a921335/apply"
+    },
+    "simplify:boston scientific::simplify-1421431b-ee3b-4b28-b0be-5939c60ce29b": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-08-18T23:41:59+00:00",
+      "posted_at": "1787093934",
+      "title": "Software Development Engineer 2 - Engineering",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813422191"
     },
     "simplify:bot auto::simplify-085d792a-4c79-4104-946c-89da75b559db": {
       "company": "Bot Auto",
@@ -7697,6 +7711,13 @@
       "title": "Software Engineer \u2013 New Grads - Multiple Teams",
       "url": "https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d/application"
     },
+    "simplify:ema::simplify-8a308b93-06a7-472d-a655-a49f2bf19ab1": {
+      "company": "Ema",
+      "first_seen": "2026-08-18T23:41:59+00:00",
+      "posted_at": "1787094088",
+      "title": "AI Application Engineer",
+      "url": "https://jobs.ashbyhq.com/ema/ab094389-25ec-417b-b646-06969d166d06/application?embed=true"
+    },
     "simplify:emerald ai::simplify-c8f7dd03-3fba-4f1d-850e-76adc3a00557": {
       "company": "Emerald AI",
       "first_seen": "2026-08-06T11:38:47+00:00",
@@ -10503,6 +10524,13 @@
       "posted_at": "1776118194",
       "title": "Software Engineer 1",
       "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720"
+    },
+    "simplify:intuit::simplify-9cc1f56c-0976-4b70-858c-3ca47bbd6331": {
+      "company": "Intuit",
+      "first_seen": "2026-08-18T23:41:59+00:00",
+      "posted_at": "1787094015",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.intuit.com/job/new-york/intern-software-engineering/27595/99410270400"
     },
     "simplify:intuit::simplify-cdbc0a69-360c-4dfe-8c6d-5c0fea16678d": {
       "company": "Intuit",
@@ -15796,6 +15824,13 @@
       "title": "Software Developer",
       "url": "https://jobs.smartrecruiters.com/PresidencySolutions1/82551703"
     },
+    "simplify:pricewaterhousecoopers (pwc)::simplify-a2746fef-4df8-4ebc-b792-825cf8e92b3a": {
+      "company": "PricewaterhouseCoopers (PwC)",
+      "first_seen": "2026-08-18T23:41:59+00:00",
+      "posted_at": "1787011200",
+      "title": "Summer Intern - SAP",
+      "url": "https://pwc.wd3.myworkdayjobs.com/Global_Campus_Careers/job/Calgary/May-2027---SAP---Summer-Intern---Calgary_752589WD"
+    },
     "simplify:prime healthcare::simplify-ae8e3836-b9cd-4d37-a329-26a7775fbcb8": {
       "company": "Prime Healthcare",
       "first_seen": "2026-08-14T18:24:15+00:00",
@@ -15977,6 +16012,13 @@
       "posted_at": "1786486919",
       "title": "Software Engineer - Full Stack",
       "url": "https://jobs.ashbyhq.com/quantcast/09271839-e273-472b-948d-3d362867f809/application?embed=true"
+    },
+    "simplify:quantcast::simplify-1366c200-21e0-464f-ade7-0f3ea4e05672": {
+      "company": "Quantcast",
+      "first_seen": "2026-08-18T23:41:59+00:00",
+      "posted_at": "1787093992",
+      "title": "Software Engineer - Cloud Infrastructure",
+      "url": "https://jobs.ashbyhq.com/quantcast/18213524-c947-4be3-b728-497f23dcd5cf/application?embed=true"
     },
     "simplify:quantix scs::simplify-c22ed2b1-7dbc-4fec-8e24-0ed23174312c": {
       "company": "Quantix SCS",
@@ -18399,6 +18441,13 @@
       "posted_at": "1784764800",
       "title": "Associate Software Engineer",
       "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Assoc-Software-Engineer_R-2026-69992"
+    },
+    "simplify:space dynamics laboratory::simplify-9402b8bf-beb0-4608-8f7a-2ffde99dd0b2": {
+      "company": "Space Dynamics Laboratory",
+      "first_seen": "2026-08-18T23:41:59+00:00",
+      "posted_at": "1787094013",
+      "title": "Web Developer Assistant - Enterprise Application Support",
+      "url": "https://spacedynamicslaboratory.applytojob.com/apply/ViIK3m47ik/Student-Web-Developer-Assistant"
     },
     "simplify:spacex::simplify-11300faa-161b-483b-9520-12054a5957e6": {
       "company": "SpaceX",
@@ -23477,5 +23526,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-18T23:23:42+00:00"
+  "updated_at": "2026-08-18T23:41:59+00:00"
 }
