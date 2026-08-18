@@ -1,5 +1,5 @@
 {
-  "count": 3283,
+  "count": 3305,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2377,6 +2377,13 @@
       "title": "ITS Support Engineer 1",
       "url": "https://amazon.jobs/en/jobs/10432510/its-support-engineer-i"
     },
+    "simplify:ambral::simplify-f2d96d04-27a3-470a-a0c3-7a3c8e65528e": {
+      "company": "Ambral",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1787034006",
+      "title": "Member of Technical Staff New Grad",
+      "url": "https://jobs.ashbyhq.com/ambral/bfcfbd07-03b9-4e7c-82b1-b17d7c3a5e90/application?embed=true"
+    },
     "simplify:amentum::simplify-bcbeaa17-8b2a-4a48-bc56-ae7f245fa7f0": {
       "company": "Amentum",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -2432,6 +2439,20 @@
       "posted_at": "1786972304",
       "title": "Software Engineer Intern - Enterprise Technology Services",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987"
+    },
+    "simplify:american express::simplify-9aaf0eed-7ca3-41fc-8076-90c4a66fa270": {
+      "company": "American Express",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1787033770",
+      "title": "AI Engineer Intern - Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000"
+    },
+    "simplify:american express::simplify-ac34479a-59f5-4dd7-afad-64f30851650e": {
+      "company": "American Express",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1787033770",
+      "title": "Software Engineer Intern - Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781"
     },
     "simplify:american express::simplify-c344d643-aa8d-4d64-a497-67a78ca63dc9": {
       "company": "American Express",
@@ -5562,6 +5583,13 @@
       "title": "Software Development and Engineering Associate - Wealth and Advice Solutions Technology",
       "url": "https://career-schwab.icims.com/jobs/124804/job?mobile=true&needsRedirect=false"
     },
+    "simplify:charta health::simplify-64052d4d-54da-4d7c-b3aa-b49f99dfb1a3": {
+      "company": "Charta Health",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1787034046",
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application?embed=true"
+    },
     "simplify:chenmed::simplify-4db7cd5a-df0d-4618-b071-198061991d8b": {
       "company": "ChenMed",
       "first_seen": "2026-08-01T21:25:18+00:00",
@@ -6359,6 +6387,13 @@
       "posted_at": "1776388276",
       "title": "Intern",
       "url": "https://jobs.ashbyhq.com/context/1c657ebf-3842-4ca4-ab55-54ffaf1e49d8/application"
+    },
+    "simplify:cook systems::simplify-0ac59efb-a60a-487e-ae88-72d4b34fac13": {
+      "company": "Cook Systems",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1787033944",
+      "title": "Entry-Level Software Developer",
+      "url": "https://job-boards.greenhouse.io/cooksys/jobs/5386869008"
     },
     "simplify:cooper companies::simplify-7b0c1480-d0b7-4999-8881-7cf5699e4aa9": {
       "company": "Cooper Companies",
@@ -9993,6 +10028,13 @@
       "title": "Software Engineer",
       "url": "https://careers.itw.com/global/en/job/JR8874"
     },
+    "simplify:illinois tool works::simplify-f9344b8e-43cf-4dac-aef6-05e00717fd78": {
+      "company": "Illinois Tool Works",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1787033783",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.itw.com/global/en/job/JR9516"
+    },
     "simplify:illumia::simplify-3547f1fc-3473-484d-9766-31b2a0f754c1": {
       "company": "Illumia",
       "first_seen": "2026-07-23T16:42:59+00:00",
@@ -10553,6 +10595,13 @@
       "title": "Advanced Engineering Student Intern - Product Engineering",
       "url": "https://johndeere.eightfold.ai/careers/job/137481393611"
     },
+    "simplify:john deere::simplify-5ba3104e-e08a-431a-8c27-c619b7294974": {
+      "company": "John Deere",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1787033736",
+      "title": "Part-Time Student - IT - Technology",
+      "url": "https://johndeere.eightfold.ai/careers/job/137482779107"
+    },
     "simplify:john deere::simplify-9bbd470f-bd28-4072-9e6c-9f1fd6623c53": {
       "company": "John Deere",
       "first_seen": "2026-08-05T06:47:05+00:00",
@@ -10580,6 +10629,13 @@
       "posted_at": "1770160591",
       "title": "Part-Time Student - Software Engineering - Ames IA Technology CA",
       "url": "https://johndeere.eightfold.ai/careers/job/137478709942"
+    },
+    "simplify:john deere::simplify-cc182431-1899-4ccb-8933-d71659e7c501": {
+      "company": "John Deere",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1787033736",
+      "title": "Product Engineering Student - Product Engineering",
+      "url": "https://johndeere.eightfold.ai/careers/job/137482769210"
     },
     "simplify:john deere::simplify-cf5af52b-83aa-43da-b187-a24ee19f0533": {
       "company": "John Deere",
@@ -13163,6 +13219,13 @@
       "posted_at": "1784066642",
       "title": "Software Engineer Intern",
       "url": "https://jobs.lever.co/nextgenfed/54d1576e-c3d9-454a-b1a2-dac0b2fe5920/apply"
+    },
+    "simplify:nexthop.ai::simplify-4a0ac2bd-9aed-42eb-88de-3663340e79b5": {
+      "company": "Nexthop.ai",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1787033768",
+      "title": "Software Engineer New Grad",
+      "url": "https://nexthopai.bamboohr.com/careers/24/"
     },
     "simplify:nextiva::simplify-a743b22b-067a-47c3-aef7-8e3f2b8a912c": {
       "company": "Nextiva",
@@ -16447,6 +16510,13 @@
       "title": "Technology & Operations Co-op - Software Developer",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--12-Months_R-0000184491-1"
     },
+    "simplify:royal bank of canada::simplify-439d0af1-5764-46b3-9149-0e01018b498d": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1786924800",
+      "title": "Developer Co-op - Multiple Roles",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Software-Developer--4-8-Months_R-0000184501"
+    },
     "simplify:royal bank of canada::simplify-5083267e-7caf-40f1-ad4c-7ca8ac259584": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-07-29T23:12:09+00:00",
@@ -16461,6 +16531,13 @@
       "title": "Associate Director Senior Software Engineer - .Net C#",
       "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/90-WESTERN-PKYBEDFORD/Associate-Director--Senior-Full-Stack-Python-C---Developer_R-0000161475-1"
     },
+    "simplify:royal bank of canada::simplify-5cfa4486-5206-4a77-97d7-4b4ae1890b5c": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1786924800",
+      "title": "Quantitative Technology Services Co-op - Qts - Software Developer",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Capital-Markets--QTS---Software-Developer--4-months_R-0000184603-1"
+    },
     "simplify:royal bank of canada::simplify-639d98a3-934b-4fe7-90f6-1fa6f9302286": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-08-17T23:07:29+00:00",
@@ -16468,12 +16545,26 @@
       "title": "Software Developer Co-op - Quantitative Technology Services",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Capital-Markets--QTS---Software-Developer--4-months_R-0000184603-2"
     },
+    "simplify:royal bank of canada::simplify-8038fc52-e31f-4e5f-a826-481c083a5d36": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1786924800",
+      "title": "Software Developer Co-op - Technology & Operations",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--4-Months_R-0000184555"
+    },
     "simplify:royal bank of canada::simplify-8343602f-f696-44fe-b18f-25f47c9130b7": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-08-17T23:07:29+00:00",
       "posted_at": "1786924800",
       "title": "Technical Systems Analyst Co-op - Technology & Operations",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Technical-Systems-Analyst--4-12-Months_R-0000184552-1"
+    },
+    "simplify:royal bank of canada::simplify-97fb51eb-1ac2-4864-ae06-c8f8ac768c62": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1786924800",
+      "title": "Technology and Operations Developer Co-op - Software Developer",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--12-Months_R-0000184491"
     },
     "simplify:royal bank of canada::simplify-9c9ea05a-3192-4de4-a14f-0928c4df49bd": {
       "company": "Royal Bank of Canada",
@@ -16495,6 +16586,27 @@
       "posted_at": "1785110400",
       "title": "Software Engineer",
       "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Software-Developer_R-0000181003-1"
+    },
+    "simplify:royal bank of canada::simplify-ca2a28c6-6f13-4f6e-a05e-70bbce112fde": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1786924800",
+      "title": "Software Developer Co-op - Technology & Operations",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--8-Months_R-0000184557-1"
+    },
+    "simplify:royal bank of canada::simplify-e7e3dd54-f56e-4d88-a3ab-23b3011fa3c2": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1786924800",
+      "title": "Quantitative Technology Services Co-op - Software Developer",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676"
+    },
+    "simplify:royal bank of canada::simplify-f5caa061-d2b7-4386-84d3-c0621e03aa18": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1786924800",
+      "title": "Technical Systems Analyst Co-op - Technology & Operations",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Technical-Systems-Analyst--4-12-Months_R-0000184552"
     },
     "simplify:rrs group::simplify-e0791588-2fd5-4867-8c40-2b4af827a16d": {
       "company": "RRS Group",
@@ -16608,6 +16720,13 @@
       "title": "Digital Finance Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Digital-Finance---Co-op--Hybrid-_01863764"
     },
+    "simplify:rtx::simplify-1607a4ba-3b77-40cc-aa04-244640bdc0f7": {
+      "company": "RTX",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1786924800",
+      "title": "Systems Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Systems-Engineer-I--Onsite-_01867720"
+    },
     "simplify:rtx::simplify-16ec52d6-22ea-499e-94f2-28744df9e6ff": {
       "company": "RTX",
       "first_seen": "2026-08-11T18:05:24+00:00",
@@ -16628,6 +16747,13 @@
       "posted_at": "1785801600",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01864064"
+    },
+    "simplify:rtx::simplify-2a67cef3-5836-4452-832c-ec5b39cff69b": {
+      "company": "RTX",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1787011200",
+      "title": "Software Engineer Intern - Intelligent Software & Systems",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914"
     },
     "simplify:rtx::simplify-39d0cc56-bb3b-4cdd-98d2-bc30149309ff": {
       "company": "RTX",
@@ -16888,6 +17014,13 @@
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01864033"
     },
+    "simplify:rtx::simplify-a167d0aa-3bb9-4b88-84a5-ee03be6a494f": {
+      "company": "RTX",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1786924800",
+      "title": "Conversion Systems Engineer 1 Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion-Systems-Engineer-I--Onsite-_01866850"
+    },
     "simplify:rtx::simplify-a3f73d95-78af-40f1-98a5-e230608dae8c": {
       "company": "RTX",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -16993,12 +17126,26 @@
       "title": "Enterprise Extended Reality Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-NY-REMOTE/Enterprise-Extended-Reality--XR--Intern--Summer-2027---Remote-_01865894"
     },
+    "simplify:rtx::simplify-d4f27870-a658-4138-afd1-fd12498bb0ea": {
+      "company": "RTX",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1786924800",
+      "title": "Software Engineer 2",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineer-II--Onsite-_01864138"
+    },
     "simplify:rtx::simplify-d8f84d42-30b7-4a74-b193-a2adde5bac7e": {
       "company": "RTX",
       "first_seen": "2026-07-29T00:10:36+00:00",
       "posted_at": "1785196800",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I--On-Site-_01862626"
+    },
+    "simplify:rtx::simplify-df3b11d6-07b6-49f9-a445-97f32c89967e": {
+      "company": "RTX",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1786924800",
+      "title": "Software Engineer Intern - Spring 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Spring-2027-_01864146"
     },
     "simplify:rtx::simplify-e4839ecb-2777-4886-93d2-c56612b08784": {
       "company": "RTX",
@@ -17076,6 +17223,13 @@
       "posted_at": "1786665600",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Software-Engineer-I--Onsite-_01866686"
+    },
+    "simplify:rtx::simplify-f5319b1a-b6a0-42cb-9d68-43dc3a0e2b14": {
+      "company": "RTX",
+      "first_seen": "2026-08-18T06:58:11+00:00",
+      "posted_at": "1787011200",
+      "title": "Software Engineering Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698"
     },
     "simplify:rtx::simplify-f7e6b3bf-23bf-49ff-9d1d-faafbdd45f0e": {
       "company": "RTX",
@@ -22924,5 +23078,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-18T02:41:54+00:00"
+  "updated_at": "2026-08-18T06:58:11+00:00"
 }
