@@ -1,5 +1,5 @@
 {
-  "count": 3310,
+  "count": 3312,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -16006,6 +16006,13 @@
       "title": "AI Compiler Engineer",
       "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143317369"
     },
+    "simplify:repligen::simplify-9b28f741-a7e8-4acb-8697-fb44335ee538": {
+      "company": "Repligen",
+      "first_seen": "2026-08-18T08:05:44+00:00",
+      "posted_at": "1785801600",
+      "title": "Software Developer 1",
+      "url": "https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Bridgewater-NJ/Software-Developer-I_R-583"
+    },
     "simplify:replit::simplify-7e21b76f-fae1-4564-9f64-456d019b46b2": {
       "company": "Replit",
       "first_seen": "2026-08-15T23:19:59+00:00",
@@ -21613,6 +21620,13 @@
       "title": "EHR Applications Analyst 1",
       "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/30-Corporate-Woods/EHR-Applications-Analyst-I_R272724"
     },
+    "simplify:university of st. thomas::simplify-abf0d6f0-7133-4d2a-b51c-d7568ca1734a": {
+      "company": "University of St. Thomas",
+      "first_seen": "2026-08-18T08:05:44+00:00",
+      "posted_at": "1787039388",
+      "title": "Digital Innovation & Learning Technology Intern",
+      "url": "https://studentemployment-stthomas.icims.com/jobs/9527/job?mobile=true&needsRedirect=false"
+    },
     "simplify:university of texas - austin::simplify-ab2b0d5d-9913-4a6a-af9b-f7cd5227b371": {
       "company": "University of Texas - Austin",
       "first_seen": "2026-07-21T06:16:23+00:00",
@@ -23113,5 +23127,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-18T07:36:15+00:00"
+  "updated_at": "2026-08-18T08:05:44+00:00"
 }
