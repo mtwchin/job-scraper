@@ -1,5 +1,5 @@
 {
-  "count": 3318,
+  "count": 3324,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -7431,6 +7431,13 @@
       "title": "System Analysis Engineer",
       "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/System-Requirements-Engineer_JR002399-1"
     },
+    "simplify:draper::simplify-27485535-2932-4f11-b804-2a27ab5ad3e1": {
+      "company": "Draper",
+      "first_seen": "2026-08-18T15:39:57+00:00",
+      "posted_at": "1787011200",
+      "title": "Full Stack Web Development Co-op - Spring 2027",
+      "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1"
+    },
     "simplify:drw::simplify-9d3f1c22-843d-4d5f-822e-542fba89e477": {
       "company": "DRW",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -11469,6 +11476,13 @@
       "posted_at": "1785506595",
       "title": "Software Engineering Associate",
       "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineeriing-FL-32905/1414475800/?ats=successfactors"
+    },
+    "simplify:l3harris technologies::simplify-ef8b36d6-9967-4457-8ad8-2f8b9a8c9c91": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-08-18T15:39:57+00:00",
+      "posted_at": "1787063563",
+      "title": "Application Developer Associate",
+      "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1420524300/?ats=successfactors"
     },
     "simplify:l3harris technologies::simplify-f49965a8-66d7-460e-aefb-c756911f4dff": {
       "company": "L3Harris Technologies",
@@ -16566,6 +16580,13 @@
       "title": "Software Developer Co-op - Quantitative Technology Services",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Capital-Markets--QTS---Software-Developer--4-months_R-0000184603-2"
     },
+    "simplify:royal bank of canada::simplify-6ccda946-6b9f-4679-811c-1926a34bdcee": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-08-18T15:39:57+00:00",
+      "posted_at": "1787011200",
+      "title": "AI Applications Intern - Group Risk Management",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696"
+    },
     "simplify:royal bank of canada::simplify-8038fc52-e31f-4e5f-a826-481c083a5d36": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-08-18T06:58:11+00:00",
@@ -17777,6 +17798,13 @@
       "title": "Database Engineer Intern",
       "url": "https://job-boards.greenhouse.io/shein/jobs/5229778008"
     },
+    "simplify:sherwin-williams::simplify-ad91f84d-90ea-4295-ad64-7fc45756c54f": {
+      "company": "Sherwin-Williams",
+      "first_seen": "2026-08-18T15:39:57+00:00",
+      "posted_at": "1787065152",
+      "title": "IT Database Engineer Co-op",
+      "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621017"
+    },
     "simplify:shyftlabs::simplify-8c444c74-c1a6-46ae-95a3-eccb1ea203df": {
       "company": "ShyftLabs",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -18428,6 +18456,13 @@
       "title": "Intern Software Developer - Summer 2026",
       "url": "https://boards.greenhouse.io/embed/job_app?token=7231006"
     },
+    "simplify:squarepoint capital::simplify-c7f1c784-ada4-411c-85aa-060cd89e52c6": {
+      "company": "Squarepoint Capital",
+      "first_seen": "2026-08-18T15:39:56+00:00",
+      "posted_at": "1778191912",
+      "title": "Software Developer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7905463"
+    },
     "simplify:sri international::simplify-33e07ede-5d28-4a3b-bf01-3140aceac8da": {
       "company": "SRI International",
       "first_seen": "2026-07-27T23:47:06+00:00",
@@ -18553,6 +18588,13 @@
       "posted_at": "1773096658",
       "title": "Software Engineer 1 - Full Stack",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/SW-Engineer-I---Full-Stack--Officer_R-785495"
+    },
+    "simplify:state street::simplify-eb09190f-823e-42bc-bf52-4ddcaab011b0": {
+      "company": "State Street",
+      "first_seen": "2026-08-18T15:39:57+00:00",
+      "posted_at": "1781820373",
+      "title": "Software Engineer New Grad",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647"
     },
     "simplify:steel dynamics::simplify-6cb41f07-3b44-49ae-8072-9a73db3ae226": {
       "company": "Steel Dynamics",
@@ -23169,5 +23211,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-18T15:03:39+00:00"
+  "updated_at": "2026-08-18T15:39:57+00:00"
 }
