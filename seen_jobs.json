@@ -1,5 +1,5 @@
 {
-  "count": 3316,
+  "count": 3317,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -23100,6 +23100,13 @@
       "title": "Graduate Software Developer",
       "url": "https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910"
     },
+    "squarepoint::7905463": {
+      "company": "Squarepoint",
+      "first_seen": "2026-08-18T13:58:28+00:00",
+      "posted_at": "2026-08-18T09:23:22-04:00",
+      "title": "Intern Software Developer - Montreal - 2027",
+      "url": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463"
+    },
     "stripe::7176977": {
       "company": "Stripe",
       "first_seen": "2026-06-28T23:35:42+00:00",
@@ -23155,5 +23162,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-18T09:50:45+00:00"
+  "updated_at": "2026-08-18T13:58:28+00:00"
 }
