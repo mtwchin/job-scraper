@@ -1,5 +1,5 @@
 {
-  "count": 3278,
+  "count": 3283,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -743,6 +743,13 @@
       "posted_at": "Posted 30+ Days Ago",
       "title": "Software Engineering Intern, JAX - Fall 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745"
+    },
+    "nvidia::Software-Engineering-Intern--NCCL---2026_JR2022645": {
+      "company": "Nvidia",
+      "first_seen": "2026-08-18T02:41:53+00:00",
+      "posted_at": "Posted Today",
+      "title": "Software Engineering Intern, NCCL - 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645"
     },
     "old mission::7796048003": {
       "company": "Old Mission",
@@ -7340,6 +7347,13 @@
       "title": "Customer Service Representative",
       "url": "https://jobs.smartrecruiters.com/Dominos/744000142481704"
     },
+    "simplify:domino's::simplify-b82acf7c-02f2-46ef-b14e-93b2633586b1": {
+      "company": "Domino's",
+      "first_seen": "2026-08-18T02:41:54+00:00",
+      "posted_at": "1787017058",
+      "title": "Delivery Driver",
+      "url": "https://jobs.smartrecruiters.com/Dominos/744000143965128"
+    },
     "simplify:domino's::simplify-d6f1c4bc-48d4-4d20-83d8-238e6d7afed9": {
       "company": "Domino's",
       "first_seen": "2026-08-13T07:14:16+00:00",
@@ -11315,6 +11329,13 @@
       "posted_at": "1786342229",
       "title": "Associate Software Engineering",
       "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineeriing-NY-14624/1417495000/?ats=successfactors"
+    },
+    "simplify:l3harris technologies::simplify-6e9f8ba6-6c48-4605-b6d4-6f4605120a80": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-08-18T02:41:54+00:00",
+      "posted_at": "1787017241",
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineering-NJ-07014/1420387700/?ats=successfactors"
     },
     "simplify:l3harris technologies::simplify-72c67b39-d84c-46b6-b7b6-e9e97c47087d": {
       "company": "L3Harris Technologies",
@@ -16124,6 +16145,13 @@
       "posted_at": "1781676408",
       "title": "Software Engineer",
       "url": "https://fa-exew-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9146"
+    },
+    "simplify:riveron::simplify-6359c80a-9d69-4dcc-9607-0b4506269693": {
+      "company": "Riveron",
+      "first_seen": "2026-08-18T02:41:54+00:00",
+      "posted_at": "1787018698",
+      "title": "Technology & Innovation Intern",
+      "url": "https://jobs.ashbyhq.com/riveron/a1c4ef22-34a2-43b8-950d-ca6288cc17a1/application?embed=true"
     },
     "simplify:riverside research::simplify-c9372099-ac31-46fe-82ad-547ac87f1e6f": {
       "company": "Riverside Research",
@@ -22719,6 +22747,13 @@
       "title": "Software Engineer",
       "url": "https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b/apply"
     },
+    "simplify:zoro::simplify-1684b5f7-9d7b-4b05-a2f1-4335f8426ec4": {
+      "company": "Zoro",
+      "first_seen": "2026-08-18T02:41:54+00:00",
+      "posted_at": "1787015876",
+      "title": "Full Stack Software Developer",
+      "url": "https://jobs.smartrecruiters.com/Zoro/87619425"
+    },
     "simplify:zscaler::simplify-45f6e525-5b17-4b57-9958-20605eb69c47": {
       "company": "Zscaler",
       "first_seen": "2026-07-03T08:18:45+00:00",
@@ -22889,5 +22924,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-18T01:43:55+00:00"
+  "updated_at": "2026-08-18T02:41:54+00:00"
 }
