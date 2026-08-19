@@ -1,5 +1,5 @@
 {
-  "count": 3378,
+  "count": 3379,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -11637,6 +11637,13 @@
       "posted_at": "1785736995",
       "title": "Software Engineering Associate",
       "url": "https://jobs.l3harris.com/job/Wilmington-Associate,-Software-Engineering-MA-01887/1415117800/?ats=successfactors"
+    },
+    "simplify:l3harris technologies::simplify-a4aabf38-92c7-4e05-b84e-51c4d41178a4": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-08-19T19:15:08+00:00",
+      "posted_at": "1787164493",
+      "title": "Application Developer Associate - Enterprise Data and AI",
+      "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Developer-FL-32919/1421158000/?ats=successfactors"
     },
     "simplify:l3harris technologies::simplify-a7a21277-7af0-4b06-894f-af2ce1530e21": {
       "company": "L3Harris Technologies",
@@ -23589,5 +23596,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-19T13:14:39+00:00"
+  "updated_at": "2026-08-19T19:15:08+00:00"
 }
