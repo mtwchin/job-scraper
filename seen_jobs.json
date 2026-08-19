@@ -1,5 +1,5 @@
 {
-  "count": 3373,
+  "count": 3375,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -12912,6 +12912,13 @@
       "title": "Software Engineer Security & Identity Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930"
     },
+    "simplify:microsoft::simplify-b5b15050-2287-4ebf-8a26-f0745c794fd3": {
+      "company": "Microsoft",
+      "first_seen": "2026-08-19T08:49:40+00:00",
+      "posted_at": "1787127974",
+      "title": "AI Software Engineer Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891"
+    },
     "simplify:microsoft::simplify-d50dd4f1-ca8c-4636-9452-4d9f4073bd45": {
       "company": "Microsoft",
       "first_seen": "2026-07-17T00:58:32+00:00",
@@ -13310,6 +13317,13 @@
       "posted_at": "1780132193",
       "title": "Tech Insight Experience for Women - Engineering",
       "url": "https://rbs.wd3.myworkdayjobs.com/rbs/job/Edinburgh/Tech-Insight-Experience-for-Women---Engineering_R-00276058"
+    },
+    "simplify:nav canada::simplify-3d4bb444-d328-44a8-9c50-2a5c0e35d574": {
+      "company": "NAV CANADA",
+      "first_seen": "2026-08-19T08:49:41+00:00",
+      "posted_at": "1787097600",
+      "title": "Entry Level Developer",
+      "url": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Developer---Entry-Level_JR-8291"
     },
     "simplify:nav canada::simplify-91248c60-db9e-4368-be88-d8a52b43dd4d": {
       "company": "NAV CANADA",
@@ -23554,5 +23568,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-19T03:15:09+00:00"
+  "updated_at": "2026-08-19T08:49:41+00:00"
 }
