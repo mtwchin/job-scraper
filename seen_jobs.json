@@ -1,5 +1,5 @@
 {
-  "count": 3377,
+  "count": 3378,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -9929,6 +9929,13 @@
       "posted_at": "1786679039",
       "title": "Software Engineer 1",
       "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155551"
+    },
+    "simplify:honeywell::simplify-f79b166b-afea-4a0b-9644-b397a4fc143e": {
+      "company": "Honeywell",
+      "first_seen": "2026-08-19T13:14:39+00:00",
+      "posted_at": "1786054436",
+      "title": "Application Engineer 1 - Training - Building Automation - CX Learning & Enablement",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/154237"
     },
     "simplify:horizon industries::simplify-1f3b2933-fe37-4e8a-b727-eb9166e6df99": {
       "company": "Horizon Industries",
@@ -23582,5 +23589,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-19T10:13:53+00:00"
+  "updated_at": "2026-08-19T13:14:39+00:00"
 }
