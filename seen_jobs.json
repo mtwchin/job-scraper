@@ -1,5 +1,5 @@
 {
-  "count": 3375,
+  "count": 3377,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -14382,6 +14382,13 @@
       "title": "Software Engineer New Grad - Physical Design Infrastructure",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823"
     },
+    "simplify:nvidia::simplify-be628885-fde3-4b73-bb0a-58e11856e97b": {
+      "company": "NVIDIA",
+      "first_seen": "2026-08-19T10:13:53+00:00",
+      "posted_at": "1787097600",
+      "title": "Software Engineering Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495"
+    },
     "simplify:nvidia::simplify-cf5b742b-7660-43e5-969b-f4a57b8b9935": {
       "company": "NVIDIA",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -14409,6 +14416,13 @@
       "posted_at": "1783900800",
       "title": "System Software Engineer New Grad - Dynamo-Triton Inference Server",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767"
+    },
+    "simplify:nvidia::simplify-ea8c5ebd-a6c4-49ff-9dac-f3532c41737a": {
+      "company": "NVIDIA",
+      "first_seen": "2026-08-19T10:13:53+00:00",
+      "posted_at": "1787097600",
+      "title": "Systems Software Engineering Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492"
     },
     "simplify:nvidia::simplify-f1025b20-1cf5-4f9d-8505-a81fea68f463": {
       "company": "NVIDIA",
@@ -23568,5 +23582,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-19T08:49:41+00:00"
+  "updated_at": "2026-08-19T10:13:53+00:00"
 }
