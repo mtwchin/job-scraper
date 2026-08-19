@@ -1,5 +1,5 @@
 {
-  "count": 3369,
+  "count": 3372,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2671,6 +2671,13 @@
       "title": "Early Career Software Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802146007"
     },
+    "simplify:anduril::simplify-62751ae8-bd05-4fa8-8629-d50f034fcc04": {
+      "company": "Anduril",
+      "first_seen": "2026-08-19T02:22:37+00:00",
+      "posted_at": "1787103087",
+      "title": "Software Engineer - Tracking",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215629007"
+    },
     "simplify:anduril::simplify-9b3d2be7-1291-4e46-8d88-5212363141cd": {
       "company": "Anduril",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -2684,6 +2691,13 @@
       "posted_at": "1776906621",
       "title": "Software Engineer Intern - Warfighter Systems",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5117558007"
+    },
+    "simplify:anduril::simplify-b59fa048-6dd0-4a50-af24-e4c0fdd2693c": {
+      "company": "Anduril",
+      "first_seen": "2026-08-19T02:22:37+00:00",
+      "posted_at": "1787103085",
+      "title": "Software Engineer - Battlespace Awareness",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215627007"
     },
     "simplify:anduril::simplify-c1623229-faaa-4f1d-bdd8-fc0b46bc74a0": {
       "company": "Anduril",
@@ -15677,6 +15691,13 @@
       "title": "Software Engineer Associate Mainframe Testing/Selenium",
       "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Associate-Mainframe-testing-Selenium_R228735-1"
     },
+    "simplify:pnc financial services::simplify-641fdd40-6b14-4a5b-9037-8b6a4ac41c35": {
+      "company": "PNC Financial Services",
+      "first_seen": "2026-08-19T02:22:37+00:00",
+      "posted_at": "1787011200",
+      "title": "Software Engineer Associate - Tempus",
+      "url": "https://pnc.wd5.myworkdayjobs.com/External/job/ZZ---Remote-Location/Software-Engineer-Associate---Tempus_R231402-1"
+    },
     "simplify:pnc financial services::simplify-696bd826-6011-43cc-920a-c36cd7661a43": {
       "company": "PNC Financial Services",
       "first_seen": "2026-07-17T23:11:51+00:00",
@@ -23526,5 +23547,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-18T23:41:59+00:00"
+  "updated_at": "2026-08-19T02:22:37+00:00"
 }
