@@ -1,5 +1,5 @@
 {
-  "count": 3405,
+  "count": 3408,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -18904,6 +18904,13 @@
       "title": "Technical Intern",
       "url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5199580007"
     },
+    "simplify:specialisterne::simplify-01f94977-fc40-414b-bd6d-f44693eacceb": {
+      "company": "Specialisterne",
+      "first_seen": "2026-08-19T23:30:24+00:00",
+      "posted_at": "1787178724",
+      "title": "Software Engineer Intern - Neurodiversity Hiring Initiative",
+      "url": "https://specialisterne.applytojob.com/apply/gOkVN8zGTL/Software-Engineer-Intern-Neurodiversity-Hiring-Initiative"
+    },
     "simplify:specter aerospace::simplify-3bb608c1-4704-4fe1-a877-eaf540f90cc1": {
       "company": "Specter Aerospace",
       "first_seen": "2026-08-13T07:14:16+00:00",
@@ -21620,6 +21627,13 @@
       "title": "Engineer Intern - Spring 2027 - Eis",
       "url": "https://apply.workable.com/tmeic-corporation-americas/j/D44B74C42B/apply"
     },
+    "simplify:tmeic corporation americas::simplify-fa9b8b4c-326b-46f7-8979-43e65256db21": {
+      "company": "TMEIC Corporation Americas",
+      "first_seen": "2026-08-19T23:30:24+00:00",
+      "posted_at": "1787178888",
+      "title": "Engineer Intern - Spring 2027",
+      "url": "https://apply.workable.com/tmeic-corporation-americas/j/532EE44DFB/apply"
+    },
     "simplify:tmx group::simplify-7d2fd52b-088e-42b5-a423-c67a3beb56fd": {
       "company": "TMX Group",
       "first_seen": "2026-07-14T23:27:57+00:00",
@@ -21906,6 +21920,13 @@
       "posted_at": "1779401592",
       "title": "Software Engineer - Backend Services",
       "url": "https://job-boards.greenhouse.io/truveta/jobs/6002807004"
+    },
+    "simplify:truveta::simplify-54c4c395-7b69-498c-9917-759b96d7b1c5": {
+      "company": "Truveta",
+      "first_seen": "2026-08-19T23:30:24+00:00",
+      "posted_at": "1787178528",
+      "title": "Software Engineer - Commerce",
+      "url": "https://job-boards.greenhouse.io/truveta/jobs/6147526004"
     },
     "simplify:truveta::simplify-9d21429a-ec03-4ab5-8c5f-dccc28783311": {
       "company": "Truveta",
@@ -23778,5 +23799,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-19T22:45:45+00:00"
+  "updated_at": "2026-08-19T23:30:24+00:00"
 }
