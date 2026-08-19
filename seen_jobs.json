@@ -1,5 +1,5 @@
 {
-  "count": 3397,
+  "count": 3405,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -4925,12 +4925,26 @@
       "title": "Junior Systems Engineer",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Systems-Engineer_328922"
     },
+    "simplify:caci::simplify-3061cfda-4fbe-4cb7-ba26-605a5106006f": {
+      "company": "CACI",
+      "first_seen": "2026-08-19T22:45:45+00:00",
+      "posted_at": "1787097600",
+      "title": "Software Engineer - Engineering",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_330837-1"
+    },
     "simplify:caci::simplify-4d3b608b-7d50-4226-ab3c-d8e8033c794c": {
       "company": "CACI",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1776073041",
       "title": "Junior C# Software Engineer",
       "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/US-MD-Bethesda/Junior-C--Software-Engineer_324627"
+    },
+    "simplify:caci::simplify-4fe03bf3-4c12-4115-b009-2020faa2de23": {
+      "company": "CACI",
+      "first_seen": "2026-08-19T22:45:45+00:00",
+      "posted_at": "1787097600",
+      "title": "AI Prompt Engineer",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer_330802"
     },
     "simplify:caci::simplify-565376c9-9f43-421c-aee2-1c09b5461f85": {
       "company": "CACI",
@@ -4945,6 +4959,13 @@
       "posted_at": "1774306885",
       "title": "Software Engineer",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Annapolis-Junction/Software-Engineer-Skill-Level-0_323580"
+    },
+    "simplify:caci::simplify-72985476-1779-4c98-b2ad-be7924937896": {
+      "company": "CACI",
+      "first_seen": "2026-08-19T22:45:45+00:00",
+      "posted_at": "1787097600",
+      "title": "Cyber Software Engineer - Cyber Science & Technology",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Cyber-Software-Engineer_330859"
     },
     "simplify:caci::simplify-797f1af0-0374-4a70-81d9-01c2f893fae0": {
       "company": "CACI",
@@ -10049,6 +10070,13 @@
       "title": "Software Engineer - C++ or Python",
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052122"
     },
+    "simplify:humana::simplify-3cac9449-de39-427f-a7fd-9b22e0d04497": {
+      "company": "Humana",
+      "first_seen": "2026-08-19T22:45:45+00:00",
+      "posted_at": "1787097600",
+      "title": "Technology Intern - Early ID Participants",
+      "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027--Early-ID-Participants-_R-427451"
+    },
     "simplify:humana::simplify-51598177-f2b0-404c-90d3-ca02d0bd665e": {
       "company": "Humana",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -11714,6 +11742,13 @@
       "posted_at": "1785506595",
       "title": "Software Engineering Associate",
       "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineeriing-FL-32905/1414475800/?ats=successfactors"
+    },
+    "simplify:l3harris technologies::simplify-ef102b09-7159-4517-bd9f-f27056d799d4": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-08-19T22:45:45+00:00",
+      "posted_at": "1787177642",
+      "title": "Associate Software Engineering",
+      "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-(Colorado-Springs,-CO)-CO-80925/1421228500/?ats=successfactors"
     },
     "simplify:l3harris technologies::simplify-ef8b36d6-9967-4457-8ad8-2f8b9a8c9c91": {
       "company": "L3Harris Technologies",
@@ -13919,6 +13954,13 @@
       "posted_at": "1782957264",
       "title": "Software Engineer/Principal Software Engineer - Java",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---JAVA_R10237701"
+    },
+    "simplify:northrop grumman::simplify-8b492425-d182-4ad6-9a71-dd01191a86f6": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-08-19T22:45:45+00:00",
+      "posted_at": "1787097600",
+      "title": "Associate Software Engineer/Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2026-Associate-Software-Engineer-Software-Engineer_R10246591"
     },
     "simplify:northrop grumman::simplify-8bd4da7c-8e98-44a4-8af8-a4fc17611671": {
       "company": "Northrop Grumman",
@@ -19401,6 +19443,13 @@
       "title": "Associate Engineer - Software",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Assoc-Engineer--Software_REQ367425-1"
     },
+    "simplify:t-mobile::simplify-989986f5-744c-44d9-8783-a3495ddadb27": {
+      "company": "T-Mobile",
+      "first_seen": "2026-08-19T22:45:45+00:00",
+      "posted_at": "1787097600",
+      "title": "Associate Engineer - Software",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Engineer--Software_REQ366936"
+    },
     "simplify:t-mobile::simplify-db8b36af-8098-467c-ad9b-3f622129f10c": {
       "company": "T-Mobile",
       "first_seen": "2026-08-11T23:09:33+00:00",
@@ -19554,6 +19603,13 @@
       "posted_at": "1784931687",
       "title": "Software Developer Co-op",
       "url": "https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026"
+    },
+    "simplify:techtronic industries (tti)::simplify-a0b5f209-6e43-46af-9d7f-459315a7b21d": {
+      "company": "Techtronic Industries (TTI)",
+      "first_seen": "2026-08-19T22:45:45+00:00",
+      "posted_at": "1787097600",
+      "title": "Software Engineer 1",
+      "url": "https://tti.wd1.myworkdayjobs.com/tti_pe/job/Anderson-SC/Software-Engineer-1_R76960"
     },
     "simplify:techtronic industries::simplify-03ab4d41-5cba-45c5-8db8-f4a6b4ccb687": {
       "company": "Techtronic Industries",
@@ -23722,5 +23778,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-19T21:11:49+00:00"
+  "updated_at": "2026-08-19T22:45:45+00:00"
 }
