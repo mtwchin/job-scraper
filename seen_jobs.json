@@ -1,5 +1,5 @@
 {
-  "count": 3408,
+  "count": 3415,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -4197,6 +4197,13 @@
       "title": "Software Engineer - Platform & Application",
       "url": "https://jobs.lever.co/bosonai/2b520a0f-556a-4dc2-a5a7-d8845a921335/apply"
     },
+    "simplify:boston consulting group::simplify-f6f17706-f32e-4624-8175-889945a160e5": {
+      "company": "Boston Consulting Group",
+      "first_seen": "2026-08-20T01:44:05+00:00",
+      "posted_at": "1787186938",
+      "title": "Forward Deployed AI Engineer - Campus",
+      "url": "https://careers.bcg.com/global/en/job/59067"
+    },
     "simplify:boston scientific::simplify-1421431b-ee3b-4b28-b0be-5939c60ce29b": {
       "company": "Boston Scientific",
       "first_seen": "2026-08-18T23:41:59+00:00",
@@ -6738,6 +6745,13 @@
       "title": "ServiceNow Implementation Intern - ServiceNow Cloud Solutions",
       "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/ServiceNow-Implementation-Intern_R-71036"
     },
+    "simplify:crusoe::simplify-929cfe45-2ac9-4d39-80b3-b3fa750e2ceb": {
+      "company": "Crusoe",
+      "first_seen": "2026-08-20T01:44:05+00:00",
+      "posted_at": "1787187240",
+      "title": "Software Engineer 1 - Network",
+      "url": "https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true"
+    },
     "simplify:crusoe::simplify-a49ee478-2eea-4b54-af0a-c3ad5e31e66e": {
       "company": "Crusoe",
       "first_seen": "2026-07-29T00:10:36+00:00",
@@ -9118,6 +9132,13 @@
       "title": "Engineer 1/2 - Software",
       "url": "https://careers-gdeb.icims.com/jobs/20087/job?mobile=true&needsRedirect=false"
     },
+    "simplify:general matter::simplify-52758ea7-052d-4c85-9fbe-2558a05538f1": {
+      "company": "General Matter",
+      "first_seen": "2026-08-20T01:44:05+00:00",
+      "posted_at": "1787187862",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008"
+    },
     "simplify:general motors::simplify-448885da-fdf1-4759-b904-870c29e0369e": {
       "company": "General Motors",
       "first_seen": "2026-07-31T22:42:03+00:00",
@@ -9341,6 +9362,13 @@
       "posted_at": "1784066810",
       "title": "AI Developer Co-op",
       "url": "https://www.globalrelay.com/careers/jobs?gh_jid=6112675004"
+    },
+    "simplify:globalfoundries::simplify-622563d2-e336-4a82-b917-11650b4cbd9d": {
+      "company": "GlobalFoundries",
+      "first_seen": "2026-08-20T01:44:05+00:00",
+      "posted_at": "1787097600",
+      "title": "AI/ML Software Engineer New Grad",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/AI-ML-Software-Engineer--2026-New-College-Graduate-_JR-2602832"
     },
     "simplify:globalfoundries::simplify-7c7c7353-5820-41bb-a47b-a57e9fd1f739": {
       "company": "GlobalFoundries",
@@ -12799,6 +12827,13 @@
       "posted_at": "1785737820",
       "title": "Simulation Software Engineer",
       "url": "https://metecs.applytojob.com/apply/WykvenszhG/Junior-Simulation-Software-Engineer"
+    },
+    "simplify:metecs::simplify-4fd996db-84f4-40ce-9d98-4134847d754f": {
+      "company": "METECS",
+      "first_seen": "2026-08-20T01:44:05+00:00",
+      "posted_at": "1787186877",
+      "title": "Software Intern",
+      "url": "https://metecs.applytojob.com/apply/XTBhKHIVhQ/Summer-Software-Internship"
     },
     "simplify:metropolitan transportation authority::simplify-05e1803e-07e6-4a32-a5be-1e29b9ac66ae": {
       "company": "Metropolitan Transportation Authority",
@@ -21732,6 +21767,13 @@
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/traba/90d6307c-1bb1-4abf-8e73-7afa6a7e0a70/application?embed=true"
     },
+    "simplify:trane technologies::simplify-15f1d4cb-e814-4f44-a827-6caf6c32bf60": {
+      "company": "Trane Technologies",
+      "first_seen": "2026-08-20T01:44:05+00:00",
+      "posted_at": "1787187253",
+      "title": "Point Mapping Specialist 1 - Centralized Services - Point Mapping Team",
+      "url": "https://careers.tranetechnologies.com/global/en/job/JR-13129"
+    },
     "simplify:trane technologies::simplify-4126dfc9-f400-4a64-a3e7-1373338d3289": {
       "company": "Trane Technologies",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -23160,6 +23202,13 @@
       "title": "Configuration Specialist Engineer",
       "url": "https://jobs.smartrecruiters.com/WesternDigital/744000138714070"
     },
+    "simplify:western magnetics::simplify-67334d37-7e0d-42f1-8946-bdab22643cc3": {
+      "company": "Western Magnetics",
+      "first_seen": "2026-08-20T01:44:05+00:00",
+      "posted_at": "1787187185",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.workable.com/western-magnetics/j/E366930F3F/apply"
+    },
     "simplify:westinghouse electric company::simplify-8f434eee-451e-465e-827d-2b5e04b4cf19": {
       "company": "Westinghouse Electric Company",
       "first_seen": "2026-07-24T23:33:06+00:00",
@@ -23799,5 +23848,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-19T23:30:24+00:00"
+  "updated_at": "2026-08-20T01:44:05+00:00"
 }
