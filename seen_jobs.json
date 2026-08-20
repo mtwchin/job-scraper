@@ -1,5 +1,5 @@
 {
-  "count": 3427,
+  "count": 3428,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1606,6 +1606,13 @@
       "posted_at": "1771426981",
       "title": "Application Engineer",
       "url": "https://jobs.smartrecruiters.com/AbsoluteFacilitySolutionsLLC/744000093987850"
+    },
+    "simplify:abundant::simplify-ce6bb4b3-0f2f-4eb0-b490-e518ef1dba06": {
+      "company": "Abundant",
+      "first_seen": "2026-08-20T03:28:46+00:00",
+      "posted_at": "1787193773",
+      "title": "Member of Technical Staff Intern - Research",
+      "url": "https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true"
     },
     "simplify:accel learning::simplify-b7f55e77-cf53-4690-910a-db1b3f48d078": {
       "company": "Accel Learning",
@@ -23932,5 +23939,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-20T02:43:11+00:00"
+  "updated_at": "2026-08-20T03:28:46+00:00"
 }
