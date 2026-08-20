@@ -1,5 +1,5 @@
 {
-  "count": 3436,
+  "count": 3438,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -8396,6 +8396,13 @@
       "posted_at": "1782454002",
       "title": "Field Application Engineer",
       "url": "https://jobs.lever.co/field-ai/6a93ac30-56af-4726-bb05-9d71f8622b58/apply"
+    },
+    "simplify:fifth third bank::simplify-7d8242ec-06c9-4afb-abfb-ccbd11a5f47b": {
+      "company": "Fifth Third Bank",
+      "first_seen": "2026-08-20T15:52:39+00:00",
+      "posted_at": "1787184000",
+      "title": "Software Engineer Co-op - Enterprise Finance Applications - Summer 2027",
+      "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588"
     },
     "simplify:fifth third bank::simplify-ef55f078-97dd-4d24-b83e-fe4a5d11a422": {
       "company": "Fifth Third Bank",
@@ -23097,6 +23104,13 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application"
     },
+    "simplify:vivsoft technologies::simplify-19b37e51-2041-4d10-a23e-d342a6b7f791": {
+      "company": "VivSoft Technologies",
+      "first_seen": "2026-08-20T15:52:39+00:00",
+      "posted_at": "1787238475",
+      "title": "Software Engineer",
+      "url": "https://vivsofttechnologiesfa.applytojob.com/apply/QLa8RzmXAc/Software-Engineer-Entry-Level"
+    },
     "simplify:volaris group::simplify-aad57fdf-2d09-4217-9e58-26594fe974db": {
       "company": "Volaris Group",
       "first_seen": "2026-07-24T23:33:06+00:00",
@@ -23995,5 +24009,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-20T14:51:41+00:00"
+  "updated_at": "2026-08-20T15:52:39+00:00"
 }
