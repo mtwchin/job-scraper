@@ -1,5 +1,5 @@
 {
-  "count": 3432,
+  "count": 3436,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1550,6 +1550,13 @@
       "posted_at": "1786060800",
       "title": "Associate Software Engineer - Multiple Teams",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107"
+    },
+    "simplify:abbvie::simplify-8569a45d-e504-4cc5-897a-de907ab8e0f7": {
+      "company": "AbbVie",
+      "first_seen": "2026-08-20T14:51:41+00:00",
+      "posted_at": "1787234692",
+      "title": "Business Technology Solutions Intern - Data & Software Engineering - Undergraduate",
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014697918"
     },
     "simplify:abbvie::simplify-af31d257-e826-465a-bc7a-4c04fb574032": {
       "company": "AbbVie",
@@ -8886,6 +8893,20 @@
       "posted_at": "1781014647",
       "title": "Grid Automation & Software Intern",
       "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Grid-Automation---Software-Intern_R5041706"
+    },
+    "simplify:ge vernova::simplify-c86d490b-4b50-4436-9a7b-0d6287bbb4ca": {
+      "company": "GE Vernova",
+      "first_seen": "2026-08-20T14:51:41+00:00",
+      "posted_at": "1787184000",
+      "title": "Graduate Engineering Training Programme - Software",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rugby/GE-Power-Conversion---Storage-Graduate-Engineering-Training-Programme---SOFTWARE_R5020915-1"
+    },
+    "simplify:ge vernova::simplify-c8c30733-c4c8-42b2-8665-fbbf5743b33d": {
+      "company": "GE Vernova",
+      "first_seen": "2026-08-20T14:51:41+00:00",
+      "posted_at": "1787184000",
+      "title": "Software Engineer Graduate - Software",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/GE-Power-Conversion---Storage-Graduate-Engineering-Training-Programme---SOFTWARE_R5020915-3"
     },
     "simplify:ge vernova::simplify-da6be78c-1b09-49a9-971b-358be0b1c54c": {
       "company": "GE Vernova",
@@ -17196,6 +17217,13 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01866533"
     },
+    "simplify:rtx::simplify-013fdd20-3235-4aca-8bd4-f5eb44a09c32": {
+      "company": "RTX",
+      "first_seen": "2026-08-20T14:51:41+00:00",
+      "posted_at": "1787184000",
+      "title": "Software Development Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01867943"
+    },
     "simplify:rtx::simplify-0229beda-126f-43a7-a85a-286066c436b8": {
       "company": "RTX",
       "first_seen": "2026-08-04T09:10:06+00:00",
@@ -23967,5 +23995,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-20T14:08:59+00:00"
+  "updated_at": "2026-08-20T14:51:41+00:00"
 }
