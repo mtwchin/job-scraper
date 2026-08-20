@@ -1,5 +1,5 @@
 {
-  "count": 3428,
+  "count": 3429,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -19471,6 +19471,13 @@
       "title": "Electrical Product Engineer",
       "url": "https://jobs.jobvite.com/synqor-careers/job/o2EKxfwH?nl=1&nl=1&fr=false"
     },
+    "simplify:sysco::simplify-1c385c6d-d388-465d-9ccb-4051032c9a09": {
+      "company": "Sysco",
+      "first_seen": "2026-08-20T07:09:33+00:00",
+      "posted_at": "1787184000",
+      "title": "Software Engineer Intern",
+      "url": "https://wd5.myworkdaysite.com/recruiting/sysco/syscocareers/job/Sysco-Corporate/Software-Dev-Engineer-Intern_R263660"
+    },
     "simplify:system canada technologies::simplify-d53eee07-0e15-482c-8a9b-e7be5a9deb57": {
       "company": "System Canada Technologies",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -23939,5 +23946,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-20T03:28:46+00:00"
+  "updated_at": "2026-08-20T07:09:33+00:00"
 }
