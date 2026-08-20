@@ -1,5 +1,5 @@
 {
-  "count": 3438,
+  "count": 3440,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -550,6 +550,20 @@
       "first_seen": "2026-06-29T01:53:57+00:00",
       "title": "AI Software Engineering Undergraduate Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/AI-Software-Engineering-Undergraduate-Intern_JR0285167"
+    },
+    "intel::Software-Engineer-Graduate-Intern_JR0286489": {
+      "company": "Intel",
+      "first_seen": "2026-08-20T16:17:24+00:00",
+      "posted_at": "Posted Today",
+      "title": "Software Engineer Graduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489"
+    },
+    "intel::Software-Engineer-Graduate-Intern_JR0286491": {
+      "company": "Intel",
+      "first_seen": "2026-08-20T16:17:24+00:00",
+      "posted_at": "Posted Today",
+      "title": "Software Engineer Graduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineer-Graduate-Intern_JR0286491"
     },
     "jump trading::7565728": {
       "company": "Jump Trading",
@@ -24009,5 +24023,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-20T15:52:39+00:00"
+  "updated_at": "2026-08-20T16:17:24+00:00"
 }
