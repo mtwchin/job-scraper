@@ -1,5 +1,5 @@
 {
-  "count": 3455,
+  "count": 3458,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -4105,6 +4105,13 @@
       "posted_at": "1768179585",
       "title": "Software Development Engineer 1 - Early Career",
       "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R58467"
+    },
+    "simplify:blue shield of california::simplify-f8c3812a-4e5d-48e3-b329-54a28233db3a": {
+      "company": "Blue Shield of California",
+      "first_seen": "2026-08-20T23:25:08+00:00",
+      "posted_at": "1787265278",
+      "title": "Data Full Stack Engineer Intern",
+      "url": "https://ecge.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/20261580"
     },
     "simplify:bluescope::simplify-a5f67b89-39f4-44cd-835a-c44bdd136626": {
       "company": "BlueScope",
@@ -18715,6 +18722,13 @@
       "title": "Junior Software Engineer",
       "url": "https://jobs.smartrecruiters.com/Socotec/744000141326319"
     },
+    "simplify:sofi::simplify-ad0e540c-aa30-4559-a884-7ad92a21b24c": {
+      "company": "SoFi",
+      "first_seen": "2026-08-20T23:25:08+00:00",
+      "posted_at": "1787265254",
+      "title": "Associate AI Engineer - Finance Transformation",
+      "url": "https://sofi.com/careers/job/7871448003?gh_jid=7871448003"
+    },
     "simplify:solace health::simplify-a685622a-4b63-48aa-ada0-461b37b4d1ad": {
       "company": "Solace Health",
       "first_seen": "2026-08-07T00:29:54+00:00",
@@ -23923,6 +23937,13 @@
       "title": "Software Engineer Intern",
       "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
     },
+    "simplify:zipline::simplify-d8608143-b6cd-4a6e-9563-519ce1b5d368": {
+      "company": "Zipline",
+      "first_seen": "2026-08-20T23:25:08+00:00",
+      "posted_at": "1787265072",
+      "title": "Software Engineer Intern - Spring 2027",
+      "url": "https://www.zipline.com/open-roles?gh_jid=7907191003"
+    },
     "simplify:zoll medical corporation::simplify-4094133f-5f18-4aff-9d72-ecf4280916d4": {
       "company": "ZOLL Medical Corporation",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -24128,5 +24149,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-20T22:36:16+00:00"
+  "updated_at": "2026-08-20T23:25:08+00:00"
 }
