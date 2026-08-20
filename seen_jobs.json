@@ -1,5 +1,5 @@
 {
-  "count": 3430,
+  "count": 3431,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -17364,6 +17364,13 @@
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952"
     },
+    "simplify:rtx::simplify-52214d4b-ca42-4449-aed5-361b55e49eca": {
+      "company": "RTX",
+      "first_seen": "2026-08-20T10:40:17+00:00",
+      "posted_at": "1787011200",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01867905"
+    },
     "simplify:rtx::simplify-52462af1-1206-44dd-b198-4abe760812d3": {
       "company": "RTX",
       "first_seen": "2026-08-10T23:03:12+00:00",
@@ -23953,5 +23960,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-20T10:04:13+00:00"
+  "updated_at": "2026-08-20T10:40:17+00:00"
 }
