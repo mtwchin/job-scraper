@@ -1,5 +1,5 @@
 {
-  "count": 3440,
+  "count": 3455,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2951,6 +2951,13 @@
       "title": "Software Engineer - Applied Machine Learning - IS&T",
       "url": "https://jobs.apple.com/en-us/details/200677645"
     },
+    "simplify:apple::simplify-f58075d4-27db-4102-bd57-53ec0e1878fb": {
+      "company": "Apple",
+      "first_seen": "2026-08-20T22:36:15+00:00",
+      "posted_at": "1787263809",
+      "title": "Darwin Runtime Engineer - Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200662330"
+    },
     "simplify:applied intuition::simplify-ee50e885-5709-43c5-adf1-bd280a6e8786": {
       "company": "Applied Intuition",
       "first_seen": "2026-08-15T01:54:42+00:00",
@@ -5604,6 +5611,13 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60/application"
     },
+    "simplify:centific::simplify-2beb3742-f77d-4a70-b6cd-ed3c76034f75": {
+      "company": "Centific",
+      "first_seen": "2026-08-20T22:36:16+00:00",
+      "posted_at": "1787184000",
+      "title": "Software Engineer",
+      "url": "https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Redmond-Washington/Software-Engineer_JR108257-1"
+    },
     "simplify:centific::simplify-ca93362f-f11c-4d3b-a867-f3c1417de4e6": {
       "company": "Centific",
       "first_seen": "2026-07-21T17:19:03+00:00",
@@ -7501,6 +7515,13 @@
       "title": "Software Engineer Associate",
       "url": "https://digitalfoundry.applytojob.com/apply/AImbCdvOV4/Software-Engineer-Associate"
     },
+    "simplify:digitalocean::simplify-0247b49e-38be-4728-a3dc-e13bc968939d": {
+      "company": "DigitalOcean",
+      "first_seen": "2026-08-20T22:36:16+00:00",
+      "posted_at": "1787263453",
+      "title": "Software Engineer - Automation",
+      "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=8101988"
+    },
     "simplify:digs::simplify-c6638cbe-82ec-44ed-a6db-0a7bb2d60c6a": {
       "company": "Digs",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -8166,6 +8187,13 @@
       "title": "Automation Engineer 1 - R&D",
       "url": "https://exactsciences.wd1.myworkdayjobs.com/en-CA/Exact_Sciences/job/US---CA---San-Diego/Automation-Engineer-I--R-D_R26-13732"
     },
+    "simplify:excellus bcbs::simplify-a9acc9fa-190c-4641-b234-8414d7b2b4bd": {
+      "company": "Excellus BCBS",
+      "first_seen": "2026-08-20T22:36:16+00:00",
+      "posted_at": "1787184000",
+      "title": "Software Engineering Intern - Multiple Openings",
+      "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-2"
+    },
     "simplify:exelixis::simplify-36649be5-6fcf-46db-86bb-69e8d9c6ce71": {
       "company": "Exelixis",
       "first_seen": "2026-08-13T02:36:28+00:00",
@@ -8691,6 +8719,13 @@
       "title": "Software Engineer Intern - Engineering and Operations",
       "url": "http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern"
     },
+    "simplify:framatome::simplify-d5e5a702-bb67-4401-a6b9-bb2f4cf29ce6": {
+      "company": "Framatome",
+      "first_seen": "2026-08-20T22:36:16+00:00",
+      "posted_at": "1787263464",
+      "title": "Computer Science Engineer Intern Co-op - Univ/Co-op Technical",
+      "url": "https://careers-framatome.icims.com/jobs/3295/job?mobile=true&needsRedirect=false"
+    },
     "simplify:freddie mac::simplify-fc4f2880-dfbe-4370-a129-24ea58c9a173": {
       "company": "Freddie Mac",
       "first_seen": "2026-08-03T16:28:01+00:00",
@@ -8963,6 +8998,13 @@
       "posted_at": "1785853200",
       "title": "Graduate Software Engineer",
       "url": "https://jobs.ashbyhq.com/gearset/4584873d-9645-4241-84bc-36cc4c504e7e/application?embed=true"
+    },
+    "simplify:geico::simplify-9316e11a-93d7-473d-96fb-9246383ff169": {
+      "company": "Geico",
+      "first_seen": "2026-08-20T22:36:16+00:00",
+      "posted_at": "1787184000",
+      "title": "Technology Development Program Intern - Software Engineer Development Track",
+      "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Technology-Development-Program---Software-Engineer-Development-Track_R0065373"
     },
     "simplify:gemini::simplify-33d49b99-ffcc-4d51-ab65-58a97d2afbf0": {
       "company": "Gemini",
@@ -12779,6 +12821,13 @@
       "title": "Technology - Development - Design",
       "url": "https://job-boards.greenhouse.io/mcmastercarr/jobs/4250906009"
     },
+    "simplify:mcwane::simplify-712a3ec5-f6e5-40e1-a7df-ecfb0e6d95d2": {
+      "company": "McWane",
+      "first_seen": "2026-08-20T22:36:16+00:00",
+      "posted_at": "1787263524",
+      "title": "Programmer Apprentice",
+      "url": "https://jobs.smartrecruiters.com/McWaneInc/3743990014702976"
+    },
     "simplify:mechanize::simplify-25a28b63-1772-404b-a5c1-29c24b2ceb2d": {
       "company": "Mechanize",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -14725,6 +14774,13 @@
       "title": "Associate Applications Developer",
       "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Associate-Applications-Developer_R156425-2"
     },
+    "simplify:ohio state university::simplify-d2562450-53cf-4da3-bbfb-1951dd76f3d9": {
+      "company": "Ohio State University",
+      "first_seen": "2026-08-20T22:36:16+00:00",
+      "posted_at": "1787184000",
+      "title": "Associate Applications Analyst",
+      "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Associate-Applications-Analyst_R157300-1"
+    },
     "simplify:oklo::simplify-279e7051-e541-4865-b50d-cd10a4f29571": {
       "company": "Oklo",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -16118,6 +16174,13 @@
       "title": "Epic Associate Analyst",
       "url": "https://careers-primehealthcare.icims.com/jobs/210062/job?mobile=true&needsRedirect=false"
     },
+    "simplify:principal financial group::simplify-3100d306-93e7-4a1e-8e0b-4af8d4320e40": {
+      "company": "Principal Financial Group",
+      "first_seen": "2026-08-20T22:36:16+00:00",
+      "posted_at": "1787263457",
+      "title": "Software Engineer 1 / Software Engineer 2 - Salesforce focused",
+      "url": "https://careers.principal.com/jobs/51898?icims=1"
+    },
     "simplify:probook::simplify-78ed4c00-f810-4174-be06-0382cf25176f": {
       "company": "Probook",
       "first_seen": "2026-08-01T11:50:42+00:00",
@@ -17280,6 +17343,13 @@
       "title": "Digital Finance Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Digital-Finance---Co-op--Hybrid-_01863764"
     },
+    "simplify:rtx::simplify-15d3a6ce-277c-4231-b321-686c45849a85": {
+      "company": "RTX",
+      "first_seen": "2026-08-20T22:36:16+00:00",
+      "posted_at": "1787184000",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-Intern--Summer-2027-_01867664"
+    },
     "simplify:rtx::simplify-1607a4ba-3b77-40cc-aa04-244640bdc0f7": {
       "company": "RTX",
       "first_seen": "2026-08-18T06:58:11+00:00",
@@ -17461,6 +17531,13 @@
       "posted_at": "1786492800",
       "title": "Data Analytics and Methods Engineer - Mission Applied Science & Technology",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I_01866279"
+    },
+    "simplify:rtx::simplify-6321b5bb-8e7e-4045-9080-c2afa03d5011": {
+      "company": "RTX",
+      "first_seen": "2026-08-20T22:36:16+00:00",
+      "posted_at": "1787184000",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01868305"
     },
     "simplify:rtx::simplify-6f101397-849a-4dbf-ab58-ae8ee1dd3ab2": {
       "company": "RTX",
@@ -20066,6 +20143,13 @@
       "title": "Operational Automation Software Engineer Intern - Operational Automation Engineer - Residential Energy",
       "url": "https://www.tesla.com/careers/search/job/271352"
     },
+    "simplify:tesla::simplify-7e502eb4-3d9c-4f91-8e83-a471504d8a4b": {
+      "company": "Tesla",
+      "first_seen": "2026-08-20T22:36:15+00:00",
+      "posted_at": "1787264409",
+      "title": "Internship - Fullstack Engineer - Applications Engineering - Winter/Spring 2027",
+      "url": "https://www.tesla.com/careers/search/job/280820"
+    },
     "simplify:tesla::simplify-8422ee5e-41c5-42df-93e9-13a2f1f8efda": {
       "company": "Tesla",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -21907,6 +21991,13 @@
       "title": "Agentic Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5177892007"
     },
+    "simplify:toshiba global commerce::simplify-e780d84e-674d-477d-9d4c-829d501deca8": {
+      "company": "Toshiba Global Commerce",
+      "first_seen": "2026-08-20T22:36:16+00:00",
+      "posted_at": "1787264251",
+      "title": "AI Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214224007"
+    },
     "simplify:townsquare media::simplify-70c0ea8f-1dde-4f9a-a70b-45bfe8fb5d50": {
       "company": "Townsquare Media",
       "first_seen": "2026-07-17T16:51:50+00:00",
@@ -22403,6 +22494,13 @@
       "posted_at": "1783029921",
       "title": "Applications Programmer 1",
       "url": "https://ucf.wd1.myworkdayjobs.com/careers/job/Orlando-FL-Main-Campus/Applications-Programmer-I_R113630"
+    },
+    "simplify:university of central florida::simplify-f61cd3df-168a-4041-b903-df204e464cd8": {
+      "company": "University of Central Florida",
+      "first_seen": "2026-08-20T22:36:16+00:00",
+      "posted_at": "1787184000",
+      "title": "Software Developer 1",
+      "url": "https://ucf.wd1.myworkdayjobs.com/careers/job/RESEARCH-PARK/Software-Developer-I_R113738"
     },
     "simplify:university of chicago::simplify-44741ba8-e41f-4482-be57-c7316565d787": {
       "company": "University of Chicago",
@@ -23342,6 +23440,13 @@
       "title": "Engineer 1 - UiPath Developer",
       "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Engineer-I---UiPath-Developer_R13659"
     },
+    "simplify:western alliance::simplify-f069fafb-ce10-4a57-ad75-490ec5dd3b38": {
+      "company": "Western Alliance",
+      "first_seen": "2026-08-20T22:36:16+00:00",
+      "posted_at": "1787184000",
+      "title": "Engineer 1 - AI Forward Engineer",
+      "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Phoenix-AZ/Engineer-I---AI-Forward-Engineer_R13619"
+    },
     "simplify:western digital::simplify-01925f31-564d-4bc0-94fc-2a2717d3132d": {
       "company": "Western Digital",
       "first_seen": "2026-07-20T23:15:00+00:00",
@@ -24023,5 +24128,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-20T16:17:24+00:00"
+  "updated_at": "2026-08-20T22:36:16+00:00"
 }
