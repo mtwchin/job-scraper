@@ -1,5 +1,5 @@
 {
-  "count": 3481,
+  "count": 3482,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -16279,6 +16279,13 @@
       "title": "Software Engineer Intern",
       "url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/apply"
     },
+    "simplify:pplsi::simplify-2a701480-0cb2-4855-8732-d762f6105134": {
+      "company": "PPLSI",
+      "first_seen": "2026-08-21T14:57:47+00:00",
+      "posted_at": "1787270400",
+      "title": "Software Engineer",
+      "url": "https://legalshieldcorp.wd1.myworkdayjobs.com/en-US/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820"
+    },
     "simplify:praetorian::simplify-e04180ab-1284-468d-a4b4-3231f24db581": {
       "company": "Praetorian",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -24310,5 +24317,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-21T11:14:56+00:00"
+  "updated_at": "2026-08-21T14:57:47+00:00"
 }
