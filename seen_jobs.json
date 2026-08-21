@@ -1,5 +1,5 @@
 {
-  "count": 3473,
+  "count": 3476,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -7129,6 +7129,13 @@
       "posted_at": "1781705048",
       "title": "Graduate STEM Developer",
       "url": "https://jobs.smartrecruiters.com/DataIntellect/744000132642599"
+    },
+    "simplify:databricks::simplify-1a0df397-2083-456f-9ecb-137eec7603ef": {
+      "company": "Databricks",
+      "first_seen": "2026-08-21T07:32:42+00:00",
+      "posted_at": "1787293913",
+      "title": "Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8732364002"
     },
     "simplify:datadog::simplify-47fe2157-ddd3-4233-87d7-cf96058a286d": {
       "company": "Datadog",
@@ -14578,6 +14585,13 @@
       "title": "AI Developer Co-op",
       "url": "https://jobs.ashbyhq.com/NPX/4a250618-dcfb-4ec9-8687-b2be9e2d6ef2/application"
     },
+    "simplify:nucleus biologics::simplify-1125c69f-65e1-4147-8a75-a88ddc41e3b2": {
+      "company": "Nucleus Biologics",
+      "first_seen": "2026-08-21T07:32:43+00:00",
+      "posted_at": "1787294333",
+      "title": "Full Stack Engineer",
+      "url": "https://ats.rippling.com/nucleus-biologics-careers/jobs/af1ea033-27f0-42e8-bac9-09434a5ffbe3"
+    },
     "simplify:nuro::simplify-1704991d-f184-40b1-91ef-a74b76753d06": {
       "company": "Nuro",
       "first_seen": "2026-07-15T00:13:06+00:00",
@@ -15011,6 +15025,13 @@
       "posted_at": "1779325605",
       "title": "Software Engineer Intern - Ovip",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334333"
+    },
+    "simplify:oracle::simplify-9d6edf98-2a6c-44ed-8384-9c264b930e20": {
+      "company": "Oracle",
+      "first_seen": "2026-08-21T07:32:42+00:00",
+      "posted_at": "1787294384",
+      "title": "Support Engineer 1",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343611"
     },
     "simplify:oracle::simplify-a3b2484c-c68d-46ca-ac1b-30899e81b01f": {
       "company": "Oracle",
@@ -24254,5 +24275,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-21T06:53:46+00:00"
+  "updated_at": "2026-08-21T07:32:43+00:00"
 }
