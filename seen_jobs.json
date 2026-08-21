@@ -1,5 +1,5 @@
 {
-  "count": 3480,
+  "count": 3481,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -6856,6 +6856,13 @@
       "posted_at": "1786665600",
       "title": "NetSuite Implementation Intern - Consulting Practice",
       "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Intern_R-71040"
+    },
+    "simplify:crowe::simplify-6c0e9a46-463c-43dc-8bb1-7b4c40a5ab14": {
+      "company": "Crowe",
+      "first_seen": "2026-08-21T11:14:56+00:00",
+      "posted_at": "1786665600",
+      "title": "Power Platform Business Solutions Intern - Consulting Practice",
+      "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Power-Platform-Business-Solutions-Intern_R-71035"
     },
     "simplify:crowe::simplify-c2fd6af7-2f86-4ff8-9034-27a47809d608": {
       "company": "Crowe",
@@ -24303,5 +24310,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-21T10:24:17+00:00"
+  "updated_at": "2026-08-21T11:14:56+00:00"
 }
