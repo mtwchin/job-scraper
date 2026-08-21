@@ -1,5 +1,5 @@
 {
-  "count": 3501,
+  "count": 3505,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3769,6 +3769,13 @@
       "posted_at": "1784586881",
       "title": "Software Engineer",
       "url": "https://job-boards.greenhouse.io/babelstreet/jobs/8075011"
+    },
+    "simplify:bae systems onearc usa, inc::simplify-360847fa-a110-475d-aa7e-121fcba41e78": {
+      "company": "BAE Systems OneArc USA, Inc",
+      "first_seen": "2026-08-21T20:37:46+00:00",
+      "posted_at": "1787342947",
+      "title": "Software Developer - Distributed Simulation Technology",
+      "url": "https://onearc.bamboohr.com/careers/402/"
     },
     "simplify:bae systems::simplify-65849b96-f8c1-491c-a19f-a23719bc19ce": {
       "company": "BAE Systems",
@@ -8873,6 +8880,13 @@
       "title": "Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/FSH/71b6506a-10c2-4498-9cff-1009e0582bda/application?embed=true"
     },
+    "simplify:fullbay::simplify-e4dd1ece-36bc-4785-88a7-beb7bdfb4414": {
+      "company": "Fullbay",
+      "first_seen": "2026-08-21T20:37:46+00:00",
+      "posted_at": "1787343488",
+      "title": "Software Engineer Intern",
+      "url": "https://fullbay.bamboohr.com/careers/131/"
+    },
     "simplify:fuze health::simplify-7d8768dc-f8bf-486b-bcea-cb2578964f69": {
       "company": "Fuze Health",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -11168,6 +11182,13 @@
       "posted_at": "1787033736",
       "title": "Part-Time Student - IT - Technology",
       "url": "https://johndeere.eightfold.ai/careers/job/137482779107"
+    },
+    "simplify:john deere::simplify-92a85969-0d2c-40f0-aad8-3531a7cde8e9": {
+      "company": "John Deere",
+      "first_seen": "2026-08-21T20:37:46+00:00",
+      "posted_at": "1787343488",
+      "title": "Product Engineering Student - Product Engineering",
+      "url": "https://johndeere.eightfold.ai/careers/job/137482894611"
     },
     "simplify:john deere::simplify-9bbd470f-bd28-4072-9e6c-9f1fd6623c53": {
       "company": "John Deere",
@@ -19086,6 +19107,13 @@
       "title": "Software Engineer Associate",
       "url": "https://sonyglobal.wd1.myworkdayjobs.com/Sony_Europe_Careers/job/Basingstoke/Associate-Software-Engineer_JR-119414-1"
     },
+    "simplify:sophos::simplify-382edd59-362c-4067-97e0-f333684dab49": {
+      "company": "Sophos",
+      "first_seen": "2026-08-21T20:37:46+00:00",
+      "posted_at": "1782914766",
+      "title": "Software Engineer 1",
+      "url": "https://jobs.lever.co/sophos/797834ca-58be-4a7c-a220-b2eefd449d97/apply"
+    },
     "simplify:sosi::simplify-f2c37266-0aea-45bc-b19c-fff00c5e3490": {
       "company": "SOSi",
       "first_seen": "2026-08-12T03:29:34+00:00",
@@ -24450,5 +24478,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-21T20:09:42+00:00"
+  "updated_at": "2026-08-21T20:37:46+00:00"
 }
