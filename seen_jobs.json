@@ -1,5 +1,5 @@
 {
-  "count": 3515,
+  "count": 3516,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -19114,6 +19114,13 @@
       "title": "JavaScript Software Engineer 1 - TS/SCI with Poly",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4272523"
     },
+    "simplify:solid power::simplify-214fc73f-c4d9-4c6d-8455-16b74d79ce68": {
+      "company": "Solid Power",
+      "first_seen": "2026-08-21T23:02:56+00:00",
+      "posted_at": "1787352175",
+      "title": "Product Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/solidpower/jobs/6150710004"
+    },
     "simplify:solink::simplify-17d9db99-a20c-4b11-b8d4-c4f90a8148cb": {
       "company": "Solink",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -24548,5 +24555,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-21T22:47:23+00:00"
+  "updated_at": "2026-08-21T23:02:56+00:00"
 }
