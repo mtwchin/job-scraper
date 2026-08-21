@@ -1,5 +1,5 @@
 {
-  "count": 3476,
+  "count": 3479,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -4595,6 +4595,13 @@
       "posted_at": "1785748594",
       "title": "Software Engineer Graduate - AI Infrastructure - Compute Efficiency & Scheduling",
       "url": "https://jobs.bytedance.com/en/position/7668799019359357237/detail"
+    },
+    "simplify:bytedance::simplify-67f9183a-b3d2-41ab-a0e5-2b1c829e2a9c": {
+      "company": "ByteDance",
+      "first_seen": "2026-08-21T09:57:00+00:00",
+      "posted_at": "1787304258",
+      "title": "Software Engineer Graduate - AML-Engine-Forge Platform",
+      "url": "https://jobs.bytedance.com/en/position/7673306902554102069/detail"
     },
     "simplify:bytedance::simplify-6f26ea4e-9081-475e-a1fa-ab0a978643f5": {
       "company": "ByteDance",
@@ -11883,6 +11890,13 @@
       "title": "Associate Software Engineer",
       "url": "https://jobs.l3harris.com/job/Clifton-Associate,-Software-Engineering-NJ-07014/1420387700/?ats=successfactors"
     },
+    "simplify:l3harris technologies::simplify-7244fb2c-e4f5-41ea-82cd-95263ef93961": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-08-21T09:57:00+00:00",
+      "posted_at": "1787303760",
+      "title": "Software Engineer Associate - TS/SCI",
+      "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineering-TSSCI-FL-32904/1421809500/?ats=successfactors"
+    },
     "simplify:l3harris technologies::simplify-72c67b39-d84c-46b6-b7b6-e9e97c47087d": {
       "company": "L3Harris Technologies",
       "first_seen": "2026-07-16T16:58:03+00:00",
@@ -15872,6 +15886,13 @@
       "posted_at": "1782885855",
       "title": "Java Software Engineer",
       "url": "https://careers-peraton.icims.com/jobs/168173/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:peraton::simplify-29762137-0e7d-4af8-9ef1-9ff70f9eda4f": {
+      "company": "Peraton",
+      "first_seen": "2026-08-21T09:57:00+00:00",
+      "posted_at": "1784556714",
+      "title": "Web Architect",
+      "url": "https://careers-peraton.icims.com/jobs/168482/job?mobile=true&needsRedirect=false"
     },
     "simplify:peraton::simplify-3e18b0f3-e8d6-4b60-b92d-963abebca45b": {
       "company": "Peraton",
@@ -24275,5 +24296,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-21T07:32:43+00:00"
+  "updated_at": "2026-08-21T09:57:00+00:00"
 }
