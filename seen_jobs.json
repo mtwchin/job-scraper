@@ -1,5 +1,5 @@
 {
-  "count": 3469,
+  "count": 3473,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2425,6 +2425,34 @@
       "posted_at": "1787034006",
       "title": "Member of Technical Staff New Grad",
       "url": "https://jobs.ashbyhq.com/ambral/bfcfbd07-03b9-4e7c-82b1-b17d7c3a5e90/application?embed=true"
+    },
+    "simplify:amd::simplify-2057d1a3-289b-49ae-8328-fa3527c533c5": {
+      "company": "AMD",
+      "first_seen": "2026-08-21T06:53:46+00:00",
+      "posted_at": "1787293338",
+      "title": "Software Engineer Intern/Co-op - Masters",
+      "url": "https://careers.amd.com/jobs/91176?icims=1"
+    },
+    "simplify:amd::simplify-3142b23d-4dfa-443e-82dd-703b3711394b": {
+      "company": "AMD",
+      "first_seen": "2026-08-21T06:53:46+00:00",
+      "posted_at": "1787293338",
+      "title": "Software Engineer Intern/Co-op",
+      "url": "https://careers.amd.com/jobs/91180?icims=1"
+    },
+    "simplify:amd::simplify-3e9d3b5d-b9b8-4556-8c46-75ca36c2b15d": {
+      "company": "AMD",
+      "first_seen": "2026-08-21T06:53:46+00:00",
+      "posted_at": "1787293338",
+      "title": "Software Engineer Intern/Co-op",
+      "url": "https://careers.amd.com/jobs/90891?icims=1"
+    },
+    "simplify:amd::simplify-944978fc-7eeb-4346-82ad-857bec5239a5": {
+      "company": "AMD",
+      "first_seen": "2026-08-21T06:53:46+00:00",
+      "posted_at": "1787293338",
+      "title": "Software Engineer Intern/Co-op",
+      "url": "https://careers.amd.com/jobs/90947?icims=1"
     },
     "simplify:amentum::simplify-bcbeaa17-8b2a-4a48-bc56-ae7f245fa7f0": {
       "company": "Amentum",
@@ -24226,5 +24254,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-21T01:49:30+00:00"
+  "updated_at": "2026-08-21T06:53:46+00:00"
 }
