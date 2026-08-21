@@ -1,5 +1,5 @@
 {
-  "count": 3516,
+  "count": 3518,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2439,6 +2439,13 @@
       "posted_at": "1787034006",
       "title": "Member of Technical Staff New Grad",
       "url": "https://jobs.ashbyhq.com/ambral/bfcfbd07-03b9-4e7c-82b1-b17d7c3a5e90/application?embed=true"
+    },
+    "simplify:ambrook::simplify-45b27f18-198a-4ef0-b8f3-abb8018e7c99": {
+      "company": "Ambrook",
+      "first_seen": "2026-08-21T23:31:35+00:00",
+      "posted_at": "1787353655",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456/application?embed=true"
     },
     "simplify:amd::simplify-2057d1a3-289b-49ae-8328-fa3527c533c5": {
       "company": "AMD",
@@ -7927,6 +7934,13 @@
       "posted_at": "1785715200",
       "title": "Software and Database Engineer 1",
       "url": "https://easternshipbuilding.wd12.myworkdayjobs.com/EasternShipbuildingGroupsystem/job/Panama-City-FL/Software---Database-Engineer-I_JR101186"
+    },
+    "simplify:eaton::simplify-faf1be1b-2e81-44f4-8523-a7ca9105f6f1": {
+      "company": "Eaton",
+      "first_seen": "2026-08-21T23:31:35+00:00",
+      "posted_at": "1787353635",
+      "title": "Application Engineer Co-op - Marketing",
+      "url": "https://eaton.eightfold.ai/careers/job/687238323389"
     },
     "simplify:echo global logistics::simplify-567f686f-9093-4a26-b732-e7aa4ee87b29": {
       "company": "Echo Global Logistics",
@@ -24555,5 +24569,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-21T23:02:56+00:00"
+  "updated_at": "2026-08-21T23:31:35+00:00"
 }
