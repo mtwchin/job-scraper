@@ -1,5 +1,5 @@
 {
-  "count": 3482,
+  "count": 3483,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -278,6 +278,13 @@
       "posted_at": "Posted Today",
       "title": "Associate, Software Engineer, New Grad Card Expansion",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247336"
+    },
+    "capital one::Associate--Software-Engineer--New-Grad-Card-Expansion_R249083": {
+      "company": "Capital One",
+      "first_seen": "2026-08-21T15:59:22+00:00",
+      "posted_at": "Posted Today",
+      "title": "Associate, Software Engineer, New Grad Card Expansion",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R249083"
     },
     "capital one::Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022": {
       "company": "Capital One",
@@ -24317,5 +24324,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-21T14:57:47+00:00"
+  "updated_at": "2026-08-21T15:59:22+00:00"
 }
