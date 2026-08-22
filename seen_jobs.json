@@ -1,5 +1,5 @@
 {
-  "count": 3518,
+  "count": 3521,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3076,6 +3076,13 @@
       "posted_at": "1783472962",
       "title": "Software Engineer 2 \u2013 New College Grad",
       "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398"
+    },
+    "simplify:applied materials::simplify-ddb8f300-267b-4c8d-8fcf-9e075ae95dfb": {
+      "company": "Applied Materials",
+      "first_seen": "2026-08-22T01:55:23+00:00",
+      "posted_at": "1787270400",
+      "title": "Software Engineer 1",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/KalispellMT/Software-Engineer-I---New-College-Grad--Bachelors---Kalispell--MT-_R2626859"
     },
     "simplify:applied materials::simplify-e82e6804-4e24-4e45-9518-2d1264d42e0f": {
       "company": "Applied Materials",
@@ -22026,6 +22033,13 @@
       "title": "Backend Software Engineer Intern - Global E-Commerce",
       "url": "https://lifeattiktok.com/search/7668834837268138293"
     },
+    "simplify:tiktok::simplify-b9776d83-bf68-42d9-88e2-4ebdd4ffda09": {
+      "company": "TikTok",
+      "first_seen": "2026-08-22T01:55:22+00:00",
+      "posted_at": "1787361563",
+      "title": "Software Engineer Intern",
+      "url": "https://lifeattiktok.com/search/7676276048527214901"
+    },
     "simplify:tiktok::simplify-bb606683-d0a7-4560-b7cd-e9d06048c78a": {
       "company": "TikTok",
       "first_seen": "2026-08-06T03:59:59+00:00",
@@ -22599,6 +22613,13 @@
       "posted_at": "1778796385",
       "title": "Software Engineer - 1-2 - Prototype",
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5137655007"
+    },
+    "simplify:true anomaly::simplify-7a70a260-965f-4aec-902f-7d5704f201a2": {
+      "company": "True Anomaly",
+      "first_seen": "2026-08-22T01:55:23+00:00",
+      "posted_at": "1787360833",
+      "title": "Software Engineer 1 New Grad - QA",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007"
     },
     "simplify:true anomaly::simplify-915c9551-f026-4bb8-bd3c-b58af6e93968": {
       "company": "True Anomaly",
@@ -24569,5 +24590,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-21T23:31:35+00:00"
+  "updated_at": "2026-08-22T01:55:23+00:00"
 }
