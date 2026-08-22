@@ -1,5 +1,5 @@
 {
-  "count": 3527,
+  "count": 3528,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -19583,6 +19583,13 @@
       "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
       "url": "https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25"
     },
+    "simplify:springs window fashions::simplify-cbb3ab08-f178-4e8a-b8f7-95efd3b9dd22": {
+      "company": "Springs Window Fashions",
+      "first_seen": "2026-08-22T14:35:20+00:00",
+      "posted_at": "1787407578",
+      "title": "Application Engineering Intern - Summer 2027",
+      "url": "https://careers-springswindowfashions.icims.com/jobs/12893/job?mobile=true&needsRedirect=false"
+    },
     "simplify:squarepoint capital::simplify-17f0421d-363e-4dcd-aa7f-0aa75fb79290": {
       "company": "Squarepoint Capital",
       "first_seen": "2026-08-10T19:44:56+00:00",
@@ -24632,5 +24639,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-22T13:31:26+00:00"
+  "updated_at": "2026-08-22T14:35:20+00:00"
 }
