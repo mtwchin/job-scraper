@@ -1,5 +1,5 @@
 {
-  "count": 3525,
+  "count": 3526,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -10328,6 +10328,13 @@
       "posted_at": "1783404634",
       "title": "Software Analyst Intern",
       "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--12months-_R1012380-1"
+    },
+    "simplify:hitachi::simplify-7b812f43-6cd1-4741-8596-1eb209757615": {
+      "company": "Hitachi",
+      "first_seen": "2026-08-22T10:37:08+00:00",
+      "posted_at": "1787356800",
+      "title": "Engineering Intern",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571"
     },
     "simplify:hitachi::simplify-a86f5630-f0c3-4242-8953-47503546c39f": {
       "company": "Hitachi",
@@ -24618,5 +24625,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-22T09:33:50+00:00"
+  "updated_at": "2026-08-22T10:37:08+00:00"
 }
