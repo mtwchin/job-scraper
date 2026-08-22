@@ -1,5 +1,5 @@
 {
-  "count": 3524,
+  "count": 3525,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -13038,6 +13038,13 @@
       "title": "Associate Software Engineer",
       "url": "https://jobs.lever.co/matillion/62ae3359-b2ea-43bc-bed7-574e939f66e2/apply"
     },
+    "simplify:maven securities::simplify-24751870-3351-4625-9977-345222746d6e": {
+      "company": "Maven Securities",
+      "first_seen": "2026-08-22T09:33:50+00:00",
+      "posted_at": "1785767388",
+      "title": "Graduate Developer",
+      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802"
+    },
     "simplify:maven securities::simplify-6437f9fb-a2c5-4f46-b13c-9e9bea098167": {
       "company": "Maven Securities",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -24611,5 +24618,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-22T03:26:25+00:00"
+  "updated_at": "2026-08-22T09:33:50+00:00"
 }
