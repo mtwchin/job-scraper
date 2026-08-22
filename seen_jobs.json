@@ -1,5 +1,5 @@
 {
-  "count": 3521,
+  "count": 3524,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -7956,6 +7956,13 @@
       "title": "Associate Software Support Engineer",
       "url": "https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Chicago-IL/Associate-Software-Support-Engineer_R4615-1"
     },
+    "simplify:ecolab::simplify-a9777bd4-5efc-4a60-a627-f2e6cfabbfcf": {
+      "company": "Ecolab",
+      "first_seen": "2026-08-22T03:26:25+00:00",
+      "posted_at": "1787270400",
+      "title": "Digital & AI Technology Intern",
+      "url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249"
+    },
     "simplify:edgewater it::simplify-2d577c12-94df-4e2a-bc76-56cbcdcf573a": {
       "company": "Edgewater IT",
       "first_seen": "2026-08-05T22:37:23+00:00",
@@ -7976,6 +7983,13 @@
       "posted_at": "1776953271",
       "title": "Reverse Engineer Anti-Cheat",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Reverse-Engineer-Anti-Cheat/213132"
+    },
+    "simplify:elevate semiconductor::simplify-9d5887c5-a484-493a-a9cd-38e0b51c1ef6": {
+      "company": "Elevate Semiconductor",
+      "first_seen": "2026-08-22T03:26:25+00:00",
+      "posted_at": "1787366024",
+      "title": "Product Engineering Intern",
+      "url": "https://apply.workable.com/elevate-semiconductor/j/F234DECA3C/apply"
     },
     "simplify:elevenlabs::simplify-8ea72754-f0f4-4214-a82a-7dfe08a5b26c": {
       "company": "ElevenLabs",
@@ -13436,6 +13450,13 @@
       "posted_at": "1778767648",
       "title": "Software Engineer 2 - Foundry Agents - CoreAI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863227"
+    },
+    "simplify:microsoft::simplify-6245b5b1-9a7d-4d30-aabb-19a2cedbde40": {
+      "company": "Microsoft",
+      "first_seen": "2026-08-22T03:26:25+00:00",
+      "posted_at": "1787366266",
+      "title": "AI Software Engineer Intern - Edge",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054"
     },
     "simplify:microsoft::simplify-7e143f06-1c28-41b7-9291-53a869d86325": {
       "company": "Microsoft",
@@ -24590,5 +24611,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-22T01:55:23+00:00"
+  "updated_at": "2026-08-22T03:26:25+00:00"
 }
