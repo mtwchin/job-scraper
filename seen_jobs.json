@@ -1,5 +1,5 @@
 {
-  "count": 3526,
+  "count": 3527,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3279,6 +3279,13 @@
       "posted_at": "1785477885",
       "title": "Associate AI Builder",
       "url": "https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0/apply"
+    },
+    "simplify:ascension::simplify-ded4c8dd-a85f-4856-a22e-0d16e9b77a68": {
+      "company": "Ascension",
+      "first_seen": "2026-08-22T13:31:26+00:00",
+      "posted_at": "1787343096",
+      "title": "Application Technology Specialist - Clinical Imaging",
+      "url": "https://jobs.ascension.org/us/en/job/459181"
     },
     "simplify:ashby::simplify-51cd0743-ca8b-4606-b478-0c3aa6d02dd0": {
       "company": "Ashby",
@@ -24625,5 +24632,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-22T10:37:08+00:00"
+  "updated_at": "2026-08-22T13:31:26+00:00"
 }
