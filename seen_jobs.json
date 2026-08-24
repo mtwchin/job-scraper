@@ -1,5 +1,5 @@
 {
-  "count": 3553,
+  "count": 3554,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -341,6 +341,13 @@
       "posted_at": "Posted Today",
       "title": "Software Engineer I (Full Time) \u2013 United States",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-I--Full-Time----United-States_1449197"
+    },
+    "cisco::Software-Engineer-I--Full-Time----United-States_2023527": {
+      "company": "Cisco",
+      "first_seen": "2026-08-24T19:16:56+00:00",
+      "posted_at": "Posted Today",
+      "title": "Software Engineer I (Full Time) - United States",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527"
     },
     "cohere::8c035d3d-081d-4c8a-914a-72f4efaad254": {
       "company": "Cohere",
@@ -24814,5 +24821,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-24T16:58:49+00:00"
+  "updated_at": "2026-08-24T19:16:56+00:00"
 }
