@@ -1,5 +1,5 @@
 {
-  "count": 3528,
+  "count": 3529,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -16923,6 +16923,13 @@
       "title": "Front End Developer Intern",
       "url": "https://jobs.smartrecruiters.com/RegDeskInc/92145731"
     },
+    "simplify:rei systems::simplify-9144eb86-7f92-4d1f-8b3a-4bb8389b35d9": {
+      "company": "REI Systems",
+      "first_seen": "2026-08-24T01:50:12+00:00",
+      "posted_at": "1787534651",
+      "title": "Associate Software Engineer - Salesforce",
+      "url": "https://careers-reisystems.icims.com/jobs/3495/job?mobile=true&needsRedirect=false"
+    },
     "simplify:relativity space::simplify-b2c6199d-57c1-4fbb-9de4-1dbb413f3c65": {
       "company": "Relativity Space",
       "first_seen": "2026-08-18T23:23:41+00:00",
@@ -24639,5 +24646,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-22T14:35:20+00:00"
+  "updated_at": "2026-08-24T01:50:12+00:00"
 }
