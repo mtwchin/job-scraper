@@ -1,5 +1,5 @@
 {
-  "count": 3551,
+  "count": 3552,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -13857,6 +13857,13 @@
       "title": "Graduate Software Engineer",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R62287"
     },
+    "simplify:motorola::simplify-40a73eb1-1878-4203-a116-82e2ad5c39c2": {
+      "company": "Motorola",
+      "first_seen": "2026-08-24T16:18:31+00:00",
+      "posted_at": "1787529600",
+      "title": "Android Application Developer Intern - Summer 2027",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740"
+    },
     "simplify:motorola::simplify-730477dc-023e-4e21-aa1a-3fa0813bafb5": {
       "company": "Motorola",
       "first_seen": "2026-08-01T14:12:59+00:00",
@@ -24800,5 +24807,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-24T15:50:40+00:00"
+  "updated_at": "2026-08-24T16:18:31+00:00"
 }
