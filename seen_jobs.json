@@ -1,5 +1,5 @@
 {
-  "count": 3529,
+  "count": 3531,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -423,6 +423,13 @@
       "title": "Software Engineer Compilers Runtimes And Toolchains Early Career",
       "url": "https://www.google.com/about/careers/applications/jobs/results/111182182432547526-software-engineer-compilers-runtimes-and-toolchains-early-career"
     },
+    "google::112518690523488966": {
+      "company": "Google",
+      "first_seen": "2026-08-24T08:23:25+00:00",
+      "posted_at": "",
+      "title": "Software Developer Intern Phd Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/112518690523488966-software-developer-intern-phd-summer-2027"
+    },
     "google::120686451305128646": {
       "company": "Google",
       "first_seen": "2026-08-07T08:41:14+00:00",
@@ -468,6 +475,13 @@
       "posted_at": "",
       "title": "Software Engineering Intern Bs Summer 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027"
+    },
+    "google::91436104816698054": {
+      "company": "Google",
+      "first_seen": "2026-08-24T08:23:25+00:00",
+      "posted_at": "",
+      "title": "Software Engineering Intern Phd Summer 2026",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2026"
     },
     "google::95141459539174086": {
       "company": "Google",
@@ -24646,5 +24660,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-24T01:50:12+00:00"
+  "updated_at": "2026-08-24T08:23:25+00:00"
 }
