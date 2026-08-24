@@ -1,5 +1,5 @@
 {
-  "count": 3532,
+  "count": 3543,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -4252,6 +4252,13 @@
       "posted_at": "1782253050",
       "title": "Full Stack Engineer - Specialist",
       "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/79369"
+    },
+    "simplify:bny::simplify-660c8cf6-3acf-4729-a74a-18a72115dfa5": {
+      "company": "BNY",
+      "first_seen": "2026-08-24T15:05:46+00:00",
+      "posted_at": "1787581493",
+      "title": "Engineering Developer Intern - Engineering",
+      "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81252"
     },
     "simplify:booker dimaio, llc::simplify-05bd45cb-da24-4b7e-8939-30ee09ff4c4f": {
       "company": "Booker DiMaio, LLC",
@@ -9916,6 +9923,13 @@
       "title": "Software Developer Intern - MS",
       "url": "https://www.google.com/about/careers/applications/jobs/results/95423484271698630"
     },
+    "simplify:google::simplify-b462559b-c917-4db0-a92b-9bd0c90f0f33": {
+      "company": "Google",
+      "first_seen": "2026-08-24T15:05:45+00:00",
+      "posted_at": "1787582151",
+      "title": "Software Engineer Early Career - Multiple Teams",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/84680705375642310"
+    },
     "simplify:google::simplify-b67c806f-262a-4ec2-8ed1-de44ffbca035": {
       "company": "Google",
       "first_seen": "2026-07-21T00:09:46+00:00",
@@ -10020,6 +10034,20 @@
       "posted_at": "1785968203",
       "title": "Software Engineer & Business Systems Intern",
       "url": "https://gulfmanagement.applytojob.com/apply/pnJkrOYga9/Software-Engineer-Business-Systems-Intern"
+    },
+    "simplify:gulfstream::simplify-03055ce7-1d96-46c4-861e-8c19404e1767": {
+      "company": "Gulfstream",
+      "first_seen": "2026-08-24T15:05:46+00:00",
+      "posted_at": "1787581009",
+      "title": "Software Engineer Intern - IEF",
+      "url": "https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421863200/?ats=successfactors"
+    },
+    "simplify:gulfstream::simplify-4abd0496-bdc8-4df2-9444-8150ab63445d": {
+      "company": "Gulfstream",
+      "first_seen": "2026-08-24T15:05:46+00:00",
+      "posted_at": "1787581016",
+      "title": "Software Engineer Intern - Innovation, Engineering and Flight",
+      "url": "https://careers.gulfstream.com/job/Savannah-Spring-2027-IEF-Software-Engineer-Collegiate-Associate-Intern-GA-31401/1421676700/?ats=successfactors"
     },
     "simplify:gulfstream::simplify-aa9feb49-b586-4dba-80ab-d35720db8230": {
       "company": "Gulfstream",
@@ -13037,6 +13065,20 @@
       "posted_at": "1784505600",
       "title": "Software Engineer 1",
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Development-Engineer_R-284431"
+    },
+    "simplify:mastercard::simplify-78c03ab4-f50a-445d-9802-fb785330b50f": {
+      "company": "Mastercard",
+      "first_seen": "2026-08-24T15:05:46+00:00",
+      "posted_at": "1787529600",
+      "title": "Software Engineer Intern",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1"
+    },
+    "simplify:mastercard::simplify-b948ef8c-99af-4850-940a-ca3b8506efb3": {
+      "company": "Mastercard",
+      "first_seen": "2026-08-24T15:05:46+00:00",
+      "posted_at": "1787529600",
+      "title": "Software Engineer - Launch Program",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1"
     },
     "simplify:mastercard::simplify-c218131b-b198-483e-94bc-03192688c34b": {
       "company": "Mastercard",
@@ -21312,6 +21354,13 @@
       "title": "Product Software Engineer 1",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599"
     },
+    "simplify:the walt disney company::simplify-1a60f341-1e73-446d-957c-8011859ac7aa": {
+      "company": "The Walt Disney Company",
+      "first_seen": "2026-08-24T15:05:46+00:00",
+      "posted_at": "1787529600",
+      "title": "Labor Systems Web Integration Intern - Spring 2027",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Web-Integration-Intern--Spring-2027_10158184"
+    },
     "simplify:the walt disney company::simplify-6e9691c1-0e30-488d-8026-d2294ff808ae": {
       "company": "The Walt Disney Company",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -21332,6 +21381,27 @@
       "posted_at": "1786924800",
       "title": "Software Engineer 1 - Observability & Insights",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10157423"
+    },
+    "simplify:the walt disney company::simplify-a8fc18f9-4b29-4232-9524-f741f63e4e17": {
+      "company": "The Walt Disney Company",
+      "first_seen": "2026-08-24T15:05:46+00:00",
+      "posted_at": "1787529600",
+      "title": "Computer Science / Computer Engineering Intern - Multiple Teams",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1"
+    },
+    "simplify:the walt disney company::simplify-bc3ff683-39a6-46d5-9339-3246902027f8": {
+      "company": "The Walt Disney Company",
+      "first_seen": "2026-08-24T15:05:46+00:00",
+      "posted_at": "1787529600",
+      "title": "Labor Systems Web Integration Intern - Spring 2027",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Web-Integration-Intern--Spring-2027_10158184-1"
+    },
+    "simplify:the walt disney company::simplify-c98416e0-475e-4fe0-985e-29b64aacb9a1": {
+      "company": "The Walt Disney Company",
+      "first_seen": "2026-08-24T15:05:46+00:00",
+      "posted_at": "1787529600",
+      "title": "Computer Science / Computer Engineering Intern - Multiple Teams",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145"
     },
     "simplify:the wonderful company::simplify-168fc2aa-d320-4a77-b7fd-7149efce52c5": {
       "company": "The Wonderful Company",
@@ -22543,6 +22613,13 @@
       "posted_at": "1784758491",
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/traba/90d6307c-1bb1-4abf-8e73-7afa6a7e0a70/application?embed=true"
+    },
+    "simplify:tracelink::simplify-c582d3c2-5152-41c6-b5d9-162452d0eabf": {
+      "company": "TraceLink",
+      "first_seen": "2026-08-24T15:05:46+00:00",
+      "posted_at": "1787582304",
+      "title": "Software Engineer 1 - Engineering Services",
+      "url": "https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5217396007"
     },
     "simplify:trane technologies::simplify-15f1d4cb-e814-4f44-a827-6caf6c32bf60": {
       "company": "Trane Technologies",
@@ -24667,5 +24744,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-24T13:39:03+00:00"
+  "updated_at": "2026-08-24T15:05:46+00:00"
 }
