@@ -1,5 +1,5 @@
 {
-  "count": 3564,
+  "count": 3578,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3553,6 +3553,13 @@
       "title": "Machine Learning PhD Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8693034002"
     },
+    "simplify:atoms::simplify-3d9f6139-bedb-4b94-9e84-1b542b3250ac": {
+      "company": "Atoms",
+      "first_seen": "2026-08-24T21:04:28+00:00",
+      "posted_at": "1787603997",
+      "title": "Robotics Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8695475002"
+    },
     "simplify:atoms::simplify-5379a4df-fa7a-4799-8978-00d1844415b9": {
       "company": "Atoms",
       "first_seen": "2026-08-07T00:29:54+00:00",
@@ -5533,6 +5540,13 @@
       "posted_at": "1773901438",
       "title": "Software Engineer \u2013 Graduate Level - Python - Cloud",
       "url": "https://job-boards.greenhouse.io/canonical/jobs/3257589"
+    },
+    "simplify:capco::simplify-3cfd1fd5-6a07-4a50-9a60-1377c81e8a9f": {
+      "company": "Capco",
+      "first_seen": "2026-08-24T21:04:28+00:00",
+      "posted_at": "1787602538",
+      "title": "Associate Talent Program",
+      "url": "https://job-boards.greenhouse.io/capco/jobs/8152949"
     },
     "simplify:capgemini::simplify-94b406e2-f31b-4303-b276-e99f3781da36": {
       "company": "Capgemini",
@@ -13864,6 +13878,13 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/monogram/fab3e651-00e7-4a85-bcb9-0821c642a778/application?embed=true"
     },
+    "simplify:monolithic power systems::simplify-5a92381f-f858-4847-a147-1dc9ffc07f92": {
+      "company": "Monolithic Power Systems",
+      "first_seen": "2026-08-24T21:04:28+00:00",
+      "posted_at": "1787529600",
+      "title": "AI Developer Intern",
+      "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756"
+    },
     "simplify:montgomery investment technology, inc.::simplify-f0a9da60-9895-4079-b9cd-4026709afb56": {
       "company": "Montgomery Investment Technology, Inc.",
       "first_seen": "2026-07-23T07:13:32+00:00",
@@ -17756,6 +17777,13 @@
       "title": "Developer Grm - AI Innovation for Risk Management",
       "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Developer---AI-Innovation-for-Risk-Management--4-Months-_R-0000174224-3"
     },
+    "simplify:royal bank of canada::simplify-56c4e48b-4f5b-4cae-886c-5d2e5f2c0821": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-08-24T21:04:28+00:00",
+      "posted_at": "1787529600",
+      "title": "IAM Systems Engineer New Grad",
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/16-YORK-STTORONTO/IAM-Systems-Engineer----New-Grad-_R-0000185530"
+    },
     "simplify:royal bank of canada::simplify-5c3cff64-adff-4063-92f2-242e9159bb57": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-07-24T12:43:35+00:00",
@@ -17826,12 +17854,33 @@
       "title": "Developer Co-op - Technology & Operations",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--4-Months_R-0000184555-1"
     },
+    "simplify:royal bank of canada::simplify-aac80634-6c50-4bcb-b953-5fc083ea4ba7": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-08-24T21:04:28+00:00",
+      "posted_at": "1787529600",
+      "title": "Java Full Stack Developer New Grad",
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MISSISSAUGA-Ontario-Canada/Java-Full-Stack-Developer--New-Grad-_R-0000184142"
+    },
+    "simplify:royal bank of canada::simplify-bc3404d7-8d9b-4760-8a4e-c6cd8497ce62": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-08-24T21:04:28+00:00",
+      "posted_at": "1787529600",
+      "title": "IAM Systems Engineer New Grad",
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/16-YORK-STTORONTO/IAM-Systems-Engineer----New-Grad-_R-0000185423"
+    },
     "simplify:royal bank of canada::simplify-c0152dcf-72b7-4563-b99d-1e4b99545082": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-07-27T23:47:06+00:00",
       "posted_at": "1785110400",
       "title": "Software Engineer",
       "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Software-Developer_R-0000181003-1"
+    },
+    "simplify:royal bank of canada::simplify-c472ad51-fcd5-4516-9069-45787a498125": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-08-24T21:04:28+00:00",
+      "posted_at": "1787529600",
+      "title": "Junior Full Stack Developer New Grad",
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Junior-Full-Stack-Developer--New-Grad-_R-0000185234"
     },
     "simplify:royal bank of canada::simplify-ca2a28c6-6f13-4f6e-a05e-70bbce112fde": {
       "company": "Royal Bank of Canada",
@@ -18672,6 +18721,20 @@
       "posted_at": "1785979071",
       "title": "Automation Developer",
       "url": "https://apply.workable.com/saalex/j/B9CC90B5BA/apply"
+    },
+    "simplify:sage::simplify-0aa38a85-7be2-4d60-8ec3-0002a9643512": {
+      "company": "Sage",
+      "first_seen": "2026-08-24T21:04:28+00:00",
+      "posted_at": "1787602989",
+      "title": "Software Engineer Intern - Edge - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/sage49/jobs/6131191004"
+    },
+    "simplify:sage::simplify-bc4407ea-452d-4ef5-b173-3260a4f7db7b": {
+      "company": "Sage",
+      "first_seen": "2026-08-24T21:04:28+00:00",
+      "posted_at": "1787602989",
+      "title": "Software Engineer Intern - Full Stack",
+      "url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004"
     },
     "simplify:sajix::simplify-ddf53d2b-54a9-409e-a0c4-16b535b95685": {
       "company": "Sajix",
@@ -19800,6 +19863,13 @@
       "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
       "url": "https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25"
     },
+    "simplify:springs window fashions::simplify-cb063395-698b-47f5-9fe1-4b86a1b0dee5": {
+      "company": "Springs Window Fashions",
+      "first_seen": "2026-08-24T21:04:28+00:00",
+      "posted_at": "1787603294",
+      "title": "Software Engineering Intern - Summer 2027",
+      "url": "https://careers-springswindowfashions.icims.com/jobs/12891/job?mobile=true&needsRedirect=false"
+    },
     "simplify:springs window fashions::simplify-cbb3ab08-f178-4e8a-b8f7-95efd3b9dd22": {
       "company": "Springs Window Fashions",
       "first_seen": "2026-08-22T14:35:20+00:00",
@@ -19960,6 +20030,13 @@
       "posted_at": "1779890792",
       "title": "L2 Programmer",
       "url": "https://careers-steeldynamics.icims.com/jobs/7515/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:steerbridge::simplify-dc6284c7-4bc7-41bd-b3a7-77ad38c4a1a9": {
+      "company": "SteerBridge",
+      "first_seen": "2026-08-24T21:04:28+00:00",
+      "posted_at": "1787602547",
+      "title": "Junior Software Engineer",
+      "url": "https://jobs.lever.co/steerbridge/718b3135-d15d-4cbc-9541-1cbb8a6f5ec5/apply"
     },
     "simplify:stellar science::simplify-8164a1a2-c8ee-4c4f-b296-1c29817a193e": {
       "company": "Stellar Science",
@@ -21367,6 +21444,13 @@
       "posted_at": "1784505600",
       "title": "Associate Software Engineer - Java",
       "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Associate-Software-Engineer---Java_R2626130"
+    },
+    "simplify:the hartford::simplify-113452f5-8851-4266-8cfa-6e8ba357281e": {
+      "company": "The Hartford",
+      "first_seen": "2026-08-24T21:04:28+00:00",
+      "posted_at": "1787529600",
+      "title": "Software Engineer Intern - Tech & Data Program",
+      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1"
     },
     "simplify:the home depot::simplify-09dcf7d1-d5e3-4c93-9c82-59673e3c7fd1": {
       "company": "The Home Depot",
@@ -24014,6 +24098,13 @@
       "title": "Software Engineer Intern - Grainger Technology Group",
       "url": "https://jobs.grainger.com/job/CHICAGO-GTG-Intern-Software-Engineer-IL-60661-4555/1419930800/?ats=successfactors"
     },
+    "simplify:waabi::simplify-e6405d5c-7d2f-4e65-9602-4685ada5b31b": {
+      "company": "Waabi",
+      "first_seen": "2026-08-24T21:04:28+00:00",
+      "posted_at": "1787602740",
+      "title": "Fleet Specialist - Night Shift",
+      "url": "https://jobs.lever.co/waabi/0d27f3a1-0932-4f77-9ed7-7141eb3b3d1d/apply"
+    },
     "simplify:walgreens::simplify-59d36e2a-3413-468e-a72e-8c350b5dad94": {
       "company": "Walgreens",
       "first_seen": "2026-08-03T04:41:01+00:00",
@@ -24237,6 +24328,13 @@
       "posted_at": "1787187185",
       "title": "Software Engineer Intern",
       "url": "https://apply.workable.com/western-magnetics/j/E366930F3F/apply"
+    },
+    "simplify:westinghouse electric company::simplify-1ab8cb0f-fa13-4edb-a06c-1fb333f93ad9": {
+      "company": "Westinghouse Electric Company",
+      "first_seen": "2026-08-24T21:04:28+00:00",
+      "posted_at": "1787602669",
+      "title": "Computer Engineering / Software Engineering Intern",
+      "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/?ats=successfactors"
     },
     "simplify:westinghouse electric company::simplify-8f434eee-451e-465e-827d-2b5e04b4cf19": {
       "company": "Westinghouse Electric Company",
@@ -24891,5 +24989,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-24T20:41:41+00:00"
+  "updated_at": "2026-08-24T21:04:28+00:00"
 }
