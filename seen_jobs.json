@@ -1,5 +1,5 @@
 {
-  "count": 3552,
+  "count": 3553,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -16965,6 +16965,13 @@
       "title": "Associate Engineer Apprentice - Engineering",
       "url": "https://jobs.lever.co/ravl_io/4145932c-b493-4112-a0ed-68705ca0d720/apply"
     },
+    "simplify:raymond james financial::simplify-ed410248-773f-43a3-a1dd-3157708a9b23": {
+      "company": "Raymond James Financial",
+      "first_seen": "2026-08-24T16:58:49+00:00",
+      "posted_at": "1787529600",
+      "title": "Information Technology Accelerated Development Program - Software Developer Track",
+      "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesEarlyCareers/job/Saint-Petersburg-Florida---United-States/XMLNAME-2027-IT-Accelerated-Development-Program--ADP----Software-Developer-Track---St-Petersburg--FL_R-0012718"
+    },
     "simplify:re:build manufacturing::simplify-aff3b07e-f991-4ab5-8103-d34a646653f8": {
       "company": "Re:Build Manufacturing",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -24807,5 +24814,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-24T16:18:31+00:00"
+  "updated_at": "2026-08-24T16:58:49+00:00"
 }
