@@ -1,5 +1,5 @@
 {
-  "count": 3531,
+  "count": 3532,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -6954,6 +6954,13 @@
       "posted_at": "1773824945",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/creatify/75a1f1ad-13d2-4513-952c-71b6dfcaa84f/application"
+    },
+    "simplify:crowdstrike::simplify-b798780f-4009-488b-ab0c-948146a7a0ca": {
+      "company": "Crowdstrike",
+      "first_seen": "2026-08-24T13:39:03+00:00",
+      "posted_at": "1787529600",
+      "title": "Software Engineer - Sensor - SAO",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874"
     },
     "simplify:crowe::simplify-3ba2d751-b06f-4e26-8bc2-07b6ada128ac": {
       "company": "Crowe",
@@ -24660,5 +24667,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-24T08:23:25+00:00"
+  "updated_at": "2026-08-24T13:39:03+00:00"
 }
