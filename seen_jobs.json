@@ -1,5 +1,5 @@
 {
-  "count": 3591,
+  "count": 3596,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -4519,12 +4519,26 @@
       "title": "Software Engineer",
       "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Denver-CO/Software-Engineer-_JR1084518"
     },
+    "simplify:brunswick::simplify-23283fde-40f1-42d9-bf10-9b7362a6c553": {
+      "company": "Brunswick",
+      "first_seen": "2026-08-24T23:09:53+00:00",
+      "posted_at": "1787529600",
+      "title": "Software Engineer Intern - Boating Intelligence Design Lab",
+      "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-051316"
+    },
     "simplify:brunswick::simplify-355b5e1d-f111-47b2-8e17-99593839fef6": {
       "company": "Brunswick",
       "first_seen": "2026-07-29T09:11:55+00:00",
       "posted_at": "1785196800",
       "title": "Software Engineer Intern",
       "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991"
+    },
+    "simplify:brunswick::simplify-7194b5a6-5ff2-4d30-8f27-55c669757b74": {
+      "company": "Brunswick",
+      "first_seen": "2026-08-24T23:09:53+00:00",
+      "posted_at": "1787529600",
+      "title": "Computer Graphics Engineer Intern",
+      "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Computer-Graphics-Engineering-Intern_JR-051325"
     },
     "simplify:brunswick::simplify-a2b670ca-0966-45f7-9a77-1365adca98b8": {
       "company": "Brunswick",
@@ -14795,6 +14809,13 @@
       "title": "Software Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378"
     },
+    "simplify:northrop grumman::simplify-9a501b59-f29b-4a7d-b8ef-eb5221735c94": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-08-24T23:09:53+00:00",
+      "posted_at": "1787529600",
+      "title": "Associate Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer_R10247440"
+    },
     "simplify:northrop grumman::simplify-9ae5133e-21ac-460c-a748-48bab65a707f": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -18168,6 +18189,13 @@
       "posted_at": "1787097600",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Software-Engineering-Intern--Onsite-_01867845"
+    },
+    "simplify:rtx::simplify-40ac8f0e-2e41-4c53-9757-6a1ee928093c": {
+      "company": "RTX",
+      "first_seen": "2026-08-24T23:09:53+00:00",
+      "posted_at": "1787529600",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Software-Engineer-I---Onsite-_01867989"
     },
     "simplify:rtx::simplify-44a036f1-8b46-4596-939b-e10b3f0e8761": {
       "company": "RTX",
@@ -24196,6 +24224,13 @@
       "title": "Fleet Specialist - Night Shift",
       "url": "https://jobs.lever.co/waabi/0d27f3a1-0932-4f77-9ed7-7141eb3b3d1d/apply"
     },
+    "simplify:wabtec::simplify-f3afd047-0a89-40c5-ba2f-e21673172f2b": {
+      "company": "Wabtec",
+      "first_seen": "2026-08-24T23:09:53+00:00",
+      "posted_at": "1787609220",
+      "title": "Engineer Rotational Program",
+      "url": "https://jobs.smartrecruiters.com/Wabtec/3743990014806166"
+    },
     "simplify:walgreens::simplify-59d36e2a-3413-468e-a72e-8c350b5dad94": {
       "company": "Walgreens",
       "first_seen": "2026-08-03T04:41:01+00:00",
@@ -25080,5 +25115,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-24T22:49:44+00:00"
+  "updated_at": "2026-08-24T23:09:53+00:00"
 }
