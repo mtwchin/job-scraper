@@ -1,5 +1,5 @@
 {
-  "count": 3619,
+  "count": 3623,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -5331,6 +5331,13 @@
       "title": "Software Intern",
       "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Intern_R53282"
     },
+    "simplify:cadence design systems::simplify-2601d254-0c81-443b-b1ca-3c2293da624a": {
+      "company": "Cadence Design Systems",
+      "first_seen": "2026-08-25T11:45:02+00:00",
+      "posted_at": "1787616000",
+      "title": "Product Engineering Intern - Electronics Hardware Design",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2"
+    },
     "simplify:cadence design systems::simplify-2a9715ce-fc4b-4245-9f7d-dd33ae0f0bd1": {
       "company": "Cadence Design Systems",
       "first_seen": "2026-07-31T23:40:58+00:00",
@@ -5344,6 +5351,13 @@
       "posted_at": "1785110400",
       "title": "Software Engineer 2",
       "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721"
+    },
+    "simplify:cadence design systems::simplify-2ced41cc-c8cf-41e5-ae1d-1ded73852520": {
+      "company": "Cadence Design Systems",
+      "first_seen": "2026-08-25T11:45:02+00:00",
+      "posted_at": "1787616000",
+      "title": "Product Engineering Intern - Electronics Hardware Design",
+      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_Intern/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158"
     },
     "simplify:cadence design systems::simplify-40dbbf5f-d4ad-493a-9644-4f4b0662556c": {
       "company": "Cadence Design Systems",
@@ -5414,6 +5428,13 @@
       "posted_at": "1785110400",
       "title": "Software Engineer 2",
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/HOME-CANADA_ON/Software-Engineer-II_R55721-1"
+    },
+    "simplify:cadence design systems::simplify-aacc4ee3-09a8-40e8-99a0-5bc47790fe52": {
+      "company": "Cadence Design Systems",
+      "first_seen": "2026-08-25T11:45:02+00:00",
+      "posted_at": "1787616000",
+      "title": "Product Engineering Intern - Electronics Hardware Design",
+      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-1"
     },
     "simplify:cadence design systems::simplify-ab74ecca-af20-483d-9d93-2db6d26feb93": {
       "company": "Cadence Design Systems",
@@ -12386,6 +12407,13 @@
       "posted_at": "1784585083",
       "title": "Associate Software Engineer - Ts/Sci",
       "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-TSSCI-FL-32904/1410637500/?ats=successfactors"
+    },
+    "simplify:l3harris technologies::simplify-0db410bd-2e98-4085-8c98-e2d9c6e4dfee": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-08-25T11:45:02+00:00",
+      "posted_at": "1787648486",
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineei-CO-80916/1422829300/?ats=successfactors"
     },
     "simplify:l3harris technologies::simplify-1b22c446-ca15-46a6-8a3f-b6d8575ffa66": {
       "company": "L3Harris Technologies",
@@ -25276,5 +25304,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-25T10:53:56+00:00"
+  "updated_at": "2026-08-25T11:45:02+00:00"
 }
