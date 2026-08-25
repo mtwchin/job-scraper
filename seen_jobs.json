@@ -1,5 +1,5 @@
 {
-  "count": 3609,
+  "count": 3617,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -13605,6 +13605,55 @@
       "title": "Software Engineer 1",
       "url": "https://careers-mercuryinsurance.icims.com/jobs/6743/job?mobile=true&needsRedirect=false"
     },
+    "simplify:meridian partners::simplify-1e31d74f-0f5b-482c-9140-d0be0ff9eeeb": {
+      "company": "Meridian Partners",
+      "first_seen": "2026-08-25T07:13:11+00:00",
+      "posted_at": "1787638783",
+      "title": "Python Software Engineer Co-op",
+      "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968485003"
+    },
+    "simplify:meridian partners::simplify-7a0e26e4-7787-42a2-8128-e496212ae724": {
+      "company": "Meridian Partners",
+      "first_seen": "2026-08-25T07:13:11+00:00",
+      "posted_at": "1787638783",
+      "title": "Full Stack Software Engineer Co-op",
+      "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968093003"
+    },
+    "simplify:meridian partners::simplify-850ae44b-e26e-426b-a045-99d7bb70e509": {
+      "company": "Meridian Partners",
+      "first_seen": "2026-08-25T07:13:11+00:00",
+      "posted_at": "1787638783",
+      "title": "Full Stack Software Engineer Co-op",
+      "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968100003"
+    },
+    "simplify:meridian partners::simplify-b6132ac2-9368-4e6a-aa27-567060ba3f3f": {
+      "company": "Meridian Partners",
+      "first_seen": "2026-08-25T07:13:11+00:00",
+      "posted_at": "1787638784",
+      "title": "Front End Software Engineer Co-op",
+      "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967961003"
+    },
+    "simplify:meridian partners::simplify-c27d16b6-b660-4fb5-b2f8-825ddf9072f7": {
+      "company": "Meridian Partners",
+      "first_seen": "2026-08-25T07:13:11+00:00",
+      "posted_at": "1787638783",
+      "title": "Cloud Software Engineer Co-op",
+      "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967614003"
+    },
+    "simplify:meridian partners::simplify-d7b507c0-bb45-40b2-97e2-575198d7b5c7": {
+      "company": "Meridian Partners",
+      "first_seen": "2026-08-25T07:13:11+00:00",
+      "posted_at": "1787638784",
+      "title": "Front End Software Engineer Co-op",
+      "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968076003"
+    },
+    "simplify:meridian partners::simplify-eeda0ac4-569c-4d27-927d-56e668f95ffa": {
+      "company": "Meridian Partners",
+      "first_seen": "2026-08-25T07:13:11+00:00",
+      "posted_at": "1787638783",
+      "title": "Python Software Engineer Co-op",
+      "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968338003"
+    },
     "simplify:meshy::simplify-951080fa-b448-4ec1-8e54-80b5a3176cca": {
       "company": "Meshy",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -14227,6 +14276,13 @@
       "posted_at": "1787529600",
       "title": "Public Health Tobacco Control and Prevention Intern",
       "url": "https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/PHP-Tobacco-Control-and-Prevention-Intern_R-20137-1"
+    },
+    "simplify:multnomah county::simplify-d3abbe01-5fad-408d-a9d1-083f5c0c09a2": {
+      "company": "Multnomah County",
+      "first_seen": "2026-08-25T07:13:11+00:00",
+      "posted_at": "1787529600",
+      "title": "Immunization & Community Health Intern - Prevention and Health Promotion",
+      "url": "https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/PHP-Immunization---Community-Health-Intern_R-20139"
     },
     "simplify:muru::simplify-ac9a60d7-eb51-4cbb-af68-97f00839f454": {
       "company": "Muru",
@@ -25206,5 +25262,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-25T03:33:01+00:00"
+  "updated_at": "2026-08-25T07:13:11+00:00"
 }
