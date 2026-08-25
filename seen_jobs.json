@@ -1,5 +1,5 @@
 {
-  "count": 3607,
+  "count": 3609,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -5764,6 +5764,13 @@
       "posted_at": "1784932953",
       "title": "Support Engineer",
       "url": "https://job-boards.greenhouse.io/carefeed/jobs/4985407008"
+    },
+    "simplify:caris::simplify-5cf6bc0c-fa07-4cc0-8813-73901c4c566b": {
+      "company": "Caris",
+      "first_seen": "2026-08-25T03:33:01+00:00",
+      "posted_at": "1787529600",
+      "title": "Associate Software Engineer - Clinical Software Products",
+      "url": "https://wd12.myworkdaysite.com/recruiting/carislifesciences/CLS/job/Irving-TX---75039/Associate-Software-Engineer_JR105464"
     },
     "simplify:carrier global::simplify-2d3097e6-ff7f-44d6-8ce1-ef6cec8ec7e5": {
       "company": "Carrier Global",
@@ -12498,6 +12505,13 @@
       "posted_at": "1786458676",
       "title": "Associate Systems Engineer - Integrated Communication System",
       "url": "https://jobs.l3harris.com/job/Camden-Associate,-Systems-Engineering-NJ-08103/1418083600/?ats=successfactors"
+    },
+    "simplify:l3harris technologies::simplify-d5cb9991-9336-4138-b9c5-18d14b6c8f1b": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-08-25T03:33:01+00:00",
+      "posted_at": "1787627672",
+      "title": "Associate Software Engineering",
+      "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1422806500/?ats=successfactors"
     },
     "simplify:l3harris technologies::simplify-dc6217c1-230d-4b6d-9ec6-781741754f2e": {
       "company": "L3Harris Technologies",
@@ -25192,5 +25206,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-25T01:45:08+00:00"
+  "updated_at": "2026-08-25T03:33:01+00:00"
 }
