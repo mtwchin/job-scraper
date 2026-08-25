@@ -1,5 +1,5 @@
 {
-  "count": 3623,
+  "count": 3624,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -14872,6 +14872,13 @@
       "title": "Algorithms Software Engineer - Level 2",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Algorithms-Software-Engineer---Level-2_R10238820-1"
     },
+    "simplify:northrop grumman::simplify-4ff921c1-6ccb-40f6-aff2-0f2ae665bc9d": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-08-25T15:27:09+00:00",
+      "posted_at": "1787616000",
+      "title": "Software Engineer Intern - Strategic Deterrent Systems Division - Sentinel",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486"
+    },
     "simplify:northrop grumman::simplify-5015afe2-a54d-4d15-b986-71f8e2995b83": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-15T00:13:08+00:00",
@@ -25304,5 +25311,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-25T11:45:02+00:00"
+  "updated_at": "2026-08-25T15:27:09+00:00"
 }
