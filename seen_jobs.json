@@ -1,5 +1,5 @@
 {
-  "count": 3596,
+  "count": 3607,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -137,6 +137,13 @@
       "posted_at": "August 14, 2026",
       "title": "Software Development Engineer, Early Career - 2026",
       "url": "https://www.amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026"
+    },
+    "amazon::10513110": {
+      "company": "Amazon",
+      "first_seen": "2026-08-25T01:45:07+00:00",
+      "posted_at": "August 25, 2026",
+      "title": "Software Development Engineer, Amazon Leo, Early Career - 2026",
+      "url": "https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -2411,6 +2418,13 @@
       "posted_at": "1770851522",
       "title": "Software Development Engineer Intern - Military Veteran",
       "url": "https://amazon.jobs/en/jobs/3179209/software-development-engineer-internship-military-veteran"
+    },
+    "simplify:amazon::simplify-9ecb4578-6a8a-4f73-ac53-0651cbbd7167": {
+      "company": "Amazon",
+      "first_seen": "2026-08-25T01:45:07+00:00",
+      "posted_at": "1787617806",
+      "title": "Software Development Engineer - Amazon Leo",
+      "url": "https://amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026"
     },
     "simplify:amazon::simplify-9fc959fb-5511-4d94-a76d-f7175d92c3fc": {
       "company": "Amazon",
@@ -7284,6 +7298,13 @@
       "title": "Backend Engineer \u2013 New Grad",
       "url": "https://job-boards.greenhouse.io/d3/jobs/4915295008"
     },
+    "simplify:daikin applied::simplify-9d9c46e1-9387-4d06-841a-4497c4901c06": {
+      "company": "Daikin Applied",
+      "first_seen": "2026-08-25T01:45:08+00:00",
+      "posted_at": "1787529600",
+      "title": "IT Applications Developer",
+      "url": "https://daikinapplied.wd1.myworkdayjobs.com/Pre-Selected_Candidate_Site/job/Plymouth-MN-55441/IT-Applications-Developer---Contract_R003852"
+    },
     "simplify:daikin applied::simplify-c76e85e5-07db-4749-9320-811faa5f5f5f": {
       "company": "Daikin Applied",
       "first_seen": "2026-08-17T23:07:29+00:00",
@@ -11008,6 +11029,20 @@
       "title": "Service Desk Technician",
       "url": "https://apply.workable.com/indra-uk/j/8D40F8C576/apply"
     },
+    "simplify:infleqtion::simplify-4e9fe751-4379-45cd-97bd-7083fd5e58d1": {
+      "company": "Infleqtion",
+      "first_seen": "2026-08-25T01:45:08+00:00",
+      "posted_at": "1787616841",
+      "title": "Quantum Software Engineer - Compiler & Control Systems",
+      "url": "https://apply.workable.com/coldquanta/j/DA0D4B3975/apply"
+    },
+    "simplify:infleqtion::simplify-eac46790-0057-4518-8e60-be17fee9950f": {
+      "company": "Infleqtion",
+      "first_seen": "2026-08-25T01:45:08+00:00",
+      "posted_at": "1787616841",
+      "title": "Quantum Software Engineer - Compiler",
+      "url": "https://apply.workable.com/coldquanta/j/1B97312CA0/apply"
+    },
     "simplify:infojini::simplify-39ea452c-6625-480d-8bf6-48b4c3fcbc0e": {
       "company": "Infojini",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -11498,6 +11533,13 @@
       "title": "Part-Time Student - Dynamic Systems Modeling - Product Engineering",
       "url": "https://johndeere.eightfold.ai/careers/job/137482642817"
     },
+    "simplify:john deere::simplify-2ad8c3d0-43b7-4038-9ea2-b88e6dda0b9a": {
+      "company": "John Deere",
+      "first_seen": "2026-08-25T01:45:08+00:00",
+      "posted_at": "1787616320",
+      "title": "Robotics Engineer Intern",
+      "url": "https://johndeere.eightfold.ai/careers/job/137483008064"
+    },
     "simplify:john deere::simplify-2cda038e-f60e-4b0f-8cf0-5dc72c51d2c2": {
       "company": "John Deere",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -11553,6 +11595,13 @@
       "posted_at": "1770160591",
       "title": "Part-Time Student - Software Engineering - Ames IA Technology CA",
       "url": "https://johndeere.eightfold.ai/careers/job/137478709942"
+    },
+    "simplify:john deere::simplify-b36d77b3-8f2d-43d7-bf82-ad49189efa02": {
+      "company": "John Deere",
+      "first_seen": "2026-08-25T01:45:08+00:00",
+      "posted_at": "1787616319",
+      "title": "Robotics Engineer Part-Time Student - Product Engineering",
+      "url": "https://johndeere.eightfold.ai/careers/job/137482782400"
     },
     "simplify:john deere::simplify-cc182431-1899-4ccb-8933-d71659e7c501": {
       "company": "John Deere",
@@ -14157,6 +14206,13 @@
       "posted_at": "1771948312",
       "title": "Software Engineering Intern",
       "url": "https://jobs.lever.co/multiplylabs/8203fbb3-4d42-4f6a-ae64-f05c3dcf0e9b"
+    },
+    "simplify:multnomah county::simplify-a11f0950-7a8c-4529-aa0d-e295f4aca1fb": {
+      "company": "Multnomah County",
+      "first_seen": "2026-08-25T01:45:08+00:00",
+      "posted_at": "1787529600",
+      "title": "Public Health Tobacco Control and Prevention Intern",
+      "url": "https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/PHP-Tobacco-Control-and-Prevention-Intern_R-20137-1"
     },
     "simplify:muru::simplify-ac9a60d7-eb51-4cbb-af68-97f00839f454": {
       "company": "Muru",
@@ -17574,6 +17630,13 @@
       "title": "Software Developer - Sensor and Systems",
       "url": "https://careers-riversideresearch.icims.com/jobs/4331/job?mobile=true&needsRedirect=false"
     },
+    "simplify:rivet industries::simplify-39309c17-e806-4ea4-ba0d-0d69cfaca27f": {
+      "company": "Rivet Industries",
+      "first_seen": "2026-08-25T01:45:08+00:00",
+      "posted_at": "1787617577",
+      "title": "Software Engineer Intern - XR Team - Fall 2026",
+      "url": "https://jobs.ashbyhq.com/rivet/4e02461a-9f6c-4d3c-a511-6d54f31999bc/application?embed=true"
+    },
     "simplify:rivian and volkswagen group technologies::simplify-01796556-ceb0-436a-b501-b3da05d779a7": {
       "company": "Rivian and Volkswagen Group Technologies",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -20142,6 +20205,13 @@
       "posted_at": "1781820373",
       "title": "Software Engineer New Grad",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647"
+    },
+    "simplify:stcu::simplify-f6ea312c-a27d-4faa-9ea7-e433fa700f5a": {
+      "company": "STCU",
+      "first_seen": "2026-08-25T01:45:08+00:00",
+      "posted_at": "1787620065",
+      "title": "Software Developer 1",
+      "url": "https://jobs.smartrecruiters.com/STCU1/744000145379939"
     },
     "simplify:steel dynamics::simplify-6cb41f07-3b44-49ae-8072-9a73db3ae226": {
       "company": "Steel Dynamics",
@@ -24819,6 +24889,13 @@
       "title": "Application Engineer",
       "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Waukesha-Ridgeview-Wisconsin/Application-Engineer_R48350"
     },
+    "simplify:yelp::simplify-b4fbf723-b634-4b03-a717-5a7477ac972b": {
+      "company": "Yelp",
+      "first_seen": "2026-08-25T01:45:08+00:00",
+      "posted_at": "1787616480",
+      "title": "Data Backend Engineer - Trust & Safety",
+      "url": "https://www.yelp.careers/us/en/job/14018"
+    },
     "simplify:zededa::simplify-54eb8a09-3206-49de-ab52-5f7361b9dae4": {
       "company": "Zededa",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -25115,5 +25192,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-24T23:09:53+00:00"
+  "updated_at": "2026-08-25T01:45:08+00:00"
 }
