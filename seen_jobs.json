@@ -1,5 +1,5 @@
 {
-  "count": 3624,
+  "count": 3626,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -5870,6 +5870,13 @@
       "title": "Technical Content Engineer",
       "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Technical-Content-Engineer_R-4455"
     },
+    "simplify:celonis::simplify-8d9e3fac-74a7-4c48-9788-7e80245bc5fc": {
+      "company": "Celonis",
+      "first_seen": "2026-08-25T16:08:25+00:00",
+      "posted_at": "1787671957",
+      "title": "Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003"
+    },
     "simplify:cencora::simplify-dcbeb1d6-2bca-4251-af9e-4bcd4074fc46": {
       "company": "Cencora",
       "first_seen": "2026-07-17T11:45:01+00:00",
@@ -8795,6 +8802,13 @@
       "posted_at": "1783029974",
       "title": "Software Engineer",
       "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Software-Engineer_2132114"
+    },
+    "simplify:fidelity investments::simplify-501a5d9d-54bb-4a8b-a3a5-2c6efd18d963": {
+      "company": "Fidelity Investments",
+      "first_seen": "2026-08-25T16:08:25+00:00",
+      "posted_at": "1787616000",
+      "title": "Software Engineer New Grad - LEAP",
+      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer_2134380"
     },
     "simplify:fidelity investments::simplify-5ded15c1-0e1b-4d50-909a-54019aa120b3": {
       "company": "Fidelity Investments",
@@ -25311,5 +25325,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-25T15:27:09+00:00"
+  "updated_at": "2026-08-25T16:08:25+00:00"
 }
