@@ -1,5 +1,5 @@
 {
-  "count": 3647,
+  "count": 3648,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -14683,6 +14683,13 @@
       "title": "Incubation Developer Coop/Intern",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34227"
     },
+    "simplify:nokia::simplify-99671fe3-39c9-49be-8363-def166f2b883": {
+      "company": "Nokia",
+      "first_seen": "2026-08-25T19:33:23+00:00",
+      "posted_at": "1787682441",
+      "title": "Software Engineer Co-op - Deepfield",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39908"
+    },
     "simplify:nokia::simplify-e138a76e-524c-4f79-82cf-b35d43759ca1": {
       "company": "Nokia",
       "first_seen": "2026-07-28T15:35:20+00:00",
@@ -25472,5 +25479,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-25T18:59:37+00:00"
+  "updated_at": "2026-08-25T19:33:23+00:00"
 }
