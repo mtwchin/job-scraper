@@ -1,5 +1,5 @@
 {
-  "count": 3617,
+  "count": 3618,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -9831,6 +9831,13 @@
       "posted_at": "1784239732",
       "title": "Full Stack Developer Intern",
       "url": "https://jobs.lever.co/geocomply-2/a3131ad8-06ec-4c6e-b27c-81aa4c02cc40/apply"
+    },
+    "simplify:geotab::simplify-56133857-e632-4fbe-846d-376be2620735": {
+      "company": "Geotab",
+      "first_seen": "2026-08-25T09:54:15+00:00",
+      "posted_at": "1785536365",
+      "title": "Software Developer",
+      "url": "https://job-boards.greenhouse.io/geotab/jobs/5363388008"
     },
     "simplify:giga ai::simplify-23e33f26-3a42-4fb5-9910-93c79b50e859": {
       "company": "Giga AI",
@@ -25262,5 +25269,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-25T07:13:11+00:00"
+  "updated_at": "2026-08-25T09:54:15+00:00"
 }
