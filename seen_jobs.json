@@ -1,5 +1,5 @@
 {
-  "count": 3618,
+  "count": 3619,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -5904,6 +5904,13 @@
       "posted_at": "1784067191",
       "title": "Simulation Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/cerebras/bf6f81b2-f079-483a-9238-295a184b3f0f/application"
+    },
+    "simplify:cerebras::simplify-2fa15c29-968d-4596-a04f-18ae7cf76c55": {
+      "company": "Cerebras",
+      "first_seen": "2026-08-25T10:53:56+00:00",
+      "posted_at": "1783415515",
+      "title": "Software Integration Engineer - AI Inference Core",
+      "url": "https://jobs.ashbyhq.com/cerebras/90879967-1071-4d05-9180-6e18023ed887/application?embed=true"
     },
     "simplify:cerebras::simplify-74127152-f238-47ca-b3b4-df49a5135001": {
       "company": "Cerebras",
@@ -25269,5 +25276,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-25T09:54:15+00:00"
+  "updated_at": "2026-08-25T10:53:56+00:00"
 }
