@@ -1,5 +1,5 @@
 {
-  "count": 3627,
+  "count": 3629,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -14942,6 +14942,13 @@
       "title": "Software Engineer/Principal Software Engineer - Java",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---Java_R10239296-1"
     },
+    "simplify:northrop grumman::simplify-6642fd98-f102-48bc-b226-3acb5b8c3988": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-08-25T17:19:06+00:00",
+      "posted_at": "1787616000",
+      "title": "Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10247580-1"
+    },
     "simplify:northrop grumman::simplify-7665ed7d-c986-4890-9c4d-a7b0e2545e12": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -17174,6 +17181,13 @@
       "posted_at": "1778191483",
       "title": "Junior Software Engineer",
       "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Foster-City-CA-USA/Junior-Software-Engineer_JR112167"
+    },
+    "simplify:publicis groupe::simplify-40b8e5c6-6160-4419-83e5-a0c6ba958867": {
+      "company": "Publicis Groupe",
+      "first_seen": "2026-08-25T17:19:06+00:00",
+      "posted_at": "1787675440",
+      "title": "Senior Associate Copilot Studio Developer",
+      "url": "https://careers.publicisgroupe.com/jobs/171896?icims=1"
     },
     "simplify:pure storage::simplify-dc97139d-fa2b-4aa2-8621-a1924dcbdb75": {
       "company": "Pure Storage",
@@ -25332,5 +25346,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-25T16:51:24+00:00"
+  "updated_at": "2026-08-25T17:19:06+00:00"
 }
