@@ -1,5 +1,5 @@
 {
-  "count": 3659,
+  "count": 3662,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -16573,6 +16573,13 @@
       "title": "Software Engineer - Entry",
       "url": "https://job-boards.greenhouse.io/patterndata/jobs/5092337007"
     },
+    "simplify:payit::simplify-896a2ce6-0e75-40f5-9b7e-811079dfe6bb": {
+      "company": "PayIt",
+      "first_seen": "2026-08-25T22:32:01+00:00",
+      "posted_at": "1787693374",
+      "title": "Associate Software Engineer",
+      "url": "https://payitgov.com/careers-list?gh_jid=7975853003"
+    },
     "simplify:pdf solutions::simplify-c5a14112-6491-4ae3-a678-23d36f21c962": {
       "company": "PDF Solutions",
       "first_seen": "2026-08-01T18:13:25+00:00",
@@ -18455,6 +18462,13 @@
       "posted_at": "1786406400",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I---Onsite-_01865303"
+    },
+    "simplify:rtx::simplify-1a1f699e-127e-40c9-966b-51e682c53f44": {
+      "company": "RTX",
+      "first_seen": "2026-08-25T22:32:01+00:00",
+      "posted_at": "1787616000",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Onsite-_01868829"
     },
     "simplify:rtx::simplify-1b75680e-460c-4f8d-99bd-d64c248c45ba": {
       "company": "RTX",
@@ -25274,6 +25288,13 @@
       "title": "Technology Intern",
       "url": "https://zgfarchitects.applytojob.com/apply/uqHC8SCmq2/Technology-Intern"
     },
+    "simplify:zip::simplify-82583da7-e72f-4b4f-aabb-0066a8951ba5": {
+      "company": "Zip",
+      "first_seen": "2026-08-25T22:32:01+00:00",
+      "posted_at": "1787693365",
+      "title": "Software Engineer Intern - Winter 2027",
+      "url": "https://jobs.ashbyhq.com/zip/2bc7327b-1c06-418a-beeb-bec1dd70480e/application?embed=true"
+    },
     "simplify:zipline::simplify-24c4a1ab-ac3a-4010-8111-bc59706b756e": {
       "company": "Zipline",
       "first_seen": "2026-08-18T23:23:42+00:00",
@@ -25556,5 +25577,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-25T21:44:31+00:00"
+  "updated_at": "2026-08-25T22:32:01+00:00"
 }
