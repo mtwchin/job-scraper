@@ -1,5 +1,5 @@
 {
-  "count": 3697,
+  "count": 3701,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3980,12 +3980,26 @@
       "title": "Full Stack Engineer Intern - Data Cognition Team",
       "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto_R260021769"
     },
+    "simplify:bank of montreal::simplify-97e495f1-2aae-4889-95a9-4b382506f276": {
+      "company": "Bank of Montreal",
+      "first_seen": "2026-08-26T16:21:48+00:00",
+      "posted_at": "1787702400",
+      "title": "Full Stack Engineer Intern Co-op - Data Cognition Team",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769"
+    },
     "simplify:bank of montreal::simplify-d10d917c-bc5a-4b18-8f26-0bd664956f32": {
       "company": "Bank of Montreal",
       "first_seen": "2026-08-01T23:24:49+00:00",
       "posted_at": "1785456000",
       "title": "Software Developer",
       "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450"
+    },
+    "simplify:bank of montreal::simplify-d69b4378-d3d7-4270-8839-244fb787224d": {
+      "company": "Bank of Montreal",
+      "first_seen": "2026-08-26T16:21:48+00:00",
+      "posted_at": "1787702400",
+      "title": "Full Stack Engineer Intern Co-op - Data Cognition Team",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769-1"
     },
     "simplify:barclays::simplify-8a717ae4-e44a-4ade-ae84-abbc3d27e232": {
       "company": "Barclays",
@@ -24693,6 +24707,20 @@
       "title": "Software Development Engineer",
       "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Wichita-KS-USA/Software-Development-Engineer_260004910-1"
     },
+    "simplify:viavi solutions::simplify-bf9c69e7-fff4-453c-ba04-3b0a7f1bc733": {
+      "company": "Viavi Solutions",
+      "first_seen": "2026-08-26T16:21:48+00:00",
+      "posted_at": "1787702400",
+      "title": "Development Engineer - Software Engineering/AI Track",
+      "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1"
+    },
+    "simplify:viavi solutions::simplify-ebce0ffb-1748-4999-b952-a7dbc9f36aae": {
+      "company": "Viavi Solutions",
+      "first_seen": "2026-08-26T16:21:48+00:00",
+      "posted_at": "1787702400",
+      "title": "Development Engineer Intern - Software Engineering/AI Track",
+      "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Morrisville-NC-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004987-1"
+    },
     "simplify:vibrant emotional health::simplify-a70201a1-bfeb-4b8f-953c-78e1ea281813": {
       "company": "Vibrant Emotional Health",
       "first_seen": "2026-07-29T11:33:32+00:00",
@@ -25822,5 +25850,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-26T15:00:26+00:00"
+  "updated_at": "2026-08-26T16:21:48+00:00"
 }
