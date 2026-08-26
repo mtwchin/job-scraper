@@ -1,5 +1,5 @@
 {
-  "count": 3706,
+  "count": 3712,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -21424,6 +21424,20 @@
       "title": "Software Engineer Intern - Vehicle UI Development",
       "url": "https://www.tesla.com/careers/search/job/270063"
     },
+    "simplify:tesla::simplify-0b09ad76-6210-4b87-94c9-b662b170d268": {
+      "company": "Tesla",
+      "first_seen": "2026-08-26T19:59:15+00:00",
+      "posted_at": "1787772309",
+      "title": "Android Engineer Intern - Mobile Software",
+      "url": "https://www.tesla.com/careers/search/job/280605"
+    },
+    "simplify:tesla::simplify-0ebaa63f-d5e3-410a-82b7-0234eb9a8e1a": {
+      "company": "Tesla",
+      "first_seen": "2026-08-26T19:59:15+00:00",
+      "posted_at": "1787772314",
+      "title": "Fullstack Software Engineer Intern - Fleetnet - Fullstack Software Engineering",
+      "url": "https://www.tesla.com/careers/search/job/281099"
+    },
     "simplify:tesla::simplify-0fe46774-0c06-4ab5-94e3-f5f8af293290": {
       "company": "Tesla",
       "first_seen": "2026-07-30T03:24:22+00:00",
@@ -21711,6 +21725,13 @@
       "title": "Software Engineer Intern - Software Engineer Opticaster - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/272937"
     },
+    "simplify:tesla::simplify-a96f8f9b-926d-483b-ba4f-ab46b0e78ac2": {
+      "company": "Tesla",
+      "first_seen": "2026-08-26T19:59:15+00:00",
+      "posted_at": "1787772317",
+      "title": "Software Engineer Intern - Maps & Navigation Validation",
+      "url": "https://www.tesla.com/careers/search/job/281271"
+    },
     "simplify:tesla::simplify-abc9038a-92bb-4e7c-b016-49feb542cb56": {
       "company": "Tesla",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -21773,6 +21794,13 @@
       "posted_at": "1780794797",
       "title": "Mobile Applications Engineering Intern - Android Engineer - Mobile Software",
       "url": "https://www.tesla.com/careers/search/job/266980"
+    },
+    "simplify:tesla::simplify-de753ad7-a941-4751-85c8-ff3d1b697b54": {
+      "company": "Tesla",
+      "first_seen": "2026-08-26T19:59:15+00:00",
+      "posted_at": "1787772307",
+      "title": "Fullstack C++ Engineer Intern - Vehicle User Interface",
+      "url": "https://www.tesla.com/careers/search/job/280604"
     },
     "simplify:tesla::simplify-e3572f00-4cdb-46a4-aff9-c31ac7612f18": {
       "company": "Tesla",
@@ -24364,6 +24392,13 @@
       "title": "Software Engineer 1",
       "url": "https://careers-uwcu.icims.com/jobs/6150/job?mobile=true&needsRedirect=false"
     },
+    "simplify:v2x::simplify-b1007362-c506-42fd-b9a0-95f30bb96bac": {
+      "company": "V2X",
+      "first_seen": "2026-08-26T19:59:16+00:00",
+      "posted_at": "1787771952",
+      "title": "Software Engineer 1 - Multiple Teams",
+      "url": "https://careers.gov2x.com/jobs/62655?icims=1"
+    },
     "simplify:valeo foods::simplify-a8a20ee3-a64f-4803-bb5e-5d77bfb50ff2": {
       "company": "Valeo Foods",
       "first_seen": "2026-08-12T03:29:34+00:00",
@@ -25063,6 +25098,13 @@
       "posted_at": "1782166129",
       "title": "Associate Software Engineer",
       "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer---Onsite_JR4907"
+    },
+    "simplify:wellsky::simplify-ef53c5cc-cfb0-4320-96eb-9bf793d013f8": {
+      "company": "WellSky",
+      "first_seen": "2026-08-26T19:59:16+00:00",
+      "posted_at": "1787702400",
+      "title": "Associate Software Engineer - DevOps Engineer",
+      "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer---DevOps-Engineer_JR5080"
     },
     "simplify:weride::simplify-94d01de5-9fda-4158-938a-a669c956dc3e": {
       "company": "WeRide",
@@ -25885,5 +25927,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-26T18:08:09+00:00"
+  "updated_at": "2026-08-26T19:59:16+00:00"
 }
