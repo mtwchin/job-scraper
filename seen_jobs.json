@@ -1,5 +1,5 @@
 {
-  "count": 3712,
+  "count": 3731,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2804,6 +2804,13 @@
       "title": "Associate Backend Software Engineer - Python",
       "url": "https://job-boards.greenhouse.io/anaplan/jobs/8579820002"
     },
+    "simplify:ancestry::simplify-ee03f6e5-4ee4-4045-9664-e38ffc7617bd": {
+      "company": "Ancestry",
+      "first_seen": "2026-08-26T22:44:32+00:00",
+      "posted_at": "1787702400",
+      "title": "Software Engineer Co-op - Observability",
+      "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Software-Engineer---Observability--Co-op_R003434"
+    },
     "simplify:ando::simplify-f5021ba3-ab40-4f41-8ba1-9bb148f6533d": {
       "company": "Ando",
       "first_seen": "2026-07-24T01:00:21+00:00",
@@ -2845,6 +2852,13 @@
       "posted_at": "1776906621",
       "title": "Software Engineer Intern - Warfighter Systems",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5117558007"
+    },
+    "simplify:anduril::simplify-ad7fc6cf-4649-4523-8f4a-2b113297ea41": {
+      "company": "Anduril",
+      "first_seen": "2026-08-26T22:44:30+00:00",
+      "posted_at": "1787782878",
+      "title": "Agentic AI Engineer - Automation",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5219383007"
     },
     "simplify:anduril::simplify-b59fa048-6dd0-4a50-af24-e4c0fdd2693c": {
       "company": "Anduril",
@@ -4154,6 +4168,13 @@
       "posted_at": "1782166098",
       "title": "Sys & Development Analyst",
       "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005280"
+    },
+    "simplify:berkshire hathaway energy::simplify-e8292892-4349-44e5-85e7-214c365e9796": {
+      "company": "Berkshire Hathaway Energy",
+      "first_seen": "2026-08-26T22:44:32+00:00",
+      "posted_at": "1787780698",
+      "title": "Software Engineer 1",
+      "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005702"
     },
     "simplify:berkshire hathaway energy::simplify-f0865c39-c2d0-4de6-9758-7218853be989": {
       "company": "Berkshire Hathaway Energy",
@@ -5953,6 +5974,13 @@
       "posted_at": "1781347189",
       "title": "Technical Content Engineer",
       "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Technical-Content-Engineer_R-4455"
+    },
+    "simplify:cct::simplify-f0737972-1ca9-4180-ba53-d1dd5f38f723": {
+      "company": "CCT",
+      "first_seen": "2026-08-26T22:44:32+00:00",
+      "posted_at": "1787781514",
+      "title": "Technical Consultant - Early Careers",
+      "url": "https://jobs.lever.co/casino-cash-trac/7ce28efa-000e-4848-9972-ade20d8694a1/apply"
     },
     "simplify:celonis::simplify-8d9e3fac-74a7-4c48-9788-7e80245bc5fc": {
       "company": "Celonis",
@@ -8096,6 +8124,13 @@
       "title": "Product Engineer",
       "url": "https://jobs.ashbyhq.com/dome-systems-inc/573303b2-efe1-409d-bf58-968a6a2f82a0/application?embed=true"
     },
+    "simplify:domino's::simplify-5a334443-9d0a-4ac3-a774-3989f12d55f3": {
+      "company": "Domino's",
+      "first_seen": "2026-08-26T22:44:32+00:00",
+      "posted_at": "1787782452",
+      "title": "Technology Rotation Program - Multiple Teams",
+      "url": "https://jobs.smartrecruiters.com/Dominos/744000145812178"
+    },
     "simplify:domino's::simplify-9e297b16-0d19-47d0-8b0f-d0fe1e5b9ed0": {
       "company": "Domino's",
       "first_seen": "2026-08-13T07:14:16+00:00",
@@ -9426,6 +9461,20 @@
       "title": "Software Engineer 1 - Real Time Aviation Data",
       "url": "https://careers.garmin.com/jobs/18762?icims=1"
     },
+    "simplify:garmin::simplify-124ba47c-7dd9-4556-9940-a7ff02138433": {
+      "company": "Garmin",
+      "first_seen": "2026-08-26T22:44:32+00:00",
+      "posted_at": "1787780398",
+      "title": "Software Engineer 1 - Aviation Backend Web",
+      "url": "https://careers.garmin.com/jobs/19142?icims=1"
+    },
+    "simplify:garmin::simplify-1b983bc8-7373-4f39-b3b4-7e83afe75b16": {
+      "company": "Garmin",
+      "first_seen": "2026-08-26T22:44:32+00:00",
+      "posted_at": "1787780398",
+      "title": "Software Engineer 1 - Aviation Backend Web",
+      "url": "https://careers.garmin.com/jobs/19732?icims=1"
+    },
     "simplify:garmin::simplify-1c28b865-0988-459d-9496-f8542646ca4e": {
       "company": "Garmin",
       "first_seen": "2026-08-01T23:24:49+00:00",
@@ -10244,6 +10293,20 @@
       "posted_at": "1784505600",
       "title": "Associate Software Engineer",
       "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Software-Engineer_JR106980-1"
+    },
+    "simplify:glossgenius::simplify-19732e66-5a0d-4db2-a039-33e752197e70": {
+      "company": "GlossGenius",
+      "first_seen": "2026-08-26T22:44:32+00:00",
+      "posted_at": "1787781903",
+      "title": "Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7978666003"
+    },
+    "simplify:glossgenius::simplify-bbe17ffe-5f99-4420-9206-e1671d6b0c3f": {
+      "company": "GlossGenius",
+      "first_seen": "2026-08-26T22:44:32+00:00",
+      "posted_at": "1787781897",
+      "title": "Engineering Intern - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7978739003"
     },
     "simplify:gm financial::simplify-295552cf-62f8-43b8-93f0-3ceed854d125": {
       "company": "GM financial",
@@ -13325,6 +13388,13 @@
       "title": "Engineer 1 - New College Graduate",
       "url": "https://careers.mcdean.com/jobs/32350?icims=1"
     },
+    "simplify:mackenzie investments::simplify-22da6961-acb7-4c21-b55b-05a5a8ee6bde": {
+      "company": "Mackenzie Investments",
+      "first_seen": "2026-08-26T22:44:32+00:00",
+      "posted_at": "1787781224",
+      "title": "Platform Developer Intern - Platform Developer",
+      "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5992/job?mobile=true&needsRedirect=false"
+    },
     "simplify:magna::simplify-14d33eac-9588-4ef2-aad6-4f65465e5bc0": {
       "company": "Magna",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -16076,6 +16146,13 @@
       "title": "Application Software Engineer 2 - CDeX",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340958"
     },
+    "simplify:oracle::simplify-574e0ff5-d748-4c63-bd72-624e3b87f93e": {
+      "company": "Oracle",
+      "first_seen": "2026-08-26T22:44:30+00:00",
+      "posted_at": "1787780511",
+      "title": "Application Software Engineer 1",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/343874"
+    },
     "simplify:oracle::simplify-685487cc-2bf1-41f3-9324-4441e3ba0475": {
       "company": "Oracle",
       "first_seen": "2026-08-12T23:20:42+00:00",
@@ -17693,6 +17770,13 @@
       "title": "Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/reacher/99eb7e94-ebde-41c6-acae-efef58d3babe"
     },
+    "simplify:realm::simplify-3c0eb87e-dc03-4ec2-a2f7-754825edf8ce": {
+      "company": "Realm",
+      "first_seen": "2026-08-26T22:44:32+00:00",
+      "posted_at": "1787781979",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application?embed=true"
+    },
     "simplify:realm::simplify-4463104a-5a74-418f-9f4a-2e821160e230": {
       "company": "Realm",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -18806,6 +18890,13 @@
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952"
     },
+    "simplify:rtx::simplify-51c44ec8-40a2-4c31-b595-8906166e845a": {
+      "company": "RTX",
+      "first_seen": "2026-08-26T22:44:32+00:00",
+      "posted_at": "1787702400",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Software-Engineer-I--Onsite-_01868770"
+    },
     "simplify:rtx::simplify-52214d4b-ca42-4449-aed5-361b55e49eca": {
       "company": "RTX",
       "first_seen": "2026-08-20T10:40:17+00:00",
@@ -18833,6 +18924,13 @@
       "posted_at": "1786579200",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MD-ANNAPOLIS-906--2551-Riva-Rd--BLDG-906/Software-Intern--Summer-2027-_01864400"
+    },
+    "simplify:rtx::simplify-5d042cde-610d-45d2-b749-90d9fa7ec98d": {
+      "company": "RTX",
+      "first_seen": "2026-08-26T22:44:32+00:00",
+      "posted_at": "1787702400",
+      "title": "Systems Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Systems-Engineer-I--Onsite-_01869656"
     },
     "simplify:rtx::simplify-5e274ea4-55e9-4ee0-8e93-82d466c18810": {
       "company": "RTX",
@@ -19085,6 +19183,13 @@
       "posted_at": "1785888000",
       "title": "Software Safety Engineer",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Safety-Engineer_01863205-1"
+    },
+    "simplify:rtx::simplify-bdb07e32-29e8-4fe6-bfc8-854f3a4ce18b": {
+      "company": "RTX",
+      "first_seen": "2026-08-26T22:44:32+00:00",
+      "posted_at": "1787702400",
+      "title": "Automation Solutions Developer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Developpeur-Solutions-d-Automatisation---Internship---Winter-2027---Automation-solutions-Developer_01866472"
     },
     "simplify:rtx::simplify-bde086bf-dab1-4025-b1fa-8d581fc9b704": {
       "company": "RTX",
@@ -19428,6 +19533,13 @@
       "posted_at": "1782955874",
       "title": "Software Engineering MTS - Salesforce Engineer",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Salesforce-Developer_JR318246"
+    },
+    "simplify:salesforce::simplify-3a25150a-382f-458a-8c79-deb248a24749": {
+      "company": "Salesforce",
+      "first_seen": "2026-08-26T22:44:30+00:00",
+      "posted_at": "1787702400",
+      "title": "AI Builder - Emerging Talent",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR357678"
     },
     "simplify:salesforce::simplify-5ffb792a-06f6-4670-b8ba-24c5402f1824": {
       "company": "Salesforce",
@@ -21340,6 +21452,13 @@
       "title": "Software Engineer Intern - NHRC",
       "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193"
     },
+    "simplify:teletracking::simplify-aa9c2e24-8baf-48cc-92ec-a9624e201b7e": {
+      "company": "TeleTracking",
+      "first_seen": "2026-08-26T22:44:32+00:00",
+      "posted_at": "1787772638",
+      "title": "Software Engineer 1 - Logistics Engineering",
+      "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5397299008"
+    },
     "simplify:tencent::simplify-6e53b9de-07c4-4545-b612-707fca641b88": {
       "company": "Tencent",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -22194,6 +22313,13 @@
       "title": "Software Engineer Intern - Tech & Data Program",
       "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1"
     },
+    "simplify:the hartford::simplify-394e0012-c136-47f1-9d1a-1065be754a84": {
+      "company": "The Hartford",
+      "first_seen": "2026-08-26T22:44:32+00:00",
+      "posted_at": "1787702400",
+      "title": "Software Engineer Intern - Technology, Data, AI, and Operations",
+      "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649"
+    },
     "simplify:the hartford::simplify-5f5acc02-520f-43a0-ab78-35753db6131a": {
       "company": "The Hartford",
       "first_seen": "2026-08-26T01:26:26+00:00",
@@ -22389,6 +22515,13 @@
       "posted_at": "1786924800",
       "title": "Software Engineer 1 - Observability & Insights",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10157423"
+    },
+    "simplify:the walt disney company::simplify-a5097a0a-6ce3-4617-b4e0-b214eec284bb": {
+      "company": "The Walt Disney Company",
+      "first_seen": "2026-08-26T22:44:32+00:00",
+      "posted_at": "1787702400",
+      "title": "Software Engineer 1 - Rights & Accounting",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Software-Engineer-I_10158076-2"
     },
     "simplify:the walt disney company::simplify-a8fc18f9-4b29-4232-9524-f741f63e4e17": {
       "company": "The Walt Disney Company",
@@ -25927,5 +26060,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-26T19:59:16+00:00"
+  "updated_at": "2026-08-26T22:44:32+00:00"
 }
