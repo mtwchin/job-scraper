@@ -1,5 +1,5 @@
 {
-  "count": 3696,
+  "count": 3697,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -12253,6 +12253,13 @@
       "posted_at": "1785277454",
       "title": "Full Stack Developer",
       "url": "https://kearney.taleo.net/careersection/01/jobdetail.ftl?job=006JX"
+    },
+    "simplify:keenfinity::simplify-ac0fcf1b-7b15-45db-88c7-26e72ddf2047": {
+      "company": "Keenfinity",
+      "first_seen": "2026-08-26T15:00:26+00:00",
+      "posted_at": "1787753502",
+      "title": "Associate DevOps Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/Keenfinity/744000145726019"
     },
     "simplify:kenco management services::simplify-f7de97e9-f415-42d5-a452-3b5b4903b75c": {
       "company": "Kenco Management Services",
@@ -25815,5 +25822,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-26T14:10:35+00:00"
+  "updated_at": "2026-08-26T15:00:26+00:00"
 }
