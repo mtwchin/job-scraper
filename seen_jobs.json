@@ -1,5 +1,5 @@
 {
-  "count": 3691,
+  "count": 3696,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -7312,6 +7312,13 @@
       "title": "Product Engineering Specialist",
       "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2431193"
     },
+    "simplify:cummins::simplify-57715dab-c267-4352-aa7c-5aca9054a182": {
+      "company": "Cummins",
+      "first_seen": "2026-08-26T14:10:35+00:00",
+      "posted_at": "1787751992",
+      "title": "Product Engineer - Product Engineering",
+      "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435550"
+    },
     "simplify:cummins::simplify-794d9023-0e6c-4e52-aba9-a759253853f2": {
       "company": "Cummins",
       "first_seen": "2026-08-10T06:59:24+00:00",
@@ -9866,6 +9873,13 @@
       "posted_at": "1778710070",
       "title": "Entry Level Infrastructure Software Engineer",
       "url": "https://careers-gdms.icims.com/jobs/72580/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:general dynamics mission systems::simplify-83c45c64-d3e1-4b9a-88bf-39f4e4071568": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-08-26T14:10:35+00:00",
+      "posted_at": "1787752072",
+      "title": "Enterprise AI & Data Solutions Leadership Program New Grad",
+      "url": "https://careers-gdms.icims.com/jobs/74519/job?mobile=true&needsRedirect=false"
     },
     "simplify:general dynamics mission systems::simplify-9e455d5a-c157-4189-b1f4-40f1219f2987": {
       "company": "General Dynamics Mission Systems",
@@ -18631,6 +18645,13 @@
       "title": "Software Engineer Intern - Intelligent Software & Systems",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914"
     },
+    "simplify:rtx::simplify-386e2728-ef0f-4332-86d8-df3f6627f509": {
+      "company": "RTX",
+      "first_seen": "2026-08-26T14:10:35+00:00",
+      "posted_at": "1787702400",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868869"
+    },
     "simplify:rtx::simplify-39d0cc56-bb3b-4cdd-98d2-bc30149309ff": {
       "company": "RTX",
       "first_seen": "2026-08-05T15:31:06+00:00",
@@ -18771,6 +18792,13 @@
       "title": "Systems Engineer 1 Intern - Intern Conversion",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863596"
     },
+    "simplify:rtx::simplify-5eecec55-6e05-4898-acb6-2869c78bf30b": {
+      "company": "RTX",
+      "first_seen": "2026-08-26T14:10:35+00:00",
+      "posted_at": "1787702400",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868886"
+    },
     "simplify:rtx::simplify-60aa966e-b8e8-4190-9e9b-98a2a53c3dc7": {
       "company": "RTX",
       "first_seen": "2026-08-12T22:38:25+00:00",
@@ -18819,6 +18847,13 @@
       "posted_at": "1786492800",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01865680"
+    },
+    "simplify:rtx::simplify-7d63ae5d-6722-40c4-a6b6-22560e143461": {
+      "company": "RTX",
+      "first_seen": "2026-08-26T14:10:35+00:00",
+      "posted_at": "1787702400",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890"
     },
     "simplify:rtx::simplify-7f814df9-4d07-4be5-b742-9ed37b9549a8": {
       "company": "RTX",
@@ -25780,5 +25815,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-26T02:43:29+00:00"
+  "updated_at": "2026-08-26T14:10:35+00:00"
 }
