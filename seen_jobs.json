@@ -1,5 +1,5 @@
 {
-  "count": 3701,
+  "count": 3706,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3679,6 +3679,13 @@
       "title": "Math Major Software Developer",
       "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Math-Major-Software-Developer_R_1008"
     },
+    "simplify:auto-owners insurance::simplify-4be8c595-47e2-4dbd-b5fa-40c7dd524910": {
+      "company": "Auto-Owners Insurance",
+      "first_seen": "2026-08-26T18:08:09+00:00",
+      "posted_at": "1787702400",
+      "title": "Analytics Web Systems Developer Intern",
+      "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intern---Analytics-Web-Systems-Developer_R_14272"
+    },
     "simplify:autodesk::simplify-2c44a377-3a3b-4d57-af73-669e66675373": {
       "company": "Autodesk",
       "first_seen": "2026-08-07T23:34:48+00:00",
@@ -7179,6 +7186,13 @@
       "title": "Software Engineer 1",
       "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I---18525_R202680328"
     },
+    "simplify:cox automotive::simplify-2ed80b78-d184-4d1d-b9c2-7150eb9067c2": {
+      "company": "Cox Automotive",
+      "first_seen": "2026-08-26T18:08:09+00:00",
+      "posted_at": "1787702400",
+      "title": "Entry Level Software Engineer - Draper, UT",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202681804"
+    },
     "simplify:cox automotive::simplify-6ae10384-f163-4945-850b-2047b484ea0f": {
       "company": "Cox Automotive",
       "first_seen": "2026-08-10T19:44:57+00:00",
@@ -7199,6 +7213,13 @@
       "posted_at": "1782598083",
       "title": "Software Engineer 1",
       "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352"
+    },
+    "simplify:cox::simplify-40955085-af36-47cc-9be4-e7ee3a1ead92": {
+      "company": "Cox",
+      "first_seen": "2026-08-26T18:08:09+00:00",
+      "posted_at": "1778796572",
+      "title": "Entry Level Software Engineer",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202677231"
     },
     "simplify:cox::simplify-a56f7c52-2e58-4520-8e9e-c112ea2c96df": {
       "company": "Cox",
@@ -16706,6 +16727,13 @@
       "title": "Software Engineer TS",
       "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer_R175644-1"
     },
+    "simplify:parsons::simplify-64a54a24-5ab6-415b-bce1-88cd157d415d": {
+      "company": "Parsons",
+      "first_seen": "2026-08-26T18:08:09+00:00",
+      "posted_at": "1787702400",
+      "title": "Software Intern - Summer 2027",
+      "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Denver/Software-Intern--Summer-2027-_R185388"
+    },
     "simplify:pathai::simplify-4e2d4aa8-3825-4d49-bb96-d3194a6ced1f": {
       "company": "PathAI",
       "first_seen": "2026-08-11T23:09:33+00:00",
@@ -19421,6 +19449,13 @@
       "posted_at": "1771640186",
       "title": "Software Engineering AMTS/MTS \u2013 College Grad",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1"
+    },
+    "simplify:salesforce::simplify-bde662ce-92c7-454f-baa5-c0f859f3f0aa": {
+      "company": "Salesforce",
+      "first_seen": "2026-08-26T18:08:08+00:00",
+      "posted_at": "1787702400",
+      "title": "AI Builder - Emerging Talent",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR357678-1"
     },
     "simplify:salesforce::simplify-c92fc7de-e326-4327-8f9c-5195b90591e9": {
       "company": "Salesforce",
@@ -25850,5 +25885,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-26T16:21:48+00:00"
+  "updated_at": "2026-08-26T18:08:09+00:00"
 }
