@@ -1,5 +1,5 @@
 {
-  "count": 3758,
+  "count": 3793,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -144,6 +144,20 @@
       "posted_at": "August 25, 2026",
       "title": "Software Development Engineer, Amazon Leo, Early Career - 2026",
       "url": "https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026"
+    },
+    "amazon::10517149": {
+      "company": "Amazon",
+      "first_seen": "2026-08-27T23:56:29+00:00",
+      "posted_at": "August 27, 2026",
+      "title": "Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
+      "url": "https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026"
+    },
+    "amazon::10517567": {
+      "company": "Amazon",
+      "first_seen": "2026-08-27T23:56:29+00:00",
+      "posted_at": "August 27, 2026",
+      "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -2097,6 +2111,13 @@
       "title": "Application Engineer",
       "url": "https://aircontrolconcepts.applytojob.com/apply/0mgWNmp2sM/Application-Engineer"
     },
+    "simplify:air products::simplify-dd7b3d30-baf7-40f6-b0f5-46fc35981d6d": {
+      "company": "Air Products",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787788800",
+      "title": "Information Technology/Digital Technology Intern - Infrastructure Services",
+      "url": "https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT-Digital-Technology--2027-_JR-2026-21953"
+    },
     "simplify:airtable::simplify-d749acf3-cb33-4d12-9e83-8a25445497c3": {
       "company": "Airtable",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -2447,6 +2468,13 @@
       "title": "Software Development Engineer",
       "url": "https://amazon.jobs/en/jobs/10408763/software-development-engineer-2026"
     },
+    "simplify:amazon::simplify-ae6480dc-19f7-41c1-93ec-fd10763825b1": {
+      "company": "Amazon",
+      "first_seen": "2026-08-27T23:56:29+00:00",
+      "posted_at": "1787869272",
+      "title": "Software Development Engineer Intern - Annapurna Labs",
+      "url": "https://amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027"
+    },
     "simplify:amazon::simplify-bfa6d860-85c2-4118-8d8c-e224b9e52584": {
       "company": "Amazon",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -2481,6 +2509,13 @@
       "posted_at": "1779930364",
       "title": "ITS Support Engineer 1",
       "url": "https://amazon.jobs/en/jobs/10432510/its-support-engineer-i"
+    },
+    "simplify:ambarella::simplify-c4841e3b-7bc1-434f-89ca-6339d37cc8ff": {
+      "company": "Ambarella",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787788800",
+      "title": "Algorithm Engineer Intern",
+      "url": "https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Algorithm-Engineer-Intern_JR100359"
     },
     "simplify:ambral::simplify-f2d96d04-27a3-470a-a0c3-7a3c8e65528e": {
       "company": "Ambral",
@@ -2803,6 +2838,13 @@
       "posted_at": "1781273415",
       "title": "Associate Backend Software Engineer - Python",
       "url": "https://job-boards.greenhouse.io/anaplan/jobs/8579820002"
+    },
+    "simplify:anavation::simplify-d50e0c94-1355-4bbe-a720-1a1937f238f7": {
+      "company": "AnaVation",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787873046",
+      "title": "Computer Science Intern",
+      "url": "https://jobs.lever.co/anavationllc/f7c83978-8510-409c-a5a3-17618511f819/apply"
     },
     "simplify:ancestry::simplify-ee03f6e5-4ee4-4045-9664-e38ffc7617bd": {
       "company": "Ancestry",
@@ -4526,6 +4568,20 @@
       "title": "Power Platform Developer - Mid",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/Power-Platform-Developer--Mid_R0245301"
     },
+    "simplify:booz allen::simplify-841e2cd6-9fb6-4ffd-adb4-671a6b81ade2": {
+      "company": "Booz Allen",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787788800",
+      "title": "Software Developer Intern - Summer Games",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038"
+    },
+    "simplify:booz allen::simplify-84aad02e-2ac4-4eaf-89fd-3674ae05f75e": {
+      "company": "Booz Allen",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787788800",
+      "title": "Software Developer Intern - Summer Games",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046"
+    },
     "simplify:booz allen::simplify-85d7cbe8-ca54-4877-83dd-d0a6cfcc4157": {
       "company": "Booz Allen",
       "first_seen": "2026-08-24T20:41:41+00:00",
@@ -4539,6 +4595,20 @@
       "posted_at": "1786060800",
       "title": "Software Engineer - University",
       "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246653"
+    },
+    "simplify:booz allen::simplify-c744244f-670e-496a-a8e7-3f470887a7dd": {
+      "company": "Booz Allen",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787788800",
+      "title": "Product Engineer",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Product-Engineer_R0248101"
+    },
+    "simplify:booz allen::simplify-dc134c5a-4e51-42bc-8e94-3f5e69b36ba3": {
+      "company": "Booz Allen",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787788800",
+      "title": "Applied AI Software Developer",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Applied-AI-Software-Developer_R0248109"
     },
     "simplify:booz allen::simplify-fa59ec3c-a4bd-4395-87e0-3817d5e0f9f6": {
       "company": "Booz Allen",
@@ -5415,6 +5485,13 @@
       "title": "Junior Software Engineer",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Software-Engineer_327867"
     },
+    "simplify:caci::simplify-a07f8010-25a5-464a-9c1f-934209e53aed": {
+      "company": "CACI",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787869230",
+      "title": "Software Engineer",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_324339"
+    },
     "simplify:caci::simplify-a9d9ef99-80e5-4ffe-a59e-6c8e6229a7f3": {
       "company": "CACI",
       "first_seen": "2026-07-21T17:19:03+00:00",
@@ -5428,6 +5505,13 @@
       "posted_at": "1784505600",
       "title": "Junior Application Developer",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Application-Developer_328917"
+    },
+    "simplify:caci::simplify-f50900c1-f7ea-4836-a39f-5a4f4b2220bd": {
+      "company": "CACI",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1774995071",
+      "title": "AI Prompt Engineer",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/AI-Prompt-Engineer_324104"
     },
     "simplify:caddi workflow automation::simplify-12ce52b4-da60-4458-9f42-1581e549d94c": {
       "company": "Caddi Workflow Automation",
@@ -6829,6 +6913,13 @@
       "title": "Software Engineer",
       "url": "https://jobs.lever.co/commercearchitects/ec4bd3b5-3219-4524-805a-d9dff354c5ec/apply"
     },
+    "simplify:commerce bank::simplify-91d2adab-28fa-4563-b4ba-2a64e372dbed": {
+      "company": "Commerce Bank",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787788800",
+      "title": "IT Intern - Summer 2027",
+      "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern---IT--Summer-2027-_38395"
+    },
     "simplify:commerceiq::simplify-0ac792eb-ee45-477f-863f-d896897e6c8d": {
       "company": "CommerceIQ",
       "first_seen": "2026-07-23T12:58:58+00:00",
@@ -6968,6 +7059,13 @@
       "posted_at": "1783721450",
       "title": "Software Engineer - .NET & AI",
       "url": "https://confluence.pinpointhq.com/en/postings/49d5aa65-dc1b-4254-ae94-f645e7488aa1?ats=pinpointhq"
+    },
+    "simplify:constellation energy::simplify-d26b671a-bd46-4c7b-9156-0a29cfe9579b": {
+      "company": "Constellation Energy",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787872864",
+      "title": "Associate Software Engineer - AI",
+      "url": "https://jobs.constellationenergy.com/jobs/138264?icims=1"
     },
     "simplify:constructconnect::simplify-025d3284-8d03-4fa6-aab3-067596ccb178": {
       "company": "ConstructConnect",
@@ -7921,6 +8019,13 @@
       "title": "Consultative Offerings Analyst - Government & Public Services - Software Engineering",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Software-Engineering/350277"
     },
+    "simplify:deloitte::simplify-a69da076-e18a-42b5-9a88-0838d7941959": {
+      "company": "Deloitte",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787848822",
+      "title": "Software Engineering Summer Scholar Intern",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Software-Engineering/364670"
+    },
     "simplify:deloitte::simplify-a9a2e369-3bce-45ed-ac8b-e9ea8ed3da85": {
       "company": "Deloitte",
       "first_seen": "2026-08-11T23:09:33+00:00",
@@ -8683,6 +8788,13 @@
       "posted_at": "1784931107",
       "title": "Back-end .NET Developer",
       "url": "https://careers.ey.com/ey/job/Toronto-Back-end-_net-Developer-ON-M5H-0B3/1418865833/"
+    },
+    "simplify:ernst & young::simplify-e7428679-0ff4-45b7-8a59-135cb9b646cc": {
+      "company": "Ernst & Young",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787869306",
+      "title": "Agent Development Architect Senior",
+      "url": "https://careers.ey.com/ey/job/Atlanta-Agent-Development-Architect-Senior-GA-30309/1431249733/"
     },
     "simplify:erpa::simplify-b93029bb-0502-4da5-9050-4b8933270db8": {
       "company": "ERPA",
@@ -10301,6 +10413,13 @@
       "title": "Full Stack Engineer",
       "url": "https://jobs.ashbyhq.com/glide/5ece3064-6884-43c2-923c-066d6187b25d/application"
     },
+    "simplify:global lending services::simplify-862ba6d9-02fd-4ac4-831f-d7413f068a09": {
+      "company": "Global Lending Services",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787848357",
+      "title": "Software Developer",
+      "url": "https://jobs.lever.co/glsllc/6fe04362-4ef7-46f2-acc7-4a72355ed90c/apply"
+    },
     "simplify:global payments::simplify-7900a04f-2150-4095-83c3-4fbe4b625765": {
       "company": "Global Payments",
       "first_seen": "2026-08-05T22:37:23+00:00",
@@ -10566,6 +10685,13 @@
       "posted_at": "1780956248",
       "title": "Product Engineer 1/2 Senior",
       "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Product-Engineer-I-II-Sr_JR103825"
+    },
+    "simplify:greenheck group::simplify-8bc4dcb0-a3c1-4b32-8a42-7543e66398bd": {
+      "company": "Greenheck Group",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787788800",
+      "title": "Application Engineer",
+      "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Minneapolis-MN/Application-Engineer-I-II-Sr_JR104492"
     },
     "simplify:greenheck group::simplify-96be6168-3e02-400e-812d-c2904446ba29": {
       "company": "Greenheck Group",
@@ -11413,6 +11539,20 @@
       "posted_at": "1782944929",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101"
+    },
+    "simplify:imc trading::simplify-81f31a55-3c12-476c-bb99-e74e63986e74": {
+      "company": "IMC Trading",
+      "first_seen": "2026-08-27T23:56:29+00:00",
+      "posted_at": "1787869657",
+      "title": "Performance Engineer Intern",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4842595101"
+    },
+    "simplify:imc trading::simplify-bd50ff7c-e21f-427c-87ad-4a45b42e134c": {
+      "company": "IMC Trading",
+      "first_seen": "2026-08-27T23:56:29+00:00",
+      "posted_at": "1787869651",
+      "title": "Performance Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823836101"
     },
     "simplify:impact.com::simplify-29ca8d13-f107-45a4-8300-32983b3cf01e": {
       "company": "impact.com",
@@ -12667,12 +12807,26 @@
       "title": "Applications Development Engineer - Broadband Plasma Division",
       "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Applications-Development-Engineer---Broadband-Plasma-Division-_2639355-1"
     },
+    "simplify:kla::simplify-d4b7c637-570f-409e-beaf-5d2c23cf8d68": {
+      "company": "KLA",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787788800",
+      "title": "Applications Development Engineer - Broadband Plasma",
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Applications-Development-Engineer---BBP_2640025-2"
+    },
     "simplify:kla::simplify-e51c9740-5833-4cde-9afd-23b440bfe8d8": {
       "company": "KLA",
       "first_seen": "2026-07-21T21:22:56+00:00",
       "posted_at": "1782165928",
       "title": "Applications Development Engineer",
       "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Applications-Development-Engineer_2637888"
+    },
+    "simplify:kla::simplify-ffb4bdca-3de5-4962-937b-7fda5a63c717": {
+      "company": "KLA",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787788800",
+      "title": "Applications Development Engineer - Broadband Plasma",
+      "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineer---BBP_2640025"
     },
     "simplify:klarity::simplify-1f8f1200-34a4-4c3f-b9d0-7e4cb7c4062a": {
       "company": "Klarity",
@@ -13058,6 +13212,13 @@
       "posted_at": "1783415505",
       "title": "Frontend Engineer",
       "url": "https://jobs.ashbyhq.com/layerfi/a34fcd0d-6d73-44e9-8821-5bcb9fc10474/application?embed=true"
+    },
+    "simplify:leidos::simplify-083cfc54-1c27-4fc6-ab89-6606e06aca1f": {
+      "company": "Leidos",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787788800",
+      "title": "Software Developer Co-op",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Developer-Co-op_R-00190766"
     },
     "simplify:leidos::simplify-13dd6f9c-c173-4f09-aefe-7255a8bc03f6": {
       "company": "Leidos",
@@ -13605,6 +13766,13 @@
       "title": "Full Stack Software Engineer - Fund Administration IT",
       "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Full-Stack-Software-Engineer_JR26070424-2"
     },
+    "simplify:manulife financial::simplify-caa5d432-7f4d-4c1f-92de-98d8fd87d850": {
+      "company": "Manulife Financial",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787788800",
+      "title": "Software Engineering Intern",
+      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680"
+    },
     "simplify:manulife financial::simplify-e3d3e5c2-9d68-47ca-9dea-85edde365402": {
       "company": "Manulife Financial",
       "first_seen": "2026-07-28T23:15:13+00:00",
@@ -13857,6 +14025,13 @@
       "title": "Software Engineer 1 - AI and Decision Product Enablement",
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-280783"
     },
+    "simplify:match group::simplify-a62806df-d00b-4b10-9d89-b2e124ba1727": {
+      "company": "Match Group",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787869278",
+      "title": "Software Engineer - Android",
+      "url": "https://jobs.lever.co/matchgroup/26725d4e-c597-4434-95d3-e6b86472d8a4/apply"
+    },
     "simplify:matillion::simplify-6f064ba4-8cb5-4c86-8237-7530909d2469": {
       "company": "Matillion",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -14024,6 +14199,13 @@
       "posted_at": "1785542400",
       "title": "Software Engineer Intern",
       "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630"
+    },
+    "simplify:medtronic::simplify-bc8cef80-2478-4abe-8166-7f6a226c4edd": {
+      "company": "Medtronic",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787788800",
+      "title": "Engineering Intern",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021"
     },
     "simplify:medtronic::simplify-c21ea81c-9844-46be-9e30-5d382756f674": {
       "company": "Medtronic",
@@ -14297,6 +14479,13 @@
       "posted_at": "1787616000",
       "title": "System Software Engineer New Grad",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/New-College-Grad---System-Software-Engineer_JR109291"
+    },
+    "simplify:micron technology::simplify-2bc345ba-6706-4efb-925f-c449a37bc3d5": {
+      "company": "Micron Technology",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787788800",
+      "title": "Software Engineer New Grad",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692"
     },
     "simplify:micron technology::simplify-3de8274a-c574-4b59-b828-cdade0c70e7e": {
       "company": "Micron Technology",
@@ -15914,6 +16103,13 @@
       "posted_at": "1778883147",
       "title": "Software R&D Engineer New Grad - Digital Logic Synthesis",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-R-D-Engineer--Digital-Logic-Synthesis---New-College-Grad-2026_JR2018263"
+    },
+    "simplify:nvidia::simplify-1de13b97-34aa-4238-8e96-9b36b4e9d623": {
+      "company": "NVIDIA",
+      "first_seen": "2026-08-27T23:56:29+00:00",
+      "posted_at": "1777500504",
+      "title": "Compiler Engineer \u2013 Backend-New College Grad",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Backend--New-College-Grad-2026_JR2017290"
     },
     "simplify:nvidia::simplify-2b993794-3395-48ae-a0ac-7d78d66b56aa": {
       "company": "NVIDIA",
@@ -20164,6 +20360,13 @@
       "title": "AI Engineer Intern",
       "url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply"
     },
+    "simplify:sierra nevada corporation::simplify-07bd103c-1d70-4013-a353-134890eb3530": {
+      "company": "Sierra Nevada Corporation",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787788800",
+      "title": "Software Engineer 1",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529"
+    },
     "simplify:sierra nevada corporation::simplify-4712a8f4-e39e-4b35-b043-ac09928e8b0f": {
       "company": "Sierra Nevada Corporation",
       "first_seen": "2026-07-21T06:16:23+00:00",
@@ -20177,6 +20380,13 @@
       "posted_at": "1765624020",
       "title": "Military Fellowship Program: Software Engineer",
       "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Military-Fellowship-Program--Software-Engineer_R0028640"
+    },
+    "simplify:sierra nevada corporation::simplify-92e26ac8-dfc6-42c8-867f-6c96fb1a9e63": {
+      "company": "Sierra Nevada Corporation",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787788800",
+      "title": "Software Engineer 1",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030526"
     },
     "simplify:sifive::simplify-ec5e83b4-1cb5-4b81-9056-28110a076c6e": {
       "company": "SiFive",
@@ -20387,6 +20597,13 @@
       "posted_at": "1785794787",
       "title": "Junior Software Engineer",
       "url": "https://jobs.smartrecruiters.com/Socotec/744000141326319"
+    },
+    "simplify:socotec uk & ireland::simplify-ebee222c-1071-46b0-848a-7f57af5a18e1": {
+      "company": "SOCOTEC UK & Ireland",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787868332",
+      "title": "Associate Software Developer - AI Focused",
+      "url": "https://jobs.smartrecruiters.com/SOCOTECUKIreland/744000146014169"
     },
     "simplify:sofi::simplify-ad0e540c-aa30-4559-a884-7ad92a21b24c": {
       "company": "SoFi",
@@ -21900,6 +22117,13 @@
       "title": "Software Engineer Intern - Software Engineer - AI Hardware Infrastructure",
       "url": "https://www.tesla.com/careers/search/job/260382"
     },
+    "simplify:tesla::simplify-615b2214-ffde-44ff-b1af-d08cea6fe865": {
+      "company": "Tesla",
+      "first_seen": "2026-08-27T23:56:29+00:00",
+      "posted_at": "1787870530",
+      "title": "Software Engineer Intern - Information Security - Spring 2027",
+      "url": "https://www.tesla.com/careers/search/job/281473"
+    },
     "simplify:tesla::simplify-630f6c80-efb2-4a6c-9c00-0dbd2f998d26": {
       "company": "Tesla",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -22040,6 +22264,13 @@
       "title": "Software Engineer Intern - Maps & Navigation Validation",
       "url": "https://www.tesla.com/careers/search/job/281271"
     },
+    "simplify:tesla::simplify-aac19326-02f3-415a-991f-d6a81d6a7ef9": {
+      "company": "Tesla",
+      "first_seen": "2026-08-27T23:56:29+00:00",
+      "posted_at": "1787870474",
+      "title": "Automated Diagnostics Intern - Software Engineer",
+      "url": "https://www.tesla.com/careers/search/job/281623"
+    },
     "simplify:tesla::simplify-abc9038a-92bb-4e7c-b016-49feb542cb56": {
       "company": "Tesla",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -22053,6 +22284,13 @@
       "posted_at": "1785478503",
       "title": "Vehicle Software Intern - Vehicle Software Engineer-Diagnostic User Interface",
       "url": "https://www.tesla.com/careers/search/job/278703"
+    },
+    "simplify:tesla::simplify-c5bd1b3f-c4a1-4606-b687-e4afcc112363": {
+      "company": "Tesla",
+      "first_seen": "2026-08-27T23:56:29+00:00",
+      "posted_at": "1787870608",
+      "title": "Software Engineer Intern - Vehicle Software - Summer 2027",
+      "url": "https://www.tesla.com/careers/search/job/281097"
     },
     "simplify:tesla::simplify-c6ed98e1-2c89-4ee7-b7a3-8e6b72563fc7": {
       "company": "Tesla",
@@ -22753,6 +22991,13 @@
       "posted_at": "1783555200",
       "title": "AI Developer",
       "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Birmingham-United-Kingdom/AI-Developer_R-01358937-1"
+    },
+    "simplify:think-cell::simplify-053c7987-6469-4ab8-b5d7-cdf305153c29": {
+      "company": "think-cell",
+      "first_seen": "2026-08-27T23:56:31+00:00",
+      "posted_at": "1787848415",
+      "title": "C++ Developer",
+      "url": "https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101"
     },
     "simplify:thomson reuters::simplify-b859a4fd-b8c5-460f-925e-d94e48b75089": {
       "company": "Thomson Reuters",
@@ -26249,5 +26494,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-27T14:35:48+00:00"
+  "updated_at": "2026-08-27T23:56:31+00:00"
 }
