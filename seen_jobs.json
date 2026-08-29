@@ -1,5 +1,5 @@
 {
-  "count": 3851,
+  "count": 3853,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -15320,6 +15320,13 @@
       "title": "Frontend Application Engineer Intern",
       "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776"
     },
+    "simplify:ncr voyix::simplify-09c0d678-51ef-4e83-a6cd-30b5148869f4": {
+      "company": "NCR Voyix",
+      "first_seen": "2026-08-29T09:24:34+00:00",
+      "posted_at": "1785456000",
+      "title": "Software Engineer",
+      "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Senior-Principal-IT-Architect_R0158013"
+    },
     "simplify:ncr voyix::simplify-880e56e4-25c9-471f-b83a-aba5765b085f": {
       "company": "NCR Voyix",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -16201,6 +16208,13 @@
       "posted_at": "1785143651",
       "title": "Engineer \u2013 Web Apps",
       "url": "https://job-boards.greenhouse.io/gingerlabsinc/jobs/4928821008"
+    },
+    "simplify:notability::simplify-b768d2ef-8934-4832-9949-f25ca77045c0": {
+      "company": "Notability",
+      "first_seen": "2026-08-29T09:24:34+00:00",
+      "posted_at": "1787984178",
+      "title": "Backend Engineer",
+      "url": "https://job-boards.greenhouse.io/gingerlabsinc/jobs/5410136008"
     },
     "simplify:notion::simplify-14e51d14-067b-43b8-80cf-dcf3c6893565": {
       "company": "Notion",
@@ -26900,5 +26914,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-29T02:50:35+00:00"
+  "updated_at": "2026-08-29T09:24:34+00:00"
 }
