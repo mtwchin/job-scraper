@@ -1,5 +1,5 @@
 {
-  "count": 3854,
+  "count": 3855,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -18260,6 +18260,13 @@
       "title": "QA Tester - Mobile - Android/VR",
       "url": "https://jobs.smartrecruiters.com/QANALYSTSLLC2/743999677596559"
     },
+    "simplify:quanta::simplify-894170e1-a1af-4afa-9a09-988a0a205b88": {
+      "company": "Quanta",
+      "first_seen": "2026-08-29T20:01:16+00:00",
+      "posted_at": "1785191043",
+      "title": "Software Engineer - Implementation",
+      "url": "https://jobs.ashbyhq.com/quanta/bdbee896-e05d-4e0c-b2f1-996dd01db800/application?embed=true"
+    },
     "simplify:quantbot technologies::simplify-446f16de-a70b-4c44-b1e7-7bd48429a95f": {
       "company": "Quantbot Technologies",
       "first_seen": "2026-08-11T18:05:24+00:00",
@@ -26921,5 +26928,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-29T14:35:40+00:00"
+  "updated_at": "2026-08-29T20:01:16+00:00"
 }
