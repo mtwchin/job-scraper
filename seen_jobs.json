@@ -1,5 +1,5 @@
 {
-  "count": 3856,
+  "count": 3857,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3244,6 +3244,13 @@
       "posted_at": "1783472962",
       "title": "Software Engineer 2 \u2013 New College Grad",
       "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II--New-College-Grad---Santa-Clara--CA-_R2622398"
+    },
+    "simplify:applied materials::simplify-d41432d6-6b63-4728-be3a-095f8d258069": {
+      "company": "Applied Materials",
+      "first_seen": "2026-08-30T23:37:21+00:00",
+      "posted_at": "1788048000",
+      "title": "Support Engineer 1 - Global Support",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/BoiseID/Global-Support-Support-Engineer-I_R2626705"
     },
     "simplify:applied materials::simplify-ddb8f300-267b-4c8d-8fcf-9e075ae95dfb": {
       "company": "Applied Materials",
@@ -26935,5 +26942,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-30T10:42:19+00:00"
+  "updated_at": "2026-08-30T23:37:21+00:00"
 }
