@@ -1,5 +1,5 @@
 {
-  "count": 3855,
+  "count": 3856,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -13387,6 +13387,13 @@
       "posted_at": "1781676490",
       "title": "Support Engineer 1 - I",
       "url": "https://jobs.jobvite.com/laserfiche/job/orDbAfwz?nl=1&nl=1&fr=false"
+    },
+    "simplify:later::simplify-119ba1cb-df5a-4b95-9bed-4d76527e4280": {
+      "company": "Later",
+      "first_seen": "2026-08-30T10:42:19+00:00",
+      "posted_at": "1782263780",
+      "title": "AI Automation Engineer Co-op",
+      "url": "https://job-boards.greenhouse.io/later/jobs/8604889002"
     },
     "simplify:later::simplify-169ee4eb-3319-4a8b-9ea1-9e765661b92b": {
       "company": "Later",
@@ -26928,5 +26935,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-29T20:01:16+00:00"
+  "updated_at": "2026-08-30T10:42:19+00:00"
 }
