@@ -1,5 +1,5 @@
 {
-  "count": 3857,
+  "count": 3878,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -8929,6 +8929,13 @@
       "title": "Rotational Technology Associate",
       "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Rotational-Technology-Associate_J00170954"
     },
+    "simplify:equifax::simplify-3e77a1a2-8628-4836-9e07-b43a12a8468e": {
+      "company": "Equifax",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788048000",
+      "title": "Technology Intern - Software Development - Site Reliability Engineering",
+      "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/USIS-Technology-Intern_J00178784"
+    },
     "simplify:equifax::simplify-3fa36818-1341-4b1d-bad4-ca0b28c68379": {
       "company": "Equifax",
       "first_seen": "2026-08-17T23:07:29+00:00",
@@ -9747,6 +9754,13 @@
       "posted_at": "1786486610",
       "title": "Software Engineer Intern - Engineering and Operations",
       "url": "http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern"
+    },
+    "simplify:framatome::simplify-5e006de2-cad9-4e1d-a296-f0c0823c5b22": {
+      "company": "Framatome",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788151926",
+      "title": "Computer Science Engineer Intern Co-op - University Co-op Technical",
+      "url": "https://careers-framatome.icims.com/jobs/3294/job?mobile=true&needsRedirect=false"
     },
     "simplify:framatome::simplify-d5e5a702-bb67-4401-a6b9-bb2f4cf29ce6": {
       "company": "Framatome",
@@ -12022,6 +12036,27 @@
       "posted_at": "1777500475",
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639"
+    },
+    "simplify:intelcom | dragonfly::simplify-7457d468-4ac9-4c0d-996a-a9bf28362a0f": {
+      "company": "Intelcom | Dragonfly",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788134400",
+      "title": "Front-end Developer Intern - Mobile Application",
+      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Front-end-Developer-Intern---Mobile-Application_JR111571"
+    },
+    "simplify:intelcom | dragonfly::simplify-e6281753-0fb1-4550-9c99-50836fadaf45": {
+      "company": "Intelcom | Dragonfly",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788134400",
+      "title": "Full-Stack Developer Intern - Route Optimization",
+      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Full-Stack-Developer-Intern---Route-Optimization_JR111570-1"
+    },
+    "simplify:intelcom | dragonfly::simplify-f32cc37e-03b7-40c8-93fc-a2b179618b4f": {
+      "company": "Intelcom | Dragonfly",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788134400",
+      "title": "R&D Solution Builder Intern",
+      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/R-D-Solution-Builder-Intern_JR111563"
     },
     "simplify:intelligenesis::simplify-74c5b938-b6a5-4b8b-897c-83c285a86481": {
       "company": "IntelliGenesis",
@@ -18204,6 +18239,97 @@
       "title": "Software Engineer",
       "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12023"
     },
+    "simplify:qorvo::simplify-056e0096-9f6b-4c3a-844f-cd627807e7f6": {
+      "company": "Qorvo",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788153914",
+      "title": "Full-Stack Web Developer Intern",
+      "url": "https://careers.qorvo.com/job/Richardson-Full-Stack-Web-Developer-Intern-TX-75080/1424716200/?ats=successfactors"
+    },
+    "simplify:qorvo::simplify-161824d8-3c87-453c-8d11-76c3a054219a": {
+      "company": "Qorvo",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788153917",
+      "title": "Software Engineer Intern - Software R&D",
+      "url": "https://careers.qorvo.com/job/Apopka-Software-Engineering-Intern,-SWR-FL-32703/1423577900/?ats=successfactors"
+    },
+    "simplify:qorvo::simplify-38c47e15-ffc2-4197-bebd-ca87a329a030": {
+      "company": "Qorvo",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788153919",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.qorvo.com/job/Greensboro-Software-Engineering-Intern-NC-27409/1421981000/?ats=successfactors"
+    },
+    "simplify:qorvo::simplify-3bae1dbd-ee80-4fc7-b484-b609aef7ca84": {
+      "company": "Qorvo",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788153916",
+      "title": "Software Engineer Intern - Information Technology Manufacturing Systems",
+      "url": "https://careers.qorvo.com/job/Bend-Software-Engineer-Intern-OR-97703/1421474800/?ats=successfactors"
+    },
+    "simplify:qorvo::simplify-8decbc9f-51db-465d-82d6-b6dfca4baf0f": {
+      "company": "Qorvo",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788153920",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.qorvo.com/job/Richardson-Software-Engineer-Intern-TX-75080/1421457600/?ats=successfactors"
+    },
+    "simplify:qorvo::simplify-a1de4424-41e1-4c3d-ba2b-a5c743c8ab47": {
+      "company": "Qorvo",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788153911",
+      "title": "Application Engineer Intern",
+      "url": "https://careers.qorvo.com/job/Apopka-Application-Engineering-Intern-FL-32703/1421984100/?ats=successfactors"
+    },
+    "simplify:qorvo::simplify-a3f9cf12-ead2-4b32-9846-ee58ffd925f7": {
+      "company": "Qorvo",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788153915",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.qorvo.com/job/Greensboro-Software-Engineer-Intern-NC-27409/1421952100/?ats=successfactors"
+    },
+    "simplify:qorvo::simplify-b875eded-292c-4e53-b3ed-4fbb1d957ae5": {
+      "company": "Qorvo",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788153915",
+      "title": "Software Engineer Intern - SWR",
+      "url": "https://careers.qorvo.com/job/Greensboro-Software-Engineering-Intern,-SWR-NC-27409/1421982000/?ats=successfactors"
+    },
+    "simplify:qorvo::simplify-bdb55724-c75a-4851-9cc0-5630913a4d94": {
+      "company": "Qorvo",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788153914",
+      "title": "Software Characterization Engineer Intern",
+      "url": "https://careers.qorvo.com/job/Greensboro-Software-Characterization-Eng-Intern-NC-27409/1420018600/?ats=successfactors"
+    },
+    "simplify:qorvo::simplify-d5c68adb-84dd-4079-a377-d44a05b66a90": {
+      "company": "Qorvo",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788153917",
+      "title": "Electrical Engineer Intern - Physical Verification",
+      "url": "https://careers.qorvo.com/job/Greensboro-Software-Engineering-Intern,-SWR-NC-27409/1422901500/?ats=successfactors"
+    },
+    "simplify:qorvo::simplify-e014595b-9375-4e86-8f94-c609938a1557": {
+      "company": "Qorvo",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788153915",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.qorvo.com/job/Richardson-Software-Engineering-Intern-TX-75080/1424729800/?ats=successfactors"
+    },
+    "simplify:qorvo::simplify-e50cfb4e-c4b2-47dc-b594-f28655f5499c": {
+      "company": "Qorvo",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788153918",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.qorvo.com/job/Richardson-Software-Engineer-Intern-TX-75080/1421453600/?ats=successfactors"
+    },
+    "simplify:qorvo::simplify-ee9b1ec5-c9e0-4145-b628-45f0ff53c4f3": {
+      "company": "Qorvo",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788153912",
+      "title": "Product Engineering Intern",
+      "url": "https://careers.qorvo.com/job/Greensboro-Product-Engineering-Intern-NC-27409/1421976000/?ats=successfactors"
+    },
     "simplify:qts::simplify-0d9c311a-c4bf-4426-8b6a-c25c5fc88cd2": {
       "company": "QTS",
       "first_seen": "2026-07-17T23:11:51+00:00",
@@ -21683,12 +21809,33 @@
       "title": "Software Engineer New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=7991718"
     },
+    "simplify:stryker::simplify-3c6dc4c7-bd24-4215-a600-0d55a3952673": {
+      "company": "Stryker",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788134400",
+      "title": "Software Engineering Intern - Multiple Teams",
+      "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631"
+    },
     "simplify:stryker::simplify-659b34df-a909-4297-a039-f36c5603ab51": {
       "company": "Stryker",
       "first_seen": "2026-08-18T22:42:18+00:00",
       "posted_at": "1787011200",
       "title": "Software Development Engineer",
       "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Indiana-Fort-Wayne-1950-West-Cook-Road/Software-Development-Engineer_R570340"
+    },
+    "simplify:stryker::simplify-8254bef8-0753-4347-9bd2-47e5536eab40": {
+      "company": "Stryker",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788134400",
+      "title": "Software Engineering Intern - Software Engineering",
+      "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1"
+    },
+    "simplify:stryker::simplify-ca835172-bf35-4ed0-b110-8dec8dc954ea": {
+      "company": "Stryker",
+      "first_seen": "2026-08-31T07:34:23+00:00",
+      "posted_at": "1788134400",
+      "title": "Software Engineering Intern - Software Engineering",
+      "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1"
     },
     "simplify:stubhub::simplify-58f3d829-4855-4df3-ba8b-7bfc2e226a88": {
       "company": "StubHub",
@@ -26942,5 +27089,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-30T23:37:21+00:00"
+  "updated_at": "2026-08-31T07:34:23+00:00"
 }
