@@ -1,5 +1,5 @@
 {
-  "count": 3885,
+  "count": 3896,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1037,6 +1037,13 @@
       "first_seen": "2026-06-28T23:35:42+00:00",
       "title": "Year at Palantir - Software Engineer, Internship",
       "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329"
+    },
+    "palantir::701a9307-0619-45d3-b077-cabe9897cd12": {
+      "company": "Palantir",
+      "first_seen": "2026-08-31T20:53:23+00:00",
+      "posted_at": "1788193656814",
+      "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+      "url": "https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12"
     },
     "palantir::75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3": {
       "company": "Palantir",
@@ -2600,6 +2607,13 @@
       "posted_at": "1787293338",
       "title": "Software Engineer Intern/Co-op",
       "url": "https://careers.amd.com/jobs/90891?icims=1"
+    },
+    "simplify:amd::simplify-58a0dcba-5ea2-494a-a22d-9fdb8d98d4a6": {
+      "company": "AMD",
+      "first_seen": "2026-08-31T20:53:23+00:00",
+      "posted_at": "1788202527",
+      "title": "AI Applications Engineer - Wired and Wireless Business Team - Adaptive and Embedded Computing Group",
+      "url": "https://careers.amd.com/jobs/91544?icims=1"
     },
     "simplify:amd::simplify-944978fc-7eeb-4346-82ad-857bec5239a5": {
       "company": "AMD",
@@ -6031,6 +6045,13 @@
       "title": "Technology Intern",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2027_R244387-1"
     },
+    "simplify:capital one::simplify-64f281cc-18df-415d-bb14-075f5729e24d": {
+      "company": "Capital One",
+      "first_seen": "2026-08-31T20:53:23+00:00",
+      "posted_at": "1788134400",
+      "title": "Technology Development Program Associate",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Development-Program-Associate---February-2027_R244320-1"
+    },
     "simplify:capital one::simplify-84f6ba85-8d45-4d6c-8fbd-6b1a74082506": {
       "company": "Capital One",
       "first_seen": "2026-08-21T18:41:57+00:00",
@@ -6254,6 +6275,13 @@
       "posted_at": "1787781514",
       "title": "Technical Consultant - Early Careers",
       "url": "https://jobs.lever.co/casino-cash-trac/7ce28efa-000e-4848-9972-ade20d8694a1/apply"
+    },
+    "simplify:cdk global::simplify-2d9eafef-4f51-4b00-9778-8056f9e763ec": {
+      "company": "CDK Global",
+      "first_seen": "2026-08-31T20:53:24+00:00",
+      "posted_at": "1788134400",
+      "title": "Associate Software Engineer",
+      "url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9201-1"
     },
     "simplify:celonis::simplify-8d9e3fac-74a7-4c48-9788-7e80245bc5fc": {
       "company": "Celonis",
@@ -12548,6 +12576,13 @@
       "title": "Technology Co-op - Technology LDP",
       "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-Any-City/Technology-2027-Fall-Co-Op_R-095607"
     },
+    "simplify:johnson & johnson::simplify-4ff50867-f282-4038-9e52-4ae5ef1dede6": {
+      "company": "Johnson & Johnson",
+      "first_seen": "2026-08-31T20:53:24+00:00",
+      "posted_at": "1780898871",
+      "title": "R&D Applications",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raynham-Massachusetts-United-States-of-America/R-D-Applications_R-078334-1"
+    },
     "simplify:johnson & johnson::simplify-51b99bce-c9cc-4f6f-9a52-d602f8e9e826": {
       "company": "Johnson & Johnson",
       "first_seen": "2026-08-07T23:34:48+00:00",
@@ -13710,6 +13745,13 @@
       "title": "NLM Software Engineer 1",
       "url": "https://lexical.bamboohr.com/careers/73/"
     },
+    "simplify:lexisnexis risk solutions::simplify-1bcf08bd-5019-4f05-a683-d0799a8bd847": {
+      "company": "LexisNexis Risk Solutions",
+      "first_seen": "2026-08-31T20:53:24+00:00",
+      "posted_at": "1788134400",
+      "title": "Software Engineer New Grad - Risk Solutions Technology Graduate Program",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Boca-Raton-FL/Tech-Accelerate-Graduate-Program---Software-Engineer--Boca-Raton---June-_R116023-2"
+    },
     "simplify:lexisnexis risk solutions::simplify-1f22bcf0-083e-4c7f-819e-d6a83d4efadb": {
       "company": "LexisNexis Risk Solutions",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -13737,6 +13779,13 @@
       "posted_at": "1781186686",
       "title": "Software Engineer 1",
       "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Cardiff/Software-Engineer-I_R112653"
+    },
+    "simplify:lexisnexis risk solutions::simplify-e4824029-8de4-4ad1-9c18-b4c968025116": {
+      "company": "LexisNexis Risk Solutions",
+      "first_seen": "2026-08-31T20:53:24+00:00",
+      "posted_at": "1788134400",
+      "title": "Software Engineer New Grad - Risk Solutions Technology Graduate Program",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
     },
     "simplify:life.church::simplify-08b821af-a2a3-42fa-b03d-fd9289252ec1": {
       "company": "Life.Church",
@@ -14493,6 +14542,13 @@
       "posted_at": "1781733708",
       "title": "Full Stack Software Engineer 1",
       "url": "https://medimpact.wd5.myworkdayjobs.com/medimpact/job/San-Diego-CA/Software-Engineer-I_JR102576"
+    },
+    "simplify:medline::simplify-f71509d5-e6a6-4016-a57d-e56cd20c0298": {
+      "company": "Medline",
+      "first_seen": "2026-08-31T20:53:24+00:00",
+      "posted_at": "1788134400",
+      "title": "RPA & Agentic AI Software Technologies Intern - Summer 2027",
+      "url": "https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northbrook-Illinois/RPA---Agentic-AI-Software-Technologies-Intern---Summer-2027_R2617378"
     },
     "simplify:medpace, inc.::simplify-908ea2de-e80d-4c76-9020-f31ac7f04345": {
       "company": "Medpace, Inc.",
@@ -22285,6 +22341,13 @@
       "title": "Quality Engineer 1 - Core-Java & Mainframe",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Quality-Engineer-I--Core-Java---Mainframe-_R_1497021"
     },
+    "simplify:td bank::simplify-4f125643-39a2-45e5-a002-581199b92f79": {
+      "company": "TD Bank",
+      "first_seen": "2026-08-31T20:53:24+00:00",
+      "posted_at": "1787616000",
+      "title": "Associate Software Engineer",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1507379"
+    },
     "simplify:td bank::simplify-68f758fc-c478-4060-9121-db85f838a254": {
       "company": "TD Bank",
       "first_seen": "2026-07-15T00:13:08+00:00",
@@ -23320,6 +23383,13 @@
       "posted_at": "1784505600",
       "title": "Software Engineer - AI Pdlc",
       "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/GEORGIA---VIRTUAL---GA01/Software-Engineer---AI-PDLC--Remote-_Req187159"
+    },
+    "simplify:the home depot::simplify-344cba34-8972-4eb0-b47d-64f9893987bc": {
+      "company": "The Home Depot",
+      "first_seen": "2026-08-31T20:53:24+00:00",
+      "posted_at": "1788134400",
+      "title": "Software Engineer Intern",
+      "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937"
     },
     "simplify:the home depot::simplify-7248eebf-da2f-4f05-a8cb-94352df09060": {
       "company": "The Home Depot",
@@ -26289,6 +26359,13 @@
       "title": "Associate Software Engineer",
       "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000134797351"
     },
+    "simplify:wellsky::simplify-9248e46c-36d0-4ae1-a1b7-22b9ac2b0fb7": {
+      "company": "WellSky",
+      "first_seen": "2026-08-31T20:53:24+00:00",
+      "posted_at": "1788134400",
+      "title": "Associate Software Engineer",
+      "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Associate-Software-Engineer_JR5078"
+    },
     "simplify:wellsky::simplify-e93e54ef-8346-4df2-bd91-dd2a9f14956a": {
       "company": "WellSky",
       "first_seen": "2026-07-21T21:22:56+00:00",
@@ -27138,5 +27215,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-31T15:21:19+00:00"
+  "updated_at": "2026-08-31T20:53:24+00:00"
 }
