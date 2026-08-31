@@ -1,5 +1,5 @@
 {
-  "count": 3878,
+  "count": 3885,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -445,6 +445,13 @@
       "title": "Software Engineering Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125"
     },
+    "google::100648618540573382": {
+      "company": "Google",
+      "first_seen": "2026-08-31T15:21:18+00:00",
+      "posted_at": "",
+      "title": "Software Engineering Intern Bs Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027"
+    },
     "google::111182182432547526": {
       "company": "Google",
       "first_seen": "2026-06-28T23:35:42+00:00",
@@ -471,11 +478,25 @@
       "title": "Mobile Software Engineer Multiplatform Early Careers",
       "url": "https://www.google.com/about/careers/applications/jobs/results/123365080841495238-mobile-software-engineer-multiplatform-early-careers"
     },
+    "google::123510626377966278": {
+      "company": "Google",
+      "first_seen": "2026-08-31T15:21:18+00:00",
+      "posted_at": "",
+      "title": "Software Developer Intern Bs Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/123510626377966278-software-developer-intern-bs-summer-2027"
+    },
     "google::136778768644481734": {
       "company": "Google",
       "first_seen": "2026-06-28T23:35:42+00:00",
       "title": "Early Career Software Engineer People With Disabilities",
       "url": "https://www.google.com/about/careers/applications/jobs/results/136778768644481734-early-career-software-engineer-people-with-disabilities"
+    },
+    "google::138960139137753798": {
+      "company": "Google",
+      "first_seen": "2026-08-31T15:21:18+00:00",
+      "posted_at": "",
+      "title": "Software Developer Intern Ms Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/138960139137753798-software-developer-intern-ms-summer-2027"
     },
     "google::76982475250639558": {
       "company": "Google",
@@ -510,6 +531,13 @@
       "posted_at": "",
       "title": "Software Engineering Intern Phd Summer 2026",
       "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2026"
+    },
+    "google::94172495052972742": {
+      "company": "Google",
+      "first_seen": "2026-08-31T15:21:18+00:00",
+      "posted_at": "",
+      "title": "Software Engineering Intern Ms Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027"
     },
     "google::95141459539174086": {
       "company": "Google",
@@ -18267,6 +18295,13 @@
       "title": "Software Engineer Intern - Information Technology Manufacturing Systems",
       "url": "https://careers.qorvo.com/job/Bend-Software-Engineer-Intern-OR-97703/1421474800/?ats=successfactors"
     },
+    "simplify:qorvo::simplify-58886ea6-6ba4-42a2-9521-ca7677660b8d": {
+      "company": "Qorvo",
+      "first_seen": "2026-08-31T15:21:19+00:00",
+      "posted_at": "1788186900",
+      "title": "Product Engineer Intern - Design and Applications",
+      "url": "https://careers.qorvo.com/job/Richardson-Product-Engineer-D&A-Intern-TX-75081/1424806900/?ats=successfactors"
+    },
     "simplify:qorvo::simplify-8decbc9f-51db-465d-82d6-b6dfca4baf0f": {
       "company": "Qorvo",
       "first_seen": "2026-08-31T07:34:23+00:00",
@@ -19477,6 +19512,13 @@
       "posted_at": "1786665600",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I--Onsite-_01867438"
+    },
+    "simplify:rtx::simplify-086646b2-8b1d-43f6-975f-cd474ac11a35": {
+      "company": "RTX",
+      "first_seen": "2026-08-31T15:21:19+00:00",
+      "posted_at": "1788134400",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01865026"
     },
     "simplify:rtx::simplify-0b26c2f0-079a-457d-b9bc-8123655ff605": {
       "company": "RTX",
@@ -21829,6 +21871,13 @@
       "posted_at": "1788134400",
       "title": "Software Engineering Intern - Software Engineering",
       "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1"
+    },
+    "simplify:stryker::simplify-ac16b37b-d5ee-4a02-8d77-305bc1ab5168": {
+      "company": "Stryker",
+      "first_seen": "2026-08-31T15:21:19+00:00",
+      "posted_at": "1788134400",
+      "title": "Software Engineering Intern - Multiple Teams",
+      "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624"
     },
     "simplify:stryker::simplify-ca835172-bf35-4ed0-b110-8dec8dc954ea": {
       "company": "Stryker",
@@ -27089,5 +27138,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-08-31T07:34:23+00:00"
+  "updated_at": "2026-08-31T15:21:19+00:00"
 }
