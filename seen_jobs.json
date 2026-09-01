@@ -1,5 +1,5 @@
 {
-  "count": 3995,
+  "count": 4013,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2615,6 +2615,13 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456/application?embed=true"
     },
+    "simplify:amd::simplify-03a692be-c92c-46ec-92a0-4dc48f6487c1": {
+      "company": "AMD",
+      "first_seen": "2026-09-01T14:21:00+00:00",
+      "posted_at": "1788256547",
+      "title": "Software Engineer Intern/Co-op",
+      "url": "https://careers.amd.com/jobs/91366?icims=1"
+    },
     "simplify:amd::simplify-2057d1a3-289b-49ae-8328-fa3527c533c5": {
       "company": "AMD",
       "first_seen": "2026-08-21T06:53:46+00:00",
@@ -2629,6 +2636,13 @@
       "title": "Software Engineer Intern/Co-op",
       "url": "https://careers.amd.com/jobs/91180?icims=1"
     },
+    "simplify:amd::simplify-369ef34f-cdb6-4df1-a41f-39e63dc980cc": {
+      "company": "AMD",
+      "first_seen": "2026-09-01T14:21:00+00:00",
+      "posted_at": "1788256545",
+      "title": "Software Engineer Intern/Co-op",
+      "url": "https://careers.amd.com/jobs/91368?icims=1"
+    },
     "simplify:amd::simplify-3e9d3b5d-b9b8-4556-8c46-75ca36c2b15d": {
       "company": "AMD",
       "first_seen": "2026-08-21T06:53:46+00:00",
@@ -2642,6 +2656,27 @@
       "posted_at": "1788202527",
       "title": "AI Applications Engineer - Wired and Wireless Business Team - Adaptive and Embedded Computing Group",
       "url": "https://careers.amd.com/jobs/91544?icims=1"
+    },
+    "simplify:amd::simplify-59aad3fe-5cae-48ca-9e34-608c664e0090": {
+      "company": "AMD",
+      "first_seen": "2026-09-01T14:21:00+00:00",
+      "posted_at": "1788256547",
+      "title": "Graphics Software Engineer Intern/Co-op",
+      "url": "https://careers.amd.com/jobs/90305?icims=1"
+    },
+    "simplify:amd::simplify-640797fc-5abf-4222-9bdb-16b62d09607e": {
+      "company": "AMD",
+      "first_seen": "2026-09-01T14:21:00+00:00",
+      "posted_at": "1788256545",
+      "title": "Graphics Software Engineer Intern/Co-op",
+      "url": "https://careers.amd.com/jobs/91359?icims=1"
+    },
+    "simplify:amd::simplify-93957738-d6d4-434f-bafe-6286a5b454d8": {
+      "company": "AMD",
+      "first_seen": "2026-09-01T14:21:00+00:00",
+      "posted_at": "1788256546",
+      "title": "Software Engineer Intern/Co-op",
+      "url": "https://careers.amd.com/jobs/91367?icims=1"
     },
     "simplify:amd::simplify-944978fc-7eeb-4346-82ad-857bec5239a5": {
       "company": "AMD",
@@ -4567,6 +4602,13 @@
       "posted_at": "1768179585",
       "title": "Software Development Engineer 1 - Early Career",
       "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2026-Starts-_R58467"
+    },
+    "simplify:blue origin::simplify-4bc5fed9-a7d9-4e52-95c2-02e5be647274": {
+      "company": "Blue Origin",
+      "first_seen": "2026-09-01T14:21:00+00:00",
+      "posted_at": "1788134400",
+      "title": "Software Development Engineer 1 - Early Career - 2027 Starts",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Greater-Seattle-Area/Software-Development-Engineer-I---Early-Career--2027-Starts-_R71326"
     },
     "simplify:blue shield of california::simplify-f8c3812a-4e5d-48e3-b329-54a28233db3a": {
       "company": "Blue Shield of California",
@@ -9734,6 +9776,13 @@
       "title": "Software Engineer Co-op - Enterprise Finance Applications - Summer 2027",
       "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588"
     },
+    "simplify:fifth third bank::simplify-af57e7bc-54a8-4ecf-ad72-a5d44d422ed1": {
+      "company": "Fifth Third Bank",
+      "first_seen": "2026-09-01T14:21:01+00:00",
+      "posted_at": "1788220800",
+      "title": "Software Engineer Co-op - Enterprise Finance Applications - Spring 2027",
+      "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Spring-2027_R71587"
+    },
     "simplify:fifth third bank::simplify-ef55f078-97dd-4d24-b83e-fe4a5d11a422": {
       "company": "Fifth Third Bank",
       "first_seen": "2026-07-30T22:42:25+00:00",
@@ -14087,6 +14136,13 @@
       "posted_at": "1781638787",
       "title": "Software Engineer Apprentice",
       "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---Grosvenor-House-Southampton/Apprentice-Software-Engineer_R112557-1"
+    },
+    "simplify:lexisnexis risk solutions::simplify-90b7dcd2-ef8d-4a60-891d-0978390afa8e": {
+      "company": "LexisNexis Risk Solutions",
+      "first_seen": "2026-09-01T14:21:01+00:00",
+      "posted_at": "1788134400",
+      "title": "Software Engineer New Grad",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---June-_R117626-1"
     },
     "simplify:lexisnexis risk solutions::simplify-943c34a8-56b9-4010-9579-eb69cc5a1ee7": {
       "company": "LexisNexis Risk Solutions",
@@ -21452,6 +21508,13 @@
       "title": "Software Engineer 1",
       "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030526"
     },
+    "simplify:sierra::simplify-1fc30c4a-d04e-419f-968c-083bb3fad9bb": {
+      "company": "Sierra",
+      "first_seen": "2026-09-01T14:21:00+00:00",
+      "posted_at": "1788255593",
+      "title": "APX New Grad",
+      "url": "https://jobs.ashbyhq.com/Sierra/d9c445da-c7b4-43a3-8d71-d367681c3015/application?embed=true"
+    },
     "simplify:sierra::simplify-9bc9d1a9-759f-43c7-ac8f-311f7220b7e7": {
       "company": "Sierra",
       "first_seen": "2026-09-01T09:52:40+00:00",
@@ -21465,6 +21528,13 @@
       "posted_at": "1788238456",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e/application?embed=true"
+    },
+    "simplify:sierra::simplify-c16692b7-a8c0-4f9a-bbd6-6c08c1947ae6": {
+      "company": "Sierra",
+      "first_seen": "2026-09-01T14:21:00+00:00",
+      "posted_at": "1788255591",
+      "title": "Agent Development Intern",
+      "url": "https://jobs.ashbyhq.com/Sierra/02e1c456-8489-4a74-9fe7-af8845b040e4/application?embed=true"
     },
     "simplify:sifive::simplify-ec5e83b4-1cb5-4b81-9056-28110a076c6e": {
       "company": "SiFive",
@@ -22894,6 +22964,20 @@
       "title": "Engineer 1 - Surveys",
       "url": "https://ats.rippling.com/tavernresearch/jobs/7433de0b-caae-4c3d-8ad3-70fcbb2f3e6c"
     },
+    "simplify:tc energy::simplify-00e14de5-8782-4578-9d2f-b2de2e3d63f1": {
+      "company": "TC Energy",
+      "first_seen": "2026-09-01T14:21:01+00:00",
+      "posted_at": "1788220800",
+      "title": "Engineering Intern",
+      "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Calgary-Alberta/Intern---Engineering_JR-10728"
+    },
+    "simplify:tc energy::simplify-9482cef9-a466-4071-a482-6b9206236e32": {
+      "company": "TC Energy",
+      "first_seen": "2026-09-01T14:21:01+00:00",
+      "posted_at": "1788220800",
+      "title": "Engineering Intern - Engineering",
+      "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Office-TC-Energy-Cente/Student-Intern--Engineering_JR-10742"
+    },
     "simplify:tc energy::simplify-a169c4bb-0267-4f4c-8139-1938a545a8c6": {
       "company": "TC Energy",
       "first_seen": "2026-09-01T09:52:41+00:00",
@@ -23531,6 +23615,13 @@
       "title": "Service Engineering Intern - Product Support Engineer - Service Engineering",
       "url": "https://www.tesla.com/careers/search/job/271630"
     },
+    "simplify:tesla::simplify-d6e09034-f1b8-496a-9b1c-ad916001fc4c": {
+      "company": "Tesla",
+      "first_seen": "2026-09-01T14:21:00+00:00",
+      "posted_at": "1788256999",
+      "title": "Software Engineer Intern - Fullstack Engineer - Infrastructure Engineering",
+      "url": "https://www.tesla.com/careers/search/job/281462"
+    },
     "simplify:tesla::simplify-d8407a57-173d-4104-a650-05c5456bd0b5": {
       "company": "Tesla",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -23685,12 +23776,47 @@
       "title": "Junior Software Engineer - AI-Forward",
       "url": "https://apply.workable.com/texas-sports-academy-main/j/7CA2AC17A5/apply"
     },
+    "simplify:textron::simplify-40036615-7d95-4f3b-8105-226ddc924626": {
+      "company": "Textron",
+      "first_seen": "2026-09-01T14:21:01+00:00",
+      "posted_at": "1788255608",
+      "title": "Software Engineer 1 - Electronic Systems",
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342666"
+    },
+    "simplify:textron::simplify-5489cdce-696e-4c2f-b1ae-e937cff71c6c": {
+      "company": "Textron",
+      "first_seen": "2026-09-01T14:21:01+00:00",
+      "posted_at": "1788255604",
+      "title": "Software Engineer Intern - Crewed Land",
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342915"
+    },
     "simplify:textron::simplify-57383e43-6f9c-4c5d-b9c8-cb3b69e64fd2": {
       "company": "Textron",
       "first_seen": "2026-07-27T23:47:06+00:00",
       "posted_at": "1785191051",
       "title": "Software Engineer 1 - Sea Systems",
       "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=341975"
+    },
+    "simplify:textron::simplify-9562e72a-a657-4f9c-9e2e-f8d62e41c42c": {
+      "company": "Textron",
+      "first_seen": "2026-09-01T14:21:01+00:00",
+      "posted_at": "1788255603",
+      "title": "Software Engineer Co-op - Uncrewed Land & Air",
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342650"
+    },
+    "simplify:textron::simplify-974d081a-6d17-4aab-a42a-e9b35cafde7d": {
+      "company": "Textron",
+      "first_seen": "2026-09-01T14:21:01+00:00",
+      "posted_at": "1788255604",
+      "title": "Software Engineer Intern - Electronic Systems",
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688"
+    },
+    "simplify:textron::simplify-d906473e-9355-4328-8074-8a5479ffac70": {
+      "company": "Textron",
+      "first_seen": "2026-09-01T14:21:01+00:00",
+      "posted_at": "1788255613",
+      "title": "Software Engineer Intern",
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550"
     },
     "simplify:the aerospace corporation::simplify-5520fdfd-d417-47dd-9fa9-961f1e3f2457": {
       "company": "The Aerospace Corporation",
@@ -27908,5 +28034,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-01T09:52:41+00:00"
+  "updated_at": "2026-09-01T14:21:01+00:00"
 }
