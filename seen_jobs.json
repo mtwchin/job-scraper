@@ -1,5 +1,5 @@
 {
-  "count": 4013,
+  "count": 4044,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2174,6 +2174,13 @@
       "title": "Information Technology/Digital Technology Intern - Infrastructure Services",
       "url": "https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT-Digital-Technology--2027-_JR-2026-21953"
     },
+    "simplify:airbus::simplify-6a8dcada-2bdc-47a8-95a6-ecde4e85662b": {
+      "company": "Airbus",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Graduate Software Engineer",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/AGGP2027---Graduate-Software-Engineer_JR10437769"
+    },
     "simplify:airbus::simplify-abc08d7b-bb97-456f-8b07-4a26a43b0fa2": {
       "company": "Airbus",
       "first_seen": "2026-09-01T05:01:14+00:00",
@@ -2685,6 +2692,34 @@
       "title": "Software Engineer Intern/Co-op",
       "url": "https://careers.amd.com/jobs/90947?icims=1"
     },
+    "simplify:amd::simplify-b96c7c0a-e52d-479c-8c01-d4e54118328f": {
+      "company": "AMD",
+      "first_seen": "2026-09-01T17:52:36+00:00",
+      "posted_at": "1788278729",
+      "title": "Compiler Engineer Intern/Co-op",
+      "url": "https://careers.amd.com/jobs/91865?icims=1"
+    },
+    "simplify:amd::simplify-c00cea89-6203-42a3-af35-f98efd65e78a": {
+      "company": "AMD",
+      "first_seen": "2026-09-01T17:52:36+00:00",
+      "posted_at": "1788278728",
+      "title": "Compiler Engineer Intern/Co-op - Masters",
+      "url": "https://careers.amd.com/jobs/91867?icims=1"
+    },
+    "simplify:amd::simplify-e9f9050a-780c-47dd-b98a-17dda2af0453": {
+      "company": "AMD",
+      "first_seen": "2026-09-01T17:52:36+00:00",
+      "posted_at": "1788278728",
+      "title": "Compiler Engineer Intern/Co-op",
+      "url": "https://careers.amd.com/jobs/91864?icims=1"
+    },
+    "simplify:amd::simplify-f0736d54-fe0a-4d54-ad35-f1085b1bd50c": {
+      "company": "AMD",
+      "first_seen": "2026-09-01T17:52:36+00:00",
+      "posted_at": "1788278728",
+      "title": "Compiler Engineer Intern/Co-op",
+      "url": "https://careers.amd.com/jobs/91866?icims=1"
+    },
     "simplify:amentum::simplify-819eedb4-b5db-4a0d-8f0d-c91e64fb9eeb": {
       "company": "Amentum",
       "first_seen": "2026-08-21T18:41:57+00:00",
@@ -2775,6 +2810,13 @@
       "posted_at": "1787093513",
       "title": "Software Engineer Intern - Enterprise Technology Services",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015"
+    },
+    "simplify:american express::simplify-ba86fe7a-6db5-4b56-a169-0c868bd5b58d": {
+      "company": "American Express",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788277303",
+      "title": "Software Engineering Apprentice - Technology Software Engineering",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25022282"
     },
     "simplify:american express::simplify-c344d643-aa8d-4d64-a497-67a78ca63dc9": {
       "company": "American Express",
@@ -4701,6 +4743,13 @@
       "title": "Software Engineer",
       "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246362"
     },
+    "simplify:booz allen::simplify-097e5358-9e45-41e0-86bc-5289976e1828": {
+      "company": "Booz Allen",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Systems Engineer Intern - Summer Games",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0248366"
+    },
     "simplify:booz allen::simplify-0b789ff7-5e0b-41ba-98b2-35370afdd223": {
       "company": "Booz Allen",
       "first_seen": "2026-08-29T02:50:35+00:00",
@@ -4715,12 +4764,26 @@
       "title": "Software Engineer - Software Engineer",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Arlington-VA/University--Software-Engineer_R0241736"
     },
+    "simplify:booz allen::simplify-0e9bb9cd-7dee-4ce0-a479-654d1552f1bc": {
+      "company": "Booz Allen",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Systems Engineer Intern - University",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369"
+    },
     "simplify:booz allen::simplify-1253e2b5-8a22-4c0e-bcd9-e44d32ecfc90": {
       "company": "Booz Allen",
       "first_seen": "2026-08-29T02:50:35+00:00",
       "posted_at": "1787875200",
       "title": "Software Developer Intern - University",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Software-Developer-Intern_R0248134"
+    },
+    "simplify:booz allen::simplify-1cd3e703-e004-4850-8dc5-440acec35de0": {
+      "company": "Booz Allen",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Systems Engineer Intern",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361"
     },
     "simplify:booz allen::simplify-329ae872-f7a6-4cd2-b63f-28ec9e81bbe8": {
       "company": "Booz Allen",
@@ -4743,6 +4806,20 @@
       "title": "Software Engineer - University",
       "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246660"
     },
+    "simplify:booz allen::simplify-4c8571fd-a704-4542-babd-54c89d6aeff3": {
+      "company": "Booz Allen",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Systems Engineer Intern",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365"
+    },
+    "simplify:booz allen::simplify-53d8eb96-a4a4-4d3d-a59f-1308691c4a1a": {
+      "company": "Booz Allen",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Systems Engineer Intern - Summer Games",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370"
+    },
     "simplify:booz allen::simplify-58bdb1db-93cc-41bf-9056-473f0d4e405c": {
       "company": "Booz Allen",
       "first_seen": "2026-08-07T23:34:48+00:00",
@@ -4763,6 +4840,13 @@
       "posted_at": "1786060800",
       "title": "Software Engineer",
       "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246658"
+    },
+    "simplify:booz allen::simplify-7637b476-395a-4c53-bc72-f6e375758876": {
+      "company": "Booz Allen",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Systems Engineer Intern - University",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386"
     },
     "simplify:booz allen::simplify-7cef83de-ff10-493e-abfb-9def6ada06d0": {
       "company": "Booz Allen",
@@ -4812,6 +4896,20 @@
       "posted_at": "1786060800",
       "title": "Software Engineer - University",
       "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246653"
+    },
+    "simplify:booz allen::simplify-b8511dba-1f6c-40d2-b3b7-e50e87163026": {
+      "company": "Booz Allen",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Systems Engineer Intern - University",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368"
+    },
+    "simplify:booz allen::simplify-c0d0a7a8-afbc-4283-886f-e4d7e36f52f0": {
+      "company": "Booz Allen",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Systems Engineer Intern - Summer Games",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games--Systems-Engineer-Intern---Atlanta--GA_R0248381"
     },
     "simplify:booz allen::simplify-c36ab777-30bb-4843-9f8e-eb51269d6083": {
       "company": "Booz Allen",
@@ -5407,6 +5505,13 @@
       "posted_at": "1786140955",
       "title": "Software Development Engineer Graduate - Intent-Based Networking",
       "url": "https://jobs.bytedance.com/en/position/7671145911004842245/detail"
+    },
+    "simplify:bytedance::simplify-98ba4abf-1726-45e5-a03c-c711dfb81c84": {
+      "company": "ByteDance",
+      "first_seen": "2026-09-01T17:52:36+00:00",
+      "posted_at": "1788281002",
+      "title": "Software Engineer Intern - Relational Database",
+      "url": "https://jobs.bytedance.com/en/position/7678449088065997109/detail"
     },
     "simplify:bytedance::simplify-9b8e4726-77af-4fd7-9e6f-9986925021ff": {
       "company": "ByteDance",
@@ -9160,6 +9265,13 @@
       "title": "Junior Developer 1",
       "url": "https://egbc.applytojob.com/apply/7aUKZK87tT/Junior-Developer-I"
     },
+    "simplify:ensign-bickford aerospace & defense company::simplify-f2c74423-edee-4802-9ffa-80d160cb0cc2": {
+      "company": "Ensign-Bickford Aerospace & Defense Company",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Product Engineer",
+      "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Moorpark-CA/Product-Engineer_REQ107626"
+    },
     "simplify:envision horizons llc::simplify-584d6519-6f67-48f9-b88c-0c1b41e3f7e3": {
       "company": "Envision Horizons LLC",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -10343,6 +10455,13 @@
       "title": "Project Engineer Intern - Summer 2027",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-1"
     },
+    "simplify:ge vernova::simplify-52083bf3-06b8-477f-bfd1-7d690058e3f6": {
+      "company": "GE Vernova",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Application Engineer Grid Code Compliance and Testing",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Application-Engineer-Grid-Code-Compliance-and-Testing_R5049947-1"
+    },
     "simplify:ge vernova::simplify-5aee46aa-6096-46fb-b581-5a0e23ab8c08": {
       "company": "GE Vernova",
       "first_seen": "2026-07-24T23:33:06+00:00",
@@ -10377,6 +10496,13 @@
       "posted_at": "1787270400",
       "title": "Project Engineer Intern - Summer 2027",
       "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-2"
+    },
+    "simplify:ge vernova::simplify-856dd1dd-c391-4329-905c-934f7aa59198": {
+      "company": "GE Vernova",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Application Engineer Grid Code Compliance and Testing",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Application-Engineer-Grid-Code-Compliance-and-Testing_R5049947"
     },
     "simplify:ge vernova::simplify-9fc66465-c638-4a10-a6cc-877f7f9e1966": {
       "company": "GE Vernova",
@@ -13962,6 +14088,13 @@
       "title": "Radar Sustainment Engineer - System Model Development",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Radar-Sustainment-Engineer---System-Model-Development_R-00187367"
     },
+    "simplify:leidos::simplify-39c5c125-bd9b-4181-8a93-ddf41b5a48d4": {
+      "company": "Leidos",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Software Engineer - Tactical Decision Aids - Entry-Level",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Engineer--Tactical-Decision-Aids---Entry-Level-_R-00191096"
+    },
     "simplify:leidos::simplify-4ab2be7c-c405-42fa-9dbf-cb0e5ff6a73d": {
       "company": "Leidos",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -14437,6 +14570,13 @@
       "posted_at": "1781953338",
       "title": "Engineer 1 - Software Algorithm",
       "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Auburn-Hills-Michigan-US/Engineer-I---Software-Algorithm_R00237795"
+    },
+    "simplify:magna::simplify-aa975266-5fe4-4030-a4d9-2b7f6ba7f717": {
+      "company": "Magna",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "ADAS Feature Owner Intern - Systems Organization",
+      "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Student---Engineering_R00235434"
     },
     "simplify:magna::simplify-d700b10f-a687-49f6-bd90-94bd0783aeab": {
       "company": "Magna",
@@ -15369,6 +15509,13 @@
       "title": "AI Software Engineer Intern - Edge",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556979054"
     },
+    "simplify:microsoft::simplify-66d274be-a1a8-4da4-92a0-2cbe5b7198e5": {
+      "company": "Microsoft",
+      "first_seen": "2026-09-01T17:52:36+00:00",
+      "posted_at": "1788277810",
+      "title": "Software Engineer Intern - AI and ML",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698"
+    },
     "simplify:microsoft::simplify-7e143f06-1c28-41b7-9291-53a869d86325": {
       "company": "Microsoft",
       "first_seen": "2026-08-04T09:10:05+00:00",
@@ -15404,6 +15551,13 @@
       "title": "Software Engineer - Ctj - Poly",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973"
     },
+    "simplify:microsoft::simplify-b281f70c-b819-47ce-8df8-cdbc3d567e98": {
+      "company": "Microsoft",
+      "first_seen": "2026-09-01T17:52:36+00:00",
+      "posted_at": "1788277792",
+      "title": "Software Engineer Intern - AI and ML Projects",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687"
+    },
     "simplify:microsoft::simplify-b412b084-36e9-45e2-b3a0-561c4336e62e": {
       "company": "Microsoft",
       "first_seen": "2026-08-04T09:10:05+00:00",
@@ -15438,6 +15592,13 @@
       "posted_at": "1786054216",
       "title": "Software Engineer Intern - Gears of War",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556956276"
+    },
+    "simplify:mimecast::simplify-4190c721-afa3-4dd7-a89f-42293d2a5a24": {
+      "company": "Mimecast",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Software Engineer 1 - Incydr Insider Risk Management",
+      "url": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6606"
     },
     "simplify:mindlance::simplify-2e79b2fe-c212-4a91-ae33-f27118f41aa7": {
       "company": "Mindlance",
@@ -15844,6 +16005,13 @@
       "posted_at": "1784596554",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/nationgraph/a1bcdd3e-d863-42b6-8469-ec587190ad68/application?embed=true"
+    },
+    "simplify:nationwide::simplify-6bf9017f-b3da-451e-b506-46820adb72e0": {
+      "company": "Nationwide",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Technology Intern",
+      "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Summer-2027-Technology-Internship_100105"
     },
     "simplify:natwest group::simplify-d9d98718-3266-4066-a180-d6d84556794c": {
       "company": "NatWest Group",
@@ -20129,6 +20297,13 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01865026"
     },
+    "simplify:rtx::simplify-0ab3de69-35a5-4ba9-b025-ae19ea039751": {
+      "company": "RTX",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software--Engineering-Intern--Summer-2027-_01868432"
+    },
     "simplify:rtx::simplify-0b26c2f0-079a-457d-b9bc-8123655ff605": {
       "company": "RTX",
       "first_seen": "2026-07-30T16:11:31+00:00",
@@ -20373,6 +20548,13 @@
       "posted_at": "1786060800",
       "title": "Systems Engineer 1 Intern - Intern Conversion",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion--Systems-Engineer-I--Onsite-_01863596"
+    },
+    "simplify:rtx::simplify-5eec1982-b0e8-4ec2-b9c3-ee8ed6051a4b": {
+      "company": "RTX",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Numerical Methods Intern - Advanced Software Development",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-Logiciel-Avanc--Mthodes-Numriques---Internship---Winter-2027---Advanced-Software-Development--Numerical-Methods_01871187"
     },
     "simplify:rtx::simplify-5eecec55-6e05-4898-acb6-2869c78bf30b": {
       "company": "RTX",
@@ -20822,6 +21004,13 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-DULLES-710--22110-Pacific-Blvd--BLDG-10/Software-Engineer-I--On-Site--_01862276"
     },
+    "simplify:rtx::simplify-ebcdd35f-d9de-4094-8255-60b37bc7155f": {
+      "company": "RTX",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Digital Technology Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Digital-Technology-Intern--Summer-2027-_01871049"
+    },
     "simplify:rtx::simplify-ee9895ec-9487-45e6-bc29-cad094e59644": {
       "company": "RTX",
       "first_seen": "2026-08-11T18:05:24+00:00",
@@ -21150,6 +21339,13 @@
       "posted_at": "1775772596",
       "title": "Social Worker",
       "url": "https://sanford.wd5.myworkdayjobs.com/sanfordhealth/job/ND-Fargo/Social-Worker---Adolescent-PHP_R-0256042"
+    },
+    "simplify:santander::simplify-3398da9a-f553-4673-8f71-e6f617c4ed04": {
+      "company": "Santander",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Application Development Specialist",
+      "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dallas/Specialist--Application-Development_Req1610190"
     },
     "simplify:sargent & lundy::simplify-e5d6ed75-e71c-4466-a1c4-803fdc3bb93a": {
       "company": "Sargent & Lundy",
@@ -22481,6 +22677,13 @@
       "title": "Bank Systems Analyst",
       "url": "https://careers-stifel.icims.com/jobs/8724/job?mobile=true&needsRedirect=false"
     },
+    "simplify:stoke space::simplify-307102b6-7bde-45af-b161-e8eab5117a56": {
+      "company": "Stoke Space",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788277339",
+      "title": "Software Intern",
+      "url": "https://stokespace.com/careers/current-openings?gh_jid=6176786004"
+    },
     "simplify:storage solutions::simplify-f10c1379-0b00-4d27-9fac-9387dafbd7df": {
       "company": "Storage Solutions",
       "first_seen": "2026-08-02T15:27:57+00:00",
@@ -22725,6 +22928,13 @@
       "posted_at": "1774563083",
       "title": "Software Developer",
       "url": "https://careers-sig.icims.com/jobs/10687/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:susquehanna international group::simplify-8c7005ad-b3e2-4a02-8174-8b80eed58286": {
+      "company": "Susquehanna International Group",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788277160",
+      "title": "Technology Co-op - Drexel University",
+      "url": "https://careers-sig.icims.com/jobs/11422/job?mobile=true&needsRedirect=false"
     },
     "simplify:symbotic::simplify-6ef3fbcc-770e-4606-b400-91b81efa3a57": {
       "company": "Symbotic",
@@ -25806,6 +26016,13 @@
       "title": "Technology and Operations Intern - Data",
       "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/XMLNAME-2027-Technology--Data--and-Operations-Internship_R0118061"
     },
+    "simplify:trumpf::simplify-1d07b89c-c4c6-4af6-8986-c31a4a7d36c7": {
+      "company": "TRUMPF",
+      "first_seen": "2026-09-01T17:52:38+00:00",
+      "posted_at": "1788220800",
+      "title": "Application Engineer Intern/Co-op",
+      "url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Plymouth-MI/Application-Engineering-Intern-Co-op_R00042681"
+    },
     "simplify:trustpilot::simplify-b28000f1-01d7-4052-8ad3-e73e8bf916cc": {
       "company": "Trustpilot",
       "first_seen": "2026-08-12T15:34:41+00:00",
@@ -28034,5 +28251,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-01T14:21:01+00:00"
+  "updated_at": "2026-09-01T17:52:38+00:00"
 }
