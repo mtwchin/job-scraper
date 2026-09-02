@@ -1,5 +1,5 @@
 {
-  "count": 4165,
+  "count": 4171,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3713,6 +3713,20 @@
       "posted_at": "1773846198",
       "title": "SW Engineer Intern, iOS (AI-Assisted Development)",
       "url": "https://arlo.wd12.myworkdayjobs.com/en-US/external_careers/job/Milpitas-CA/SW-Engineer-Intern--iOS--AI-Assisted-Development-_JR100299"
+    },
+    "simplify:armadin::simplify-4d6c1aee-d6d2-466a-8c2b-c74c48746c43": {
+      "company": "Armadin",
+      "first_seen": "2026-09-02T13:39:08+00:00",
+      "posted_at": "1788340843",
+      "title": "Frontend Engineer Intern - Product & UX/UI",
+      "url": "https://jobs.ashbyhq.com/armadin/65b0796c-7490-4f92-91aa-5240b65e5211/application?embed=true"
+    },
+    "simplify:armadin::simplify-a3985ea3-6b46-4283-ad5c-a7701cb38169": {
+      "company": "Armadin",
+      "first_seen": "2026-09-02T13:39:08+00:00",
+      "posted_at": "1788340842",
+      "title": "Software Engineer Intern - Agent Systems",
+      "url": "https://jobs.ashbyhq.com/armadin/8ddb9c3a-3031-42d4-ad68-adcc865e32cf/application?embed=true"
     },
     "simplify:armstrong fluid technology::simplify-9b1229d5-df7a-42f9-babb-591f0b99dbc3": {
       "company": "Armstrong Fluid Technology",
@@ -9944,6 +9958,13 @@
       "title": "Software Developer 2 - Software Developer 2 - Content",
       "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Canada---Quebec---Montreal/Dveloppeur--euse--de-logiciels-II--contenu----Software-Developer-II--Content-_R-106559"
     },
+    "simplify:expleo::simplify-ab1c5055-45ed-49f4-bd74-572e5cb702ff": {
+      "company": "Expleo",
+      "first_seen": "2026-09-02T13:39:08+00:00",
+      "posted_at": "1787949664",
+      "title": "Application & Support Engineer",
+      "url": "https://expleo-jobs-gb-en.icims.com/jobs/55734/job?mobile=true&needsRedirect=false"
+    },
     "simplify:fab2::simplify-21f8248c-0403-4432-91a0-b92f3bc0fbb9": {
       "company": "Fab2",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -10636,6 +10657,13 @@
       "posted_at": "1787005323",
       "title": "Aerospace Engineering Engines Co-op - Computer or Software Engineering",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Co-op---Computer-or-Software-Engineering---US---Fall-2027_R5029637-1"
+    },
+    "simplify:ge aerospace::simplify-8e6be177-663c-4c02-91c5-66e4aa4313b5": {
+      "company": "GE Aerospace",
+      "first_seen": "2026-09-02T13:39:08+00:00",
+      "posted_at": "1786924800",
+      "title": "Digital Technology Co-op - US - Spring 2027",
+      "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Co-op---US---Spring-2027_R5029741-1"
     },
     "simplify:ge aerospace::simplify-99180876-aa59-4945-8c98-69851d3d4fe5": {
       "company": "GE Aerospace",
@@ -12267,6 +12295,13 @@
       "posted_at": "1772677178",
       "title": "MuleSoft Developer",
       "url": "https://jobs.smartrecruiters.com/HorizonTechnologiesInc/94324377"
+    },
+    "simplify:hormel foods::simplify-d5b9d173-6ab2-4e2d-8b42-f7e118c97ece": {
+      "company": "Hormel Foods",
+      "first_seen": "2026-09-02T13:39:08+00:00",
+      "posted_at": "1788256351",
+      "title": "Packaging Intern",
+      "url": "https://ekkh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/35613"
     },
     "simplify:hospital for special surgery (hss)::simplify-6d205503-8ba9-4c04-bf96-31add0b07625": {
       "company": "Hospital for Special Surgery (HSS)",
@@ -16901,6 +16936,13 @@
       "posted_at": "1787682441",
       "title": "Software Engineer Co-op - Deepfield",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39908"
+    },
+    "simplify:nokia::simplify-b9a67e9c-0015-4a4a-9f99-25b266976b64": {
+      "company": "Nokia",
+      "first_seen": "2026-09-02T13:39:08+00:00",
+      "posted_at": "1788343899",
+      "title": "Tools and Automation Software Developer Co-op/Intern",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39341"
     },
     "simplify:nokia::simplify-e138a76e-524c-4f79-82cf-b35d43759ca1": {
       "company": "Nokia",
@@ -29098,5 +29140,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-02T09:12:45+00:00"
+  "updated_at": "2026-09-02T13:39:08+00:00"
 }
