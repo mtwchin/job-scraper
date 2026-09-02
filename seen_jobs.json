@@ -1,5 +1,5 @@
 {
-  "count": 4153,
+  "count": 4165,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -5429,6 +5429,13 @@
       "title": "GPU/AI Application System Software Engineer Intern - System Technologies and Engineering",
       "url": "https://jobs.bytedance.com/en/position/7668464504736876853/detail"
     },
+    "simplify:bytedance::simplify-3b02c249-20be-43f2-8ef1-e09f6b887db6": {
+      "company": "ByteDance",
+      "first_seen": "2026-09-02T09:12:44+00:00",
+      "posted_at": "1788334369",
+      "title": "Research Intern - AI-Native Databases",
+      "url": "https://jobs.bytedance.com/en/position/7678451067500529925/detail"
+    },
     "simplify:bytedance::simplify-3d38784e-80ec-40c4-9082-77aabd533031": {
       "company": "ByteDance",
       "first_seen": "2026-08-05T11:36:16+00:00",
@@ -5687,6 +5694,13 @@
       "posted_at": "1787004689",
       "title": "Software Engineer Intern - Global Payment",
       "url": "https://jobs.bytedance.com/en/position/7668650945276168453/detail"
+    },
+    "simplify:bytedance::simplify-a35fbd54-2c09-4c0e-8677-4b9065708400": {
+      "company": "ByteDance",
+      "first_seen": "2026-09-02T09:12:44+00:00",
+      "posted_at": "1788334371",
+      "title": "Research Intern - AI-Native Databases",
+      "url": "https://jobs.bytedance.com/en/position/7678450462765254965/detail"
     },
     "simplify:bytedance::simplify-a4db1cdd-98a3-4e59-b6c0-9baff85f5a46": {
       "company": "ByteDance",
@@ -6864,6 +6878,13 @@
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application?embed=true"
     },
+    "simplify:cheiron::simplify-4c33b0d7-ab72-41f6-a429-46ce9f78dc99": {
+      "company": "Cheiron",
+      "first_seen": "2026-09-02T09:12:45+00:00",
+      "posted_at": "1788330736",
+      "title": "Agent Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/cheiron/36763c16-8996-4c66-b693-d48329413678/application?embed=true"
+    },
     "simplify:chenmed::simplify-4db7cd5a-df0d-4618-b071-198061991d8b": {
       "company": "ChenMed",
       "first_seen": "2026-08-01T21:25:18+00:00",
@@ -7277,12 +7298,54 @@
       "title": "Salesforce Developer Intern",
       "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Salesforce-Developer-Intern_R12215"
     },
+    "simplify:clearwater analytics::simplify-6df9610e-f9a6-47ab-b5d5-a8389329834c": {
+      "company": "Clearwater Analytics",
+      "first_seen": "2026-09-02T09:12:45+00:00",
+      "posted_at": "1788220800",
+      "title": "Associate Software Development Engineer",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Associate-Software-Development-Engineer_R12179"
+    },
+    "simplify:clearwater analytics::simplify-82a3c3cc-dce1-4e4e-a4bc-64c359035aea": {
+      "company": "Clearwater Analytics",
+      "first_seen": "2026-09-02T09:12:45+00:00",
+      "posted_at": "1788220800",
+      "title": "Software Development Intern",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Software-Development-Intern_R12192"
+    },
+    "simplify:clearwater analytics::simplify-82ba3c88-5a26-4028-a409-d684e0b80029": {
+      "company": "Clearwater Analytics",
+      "first_seen": "2026-09-02T09:12:45+00:00",
+      "posted_at": "1788220800",
+      "title": "Software Development Intern",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Chicago/Software-Development-Intern_R12187"
+    },
     "simplify:clearwater analytics::simplify-8d1a8f69-8cf2-44eb-8e74-0921d29de230": {
       "company": "Clearwater Analytics",
       "first_seen": "2026-07-31T22:42:03+00:00",
       "posted_at": "1785456000",
       "title": "Associate Software Development Engineer",
       "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Associate-Software-Development-Engineer_R11879"
+    },
+    "simplify:clearwater analytics::simplify-9b9ec743-400e-430b-9e1c-d4fc1b591dc8": {
+      "company": "Clearwater Analytics",
+      "first_seen": "2026-09-02T09:12:45+00:00",
+      "posted_at": "1788220800",
+      "title": "Software Development Intern",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Chicago/Software-Development-Intern_R12186"
+    },
+    "simplify:clearwater analytics::simplify-c527a7b6-4721-48e2-b40a-6cf603ab937c": {
+      "company": "Clearwater Analytics",
+      "first_seen": "2026-09-02T09:12:45+00:00",
+      "posted_at": "1788220800",
+      "title": "Software Development Intern",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Boise/Software-Development-Intern_R12098"
+    },
+    "simplify:clearwater analytics::simplify-cc973609-f0ca-40e1-903a-8a917b160803": {
+      "company": "Clearwater Analytics",
+      "first_seen": "2026-09-02T09:12:45+00:00",
+      "posted_at": "1788220800",
+      "title": "Software Development Intern",
+      "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Chicago/Software-Development-Intern_R12188"
     },
     "simplify:clera::simplify-03866764-b942-4e9f-977f-9523a4647726": {
       "company": "Clera",
@@ -8445,6 +8508,13 @@
       "posted_at": "1786777878",
       "title": "Design Engineer Intern",
       "url": "https://jobs.ashbyhq.com/dedalus-labs/bcd6db2e-400b-4ffa-aef3-0948a7b558c2/application?embed=true"
+    },
+    "simplify:dedalus labs::simplify-c273bc4d-7d9a-423b-8487-df0419f55399": {
+      "company": "Dedalus Labs",
+      "first_seen": "2026-09-02T09:12:45+00:00",
+      "posted_at": "1788330332",
+      "title": "Systems Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/dedalus-labs/6037de96-d9c7-418f-ad23-56bb327225a6/application?embed=true"
     },
     "simplify:dedalus::simplify-7ec884ae-14d0-4b0a-ba73-3ccaaa8dab51": {
       "company": "Dedalus",
@@ -13345,6 +13415,13 @@
       "posted_at": "1786679975",
       "title": "Intelligent Systems Development Engineer - Intelligent Combat Platforms Group",
       "url": "https://careers.jhuapl.edu/jobs/58080?icims=1"
+    },
+    "simplify:johns hopkins applied physics laboratory::simplify-2a48e05f-f557-488e-876c-eafef0801099": {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "first_seen": "2026-09-02T09:12:45+00:00",
+      "posted_at": "1788331171",
+      "title": "Mission Systems Engineering Intern",
+      "url": "https://careers.jhuapl.edu/jobs/59883?icims=1"
     },
     "simplify:johns hopkins applied physics laboratory::simplify-2e6a10e5-98be-40ed-b774-3c008dbdfaf2": {
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -20996,6 +21073,13 @@
       "posted_at": "1786320000",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01863755"
+    },
+    "simplify:rtx::simplify-1f9574c2-c85b-414e-b946-2d7845c6c19f": {
+      "company": "RTX",
+      "first_seen": "2026-09-02T09:12:45+00:00",
+      "posted_at": "1788220800",
+      "title": "Software Engineer 2",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-II--Onsite-_01870930"
     },
     "simplify:rtx::simplify-2189cc14-cc40-48f0-bc91-3b649e11fec9": {
       "company": "RTX",
@@ -29014,5 +29098,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-02T04:55:51+00:00"
+  "updated_at": "2026-09-02T09:12:45+00:00"
 }
