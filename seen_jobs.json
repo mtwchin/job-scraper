@@ -1,5 +1,5 @@
 {
-  "count": 4189,
+  "count": 4194,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -195,12 +195,33 @@
       "title": "2027 Early Career Software Engineer ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007"
     },
+    "anduril::5228868007": {
+      "company": "Anduril",
+      "first_seen": "2026-09-02T19:52:06+00:00",
+      "posted_at": "2026-09-02T15:33:53-04:00",
+      "title": "2027 Early Career Flight Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"
+    },
+    "applied intuition::31140958-d768-452c-8498-0b1c7f403943": {
+      "company": "Applied Intuition",
+      "first_seen": "2026-09-02T19:52:06+00:00",
+      "posted_at": "2026-09-02T18:45:38.938+00:00",
+      "title": "Forward Deployed Engineer - New Grad (December 2026)",
+      "url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943"
+    },
     "applied intuition::6971d533-1536-448b-96b8-544ad5383f44": {
       "company": "Applied Intuition",
       "first_seen": "2026-08-14T22:01:38+00:00",
       "posted_at": "2026-08-14T21:57:00.558+00:00",
       "title": "Embedded Software Engineer - New Grad 2027",
       "url": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44"
+    },
+    "applied intuition::a561fff8-aa38-4a5d-8b29-66c191f7328e": {
+      "company": "Applied Intuition",
+      "first_seen": "2026-09-02T19:52:06+00:00",
+      "posted_at": "2026-09-02T18:46:50.291+00:00",
+      "title": "Cybersecurity Software Engineer - New Grad (December 2027)",
+      "url": "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e"
     },
     "applied intuition::a837cbd6-9fe4-4d74-a2dc-84f602c40694": {
       "company": "Applied Intuition",
@@ -19877,6 +19898,13 @@
       "title": "Software Engineer Intern",
       "url": "https://careers.qorvo.com/job/Richardson-Software-Engineer-Intern-TX-75080/1421457600/?ats=successfactors"
     },
+    "simplify:qorvo::simplify-98621c93-f516-46e0-8eda-22230c879010": {
+      "company": "Qorvo",
+      "first_seen": "2026-09-02T19:52:06+00:00",
+      "posted_at": "1788377040",
+      "title": "Product Engineer Intern",
+      "url": "https://careers.qorvo.com/job/Chelmsford-Product-Engineer-Intern-MA-1824/1425880400/?ats=successfactors"
+    },
     "simplify:qorvo::simplify-a1de4424-41e1-4c3d-ba2b-a5c743c8ab47": {
       "company": "Qorvo",
       "first_seen": "2026-08-31T07:34:23+00:00",
@@ -19890,6 +19918,13 @@
       "posted_at": "1788153915",
       "title": "Software Engineer Intern",
       "url": "https://careers.qorvo.com/job/Greensboro-Software-Engineer-Intern-NC-27409/1421952100/?ats=successfactors"
+    },
+    "simplify:qorvo::simplify-b7652228-e21c-4bcf-a939-6caec413ef71": {
+      "company": "Qorvo",
+      "first_seen": "2026-09-02T19:52:06+00:00",
+      "posted_at": "1788377045",
+      "title": "Product Engineering Intern",
+      "url": "https://careers.qorvo.com/job/Greensboro-Product-Engineering-Intern-NC-27409/1425887900/?ats=successfactors"
     },
     "simplify:qorvo::simplify-b875eded-292c-4e53-b3ed-4fbb1d957ae5": {
       "company": "Qorvo",
@@ -29266,5 +29301,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-02T17:19:13+00:00"
+  "updated_at": "2026-09-02T19:52:06+00:00"
 }
