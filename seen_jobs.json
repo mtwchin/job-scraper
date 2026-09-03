@@ -1,5 +1,5 @@
 {
-  "count": 4270,
+  "count": 4307,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2118,6 +2118,13 @@
       "title": "Software Engineer, Early Career",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7485068003"
     },
+    "simplify:after school matters::simplify-9b64f67e-d7bf-4c3f-9a3c-25474deb0b4d": {
+      "company": "After School Matters",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1785738163",
+      "title": "Business & Leadership Instructor",
+      "url": "https://afterschoolmatters.applytojob.com/apply/m6EYZX56Ot/Business-Leadership-Instructor-Quantum-South-Groundbreakers"
+    },
     "simplify:afterquery::simplify-a56f3edd-d4b0-4571-9f3e-f4a339d8dd8b": {
       "company": "AfterQuery",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -2720,6 +2727,13 @@
       "title": "ITS Support Engineer 1",
       "url": "https://amazon.jobs/en/jobs/10432510/its-support-engineer-i"
     },
+    "simplify:amazon::simplify-f85975b2-74c3-4afa-af1a-99b5490dd403": {
+      "company": "Amazon",
+      "first_seen": "2026-09-03T12:51:14+00:00",
+      "posted_at": "1780448706",
+      "title": "Quantum Applied Science Intern - Center for Quantum Computing",
+      "url": "https://amazon.jobs/en/jobs/10419240/2026-fall-quantum-applied-science-internship-center-for-quantum-computing"
+    },
     "simplify:ambarella::simplify-c4841e3b-7bc1-434f-89ca-6339d37cc8ff": {
       "company": "Ambarella",
       "first_seen": "2026-08-27T23:56:31+00:00",
@@ -2859,6 +2873,13 @@
       "posted_at": "1783376015",
       "title": "Entry Level Software Engineer",
       "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0165144"
+    },
+    "simplify:amentum::simplify-ec0efca9-ba6b-47eb-9826-7864eb3520bc": {
+      "company": "Amentum",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1788307200",
+      "title": "Component Lab Computer Engineer",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Component-Lab-Computer-Engineer_R0169438"
     },
     "simplify:ameren::simplify-51b0d062-6f05-4d98-afb7-8dc7523b4758": {
       "company": "Ameren",
@@ -3560,6 +3581,13 @@
       "title": "Darwin Runtime Engineer - Core OS",
       "url": "https://jobs.apple.com/en-us/details/200662330"
     },
+    "simplify:applied intuition::simplify-988e5175-a56f-4c3a-b1d9-3a643a63a503": {
+      "company": "Applied Intuition",
+      "first_seen": "2026-09-03T12:51:14+00:00",
+      "posted_at": "1788407677",
+      "title": "Forward Deployed Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application?embed=true"
+    },
     "simplify:applied intuition::simplify-ee50e885-5709-43c5-adf1-bd280a6e8786": {
       "company": "Applied Intuition",
       "first_seen": "2026-08-15T01:54:42+00:00",
@@ -3721,6 +3749,20 @@
       "title": "Model Based Systems Engineer 1",
       "url": "https://careers.arcfield.com/jobs/8577?icims=1"
     },
+    "simplify:arch::simplify-d9ab191f-a642-4db2-9b5d-d6e566d0a2b8": {
+      "company": "Arch",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1788407570",
+      "title": "Software Engineer - Early Careers",
+      "url": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d/application?embed=true"
+    },
+    "simplify:arch::simplify-dd719782-2aa3-4a4b-831e-f3da699bf6a4": {
+      "company": "Arch",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1788407570",
+      "title": "Operations Engineer - Early Careers",
+      "url": "https://jobs.ashbyhq.com/arch.co/3600530a-7f41-4583-8d92-443f6978c847/application?embed=true"
+    },
     "simplify:archer::simplify-bce73b16-47b6-4170-86c3-8da8216579de": {
       "company": "Archer",
       "first_seen": "2026-08-18T22:42:18+00:00",
@@ -3763,12 +3805,33 @@
       "title": "On-device AI Frameworks Engineer Intern",
       "url": "https://job-boards.greenhouse.io/argmax/jobs/4067268009"
     },
+    "simplify:argonne national laboratory::simplify-0571720b-a81c-4dee-9a39-22f37e728c20": {
+      "company": "Argonne National Laboratory",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1786579200",
+      "title": "Postdoctoral Appointee - Quantum Magnetometry for High-Energy Physics",
+      "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Quantum-Magnetometry-for-High-Energy-Physics_423275"
+    },
     "simplify:argonne national laboratory::simplify-0ffaa21c-d319-41eb-b21e-77a8c3a84f35": {
       "company": "Argonne National Laboratory",
       "first_seen": "2026-08-17T22:50:57+00:00",
       "posted_at": "1786924800",
       "title": "Python Developer Predoctoral Appointee - Vehicle and Mobility Systems",
       "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Predoctoral-Appointee---Python-Developer_423278"
+    },
+    "simplify:argonne national laboratory::simplify-4a66c9e0-4c4d-4451-9c5d-039006481f44": {
+      "company": "Argonne National Laboratory",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1784678400",
+      "title": "Assistant Scientist",
+      "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Assistant-Scientist---UHV-Scanning-Probe-Microscopy-and-Surface-Science--NST-_423090"
+    },
+    "simplify:argonne national laboratory::simplify-b9612f8a-f7e8-4b20-9d0d-6657413a0b21": {
+      "company": "Argonne National Laboratory",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1783160881",
+      "title": "Postdoctoral Appointee",
+      "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---MSD-Ultrafast-Time-Resolved-X-ray-Diffraction-Microscopy-and-Spectroscopy-for-Quantum-Materials_421368"
     },
     "simplify:arize ai::simplify-da6a6bdb-c5d2-4aa4-8350-63b033037299": {
       "company": "Arize AI",
@@ -4470,6 +4533,13 @@
       "title": "Software Engineer",
       "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Software-Engineer_R162773"
     },
+    "simplify:baker hughes::simplify-059058e6-a3de-4daa-b2ed-dacf926dffc8": {
+      "company": "Baker Hughes",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1788307200",
+      "title": "Software Engineer",
+      "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/US-NV-MINDEN-1631-BENTLY-PARKWAY-SOUTH/Software-Engineer_R168272"
+    },
     "simplify:baker hughes::simplify-81eeb1c2-13ff-4cd9-a612-91cfcaa4cfed": {
       "company": "Baker Hughes",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -4735,6 +4805,13 @@
       "posted_at": "1786579200",
       "title": "Technical Service Representative - Part Time",
       "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/14005-Beacon-Hill/In-Store---Online-Technical-Service-Representative--Part-Time-_R-52328"
+    },
+    "simplify:bestgate engineering::simplify-d7464a56-df34-4389-8516-7a3d68551e07": {
+      "company": "Bestgate Engineering",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1787964347",
+      "title": "Systems Engineer",
+      "url": "https://bestgateengineering.applytojob.com/apply/pcGGXYfWYA/Cleared-System-Engineer-Entry-Level"
     },
     "simplify:beta soft systems::simplify-325b5cec-2d43-402d-9e7e-c4772a5e57cc": {
       "company": "Beta Soft Systems",
@@ -5079,6 +5156,13 @@
       "title": "Systems Engineer Intern",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---San-Diego--CA_R0248365"
     },
+    "simplify:booz allen::simplify-518d048d-06e8-4056-b13f-b6da34068887": {
+      "company": "Booz Allen",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1787529600",
+      "title": "Systems Engineer",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Systems-Engineer_R0247648"
+    },
     "simplify:booz allen::simplify-53d8eb96-a4a4-4d3d-a59f-1308691c4a1a": {
       "company": "Booz Allen",
       "first_seen": "2026-09-01T17:52:38+00:00",
@@ -5288,6 +5372,13 @@
       "posted_at": "1787093934",
       "title": "Software Development Engineer 2 - Engineering",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813422191"
+    },
+    "simplify:boston scientific::simplify-dba1e111-7c03-486c-ac67-456bd8a9e0a0": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1788407541",
+      "title": "Software Engineer 1 - Engineering",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813508995"
     },
     "simplify:bot auto::simplify-085d792a-4c79-4104-946c-89da75b559db": {
       "company": "Bot Auto",
@@ -5561,6 +5652,13 @@
       "posted_at": "1786151719",
       "title": "Software Development Engineer Intern - Network Automation - 2027 Summer",
       "url": "https://jobs.bytedance.com/en/position/7671147251943213317/detail"
+    },
+    "simplify:bytedance::simplify-324fe628-252d-453d-8421-501357ff74dd": {
+      "company": "ByteDance",
+      "first_seen": "2026-09-03T12:51:14+00:00",
+      "posted_at": "1785748595",
+      "title": "Research Scientist Intern",
+      "url": "https://jobs.bytedance.com/en/position/7668590365398993205/detail"
     },
     "simplify:bytedance::simplify-34fa4813-bc92-4deb-8987-cf33bc625246": {
       "company": "ByteDance",
@@ -10266,6 +10364,13 @@
       "title": "Web Developer/Programmer Intern",
       "url": "https://jobs.smartrecruiters.com/LuxeMediaLLC/83337967"
     },
+    "simplify:fermilab::simplify-32de5228-0dd5-490f-b82e-99f46259da7b": {
+      "company": "Fermilab",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1782309840",
+      "title": "Quantum Postdoctoral Researcher - 3D Cavity Quantum Hardware",
+      "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Quantum-Postdoctoral-Researcher-for-3D-Cavity-Quantum-Hardware_R_009642"
+    },
     "simplify:fidelity investments::simplify-0cdf7557-d561-4d9a-ae10-243323bde8c4": {
       "company": "Fidelity Investments",
       "first_seen": "2026-08-14T22:52:10+00:00",
@@ -12933,6 +13038,13 @@
       "title": "Software Engineer 1",
       "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/England---Cambridge/Software-Engineer-1_42598-JOB-1"
     },
+    "simplify:illumio::simplify-873ece7f-a456-4651-b869-50c1b92d9505": {
+      "company": "Illumio",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1788407618",
+      "title": "Member of Technical Staff 1 - Architecture",
+      "url": "https://jobs.ashbyhq.com/illumio/9f7e300f-1e61-4900-ab6d-da7429d2a6ae/application?embed=true"
+    },
     "simplify:imc trading::simplify-1c8d5fb4-7d30-4fff-adcc-7926baadf184": {
       "company": "IMC Trading",
       "first_seen": "2026-07-02T00:04:23+00:00",
@@ -13016,6 +13128,13 @@
       "posted_at": "1787873768",
       "title": "Software Engineer 1",
       "url": "https://jobs.ashbyhq.com/inductive-automation-llc/5413d62b-1f0c-4592-9ce6-b6f261674ecb/application?embed=true"
+    },
+    "simplify:infleqtion::simplify-2fd70c49-979e-4920-929b-5d6a4d56cd27": {
+      "company": "Infleqtion",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1784643216",
+      "title": "Junior Atomic, Molecular and Optical Physicist",
+      "url": "https://apply.workable.com/coldquanta/j/736A92049C/apply"
     },
     "simplify:infleqtion::simplify-4e9fe751-4379-45cd-97bd-7083fd5e58d1": {
       "company": "Infleqtion",
@@ -13408,6 +13527,13 @@
       "posted_at": "1783733782",
       "title": "Full Stack Engineer 2",
       "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4714122005"
+    },
+    "simplify:ionq::simplify-c028b98f-7d2f-41f3-bd86-61daed617bdc": {
+      "company": "IonQ",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1784239548",
+      "title": "Senior Research Scientist - Fault Tolerant Quantum Algorithms",
+      "url": "https://job-boards.greenhouse.io/ionq/jobs/6019179004"
     },
     "simplify:iridium communications::simplify-dcb78e15-a5c5-4a55-89dc-2420d65990d0": {
       "company": "Iridium Communications",
@@ -14284,6 +14410,13 @@
       "title": "Software Development Intern",
       "url": "https://jobs.keysight.com/jobs/53081?lang=en-us&icims=1"
     },
+    "simplify:kikoff::simplify-40e6062a-75db-489e-bb33-701876794fe7": {
+      "company": "Kikoff",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1788401198",
+      "title": "Software Engineer New Grad",
+      "url": "https://job-boards.greenhouse.io/kikoff/jobs/4393822009"
+    },
     "simplify:kikoff::simplify-abf4af65-04b3-4ec5-b2bb-0cfd7ce4d500": {
       "company": "Kikoff",
       "first_seen": "2026-08-20T02:43:11+00:00",
@@ -14907,6 +15040,13 @@
       "title": "Software Development Co-op - Later Influence",
       "url": "https://job-boards.greenhouse.io/later/jobs/8643138002"
     },
+    "simplify:lawrence berkeley national laboratory::simplify-a582606e-8e9d-4a61-b416-0c546f9808d6": {
+      "company": "Lawrence Berkeley National Laboratory",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1777943249",
+      "title": "Quantum Engineering Fellow",
+      "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=105663"
+    },
     "simplify:lawrence livermore national laboratory (llnl)::simplify-5792b5a2-ef1d-434b-b7d6-f3b05887383d": {
       "company": "Lawrence Livermore National Laboratory (LLNL)",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -15074,6 +15214,13 @@
       "posted_at": "1776071854",
       "title": "Junior Software Engineer",
       "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Columbia-MD/Junior-Software-Engineer_R-00180476"
+    },
+    "simplify:leidos::simplify-a015ef37-b241-4971-89e0-e4b6561afbbb": {
+      "company": "Leidos",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1788307200",
+      "title": "Associate Software Developer - Air Traffic Business Area",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Associate-Software-Engineer_R-00191290"
     },
     "simplify:leidos::simplify-a7cc0774-97d0-4a06-9229-b827f35ca01c": {
       "company": "Leidos",
@@ -15795,6 +15942,20 @@
       "posted_at": "1785196800",
       "title": "Applications Analyst 1",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Applications-Analyst-I_RQ4071746-1"
+    },
+    "simplify:mastercard::simplify-20cf24f4-5879-4261-9b6a-216881df3264": {
+      "company": "Mastercard",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1788307200",
+      "title": "Software Engineer - Launch Program",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Toronto-Canada/Software-Engineer--Launch-Program-2027---Toronto--Canada_R-287621"
+    },
+    "simplify:mastercard::simplify-304edc4b-549b-4911-a0b2-84a984d579d2": {
+      "company": "Mastercard",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1788307200",
+      "title": "Software Engineer - Launch Program",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Vancouver-Canada/Software-Engineer--Launch-Program-2027---Vancouver--Canada_R-287622"
     },
     "simplify:mastercard::simplify-6fc2b307-1b8e-46f9-aa14-0d528e6fd4a9": {
       "company": "Mastercard",
@@ -16790,6 +16951,13 @@
       "title": "Web Interface Software Engineer",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Web-Interface-Software-Engineer_R66626"
     },
+    "simplify:motorola::simplify-a072ca1a-08d9-415d-bbac-c6ecb8cf5e5f": {
+      "company": "Motorola",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1788307200",
+      "title": "Graduate Software Engineer",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R68006"
+    },
     "simplify:motorola::simplify-ab4dacc0-3b0f-4a64-8351-f7ee4198e2ab": {
       "company": "Motorola",
       "first_seen": "2026-08-14T22:52:10+00:00",
@@ -17146,6 +17314,13 @@
       "posted_at": "1781734231",
       "title": "Associate Product Engineer - Home Fragrance",
       "url": "https://jobs.newellbrands.com/job/South-Deerfield-Associate-Product-Engineer,-Home-Fragrance-Mass/1400762300/?ats=successfactors"
+    },
+    "simplify:newrez::simplify-04af52ae-d053-4a93-8927-e281a49801e6": {
+      "company": "Newrez",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1788307200",
+      "title": "Data Product Engineering Operations Specialist - Multiple Teams",
+      "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/TRAIL-Rising-Leaders-Program---Data-Product-Engineering_R10364"
     },
     "simplify:newrez::simplify-df045001-6540-4f6a-989a-92d2042973dd": {
       "company": "Newrez",
@@ -17980,6 +18155,13 @@
       "title": "Software Engineer Associate",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764"
     },
+    "simplify:northrop grumman::simplify-fb111552-e548-480f-9cff-4c13c1f67d69": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1787702400",
+      "title": "Radar Modeling Simulation Analysis Associate Systems Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Radar-Modeling-Simulation-Analysis-Associate-Systems-Engineer_R10247334"
+    },
     "simplify:northrop grumman::simplify-fd35bf7d-2a83-4c94-84df-7f5ae7a4429f": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-30T23:41:21+00:00",
@@ -18400,6 +18582,13 @@
       "title": "Unity 3D Developer Intern",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4341435"
     },
+    "simplify:oceanus marine technologies::simplify-7c176f66-e486-46f0-b9c9-5b651e4cf7cc": {
+      "company": "Oceanus Marine Technologies",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1788407702",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/oceanus/c16078ab-131c-461e-9049-b094633ae41b/application?embed=true"
+    },
     "simplify:offerup::simplify-cc2fec71-d445-40e3-be3e-b8dd51184164": {
       "company": "OfferUp",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -18532,6 +18721,13 @@
       "posted_at": "1781360766",
       "title": "Senior Software Engineer",
       "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Upton/Senior-Software-Engineer_R-5554"
+    },
+    "simplify:onto innovation::simplify-40d01668-ca43-449a-988c-73d535bc84ef": {
+      "company": "Onto Innovation",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1788307200",
+      "title": "Software Engineer 2",
+      "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Wilmington-MA-Jonspin/Software-Engineer-2_R-6241"
     },
     "simplify:onto innovation::simplify-dde683df-ec22-4d14-9855-ddfa585da7ea": {
       "company": "Onto Innovation",
@@ -18714,6 +18910,13 @@
       "posted_at": "1784902619",
       "title": "Associate Scientific Software Engineer",
       "url": "https://apply.workable.com/oxford-quantum-circuits-8/j/FFA221764E/apply"
+    },
+    "simplify:ozmo::simplify-3c53a802-b7b7-48db-8366-4f2ee710edd6": {
+      "company": "Ozmo",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1784596658",
+      "title": "Content Developer",
+      "url": "https://ats.rippling.com/ozmocareers/jobs/3b195c97-8281-418a-add8-99310d7dfa70"
     },
     "simplify:packz::simplify-a9432e02-af17-408c-bd3e-b6f7f958091d": {
       "company": "Packz",
@@ -19632,6 +19835,13 @@
       "title": "Junior Software Engineer - Developer - Space Communications Program",
       "url": "https://careers-peraton.icims.com/jobs/169377/job?mobile=true&needsRedirect=false"
     },
+    "simplify:peraton::simplify-fe6bef22-123f-4be3-bc91-d205cf1b4c6e": {
+      "company": "Peraton",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1788202002",
+      "title": "Entry-Level Systems Engineer",
+      "url": "https://careers-peraton.icims.com/jobs/170126/job?mobile=true&needsRedirect=false"
+    },
     "simplify:peregrine::simplify-0469baa7-6bac-4434-860f-795b5207c1aa": {
       "company": "Peregrine",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -20003,6 +20213,13 @@
       "title": "Software Engineer",
       "url": "https://legalshieldcorp.wd1.myworkdayjobs.com/en-US/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820"
     },
+    "simplify:pq::simplify-353f0d4e-3ee4-4549-ae7e-3c630bd5f04f": {
+      "company": "PQ",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1788401864",
+      "title": "AI-Augmented Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/PQ/744000147064769"
+    },
     "simplify:praetorian::simplify-e04180ab-1284-468d-a4b4-3231f24db581": {
       "company": "Praetorian",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -20142,6 +20359,13 @@
       "posted_at": "1772003094",
       "title": ".NET",
       "url": "https://jobs.smartrecruiters.com/ProximateTechnologiesInc1/743999661729966"
+    },
+    "simplify:psiquantum::simplify-520abae4-a8e2-44a6-b054-1c9656a38ece": {
+      "company": "PsiQuantum",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1776291423",
+      "title": "Quantum Algorithms and Compilation Intern",
+      "url": "https://www.psiquantum.com/apply?gh_jid=7695559003"
     },
     "simplify:psp investments::simplify-2256fb16-191d-48d3-83de-c41babc22b3b": {
       "company": "PSP Investments",
@@ -20402,12 +20626,26 @@
       "title": "Software Engineer - Cloud Infrastructure",
       "url": "https://jobs.ashbyhq.com/quantcast/18213524-c947-4be3-b728-497f23dcd5cf/application?embed=true"
     },
+    "simplify:quantinuum::simplify-37b97258-63a4-45f5-adf3-0a84d16998bf": {
+      "company": "Quantinuum",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1787090748",
+      "title": "Quantum Error Correction Intern - Quantum Error Correction",
+      "url": "https://jobs.eu.lever.co/quantinuum/46b3f32c-a2ad-4d4d-bff6-b1bbebf3e382/apply"
+    },
     "simplify:quantix scs::simplify-c22ed2b1-7dbc-4fec-8e24-0ed23174312c": {
       "company": "Quantix SCS",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1772003147",
       "title": "Application Support",
       "url": "https://jobs.smartrecruiters.com/Quantix/106736418"
+    },
+    "simplify:quera computing::simplify-1cd301cb-50d4-418a-b1d4-c45796ebb185": {
+      "company": "QuEra Computing",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1779402068",
+      "title": "Quantum Computing Intern - Research & Development",
+      "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5227710008"
     },
     "simplify:quince::simplify-37a68980-82f2-4c55-b307-c8baff3b2fb8": {
       "company": "Quince",
@@ -23082,6 +23320,13 @@
       "posted_at": "1779026876",
       "title": "Platform Technologies Language Design Intern",
       "url": "https://sifive.wd1.myworkdayjobs.com/en-US/sifivecareers/job/Santa-Clara-California-United-States/Platform-Technologies-Language-Design-Intern_R-101183"
+    },
+    "simplify:sift::simplify-894eb687-31ed-49f7-86c8-228331a4c092": {
+      "company": "SIFT",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1788407618",
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134/application?embed=true"
     },
     "simplify:sightcall::simplify-06d4f7fc-332c-4434-9f9b-abc6fc22ddca": {
       "company": "SightCall",
@@ -27409,6 +27654,13 @@
       "title": "Product Engineer",
       "url": "https://jobs.ashbyhq.com/trm-labs/0b8546c0-39ba-44db-aba5-3425bcb2e68d/application"
     },
+    "simplify:trovy::simplify-37b22b5b-0845-4be1-a356-f454753b9a46": {
+      "company": "Trovy",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1787790334",
+      "title": "Design Engineer",
+      "url": "https://jobs.ashbyhq.com/trovy/2da40f7a-6d47-4a0a-ba3b-83dd19e5c8a2/application?embed=true"
+    },
     "simplify:trovy::simplify-4e253679-7e15-4e91-b4f3-c685ab851e82": {
       "company": "Trovy",
       "first_seen": "2026-08-07T23:34:48+00:00",
@@ -28528,6 +28780,13 @@
       "posted_at": "1782259844",
       "title": "Full Stack Developer Intern",
       "url": "https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity"
+    },
+    "simplify:viasat::simplify-f65480d4-ea80-40b5-8df9-f91ba3d8d535": {
+      "company": "ViaSat",
+      "first_seen": "2026-09-03T12:51:17+00:00",
+      "posted_at": "1788401668",
+      "title": "Software Engineer - Automation",
+      "url": "https://careers.viasat.com/jobs/6330?icims=1"
     },
     "simplify:viavi solutions::simplify-52359f6e-ece2-48b9-a135-9c1af9490443": {
       "company": "Viavi Solutions",
@@ -29833,5 +30092,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-03T08:16:51+00:00"
+  "updated_at": "2026-09-03T12:51:17+00:00"
 }
