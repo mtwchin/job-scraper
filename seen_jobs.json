@@ -1,5 +1,5 @@
 {
-  "count": 4421,
+  "count": 4427,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -10875,6 +10875,13 @@
       "title": "Software Development Intensive Program - LINK",
       "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008"
     },
+    "simplify:flagship pioneering::simplify-9f90544f-0c83-436c-bf21-faccf96d53fd": {
+      "company": "Flagship Pioneering",
+      "first_seen": "2026-09-03T23:33:20+00:00",
+      "posted_at": "1785854729",
+      "title": "Senior Automation Engineer - Platform Biology",
+      "url": "https://boards.greenhouse.io/flagshippioneeringinc/jobs/8651011002"
+    },
     "simplify:flexai::simplify-af8ee11b-8ecb-4e0d-a573-663d2b202291": {
       "company": "FlexAI",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -12512,6 +12519,13 @@
       "posted_at": "1782781755",
       "title": "Product Design Engineer",
       "url": "https://jobs.ashbyhq.com/Gumloop/cdb897fd-bd89-4395-bbb0-d29a83c02357/application"
+    },
+    "simplify:gxo logistics::simplify-cf709e76-0568-4fda-81af-520e867418fd": {
+      "company": "GXO Logistics",
+      "first_seen": "2026-09-03T23:33:20+00:00",
+      "posted_at": "1785795145",
+      "title": "Yard and Dock Coordinator - 1st Shift",
+      "url": "https://jobs.gxo.com/job/Omaha-Yard-and-Dock-Coordinator-1st-Shift-NE-68138-3916/1415460200/?ats=successfactors"
     },
     "simplify:h&r block::simplify-2ce709b0-c9e7-4265-8a69-93beda50c8b4": {
       "company": "H&R Block",
@@ -15732,6 +15746,13 @@
       "posted_at": "1782956444",
       "title": "Software Engineer",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer-TS-SCI-Polygraph_R-00186603"
+    },
+    "simplify:leidos::simplify-ce9250e1-36be-4c4c-aeff-ee1b9d5881c6": {
+      "company": "Leidos",
+      "first_seen": "2026-09-03T23:33:20+00:00",
+      "posted_at": "1783555200",
+      "title": "Entry Level Software Developer",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923"
     },
     "simplify:lennar corporation::simplify-54a06b84-67eb-4568-8969-1e478d303342": {
       "company": "Lennar Corporation",
@@ -25330,6 +25351,13 @@
       "title": "Core Java \u2013 Multithreading - Socket Programming",
       "url": "https://jobs.smartrecruiters.com/systemCanadaTechnologies/72248172"
     },
+    "simplify:systems planning and analysis::simplify-c9e8fbe2-493b-49f9-86ad-7fcf74ee4a85": {
+      "company": "Systems Planning and Analysis",
+      "first_seen": "2026-09-03T23:33:20+00:00",
+      "posted_at": "1785881398",
+      "title": "Associate Systems Engineer",
+      "url": "https://spa.jibeapply.com/jobs/23161?icims=1"
+    },
     "simplify:szns solutions::simplify-49a6eea9-f3b2-4c8a-bcb9-73f0f684a0af": {
       "company": "SZNS Solutions",
       "first_seen": "2026-08-11T02:36:54+00:00",
@@ -25532,6 +25560,13 @@
       "posted_at": "1784764800",
       "title": "Software Engineer Associate",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1495599"
+    },
+    "simplify:td bank::simplify-b9b644cd-90f5-4adf-bd93-fc724f01904e": {
+      "company": "TD Bank",
+      "first_seen": "2026-09-03T23:33:20+00:00",
+      "posted_at": "1783030387",
+      "title": "Associate Software Engineer",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1497015"
     },
     "simplify:td bank::simplify-f42646c5-4269-403c-923a-b8b4e01f8f06": {
       "company": "TD Bank",
@@ -29838,6 +29873,13 @@
       "title": "Full Stack Developer Intern",
       "url": "https://jobs.ashbyhq.com/walrusfi/99c93c0e-ed9a-4e41-862a-0cdbe71d7d54"
     },
+    "simplify:warner bros.::simplify-a6b38bf3-bca0-4b0e-9222-e004683aea98": {
+      "company": "Warner Bros.",
+      "first_seen": "2026-09-03T23:33:20+00:00",
+      "posted_at": "1787602616",
+      "title": "Runner - Post Production Operations",
+      "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/NY-Warner-Bros-Studio-Facilities-PPS-NY/Runner--Post-Production_R000106446-2"
+    },
     "simplify:wash u::simplify-7df650ee-1cd3-417c-9d20-ef780e455866": {
       "company": "Wash U",
       "first_seen": "2026-08-07T00:29:54+00:00",
@@ -30890,5 +30932,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-03T21:48:01+00:00"
+  "updated_at": "2026-09-03T23:33:20+00:00"
 }
