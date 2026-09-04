@@ -1,5 +1,5 @@
 {
-  "count": 4549,
+  "count": 4618,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2145,6 +2145,20 @@
       "posted_at": "1783461924",
       "title": "Environmental Technician",
       "url": "https://jobs.smartrecruiters.com/AECOM2/744000136328351"
+    },
+    "simplify:aerotech::simplify-64e8c668-e84f-4de3-aa6b-d52054f1c698": {
+      "company": "Aerotech",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788561752",
+      "title": "Software Engineer - Application Development",
+      "url": "https://aerotech.applytojob.com/apply/F6xsydip1r/Software-Engineer-Application-Development"
+    },
+    "simplify:aerotech::simplify-75b8591d-0408-4c28-b660-7ad3e0eb4b3d": {
+      "company": "Aerotech",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788561752",
+      "title": "Software Engineer - Enterprise Development",
+      "url": "https://aerotech.applytojob.com/apply/K8ctztnPW6/Software-Engineer-Enterprise-Development"
     },
     "simplify:aerotech::simplify-8cd5b581-53c6-4c6a-88c2-b61b04039976": {
       "company": "Aerotech",
@@ -4834,6 +4848,20 @@
       "title": "Software Developer New Grad",
       "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222-1"
     },
+    "simplify:bank of montreal::simplify-4b60f85d-2a63-44a5-972b-638a7e3dc96a": {
+      "company": "Bank of Montreal",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788480000",
+      "title": "Junior Software Developer Co-op Intern - Winter 2027 - 4 months",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027---Co-op-Internship---4-months_R260026089"
+    },
+    "simplify:bank of montreal::simplify-6681501f-5c25-4e5b-8975-493955cc885d": {
+      "company": "Bank of Montreal",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788480000",
+      "title": "Junior Software Developer Co-op Intern - Winter 2027 - 4 months",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027---Co-op-Internship---4-months_R260026093"
+    },
     "simplify:bank of montreal::simplify-7ffcd789-ef9d-4dfa-a950-34fda3485559": {
       "company": "Bank of Montreal",
       "first_seen": "2026-08-11T18:05:24+00:00",
@@ -4862,12 +4890,40 @@
       "title": "Full Stack Engineer Intern Co-op - Data Cognition Team",
       "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto--Co-Op--Internship-_R260021769-1"
     },
+    "simplify:barclays::simplify-64a35586-2a6e-4c71-9919-ca8c55f250ed": {
+      "company": "Barclays",
+      "first_seen": "2026-09-04T23:26:55+00:00",
+      "posted_at": "1788480000",
+      "title": "Technology Developer Intern - Technology",
+      "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Whippany_JR-0000123234"
+    },
+    "simplify:barclays::simplify-85276bc6-20ee-44df-9d13-3887e26d5fdb": {
+      "company": "Barclays",
+      "first_seen": "2026-09-04T23:26:55+00:00",
+      "posted_at": "1788480000",
+      "title": "Technology Developer Graduate Program - Expert Program",
+      "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Expert-Graduate-Program-Wilmington_JR-0000123440"
+    },
     "simplify:barclays::simplify-8a717ae4-e44a-4ade-ae84-abbc3d27e232": {
       "company": "Barclays",
       "first_seen": "2026-08-06T11:38:47+00:00",
       "posted_at": "1785974400",
       "title": "AI Engineer - Private Bank and Wealth Management",
       "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/AI-Engineer_JR-0000113698-1"
+    },
+    "simplify:barclays::simplify-b204537c-692e-4ce8-aa3a-2e01ec6a186a": {
+      "company": "Barclays",
+      "first_seen": "2026-09-04T23:26:55+00:00",
+      "posted_at": "1788480000",
+      "title": "Technology Developer Intern",
+      "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/XMLNAME-2027-Technology-Developer-Summer-Internship-Program-Wilmington_JR-0000123236"
+    },
+    "simplify:barclays::simplify-e1797db0-c912-4fd8-836c-a52430adf049": {
+      "company": "Barclays",
+      "first_seen": "2026-09-04T23:26:55+00:00",
+      "posted_at": "1788480000",
+      "title": "Technology Developer Graduate Program",
+      "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/XMLNAME-2027-Technology-Developer-Graduate-Program-Whippany_JR-0000123244"
     },
     "simplify:barkback::simplify-343fcb3c-e4be-4f12-841e-664571827fa6": {
       "company": "Barkback",
@@ -5687,6 +5743,27 @@
       "posted_at": "1784596545",
       "title": "Founding Engineer",
       "url": "https://jobs.ashbyhq.com/brainbaselabs/54fe9496-006d-4604-94a0-90258f2c3dd3/application?embed=true"
+    },
+    "simplify:brave::simplify-f503c11d-3e20-467e-974e-94f5e84053d9": {
+      "company": "Brave",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788560468",
+      "title": "Software Engineer Intern - Waterloo University",
+      "url": "https://job-boards.greenhouse.io/brave/jobs/8161945"
+    },
+    "simplify:bree::simplify-0808a8e7-18e7-48d5-ad82-fdc4baaf595c": {
+      "company": "Bree",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788561732",
+      "title": "Software Engineer Co-op - Backend",
+      "url": "http://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b/application?embed=true"
+    },
+    "simplify:bree::simplify-eecd8520-d475-474c-93f0-0c07d6a7fbc3": {
+      "company": "Bree",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788561733",
+      "title": "Software Engineer Co-op - Product",
+      "url": "http://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88/application?embed=true"
     },
     "simplify:bridger::simplify-e2dbbfb0-5164-4098-99ba-6fc554978c24": {
       "company": "Bridger",
@@ -6647,6 +6724,13 @@
       "title": "Junior C# Software Engineer",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Bethesda-MD-US/Junior-C--Software-Engineer_327770"
     },
+    "simplify:caci::simplify-abf84bbc-9f9b-4db5-8637-7b7772fb25e4": {
+      "company": "CACI",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788480000",
+      "title": "Software Engineer Intern",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648"
+    },
     "simplify:caci::simplify-c46fbf03-927d-497c-a436-b9a3bad3aa6f": {
       "company": "CACI",
       "first_seen": "2026-09-03T16:42:59+00:00",
@@ -7298,6 +7382,13 @@
       "title": "Associate Software Engineer",
       "url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9201-1"
     },
+    "simplify:cdm smith::simplify-15ef0fd8-5b89-4710-b2a2-44655a6688c4": {
+      "company": "CDM Smith",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788560003",
+      "title": "Electrical Engineer Intern - Summer 2027",
+      "url": "https://careers.cdmsmith.com/jobs/4398?icims=1"
+    },
     "simplify:celonis::simplify-8d9e3fac-74a7-4c48-9788-7e80245bc5fc": {
       "company": "Celonis",
       "first_seen": "2026-08-25T16:08:25+00:00",
@@ -7578,6 +7669,13 @@
       "title": "Technology Graduate Rotational Program Associate - TGRP",
       "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Associate--Technology-Graduate-Rotational-Program--TGRP-_2616657-1"
     },
+    "simplify:cibc::simplify-5824240e-2adc-4a7c-9e37-ff62114f248e": {
+      "company": "CIBC",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788480000",
+      "title": "Software Engineer Intern",
+      "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1"
+    },
     "simplify:cibc::simplify-6fb305ca-d18b-41e6-9be0-8ac27a99adf2": {
       "company": "CIBC",
       "first_seen": "2026-08-24T20:41:41+00:00",
@@ -7605,6 +7703,13 @@
       "posted_at": "1788134400",
       "title": "Software Engineer Co-op",
       "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Spring-Term-Software-Engineer-Co-op---Chicago--Northeastern-University-_2617782-1"
+    },
+    "simplify:cibc::simplify-f087940e-a5b0-4548-a6bc-e189b1848910": {
+      "company": "CIBC",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788480000",
+      "title": "Software Engineer Intern",
+      "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322"
     },
     "simplify:ciena::simplify-04b12d83-7012-4bc9-b2c2-f3fea47e301b": {
       "company": "Ciena",
@@ -8089,6 +8194,20 @@
       "title": "Software Engineer Co-op",
       "url": "https://apply.workable.com/cmic/j/63A27830D0/apply"
     },
+    "simplify:cna insurance::simplify-1d575d00-562b-41dd-959e-769e6343f0ac": {
+      "company": "CNA Insurance",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788480000",
+      "title": "Technology Intern - Agile Product Design",
+      "url": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Agile-Product-Design-_R-8125"
+    },
+    "simplify:cna insurance::simplify-282fc534-4cf8-4c34-b2b9-92e29bff62ce": {
+      "company": "CNA Insurance",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788480000",
+      "title": "Technology Internship - Software Engineering",
+      "url": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-8107"
+    },
     "simplify:cockroach labs::simplify-241beb5c-7e35-4106-b8ba-ca9fe68b225a": {
       "company": "Cockroach Labs",
       "first_seen": "2026-07-23T11:28:38+00:00",
@@ -8137,6 +8256,13 @@
       "posted_at": "1779228356",
       "title": "Systems Software Engineer - Test & Automation Infrastructure",
       "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2012520"
+    },
+    "simplify:coherent::simplify-ed36305d-99ff-4f70-8c40-3b2e1e60391b": {
+      "company": "Coherent",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559464",
+      "title": "Software and Data",
+      "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2013607"
     },
     "simplify:cohesity::simplify-6ad93ce0-0fca-4ce7-a3be-52c11a1e1d93": {
       "company": "Cohesity",
@@ -8726,6 +8852,13 @@
       "title": "Software Engineer 1",
       "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202679352"
     },
+    "simplify:cox::simplify-275d984e-f45f-40b4-9ff9-4ee167ccbb6d": {
+      "company": "Cox",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788480000",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1"
+    },
     "simplify:cox::simplify-40955085-af36-47cc-9be4-e7ee3a1ead92": {
       "company": "Cox",
       "first_seen": "2026-08-26T18:08:09+00:00",
@@ -8767,6 +8900,13 @@
       "posted_at": "1773824945",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/creatify/75a1f1ad-13d2-4513-952c-71b6dfcaa84f/application"
+    },
+    "simplify:credence::simplify-78d9bccf-8fd2-497a-80a4-f3b00fed7d3a": {
+      "company": "Credence",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788561842",
+      "title": "Entry-Level AI Software Engineer",
+      "url": "https://apply.workable.com/credence/j/BAD39E80E0/apply"
     },
     "simplify:crossmark::simplify-aa1f9e60-c448-45b5-aeb8-6f3cefcf159a": {
       "company": "CROSSMARK",
@@ -10119,6 +10259,13 @@
       "title": "Digital & AI Technology Intern",
       "url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249"
     },
+    "simplify:edgehog trading::simplify-c4ab4946-ca32-40a8-871d-7f457ac74405": {
+      "company": "Edgehog Trading",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788561890",
+      "title": "Graduate Software Engineer",
+      "url": "https://ats.rippling.com/edgehog-trading/jobs/0d6b0e5c-be84-4324-8ee3-b875504e01d8"
+    },
     "simplify:edgewater it::simplify-2d577c12-94df-4e2a-bc76-56cbcdcf573a": {
       "company": "Edgewater IT",
       "first_seen": "2026-08-05T22:37:23+00:00",
@@ -10336,6 +10483,13 @@
       "title": "Software Engineer - Supporthub",
       "url": "https://job-boards.greenhouse.io/energyhub/jobs/8385899002"
     },
+    "simplify:enfos::simplify-492852af-0410-4c62-9c26-766e5ec7b288": {
+      "company": "ENFOS",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788561889",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://apply.workable.com/enfos-inc/j/CA15908E0A/apply"
+    },
     "simplify:engineers and geoscientists bc::simplify-88a53309-0a50-46d5-a5a1-9e196633f951": {
       "company": "Engineers and Geoscientists BC",
       "first_seen": "2026-08-07T23:34:48+00:00",
@@ -10517,6 +10671,13 @@
       "posted_at": "1778277942",
       "title": "Americas Tax Technology Group Tax - Engineering",
       "url": "https://eyglobal.yello.co/jobs/0m3IMV1LeGFu8D0t3z_1zQ?job_board_id=c1riT--B2O-KySgYWsZO1Q"
+    },
+    "simplify:ernst & young::simplify-bd069b24-aa60-4d48-8c89-899ea7fac476": {
+      "company": "Ernst & Young",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559583",
+      "title": "Artificial Intelligence Analyst - Tax Technology and Transformation - Artificial Intelligence",
+      "url": "https://eyglobal.yello.co/jobs/k-0h0FlaXImE-sESVrR35A?job_board_id=c1riT--B2O-KySgYWsZO1Q"
     },
     "simplify:ernst & young::simplify-e53a7275-853a-47b2-9c3c-c88f9d888cbe": {
       "company": "Ernst & Young",
@@ -10937,6 +11098,13 @@
       "posted_at": "1782309840",
       "title": "Quantum Postdoctoral Researcher - 3D Cavity Quantum Hardware",
       "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Quantum-Postdoctoral-Researcher-for-3D-Cavity-Quantum-Hardware_R_009642"
+    },
+    "simplify:fervo energy::simplify-232ef965-ae5a-429d-99d3-cba2eca04afe": {
+      "company": "Fervo Energy",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788561804",
+      "title": "Software Engineer Intern - Strategy",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4482043"
     },
     "simplify:fidelity investments::simplify-0cdf7557-d561-4d9a-ae10-243323bde8c4": {
       "company": "Fidelity Investments",
@@ -11442,6 +11610,13 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004"
     },
+    "simplify:garmin::simplify-09df6596-53d1-4585-a544-3614d26f1de7": {
+      "company": "Garmin",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559533",
+      "title": "Software Engineer Intern - Aviation Web Development",
+      "url": "https://careers.garmin.com/jobs/20080?icims=1"
+    },
     "simplify:garmin::simplify-0a0493c3-6930-4513-9133-44efe6284bea": {
       "company": "Garmin",
       "first_seen": "2026-08-01T23:24:49+00:00",
@@ -11484,6 +11659,13 @@
       "title": "Software Engineer 1 - Connect IQ Applications",
       "url": "https://careers.garmin.com/jobs/18475?icims=1"
     },
+    "simplify:garmin::simplify-68024874-1d0e-42c4-a241-6279f7f6c261": {
+      "company": "Garmin",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559378",
+      "title": "Aircraft Performance Engineer Intern",
+      "url": "https://careers.garmin.com/jobs/19837?icims=1"
+    },
     "simplify:garmin::simplify-aaaa8a89-4a65-414d-ad5f-46e681c28716": {
       "company": "Garmin",
       "first_seen": "2026-08-02T04:32:45+00:00",
@@ -11498,12 +11680,33 @@
       "title": "Software Engineer 1 - Web Development/Applications",
       "url": "https://careers.garmin.com/jobs/18510?icims=1"
     },
+    "simplify:garmin::simplify-e0a1bb59-1fb6-4c2b-bd8e-8bd8ec2bc007": {
+      "company": "Garmin",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559380",
+      "title": "Software Engineer Intern - Automotive OEM",
+      "url": "https://careers.garmin.com/jobs/19999?icims=1"
+    },
     "simplify:garmin::simplify-f124dd9a-d9b4-4986-81d0-72e9a02879b5": {
       "company": "Garmin",
       "first_seen": "2026-08-01T23:24:49+00:00",
       "posted_at": "1785579901",
       "title": "Software Engineer 1",
       "url": "https://careers.garmin.com/jobs/19098?icims=1"
+    },
+    "simplify:garner health::simplify-238b4335-e95e-471b-ad55-a3d3da60a5f6": {
+      "company": "Garner Health",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559488",
+      "title": "Associate Software Engineer",
+      "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004"
+    },
+    "simplify:garner health::simplify-31c5ffff-7ad5-4068-a1cb-42ff7c4b6ca3": {
+      "company": "Garner Health",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559488",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6164698004"
     },
     "simplify:ge aerospace::simplify-04bfd73d-5fde-4957-ac3d-fe42504abc58": {
       "company": "GE Aerospace",
@@ -11609,6 +11812,13 @@
       "posted_at": "1780927657",
       "title": "Grid Automation & Software Intern",
       "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Grid-Automation---Software-Intern_R5041709-1"
+    },
+    "simplify:ge vernova::simplify-0be76f75-bb28-4d12-b0f5-9d0455bc825b": {
+      "company": "GE Vernova",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788480000",
+      "title": "Project Engineer Intern - Summer 2027",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2"
     },
     "simplify:ge vernova::simplify-167546b1-fd92-4bc9-94d0-a427ade3104e": {
       "company": "GE Vernova",
@@ -12086,6 +12296,13 @@
       "title": "Software Engineer - Multiple Teams",
       "url": "https://careers-gdms.icims.com/jobs/73300/job?mobile=true&needsRedirect=false"
     },
+    "simplify:general dynamics mission systems::simplify-ace2a03a-1f53-4778-8e95-2ca42b7a7d5a": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788560154",
+      "title": "Entry Level Software Engineer",
+      "url": "https://careers-gdms.icims.com/jobs/73057/job?mobile=true&needsRedirect=false"
+    },
     "simplify:general dynamics mission systems::simplify-bed37cac-7110-483e-b908-3e624efd76d4": {
       "company": "General Dynamics Mission Systems",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -12107,6 +12324,20 @@
       "title": "Cybersecurity Software Engineer Intern",
       "url": "https://careers-gdms.icims.com/jobs/74257/job?mobile=true&needsRedirect=false"
     },
+    "simplify:general dynamics uk::simplify-3f3c2722-e6f4-460f-a318-ada5d0e970f7": {
+      "company": "General Dynamics UK",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559708",
+      "title": "Systems Engineering Co-op - TacNET 8",
+      "url": "https://jobs.smartrecruiters.com/GDMSI/744000147537709"
+    },
+    "simplify:general dynamics uk::simplify-64710cc0-783e-46c6-bf40-0094991af6e5": {
+      "company": "General Dynamics UK",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559711",
+      "title": "Software Engineering Co-op - 4 months - 8 months",
+      "url": "https://jobs.smartrecruiters.com/GDMSI/744000147583700"
+    },
     "simplify:general dynamics uk::simplify-87fa51f3-741b-402e-a1b4-f9d9b7d87222": {
       "company": "General Dynamics UK",
       "first_seen": "2026-09-02T17:19:13+00:00",
@@ -12127,6 +12358,13 @@
       "posted_at": "1788530937",
       "title": "Software Engineering Co-op - 4 - 8 months",
       "url": "https://jobs.smartrecruiters.com/GDMSI/744000147511629"
+    },
+    "simplify:general dynamics uk::simplify-f7b542cb-b7d4-42c0-8fe8-e4e3d9ccadf1": {
+      "company": "General Dynamics UK",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559711",
+      "title": "Computer Science and Robotics Co-op - Information Technology",
+      "url": "https://jobs.smartrecruiters.com/GDMSI/744000147541849"
     },
     "simplify:general dynamics uk::simplify-fb43ca64-ac2c-4698-b2fe-f67d16fff11d": {
       "company": "General Dynamics UK",
@@ -12338,6 +12576,13 @@
       "title": "Full Stack Developer Intern",
       "url": "https://jobs.lever.co/geocomply-2/a3131ad8-06ec-4c6e-b27c-81aa4c02cc40/apply"
     },
+    "simplify:geosyntec consultants::simplify-1226965c-9ed7-4d6b-ad60-2a5c8985f78d": {
+      "company": "Geosyntec Consultants",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559468",
+      "title": "Early-Career Water Resources Engineer",
+      "url": "https://careers-geosyntec.icims.com/jobs/4833/job?mobile=true&needsRedirect=false"
+    },
     "simplify:geotab::simplify-134ed341-2632-4ae3-b01a-9709b959fa20": {
       "company": "Geotab",
       "first_seen": "2026-09-04T05:57:42+00:00",
@@ -12512,6 +12757,13 @@
       "posted_at": "1787097600",
       "title": "AI/ML Software Engineer New Grad",
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/AI-ML-Software-Engineer--2026-New-College-Graduate-_JR-2602832"
+    },
+    "simplify:globalfoundries::simplify-7663017a-6036-4a9f-997c-0db0dd562328": {
+      "company": "GlobalFoundries",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788480000",
+      "title": "Software Engineer - Cloud Platform",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056"
     },
     "simplify:globalfoundries::simplify-7c7c7353-5820-41bb-a47b-a57e9fd1f739": {
       "company": "GlobalFoundries",
@@ -13108,6 +13360,13 @@
       "title": "Associate Application Engineer",
       "url": "https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Associate-Application-Engineer_R26003212"
     },
+    "simplify:healthedge::simplify-260b62da-2fbd-47f5-af45-99bd6b0bfb4e": {
+      "company": "HealthEdge",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788560121",
+      "title": "Associate Software Engineer",
+      "url": "https://careers-healthedge.icims.com/jobs/8440/job?mobile=true&needsRedirect=false"
+    },
     "simplify:hearst::simplify-0f01813c-18e9-48c2-9e47-4afaf74c1be9": {
       "company": "Hearst",
       "first_seen": "2026-09-04T17:44:00+00:00",
@@ -13668,6 +13927,13 @@
       "title": "Software Engineer 1",
       "url": "https://jobs.smartrecruiters.com/ComputerFutures3/101016513"
     },
+    "simplify:hy-vee::simplify-bfc80fee-bb28-459a-be87-125a0fef1495": {
+      "company": "Hy-Vee",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788480000",
+      "title": "Software Engineer Intern",
+      "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Digital-Software-Engineering-Intern---Summer-2027_R250133"
+    },
     "simplify:hypercubic::simplify-ee23b508-8622-4e85-a48c-712f76a6db3b": {
       "company": "Hypercubic",
       "first_seen": "2026-08-15T05:23:27+00:00",
@@ -13723,6 +13989,13 @@
       "posted_at": "1784073600",
       "title": "Associate ServiceNow Developer",
       "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Associate-ServiceNow-Developer--Secret-Clearance-Required-_R2602450"
+    },
+    "simplify:id.me::simplify-48deab81-0a6d-4ccd-9930-4461d39615e6": {
+      "company": "ID.me",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788560434",
+      "title": "Software Development Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003"
     },
     "simplify:idealforce::simplify-ebdbdcd8-ef03-440b-a67f-e1930d725d62": {
       "company": "Idealforce",
@@ -14101,6 +14374,13 @@
       "posted_at": "1784844751",
       "title": "Software Development Engineer",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0285267"
+    },
+    "simplify:intel::simplify-5fc2f214-fe6b-4c1d-b9aa-0a1dcbec56d2": {
+      "company": "Intel",
+      "first_seen": "2026-09-04T23:26:55+00:00",
+      "posted_at": "1788480000",
+      "title": "CAD/EDA Tools Automation Engineer",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0286757"
     },
     "simplify:intel::simplify-6a9037a8-cfc4-43f5-841f-202346e3bfb4": {
       "company": "Intel",
@@ -14886,6 +15166,13 @@
       "title": "Reverse Engineer New Grad - Systems Exploitation",
       "url": "https://careers.jhuapl.edu/jobs/59797?icims=1"
     },
+    "simplify:johns hopkins applied physics laboratory::simplify-c192d7cd-8e41-43d0-9f80-86b20fa05310": {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559649",
+      "title": "Systems & Software Engineer New Grad - Multi-Domain Mission Planning Development",
+      "url": "https://careers.jhuapl.edu/jobs/59974?icims=1"
+    },
     "simplify:johns hopkins applied physics laboratory::simplify-c9ea12aa-aa0f-4daa-9e2b-4497ad88942f": {
       "company": "Johns Hopkins Applied Physics Laboratory",
       "first_seen": "2026-08-14T05:13:27+00:00",
@@ -15348,6 +15635,13 @@
       "title": "R&D Engineer 1 - Software",
       "url": "https://jobs.keysight.com/jobs/53966?icims=1"
     },
+    "simplify:keysight technologies::simplify-95a461d8-fd13-4557-857f-f23138cd29c4": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788560057",
+      "title": "Full Stack Intern",
+      "url": "https://jobs.keysight.com/jobs/54165?icims=1"
+    },
     "simplify:keysight technologies::simplify-d2e6b4e9-d706-4c25-9b2c-c8d4a9eda75b": {
       "company": "Keysight Technologies",
       "first_seen": "2026-07-21T10:51:40+00:00",
@@ -15410,6 +15704,13 @@
       "posted_at": "1779671117",
       "title": "Software Development Co-op/Intern - C++",
       "url": "https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:kinaxis::simplify-d5e526d4-218c-453d-99d1-8fc6b59a6f06": {
+      "company": "Kinaxis",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559652",
+      "title": "Software Developer Co-op/Intern - Core Algorithms",
+      "url": "https://careers-kinaxis.icims.com/jobs/35329/job?mobile=true&needsRedirect=false"
     },
     "simplify:kinder morgan::simplify-111932e9-ef61-4e10-af00-fdf06cb493c7": {
       "company": "Kinder Morgan",
@@ -17490,6 +17791,13 @@
       "title": "Computer Engineer - Corporate",
       "url": "https://mgmresorts.wd5.myworkdayjobs.com/MGMCareers/job/Office---US-Las-Vegas-NV-6770-Edmond-St/Computer-Engineer---Corporate_277232"
     },
+    "simplify:microchip technology::simplify-03f41f5f-8abb-4769-af48-22497157aece": {
+      "company": "Microchip Technology",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1787184000",
+      "title": "Intern \u2013 Engineering - Device Software and Test",
+      "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern---Engineering--Device-Software-and-Test-_R3573-26"
+    },
     "simplify:microchip technology::simplify-0d95c99d-1456-499f-8755-a630e544f21c": {
       "company": "Microchip Technology",
       "first_seen": "2026-08-27T03:35:02+00:00",
@@ -17832,6 +18140,13 @@
       "posted_at": "1782943778",
       "title": "Forward Deployed Engineer Fellow",
       "url": "https://archwellessentials.wd1.myworkdayjobs.com/modercareers/job/Conshohocken-PA/Forward-Deployed-Engineer-Fellowship_JR107103"
+    },
+    "simplify:moderna::simplify-8d22f8a9-8149-4eae-b028-aebc30c9280c": {
+      "company": "Moderna",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788480000",
+      "title": "Applied Technologies Intern",
+      "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Norwood-Massachusetts/Intern--Applied-Technologies--Summer-2027-_R19734"
     },
     "simplify:moment energy::simplify-dbf73971-bce3-47b3-929f-77929a59c11c": {
       "company": "Moment Energy",
@@ -18567,6 +18882,13 @@
       "posted_at": "1777932251",
       "title": "Incubation Developer Coop/Intern",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34227"
+    },
+    "simplify:nokia::simplify-92d19f9f-b983-4fa7-a8f3-2344103d710e": {
+      "company": "Nokia",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559536",
+      "title": "AI Agent Development Co-op",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978"
     },
     "simplify:nokia::simplify-99671fe3-39c9-49be-8363-def166f2b883": {
       "company": "Nokia",
@@ -20640,6 +20962,20 @@
       "title": "Associate Software Engineer",
       "url": "https://payitgov.com/careers-list?gh_jid=7975853003"
     },
+    "simplify:paypal::simplify-1391f391-f29c-43d6-8325-a988430b5fe9": {
+      "company": "PayPal",
+      "first_seen": "2026-09-04T23:26:55+00:00",
+      "posted_at": "1788561667",
+      "title": "Software Engineer New Grad - Software Engineering",
+      "url": "https://paypal.eightfold.ai/careers/job/274921995088"
+    },
+    "simplify:paypal::simplify-30829caf-2d43-4e4c-aeb6-aa37a19f224b": {
+      "company": "PayPal",
+      "first_seen": "2026-09-04T23:26:55+00:00",
+      "posted_at": "1788561667",
+      "title": "Software Engineer Intern",
+      "url": "https://paypal.eightfold.ai/careers/job/274922260559"
+    },
     "simplify:pdf solutions::simplify-c5a14112-6491-4ae3-a678-23d36f21c962": {
       "company": "PDF Solutions",
       "first_seen": "2026-08-01T18:13:25+00:00",
@@ -21458,6 +21794,13 @@
       "posted_at": "1787529600",
       "title": "IT Engineering New Grad - Software, Platform, & Network",
       "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering--Software--Platform----Network----2027-Grads-_R000157918"
+    },
+    "simplify:procter & gamble::simplify-fed8c199-b652-44c0-b5c3-e935c6e4b0c5": {
+      "company": "Procter & Gamble",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788480000",
+      "title": "Digital Technologies Intern/Co-op",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/TORONTO-GO/Digital-Technologies-Internship-Co-op---Stage-ou-programme-coopratif-en-en-technologies-digitales_R000158595"
     },
     "simplify:pronexus::simplify-7ededa5d-af4b-4f9d-80ae-9e03985190e9": {
       "company": "ProNexus",
@@ -22362,6 +22705,13 @@
       "title": "Software Engineer Intern - Applications",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/3f314ca7-978e-4ad6-b527-0487a9a9598c/application"
     },
+    "simplify:rivian and volkswagen group technologies::simplify-a2743d30-b180-4a83-8edf-a8092e35fd0f": {
+      "company": "Rivian and Volkswagen Group Technologies",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788561638",
+      "title": "Software Engineering Intern - Applications - Infotainment & Mobile",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/c5c0f2e3-ae78-4ca6-94f8-b6940d3cdb69/application?embed=true"
+    },
     "simplify:rivian and volkswagen group technologies::simplify-a475fa37-e595-443b-807e-dce909238f55": {
       "company": "Rivian and Volkswagen Group Technologies",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -22396,6 +22746,13 @@
       "posted_at": "1786565956",
       "title": "Field Service Technician - Night Shift - Mobile",
       "url": "https://careers.rivian.com/jobs/32888?icims=1"
+    },
+    "simplify:rivian::simplify-affc493c-ddc6-42c1-8ae5-58b0dbdc17eb": {
+      "company": "Rivian",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559531",
+      "title": "Software Engineer - Cloud & Software FinOps",
+      "url": "https://careers.rivian.com/jobs/33476?icims=1"
     },
     "simplify:road runner::simplify-d45acc1f-f48c-4f62-8dd2-171e5665c943": {
       "company": "Road Runner",
@@ -22649,6 +23006,41 @@
       "title": "Founding Software Engineer",
       "url": "https://jobs.ashbyhq.com/rollout/ac255ccb-888f-46d9-8d57-5e7334a5ee46/application?embed=true"
     },
+    "simplify:rovisys::simplify-1a7491a2-4bd2-4f12-8ae7-887a36860442": {
+      "company": "RoviSys",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559426",
+      "title": "Engineering Co-op - Summer 2027",
+      "url": "https://careers-rovisys.icims.com/jobs/2128/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:rovisys::simplify-5bf5148c-143a-498b-8734-4b44f867d53d": {
+      "company": "RoviSys",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559424",
+      "title": "Engineering Co-op",
+      "url": "https://careers-rovisys.icims.com/jobs/2143/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:rovisys::simplify-78a66370-da21-4e67-97d5-5a37b4f51073": {
+      "company": "RoviSys",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559424",
+      "title": "Engineering Co-op",
+      "url": "https://careers-rovisys.icims.com/jobs/2144/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:rovisys::simplify-a4171af0-40fd-4fde-a9ba-c5b5568d9f97": {
+      "company": "RoviSys",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559426",
+      "title": "Engineering Co-op - Summer 2027",
+      "url": "https://careers-rovisys.icims.com/jobs/2131/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:rovisys::simplify-d34236d8-93a9-4896-b5bb-ca1def83b406": {
+      "company": "RoviSys",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559425",
+      "title": "Engineering Co-op - Summer 2027",
+      "url": "https://careers-rovisys.icims.com/jobs/2137/job?mobile=true&needsRedirect=false"
+    },
     "simplify:royal bank of canada::simplify-192ea991-da08-407c-8609-f30142e9d051": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-08-17T23:07:29+00:00",
@@ -22830,6 +23222,13 @@
       "posted_at": "1786924800",
       "title": "Technical Systems Analyst Co-op - Technology & Operations",
       "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Technical-Systems-Analyst--4-12-Months_R-0000184552"
+    },
+    "simplify:royal bank of canada::simplify-fd543f97-1606-43cf-a204-aebdc7cddf32": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788480000",
+      "title": "Developer & IT Specialist Co-op - Global Asset Management",
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Global-Asset-Management--Winter-Developer---IT-Specialist--4-8-months-_R-0000186669"
     },
     "simplify:rrs group::simplify-e0791588-2fd5-4867-8c40-2b4af827a16d": {
       "company": "RRS Group",
@@ -23888,6 +24287,13 @@
       "title": "Support Engineer - Python",
       "url": "https://jobs.smartrecruiters.com/SATechnologiesInc4/85774799"
     },
+    "simplify:saab::simplify-867f83e8-8c2d-4871-a154-59496914e89c": {
+      "company": "Saab",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788480000",
+      "title": "Software Engineering Co-op",
+      "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1"
+    },
     "simplify:saab::simplify-c4b04101-1a96-40a4-ab89-9a4100b785eb": {
       "company": "Saab",
       "first_seen": "2026-09-04T05:57:42+00:00",
@@ -24160,6 +24566,34 @@
       "posted_at": "1780726158",
       "title": "AI Builder Intern",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4703343005"
+    },
+    "simplify:scale ai::simplify-334c123e-435a-4a0f-898f-671610d593e3": {
+      "company": "Scale AI",
+      "first_seen": "2026-09-04T23:26:55+00:00",
+      "posted_at": "1788561090",
+      "title": "Software Engineer New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005"
+    },
+    "simplify:scale ai::simplify-58cf8fe8-1a98-42de-92d9-2a915d02739d": {
+      "company": "Scale AI",
+      "first_seen": "2026-09-04T23:26:55+00:00",
+      "posted_at": "1788561090",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
+    },
+    "simplify:schonfeld::simplify-13029c1c-d8c6-4568-a234-471d6081d632": {
+      "company": "Schonfeld",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788561967",
+      "title": "Technology Intern - DMFI",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171772"
+    },
+    "simplify:schonfeld::simplify-1679d1fa-953d-4b83-b4f5-e2e3a9f4cdd0": {
+      "company": "Schonfeld",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788562112",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089"
     },
     "simplify:schweitzer engineering laboratories::simplify-60269fbe-dbec-4b5f-a446-c717e9dd0fe7": {
       "company": "Schweitzer Engineering Laboratories",
@@ -25330,6 +25764,13 @@
       "title": "Front-End Software Developer Co-op",
       "url": "https://specteraerospace.bamboohr.com/careers/120/"
     },
+    "simplify:spirit aerosystems::simplify-01526870-c76a-40bc-981b-2617e593fde3": {
+      "company": "Spirit AeroSystems",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788559658",
+      "title": "Entry-Level Software Engineer",
+      "url": "https://careers.spiritaero.com/jobs/17433?icims=1"
+    },
     "simplify:spirit aerosystems::simplify-ea0423f4-dd18-4be8-bae1-f29a30138094": {
       "company": "Spirit AeroSystems",
       "first_seen": "2026-08-27T03:35:02+00:00",
@@ -25876,12 +26317,26 @@
       "title": "Payments Engineer Intern",
       "url": "https://jobs.ashbyhq.com/super.com/6a0dc25b-6eb2-411e-a862-6b083d9bad3c/application"
     },
+    "simplify:super::simplify-3dea76a2-75a6-47bf-baa6-fd8f384271e2": {
+      "company": "Super",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788561674",
+      "title": "Software Engineer Intern - Full-Stack",
+      "url": "https://jobs.ashbyhq.com/super.com/b2615f7e-c6d2-46d6-9699-5027da9b5757/application?embed=true"
+    },
     "simplify:super::simplify-4b224d26-3462-4bfa-9ac0-bbabe852eea9": {
       "company": "Super",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1778537293",
       "title": "Software Engineer Intern - Product - Full-Stack",
       "url": "https://jobs.ashbyhq.com/super.com/8179b5ad-9074-4d96-aa92-366cf12ab5d5/application"
+    },
+    "simplify:super::simplify-ac7aeef5-fa3e-4e1a-bf34-19e5ac1a602c": {
+      "company": "Super",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788561674",
+      "title": "Software Engineer Intern - Platform",
+      "url": "https://jobs.ashbyhq.com/super.com/29751d58-eacc-4b5a-8e9d-e59cb7a595c7/application?embed=true"
     },
     "simplify:supernova technology::simplify-00620949-7bbd-4342-a515-87e57990c860": {
       "company": "Supernova Technology",
@@ -25917,6 +26372,20 @@
       "posted_at": "1774563083",
       "title": "Software Developer",
       "url": "https://careers-sig.icims.com/jobs/10687/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:susquehanna international group::simplify-4fa9bd6c-ef64-4ae9-96b4-d236c66a5ecf": {
+      "company": "Susquehanna International Group",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788561507",
+      "title": "Technology Co-op",
+      "url": "https://careers-sig.icims.com/jobs/11379/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:susquehanna international group::simplify-6ad3c0e8-ef42-4d34-b105-e719ee13b152": {
+      "company": "Susquehanna International Group",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788561508",
+      "title": "Technology Co-op - Northeastern University",
+      "url": "https://careers-sig.icims.com/jobs/11377/job?mobile=true&needsRedirect=false"
     },
     "simplify:susquehanna international group::simplify-8c7005ad-b3e2-4a02-8174-8b80eed58286": {
       "company": "Susquehanna International Group",
@@ -28830,6 +29299,13 @@
       "title": "New Grad Product Engineer",
       "url": "https://jobs.ashbyhq.com/titan-msp/6ba1f660-6436-42f6-aaab-80ca931e8339/application"
     },
+    "simplify:tjx::simplify-06eb7413-2edc-4b3d-92a2-c75bf4920385": {
+      "company": "TJX",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788480000",
+      "title": "IT Engineer Intern",
+      "url": "https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/IT-Engineer-Internship---Summer-2027_REQ153160"
+    },
     "simplify:tjx::simplify-f2da14ca-8f33-41b0-abff-665c1a8b713e": {
       "company": "TJX",
       "first_seen": "2026-08-18T22:42:18+00:00",
@@ -31448,6 +31924,13 @@
       "title": "Enterprise Systems Software Engineer Intern - Spring 2027",
       "url": "https://www.zipline.com/open-roles?gh_jid=7893926003"
     },
+    "simplify:zipline::simplify-344ab169-a8ca-4178-8d88-e864f5408c19": {
+      "company": "Zipline",
+      "first_seen": "2026-09-04T23:26:59+00:00",
+      "posted_at": "1788561117",
+      "title": "Aircraft Software Integration Intern",
+      "url": "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003"
+    },
     "simplify:zipline::simplify-64b19bed-4841-4d4c-b32d-f5f6f582f38d": {
       "company": "Zipline",
       "first_seen": "2026-08-29T02:50:35+00:00",
@@ -31786,5 +32269,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-04T19:53:01+00:00"
+  "updated_at": "2026-09-04T23:26:59+00:00"
 }
