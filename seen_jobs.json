@@ -1,5 +1,5 @@
 {
-  "count": 4505,
+  "count": 4525,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -179,6 +179,13 @@
       "posted_at": "September  4, 2026",
       "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026",
       "url": "https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026"
+    },
+    "amazon::10529830": {
+      "company": "Amazon",
+      "first_seen": "2026-09-04T14:30:46+00:00",
+      "posted_at": "September  4, 2026",
+      "title": "Software Development Engineer, Early Careers ",
+      "url": "https://www.amazon.jobs/en/jobs/10529830/software-development-engineer-early-careers"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -2348,6 +2355,13 @@
       "posted_at": "1788220800",
       "title": "Graduate Software Engineer",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/AGGP2027---Graduate-Software-Engineer_JR10437769"
+    },
+    "simplify:airbus::simplify-8ee251a0-5392-43ad-a9b8-9fa9dee814f4": {
+      "company": "Airbus",
+      "first_seen": "2026-09-04T14:30:47+00:00",
+      "posted_at": "1788220800",
+      "title": "Graduate Airframe Automation Engineer",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/AGGP2027---Graduate-Airframe-Automation-Engineer_JR10428292"
     },
     "simplify:airbus::simplify-abc08d7b-bb97-456f-8b07-4a26a43b0fa2": {
       "company": "Airbus",
@@ -5092,6 +5106,13 @@
       "posted_at": "1783900800",
       "title": "Veterans Transition Program Associate - Platform Enablement Application Engineer",
       "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Atlanta-GA/Veterans-Transition-Program-Associate--Platform-Enablement-Application-Engineer_R264973"
+    },
+    "simplify:blackrock::simplify-a98c0a06-306e-4812-a351-9c4c42220854": {
+      "company": "BlackRock",
+      "first_seen": "2026-09-04T14:30:46+00:00",
+      "posted_at": "1786579200",
+      "title": "Associate Database Platform Developer - Database Platform Development",
+      "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Wilmington-DE/Associate-Database-Platform-Developer_R266105"
     },
     "simplify:blackrock::simplify-b35a2969-1549-4c14-9dea-2aa34016c109": {
       "company": "BlackRock",
@@ -8600,6 +8621,13 @@
       "title": "Software Engineer - CMMS Systems",
       "url": "https://corningjobs.corning.com/job/Corning-Software-Engineer-(CMMS-Systems)-NY-14831/1403127800/?ats=successfactors"
     },
+    "simplify:corning::simplify-c7f3e77f-a1eb-4ac3-b212-87e4289565f9": {
+      "company": "Corning",
+      "first_seen": "2026-09-04T14:30:47+00:00",
+      "posted_at": "1788291378",
+      "title": "Digital and Information Technology Intern - Analyst",
+      "url": "https://corningjobs.corning.com/job/Concord-Digital-&-IT-Intern,-Analyst,-Concord-Manufacturing-Summer-2027-NC-28026/1425549000/?ats=successfactors"
+    },
     "simplify:corpay::simplify-3f608301-24e9-44cc-a414-5e9d5f26a2d3": {
       "company": "Corpay",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -9167,6 +9195,13 @@
       "title": "Oracle Fusion Middleware - OFM",
       "url": "https://jobs.smartrecruiters.com/DeegitInc3/743999653596726"
     },
+    "simplify:deepgram::simplify-65489b2c-dccf-4a4b-b089-0a049511d131": {
+      "company": "Deepgram",
+      "first_seen": "2026-09-04T14:30:47+00:00",
+      "posted_at": "1787366146",
+      "title": "Forward-Deployed Engineer - Strategic Accounts",
+      "url": "https://jobs.ashbyhq.com/deepgram/4bfadd29-fa58-4e06-bbf0-7b5dbc41a621/application?embed=true"
+    },
     "simplify:deepgram::simplify-9b8c84ef-c762-4da1-9f47-56e4a62375d5": {
       "company": "Deepgram",
       "first_seen": "2026-07-17T23:11:51+00:00",
@@ -9349,6 +9384,13 @@
       "title": "Cyber Software Engineering Analyst - Government & Public Services - Cyber Software Engineering",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Cyber-Software-Engineering/362393"
     },
+    "simplify:deloitte::simplify-2440120c-cae1-4ca3-8e9b-73e8ca4bfac9": {
+      "company": "Deloitte",
+      "first_seen": "2026-09-04T14:30:47+00:00",
+      "posted_at": "1787105099",
+      "title": "Data & AI Solutions Engineering Summer Scholar Intern",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Data-AI-Solutions-Engineering/363475"
+    },
     "simplify:deloitte::simplify-247fd114-6046-4c46-853c-a15c455a2486": {
       "company": "Deloitte",
       "first_seen": "2026-07-31T23:40:58+00:00",
@@ -9509,6 +9551,13 @@
       "posted_at": "1787006636",
       "title": "Technology Graduate Program - Technology, Data and Innovation",
       "url": "https://db.recsolu.com/external/requisitions/Ee5GJSb8oLkc4V9xxetvWQ"
+    },
+    "simplify:dev technology group::simplify-cbad6c98-1423-47aa-86c6-25d238ec0bb8": {
+      "company": "Dev Technology Group",
+      "first_seen": "2026-09-04T14:30:47+00:00",
+      "posted_at": "1788286804",
+      "title": "AI/Agentic Solution Engineer Intern - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8728292002"
     },
     "simplify:dev technology group::simplify-de6ca294-1126-4454-898d-b2b85359b595": {
       "company": "Dev Technology Group",
@@ -10293,6 +10342,13 @@
       "posted_at": "1787703537",
       "title": "Gameplay Programmer Intern",
       "url": "https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004"
+    },
+    "simplify:epic games::simplify-75a2a7c4-e5d9-4544-bf24-a2a705653433": {
+      "company": "Epic Games",
+      "first_seen": "2026-09-04T14:30:47+00:00",
+      "posted_at": "1787190049",
+      "title": "Technical Art Intern - Rocket League",
+      "url": "https://epicgames.com/careers/jobs/6147154004?gh_jid=6147154004"
     },
     "simplify:epic games::simplify-bc9d071a-1dae-48fc-a18e-293c48a4ccb0": {
       "company": "Epic Games",
@@ -12365,6 +12421,13 @@
       "posted_at": "1776377082",
       "title": "AI Enablement Strategist",
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enablement-Strategist--New-College-Graduate-_JR-2600365"
+    },
+    "simplify:globalfoundries::simplify-e83c500f-6896-4414-b9b7-bc22069038ed": {
+      "company": "GlobalFoundries",
+      "first_seen": "2026-09-04T14:30:47+00:00",
+      "posted_at": "1788393600",
+      "title": "RF Technology Development Automation Engineer Intern - Summer 2027",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/RF-Technology-Development-Automation-Engineering-Intern--Summer-2027-_JR-2604272"
     },
     "simplify:globus medical::simplify-40cf634e-92e6-4592-983b-7d2595222420": {
       "company": "Globus Medical",
@@ -14521,6 +14584,13 @@
       "posted_at": "1786141201",
       "title": "Part-Time Student - Dynamic Systems Modeling - Product Engineering",
       "url": "https://johndeere.eightfold.ai/careers/job/137482642817"
+    },
+    "simplify:john deere::simplify-27ef919b-f4a9-4f27-b484-e742c76fc774": {
+      "company": "John Deere",
+      "first_seen": "2026-09-04T14:30:47+00:00",
+      "posted_at": "1788255577",
+      "title": "Information Technology Intern - Technology",
+      "url": "https://johndeere.eightfold.ai/careers/job/137482633322"
     },
     "simplify:john deere::simplify-2ad8c3d0-43b7-4038-9ea2-b88e6dda0b9a": {
       "company": "John Deere",
@@ -21256,6 +21326,20 @@
       "title": "Web Developer",
       "url": "https://jobs.smartrecruiters.com/ProcomConsultantsGroup/88630319"
     },
+    "simplify:procter & gamble::simplify-355a0760-208b-425c-9769-6bd234775cfa": {
+      "company": "Procter & Gamble",
+      "first_seen": "2026-09-04T14:30:47+00:00",
+      "posted_at": "1787529600",
+      "title": "IT Engineering Internship - Software, Platform, Network",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering-Internship--Software--Platform----Network-_R000157503"
+    },
+    "simplify:procter & gamble::simplify-5240fbc9-301c-4951-a8de-f0749bf722f0": {
+      "company": "Procter & Gamble",
+      "first_seen": "2026-09-04T14:30:47+00:00",
+      "posted_at": "1787529600",
+      "title": "IT Engineering New Grad - Software, Platform, & Network",
+      "url": "https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/IT-Engineering--Software--Platform----Network----2027-Grads-_R000157918"
+    },
     "simplify:pronexus::simplify-7ededa5d-af4b-4f9d-80ae-9e03985190e9": {
       "company": "ProNexus",
       "first_seen": "2026-08-08T02:09:23+00:00",
@@ -21297,6 +21381,13 @@
       "posted_at": "1772003094",
       "title": ".NET",
       "url": "https://jobs.smartrecruiters.com/ProximateTechnologiesInc1/743999661729966"
+    },
+    "simplify:prysmian cables & systems::simplify-7ed5f8a7-365f-4795-bb28-dd68ad3dfbcf": {
+      "company": "Prysmian Cables & Systems",
+      "first_seen": "2026-09-04T14:30:47+00:00",
+      "posted_at": "1784592000",
+      "title": "AI Intern",
+      "url": "https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Highland-Heights-KY/IT-Intern_R-34910"
     },
     "simplify:psiquantum::simplify-520abae4-a8e2-44a6-b054-1c9656a38ece": {
       "company": "PsiQuantum",
@@ -22256,6 +22347,13 @@
       "posted_at": "1786320000",
       "title": "Web Applications Co-op",
       "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman---Remote/RIT-Co-op--Web-Applications_REQ_233332"
+    },
+    "simplify:rockefeller capital management::simplify-fc428819-fa67-4635-beea-612c5eec041c": {
+      "company": "Rockefeller Capital Management",
+      "first_seen": "2026-09-04T14:30:47+00:00",
+      "posted_at": "1786680017",
+      "title": "Analyst Intern - Core Platforms",
+      "url": "https://careers-rcm.icims.com/jobs/5354/job?mobile=true&needsRedirect=false"
     },
     "simplify:rocket companies::simplify-16563ac6-f4a5-4af9-a956-d936a9ef337e": {
       "company": "Rocket Companies",
@@ -24945,6 +25043,13 @@
       "title": "Full Stack Software Engineer - Application Software",
       "url": "https://boards.greenhouse.io/spacex/jobs/8495180002"
     },
+    "simplify:spacex::simplify-915951dd-70ca-48b8-9767-8d9541dbca43": {
+      "company": "SpaceX",
+      "first_seen": "2026-09-04T14:30:46+00:00",
+      "posted_at": "1787120215",
+      "title": "Software Engineer New Grad - Software",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8729121002"
+    },
     "simplify:spacex::simplify-9bf4727a-804d-4ee8-8c44-0eeec2960987": {
       "company": "SpaceX",
       "first_seen": "2026-08-04T00:17:51+00:00",
@@ -26008,6 +26113,13 @@
       "posted_at": "1783030387",
       "title": "Associate Software Engineer",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1497015"
+    },
+    "simplify:td bank::simplify-c86d0cd8-688e-4d74-beff-876230e13041": {
+      "company": "TD Bank",
+      "first_seen": "2026-09-04T14:30:47+00:00",
+      "posted_at": "1788134400",
+      "title": "Software Engineer Intern - Software Engineering Rotational Program",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--New-York-City-_R_1508053"
     },
     "simplify:td bank::simplify-f42646c5-4269-403c-923a-b8b4e01f8f06": {
       "company": "TD Bank",
@@ -29145,6 +29257,13 @@
       "title": "Software Engineer - Early Career",
       "url": "https://jobs.ashbyhq.com/uniswap/fb4d4137-f003-4669-beb7-2a5caca88012/application?embed=true"
     },
+    "simplify:unisys::simplify-47365994-d392-4502-8a95-530e2273f746": {
+      "company": "Unisys",
+      "first_seen": "2026-09-04T14:30:47+00:00",
+      "posted_at": "1784764800",
+      "title": "Support Services Engineer",
+      "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/USA-MN-Remote/Support-Services-Engineer---USA_REQ574472"
+    },
     "simplify:unisys::simplify-d70d4c4f-f216-471e-a37d-152ffd6f18cb": {
       "company": "Unisys",
       "first_seen": "2026-07-21T06:16:23+00:00",
@@ -29747,12 +29866,33 @@
       "title": "Entry Level Application Engineer - 2026 Start Date",
       "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Entry-Level-Application-Engineer---2026-Start-Date_168908-1"
     },
+    "simplify:vanguard::simplify-93d115bb-b27e-478d-9f6e-d757992a8ffe": {
+      "company": "Vanguard",
+      "first_seen": "2026-09-04T14:30:47+00:00",
+      "posted_at": "1786924800",
+      "title": "IT Intern - Investment Systems",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Investment-Systems--PA-_177685-1"
+    },
+    "simplify:vanguard::simplify-bafe3732-d178-4e2d-bf6c-1ddf689474fe": {
+      "company": "Vanguard",
+      "first_seen": "2026-09-04T14:30:47+00:00",
+      "posted_at": "1788220800",
+      "title": "Application Development Intern",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/DallasFt-Worth-TX/College-to-Corporate-IT-Internship---Application-Development---TX-_181846"
+    },
     "simplify:vanguard::simplify-cf2f56c6-e1e5-477d-8439-bd1cd7b9b156": {
       "company": "Vanguard",
       "first_seen": "2026-07-24T23:33:06+00:00",
       "posted_at": "1784851200",
       "title": "Application Engineer",
       "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Application-Engineer_180729-1"
+    },
+    "simplify:vanguard::simplify-ded31667-1c68-4b4a-b251-dc42367c84a8": {
+      "company": "Vanguard",
+      "first_seen": "2026-09-04T14:30:47+00:00",
+      "posted_at": "1786924800",
+      "title": "IT Intern - Application Development",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1"
     },
     "simplify:vanguard::simplify-e3d0486d-ba93-4579-a87a-d12a8cde04ed": {
       "company": "Vanguard",
@@ -31478,5 +31618,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-04T10:32:12+00:00"
+  "updated_at": "2026-09-04T14:30:47+00:00"
 }
