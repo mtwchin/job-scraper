@@ -1,5 +1,5 @@
 {
-  "count": 4547,
+  "count": 4549,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -186,6 +186,13 @@
       "posted_at": "September  4, 2026",
       "title": "Software Development Engineer, Early Careers ",
       "url": "https://www.amazon.jobs/en/jobs/10529830/software-development-engineer-early-careers"
+    },
+    "amazon::10530257": {
+      "company": "Amazon",
+      "first_seen": "2026-09-04T19:53:01+00:00",
+      "posted_at": "September  4, 2026",
+      "title": "Software Development Engineer, Early Careers ",
+      "url": "https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-careers"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -1327,6 +1334,13 @@
       "posted_at": "Posted Today",
       "title": "Software Engineer - Recent Graduate",
       "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0137237"
+    },
+    "paypal::Software-Engineer-Intern_R0137285": {
+      "company": "PayPal",
+      "first_seen": "2026-09-04T19:53:01+00:00",
+      "posted_at": "Posted Today",
+      "title": "Software Engineer Intern",
+      "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0137285"
     },
     "pdt partners::8077685": {
       "company": "PDT Partners",
@@ -31772,5 +31786,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-04T17:44:00+00:00"
+  "updated_at": "2026-09-04T19:53:01+00:00"
 }
