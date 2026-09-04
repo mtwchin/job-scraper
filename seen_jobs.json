@@ -1,5 +1,5 @@
 {
-  "count": 4427,
+  "count": 4431,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -165,6 +165,13 @@
       "posted_at": "August 27, 2026",
       "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
       "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027"
+    },
+    "amazon::10529525": {
+      "company": "Amazon",
+      "first_seen": "2026-09-04T01:16:47+00:00",
+      "posted_at": "September  4, 2026",
+      "title": "Software Development Engineer Intern, ROBOTICS - 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -5772,6 +5779,13 @@
       "title": "Security Software Engineer Project Intern - Network Security - BS/MS",
       "url": "https://jobs.bytedance.com/en/position/7618396290598045957/detail"
     },
+    "simplify:bytedance::simplify-1f65e1dc-4f67-432b-822e-9d4bf09cfc3d": {
+      "company": "ByteDance",
+      "first_seen": "2026-09-04T01:16:47+00:00",
+      "posted_at": "1785978865",
+      "title": "Backend Developer Intern - Infrastructure Platform Delivery",
+      "url": "https://jobs.bytedance.com/en/position/7668489218234157365/detail"
+    },
     "simplify:bytedance::simplify-1fbda922-46f7-467c-92fd-f4b3ee1dc2fd": {
       "company": "ByteDance",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -5841,6 +5855,13 @@
       "posted_at": "1780466896",
       "title": "Network Software Development Engineer Intern - Network Switch",
       "url": "https://jobs.bytedance.com/en/position/7537117266451171592/detail"
+    },
+    "simplify:bytedance::simplify-498ba708-40ba-4b01-b748-b468ec53f831": {
+      "company": "ByteDance",
+      "first_seen": "2026-09-04T01:16:47+00:00",
+      "posted_at": "1785978865",
+      "title": "Backend Development Engineer Graduate - Infrastructure Platform Delivery",
+      "url": "https://jobs.bytedance.com/en/position/7668484998475663621/detail"
     },
     "simplify:bytedance::simplify-4ae93ef5-d293-43c9-8bb7-53f4c2e97749": {
       "company": "ByteDance",
@@ -6037,6 +6058,13 @@
       "posted_at": "1785748596",
       "title": "Software Engineer AI Agent Infrastructure - Security Engineering",
       "url": "https://jobs.bytedance.com/en/position/7667976924430633269/detail"
+    },
+    "simplify:bytedance::simplify-93816b55-fc41-43b1-b058-ac47d00ba49b": {
+      "company": "ByteDance",
+      "first_seen": "2026-09-04T01:16:47+00:00",
+      "posted_at": "1785978869",
+      "title": "Research Intern - SDN Traffic Intelligence & Control",
+      "url": "https://jobs.bytedance.com/en/position/7668118098724079877/detail"
     },
     "simplify:bytedance::simplify-95aa47dc-146b-4b77-b4bf-c6e32f6d99ad": {
       "company": "ByteDance",
@@ -30932,5 +30960,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-03T23:33:20+00:00"
+  "updated_at": "2026-09-04T01:16:47+00:00"
 }
