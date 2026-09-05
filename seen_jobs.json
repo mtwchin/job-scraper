@@ -1,5 +1,5 @@
 {
-  "count": 4625,
+  "count": 4630,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -11596,6 +11596,13 @@
       "title": "Patient Care Technician",
       "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Ottawa-OH-USA/Patient-Care-Technician---PCT_R0266770-1"
     },
+    "simplify:fresenius medical care::simplify-497ef304-d09e-453d-b9d1-5731438f9c1a": {
+      "company": "Fresenius Medical Care",
+      "first_seen": "2026-09-05T05:45:19+00:00",
+      "posted_at": "1788480000",
+      "title": "Patient Care Technician",
+      "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Norristown-PA/Patient-Care-Technician--Training-Provided_R0268334"
+    },
     "simplify:frost::simplify-b85f0dff-7b07-42ee-af50-208fab628c1a": {
       "company": "Frost",
       "first_seen": "2026-08-21T20:09:42+00:00",
@@ -12309,6 +12316,13 @@
       "posted_at": "1784067032",
       "title": "Software Integration Engineer",
       "url": "https://careers-gdms.icims.com/jobs/73543/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:general dynamics mission systems::simplify-a35187f2-2b60-4934-a7af-6dde56245e69": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-09-05T05:45:19+00:00",
+      "posted_at": "1788570819",
+      "title": "Software Engineer",
+      "url": "https://careers-gdms.icims.com/jobs/74823/job?mobile=true&needsRedirect=false"
     },
     "simplify:general dynamics mission systems::simplify-a6532539-f30d-4228-b8fa-a5ae3b555eb5": {
       "company": "General Dynamics Mission Systems",
@@ -22488,6 +22502,13 @@
       "title": "Software Developer 1",
       "url": "https://repligen.wd108.myworkdayjobs.com/Repligen_Careers/job/Bridgewater-NJ/Software-Developer-I_R-583"
     },
+    "simplify:replit::simplify-211d1319-7021-4fda-abc6-6b2d24ffb794": {
+      "company": "Replit",
+      "first_seen": "2026-09-05T05:45:18+00:00",
+      "posted_at": "1788571616",
+      "title": "Cohort 0",
+      "url": "https://jobs.ashbyhq.com/replit/2c147ccb-2557-40f8-aab9-64422cef220c/application?embed=true"
+    },
     "simplify:replit::simplify-7e21b76f-fae1-4564-9f64-456d019b46b2": {
       "company": "Replit",
       "first_seen": "2026-08-15T23:19:59+00:00",
@@ -27283,6 +27304,13 @@
       "title": "Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems",
       "url": "https://www.tesla.com/careers/search/job/270354"
     },
+    "simplify:tesla::simplify-9782344e-0072-4996-ae4d-b36ef27d13db": {
+      "company": "Tesla",
+      "first_seen": "2026-09-05T05:45:18+00:00",
+      "posted_at": "1788570474",
+      "title": "Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi",
+      "url": "https://www.tesla.com/careers/search/job/282598"
+    },
     "simplify:tesla::simplify-9ce31f80-9f48-43a4-924d-9739d2b61cf8": {
       "company": "Tesla",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -32050,6 +32078,13 @@
       "title": "Full Stack Software Developer",
       "url": "https://jobs.smartrecruiters.com/Zoro/87619425"
     },
+    "simplify:zrs management::simplify-8552ff06-eb32-409f-99be-6b83447122b3": {
+      "company": "ZRS Management",
+      "first_seen": "2026-09-05T05:45:19+00:00",
+      "posted_at": "1788480000",
+      "title": "Housekeeper",
+      "url": "https://zrsmanagement.wd5.myworkdayjobs.com/zrs_careers/job/Austin-TX-78721/Housekeeper_R-108236"
+    },
     "simplify:zscaler::simplify-45f6e525-5b17-4b57-9958-20605eb69c47": {
       "company": "Zscaler",
       "first_seen": "2026-07-03T08:18:45+00:00",
@@ -32318,5 +32353,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-05T01:12:48+00:00"
+  "updated_at": "2026-09-05T05:45:19+00:00"
 }
