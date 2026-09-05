@@ -1,5 +1,5 @@
 {
-  "count": 4630,
+  "count": 4631,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2383,6 +2383,13 @@
       "posted_at": "1788220800",
       "title": "Technology Analyst",
       "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/NC-Charlotte/XMLNAME-2027-Early-Careers--Analyst--Technology---United-States--Charlotte--NC---Houston--TX_JR2603640"
+    },
+    "simplify:aiprise::simplify-6c3fb746-2d33-44e9-b97d-ada170e96ef0": {
+      "company": "AiPrise",
+      "first_seen": "2026-09-05T09:24:45+00:00",
+      "posted_at": "1788589930",
+      "title": "Software Engineer 1",
+      "url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true"
     },
     "simplify:air control concepts::simplify-b82ebee3-b9ea-4a22-b498-9b803e53e092": {
       "company": "AIR Control Concepts",
@@ -32353,5 +32360,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-05T05:45:19+00:00"
+  "updated_at": "2026-09-05T09:24:45+00:00"
 }
