@@ -1,5 +1,5 @@
 {
-  "count": 4631,
+  "count": 4632,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -17756,6 +17756,13 @@
       "title": "Data Infra Engineer Intern",
       "url": "https://jobs.ashbyhq.com/meshy/2f33b2eb-b76d-4618-b299-497471f263b9"
     },
+    "simplify:metaview::simplify-9fad232c-43cc-403b-9475-b965f64e9c1f": {
+      "company": "Metaview",
+      "first_seen": "2026-09-05T12:52:21+00:00",
+      "posted_at": "1781935651",
+      "title": "Product Staff Engineer",
+      "url": "https://jobs.ashbyhq.com/metaview/d9f94564-9404-4010-8d9a-413d6a1a6c14/application?embed=true"
+    },
     "simplify:metecs::simplify-1661ac6f-3138-4aac-8219-cd2fefdde9f7": {
       "company": "METECS",
       "first_seen": "2026-08-03T08:03:11+00:00",
@@ -32360,5 +32367,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-05T09:24:45+00:00"
+  "updated_at": "2026-09-05T12:52:21+00:00"
 }
