@@ -1,5 +1,5 @@
 {
-  "count": 4633,
+  "count": 4636,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -11001,6 +11001,13 @@
       "title": "Software Engineering Intern - Winter",
       "url": "https://jobs.ashbyhq.com/fab2/0c4dc4f4-01c9-4138-a666-e7234cda7e95/application?embed=true"
     },
+    "simplify:fab2::simplify-5388c1d5-9cfb-47cb-a19b-4772ec63a368": {
+      "company": "Fab2",
+      "first_seen": "2026-09-05T23:04:16+00:00",
+      "posted_at": "1788647655",
+      "title": "Rust Software Engineer Intern - Chip Design Tools - Multiple Teams",
+      "url": "https://jobs.ashbyhq.com/fab2/2b0ab443-c7d8-4547-9766-111747f0b361/application?embed=true"
+    },
     "simplify:fab2::simplify-54e93af8-828c-46cc-b1ba-8cc530ed9293": {
       "company": "Fab2",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -11021,6 +11028,13 @@
       "posted_at": "1784596375",
       "title": "Rust Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/fab2/009d0819-c688-4ab9-8816-a3c7ab002470/application?embed=true"
+    },
+    "simplify:fab2::simplify-e435361a-f6e4-4d40-a169-9d5acffb23fb": {
+      "company": "Fab2",
+      "first_seen": "2026-09-05T23:04:16+00:00",
+      "posted_at": "1788647655",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/fab2/36ab33ab-82e7-4cc4-8137-f451fd6036a0/application?embed=true"
     },
     "simplify:face reality::simplify-ed55e27a-2573-4a50-9932-9ba94b96ac11": {
       "company": "Face Reality",
@@ -30489,6 +30503,13 @@
       "title": "Full-Stack Software Engineer - C2 & Tactical Integration",
       "url": "https://jobs.ashbyhq.com/valinor/c2fbf6c0-fa83-4f51-885d-3ac09eb1e80e/application?embed=true"
     },
+    "simplify:valmont::simplify-0b7f4d7a-54d5-4978-8ec4-34cb3c8714f1": {
+      "company": "Valmont",
+      "first_seen": "2026-09-05T23:04:16+00:00",
+      "posted_at": "1788566400",
+      "title": "IT Associate Programmer Analyst",
+      "url": "https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/IT-Associate-Programmer-Analyst_R28670"
+    },
     "simplify:valon::simplify-99404c39-7108-4b92-89ba-eb3166763456": {
       "company": "Valon",
       "first_seen": "2026-09-02T00:29:34+00:00",
@@ -32374,5 +32395,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-05T15:39:25+00:00"
+  "updated_at": "2026-09-05T23:04:16+00:00"
 }
