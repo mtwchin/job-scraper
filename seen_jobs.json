@@ -1,5 +1,5 @@
 {
-  "count": 4639,
+  "count": 4640,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -23321,6 +23321,13 @@
       "title": "Software Developer Co-op - Technology & Operations",
       "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--8-Months_R-0000184557-1"
     },
+    "simplify:royal bank of canada::simplify-d1354a8b-e1fb-48c3-bf6f-93d3bea41db3": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-09-06T15:57:08+00:00",
+      "posted_at": "1788652800",
+      "title": "Product Engineer New Grad",
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Product-Engineer--New-Grad-_R-0000187092"
+    },
     "simplify:royal bank of canada::simplify-e7e3dd54-f56e-4d88-a3ab-23b3011fa3c2": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-08-18T06:58:11+00:00",
@@ -32416,5 +32423,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-06T09:23:40+00:00"
+  "updated_at": "2026-09-06T15:57:08+00:00"
 }
