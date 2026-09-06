@@ -1,5 +1,5 @@
 {
-  "count": 4636,
+  "count": 4638,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -11763,6 +11763,13 @@
       "posted_at": "1786924800",
       "title": "Digital Technology Intern - Multiple Teams",
       "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Intern---US---Cincinnati--OH---Summer-2027_R5029739-1"
+    },
+    "simplify:ge aerospace::simplify-37f5de8f-da79-4e88-801b-65f4b77bd4e5": {
+      "company": "GE Aerospace",
+      "first_seen": "2026-09-06T05:09:51+00:00",
+      "posted_at": "1788652800",
+      "title": "Software Engineering Placement - Month Placement",
+      "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Cheltenham/GE-Aerospace-Software-Engineering---12-Month-Placement_R5039374-2"
     },
     "simplify:ge aerospace::simplify-5f3d33fb-4b34-47a8-a127-86e779a876b6": {
       "company": "GE Aerospace",
@@ -31161,6 +31168,13 @@
       "title": "Engineer Rotational Program",
       "url": "https://jobs.smartrecruiters.com/Wabtec/3743990014806166"
     },
+    "simplify:walgreens::simplify-06bb9d4d-dab5-495e-ad36-24bc797defe0": {
+      "company": "Walgreens",
+      "first_seen": "2026-09-06T05:09:51+00:00",
+      "posted_at": "1788664216",
+      "title": "Pharmacy Technician Apprenticeship",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1932792"
+    },
     "simplify:walgreens::simplify-59d36e2a-3413-468e-a72e-8c350b5dad94": {
       "company": "Walgreens",
       "first_seen": "2026-08-03T04:41:01+00:00",
@@ -32395,5 +32409,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-05T23:04:16+00:00"
+  "updated_at": "2026-09-06T05:09:51+00:00"
 }
