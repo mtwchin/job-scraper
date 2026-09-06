@@ -1,5 +1,5 @@
 {
-  "count": 4640,
+  "count": 4641,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -31238,6 +31238,13 @@
       "title": "Software Engineer 3",
       "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2556776-1"
     },
+    "simplify:walmart::simplify-62795ee0-15c5-410a-af25-57dc450beebe": {
+      "company": "Walmart",
+      "first_seen": "2026-09-06T23:36:49+00:00",
+      "posted_at": "1788652800",
+      "title": "Customer Service Desk Associate",
+      "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Terrebonne-QC/Associ-au-comptoir-du-service--la-clientle_R-2637223"
+    },
     "simplify:walmart::simplify-72d27188-ca10-44bc-b865-6250f7f6e7cf": {
       "company": "Walmart",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -32423,5 +32430,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-06T15:57:08+00:00"
+  "updated_at": "2026-09-06T23:36:49+00:00"
 }
