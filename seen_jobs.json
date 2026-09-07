@@ -1,5 +1,5 @@
 {
-  "count": 4655,
+  "count": 4660,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -479,6 +479,13 @@
       "posted_at": "2026-09-04T06:21:45-04:00",
       "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709"
+    },
+    "dropbox::8106224": {
+      "company": "Dropbox",
+      "first_seen": "2026-09-07T17:47:06+00:00",
+      "posted_at": "2026-09-07T11:17:51-04:00",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224"
     },
     "figma::6131089004": {
       "company": "Figma",
@@ -8677,6 +8684,13 @@
       "title": "Graduate Software Developer - Assessment Day",
       "url": "https://contentguru.bamboohr.com/careers/319/"
     },
+    "simplify:content guru::simplify-778cad11-117d-4c0a-a905-240bcef87a9b": {
+      "company": "Content Guru",
+      "first_seen": "2026-09-07T17:47:07+00:00",
+      "posted_at": "1788799493",
+      "title": "Graduate Software Developer",
+      "url": "https://contentguru.bamboohr.com/careers/324/"
+    },
     "simplify:context::simplify-26fdb601-e0f4-4074-8616-d16bfbb4f7b9": {
       "company": "Context",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10105,6 +10119,13 @@
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294"
     },
+    "simplify:dropbox::simplify-425aaabf-7af3-4cd6-b041-c9f26fe0e736": {
+      "company": "Dropbox",
+      "first_seen": "2026-09-07T17:47:06+00:00",
+      "posted_at": "1788799432",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=8106224"
+    },
     "simplify:drw::simplify-800d88a6-9478-48b0-a57a-3ee1a1c93228": {
       "company": "DRW",
       "first_seen": "2026-09-04T10:32:12+00:00",
@@ -10594,6 +10615,13 @@
       "posted_at": "1782915113",
       "title": "Management Trainee Intern",
       "url": "https://us-erac.icims.com/jobs/553479/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:entrust::simplify-5b5294f8-f9a7-4dbd-ac1b-8ff014939e88": {
+      "company": "Entrust",
+      "first_seen": "2026-09-07T17:47:07+00:00",
+      "posted_at": "1788739200",
+      "title": "Software Developer Intern",
+      "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern---Software-Developer---8-months-Hybrid-in-Ottawa_R004358"
     },
     "simplify:envision horizons llc::simplify-584d6519-6f67-48f9-b88c-0c1b41e3f7e3": {
       "company": "Envision Horizons LLC",
@@ -18602,6 +18630,13 @@
       "posted_at": "1773900706",
       "title": "New Grad Software Engineer - Backend Rust",
       "url": "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application"
+    },
+    "simplify:nasdaq::simplify-002618cc-e34d-4691-93cf-e7f0a7138076": {
+      "company": "Nasdaq",
+      "first_seen": "2026-09-07T17:47:07+00:00",
+      "posted_at": "1788739200",
+      "title": "Software Development Student - January 2027",
+      "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Software-Development-Student--January-2027-_R0026898"
     },
     "simplify:national information solutions cooperative::simplify-13bbc7c4-2a80-4fd9-a89b-51601d50188c": {
       "company": "National Information Solutions Cooperative",
@@ -32528,5 +32563,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-07T12:23:58+00:00"
+  "updated_at": "2026-09-07T17:47:07+00:00"
 }
