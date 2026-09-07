@@ -1,5 +1,5 @@
 {
-  "count": 4641,
+  "count": 4646,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2405,12 +2405,33 @@
       "title": "Information Technology/Digital Technology Intern - Infrastructure Services",
       "url": "https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT-Digital-Technology--2027-_JR-2026-21953"
     },
+    "simplify:airbus::simplify-0af1cc0e-a58e-4da3-ba05-773b55177492": {
+      "company": "Airbus",
+      "first_seen": "2026-09-07T06:09:23+00:00",
+      "posted_at": "1788739200",
+      "title": "Full-Stack Software Developer Intern",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/Software-Developer--Full-Stack--Placement--13-months-_JR10426667"
+    },
+    "simplify:airbus::simplify-1d44d1e2-f534-4ee0-8a24-9a7b78709880": {
+      "company": "Airbus",
+      "first_seen": "2026-09-07T06:09:23+00:00",
+      "posted_at": "1788739200",
+      "title": "Digital Wing Engineering Placement - Months",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/Digital-Wing-Engineering-Placement--125-months-_JR10423984"
+    },
     "simplify:airbus::simplify-6a8dcada-2bdc-47a8-95a6-ecde4e85662b": {
       "company": "Airbus",
       "first_seen": "2026-09-01T17:52:38+00:00",
       "posted_at": "1788220800",
       "title": "Graduate Software Engineer",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Portsmouth/AGGP2027---Graduate-Software-Engineer_JR10437769"
+    },
+    "simplify:airbus::simplify-8a15fdc7-b6bd-4b91-8caa-888e24387090": {
+      "company": "Airbus",
+      "first_seen": "2026-09-07T06:09:23+00:00",
+      "posted_at": "1788739200",
+      "title": "Software Developer Placement",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Stevenage/Software-Developer-Placement--13-months-_JR10425651"
     },
     "simplify:airbus::simplify-8ee251a0-5392-43ad-a9b8-9fa9dee814f4": {
       "company": "Airbus",
@@ -2425,6 +2446,20 @@
       "posted_at": "1788220800",
       "title": "Flight Physics Capabilities Graduate",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/AGGP2027---Graduate-Flight-Physics-Capabilities_JR10428463"
+    },
+    "simplify:airbus::simplify-bd80c89b-42e4-4c23-a52a-2dd6ab1d67d8": {
+      "company": "Airbus",
+      "first_seen": "2026-09-07T06:09:23+00:00",
+      "posted_at": "1788739200",
+      "title": "Software Engineering Intern",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Software-Engineering-Placement--125-months-_JR10429196"
+    },
+    "simplify:airbus::simplify-c22bc27e-38ff-437b-89e0-136cb456c08a": {
+      "company": "Airbus",
+      "first_seen": "2026-09-07T06:09:23+00:00",
+      "posted_at": "1788739200",
+      "title": "Landing Gear Engineering AI & Data Analytics Placement",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/Landing-Gear-Engineering---AI---Data-Analytics-Placement--125-months-_JR10430647"
     },
     "simplify:airgas::simplify-fe8d7220-8427-40f1-a388-6254bbf679d2": {
       "company": "Airgas",
@@ -32430,5 +32465,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-06T23:36:49+00:00"
+  "updated_at": "2026-09-07T06:09:23+00:00"
 }
