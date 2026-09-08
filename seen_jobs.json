@@ -1,5 +1,5 @@
 {
-  "count": 4660,
+  "count": 4661,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -7395,6 +7395,13 @@
       "posted_at": "1784764800",
       "title": "Minestar Application Specialist",
       "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Home-in-Ontario/MineStar-Application-Specialist_R0000368919"
+    },
+    "simplify:caterpillar::simplify-abef7471-b1f8-4533-b996-761a7b7de857": {
+      "company": "Caterpillar",
+      "first_seen": "2026-09-08T05:52:34+00:00",
+      "posted_at": "1788739200",
+      "title": "Software Engineer",
+      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000392873"
     },
     "simplify:cayuse holdings::simplify-87fed93d-1c31-4dc0-bdce-3f64cf083638": {
       "company": "Cayuse Holdings",
@@ -32563,5 +32570,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-07T17:47:07+00:00"
+  "updated_at": "2026-09-08T05:52:34+00:00"
 }
