@@ -1,5 +1,5 @@
 {
-  "count": 4678,
+  "count": 4679,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -465,6 +465,13 @@
       "posted_at": "2026-08-17T10:42:28-04:00",
       "title": "Software Engineering Intern",
       "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095"
+    },
+    "datadog::8052118": {
+      "company": "Datadog",
+      "first_seen": "2026-09-08T14:28:53+00:00",
+      "posted_at": "2026-09-08T10:07:37-04:00",
+      "title": "Software Engineering Intern",
+      "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118"
     },
     "doordash::7263610": {
       "company": "DoorDash",
@@ -32689,5 +32696,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-08T10:07:30+00:00"
+  "updated_at": "2026-09-08T14:28:53+00:00"
 }
