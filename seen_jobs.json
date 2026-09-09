@@ -1,5 +1,5 @@
 {
-  "count": 4797,
+  "count": 4802,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -16286,6 +16286,13 @@
       "title": "Software Analyst",
       "url": "https://careers-kimley-horn.icims.com/jobs/25698/job?mobile=true&needsRedirect=false"
     },
+    "simplify:kinaxis::simplify-5ac1d7a8-5581-4468-b12a-92c221dd3cd0": {
+      "company": "Kinaxis",
+      "first_seen": "2026-09-09T14:49:11+00:00",
+      "posted_at": "1788962702",
+      "title": "Developer Intern - AI Solutions",
+      "url": "https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false"
+    },
     "simplify:kinaxis::simplify-937ea815-7e19-4bed-a8eb-a226a5201df1": {
       "company": "Kinaxis",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -19219,12 +19226,33 @@
       "title": "Associate Application Engineer",
       "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32116"
     },
+    "simplify:navy federal::simplify-3b7f6701-dabe-416a-af5f-efb2491cfbd4": {
+      "company": "Navy Federal",
+      "first_seen": "2026-09-09T14:49:11+00:00",
+      "posted_at": "1788963398",
+      "title": "Mobile Developer Intern - Summer Associate",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32368"
+    },
     "simplify:navy federal::simplify-4e9240aa-a379-4464-a140-2114eff885a2": {
       "company": "Navy Federal",
       "first_seen": "2026-07-14T22:33:53+00:00",
       "posted_at": "1784066943",
       "title": "Frontend Application Engineer Intern",
       "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/29776"
+    },
+    "simplify:navy federal::simplify-7d033b9a-bd88-4dfb-897d-f21892ee951f": {
+      "company": "Navy Federal",
+      "first_seen": "2026-09-09T14:49:11+00:00",
+      "posted_at": "1788963398",
+      "title": "Security Workflow Engineer Intern",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382"
+    },
+    "simplify:navy federal::simplify-8761cb91-c8d1-4411-9c25-3b8a7577c9c6": {
+      "company": "Navy Federal",
+      "first_seen": "2026-09-09T14:49:11+00:00",
+      "posted_at": "1788963401",
+      "title": "Payments AI Engineer Intern",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400"
     },
     "simplify:ncr voyix::simplify-09c0d678-51ef-4e83-a6cd-30b5148869f4": {
       "company": "NCR Voyix",
@@ -23803,6 +23831,13 @@
       "posted_at": "1784596554",
       "title": "Founding Software Engineer",
       "url": "https://jobs.ashbyhq.com/rollout/ac255ccb-888f-46d9-8d57-5e7334a5ee46/application?embed=true"
+    },
+    "simplify:rolls-royce::simplify-96a486f8-a09e-4eb6-9430-055213a993c2": {
+      "company": "Rolls-Royce",
+      "first_seen": "2026-09-09T14:49:11+00:00",
+      "posted_at": "1780611003",
+      "title": "Test and Measurement Software Engineer",
+      "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Test-and-Measurement-Software-Engineer_JR6155467"
     },
     "simplify:rovisys::simplify-1a7491a2-4bd2-4f12-8ae7-887a36860442": {
       "company": "RoviSys",
@@ -33522,5 +33557,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-09T10:46:50+00:00"
+  "updated_at": "2026-09-09T14:49:11+00:00"
 }
