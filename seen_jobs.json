@@ -1,5 +1,5 @@
 {
-  "count": 4824,
+  "count": 4847,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -459,6 +459,13 @@
       "posted_at": "2026-06-29T15:00:23-04:00",
       "title": "Forward Deployed Engineering Intern (AI Agent)",
       "url": "https://job-boards.greenhouse.io/cresta/jobs/5106468008"
+    },
+    "cursor::d0e5b41d-84ab-4887-bd3a-55589b11dd7b": {
+      "company": "Cursor",
+      "first_seen": "2026-09-09T22:48:03+00:00",
+      "posted_at": "2026-09-08T23:51:35.588+00:00",
+      "title": "Software Engineer, New Grad 2027",
+      "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
     },
     "databricks::8732364002": {
       "company": "Databricks",
@@ -1670,12 +1677,26 @@
       "title": "Software Engineer - New Grad",
       "url": "https://seatgeek.com/jobs/7858968?gh_jid=7858968"
     },
+    "sierra::02e1c456-8489-4a74-9fe7-af8845b040e4": {
+      "company": "Sierra",
+      "first_seen": "2026-09-09T22:48:03+00:00",
+      "posted_at": "2026-09-01T01:18:27.232+00:00",
+      "title": "Software Engineer Intern, Agent (Winter 2027)",
+      "url": "https://jobs.ashbyhq.com/sierra/02e1c456-8489-4a74-9fe7-af8845b040e4"
+    },
     "sierra::149f368c-52d5-408f-ba26-ad888f318a00": {
       "company": "Sierra",
       "first_seen": "2026-09-01T00:09:02+00:00",
       "posted_at": "2026-08-31T17:54:40.218+00:00",
       "title": "Software Engineer, Agent (New Grad 2027)",
       "url": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00"
+    },
+    "sierra::34b31b67-268c-4270-b48f-72e59064c96e": {
+      "company": "Sierra",
+      "first_seen": "2026-09-09T22:48:03+00:00",
+      "posted_at": "2026-08-31T21:42:19.593+00:00",
+      "title": "Software Engineer Intern, Agent (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e"
     },
     "sigma computing::7690411003": {
       "company": "Sigma Computing",
@@ -4574,6 +4595,13 @@
       "posted_at": "1787790494",
       "title": "AI Developer",
       "url": "https://job-boards.greenhouse.io/atlassand/jobs/8753225002"
+    },
+    "simplify:atlassian::simplify-14d43ff5-f113-479b-9fc2-6416dfa12f99": {
+      "company": "Atlassian",
+      "first_seen": "2026-09-09T22:48:03+00:00",
+      "posted_at": "1788991687",
+      "title": "Software Engineer New Grad - 2027 Graduate",
+      "url": "https://campus-globalcareers-atlassian.icims.com/jobs/26070/software-engineer%2c-2027-graduate-canada/job"
     },
     "simplify:atlassian::simplify-7442c66e-fba5-4b94-bb79-4a94282768f2": {
       "company": "Atlassian",
@@ -8089,12 +8117,26 @@
       "title": "Technology Apprentice - Multiple Teams",
       "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Technology-Apprentice-Program---Hybrid_26010314"
     },
+    "simplify:cigna group::simplify-03867a03-9bbc-40a8-9063-6986060ce15b": {
+      "company": "Cigna Group",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788912000",
+      "title": "Software Engineer Program - Software Engineering Track",
+      "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NJ-Morris-Plains-115-Tabor-Rd/Technology-Development-Program--TECDP----Software-Engineering-Track---Start-Date--July-12--2027_26010470"
+    },
     "simplify:cigna group::simplify-7c36c172-1a8d-4c06-b6ca-6ee12e3ef829": {
       "company": "Cigna Group",
       "first_seen": "2026-08-13T23:09:16+00:00",
       "posted_at": "1786579200",
       "title": "Technology Development Program - Software Engineering Track",
       "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Technology-Development-Program--TECDP----Software-Engineering-Track_26009523"
+    },
+    "simplify:cigna group::simplify-ea24724d-1fd5-458d-96a6-2c4026e58fe7": {
+      "company": "Cigna Group",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788912000",
+      "title": "Software Engineering Intern - Technology Development Program - Software Engineering Track",
+      "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/The-Cigna-Group-s-Technology-Development-Program----Software-Engineering-Track-Summer-Internship_26009527"
     },
     "simplify:cincinnati children\u2019s hospital and medical center::simplify-0565c6b8-b9c6-41d7-bb06-a8c9ff81ba74": {
       "company": "Cincinnati Children\u2019s Hospital and Medical Center",
@@ -10378,6 +10420,27 @@
       "title": "Product Engineer",
       "url": "https://jobs.ashbyhq.com/dome-systems-inc/573303b2-efe1-409d-bf58-968a6a2f82a0/application?embed=true"
     },
+    "simplify:domino data lab::simplify-791fa1eb-1777-438b-8d03-e6cd35986be6": {
+      "company": "Domino Data Lab",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788991651",
+      "title": "Software Engineer New Grad",
+      "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992556?gh_jid=7992556"
+    },
+    "simplify:domino data lab::simplify-7b2a1e78-a6a7-42e9-8120-2e4b3187e580": {
+      "company": "Domino Data Lab",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788991995",
+      "title": "Forward Deployed Engineer New Grad",
+      "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992530?gh_jid=7992530"
+    },
+    "simplify:domino data lab::simplify-c7dca39a-27ef-4e1d-a94e-b69ede82a562": {
+      "company": "Domino Data Lab",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788991652",
+      "title": "Software Engineer Intern",
+      "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560"
+    },
     "simplify:domino's::simplify-5a334443-9d0a-4ac3-a774-3989f12d55f3": {
       "company": "Domino's",
       "first_seen": "2026-08-26T22:44:32+00:00",
@@ -11554,6 +11617,13 @@
       "title": "Full Stack Engineer",
       "url": "https://jobs.ashbyhq.com/feathery/0814d62d-2742-454a-b8f4-7e302fdf5a24/application?embed=true"
     },
+    "simplify:federated insurance::simplify-ef63f2cb-2deb-4e58-928e-18652d0733b3": {
+      "company": "Federated Insurance",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788991884",
+      "title": "IT Intern",
+      "url": "https://careers-federatedinsurance.icims.com/jobs/5718/job?mobile=true&needsRedirect=false"
+    },
     "simplify:felicity::simplify-538e7991-2b20-4492-b418-e7ac75c0c8b9": {
       "company": "Felicity",
       "first_seen": "2026-07-23T11:28:38+00:00",
@@ -12155,6 +12225,13 @@
       "posted_at": "1787780398",
       "title": "Software Engineer 1 - Aviation Backend Web",
       "url": "https://careers.garmin.com/jobs/19142?icims=1"
+    },
+    "simplify:garmin::simplify-1497b24b-487f-4977-a5ba-8c56c2ffb099": {
+      "company": "Garmin",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788991695",
+      "title": "Software Engineer Intern - Real Time Aviation Data",
+      "url": "https://careers.garmin.com/jobs/20081?icims=1"
     },
     "simplify:garmin::simplify-1b983bc8-7373-4f39-b3b4-7e83afe75b16": {
       "company": "Garmin",
@@ -13668,6 +13745,13 @@
       "title": "AI Engineer Intern",
       "url": "https://jobs.ashbyhq.com/greatquestion/c533196c-75d5-43b8-b1c8-dedf2437d544/application"
     },
+    "simplify:greatamerica financial services::simplify-f21946f6-4b27-42c8-b5d8-a43b623fb8c6": {
+      "company": "GreatAmerica Financial Services",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788912000",
+      "title": "Software Engineer Intern",
+      "url": "https://greatamerica.wd12.myworkdayjobs.com/en-US/greatamericacareers/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR1221"
+    },
     "simplify:greenheck group::simplify-0a372337-6906-483a-b03b-02fa09adadfd": {
       "company": "Greenheck Group",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -14913,6 +14997,13 @@
       "posted_at": "1786406400",
       "title": "Software Engineer - Simulation",
       "url": "https://insitu.wd1.myworkdayjobs.com/careers/job/Bingen-WA/Software-Engineer---Simulation---Hybrid---Relocation-Assistance-Available_R0003743-1"
+    },
+    "simplify:instabase::simplify-b196beaa-0486-4680-8bb8-bc0817ab0fa4": {
+      "company": "Instabase",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788991535",
+      "title": "Software Engineer - Early Careers",
+      "url": "https://job-boards.greenhouse.io/instabase/jobs/8783218002"
     },
     "simplify:instalily::simplify-67937ffc-14b5-4231-9e62-9a4f13dd11c2": {
       "company": "InstaLILY",
@@ -20948,6 +21039,13 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application?embed=true"
     },
+    "simplify:onemain financial::simplify-8d2eadc8-f9a1-417b-b0cd-2e84e5602521": {
+      "company": "OneMain Financial",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788912000",
+      "title": "Software Developer Intern - Document Shared Services",
+      "url": "https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Evansville-IN/Software-Developer-Intern---Document-Shared-Services--Part-Time-_R2608-52284"
+    },
     "simplify:ontario teachers' pension plan::simplify-563165c9-79ea-427e-a9f7-ac43878f12f6": {
       "company": "Ontario Teachers' Pension Plan",
       "first_seen": "2026-08-21T10:24:17+00:00",
@@ -21178,6 +21276,13 @@
       "posted_at": "1782558382",
       "title": "EHR Epic Patient Access Analyst",
       "url": "https://oumedicine.wd5.myworkdayjobs.com/OUHealthCareers/job/Virtual/EHR-Epic-Patient-Access-Analyst_R0062734"
+    },
+    "simplify:ovintiv::simplify-aefb70e4-21a0-4269-b8c0-5a30ccdfa355": {
+      "company": "Ovintiv",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788912000",
+      "title": "Technology Intern - Data & Digital",
+      "url": "https://ovintiv.wd3.myworkdayjobs.com/ovintivcareers/job/Denver-CO-US/Intern-Technology--Data---Digital_R2587"
     },
     "simplify:oxford quantum circuits (oqc)::simplify-832938a4-3ffe-4b33-92a1-cb77b96ca582": {
       "company": "Oxford Quantum Circuits (OQC)",
@@ -22264,6 +22369,20 @@
       "title": "Software Engineering Intern - AI",
       "url": "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738"
     },
+    "simplify:pilot company::simplify-8af537c8-1c4a-4baf-a924-99bf28fc30a0": {
+      "company": "Pilot Company",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788991481",
+      "title": "Process Automation Intern - Process Automation",
+      "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148576544"
+    },
+    "simplify:pilot company::simplify-ece3f59c-0b44-40f0-8f75-a361ad895c47": {
+      "company": "Pilot Company",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788991482",
+      "title": "Application Development Intern",
+      "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148575429"
+    },
     "simplify:pimco::simplify-5370153e-8623-4e1d-b4f6-986a7ab410a1": {
       "company": "PIMCO",
       "first_seen": "2026-08-18T23:23:42+00:00",
@@ -22501,6 +22620,13 @@
       "posted_at": "1782770925",
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/PointOne/1e312db8-6d18-4d07-af99-ed3ba165e7d9/application"
+    },
+    "simplify:polar semiconductor::simplify-33ed7890-80e5-4d33-87a2-da9cba101479": {
+      "company": "Polar Semiconductor",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788912000",
+      "title": "Design Enablement Engineer Intern",
+      "url": "https://polarsemi.wd501.myworkdayjobs.com/Polar/job/Bloomington-MN-USA/Design-Enablement-Engineer-Intern_R3782"
     },
     "simplify:polaris::simplify-8caf8a32-6383-404c-8f0e-49c55ec304a7": {
       "company": "Polaris",
@@ -23747,6 +23873,13 @@
       "posted_at": "1784596521",
       "title": "Engineer Intern",
       "url": "https://jobs.ashbyhq.com/tryroam/59b76a77-44e5-424b-a3d5-71edf091869c/application?embed=true"
+    },
+    "simplify:robert bosch venture capital::simplify-c0344e84-2a29-4511-8025-7ee4893566d7": {
+      "company": "Robert Bosch Venture Capital",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788991873",
+      "title": "Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148591127"
     },
     "simplify:robert bosch venture capital::simplify-c2cf5ed2-2084-49ae-a86e-aba3c2969ed5": {
       "company": "Robert Bosch Venture Capital",
@@ -25358,6 +25491,13 @@
       "title": "Software Engineer 1",
       "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/106730"
     },
+    "simplify:s&p global::simplify-b93e1e71-e120-4e6d-8deb-aff1ce68d3f1": {
+      "company": "S&P Global",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788912000",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-2"
+    },
     "simplify:sa technologies::simplify-22d43520-b2e7-4ceb-b8b6-6a9e0a9bb684": {
       "company": "SA Technologies",
       "first_seen": "2026-09-03T19:27:16+00:00",
@@ -25918,6 +26058,13 @@
       "title": "Software Engineer - Agentic AI Systems - Moveworks",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000126417779"
     },
+    "simplify:servicenow::simplify-c6296417-4678-4d43-88fb-270f246b32cc": {
+      "company": "ServiceNow",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788991638",
+      "title": "Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148581229"
+    },
     "simplify:servicenow::simplify-ce260f13-eca8-4ce4-b243-d56296546ce9": {
       "company": "ServiceNow",
       "first_seen": "2026-07-21T15:59:09+00:00",
@@ -25938,6 +26085,13 @@
       "posted_at": "1787274504",
       "title": "Associate Applications Development Engineer",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000144653619"
+    },
+    "simplify:servicenow::simplify-fad8dfc2-103b-425b-923f-9e4176ee1e3d": {
+      "company": "ServiceNow",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788991641",
+      "title": "Software Engineer - AI Developer Products",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148580489"
     },
     "simplify:set of x::simplify-17be086b-1987-4060-8151-25af9f96e55f": {
       "company": "Set of X",
@@ -32603,6 +32757,13 @@
       "title": "AI Engineer 1",
       "url": "https://job-boards.greenhouse.io/welbehealth/jobs/8599687002"
     },
+    "simplify:wellington management::simplify-4b9673a4-ad8a-4a24-9875-32ffa5c81783": {
+      "company": "Wellington Management",
+      "first_seen": "2026-09-09T22:48:05+00:00",
+      "posted_at": "1788912000",
+      "title": "Technology Associate",
+      "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Technology-Associate_R94786-1"
+    },
     "simplify:wellmark::simplify-7f7e2f8b-d239-4ab5-ba0f-7ddc4ecbef45": {
       "company": "Wellmark",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -33711,5 +33872,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-09T20:51:54+00:00"
+  "updated_at": "2026-09-09T22:48:05+00:00"
 }
