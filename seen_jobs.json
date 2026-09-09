@@ -1,5 +1,5 @@
 {
-  "count": 4822,
+  "count": 4824,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -193,6 +193,13 @@
       "posted_at": "September  4, 2026",
       "title": "Software Development Engineer, Early Careers ",
       "url": "https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-careers"
+    },
+    "amazon::10535280": {
+      "company": "Amazon",
+      "first_seen": "2026-09-09T20:51:54+00:00",
+      "posted_at": "September  9, 2026",
+      "title": "Software Development Engineer Intern, ROBOTICS - 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -1473,6 +1480,13 @@
       "posted_at": "2026-08-15T18:49:00.242+00:00",
       "title": "Software Engineering Intern (Summer 2027)",
       "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1"
+    },
+    "replit::b5e81eae-06f9-4798-8988-2d06ca936dbc": {
+      "company": "Replit",
+      "first_seen": "2026-09-09T20:51:54+00:00",
+      "posted_at": "2026-09-09T18:23:24.396+00:00",
+      "title": "Software Engineer - New Grad (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
     },
     "roblox::8072244": {
       "company": "Roblox",
@@ -33697,5 +33711,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-09T18:02:12+00:00"
+  "updated_at": "2026-09-09T20:51:54+00:00"
 }
