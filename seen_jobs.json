@@ -1,5 +1,5 @@
 {
-  "count": 4802,
+  "count": 4822,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1418,6 +1418,13 @@
       "title": "Associate Software Engineer",
       "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Associate-Software-Engineer_R-059017"
     },
+    "red hat::Associate-Software-Engineer_R-059573": {
+      "company": "Red Hat",
+      "first_seen": "2026-09-09T18:02:10+00:00",
+      "posted_at": "Posted Today",
+      "title": "Associate Software Engineer",
+      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Associate-Software-Engineer_R-059573"
+    },
     "red hat::Junior-or-Software-Engineer---Networking-Services--Brno-Office--Czech-Republic-_R-056355-1": {
       "company": "Red Hat",
       "first_seen": "2026-07-10T02:08:17+00:00",
@@ -1487,6 +1494,13 @@
       "posted_at": "2026-07-01T15:25:49-04:00",
       "title": "RF Systems Engineer I - Operations",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/6589226003"
+    },
+    "rocket lab::7593331003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-09-09T18:02:10+00:00",
+      "posted_at": "2026-09-09T13:51:00-04:00",
+      "title": "Ground Systems Engineer I, Electrical",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7593331003"
     },
     "rocket lab::7647932003": {
       "company": "Rocket Lab",
@@ -3140,6 +3154,20 @@
       "title": "Compiler Engineer Intern/Co-op",
       "url": "https://careers.amd.com/jobs/91866?icims=1"
     },
+    "simplify:amentum::simplify-02534a25-59a8-4b77-8837-adb01da24e8d": {
+      "company": "Amentum",
+      "first_seen": "2026-09-09T18:02:12+00:00",
+      "posted_at": "1788912000",
+      "title": "Software Programmer Intern",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Software-Programmer-Intern_R0169773"
+    },
+    "simplify:amentum::simplify-4a009563-7222-4cb3-b58d-930cdc0c5a55": {
+      "company": "Amentum",
+      "first_seen": "2026-09-09T18:02:12+00:00",
+      "posted_at": "1788912000",
+      "title": "Software Programmer Intern",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer-Intern_R0169775"
+    },
     "simplify:amentum::simplify-819eedb4-b5db-4a0d-8f0d-c91e64fb9eeb": {
       "company": "Amentum",
       "first_seen": "2026-08-21T18:41:57+00:00",
@@ -4288,6 +4316,13 @@
       "title": "Associate AI Builder",
       "url": "https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0/apply"
     },
+    "simplify:ascension::simplify-62576249-c677-47a6-ac06-9e631007cd2a": {
+      "company": "Ascension",
+      "first_seen": "2026-09-09T18:02:12+00:00",
+      "posted_at": "1788966130",
+      "title": "Software Engineer Intern - Studio Engineering Product Delivery",
+      "url": "https://jobs.ascension.org/us/en/job/462970"
+    },
     "simplify:ascension::simplify-ded4c8dd-a85f-4856-a22e-0d16e9b77a68": {
       "company": "Ascension",
       "first_seen": "2026-08-22T13:31:26+00:00",
@@ -4652,6 +4687,13 @@
       "title": "Software Enginner New Grad",
       "url": "https://jobs.ashbyhq.com/Authorium/e9384068-af40-47b2-83cf-ec76fd8b7222/application"
     },
+    "simplify:auto-owners insurance::simplify-30f6a8d2-2959-422e-977f-26acdf02c387": {
+      "company": "Auto-Owners Insurance",
+      "first_seen": "2026-09-09T18:02:12+00:00",
+      "posted_at": "1788912000",
+      "title": "Intelligent Automation Developer Intern",
+      "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intelligent-Automation-Developer-Internship---Summer-2027_R_14474"
+    },
     "simplify:auto-owners insurance::simplify-33675427-69db-483c-bbbe-c86819f94415": {
       "company": "Auto-Owners Insurance",
       "first_seen": "2026-07-22T00:07:28+00:00",
@@ -4672,6 +4714,13 @@
       "posted_at": "1787790359",
       "title": "Software Developer Intern - Summer 2027",
       "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121"
+    },
+    "simplify:auto-owners insurance::simplify-ecfcd54c-d907-4dac-8649-56d9a8f24394": {
+      "company": "Auto-Owners Insurance",
+      "first_seen": "2026-09-09T18:02:12+00:00",
+      "posted_at": "1788912000",
+      "title": "IT Document Automation Developer Intern",
+      "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Document-Automation-Developer-Internship---Summer-2027_R_14471"
     },
     "simplify:autodesk::simplify-2c44a377-3a3b-4d57-af73-669e66675373": {
       "company": "Autodesk",
@@ -6829,6 +6878,13 @@
       "title": "Software Engineer - Engineering",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_331197-1"
     },
+    "simplify:caci::simplify-418c3798-31ed-4e61-ae84-88b7627eee40": {
+      "company": "CACI",
+      "first_seen": "2026-09-09T18:02:12+00:00",
+      "posted_at": "1788912000",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742"
+    },
     "simplify:caci::simplify-4d3b608b-7d50-4226-ab3c-d8e8033c794c": {
       "company": "CACI",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -6933,6 +6989,13 @@
       "posted_at": "1788480000",
       "title": "Software Engineer Intern",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648"
+    },
+    "simplify:caci::simplify-c1571f1b-abdd-4f65-823c-9986aeaac900": {
+      "company": "CACI",
+      "first_seen": "2026-09-09T18:02:12+00:00",
+      "posted_at": "1788912000",
+      "title": "Software Developer",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/San-Antonio-TX-US/Software-Developer_331710"
     },
     "simplify:caci::simplify-c46fbf03-927d-497c-a436-b9a3bad3aa6f": {
       "company": "CACI",
@@ -12331,6 +12394,13 @@
       "title": "Project Engineer Intern - Summer 2027",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-1"
     },
+    "simplify:ge vernova::simplify-50656933-26e4-497e-99e3-1114aaae5ed4": {
+      "company": "GE Vernova",
+      "first_seen": "2026-09-09T18:02:12+00:00",
+      "posted_at": "1788912000",
+      "title": "Energy Optimization Software Engineer Intern - Summer 2027",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-1"
+    },
     "simplify:ge vernova::simplify-52083bf3-06b8-477f-bfd1-7d690058e3f6": {
       "company": "GE Vernova",
       "first_seen": "2026-09-01T17:52:38+00:00",
@@ -12478,12 +12548,26 @@
       "title": "Energy Optimization Software Engineer Intern - Summer 2027",
       "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2"
     },
+    "simplify:ge vernova::simplify-e72e90f8-0dd1-4dc5-8357-93d6af0e6d5c": {
+      "company": "GE Vernova",
+      "first_seen": "2026-09-09T18:02:12+00:00",
+      "posted_at": "1788912000",
+      "title": "Research & Innovation Intern",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Research---Innovation---Intern_R5052249"
+    },
     "simplify:ge vernova::simplify-f0ac800d-804a-400b-9ee5-a6006e56c30b": {
       "company": "GE Vernova",
       "first_seen": "2026-07-22T00:07:28+00:00",
       "posted_at": "1781013945",
       "title": "Grid Automation & Software Intern",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3"
+    },
+    "simplify:ge vernova::simplify-f2ae7111-d087-4a82-b8fa-18fbe8b01901": {
+      "company": "GE Vernova",
+      "first_seen": "2026-09-09T18:02:12+00:00",
+      "posted_at": "1788912000",
+      "title": "Energy Optimization Software Engineer Intern - Summer 2027",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050015-2"
     },
     "simplify:ge vernova::simplify-f34b1f76-8c04-44e3-af69-ab94a7694d4b": {
       "company": "GE Vernova",
@@ -17105,6 +17189,13 @@
       "title": "Software Engineer",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer-TS-SCI-Polygraph_R-00186603"
     },
+    "simplify:leidos::simplify-c6d54dd8-e714-4f4b-876c-4953542761fa": {
+      "company": "Leidos",
+      "first_seen": "2026-09-09T18:02:12+00:00",
+      "posted_at": "1788912000",
+      "title": "Software Developer Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00191713"
+    },
     "simplify:leidos::simplify-ce9250e1-36be-4c4c-aeff-ee1b9d5881c6": {
       "company": "Leidos",
       "first_seen": "2026-09-03T23:33:20+00:00",
@@ -19254,6 +19345,13 @@
       "title": "Payments AI Engineer Intern",
       "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400"
     },
+    "simplify:navy federal::simplify-a58125b0-2c66-4d05-ad80-42c3a6df7526": {
+      "company": "Navy Federal",
+      "first_seen": "2026-09-09T18:02:12+00:00",
+      "posted_at": "1788963390",
+      "title": "AI Engineer Intern",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32261"
+    },
     "simplify:ncr voyix::simplify-09c0d678-51ef-4e83-a6cd-30b5148869f4": {
       "company": "NCR Voyix",
       "first_seen": "2026-08-29T09:24:34+00:00",
@@ -20899,6 +20997,13 @@
       "title": "Community Services Technical Support Specialist",
       "url": "https://jobs.ashbyhq.com/opengov/78ca35d7-1a0b-46aa-8a33-599270c98f51/application?embed=true"
     },
+    "simplify:openworks engineering::simplify-6b1e085b-2dea-4281-b981-a744258f70a4": {
+      "company": "OpenWorks Engineering",
+      "first_seen": "2026-09-09T18:02:12+00:00",
+      "posted_at": "1788966326",
+      "title": "Graduate Software Engineer - Assessment Day",
+      "url": "https://apply.workable.com/openworks-engineering/j/DD49EBE8B5/apply"
+    },
     "simplify:options technology::simplify-03d4d191-5eff-4bbf-a18a-a070843036a0": {
       "company": "Options Technology",
       "first_seen": "2026-08-13T07:14:16+00:00",
@@ -21907,6 +22012,13 @@
       "title": "Full-Stack Engineer",
       "url": "https://jobs.ashbyhq.com/people-culture-talent/c1049c49-aea6-4862-a711-a4c78cf6e959"
     },
+    "simplify:peraton::simplify-0fd745ed-1b1c-4722-abf1-06420a3ec86d": {
+      "company": "Peraton",
+      "first_seen": "2026-09-09T18:02:12+00:00",
+      "posted_at": "1788965225",
+      "title": "Software Engineer",
+      "url": "https://careers-peraton.icims.com/jobs/169664/job?mobile=true&needsRedirect=false"
+    },
     "simplify:peraton::simplify-12bb8c08-3ba6-419a-aac2-cbaded0ca79f": {
       "company": "Peraton",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -21969,6 +22081,13 @@
       "posted_at": "1785247864",
       "title": "Software Development Associate",
       "url": "https://careers-peraton.icims.com/jobs/168946/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:peraton::simplify-53214376-dcb6-4b32-99dd-b69bd332ee7e": {
+      "company": "Peraton",
+      "first_seen": "2026-09-09T18:02:12+00:00",
+      "posted_at": "1788965220",
+      "title": "Engineer Co-op",
+      "url": "https://careers-peraton.icims.com/jobs/170319/job?mobile=true&needsRedirect=false"
     },
     "simplify:peraton::simplify-553369f5-663d-4019-8901-6134f7102b4d": {
       "company": "Peraton",
@@ -22389,6 +22508,20 @@
       "posted_at": "1781129353",
       "title": "Forward Deployed Engineer - Institutional",
       "url": "https://jobs.ashbyhq.com/polymarket/9d54dede-9ca1-4c3e-a404-270b8e3d523c/application?embed=true"
+    },
+    "simplify:pomerleau::simplify-3c2cdff3-52f8-4549-bc68-2ca61fc61b9b": {
+      "company": "Pomerleau",
+      "first_seen": "2026-09-09T18:02:12+00:00",
+      "posted_at": "1788967394",
+      "title": "Forward Deployed AI Solutions Intern",
+      "url": "https://pomerleau.avature.net/en_US/Jobs/JobDetail/3619"
+    },
+    "simplify:pomerleau::simplify-831e3b5f-e77f-4237-8a89-6d6a6f1b3643": {
+      "company": "Pomerleau",
+      "first_seen": "2026-09-09T18:02:12+00:00",
+      "posted_at": "1788967395",
+      "title": "Software Developer Intern",
+      "url": "https://pomerleau.avature.net/en_US/Jobs/JobDetail/3476"
     },
     "simplify:pony.ai::simplify-bf81e231-61f0-481a-9930-6a924fda265a": {
       "company": "pony.ai",
@@ -24027,6 +24160,13 @@
       "posted_at": "1787529600",
       "title": "IAM Systems Engineer New Grad",
       "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/16-YORK-STTORONTO/IAM-Systems-Engineer----New-Grad-_R-0000185423"
+    },
+    "simplify:royal bank of canada::simplify-be407afd-9fb7-45bc-91ec-bbb50e925784": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-09-09T18:02:12+00:00",
+      "posted_at": "1788912000",
+      "title": "Capital Markets Winter Analyst - AidenEdge Program",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--AidenEdge-Program-Winter-Analyst--4-Months-_R-0000187318"
     },
     "simplify:royal bank of canada::simplify-c0152dcf-72b7-4563-b99d-1e4b99545082": {
       "company": "Royal Bank of Canada",
@@ -33557,5 +33697,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-09T14:49:11+00:00"
+  "updated_at": "2026-09-09T18:02:12+00:00"
 }
