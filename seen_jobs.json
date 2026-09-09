@@ -1,5 +1,5 @@
 {
-  "count": 4792,
+  "count": 4797,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -11939,6 +11939,13 @@
       "title": "Software Engineer Intern - Engineering and Operations",
       "url": "http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern"
     },
+    "simplify:framatome::simplify-52c353b2-9e1b-4622-a0f1-f610019d21b7": {
+      "company": "Framatome",
+      "first_seen": "2026-09-09T10:46:50+00:00",
+      "posted_at": "1788203450",
+      "title": "Computer Science Engineer 1 - Richland",
+      "url": "https://careers-framatome.icims.com/jobs/3321/job?mobile=true&needsRedirect=false"
+    },
     "simplify:framatome::simplify-5e006de2-cad9-4e1d-a296-f0c0823c5b22": {
       "company": "Framatome",
       "first_seen": "2026-08-31T07:34:23+00:00",
@@ -14039,6 +14046,13 @@
       "title": "Graduate Web Developer",
       "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-Web-Developer--1-year-Placement_3159344-1"
     },
+    "simplify:hex technologies::simplify-6901d9ce-1abd-41d5-bcfc-3cd5a9bbf89c": {
+      "company": "Hex Technologies",
+      "first_seen": "2026-09-09T10:46:50+00:00",
+      "posted_at": "1788934106",
+      "title": "Product Engineer Intern",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=6186215004"
+    },
     "simplify:hexagon ab ::simplify-b39239d0-829e-4eba-912a-0db837607248": {
       "company": "Hexagon AB ",
       "first_seen": "2026-08-05T22:37:23+00:00",
@@ -15998,6 +16012,13 @@
       "posted_at": "1784596670",
       "title": "Engineering Intern - Program",
       "url": "https://jobs.ashbyhq.com/k-id/18619df2-45d8-4732-8815-9a340d498d48/application?embed=true"
+    },
+    "simplify:k2 space::simplify-20b0f4b1-dafa-4b0c-bebe-41e1e3676175": {
+      "company": "K2 Space",
+      "first_seen": "2026-09-09T10:46:50+00:00",
+      "posted_at": "1788935810",
+      "title": "Simulation Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008"
     },
     "simplify:kabam::simplify-dbfe4708-798e-4b79-be16-9b8cecdd27b4": {
       "company": "Kabam",
@@ -18483,6 +18504,13 @@
       "posted_at": "1786320000",
       "title": "IT Software Support Engineer New Grad",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/New-College-Grad---IT-Software-Support-Engineer_JR108465"
+    },
+    "simplify:micron technology::simplify-3dfa1c13-5d0a-4bda-a6f5-9c325d35009f": {
+      "company": "Micron Technology",
+      "first_seen": "2026-09-09T10:46:50+00:00",
+      "posted_at": "1788912000",
+      "title": "Automation Intern - Operations Improvement",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/Intern---Automation--Operations-Improvement_JR110774"
     },
     "simplify:micron technology::simplify-7177ea0f-a13f-41bb-9fcc-a501ddd955b8": {
       "company": "Micron Technology",
@@ -28144,6 +28172,13 @@
       "title": "Software Engineer Intern - Information Security - Spring 2027",
       "url": "https://www.tesla.com/careers/search/job/281473"
     },
+    "simplify:tesla::simplify-61ec7d70-4c67-42e3-b8ec-b7d24c4048e2": {
+      "company": "Tesla",
+      "first_seen": "2026-09-09T10:46:49+00:00",
+      "posted_at": "1788935076",
+      "title": "Software Engineer Intern - Service Engineering",
+      "url": "https://www.tesla.com/careers/search/job/282233"
+    },
     "simplify:tesla::simplify-630f6c80-efb2-4a6c-9c00-0dbd2f998d26": {
       "company": "Tesla",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -33487,5 +33522,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-09T05:58:17+00:00"
+  "updated_at": "2026-09-09T10:46:50+00:00"
 }
