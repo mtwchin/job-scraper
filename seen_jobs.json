@@ -1,5 +1,5 @@
 {
-  "count": 4778,
+  "count": 4784,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -4127,6 +4127,13 @@
       "title": "Senior Software Engineer - Backend",
       "url": "https://job-boards.greenhouse.io/archer56/jobs/7499031003"
     },
+    "simplify:archer::simplify-c6f917c4-26ee-4edd-a28b-608341aed2b4": {
+      "company": "Archer",
+      "first_seen": "2026-09-09T01:11:58+00:00",
+      "posted_at": "1779402051",
+      "title": "Associate Survivability and Operations Analysis Engineer",
+      "url": "https://job-boards.greenhouse.io/archer56/jobs/7719738003"
+    },
     "simplify:architect labs::simplify-16128b03-1c21-4bf3-ae9a-b34b42b61718": {
       "company": "Architect Labs",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -5505,6 +5512,13 @@
       "posted_at": "1787581493",
       "title": "Engineering Intern - Engineering - Developer",
       "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81254"
+    },
+    "simplify:boeing::simplify-174acb70-442d-4271-bbfa-4b1ea5cd105e": {
+      "company": "Boeing",
+      "first_seen": "2026-09-09T01:11:58+00:00",
+      "posted_at": "1784931433",
+      "title": "Software Configuration Management \u2013 Mid-Level - Associate",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seal-Beach-CA/Software-Configuration-Management--Associate--Mid-Level-_JR2026510502"
     },
     "simplify:boeing::simplify-6aef6415-7ea1-4f70-ae41-d19976414037": {
       "company": "Boeing",
@@ -9250,6 +9264,13 @@
       "posted_at": "1784671755",
       "title": "AI Solutions Engineer",
       "url": "https://jobs.lever.co/cscgeneration-2/40715594-0edc-4909-967c-71d252215c51/apply"
+    },
+    "simplify:ctg::simplify-2be6f759-96be-4dc7-a468-cf02a80bdef5": {
+      "company": "CTG",
+      "first_seen": "2026-09-09T01:11:58+00:00",
+      "posted_at": "1788905963",
+      "title": "Software Engineer 1",
+      "url": "https://careers.ctg.com/jobs/17557?icims=1"
     },
     "simplify:ctg::simplify-a665623e-060f-4a0d-8104-96f48b2dbbec": {
       "company": "CTG",
@@ -16054,6 +16075,13 @@
       "posted_at": "1776723456",
       "title": "Junior Software Engineer",
       "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R2122294"
+    },
+    "simplify:kbr::simplify-b8a3f182-ab76-4516-83dd-c0bc7e69c741": {
+      "company": "KBR",
+      "first_seen": "2026-09-09T01:11:58+00:00",
+      "posted_at": "1783376121",
+      "title": "Jr. Systems Engineer - Digital Engineering Course Development",
+      "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/Systems-Engineer--Digital-Engineering-Course-Development-_R2125981"
     },
     "simplify:kbr::simplify-e5cda4c5-0633-455f-8d0d-b5ae18db552d": {
       "company": "KBR",
@@ -26814,6 +26842,13 @@
       "title": "Software Engineer New Grad",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--CRD--New-Graduate_R-792647"
     },
+    "simplify:state street::simplify-f79114e4-14f4-4b37-9f55-d001dab2d6af": {
+      "company": "State Street",
+      "first_seen": "2026-09-09T01:11:58+00:00",
+      "posted_at": "1783161968",
+      "title": "AI Developer Senior Associate",
+      "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/AI-Developer--SA_R-792362-1"
+    },
     "simplify:stcu::simplify-f6ea312c-a27d-4faa-9ea7-e433fa700f5a": {
       "company": "STCU",
       "first_seen": "2026-08-25T01:45:08+00:00",
@@ -27653,6 +27688,13 @@
       "posted_at": "1783030387",
       "title": "Associate Software Engineer",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1497015"
+    },
+    "simplify:td bank::simplify-bed9d031-2f7f-4c71-9417-37308c8a19ee": {
+      "company": "TD Bank",
+      "first_seen": "2026-09-09T01:11:58+00:00",
+      "posted_at": "1788825600",
+      "title": "Associate Software Engineer",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1509806"
     },
     "simplify:td bank::simplify-c86d0cd8-688e-4d74-beff-876230e13041": {
       "company": "TD Bank",
@@ -33389,5 +33431,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-08T23:04:44+00:00"
+  "updated_at": "2026-09-09T01:11:58+00:00"
 }
