@@ -1,5 +1,5 @@
 {
-  "count": 4943,
+  "count": 4958,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -4533,6 +4533,13 @@
       "title": "Software Engineer Intern - Enterprise Systems",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006"
     },
+    "simplify:astrazeneca::simplify-d778c6d4-6ce5-40c6-8cb7-41d5b2f39824": {
+      "company": "AstraZeneca",
+      "first_seen": "2026-09-10T17:18:10+00:00",
+      "posted_at": "1788998400",
+      "title": "AI Solutions & Automation Intern",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/Canada---Mississauga/AI-Solutions---Automation-Intern_R-259241"
+    },
     "simplify:astrion::simplify-9d9eb552-2b86-429d-875e-4c930c609200": {
       "company": "Astrion",
       "first_seen": "2026-08-18T23:41:59+00:00",
@@ -7046,6 +7053,13 @@
       "title": "Software Engineer - Engineering",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_330837-1"
     },
+    "simplify:caci::simplify-38095de3-b7e5-4f0b-87ca-a9c587ea15fb": {
+      "company": "CACI",
+      "first_seen": "2026-09-10T17:18:10+00:00",
+      "posted_at": "1788998400",
+      "title": "Software Engineer Intern",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1"
+    },
     "simplify:caci::simplify-41889f54-cd44-417e-8d4a-92c9b6acc35e": {
       "company": "CACI",
       "first_seen": "2026-08-29T02:50:35+00:00",
@@ -7178,6 +7192,13 @@
       "posted_at": "1787616000",
       "title": "Software Safety Developer/Analyst",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Lorton-VA-US/Software-Safety-Developer-Analyst_330921"
+    },
+    "simplify:caci::simplify-c854434a-b324-4bf9-844f-e98d319bef95": {
+      "company": "CACI",
+      "first_seen": "2026-09-10T17:18:10+00:00",
+      "posted_at": "1788998400",
+      "title": "Configuration Control/Data Management Co-op - Engineering Department",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440"
     },
     "simplify:caci::simplify-d8f01940-000a-4963-a53a-a8ecc213ca07": {
       "company": "CACI",
@@ -11267,6 +11288,13 @@
       "title": "AI Continuous Improvement Co-op",
       "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/AI-Continuous-Improvement-Co-Op_REQ-14509"
     },
+    "simplify:entegris::simplify-a3b700b5-11b3-48ae-92cf-a4cd8017c1f6": {
+      "company": "Entegris",
+      "first_seen": "2026-09-10T17:18:10+00:00",
+      "posted_at": "1788998400",
+      "title": "Lab Automation & AI Engineering Co-op",
+      "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1"
+    },
     "simplify:entegris::simplify-fec06a2b-5901-4de2-b420-d67dde04d674": {
       "company": "Entegris",
       "first_seen": "2026-09-10T00:38:47+00:00",
@@ -12674,6 +12702,13 @@
       "title": "Application Engineer Co-op/Intern - PCS",
       "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-2"
     },
+    "simplify:ge vernova::simplify-17ee9cb8-31a6-4c61-9fb6-eeeb34a917d4": {
+      "company": "GE Vernova",
+      "first_seen": "2026-09-10T17:18:10+00:00",
+      "posted_at": "1788998400",
+      "title": "AI Engineer",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/AI-Engineer_R5051916-1"
+    },
     "simplify:ge vernova::simplify-1c3658f7-3aa0-4dec-aa4f-9663af8dc0ab": {
       "company": "GE Vernova",
       "first_seen": "2026-09-04T05:57:42+00:00",
@@ -12806,6 +12841,13 @@
       "posted_at": "1788393600",
       "title": "Software Engineering Co-op - Critical Infrastructure Communication Engineering",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-1"
+    },
+    "simplify:ge vernova::simplify-962f1bfd-70ba-4217-a32b-3e4ff0200101": {
+      "company": "GE Vernova",
+      "first_seen": "2026-09-10T17:18:10+00:00",
+      "posted_at": "1788998400",
+      "title": "AI Engineer",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/AI-Engineer_R5051916-2"
     },
     "simplify:ge vernova::simplify-9d136976-01e5-4307-a617-04d2b97abacb": {
       "company": "GE Vernova",
@@ -13065,6 +13107,13 @@
       "posted_at": "1783814400",
       "title": "UiPath Robotic Process Automation Developer Associate",
       "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Home-Office-LAHOME/UiPath-Robotic-Process-Automation-Developer-Associate_RQ223293-1"
+    },
+    "simplify:general dynamics mission systems::simplify-013b4e53-9d70-4bca-9c0f-1231cfe46dbb": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-09-10T17:18:10+00:00",
+      "posted_at": "1789049905",
+      "title": "Software Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/74880/job?mobile=true&needsRedirect=false"
     },
     "simplify:general dynamics mission systems::simplify-054b254c-cc0b-47dd-a2c2-98cf50c0269f": {
       "company": "General Dynamics Mission Systems",
@@ -14515,6 +14564,13 @@
       "title": "Software Engineer",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208770"
     },
+    "simplify:hewlett packard::simplify-2b9817d0-6f0e-47d5-a557-9594cca9ea27": {
+      "company": "Hewlett Packard",
+      "first_seen": "2026-09-10T17:18:10+00:00",
+      "posted_at": "1788998400",
+      "title": "Graduate Software Developer - HP Wolf Security",
+      "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-C--Software-Developer--2-year-placement_3165415-2"
+    },
     "simplify:hewlett packard::simplify-2ccc95c1-29dc-4d19-81c7-f2a7c5faf42b": {
       "company": "Hewlett Packard",
       "first_seen": "2026-08-17T23:07:29+00:00",
@@ -14542,6 +14598,13 @@
       "posted_at": "1786924800",
       "title": "Software Systems Engineer - Advanced Compute Solutions - Desktop Workstations",
       "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Fort-Collins-Colorado-United-States-of-America/Software-Systems-Engineer_3166471"
+    },
+    "simplify:hewlett packard::simplify-e9554a20-5672-4854-890d-18285048340e": {
+      "company": "Hewlett Packard",
+      "first_seen": "2026-09-10T17:18:10+00:00",
+      "posted_at": "1788998400",
+      "title": "Graduate Software Developer - HP Wolf Security",
+      "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-C--Software-Developer--2-year-placement_3165415"
     },
     "simplify:hewlett packard::simplify-edbd3ee9-e03a-4e71-b305-bd14de6b124e": {
       "company": "Hewlett Packard",
@@ -15557,6 +15620,13 @@
       "posted_at": "1782176660",
       "title": "Software Engineer",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Engineer_JR0285009"
+    },
+    "simplify:intel::simplify-a273898f-c0b4-4c85-85d4-badef42df706": {
+      "company": "Intel",
+      "first_seen": "2026-09-10T17:18:09+00:00",
+      "posted_at": "1788998400",
+      "title": "Compiler Engineer Intern - SYCL Runtime",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849"
     },
     "simplify:intel::simplify-ac297577-f4f9-4b73-ab38-00c094342140": {
       "company": "Intel",
@@ -17350,6 +17420,13 @@
       "title": "Software Engineering Associate",
       "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineering-FL-32905/1409055400/?ats=successfactors"
     },
+    "simplify:l3harris technologies::simplify-753a1642-50ef-4ddd-b3bd-e4f195ed2138": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-09-10T17:18:10+00:00",
+      "posted_at": "1789049778",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.l3harris.com/job/Rochester-Software-Engineering-Intern-NY-14610-1839/1415275000/?ats=successfactors"
+    },
     "simplify:l3harris technologies::simplify-81476e53-2803-426e-8021-2bcd1ad52184": {
       "company": "L3Harris Technologies",
       "first_seen": "2026-07-28T15:35:20+00:00",
@@ -18077,6 +18154,13 @@
       "posted_at": "1787781224",
       "title": "Platform Developer Intern - Platform Developer",
       "url": "https://careersen-mackenzieinvestments.icims.com/jobs/5992/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:mackenzie investments::simplify-2da1b9a8-c42c-4490-ab77-7b152c46c02e": {
+      "company": "Mackenzie Investments",
+      "first_seen": "2026-09-10T17:18:10+00:00",
+      "posted_at": "1789051450",
+      "title": "Winter Intern - Investment Management - Multi-Asset",
+      "url": "https://careersen-mackenzieinvestments.icims.com/jobs/6008/job?mobile=true&needsRedirect=false"
     },
     "simplify:magna::simplify-14d33eac-9588-4ef2-aad6-4f65465e5bc0": {
       "company": "Magna",
@@ -22439,12 +22523,26 @@
       "title": "Research and Development Engineering Intern",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1"
     },
+    "simplify:pennsylvania state university::simplify-2dcb71be-979e-47c0-b8a8-0f9a1e116f46": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-09-10T17:18:10+00:00",
+      "posted_at": "1788998400",
+      "title": "Software Engineer - Strategic Systems Operation Division",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer--Software-Engineer_REQ_0000081602-2"
+    },
     "simplify:pennsylvania state university::simplify-31a6db78-1795-45ff-a8cf-7fa9073f5fbf": {
       "company": "Pennsylvania State University",
       "first_seen": "2026-07-21T06:16:23+00:00",
       "posted_at": "1781361042",
       "title": "IST Graduate Assistant",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/IST-Graduate-Assistant---Dr-Calacci_REQ_0000072565-2"
+    },
+    "simplify:pennsylvania state university::simplify-4115edde-4ae5-4920-b782-86b84818fcc2": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-09-10T17:18:10+00:00",
+      "posted_at": "1788998400",
+      "title": "Software Engineer - Multiple Teams",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/R-D-Engineer--Software-Engineer_REQ_0000081569-2"
     },
     "simplify:pennsylvania state university::simplify-68188134-cafa-4b8d-aa5c-4edf4278eb7c": {
       "company": "Pennsylvania State University",
@@ -22872,6 +22970,13 @@
       "posted_at": "1788215582",
       "title": "Software Engineer - Internal Tools",
       "url": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009"
+    },
+    "simplify:planview::simplify-3e0882ef-3682-46f4-b5a5-bf8dadcf4a08": {
+      "company": "Planview",
+      "first_seen": "2026-09-10T17:18:10+00:00",
+      "posted_at": "1789049891",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.planview.com/jobs/5128?icims=1"
     },
     "simplify:playstation::simplify-5b657cc4-20ce-4094-a37e-f219f0ce9265": {
       "company": "PlayStation",
@@ -34544,5 +34649,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-10T13:50:25+00:00"
+  "updated_at": "2026-09-10T17:18:10+00:00"
 }
