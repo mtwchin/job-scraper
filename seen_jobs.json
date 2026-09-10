@@ -1,5 +1,5 @@
 {
-  "count": 4959,
+  "count": 4960,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -981,6 +981,13 @@
       "posted_at": "Posted Today",
       "title": "Software Engineering Intern, NCCL - 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--NCCL---2026_JR2022645"
+    },
+    "nvidia::System-Software-Engineering-Intern--GPU---2027_JR2025334": {
+      "company": "Nvidia",
+      "first_seen": "2026-09-10T21:57:04+00:00",
+      "posted_at": "Posted Today",
+      "title": "System Software Engineering Intern, GPU - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Remote/System-Software-Engineering-Intern--GPU---2027_JR2025334"
     },
     "old mission::7796048003": {
       "company": "Old Mission",
@@ -34656,5 +34663,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-10T19:46:34+00:00"
+  "updated_at": "2026-09-10T21:57:04+00:00"
 }
