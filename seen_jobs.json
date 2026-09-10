@@ -1,5 +1,5 @@
 {
-  "count": 4958,
+  "count": 4959,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -708,6 +708,13 @@
       "posted_at": "Posted 28 Days Ago",
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/PRC-Shenzhen/AI-Software-Engineering-Intern_JR0283384"
+    },
+    "intel::AI-Software-Engineering-PhD-Intern_JR0286730": {
+      "company": "Intel",
+      "first_seen": "2026-09-10T19:46:34+00:00",
+      "posted_at": "Posted Today",
+      "title": "AI Software Engineering PhD Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/AI-Software-Engineering-PhD-Intern_JR0286730"
     },
     "intel::AI-Software-Engineering-Undergraduate-Intern_JR0285167": {
       "company": "Intel",
@@ -34649,5 +34656,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-10T17:18:10+00:00"
+  "updated_at": "2026-09-10T19:46:34+00:00"
 }
