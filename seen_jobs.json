@@ -1,5 +1,5 @@
 {
-  "count": 4941,
+  "count": 4943,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3965,6 +3965,13 @@
       "posted_at": "1778076871",
       "title": "Finder and Files Application Engineer",
       "url": "https://jobs.apple.com/en-us/details/200643671"
+    },
+    "simplify:apple::simplify-ccea935e-1055-419a-834c-8b52c01b71bc": {
+      "company": "Apple",
+      "first_seen": "2026-09-10T13:50:25+00:00",
+      "posted_at": "1788991789",
+      "title": "Software Engineer - Apple Ads",
+      "url": "https://jobs.apple.com/en-us/details/200682706"
     },
     "simplify:apple::simplify-d6ad51e0-366b-4b13-b829-8c5dacf13565": {
       "company": "Apple",
@@ -10622,6 +10629,13 @@
       "posted_at": "1788991652",
       "title": "Software Engineer Intern",
       "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560"
+    },
+    "simplify:domino data lab::simplify-eabf370c-678d-4de3-925f-22d7298aeb68": {
+      "company": "Domino Data Lab",
+      "first_seen": "2026-09-10T13:50:25+00:00",
+      "posted_at": "1788991996",
+      "title": "Forward Deployed Engineer Intern - Campus Recruiting 2027",
+      "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992534?gh_jid=7992534"
     },
     "simplify:domino's::simplify-5a334443-9d0a-4ac3-a774-3989f12d55f3": {
       "company": "Domino's",
@@ -34530,5 +34544,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-10T09:44:17+00:00"
+  "updated_at": "2026-09-10T13:50:25+00:00"
 }
