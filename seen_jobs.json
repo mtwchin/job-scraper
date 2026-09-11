@@ -1,5 +1,5 @@
 {
-  "count": 5022,
+  "count": 5026,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -8592,6 +8592,20 @@
       "posted_at": "1786601290",
       "title": "AI Software Engineer 1",
       "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48633"
+    },
+    "simplify:citizens financial group::simplify-9c4220ab-f3bd-423f-94ac-5cdcd9d06c63": {
+      "company": "Citizens Financial Group",
+      "first_seen": "2026-09-11T15:10:03+00:00",
+      "posted_at": "1789136387",
+      "title": "Software Engineer",
+      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49291"
+    },
+    "simplify:citizens financial group::simplify-df13ab5f-9eb4-4357-86df-afc457026297": {
+      "company": "Citizens Financial Group",
+      "first_seen": "2026-09-11T15:10:03+00:00",
+      "posted_at": "1789136385",
+      "title": "Software Engineer Intern",
+      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286"
     },
     "simplify:city and county of san francisco::simplify-1ad5e34b-7418-46fe-9725-948719ed2572": {
       "company": "City and County of San Francisco",
@@ -20136,6 +20150,13 @@
       "title": "Radar Systems Engineering Student Co-op",
       "url": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Radar-Systems-Engineering-Student--Co-op-4-or-8-months-COOP-available-position_JR-8229"
     },
+    "simplify:nav canada::simplify-b390603c-6b52-4862-8f16-1da7aad0a2d8": {
+      "company": "NAV CANADA",
+      "first_seen": "2026-09-11T15:10:03+00:00",
+      "posted_at": "1789084800",
+      "title": "Air Traffic Management Engineering Co-op Student - ATM - Tower Products",
+      "url": "https://navcanada.wd10.myworkdayjobs.com/NAV_Careers/job/Ottawa/Air-Traffic-Management--ATM--Tower-Products---Winter-2027-Coop-Student---2-positions_JR-8366"
+    },
     "simplify:navy federal::simplify-22c1325e-0afd-47f3-910f-bf0e15ff82ce": {
       "company": "Navy Federal",
       "first_seen": "2026-08-27T14:35:48+00:00",
@@ -29705,6 +29726,13 @@
       "title": "Embedded Software Engineer Intern - Embedded Software Engineer - Firmware Platforms",
       "url": "https://www.tesla.com/careers/search/job/266985"
     },
+    "simplify:tesla::simplify-a6be63fe-0ed7-4ad2-a4f7-774bd97b77b8": {
+      "company": "Tesla",
+      "first_seen": "2026-09-11T15:10:03+00:00",
+      "posted_at": "1789137299",
+      "title": "Software Engineer Intern - Data Platforms",
+      "url": "https://www.tesla.com/careers/search/job/283117"
+    },
     "simplify:tesla::simplify-a8790742-1793-4b5a-b3a7-faf1d438c4fb": {
       "company": "Tesla",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -35097,5 +35125,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-11T11:31:36+00:00"
+  "updated_at": "2026-09-11T15:10:03+00:00"
 }
