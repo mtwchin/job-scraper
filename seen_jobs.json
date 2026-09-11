@@ -1,5 +1,5 @@
 {
-  "count": 5036,
+  "count": 5085,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -20,6 +20,13 @@
       "first_seen": "2026-06-28T23:35:42+00:00",
       "title": "Software Engineer, Early Career",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7485068003"
+    },
+    "affirm::7985907003": {
+      "company": "Affirm",
+      "first_seen": "2026-09-11T23:13:21+00:00",
+      "posted_at": "2026-09-11T18:05:38-04:00",
+      "title": "Software Engineer I, Frontend (Upfunnel)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003"
     },
     "akuna capital::8013085": {
       "company": "Akuna Capital",
@@ -200,6 +207,13 @@
       "posted_at": "September  9, 2026",
       "title": "Software Development Engineer Intern, ROBOTICS - 2027",
       "url": "https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027"
+    },
+    "amazon::10538066": {
+      "company": "Amazon",
+      "first_seen": "2026-09-11T23:13:21+00:00",
+      "posted_at": "September 11, 2026",
+      "title": "ML Systems Software Development Engineer Intern, Annapurna Labs - 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -2195,6 +2209,13 @@
       "title": "Graduate Technology & AI Engineer",
       "url": "https://apply.workable.com/accora/j/4A8BA0A44E/apply"
     },
+    "simplify:achieve::simplify-3f2de24b-8f96-4412-93d4-eedb22a6d3f5": {
+      "company": "Achieve",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789164260",
+      "title": "Associate AI Solutions Engineer",
+      "url": "https://jobs.smartrecruiters.com/Achieve1/3743990015218506"
+    },
     "simplify:aci worldwide ::simplify-8e2715af-7e3d-4e10-abed-1b78f92ee685": {
       "company": "ACI Worldwide ",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -2804,6 +2825,13 @@
       "title": "Full-Stack Developer Intern - Python",
       "url": "https://alayacare.com/open-positions?gh_jid=8687981002"
     },
+    "simplify:alcoa::simplify-e70c7072-27b1-4eb9-af34-c97970e09bcb": {
+      "company": "Alcoa",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789084800",
+      "title": "Computer Science or Software Engineering or Computer Engineering Intern - Carbon",
+      "url": "https://alcoa.wd5.myworkdayjobs.com/Careers/job/Canada-QC-Bcancour/Stagiaire-en-informatique-ou-gnie-logiciel-ou-informatique---Carbone--Hiver-2027-_Req-39195"
+    },
     "simplify:aledade::simplify-a834d8ef-f2c9-4d3f-a6c3-9776ee7123ca": {
       "company": "Aledade",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -3132,6 +3160,13 @@
       "posted_at": "1777932230",
       "title": "Software Development Engineer",
       "url": "https://amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us"
+    },
+    "simplify:amazon::simplify-c3a3cae1-f9a1-4c9b-bc38-1b3859ce6744": {
+      "company": "Amazon",
+      "first_seen": "2026-09-11T23:13:21+00:00",
+      "posted_at": "1789165466",
+      "title": "Machine Learning Systems Software Development Engineer Intern - Annapurna Labs",
+      "url": "https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027"
     },
     "simplify:amazon::simplify-c44d58c3-05e3-470a-9f21-4722f9d8522d": {
       "company": "Amazon",
@@ -3623,12 +3658,26 @@
       "title": "Software Engineer 1",
       "url": "https://osv-amerisure.wd5.myworkdayjobs.com/Amerisure/job/Farmington-Hills-MI/Software-Engineer-I_JR-002063"
     },
+    "simplify:amgen::simplify-079b70ee-8105-46b4-9163-319c8610f157": {
+      "company": "Amgen",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789084800",
+      "title": "Software Engineer Intern - Technology & Medical Organizations",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719"
+    },
     "simplify:amgen::simplify-242592f3-d34b-4408-83fc-12609e3b71f9": {
       "company": "Amgen",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1783462574",
       "title": "Software Engineer Co-op - Multiple Teams",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate--Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-249424"
+    },
+    "simplify:amgen::simplify-5012230e-2a8b-4047-80ec-4b7c9ecbf427": {
+      "company": "Amgen",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789084800",
+      "title": "Software Engineer Intern - Amgen\u2019s Technology & Medical Organizations",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745"
     },
     "simplify:amgen::simplify-a694adca-179c-44e9-86be-f1f3f3d8f198": {
       "company": "Amgen",
@@ -5198,6 +5247,13 @@
       "title": "Summer Software Intern",
       "url": "https://jobs.baesystems.com/global/en/job/BAE1US119401BREXTERNAL/Summer-Software-Intern"
     },
+    "simplify:baidu usa::simplify-ca226254-e5d4-44cf-9576-6aff5ce35d86": {
+      "company": "Baidu USA",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789164245",
+      "title": "Forward Deployed Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/baidu/jobs/8197142"
+    },
     "simplify:baker hughes::simplify-040c229e-e0a6-497f-9792-858fd16fafc7": {
       "company": "Baker Hughes",
       "first_seen": "2026-07-15T23:37:55+00:00",
@@ -6044,6 +6100,13 @@
       "posted_at": "1786060800",
       "title": "Software Engineer",
       "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246658"
+    },
+    "simplify:booz allen::simplify-69f5edde-2904-4610-a7eb-8132ce17ead9": {
+      "company": "Booz Allen",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789084800",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225"
     },
     "simplify:booz allen::simplify-6aedf2d9-49ab-471f-8cb3-45c3813875b0": {
       "company": "Booz Allen",
@@ -9559,6 +9622,13 @@
       "title": "Software Developer \u2013 Co-op",
       "url": "https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Vancouver---Parking/Software-Developer--Co-op-_R05866"
     },
+    "simplify:corteva::simplify-93d5d930-8ab2-4a53-aa31-d238b45b41d5": {
+      "company": "Corteva",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789084800",
+      "title": "AI Engineer Intern",
+      "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W"
+    },
     "simplify:costar group::simplify-61a0ad54-27a3-4039-8fbc-0ff3439803fd": {
       "company": "CoStar Group",
       "first_seen": "2026-07-27T23:47:06+00:00",
@@ -10735,6 +10805,20 @@
       "title": "Product Engineer",
       "url": "https://jobs.smartrecruiters.com/dstaff/82133512"
     },
+    "simplify:direct supply::simplify-1e9bfb18-fe9d-4d19-82ab-a87461ef3ff7": {
+      "company": "Direct Supply",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789084800",
+      "title": "AI Engineer Intern",
+      "url": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553"
+    },
+    "simplify:direct supply::simplify-832d71bf-22d8-4dec-a04b-a08291150417": {
+      "company": "Direct Supply",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789084800",
+      "title": "Software Engineer Intern",
+      "url": "https://directsupply.wd501.myworkdayjobs.com/direct-supply-careers/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559"
+    },
     "simplify:directv::simplify-809879bf-fd34-4b58-a336-c5a92afb393c": {
       "company": "DIRECTV",
       "first_seen": "2026-09-04T17:44:00+00:00",
@@ -11077,6 +11161,13 @@
       "posted_at": "1777331132",
       "title": "Software Developer",
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4687398005"
+    },
+    "simplify:dv trading::simplify-b1d0db5d-2ecc-4ad8-8fdd-ad33cabd3059": {
+      "company": "DV Trading",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789165753",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4733138005"
     },
     "simplify:dv trading::simplify-bdf30f76-458b-4527-9924-6423f7c5ebd4": {
       "company": "DV Trading",
@@ -11659,6 +11750,13 @@
       "title": "Entry Level Power & Computer Engineer",
       "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Development-Program---Entry-Level-Power---Computer-Engineer_R2289-1"
     },
+    "simplify:erickson senior living::simplify-f9812d93-d4c6-499f-ba70-040efdbc9d1e": {
+      "company": "Erickson Senior Living",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789084800",
+      "title": "IT Application Engineering Intern",
+      "url": "https://erickson.wd108.myworkdayjobs.com/External/job/Baltimore-MD/College-Intern-Corporate_R0103863-1"
+    },
     "simplify:ernst & young::simplify-96a269a3-eddc-4e42-bf43-69cbf7355110": {
       "company": "Ernst & Young",
       "first_seen": "2026-09-03T19:27:16+00:00",
@@ -12184,6 +12282,13 @@
       "title": "Software Engineer",
       "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Software-Engineer_2132114"
     },
+    "simplify:fidelity investments::simplify-3c5ec1d9-3e95-424d-92f7-3de232573462": {
+      "company": "Fidelity Investments",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789084800",
+      "title": "Software Engineer Co-op",
+      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Software-Engineer_2135230"
+    },
     "simplify:fidelity investments::simplify-501a5d9d-54bb-4a8b-a3a5-2c6efd18d963": {
       "company": "Fidelity Investments",
       "first_seen": "2026-08-25T16:08:25+00:00",
@@ -12197,6 +12302,13 @@
       "posted_at": "1786492800",
       "title": "Associate Software Engineer - ETF FFIO development",
       "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Associate-Software-Engineer_2131717-1"
+    },
+    "simplify:fidelity investments::simplify-88f11ce3-1385-47af-9fd7-81b25a184d70": {
+      "company": "Fidelity Investments",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789084800",
+      "title": "Software Full Stack Engineer Co-op",
+      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Software-Full-Stack-Engineer_2135236"
     },
     "simplify:fidelity investments::simplify-8ec64e5f-4755-45a9-ae9e-abd13cd712b0": {
       "company": "Fidelity Investments",
@@ -12226,6 +12338,13 @@
       "title": "Leap Software Engineer",
       "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/January-2027---Leap-Software-Engineer_2133859"
     },
+    "simplify:fidelity investments::simplify-fdf294f1-8d5f-4fc0-9d6b-3c418d70afc8": {
+      "company": "Fidelity Investments",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789084800",
+      "title": "Software Engineer Co-op - Fidelity Center for Applied Technology",
+      "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Software-Engineer_2135200"
+    },
     "simplify:fidelity national information services::simplify-19a150c4-f533-4d98-8905-d6d49e99d509": {
       "company": "Fidelity National Information Services",
       "first_seen": "2026-07-22T23:48:29+00:00",
@@ -12239,6 +12358,13 @@
       "posted_at": "1784678400",
       "title": "Mainframe Software Engineer 1",
       "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0308256-1"
+    },
+    "simplify:fidelity national information services::simplify-fd11a598-750e-41c2-a06d-7ff0ae10fe31": {
+      "company": "Fidelity National Information Services",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789084800",
+      "title": "Software Engineer - FIS University Program",
+      "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Software-Engineering--FIS-University-Program_JR0309486"
     },
     "simplify:field ai::simplify-5d600989-4dfa-4062-855c-d4b92dc5ffa7": {
       "company": "Field AI",
@@ -13212,6 +13338,13 @@
       "posted_at": "1780351677",
       "title": "Software Engineer Intern",
       "url": "https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74/apply"
+    },
+    "simplify:genentech::simplify-11ca3bf4-cee5-430d-b716-f25dffb46824": {
+      "company": "Genentech",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789084800",
+      "title": "Digital Sciences Intern - Product Technical Development",
+      "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---Product-Technical-Development---Digital-Sciences-Focus_202609-123436"
     },
     "simplify:generac::simplify-1198914e-0b05-4c13-a78b-3ef38d2f9697": {
       "company": "Generac",
@@ -17245,6 +17378,13 @@
       "title": "Software Analyst",
       "url": "https://careers-kimley-horn.icims.com/jobs/25698/job?mobile=true&needsRedirect=false"
     },
+    "simplify:kinaxis::simplify-50dd36b1-ed7f-406b-ae19-55d27afb19b1": {
+      "company": "Kinaxis",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789164243",
+      "title": "Software Engineer Co-op/Intern - Data Modeling & Integration",
+      "url": "https://careers-kinaxis.icims.com/jobs/35349/job?mobile=true&needsRedirect=false"
+    },
     "simplify:kinaxis::simplify-5ac1d7a8-5581-4468-b12a-92c221dd3cd0": {
       "company": "Kinaxis",
       "first_seen": "2026-09-09T14:49:11+00:00",
@@ -18393,12 +18533,54 @@
       "title": "Applications Engineer",
       "url": "https://apply.workable.com/luminance-1/j/6415D21465/apply"
     },
+    "simplify:lyft::simplify-0b7f448f-85cf-4eb9-95a0-7de074ec13a5": {
+      "company": "Lyft",
+      "first_seen": "2026-09-11T23:13:21+00:00",
+      "posted_at": "1789164508",
+      "title": "Software Engineer Intern - Fullstack",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002"
+    },
+    "simplify:lyft::simplify-1fc58c27-f803-4765-8d88-dbaa558aaaa5": {
+      "company": "Lyft",
+      "first_seen": "2026-09-11T23:13:21+00:00",
+      "posted_at": "1789164503",
+      "title": "Software Developer Intern - Backend",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8796052002?gh_jid=8796052002"
+    },
     "simplify:lyft::simplify-6cf07fce-a741-4ce5-adbc-9449cccdd79b": {
       "company": "Lyft",
       "first_seen": "2026-07-08T07:03:53+00:00",
       "posted_at": "1783490799",
       "title": "Software Engineer",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8623323002?gh_jid=8623323002"
+    },
+    "simplify:lyft::simplify-7e6e88a0-5330-4613-aa83-3784cab66781": {
+      "company": "Lyft",
+      "first_seen": "2026-09-11T23:13:21+00:00",
+      "posted_at": "1789164508",
+      "title": "Software Engineer Intern - Backend",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002"
+    },
+    "simplify:lyft::simplify-81848c6b-09e5-4393-a0e2-56bf7063f68c": {
+      "company": "Lyft",
+      "first_seen": "2026-09-11T23:13:21+00:00",
+      "posted_at": "1789164508",
+      "title": "Software Engineer Intern - Fullstack - Multiple Teams",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002"
+    },
+    "simplify:lyft::simplify-c7521562-9599-4ee6-a407-0b8d73212142": {
+      "company": "Lyft",
+      "first_seen": "2026-09-11T23:13:21+00:00",
+      "posted_at": "1789164508",
+      "title": "Software Engineer Intern - Backend",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002"
+    },
+    "simplify:lyft::simplify-fe11ba13-7a53-44f0-a0dc-56189ee93f03": {
+      "company": "Lyft",
+      "first_seen": "2026-09-11T23:13:21+00:00",
+      "posted_at": "1789164508",
+      "title": "Software Engineer Intern",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002"
     },
     "simplify:lynk::simplify-52548b72-ae9f-46dc-b687-9990073dcdf4": {
       "company": "Lynk",
@@ -19639,6 +19821,13 @@
       "title": "Software Engineer - CoreAI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020"
     },
+    "simplify:microsoft::simplify-b1f436d0-d239-4a06-ac5f-7643c6643563": {
+      "company": "Microsoft",
+      "first_seen": "2026-09-11T23:13:21+00:00",
+      "posted_at": "1789165431",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223"
+    },
     "simplify:microsoft::simplify-b281f70c-b819-47ce-8df8-cdbc3d567e98": {
       "company": "Microsoft",
       "first_seen": "2026-09-01T17:52:36+00:00",
@@ -19666,6 +19855,13 @@
       "posted_at": "1784239482",
       "title": "Software Engineer 2 / Senior Software Engineer - Commerce Platforms",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556928670"
+    },
+    "simplify:microsoft::simplify-ebc7d1a1-b5b8-4837-b209-d99b4aa18795": {
+      "company": "Microsoft",
+      "first_seen": "2026-09-11T23:13:21+00:00",
+      "posted_at": "1789165434",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221"
     },
     "simplify:microsoft::simplify-ed31bd8d-9acf-436c-9628-1d4c79959bac": {
       "company": "Microsoft",
@@ -19736,6 +19932,13 @@
       "posted_at": "1777298909",
       "title": "Software Engineer \u2013 Early Career",
       "url": "https://jobs.ashbyhq.com/mirage/cbf278fd-84ec-48d9-8052-b76abb035ac7/application"
+    },
+    "simplify:mirantis::simplify-3cf2989b-3ddf-42e1-9cab-51ba4f0c682a": {
+      "company": "Mirantis",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789164283",
+      "title": "Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/Mirantis/744000149065869"
     },
     "simplify:mirego::simplify-bf7e98b1-96ae-4c81-809d-7bf031fbbe77": {
       "company": "Mirego",
@@ -19939,6 +20142,13 @@
       "posted_at": "1787529600",
       "title": "Android Application Developer Intern - Summer 2027",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740"
+    },
+    "simplify:motorola::simplify-6c48d7cb-d59c-4c94-99b5-5a897366072a": {
+      "company": "Motorola",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789084800",
+      "title": "Android Software Engineer",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Software-Engineer_R62561"
     },
     "simplify:motorola::simplify-730477dc-023e-4e21-aa1a-3fa0813bafb5": {
       "company": "Motorola",
@@ -20583,6 +20793,13 @@
       "posted_at": "1788358386",
       "title": "Software Developer Co-op Intern",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39435"
+    },
+    "simplify:nokia::simplify-322a56aa-675d-4067-b109-b8fe03716b79": {
+      "company": "Nokia",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789165249",
+      "title": "Data Scientist Co-op/Intern",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39965"
     },
     "simplify:nokia::simplify-48a3b01c-7ec9-4b30-8db4-c264431de5d9": {
       "company": "Nokia",
@@ -21878,6 +22095,20 @@
       "posted_at": "1788906685",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application?embed=true"
+    },
+    "simplify:oneimaging::simplify-1acd5a07-50ab-4e8a-8cb2-be9a1ae33d8b": {
+      "company": "OneImaging",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789165994",
+      "title": "Full Stack Associate Software Engineer - Georgia Tech Only",
+      "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4403115009"
+    },
+    "simplify:oneimaging::simplify-d35dd23b-846b-4263-be1b-ff94fdfab2e5": {
+      "company": "OneImaging",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789165995",
+      "title": "Associate Software Engineer - UF Only",
+      "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4403125009"
     },
     "simplify:onemain financial::simplify-8d2eadc8-f9a1-417b-b0cd-2e84e5602521": {
       "company": "OneMain Financial",
@@ -24084,6 +24315,20 @@
       "title": "Quantum Error Correction Intern - Quantum Error Correction",
       "url": "https://jobs.eu.lever.co/quantinuum/46b3f32c-a2ad-4d4d-bff6-b1bbebf3e382/apply"
     },
+    "simplify:quantinuum::simplify-d7120b72-0c14-449e-a095-53e75c52eb34": {
+      "company": "Quantinuum",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789164973",
+      "title": "Quantum Compiler Intern",
+      "url": "https://jobs.eu.lever.co/quantinuum/efec30da-9a57-46b3-b891-6973a44c86ff/apply"
+    },
+    "simplify:quantinuum::simplify-e786530f-a166-4c4d-8e6a-a97d02405c85": {
+      "company": "Quantinuum",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789164971",
+      "title": "Layout Automation Engineering Intern",
+      "url": "https://jobs.eu.lever.co/quantinuum/550a6e3c-2556-4ac3-8cc4-862cb0681dc0/apply"
+    },
     "simplify:quantix scs::simplify-c22ed2b1-7dbc-4fec-8e24-0ed23174312c": {
       "company": "Quantix SCS",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -24293,6 +24538,13 @@
       "posted_at": "1787097600",
       "title": "Technology Intern - Multiple Teams",
       "url": "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Technology_R105425"
+    },
+    "simplify:rei systems::simplify-33b49b9d-1aed-41bb-ba49-d0567c7f2f94": {
+      "company": "REI Systems",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789164244",
+      "title": "Associate Software Engineer - Java",
+      "url": "https://careers-reisystems.icims.com/jobs/3496/job?mobile=true&needsRedirect=false"
     },
     "simplify:rei systems::simplify-9144eb86-7f92-4d1f-8b3a-4bb8389b35d9": {
       "company": "REI Systems",
@@ -25960,6 +26212,13 @@
       "title": "Associate Software Engineer - Simulation",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Assoc-Software-Engineer---Simulation_01853132"
     },
+    "simplify:rtx::simplify-8dff8685-3a17-4f9c-b1d4-6d01c0258242": {
+      "company": "RTX",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789084800",
+      "title": "Software Engineer Co-op - Spring/Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01873682"
+    },
     "simplify:rtx::simplify-8fea2128-ad21-47ad-b431-eb973db4321e": {
       "company": "RTX",
       "first_seen": "2026-08-15T01:54:44+00:00",
@@ -26239,6 +26498,13 @@
       "posted_at": "1787097600",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868027"
+    },
+    "simplify:rtx::simplify-d33add69-247a-45fe-877c-f6ba4d421782": {
+      "company": "RTX",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789084800",
+      "title": "Software Developer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Software-Developer-Aerospace-Control-Systems---Web-Applications_01874412"
     },
     "simplify:rtx::simplify-d3495d6f-29fd-4ac4-a52f-1625a666f38b": {
       "company": "RTX",
@@ -29929,6 +30195,13 @@
       "title": "Mobile Applications Engineering Intern - Android Engineer - Mobile Software",
       "url": "https://www.tesla.com/careers/search/job/266980"
     },
+    "simplify:tesla::simplify-da6c09b8-173d-4c72-bf85-472ace81bd4b": {
+      "company": "Tesla",
+      "first_seen": "2026-09-11T23:13:21+00:00",
+      "posted_at": "1789165617",
+      "title": "Content Integration Engineer Intern - Vehicle Firmware",
+      "url": "https://www.tesla.com/careers/search/job/283220"
+    },
     "simplify:tesla::simplify-dac9504d-3656-4127-972c-fc70bc04666a": {
       "company": "Tesla",
       "first_seen": "2026-09-10T00:38:44+00:00",
@@ -30286,6 +30559,13 @@
       "title": "Software Engineer - Commercial Modification",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/GBR---Bristol-UK/Software-Engineer---Commercial-Modification--Associate-or-Experienced-level-_JR2026514887-2"
     },
+    "simplify:the boeing company::simplify-6f28959f-ed87-4de3-b9da-60e153c5463d": {
+      "company": "The Boeing Company",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1783462688",
+      "title": "Entry Level Simulation Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Simulation-Software-Engineer_JR2026516853"
+    },
     "simplify:the boeing company::simplify-71df40cc-03d5-4fff-9f25-188f6aef357a": {
       "company": "The Boeing Company",
       "first_seen": "2026-07-21T20:06:43+00:00",
@@ -30355,6 +30635,13 @@
       "posted_at": "1785283200",
       "title": "Software Systems Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Software-Systems-Engineer--Associate-or-Experienced-_JR2026520215-1"
+    },
+    "simplify:the boeing company::simplify-bf70e269-0f0c-4ba6-9c6d-ba877510df63": {
+      "company": "The Boeing Company",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1783462726",
+      "title": "Entry Level Simulation Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Simulation-Software-Engineer_JR2026516853-1"
     },
     "simplify:the boeing company::simplify-c23a7b9a-fd9b-4f1a-9ef3-a39aeada13f8": {
       "company": "The Boeing Company",
@@ -32449,6 +32736,20 @@
       "title": "Graduate Consultant - Software Engineering",
       "url": "https://jobs.smartrecruiters.com/TTP1/744000128905808"
     },
+    "simplify:ttp::simplify-e813b95f-a978-4386-adfb-a10dfb72b6c5": {
+      "company": "TTP",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789164353",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/TTP1/744000149038758"
+    },
+    "simplify:ttp::simplify-ff8c6de4-ab67-493b-9403-785313a14f0b": {
+      "company": "TTP",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789164353",
+      "title": "Graduate Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/TTP1/744000149037789"
+    },
     "simplify:twitch::simplify-150760be-94ba-4811-8967-65c696778efc": {
       "company": "Twitch",
       "first_seen": "2026-07-24T04:18:24+00:00",
@@ -33344,6 +33645,41 @@
       "posted_at": "1772678110",
       "title": "AI Implementation Consultant - Legal",
       "url": "https://boards.greenhouse.io/vaxcyte/jobs/5017289008"
+    },
+    "simplify:veeam software::simplify-12b58efe-8607-4280-a3c0-fb40a2a2232a": {
+      "company": "Veeam Software",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789165509",
+      "title": "Security & AI Engineer Intern",
+      "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4952609101"
+    },
+    "simplify:veeam software::simplify-2e3471cf-662d-486a-853c-85c6a9936243": {
+      "company": "Veeam Software",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789165510",
+      "title": "Policy Engineering Intern",
+      "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955482101"
+    },
+    "simplify:veeam software::simplify-6db7a199-b2fc-411a-bc8e-960bd3c02f28": {
+      "company": "Veeam Software",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789165503",
+      "title": "AI & Automation Engineering Intern - Summer 2027",
+      "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955296101"
+    },
+    "simplify:veeam software::simplify-a551edfe-1860-47a5-84ba-2aa807b90cd1": {
+      "company": "Veeam Software",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789165505",
+      "title": "Engineering Intern",
+      "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4951792101"
+    },
+    "simplify:veeam software::simplify-cab02356-db9f-43a1-a400-e5fa53352e0b": {
+      "company": "Veeam Software",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789165514",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955293101"
     },
     "simplify:veeva systems::simplify-0b7e7043-7827-4ce9-ad37-87f67ec5375b": {
       "company": "Veeva Systems",
@@ -34605,6 +34941,13 @@
       "title": "AI & Automation Intern - Regulatory",
       "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1"
     },
+    "simplify:xcimer energy::simplify-b399880a-a936-4d77-ba1c-e108a00e5e51": {
+      "company": "Xcimer Energy",
+      "first_seen": "2026-09-11T23:13:27+00:00",
+      "posted_at": "1789165125",
+      "title": "Computational and Software Engineering Intern",
+      "url": "https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911/apply"
+    },
     "simplify:xsolla::simplify-9eeb2878-4b21-43db-94eb-1586edccfa2a": {
       "company": "Xsolla",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -35195,5 +35538,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-11T21:08:14+00:00"
+  "updated_at": "2026-09-11T23:13:27+00:00"
 }
