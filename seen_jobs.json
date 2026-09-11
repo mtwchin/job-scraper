@@ -1,5 +1,5 @@
 {
-  "count": 5004,
+  "count": 5013,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1613,6 +1613,13 @@
       "posted_at": "2026-08-12T17:47:08-04:00",
       "title": "Flight Software Engineer I",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7830196003"
+    },
+    "rocket lab::7985939003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-09-11T06:18:51+00:00",
+      "posted_at": "2026-09-10T21:58:05-04:00",
+      "title": "Flight Software Engineer I",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7985939003"
     },
     "rocket lab::7987044003": {
       "company": "Rocket Lab",
@@ -3258,6 +3265,13 @@
       "posted_at": "1788912000",
       "title": "Software Programmer Intern",
       "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Software-Programmer-Intern_R0169773"
+    },
+    "simplify:amentum::simplify-037965da-859d-4532-a3b3-45dc8fd6220f": {
+      "company": "Amentum",
+      "first_seen": "2026-09-11T06:18:52+00:00",
+      "posted_at": "1783376017",
+      "title": "Entry Level Software Engineer",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259"
     },
     "simplify:amentum::simplify-4a009563-7222-4cb3-b58d-930cdc0c5a55": {
       "company": "Amentum",
@@ -11287,6 +11301,13 @@
       "posted_at": "1788238282",
       "title": "Software Engineering Co-op",
       "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008442"
+    },
+    "simplify:emerson electric::simplify-fce07d58-8d51-46a0-9ac2-6f8f9be4da7f": {
+      "company": "Emerson Electric",
+      "first_seen": "2026-09-11T06:18:52+00:00",
+      "posted_at": "1789089225",
+      "title": "Software Engineer Co-op",
+      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738"
     },
     "simplify:emory university::simplify-e2ae47c8-3242-4ff9-87f1-e19745909137": {
       "company": "Emory University",
@@ -28921,6 +28942,13 @@
       "title": "Associate Software Engineer",
       "url": "https://www.talroo.com/careers/apply/?gh_jid=1003689"
     },
+    "simplify:tanium::simplify-9cd21651-921e-42a7-a95f-01b1f4bea964": {
+      "company": "Tanium",
+      "first_seen": "2026-09-11T06:18:52+00:00",
+      "posted_at": "1789090647",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/tanium/jobs/8181017"
+    },
     "simplify:tap engineering::simplify-81f2c13d-2485-497a-ae69-2e73193cb14e": {
       "company": "TAP Engineering",
       "first_seen": "2026-07-23T07:13:32+00:00",
@@ -33345,6 +33373,20 @@
       "title": "Thermal Application Engineer Intern - Summer 2027",
       "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278512"
     },
+    "simplify:vertiv::simplify-48fe73cf-84c7-4a22-bfd9-952a666e8607": {
+      "company": "Vertiv",
+      "first_seen": "2026-09-11T06:18:52+00:00",
+      "posted_at": "1789089654",
+      "title": "Innovation Lab Engineering Intern 2",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280129"
+    },
+    "simplify:vertiv::simplify-571e7550-1637-482e-9a38-7d49957afb03": {
+      "company": "Vertiv",
+      "first_seen": "2026-09-11T06:18:52+00:00",
+      "posted_at": "1789089654",
+      "title": "Innovation Lab Intern",
+      "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280126"
+    },
     "simplify:vertiv::simplify-730b33f7-4bb2-43fc-910d-4c5cbf55ab3c": {
       "company": "Vertiv",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -33533,6 +33575,20 @@
       "posted_at": "1783041101",
       "title": "Military Talent Program - Software Engineering Pipeline",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Military-Talent-Program---Software-Engineering-Pipeline_REF083391W"
+    },
+    "simplify:visier solutions::simplify-22d56fc9-ccc4-4ffa-a3da-8e67f2c0df38": {
+      "company": "Visier Solutions",
+      "first_seen": "2026-09-11T06:18:52+00:00",
+      "posted_at": "1789089293",
+      "title": "Test Developer Co-op",
+      "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711073006"
+    },
+    "simplify:visier solutions::simplify-abca08df-81cc-4033-8740-151c214e5686": {
+      "company": "Visier Solutions",
+      "first_seen": "2026-09-11T06:18:52+00:00",
+      "posted_at": "1789089292",
+      "title": "Software Developer Co-op",
+      "url": "https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711071006"
     },
     "simplify:visionist::simplify-1fecff90-462a-4ac7-870f-56914da0438a": {
       "company": "Visionist",
@@ -33736,6 +33792,13 @@
       "posted_at": "1785283200",
       "title": "Software Engineer 3",
       "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Excellence-Building-CA-SUNNYVALE-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2556827-1"
+    },
+    "simplify:walmart::simplify-f00e8399-0777-4e56-b2cb-0fd0631a0655": {
+      "company": "Walmart",
+      "first_seen": "2026-09-11T06:18:52+00:00",
+      "posted_at": "1788998400",
+      "title": "Software Engineer 2 Intern",
+      "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1"
     },
     "simplify:walrus::simplify-ea4a1ec2-be57-42a0-b019-7e37d08513b1": {
       "company": "Walrus",
@@ -34971,5 +35034,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-10T23:38:18+00:00"
+  "updated_at": "2026-09-11T06:18:52+00:00"
 }
