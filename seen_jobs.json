@@ -1,5 +1,5 @@
 {
-  "count": 5013,
+  "count": 5022,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -11736,6 +11736,13 @@
       "title": "Website Development & Content Marketing Intern - AI & Automation",
       "url": "https://job-boards.greenhouse.io/eulerity/jobs/4694300006"
     },
+    "simplify:eurofins::simplify-0bde796d-8c15-4ed2-aa8b-9c27e200e67c": {
+      "company": "Eurofins",
+      "first_seen": "2026-09-11T11:31:36+00:00",
+      "posted_at": "1788531016",
+      "title": "Application Engineer",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000148856049"
+    },
     "simplify:evenup::simplify-37510038-1f6f-4be0-bfe7-50811c1ee137": {
       "company": "EvenUp",
       "first_seen": "2026-08-27T03:35:02+00:00",
@@ -12666,6 +12673,13 @@
       "posted_at": "1788559378",
       "title": "Aircraft Performance Engineer Intern",
       "url": "https://careers.garmin.com/jobs/19837?icims=1"
+    },
+    "simplify:garmin::simplify-7dbe9685-0792-4856-ab07-9f72967defd3": {
+      "company": "Garmin",
+      "first_seen": "2026-09-11T11:31:36+00:00",
+      "posted_at": "1788905292",
+      "title": "Software Engineer 1 - Android",
+      "url": "https://careers.garmin.com/jobs/16587?icims=1"
     },
     "simplify:garmin::simplify-aaaa8a89-4a65-414d-ad5f-46e681c28716": {
       "company": "Garmin",
@@ -17154,6 +17168,13 @@
       "title": "Developer Intern - AI Solutions",
       "url": "https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false"
     },
+    "simplify:kinaxis::simplify-5b07d830-b50d-4cff-a64a-555dad0ea478": {
+      "company": "Kinaxis",
+      "first_seen": "2026-09-11T11:31:36+00:00",
+      "posted_at": "1789106761",
+      "title": "Developer Intern - Clients - Front End Technologies",
+      "url": "https://careers-kinaxis.icims.com/jobs/35320/job?mobile=true&needsRedirect=false"
+    },
     "simplify:kinaxis::simplify-937ea815-7e19-4bed-a8eb-a226a5201df1": {
       "company": "Kinaxis",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -19526,6 +19547,13 @@
       "posted_at": "1781762785",
       "title": "Software Engineer - Ctj - Poly",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973"
+    },
+    "simplify:microsoft::simplify-a9b5356a-b658-407e-858e-29e74df5f581": {
+      "company": "Microsoft",
+      "first_seen": "2026-09-11T11:31:35+00:00",
+      "posted_at": "1789109816",
+      "title": "Software Engineer - CoreAI",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020"
     },
     "simplify:microsoft::simplify-b281f70c-b819-47ce-8df8-cdbc3d567e98": {
       "company": "Microsoft",
@@ -26800,6 +26828,13 @@
       "title": "Software Engineer Intern - Power Systems",
       "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineering-Intern---Power-Systems_2026-22933"
     },
+    "simplify:scientific research corporation::simplify-6765f939-ce0a-421f-9d29-884dc3fe84a0": {
+      "company": "Scientific Research Corporation",
+      "first_seen": "2026-09-11T11:31:36+00:00",
+      "posted_at": "1788561614",
+      "title": "Software Developer 1",
+      "url": "https://careers-scires.icims.com/jobs/11507/job?mobile=true&needsRedirect=false"
+    },
     "simplify:scitec::simplify-b38cc126-88d4-4da7-ba9b-9fd0d262dfa0": {
       "company": "SciTec",
       "first_seen": "2026-07-24T23:33:06+00:00",
@@ -28676,6 +28711,13 @@
       "title": "Technology Co-op - Drexel University",
       "url": "https://careers-sig.icims.com/jobs/11422/job?mobile=true&needsRedirect=false"
     },
+    "simplify:swarm aero::simplify-4c49bc10-cd1b-499e-8eac-48cf3b26e69c": {
+      "company": "Swarm Aero",
+      "first_seen": "2026-09-11T11:31:36+00:00",
+      "posted_at": "1789079891",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/swarmaero/04cff1f6-c790-4773-8568-e487a03626f6/application?embed=true"
+    },
     "simplify:swbc::simplify-f704cb4b-41eb-4858-bda2-954d4ae05e74": {
       "company": "SWBC",
       "first_seen": "2026-09-08T23:04:44+00:00",
@@ -29018,6 +29060,13 @@
       "posted_at": "1788825600",
       "title": "Summer Analyst - Software Engineering Rotational Program",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--Toronto-_R_1509435"
+    },
+    "simplify:td bank::simplify-194a2192-6413-4ed0-9957-dfe5dc3f3f0c": {
+      "company": "TD Bank",
+      "first_seen": "2026-09-11T11:31:36+00:00",
+      "posted_at": "1789084800",
+      "title": "Software Engineer Co-op - Global Technology & Solutions",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Spring-Co-op---Global-Technology---Solutions---Software-Engineer--SWE-_R_1509773"
     },
     "simplify:td bank::simplify-1bb3b6dc-d26f-4ad3-87f2-029a5a75f6f2": {
       "company": "TD Bank",
@@ -33891,6 +33940,13 @@
       "title": "Technology Undergraduate Intern",
       "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778"
     },
+    "simplify:wellmark::simplify-127d20c7-244f-4630-9b44-e23957ff0d16": {
+      "company": "Wellmark",
+      "first_seen": "2026-09-11T11:31:36+00:00",
+      "posted_at": "1789106706",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148915793"
+    },
     "simplify:wellmark::simplify-7f7e2f8b-d239-4ab5-ba0f-7ddc4ecbef45": {
       "company": "Wellmark",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -34724,6 +34780,13 @@
       "title": "Software Development Engineer",
       "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Development-Engineer_R19357-1"
     },
+    "simplify:zoom::simplify-f5b391e6-764a-4995-96ae-c6e50664aef5": {
+      "company": "Zoom",
+      "first_seen": "2026-09-11T11:31:35+00:00",
+      "posted_at": "1789084800",
+      "title": "Software Engineer - Workforce Engagement Management",
+      "url": "https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/Software-Engineer_R19646-1"
+    },
     "simplify:zoomifier::simplify-149cce4b-7421-4fc6-8841-bd40fabd4c41": {
       "company": "Zoomifier",
       "first_seen": "2026-08-18T01:43:55+00:00",
@@ -35034,5 +35097,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-11T06:18:52+00:00"
+  "updated_at": "2026-09-11T11:31:36+00:00"
 }
