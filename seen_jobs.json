@@ -1,5 +1,5 @@
 {
-  "count": 5026,
+  "count": 5034,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -822,6 +822,48 @@
       "posted_at": "2026-07-08T17:38:21-04:00",
       "title": "Campus Systems Engineer (Full-Time)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8008112"
+    },
+    "lyft::8767534002": {
+      "company": "Lyft",
+      "first_seen": "2026-09-11T18:28:10+00:00",
+      "posted_at": "2026-09-11T12:49:13-04:00",
+      "title": "Software Engineer Intern, Test Automation (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002"
+    },
+    "lyft::8767710002": {
+      "company": "Lyft",
+      "first_seen": "2026-09-11T18:28:10+00:00",
+      "posted_at": "2026-09-11T12:48:00-04:00",
+      "title": "Software Engineer Intern, Backend (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002"
+    },
+    "lyft::8767726002": {
+      "company": "Lyft",
+      "first_seen": "2026-09-11T18:28:10+00:00",
+      "posted_at": "2026-09-11T12:46:45-04:00",
+      "title": "Software Engineer Intern, Backend (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002"
+    },
+    "lyft::8796054002": {
+      "company": "Lyft",
+      "first_seen": "2026-09-11T18:28:10+00:00",
+      "posted_at": "2026-09-11T12:49:30-04:00",
+      "title": "Software Engineer Intern, Backend (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002"
+    },
+    "lyft::8797837002": {
+      "company": "Lyft",
+      "first_seen": "2026-09-11T18:28:10+00:00",
+      "posted_at": "2026-09-11T12:47:31-04:00",
+      "title": "Software Engineer Intern, Fullstack (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002"
+    },
+    "lyft::8797859002": {
+      "company": "Lyft",
+      "first_seen": "2026-09-11T18:28:10+00:00",
+      "posted_at": "2026-09-11T12:48:36-04:00",
+      "title": "Software Engineer Intern, Fullstack (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002"
     },
     "netflix::790313241540": {
       "company": "Netflix",
@@ -10637,6 +10679,13 @@
       "title": "Software Engineering Intern - Test Automation",
       "url": "https://job-boards.greenhouse.io/digs/jobs/4663939006"
     },
+    "simplify:diligencevault::simplify-d08e5d29-f031-4f1a-a171-3f94c18c42e6": {
+      "company": "DiligenceVault",
+      "first_seen": "2026-09-11T18:28:10+00:00",
+      "posted_at": "1789139992",
+      "title": "AI Engineer Intern",
+      "url": "https://diligencevault.applytojob.com/apply/Yo3RhxiDyM/AI-Engineer-Intern"
+    },
     "simplify:diligent corporation::simplify-d2726d53-5ea3-4e53-ac66-793145403143": {
       "company": "Diligent Corporation",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -16663,6 +16712,13 @@
       "posted_at": "1788290307",
       "title": "Systems Exploitation Intern - Reverse Engineer - Systems Exploitation",
       "url": "https://careers.jhuapl.edu/jobs/59798?icims=1"
+    },
+    "simplify:johns hopkins applied physics laboratory::simplify-e97a377e-d1c0-4278-86c7-389bacdaa737": {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "first_seen": "2026-09-11T18:28:10+00:00",
+      "posted_at": "1789140915",
+      "title": "Decision Science Intern - Software Engineer",
+      "url": "https://careers.jhuapl.edu/jobs/60040?icims=1"
     },
     "simplify:johns hopkins applied physics laboratory::simplify-ecc2c90c-04f4-47ed-9368-45700dfe66c6": {
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -35125,5 +35181,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-11T15:10:03+00:00"
+  "updated_at": "2026-09-11T18:28:10+00:00"
 }
