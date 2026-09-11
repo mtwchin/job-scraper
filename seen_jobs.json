@@ -1,5 +1,5 @@
 {
-  "count": 5034,
+  "count": 5036,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -865,6 +865,13 @@
       "title": "Software Engineer Intern, Fullstack (Summer 2027)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002"
     },
+    "lyft::8802332002": {
+      "company": "Lyft",
+      "first_seen": "2026-09-11T21:08:14+00:00",
+      "posted_at": "2026-09-11T15:58:05-04:00",
+      "title": "Software Engineer Intern, Machine Learning (Summer 2027)",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002"
+    },
     "netflix::790313241540": {
       "company": "Netflix",
       "first_seen": "2026-06-29T20:24:39+00:00",
@@ -1676,6 +1683,13 @@
       "posted_at": "2026-09-09T19:40:26-04:00",
       "title": "Systems Engineering Intern Summer 2027",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987046003"
+    },
+    "rocket lab::7993156003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-09-11T21:08:14+00:00",
+      "posted_at": "2026-09-11T16:34:49-04:00",
+      "title": "Spacecraft Propulsion Systems Engineer I",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7993156003"
     },
     "salesforce::Missionforce---Associate-Forward-Deployed-Engineer--FDE---Public-Sector_JR333171": {
       "company": "Salesforce",
@@ -35181,5 +35195,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-11T18:28:10+00:00"
+  "updated_at": "2026-09-11T21:08:14+00:00"
 }
