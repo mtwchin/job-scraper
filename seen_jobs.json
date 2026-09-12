@@ -1,5 +1,5 @@
 {
-  "count": 5115,
+  "count": 5118,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -17756,12 +17756,33 @@
       "title": "AI Frontend Engineer",
       "url": "https://jobs.ashbyhq.com/klarity-ai/fc094114-4d6e-4bf5-977f-c5b37d7e33e1/application?embed=true"
     },
+    "simplify:klaviyo::simplify-155087e9-02c4-4e9c-af43-3d7e5a3a6091": {
+      "company": "Klaviyo",
+      "first_seen": "2026-09-12T18:23:19+00:00",
+      "posted_at": "1789234577",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003"
+    },
+    "simplify:klaviyo::simplify-5077be7d-bf97-4e0b-8fad-8674bf28d206": {
+      "company": "Klaviyo",
+      "first_seen": "2026-09-12T18:23:19+00:00",
+      "posted_at": "1789234577",
+      "title": "Software Engineer 1",
+      "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989324003"
+    },
     "simplify:klaviyo::simplify-72ad42ac-5813-49d3-9be4-1a0eec0b481a": {
       "company": "Klaviyo",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1781791696",
       "title": "Software Engineer 2",
       "url": "https://job-boards.greenhouse.io/klaviyojobs/jobs/7764229003"
+    },
+    "simplify:klaviyo::simplify-90073809-4e42-4a91-9c65-c5750c320aba": {
+      "company": "Klaviyo",
+      "first_seen": "2026-09-12T18:23:19+00:00",
+      "posted_at": "1789234577",
+      "title": "Software Engineer Co-op",
+      "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003"
     },
     "simplify:koah::simplify-6677ee34-5236-4d72-a9f0-40a1b0ec9227": {
       "company": "Koah",
@@ -35748,5 +35769,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-12T16:13:15+00:00"
+  "updated_at": "2026-09-12T18:23:19+00:00"
 }
