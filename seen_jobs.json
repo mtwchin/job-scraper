@@ -1,5 +1,5 @@
 {
-  "count": 5113,
+  "count": 5115,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -20703,6 +20703,13 @@
       "title": "Member of Technical Staff Intern",
       "url": "https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866"
     },
+    "simplify:nerdio::simplify-5f62b02a-d87f-4a82-9762-6fdf7588a8f1": {
+      "company": "Nerdio",
+      "first_seen": "2026-09-12T16:13:15+00:00",
+      "posted_at": "1787958094",
+      "title": "Solutions Engineer - Early Career",
+      "url": "https://ats.rippling.com/nerdio-careers/jobs/0b82e6f3-fd54-40d7-996a-ca02b4c67f67"
+    },
     "simplify:netsmart::simplify-86e907c2-6aef-4071-ae6c-20a9c6b7306c": {
       "company": "Netsmart",
       "first_seen": "2026-08-04T00:17:51+00:00",
@@ -34206,6 +34213,13 @@
       "title": "Software Engineer - Desktop Frontend Developer - C#/Winforms",
       "url": "https://job-boards.greenhouse.io/virtu/jobs/8516902002"
     },
+    "simplify:virtual technologies group::simplify-62062c60-b51b-42e1-ad42-76f03297fcb6": {
+      "company": "Virtual Technologies Group",
+      "first_seen": "2026-09-12T16:13:15+00:00",
+      "posted_at": "1789079565",
+      "title": "Web Developer - Front End",
+      "url": "https://virtualtechnologygroupllc.applytojob.com/apply/7eGy8jc0JK/Web-Developer"
+    },
     "simplify:visa::simplify-1997626d-c3df-42dc-9710-0ea1e9fc21b4": {
       "company": "Visa",
       "first_seen": "2026-07-25T10:11:31+00:00",
@@ -35734,5 +35748,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-12T09:34:54+00:00"
+  "updated_at": "2026-09-12T16:13:15+00:00"
 }
