@@ -1,5 +1,5 @@
 {
-  "count": 5122,
+  "count": 5126,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1544,12 +1544,40 @@
       "title": "Software Engineer Intern",
       "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer-Intern_R-059038"
     },
+    "red hat::Software-Engineering-Full-Stack-Internship---GenAI-Studio--Waterford-office--Ireland-_R-059199": {
+      "company": "Red Hat",
+      "first_seen": "2026-09-13T23:22:26+00:00",
+      "posted_at": "Posted Today",
+      "title": "Software Engineering Full-Stack Internship - GenAI Studio (Waterford office, Ireland)",
+      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Waterford-City/Software-Engineering-Full-Stack-Internship---GenAI-Studio--Waterford-office--Ireland-_R-059199"
+    },
     "red hat::Software-Engineering-Intern_R-058560": {
       "company": "Red Hat",
       "first_seen": "2026-07-24T12:43:34+00:00",
       "posted_at": "Posted Today",
       "title": "Software Engineering Intern",
       "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560"
+    },
+    "red hat::Software-Engineering-Internship---Agent-Operations--Waterford-Dublin-office--Ireland-_R-059228": {
+      "company": "Red Hat",
+      "first_seen": "2026-09-13T23:22:26+00:00",
+      "posted_at": "Posted Today",
+      "title": "Software Engineering Internship - Agent Operations (Waterford/Dublin office, Ireland)",
+      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Waterford-City/Software-Engineering-Internship---Agent-Operations--Waterford-Dublin-office--Ireland-_R-059228"
+    },
+    "red hat::Software-Engineering-Internship---Trusted-Artifact-Signer--Waterford-office--Ireland-_R-059210": {
+      "company": "Red Hat",
+      "first_seen": "2026-09-13T23:22:26+00:00",
+      "posted_at": "Posted Today",
+      "title": "Software Engineering Internship - Trusted Artifact Signer (Waterford office, Ireland)",
+      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Waterford-City/Software-Engineering-Internship---Trusted-Artifact-Signer--Waterford-office--Ireland-_R-059210"
+    },
+    "red hat::Software-Engineering-Internship--OpenShift-Observability--Waterford-office--Ireland-_R-059227": {
+      "company": "Red Hat",
+      "first_seen": "2026-09-13T23:22:26+00:00",
+      "posted_at": "Posted Today",
+      "title": "Software Engineering Internship- OpenShift Observability (Waterford office, Ireland)",
+      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Waterford-City/Software-Engineering-Internship--OpenShift-Observability--Waterford-office--Ireland-_R-059227"
     },
     "replit::12737078-74c7-4e63-98a7-5e8da1e9deb1": {
       "company": "Replit",
@@ -35797,5 +35825,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-13T19:24:49+00:00"
+  "updated_at": "2026-09-13T23:22:26+00:00"
 }
