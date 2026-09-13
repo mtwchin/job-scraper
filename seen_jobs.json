@@ -1,5 +1,5 @@
 {
-  "count": 5119,
+  "count": 5120,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -17594,6 +17594,13 @@
       "posted_at": "1784596354",
       "title": "Software Engineer Intern - AI Agents + Devices",
       "url": "https://jobs.ashbyhq.com/kirin/38772f01-84fd-4f09-a36d-e7fa86341b99/application?embed=true"
+    },
+    "simplify:kitware::simplify-8a02cc33-4d2c-40f2-bf82-81861d00b429": {
+      "company": "Kitware",
+      "first_seen": "2026-09-13T04:45:06+00:00",
+      "posted_at": "1789265261",
+      "title": "Software Developer",
+      "url": "https://jobs.lever.co/kitware/dbaac56b-26b2-43b9-8ae3-354b6662ea89/apply"
     },
     "simplify:kitware::simplify-94ba7763-9880-4945-95b0-821a78534555": {
       "company": "Kitware",
@@ -35776,5 +35783,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-12T20:41:06+00:00"
+  "updated_at": "2026-09-13T04:45:06+00:00"
 }
