@@ -1,5 +1,5 @@
 {
-  "count": 5120,
+  "count": 5122,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -5141,6 +5141,20 @@
       "posted_at": "1786060800",
       "title": "Cloud Developer Intern - Fcap",
       "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2"
+    },
+    "simplify:autostore::simplify-e0d5fa3b-7f59-44fd-a66e-2752562258b6": {
+      "company": "Autostore",
+      "first_seen": "2026-09-13T19:24:49+00:00",
+      "posted_at": "1789257600",
+      "title": "Software Engineering Co-op",
+      "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692"
+    },
+    "simplify:autostore::simplify-f856788a-97a4-4332-a414-c568ed12438d": {
+      "company": "Autostore",
+      "first_seen": "2026-09-13T19:24:49+00:00",
+      "posted_at": "1789257600",
+      "title": "Entry Level Software Engineer",
+      "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Entry-Level-Software-Engineer_JR102691"
     },
     "simplify:autozone::simplify-93719788-ccef-4aa1-b254-806b22d56b81": {
       "company": "AutoZone",
@@ -35783,5 +35797,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-13T04:45:06+00:00"
+  "updated_at": "2026-09-13T19:24:49+00:00"
 }
