@@ -1,5 +1,5 @@
 {
-  "count": 5535,
+  "count": 5544,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -8214,6 +8214,16 @@
       "posted_at": "1774306885",
       "title": "Software Engineer",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Annapolis-Junction/Software-Engineer-Skill-Level-0_323580"
+    },
+    "simplify:caci::simplify-6fc8f9e1-d79d-45f7-917a-3b0b799a9ae7": {
+      "company": "CACI",
+      "first_seen": "2026-09-14T21:05:22+00:00",
+      "last_seen": "2026-09-14T21:05:22+00:00",
+      "location": "San Antonio, TX",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Software Developer",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/San-Antonio-TX-US/Software-Developer_332051"
     },
     "simplify:caci::simplify-72985476-1779-4c98-b2ad-be7924937896": {
       "company": "CACI",
@@ -21135,12 +21145,92 @@
       "title": "Engineering Software Applications Analyst",
       "url": "https://jobs.ashbyhq.com/fr/c282a2ba-076b-4ff7-ae2e-e86abc5b873d/application?embed=true"
     },
+    "simplify:mbda::simplify-3909031b-a185-414c-b03c-bc202f0695db": {
+      "company": "MBDA",
+      "first_seen": "2026-09-14T21:05:22+00:00",
+      "last_seen": "2026-09-14T21:05:22+00:00",
+      "location": "Bristol, UK, Stevenage, UK",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Simulation and Modelling Engineer New Grad",
+      "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Simulation-and-Modelling-Engineer---Graduate-Programme-2027_R37832"
+    },
     "simplify:mbda::simplify-401ae4e3-b75b-4dec-9758-78342889359f": {
       "company": "MBDA",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1782559650",
       "title": "Women in Engineering Community",
       "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Women-in-Engineering-Community_R23836"
+    },
+    "simplify:mbda::simplify-4cf5c067-5cdb-4a42-9c07-f638e8cc4280": {
+      "company": "MBDA",
+      "first_seen": "2026-09-14T21:07:22+00:00",
+      "last_seen": "2026-09-14T21:07:22+00:00",
+      "location": "Bristol, UK, Stevenage, UK",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Simulation and Modelling Engineer - Undergraduate Placement",
+      "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Simulation-and-Modelling-Engineer---Undergraduate-Placement-2027_R38688"
+    },
+    "simplify:mbda::simplify-5088fa08-1fde-498a-b509-50c003c17fa5": {
+      "company": "MBDA",
+      "first_seen": "2026-09-14T21:07:22+00:00",
+      "last_seen": "2026-09-14T21:07:22+00:00",
+      "location": "Stevenage, UK",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Engineer---Summer-Placement-2027_R37759"
+    },
+    "simplify:mbda::simplify-8c99415f-da68-4a3b-b2eb-ba83bc24e6dc": {
+      "company": "MBDA",
+      "first_seen": "2026-09-14T21:07:22+00:00",
+      "last_seen": "2026-09-14T21:07:22+00:00",
+      "location": "Bristol, UK, Stevenage, UK",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Weapon System Simulation & Experimentation Engineer - Undergraduate Placement",
+      "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Weapon-System-Simulation---Experimentation-Engineer---Undergraduate-Placement-2027_R37568"
+    },
+    "simplify:mbda::simplify-a1e7acba-8ab8-465d-96ef-b9311e989cd7": {
+      "company": "MBDA",
+      "first_seen": "2026-09-14T21:05:22+00:00",
+      "last_seen": "2026-09-14T21:05:22+00:00",
+      "location": "Bristol, UK, Stevenage, UK",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Weapon Systems Algorithms Engineer New Grad",
+      "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Weapon-Systems-Algorithms-Engineer---Graduate-Programme-2027_R37707"
+    },
+    "simplify:mbda::simplify-aa3c83d6-07d6-42b6-8f0d-a6922438b781": {
+      "company": "MBDA",
+      "first_seen": "2026-09-14T21:07:22+00:00",
+      "last_seen": "2026-09-14T21:07:22+00:00",
+      "location": "Stevenage, UK",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Software Engineer - Undergraduate Placement",
+      "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Engineer---Undergraduate-Placement-2027_R37757"
+    },
+    "simplify:mbda::simplify-b3f0d1e5-bb8a-45fb-b329-f6f07432e449": {
+      "company": "MBDA",
+      "first_seen": "2026-09-14T21:07:22+00:00",
+      "last_seen": "2026-09-14T21:07:22+00:00",
+      "location": "Bristol, UK, Stevenage, UK",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Weapon Systems Algorithms Engineer - Undergraduate Placement",
+      "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Weapon-Systems-Algorithms-Engineer---Undergraduate-Placement-2027_R37726"
+    },
+    "simplify:mbda::simplify-ee68f394-118f-46e4-9fde-768b0ab09b67": {
+      "company": "MBDA",
+      "first_seen": "2026-09-14T21:07:22+00:00",
+      "last_seen": "2026-09-14T21:07:22+00:00",
+      "location": "Bristol, UK",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Software Engineer - Undergraduate Placement",
+      "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Software-Engineer---Undergraduate-Placement-2027_R37445"
     },
     "simplify:mcdonald's::simplify-8b055c51-7d1e-44f0-b190-12b9ab15e25a": {
       "company": "McDonald's",
@@ -42299,5 +42389,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-14T20:39:26+00:00"
+  "updated_at": "2026-09-14T21:09:28+00:00"
 }
