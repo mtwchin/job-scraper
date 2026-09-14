@@ -51,6 +51,43 @@ INCLUDE_UNKNOWN_LOCATIONS = os.environ.get(
 # just went live).
 STALE_POSTED_DAYS = int(os.environ.get("STALE_POSTED_DAYS", "21"))
 
+# --- Dedup -----------------------------------------------------------------
+# Besides the per-source id, collapse postings that share a canonical apply URL
+# (always on — two links to the same page are the same job) and, when this is
+# true, postings that share company + title + location. The fingerprint catches
+# a board reissuing one opening under a fresh requisition id; location is part
+# of the key, so the same title genuinely posted in several offices is still
+# treated as several openings. Turn it off to accept a few repeats rather than
+# risk ever suppressing a distinct role.
+FINGERPRINT_DEDUP = os.environ.get("FINGERPRINT_DEDUP", "true").lower() in {"1", "true", "yes"}
+
+# Drop store records for postings that no board has listed in this many days.
+# Keyed on last-seen, so a still-open role is never pruned however old it is;
+# only genuinely delisted roles age out. Keeps seen_jobs.json from growing
+# without bound. 0 disables pruning.
+PRUNE_DELISTED_DAYS = int(os.environ.get("PRUNE_DELISTED_DAYS", "120"))
+
+# --- Watch mode ------------------------------------------------------------
+# `jobscraper watch` polls continuously inside one process instead of relying on
+# the scheduler to re-invoke us. GitHub's cron is throttled hard in practice
+# (observed: one run every 2-6 hours against a */5 schedule), so a long-lived
+# loop is the only way to get detection latency down to minutes.
+#
+# Seconds between polls of the cheap aggregator feeds. These are single
+# conditional GETs that return 304 when nothing changed, so a short interval
+# costs almost nothing.
+WATCH_INTERVAL = int(os.environ.get("WATCH_INTERVAL", "60"))
+# Seconds between full sweeps of every company's own ATS. Much heavier (hundreds
+# of requests), so it runs on its own slower cadence.
+WATCH_COMPANY_INTERVAL = int(os.environ.get("WATCH_COMPANY_INTERVAL", "300"))
+# How long the loop runs before exiting cleanly, in seconds. Sized to sit under
+# the 6-hour ceiling GitHub puts on a single job, leaving room for the final
+# state push.
+WATCH_DURATION = int(os.environ.get("WATCH_DURATION", str(5 * 3600 + 30 * 60)))
+# Flush state to disk at most this often (seconds) while looping. Any cycle that
+# actually sends notifications flushes immediately regardless.
+WATCH_FLUSH_INTERVAL = int(os.environ.get("WATCH_FLUSH_INTERVAL", "300"))
+
 # --- Behavior --------------------------------------------------------------
 # Print what would be sent, don't actually call Discord and don't save state.
 DRY_RUN = os.environ.get("DRY_RUN", "false").lower() in {"1", "true", "yes"}
@@ -80,24 +117,37 @@ CONCURRENCY = int(os.environ.get("CONCURRENCY", "12"))
 # a systemic break (a platform outage, a shipped bug) rather than one stale board.
 HEALTH_ALERT_THRESHOLD = float(os.environ.get("HEALTH_ALERT_THRESHOLD", "0.25"))
 
-# --- Simplify aggregator source --------------------------------------------
-# Also pull from SimplifyJobs' community GitHub listing repos and alert on new
-# postings whose company is in companies.md. This adds coverage — including for
-# the disabled custom-site companies (Apple, Meta, Tesla, …) that we can't scrape
-# directly but Simplify often lists.
+# --- Community aggregator feeds --------------------------------------------
+# Several community repos publish a machine-readable listings.json of open
+# intern / new-grad roles. They're valuable for two reasons: they cover the
+# custom-site companies we can't scrape directly (Apple, Meta, Tesla, ...), and
+# they're a single small conditional GET, so we can poll them every minute for
+# effectively nothing when unchanged.
 SIMPLIFY_ENABLED = os.environ.get("SIMPLIFY_ENABLED", "true").lower() in {"1", "true", "yes"}
-# (repo, branch, role_type) on github.com/SimplifyJobs. The Summer repo carries
-# both summer and off-season internships; New-Grad carries new-grad roles.
-SIMPLIFY_REPOS = [
-    ("Summer2026-Internships", "dev", "intern"),
-    ("New-Grad-Positions", "dev", "new_grad"),
+
+# (owner, repo, branch, role_type, pre_categorized).
+#
+# pre_categorized=True means the feed labels each listing with a `category`, so
+# we can trust its own "this is a software role" call and skip title matching
+# (which catches e.g. "Systems Engineer Intern"). Feeds without that field get
+# the normal title-based role filter instead.
+AGGREGATOR_FEEDS = [
+    ("SimplifyJobs", "Summer2026-Internships", "dev", "intern", True),
+    ("SimplifyJobs", "New-Grad-Positions", "dev", "new_grad", True),
+    # cvrve's feeds track the following cycle and carry roles Simplify hasn't
+    # picked up yet. No `category` field, so these are title-filtered.
+    ("vanshb03", "Summer2027-Internships", "dev", "intern", False),
+    ("vanshb03", "New-Grad-2027", "dev", "new_grad", False),
 ]
 
-# Also post every company Simplify lists (no companies.md filter) to a second,
-# separate channel via DISCORD_WEBHOOK_URL_ALL — for "any SWE role, not just
-# prestige-list companies". A job already matched into the curated feed above
-# is never repeated here (deduped by uid within the same run, and by
-# seen_jobs.json across runs). Actually fetching/seeding only happens once
-# DISCORD_WEBHOOK_URL_ALL is set (or DRY_RUN), so turning this on doesn't
-# quietly burn through the backlog before you've wired up the webhook.
+# Sources whose listings are already curated to software roles upstream, so the
+# title-based role filter is skipped for them.
+PRE_CATEGORIZED_SOURCES = {"simplify"}
+
+# Also post every company the aggregators list (no companies.md filter) to a
+# second channel via DISCORD_WEBHOOK_URL_ALL — for "any SWE role, not just
+# prestige-list companies". A job already matched into the curated feed is never
+# repeated here. Fetching/seeding only starts once DISCORD_WEBHOOK_URL_ALL is
+# set (or DRY_RUN), so turning this on doesn't quietly burn through the backlog
+# before the webhook is wired up.
 SIMPLIFY_ALL_ENABLED = os.environ.get("SIMPLIFY_ALL_ENABLED", "true").lower() in {"1", "true", "yes"}

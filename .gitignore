@@ -4,3 +4,5 @@ __pycache__/
 .env
 *.tmp
 seen_jobs.json.tmp
+seen_jobs.json.lock
+*.lock

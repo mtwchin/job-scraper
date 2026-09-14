@@ -42,6 +42,28 @@ def try_ashby(slug: str):
     return None
 
 
+def try_smartrecruiters(slug: str):
+    r = http.get(f"https://api.smartrecruiters.com/v1/companies/{slug}/postings?limit=5", retries=0)
+    if r.ok and (r.json().get("content") or r.json().get("totalFound")):
+        return ("smartrecruiters", f"id={slug}", r.json().get("totalFound", "?"))
+    return None
+
+
+def try_workable(slug: str):
+    r = http.get(f"https://apply.workable.com/api/v1/widget/accounts/{slug}?details=true",
+                 retries=0)
+    if r.ok and r.json().get("jobs"):
+        return ("workable", f"slug={slug}", len(r.json()["jobs"]))
+    return None
+
+
+def try_recruitee(slug: str):
+    r = http.get(f"https://{slug}.recruitee.com/api/offers/", retries=0)
+    if r.ok and r.json().get("offers"):
+        return ("recruitee", f"slug={slug}", len(r.json()["offers"]))
+    return None
+
+
 def try_workday(host: str, tenant: str, site: str):
     api = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
     r = http.post(
@@ -66,6 +88,15 @@ def from_url(url: str):
     m = re.search(r"(?:jobs\.ashbyhq\.com|ashbyhq\.com/[^/]*job-board[^/]*)/([a-z0-9-]+)", url, re.I)
     if m:
         return try_ashby(m.group(1))
+    m = re.search(r"jobs\.smartrecruiters\.com/([A-Za-z0-9_-]+)", url, re.I)
+    if m:
+        return try_smartrecruiters(m.group(1))
+    m = re.search(r"(?:apply\.workable\.com|([a-z0-9-]+)\.workable\.com)/(?:([a-z0-9-]+))?", url, re.I)
+    if m and (m.group(1) or m.group(2)):
+        return try_workable(m.group(1) or m.group(2))
+    m = re.search(r"([a-z0-9-]+)\.recruitee\.com", url, re.I)
+    if m:
+        return try_recruitee(m.group(1))
     m = re.search(r"https?://([a-z0-9-]+\.wd\d+\.myworkdayjobs\.com)/(?:[a-zA-Z-]+/)?([A-Za-z0-9_-]+)", url, re.I)
     if m:
         host, site = m.group(1), m.group(2)
@@ -79,6 +110,9 @@ def from_url(url: str):
         (r"(?:boards|job-boards)\.greenhouse\.io/([a-z0-9_]+)", try_greenhouse),
         (r"jobs\.lever\.co/([a-z0-9-]+)", try_lever),
         (r"jobs\.ashbyhq\.com/([a-z0-9-]+)", try_ashby),
+        (r"jobs\.smartrecruiters\.com/([A-Za-z0-9_-]+)", try_smartrecruiters),
+        (r"apply\.workable\.com/([a-z0-9-]+)", try_workable),
+        (r"([a-z0-9-]+)\.recruitee\.com", try_recruitee),
     ]:
         m = re.search(pat, html, re.I)
         if m and (hit := fn(m.group(1))):
@@ -96,12 +130,22 @@ def from_name(name: str):
     dashed = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
     slugs = list(dict.fromkeys([base, dashed, f"{base}careers", f"{base}us", f"{base}inc", f"{base}jobs"]))
     for slug in slugs:
-        for fn in (try_greenhouse, try_lever, try_ashby):
+        for fn in (try_greenhouse, try_lever, try_ashby, try_workable, try_recruitee):
             try:
                 if hit := fn(slug):
                     return hit
             except Exception:
                 continue
+    # SmartRecruiters company identifiers are CamelCase rather than a lowercase
+    # slug, and tenants that migrated carry a trailing digit ("Acme2"), so they
+    # need their own candidate list.
+    camel = re.sub(r"[^A-Za-z0-9]+", "", name.title())
+    for slug in dict.fromkeys([camel, f"{camel}2", f"{camel}1", base]):
+        try:
+            if hit := try_smartrecruiters(slug):
+                return hit
+        except Exception:
+            continue
     return None
 
 
@@ -122,7 +166,8 @@ def main(argv: list[str]) -> int:
             print(f"   companies.md row:")
             print(f"   | {target[:14]:<14} | {adapter:<10} | {config:<40} | yes | Verified |")
         else:
-            print(f"\n❌ {target}: no public Greenhouse/Lever/Ashby/Workday board found.")
+            print(f"\n❌ {target}: no public board found "
+                  f"(tried Greenhouse/Lever/Ashby/Workday/SmartRecruiters/Workable/Recruitee).")
             print("   It's likely a custom/JS-rendered site. Open its careers page, copy")
             print("   the real board URL (address bar or DevTools→Network), and pass that.")
     return 0

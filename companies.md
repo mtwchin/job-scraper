@@ -7,17 +7,23 @@ It is parsed by `jobscraper/companies.py` — keep the table format intact.
 
 - **Company** — display name shown in Discord.
 - **Adapter** — which fetcher to use: `amazon`, `microsoft`, `apple`, `google`,
-  `meta`, `greenhouse`, `lever`, or `workday`.
+  `meta`, `greenhouse`, `lever`, `ashby`, `workday`, `eightfold`,
+  `smartrecruiters`, `workable`, or `recruitee`.
 - **Config** — `key=value` pairs separated by `;`. Empty for custom adapters
   (amazon/microsoft/apple/google/meta). Required for the generic adapters:
   - `greenhouse` → `token=<board_token>`  (e.g. the slug in boards.greenhouse.io/<token>)
   - `lever` → `slug=<company_slug>`        (e.g. the slug in jobs.lever.co/<slug>)
   - `ashby` → `slug=<company_slug>`        (e.g. the slug in jobs.ashbyhq.com/<slug>)
   - `workday` → `host=<sub.domain>;tenant=<tenant>;site=<site>`
+  - `smartrecruiters` → `id=<company identifier>` (CamelCase, often with a trailing digit)
+  - `workable` → `slug=<account slug>`
+  - `recruitee` → `slug=<company slug>`
 - **On** — `yes` to check this company, `no` to skip it.
 - **Notes** — anything; ignored by the parser.
 
 To add a company: add a row. To pause one: set **On** to `no`.
+Use `jobscraper discover <name|url>` to find a company's adapter + config, and
+`jobscraper probe <adapter> <config>` to confirm the adapter actually parses it.
 Tokens marked `(verify)` are best guesses — if a company returns 0 jobs, the
 token/slug is probably wrong. See the README for how to find the right one.
 
@@ -82,7 +88,7 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Snowflake      | ashby      | slug=snowflake                                                     | yes | Verified (fixed from bad greenhouse token) |
 | Akuna Capital  | greenhouse | token=akunacapital                                                 | yes | Verified — quant |
 | LinkedIn       | custom     |                                                                    | no  | Microsoft-owned; custom careers site |
-| Hugging Face   | custom     |                                                                    | no  | No public ATS API found |
+| Hugging Face   | workable   | slug=huggingface                                                   | yes | Verified via CI probe — Workable |
 | Disney         | workday    |                                                                    | no  | Workday — need host/tenant/site |
 | GitHub         | custom     |                                                                    | no  | Microsoft-owned; custom careers site |
 | Bloomberg      | custom     |                                                                    | no  | Custom careers site |
@@ -95,18 +101,18 @@ token/slug is probably wrong. See the README for how to find the right one.
 | NASA           | custom     |                                                                    | no  | Government — USAJobs.gov |
 | ByteDance      | custom     |                                                                    | no  | Custom careers site |
 | Twitch         | custom     |                                                                    | no  | Amazon-owned; custom careers site |
-| Indeed         | custom     |                                                                    | no  | No public ATS API for main brand |
+| Indeed         | smartrecruiters | id=Indeed1                                                    | yes | Verified via CI probe — SmartRecruiters |
 | Slack          | workday    |                                                                    | no  | Salesforce-owned; Workday — need config |
 | Blue Origin    | custom     |                                                                    | no  | No public ATS API found |
 | Snap           | custom     |                                                                    | no  | Custom careers site |
-| Atlassian      | custom     |                                                                    | no  | Custom careers site |
+| Atlassian      | smartrecruiters | id=Atlassian2                                                 | yes | Verified via CI probe — small SR tenant, main board is elsewhere |
 | Verily         | custom     |                                                                    | no  | Alphabet; no public ATS API found |
 | MongoDB        | greenhouse | token=mongodb                                                      | yes | Verified |
 | Goldman Sachs  | custom     |                                                                    | no  | Custom careers site |
 | Flow Traders   | greenhouse | token=flowtraders                                                  | yes | Verified — quant |
 | eBay           | workday    |                                                                    | no  | Workday — need host/tenant/site |
 | Oracle         | custom     |                                                                    | no  | Custom careers site |
-| Palo Alto Networks | custom     |                                                                    | no  | SmartRecruiters — needs adapter |
+| Palo Alto Networks | smartrecruiters | id=PaloAltoNetworks1                                      | yes | Verified via CI probe — small SR tenant |
 | Riot Games     | greenhouse | token=riotgames                                                    | yes | Verified |
 | Shopify        | custom     |                                                                    | no  | Custom careers site |
 | Splunk         | workday    |                                                                    | no  | Now part of Cisco's board (cisco.wd5/Cisco_Careers) |
