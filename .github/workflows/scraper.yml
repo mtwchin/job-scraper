@@ -1,15 +1,37 @@
 name: internship-radar
 
+# Detection latency, not schedule frequency, is what matters here — and the two
+# are not the same thing. This workflow used to ask for `*/5 * * * *` and simply
+# scrape once per run. In practice GitHub throttles scheduled workflows heavily:
+# consecutive runs on this repo landed 2-6 HOURS apart, and the freshest posting
+# ever caught was ten minutes old.
+#
+# So a run no longer scrapes once and exits. It starts a watch loop that stays
+# alive for ~5.5h, polling the aggregator feeds every minute (conditional GETs
+# that cost a 304 when nothing changed) and sweeping every company's ATS every
+# five. The cron below is now just a way to get a loop started: whenever it does
+# fire, the concurrency group holds the new run until the current loop finishes,
+# so coverage is continuous rather than sampled.
+
 on:
   schedule:
-    # Every 5 minutes — GitHub's minimum, for the freshest catches. Note GitHub
-    # does not guarantee on-time scheduled runs (they can be delayed/skipped under
-    # load), so effective cadence is often ~5-12 min. Free + unlimited because the
-    # repo is public.
+    # Fires far less often than this in practice — that's fine and expected.
+    # Its job is to make sure a loop is always queued behind the running one.
     - cron: "*/5 * * * *"
-  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+  workflow_dispatch:
+    inputs:
+      duration_seconds:
+        description: "How long the watch loop should run (seconds)"
+        required: false
+        default: "19800"
+      interval_seconds:
+        description: "Seconds between aggregator polls"
+        required: false
+        default: "60"
 
-# Never let two runs overlap (they'd both touch seen_jobs.json).
+# Never let two loops run at once — they'd both write seen_jobs.json. A newly
+# scheduled run waits here instead of being dropped, so it starts the moment the
+# current loop exits.
 concurrency:
   group: internship-radar
   cancel-in-progress: false
@@ -18,8 +40,11 @@ permissions:
   contents: write   # needed to commit the updated seen_jobs.json back
 
 jobs:
-  scrape:
+  watch:
     runs-on: ubuntu-latest
+    # Comfortably above the loop's own duration so the loop always gets to exit
+    # cleanly and push its final state, rather than being killed mid-write.
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
 
@@ -30,25 +55,41 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Run scraper
+      - name: Configure git for state commits
+        run: |
+          git config user.name "internship-radar-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Watch for new roles
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           DISCORD_WEBHOOK_URL_ALL: ${{ secrets.DISCORD_WEBHOOK_URL_ALL }}
           ROLE_TYPES: "intern,new_grad"
           OFF_SEASON_ONLY: "false"   # include summer internships too
-          US_CANADA_ONLY: "true"   # only roles in the US or Canada
+          US_CANADA_ONLY: "true"     # only roles in the US or Canada
+          WATCH_INTERVAL: ${{ github.event.inputs.interval_seconds || '60' }}
+          WATCH_DURATION: ${{ github.event.inputs.duration_seconds || '19800' }}
+          WATCH_COMPANY_INTERVAL: "300"
+          STATE_FILE: ${{ github.workspace }}/seen_jobs.json
           # Freshness is dedup-based (alert on first detection), not board-date
           # based — board posted-dates are unreliable. See settings.py.
-        run: python -m jobscraper run
-
-      - name: Persist seen-jobs state
         run: |
-          git config user.name "internship-radar-bot"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add seen_jobs.json
-          if git diff --cached --quiet; then
-            echo "No new state to commit."
-          else
-            git commit -m "chore: update seen jobs [skip ci]"
-            git push
-          fi
+          # Checkpoint state to git while the loop runs. seen_jobs.json is the
+          # only record of what has already been sent to Discord, so if the
+          # runner dies five hours in, an uncommitted record of those five hours
+          # means every one of those jobs gets sent again. Checkpointing bounds
+          # that loss to the interval below.
+          ./scripts/persist-state.sh loop 300 &
+          persist_pid=$!
+          trap 'kill "$persist_pid" 2>/dev/null || true' EXIT
+
+          python -m jobscraper watch
+
+      - name: Persist final state
+        # Runs even if the loop errored or was cancelled: whatever it managed to
+        # send is recorded in the state file, and that record has to reach the
+        # repo or those jobs will be re-sent next run.
+        if: always()
+        env:
+          STATE_FILE: ${{ github.workspace }}/seen_jobs.json
+        run: ./scripts/persist-state.sh once

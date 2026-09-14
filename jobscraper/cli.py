@@ -1,6 +1,7 @@
 """Unified command-line interface.
 
-    jobscraper run            # fetch, filter, notify (the scheduled command)
+    jobscraper run            # one sweep: fetch, filter, notify, exit
+    jobscraper watch          # poll continuously (the scheduled command)
     jobscraper list           # show tracked companies + adapter breakdown
     jobscraper audit          # freshness report of past alerts
     jobscraper discover NAME  # detect a company's ATS config
@@ -18,6 +19,35 @@ from . import log, settings
 def _cmd_run(_args) -> int:
     from .main import main
     return main()
+
+
+def _cmd_watch(args) -> int:
+    from .watch import main_entry
+    if args.interval:
+        settings.WATCH_INTERVAL = args.interval
+    if args.company_interval:
+        settings.WATCH_COMPANY_INTERVAL = args.company_interval
+    if args.duration:
+        settings.WATCH_DURATION = args.duration
+    return main_entry()
+
+
+def _cmd_merge_state(args) -> int:
+    """Union another state file into ours — see SeenStore.merge_from."""
+    from pathlib import Path
+
+    from .state import SeenStore
+
+    other = Path(args.other)
+    if not other.exists():
+        print(f"[merge-state] {other} does not exist; nothing to merge.")
+        return 0
+    store = SeenStore(settings.STATE_FILE)
+    before = len(store)
+    added = store.merge_from(other)
+    store.save()
+    print(f"[merge-state] {before} local + {added} new from {other} = {len(store)} records")
+    return 0
 
 
 def _cmd_list(args) -> int:
@@ -117,6 +147,24 @@ def build_parser() -> argparse.ArgumentParser:
     sub = p.add_subparsers(dest="command")
 
     sub.add_parser("run", help="fetch, filter, and notify (default)").set_defaults(fn=_cmd_run)
+
+    pw = sub.add_parser(
+        "watch",
+        help="poll continuously for new roles (don't wait to be re-invoked)",
+    )
+    pw.add_argument("--interval", type=int, default=0,
+                    help=f"seconds between aggregator polls (default {settings.WATCH_INTERVAL})")
+    pw.add_argument("--company-interval", type=int, default=0,
+                    help="seconds between full company-ATS sweeps "
+                         f"(default {settings.WATCH_COMPANY_INTERVAL})")
+    pw.add_argument("--duration", type=int, default=0,
+                    help=f"seconds to run before exiting (default {settings.WATCH_DURATION})")
+    pw.set_defaults(fn=_cmd_watch)
+
+    pm = sub.add_parser("merge-state",
+                        help="union another seen-jobs file into ours (used before pushing state)")
+    pm.add_argument("other", help="path to the other seen_jobs.json")
+    pm.set_defaults(fn=_cmd_merge_state)
 
     pl = sub.add_parser("list", help="show tracked companies")
     pl.add_argument("--disabled", action="store_true", help="also list disabled companies")
