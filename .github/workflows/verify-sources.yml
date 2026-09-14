@@ -12,11 +12,6 @@ name: verify-sources
 # proves the parsing, not that the config points anywhere real.
 
 on:
-  # TEMPORARY: workflow_dispatch only accepts a ref once the workflow exists on
-  # the default branch, so this trigger is here purely to verify the new
-  # adapters against the live endpoints before merge. Remove it before merging.
-  push:
-    branches: ["claude/**"]
   workflow_dispatch:
     inputs:
       mode:
@@ -43,39 +38,6 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
-
-      - name: Inspect raw payload shapes
-        if: ${{ github.event_name == 'push' }}
-        run: |
-          python - <<'PY'
-          import json
-          from jobscraper import http
-
-          print("=== Workable: raw shape of one job ===")
-          r = http.get("https://apply.workable.com/api/v1/widget/accounts/huggingface",
-                       params={"details": "true"}, retries=1, timeout=20)
-          print("status", r.status_code)
-          data = r.json()
-          print("top-level keys:", sorted(data.keys()))
-          jobs = data.get("jobs") or []
-          print("jobs:", len(jobs))
-          if jobs:
-              print(json.dumps(jobs[0], indent=1)[:1600])
-
-          print()
-          print("=== Recruitee: find a live tenant ===")
-          for slug in ["catawiki", "mollie", "bynder", "messagebird", "sendcloud",
-                       "picnic", "framer", "otrium", "tiqets"]:
-              try:
-                  r = http.get(f"https://{slug}.recruitee.com/api/offers/", retries=0, timeout=10)
-                  n = len((r.json().get("offers") or [])) if r.ok else 0
-                  print(f"  {slug:<14} {r.status_code} offers={n}")
-                  if n:
-                      print(json.dumps(r.json()["offers"][0], indent=1)[:1200])
-                      break
-              except Exception as exc:
-                  print(f"  {slug:<14} ERROR {type(exc).__name__}: {exc}")
-          PY
 
       - name: Health-check every enabled company
         if: ${{ github.event.inputs.mode == 'doctor' }}

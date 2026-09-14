@@ -229,9 +229,19 @@ Three layers:
 1. **Per alert — the 🕐 Posted field.** Every notification shows the real posting
    time. For most boards it's a live "Posted 6 minutes ago" — that *is* the proof
    the posting is fresh, not just newly seen by a cron run.
-2. **The guarantee — `MAX_AGE_DAYS=1`.** Even if an old job is "new to us" (e.g. a
-   board gets added, or a role re-appears with a new id), it won't alert unless its
-   *posting date* is within 24 h. Dedup stops repeats; this stops stale surfacing.
+2. **Dedup, not the board's date, decides what's "new".** There is deliberately
+   no max-age gate. Board posting dates are not trustworthy — several report the
+   requisition-creation date rather than when a role went live, so a posting that
+   appeared ten minutes ago can carry a date from months back, and gating on it
+   would hide real openings permanently. "New" means *we have never seen it
+   before*, under any of the three dedup keys.
+
+   The cases where that could surface something stale are handled directly
+   instead: a brand-new source has its backlog absorbed quietly rather than
+   alerted, and a role reissued under a fresh requisition id is caught by the
+   company/title/location fingerprint. The 🕐 Posted field is suppressed when the
+   board's date is older than `STALE_POSTED_DAYS` (21 by default), so a bad date
+   never shows up as a misleading "Posted 10 months ago".
 3. **Audit the history — `python -m jobscraper.audit`.** For every job alerted, it
    reports the **catch latency** (time between the board posting it and us alerting):
 

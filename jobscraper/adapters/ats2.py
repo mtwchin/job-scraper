@@ -80,6 +80,31 @@ def fetch_smartrecruiters(company: CompanyConfig) -> list[Job]:
 # Workable
 #   GET https://apply.workable.com/api/v1/widget/accounts/<slug>?details=true
 # --------------------------------------------------------------------------- #
+def _workable_location(j: dict) -> str:
+    """Build a location string from a Workable widget job.
+
+    Workable does not nest this under a `location` key — the place is carried as
+    flat `city`/`state`/`country` fields, plus a `locations` array when a role is
+    open in more than one office. Reading a nested object here returns nothing,
+    and an empty location is worse than a wrong one: the geo filter treats blank
+    as "unknown" and keeps it, so every foreign role would survive a US/Canada
+    filter. Prefer the array (it is the complete picture), fall back to the flat
+    fields, and only then fall back to the remote flag.
+    """
+    places = []
+    for loc in j.get("locations") or []:
+        if not isinstance(loc, dict):
+            continue
+        if (place := _join(loc.get("city"), loc.get("region"), loc.get("country"))):
+            places.append(place)
+    if places:
+        return "; ".join(dict.fromkeys(places))
+
+    if (flat := _join(j.get("city"), j.get("state"), j.get("country"))):
+        return flat
+    return "Remote" if j.get("telecommuting") else ""
+
+
 def fetch_workable(company: CompanyConfig) -> list[Job]:
     slug = company.params.get("slug")
     if not slug:
@@ -97,13 +122,7 @@ def fetch_workable(company: CompanyConfig) -> list[Job]:
         code = _text(j.get("shortcode") or j.get("id"))
         if not code:
             continue
-        loc = j.get("location") or {}
-        if isinstance(loc, dict):
-            location = _join(loc.get("city"), loc.get("region"), loc.get("country"))
-            if loc.get("telecommuting") and not location:
-                location = "Remote"
-        else:
-            location = _text(loc)
+        location = _workable_location(j)
         jobs.append(
             Job(
                 company=company.name,
@@ -120,6 +139,12 @@ def fetch_workable(company: CompanyConfig) -> list[Job]:
 # --------------------------------------------------------------------------- #
 # Recruitee
 #   GET https://<company>.recruitee.com/api/offers/
+#
+# NOT yet confirmed against a live tenant. The endpoint is Recruitee's documented
+# public careers API and the parsing below is unit tested, but every candidate
+# tenant tried so far returned 404 (those companies have since moved off the
+# platform), so no company is enabled on this adapter. Before switching one on,
+# run `jobscraper probe recruitee "slug=<slug>"` and check it returns postings.
 # --------------------------------------------------------------------------- #
 def fetch_recruitee(company: CompanyConfig) -> list[Job]:
     slug = company.params.get("slug")

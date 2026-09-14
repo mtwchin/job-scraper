@@ -96,12 +96,25 @@ def test_smartrecruiters_requires_an_id():
 # --------------------------------------------------------------------------- #
 # Workable
 # --------------------------------------------------------------------------- #
+# Recorded from the live widget endpoint. Note there is no nested "location"
+# key — Workable carries the place as flat fields plus a `locations` array.
 WORKABLE_JOB = {
     "title": "Software Engineer Intern",
     "shortcode": "ABC123DEF",
-    "location": {"city": "Boston", "region": "Massachusetts", "country": "United States"},
-    "url": "https://apply.workable.com/acme/j/ABC123DEF/",
+    "code": "",
+    "employment_type": "Full-time",
+    "telecommuting": False,
+    "department": "Engineering",
+    "url": "https://apply.workable.com/j/ABC123DEF",
     "published_on": "2026-09-01",
+    "created_at": "2026-09-01",
+    "country": "United States",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "locations": [
+        {"country": "United States", "countryCode": "US", "city": "Boston",
+         "region": "Massachusetts", "hidden": False},
+    ],
 }
 
 
@@ -113,7 +126,38 @@ def test_workable_parses_a_job(monkeypatch):
     j = jobs[0]
     assert j.job_id == "ABC123DEF"
     assert j.location == "Boston, Massachusetts, United States"
-    assert j.url == "https://apply.workable.com/acme/j/ABC123DEF/"
+    assert j.url == "https://apply.workable.com/j/ABC123DEF"
+    assert j.posted_at == "2026-09-01"
+
+
+def test_workable_reads_the_locations_array_not_a_nested_object():
+    """Regression: the adapter originally looked for j["location"], which
+    Workable never sends. Every job came back with a blank location, and a blank
+    location passes a US/Canada filter as "unknown" — so foreign roles leaked
+    through."""
+    paris = dict(WORKABLE_JOB, country="France", city="Paris", state="Ile-de-France",
+                 locations=[{"country": "France", "city": "Paris", "region": "Ile-de-France"}])
+    assert ats2._workable_location(paris) == "Paris, Ile-de-France, France"
+
+
+def test_workable_multi_office_job_lists_every_location():
+    job = dict(WORKABLE_JOB, locations=[
+        {"city": "Boston", "region": "MA", "country": "United States"},
+        {"city": "Austin", "region": "TX", "country": "United States"},
+    ])
+    assert ats2._workable_location(job) == \
+        "Boston, MA, United States; Austin, TX, United States"
+
+
+def test_workable_falls_back_to_flat_fields_without_the_array():
+    job = {k: v for k, v in WORKABLE_JOB.items() if k != "locations"}
+    assert ats2._workable_location(job) == "Boston, Massachusetts, United States"
+
+
+def test_workable_fully_remote_job_says_remote():
+    """Last resort only. Blank would read as "unknown" to the geo filter."""
+    job = {"telecommuting": True}
+    assert ats2._workable_location(job) == "Remote"
 
 
 def test_workable_builds_a_url_when_the_payload_omits_one(monkeypatch):
@@ -121,14 +165,6 @@ def test_workable_builds_a_url_when_the_payload_omits_one(monkeypatch):
     monkeypatch.setattr(ats2.http, "get", lambda *a, **k: FakeResponse({"jobs": [job]}))
     jobs = ats2.fetch_workable(company("workable", slug="acme"))
     assert jobs[0].url == "https://apply.workable.com/acme/j/ABC123DEF/"
-
-
-def test_workable_handles_a_plain_string_location(monkeypatch):
-    """Some tenants return a flat string rather than the structured object."""
-    job = dict(WORKABLE_JOB, location="Remote, United States")
-    monkeypatch.setattr(ats2.http, "get", lambda *a, **k: FakeResponse({"jobs": [job]}))
-    jobs = ats2.fetch_workable(company("workable", slug="acme"))
-    assert jobs[0].location == "Remote, United States"
 
 
 def test_workable_empty_board(monkeypatch):
