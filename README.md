@@ -1,6 +1,6 @@
 # Internship Radar 🛰️
 
-Polls top tech companies' **official career APIs** every ~10 minutes and pings a
+Polls top tech companies' **official career APIs** every **60 seconds** and pings a
 **Discord webhook** the moment a new **SWE/SDE internship or new-grad** role opens.
 Tuned for **off-season** (fall/winter/spring) internships by default.
 
@@ -11,18 +11,25 @@ It runs free on **GitHub Actions** — no server, no laptop-on-required.
 ## How it works
 
 ```
-companies.md  ──►  per-company adapter  ──►  filter (SWE + intern/new-grad)
-                                                     │
-            seen_jobs.json  ◄── dedup ──────────────┘
-                                                     │
-                                              Discord webhook 🚨
+companies.md ──► per-company adapter ──┐
+                                        ├─► filter ──► dedup ──► Discord 🚨
+aggregator feeds (listings.json) ──────┘              (3 keys)
+                                                          │
+                                                   seen_jobs.json
 ```
 
 - **`companies.md`** is the source of truth: a markdown table of companies, the
   adapter to use, and its config. Edit this to add/remove companies.
 - Each company is fetched independently — **one broken site never stops the run.**
-- **`seen_jobs.json`** records every job already seen, so you only get pinged on
-  genuinely new postings. On GitHub Actions it's committed back after each run.
+- **`seen_jobs.json`** records every job already sent, so you only get pinged on
+  genuinely new postings. On GitHub Actions it's committed back as the loop runs.
+- **Dedup uses three keys**, not one: the source's own id, the canonical apply
+  URL, and a company + title + location fingerprint. One opening routinely
+  reaches us through both a company's ATS *and* an aggregator that mirrors it;
+  matching on the URL is what stops that becoming two Discord messages.
+- **A newly added source is seeded quietly.** Its back catalogue is new to us,
+  not newly posted, so it's absorbed silently and only what it lists afterwards
+  gets alerted.
 - The **first run seeds quietly**: it records all currently-open roles and sends a
   single "I'm live" message instead of spamming you with hundreds of existing jobs.
 
@@ -35,6 +42,9 @@ companies.md  ──►  per-company adapter  ──►  filter (SWE + intern/ne
 | `ashby`      | api.ashbyhq.com                 | `slug=<company_slug>`                 |
 | `workday`    | *.myworkdayjobs.com             | `host=;tenant=;site=` (deep paginated) |
 | `eightfold`  | *.eightfold.ai / careers hosts  | `host=;domain=`                       |
+| `smartrecruiters` | api.smartrecruiters.com    | `id=<company identifier>`             |
+| `workable`   | apply.workable.com              | `slug=<account slug>`                 |
+| `recruitee`  | *.recruitee.com                 | `slug=<company slug>`                 |
 | `amazon`     | amazon.jobs                     | — (custom)                            |
 | `google`     | google.com/about/careers        | — (custom, scrapes results page)      |
 | `meta`       | metacareers.com GraphQL         | — (custom, **disabled**, doc_id rotates) |
@@ -282,10 +292,60 @@ role/location filters as everything else, just no company gate.
 
 ## Scheduling reality check
 
-- GitHub's cron minimum is **5 minutes** (`*/5`). In practice scheduled runs are
-  often **delayed 5–15 min** during busy periods and a run is occasionally
-  **skipped** entirely — GitHub does not guarantee on-time scheduled execution.
-  For most internship hunts that's fine; you'll still hear within ~10-20 min.
-- Want it tighter/guaranteed? Options: run the same `python -m jobscraper` on a
-  cheap always-on box via cron, or on your Mac via `launchd`. The script is
-  identical; only the scheduler changes.
+**The scraper does not rely on GitHub's scheduler to re-invoke it, because that
+scheduler is not reliable enough to hit a five-minute target.**
+
+The workflow asks for `*/5 * * * *`. What actually happened on this repo,
+measured from the run history:
+
+| | |
+|---|---|
+| Requested cadence | every 5 minutes |
+| Actual gap between scheduled runs | **2–6 hours** (median ~4h) |
+| Median catch latency | **~12 hours** after a role was posted |
+| Fastest catch ever recorded | 10 minutes |
+
+GitHub throttles scheduled workflows under load and silently drops runs; a
+high-frequency cron is a request, not a promise. No amount of scraper tuning
+fixes a process that is not being started.
+
+So a run no longer scrapes once and exits. `jobscraper watch` **stays alive and
+polls on its own clock**:
+
+- **Aggregator feeds every 60s.** These are conditional GETs (`If-None-Match`).
+  When nothing has changed the feed answers `304` with no body, so an idle poll
+  costs ~0.2s and is essentially free. That is what makes a one-minute cadence
+  affordable.
+- **Every company's own ATS every 5 minutes.** Hundreds of requests with no
+  conditional-request support, so it gets its own slower tier.
+- The loop runs ~5.5h, then exits cleanly. The `concurrency` group holds the
+  next scheduled run behind the current one, so whenever cron *does* fire, that
+  run starts the moment the loop ends — coverage is continuous rather than
+  sampled.
+
+Detection latency is now bounded by the poll interval (~60s for anything an
+aggregator carries, ~5 min for a company's own board), not by the scheduler.
+
+### Why state is committed during the loop, not just at the end
+
+`seen_jobs.json` is the only record of what has already been sent to Discord. If
+a runner dies five hours into a loop with that record uncommitted, every job sent
+in those five hours looks new again on the next run and gets sent a second time.
+So state is:
+
+1. flushed to disk immediately after each Discord batch,
+2. checkpointed to git every 5 minutes while the loop runs,
+3. pushed with a **union merge** against the remote copy rather than a rebase —
+   two commits that both rewrite the same JSON file conflict every time, and
+   resolving that by taking one side would silently drop the other side's
+   records.
+
+Records for postings no board has listed in 120 days are pruned, keyed on
+*last-seen* rather than first-seen, so a role that has been open for a year is
+never dropped while it is still live.
+
+### Running it somewhere else
+
+`python -m jobscraper watch` is the whole thing. On an always-on box, run it
+under systemd/`launchd` with `WATCH_DURATION` set high and it will simply keep
+polling; nothing about it is GitHub-specific.

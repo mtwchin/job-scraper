@@ -5,6 +5,7 @@
     jobscraper list           # show tracked companies + adapter breakdown
     jobscraper audit          # freshness report of past alerts
     jobscraper discover NAME  # detect a company's ATS config
+    jobscraper probe ADAPTER CONFIG  # check one adapter+config end to end
     jobscraper test-webhook   # send a test message to your Discord webhook
 """
 from __future__ import annotations
@@ -30,6 +31,48 @@ def _cmd_watch(args) -> int:
     if args.duration:
         settings.WATCH_DURATION = args.duration
     return main_entry()
+
+
+def _cmd_probe(args) -> int:
+    """Run one adapter against one config and show what it actually returns.
+
+    `discover` answers "does this board exist?"; this answers "does our adapter
+    parse it correctly?" — which is the part a unit test against a recorded
+    payload cannot prove.
+    """
+    from . import adapters, filters
+    from .models import CompanyConfig
+
+    fetch = adapters.get(args.adapter)
+    if fetch is None:
+        print(f"Unknown adapter '{args.adapter}'. Known: {', '.join(sorted(adapters.REGISTRY))}")
+        return 2
+
+    params = dict(
+        kv.split("=", 1) for kv in args.config.split(";") if "=" in kv
+    ) if args.config else {}
+    company = CompanyConfig(name=args.name or args.adapter, adapter=args.adapter, params=params)
+
+    try:
+        jobs = fetch(company)
+    except Exception as exc:  # noqa: BLE001 - the error IS the result here
+        print(f"❌ {args.adapter} {args.config}: {type(exc).__name__}: {exc}")
+        return 1
+
+    matching = [
+        j for j in jobs
+        if filters.matches(j, settings.ROLE_TYPES, settings.OFF_SEASON_ONLY)
+        and (not settings.US_CANADA_ONLY
+             or filters.in_north_america(j.location, settings.INCLUDE_UNKNOWN_LOCATIONS))
+    ]
+    print()
+    print(f"{'✅' if jobs else '❌'} {args.adapter}  {args.config}")
+    print(f"   {len(jobs)} posting(s) fetched, {len(matching)} match the intern/new-grad filter")
+    for j in (matching or jobs)[:5]:
+        print(f"     - {j.title[:60]:<60} | {j.location[:28]:<28} | {j.url[:60]}")
+    if jobs and not all(j.url for j in jobs):
+        print("   ⚠️  some postings came back with no URL — check the adapter's url field")
+    return 0 if jobs else 1
 
 
 def _cmd_merge_state(args) -> int:
@@ -160,6 +203,14 @@ def build_parser() -> argparse.ArgumentParser:
     pw.add_argument("--duration", type=int, default=0,
                     help=f"seconds to run before exiting (default {settings.WATCH_DURATION})")
     pw.set_defaults(fn=_cmd_watch)
+
+    pp = sub.add_parser("probe",
+                        help="run one adapter against one config and show what it returns")
+    pp.add_argument("adapter", help="adapter name, e.g. smartrecruiters")
+    pp.add_argument("config", nargs="?", default="",
+                    help="key=value pairs separated by ';', e.g. 'id=Atlassian2'")
+    pp.add_argument("--name", default="", help="display name to use for the company")
+    pp.set_defaults(fn=_cmd_probe)
 
     pm = sub.add_parser("merge-state",
                         help="union another seen-jobs file into ours (used before pushing state)")

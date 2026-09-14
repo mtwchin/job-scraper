@@ -47,9 +47,18 @@ jobs:
       - name: Probe the new-platform adapters against live endpoints
         if: ${{ github.event_name == 'push' }}
         run: |
-          python -m jobscraper discover \
-            "Palo Alto Networks" Rippling Shopify "Hugging Face" Zoom Atlassian \
-            Bolt Deel Remote Typeform || true
+          echo "=== end-to-end: run each new adapter against a live tenant ==="
+          python -m jobscraper probe smartrecruiters "id=PaloAltoNetworks1" --name "Palo Alto Networks" || true
+          python -m jobscraper probe smartrecruiters "id=PaloAltoNetworks2" --name "Palo Alto Networks" || true
+          python -m jobscraper probe smartrecruiters "id=Atlassian2" --name Atlassian || true
+          python -m jobscraper probe smartrecruiters "id=Visa" --name Visa || true
+          python -m jobscraper probe smartrecruiters "id=Bosch" --name Bosch || true
+          python -m jobscraper probe workable "slug=huggingface" --name "Hugging Face" || true
+          python -m jobscraper probe recruitee "slug=recruitee" --name Recruitee || true
+          python -m jobscraper probe recruitee "slug=usabilla" --name Usabilla || true
+          echo "=== discovery sweep over still-disabled companies ==="
+          python -m jobscraper discover Rippling Shopify Zoom Snap eBay Databricks \
+            "Blue Origin" Indeed "Hudson River Trading" Citadel || true
 
       - name: Health-check every enabled company
         if: ${{ github.event.inputs.mode == 'doctor' }}
