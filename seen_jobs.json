@@ -1,5 +1,5 @@
 {
-  "count": 5126,
+  "count": 5128,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2271,6 +2271,13 @@
       "posted_at": "1784160000",
       "title": "Software Engineer 1",
       "url": "https://acrisure.wd1.myworkdayjobs.com/Acrisure/job/333-Earle-Ovington-Blvd---Uniondale-NY/Software-Engineer-I_JR113871"
+    },
+    "simplify:acron aviation::simplify-dadef677-ca3e-4484-9f78-4a718f8c64f7": {
+      "company": "Acron Aviation",
+      "first_seen": "2026-09-14T06:18:45+00:00",
+      "posted_at": "1789348713",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e/apply"
     },
     "simplify:acuity::simplify-5c792b7d-16ed-4b9e-a8c7-e14569e5b1a4": {
       "company": "Acuity",
@@ -29726,6 +29733,13 @@
       "title": "Associate Software Engineer",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1507379"
     },
+    "simplify:td bank::simplify-580171f7-4613-4a78-b99a-3b85b469f5d0": {
+      "company": "TD Bank",
+      "first_seen": "2026-09-14T06:18:45+00:00",
+      "posted_at": "1789257600",
+      "title": "Software Engineer Intern - Global Technology & Solutions",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1"
+    },
     "simplify:td bank::simplify-68f758fc-c478-4060-9121-db85f838a254": {
       "company": "TD Bank",
       "first_seen": "2026-07-15T00:13:08+00:00",
@@ -35825,5 +35839,5 @@
     }
   },
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-13T23:22:26+00:00"
+  "updated_at": "2026-09-14T06:18:45+00:00"
 }
