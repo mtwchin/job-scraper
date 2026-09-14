@@ -12,6 +12,11 @@ name: verify-sources
 # proves the parsing, not that the config points anywhere real.
 
 on:
+  # TEMPORARY: workflow_dispatch only accepts a ref once the workflow exists on
+  # the default branch, so this trigger is here purely to verify the new
+  # adapters against the live endpoints before merge. Remove it before merging.
+  push:
+    branches: ["claude/**"]
   workflow_dispatch:
     inputs:
       mode:
@@ -38,6 +43,13 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+
+      - name: Probe the new-platform adapters against live endpoints
+        if: ${{ github.event_name == 'push' }}
+        run: |
+          python -m jobscraper discover \
+            "Palo Alto Networks" Rippling Shopify "Hugging Face" Zoom Atlassian \
+            Bolt Deel Remote Typeform || true
 
       - name: Health-check every enabled company
         if: ${{ github.event.inputs.mode == 'doctor' }}
