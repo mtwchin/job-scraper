@@ -111,14 +111,16 @@ def collect_matches(include_companies: bool = True) -> tuple[Collection, Collect
                 if hits:
                     logger.debug("%-18s %4d fetched -> %d match", company.name, len(jobs), hits)
 
-    agg_changed = _collect_aggregators(result, general, seen)
+    agg_changed = _collect_aggregators(result, general, seen,
+                                       skip_if_unchanged=not include_companies)
     # A sweep that touched company boards always counts as "changed" — those
     # have no conditional-request support, so we genuinely don't know.
     result.changed = include_companies or agg_changed
     return result, general
 
 
-def _collect_aggregators(result: Collection, general: Collection, seen: KeySet) -> bool:
+def _collect_aggregators(result: Collection, general: Collection, seen: KeySet,
+                         skip_if_unchanged: bool = False) -> bool:
     """Add matches from the community listings.json feeds (which cover disabled
     companies too), split into the curated (companies.md) feed and the
     unfiltered "all companies" feed. Both come from one fetch.
@@ -135,6 +137,15 @@ def _collect_aggregators(result: Collection, general: Collection, seen: KeySet) 
         curated, all_jobs, changed = aggregators.fetch_pair()
     except Exception as exc:  # noqa: BLE001
         result.errors.append(f"Aggregators: {type(exc).__name__}: {exc}")
+        return False
+
+    if skip_if_unchanged and not changed:
+        # Every feed answered 304, and this sweep isn't touching company boards.
+        # The listings are byte-identical to the ones we already filtered, so
+        # there is provably nothing new — returning them would just make the
+        # caller re-filter and re-check several thousand jobs it has already
+        # rejected, once a minute, forever.
+        logger.debug("Aggregators: unchanged (304) — skipping this cycle")
         return False
 
     result.n_fetched += len(curated)

@@ -113,9 +113,11 @@ def watch() -> int:
                 stats.company_sweeps += 1
                 next_company_sweep = cycle_started + company_interval
 
-            if not c.changed and not c.matches and not general.matches:
-                # Every feed answered 304 and we didn't sweep companies: there is
-                # provably nothing new to consider, so skip the rest of the cycle.
+            if not c.changed:
+                # Every feed answered 304 and we didn't sweep companies, so
+                # collect_matches returned nothing to consider. Skip dispatch
+                # entirely rather than re-deciding several thousand already-seen
+                # jobs once a minute.
                 stats.idle_cycles += 1
             else:
                 stats.sent += main.dispatch(store, c, general)

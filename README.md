@@ -95,9 +95,10 @@ Repo → **Settings → Secrets and variables → Actions → New repository sec
 (Or via CLI: `gh secret set DISCORD_WEBHOOK_URL`.)
 
 ### 5. Done
-The workflow in `.github/workflows/scraper.yml` runs every 10 minutes. Trigger the
-first run manually from the **Actions** tab → *internship-radar* → **Run workflow**
-to confirm everything works. The first run sends one "I'm live" message and seeds
+The workflow in `.github/workflows/scraper.yml` starts a watch loop that polls
+every 60 seconds and runs for ~5.5h before handing off to the next run. Trigger
+the first one manually from the **Actions** tab → *internship-radar* → **Run
+workflow** to confirm everything works. The first run sends one "I'm live" message and seeds
 state; after that you only get pinged on new postings.
 
 ---
@@ -109,12 +110,20 @@ Install once (`pip install -e .`) to get a `jobscraper` command, or use
 
 | Command | What it does |
 |---------|--------------|
-| `jobscraper run` | Fetch all companies (in parallel), filter, dedup, notify. The scheduled command. |
+| `jobscraper watch` | Poll continuously for new roles. **The scheduled command.** |
+| `jobscraper run` | A single sweep, then exit. Useful for testing and for external cron. |
 | `jobscraper list [--disabled]` | Show tracked companies and the adapter breakdown. |
 | `jobscraper audit` | Freshness report — catch latency of past alerts (see below). |
 | `jobscraper doctor` | Health-check every company: which can produce alerts, which are broken. |
 | `jobscraper discover <name\|url>` | Detect a company's ATS config to add/fix it. |
+| `jobscraper probe <adapter> <config>` | Run one adapter against one config and show what it returns. |
+| `jobscraper merge-state <file>` | Union another `seen_jobs.json` into ours (used by the push path). |
 | `jobscraper test-webhook` | Send a test message to confirm your Discord webhook works. |
+
+**`probe`** and **`doctor`** answer different questions. `discover` finds a
+board; `probe` runs our adapter against it and shows the parsed postings, which
+is the part a unit test against a recorded payload can't prove. There's a
+read-only `verify-sources` workflow that runs either against live endpoints.
 
 **`doctor`** is the tool for "are all my companies actually working?" It flags
 companies that fetch nothing (a broken token — can never alert), separately from
@@ -262,25 +271,39 @@ chasing individual custom sites is not.
 
 …but the **Simplify source closes much of that gap anyway** (see below).
 
-## Extra source: the Simplify aggregator
+## Extra sources: community aggregator feeds
 
-On top of the direct APIs, the run also pulls
-[SimplifyJobs](https://github.com/SimplifyJobs)' community listing repos
-(`Summer2026-Internships`, `New-Grad-Positions`) and alerts on new postings whose
-company is in `companies.md`. Why it matters:
+On top of the direct APIs, the scraper pulls several community `listings.json`
+feeds and alerts on new postings whose company is in `companies.md`:
 
-- **It covers the disabled custom-site companies.** Simplify currently lists
-  hundreds of roles from companies we can't scrape directly — Tesla, Apple,
-  ByteDance, Oracle, etc. — so those now produce alerts too.
-- Same role/location/recency filters apply, so it only adds *fresh* matches, and
-  dedup means a role found both directly and via Simplify won't double-alert.
+| Feed | Role type |
+|------|-----------|
+| `SimplifyJobs/Summer2026-Internships` | intern |
+| `SimplifyJobs/New-Grad-Positions` | new grad |
+| `vanshb03/Summer2027-Internships` (cvrve) | intern |
+| `vanshb03/New-Grad-2027` (cvrve) | new grad |
+
+Why they matter:
+
+- **They cover the disabled custom-site companies.** Hundreds of roles from
+  companies we can't scrape directly — Tesla, Apple, ByteDance, Oracle — so
+  those produce alerts too.
+- **They're what makes a 60-second poll affordable.** Each feed is one
+  conditional GET; unchanged, it answers `304` with no body.
+- Feeds that publish a `category` field are trusted for the "is this a software
+  role?" call, so titles like *Systems Engineer Intern* are caught. Feeds
+  without one fall back to the normal title matching.
+- Dedup means a role found both directly and via a feed won't double-alert —
+  it's matched on the canonical apply URL, not just the source's id.
+- Adding a feed doesn't dump its back catalogue into Discord; a source we
+  haven't alerted from before is seeded quietly first.
 - These alerts carry a **"via Simplify"** footer. Toggle with `SIMPLIFY_ENABLED`.
 
 ### All-companies feed (second channel)
 
 Set `DISCORD_WEBHOOK_URL_ALL` (a second Discord webhook, e.g. in its own
 `#internship-radar-all` channel) to also get **every** SWE intern/new-grad role
-Simplify lists — no `companies.md`/prestige filter at all. It's the same
+the aggregator feeds list — no `companies.md`/prestige filter at all. It's the same
 role/location filters as everything else, just no company gate.
 
 - A role never fires on both channels: if it's from a company already tracked
