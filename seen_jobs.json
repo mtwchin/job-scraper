@@ -1,5 +1,5 @@
 {
-  "count": 5576,
+  "count": 5577,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -572,6 +572,16 @@
       "posted_at": "2026-09-04T06:21:45-04:00",
       "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709"
+    },
+    "doordash::8171041": {
+      "company": "DoorDash",
+      "first_seen": "2026-09-14T22:54:46+00:00",
+      "last_seen": "2026-09-14T22:54:46+00:00",
+      "location": "New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA",
+      "posted_at": "2026-09-14T18:51:00-04:00",
+      "source": "",
+      "title": "Software Engineer, Intern (Summer 2027) - US",
+      "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041"
     },
     "dropbox::8106224": {
       "company": "Dropbox",
@@ -42712,5 +42722,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-14T22:49:35+00:00"
+  "updated_at": "2026-09-14T22:59:37+00:00"
 }
