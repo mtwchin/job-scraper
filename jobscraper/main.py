@@ -217,9 +217,9 @@ def _seed_quietly(store: SeenStore, new_jobs: list[Job], new_general: list[Job],
     """Absorb a backlog into the store without pinging for each role."""
     if first_run:
         for job in new_jobs:
-            store.add(job)
+            store.add(job, seeded=True)
     for job in new_general:
-        store.add(job)
+        store.add(job, seeded=True)
     store.mark_simplify_all_seeded()
 
 
@@ -247,7 +247,7 @@ def _absorb_new_sources(store: SeenStore, *buckets: list[Job]) -> dict[str, int]
         keep = []
         for job in bucket:
             if job.source in unseeded:
-                store.add(job)
+                store.add(job, seeded=True)
                 absorbed[job.source] = absorbed.get(job.source, 0) + 1
             else:
                 keep.append(job)

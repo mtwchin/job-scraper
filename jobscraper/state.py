@@ -142,8 +142,16 @@ class SeenStore:
         return uid in self._seen
 
     # -- mutation ----------------------------------------------------------- #
-    def add(self, job: Job) -> None:
-        """Record a posting as alerted-on, under all three of its keys."""
+    def add(self, job: Job, seeded: bool = False) -> None:
+        """Record a posting under all three of its keys.
+
+        `seeded` marks a record absorbed quietly rather than alerted on — a
+        first-run backlog, or the back catalogue of a newly added source. Those
+        carry no information about how fast we detect new postings, so the
+        freshness audit has to be able to exclude them; mixed in, they drag the
+        reported catch latency out to hours and make a working scraper look
+        broken.
+        """
         now = _iso(_now())
         self._seen[job.uid] = {
             "title": job.title,
@@ -154,6 +162,7 @@ class SeenStore:
             "source": job.source,
             "first_seen": now,
             "last_seen": now,
+            **({"seeded": True} if seeded else {}),
         }
         if (key := dedup.canonical_url(job.url)):
             self._by_url.setdefault(key, job.uid)
