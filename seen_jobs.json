@@ -1,5 +1,5 @@
 {
-  "count": 5525,
+  "count": 5526,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -20321,6 +20321,16 @@
       "posted_at": "1786411910",
       "title": "AI-First Multipotentialite",
       "url": "https://apply.workable.com/lovingly/j/075ADF9303/apply"
+    },
+    "simplify:lowe's::simplify-191bef07-9c08-4fff-8583-81c3ba0e6c30": {
+      "company": "Lowe's",
+      "first_seen": "2026-09-14T20:33:21+00:00",
+      "last_seen": "2026-09-14T20:33:21+00:00",
+      "location": "Charlotte, NC",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Associate Software Engineer - Launchpad",
+      "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Software-Engineer---Launchpad_JR-02641559"
     },
     "simplify:lpl financial holdings::simplify-6538dcdb-7ff2-4214-ba47-f53b40274027": {
       "company": "LPL Financial Holdings",
@@ -42197,5 +42207,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-14T20:09:23+00:00"
+  "updated_at": "2026-09-14T20:34:25+00:00"
 }
