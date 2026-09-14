@@ -1,5 +1,5 @@
 {
-  "count": 5545,
+  "count": 5567,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -5165,6 +5165,16 @@
       "title": "Associate AI Builder",
       "url": "https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0/apply"
     },
+    "simplify:artificial.agency::simplify-482562a7-9d72-489a-ba04-0e32f1091c18": {
+      "company": "Artificial.Agency",
+      "first_seen": "2026-09-14T21:34:51+00:00",
+      "last_seen": "2026-09-14T21:34:51+00:00",
+      "location": "Edmonton, AB, Canada",
+      "posted_at": "1789420584",
+      "source": "simplify",
+      "title": "AI Engineer",
+      "url": "https://jobs.ashbyhq.com/artificial.agency/31e14e65-ea3c-425d-adf0-875857e65b0a/application?embed=true"
+    },
     "simplify:ascension::simplify-62576249-c677-47a6-ac06-9e631007cd2a": {
       "company": "Ascension",
       "first_seen": "2026-09-09T18:02:12+00:00",
@@ -6236,6 +6246,7 @@
     "simplify:base power::simplify-e2e3917f-309a-4c40-9db2-2b8beedf29be": {
       "company": "Base Power",
       "first_seen": "2026-07-14T19:49:46+00:00",
+      "last_seen": "2026-09-14T21:34:49+00:00",
       "posted_at": "1779844123",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application"
@@ -9261,6 +9272,16 @@
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/chartahealth/9403a4cc-1bac-4798-9d82-be31ba8b42a0/application?embed=true"
     },
+    "simplify:charta health::simplify-7f4d2358-707d-4cbf-83b4-694072fbba3e": {
+      "company": "Charta Health",
+      "first_seen": "2026-09-14T21:34:51+00:00",
+      "last_seen": "2026-09-14T21:34:51+00:00",
+      "location": "SF, NYC",
+      "posted_at": "1789420908",
+      "source": "simplify",
+      "title": "Forward Deployed AI Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/chartahealth/0c76d54d-0ca8-4ab6-b360-c2dbae7b17cf/application?embed=true"
+    },
     "simplify:cheiron::simplify-4c33b0d7-ab72-41f6-a429-46ce9f78dc99": {
       "company": "Cheiron",
       "first_seen": "2026-09-02T09:12:45+00:00",
@@ -11166,6 +11187,16 @@
       "posted_at": "1783161432",
       "title": "Critical Environments Operator",
       "url": "https://cyrusone.wd1.myworkdayjobs.com/CyrusOneCareerPortal/job/Cincinnati-OH/Critical-Environments-Operator--Level-1-4-_R0007528"
+    },
+    "simplify:cyvl::simplify-d3146da4-8730-438e-8338-d570b07ffa21": {
+      "company": "Cyvl",
+      "first_seen": "2026-09-14T21:34:51+00:00",
+      "last_seen": "2026-09-14T21:34:51+00:00",
+      "location": "Boston, MA, Somerville, MA",
+      "posted_at": "1789420443",
+      "source": "simplify",
+      "title": "Engineering Intern - Software - Machine Learning",
+      "url": "https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328/application?embed=true"
     },
     "simplify:d-matrix::simplify-35066ac0-1560-4dd8-af1e-43c56f13ef8c": {
       "company": "d-Matrix",
@@ -17907,9 +17938,20 @@
     "simplify:intuit::simplify-1795d6df-fcca-45dc-836d-41a82dc36894": {
       "company": "Intuit",
       "first_seen": "2026-08-29T02:50:33+00:00",
+      "last_seen": "2026-09-14T21:34:49+00:00",
       "posted_at": "1787963949",
       "title": "Software Engineer Intern - Full Stack",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-full-stack/27595/99856180864"
+    },
+    "simplify:intuit::simplify-25c606c0-e37b-4e36-a6d9-5e9df8b3a2e7": {
+      "company": "Intuit",
+      "first_seen": "2026-09-14T21:34:50+00:00",
+      "last_seen": "2026-09-14T21:34:50+00:00",
+      "location": "Charlotte, NC, NYC, Mountain View, CA, Atlanta, GA, San Diego, CA",
+      "posted_at": "1789420087",
+      "source": "simplify",
+      "title": "Mobile Software Engineer Intern - Android",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552"
     },
     "simplify:intuit::simplify-55a00559-28b9-41bc-b6dc-cda5714e2846": {
       "company": "Intuit",
@@ -17919,12 +17961,32 @@
       "title": "Software Engineer 1",
       "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720"
     },
+    "simplify:intuit::simplify-99be0eea-8a7f-4470-894d-d0dcc34dc9c7": {
+      "company": "Intuit",
+      "first_seen": "2026-09-14T21:34:50+00:00",
+      "last_seen": "2026-09-14T21:34:50+00:00",
+      "location": "Charlotte, NC, NYC, Mountain View, CA, Atlanta, GA, San Diego, CA",
+      "posted_at": "1789420088",
+      "source": "simplify",
+      "title": "Mobile Software Engineer Intern - iOS",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-ios/27595/100620927568"
+    },
     "simplify:intuit::simplify-9cc1f56c-0976-4b70-858c-3ca47bbd6331": {
       "company": "Intuit",
       "first_seen": "2026-08-18T23:41:59+00:00",
       "posted_at": "1787094015",
       "title": "Software Engineer Intern",
       "url": "https://jobs.intuit.com/job/new-york/intern-software-engineering/27595/99410270400"
+    },
+    "simplify:intuit::simplify-a57d347e-4ce0-4590-bf80-9368dd106660": {
+      "company": "Intuit",
+      "first_seen": "2026-09-14T21:34:50+00:00",
+      "last_seen": "2026-09-14T21:34:50+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1789420086",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Cybersecurity",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616"
     },
     "simplify:intuit::simplify-cdbc0a69-360c-4dfe-8c6d-5c0fea16678d": {
       "company": "Intuit",
@@ -18378,6 +18440,16 @@
       "posted_at": "1789079565",
       "title": "Product Engineering Student - Product Engineering",
       "url": "https://johndeere.eightfold.ai/careers/job/137483278414"
+    },
+    "simplify:john deere::simplify-59e9da30-b769-4343-a000-5de0a1145a16": {
+      "company": "John Deere",
+      "first_seen": "2026-09-14T21:34:51+00:00",
+      "last_seen": "2026-09-14T21:34:51+00:00",
+      "location": "Ames, IL",
+      "posted_at": "1789420441",
+      "source": "simplify",
+      "title": "Part-Time Student - Channel AI",
+      "url": "https://johndeere.eightfold.ai/careers/job/137483400279"
     },
     "simplify:john deere::simplify-5ba3104e-e08a-431a-8c27-c619b7294974": {
       "company": "John Deere",
@@ -21145,6 +21217,16 @@
       "title": "Engineering Software Applications Analyst",
       "url": "https://jobs.ashbyhq.com/fr/c282a2ba-076b-4ff7-ae2e-e86abc5b873d/application?embed=true"
     },
+    "simplify:mbda::simplify-0f05f901-79ef-44c8-8b4a-32d22a87c73c": {
+      "company": "MBDA",
+      "first_seen": "2026-09-14T21:34:51+00:00",
+      "last_seen": "2026-09-14T21:34:51+00:00",
+      "location": "Bristol, UK",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Weapon Systems Algorithms Engineer - Summer Placement 2027",
+      "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Weapon-Systems-Algorithms-Engineer---Summer-Placement-2027_R37727"
+    },
     "simplify:mbda::simplify-3909031b-a185-414c-b03c-bc202f0695db": {
       "company": "MBDA",
       "first_seen": "2026-09-14T21:05:22+00:00",
@@ -21181,6 +21263,16 @@
       "source": "simplify",
       "title": "Software Engineer",
       "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Engineer---Summer-Placement-2027_R37759"
+    },
+    "simplify:mbda::simplify-52d960ca-ad7e-41c2-9d0d-c29b24545c91": {
+      "company": "MBDA",
+      "first_seen": "2026-09-14T21:34:51+00:00",
+      "last_seen": "2026-09-14T21:34:51+00:00",
+      "location": "Bristol, UK",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Software Engineer Graduate Programme",
+      "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Software-Engineer---Graduate-Programme-2027_R37737"
     },
     "simplify:mbda::simplify-8c99415f-da68-4a3b-b2eb-ba83bc24e6dc": {
       "company": "MBDA",
@@ -22850,6 +22942,16 @@
       "title": "Software Engineer New Grad - Hardware Diagnostics",
       "url": "https://nexthopai.bamboohr.com/careers/107/"
     },
+    "simplify:nexthop.ai::simplify-36340c4d-5f81-4c62-876c-3159e88b62c3": {
+      "company": "Nexthop.ai",
+      "first_seen": "2026-09-14T21:34:51+00:00",
+      "last_seen": "2026-09-14T21:34:51+00:00",
+      "location": "Burnaby, BC, Canada",
+      "posted_at": "1789420917",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://nexthopai.bamboohr.com/careers/62/"
+    },
     "simplify:nexthop.ai::simplify-4a0ac2bd-9aed-42eb-88de-3663340e79b5": {
       "company": "Nexthop.ai",
       "first_seen": "2026-08-18T06:58:11+00:00",
@@ -23131,6 +23233,16 @@
       "posted_at": "1787703937",
       "title": "Full Stack Software Engineer Intern",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4450017"
+    },
+    "simplify:north atlantic industries::simplify-a9c87258-44b4-479b-b798-056f263de8b8": {
+      "company": "North Atlantic Industries",
+      "first_seen": "2026-09-14T21:34:51+00:00",
+      "last_seen": "2026-09-14T21:34:51+00:00",
+      "location": "Bohemia, NY",
+      "posted_at": "1789414296",
+      "source": "simplify",
+      "title": "Full Stack Software Engineer Intern - Summer 2027",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501054"
     },
     "simplify:north cloud::simplify-29f7ea93-41b1-408b-a3e0-8b6945e95e3e": {
       "company": "North Cloud",
@@ -24466,6 +24578,26 @@
       "title": "Community Services Technical Support Specialist",
       "url": "https://jobs.ashbyhq.com/opengov/78ca35d7-1a0b-46aa-8a33-599270c98f51/application?embed=true"
     },
+    "simplify:opengov::simplify-763fd9b2-78aa-4699-9e02-a743253f10c1": {
+      "company": "OpenGov",
+      "first_seen": "2026-09-14T21:34:51+00:00",
+      "last_seen": "2026-09-14T21:34:51+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1789420502",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849/application?embed=true"
+    },
+    "simplify:opengov::simplify-e2f7c0c3-2949-4bbc-bd78-e4cc58de5884": {
+      "company": "OpenGov",
+      "first_seen": "2026-09-14T21:34:51+00:00",
+      "last_seen": "2026-09-14T21:34:51+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1789420502",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08/application?embed=true"
+    },
     "simplify:openworks engineering::simplify-6b1e085b-2dea-4281-b981-a744258f70a4": {
       "company": "OpenWorks Engineering",
       "first_seen": "2026-09-09T18:02:12+00:00",
@@ -24682,6 +24814,26 @@
       "posted_at": "1789078862",
       "title": "Software Developer Intern",
       "url": "https://jobs.paccar.com/job/Renton-2027-Winter-Internship-Software-Developer-Intern-WA-98057/1435928733/?ats=successfactors"
+    },
+    "simplify:pace::simplify-1a642388-e27f-433e-b8ec-63c5709ac3aa": {
+      "company": "Pace",
+      "first_seen": "2026-09-14T21:34:51+00:00",
+      "last_seen": "2026-09-14T21:34:51+00:00",
+      "location": "NYC",
+      "posted_at": "1789420243",
+      "source": "simplify",
+      "title": "Forward Deployed Engineer Intern - Applied AI",
+      "url": "https://jobs.ashbyhq.com/withpace/24c69367-3dfe-428e-98e6-0a6bf94a00e1/application?embed=true"
+    },
+    "simplify:pace::simplify-4dba7615-3e73-45f2-92bf-bc0d45120619": {
+      "company": "Pace",
+      "first_seen": "2026-09-14T21:34:51+00:00",
+      "last_seen": "2026-09-14T21:34:51+00:00",
+      "location": "NYC",
+      "posted_at": "1789420243",
+      "source": "simplify",
+      "title": "Member of Technical Staff Intern",
+      "url": "https://jobs.ashbyhq.com/withpace/9acdae91-3834-4c08-8579-fd14ff40a76b/application?embed=true"
     },
     "simplify:pacific fusion::simplify-21bac346-8a08-470a-8e10-bec8ed7eeaab": {
       "company": "Pacific Fusion",
@@ -30884,6 +31036,16 @@
       "title": "Web Developer Assistant - Enterprise Application Support",
       "url": "https://spacedynamicslaboratory.applytojob.com/apply/ViIK3m47ik/Student-Web-Developer-Assistant"
     },
+    "simplify:space dynamics laboratory::simplify-f7628ce8-6895-4567-b889-509bb8769f10": {
+      "company": "Space Dynamics Laboratory",
+      "first_seen": "2026-09-14T21:34:51+00:00",
+      "last_seen": "2026-09-14T21:34:51+00:00",
+      "location": "North Logan, UT",
+      "posted_at": "1789420437",
+      "source": "simplify",
+      "title": "Web Developer Assistant - Enterprise Application Support Team",
+      "url": "https://spacedynamicslaboratory.applytojob.com/apply/nWr4gII3yE/Student-Web-Developer-Assistant"
+    },
     "simplify:spacex::simplify-11300faa-161b-483b-9520-12054a5957e6": {
       "company": "SpaceX",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -33124,6 +33286,16 @@
       "posted_at": "1780755075",
       "title": "Service Engineering Intern - Product Support Engineer - Service Engineering",
       "url": "https://www.tesla.com/careers/search/job/271630"
+    },
+    "simplify:tesla::simplify-d36d149f-2f21-4ced-b474-e6dfb0876186": {
+      "company": "Tesla",
+      "first_seen": "2026-09-14T21:34:50+00:00",
+      "last_seen": "2026-09-14T21:34:50+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1789419861",
+      "source": "simplify",
+      "title": "Software Integration Engineer Intern - Factory Firmware",
+      "url": "https://www.tesla.com/careers/search/job/283395"
     },
     "simplify:tesla::simplify-d6e09034-f1b8-496a-9b1c-ad916001fc4c": {
       "company": "Tesla",
@@ -37864,6 +38036,56 @@
       "title": "Software Engineering Intern",
       "url": "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/"
     },
+    "simplify:wex::simplify-3f5cab3c-532c-4b28-ab03-48e5cd935bb0": {
+      "company": "Wex",
+      "first_seen": "2026-09-14T21:34:51+00:00",
+      "last_seen": "2026-09-14T21:34:51+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Software Engineer Intern - AI & Cloud",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546"
+    },
+    "simplify:wex::simplify-8d2559c4-15a3-4d4b-8b6c-541fcaab8354": {
+      "company": "Wex",
+      "first_seen": "2026-09-14T21:34:51+00:00",
+      "last_seen": "2026-09-14T21:34:51+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Backend Software Engineer Intern - Java & AI - Master's",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547"
+    },
+    "simplify:wex::simplify-d2a2f7eb-19b0-4859-b09e-fefe81a88ceb": {
+      "company": "Wex",
+      "first_seen": "2026-09-14T21:34:51+00:00",
+      "last_seen": "2026-09-14T21:34:51+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Backend Software Engineer Intern - Cloud Security & AI - Undergraduate",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589"
+    },
+    "simplify:wex::simplify-d6dfcbeb-4029-4aad-bf63-959fcd1680cd": {
+      "company": "Wex",
+      "first_seen": "2026-09-14T21:34:51+00:00",
+      "last_seen": "2026-09-14T21:34:51+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Full-Stack Software Engineer Intern - Undergraduate",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593"
+    },
+    "simplify:wex::simplify-f77b6b5f-ff7d-45d7-9704-b0198ab5cd0d": {
+      "company": "Wex",
+      "first_seen": "2026-09-14T21:34:51+00:00",
+      "last_seen": "2026-09-14T21:34:51+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Backend Software Engineer Intern - C#/Java & AI Workflows - Undergraduate",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586"
+    },
     "simplify:wgu::simplify-767f1d89-f1fa-4d06-bf5c-a61d9c738f7c": {
       "company": "WGU",
       "first_seen": "2026-07-22T00:07:28+00:00",
@@ -42399,5 +42621,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-14T21:24:30+00:00"
+  "updated_at": "2026-09-14T21:39:32+00:00"
 }
