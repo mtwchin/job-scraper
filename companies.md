@@ -68,7 +68,7 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Salesforce     | workday    | host=salesforce.wd12.myworkdayjobs.com;tenant=salesforce;site=External_Career_Site | yes | Verified |
 | Adobe          | workday    | host=adobe.wd5.myworkdayjobs.com;tenant=adobe;site=external_experienced | yes | Verified |
 | PayPal         | workday    | host=paypal.wd1.myworkdayjobs.com;tenant=paypal;site=jobs          | yes | Verified |
-| DeepMind       | greenhouse | token=deepmind                                                     | yes | Verified — prestige #3 |
+| DeepMind       | custom     |                                                                    | no  | Greenhouse board gone (404 as of 2026-09-14); careers site is JS-rendered. Covered via aggregators |
 | Jane Street    | greenhouse | token=janestreet                                                   | yes | Verified — quant |
 | Hudson River Trading | custom     |                                                                    | no  | HRT — no public ATS API; custom careers site |
 | Citadel        | custom     |                                                                    | no  | Custom careers site |
@@ -138,7 +138,7 @@ token/slug is probably wrong. See the README for how to find the right one.
 ## Expanded list — additional high-prestige companies (verified via bulk ATS probe)
 
 ### AI labs / ML
-| Mistral AI     | lever      | slug=mistral                                                       | yes | Verified |
+| Mistral AI     | custom     |                                                                    | no  | Lever slug returns 0 jobs (2026-09-14); no public board found. Covered via aggregators |
 | Perplexity     | ashby      | slug=perplexity                                                    | yes | Verified |
 | Together AI    | greenhouse | token=togetherai                                                   | yes | Verified |
 | Runway         | ashby      | slug=runway                                                        | yes | Verified |
@@ -150,10 +150,10 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Stability AI   | greenhouse | token=stabilityai                                                  | yes | Verified |
 | Decagon        | ashby      | slug=decagon                                                       | yes | Verified |
 | Cognition      | ashby      | slug=cognition                                                     | yes | Verified |
-| Thinking Machines | greenhouse | token=thinkingmachines                                          | yes | Verified |
+| Thinking Machines | ashby      | slug=thinkingmachines                                           | yes | Verified via CI probe 2026-09-14 (39 roles) — moved off Greenhouse |
 | Imbue          | greenhouse | token=imbue                                                        | yes | Verified |
 | Suno           | ashby      | slug=suno                                                          | yes | Verified |
-| World Labs     | greenhouse | token=worldlabs                                                    | yes | Verified |
+| World Labs     | ashby      | slug=worldlabs                                                     | yes | Verified via CI probe 2026-09-14 (8 roles) — moved off Greenhouse |
 | Physical Intelligence | ashby | slug=physicalintelligence                                       | yes | Verified |
 
 ### Dev tools / infra / data
@@ -181,7 +181,7 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Modern Treasury | ashby     | slug=moderntreasury                                                | yes | Verified |
 | Gusto          | greenhouse | token=gusto                                                        | yes | Verified |
 | Chime          | greenhouse | token=chime                                                        | yes | Verified |
-| Marqeta        | greenhouse | token=marqeta                                                      | yes | Verified |
+| Marqeta        | custom     |                                                                    | no  | Greenhouse board gone (404 as of 2026-09-14). Covered via aggregators |
 | Checkr         | greenhouse | token=checkr                                                       | yes | Verified |
 | Carta          | greenhouse | token=carta                                                        | yes | Verified |
 | Anchorage Digital | lever   | slug=anchorage                                                     | yes | Verified |
@@ -217,7 +217,7 @@ token/slug is probably wrong. See the README for how to find the right one.
 | PDT Partners   | greenhouse | token=pdtpartners                                                  | yes | Verified |
 | Vatic Labs     | greenhouse | token=vaticlabs                                                    | yes | Verified |
 | Belvedere Trading | lever   | slug=belvederetrading                                              | yes | Verified |
-| Cubist         | ashby      | slug=cubist                                                        | yes | Verified (Point72 quant arm) |
+| Cubist         | custom     |                                                                    | no  | Ashby board gone (404 as of 2026-09-14). Covered via aggregators |
 
 ### Consumer
 | Strava         | ashby      | slug=strava                                                        | yes | Verified |
