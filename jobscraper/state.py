@@ -12,14 +12,82 @@ re-notifying everything next time.
 """
 from __future__ import annotations
 
+import contextlib
 import json
+import os
+import threading
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from . import dedup
 from .models import Job
 
+try:
+    import fcntl
+except ImportError:  # pragma: no cover - Windows
+    fcntl = None
+
 _SCHEMA = 2
+
+
+# Re-entrancy depth per path, tracked per *thread*. It must not be global: two
+# threads sharing one counter would each read the other's entry as "already
+# held by me" and sail past the lock, which is precisely the serialization we
+# are trying to get.
+_reentry = threading.local()
+
+
+@contextlib.contextmanager
+def file_lock(path: Path):
+    """Hold an exclusive lock on a sidecar of `path` for the duration.
+
+    Two processes touch the store at once in production: the watch loop saving
+    what it has sent, and the state-push script folding in the remote copy
+    before committing. Both do read-modify-write. Without a lock they can
+    interleave so that one writes a version missing records the other just
+    added — and a record that goes missing is a job that gets sent to Discord a
+    second time.
+
+    Re-entrant within a process, which is not optional: `save()` takes this lock
+    and is also called from inside callers that already hold it. `flock`
+    associates a lock with the open file description, not the process, so a
+    second `open()` of the same file in the same process blocks against the
+    first — a plain implementation deadlocks against itself.
+
+    Best-effort: where locking isn't available the body still runs. Writes are
+    atomic (tmp + replace) either way, so the worst case without a lock is a
+    lost update, never a corrupt file.
+    """
+    if fcntl is None:
+        yield
+        return
+
+    key = str(path.resolve() if path.parent.exists() else path)
+    depths = getattr(_reentry, "depths", None)
+    if depths is None:
+        depths = _reentry.depths = {}
+    if depths.get(key):
+        # This thread already holds it; re-acquiring would block against our own
+        # first open. Just nest.
+        depths[key] += 1
+        try:
+            yield
+        finally:
+            depths[key] -= 1
+        return
+    depths[key] = 1
+
+    lock_path = path.with_suffix(path.suffix + ".lock")
+    lock_path.parent.mkdir(parents=True, exist_ok=True)
+    fd = os.open(lock_path, os.O_CREAT | os.O_RDWR, 0o644)
+    try:
+        fcntl.flock(fd, fcntl.LOCK_EX)
+        yield
+    finally:
+        with contextlib.suppress(OSError):
+            fcntl.flock(fd, fcntl.LOCK_UN)
+        os.close(fd)
+        depths[key] -= 1
 
 
 def _now() -> datetime:
@@ -236,9 +304,14 @@ class SeenStore:
             "seeded_sources": sorted(self.seeded_sources),
             "jobs": self._seen,
         }
-        tmp = self.path.with_suffix(self.path.suffix + ".tmp")
-        tmp.write_text(json.dumps(payload, indent=2, sort_keys=True), encoding="utf-8")
-        tmp.replace(self.path)
+        # Unique tmp name per writer: two writers sharing a scratch file means
+        # one's partial write becomes the other's "atomic" replace. Threads share
+        # a pid, so the thread id has to be in there too.
+        tmp = self.path.with_suffix(
+            f"{self.path.suffix}.{os.getpid()}.{threading.get_ident()}.tmp")
+        with file_lock(self.path):
+            tmp.write_text(json.dumps(payload, indent=2, sort_keys=True), encoding="utf-8")
+            tmp.replace(self.path)
         self._dirty = False
         return True
 

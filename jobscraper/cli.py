@@ -79,16 +79,21 @@ def _cmd_merge_state(args) -> int:
     """Union another state file into ours — see SeenStore.merge_from."""
     from pathlib import Path
 
-    from .state import SeenStore
+    from .state import SeenStore, file_lock
 
     other = Path(args.other)
     if not other.exists():
         print(f"[merge-state] {other} does not exist; nothing to merge.")
         return 0
-    store = SeenStore(settings.STATE_FILE)
-    before = len(store)
-    added = store.merge_from(other)
-    store.save()
+    # Read, merge and write under one lock. A watch loop may be saving the same
+    # file concurrently; interleaving the two would silently drop whichever
+    # side's records landed in between, and a dropped record is a job that gets
+    # sent to Discord twice.
+    with file_lock(settings.STATE_FILE):
+        store = SeenStore(settings.STATE_FILE)
+        before = len(store)
+        added = store.merge_from(other)
+        store.save(force=True)
     print(f"[merge-state] {before} local + {added} new from {other} = {len(store)} records")
     return 0
 

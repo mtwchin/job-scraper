@@ -252,3 +252,53 @@ def test_touch_of_unknown_uid_is_harmless(store_path):
     store = SeenStore(store_path)
     store.touch("nope::1")
     assert len(store) == 0
+
+
+# --------------------------------------------------------------------------- #
+# concurrent access
+# --------------------------------------------------------------------------- #
+def test_concurrent_writers_do_not_lose_records(store_path):
+    """The watch loop saves state while the push script merges the remote copy
+    into the same file. Both do read-modify-write; interleaving them drops
+    records, and a dropped record is a job sent to Discord twice."""
+    import threading
+
+    from jobscraper.state import file_lock
+
+    SeenStore(store_path).save(force=True)   # create the file
+    errors = []
+
+    def writer(prefix: str):
+        try:
+            for i in range(25):
+                with file_lock(store_path):
+                    store = SeenStore(store_path)
+                    store.add(Job(company="Acme", job_id=f"{prefix}{i}",
+                                  title="Software Engineer Intern",
+                                  url=f"https://x.com/{prefix}{i}",
+                                  location="Seattle, WA"))
+                    store.save(force=True)
+        except Exception as exc:  # noqa: BLE001
+            errors.append(exc)
+
+    threads = [threading.Thread(target=writer, args=(p,)) for p in ("a", "b")]
+    for t in threads:
+        t.start()
+    for t in threads:
+        t.join()
+
+    assert not errors
+    final = SeenStore(store_path)
+    assert len(final) == 50, f"lost records: {len(final)} of 50 survived"
+
+
+def test_save_is_atomic_under_a_reader(store_path):
+    """A half-written store is unreadable, and an unreadable store looks empty —
+    which would re-send everything."""
+    store = SeenStore(store_path)
+    for i in range(200):
+        store.add(Job(company="Acme", job_id=str(i), title="SWE Intern",
+                      url=f"https://x.com/{i}", location="Seattle, WA"))
+    store.save()
+    # Whatever a concurrent reader sees, it must be valid JSON with every record.
+    assert len(json.loads(store_path.read_text(encoding="utf-8"))["jobs"]) == 200
