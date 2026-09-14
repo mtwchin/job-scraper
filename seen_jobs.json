@@ -1,5 +1,5 @@
 {
-  "count": 5526,
+  "count": 5535,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -5934,6 +5934,16 @@
       "title": "Forward Deployed Engineer Intern",
       "url": "https://job-boards.greenhouse.io/baidu/jobs/8197142"
     },
+    "simplify:baird::simplify-a9b15888-79e1-4d34-b682-700189ca37f3": {
+      "company": "Baird",
+      "first_seen": "2026-09-14T20:34:50+00:00",
+      "last_seen": "2026-09-14T20:34:50+00:00",
+      "location": "Madison, WI, Milwaukee, WI",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Software-Developer--Year-Round-_R20261024-1"
+    },
     "simplify:baker hughes::simplify-040c229e-e0a6-497f-9792-858fd16fafc7": {
       "company": "Baker Hughes",
       "first_seen": "2026-07-15T23:37:55+00:00",
@@ -9969,6 +9979,7 @@
     "simplify:cna insurance::simplify-282fc534-4cf8-4c34-b2b9-92e29bff62ce": {
       "company": "CNA Insurance",
       "first_seen": "2026-09-04T23:26:59+00:00",
+      "last_seen": "2026-09-14T20:34:46+00:00",
       "posted_at": "1788480000",
       "title": "Technology Internship - Software Engineering",
       "url": "https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-8107"
@@ -13057,6 +13068,16 @@
       "title": "Technology Rotational Development Program Employee",
       "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/USIS-Technology-Rotational-Development-Program-Employee_J00178469"
     },
+    "simplify:equipmentshare::simplify-b527b34d-0364-42a6-9fbc-c21274a053eb": {
+      "company": "EquipmentShare",
+      "first_seen": "2026-09-14T20:34:50+00:00",
+      "last_seen": "2026-09-14T20:34:50+00:00",
+      "location": "Columbia, MO",
+      "posted_at": "1789417028",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188474"
+    },
     "simplify:equitable bank::simplify-167090cb-a6cc-4740-9731-6e37db8ce44d": {
       "company": "Equitable Bank",
       "first_seen": "2026-09-14T20:06:23+00:00",
@@ -13867,6 +13888,16 @@
       "posted_at": "1787091974",
       "title": "Software Development Intensive Program - LINK",
       "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008"
+    },
+    "simplify:flagship pioneering::simplify-0ccb65ab-e586-4d78-b496-ec4b86e44977": {
+      "company": "Flagship Pioneering",
+      "first_seen": "2026-09-14T20:34:50+00:00",
+      "last_seen": "2026-09-14T20:34:50+00:00",
+      "location": "Cambridge, MA",
+      "posted_at": "1789417444",
+      "source": "simplify",
+      "title": "AI Automation Engineering Co-op",
+      "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8796996002"
     },
     "simplify:flagship pioneering::simplify-9f90544f-0c83-436c-bf21-faccf96d53fd": {
       "company": "Flagship Pioneering",
@@ -15837,6 +15868,16 @@
       "title": "New Analyst - Engineering",
       "url": "https://higher.gs.com/roles/171569?type=students"
     },
+    "simplify:google::simplify-05b3642e-a1c8-4a0a-b252-24530e109900": {
+      "company": "Google",
+      "first_seen": "2026-09-14T20:34:49+00:00",
+      "last_seen": "2026-09-14T20:34:49+00:00",
+      "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, Irvine, CA, San Bruno, CA, Redmond, WA, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
+      "posted_at": "1789417464",
+      "source": "simplify",
+      "title": "User Experience Engineer Intern - PhD - Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/117572151191446214"
+    },
     "simplify:google::simplify-089391ad-ee52-4c4f-993a-e79f42219682": {
       "company": "Google",
       "first_seen": "2026-08-07T09:39:52+00:00",
@@ -15865,6 +15906,16 @@
       "posted_at": "1766012998",
       "title": "Software Engineer 3 - AI/ML - Google Cloud AI",
       "url": "https://www.google.com/about/careers/applications/jobs/results/87457161382109894"
+    },
+    "simplify:google::simplify-709433ac-42c3-4c44-a25b-c31b22c52054": {
+      "company": "Google",
+      "first_seen": "2026-09-14T20:34:49+00:00",
+      "last_seen": "2026-09-14T20:34:49+00:00",
+      "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Washington, DC, SF, Austin, TX, LA, Irvine, CA, San Bruno, CA, Redmond, WA, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA",
+      "posted_at": "1789417412",
+      "source": "simplify",
+      "title": "User Experience Engineer Intern",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/112499004540887750"
     },
     "simplify:google::simplify-820400f1-d2e5-43b3-94b0-c8913692b46a": {
       "company": "Google",
@@ -16067,6 +16118,16 @@
       "posted_at": "1784671459",
       "title": "Applications Specialist 1",
       "url": "https://careers-group1auto.icims.com/jobs/36615/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:gsk::simplify-122163eb-f8fc-4d87-afa5-e5738e524ae6": {
+      "company": "GSK",
+      "first_seen": "2026-09-14T20:34:50+00:00",
+      "last_seen": "2026-09-14T20:34:50+00:00",
+      "location": "Cambridge, MA",
+      "posted_at": "1789416630",
+      "source": "simplify",
+      "title": "Web App Developer Co-op",
+      "url": "https://gsk-us-earlytalent.icims.com/jobs/11013/job?mobile=true&needsRedirect=false"
     },
     "simplify:guardian life::simplify-2e731a5d-c18c-446b-ab15-23f671730a6e": {
       "company": "Guardian Life",
@@ -20322,6 +20383,16 @@
       "title": "AI-First Multipotentialite",
       "url": "https://apply.workable.com/lovingly/j/075ADF9303/apply"
     },
+    "simplify:lowe's::simplify-16259630-05fe-40a2-bf93-dd529c139975": {
+      "company": "Lowe's",
+      "first_seen": "2026-09-14T20:34:50+00:00",
+      "last_seen": "2026-09-14T20:34:50+00:00",
+      "location": "Charlotte, NC",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Exploratory Software Engineer Intern",
+      "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Exploratory-Software-Engineering---Undergrad-Internship---Summer-2027_JR-02623542"
+    },
     "simplify:lowe's::simplify-191bef07-9c08-4fff-8583-81c3ba0e6c30": {
       "company": "Lowe's",
       "first_seen": "2026-09-14T20:33:21+00:00",
@@ -20331,6 +20402,16 @@
       "source": "simplify",
       "title": "Associate Software Engineer - Launchpad",
       "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Software-Engineer---Launchpad_JR-02641559"
+    },
+    "simplify:lowe's::simplify-6be172ec-d3a7-445d-8218-d442e9c6dd1c": {
+      "company": "Lowe's",
+      "first_seen": "2026-09-14T20:34:50+00:00",
+      "last_seen": "2026-09-14T20:34:50+00:00",
+      "location": "Charlotte, NC",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer---Undergrad-Internship---Summer-2027_JR-02623576"
     },
     "simplify:lpl financial holdings::simplify-6538dcdb-7ff2-4214-ba47-f53b40274027": {
       "company": "LPL Financial Holdings",
@@ -21317,6 +21398,7 @@
     "simplify:merchants bank of indiana::simplify-7e772e12-bb40-45ce-b4c8-b8905b2dada8": {
       "company": "Merchants Bank of Indiana",
       "first_seen": "2026-09-01T05:01:14+00:00",
+      "last_seen": "2026-09-14T20:34:46+00:00",
       "posted_at": "1788203744",
       "title": "Business Technology Intern - Application Development",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4464054"
@@ -30389,6 +30471,16 @@
       "posted_at": "1784671831",
       "title": "Contract Associate Development Engineer",
       "url": "https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/16888"
+    },
+    "simplify:singlestore::simplify-3e6f921b-67f9-4456-8fb9-b304590094b6": {
+      "company": "SingleStore",
+      "first_seen": "2026-09-14T20:34:50+00:00",
+      "last_seen": "2026-09-14T20:34:50+00:00",
+      "location": "United States",
+      "posted_at": "1789416471",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399"
     },
     "simplify:skillz::simplify-f6b5ff0d-148d-4780-a5c2-ce8d5f7bcec1": {
       "company": "skillz",
@@ -42207,5 +42299,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-14T20:34:25+00:00"
+  "updated_at": "2026-09-14T20:39:26+00:00"
 }
