@@ -1,0 +1,55 @@
+name: watch-smoke
+
+# TEMPORARY pre-merge check. Delete once the watch loop has run for real on main.
+#
+# A scheduled workflow only runs from the default branch, so the rewritten
+# scraper.yml cannot be exercised before merging it. This runs the same command
+# on a branch push, briefly and in dry-run, to prove the parts that only fail on
+# a real runner: the install, the loop's timing, that it exits cleanly on its own
+# deadline, and that SIGTERM is handled rather than killing it mid-write.
+#
+# DRY_RUN=true means no Discord call and no state write, so it needs no secret
+# and cannot touch seen_jobs.json.
+
+on:
+  push:
+    branches: ["claude/**"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Run the watch loop briefly in dry-run
+        env:
+          DRY_RUN: "true"
+          ROLE_TYPES: "intern,new_grad"
+          OFF_SEASON_ONLY: "false"
+          US_CANADA_ONLY: "true"
+          STATE_FILE: ${{ runner.temp }}/smoke_state.json
+        run: |
+          # Start from the committed state so this exercises the real dedup path
+          # against 5k+ records, not an empty store taking the first-run branch.
+          cp seen_jobs.json "$STATE_FILE"
+          python -m jobscraper watch --interval 30 --company-interval 60 --duration 150
+
+      - name: Confirm dry-run wrote no state
+        env:
+          STATE_FILE: ${{ runner.temp }}/smoke_state.json
+        run: |
+          if ! git diff --quiet -- seen_jobs.json; then
+            echo "::error::dry-run modified the committed state file"
+            exit 1
+          fi
+          echo "OK: committed state untouched"
