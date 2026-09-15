@@ -1,5 +1,5 @@
 {
-  "count": 5592,
+  "count": 5595,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -8681,6 +8681,16 @@
       "posted_at": "1780610773",
       "title": "Snack Bar Attendant",
       "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/84113"
+    },
+    "simplify:cai::simplify-593f743d-dbf9-4e74-97a9-3e11236aaddd": {
+      "company": "CAI",
+      "first_seen": "2026-09-15T06:35:52+00:00",
+      "last_seen": "2026-09-15T06:35:52+00:00",
+      "location": "Pennsylvania",
+      "posted_at": "1789430400",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Software-Developer-Intern_R8462"
     },
     "simplify:calamp::simplify-1554a295-c149-425e-addc-4d97676807a8": {
       "company": "CalAmp",
@@ -21238,6 +21248,7 @@
     "simplify:mastercard::simplify-78c03ab4-f50a-445d-9802-fb785330b50f": {
       "company": "Mastercard",
       "first_seen": "2026-08-24T15:05:46+00:00",
+      "last_seen": "2026-09-15T06:35:51+00:00",
       "posted_at": "1787529600",
       "title": "Software Engineer Intern",
       "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1"
@@ -28765,6 +28776,16 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01863755"
     },
+    "simplify:rtx::simplify-1bd223c7-4d3d-4d64-8dcc-3c5d3d7095dc": {
+      "company": "RTX",
+      "first_seen": "2026-09-15T06:35:52+00:00",
+      "last_seen": "2026-09-15T06:35:52+00:00",
+      "location": "Wilsonville, OR",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Software Engineer Co-op - Summer/Fall 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01873970"
+    },
     "simplify:rtx::simplify-1f9574c2-c85b-414e-b946-2d7845c6c19f": {
       "company": "RTX",
       "first_seen": "2026-09-02T09:12:45+00:00",
@@ -29426,6 +29447,7 @@
     "simplify:rtx::simplify-bde086bf-dab1-4025-b1fa-8d581fc9b704": {
       "company": "RTX",
       "first_seen": "2026-08-18T22:42:18+00:00",
+      "last_seen": "2026-09-15T06:35:10+00:00",
       "posted_at": "1787011200",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I--Onsite-_01867811"
@@ -31662,6 +31684,16 @@
       "posted_at": "1784764800",
       "title": "Epic Analyst/Builder 1",
       "url": "https://sluhn.wd1.myworkdayjobs.com/SLUHN/job/Allentown-PA---1110-American-Parkway/Epic-Analyst-Builder-I_R143531-1"
+    },
+    "simplify:stanley black & decker::simplify-96db4016-3e8f-4c92-98f2-43fa3eabab24": {
+      "company": "Stanley Black & Decker",
+      "first_seen": "2026-09-15T06:35:11+00:00",
+      "last_seen": "2026-09-15T06:35:11+00:00",
+      "location": "Towson, MD",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Engineer 1 - Digital",
+      "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineer-I--Digital_REQ-1000051830"
     },
     "simplify:staples::simplify-e3221443-b374-4b72-b948-ccecf7590b90": {
       "company": "Staples",
@@ -42881,5 +42913,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-15T02:04:42+00:00"
+  "updated_at": "2026-09-15T06:39:50+00:00"
 }
