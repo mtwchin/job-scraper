@@ -1,5 +1,5 @@
 {
-  "count": 5606,
+  "count": 5608,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -9389,6 +9389,16 @@
       "title": "Associate Forward Deployed Engineer",
       "url": "https://chenmed.wd1.myworkdayjobs.com/chenmed/job/Corporate-Office/Associate-Forward-Deployed-Engineer_R0049128"
     },
+    "simplify:cherry technologies::simplify-4b2ecaee-656e-44a5-8c2d-3542dc11fbd5": {
+      "company": "Cherry Technologies",
+      "first_seen": "2026-09-15T15:05:00+00:00",
+      "last_seen": "2026-09-15T15:05:00+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1789482343",
+      "source": "simplify",
+      "title": "Software Engineer - Entry-Level",
+      "url": "https://jobs.ashbyhq.com/withcherry/6cdd7a52-fcbd-4e29-bcf2-00840ee9243f/application?embed=true"
+    },
     "simplify:chevron corporation::simplify-09855ad6-f11c-4939-b41a-39ff8df98ee6": {
       "company": "Chevron Corporation",
       "first_seen": "2026-07-17T00:58:34+00:00",
@@ -17984,6 +17994,16 @@
       "posted_at": "1777500475",
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639"
+    },
+    "simplify:intelcom | dragonfly::simplify-1d4cc953-544e-4872-9740-94020ef03904": {
+      "company": "Intelcom | Dragonfly",
+      "first_seen": "2026-09-15T15:05:00+00:00",
+      "last_seen": "2026-09-15T15:05:00+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1789430400",
+      "source": "simplify",
+      "title": "Back-end Developer Intern - Mobile Application",
+      "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Back-end-Developer-Intern---Mobile-Application_JR111747"
     },
     "simplify:intelcom | dragonfly::simplify-58e0fc45-0a62-48e7-b095-d62d3cfbca39": {
       "company": "Intelcom | Dragonfly",
@@ -43024,5 +43044,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-15T14:40:19+00:00"
+  "updated_at": "2026-09-15T15:05:21+00:00"
 }
