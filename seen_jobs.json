@@ -1,5 +1,5 @@
 {
-  "count": 5608,
+  "count": 5610,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -590,6 +590,26 @@
       "posted_at": "2026-09-07T11:17:51-04:00",
       "title": "Software Engineering Intern (Summer 2027)",
       "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224"
+    },
+    "duolingo::8805925002": {
+      "company": "Duolingo",
+      "first_seen": "2026-09-15T16:02:04+00:00",
+      "last_seen": "2026-09-15T16:02:04+00:00",
+      "location": "New York, NY; Pittsburgh, PA; Seattle, WA",
+      "posted_at": "2026-09-15T12:00:00-04:00",
+      "source": "",
+      "title": "Software Engineer, Intern",
+      "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002"
+    },
+    "duolingo::8806114002": {
+      "company": "Duolingo",
+      "first_seen": "2026-09-15T16:02:04+00:00",
+      "last_seen": "2026-09-15T16:02:04+00:00",
+      "location": "Pittsburgh, PA",
+      "posted_at": "2026-09-15T12:00:00-04:00",
+      "source": "",
+      "title": "Software Engineer, Thrive Intern",
+      "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002"
     },
     "figma::6131089004": {
       "company": "Figma",
@@ -43044,5 +43064,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-15T15:05:21+00:00"
+  "updated_at": "2026-09-15T16:05:25+00:00"
 }
