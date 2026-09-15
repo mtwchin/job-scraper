@@ -1,5 +1,5 @@
 {
-  "count": 5579,
+  "count": 5592,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2284,6 +2284,16 @@
       "title": "Software Developer",
       "url": "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677209227"
     },
+    "simplify:a thinking ape::simplify-9a439612-1739-419b-89c7-99b6cee64e2b": {
+      "company": "A Thinking Ape",
+      "first_seen": "2026-09-15T01:35:07+00:00",
+      "last_seen": "2026-09-15T01:35:07+00:00",
+      "location": "Remote in Canada",
+      "posted_at": "1789435098",
+      "source": "simplify",
+      "title": "Software Development Engineer Co-op",
+      "url": "https://job-boards.greenhouse.io/athinkingape/jobs/8203048"
+    },
     "simplify:aar::simplify-6978c2cb-a592-4751-ba2c-89bca5facdce": {
       "company": "AAR",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -4189,6 +4199,16 @@
       "title": "Asset Management Technology Intern - Data Enablement",
       "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Asset-Management-Technology-Intern---Data-Enablement_R26_3538"
     },
+    "simplify:ameriprise financial::simplify-c4d3d189-c19d-4614-8904-12a2243b6d52": {
+      "company": "Ameriprise Financial",
+      "first_seen": "2026-09-15T01:35:07+00:00",
+      "last_seen": "2026-09-15T01:35:07+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Sales, Marketing, and Distribution Technology - Marketing and Distribution Technology",
+      "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Columbia-Threadneedle-Sales--Marketing--and-Distribution-Technology-Leadership-Development-Program-Associate_R26_3114-1"
+    },
     "simplify:amerisure::simplify-2d167d8e-a034-4b6d-a578-d0806e341bbd": {
       "company": "Amerisure",
       "first_seen": "2026-07-30T22:42:25+00:00",
@@ -5460,6 +5480,16 @@
       "posted_at": "1788991687",
       "title": "Software Engineer New Grad - 2027 Graduate",
       "url": "https://campus-globalcareers-atlassian.icims.com/jobs/26070/software-engineer%2c-2027-graduate-canada/job"
+    },
+    "simplify:atlassian::simplify-71842870-b830-4748-a505-dedd8137d854": {
+      "company": "Atlassian",
+      "first_seen": "2026-09-15T01:35:06+00:00",
+      "last_seen": "2026-09-15T01:35:06+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1789434532",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://campus-americas.icims.com/jobs/25813/software-engineer%2c-2027-graduate-u.s./job"
     },
     "simplify:atlassian::simplify-7442c66e-fba5-4b94-bb79-4a94282768f2": {
       "company": "Atlassian",
@@ -12316,6 +12346,16 @@
       "title": "Software Engineer 1",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/7263610"
     },
+    "simplify:doordash::simplify-ea0fba80-15e5-4a2e-829e-38a6fde13be8": {
+      "company": "DoorDash",
+      "first_seen": "2026-09-15T01:35:06+00:00",
+      "last_seen": "2026-09-15T01:35:06+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1789435334",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8170944"
+    },
     "simplify:doordash::simplify-f90d3f2b-d781-495c-a95e-a14936082bb3": {
       "company": "DoorDash",
       "first_seen": "2026-09-04T17:43:59+00:00",
@@ -15152,6 +15192,16 @@
       "posted_at": "1784067032",
       "title": "Software Integration Engineer",
       "url": "https://careers-gdms.icims.com/jobs/73543/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:general dynamics mission systems::simplify-a0151658-2af4-4bbb-837f-bfed922eacff": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-09-15T01:35:07+00:00",
+      "last_seen": "2026-09-15T01:35:07+00:00",
+      "location": "Pittsfield, MA",
+      "posted_at": "1789434858",
+      "source": "simplify",
+      "title": "Systems Engineer",
+      "url": "https://careers-gdms.icims.com/jobs/74765/job?mobile=true&needsRedirect=false"
     },
     "simplify:general dynamics mission systems::simplify-a35187f2-2b60-4934-a7af-6dde56245e69": {
       "company": "General Dynamics Mission Systems",
@@ -18658,6 +18708,16 @@
       "title": "Software Developer New Grad - Engagement Optimization",
       "url": "https://careers.jhuapl.edu/jobs/59510?icims=1"
     },
+    "simplify:johns hopkins applied physics laboratory::simplify-4e5b7eb9-a36b-44d7-9aed-7228b2acfc5a": {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "first_seen": "2026-09-15T01:35:07+00:00",
+      "last_seen": "2026-09-15T01:35:07+00:00",
+      "location": "Laurel, MD",
+      "posted_at": "1789435075",
+      "source": "simplify",
+      "title": "Computer Engineer Intern - Shipboard Systems Group",
+      "url": "https://careers.jhuapl.edu/jobs/60049?icims=1"
+    },
     "simplify:johns hopkins applied physics laboratory::simplify-6d081b1c-739e-4f18-b112-ddf3c2381662": {
       "company": "Johns Hopkins Applied Physics Laboratory",
       "first_seen": "2026-08-14T05:13:27+00:00",
@@ -22147,6 +22207,7 @@
     "simplify:microsoft::simplify-b5b15050-2287-4ebf-8a26-f0745c794fd3": {
       "company": "Microsoft",
       "first_seen": "2026-08-19T08:49:40+00:00",
+      "last_seen": "2026-09-15T01:35:05+00:00",
       "posted_at": "1787127974",
       "title": "AI Software Engineer Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891"
@@ -23047,6 +23108,16 @@
       "posted_at": "1787033768",
       "title": "Software Engineer New Grad",
       "url": "https://nexthopai.bamboohr.com/careers/24/"
+    },
+    "simplify:nexthop.ai::simplify-d95281cf-98b3-4a5a-95ed-2ad39d2197a1": {
+      "company": "Nexthop.ai",
+      "first_seen": "2026-09-15T01:35:07+00:00",
+      "last_seen": "2026-09-15T01:35:07+00:00",
+      "location": "Burnaby, BC, Canada",
+      "posted_at": "1789435396",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://nexthopai.bamboohr.com/careers/64/"
     },
     "simplify:nextiva::simplify-a743b22b-067a-47c3-aef7-8e3f2b8a912c": {
       "company": "Nextiva",
@@ -24650,6 +24721,16 @@
       "posted_at": "1784596607",
       "title": "Full Stack Developer-Intern Opportunity",
       "url": "https://ats.rippling.com/onware/jobs/1b9d59b6-1ab0-4c40-8429-39b5b62f019a"
+    },
+    "simplify:openai::simplify-8531a8a8-615c-4eb3-8f19-b6a80d1d5d15": {
+      "company": "OpenAI",
+      "first_seen": "2026-09-15T01:35:06+00:00",
+      "last_seen": "2026-09-15T01:35:06+00:00",
+      "location": "SF",
+      "posted_at": "1789435486",
+      "source": "simplify",
+      "title": "Software Engineer - Applied Emerging Talent",
+      "url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511/application?embed=true"
     },
     "simplify:openai::simplify-b522993e-8dbe-4f12-a486-e92174ac0fda": {
       "company": "OpenAI",
@@ -29067,6 +29148,16 @@
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineering-Intern--Summer-2027-_01867814"
     },
+    "simplify:rtx::simplify-8aa31162-4140-4408-a6ca-0e51e890da86": {
+      "company": "RTX",
+      "first_seen": "2026-09-15T01:35:07+00:00",
+      "last_seen": "2026-09-15T01:35:07+00:00",
+      "location": "Arlington County, Arlington, VA",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Engineering--Software-Discipline--Starts-June-2027-_01873618"
+    },
     "simplify:rtx::simplify-8b958c89-89d4-4a94-8e70-51e0d162eb51": {
       "company": "RTX",
       "first_seen": "2026-08-25T18:59:37+00:00",
@@ -32138,6 +32229,36 @@
       "title": "Software Engineer Intern - Platform",
       "url": "https://jobs.ashbyhq.com/super.com/29751d58-eacc-4b5a-8e9d-e59cb7a595c7/application?embed=true"
     },
+    "simplify:superhuman::simplify-18052ece-e9bc-41d6-bcd9-f20ab241dcc2": {
+      "company": "Superhuman",
+      "first_seen": "2026-09-15T01:35:07+00:00",
+      "last_seen": "2026-09-15T01:35:07+00:00",
+      "location": "Seattle, WA, SF, NYC",
+      "posted_at": "1789435262",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application?embed=true"
+    },
+    "simplify:superhuman::simplify-1c123b94-fb07-4a60-97b4-43dec605b42f": {
+      "company": "Superhuman",
+      "first_seen": "2026-09-15T01:35:07+00:00",
+      "last_seen": "2026-09-15T01:35:07+00:00",
+      "location": "Seattle, WA, SF",
+      "posted_at": "1789435263",
+      "source": "simplify",
+      "title": "Software Engineer - Early Career",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/da5e147c-f957-4ba1-9712-1b2dde377cb0/application?embed=true"
+    },
+    "simplify:superhuman::simplify-26b3de5f-72c0-4567-8e63-fac11ea93bff": {
+      "company": "Superhuman",
+      "first_seen": "2026-09-15T01:35:07+00:00",
+      "last_seen": "2026-09-15T01:35:07+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1789435264",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c/application?embed=true"
+    },
     "simplify:supernova technology::simplify-00620949-7bbd-4342-a515-87e57990c860": {
       "company": "Supernova Technology",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -33483,6 +33604,16 @@
       "posted_at": "1783645841",
       "title": "Software Engineer Intern - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/276333"
+    },
+    "simplify:tesla::simplify-f738e9df-005d-49b2-b408-266feeacf24b": {
+      "company": "Tesla",
+      "first_seen": "2026-09-15T01:35:06+00:00",
+      "last_seen": "2026-09-15T01:35:06+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1789434593",
+      "source": "simplify",
+      "title": "Internship - Software Integration Engineer - Factory Firmware Team - Winter/Spring 2027",
+      "url": "https://www.tesla.com/careers/search/job/283447"
     },
     "simplify:tesla::simplify-ff0616b4-484e-4ce8-b74e-55a7e8cc0e9d": {
       "company": "Tesla",
@@ -42749,5 +42880,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-15T01:09:38+00:00"
+  "updated_at": "2026-09-15T01:39:40+00:00"
 }
