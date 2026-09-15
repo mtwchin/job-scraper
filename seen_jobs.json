@@ -1,5 +1,5 @@
 {
-  "count": 5672,
+  "count": 5673,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -231,6 +231,16 @@
       "posted_at": "September 11, 2026",
       "title": "ML Systems Software Development Engineer Intern, Annapurna Labs - 2027",
       "url": "https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027"
+    },
+    "amazon::10544071": {
+      "company": "Amazon",
+      "first_seen": "2026-09-15T23:50:59+00:00",
+      "last_seen": "2026-09-15T23:50:59+00:00",
+      "location": "San Luis Obispo, California, USA",
+      "posted_at": "September 15, 2026",
+      "source": "",
+      "title": "Jr. Software Development Engineer - San Luis Obispo, CA, Jr. Developer Program",
+      "url": "https://www.amazon.jobs/en/jobs/10544071/jr-software-development-engineer-san-luis-obispo-ca-jr-developer-program"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -43688,5 +43698,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-15T23:40:44+00:00"
+  "updated_at": "2026-09-15T23:55:46+00:00"
 }
