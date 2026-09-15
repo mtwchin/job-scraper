@@ -1,5 +1,5 @@
 {
-  "count": 5670,
+  "count": 5672,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -12739,6 +12739,16 @@
       "posted_at": "1786601535",
       "title": "Java Developer",
       "url": "https://jobs.smartrecruiters.com/DunnSolutionsGroup/88657218"
+    },
+    "simplify:duolingo::simplify-54d89b96-1ff8-49ce-99e9-b03c8d093745": {
+      "company": "Duolingo",
+      "first_seen": "2026-09-15T23:36:00+00:00",
+      "last_seen": "2026-09-15T23:36:00+00:00",
+      "location": "Seattle, WA, Pittsburgh, PA, NYC",
+      "posted_at": "1789511923",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806878002"
     },
     "simplify:duolingo::simplify-99b19d5b-03dd-438a-91db-fbb3b10e7201": {
       "company": "Duolingo",
@@ -36916,6 +36926,16 @@
       "title": "Software Engineer 1 - Trust Tech",
       "url": "https://corporate.trustpilot.com/careers/job/8015788?gh_jid=8015788"
     },
+    "simplify:truveta::simplify-2666bf8c-5bac-4f5b-9036-479d63ab0600": {
+      "company": "Truveta",
+      "first_seen": "2026-09-15T23:38:40+00:00",
+      "last_seen": "2026-09-15T23:38:40+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1789512160",
+      "source": "simplify",
+      "title": "Software Engineer - Analytical Platform Services",
+      "url": "https://job-boards.greenhouse.io/truveta/jobs/6193466004"
+    },
     "simplify:truveta::simplify-3c8eb845-c4d5-43c4-961f-b8130c3fff8c": {
       "company": "Truveta",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -43668,5 +43688,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-15T23:35:43+00:00"
+  "updated_at": "2026-09-15T23:40:44+00:00"
 }
