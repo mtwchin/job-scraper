@@ -1,5 +1,5 @@
 {
-  "count": 5596,
+  "count": 5597,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -6004,6 +6004,16 @@
       "posted_at": "1789164245",
       "title": "Forward Deployed Engineer Intern",
       "url": "https://job-boards.greenhouse.io/baidu/jobs/8197142"
+    },
+    "simplify:baird::simplify-8bab5dd2-9265-4515-b6ba-b4ca2af51a80": {
+      "company": "Baird",
+      "first_seen": "2026-09-15T12:33:08+00:00",
+      "last_seen": "2026-09-15T12:33:08+00:00",
+      "location": "Milwaukee, WI",
+      "posted_at": "1788825600",
+      "source": "simplify",
+      "title": "IT AI & Automation Intern",
+      "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1"
     },
     "simplify:baird::simplify-a9b15888-79e1-4d34-b682-700189ca37f3": {
       "company": "Baird",
@@ -42923,5 +42933,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-15T11:50:07+00:00"
+  "updated_at": "2026-09-15T12:35:10+00:00"
 }
