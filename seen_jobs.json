@@ -1,5 +1,5 @@
 {
-  "count": 5598,
+  "count": 5599,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -4994,6 +4994,16 @@
       "posted_at": "1787701276",
       "title": "Model Based Systems Engineer 1",
       "url": "https://careers.arcfield.com/jobs/8577?icims=1"
+    },
+    "simplify:arcfield::simplify-d0e246b4-68c7-434f-ae99-044c38ec043b": {
+      "company": "Arcfield",
+      "first_seen": "2026-09-15T14:32:40+00:00",
+      "last_seen": "2026-09-15T14:32:40+00:00",
+      "location": "Middletown, RI",
+      "posted_at": "1789481242",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://careers.arcfield.com/jobs/8643?icims=1"
     },
     "simplify:arch::simplify-d9ab191f-a642-4db2-9b5d-d6e566d0a2b8": {
       "company": "Arch",
@@ -42944,5 +42954,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-15T14:05:15+00:00"
+  "updated_at": "2026-09-15T14:35:17+00:00"
 }
