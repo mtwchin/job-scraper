@@ -13378,8 +13378,8 @@
     },
     "simplify:etched::simplify-ca280838-311b-45d8-bc16-74d93c8462f8": {
       "company": "Etched",
-      "first_seen": "2026-09-15T10:32:51+00:00",
-      "last_seen": "2026-09-15T10:32:51+00:00",
+      "first_seen": "2026-09-15T11:45:30+00:00",
+      "last_seen": "2026-09-15T11:45:30+00:00",
       "location": "San Jose, CA",
       "posted_at": "1789466728",
       "source": "simplify",
@@ -42923,5 +42923,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-15T10:34:53+00:00"
+  "updated_at": "2026-09-15T11:50:07+00:00"
 }
