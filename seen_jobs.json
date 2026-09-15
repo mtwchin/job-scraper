@@ -1,5 +1,5 @@
 {
-  "count": 5667,
+  "count": 5670,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -12740,6 +12740,16 @@
       "title": "Java Developer",
       "url": "https://jobs.smartrecruiters.com/DunnSolutionsGroup/88657218"
     },
+    "simplify:duolingo::simplify-99b19d5b-03dd-438a-91db-fbb3b10e7201": {
+      "company": "Duolingo",
+      "first_seen": "2026-09-15T23:33:40+00:00",
+      "last_seen": "2026-09-15T23:33:40+00:00",
+      "location": "Pittsburgh, PA",
+      "posted_at": "1789511923",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Thrive",
+      "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002"
+    },
     "simplify:duracell::simplify-7ab1c033-3124-4e15-9c57-6e49cbba7061": {
       "company": "Duracell",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -19215,6 +19225,16 @@
       "posted_at": "1787529600",
       "title": "Technology Co-op - Technology LDP",
       "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-Any-City/Technology-2027-Fall-Co-Op_R-095607"
+    },
+    "simplify:johnson & johnson::simplify-4c2e5fe2-a3e6-4d00-ac53-11343dc121dc": {
+      "company": "Johnson & Johnson",
+      "first_seen": "2026-09-15T23:33:41+00:00",
+      "last_seen": "2026-09-15T23:33:41+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1789430400",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Robotics R&D",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919"
     },
     "simplify:johnson & johnson::simplify-4ff50867-f282-4038-9e52-4ae5ef1dede6": {
       "company": "Johnson & Johnson",
@@ -27415,6 +27435,16 @@
       "posted_at": "1783635064",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d/application"
+    },
+    "simplify:q2::simplify-4746059c-ea14-45da-b685-80d31e68d2e2": {
+      "company": "Q2",
+      "first_seen": "2026-09-15T23:33:41+00:00",
+      "last_seen": "2026-09-15T23:33:41+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1789430400",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794"
     },
     "simplify:q2::simplify-83d30405-bde1-4faf-b656-f7eee716c426": {
       "company": "Q2",
@@ -43638,5 +43668,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-15T23:10:41+00:00"
+  "updated_at": "2026-09-15T23:35:43+00:00"
 }
