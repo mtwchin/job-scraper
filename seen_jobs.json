@@ -1,5 +1,5 @@
 {
-  "count": 5612,
+  "count": 5613,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -299,6 +299,16 @@
       "source": "",
       "title": "Winter 2027 Systems Engineer Co-op",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236599007?gh_jid=5236599007"
+    },
+    "anduril::5239083007": {
+      "company": "Anduril",
+      "first_seen": "2026-09-15T19:21:15+00:00",
+      "last_seen": "2026-09-15T19:21:15+00:00",
+      "location": "Costa Mesa, California, United States",
+      "posted_at": "2026-09-15T15:20:09-04:00",
+      "source": "",
+      "title": "2027 Flight Software Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007"
     },
     "applied intuition::31140958-d768-452c-8498-0b1c7f403943": {
       "company": "Applied Intuition",
@@ -43084,5 +43094,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-15T18:00:28+00:00"
+  "updated_at": "2026-09-15T19:25:30+00:00"
 }
