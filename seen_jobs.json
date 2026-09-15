@@ -1,5 +1,5 @@
 {
-  "count": 5610,
+  "count": 5611,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -279,6 +279,16 @@
       "posted_at": "2026-09-02T15:33:53-04:00",
       "title": "2027 Early Career Flight Software Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"
+    },
+    "anduril::5236563007": {
+      "company": "Anduril",
+      "first_seen": "2026-09-15T17:50:52+00:00",
+      "last_seen": "2026-09-15T17:50:52+00:00",
+      "location": "Quincy, Massachusetts, United States",
+      "posted_at": "2026-09-15T13:49:51-04:00",
+      "source": "",
+      "title": "Winter 2027 Software Engineer Co-op",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007"
     },
     "applied intuition::31140958-d768-452c-8498-0b1c7f403943": {
       "company": "Applied Intuition",
@@ -43064,5 +43074,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-15T17:20:24+00:00"
+  "updated_at": "2026-09-15T17:55:26+00:00"
 }
