@@ -1,5 +1,5 @@
 {
-  "count": 5595,
+  "count": 5596,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -13375,6 +13375,16 @@
       "posted_at": "1779239362",
       "title": "Supercomputing Intern",
       "url": "https://jobs.ashbyhq.com/Etched/b45e357c-07ea-4499-9911-1d3cc9b9ac71/application"
+    },
+    "simplify:etched::simplify-ca280838-311b-45d8-bc16-74d93c8462f8": {
+      "company": "Etched",
+      "first_seen": "2026-09-15T10:32:51+00:00",
+      "last_seen": "2026-09-15T10:32:51+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1789466728",
+      "source": "simplify",
+      "title": "Core Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/Etched/494546ec-de37-46a2-b450-692c23b7b0c8/application?embed=true"
     },
     "simplify:eulerity::simplify-624a2b7b-51e9-4b7e-87d8-5e15ae69b867": {
       "company": "Eulerity",
@@ -42913,5 +42923,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-15T06:39:50+00:00"
+  "updated_at": "2026-09-15T10:34:53+00:00"
 }
