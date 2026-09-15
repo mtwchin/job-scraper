@@ -1,5 +1,5 @@
 {
-  "count": 5613,
+  "count": 5614,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2045,6 +2045,16 @@
       "posted_at": "2026-09-11T16:34:49-04:00",
       "title": "Spacecraft Propulsion Systems Engineer I",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7993156003"
+    },
+    "rocket lab::7996430003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-09-15T19:51:32+00:00",
+      "last_seen": "2026-09-15T19:51:32+00:00",
+      "location": "Long Beach, CA",
+      "posted_at": "2026-09-15T15:49:25-04:00",
+      "source": "",
+      "title": "Systems Engineer I",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996430003"
     },
     "salesforce::Missionforce---Associate-Forward-Deployed-Engineer--FDE---Public-Sector_JR333171": {
       "company": "Salesforce",
@@ -43094,5 +43104,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-15T19:25:30+00:00"
+  "updated_at": "2026-09-15T19:55:32+00:00"
 }
