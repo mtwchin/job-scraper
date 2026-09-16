@@ -1,5 +1,5 @@
 {
-  "count": 5684,
+  "count": 5685,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -29396,6 +29396,16 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01865026"
     },
+    "simplify:rtx::simplify-0a9b8db2-a3bc-4f68-8dec-a15c55f9ea3b": {
+      "company": "RTX",
+      "first_seen": "2026-09-16T06:03:56+00:00",
+      "last_seen": "2026-09-16T06:03:56+00:00",
+      "location": "State College, PA",
+      "posted_at": "1789430400",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--Summer-2027-_01871987"
+    },
     "simplify:rtx::simplify-0ab3de69-35a5-4ba9-b025-ae19ea039751": {
       "company": "RTX",
       "first_seen": "2026-09-01T17:52:38+00:00",
@@ -43808,5 +43818,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-16T04:20:55+00:00"
+  "updated_at": "2026-09-16T06:05:57+00:00"
 }
