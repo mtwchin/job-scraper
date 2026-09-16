@@ -1,5 +1,5 @@
 {
-  "count": 5681,
+  "count": 5682,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -4596,6 +4596,16 @@
       "posted_at": "1765840442",
       "title": "Backend Engineer - AI",
       "url": "https://jobs.ashbyhq.com/anything/f4123aa5-855a-4b82-b762-66fb4a77f493/application"
+    },
+    "simplify:apera ai::simplify-18d868f8-7386-496b-958c-2b060e136892": {
+      "company": "Apera AI",
+      "first_seen": "2026-09-16T02:06:07+00:00",
+      "last_seen": "2026-09-16T02:06:07+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1789522259",
+      "source": "simplify",
+      "title": "Software Developer Co-op - C++",
+      "url": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5239394007"
     },
     "simplify:apera ai::simplify-44e23e3b-4471-48d6-b46f-01544b865f39": {
       "company": "Apera AI",
@@ -43778,5 +43788,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-16T02:05:53+00:00"
+  "updated_at": "2026-09-16T02:10:55+00:00"
 }
