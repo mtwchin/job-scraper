@@ -1,5 +1,5 @@
 {
-  "count": 5683,
+  "count": 5684,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1206,6 +1206,16 @@
       "posted_at": "Posted 30+ Days Ago",
       "title": "PhD Software Engineering Intern, Decision Intelligence - Fall 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522"
+    },
+    "nvidia::Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538": {
+      "company": "Nvidia",
+      "first_seen": "2026-09-16T04:16:16+00:00",
+      "last_seen": "2026-09-16T04:16:16+00:00",
+      "location": "2 Locations",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Silicon Software Engineer - System and AI (RDSS Intern)",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538"
     },
     "nvidia::Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295": {
       "company": "Nvidia",
@@ -4609,8 +4619,8 @@
     },
     "simplify:apera ai::simplify-18d868f8-7386-496b-958c-2b060e136892": {
       "company": "Apera AI",
-      "first_seen": "2026-09-16T02:06:07+00:00",
-      "last_seen": "2026-09-16T02:06:07+00:00",
+      "first_seen": "2026-09-16T04:16:17+00:00",
+      "last_seen": "2026-09-16T04:16:17+00:00",
       "location": "Vancouver, BC, Canada",
       "posted_at": "1789522259",
       "source": "simplify",
@@ -32496,8 +32506,8 @@
     },
     "simplify:starbucks::simplify-10282be3-6654-440b-8bd2-74329d579fb0": {
       "company": "Starbucks",
-      "first_seen": "2026-09-16T02:02:40+00:00",
-      "last_seen": "2026-09-16T02:02:40+00:00",
+      "first_seen": "2026-09-16T04:16:17+00:00",
+      "last_seen": "2026-09-16T04:16:17+00:00",
       "location": "Seattle, WA",
       "posted_at": "1789522794",
       "source": "simplify",
@@ -43798,5 +43808,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-16T03:20:56+00:00"
+  "updated_at": "2026-09-16T04:20:55+00:00"
 }
