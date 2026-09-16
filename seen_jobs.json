@@ -1,5 +1,5 @@
 {
-  "count": 5742,
+  "count": 5748,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -9894,6 +9894,16 @@
       "title": "Enterprise Integration Developer",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Baltimore/Enterprise-Integration-Developer_R030725"
     },
+    "simplify:ciena::simplify-18dc27db-b7e3-4011-8f62-be35525277f1": {
+      "company": "Ciena",
+      "first_seen": "2026-09-16T23:07:10+00:00",
+      "last_seen": "2026-09-16T23:07:10+00:00",
+      "location": "Ottawa, ON, Canada",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "ASIC Development Methodology and Automation New Grad",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Development-Methodology-and-Automation---New-Grad_R031639"
+    },
     "simplify:ciena::simplify-1fd55c35-12bd-4a17-bcff-319013a0ddf5": {
       "company": "Ciena",
       "first_seen": "2026-09-16T23:02:47+00:00",
@@ -11915,6 +11925,16 @@
       "source": "simplify",
       "title": "Engineering Intern",
       "url": "https://jobs.ashbyhq.com/decagon/16529089-a048-4bc3-8456-3f197135e00b/application?embed=true"
+    },
+    "simplify:decagon::simplify-eb717389-3150-4f85-8d1c-5a85b13eea1d": {
+      "company": "Decagon",
+      "first_seen": "2026-09-16T23:07:09+00:00",
+      "last_seen": "2026-09-16T23:07:09+00:00",
+      "location": "SF, NYC",
+      "posted_at": "1789597393",
+      "source": "simplify",
+      "title": "Member of Technical Staff New Grad - 2027 Start",
+      "url": "https://jobs.ashbyhq.com/decagon/a8ff946f-d6b1-4059-bc9f-fe6b11504f2f/application?embed=true"
     },
     "simplify:decisionpoint corporation::simplify-0e6c1db8-ce0d-4d6e-8962-3757c2b0a9e8": {
       "company": "DecisionPoint Corporation",
@@ -16014,6 +16034,16 @@
       "title": "Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008"
     },
+    "simplify:general motors::simplify-18dded30-85da-4cf5-a07f-5f4f9aa52535": {
+      "company": "General Motors",
+      "first_seen": "2026-09-16T23:07:10+00:00",
+      "last_seen": "2026-09-16T23:07:10+00:00",
+      "location": "Seattle, WA, Austin, TX, Warren, MI",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Software Engineer - Early Careers",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Austin-Texas-United-States-of-America/Software-Engineer--Data-Software-Engineering-and-Cloud-Platforms--Early-Careers_JR-202620418"
+    },
     "simplify:general motors::simplify-448885da-fdf1-4759-b904-870c29e0369e": {
       "company": "General Motors",
       "first_seen": "2026-07-31T22:42:03+00:00",
@@ -17260,6 +17290,16 @@
       "posted_at": "1782252546",
       "title": "Associate Application Engineer",
       "url": "https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Associate-Application-Engineer_R26003212"
+    },
+    "simplify:headlands tech holdings::simplify-c26d8252-d97c-43cd-a297-d22043b04581": {
+      "company": "Headlands Tech Holdings",
+      "first_seen": "2026-09-16T23:07:10+00:00",
+      "last_seen": "2026-09-16T23:07:10+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1789597534",
+      "source": "simplify",
+      "title": "C++ Software Developer New Grad",
+      "url": "https://job-boards.greenhouse.io/headlandstechnologiesllc/jobs/4336806009"
     },
     "simplify:healthedge::simplify-260b62da-2fbd-47f5-af45-99bd6b0bfb4e": {
       "company": "HealthEdge",
@@ -18934,6 +18974,16 @@
       "posted_at": "1785737839",
       "title": "Software Developer - .NET/C# - NAVSUP Programs",
       "url": "https://itcdefense.applytojob.com/apply/Zlhmseroea/Software-Developer-NETC-NAVSUP-Programs"
+    },
+    "simplify:itc defense::simplify-35598328-327a-4daa-af71-c84789488d49": {
+      "company": "ITC Defense",
+      "first_seen": "2026-09-16T23:07:10+00:00",
+      "last_seen": "2026-09-16T23:07:10+00:00",
+      "location": "Philadelphia, PA",
+      "posted_at": "1789597194",
+      "source": "simplify",
+      "title": "Software Developer - .NET/C# - NAVSUP Programs",
+      "url": "https://itcdefense.applytojob.com/apply/bHuaTk27be/Software-Developer-NETC-NAVSUP-Programs"
     },
     "simplify:itc federal::simplify-661f570a-c103-4c06-9b18-929661f1a1b3": {
       "company": "ITC Federal",
@@ -30918,6 +30968,16 @@
       "posted_at": "1786492800",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01865026-1"
+    },
+    "simplify:rtx::simplify-f0decac3-42e6-41b6-8f73-a954263e1bd7": {
+      "company": "RTX",
+      "first_seen": "2026-09-16T23:07:10+00:00",
+      "last_seen": "2026-09-16T23:07:10+00:00",
+      "location": "Cedar Rapids, IA",
+      "posted_at": "1781014588",
+      "source": "simplify",
+      "title": "System Integration Software Engineer 1 - System Integration Software Engineer I",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2026-Collins-Full-Time---System-Integration-Software-Engineer-I---Cedar-Rapids--IA--Onsite-_01850421"
     },
     "simplify:rtx::simplify-f28ae9aa-51ea-4eed-9d3d-587981e3c6b3": {
       "company": "RTX",
@@ -44392,5 +44452,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-16T23:06:50+00:00"
+  "updated_at": "2026-09-16T23:11:52+00:00"
 }
