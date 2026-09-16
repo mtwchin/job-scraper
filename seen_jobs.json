@@ -1,5 +1,5 @@
 {
-  "count": 5692,
+  "count": 5693,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -21232,7 +21232,7 @@
     "simplify:lseg::simplify-8c0a75e5-6d0a-483c-9075-3347c814e23f": {
       "company": "LSEG",
       "first_seen": "2026-09-14T19:14:49+00:00",
-      "last_seen": "2026-09-15T00:44:55+00:00",
+      "last_seen": "2026-09-16T10:36:34+00:00",
       "location": "NYC",
       "posted_at": "1789344000",
       "source": "simplify",
@@ -25608,6 +25608,16 @@
       "posted_at": "1781831109",
       "title": "Senior Configuration Analyst - Pathnet Blood Bank",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/337358"
+    },
+    "simplify:oratomic::simplify-939f8222-3636-48c7-b71b-c408dae9b512": {
+      "company": "Oratomic",
+      "first_seen": "2026-09-16T10:36:34+00:00",
+      "last_seen": "2026-09-16T10:36:34+00:00",
+      "location": "Pasadena, CA",
+      "posted_at": "1784596469",
+      "source": "simplify",
+      "title": "Software and AI Engineer",
+      "url": "https://jobs.ashbyhq.com/oratomic/f55b5d57-36c9-4d77-a12a-d66b8cb5642e/application?embed=true"
     },
     "simplify:oshkosh::simplify-033fb8eb-961d-4cab-88a1-a78b101431ff": {
       "company": "Oshkosh",
@@ -43888,5 +43898,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-16T10:06:14+00:00"
+  "updated_at": "2026-09-16T10:41:16+00:00"
 }
