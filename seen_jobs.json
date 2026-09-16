@@ -1,5 +1,5 @@
 {
-  "count": 5690,
+  "count": 5691,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -27299,6 +27299,16 @@
       "title": "Software Developer",
       "url": "https://jobs.smartrecruiters.com/PresidencySolutions1/82551703"
     },
+    "simplify:pressw::simplify-2ce45287-9550-4c52-9713-3ca4f1c8fc39": {
+      "company": "PressW",
+      "first_seen": "2026-09-16T09:06:17+00:00",
+      "last_seen": "2026-09-16T09:06:17+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1789425117",
+      "source": "simplify",
+      "title": "Applied AI Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/pressw/3b69cc30-a47b-4cd2-a27c-763b8f65c8e3/application?embed=true"
+    },
     "simplify:pricewaterhousecoopers (pwc)::simplify-0db4db4a-cd56-42f2-aa9f-4de76e4fc79c": {
       "company": "PricewaterhouseCoopers (PwC)",
       "first_seen": "2026-09-01T00:09:06+00:00",
@@ -43868,5 +43878,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-16T06:41:01+00:00"
+  "updated_at": "2026-09-16T09:11:03+00:00"
 }
