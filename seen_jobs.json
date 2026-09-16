@@ -1,5 +1,5 @@
 {
-  "count": 5702,
+  "count": 5705,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3222,6 +3222,16 @@
       "posted_at": "1788220800",
       "title": "Graduate Airframe Automation Engineer",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/AGGP2027---Graduate-Airframe-Automation-Engineer_JR10428292"
+    },
+    "simplify:airbus::simplify-a4f0ad06-c1ae-46ac-b9ae-cb9d2eefc001": {
+      "company": "Airbus",
+      "first_seen": "2026-09-16T15:07:13+00:00",
+      "last_seen": "2026-09-16T15:07:13+00:00",
+      "location": "Bingen, WA",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "HMI/Desktop Applications Software Engineer",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bingen-WA/HMI-Desktop-Applications-Software-Engineer_JR10439506"
     },
     "simplify:airbus::simplify-abc08d7b-bb97-456f-8b07-4a26a43b0fa2": {
       "company": "Airbus",
@@ -16784,6 +16794,16 @@
       "title": "Technical Associate - Platforms - Technology",
       "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Technical-Associate---Platforms--Technology---Campus-2026--San-Antonio-_42401"
     },
+    "simplify:guidestone::simplify-94863e1d-0d92-43c0-a139-694a550ee676": {
+      "company": "GuideStone",
+      "first_seen": "2026-09-16T15:07:13+00:00",
+      "last_seen": "2026-09-16T15:07:13+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Associate Software Developer",
+      "url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Associate-Software-Developer_R1989"
+    },
     "simplify:guidewire::simplify-0d1fdb68-7acd-47a6-9000-85bad53536d8": {
       "company": "Guidewire",
       "first_seen": "2026-07-15T00:13:08+00:00",
@@ -17843,6 +17863,16 @@
       "posted_at": "1788739200",
       "title": "Software Developer Intern",
       "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002"
+    },
+    "simplify:icf international::simplify-fe0763db-c658-4003-84f4-cc7e0d8848a4": {
+      "company": "ICF International",
+      "first_seen": "2026-09-16T15:07:13+00:00",
+      "last_seen": "2026-09-16T15:07:13+00:00",
+      "location": "Reston, VA",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Junior Software Engineer",
+      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Junior-Software-Engineer--Entry-level---Remote-US-_R2603054"
     },
     "simplify:id.me::simplify-271f04b2-4017-4e86-b67f-387e7a47b5fe": {
       "company": "ID.me",
@@ -43991,5 +44021,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-16T15:06:31+00:00"
+  "updated_at": "2026-09-16T15:11:33+00:00"
 }
