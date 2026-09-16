@@ -1,5 +1,5 @@
 {
-  "count": 5707,
+  "count": 5708,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -44006,6 +44006,16 @@
       "title": "2027 Summer Intern, BS/MS, Software Engineer",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731"
     },
+    "waymo::8197554": {
+      "company": "Waymo",
+      "first_seen": "2026-09-16T20:11:51+00:00",
+      "last_seen": "2026-09-16T20:11:51+00:00",
+      "location": "Mountain View, California, United States | San Francisco, California, United States",
+      "posted_at": "2026-09-16T16:08:32-04:00",
+      "source": "",
+      "title": "2027 Summer Intern, PhD, Quantitative Software Engineer",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554"
+    },
     "waymo::8198218": {
       "company": "Waymo",
       "first_seen": "2026-09-14T21:19:49+00:00",
@@ -44041,5 +44051,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-16T20:01:38+00:00"
+  "updated_at": "2026-09-16T20:16:40+00:00"
 }
