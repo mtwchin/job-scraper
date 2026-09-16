@@ -1,5 +1,5 @@
 {
-  "count": 5685,
+  "count": 5686,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -25051,6 +25051,16 @@
       "title": "Machine Learning Applications and Compiler Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016937"
     },
+    "simplify:nvidia::simplify-86cb0b1e-3691-4e3c-a4ec-c65f90643d87": {
+      "company": "NVIDIA",
+      "first_seen": "2026-09-16T06:33:22+00:00",
+      "last_seen": "2026-09-16T06:33:22+00:00",
+      "location": "Remote in USA, Santa Clara, CA",
+      "posted_at": "1789430400",
+      "source": "simplify",
+      "title": "Software Engineer - Coding Agent Harness Engineering",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Coding-Agent-Harness-Engineering----New-College-Grad-2026_JR2023749"
+    },
     "simplify:nvidia::simplify-9ff8def7-4cc8-4f59-aadb-ddec79771bfa": {
       "company": "NVIDIA",
       "first_seen": "2026-09-01T00:09:02+00:00",
@@ -43818,5 +43828,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-16T06:05:57+00:00"
+  "updated_at": "2026-09-16T06:35:59+00:00"
 }
