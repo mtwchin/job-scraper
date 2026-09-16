@@ -1,5 +1,5 @@
 {
-  "count": 5706,
+  "count": 5707,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -505,6 +505,16 @@
       "posted_at": "Posted 30+ Days Ago",
       "title": "Junior C++ Software Engineer - Serbia - ETR",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Belgrade-Serbia/Junior-C---Software-Engineer---Serbia---ETR_2016195"
+    },
+    "cisco::Software-Developer-Embedded-Systems-I--Co-op----Canada_2024111": {
+      "company": "Cisco",
+      "first_seen": "2026-09-16T19:56:57+00:00",
+      "last_seen": "2026-09-16T19:56:57+00:00",
+      "location": "6 Locations",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Software Developer Embedded Systems I (Co-op) - Canada",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Co-op----Canada_2024111"
     },
     "cisco::Software-Engineer-Data---AI-I--Intern----United-States_2024510": {
       "company": "Cisco",
@@ -44031,5 +44041,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-16T19:01:35+00:00"
+  "updated_at": "2026-09-16T20:01:38+00:00"
 }
