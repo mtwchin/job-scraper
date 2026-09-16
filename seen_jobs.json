@@ -21081,8 +21081,8 @@
     },
     "simplify:live oak bank::simplify-32923ef5-9813-4720-ba0f-736ed5febb06": {
       "company": "Live Oak Bank",
-      "first_seen": "2026-09-16T06:36:15+00:00",
-      "last_seen": "2026-09-16T06:36:15+00:00",
+      "first_seen": "2026-09-16T09:46:36+00:00",
+      "last_seen": "2026-09-16T09:46:36+00:00",
       "location": "Wilmington, NC",
       "posted_at": "1789516800",
       "source": "simplify",
@@ -21091,8 +21091,8 @@
     },
     "simplify:live oak bank::simplify-94db09b4-4148-4208-acfd-2dcfef6b4a27": {
       "company": "Live Oak Bank",
-      "first_seen": "2026-09-16T06:36:15+00:00",
-      "last_seen": "2026-09-16T06:36:15+00:00",
+      "first_seen": "2026-09-16T09:46:36+00:00",
+      "last_seen": "2026-09-16T09:46:36+00:00",
       "location": "Wilmington, NC",
       "posted_at": "1789516800",
       "source": "simplify",
@@ -27301,8 +27301,8 @@
     },
     "simplify:pressw::simplify-2ce45287-9550-4c52-9713-3ca4f1c8fc39": {
       "company": "PressW",
-      "first_seen": "2026-09-16T09:06:17+00:00",
-      "last_seen": "2026-09-16T09:06:17+00:00",
+      "first_seen": "2026-09-16T09:46:36+00:00",
+      "last_seen": "2026-09-16T09:46:36+00:00",
       "location": "Austin, TX",
       "posted_at": "1789425117",
       "source": "simplify",
@@ -29822,8 +29822,8 @@
     },
     "simplify:rtx::simplify-6f44a57e-69f3-4a80-91ad-8417c1164dea": {
       "company": "RTX",
-      "first_seen": "2026-09-16T06:36:15+00:00",
-      "last_seen": "2026-09-16T06:36:15+00:00",
+      "first_seen": "2026-09-16T09:46:36+00:00",
+      "last_seen": "2026-09-16T09:46:36+00:00",
       "location": "St. Petersburg, FL",
       "posted_at": "1789430400",
       "source": "simplify",
@@ -34600,8 +34600,8 @@
     },
     "simplify:texas instruments::simplify-53311897-ff89-413c-811c-2099ff6c4c30": {
       "company": "Texas Instruments",
-      "first_seen": "2026-09-16T06:36:15+00:00",
-      "last_seen": "2026-09-16T06:36:15+00:00",
+      "first_seen": "2026-09-16T09:46:36+00:00",
+      "last_seen": "2026-09-16T09:46:36+00:00",
       "location": "Dallas, TX",
       "posted_at": "1789539127",
       "source": "simplify",
@@ -43878,5 +43878,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-16T09:11:03+00:00"
+  "updated_at": "2026-09-16T09:51:12+00:00"
 }
