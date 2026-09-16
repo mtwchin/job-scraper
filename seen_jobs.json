@@ -1,5 +1,5 @@
 {
-  "count": 5708,
+  "count": 5709,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -549,6 +549,16 @@
       "posted_at": "Posted Today",
       "title": "Software Engineer I (Full Time) - United States",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milpitas-California-US/Software-Engineer-I--Full-Time----United-States_2023527"
+    },
+    "cisco::Software-Engineer-I--Intern----United-States_2025890": {
+      "company": "Cisco",
+      "first_seen": "2026-09-16T20:52:06+00:00",
+      "last_seen": "2026-09-16T20:52:06+00:00",
+      "location": "RTP, North Carolina, US",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Software Engineer I (Intern) - United States",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Software-Engineer-I--Intern----United-States_2025890"
     },
     "cohere::8c035d3d-081d-4c8a-914a-72f4efaad254": {
       "company": "Cohere",
@@ -44051,5 +44061,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-16T20:51:45+00:00"
+  "updated_at": "2026-09-16T20:56:46+00:00"
 }
