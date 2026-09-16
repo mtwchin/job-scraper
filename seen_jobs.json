@@ -1,5 +1,5 @@
 {
-  "count": 5701,
+  "count": 5702,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -6539,6 +6539,16 @@
       "title": "Software Engineer - Model Performance Tooling",
       "url": "https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f/application"
     },
+    "simplify:bass pro shops::simplify-24ee0ceb-0e78-42b5-9fd4-47bbbf594757": {
+      "company": "Bass Pro Shops",
+      "first_seen": "2026-09-16T15:03:14+00:00",
+      "last_seen": "2026-09-16T15:03:14+00:00",
+      "location": "Springfield, MO",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "IT Developer Intern",
+      "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1"
+    },
     "simplify:baton corporation::simplify-b3298ec2-a195-4322-b6bc-40539c93421f": {
       "company": "Baton Corporation",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -8965,7 +8975,7 @@
     "simplify:cai::simplify-593f743d-dbf9-4e74-97a9-3e11236aaddd": {
       "company": "CAI",
       "first_seen": "2026-09-15T06:35:52+00:00",
-      "last_seen": "2026-09-15T06:35:52+00:00",
+      "last_seen": "2026-09-16T15:03:13+00:00",
       "location": "Pennsylvania",
       "posted_at": "1789430400",
       "source": "simplify",
@@ -43981,5 +43991,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-16T14:36:29+00:00"
+  "updated_at": "2026-09-16T15:06:31+00:00"
 }
