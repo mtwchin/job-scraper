@@ -1,5 +1,5 @@
 {
-  "count": 5680,
+  "count": 5681,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -32474,6 +32474,16 @@
       "title": "Imaging Tech Student",
       "url": "https://careers-hhsys.icims.com/jobs/71368/job?mobile=true&needsRedirect=false"
     },
+    "simplify:starbucks::simplify-10282be3-6654-440b-8bd2-74329d579fb0": {
+      "company": "Starbucks",
+      "first_seen": "2026-09-16T02:02:40+00:00",
+      "last_seen": "2026-09-16T02:02:40+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1789522794",
+      "source": "simplify",
+      "title": "Application Developer - Application Development",
+      "url": "https://starbucks.eightfold.ai/careers/job/481079150478"
+    },
     "simplify:starbucks::simplify-2c2eb6e8-d129-4384-bdce-cdd5ba022bfc": {
       "company": "Starbucks",
       "first_seen": "2026-08-05T11:36:17+00:00",
@@ -43768,5 +43778,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-16T01:35:51+00:00"
+  "updated_at": "2026-09-16T02:05:53+00:00"
 }
