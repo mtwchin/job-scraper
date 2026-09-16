@@ -1,5 +1,5 @@
 {
-  "count": 5686,
+  "count": 5690,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -21079,6 +21079,26 @@
       "title": "Intern 1 - Engineering",
       "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Dole/Intern-I--engineering_JR-112116"
     },
+    "simplify:live oak bank::simplify-32923ef5-9813-4720-ba0f-736ed5febb06": {
+      "company": "Live Oak Bank",
+      "first_seen": "2026-09-16T06:36:15+00:00",
+      "last_seen": "2026-09-16T06:36:15+00:00",
+      "location": "Wilmington, NC",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Artificial Intelligence Enablement & Forward-Deployed Engineering Intern",
+      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624"
+    },
+    "simplify:live oak bank::simplify-94db09b4-4148-4208-acfd-2dcfef6b4a27": {
+      "company": "Live Oak Bank",
+      "first_seen": "2026-09-16T06:36:15+00:00",
+      "last_seen": "2026-09-16T06:36:15+00:00",
+      "location": "Wilmington, NC",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Architecture/Engineering Intern",
+      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630"
+    },
     "simplify:liveflow::simplify-a3c613c0-77d2-480f-8922-a19c6b65e5d2": {
       "company": "LiveFlow",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -29790,6 +29810,16 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineer-I--Onsite-_01861811"
     },
+    "simplify:rtx::simplify-6f44a57e-69f3-4a80-91ad-8417c1164dea": {
+      "company": "RTX",
+      "first_seen": "2026-09-16T06:36:15+00:00",
+      "last_seen": "2026-09-16T06:36:15+00:00",
+      "location": "St. Petersburg, FL",
+      "posted_at": "1789430400",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01874926"
+    },
     "simplify:rtx::simplify-6fbf8dd3-35d5-4fce-9037-e31a83a37aca": {
       "company": "RTX",
       "first_seen": "2026-08-13T23:09:16+00:00",
@@ -34557,6 +34587,16 @@
       "posted_at": "1781676224",
       "title": "Software Engineer",
       "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010693"
+    },
+    "simplify:texas instruments::simplify-53311897-ff89-413c-811c-2099ff6c4c30": {
+      "company": "Texas Instruments",
+      "first_seen": "2026-09-16T06:36:15+00:00",
+      "last_seen": "2026-09-16T06:36:15+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1789539127",
+      "source": "simplify",
+      "title": "Smart Manufacturing and Automation Intern - SMA Quality & Test",
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017994"
     },
     "simplify:texas instruments::simplify-59064f30-dfa0-4d90-bd4a-576cf3536318": {
       "company": "Texas Instruments",
@@ -43828,5 +43868,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-16T06:35:59+00:00"
+  "updated_at": "2026-09-16T06:41:01+00:00"
 }
