@@ -1,5 +1,5 @@
 {
-  "count": 5691,
+  "count": 5692,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -27958,6 +27958,16 @@
       "title": "ServiceNow Engineer Intern",
       "url": "https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application?embed=true"
     },
+    "simplify:rave aerospace::simplify-59143a12-b5c5-4756-adf5-a3376f4b7296": {
+      "company": "RAVE Aerospace",
+      "first_seen": "2026-09-16T10:04:14+00:00",
+      "last_seen": "2026-09-16T10:04:14+00:00",
+      "location": "Laramie, WY",
+      "posted_at": "1789551797",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.workable.com/raveaerospace/j/739753C003/apply"
+    },
     "simplify:ravl::simplify-d0338c65-e371-4fc3-835e-5bee408cbc6b": {
       "company": "RAVL",
       "first_seen": "2026-07-15T16:01:07+00:00",
@@ -43878,5 +43888,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-16T09:51:12+00:00"
+  "updated_at": "2026-09-16T10:06:14+00:00"
 }
