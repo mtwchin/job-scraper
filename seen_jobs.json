@@ -1,5 +1,5 @@
 {
-  "count": 5709,
+  "count": 5718,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -10529,6 +10529,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs-cesi.icims.com/jobs/11204/job?mobile=true&needsRedirect=false"
     },
+    "simplify:cole engineering services::simplify-5bd4d7c2-1341-457a-9a17-08f04f699285": {
+      "company": "Cole Engineering Services",
+      "first_seen": "2026-09-16T22:35:47+00:00",
+      "last_seen": "2026-09-16T22:35:47+00:00",
+      "location": "Orlando, FL",
+      "posted_at": "1789596354",
+      "source": "simplify",
+      "title": "AI Intern",
+      "url": "https://jobs-cesi.icims.com/jobs/11219/job?mobile=true&needsRedirect=false"
+    },
     "simplify:cole engineering services::simplify-7362efe9-2c7f-47d3-813c-cf6ae32377c0": {
       "company": "Cole Engineering Services",
       "first_seen": "2026-08-18T22:42:18+00:00",
@@ -11842,6 +11852,16 @@
       "posted_at": "1786679946",
       "title": "Entry-level Software Developer",
       "url": "https://careers-decisionpointcorp.icims.com/jobs/3685/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:decisionpoint::simplify-1a1bb662-1a44-441f-93f4-2218cc06d0fc": {
+      "company": "DecisionPoint",
+      "first_seen": "2026-09-16T22:35:47+00:00",
+      "last_seen": "2026-09-16T22:35:47+00:00",
+      "location": "United States",
+      "posted_at": "1789596365",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://careers-decisionpointcorp.icims.com/jobs/3771/job?mobile=true&needsRedirect=false"
     },
     "simplify:decisionpoint::simplify-8e1cc28b-6b01-4de3-a569-730dbb573035": {
       "company": "DecisionPoint",
@@ -20499,6 +20519,16 @@
       "title": "Software Engineer Associate",
       "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1410863700/?ats=successfactors"
     },
+    "simplify:l3harris technologies::simplify-28687df6-3cb5-40a1-81c8-816629cb8353": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-09-16T22:35:47+00:00",
+      "last_seen": "2026-09-16T22:35:47+00:00",
+      "location": "Greenville, TX",
+      "posted_at": "1789596403",
+      "source": "simplify",
+      "title": "Associate Software Engineering",
+      "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1430740500/?ats=successfactors"
+    },
     "simplify:l3harris technologies::simplify-293a2db3-6ec7-465d-b8ba-1e20db33494f": {
       "company": "L3Harris Technologies",
       "first_seen": "2026-07-28T23:15:13+00:00",
@@ -23464,6 +23494,16 @@
       "posted_at": "1788739200",
       "title": "Software Development Student - January 2027",
       "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Software-Development-Student--January-2027-_R0026898"
+    },
+    "simplify:nasdaq::simplify-2655bb99-a78d-4a0c-9a3f-947a9579f7bf": {
+      "company": "Nasdaq",
+      "first_seen": "2026-09-16T22:35:47+00:00",
+      "last_seen": "2026-09-16T22:35:47+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Software Developer/Engineer Intern",
+      "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972"
     },
     "simplify:national information solutions cooperative::simplify-13bbc7c4-2a80-4fd9-a89b-51601d50188c": {
       "company": "National Information Solutions Cooperative",
@@ -28284,6 +28324,16 @@
       "title": "Associate Software Engineer - Site Reliability Engineering",
       "url": "https://job-boards.greenhouse.io/relaypro/jobs/7950142"
     },
+    "simplify:relay::simplify-c4d18418-d4a9-4c9d-900d-4ffe42c1b1c6": {
+      "company": "Relay",
+      "first_seen": "2026-09-16T22:35:47+00:00",
+      "last_seen": "2026-09-16T22:35:47+00:00",
+      "location": "Raleigh, NC",
+      "posted_at": "1789596222",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Device Team",
+      "url": "https://job-boards.greenhouse.io/relaypro/jobs/8180836"
+    },
     "simplify:relex solutions::simplify-49f79fb8-6c35-4493-b3f0-b9186ad9d271": {
       "company": "RELEX Solutions",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -28385,6 +28435,16 @@
       "posted_at": "1786629875",
       "title": "AI Compiler Engineer",
       "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000143317369"
+    },
+    "simplify:renesas electronics::simplify-3b47cf45-490b-42f1-9fe1-8fb43bbb2df5": {
+      "company": "Renesas Electronics",
+      "first_seen": "2026-09-16T22:35:47+00:00",
+      "last_seen": "2026-09-16T22:35:47+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1789596562",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000149952164"
     },
     "simplify:repligen::simplify-9b28f741-a7e8-4acb-8697-fb44335ee538": {
       "company": "Repligen",
@@ -36781,6 +36841,16 @@
       "title": "Backend Software Engineer",
       "url": "https://job-boards.greenhouse.io/togetherai/jobs/5064263007"
     },
+    "simplify:tokyo electron::simplify-9fc8a89c-73df-4320-8b4d-c4c7b6048359": {
+      "company": "Tokyo Electron",
+      "first_seen": "2026-09-16T22:35:47+00:00",
+      "last_seen": "2026-09-16T22:35:47+00:00",
+      "location": "Chaska, MN",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Decision Analysis & AI Intern",
+      "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Chaska/Decision-Analysis---AI-Summer-2027-Intern_R26-01574"
+    },
     "simplify:tokyo electron::simplify-ad76bb5f-450d-4b14-9845-e47ac383e2f0": {
       "company": "Tokyo Electron",
       "first_seen": "2026-09-07T12:23:58+00:00",
@@ -36788,6 +36858,16 @@
       "posted_at": "1788739200",
       "title": "Automation Developer/Analyst Intern",
       "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Automation-Developer-Analyst-Intern_R26-01497"
+    },
+    "simplify:tokyo electron::simplify-b2ab045a-123d-4018-9f7c-e1b306e29e2c": {
+      "company": "Tokyo Electron",
+      "first_seen": "2026-09-16T22:35:47+00:00",
+      "last_seen": "2026-09-16T22:35:47+00:00",
+      "location": "Chaska, MN",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Chaska/Software-Engineer-2027-Summer-Intern_R26-01573"
     },
     "simplify:torc robotics::simplify-6860bd81-1517-46fc-b7d3-d7d848b16dba": {
       "company": "Torc Robotics",
@@ -38746,6 +38826,16 @@
       "posted_at": "1781707054",
       "title": "Software Engineer Intern",
       "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Software-Engineering-Intern_JR101336-1"
+    },
+    "simplify:virtu financial::simplify-174ec6ae-1312-4e6d-8c50-ef4ea9fd0ecd": {
+      "company": "Virtu Financial",
+      "first_seen": "2026-09-16T22:35:46+00:00",
+      "last_seen": "2026-09-16T22:35:46+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1779228393",
+      "source": "simplify",
+      "title": "Automation Analyst - Python",
+      "url": "https://job-boards.greenhouse.io/virtu/jobs/5065990002"
     },
     "simplify:virtu financial::simplify-800e06ea-4a8a-4db5-a93a-7aae82cfac49": {
       "company": "Virtu Financial",
@@ -44061,5 +44151,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-16T20:56:46+00:00"
+  "updated_at": "2026-09-16T22:36:48+00:00"
 }
