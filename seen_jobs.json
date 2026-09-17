@@ -1,5 +1,5 @@
 {
-  "count": 5770,
+  "count": 5771,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -39372,6 +39372,16 @@
       "title": "Web Developer - Front End",
       "url": "https://virtualtechnologygroupllc.applytojob.com/apply/7eGy8jc0JK/Web-Developer"
     },
+    "simplify:visa::simplify-008bd1b1-83ef-4bce-b3d4-bdab9f25b76d": {
+      "company": "Visa",
+      "first_seen": "2026-09-17T14:04:34+00:00",
+      "last_seen": "2026-09-17T14:04:34+00:00",
+      "location": "Bellevue, WA",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer--New-College-Grad--Bellevue---2027_REF088530W-3"
+    },
     "simplify:visa::simplify-1997626d-c3df-42dc-9710-0ea1e9fc21b4": {
       "company": "Visa",
       "first_seen": "2026-07-25T10:11:31+00:00",
@@ -44675,5 +44685,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T13:37:35+00:00"
+  "updated_at": "2026-09-17T14:07:37+00:00"
 }
