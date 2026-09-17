@@ -1,5 +1,5 @@
 {
-  "count": 5767,
+  "count": 5768,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -7667,6 +7667,16 @@
       "title": "AI and Automation Engineer Co-op Intern - Winter 2027 - Summer 2027",
       "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1"
     },
+    "simplify:british columbia investment::simplify-a1924fb3-cead-47eb-97c9-8fba9c407a20": {
+      "company": "British Columbia Investment",
+      "first_seen": "2026-09-17T12:03:06+00:00",
+      "last_seen": "2026-09-17T12:03:06+00:00",
+      "location": "Victoria, BC, Canada, Vancouver, BC, Canada",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Technology Solutions Engineer Co-op/Intern",
+      "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Technology-Solutions-Engineer-Co-op-Internship--Winter-2027-_JR101601"
+    },
     "simplify:broadcom limited::simplify-539ddb97-a187-4681-9626-955ac26196f8": {
       "company": "Broadcom Limited",
       "first_seen": "2026-08-14T05:13:27+00:00",
@@ -11118,6 +11128,7 @@
     "simplify:copart::simplify-26ca5f88-4aa3-47dd-b7c2-3d192287ce69": {
       "company": "Copart",
       "first_seen": "2026-07-14T19:49:46+00:00",
+      "last_seen": "2026-09-17T12:02:39+00:00",
       "posted_at": "1778941026",
       "title": "Software Engineer Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101987"
@@ -44644,5 +44655,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T10:37:20+00:00"
+  "updated_at": "2026-09-17T12:07:22+00:00"
 }
