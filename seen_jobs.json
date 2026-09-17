@@ -4442,8 +4442,8 @@
     },
     "simplify:amperesand::simplify-0c0ace06-0c5c-415d-8ea4-7c6fedad6324": {
       "company": "Amperesand",
-      "first_seen": "2026-09-17T06:36:01+00:00",
-      "last_seen": "2026-09-17T06:36:01+00:00",
+      "first_seen": "2026-09-17T07:47:36+00:00",
+      "last_seen": "2026-09-17T07:47:36+00:00",
       "location": "Reno, NV",
       "posted_at": "1789626296",
       "source": "simplify",
@@ -21390,8 +21390,8 @@
     },
     "simplify:lexisnexis risk solutions::simplify-57a2bb7e-a9c4-41b0-a10a-606e7e4e9d3b": {
       "company": "LexisNexis Risk Solutions",
-      "first_seen": "2026-09-17T06:32:21+00:00",
-      "last_seen": "2026-09-17T06:32:21+00:00",
+      "first_seen": "2026-09-17T07:47:36+00:00",
+      "last_seen": "2026-09-17T07:47:36+00:00",
       "location": "Alpharetta, GA",
       "posted_at": "1789516800",
       "source": "simplify",
@@ -30155,8 +30155,8 @@
     },
     "simplify:rtx::simplify-289798f6-332d-4b16-b177-1466651e2548": {
       "company": "RTX",
-      "first_seen": "2026-09-17T06:05:01+00:00",
-      "last_seen": "2026-09-17T06:05:01+00:00",
+      "first_seen": "2026-09-17T07:47:36+00:00",
+      "last_seen": "2026-09-17T07:47:36+00:00",
       "location": "Marlborough, MA",
       "posted_at": "1789516800",
       "source": "simplify",
@@ -32437,8 +32437,8 @@
     },
     "simplify:smith+nephew::simplify-e89448c1-21ee-450a-85e8-84ad429d6f3e": {
       "company": "Smith+Nephew",
-      "first_seen": "2026-09-17T06:36:01+00:00",
-      "last_seen": "2026-09-17T06:36:01+00:00",
+      "first_seen": "2026-09-17T07:47:36+00:00",
+      "last_seen": "2026-09-17T07:47:36+00:00",
       "location": "Pittsburgh, PA",
       "posted_at": "1789603200",
       "source": "simplify",
@@ -38715,8 +38715,8 @@
     },
     "simplify:vanguard::simplify-21da8578-625e-4937-b949-fcc1669b7dee": {
       "company": "Vanguard",
-      "first_seen": "2026-09-17T06:36:01+00:00",
-      "last_seen": "2026-09-17T06:36:01+00:00",
+      "first_seen": "2026-09-17T07:47:36+00:00",
+      "last_seen": "2026-09-17T07:47:36+00:00",
       "location": "Dallas, TX",
       "posted_at": "1789603200",
       "source": "simplify",
@@ -44613,5 +44613,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T06:37:07+00:00"
+  "updated_at": "2026-09-17T07:52:16+00:00"
 }
