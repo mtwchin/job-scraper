@@ -1,5 +1,5 @@
 {
-  "count": 5771,
+  "count": 5780,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -6154,6 +6154,16 @@
       "title": "Computer Scientist Intern",
       "url": "https://awepeople.wd3.myworkdayjobs.com/Grad_Careers/job/Reading-area/Year-in-Industry--Computer-Scientist_R30358"
     },
+    "simplify:axcelis technologies::simplify-0f046a92-f831-47c1-8f88-5cc31f1722a8": {
+      "company": "Axcelis Technologies",
+      "first_seen": "2026-09-17T14:34:35+00:00",
+      "last_seen": "2026-09-17T14:34:35+00:00",
+      "location": "Beverly, MA",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Manufacturing Software Development Co-op",
+      "url": "https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Co-Op---Manufacturing-Software-Development-_12019"
+    },
     "simplify:axcelis technologies::simplify-ae901c8a-4c94-4381-a067-cf2cd4c4d497": {
       "company": "Axcelis Technologies",
       "first_seen": "2026-09-15T23:08:09+00:00",
@@ -9103,6 +9113,16 @@
       "posted_at": "1780610773",
       "title": "Snack Bar Attendant",
       "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/84113"
+    },
+    "simplify:cai::simplify-27a127fe-f092-4faa-8ba9-7c1861c83c80": {
+      "company": "CAI",
+      "first_seen": "2026-09-17T14:34:35+00:00",
+      "last_seen": "2026-09-17T14:34:35+00:00",
+      "location": "Oklahoma City, OK",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Web Application Developer",
+      "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/OK-CLIENT-STATE/Web-Application-Developer_R8570"
     },
     "simplify:cai::simplify-593f743d-dbf9-4e74-97a9-3e11236aaddd": {
       "company": "CAI",
@@ -39382,12 +39402,32 @@
       "title": "Software Engineer New Grad",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer--New-College-Grad--Bellevue---2027_REF088530W-3"
     },
+    "simplify:visa::simplify-16eda482-7528-44a9-a9ea-c4c30b42b339": {
+      "company": "Visa",
+      "first_seen": "2026-09-17T14:34:35+00:00",
+      "last_seen": "2026-09-17T14:34:35+00:00",
+      "location": "Bellevue, WA",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1"
+    },
     "simplify:visa::simplify-1997626d-c3df-42dc-9710-0ea1e9fc21b4": {
       "company": "Visa",
       "first_seen": "2026-07-25T10:11:31+00:00",
       "posted_at": "1784851200",
       "title": "Software Engineer",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer_REF081843W-1"
+    },
+    "simplify:visa::simplify-386a0851-1bfc-40ed-94c2-db33224d056d": {
+      "company": "Visa",
+      "first_seen": "2026-09-17T14:34:35+00:00",
+      "last_seen": "2026-09-17T14:34:35+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Sophomore Internship Program",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1"
     },
     "simplify:visa::simplify-3bd0ee22-015a-46b2-bd09-a7d1297b6963": {
       "company": "Visa",
@@ -39403,12 +39443,62 @@
       "title": "Backend Senior Software Engineer",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Backend-Senior-Software-Engineer_REF081845W"
     },
+    "simplify:visa::simplify-62b3fe3f-1948-4119-8099-ee4fbd994b6d": {
+      "company": "Visa",
+      "first_seen": "2026-09-17T14:34:35+00:00",
+      "last_seen": "2026-09-17T14:34:35+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Engineer New Grad - 2027",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--New-College-Grad---2027--Austin--TX_REF088586W"
+    },
+    "simplify:visa::simplify-72070ff6-860b-4d13-b865-5f6091f53196": {
+      "company": "Visa",
+      "first_seen": "2026-09-17T14:34:35+00:00",
+      "last_seen": "2026-09-17T14:34:35+00:00",
+      "location": "Foster City, CA",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1"
+    },
+    "simplify:visa::simplify-7e315272-a0e6-4728-be42-a49cf94df95c": {
+      "company": "Visa",
+      "first_seen": "2026-09-17T14:34:35+00:00",
+      "last_seen": "2026-09-17T14:34:35+00:00",
+      "location": "Foster City, CA",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W-1"
+    },
     "simplify:visa::simplify-b9ebe0ba-87b7-4311-b4f1-24c6d21285ca": {
       "company": "Visa",
       "first_seen": "2026-08-01T17:16:43+00:00",
       "posted_at": "1783162157",
       "title": "Systems Engineer - Linux - AI",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Systems-Engineer--Linux-and-AI_REF077273W"
+    },
+    "simplify:visa::simplify-d02657b4-87d2-4593-8b0e-d4bfb5b50cce": {
+      "company": "Visa",
+      "first_seen": "2026-09-17T14:34:35+00:00",
+      "last_seen": "2026-09-17T14:34:35+00:00",
+      "location": "Denver, CO",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1"
+    },
+    "simplify:visa::simplify-d3cb9fdb-6b20-49e1-9f4e-9525acbcd327": {
+      "company": "Visa",
+      "first_seen": "2026-09-17T14:34:35+00:00",
+      "last_seen": "2026-09-17T14:34:35+00:00",
+      "location": "Ashburn, VA",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W-1"
     },
     "simplify:visa::simplify-d3ff5ace-964a-408c-b75f-58756c9ba738": {
       "company": "Visa",
@@ -44685,5 +44775,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T14:07:37+00:00"
+  "updated_at": "2026-09-17T14:37:40+00:00"
 }
