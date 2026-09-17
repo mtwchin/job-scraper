@@ -1,5 +1,5 @@
 {
-  "count": 5806,
+  "count": 5836,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2562,6 +2562,16 @@
       "title": "Product Engineer",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4372257"
     },
+    "simplify:abridge::simplify-6ed0b949-935d-4322-93b3-8acbe09cda9e": {
+      "company": "Abridge",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "SF",
+      "posted_at": "1789683515",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Spring",
+      "url": "https://jobs.ashbyhq.com/abridge/6569d8f7-bd0b-4bb0-a3af-37f83e19ec5e/application?embed=true"
+    },
     "simplify:abridge::simplify-7b78baf6-f74f-4d7b-924f-a68d5e0e0dbf": {
       "company": "Abridge",
       "first_seen": "2026-08-15T05:23:27+00:00",
@@ -4125,6 +4135,16 @@
       "title": "Software Engineer",
       "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Software-Engineer_R0005723"
     },
+    "simplify:american equity::simplify-9e90a7af-8784-4ab2-8bf8-b0ecce10575b": {
+      "company": "American Equity",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "West Des Moines, IA",
+      "posted_at": "1789684120",
+      "source": "simplify",
+      "title": "Solutions Architecture Intern - AI",
+      "url": "https://www.american-equity.com/about/careers/openings?gh_jid=5241102007"
+    },
     "simplify:american equity::simplify-b0874b91-889a-4766-93f6-8f7d25e25cc7": {
       "company": "American Equity",
       "first_seen": "2026-09-10T00:38:47+00:00",
@@ -5562,6 +5582,16 @@
       "title": "Internship - Software Development Engineer in Test",
       "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071"
     },
+    "simplify:aspentech::simplify-60fb4a82-e6e7-4b2d-977d-988168533f66": {
+      "company": "AspenTech",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Bedford, MA",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Developer 1 - Asset Performance Management",
+      "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Software-Developer_R9395"
+    },
     "simplify:aspentech::simplify-f1ef6d6c-618e-4935-8928-f02675833955": {
       "company": "AspenTech",
       "first_seen": "2026-09-16T23:02:47+00:00",
@@ -5588,6 +5618,16 @@
       "posted_at": "1786342615",
       "title": "Junior Software Engineer Intern - Instrumentation",
       "url": "https://asrinternationalcorp.applytojob.com/apply/nknm2W31uu/SoftwareInstrumentation-Engineer-Junior"
+    },
+    "simplify:assa abloy::simplify-47a96922-379a-4165-bf1d-40ed463a6341": {
+      "company": "ASSA ABLOY",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Berlin, CT",
+      "posted_at": "1789683268",
+      "source": "simplify",
+      "title": "Associate Engineer",
+      "url": "https://assaabloy.jobs2web.com/job/Berlin-Associate-Engineer-CT-06037/1438188233/?ats=successfactors"
     },
     "simplify:assa abloy::simplify-7285a57f-86ed-4201-82a9-a80f0306e1a3": {
       "company": "ASSA ABLOY",
@@ -6915,6 +6955,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895/application"
     },
+    "simplify:bitmovin::simplify-e106eaa4-9eac-44cc-9457-887140222d04": {
+      "company": "Bitmovin",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Denver, CO",
+      "posted_at": "1789683225",
+      "source": "simplify",
+      "title": "Technical Graduate Intern",
+      "url": "https://bitmovin.com/careers/8660599002?gh_jid=8660599002"
+    },
     "simplify:bjc healthcare::simplify-0d841cc8-6e91-43dd-8425-aeaf1e9aeb1f": {
       "company": "BJC HealthCare",
       "first_seen": "2026-09-08T18:00:46+00:00",
@@ -7041,6 +7091,16 @@
       "posted_at": "1776809381",
       "title": "Rust Developer Intern",
       "url": "https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c/application"
+    },
+    "simplify:blue cross and blue shield of kansas::simplify-7d128fa9-54e9-4ae4-b459-3c499f820d1a": {
+      "company": "Blue Cross and Blue Shield of Kansas",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Topeka, KS",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "RPA Engineer Intern",
+      "url": "https://bcbsks.wd1.myworkdayjobs.com/External/job/Topeka/RPA-Engineering-Developer-Intern_R2026350"
     },
     "simplify:blue cross of idaho::simplify-95049413-d496-4bfa-9d12-e16f926251e5": {
       "company": "Blue Cross of Idaho",
@@ -7800,7 +7860,7 @@
     "simplify:bruno independent living aids::simplify-f65facdb-07b5-489d-bda0-a527041c6dd5": {
       "company": "Bruno Independent Living Aids",
       "first_seen": "2026-09-15T23:08:09+00:00",
-      "last_seen": "2026-09-16T00:01:03+00:00",
+      "last_seen": "2026-09-17T23:03:14+00:00",
       "location": "Oconomowoc, WI",
       "posted_at": "1789510393",
       "source": "simplify",
@@ -9988,6 +10048,16 @@
       "title": "Digital Fellow",
       "url": "https://careers.chick-fil-a.com/jobs/20298?icims=1"
     },
+    "simplify:church & dwight::simplify-22c7894f-b45d-4a2c-acf9-6b149c73474e": {
+      "company": "Church & Dwight",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Ewing Township, NJ",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "AI Developer Co-op - Graduate Program",
+      "url": "https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686"
+    },
     "simplify:cibc::simplify-1887b494-3e3f-431a-8c6f-2a8129764087": {
       "company": "CIBC",
       "first_seen": "2026-08-25T18:59:37+00:00",
@@ -10584,6 +10654,16 @@
       "title": "Software Engineer Intern",
       "url": "http://getfiber.ai/careers?gh_jid=5152467007"
     },
+    "simplify:cleveland clinic::simplify-dd34ed1b-cf41-44bd-9472-b972eb6f8b8d": {
+      "company": "Cleveland Clinic",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Weston, FL, Ohio",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Developer 1",
+      "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Krupa-Center-Weston/Software-Developer-I_334982"
+    },
     "simplify:cleveland-cliffs::simplify-d7aa686a-75f3-47ef-b6da-5f9cd9b85c2a": {
       "company": "Cleveland-Cliffs",
       "first_seen": "2026-09-14T18:25:38+00:00",
@@ -11033,6 +11113,7 @@
     "simplify:conductorai::simplify-d05c32eb-6bfa-4b00-a9ec-162781cb5a2d": {
       "company": "ConductorAI",
       "first_seen": "2026-09-08T18:00:46+00:00",
+      "last_seen": "2026-09-17T23:03:14+00:00",
       "posted_at": "1788884187",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/conductorai/d6a1b110-10ad-4b5e-83a0-88c5fd7bc891/application?embed=true"
@@ -14819,6 +14900,16 @@
       "title": "Software Development Intensive Program - LINK",
       "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5394515008"
     },
+    "simplify:flagship pioneering::simplify-01af7a26-4ffd-4c48-bd87-ba0be7feddcc": {
+      "company": "Flagship Pioneering",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Cambridge, MA",
+      "posted_at": "1789684266",
+      "source": "simplify",
+      "title": "Digital CMC TechOps Co-op",
+      "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8814364002"
+    },
     "simplify:flagship pioneering::simplify-0ccb65ab-e586-4d78-b496-ec4b86e44977": {
       "company": "Flagship Pioneering",
       "first_seen": "2026-09-14T20:34:50+00:00",
@@ -14828,6 +14919,16 @@
       "source": "simplify",
       "title": "AI Automation Engineering Co-op",
       "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8796996002"
+    },
+    "simplify:flagship pioneering::simplify-278085cf-afde-4e67-b6f4-206f2a1b0197": {
+      "company": "Flagship Pioneering",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Cambridge, MA",
+      "posted_at": "1789684266",
+      "source": "simplify",
+      "title": "Technical Operations Co-op - Analytical Development",
+      "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8814318002"
     },
     "simplify:flagship pioneering::simplify-9f90544f-0c83-436c-bf21-faccf96d53fd": {
       "company": "Flagship Pioneering",
@@ -16374,6 +16475,16 @@
       "title": "Junior Software Engineer",
       "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5085231007"
     },
+    "simplify:geneva trading::simplify-b2cc2a88-efd8-4b00-b346-0f29ab47dc4f": {
+      "company": "Geneva Trading",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1789684150",
+      "source": "simplify",
+      "title": "AI Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5240107007"
+    },
     "simplify:genomics england::simplify-f7e20b19-467d-47e8-96ec-93acbd0fc3f4": {
       "company": "Genomics England",
       "first_seen": "2026-07-26T03:56:28+00:00",
@@ -16761,12 +16872,32 @@
       "title": "Engineering Intern - Summer 2027",
       "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7978739003"
     },
+    "simplify:gm financial::simplify-0ce857da-f2c3-408f-9dff-60465fa37f40": {
+      "company": "GM financial",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Arlington, TX",
+      "posted_at": "1789683375",
+      "source": "simplify",
+      "title": "Software Development Engineer Intern",
+      "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795"
+    },
     "simplify:gm financial::simplify-295552cf-62f8-43b8-93f0-3ceed854d125": {
       "company": "GM financial",
       "first_seen": "2026-07-15T22:38:49+00:00",
       "posted_at": "1775599648",
       "title": "Software Development Engineer 1 - React",
       "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1901"
+    },
+    "simplify:gm financial::simplify-3aafe9c0-e14d-4259-82c1-58a96d23552b": {
+      "company": "GM financial",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Arlington, TX",
+      "posted_at": "1789683379",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260831"
     },
     "simplify:gm financial::simplify-426eded3-2c97-4593-b8e5-90629a48f93c": {
       "company": "GM financial",
@@ -17911,6 +18042,16 @@
       "title": "Software Engineer Intern - Computer Science",
       "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155558"
     },
+    "simplify:honeywell::simplify-e0d217d6-7946-42a6-965f-7094154504c3": {
+      "company": "Honeywell",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Pittsford, NY",
+      "posted_at": "1789683416",
+      "source": "simplify",
+      "title": "Software Engineer Co-op",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158088"
+    },
     "simplify:honeywell::simplify-e4a107a2-a0eb-4ef1-9ce9-2f1dfc6ea0f6": {
       "company": "Honeywell",
       "first_seen": "2026-08-26T01:26:26+00:00",
@@ -18605,6 +18746,16 @@
       "title": "Software Engineer - Simulation",
       "url": "https://insitu.wd1.myworkdayjobs.com/careers/job/Bingen-WA/Software-Engineer---Simulation---Hybrid---Relocation-Assistance-Available_R0003743-1"
     },
+    "simplify:insperity::simplify-59c4465f-c0d4-4d19-b808-988e46c72c88": {
+      "company": "Insperity",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Kingwood, Houston, TX",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Rotational Technology Intern",
+      "url": "https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-Technology-Intern_JR103296"
+    },
     "simplify:instabase::simplify-b196beaa-0486-4680-8bb8-bc0817ab0fa4": {
       "company": "Instabase",
       "first_seen": "2026-09-09T22:48:05+00:00",
@@ -18931,6 +19082,16 @@
       "title": "Software Engineer 0",
       "url": "http://intelligenesis.applytojob.com/apply/JgkJsYNePv/Software-Engineer-Level-0"
     },
+    "simplify:intelliguard::simplify-b59a478b-37c7-40b4-af73-c2419fe4d772": {
+      "company": "Intelliguard",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Columbus, OH",
+      "posted_at": "1789683740",
+      "source": "simplify",
+      "title": "Engineering Intern - R&D",
+      "url": "https://ats.rippling.com/intelliguard/jobs/f7754742-8ec6-4803-b2fc-1a50c682030f"
+    },
     "simplify:interco::simplify-521152f4-a049-4209-bcea-27cff986e55f": {
       "company": "Interco",
       "first_seen": "2026-09-15T17:16:00+00:00",
@@ -19069,6 +19230,16 @@
       "source": "simplify",
       "title": "Mobile Software Engineer Intern - Android",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-mobile-software-engineering-intern-android/27595/100620927552"
+    },
+    "simplify:intuit::simplify-29cede11-ec71-48c6-bc64-d168179e81f8": {
+      "company": "Intuit",
+      "first_seen": "2026-09-17T23:03:14+00:00",
+      "last_seen": "2026-09-17T23:03:14+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1787963948",
+      "source": "simplify",
+      "title": "Software Developer 1 - Android",
+      "url": "https://jobs.intuit.com/job/toronto/software-developer-1-android-dynamic-experiences/27595/99861569040"
     },
     "simplify:intuit::simplify-55a00559-28b9-41bc-b6dc-cda5714e2846": {
       "company": "Intuit",
@@ -21291,6 +21462,7 @@
     "simplify:leidos::simplify-083cfc54-1c27-4fc6-ab89-6606e06aca1f": {
       "company": "Leidos",
       "first_seen": "2026-08-27T23:56:31+00:00",
+      "last_seen": "2026-09-17T23:03:14+00:00",
       "posted_at": "1787788800",
       "title": "Software Developer Co-op",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Developer-Co-op_R-00190766"
@@ -21516,12 +21688,32 @@
       "title": "Mobile Applications Intern",
       "url": "https://uscareers-lennox.icims.com/jobs/54691/job?mobile=true&needsRedirect=false"
     },
+    "simplify:lennox international::simplify-2f899503-8bb3-4e7a-a9df-cf5adee0fe01": {
+      "company": "Lennox International",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Richardson, TX",
+      "posted_at": "1789683809",
+      "source": "simplify",
+      "title": "IoT Intern",
+      "url": "https://uscareers-lennox.icims.com/jobs/54893/job?mobile=true&needsRedirect=false"
+    },
     "simplify:lennox international::simplify-d565c190-51ef-4bd5-af51-6c97526c1a1a": {
       "company": "Lennox International",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1776377042",
       "title": "IT Co-Op",
       "url": "https://uscareers-lennox.icims.com/jobs/52439/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:lennox international::simplify-e93487a3-6a04-4449-a6f6-eb2616b57c63": {
+      "company": "Lennox International",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Richardson, TX",
+      "posted_at": "1789683809",
+      "source": "simplify",
+      "title": "Full-Stack Software Engineering Intern",
+      "url": "https://uscareers-lennox.icims.com/jobs/54888/job?mobile=true&needsRedirect=false"
     },
     "simplify:lentech inc.::simplify-bd40fda7-37cc-4439-aca3-fdc324bbba53": {
       "company": "Lentech Inc.",
@@ -22983,6 +23175,16 @@
       "posted_at": "1781906786",
       "title": "Application Support Engineer",
       "url": "https://jobs.lever.co/mendix/acd9f6de-8c4a-4226-b5fc-c164ebe39760/apply"
+    },
+    "simplify:meow::simplify-7c4e05df-01fe-4e75-a327-5d36ebba397e": {
+      "company": "Meow",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "NYC",
+      "posted_at": "1789683682",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218/application?embed=true"
     },
     "simplify:merative::simplify-c551daed-04ac-42cb-a745-9664938e00da": {
       "company": "Merative",
@@ -25692,6 +25894,16 @@
       "title": "Engineering Co-op",
       "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Engineering-Co-op_R009487"
     },
+    "simplify:nuclear promise x::simplify-f86d892b-fb64-4c55-97c8-e0ad57d5c369": {
+      "company": "Nuclear Promise X",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Canada",
+      "posted_at": "1779152916",
+      "source": "simplify",
+      "title": "Software Developer Intern - Digital Transformation",
+      "url": "https://jobs.ashbyhq.com/NPX/048ca8da-bfb9-4454-8147-ac9497629634/application"
+    },
     "simplify:nuclear promise x::simplify-fdc57d4b-e57d-4e3b-8233-f69ec9f3a128": {
       "company": "Nuclear Promise X",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -25985,6 +26197,26 @@
       "posted_at": "1784321985",
       "title": "Unity 3D Developer Intern",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4341435"
+    },
+    "simplify:occ::simplify-7ff50704-0421-4973-9c19-514b5d2664ef": {
+      "company": "OCC",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Engineering Intern - UI/UX",
+      "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Software-Engineering--UI-UX_REQ-4868"
+    },
+    "simplify:occ::simplify-b9ca24ba-2e7c-4a91-9c5e-af511017a2e2": {
+      "company": "OCC",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "AI Research & Engineering Intern",
+      "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---AI-Research---Engineering_REQ-4833"
     },
     "simplify:oceanus marine technologies::simplify-7c176f66-e486-46f0-b9c9-5b651e4cf7cc": {
       "company": "Oceanus Marine Technologies",
@@ -27565,6 +27797,16 @@
       "title": "Software Engineer - Data Governance",
       "url": "https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4704801005"
     },
+    "simplify:perfectserve::simplify-075cb7e8-d845-460b-8465-3af3ab30f11b": {
+      "company": "PerfectServe",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1789684222",
+      "source": "simplify",
+      "title": "Mobile Developer 1",
+      "url": "https://job-boards.greenhouse.io/perfectserve/jobs/6188374004"
+    },
     "simplify:perpay::simplify-87535675-cdd3-44ea-b36f-622b1a2be47b": {
       "company": "Perpay",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -28689,6 +28931,16 @@
       "posted_at": "1782166901",
       "title": "Software Development Engineer 2 - Planning and Forecasting",
       "url": "https://job-boards.greenhouse.io/quince/jobs/5264916008"
+    },
+    "simplify:radiant::simplify-8c96054c-ba8c-46ff-95ab-037dea56cee8": {
+      "company": "Radiant",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "El Segundo, CA",
+      "posted_at": "1789683554",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/radiant-industries/1ec29cec-d18f-417d-adc6-31adda87c687/application?embed=true"
     },
     "simplify:radius limited::simplify-25c6cc6c-bd71-4818-9bfe-caa939eec64b": {
       "company": "Radius Limited",
@@ -30437,6 +30689,16 @@
       "source": "simplify",
       "title": "Software Engineer Co-op - Summer/Fall 2027",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01873970"
+    },
+    "simplify:rtx::simplify-1f34cc09-fcbc-4a27-ac45-7145485d3425": {
+      "company": "RTX",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Tewksbury, MA",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Development Intern - Summer 2027",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Development-Intern--Summer-2027-_01875413"
     },
     "simplify:rtx::simplify-1f9574c2-c85b-414e-b946-2d7845c6c19f": {
       "company": "RTX",
@@ -33466,6 +33728,16 @@
       "posted_at": "1784764800",
       "title": "Epic Analyst/Builder 1",
       "url": "https://sluhn.wd1.myworkdayjobs.com/SLUHN/job/Allentown-PA---1110-American-Parkway/Epic-Analyst-Builder-I_R143531-1"
+    },
+    "simplify:stafford gray::simplify-3e987eca-2504-4d6a-9d3c-ad762da4a132": {
+      "company": "Stafford Gray",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Lansing, MI",
+      "posted_at": "1789683591",
+      "source": "simplify",
+      "title": "Full Stack .NET Developer",
+      "url": "https://apply.workable.com/staffordgray/j/13A72A78A0/apply"
     },
     "simplify:stanley black & decker::simplify-96db4016-3e8f-4c92-98f2-43fa3eabab24": {
       "company": "Stanley Black & Decker",
@@ -38568,6 +38840,16 @@
       "title": "Epic Applications Analyst",
       "url": "https://ummc.wd5.myworkdayjobs.com/UMCCareers/job/Jackson-MS---Main-Campus/Epic-Applications-Analyst---Transplant-and-Dialysis---Division-of-Information-Systems_R00051826-2"
     },
+    "simplify:university of nevada, reno::simplify-641f64cb-e677-4df1-af7f-bdd1c841f0cd": {
+      "company": "University of Nevada, Reno",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Reno, NV",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Computer Science Engineer Student Worker",
+      "url": "https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker---Student-Computer-Science-Engineer--SAGE_R0153576"
+    },
     "simplify:university of nevada, reno::simplify-6731f217-2663-4905-a34f-077fa361c987": {
       "company": "University of Nevada, Reno",
       "first_seen": "2026-07-21T08:47:36+00:00",
@@ -39863,6 +40145,16 @@
       "title": "Associate Software Engineer",
       "url": "https://careers.vtgdefense.com/jobs/9316?icims=1"
     },
+    "simplify:w.r. berkley::simplify-bf48dd2b-e7b1-4338-a911-cb29771f7cce": {
+      "company": "W.R. Berkley",
+      "first_seen": "2026-09-17T23:03:17+00:00",
+      "last_seen": "2026-09-17T23:03:17+00:00",
+      "location": "Urbandale, IA",
+      "posted_at": "1789682721",
+      "source": "simplify",
+      "title": "Software Developer Intern - Java",
+      "url": "https://careers-berkley.icims.com/jobs/14437/job?mobile=true&needsRedirect=false"
+    },
     "simplify:w.w. grainger::simplify-367919b2-9f9f-4104-a7e7-811ae0b98c01": {
       "company": "W.W. Grainger",
       "first_seen": "2026-08-17T14:13:46+00:00",
@@ -40059,6 +40351,16 @@
       "posted_at": "1788473067",
       "title": "Software Engineering Intern - Behavior Test - MS",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504"
+    },
+    "simplify:waymo::simplify-371c8592-d416-40cf-88fb-3f95ac049ad3": {
+      "company": "Waymo",
+      "first_seen": "2026-09-17T23:03:14+00:00",
+      "last_seen": "2026-09-17T23:03:14+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1789684681",
+      "source": "simplify",
+      "title": "Scenes Intern",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8210170"
     },
     "simplify:waymo::simplify-912e8dd5-8278-402b-9bdb-55202c7dc6d9": {
       "company": "Waymo",
@@ -40639,6 +40941,7 @@
     "simplify:worldstrides::simplify-5a283cb6-d2dc-4b0b-b57a-c6d5fe463dc8": {
       "company": "WorldStrides",
       "first_seen": "2026-09-10T00:38:47+00:00",
+      "last_seen": "2026-09-17T23:03:14+00:00",
       "posted_at": "1788993665",
       "title": "Product Engineer",
       "url": "https://job-boards.greenhouse.io/world4822stri986des/jobs/5351873008"
@@ -45037,5 +45340,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T22:52:57+00:00"
+  "updated_at": "2026-09-17T23:07:59+00:00"
 }
