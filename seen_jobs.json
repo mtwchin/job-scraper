@@ -1,5 +1,5 @@
 {
-  "count": 5780,
+  "count": 5789,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3388,6 +3388,16 @@
       "title": "Full-Stack Developer Intern - Python",
       "url": "https://alayacare.com/open-positions?gh_jid=8687981002"
     },
+    "simplify:alayacare::simplify-cc7bbdb7-45d4-40f3-9aa1-658d6ae5a2f9": {
+      "company": "Alayacare",
+      "first_seen": "2026-09-17T15:03:56+00:00",
+      "last_seen": "2026-09-17T15:03:56+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1789655275",
+      "source": "simplify",
+      "title": "Fullstack Developer Intern - Python",
+      "url": "https://alayacare.com/open-positions?gh_jid=8811336002"
+    },
     "simplify:alcoa::simplify-e70c7072-27b1-4eb9-af34-c97970e09bcb": {
       "company": "Alcoa",
       "first_seen": "2026-09-11T23:13:27+00:00",
@@ -3448,7 +3458,7 @@
     "simplify:allen control systems::simplify-79f05081-76ad-43d3-9164-5578a63ef412": {
       "company": "Allen Control Systems",
       "first_seen": "2026-09-16T01:31:40+00:00",
-      "last_seen": "2026-09-16T01:31:40+00:00",
+      "last_seen": "2026-09-17T15:03:55+00:00",
       "location": "Austin, TX",
       "posted_at": "1789521602",
       "source": "simplify",
@@ -6088,6 +6098,26 @@
       "posted_at": "1784505600",
       "title": "Software Developer Intern Co-op",
       "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478"
+    },
+    "simplify:avis budget group::simplify-23eccfe8-4364-45b3-a8ef-cb8127b89e2c": {
+      "company": "Avis Budget Group",
+      "first_seen": "2026-09-17T15:03:56+00:00",
+      "last_seen": "2026-09-17T15:03:56+00:00",
+      "location": "Parsippany-Troy Hills, NJ",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "IT Engineer Intern",
+      "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---IT-Engineering-Intern_R0190464"
+    },
+    "simplify:avis budget group::simplify-4552c6b4-8bda-4519-9764-dcd28af299cf": {
+      "company": "Avis Budget Group",
+      "first_seen": "2026-09-17T15:03:56+00:00",
+      "last_seen": "2026-09-17T15:03:56+00:00",
+      "location": "Parsippany-Troy Hills, NJ",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "IT Engineering Intern - Accelerate",
+      "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---IT-Engineering-Intern-Summer-2027_R0190463"
     },
     "simplify:avis budget group::simplify-8262d1b0-a155-42eb-b4f5-a14a377ffb1b": {
       "company": "Avis Budget Group",
@@ -24419,6 +24449,16 @@
       "title": "Software Engineer Intern",
       "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Merrillville-IN-SLC/Intern-IT---Software-Engineer_R00943449"
     },
+    "simplify:noblis::simplify-0243fda8-ee44-49ba-b33f-d9bd2da4261a": {
+      "company": "Noblis",
+      "first_seen": "2026-09-17T15:03:56+00:00",
+      "last_seen": "2026-09-17T15:03:56+00:00",
+      "location": "Reston, VA",
+      "posted_at": "1789654869",
+      "source": "simplify",
+      "title": "Software Developer - Multiple Levels - Cleared",
+      "url": "https://careers.noblis.org/jobs/27847?icims=1"
+    },
     "simplify:noblis::simplify-2efe7383-c35c-499a-8d3e-e914016e2ce0": {
       "company": "Noblis",
       "first_seen": "2026-08-01T23:24:49+00:00",
@@ -24931,6 +24971,16 @@
       "title": "Software Engineer/Principal Software Engineer - Java",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---Java_R10239296-1"
     },
+    "simplify:northrop grumman::simplify-660b4502-f165-4ddd-897f-255602bfca5d": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-09-17T15:03:56+00:00",
+      "last_seen": "2026-09-17T15:03:56+00:00",
+      "location": "Cheltenham, UK",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Graduate Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-Cheltenham/Graduate-Software-Engineer_R10251077"
+    },
     "simplify:northrop grumman::simplify-6642fd98-f102-48bc-b226-3acb5b8c3988": {
       "company": "Northrop Grumman",
       "first_seen": "2026-08-25T17:19:06+00:00",
@@ -25050,6 +25100,16 @@
       "posted_at": "1783030633",
       "title": "Associate Simulation Software Engineer / Simulation Software Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Simulation-Software-Engineer---Simulation-Software-Engineer_R10238808"
+    },
+    "simplify:northrop grumman::simplify-a30b6cf3-5eb4-475b-984a-9aa30e8c34be": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-09-17T15:03:56+00:00",
+      "last_seen": "2026-09-17T15:03:56+00:00",
+      "location": "New Malden, UK",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Graduate Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-New-Malden/Graduate-Software-Engineer_R10251080"
     },
     "simplify:northrop grumman::simplify-a3d1960e-0ff9-4c33-a3c2-30e9652ee2ba": {
       "company": "Northrop Grumman",
@@ -25205,6 +25265,26 @@
       "posted_at": "1783641600",
       "title": "Software Engineer - Simulation",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Software-Engineer---Simulation--Palmdale-_R10239890"
+    },
+    "simplify:northrop grumman::simplify-cf283809-6474-4e9c-ba5c-e9e82ef23ce2": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-09-17T15:03:56+00:00",
+      "last_seen": "2026-09-17T15:03:56+00:00",
+      "location": "Cheltenham, UK",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Engineering Industrial Placement",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-Cheltenham/Industrial-Placement---Software-Engineer_R10251089"
+    },
+    "simplify:northrop grumman::simplify-cf896c51-1fa7-4b1d-9833-0c351e056b35": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-09-17T15:03:56+00:00",
+      "last_seen": "2026-09-17T15:03:56+00:00",
+      "location": "New Malden, UK",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Engineer - Industrial Placement",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-New-Malden/Industrial-Placement---Software-Engineer_R10251096"
     },
     "simplify:northrop grumman::simplify-d3c098a3-25fd-4752-926c-073c5ef98949": {
       "company": "Northrop Grumman",
@@ -39490,6 +39570,16 @@
       "title": "Software Engineer Intern",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1"
     },
+    "simplify:visa::simplify-d1143c35-1cc7-4e60-a5c6-4e223abab7d0": {
+      "company": "Visa",
+      "first_seen": "2026-09-17T15:03:56+00:00",
+      "last_seen": "2026-09-17T15:03:56+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1"
+    },
     "simplify:visa::simplify-d3cb9fdb-6b20-49e1-9f4e-9525acbcd327": {
       "company": "Visa",
       "first_seen": "2026-09-17T14:34:35+00:00",
@@ -44775,5 +44865,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T14:37:40+00:00"
+  "updated_at": "2026-09-17T15:07:42+00:00"
 }
