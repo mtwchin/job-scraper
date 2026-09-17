@@ -1,5 +1,5 @@
 {
-  "count": 5790,
+  "count": 5791,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -41225,6 +41225,16 @@
       "title": "D\u00e9veloppeur de logiciels C++ nouvellement dipl\u00f4m\u00e9 / New Grad C++ Software Developer",
       "url": "https://www.tower-research.com/open-positions/?gh_jid=8126667"
     },
+    "tower research::8212158": {
+      "company": "Tower Research",
+      "first_seen": "2026-09-17T20:58:15+00:00",
+      "last_seen": "2026-09-17T20:58:15+00:00",
+      "location": "New York",
+      "posted_at": "2026-09-17T16:55:21-04:00",
+      "source": "",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8212158"
+    },
     "vanshb03:21cs::vanshb03-8f371c86-66af-4fb5-b691-d8e1f3497d40": {
       "company": "21CS",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -44876,5 +44886,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T20:07:50+00:00"
+  "updated_at": "2026-09-17T21:02:52+00:00"
 }
