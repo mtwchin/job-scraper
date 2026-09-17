@@ -1,5 +1,5 @@
 {
-  "count": 5768,
+  "count": 5769,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -7676,6 +7676,16 @@
       "source": "simplify",
       "title": "Technology Solutions Engineer Co-op/Intern",
       "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Technology-Solutions-Engineer-Co-op-Internship--Winter-2027-_JR101601"
+    },
+    "simplify:british columbia investment::simplify-b61abd66-a7ce-474e-b65b-858c33660c84": {
+      "company": "British Columbia Investment",
+      "first_seen": "2026-09-17T13:03:43+00:00",
+      "last_seen": "2026-09-17T13:03:43+00:00",
+      "location": "Victoria, BC, Canada, Vancouver, BC, Canada",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Engineer Co-op Intern - Investment Tech/Data & Analytics",
+      "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596"
     },
     "simplify:broadcom limited::simplify-539ddb97-a187-4681-9626-955ac26196f8": {
       "company": "Broadcom Limited",
@@ -44655,5 +44665,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T12:07:22+00:00"
+  "updated_at": "2026-09-17T13:07:24+00:00"
 }
