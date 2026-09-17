@@ -1,5 +1,5 @@
 {
-  "count": 5836,
+  "count": 5837,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -41659,6 +41659,16 @@
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8157838"
     },
+    "stripe::8212508": {
+      "company": "Stripe",
+      "first_seen": "2026-09-17T23:23:13+00:00",
+      "last_seen": "2026-09-17T23:23:13+00:00",
+      "location": "San Francisco, Seattle, New York",
+      "posted_at": "2026-09-17T19:22:32-04:00",
+      "source": "",
+      "title": "Software Engineer, Early Career \u2014 Immediate Start",
+      "url": "https://stripe.com/jobs/search?gh_jid=8212508"
+    },
     "tower research::8126667": {
       "company": "Tower Research",
       "first_seen": "2026-09-15T14:01:12+00:00",
@@ -45340,5 +45350,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T23:07:59+00:00"
+  "updated_at": "2026-09-17T23:28:01+00:00"
 }
