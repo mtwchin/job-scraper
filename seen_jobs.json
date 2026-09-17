@@ -1,5 +1,5 @@
 {
-  "count": 5760,
+  "count": 5764,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -4439,6 +4439,16 @@
       "posted_at": "1786514779",
       "title": "Software Systems Engineer 3",
       "url": "https://jobs.smartrecruiters.com/AmNetServicesInc/743999652095708"
+    },
+    "simplify:amperesand::simplify-0c0ace06-0c5c-415d-8ea4-7c6fedad6324": {
+      "company": "Amperesand",
+      "first_seen": "2026-09-17T06:36:01+00:00",
+      "last_seen": "2026-09-17T06:36:01+00:00",
+      "location": "Reno, NV",
+      "posted_at": "1789626296",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/amperesand/jobs/4409254009"
     },
     "simplify:ampliwork, inc::simplify-8b2cbddc-da27-4fb2-b8db-666cf3beb9ca": {
       "company": "Ampliwork, Inc",
@@ -21378,6 +21388,16 @@
       "title": "Software Engineer Apprentice",
       "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---Grosvenor-House-Southampton/Apprentice-Software-Engineer_R112557-1"
     },
+    "simplify:lexisnexis risk solutions::simplify-57a2bb7e-a9c4-41b0-a10a-606e7e4e9d3b": {
+      "company": "LexisNexis Risk Solutions",
+      "first_seen": "2026-09-17T06:32:21+00:00",
+      "last_seen": "2026-09-17T06:32:21+00:00",
+      "location": "Alpharetta, GA",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Software-Engineer-1_R117973"
+    },
     "simplify:lexisnexis risk solutions::simplify-90b7dcd2-ef8d-4a60-891d-0978390afa8e": {
       "company": "LexisNexis Risk Solutions",
       "first_seen": "2026-09-01T14:21:01+00:00",
@@ -32415,6 +32435,16 @@
       "title": "Software Developer - Services",
       "url": "https://slice.careers/careers-listing?gh_jid=7228672"
     },
+    "simplify:smith+nephew::simplify-e89448c1-21ee-450a-85e8-84ad429d6f3e": {
+      "company": "Smith+Nephew",
+      "first_seen": "2026-09-17T06:36:01+00:00",
+      "last_seen": "2026-09-17T06:36:01+00:00",
+      "location": "Pittsburgh, PA",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Robotics Software Engineer Intern",
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"
+    },
     "simplify:smithfield foods::simplify-522fa117-c316-4e57-a2a1-8e128d51a306": {
       "company": "Smithfield Foods",
       "first_seen": "2026-07-23T12:58:58+00:00",
@@ -38683,6 +38713,16 @@
       "title": "Technology Leadership Program - Risk & Security - Engineering",
       "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/Technology-Leadership-Program---Risk---Security-Engineer--PA-_180075-1"
     },
+    "simplify:vanguard::simplify-21da8578-625e-4937-b949-fcc1669b7dee": {
+      "company": "Vanguard",
+      "first_seen": "2026-09-17T06:36:01+00:00",
+      "last_seen": "2026-09-17T06:36:01+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Co-op - Multiple Teams",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/DallasFt-Worth-TX/XMLNAME-2027-Spring-Summer-Co-op-Opportunities---Dallas_182410"
+    },
     "simplify:vanguard::simplify-22755f9b-9d1f-4025-a4d1-1c1a4f434ee2": {
       "company": "Vanguard",
       "first_seen": "2026-08-18T23:23:42+00:00",
@@ -44573,5 +44613,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T06:07:05+00:00"
+  "updated_at": "2026-09-17T06:37:07+00:00"
 }
