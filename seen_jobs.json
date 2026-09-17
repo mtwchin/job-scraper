@@ -4630,8 +4630,8 @@
     },
     "simplify:anduril::simplify-bbf97353-45cc-4b6c-b3a6-50e3aafa73fd": {
       "company": "Anduril",
-      "first_seen": "2026-09-17T10:33:17+00:00",
-      "last_seen": "2026-09-17T10:33:17+00:00",
+      "first_seen": "2026-09-17T13:17:52+00:00",
+      "last_seen": "2026-09-17T13:17:52+00:00",
       "location": "Fort Collins, CO, Broomfield, CO",
       "posted_at": "1789596349",
       "source": "simplify",
@@ -5024,7 +5024,7 @@
     "simplify:applied intuition::simplify-988e5175-a56f-4c3a-b1d9-3a643a63a503": {
       "company": "Applied Intuition",
       "first_seen": "2026-09-03T12:51:14+00:00",
-      "last_seen": "2026-09-17T10:33:16+00:00",
+      "last_seen": "2026-09-17T13:17:52+00:00",
       "posted_at": "1788407677",
       "title": "Forward Deployed Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application?embed=true"
@@ -6941,8 +6941,8 @@
     },
     "simplify:bland ai::simplify-620b1a82-ef4d-4465-882e-beb889f347d0": {
       "company": "Bland AI",
-      "first_seen": "2026-09-17T10:03:03+00:00",
-      "last_seen": "2026-09-17T10:03:03+00:00",
+      "first_seen": "2026-09-17T13:17:53+00:00",
+      "last_seen": "2026-09-17T13:17:53+00:00",
       "location": "SF",
       "posted_at": "1780006121",
       "source": "simplify",
@@ -7659,8 +7659,8 @@
     },
     "simplify:british columbia investment::simplify-095cf7aa-8dee-4685-b19f-2d1df8abaa01": {
       "company": "British Columbia Investment",
-      "first_seen": "2026-09-17T10:32:36+00:00",
-      "last_seen": "2026-09-17T10:32:36+00:00",
+      "first_seen": "2026-09-17T13:17:53+00:00",
+      "last_seen": "2026-09-17T13:17:53+00:00",
       "location": "Victoria, BC, Canada",
       "posted_at": "1789603200",
       "source": "simplify",
@@ -7669,8 +7669,8 @@
     },
     "simplify:british columbia investment::simplify-a1924fb3-cead-47eb-97c9-8fba9c407a20": {
       "company": "British Columbia Investment",
-      "first_seen": "2026-09-17T12:03:06+00:00",
-      "last_seen": "2026-09-17T12:03:06+00:00",
+      "first_seen": "2026-09-17T13:17:53+00:00",
+      "last_seen": "2026-09-17T13:17:53+00:00",
       "location": "Victoria, BC, Canada, Vancouver, BC, Canada",
       "posted_at": "1789603200",
       "source": "simplify",
@@ -7679,8 +7679,8 @@
     },
     "simplify:british columbia investment::simplify-b61abd66-a7ce-474e-b65b-858c33660c84": {
       "company": "British Columbia Investment",
-      "first_seen": "2026-09-17T13:03:43+00:00",
-      "last_seen": "2026-09-17T13:03:43+00:00",
+      "first_seen": "2026-09-17T13:17:53+00:00",
+      "last_seen": "2026-09-17T13:17:53+00:00",
       "location": "Victoria, BC, Canada, Vancouver, BC, Canada",
       "posted_at": "1789603200",
       "source": "simplify",
@@ -11138,7 +11138,7 @@
     "simplify:copart::simplify-26ca5f88-4aa3-47dd-b7c2-3d192287ce69": {
       "company": "Copart",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-09-17T12:02:39+00:00",
+      "last_seen": "2026-09-17T13:17:52+00:00",
       "posted_at": "1778941026",
       "title": "Software Engineer Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101987"
@@ -44665,5 +44665,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T13:07:24+00:00"
+  "updated_at": "2026-09-17T13:22:33+00:00"
 }
