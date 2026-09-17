@@ -1,5 +1,5 @@
 {
-  "count": 5794,
+  "count": 5806,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -6470,6 +6470,7 @@
     "simplify:bank of montreal::simplify-7ffcd789-ef9d-4dfa-a950-34fda3485559": {
       "company": "Bank of Montreal",
       "first_seen": "2026-08-11T18:05:24+00:00",
+      "last_seen": "2026-09-17T22:35:51+00:00",
       "posted_at": "1786406400",
       "title": "Full Stack Engineer Intern - Data Cognition Team",
       "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Capital-Markets-Winter-2027--Full-Stack-Engineer--Toronto_R260021769"
@@ -11705,6 +11706,16 @@
       "title": "AI Solutions Engineer",
       "url": "https://jobs.lever.co/cscgeneration-2/40715594-0edc-4909-967c-71d252215c51/apply"
     },
+    "simplify:csx::simplify-b69e5abd-d489-4dda-b27d-f9247ad05c10": {
+      "company": "CSX",
+      "first_seen": "2026-09-17T22:35:53+00:00",
+      "last_seen": "2026-09-17T22:35:53+00:00",
+      "location": "Jacksonville, FL",
+      "posted_at": "1789683040",
+      "source": "simplify",
+      "title": "Technology Leadership Development Associate",
+      "url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54866"
+    },
     "simplify:ctg::simplify-2be6f759-96be-4dc7-a468-cf02a80bdef5": {
       "company": "CTG",
       "first_seen": "2026-09-09T01:11:58+00:00",
@@ -14652,6 +14663,16 @@
       "posted_at": "1784678400",
       "title": "Mainframe Software Engineer 1",
       "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0308257-1"
+    },
+    "simplify:fidelity national information services::simplify-6c46682a-cd5d-4600-9417-d7b43d3afe1f": {
+      "company": "Fidelity National Information Services",
+      "first_seen": "2026-09-17T22:35:53+00:00",
+      "last_seen": "2026-09-17T22:35:53+00:00",
+      "location": "Milwaukee, WI, Jacksonville, FL, Atlanta, GA",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Engineer Intern - FIS University Program",
+      "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512"
     },
     "simplify:fidelity national information services::simplify-93256d0a-8438-4762-951a-51e4ca7fe948": {
       "company": "Fidelity National Information Services",
@@ -20365,6 +20386,26 @@
       "title": "Software Engineer - Measurement Applications",
       "url": "https://jobs.keysight.com/jobs/54139?icims=1"
     },
+    "simplify:keysight technologies::simplify-1a99b100-e38e-443b-a9cc-1be8ada5aa7f": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-09-17T22:35:53+00:00",
+      "last_seen": "2026-09-17T22:35:53+00:00",
+      "location": "Colorado Springs, CO",
+      "posted_at": "1789683073",
+      "source": "simplify",
+      "title": "Software Engineer Intern - R&D",
+      "url": "https://jobs.keysight.com/jobs/54327?icims=1"
+    },
+    "simplify:keysight technologies::simplify-3560b9fe-52fc-4370-8c2a-da157231f4bf": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-09-17T22:35:53+00:00",
+      "last_seen": "2026-09-17T22:35:53+00:00",
+      "location": "Santa Rosa, CA",
+      "posted_at": "1789683074",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.keysight.com/jobs/54329?icims=1"
+    },
     "simplify:keysight technologies::simplify-4502389a-6ef3-48e3-8d38-3597746c545a": {
       "company": "Keysight Technologies",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -20474,6 +20515,16 @@
       "posted_at": "1789106761",
       "title": "Developer Intern - Clients - Front End Technologies",
       "url": "https://careers-kinaxis.icims.com/jobs/35320/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:kinaxis::simplify-66a61359-31ec-434c-9b02-f8c2802c91b2": {
+      "company": "Kinaxis",
+      "first_seen": "2026-09-17T22:35:53+00:00",
+      "last_seen": "2026-09-17T22:35:53+00:00",
+      "location": "Ottawa, ON, Canada",
+      "posted_at": "1789682723",
+      "source": "simplify",
+      "title": "AI Quality Co-op Intern - Evaluation & Security",
+      "url": "https://careers-kinaxis.icims.com/jobs/35378/job?mobile=true&needsRedirect=false"
     },
     "simplify:kinaxis::simplify-937ea815-7e19-4bed-a8eb-a226a5201df1": {
       "company": "Kinaxis",
@@ -21827,6 +21878,26 @@
       "title": "Engineering Graduate",
       "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/USA-Fort-Mill-580-Kingsley-Park-Dr/R0123409-Engineering-Graduate-Programme--Fort-Mill-_R0123418"
     },
+    "simplify:lseg::simplify-0fd4122e-ceb7-4f97-8f55-aaab32d000d7": {
+      "company": "LSEG",
+      "first_seen": "2026-09-17T22:35:53+00:00",
+      "last_seen": "2026-09-17T22:35:53+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Engineering Intern - Multiple Teams",
+      "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Boston-Massachusetts/Engineering-Summer-Internship-Programme_R0123570-2"
+    },
+    "simplify:lseg::simplify-2f0ce744-ccb1-4843-adeb-0f63d5bd2b49": {
+      "company": "LSEG",
+      "first_seen": "2026-09-17T22:35:53+00:00",
+      "last_seen": "2026-09-17T22:35:53+00:00",
+      "location": "Charlotte, NC",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Engineering Intern",
+      "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Greater-Charlotte-Area-United-States/Engineering-Summer-Internship-Programme_R0123571-1"
+    },
     "simplify:lseg::simplify-87a7585b-c879-4559-9257-36f922ba1a14": {
       "company": "LSEG",
       "first_seen": "2026-09-14T18:25:38+00:00",
@@ -21844,6 +21915,16 @@
       "source": "simplify",
       "title": "Engineering Graduate Programme - New York",
       "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/USA-New-York-28-Liberty-Street/Engineering-Graduate-Programme--New-York-_R0123409"
+    },
+    "simplify:lseg::simplify-e9b7e6e4-f5c7-447c-bd8d-3c9a764d5f44": {
+      "company": "LSEG",
+      "first_seen": "2026-09-17T22:35:53+00:00",
+      "last_seen": "2026-09-17T22:35:53+00:00",
+      "location": "NYC",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Engineering Intern",
+      "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569"
     },
     "simplify:lseg::simplify-ed491e0a-102a-4da8-ae56-a09a1cdd461c": {
       "company": "LSEG",
@@ -22158,6 +22239,16 @@
       "title": "Software Engineering Co-op",
       "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081663"
     },
+    "simplify:manulife financial::simplify-e003bb69-614c-449a-9ef5-1c13ce5fe4c1": {
+      "company": "Manulife Financial",
+      "first_seen": "2026-09-17T22:35:53+00:00",
+      "last_seen": "2026-09-17T22:35:53+00:00",
+      "location": "Waterloo, ON, Canada",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053"
+    },
     "simplify:manulife financial::simplify-e1a8ef4d-368e-4108-9f7a-0db5b3a7bf7f": {
       "company": "Manulife Financial",
       "first_seen": "2026-09-01T00:09:06+00:00",
@@ -22367,6 +22458,16 @@
       "posted_at": "1780351593",
       "title": "Systems Application Engineer \u2013 Early Career",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Systems-Application-Engineer---Early-Career_2602267"
+    },
+    "simplify:marvell::simplify-42ef3361-65d3-45bc-bb21-c1fe2908bf6c": {
+      "company": "Marvell",
+      "first_seen": "2026-09-17T22:35:53+00:00",
+      "last_seen": "2026-09-17T22:35:53+00:00",
+      "location": "Burlington, VT",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "SRAM Software Engineer Intern",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760"
     },
     "simplify:marvell::simplify-748dbbda-4a6f-4c7d-a2fd-88c3aa19478a": {
       "company": "Marvell",
@@ -25747,6 +25848,16 @@
       "posted_at": "1778019051",
       "title": "Machine Learning Applications and Compiler Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016937"
+    },
+    "simplify:nvidia::simplify-73283e9c-7252-4ace-89b5-c548e7e25e82": {
+      "company": "NVIDIA",
+      "first_seen": "2026-09-17T22:35:52+00:00",
+      "last_seen": "2026-09-17T22:35:52+00:00",
+      "location": "Seattle, WA, Pennsylvania, Santa Clara, CA",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "AI Compiler Engineer New Grad",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compiler-Engineer--New-College-Grad-2027_JR2026011"
     },
     "simplify:nvidia::simplify-86cb0b1e-3691-4e3c-a4ec-c65f90643d87": {
       "company": "NVIDIA",
@@ -29415,6 +29526,16 @@
       "posted_at": "1784596521",
       "title": "Engineer Intern",
       "url": "https://jobs.ashbyhq.com/tryroam/59b76a77-44e5-424b-a3d5-71edf091869c/application?embed=true"
+    },
+    "simplify:robert bosch venture capital::simplify-3f405abf-6caa-4ae6-8c84-3d7c8931051a": {
+      "company": "Robert Bosch Venture Capital",
+      "first_seen": "2026-09-17T22:35:53+00:00",
+      "last_seen": "2026-09-17T22:35:53+00:00",
+      "location": "Plymouth, MI",
+      "posted_at": "1789682794",
+      "source": "simplify",
+      "title": "AI Engineering Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150217869"
     },
     "simplify:robert bosch venture capital::simplify-c0344e84-2a29-4511-8025-7ee4893566d7": {
       "company": "Robert Bosch Venture Capital",
@@ -44916,5 +45037,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T21:07:54+00:00"
+  "updated_at": "2026-09-17T22:37:56+00:00"
 }
