@@ -1,5 +1,5 @@
 {
-  "count": 5753,
+  "count": 5758,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -9282,6 +9282,16 @@
       "title": "Software Engineering Associate Consultant - Summer 2027",
       "url": "https://jobs.smartrecruiters.com/CapTechConsulting/744000146449269"
     },
+    "simplify:captivation::simplify-31bd649f-d357-4816-9f4f-d991ca04c596": {
+      "company": "Captivation",
+      "first_seen": "2026-09-17T01:37:45+00:00",
+      "last_seen": "2026-09-17T01:37:45+00:00",
+      "location": "Annapolis Junction, MD",
+      "posted_at": "1789608190",
+      "source": "simplify",
+      "title": "Software Engineer 0 - Multiple Teams",
+      "url": "https://job-boards.greenhouse.io/captivation/jobs/5426523008"
+    },
     "simplify:captivation::simplify-527124c6-94ed-4350-b517-dcb8a25d41e8": {
       "company": "Captivation",
       "first_seen": "2026-08-10T23:03:12+00:00",
@@ -11306,6 +11316,26 @@
       "title": "Associate Android Engineer",
       "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/Orange-County---CA/Homescom---Associate-Android-Engineer_R39719"
     },
+    "simplify:costar group::simplify-fad2e0d4-274c-40b8-b96d-c769ef5ee9da": {
+      "company": "CoStar Group",
+      "first_seen": "2026-09-17T01:37:45+00:00",
+      "last_seen": "2026-09-17T01:37:45+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R39674"
+    },
+    "simplify:costar group::simplify-fec5c82d-3e40-46de-bad2-93a1b2669f21": {
+      "company": "CoStar Group",
+      "first_seen": "2026-09-17T01:37:45+00:00",
+      "last_seen": "2026-09-17T01:37:45+00:00",
+      "location": "Irvine, CA",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Associate-Software-Engineer---Irvine--CA_R39736"
+    },
     "simplify:country financial::simplify-52bd67ea-cc1b-4b12-9ba9-77c1fe08ed78": {
       "company": "COUNTRY Financial",
       "first_seen": "2026-09-08T23:04:44+00:00",
@@ -11502,6 +11532,7 @@
     "simplify:crusoe::simplify-929cfe45-2ac9-4d39-80b3-b3fa750e2ceb": {
       "company": "Crusoe",
       "first_seen": "2026-08-20T01:44:05+00:00",
+      "last_seen": "2026-09-17T01:37:45+00:00",
       "posted_at": "1787187240",
       "title": "Software Engineer 1 - Network",
       "url": "https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true"
@@ -16611,7 +16642,7 @@
     "simplify:goldman sachs::simplify-43a5374e-0e70-4dc9-82b0-687b54e8c5da": {
       "company": "Goldman Sachs",
       "first_seen": "2026-08-15T04:58:35+00:00",
-      "last_seen": "2026-09-16T00:01:03+00:00",
+      "last_seen": "2026-09-17T01:37:45+00:00",
       "posted_at": "1786767954",
       "title": "Engineering New Analyst - Engineering",
       "url": "https://higher.gs.com/roles/171570?type=students"
@@ -28670,6 +28701,16 @@
       "title": "Software Engineer 1 - Graduate",
       "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Grosvernor-House/Software-Engineer-I--Graduate-_R116044-3"
     },
+    "simplify:relx::simplify-a9b9d8ee-e94d-4b1f-a542-48d5507be8ef": {
+      "company": "RELX",
+      "first_seen": "2026-09-17T01:37:45+00:00",
+      "last_seen": "2026-09-17T01:37:45+00:00",
+      "location": "Alpharetta, GA",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Software-Engineer-1_R117973-1"
+    },
     "simplify:relx::simplify-e79e66fd-9829-4d64-9b2c-4854cdcfccd1": {
       "company": "RELX",
       "first_seen": "2026-09-01T00:09:06+00:00",
@@ -34152,6 +34193,16 @@
       "posted_at": "1783376118",
       "title": "Quality Engineer 1 - Core-Java & Mainframe",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Quality-Engineer-I--Core-Java---Mainframe-_R_1497021"
+    },
+    "simplify:td bank::simplify-1de667fa-952d-4928-b99f-a5098dca9028": {
+      "company": "TD Bank",
+      "first_seen": "2026-09-17T01:37:45+00:00",
+      "last_seen": "2026-09-17T01:37:45+00:00",
+      "location": "Montreal, QC, Canada, Toronto, ON, Canada",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer-15_R_1502648"
     },
     "simplify:td bank::simplify-367bf9de-33b4-48ac-8b78-d76dfae3a050": {
       "company": "TD Bank",
@@ -44502,5 +44553,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T01:36:58+00:00"
+  "updated_at": "2026-09-17T01:42:00+00:00"
 }
