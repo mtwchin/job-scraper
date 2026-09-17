@@ -1,5 +1,5 @@
 {
-  "count": 5765,
+  "count": 5767,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -4628,6 +4628,16 @@
       "title": "Software Engineer - Battlespace Awareness",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215627007"
     },
+    "simplify:anduril::simplify-bbf97353-45cc-4b6c-b3a6-50e3aafa73fd": {
+      "company": "Anduril",
+      "first_seen": "2026-09-17T10:33:17+00:00",
+      "last_seen": "2026-09-17T10:33:17+00:00",
+      "location": "Fort Collins, CO, Broomfield, CO",
+      "posted_at": "1789596349",
+      "source": "simplify",
+      "title": "Software Engineer - Battlespace Awareness",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5240165007"
+    },
     "simplify:anduril::simplify-c1623229-faaa-4f1d-bdd8-fc0b46bc74a0": {
       "company": "Anduril",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -5014,6 +5024,7 @@
     "simplify:applied intuition::simplify-988e5175-a56f-4c3a-b1d9-3a643a63a503": {
       "company": "Applied Intuition",
       "first_seen": "2026-09-03T12:51:14+00:00",
+      "last_seen": "2026-09-17T10:33:16+00:00",
       "posted_at": "1788407677",
       "title": "Forward Deployed Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943/application?embed=true"
@@ -7645,6 +7656,16 @@
       "posted_at": "1783641600",
       "title": "Research Assistant",
       "url": "https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Research-Assistant--TEMPORARY---part-time-175-hrs-wk-_JR-10728"
+    },
+    "simplify:british columbia investment::simplify-095cf7aa-8dee-4685-b19f-2d1df8abaa01": {
+      "company": "British Columbia Investment",
+      "first_seen": "2026-09-17T10:32:36+00:00",
+      "last_seen": "2026-09-17T10:32:36+00:00",
+      "location": "Victoria, BC, Canada",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "AI and Automation Engineer Co-op Intern - Winter 2027 - Summer 2027",
+      "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1"
     },
     "simplify:broadcom limited::simplify-539ddb97-a187-4681-9626-955ac26196f8": {
       "company": "Broadcom Limited",
@@ -44623,5 +44644,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T10:07:18+00:00"
+  "updated_at": "2026-09-17T10:37:20+00:00"
 }
