@@ -1,5 +1,5 @@
 {
-  "count": 5769,
+  "count": 5770,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -7666,6 +7666,16 @@
       "source": "simplify",
       "title": "AI and Automation Engineer Co-op Intern - Winter 2027 - Summer 2027",
       "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/AI-and-Automation-Engineer-Co-op-Internship--Winter---Summer-2027-_JR101597-1"
+    },
+    "simplify:british columbia investment::simplify-19166e9a-cb4f-406a-9b04-ede1c6ee72e4": {
+      "company": "British Columbia Investment",
+      "first_seen": "2026-09-17T13:37:01+00:00",
+      "last_seen": "2026-09-17T13:37:01+00:00",
+      "location": "Victoria, BC, Canada, Vancouver, BC, Canada",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Engineer Co-op Intern - Winter 2027",
+      "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Vancouver-BC/Software-Engineer-Co-op-Internship--Winter-2027-_JR101590"
     },
     "simplify:british columbia investment::simplify-a1924fb3-cead-47eb-97c9-8fba9c407a20": {
       "company": "British Columbia Investment",
@@ -34539,7 +34549,7 @@
     "simplify:tencent::simplify-f975268a-bc73-4167-8e73-024443cbc1f2": {
       "company": "Tencent",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-09-16T00:01:03+00:00",
+      "last_seen": "2026-09-17T13:36:33+00:00",
       "posted_at": "1776982042",
       "title": "Game Research & Development Intern - Engine Research",
       "url": "https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363"
@@ -44665,5 +44675,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T13:22:33+00:00"
+  "updated_at": "2026-09-17T13:37:35+00:00"
 }
