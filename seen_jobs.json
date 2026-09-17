@@ -1,5 +1,5 @@
 {
-  "count": 5751,
+  "count": 5753,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -11280,6 +11280,16 @@
       "title": "Associate Software Engineer",
       "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Associate-Software-Engineer---Arlington--VA_R39668"
     },
+    "simplify:costar group::simplify-78bfe38c-e7ab-4387-af08-28aa2ecf4d6e": {
+      "company": "CoStar Group",
+      "first_seen": "2026-09-17T01:35:46+00:00",
+      "last_seen": "2026-09-17T01:35:46+00:00",
+      "location": "Irvine, CA",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Technology Intern",
+      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Irvine-US/Summer-2027-Technology-Intern---Irvine--CA_R39673"
+    },
     "simplify:costar group::simplify-85d55295-0c76-4133-880c-055ce402b526": {
       "company": "CoStar Group",
       "first_seen": "2026-09-14T18:25:38+00:00",
@@ -16625,7 +16635,7 @@
     "simplify:goldman sachs::simplify-792220f4-3ba1-4cf8-843e-e23208ba8d24": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-16T01:32:40+00:00",
+      "last_seen": "2026-09-17T01:35:45+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/171553?type=students"
@@ -16633,7 +16643,7 @@
     "simplify:goldman sachs::simplify-8f346a45-4490-4243-933e-264e3916e701": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-16T01:32:40+00:00",
+      "last_seen": "2026-09-17T01:35:45+00:00",
       "posted_at": "1786767952",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171567?type=students"
@@ -16655,7 +16665,7 @@
     "simplify:goldman sachs::simplify-b2b3a7df-bea1-4290-b988-4c3e567814b8": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-16T01:32:40+00:00",
+      "last_seen": "2026-09-17T01:35:45+00:00",
       "posted_at": "1786767944",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/170637?type=students"
@@ -21215,6 +21225,16 @@
       "posted_at": "1784851200",
       "title": "Software Engineer",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Software-Engineer_R-00187550"
+    },
+    "simplify:leidos::simplify-c378ab68-3965-4a8e-bcab-6b9125680eea": {
+      "company": "Leidos",
+      "first_seen": "2026-09-17T01:35:46+00:00",
+      "last_seen": "2026-09-17T01:35:46+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Technical Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192449-1"
     },
     "simplify:leidos::simplify-c6b88cdf-a082-4483-829d-77d3e106239b": {
       "company": "Leidos",
@@ -44482,5 +44502,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T00:11:56+00:00"
+  "updated_at": "2026-09-17T01:36:58+00:00"
 }
