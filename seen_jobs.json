@@ -1,5 +1,5 @@
 {
-  "count": 5759,
+  "count": 5760,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -30133,6 +30133,16 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-111--1300-17Th-St-N--BBN-ARLINGTON/Software-Engineer-I--Hybrid--Arlington--VA---Cambridge--MA_01870647"
     },
+    "simplify:rtx::simplify-289798f6-332d-4b16-b177-1466651e2548": {
+      "company": "RTX",
+      "first_seen": "2026-09-17T06:05:01+00:00",
+      "last_seen": "2026-09-17T06:05:01+00:00",
+      "location": "Marlborough, MA",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01873299"
+    },
     "simplify:rtx::simplify-2a67cef3-5836-4452-832c-ec5b39cff69b": {
       "company": "RTX",
       "first_seen": "2026-08-18T06:58:11+00:00",
@@ -44563,5 +44573,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T03:42:03+00:00"
+  "updated_at": "2026-09-17T06:07:05+00:00"
 }
