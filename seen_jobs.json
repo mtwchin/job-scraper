@@ -1,5 +1,5 @@
 {
-  "count": 5764,
+  "count": 5765,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -6927,6 +6927,16 @@
       "posted_at": "1787270400",
       "title": "Software Engineer Summer Analyst - Blackstone Technology & Innovations",
       "url": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Software-Engineer-Summer-Analyst_45021"
+    },
+    "simplify:bland ai::simplify-620b1a82-ef4d-4465-882e-beb889f347d0": {
+      "company": "Bland AI",
+      "first_seen": "2026-09-17T10:03:03+00:00",
+      "last_seen": "2026-09-17T10:03:03+00:00",
+      "location": "SF",
+      "posted_at": "1780006121",
+      "source": "simplify",
+      "title": "Agent Solutions Engineer",
+      "url": "https://jobs.ashbyhq.com/bland/824f7ebb-6d71-4484-bc7d-a2bcd4441a70/application?embed=true"
     },
     "simplify:blinqlabs::simplify-8adf8a0f-8e62-4272-a4ac-197b91e8bb67": {
       "company": "BlinqLABS",
@@ -44613,5 +44623,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T07:52:16+00:00"
+  "updated_at": "2026-09-17T10:07:18+00:00"
 }
