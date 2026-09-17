@@ -1,5 +1,5 @@
 {
-  "count": 5791,
+  "count": 5794,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2100,6 +2100,26 @@
       "source": "",
       "title": "Systems Engineering Intern Summer 2027",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990138003"
+    },
+    "rocket lab::7990270003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-09-17T21:03:12+00:00",
+      "last_seen": "2026-09-17T21:03:12+00:00",
+      "location": "Tucson, AZ",
+      "posted_at": "2026-09-17T16:59:30-04:00",
+      "source": "",
+      "title": "Systems Engineering Intern Summer 2027",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990270003"
+    },
+    "rocket lab::7990272003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-09-17T21:03:12+00:00",
+      "last_seen": "2026-09-17T21:03:12+00:00",
+      "location": "Chantilly, VA",
+      "posted_at": "2026-09-17T16:58:26-04:00",
+      "source": "",
+      "title": "Systems Engineering Intern Summer 2027",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990272003"
     },
     "rocket lab::7992129003": {
       "company": "Rocket Lab",
@@ -41235,6 +41255,16 @@
       "title": "Software Engineer Intern (Summer 2027)",
       "url": "https://www.tower-research.com/open-positions/?gh_jid=8212158"
     },
+    "tower research::8212179": {
+      "company": "Tower Research",
+      "first_seen": "2026-09-17T21:03:12+00:00",
+      "last_seen": "2026-09-17T21:03:12+00:00",
+      "location": "Montreal",
+      "posted_at": "2026-09-17T16:59:48-04:00",
+      "source": "",
+      "title": "Stagiaire en d\u00e9veloppement de logiciels (\u00e9t\u00e9 2027) / Software Developer Intern (Summer 2027)",
+      "url": "https://www.tower-research.com/open-positions/?gh_jid=8212179"
+    },
     "vanshb03:21cs::vanshb03-8f371c86-66af-4fb5-b691-d8e1f3497d40": {
       "company": "21CS",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -44886,5 +44916,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-17T21:02:52+00:00"
+  "updated_at": "2026-09-17T21:07:54+00:00"
 }
