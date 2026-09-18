@@ -244,8 +244,8 @@
     },
     "amazon::10552937": {
       "company": "Amazon",
-      "first_seen": "2026-09-18T16:14:14+00:00",
-      "last_seen": "2026-09-18T16:14:14+00:00",
+      "first_seen": "2026-09-18T16:49:23+00:00",
+      "last_seen": "2026-09-18T16:49:23+00:00",
       "location": "Seattle, Washington, USA",
       "posted_at": "September 17, 2026",
       "source": "",
@@ -41823,8 +41823,8 @@
     },
     "together ai::5211582007": {
       "company": "Together AI",
-      "first_seen": "2026-09-18T15:49:28+00:00",
-      "last_seen": "2026-09-18T15:49:28+00:00",
+      "first_seen": "2026-09-18T16:49:23+00:00",
+      "last_seen": "2026-09-18T16:49:23+00:00",
       "location": "San Francisco",
       "posted_at": "2026-09-18T11:45:25-04:00",
       "source": "",
@@ -41833,8 +41833,8 @@
     },
     "together ai::5232036007": {
       "company": "Together AI",
-      "first_seen": "2026-09-18T15:49:28+00:00",
-      "last_seen": "2026-09-18T15:49:28+00:00",
+      "first_seen": "2026-09-18T16:49:23+00:00",
+      "last_seen": "2026-09-18T16:49:23+00:00",
       "location": "San Francisco",
       "posted_at": "2026-09-18T11:45:14-04:00",
       "source": "",
@@ -41843,8 +41843,8 @@
     },
     "together ai::5238031007": {
       "company": "Together AI",
-      "first_seen": "2026-09-18T15:49:28+00:00",
-      "last_seen": "2026-09-18T15:49:28+00:00",
+      "first_seen": "2026-09-18T16:49:23+00:00",
+      "last_seen": "2026-09-18T16:49:23+00:00",
       "location": "San Francisco",
       "posted_at": "2026-09-18T11:45:19-04:00",
       "source": "",
@@ -45532,5 +45532,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-18T16:18:40+00:00"
+  "updated_at": "2026-09-18T16:53:54+00:00"
 }
