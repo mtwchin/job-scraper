@@ -1,5 +1,5 @@
 {
-  "count": 5838,
+  "count": 5844,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3718,6 +3718,16 @@
       "posted_at": "1769579993",
       "title": "Software Development Engineer - 2026",
       "url": "https://www.amazon.jobs/en/jobs/3165932/software-development-engineer-2026-canada"
+    },
+    "simplify:amazon::simplify-1ab1a45d-f5cc-4187-9f03-f2e2c5c3e021": {
+      "company": "Amazon",
+      "first_seen": "2026-09-18T01:35:04+00:00",
+      "last_seen": "2026-09-18T01:35:04+00:00",
+      "location": "Seattle, WA, Arlington County, Arlington, VA",
+      "posted_at": "1789693504",
+      "source": "simplify",
+      "title": "Software Development Engineer Intern - Summer",
+      "url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa"
     },
     "simplify:amazon::simplify-27a0f900-c5b2-4b8f-85c2-8614ea5badf0": {
       "company": "Amazon",
@@ -15107,6 +15117,16 @@
       "title": "Software Development - GenAI",
       "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22401"
     },
+    "simplify:fortinet::simplify-84bf55b8-233e-40be-8535-022acd294d1a": {
+      "company": "Fortinet",
+      "first_seen": "2026-09-18T01:33:23+00:00",
+      "last_seen": "2026-09-18T01:33:23+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1789693575",
+      "source": "simplify",
+      "title": "Software Development Engineer - Gui",
+      "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24399"
+    },
     "simplify:fortinet::simplify-a48ddd41-804f-44ac-b08f-8ea10552ea6d": {
       "company": "Fortinet",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -16931,7 +16951,7 @@
     "simplify:goldman sachs::simplify-1949c912-65b2-42ac-9836-c110baed0ef6": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-17T00:02:10+00:00",
+      "last_seen": "2026-09-18T01:35:03+00:00",
       "posted_at": "1786767938",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/177808?type=students"
@@ -16954,7 +16974,7 @@
     "simplify:goldman sachs::simplify-5a49d74c-fa9f-4dd4-a66b-24fc3d9c1def": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-17T00:02:10+00:00",
+      "last_seen": "2026-09-18T01:35:03+00:00",
       "posted_at": "1786767952",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171564?type=students"
@@ -16962,7 +16982,7 @@
     "simplify:goldman sachs::simplify-5bdec003-2a02-42a4-a602-467541840552": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-17T00:02:10+00:00",
+      "last_seen": "2026-09-18T01:35:03+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171565?type=students"
@@ -16970,7 +16990,7 @@
     "simplify:goldman sachs::simplify-792220f4-3ba1-4cf8-843e-e23208ba8d24": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-17T02:17:32+00:00",
+      "last_seen": "2026-09-18T01:35:03+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/171553?type=students"
@@ -16978,7 +16998,7 @@
     "simplify:goldman sachs::simplify-8f346a45-4490-4243-933e-264e3916e701": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-17T02:17:32+00:00",
+      "last_seen": "2026-09-18T01:35:03+00:00",
       "posted_at": "1786767952",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171567?type=students"
@@ -17000,7 +17020,7 @@
     "simplify:goldman sachs::simplify-b2b3a7df-bea1-4290-b988-4c3e567814b8": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-17T02:17:32+00:00",
+      "last_seen": "2026-09-18T01:35:03+00:00",
       "posted_at": "1786767944",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/170637?type=students"
@@ -20606,6 +20626,16 @@
       "title": "Full Stack Intern",
       "url": "https://jobs.keysight.com/jobs/54165?icims=1"
     },
+    "simplify:keysight technologies::simplify-cf8d2b20-f6d6-4d82-a5e9-7a1e97484d23": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-09-18T01:35:05+00:00",
+      "last_seen": "2026-09-18T01:35:05+00:00",
+      "location": "Colorado Springs, CO",
+      "posted_at": "1789693860",
+      "source": "simplify",
+      "title": "Software Engineering Intern - AI Solutions",
+      "url": "https://jobs.keysight.com/jobs/54322?icims=1"
+    },
     "simplify:keysight technologies::simplify-d2e6b4e9-d706-4c25-9b2c-c8d4a9eda75b": {
       "company": "Keysight Technologies",
       "first_seen": "2026-07-21T10:51:40+00:00",
@@ -20662,6 +20692,16 @@
       "posted_at": "1785881486",
       "title": "Software Analyst",
       "url": "https://careers-kimley-horn.icims.com/jobs/25698/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:kinaxis::simplify-3a72f20d-2be5-475f-ab69-49773fe54308": {
+      "company": "Kinaxis",
+      "first_seen": "2026-09-18T01:35:05+00:00",
+      "last_seen": "2026-09-18T01:35:05+00:00",
+      "location": "Ottawa, ON, Canada",
+      "posted_at": "1789682723",
+      "source": "simplify",
+      "title": "Developer Intern Co-op - AI Innovation",
+      "url": "https://careers-kinaxis.icims.com/jobs/35377/job?mobile=true&needsRedirect=false"
     },
     "simplify:kinaxis::simplify-50dd36b1-ed7f-406b-ae19-55d27afb19b1": {
       "company": "Kinaxis",
@@ -31250,6 +31290,16 @@
       "title": "Software Engineer Co-op - Winter/Spring 2027",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Winter-Spring-2027-_01875464"
     },
+    "simplify:rtx::simplify-a122ed0c-a472-4787-80bd-a028823e70bc": {
+      "company": "RTX",
+      "first_seen": "2026-09-18T01:35:05+00:00",
+      "last_seen": "2026-09-18T01:35:05+00:00",
+      "location": "Colorado Springs, CO",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-COLORADO-SPRINGS-9970-CUST--9970-Federal-Dr--FEDERAL-External-Site/Software-Engineering-Intern--Summer-2027-_01876131"
+    },
     "simplify:rtx::simplify-a167d0aa-3bb9-4b88-84a5-ee03be6a494f": {
       "company": "RTX",
       "first_seen": "2026-08-18T06:58:11+00:00",
@@ -38169,6 +38219,16 @@
       "posted_at": "1784073600",
       "title": "Software Engineer 1 - Guidewire Policy Configuration",
       "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Guidewire-Policy-Configuration_R-51545"
+    },
+    "simplify:trc companies::simplify-9e8ec50b-4857-4cc5-b158-8915ba1d6071": {
+      "company": "TRC Companies",
+      "first_seen": "2026-09-18T01:35:05+00:00",
+      "last_seen": "2026-09-18T01:35:05+00:00",
+      "location": "Calgary, AB, Canada",
+      "posted_at": "1789693685",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.trccompanies.com/jobs/26840?icims=1"
     },
     "simplify:trend micro::simplify-0a6dd19d-c361-449a-b4b1-ea15ad2d816f": {
       "company": "Trend Micro",
@@ -45360,5 +45420,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-18T00:38:05+00:00"
+  "updated_at": "2026-09-18T01:38:07+00:00"
 }
