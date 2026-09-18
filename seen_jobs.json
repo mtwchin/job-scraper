@@ -1,5 +1,5 @@
 {
-  "count": 5859,
+  "count": 5863,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -12261,6 +12261,16 @@
       "title": "Software Engineer Placement",
       "url": "https://apply.workable.com/dayshape/j/19F2A4F3F3/apply"
     },
+    "simplify:dayton freight lines::simplify-5db86393-0062-4115-9a67-61cd752ef337": {
+      "company": "Dayton Freight Lines",
+      "first_seen": "2026-09-18T21:04:46+00:00",
+      "last_seen": "2026-09-18T21:04:46+00:00",
+      "location": "Dayton, OH",
+      "posted_at": "1789740994",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://careers-daytonfreight.icims.com/jobs/18249/job?mobile=true&needsRedirect=false"
+    },
     "simplify:decagon::simplify-886b58df-3da6-4888-8b8d-ac9eef06b1a7": {
       "company": "Decagon",
       "first_seen": "2026-09-16T23:02:45+00:00",
@@ -15308,6 +15318,16 @@
       "title": "Software Developer Analyst",
       "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Analyst_JR17441"
     },
+    "simplify:freedom technology solutions group::simplify-1137567c-261b-4ccb-8a65-00a55a4d57b5": {
+      "company": "Freedom Technology Solutions Group",
+      "first_seen": "2026-09-18T21:04:46+00:00",
+      "last_seen": "2026-09-18T21:04:46+00:00",
+      "location": "Annapolis Junction, MD",
+      "posted_at": "1785449999",
+      "source": "simplify",
+      "title": "Junior Software Engineer",
+      "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5199607007"
+    },
     "simplify:freedom technology solutions group::simplify-de2dabaf-389f-4f67-bf9d-1414cfa393fe": {
       "company": "Freedom Technology Solutions Group",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -15879,6 +15899,7 @@
     "simplify:ge vernova::simplify-f34b1f76-8c04-44e3-af69-ab94a7694d4b": {
       "company": "GE Vernova",
       "first_seen": "2026-08-12T22:38:25+00:00",
+      "last_seen": "2026-09-18T21:04:45+00:00",
       "posted_at": "1786492800",
       "title": "Engineering Intern",
       "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2"
@@ -34369,6 +34390,16 @@
       "title": "Associate Software Engineer",
       "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Associate-Software-Engineer--Winter-2027-_JR00127614"
     },
+    "simplify:sun life::simplify-c1ff02ec-5b6a-4913-889d-999c070b5c39": {
+      "company": "Sun Life",
+      "first_seen": "2026-09-18T21:04:46+00:00",
+      "last_seen": "2026-09-18T21:04:46+00:00",
+      "location": "Toronto, ON, Canada, Waterford, Ireland",
+      "posted_at": "1789689600",
+      "source": "simplify",
+      "title": "Full Stack Developer Intern",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Waterford-Waterford-Ireland/Student--Full-Stack-Developer_JR00126897"
+    },
     "simplify:sun life::simplify-d38d17ab-e957-4fe5-be96-5cbf0b4e37f3": {
       "company": "Sun Life",
       "first_seen": "2026-08-14T22:52:10+00:00",
@@ -38691,6 +38722,16 @@
       "posted_at": "1788906536",
       "title": "Software Engineer",
       "url": "https://twosigma.avature.net/careers/JobDetail/14018"
+    },
+    "simplify:tyler technologies::simplify-170b4dbe-36bf-488f-8c87-9759f8f3fc2b": {
+      "company": "Tyler Technologies",
+      "first_seen": "2026-09-18T21:04:46+00:00",
+      "last_seen": "2026-09-18T21:04:46+00:00",
+      "location": "Lawrenceville, GA",
+      "posted_at": "1789741364",
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false"
     },
     "simplify:tyler technologies::simplify-e6d2ca10-47cc-492f-bfc3-51e1c414353b": {
       "company": "Tyler Technologies",
@@ -45573,5 +45614,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-18T20:54:01+00:00"
+  "updated_at": "2026-09-18T21:09:03+00:00"
 }
