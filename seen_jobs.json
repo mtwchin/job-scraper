@@ -1,5 +1,5 @@
 {
-  "count": 5844,
+  "count": 5849,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -7733,6 +7733,16 @@
       "posted_at": "1787004857",
       "title": "Coffee Bar Barista - Java Vegas - On Call",
       "url": "https://jobs.smartrecruiters.com/BoydGaming/3743990014633026"
+    },
+    "simplify:brady martz::simplify-ebda590f-cbe9-4e03-b0eb-6de1c724a228": {
+      "company": "Brady Martz",
+      "first_seen": "2026-09-18T06:33:41+00:00",
+      "last_seen": "2026-09-18T06:33:41+00:00",
+      "location": "Remote in USA, St. Louis, MO",
+      "posted_at": "1789712148",
+      "source": "simplify",
+      "title": "AI Prototyping Engineer",
+      "url": "https://apply.workable.com/brady-martz/j/39C6A58F26/apply"
     },
     "simplify:brainbase labs::simplify-6ccd63e5-c214-4937-9f21-d095f19d1ae8": {
       "company": "Brainbase Labs",
@@ -23769,6 +23779,16 @@
       "title": "Full-Stack Product Engineer Intern - Web + Services",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922"
     },
+    "simplify:microsoft::simplify-f17e1a25-2872-42d0-90f6-3e3dbb14c8fa": {
+      "company": "Microsoft",
+      "first_seen": "2026-09-18T06:35:19+00:00",
+      "last_seen": "2026-09-18T06:35:19+00:00",
+      "location": "Redmond, WA, Santa Clara, CA",
+      "posted_at": "1789711596",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982258"
+    },
     "simplify:microsoft::simplify-f5f8ee5c-c30e-425b-8613-da35ccc354be": {
       "company": "Microsoft",
       "first_seen": "2026-08-07T00:29:52+00:00",
@@ -24567,6 +24587,7 @@
     "simplify:netsmart::simplify-86e907c2-6aef-4071-ae6c-20a9c6b7306c": {
       "company": "Netsmart",
       "first_seen": "2026-08-04T00:17:51+00:00",
+      "last_seen": "2026-09-18T06:35:18+00:00",
       "posted_at": "1785715200",
       "title": "Software Engineer Intern",
       "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667"
@@ -24574,6 +24595,7 @@
     "simplify:netsmart::simplify-db9c57de-0338-484f-acbc-6ea1db0e12ed": {
       "company": "Netsmart",
       "first_seen": "2026-08-04T00:17:51+00:00",
+      "last_seen": "2026-09-18T06:33:40+00:00",
       "posted_at": "1785715200",
       "title": "Software Engineer",
       "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer----Dec26-May-27-Grads-_R015658"
@@ -35347,6 +35369,16 @@
       "title": "Software Engineer Intern - IT Apps",
       "url": "https://www.tesla.com/careers/search/job/282774"
     },
+    "simplify:tesla::simplify-50aa2666-a2a3-4da7-8099-d77ee703ebd6": {
+      "company": "Tesla",
+      "first_seen": "2026-09-18T06:35:19+00:00",
+      "last_seen": "2026-09-18T06:35:19+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1789711916",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/283950"
+    },
     "simplify:tesla::simplify-52919742-2339-4055-82e8-694863cdb915": {
       "company": "Tesla",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -35374,6 +35406,16 @@
       "posted_at": "1781302043",
       "title": "Software Engineer Intern - Residential Energy Device Software Engineer - Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/273810"
+    },
+    "simplify:tesla::simplify-5eeb71a2-4362-490d-91b2-80bec3bb466d": {
+      "company": "Tesla",
+      "first_seen": "2026-09-18T06:35:19+00:00",
+      "last_seen": "2026-09-18T06:35:19+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1789711766",
+      "source": "simplify",
+      "title": "Internship - Software Engineering - People Products - Summer 2027",
+      "url": "https://www.tesla.com/careers/search/job/284004"
     },
     "simplify:tesla::simplify-6148bc47-e98c-4c1a-9255-16279e18a578": {
       "company": "Tesla",
@@ -35520,6 +35562,16 @@
       "posted_at": "1780812693",
       "title": "Embedded Software Engineering Intern - Embedded Software Engineer - High Voltage Systems",
       "url": "https://www.tesla.com/careers/search/job/270354"
+    },
+    "simplify:tesla::simplify-93ef662e-5551-44f1-b92f-7803ee8a3ea1": {
+      "company": "Tesla",
+      "first_seen": "2026-09-18T06:35:19+00:00",
+      "last_seen": "2026-09-18T06:35:19+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1789711767",
+      "source": "simplify",
+      "title": "Internship - Software Engineering - People Products - Winter/Spring 2027",
+      "url": "https://www.tesla.com/careers/search/job/284003"
     },
     "simplify:tesla::simplify-9782344e-0072-4996-ae4d-b36ef27d13db": {
       "company": "Tesla",
@@ -45420,5 +45472,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-18T05:53:18+00:00"
+  "updated_at": "2026-09-18T06:38:20+00:00"
 }
