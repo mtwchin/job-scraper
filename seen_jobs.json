@@ -12263,8 +12263,8 @@
     },
     "simplify:dayton freight lines::simplify-5db86393-0062-4115-9a67-61cd752ef337": {
       "company": "Dayton Freight Lines",
-      "first_seen": "2026-09-18T21:04:46+00:00",
-      "last_seen": "2026-09-18T21:04:46+00:00",
+      "first_seen": "2026-09-18T22:19:43+00:00",
+      "last_seen": "2026-09-18T22:19:43+00:00",
       "location": "Dayton, OH",
       "posted_at": "1789740994",
       "source": "simplify",
@@ -15320,8 +15320,8 @@
     },
     "simplify:freedom technology solutions group::simplify-1137567c-261b-4ccb-8a65-00a55a4d57b5": {
       "company": "Freedom Technology Solutions Group",
-      "first_seen": "2026-09-18T21:04:46+00:00",
-      "last_seen": "2026-09-18T21:04:46+00:00",
+      "first_seen": "2026-09-18T22:19:43+00:00",
+      "last_seen": "2026-09-18T22:19:43+00:00",
       "location": "Annapolis Junction, MD",
       "posted_at": "1785449999",
       "source": "simplify",
@@ -15899,7 +15899,7 @@
     "simplify:ge vernova::simplify-f34b1f76-8c04-44e3-af69-ab94a7694d4b": {
       "company": "GE Vernova",
       "first_seen": "2026-08-12T22:38:25+00:00",
-      "last_seen": "2026-09-18T21:04:45+00:00",
+      "last_seen": "2026-09-18T22:19:42+00:00",
       "posted_at": "1786492800",
       "title": "Engineering Intern",
       "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2"
@@ -34392,8 +34392,8 @@
     },
     "simplify:sun life::simplify-c1ff02ec-5b6a-4913-889d-999c070b5c39": {
       "company": "Sun Life",
-      "first_seen": "2026-09-18T21:04:46+00:00",
-      "last_seen": "2026-09-18T21:04:46+00:00",
+      "first_seen": "2026-09-18T22:19:43+00:00",
+      "last_seen": "2026-09-18T22:19:43+00:00",
       "location": "Toronto, ON, Canada, Waterford, Ireland",
       "posted_at": "1789689600",
       "source": "simplify",
@@ -38725,8 +38725,8 @@
     },
     "simplify:tyler technologies::simplify-170b4dbe-36bf-488f-8c87-9759f8f3fc2b": {
       "company": "Tyler Technologies",
-      "first_seen": "2026-09-18T21:04:46+00:00",
-      "last_seen": "2026-09-18T21:04:46+00:00",
+      "first_seen": "2026-09-18T22:19:43+00:00",
+      "last_seen": "2026-09-18T22:19:43+00:00",
       "location": "Lawrenceville, GA",
       "posted_at": "1789741364",
       "source": "simplify",
@@ -45601,8 +45601,8 @@
     },
     "waymo::8214519": {
       "company": "Waymo",
-      "first_seen": "2026-09-18T22:14:39+00:00",
-      "last_seen": "2026-09-18T22:14:39+00:00",
+      "first_seen": "2026-09-18T22:19:42+00:00",
+      "last_seen": "2026-09-18T22:19:42+00:00",
       "location": "Mountain View, California, USA",
       "posted_at": "2026-09-18T18:09:27-04:00",
       "source": "",
@@ -45624,5 +45624,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-18T22:18:59+00:00"
+  "updated_at": "2026-09-18T22:24:17+00:00"
 }
