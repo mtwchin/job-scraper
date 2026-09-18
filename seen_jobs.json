@@ -1,5 +1,5 @@
 {
-  "count": 5855,
+  "count": 5856,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -729,6 +729,16 @@
       "posted_at": "2026-06-10T17:28:10-04:00",
       "title": "Software Engineering Intern (Fall 2026)",
       "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125"
+    },
+    "gemini::8214272": {
+      "company": "Gemini",
+      "first_seen": "2026-09-18T20:09:44+00:00",
+      "last_seen": "2026-09-18T20:09:44+00:00",
+      "location": "New York, New York",
+      "posted_at": "2026-09-18T15:48:52-04:00",
+      "source": "",
+      "title": "Software Engineering Intern (Winter 2027)",
+      "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272"
     },
     "google::100648618540573382": {
       "company": "Google",
@@ -45532,5 +45542,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-18T16:53:54+00:00"
+  "updated_at": "2026-09-18T20:13:57+00:00"
 }
