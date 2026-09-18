@@ -5309,8 +5309,8 @@
     },
     "simplify:arcfield::simplify-99a096e7-a5be-4022-8904-7687e11a9efa": {
       "company": "Arcfield",
-      "first_seen": "2026-09-18T10:35:45+00:00",
-      "last_seen": "2026-09-18T10:35:45+00:00",
+      "first_seen": "2026-09-18T11:18:55+00:00",
+      "last_seen": "2026-09-18T11:18:55+00:00",
       "location": "Middletown, RI",
       "posted_at": "1789509977",
       "source": "simplify",
@@ -7746,8 +7746,8 @@
     },
     "simplify:brady martz::simplify-ebda590f-cbe9-4e03-b0eb-6de1c724a228": {
       "company": "Brady Martz",
-      "first_seen": "2026-09-18T06:33:41+00:00",
-      "last_seen": "2026-09-18T06:33:41+00:00",
+      "first_seen": "2026-09-18T11:18:55+00:00",
+      "last_seen": "2026-09-18T11:18:55+00:00",
       "location": "Remote in USA, St. Louis, MO",
       "posted_at": "1789712148",
       "source": "simplify",
@@ -23791,8 +23791,8 @@
     },
     "simplify:microsoft::simplify-f17e1a25-2872-42d0-90f6-3e3dbb14c8fa": {
       "company": "Microsoft",
-      "first_seen": "2026-09-18T06:35:19+00:00",
-      "last_seen": "2026-09-18T06:35:19+00:00",
+      "first_seen": "2026-09-18T11:18:54+00:00",
+      "last_seen": "2026-09-18T11:18:54+00:00",
       "location": "Redmond, WA, Santa Clara, CA",
       "posted_at": "1789711596",
       "source": "simplify",
@@ -24597,7 +24597,7 @@
     "simplify:netsmart::simplify-86e907c2-6aef-4071-ae6c-20a9c6b7306c": {
       "company": "Netsmart",
       "first_seen": "2026-08-04T00:17:51+00:00",
-      "last_seen": "2026-09-18T06:35:18+00:00",
+      "last_seen": "2026-09-18T11:18:54+00:00",
       "posted_at": "1785715200",
       "title": "Software Engineer Intern",
       "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667"
@@ -24605,7 +24605,7 @@
     "simplify:netsmart::simplify-db9c57de-0338-484f-acbc-6ea1db0e12ed": {
       "company": "Netsmart",
       "first_seen": "2026-08-04T00:17:51+00:00",
-      "last_seen": "2026-09-18T06:33:40+00:00",
+      "last_seen": "2026-09-18T11:18:54+00:00",
       "posted_at": "1785715200",
       "title": "Software Engineer",
       "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer----Dec26-May-27-Grads-_R015658"
@@ -28872,8 +28872,8 @@
     },
     "simplify:qualcomm::simplify-0323e548-0c85-4a82-8973-ae8faa214117": {
       "company": "Qualcomm",
-      "first_seen": "2026-09-18T08:35:46+00:00",
-      "last_seen": "2026-09-18T08:35:46+00:00",
+      "first_seen": "2026-09-18T11:18:54+00:00",
+      "last_seen": "2026-09-18T11:18:54+00:00",
       "location": "Austin, TX, Raleigh, NC, NYC, San Diego, CA",
       "posted_at": "1785910569",
       "source": "simplify",
@@ -35391,8 +35391,8 @@
     },
     "simplify:tesla::simplify-50aa2666-a2a3-4da7-8099-d77ee703ebd6": {
       "company": "Tesla",
-      "first_seen": "2026-09-18T06:35:19+00:00",
-      "last_seen": "2026-09-18T06:35:19+00:00",
+      "first_seen": "2026-09-18T11:18:54+00:00",
+      "last_seen": "2026-09-18T11:18:54+00:00",
       "location": "Palo Alto, CA",
       "posted_at": "1789711916",
       "source": "simplify",
@@ -35429,8 +35429,8 @@
     },
     "simplify:tesla::simplify-5eeb71a2-4362-490d-91b2-80bec3bb466d": {
       "company": "Tesla",
-      "first_seen": "2026-09-18T06:35:19+00:00",
-      "last_seen": "2026-09-18T06:35:19+00:00",
+      "first_seen": "2026-09-18T11:18:54+00:00",
+      "last_seen": "2026-09-18T11:18:54+00:00",
       "location": "Palo Alto, CA",
       "posted_at": "1789711766",
       "source": "simplify",
@@ -35585,8 +35585,8 @@
     },
     "simplify:tesla::simplify-93ef662e-5551-44f1-b92f-7803ee8a3ea1": {
       "company": "Tesla",
-      "first_seen": "2026-09-18T06:35:19+00:00",
-      "last_seen": "2026-09-18T06:35:19+00:00",
+      "first_seen": "2026-09-18T11:18:54+00:00",
+      "last_seen": "2026-09-18T11:18:54+00:00",
       "location": "Palo Alto, CA",
       "posted_at": "1789711767",
       "source": "simplify",
@@ -45492,5 +45492,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-18T10:38:24+00:00"
+  "updated_at": "2026-09-18T11:23:34+00:00"
 }
