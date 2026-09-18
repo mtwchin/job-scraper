@@ -1,5 +1,5 @@
 {
-  "count": 5856,
+  "count": 5858,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -40297,6 +40297,16 @@
       "title": "Associate Software Engineer",
       "url": "https://careers.vtgdefense.com/jobs/9316?icims=1"
     },
+    "simplify:w.r. berkley::simplify-5977e7de-a399-4664-b4d6-04740ed3f711": {
+      "company": "W.R. Berkley",
+      "first_seen": "2026-09-18T20:36:16+00:00",
+      "last_seen": "2026-09-18T20:36:16+00:00",
+      "location": "Urbandale, IA",
+      "posted_at": "1789740393",
+      "source": "simplify",
+      "title": "Software Developer Intern - .NET",
+      "url": "https://careers-berkley.icims.com/jobs/14444/job?mobile=true&needsRedirect=false"
+    },
     "simplify:w.r. berkley::simplify-bf48dd2b-e7b1-4338-a911-cb29771f7cce": {
       "company": "W.R. Berkley",
       "first_seen": "2026-09-17T23:03:17+00:00",
@@ -41625,6 +41635,7 @@
     "simplify:zurich insurance::simplify-ac56ab22-4e58-404f-bd27-334854dd766c": {
       "company": "Zurich Insurance",
       "first_seen": "2026-07-23T16:42:59+00:00",
+      "last_seen": "2026-09-18T20:36:16+00:00",
       "posted_at": "1784815795",
       "title": "Software Engineer Associate",
       "url": "https://www.careers.zurich.com/job/Bath-Associate-Software-Engineer-GB-E/1367510657/?ats=successfactors"
@@ -43860,6 +43871,16 @@
       "title": "Associate Software Engineer, UX Engineering",
       "url": "https://www.pega.com/about/careers/21949/associate-software-engineer-ux-engineering"
     },
+    "vanshb03:peraton::vanshb03-3ba072d2-b1ea-44e6-9761-57214ac33e65": {
+      "company": "Peraton",
+      "first_seen": "2026-09-18T20:36:16+00:00",
+      "last_seen": "2026-09-18T20:36:16+00:00",
+      "location": "Herndon, VA",
+      "posted_at": "1755113970",
+      "source": "vanshb03",
+      "title": "Software Engineering, Associate",
+      "url": "https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job"
+    },
     "vanshb03:peraton::vanshb03-fab300f9-0870-4674-98e2-bbfb2fc9307f": {
       "company": "Peraton",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -45542,5 +45563,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-18T20:13:57+00:00"
+  "updated_at": "2026-09-18T20:38:59+00:00"
 }
