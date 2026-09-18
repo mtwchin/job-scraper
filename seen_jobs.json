@@ -1,5 +1,5 @@
 {
-  "count": 5849,
+  "count": 5850,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -28860,6 +28860,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/quadrillion-labs/601e105d-2f0f-4482-9bae-3a825a1b97fd/application?embed=true"
     },
+    "simplify:qualcomm::simplify-0323e548-0c85-4a82-8973-ae8faa214117": {
+      "company": "Qualcomm",
+      "first_seen": "2026-09-18T08:35:46+00:00",
+      "last_seen": "2026-09-18T08:35:46+00:00",
+      "location": "Austin, TX, Raleigh, NC, NYC, San Diego, CA",
+      "posted_at": "1785910569",
+      "source": "simplify",
+      "title": "Machine Learning Compiler Engineer - Machine Learning Engineering",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446717346550"
+    },
     "simplify:qualcomm::simplify-0d26968d-9eb7-4cd0-bb5d-cb6ee2933e60": {
       "company": "Qualcomm",
       "first_seen": "2026-08-05T06:47:04+00:00",
@@ -45472,5 +45482,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-18T06:38:20+00:00"
+  "updated_at": "2026-09-18T08:38:22+00:00"
 }
