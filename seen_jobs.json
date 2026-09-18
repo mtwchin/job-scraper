@@ -1,5 +1,5 @@
 {
-  "count": 5858,
+  "count": 5859,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2266,6 +2266,16 @@
       "posted_at": "2026-06-11T16:23:10-04:00",
       "title": "Software Engineer - New Grad",
       "url": "https://seatgeek.com/jobs/7858968?gh_jid=7858968"
+    },
+    "shield ai::633a3038-574c-45ff-babb-7e1b8b7c6196": {
+      "company": "Shield AI",
+      "first_seen": "2026-09-18T20:49:48+00:00",
+      "last_seen": "2026-09-18T20:49:48+00:00",
+      "location": "Seattle, Washington",
+      "posted_at": "1789688164711",
+      "source": "",
+      "title": "Software Engineer I (R6052)",
+      "url": "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196"
     },
     "shield ai::8c850c75-081d-4d09-bebf-096379a93010": {
       "company": "Shield AI",
@@ -45563,5 +45573,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-18T20:38:59+00:00"
+  "updated_at": "2026-09-18T20:54:01+00:00"
 }
