@@ -1,5 +1,5 @@
 {
-  "count": 5906,
+  "count": 5907,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -28274,6 +28274,16 @@
       "title": "Member of Technical Staff - AI Policy and Strategic Initiatives",
       "url": "https://jobs.ashbyhq.com/Perplexity/91b941ae-0bd0-4322-8c0e-491abacdc33a/application"
     },
+    "simplify:perseus group::simplify-0bef063c-0252-40bc-a594-e3c26379865e": {
+      "company": "Perseus Group",
+      "first_seen": "2026-09-19T14:35:50+00:00",
+      "last_seen": "2026-09-19T14:35:50+00:00",
+      "location": "Sharon, PA, Jacksonville, FL",
+      "posted_at": "1789776000",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Sharon-Pennsylvania---USA/Software-Engineer-I_R54341"
+    },
     "simplify:persona ai::simplify-12c71417-7d4c-4820-a1dc-e69c433eb686": {
       "company": "Persona AI",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -46045,5 +46055,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-19T13:40:31+00:00"
+  "updated_at": "2026-09-19T14:40:33+00:00"
 }
