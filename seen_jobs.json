@@ -1,5 +1,5 @@
 {
-  "count": 5903,
+  "count": 5905,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -5312,6 +5312,16 @@
       "posted_at": "1788884164",
       "title": "Associate Product Engineer",
       "url": "https://careers.aptean.com/jobs/7054?icims=1"
+    },
+    "simplify:aptiv::simplify-05386b2e-54b8-402a-bbf8-5741d516ed30": {
+      "company": "Aptiv",
+      "first_seen": "2026-09-19T03:37:04+00:00",
+      "last_seen": "2026-09-19T03:37:04+00:00",
+      "location": "Kanata, Ottawa, ON, Canada",
+      "posted_at": "1789689600",
+      "source": "simplify",
+      "title": "Associate Cloud Engineer",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Cloud-Engineer_J000703943"
     },
     "simplify:aptiv::simplify-225e2ae1-b489-4254-a690-889ce1a7578b": {
       "company": "Aptiv",
@@ -17228,7 +17238,7 @@
     "simplify:goldman sachs::simplify-43a5374e-0e70-4dc9-82b0-687b54e8c5da": {
       "company": "Goldman Sachs",
       "first_seen": "2026-08-15T04:58:35+00:00",
-      "last_seen": "2026-09-18T00:18:24+00:00",
+      "last_seen": "2026-09-19T03:37:03+00:00",
       "posted_at": "1786767954",
       "title": "Engineering New Analyst - Engineering",
       "url": "https://higher.gs.com/roles/171570?type=students"
@@ -34650,6 +34660,16 @@
       "title": "Software Engineer 1 - Core Compute Platform",
       "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4921819101"
     },
+    "simplify:study.com::simplify-11510869-ac93-4ce2-85d4-2787fe2b2cb2": {
+      "company": "Study.com",
+      "first_seen": "2026-09-19T03:37:04+00:00",
+      "last_seen": "2026-09-19T03:37:04+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1789782035",
+      "source": "simplify",
+      "title": "Software Engineer New Grad - AI-Native",
+      "url": "https://study.com/pages/jobApplication.html/?gh_jid=5429313008"
+    },
     "simplify:studycast::simplify-9f5d48f6-bd0d-4055-94d9-a60792839957": {
       "company": "Studycast",
       "first_seen": "2026-07-24T12:43:35+00:00",
@@ -46015,5 +46035,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-19T03:34:28+00:00"
+  "updated_at": "2026-09-19T03:39:30+00:00"
 }
