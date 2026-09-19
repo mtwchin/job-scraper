@@ -6416,8 +6416,8 @@
     },
     "simplify:axiom space::simplify-a2aece51-4842-47ed-ae57-24e53d89a054": {
       "company": "Axiom Space",
-      "first_seen": "2026-09-19T13:36:29+00:00",
-      "last_seen": "2026-09-19T13:36:29+00:00",
+      "first_seen": "2026-09-19T14:51:41+00:00",
+      "last_seen": "2026-09-19T14:51:41+00:00",
       "location": "Houston, TX",
       "posted_at": "1789603200",
       "source": "simplify",
@@ -28276,8 +28276,8 @@
     },
     "simplify:perseus group::simplify-0bef063c-0252-40bc-a594-e3c26379865e": {
       "company": "Perseus Group",
-      "first_seen": "2026-09-19T14:35:50+00:00",
-      "last_seen": "2026-09-19T14:35:50+00:00",
+      "first_seen": "2026-09-19T14:51:41+00:00",
+      "last_seen": "2026-09-19T14:51:41+00:00",
       "location": "Sharon, PA, Jacksonville, FL",
       "posted_at": "1789776000",
       "source": "simplify",
@@ -46055,5 +46055,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-19T14:40:33+00:00"
+  "updated_at": "2026-09-19T14:56:20+00:00"
 }
