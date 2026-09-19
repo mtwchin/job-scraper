@@ -1,5 +1,5 @@
 {
-  "count": 5900,
+  "count": 5903,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2760,6 +2760,16 @@
       "posted_at": "1789164260",
       "title": "Associate AI Solutions Engineer",
       "url": "https://jobs.smartrecruiters.com/Achieve1/3743990015218506"
+    },
+    "simplify:achievers::simplify-0852a12d-b8e1-4765-bdb1-fe6f25d996b0": {
+      "company": "Achievers",
+      "first_seen": "2026-09-19T03:33:05+00:00",
+      "last_seen": "2026-09-19T03:33:05+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1789780379",
+      "source": "simplify",
+      "title": "Software Engineer Co-op - Winter 2027",
+      "url": "https://jobs.lever.co/achievers/e0700fce-b33b-435a-ab90-84bbd677e181/apply"
     },
     "simplify:aci worldwide ::simplify-8e2715af-7e3d-4e10-abed-1b78f92ee685": {
       "company": "ACI Worldwide ",
@@ -7825,6 +7835,16 @@
       "title": "Software Engineer - Simulation Systems",
       "url": "https://job-boards.greenhouse.io/botauto/jobs/5363495008"
     },
+    "simplify:bot auto::simplify-231bce7f-9106-478b-baf4-5af5b77f9cd1": {
+      "company": "Bot Auto",
+      "first_seen": "2026-09-19T03:33:05+00:00",
+      "last_seen": "2026-09-19T03:33:05+00:00",
+      "location": "Houston, TX",
+      "posted_at": "1789781233",
+      "source": "simplify",
+      "title": "Software Engineer Intern - AI Agents",
+      "url": "https://job-boards.greenhouse.io/botauto/jobs/5429357008"
+    },
     "simplify:bot auto::simplify-8c23452c-c16b-4b78-b154-65fac1cb24cd": {
       "company": "Bot Auto",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10061,6 +10081,7 @@
     "simplify:charles schwab::simplify-09239b96-d26a-4691-b9ab-9b8b442caa9f": {
       "company": "Charles Schwab",
       "first_seen": "2026-08-29T02:50:35+00:00",
+      "last_seen": "2026-09-19T03:33:03+00:00",
       "posted_at": "1787963196",
       "title": "Software Engineering Intern - Technology",
       "url": "https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false"
@@ -17192,7 +17213,7 @@
     "simplify:goldman sachs::simplify-1949c912-65b2-42ac-9836-c110baed0ef6": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-18T05:48:38+00:00",
+      "last_seen": "2026-09-19T03:33:03+00:00",
       "posted_at": "1786767938",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/177808?type=students"
@@ -17215,7 +17236,7 @@
     "simplify:goldman sachs::simplify-5a49d74c-fa9f-4dd4-a66b-24fc3d9c1def": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-18T05:48:38+00:00",
+      "last_seen": "2026-09-19T03:33:03+00:00",
       "posted_at": "1786767952",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171564?type=students"
@@ -17223,7 +17244,7 @@
     "simplify:goldman sachs::simplify-5bdec003-2a02-42a4-a602-467541840552": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-18T05:48:38+00:00",
+      "last_seen": "2026-09-19T03:33:03+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171565?type=students"
@@ -17239,7 +17260,7 @@
     "simplify:goldman sachs::simplify-8f346a45-4490-4243-933e-264e3916e701": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-18T05:48:38+00:00",
+      "last_seen": "2026-09-19T03:33:03+00:00",
       "posted_at": "1786767952",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171567?type=students"
@@ -17261,7 +17282,7 @@
     "simplify:goldman sachs::simplify-b2b3a7df-bea1-4290-b988-4c3e567814b8": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-18T05:48:38+00:00",
+      "last_seen": "2026-09-19T03:33:03+00:00",
       "posted_at": "1786767944",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/170637?type=students"
@@ -31773,6 +31794,16 @@
       "title": "Systems Engineer 1 - Tactical Missile System Simulation - Unreal Engine",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-I---Tactical-Missile-System-Simulation--Unreal-Engine-_01862202"
     },
+    "simplify:rtx::simplify-b50df64e-0d8e-4631-a2c7-2da5eb33aaa2": {
+      "company": "RTX",
+      "first_seen": "2026-09-19T03:33:05+00:00",
+      "last_seen": "2026-09-19T03:33:05+00:00",
+      "location": "Sterling, VA",
+      "posted_at": "1789689600",
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01875780"
+    },
     "simplify:rtx::simplify-b6296fe8-f9f1-44dd-94f1-590c275ba224": {
       "company": "RTX",
       "first_seen": "2026-09-01T05:01:14+00:00",
@@ -45984,5 +46015,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-19T01:09:25+00:00"
+  "updated_at": "2026-09-19T03:34:28+00:00"
 }
