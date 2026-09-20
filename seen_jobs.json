@@ -1,5 +1,5 @@
 {
-  "count": 5911,
+  "count": 5912,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1256,6 +1256,16 @@
       "source": "",
       "title": "Silicon Software Engineer - System and AI (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538"
+    },
+    "nvidia::Software-Engineering-Intern--DLFW-Comms---2027_JR2025701": {
+      "company": "Nvidia",
+      "first_seen": "2026-09-20T14:52:37+00:00",
+      "last_seen": "2026-09-20T14:52:37+00:00",
+      "location": "3 Locations",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Software Engineering Intern, DLFW Comms - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--DLFW-Comms---2027_JR2025701"
     },
     "nvidia::Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295": {
       "company": "Nvidia",
@@ -46096,5 +46106,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-20T13:07:19+00:00"
+  "updated_at": "2026-09-20T14:57:21+00:00"
 }
