@@ -1,5 +1,5 @@
 {
-  "count": 5909,
+  "count": 5911,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -4815,6 +4815,16 @@
       "source": "simplify",
       "title": "Software Engineer Co-op",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007"
+    },
+    "simplify:anglian water::simplify-92e9de56-6381-4b20-90ea-41ec1103cf1d": {
+      "company": "Anglian Water",
+      "first_seen": "2026-09-20T09:04:04+00:00",
+      "last_seen": "2026-09-20T09:04:04+00:00",
+      "location": "Peterborough, UK, Huntingdon, UK",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Digital Data and Technology Graduate",
+      "url": "https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Huntingdon/Digital-Data-and-Technology-Graduate_R39598"
     },
     "simplify:anheuser-busch::simplify-d01ac00f-25b3-4da7-8e07-a66bfcc42e85": {
       "company": "Anheuser-Busch",
@@ -17935,6 +17945,16 @@
       "posted_at": "1784764800",
       "title": "Software Development Intern",
       "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Montreal-Quebec/Stagiaire-en-dveloppement-de-logiciels---Software-Development-Intern_R0044820-1"
+    },
+    "simplify:harris computer::simplify-5bc6041b-141f-4df8-ba11-388fc1eae726": {
+      "company": "Harris Computer",
+      "first_seen": "2026-09-20T09:04:04+00:00",
+      "last_seen": "2026-09-20T09:04:04+00:00",
+      "location": "Texas, Florida, Colorado, Fort Collins, CO, North Carolina, Ohio",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Software Developer",
+      "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Texas/Software-Developer_R0046516-4"
     },
     "simplify:harris computer::simplify-eb5df7f1-c18d-497e-8a13-2febadd687e1": {
       "company": "Harris Computer",
@@ -46075,5 +46095,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-20T02:01:46+00:00"
+  "updated_at": "2026-09-20T09:07:02+00:00"
 }
