@@ -1,5 +1,5 @@
 {
-  "count": 5934,
+  "count": 5935,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -7,6 +7,16 @@
       "posted_at": "2026-07-29T01:16:04-04:00",
       "title": "Software Engineer I, Data Platform",
       "url": "https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003"
+    },
+    "abnormal security::8000334003": {
+      "company": "Abnormal Security",
+      "first_seen": "2026-09-21T17:25:11+00:00",
+      "last_seen": "2026-09-21T17:25:11+00:00",
+      "location": "Remote - USA",
+      "posted_at": "2026-09-21T13:20:16-04:00",
+      "source": "",
+      "title": "Software Engineer I - Data Platforms",
+      "url": "https://abnormal.ai/careers/jobs/8000334003?gh_jid=8000334003"
     },
     "adobe::XMLNAME-2027-Intern---Software-Engineer_R171666": {
       "company": "Adobe",
@@ -46331,5 +46341,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-21T16:33:54+00:00"
+  "updated_at": "2026-09-21T17:28:55+00:00"
 }
