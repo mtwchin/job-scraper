@@ -1,5 +1,5 @@
 {
-  "count": 5914,
+  "count": 5915,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -5307,6 +5307,16 @@
       "posted_at": "1786665600",
       "title": "Software Engineer 2",
       "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II_R2619362"
+    },
+    "simplify:applied materials::simplify-fe444a2e-411b-4a40-b6f4-9098bbd980bb": {
+      "company": "Applied Materials",
+      "first_seen": "2026-09-21T02:35:33+00:00",
+      "last_seen": "2026-09-21T02:35:33+00:00",
+      "location": "Gloucester, MA",
+      "posted_at": "1789862400",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914"
     },
     "simplify:applied materials::simplify-fef6766c-bb0d-443d-a167-9d1ebfd1a98f": {
       "company": "Applied Materials",
@@ -17288,7 +17298,7 @@
     "simplify:goldman sachs::simplify-43a5374e-0e70-4dc9-82b0-687b54e8c5da": {
       "company": "Goldman Sachs",
       "first_seen": "2026-08-15T04:58:35+00:00",
-      "last_seen": "2026-09-20T00:01:56+00:00",
+      "last_seen": "2026-09-21T02:35:33+00:00",
       "posted_at": "1786767954",
       "title": "Engineering New Analyst - Engineering",
       "url": "https://higher.gs.com/roles/171570?type=students"
@@ -28325,7 +28335,7 @@
     "simplify:perpay::simplify-87535675-cdd3-44ea-b36f-622b1a2be47b": {
       "company": "Perpay",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-09-20T00:01:56+00:00",
+      "last_seen": "2026-09-21T02:35:33+00:00",
       "posted_at": "1769210828",
       "title": "Software Engineer \u2013 New Grad",
       "url": "https://job-boards.greenhouse.io/perpay/jobs/4034578007"
@@ -46127,5 +46137,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-21T01:37:56+00:00"
+  "updated_at": "2026-09-21T02:37:58+00:00"
 }
