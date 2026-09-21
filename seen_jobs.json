@@ -1097,8 +1097,8 @@
     },
     "mercury::6199367004": {
       "company": "Mercury",
-      "first_seen": "2026-09-21T07:03:25+00:00",
-      "last_seen": "2026-09-21T07:03:25+00:00",
+      "first_seen": "2026-09-21T10:53:46+00:00",
+      "last_seen": "2026-09-21T10:53:46+00:00",
       "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
       "posted_at": "2026-09-21T03:00:00-04:00",
       "source": "",
@@ -6333,8 +6333,8 @@
     },
     "simplify:autozone::simplify-7d5c4b26-9d58-4de0-b0fe-0ee845b9d45e": {
       "company": "AutoZone",
-      "first_seen": "2026-09-21T06:37:06+00:00",
-      "last_seen": "2026-09-21T06:37:06+00:00",
+      "first_seen": "2026-09-21T10:53:47+00:00",
+      "last_seen": "2026-09-21T10:53:47+00:00",
       "location": "Memphis, TN",
       "posted_at": "1789971421",
       "source": "simplify",
@@ -18819,7 +18819,7 @@
     "simplify:icf international::simplify-75efacf7-58e1-468e-9621-e23a1444acdf": {
       "company": "ICF International",
       "first_seen": "2026-09-07T12:23:58+00:00",
-      "last_seen": "2026-09-21T06:37:05+00:00",
+      "last_seen": "2026-09-21T10:53:46+00:00",
       "posted_at": "1788739200",
       "title": "Software Developer Intern",
       "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002"
@@ -19597,8 +19597,8 @@
     },
     "simplify:interstates::simplify-0a703703-0be7-4f89-89c2-56b288638eef": {
       "company": "Interstates",
-      "first_seen": "2026-09-21T06:37:06+00:00",
-      "last_seen": "2026-09-21T06:37:06+00:00",
+      "first_seen": "2026-09-21T10:53:47+00:00",
+      "last_seen": "2026-09-21T10:53:47+00:00",
       "location": "Sioux Center, IA, Sioux Falls, SD",
       "posted_at": "1789970964",
       "source": "simplify",
@@ -20691,7 +20691,7 @@
     "simplify:jp morgan chase::simplify-97344c37-7a6a-4252-b0e7-522f9b541585": {
       "company": "JP Morgan Chase",
       "first_seen": "2026-07-28T23:15:13+00:00",
-      "last_seen": "2026-09-21T10:07:05+00:00",
+      "last_seen": "2026-09-21T10:53:46+00:00",
       "posted_at": "1785276603",
       "title": "Applied AI ML Associate - Agentic AI and Python",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773873"
@@ -23183,7 +23183,7 @@
     "simplify:mastercard::simplify-78c03ab4-f50a-445d-9802-fb785330b50f": {
       "company": "Mastercard",
       "first_seen": "2026-08-24T15:05:46+00:00",
-      "last_seen": "2026-09-21T06:37:05+00:00",
+      "last_seen": "2026-09-21T10:53:46+00:00",
       "posted_at": "1787529600",
       "title": "Software Engineer Intern",
       "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1"
@@ -23191,7 +23191,7 @@
     "simplify:mastercard::simplify-b948ef8c-99af-4850-940a-ca3b8506efb3": {
       "company": "Mastercard",
       "first_seen": "2026-08-24T15:05:46+00:00",
-      "last_seen": "2026-09-21T06:37:05+00:00",
+      "last_seen": "2026-09-21T10:53:46+00:00",
       "posted_at": "1787529600",
       "title": "Software Engineer - Launch Program",
       "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1"
@@ -33599,8 +33599,8 @@
     },
     "simplify:sirona medical::simplify-373a9878-b32b-4c85-8ce6-20b6df03c8b3": {
       "company": "Sirona Medical",
-      "first_seen": "2026-09-21T07:35:32+00:00",
-      "last_seen": "2026-09-21T07:35:32+00:00",
+      "first_seen": "2026-09-21T10:53:47+00:00",
+      "last_seen": "2026-09-21T10:53:47+00:00",
       "location": "Remote in USA",
       "posted_at": "1789972580",
       "source": "simplify",
@@ -36903,7 +36903,7 @@
     "simplify:the boeing company::simplify-ed847441-9d11-4dc7-aa8a-8a2e49fdbc90": {
       "company": "The Boeing Company",
       "first_seen": "2026-07-29T23:12:09+00:00",
-      "last_seen": "2026-09-21T08:06:05+00:00",
+      "last_seen": "2026-09-21T10:53:46+00:00",
       "posted_at": "1785283200",
       "title": "Software Systems Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Colorado-Springs-CO/Software-Systems-Engineer--Associate-or-Experienced-_JR2026520215"
@@ -46179,5 +46179,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-21T10:08:14+00:00"
+  "updated_at": "2026-09-21T10:58:22+00:00"
 }
