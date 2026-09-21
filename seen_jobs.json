@@ -1,5 +1,5 @@
 {
-  "count": 5930,
+  "count": 5931,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -35790,6 +35790,16 @@
       "title": "Software Engineer Intern - NHRC",
       "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193"
     },
+    "simplify:teletracking::simplify-9fb6b0de-372e-45a8-a4fe-f4d29ae406ea": {
+      "company": "TeleTracking",
+      "first_seen": "2026-09-21T15:36:41+00:00",
+      "last_seen": "2026-09-21T15:36:41+00:00",
+      "location": "Pittsburgh, PA",
+      "posted_at": "1790001531",
+      "source": "simplify",
+      "title": "Software Engineer 1 - Logistics Engineering",
+      "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5425154008"
+    },
     "simplify:teletracking::simplify-aa9c2e24-8baf-48cc-92ec-a9624e201b7e": {
       "company": "TeleTracking",
       "first_seen": "2026-08-26T22:44:32+00:00",
@@ -46291,5 +46301,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-21T14:38:31+00:00"
+  "updated_at": "2026-09-21T15:38:33+00:00"
 }
