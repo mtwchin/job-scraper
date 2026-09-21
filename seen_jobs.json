@@ -1,5 +1,5 @@
 {
-  "count": 5946,
+  "count": 5947,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -46427,6 +46427,16 @@
       "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8214519"
     },
+    "waymo::8221198": {
+      "company": "Waymo",
+      "first_seen": "2026-09-21T22:54:43+00:00",
+      "last_seen": "2026-09-21T22:54:43+00:00",
+      "location": "Mountain View, CA, USA",
+      "posted_at": "2026-09-21T18:47:14-04:00",
+      "source": "",
+      "title": "2027 Summer Intern, BS/MS, Embedded, Software Engineer",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221198"
+    },
     "waymo::8221795": {
       "company": "Waymo",
       "first_seen": "2026-09-21T22:34:45+00:00",
@@ -46452,5 +46462,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-21T22:39:18+00:00"
+  "updated_at": "2026-09-21T22:59:20+00:00"
 }
