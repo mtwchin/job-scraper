@@ -1,5 +1,5 @@
 {
-  "count": 5918,
+  "count": 5919,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -33597,6 +33597,16 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399"
     },
+    "simplify:sirona medical::simplify-373a9878-b32b-4c85-8ce6-20b6df03c8b3": {
+      "company": "Sirona Medical",
+      "first_seen": "2026-09-21T07:35:32+00:00",
+      "last_seen": "2026-09-21T07:35:32+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1789972580",
+      "source": "simplify",
+      "title": "Go-To-Market Engineer",
+      "url": "https://job-boards.greenhouse.io/sironamedical/jobs/4736127005"
+    },
     "simplify:skillz::simplify-f6b5ff0d-148d-4780-a5c2-ce8d5f7bcec1": {
       "company": "skillz",
       "first_seen": "2026-09-04T05:57:42+00:00",
@@ -46168,5 +46178,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-21T07:08:09+00:00"
+  "updated_at": "2026-09-21T07:38:10+00:00"
 }
