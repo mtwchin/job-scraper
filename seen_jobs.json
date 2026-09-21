@@ -1,5 +1,5 @@
 {
-  "count": 5942,
+  "count": 5946,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -15359,6 +15359,16 @@
       "title": "Application Configuration Analyst - Work Management & GIS",
       "url": "https://fa-etjd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/FirstEnergyCareers/job/104807"
     },
+    "simplify:fiscalnote::simplify-e659b76b-dfdc-4b49-bcc0-27140e26325d": {
+      "company": "FiscalNote",
+      "first_seen": "2026-09-21T22:37:17+00:00",
+      "last_seen": "2026-09-21T22:37:17+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1790028732",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.lever.co/fiscalnote/c76e748f-6e25-42cf-bf26-ebae44280ffd/apply"
+    },
     "simplify:five rings capital::simplify-14baa8ae-f151-483f-b5e0-77ca5086d04e": {
       "company": "Five Rings Capital",
       "first_seen": "2026-07-15T00:13:06+00:00",
@@ -19888,6 +19898,16 @@
       "posted_at": "1785974400",
       "title": "Software Engineer - Web Application Team",
       "url": "https://intuitive.wd1.myworkdayjobs.com/irtc_careers/job/Huntsville-AL/Entry-Level-Software-Engineer_2627-054"
+    },
+    "simplify:intuitive surgical::simplify-14d68a82-73d3-450d-8f83-5e35e2c34cca": {
+      "company": "Intuitive Surgical",
+      "first_seen": "2026-09-21T22:37:17+00:00",
+      "last_seen": "2026-09-21T22:37:17+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1790028325",
+      "source": "simplify",
+      "title": "Software Engineer - RISE",
+      "url": "https://jobs.smartrecruiters.com/Intuitive/744000150746589"
     },
     "simplify:inversion space::simplify-98b8f971-621c-46bf-8915-22ec116e536a": {
       "company": "Inversion Space",
@@ -26946,6 +26966,7 @@
     "simplify:ohio state university::simplify-d2562450-53cf-4da3-bbfb-1951dd76f3d9": {
       "company": "Ohio State University",
       "first_seen": "2026-08-20T22:36:16+00:00",
+      "last_seen": "2026-09-21T22:37:16+00:00",
       "posted_at": "1787184000",
       "title": "Associate Applications Analyst",
       "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Associate-Applications-Analyst_R157300-1"
@@ -35118,6 +35139,16 @@
       "posted_at": "1782338879",
       "title": "Student Associate Front-End Developer",
       "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Sun-Life-Toronto-One-York/Student--Associate-Front-End-Developer--Fall-2026-_JR00125432"
+    },
+    "simplify:sun life::simplify-dcc7492f-ee43-47b0-9eb0-b6ff0530c7ae": {
+      "company": "Sun Life",
+      "first_seen": "2026-09-21T22:37:17+00:00",
+      "last_seen": "2026-09-21T22:37:17+00:00",
+      "location": "North York, ON, Canada, Waterloo, ON, Canada",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Junior Analytics and Automation Developer Student - Winter 2027",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/North-York-Ontario/Student--Jr-Analytics-and-Automation-Developer--Winter-2027-_JR00127514"
     },
     "simplify:sunbird software inc.::simplify-5ffc89cf-42df-49a7-bd5c-59a9a9d50f7c": {
       "company": "Sunbird Software Inc.",
@@ -46396,6 +46427,16 @@
       "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8214519"
     },
+    "waymo::8221795": {
+      "company": "Waymo",
+      "first_seen": "2026-09-21T22:34:45+00:00",
+      "last_seen": "2026-09-21T22:34:45+00:00",
+      "location": "Mountain View, California, USA",
+      "posted_at": "2026-09-21T17:51:45-04:00",
+      "source": "",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795"
+    },
     "webflow::8122601": {
       "company": "Webflow",
       "first_seen": "2026-08-12T20:19:37+00:00",
@@ -46411,5 +46452,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-21T22:34:16+00:00"
+  "updated_at": "2026-09-21T22:39:18+00:00"
 }
