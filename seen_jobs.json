@@ -1,5 +1,5 @@
 {
-  "count": 5947,
+  "count": 5977,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -4780,6 +4780,7 @@
     "simplify:anavation::simplify-bfd3e5c6-0630-477a-a77e-5849e825fd81": {
       "company": "AnaVation",
       "first_seen": "2026-09-08T23:04:44+00:00",
+      "last_seen": "2026-09-21T23:07:17+00:00",
       "posted_at": "1788906346",
       "title": "Computer Science Intern - Summer Program",
       "url": "https://jobs.lever.co/anavationllc/a5c70b6a-2d16-4774-9043-677456614b1b/apply"
@@ -5908,12 +5909,32 @@
       "title": "Full-Stack Developer Associate",
       "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/US-WI-Remote/Full-Stack-Developer-Associate_JR106237"
     },
+    "simplify:assured guaranty::simplify-125bd988-6772-4728-ae9c-d0c5bc2562d3": {
+      "company": "Assured Guaranty",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "NYC",
+      "posted_at": "1790030542",
+      "source": "simplify",
+      "title": "Product Software Developer - Back-End",
+      "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8827458002"
+    },
     "simplify:assured guaranty::simplify-26469c50-c009-48da-9415-b146a1d441df": {
       "company": "Assured Guaranty",
       "first_seen": "2026-08-12T21:07:36+00:00",
       "posted_at": "1786565794",
       "title": "Product Software Developer Intern",
       "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8700953002"
+    },
+    "simplify:assured guaranty::simplify-8f493b99-aa1d-4b44-8cc1-dc9fc9e2d5d9": {
+      "company": "Assured Guaranty",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "NYC",
+      "posted_at": "1790030541",
+      "source": "simplify",
+      "title": "Product Software Developer - Front-End",
+      "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8827460002"
     },
     "simplify:assyst::simplify-a8e9e244-d0b5-4ee1-a683-4b3d2d6ee8f6": {
       "company": "ASSYST",
@@ -7392,6 +7413,16 @@
       "title": "Rust Developer Intern",
       "url": "https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c/application"
     },
+    "simplify:blue cross and blue shield of kansas::simplify-1928f9d6-0a30-4adb-94a2-06207eed993a": {
+      "company": "Blue Cross and Blue Shield of Kansas",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Topeka, KS",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Application Developer Intern",
+      "url": "https://bcbsks.wd1.myworkdayjobs.com/External/job/Topeka/Application-Developer---Intern_R2026355"
+    },
     "simplify:blue cross and blue shield of kansas::simplify-7d128fa9-54e9-4ae4-b459-3c499f820d1a": {
       "company": "Blue Cross and Blue Shield of Kansas",
       "first_seen": "2026-09-17T23:03:17+00:00",
@@ -7939,6 +7970,16 @@
       "title": "Software Developer Intern - Summer Games",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141"
     },
+    "simplify:booz allen::simplify-c9a9c28d-b141-4dc7-879d-54c4beab26f2": {
+      "company": "Booz Allen",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "McLean, VA",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Software Developer Intern - Summer Games",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern---McLean--VA_R0249818"
+    },
     "simplify:booz allen::simplify-cbd02d2d-30f1-4f3f-9f68-eb6f0947c37f": {
       "company": "Booz Allen",
       "first_seen": "2026-09-08T23:04:44+00:00",
@@ -8023,6 +8064,16 @@
       "posted_at": "1787093934",
       "title": "Software Development Engineer 2 - Engineering",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813422191"
+    },
+    "simplify:boston scientific::simplify-740153d0-fd38-4fff-bc27-425b307d5c71": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Arden Hills, MN",
+      "posted_at": "1790029584",
+      "source": "simplify",
+      "title": "AI Software Development Intern",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813600585"
     },
     "simplify:boston scientific::simplify-dba1e111-7c03-486c-ac67-456bd8a9e0a0": {
       "company": "Boston Scientific",
@@ -9585,12 +9636,72 @@
       "title": "Software Engineer New Grad - Undergrads",
       "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894"
     },
+    "simplify:cae::simplify-05c29d98-1be6-40fd-a754-fa374b2a3774": {
+      "company": "CAE",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "C++ Backend Developer Intern - Image Generator",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-925---Dveloppeur-se--C-----Back-end--_123655"
+    },
+    "simplify:cae::simplify-1c4c6e2a-b8f1-414c-ba29-d58ee1ce7dbe": {
+      "company": "CAE",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Software Developer Intern - Content Creation Tools",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658"
+    },
+    "simplify:cae::simplify-35198eff-0919-482c-86ff-21b8e8d1cd07": {
+      "company": "CAE",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "C++ CGF Unreal Developer Intern",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-416---Stagiaire-dveloppeur-se--C---CGF-Unreal_123656"
+    },
+    "simplify:cae::simplify-5df90885-2894-464a-824b-03588fbc5d62": {
+      "company": "CAE",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Software Developer Intern - Software",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-950---Dveloppeur-se--logiciel_123688"
+    },
+    "simplify:cae::simplify-60dc162c-a256-4cc0-bc15-a69b8366e773": {
+      "company": "CAE",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Software Developer Intern - Immersive",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-112-Stagiaire-dveloppeur-se--logiciel---Environnement-immersif_123653-1"
+    },
     "simplify:cae::simplify-774b0fcc-b7d3-460c-a425-b2ee55fa0c0d": {
       "company": "CAE",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1781734171",
       "title": "Hiring Event",
       "url": "https://cae.wd3.myworkdayjobs.com/career/job/Binghamton-NY/CAE-USA-Hiring-Event---Binghamton--NY_122474"
+    },
+    "simplify:cae::simplify-9fa8f7b4-6cba-43a1-b610-c1a9bb1bd56c": {
+      "company": "CAE",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Integration Specialist Defense & Security Intern",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-470---Spcialiste-d-intgration-Dfense-et-scurit_120963"
     },
     "simplify:cae::simplify-c416ad28-d7e6-4fca-98ee-f4a2119e49e5": {
       "company": "CAE",
@@ -9607,6 +9718,16 @@
       "posted_at": "1778323094",
       "title": "Engineering Co-op",
       "url": "https://cae.wd3.myworkdayjobs.com/career/job/Tampa/University-of-Florida---Engineering-Co-op_118040"
+    },
+    "simplify:cae::simplify-f1a75938-3a7f-4507-b0b9-d2e5f9932f37": {
+      "company": "CAE",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Unreal Engine Developer Intern - Se - Engin Unreal",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-900---Dveloppeur-se--Engin-Unreal_123654"
     },
     "simplify:caesars entertainment::simplify-7f5bbf4d-2ebf-4b2a-b880-21a32411365a": {
       "company": "Caesars Entertainment",
@@ -13896,6 +14017,16 @@
       "title": "Software Developer - Software C++ - Research & Development Engineering",
       "url": "https://eaton.eightfold.ai/careers/job/687239106601"
     },
+    "simplify:eaton::simplify-d8b6057a-7ccf-4a36-99eb-7a208939a0a8": {
+      "company": "Eaton",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Franksville, Caledonia, WI",
+      "posted_at": "1790029437",
+      "source": "simplify",
+      "title": "Software Engineering Intern - Research & Development Engineering",
+      "url": "https://eaton.eightfold.ai/careers/job/687239256127"
+    },
     "simplify:eaton::simplify-faf1be1b-2e81-44f4-8523-a7ca9105f6f1": {
       "company": "Eaton",
       "first_seen": "2026-08-21T23:31:35+00:00",
@@ -16044,6 +16175,16 @@
       "title": "Engineering Development Program",
       "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program_R4043922-1"
     },
+    "simplify:ge healthcare::simplify-7d669b5f-60d8-41f2-8c63-353b9b7240a7": {
+      "company": "GE Healthcare",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Salt Lake City, UT",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Software-Engineering-Summer-Intern-2027_R4046481-1"
+    },
     "simplify:ge healthcare::simplify-a5871307-853e-486a-803c-bb9cb1f6ebd4": {
       "company": "GE Healthcare",
       "first_seen": "2026-07-17T00:58:34+00:00",
@@ -16913,6 +17054,16 @@
       "title": "Software Engineer \u2013 Early Career - Autonomous Vehicles Software Systems",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--Autonomous-Vehicles-Software-Systems---Early-Career_JR-202604759"
     },
+    "simplify:general motors::simplify-837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d": {
+      "company": "General Motors",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Austin, TX, Milford, MI, Mountain View, CA, Warren, MI",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Digital Product: Software Engineering",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546"
+    },
     "simplify:general motors::simplify-98692bc2-e4ee-44ca-8252-b744fef826af": {
       "company": "General Motors",
       "first_seen": "2026-07-23T07:13:32+00:00",
@@ -16979,6 +17130,16 @@
       "posted_at": "1785824167",
       "title": ".NET Software Developer - Multiple Teams",
       "url": "https://apply.workable.com/genetec-inc/j/145492924C/apply"
+    },
+    "simplify:geneva trading::simplify-1aced91a-6fa5-4f69-8d6c-d3036f8c30df": {
+      "company": "Geneva Trading",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1790029856",
+      "source": "simplify",
+      "title": "C++ Developer Intern",
+      "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5242063007"
     },
     "simplify:geneva trading::simplify-8c0be7dd-c4ae-4fd4-89fe-775e3e1c919a": {
       "company": "Geneva Trading",
@@ -22211,6 +22372,16 @@
       "title": "Junior Software Engineer",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Junior-Software-Engineer_R-00187032"
     },
+    "simplify:leidos::simplify-74c6f87e-771c-4105-bcf1-13937407ee3c": {
+      "company": "Leidos",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Tucson, AZ",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184"
+    },
     "simplify:leidos::simplify-772be052-ed58-441e-842c-c09ea91a96a2": {
       "company": "Leidos",
       "first_seen": "2026-08-28T20:19:07+00:00",
@@ -22592,6 +22763,16 @@
       "source": "simplify",
       "title": "Architecture/Engineering Intern",
       "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Architecture-Engineering_R-002630"
+    },
+    "simplify:live oak bank::simplify-bc4117e4-8373-4215-901c-689e3476cdfb": {
+      "company": "Live Oak Bank",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Wilmington, NC",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Software Engineering Intern - Summer Internship Program",
+      "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643"
     },
     "simplify:liveflow::simplify-a3c613c0-77d2-480f-8922-a19c6b65e5d2": {
       "company": "LiveFlow",
@@ -23358,6 +23539,16 @@
       "posted_at": "1787529600",
       "title": "Software Engineer Intern",
       "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1"
+    },
+    "simplify:mastercard::simplify-8979d060-2c5b-44d4-9801-4d95ce44a26f": {
+      "company": "Mastercard",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "O'Fallon, MO",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Research & Development Co-op - WashU",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Research---Development-Co-Op--WashU---Spring-2027---St-Louis--MO--US_R-291654"
     },
     "simplify:mastercard::simplify-b948ef8c-99af-4850-940a-ca3b8506efb3": {
       "company": "Mastercard",
@@ -25139,6 +25330,16 @@
       "posted_at": "1785738112",
       "title": "Front-End Engineer Intern",
       "url": "https://neboagency.applytojob.com/apply/TtGKnP4ODV/FrontEnd-Engineering-Intern"
+    },
+    "simplify:nebraska medicine::simplify-5b34661b-6ae3-4276-8322-3005f82d5721": {
+      "company": "Nebraska Medicine",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Omaha, NE",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Forward Deployed AI Engineer Intern",
+      "url": "https://nebraskamed.wd5.myworkdayjobs.com/nm/job/Omaha-NE/Intern---Forward-Deployed-AI-Engineer_REQ-38924"
     },
     "simplify:neighbor::simplify-0d9faa74-3c88-4420-95ea-f5e99ae6d84f": {
       "company": "Neighbor",
@@ -27183,7 +27384,7 @@
     "simplify:opengov::simplify-e2f7c0c3-2949-4bbc-bd78-e4cc58de5884": {
       "company": "OpenGov",
       "first_seen": "2026-09-14T21:34:51+00:00",
-      "last_seen": "2026-09-16T00:01:03+00:00",
+      "last_seen": "2026-09-21T23:07:17+00:00",
       "location": "Boston, MA",
       "posted_at": "1789420502",
       "source": "simplify",
@@ -28659,6 +28860,16 @@
       "title": "Software Engineering Co-op - APM",
       "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097"
     },
+    "simplify:philips::simplify-b298f4dc-5584-4fa5-a4b3-3a813272714b": {
+      "company": "Philips",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Colorado Springs, CO, Plymouth, MN, Bedford, MA, San Diego, CA",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "AI Engineer Intern - Enterprise AI & Workflow Automation",
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---AI-Engineer--Enterprise-AI---Workflow-Automation---Plymouth--MN---Summer-2027_591991"
+    },
     "simplify:philips::simplify-d0ec902f-192b-4dae-a71a-8f393be88c08": {
       "company": "Philips",
       "first_seen": "2026-07-27T23:47:06+00:00",
@@ -29192,6 +29403,26 @@
       "posted_at": "1789397659",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://careers.principal.com/jobs/52512?icims=1"
+    },
+    "simplify:prizepicks::simplify-270f99a7-34f7-4b24-a868-04937e87dc59": {
+      "company": "PrizePicks",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1790029331",
+      "source": "simplify",
+      "title": "Software Engineering Intern - Summer 2027",
+      "url": "http://prizepicks.com/position?gh_jid=7999266003"
+    },
+    "simplify:prizepicks::simplify-82070bc6-1538-458e-9d51-6d7093a86ecc": {
+      "company": "PrizePicks",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1790029327",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "http://prizepicks.com/position?gh_jid=7996172003"
     },
     "simplify:probook::simplify-78ed4c00-f810-4174-be06-0382cf25176f": {
       "company": "Probook",
@@ -30766,6 +30997,26 @@
       "posted_at": "1785738058",
       "title": "AI Solutions Specialist Co-op",
       "url": "https://rodanenergysolutionsinc.applytojob.com/apply/hKQA66W5Ad/AI-Solutions-Specialist-Coop-Student"
+    },
+    "simplify:rodan energy solutions::simplify-bfd666d6-eb74-40ca-8595-5c0e16820216": {
+      "company": "Rodan Energy Solutions",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Mississauga, ON, Canada",
+      "posted_at": "1790029506",
+      "source": "simplify",
+      "title": "Data Operations Engineer AI Co-op - Winter 2027",
+      "url": "https://rodanenergysolutionsinc.applytojob.com/apply/baC6tVrSpB/Data-Operations-Engineer-AI-Coop-Student-Winter-2027"
+    },
+    "simplify:rodan energy solutions::simplify-c0b22f53-3c47-45f3-8c12-a94866f7f461": {
+      "company": "Rodan Energy Solutions",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Mississauga, ON, Canada",
+      "posted_at": "1790029506",
+      "source": "simplify",
+      "title": "AI Solutions Co-op",
+      "url": "https://rodanenergysolutionsinc.applytojob.com/apply/CrbmvnkugD/AI-Solutions-Specialist-Coop-Student-Winter-2027"
     },
     "simplify:rogers behavioral health::simplify-0b30bc91-8862-4411-aa6f-7aa4a04e32ce": {
       "company": "Rogers Behavioral Health",
@@ -33779,6 +34030,26 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399"
     },
+    "simplify:singlestore::simplify-968d9575-5896-484e-aa2e-3de0d3cabfa2": {
+      "company": "SingleStore",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "United States",
+      "posted_at": "1790030896",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Helios",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220941"
+    },
+    "simplify:singlestore::simplify-e24e39d5-6e2d-4419-8a1c-3d3ac64cbeb4": {
+      "company": "SingleStore",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "United States",
+      "posted_at": "1790030896",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Engine",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/8220919"
+    },
     "simplify:sirona medical::simplify-373a9878-b32b-4c85-8ce6-20b6df03c8b3": {
       "company": "Sirona Medical",
       "first_seen": "2026-09-21T10:53:47+00:00",
@@ -35318,6 +35589,16 @@
       "posted_at": "1788825600",
       "title": "Software Engineer Intern",
       "url": "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Software-Engineering-Intern_R0015482-2"
+    },
+    "simplify:symbotic::simplify-5292f2d8-70e9-44a6-a50e-aea6724dfacd": {
+      "company": "Symbotic",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Wilmington, MA",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963"
     },
     "simplify:symbotic::simplify-6ef3fbcc-770e-4606-b400-91b81efa3a57": {
       "company": "Symbotic",
@@ -39501,6 +39782,16 @@
       "title": "Software Development Intern",
       "url": "https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false"
     },
+    "simplify:tyler technologies::simplify-a71102ca-4c4d-4bc3-8084-fcf5d09cf645": {
+      "company": "Tyler Technologies",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Lubbock, TX",
+      "posted_at": "1790029561",
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://jobs.jobvite.com/tylertech/job/oKQJAfwD?nl=1&nl=1&fr=false"
+    },
     "simplify:tyler technologies::simplify-e6d2ca10-47cc-492f-bfc3-51e1c414353b": {
       "company": "Tyler Technologies",
       "first_seen": "2026-09-15T23:08:09+00:00",
@@ -39510,6 +39801,16 @@
       "source": "simplify",
       "title": "Software Development Intern - Summer 2027",
       "url": "https://jobs.jobvite.com/tylertech/job/oqQJAfwj?nl=1&nl=1&fr=false"
+    },
+    "simplify:tyler technologies::simplify-ed00cc85-198b-4632-b6de-c47acb49112e": {
+      "company": "Tyler Technologies",
+      "first_seen": "2026-09-21T23:07:18+00:00",
+      "last_seen": "2026-09-21T23:07:18+00:00",
+      "location": "Plano, TX",
+      "posted_at": "1790029561",
+      "source": "simplify",
+      "title": "Software Development Intern - Summer 2027",
+      "url": "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false"
     },
     "simplify:u.s. bank::simplify-06de0769-fb7b-4a7e-9229-b21b568a3f92": {
       "company": "U.S. Bank",
@@ -46462,5 +46763,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-21T22:59:20+00:00"
+  "updated_at": "2026-09-21T23:09:21+00:00"
 }
