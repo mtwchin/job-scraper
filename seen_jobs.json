@@ -1,5 +1,5 @@
 {
-  "count": 5919,
+  "count": 5930,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -2825,6 +2825,16 @@
       "title": "Software Engineering Intern",
       "url": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19500"
     },
+    "simplify:acima::simplify-08b81f58-c3c3-4212-a0ac-e8bc42112895": {
+      "company": "Acima",
+      "first_seen": "2026-09-21T14:34:07+00:00",
+      "last_seen": "2026-09-21T14:34:07+00:00",
+      "location": "Draper, UT",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://upbound.wd501.myworkdayjobs.com/Acima/job/Draper-UT/Software-Engineer-Intern_R-100759-1"
+    },
     "simplify:aclu kentucky::simplify-9c647182-768d-410f-acf7-e162259bd5f2": {
       "company": "ACLU Kentucky",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -5461,6 +5471,16 @@
       "title": "AI/ML Engineering Intern - Summer Student Program",
       "url": "https://aramcoservices.applytojob.com/apply/MdhantU1bV/Information-Technology-2027-Summer-Student-Program"
     },
+    "simplify:arcfield::simplify-2b7698da-ccad-415d-be19-f8cd939f6521": {
+      "company": "Arcfield",
+      "first_seen": "2026-09-21T14:34:41+00:00",
+      "last_seen": "2026-09-21T14:34:41+00:00",
+      "location": "Middletown, RI",
+      "posted_at": "1789999646",
+      "source": "simplify",
+      "title": "Model-Based Systems Engineer",
+      "url": "https://careers.arcfield.com/jobs/8669?icims=1"
+    },
     "simplify:arcfield::simplify-77212bc1-ea2f-4bb7-b214-81995c2cb299": {
       "company": "Arcfield",
       "first_seen": "2026-08-14T05:13:27+00:00",
@@ -7231,6 +7251,16 @@
       "posted_at": "1784787158",
       "title": "Junior Full Stack Software Engineer",
       "url": "https://blackcape.applytojob.com/apply/Hxw7V35F52/Full-Stack-Software-Engineer"
+    },
+    "simplify:blackberry::simplify-30f99827-363f-40d9-9cc9-90199e11daa7": {
+      "company": "Blackberry",
+      "first_seen": "2026-09-21T14:34:41+00:00",
+      "last_seen": "2026-09-21T14:34:41+00:00",
+      "location": "Ottawa, ON, Canada",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Graduate Systems Software Developer - Sensor Framework",
+      "url": "https://bb.wd3.myworkdayjobs.com/QNX/job/Ottawa-Ontario/QNX--Graduate-Systems-Software-Developer--Sensor-Framework-_20260300"
     },
     "simplify:blackhawk network holdings::simplify-7a71ece6-7f17-47ea-a182-140670868d14": {
       "company": "Blackhawk Network Holdings",
@@ -9711,7 +9741,7 @@
     "simplify:capital one::simplify-885ec75e-c125-4f51-a804-7ec7edb80644": {
       "company": "Capital One",
       "first_seen": "2026-08-17T22:50:53+00:00",
-      "last_seen": "2026-09-16T00:03:39+00:00",
+      "last_seen": "2026-09-21T14:34:41+00:00",
       "posted_at": "1786924800",
       "title": "Backend Software Engineer Intern - Team Interstellar",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022"
@@ -9719,7 +9749,7 @@
     "simplify:capital one::simplify-ad150652-4f82-4967-b194-6fa16626a5b6": {
       "company": "Capital One",
       "first_seen": "2026-08-17T22:50:53+00:00",
-      "last_seen": "2026-09-17T00:02:10+00:00",
+      "last_seen": "2026-09-21T14:34:41+00:00",
       "posted_at": "1786924800",
       "title": "Mobile Software Engineer Intern",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015"
@@ -9727,7 +9757,7 @@
     "simplify:capital one::simplify-bcf0ca2a-3b0d-408b-809c-b5ddf36b64e4": {
       "company": "Capital One",
       "first_seen": "2026-08-17T22:50:53+00:00",
-      "last_seen": "2026-09-16T00:03:39+00:00",
+      "last_seen": "2026-09-21T14:34:41+00:00",
       "posted_at": "1786924800",
       "title": "Full Stack Software Engineer Intern - Team Pickle",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013"
@@ -9743,7 +9773,7 @@
     "simplify:capital one::simplify-d8615ef7-6b11-4bac-8d66-7aa71aca3f13": {
       "company": "Capital One",
       "first_seen": "2026-08-17T22:50:53+00:00",
-      "last_seen": "2026-09-17T00:02:10+00:00",
+      "last_seen": "2026-09-21T14:34:41+00:00",
       "posted_at": "1786924800",
       "title": "Full Stack Software Engineer Intern - Team Integrated Sprout",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010"
@@ -10199,6 +10229,16 @@
       "source": "simplify",
       "title": "Associate Java Developer",
       "url": "https://career-schwab.icims.com/jobs/126708/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:charles schwab::simplify-f6903e96-db33-4663-8233-9bbdef82cba4": {
+      "company": "Charles Schwab",
+      "first_seen": "2026-09-21T14:34:07+00:00",
+      "last_seen": "2026-09-21T14:34:07+00:00",
+      "location": "Southlake, TX",
+      "posted_at": "1789999752",
+      "source": "simplify",
+      "title": "Software Engineering Intern - Model Risk",
+      "url": "https://career-schwab.icims.com/jobs/127127/job?mobile=true&needsRedirect=false"
     },
     "simplify:charta health::simplify-64052d4d-54da-4d7c-b3aa-b49f99dfb1a3": {
       "company": "Charta Health",
@@ -13843,6 +13883,7 @@
     "simplify:eisneramper::simplify-99ceee79-3f21-401d-8568-200921f46ba8": {
       "company": "EisnerAmper",
       "first_seen": "2026-09-01T00:09:06+00:00",
+      "last_seen": "2026-09-21T14:34:41+00:00",
       "posted_at": "1788134400",
       "title": "Outsourcing IT Staff 1",
       "url": "https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/New-York/XMLNAME-2026-Outsourcing-IT-Staff-I_Req-9328"
@@ -15054,6 +15095,16 @@
       "posted_at": "1786665600",
       "title": "Leap Software Engineer",
       "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/July-2027---Leap-Software-Engineer_2133877"
+    },
+    "simplify:fidelity investments::simplify-9cada06b-51c0-417f-8863-1c0468182c31": {
+      "company": "Fidelity Investments",
+      "first_seen": "2026-09-21T14:34:07+00:00",
+      "last_seen": "2026-09-21T14:34:07+00:00",
+      "location": "Boston, MA, Westlake, TX, Durham, NC",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Undergraduate Internship - Software",
+      "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/One-Destiny-Way-Westlake-TX/Summer-2027-Undergraduate-Internship---Software_2134524"
     },
     "simplify:fidelity investments::simplify-b989c0d7-19f2-4acd-8837-402a4c9fbfe0": {
       "company": "Fidelity Investments",
@@ -21924,6 +21975,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern - AI & Data Team",
       "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6603"
+    },
+    "simplify:lazard::simplify-cd9a9dea-bbcd-4793-b6b4-a65c46522966": {
+      "company": "Lazard",
+      "first_seen": "2026-09-21T14:34:07+00:00",
+      "last_seen": "2026-09-21T14:34:07+00:00",
+      "location": "NYC",
+      "posted_at": "1790000198",
+      "source": "simplify",
+      "title": "AI Engineer Intern",
+      "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6606"
     },
     "simplify:leggett & platt::simplify-92e67392-a875-429d-8520-a8a60034ae9a": {
       "company": "Leggett & Platt",
@@ -33821,6 +33882,16 @@
       "title": "Analytics Application Developer",
       "url": "https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Georgia/Analytics-Application-Developer_R01132512"
     },
+    "simplify:sonepar::simplify-e88bb384-45aa-403a-b601-0bf579e8baf1": {
+      "company": "Sonepar",
+      "first_seen": "2026-09-21T14:34:41+00:00",
+      "last_seen": "2026-09-21T14:34:41+00:00",
+      "location": "Jonesboro, AR",
+      "posted_at": "1790000043",
+      "source": "simplify",
+      "title": "Systems Developer 1",
+      "url": "https://career.sonepar.com/job/Jonesboro-Systems-Developer-I-AR-72401/1439562433/?ats=successfactors"
+    },
     "simplify:sono bello::simplify-5b37ce6e-1b4e-4d48-bd5a-a44127328601": {
       "company": "Sono Bello",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -34250,6 +34321,16 @@
       "posted_at": "1786602184",
       "title": "Front-End Software Developer Co-op",
       "url": "https://specteraerospace.bamboohr.com/careers/120/"
+    },
+    "simplify:specter aerospace::simplify-e5cc30a4-8555-48b7-b3dc-b3f20c76bd9c": {
+      "company": "Specter Aerospace",
+      "first_seen": "2026-09-21T14:34:41+00:00",
+      "last_seen": "2026-09-21T14:34:41+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1790000318",
+      "source": "simplify",
+      "title": "Full Stack Developer 1/2",
+      "url": "https://specteraerospace.bamboohr.com/careers/152/"
     },
     "simplify:spirit aerosystems::simplify-01526870-c76a-40bc-981b-2617e593fde3": {
       "company": "Spirit AeroSystems",
@@ -39738,6 +39819,36 @@
       "posted_at": "1788340982",
       "title": "Modeling and Analysis Engineer",
       "url": "https://jobs.ashbyhq.com/unlimitedindustries/fe258c19-7d26-44df-bddf-9c9d0264f102/application?embed=true"
+    },
+    "simplify:upbound group::simplify-2ec492a7-10a0-47cc-8cbb-9c22a5ba396c": {
+      "company": "Upbound Group",
+      "first_seen": "2026-09-21T14:34:07+00:00",
+      "last_seen": "2026-09-21T14:34:07+00:00",
+      "location": "Draper, UT",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Draper-UT/Software-Engineer-Intern_R-100759"
+    },
+    "simplify:upbound group::simplify-7e9e1d77-26aa-43b1-b980-8af6e516c6c4": {
+      "company": "Upbound Group",
+      "first_seen": "2026-09-21T14:34:07+00:00",
+      "last_seen": "2026-09-21T14:34:07+00:00",
+      "location": "Plano, TX",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Software-Engineer-Intern_R-100761"
+    },
+    "simplify:upbound group::simplify-8494c8ac-a047-43cf-a4ba-874bc62f8213": {
+      "company": "Upbound Group",
+      "first_seen": "2026-09-21T14:34:07+00:00",
+      "last_seen": "2026-09-21T14:34:07+00:00",
+      "location": "Plano, TX",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Digital Commerce Intern",
+      "url": "https://upbound.wd501.myworkdayjobs.com/Upbound/job/Plano-TX/Digital-Commerce-Intern_R-100767"
     },
     "simplify:urban science::simplify-8a7b2d5f-aeee-4b70-a908-f66aa938f067": {
       "company": "Urban Science",
@@ -46180,5 +46291,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-21T13:53:28+00:00"
+  "updated_at": "2026-09-21T14:38:31+00:00"
 }
