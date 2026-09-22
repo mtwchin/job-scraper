@@ -1,5 +1,5 @@
 {
-  "count": 6012,
+  "count": 6013,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -26287,6 +26287,16 @@
       "title": "Algorithms Software Engineer - Level 2",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Algorithms-Software-Engineer---Level-2_R10238820-1"
     },
+    "simplify:northrop grumman::simplify-4f096c73-afae-450f-b903-ace71c84d47f": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-09-22T10:33:52+00:00",
+      "last_seen": "2026-09-22T10:33:52+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1790035200",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Navigation Intelligence and Connectivity Division",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150"
+    },
     "simplify:northrop grumman::simplify-4ff921c1-6ccb-40f6-aff2-0f2ae665bc9d": {
       "company": "Northrop Grumman",
       "first_seen": "2026-08-25T15:27:09+00:00",
@@ -47119,5 +47129,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-22T09:09:54+00:00"
+  "updated_at": "2026-09-22T10:34:56+00:00"
 }
