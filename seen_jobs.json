@@ -1,5 +1,5 @@
 {
-  "count": 6010,
+  "count": 6011,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1949,7 +1949,7 @@
     "red hat::Software-Engineering-Intern_R-058560": {
       "company": "Red Hat",
       "first_seen": "2026-07-24T12:43:34+00:00",
-      "last_seen": "2026-09-22T08:14:52+00:00",
+      "last_seen": "2026-09-22T08:55:12+00:00",
       "posted_at": "Posted Today",
       "title": "Software Engineering Intern",
       "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Pune---Tower-6/Software-Engineering-Intern_R-058560"
@@ -12392,6 +12392,16 @@
       "posted_at": "1785277279",
       "title": "Software Engineer 1 - Storage",
       "url": "https://jobs.ashbyhq.com/Crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02/application?embed=true"
+    },
+    "simplify:csc generation::simplify-03b53364-747f-47ed-8bfc-ba012349cb8c": {
+      "company": "CSC Generation",
+      "first_seen": "2026-09-22T09:03:52+00:00",
+      "last_seen": "2026-09-22T09:03:52+00:00",
+      "location": "Houston, TX",
+      "posted_at": "1789424390",
+      "source": "simplify",
+      "title": "Software Engineer Intern/Part Time - Legacy Applications & Modernization",
+      "url": "https://jobs.lever.co/cscgeneration-2/3a04b45f-a2eb-438a-a8ac-b07324223813/apply"
     },
     "simplify:csc generation::simplify-2643154c-81da-4e50-a255-f026c03f0324": {
       "company": "CSC Generation",
@@ -32602,6 +32612,7 @@
     "simplify:rtx::simplify-b698f712-411d-4005-b00c-49d33f52731c": {
       "company": "RTX",
       "first_seen": "2026-09-10T23:38:18+00:00",
+      "last_seen": "2026-09-22T09:03:52+00:00",
       "posted_at": "1788998400",
       "title": "Software Engineer Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298"
@@ -47098,5 +47109,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-22T08:19:34+00:00"
+  "updated_at": "2026-09-22T09:04:52+00:00"
 }
