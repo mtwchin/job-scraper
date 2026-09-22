@@ -1,5 +1,5 @@
 {
-  "count": 6024,
+  "count": 6029,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -14346,6 +14346,16 @@
       "title": "Software Engineer Intern",
       "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010928"
     },
+    "simplify:emerson electric::simplify-2f8b3696-a0e4-4b49-ae6a-ab6bbe7b640d": {
+      "company": "Emerson Electric",
+      "first_seen": "2026-09-22T22:37:00+00:00",
+      "last_seen": "2026-09-22T22:37:00+00:00",
+      "location": "Round Rock, TX",
+      "posted_at": "1790114906",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Process Systems and Solutions",
+      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011295"
+    },
     "simplify:emerson electric::simplify-30083c0f-5e53-4d4b-a09e-e6c6ab44daec": {
       "company": "Emerson Electric",
       "first_seen": "2026-09-01T09:52:41+00:00",
@@ -14814,7 +14824,7 @@
     "simplify:erickson senior living::simplify-f9812d93-d4c6-499f-ba70-040efdbc9d1e": {
       "company": "Erickson Senior Living",
       "first_seen": "2026-09-11T23:13:27+00:00",
-      "last_seen": "2026-09-17T00:02:10+00:00",
+      "last_seen": "2026-09-22T22:36:59+00:00",
       "posted_at": "1789084800",
       "title": "IT Application Engineering Intern",
       "url": "https://erickson.wd108.myworkdayjobs.com/External/job/Baltimore-MD/College-Intern-Corporate_R0103863-1"
@@ -29217,6 +29227,46 @@
       "posted_at": "1789049891",
       "title": "Software Engineer Intern",
       "url": "https://careers.planview.com/jobs/5128?icims=1"
+    },
+    "simplify:planview::simplify-6589bbc6-c371-4f76-9d3b-f6edc4d996ed": {
+      "company": "Planview",
+      "first_seen": "2026-09-22T22:37:00+00:00",
+      "last_seen": "2026-09-22T22:37:00+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1790114797",
+      "source": "simplify",
+      "title": "Software Engineer 1 Co-op - Hub",
+      "url": "https://careers.planview.com/jobs/5152?icims=1"
+    },
+    "simplify:planview::simplify-a330bca6-01d7-4927-a045-a0acde1f1ca6": {
+      "company": "Planview",
+      "first_seen": "2026-09-22T22:37:00+00:00",
+      "last_seen": "2026-09-22T22:37:00+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1790114801",
+      "source": "simplify",
+      "title": "Software Engineer 1 Co-op - Portfolio Intelligence Team",
+      "url": "https://careers.planview.com/jobs/5151?icims=1"
+    },
+    "simplify:planview::simplify-a864079b-0e66-4231-8198-c3216efa716b": {
+      "company": "Planview",
+      "first_seen": "2026-09-22T22:37:00+00:00",
+      "last_seen": "2026-09-22T22:37:00+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1790114801",
+      "source": "simplify",
+      "title": "Software Engineer 1 Co-op - Flowplatform Team",
+      "url": "https://careers.planview.com/jobs/5150?icims=1"
+    },
+    "simplify:planview::simplify-d87f3105-f62d-405a-be4b-278dab5caf1c": {
+      "company": "Planview",
+      "first_seen": "2026-09-22T22:37:00+00:00",
+      "last_seen": "2026-09-22T22:37:00+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1790114797",
+      "source": "simplify",
+      "title": "Software Engineer 1 Co-op - Anvi",
+      "url": "https://careers.planview.com/jobs/5051?icims=1"
     },
     "simplify:plastipak::simplify-6def5885-4069-4cfa-af8b-08cbc9cefa2d": {
       "company": "Plastipak",
@@ -47239,5 +47289,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-22T22:28:06+00:00"
+  "updated_at": "2026-09-22T22:38:08+00:00"
 }
