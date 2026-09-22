@@ -1,5 +1,5 @@
 {
-  "count": 6011,
+  "count": 6012,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -12692,6 +12692,16 @@
       "posted_at": "1786924800",
       "title": "Application Software Developer 1",
       "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Plymouth-MN-55441/Application-Software-Dev-I_R003698"
+    },
+    "simplify:daimler truck::simplify-85d90695-c96e-4c39-a242-9b6975bab7b9": {
+      "company": "Daimler Truck",
+      "first_seen": "2026-09-22T09:05:13+00:00",
+      "last_seen": "2026-09-22T09:05:13+00:00",
+      "location": "Portland, OR",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Applied AI Engineer 1 - Engineering Quality, Safety and Compliance",
+      "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Applied-AI-Engineer-I_DT-19739-1"
     },
     "simplify:daimler truck::simplify-9f9488ed-5677-4648-9ca2-07ff77e76705": {
       "company": "Daimler Truck",
@@ -47109,5 +47119,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-22T09:04:52+00:00"
+  "updated_at": "2026-09-22T09:09:54+00:00"
 }
