@@ -1,5 +1,5 @@
 {
-  "count": 6014,
+  "count": 6019,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -16287,6 +16287,16 @@
       "title": "Software Engineer Intern",
       "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Software-Engineering-Summer-Intern-2027_R4046481-1"
     },
+    "simplify:ge healthcare::simplify-94701b25-a1e7-43b1-88a6-dba6fef5c0ea": {
+      "company": "GE Healthcare",
+      "first_seen": "2026-09-22T15:34:02+00:00",
+      "last_seen": "2026-09-22T15:34:02+00:00",
+      "location": "Beachwood, OH",
+      "posted_at": "1790035200",
+      "source": "simplify",
+      "title": "Full-Stack Software Engineer Intern - MIM Commercialized Web Applications",
+      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Full-Stack-Software-Engineering-Intern---MIM-Commercialized-Web-Applications_R4046583-1"
+    },
     "simplify:ge healthcare::simplify-a5871307-853e-486a-803c-bb9cb1f6ebd4": {
       "company": "GE Healthcare",
       "first_seen": "2026-07-17T00:58:34+00:00",
@@ -18125,6 +18135,16 @@
       "posted_at": "1784764800",
       "title": "Technical Associate - Platforms - Technology",
       "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Technical-Associate---Platforms--Technology---Campus-2026--San-Antonio-_42401"
+    },
+    "simplify:guidestone::simplify-25230324-75c3-45fd-95c9-96e3284c06d4": {
+      "company": "GuideStone",
+      "first_seen": "2026-09-22T15:34:02+00:00",
+      "last_seen": "2026-09-22T15:34:02+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1790035200",
+      "source": "simplify",
+      "title": "Software Developer Intern - Software Development",
+      "url": "https://guidestone.wd1.myworkdayjobs.com/guidestone/job/Dallas-TX/Summer-Intern---Software-Developer_R2129"
     },
     "simplify:guidestone::simplify-94863e1d-0d92-43c0-a139-694a550ee676": {
       "company": "GuideStone",
@@ -27576,6 +27596,16 @@
       "title": "Graduate Software Engineer",
       "url": "https://www.optiver.com/join-us/jobs/8401042002/?gh_jid=8401042002"
     },
+    "simplify:optiver::simplify-3a1393eb-1a4c-4277-aa93-46b222c507b8": {
+      "company": "Optiver",
+      "first_seen": "2026-09-22T15:34:01+00:00",
+      "last_seen": "2026-09-22T15:34:01+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1790087364",
+      "source": "simplify",
+      "title": "Software Engineer Co-op",
+      "url": "https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002"
+    },
     "simplify:optiver::simplify-895ea579-0ca7-4aa8-82a2-db62cfeba95c": {
       "company": "Optiver",
       "first_seen": "2026-07-01T22:57:08+00:00",
@@ -32050,6 +32080,16 @@
       "posted_at": "1787529600",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Software-Engineer-I---Onsite-_01867989"
+    },
+    "simplify:rtx::simplify-4259e95a-563f-417d-8577-c3ab43c04d1e": {
+      "company": "RTX",
+      "first_seen": "2026-09-22T15:34:02+00:00",
+      "last_seen": "2026-09-22T15:34:02+00:00",
+      "location": "Portsmouth, RI",
+      "posted_at": "1790035200",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/Software-Engineering-Intern--Summer-2027-_01876065"
     },
     "simplify:rtx::simplify-44a036f1-8b46-4596-939b-e10b3f0e8761": {
       "company": "RTX",
@@ -40209,6 +40249,16 @@
       "title": "Software Engineer \u2013 Early Career",
       "url": "https://job-boards.greenhouse.io/uareai/jobs/4036519009"
     },
+    "simplify:udig::simplify-3a86764d-e47b-4475-98c1-ec31081f9a2f": {
+      "company": "Udig",
+      "first_seen": "2026-09-22T15:34:02+00:00",
+      "last_seen": "2026-09-22T15:34:02+00:00",
+      "location": "Nashville, TN, Richmond, VA",
+      "posted_at": "1790087453",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://udig.com/careers/job-listing/?gh_jid=7999436003"
+    },
     "simplify:udig::simplify-bba75507-8c03-4499-80d6-30bf703f0e8a": {
       "company": "Udig",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -47139,5 +47189,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-22T14:37:50+00:00"
+  "updated_at": "2026-09-22T15:37:52+00:00"
 }
