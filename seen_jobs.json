@@ -1,5 +1,5 @@
 {
-  "count": 6023,
+  "count": 6024,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -459,6 +459,16 @@
       "source": "",
       "title": "Software Engineer Backend Intern (Summer 2027)",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006"
+    },
+    "astranis::4705610006": {
+      "company": "Astranis",
+      "first_seen": "2026-09-22T22:23:19+00:00",
+      "last_seen": "2026-09-22T22:23:19+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "2026-09-22T18:18:40-04:00",
+      "source": "",
+      "title": "Software Engineer - Enterprise Systems Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4705610006"
     },
     "belvedere trading::10746b3d-1760-4573-9b63-b93f5a5e4fc0": {
       "company": "Belvedere Trading",
@@ -47229,5 +47239,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-22T22:23:04+00:00"
+  "updated_at": "2026-09-22T22:28:06+00:00"
 }
