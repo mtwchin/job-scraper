@@ -1,5 +1,5 @@
 {
-  "count": 6013,
+  "count": 6014,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -42531,6 +42531,16 @@
       "title": "Product Development Intern",
       "url": "https://careers-wipfli.icims.com/jobs/8305/job?mobile=true&needsRedirect=false"
     },
+    "simplify:wise::simplify-d1ffc984-76b9-475f-9274-cc90c1c97125": {
+      "company": "Wise",
+      "first_seen": "2026-09-22T14:34:02+00:00",
+      "last_seen": "2026-09-22T14:34:02+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1790086000",
+      "source": "simplify",
+      "title": "Graduate Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/Wise/744000151030889"
+    },
     "simplify:wolters kluwer::simplify-91f7ed1e-cf30-4148-8ff7-6391fc305b94": {
       "company": "Wolters Kluwer",
       "first_seen": "2026-07-24T23:33:06+00:00",
@@ -47129,5 +47139,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-22T14:07:47+00:00"
+  "updated_at": "2026-09-22T14:37:50+00:00"
 }
