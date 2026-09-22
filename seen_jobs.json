@@ -1,5 +1,5 @@
 {
-  "count": 6019,
+  "count": 6020,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -25,6 +25,16 @@
       "posted_at": "Posted Today",
       "title": "2027 Intern - Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666"
+    },
+    "adobe::XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018": {
+      "company": "Adobe",
+      "first_seen": "2026-09-22T17:54:17+00:00",
+      "last_seen": "2026-09-22T17:54:17+00:00",
+      "location": "2 Locations",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "2027 University Graduate - AI Forward Deployed Engineer",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018"
     },
     "affirm::7485068003": {
       "company": "Affirm",
@@ -47189,5 +47199,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-22T15:37:52+00:00"
+  "updated_at": "2026-09-22T17:57:54+00:00"
 }
