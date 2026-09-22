@@ -1,5 +1,5 @@
 {
-  "count": 6020,
+  "count": 6021,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -575,6 +575,16 @@
       "source": "",
       "title": "Software Developer Embedded Systems I (Co-op) - Canada",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Co-op----Canada_2024111"
+    },
+    "cisco::Software-Developer-QA-I--Co-op----Canada_2023986": {
+      "company": "Cisco",
+      "first_seen": "2026-09-22T20:48:24+00:00",
+      "last_seen": "2026-09-22T20:48:24+00:00",
+      "location": "3 Locations",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Software Developer QA I (Co-op) - Canada",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Montreal-Quebec-Canada/Software-Developer-QA-I--Co-op----Canada_2023986"
     },
     "cisco::Software-Engineer-Data---AI-I--Intern----United-States_2024510": {
       "company": "Cisco",
@@ -47199,5 +47209,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-22T18:17:58+00:00"
+  "updated_at": "2026-09-22T20:53:01+00:00"
 }
