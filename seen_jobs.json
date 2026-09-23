@@ -1,5 +1,5 @@
 {
-  "count": 6086,
+  "count": 6087,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_alert_active": false,
@@ -18353,6 +18353,16 @@
       "posted_at": "1788290964",
       "title": "Software Development Intern",
       "url": "https://grassvalley.applytojob.com/apply/8vAlbSBZpB/Stagiaire-Dveloppement-De-Logiciel-Intern-Software-Development"
+    },
+    "simplify:grayce::simplify-d1d59849-acaf-4fac-8763-72a6042a75f8": {
+      "company": "Grayce",
+      "first_seen": "2026-09-23T11:33:08+00:00",
+      "last_seen": "2026-09-23T11:33:08+00:00",
+      "location": "Bridgend, UK",
+      "posted_at": "1790155943",
+      "source": "simplify",
+      "title": "Graduate Software Engineer - Bridgend",
+      "url": "https://apply.workable.com/grayce/j/1789116104/apply"
     },
     "simplify:great question::simplify-b0dddbd1-f4e1-4c85-8399-7c54e668fbd8": {
       "company": "Great Question",
@@ -47868,5 +47878,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-23T11:06:50+00:00"
+  "updated_at": "2026-09-23T11:33:52+00:00"
 }
