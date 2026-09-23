@@ -1,5 +1,5 @@
 {
-  "count": 6096,
+  "count": 6097,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_alert_active": false,
@@ -638,6 +638,16 @@
       "source": "",
       "title": "Software Developer Embedded Systems I (Co-op) - Canada",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Co-op----Canada_2024111"
+    },
+    "cisco::Software-Developer-I--Full-Time----Canada_2023599-1": {
+      "company": "Cisco",
+      "first_seen": "2026-09-23T15:29:46+00:00",
+      "last_seen": "2026-09-23T15:29:46+00:00",
+      "location": "Kanata, Ontario, Canada, Calgary, Alberta, Canada, Toronto, Ontario, Canada, Montreal, Quebec, Canada",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Software Developer I (Full Time) - Canada",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-I--Full-Time----Canada_2023599-1"
     },
     "cisco::Software-Developer-QA-I--Co-op----Canada_2023986": {
       "company": "Cisco",
@@ -47968,5 +47978,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-23T15:03:02+00:00"
+  "updated_at": "2026-09-23T15:30:04+00:00"
 }
