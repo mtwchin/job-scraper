@@ -1,6 +1,7 @@
 # Internship Radar 🛰️
 
-Polls top tech companies' **official career APIs** every **60 seconds** and pings a
+Polls priority companies' **official career APIs** and aggregator feeds about
+every **60 seconds**, and the full company list about every five minutes. It pings a
 **Discord webhook** the moment a new **SWE/SDE internship or new-grad** role opens.
 Tuned for **off-season** (fall/winter/spring) internships by default.
 
@@ -48,18 +49,17 @@ aggregator feeds (listings.json) ──────┘              (3 keys)
 | `amazon`     | amazon.jobs                     | — (custom)                            |
 | `google`     | google.com/about/careers        | — (custom, scrapes results page)      |
 | `meta`       | metacareers.com GraphQL         | — (custom, **disabled**, doc_id rotates) |
-| `microsoft`  | careers.microsoft.com           | — (custom, **disabled**, old API dead) |
-| `apple`      | jobs.apple.com                  | — (custom, **disabled**, needs JS CSRF) |
+| `microsoft`  | apply.careers.microsoft.com     | — (current Eightfold search) |
+| `apple`      | jobs.apple.com                  | — (server-rendered internship listings) |
+| `oracle`     | *.fa.oraclecloud.com            | `host=;site=` (full paginated board) |
 
 Verified-working out of the box: **Amazon, Google, Netflix, Palantir, OpenAI,
 Ramp, Notion, Plaid, Stripe, Databricks, Coinbase, Robinhood, Airbnb, Dropbox,
 Reddit, Pinterest, DoorDash, Instacart, Lyft, Brex, Figma, Discord, Anthropic,
 Scale AI, Cloudflare, Roblox, Block, Affirm, Asana, Samsara, Nvidia, Salesforce,
-Adobe, PayPal**.
+Adobe, PayPal, Microsoft, Apple, JPMC**.
 
-> **Meta / Microsoft / Apple** are coded but disabled — their public APIs are
-> currently locked behind rotating tokens, dead endpoints, or JS-rendered CSRF.
-> See "Adding & fixing companies" below to re-enable when you find a live endpoint.
+> **Meta** remains disabled because its GraphQL query ID rotates.
 
 ---
 
@@ -114,6 +114,7 @@ Install once (`pip install -e .`) to get a `jobscraper` command, or use
 | `jobscraper run` | A single sweep, then exit. Useful for testing and for external cron. |
 | `jobscraper list [--disabled]` | Show tracked companies and the adapter breakdown. |
 | `jobscraper audit` | Freshness report — catch latency of past alerts (see below). |
+| `jobscraper delivery-status` | List webhook batches whose outcome needs manual review. |
 | `jobscraper doctor` | Health-check every company: which can produce alerts, which are broken. |
 | `jobscraper discover <name\|url>` | Detect a company's ATS config to add/fix it. |
 | `jobscraper probe <adapter> <config>` | Run one adapter against one config and show what it returns. |
@@ -349,7 +350,7 @@ polls on its own clock**:
   When nothing has changed the feed answers `304` with no body, so an idle poll
   costs ~0.2s and is essentially free. That is what makes a one-minute cadence
   affordable.
-- **Every company's own ATS every 5 minutes.** Hundreds of requests with no
+- **Priority company boards every minute; every company's own ATS every 5 minutes.** Hundreds of requests with no
   conditional-request support, so it gets its own slower tier.
 - The loop runs ~5.5h, then exits cleanly. The `concurrency` group holds the
   next scheduled run behind the current one, so whenever cron *does* fire, that
@@ -357,7 +358,7 @@ polls on its own clock**:
   sampled.
 
 Detection latency is now bounded by the poll interval (~60s for anything an
-aggregator carries, ~5 min for a company's own board), not by the scheduler.
+aggregator carries, ~1 min for a priority board, ~5 min for another company board), not by the scheduler.
 
 ### Why state is committed during the loop, not just at the end
 
@@ -367,15 +368,23 @@ in those five hours looks new again on the next run and gets sent a second time.
 So state is:
 
 1. flushed to disk immediately after each Discord batch,
-2. checkpointed to git every 5 minutes while the loop runs,
+2. checkpointed to git every minute while the loop runs,
 3. pushed with a **union merge** against the remote copy rather than a rebase —
    two commits that both rewrite the same JSON file conflict every time, and
    resolving that by taking one side would silently drop the other side's
    records.
 
-Records for postings no board has listed in 120 days are pruned, keyed on
-*last-seen* rather than first-seen, so a role that has been open for a year is
-never dropped while it is still live.
+State pruning is off by default to avoid treating an old repost as a new job.
+Set `PRUNE_DELISTED_DAYS` if you need to bound state size; pruning uses
+*last-seen* so a role that remains open is kept.
+
+Before each webhook batch, the scraper saves a delivery attempt. A lost response
+or server error holds that batch for manual review, while an explicit 4xx
+rejection leaves it eligible for retry. Run `jobscraper delivery-status` to list
+unknown outcomes and check Discord before clearing an attempt from
+`delivery_attempts` in `seen_jobs.json`. GitHub still has a short window between
+the local save and the next state push; the one-minute checkpoints bound that
+window but cannot make Discord and git an atomic transaction.
 
 ### Running it somewhere else
 

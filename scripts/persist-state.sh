@@ -80,12 +80,28 @@ push_once() {
 
     # Re-anchor onto the remote tip carrying our merged state across, rather
     # than rebasing one JSON rewrite onto another.
-    local merged
+    local merged checkout_ok=1
     merged="$(mktemp)"
-    cp "$STATE_FILE" "$merged"
-    git checkout --quiet --force -B "$BRANCH" "origin/$BRANCH"
-    cp "$merged" "$STATE_FILE"
+    # The watch process saves under the same sidecar lock. Hold it across the
+    # checkout-and-restore window so a fresh delivery record cannot be written
+    # between our copy and the checkout that replaces the working-tree file.
+    local state_lock_fd
+    exec {state_lock_fd}> "${STATE_FILE}.lock"
+    flock -x "$state_lock_fd"
+    cp "$STATE_FILE" "$merged" || checkout_ok=0
+    if [ "$checkout_ok" -eq 1 ]; then
+      git checkout --quiet --force -B "$BRANCH" "origin/$BRANCH" || checkout_ok=0
+    fi
+    if [ "$checkout_ok" -eq 1 ]; then
+      cp "$merged" "$STATE_FILE" || checkout_ok=0
+    fi
+    flock -u "$state_lock_fd"
+    exec {state_lock_fd}>&-
     rm -f "$merged"
+    if [ "$checkout_ok" -eq 0 ]; then
+      log "checkout/restore failed (attempt $attempt/$MAX_ATTEMPTS)"
+      sleep "$delay"; attempt=$((attempt + 1)); delay=$((delay * 2)); continue
+    fi
 
     git add "$STATE_FILE"
     if git diff --cached --quiet; then

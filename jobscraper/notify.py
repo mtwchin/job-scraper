@@ -2,12 +2,19 @@
 from __future__ import annotations
 
 import time
+from collections.abc import Callable
+
+import requests
 
 from . import http, settings
 from .models import Job
 
 _COLOR_INTERN = 0x5865F2   # blurple
 _COLOR_NEWGRAD = 0x57F287  # green
+
+
+class WebhookRejected(RuntimeError):
+    """Discord explicitly rejected a request, so its jobs can be retried."""
 
 
 def _posted_field(job: Job) -> dict | None:
@@ -52,23 +59,37 @@ def _embed(job: Job) -> dict:
 
 
 def _post(payload: dict, webhook_url: str) -> None:
-    if settings.DRY_RUN or not webhook_url:
+    if settings.DRY_RUN:
         return
-    resp = http.post(webhook_url, json=payload)
-    # Discord rate limit: back off and retry once.
-    if resp.status_code == 429:
-        retry_after = 1.0
+    if not webhook_url:
+        raise ValueError("Discord webhook is not configured")
+    # A timed-out POST may already have been accepted by Discord. Automatic HTTP
+    # retries can therefore produce duplicate messages. Only a confirmed 429 is
+    # safe to retry: Discord explicitly rejected that request.
+    for attempt in range(2):
         try:
-            retry_after = float(resp.json().get("retry_after", 1.0))
-        except Exception:
-            pass
-        time.sleep(retry_after + 0.25)
-        http.post(webhook_url, json=payload)
-    elif resp.status_code >= 300:
-        print(f"[notify] Discord returned {resp.status_code}: {resp.text[:300]}")
+            resp = http.post(webhook_url, json=payload, retries=0)
+        except requests.RequestException as exc:
+            # requests exceptions can contain the complete secret webhook URL.
+            raise RuntimeError(f"Discord webhook request failed: {type(exc).__name__}") from None
+        if resp.status_code == 429 and attempt == 0:
+            try:
+                retry_after = min(max(float(resp.json().get("retry_after", 1)), 0), 60)
+            except (ValueError, TypeError, KeyError):
+                retry_after = 1
+            time.sleep(retry_after + 0.25)
+            continue
+        if resp.status_code == 429 or 400 <= resp.status_code < 500:
+            raise WebhookRejected(f"Discord webhook returned HTTP {resp.status_code}")
+        if resp.status_code >= 300:
+            raise RuntimeError(f"Discord webhook returned HTTP {resp.status_code}")
+        return
 
 
-def notify_jobs(jobs: list[Job], webhook_url: str = "") -> None:
+def notify_jobs(jobs: list[Job], webhook_url: str = "", *,
+                on_batch_sent: Callable[[list[Job]], None] | None = None,
+                on_batch_attempt: Callable[[list[Job]], None] | None = None,
+                on_batch_rejected: Callable[[list[Job]], None] | None = None) -> None:
     """Send up to MAX_EMBEDS_PER_MESSAGE embeds per message. Defaults to the
     main webhook; pass DISCORD_WEBHOOK_URL_ALL to target the all-companies feed."""
     if not jobs:
@@ -85,7 +106,16 @@ def notify_jobs(jobs: list[Job], webhook_url: str = "") -> None:
             "embeds": [_embed(j) for j in chunk],
         }
         payload = {k: v for k, v in payload.items() if v is not None}
-        _post(payload, webhook_url)
+        if on_batch_attempt is not None:
+            on_batch_attempt(chunk)
+        try:
+            _post(payload, webhook_url)
+        except WebhookRejected:
+            if on_batch_rejected is not None:
+                on_batch_rejected(chunk)
+            raise
+        if on_batch_sent is not None:
+            on_batch_sent(chunk)
         time.sleep(0.4)  # be gentle with the webhook
 
 

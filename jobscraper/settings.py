@@ -65,7 +65,7 @@ FINGERPRINT_DEDUP = os.environ.get("FINGERPRINT_DEDUP", "true").lower() in {"1",
 # Keyed on last-seen, so a still-open role is never pruned however old it is;
 # only genuinely delisted roles age out. Keeps seen_jobs.json from growing
 # without bound. 0 disables pruning.
-PRUNE_DELISTED_DAYS = int(os.environ.get("PRUNE_DELISTED_DAYS", "120"))
+PRUNE_DELISTED_DAYS = int(os.environ.get("PRUNE_DELISTED_DAYS", "0"))
 
 # --- Watch mode ------------------------------------------------------------
 # `jobscraper watch` polls continuously inside one process instead of relying on
@@ -80,6 +80,18 @@ WATCH_INTERVAL = int(os.environ.get("WATCH_INTERVAL", "60"))
 # Seconds between full sweeps of every company's own ATS. Much heavier (hundreds
 # of requests), so it runs on its own slower cadence.
 WATCH_COMPANY_INTERVAL = int(os.environ.get("WATCH_COMPANY_INTERVAL", "300"))
+# Select major-company boards for an extra sweep between full scans. Heavy
+# boards such as JPMC remain in the five-minute full sweep.
+WATCH_PRIORITY_INTERVAL = int(os.environ.get("WATCH_PRIORITY_INTERVAL", "60"))
+PRIORITY_COMPANIES = {
+    name.strip().casefold()
+    for name in os.environ.get(
+        "PRIORITY_COMPANIES",
+        "Amazon,Google,Microsoft,Apple,Netflix,Nvidia,Salesforce,Adobe,Intel,"
+        "OpenAI,Anthropic,SpaceX,Stripe,Palantir,Databricks,Cloudflare,"
+        "Coinbase,Roblox,PayPal",
+    ).split(",") if name.strip()
+}
 # How long the loop runs before exiting cleanly, in seconds. Sized to sit under
 # the 6-hour ceiling GitHub puts on a single job, leaving room for the final
 # state push.

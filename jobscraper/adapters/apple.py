@@ -1,54 +1,68 @@
-"""Apple — jobs.apple.com search API. Needs a CSRF token from the search page."""
+"""Apple's public, server-rendered student internship search.
+
+The search HTML embeds its loader data, including exact posting timestamps and
+stable requisition IDs. Reading that data avoids the retired CSRF search API.
+"""
 from __future__ import annotations
 
-import re
+import json
+from urllib.parse import quote
 
-from .. import http
+from .. import http, settings
 from ..models import CompanyConfig, Job
 
-PAGE = "https://jobs.apple.com/en-us/search"
-SEARCH = "https://jobs.apple.com/api/role/search"
-_CSRF_RE = re.compile(r'"csrf_token"\s*:\s*"([^"]+)"')
+SEARCH = "https://jobs.apple.com/en-us/search"
+_HYDRATION = "window.__staticRouterHydrationData = JSON.parse("
+_PAGE_SIZE = 20
+_MAX_PAGES = 20
 
 
-def _csrf_token() -> str | None:
-    resp = http.get(PAGE)
-    if resp.status_code != 200:
-        return None
-    # Token shows up in an embedded JSON blob, or as a response header.
-    m = _CSRF_RE.search(resp.text)
-    if m:
-        return m.group(1)
-    return resp.headers.get("X-Apple-CSRF-Token")
+def _search_data(html: str) -> dict:
+    start = html.find(_HYDRATION)
+    if start < 0:
+        raise ValueError("Apple search page omitted job data")
+    start += len(_HYDRATION)
+    try:
+        encoded, _ = json.JSONDecoder().raw_decode(html[start:])
+        data = json.loads(encoded)["loaderData"]["search"]
+        if not isinstance(data["searchResults"], list):
+            raise TypeError("searchResults is not a list")
+        return data
+    except (json.JSONDecodeError, KeyError, TypeError) as exc:
+        raise ValueError("Apple search page has invalid job data") from exc
 
 
 def fetch(company: CompanyConfig) -> list[Job]:
-    token = _csrf_token()
-    headers = {"Content-Type": "application/json", "Accept": "application/json"}
-    if token:
-        headers["X-Apple-CSRF-Token"] = token
-
+    if "intern" not in settings.ROLE_TYPES:
+        return []
     jobs: dict[str, Job] = {}
-    for query in ("software engineer intern", "software engineering graduate"):
-        body = {"query": query, "page": 1, "locale": "en-us", "sort": "newest"}
-        resp = http.post(SEARCH, json=body, headers=headers)
-        resp.raise_for_status()
-        data = resp.json()
-        for j in data.get("searchResults", []):
-            pid = str(j.get("positionId") or j.get("id"))
-            title = j.get("postingTitle") or j.get("title", "")
-            slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
-            url = f"https://jobs.apple.com/en-us/details/{pid}/{slug}" if pid else ""
-            locs = j.get("locations") or []
-            location = ", ".join(
-                l.get("name", "") for l in locs if isinstance(l, dict)
-            ) if isinstance(locs, list) else ""
-            jobs[pid] = Job(
+    for page in range(1, _MAX_PAGES + 1):
+        response = http.get(
+            SEARCH,
+            params={"team": "stages-STDNT-INTRN", "page": page},
+            retries=1,
+        )
+        response.raise_for_status()
+        data = _search_data(response.text)
+        postings = data["searchResults"]
+        if page == 1 and not postings and data.get("totalRecords", 0):
+            raise ValueError("Apple search reported jobs but returned no listings")
+        for posting in postings:
+            req_id = str(posting.get("reqId") or "")
+            slug = posting.get("transformedPostingTitle") or ""
+            if not req_id or not slug:
+                continue
+            locations = posting.get("locations") or []
+            jobs[req_id] = Job(
                 company=company.name,
-                job_id=pid,
-                title=title,
-                url=url,
-                location=location,
-                posted_at=j.get("postingDate", "") or j.get("postDateInGMT", ""),
+                job_id=req_id,
+                title=posting.get("postingTitle") or "",
+                url=f"https://jobs.apple.com/en-us/details/{quote(req_id)}/{quote(slug)}",
+                location=", ".join(loc.get("name", "") for loc in locations if isinstance(loc, dict)),
+                posted_at=posting.get("postDateInGMT") or posting.get("postingDate") or "",
             )
+        if not postings or page * _PAGE_SIZE >= data.get("totalRecords", 0):
+            break
+    else:
+        raise ValueError("Apple internship search exceeded pagination limit")
     return list(jobs.values())

@@ -69,7 +69,8 @@ def _passes_filters(job: Job) -> bool:
     return True
 
 
-def collect_matches(include_companies: bool = True) -> tuple[Collection, Collection]:
+def collect_matches(include_companies: bool = True,
+                    only_priority: bool = False) -> tuple[Collection, Collection]:
     """Fetch enabled sources, then filter + dedup in one place.
 
     Returns (curated, general): curated is the companies.md-scoped feed; general
@@ -88,6 +89,8 @@ def collect_matches(include_companies: bool = True) -> tuple[Collection, Collect
 
     if include_companies:
         enabled = [c for c in load_companies(settings.COMPANIES_FILE) if c.enabled]
+        if only_priority:
+            enabled = [c for c in enabled if c.name.casefold() in settings.PRIORITY_COMPANIES]
         result.n_enabled = len(enabled)
         logger.info(
             "Checking %d companies | roles=%s off_season=%s us_ca=%s concurrency=%d (freshness=dedup)",
@@ -177,12 +180,18 @@ def _collect_aggregators(result: Collection, general: Collection, seen: KeySet,
     return changed
 
 
-def _maybe_health_alert(c: Collection) -> None:
-    """Warn on Discord if an unusually large share of companies failed this run."""
+def _maybe_health_alert(c: Collection, store: SeenStore) -> None:
+    """Alert once per systemic outage and re-arm after a healthy sweep."""
     if c.n_enabled == 0:
         return
     rate = len(c.errors) / c.n_enabled
-    if rate >= settings.HEALTH_ALERT_THRESHOLD:
+    if rate < settings.HEALTH_ALERT_THRESHOLD:
+        if store.health_alert_active and not settings.DRY_RUN:
+            store.health_alert_active = False
+            store._dirty = True
+            store.save()
+        return
+    if not store.health_alert_active:
         msg = (
             f"⚠️ Scraper health: {len(c.errors)}/{c.n_enabled} companies errored "
             f"this run ({rate:.0%}). Possible platform outage or a broken adapter. "
@@ -190,7 +199,16 @@ def _maybe_health_alert(c: Collection) -> None:
         )
         logger.warning(msg)
         if not settings.DRY_RUN and settings.DISCORD_WEBHOOK_URL:
-            notify.notify_summary(msg)
+            store.health_alert_active = True
+            store._dirty = True
+            store.save()
+            try:
+                notify.notify_summary(msg)
+            except notify.WebhookRejected:
+                store.health_alert_active = False
+                store._dirty = True
+                store.save()
+                raise
 
 
 def select_new(store: SeenStore, matches: list[Job]) -> list[Job]:
@@ -265,6 +283,9 @@ def dispatch(store: SeenStore, c: Collection, general: Collection) -> int:
     a run that dies between sending and saving would otherwise re-send all of it
     next time, which is the single most likely way to spam the channel.
     """
+    if store.delivery_attempts:
+        logger.warning("%d webhook attempt(s) have unknown outcomes; inspect `jobscraper delivery-status`",
+                       len(store.delivery_attempts))
     new_jobs = select_new(store, c.matches)
     new_general = select_new(store, general.matches)
 
@@ -275,7 +296,7 @@ def dispatch(store: SeenStore, c: Collection, general: Collection) -> int:
     )
     for line in c.errors:
         logger.debug("  ! %s", line)
-    _maybe_health_alert(c)
+    _maybe_health_alert(c, store)
 
     if not store.existed and settings.SEED_QUIETLY:
         # Genuine first run: absorb the whole backlog silently so we don't dump it.
@@ -285,6 +306,7 @@ def dispatch(store: SeenStore, c: Collection, general: Collection) -> int:
         logger.info("First run: seeding %d + %d (all-companies) roles quietly (no per-job pings).",
                     len(new_jobs), len(new_general))
         if not settings.DRY_RUN:
+            store.save()
             notify.notify_summary(
                 f"✅ Internship Radar is live — seeded {len(new_jobs)} currently-open "
                 f"role(s). You'll get pinged when new ones drop."
@@ -295,7 +317,6 @@ def dispatch(store: SeenStore, c: Collection, general: Collection) -> int:
                     f"role(s). You'll get pinged when new ones drop.",
                     webhook_url=settings.DISCORD_WEBHOOK_URL_ALL,
                 )
-            store.save()
         # The store now exists as far as later sweeps in this process are
         # concerned; without this a watch loop would re-seed every cycle.
         store.existed = True
@@ -308,13 +329,13 @@ def dispatch(store: SeenStore, c: Collection, general: Collection) -> int:
         _seed_quietly(store, new_jobs, new_general, first_run=False)
         logger.info("All-companies feed: first run, seeding %d roles quietly.", len(new_general))
         if not settings.DRY_RUN:
+            store.save()
             if new_general and settings.DISCORD_WEBHOOK_URL_ALL:
                 notify.notify_summary(
                     f"✅ All-companies feed is live — seeded {len(new_general)} currently-open "
                     f"role(s). You'll get pinged when new ones drop.",
                     webhook_url=settings.DISCORD_WEBHOOK_URL_ALL,
                 )
-            store.save()
         new_general = []
 
     if (absorbed := _absorb_new_sources(store, new_jobs, new_general)):
@@ -349,20 +370,17 @@ def dispatch(store: SeenStore, c: Collection, general: Collection) -> int:
 
     sent = 0
     if to_send:
-        notify.notify_jobs(to_send)
-        # Record ONLY what we actually sent, so any capped overflow is picked up
-        # on the next sweep instead of being silently marked seen and lost.
-        for job in to_send:
-            store.add(job)
-        store.save()
+        notify.notify_jobs(to_send, on_batch_attempt=store.begin_delivery,
+                           on_batch_sent=store.confirm_delivery,
+                           on_batch_rejected=store.reject_delivery)
         logger.info("Sent %d notification(s).", len(to_send))
         sent += len(to_send)
 
     if to_send_general:
-        notify.notify_jobs(to_send_general, webhook_url=settings.DISCORD_WEBHOOK_URL_ALL)
-        for job in to_send_general:
-            store.add(job)
-        store.save()
+        notify.notify_jobs(to_send_general, webhook_url=settings.DISCORD_WEBHOOK_URL_ALL,
+                           on_batch_attempt=store.begin_delivery,
+                           on_batch_sent=store.confirm_delivery,
+                           on_batch_rejected=store.reject_delivery)
         logger.info("Sent %d all-companies notification(s).", len(to_send_general))
         sent += len(to_send_general)
 

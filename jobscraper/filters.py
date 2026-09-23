@@ -16,6 +16,7 @@ SWE_PATTERNS = [
     r"\bsde\b",
     r"\bswe\b",
     r"software\s+engineering",
+    r"software\s+(?:undergrad|masters?|phd)\s+(?:engineering|internship)",
     r"member\s+of\s+technical\s+staff",
     r"\bprogrammer\b",
     r"systems?\s+engineer",
@@ -32,6 +33,7 @@ SWE_PATTERNS = [
 INTERN_PATTERNS = [
     r"\bintern\b",
     r"\binternship\b",
+    r"\binternships\b",
     r"\bco-?op\b",
     r"\bplacement\b",
 ]

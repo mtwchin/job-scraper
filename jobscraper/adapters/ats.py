@@ -1,7 +1,10 @@
 """Generic adapters for shared ATS platforms: Greenhouse, Lever, Ashby, Workday, Eightfold."""
 from __future__ import annotations
 
-from .. import http
+import re
+from dataclasses import replace
+
+from .. import filters, http, settings
 from ..models import CompanyConfig, Job
 
 _ROLE_QUERIES = (
@@ -82,6 +85,7 @@ _WORKDAY_QUERIES = (
 )
 _WORKDAY_PAGE = 20
 _WORKDAY_MAX_PER_QUERY = 200
+_GENERIC_LOCATION = re.compile(r"^\d+\s+locations?$", re.I)
 
 
 def fetch_workday(company: CompanyConfig) -> list[Job]:
@@ -94,6 +98,7 @@ def fetch_workday(company: CompanyConfig) -> list[Job]:
     api = f"https://{host}/wday/cxs/{tenant}/{site}/jobs"
     headers = {"Content-Type": "application/json", "Accept": "application/json"}
     jobs: dict[str, Job] = {}
+    detail_paths: dict[str, str] = {}
 
     for query in _WORKDAY_QUERIES:
         offset = 0
@@ -129,9 +134,30 @@ def fetch_workday(company: CompanyConfig) -> list[Job]:
                     location=p.get("locationsText", ""),
                     posted_at=p.get("postedOn", ""),
                 )
+                detail_paths[jid] = ext
             offset += _WORKDAY_PAGE
             if offset >= data.get("total", 0):
                 break
+    # Search results sometimes say only "2 Locations". A posting URL may name
+    # one foreign office while another office is in the US, so resolve every
+    # relevant ambiguous role from Workday's public detail endpoint.
+    if settings.US_CANADA_ONLY:
+        for jid, job in list(jobs.items()):
+            if not _GENERIC_LOCATION.fullmatch(job.location.strip()):
+                continue
+            if not filters.matches(job, settings.ROLE_TYPES, settings.OFF_SEASON_ONLY):
+                continue
+            ext = detail_paths.get(jid)
+            if not ext:
+                continue
+            detail = http.get(f"https://{host}/wday/cxs/{tenant}/{site}{ext}", retries=1, timeout=20)
+            detail.raise_for_status()
+            info = detail.json().get("jobPostingInfo") or {}
+            locations = [info.get("location") or "", *(info.get("additionalLocations") or [])]
+            location = ", ".join(loc for loc in locations if loc)
+            if not location:
+                raise ValueError(f"Workday detail omitted locations for {jid}")
+            jobs[jid] = replace(job, location=location)
     return list(jobs.values())
 
 

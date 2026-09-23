@@ -8,7 +8,7 @@ It is parsed by `jobscraper/companies.py` — keep the table format intact.
 - **Company** — display name shown in Discord.
 - **Adapter** — which fetcher to use: `amazon`, `microsoft`, `apple`, `google`,
   `meta`, `greenhouse`, `lever`, `ashby`, `workday`, `eightfold`,
-  `smartrecruiters`, `workable`, or `recruitee`.
+  `smartrecruiters`, `workable`, `recruitee`, or `oracle`.
 - **Config** — `key=value` pairs separated by `;`. Empty for custom adapters
   (amazon/microsoft/apple/google/meta). Required for the generic adapters:
   - `greenhouse` → `token=<board_token>`  (e.g. the slug in boards.greenhouse.io/<token>)
@@ -18,6 +18,7 @@ It is parsed by `jobscraper/companies.py` — keep the table format intact.
   - `smartrecruiters` → `id=<company identifier>` (CamelCase, often with a trailing digit)
   - `workable` → `slug=<account slug>`
   - `recruitee` → `slug=<company slug>`
+  - `oracle` → `host=<sub.domain>;site=<site number>`
 - **On** — `yes` to check this company, `no` to skip it.
 - **Notes** — anything; ignored by the parser.
 
@@ -34,8 +35,8 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Amazon         | amazon     |                                                                    | yes | Verified — amazon.jobs API |
 | Google         | google     |                                                                    | yes | Verified — scrapes server-rendered results page |
 | Meta           | meta       |                                                                    | no  | GraphQL doc_id rotates; needs maintenance to re-enable |
-| Microsoft      | microsoft  |                                                                    | no  | Old gcsservices API is dead (cert/host gone). Needs a new endpoint |
-| Apple          | apple      |                                                                    | no  | jobs.apple.com needs a JS-rendered CSRF token; not scrapable headless |
+| Microsoft      | microsoft  |                                                                    | yes | Verified — current apply.careers.microsoft.com Eightfold search |
+| Apple          | apple      |                                                                    | yes | Verified — server-rendered internship listings with exact posting times |
 | Netflix        | eightfold  | host=explore.jobs.netflix.net;domain=netflix.com                   | yes | Verified (moved off Lever to Eightfold) |
 | Palantir       | lever      | slug=palantir                                                      | yes | Verified |
 | Plaid          | ashby      | slug=plaid                                                         | yes | Verified |
@@ -68,7 +69,7 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Salesforce     | workday    | host=salesforce.wd12.myworkdayjobs.com;tenant=salesforce;site=External_Career_Site | yes | Verified |
 | Adobe          | workday    | host=adobe.wd5.myworkdayjobs.com;tenant=adobe;site=external_experienced | yes | Verified |
 | PayPal         | workday    | host=paypal.wd1.myworkdayjobs.com;tenant=paypal;site=jobs          | yes | Verified |
-| DeepMind       | greenhouse | token=deepmind                                                     | yes | Verified — prestige #3 |
+| DeepMind       | google     | company=DeepMind                                                   | yes | Official careers page now uses Google Careers company filter |
 | Jane Street    | greenhouse | token=janestreet                                                   | yes | Verified — quant |
 | Hudson River Trading | custom     |                                                                    | no  | HRT — no public ATS API; custom careers site |
 | Citadel        | custom     |                                                                    | no  | Custom careers site |
@@ -128,7 +129,7 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Cohere         | ashby      | slug=cohere                                                        | yes | Verified |
 | Glean          | greenhouse | token=gleanwork                                                    | yes | Verified |
 | Box            | greenhouse | token=boxinc                                                       | yes | Verified |
-| JPMC           | custom     |                                                                    | no  | Custom careers site |
+| JPMC           | oracle     | host=jpmc.fa.oraclecloud.com;site=CX_1001                          | yes | Official Oracle Candidate Experience feed |
 | Okta           | greenhouse | token=okta                                                         | yes | Verified |
 | Rippling       | custom     |                                                                    | no  | No public ATS API found (was bad greenhouse token) |
 | Intuit         | workday    | host=intuit.wd1.myworkdayjobs.com;tenant=intuit;site=External      | no  | Workday config returns 401; verify site/tenant |
@@ -138,7 +139,7 @@ token/slug is probably wrong. See the README for how to find the right one.
 ## Expanded list — additional high-prestige companies (verified via bulk ATS probe)
 
 ### AI labs / ML
-| Mistral AI     | lever      | slug=mistral                                                       | yes | Verified |
+| Mistral AI     | ashby      | slug=mistral.ai                                                    | yes | Official board moved from Lever to Ashby |
 | Perplexity     | ashby      | slug=perplexity                                                    | yes | Verified |
 | Together AI    | greenhouse | token=togetherai                                                   | yes | Verified |
 | Runway         | ashby      | slug=runway                                                        | yes | Verified |
@@ -150,10 +151,10 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Stability AI   | greenhouse | token=stabilityai                                                  | yes | Verified |
 | Decagon        | ashby      | slug=decagon                                                       | yes | Verified |
 | Cognition      | ashby      | slug=cognition                                                     | yes | Verified |
-| Thinking Machines | greenhouse | token=thinkingmachines                                          | yes | Verified |
+| Thinking Machines | ashby   | slug=ThinkingMachines                                             | yes | Official Ashby board; old Greenhouse token 404s |
 | Imbue          | greenhouse | token=imbue                                                        | yes | Verified |
 | Suno           | ashby      | slug=suno                                                          | yes | Verified |
-| World Labs     | greenhouse | token=worldlabs                                                    | yes | Verified |
+| World Labs     | ashby      | slug=worldlabs                                                     | yes | Official Ashby board; old Greenhouse token 404s |
 | Physical Intelligence | ashby | slug=physicalintelligence                                       | yes | Verified |
 
 ### Dev tools / infra / data
@@ -168,7 +169,7 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Fivetran       | greenhouse | token=fivetran                                                     | yes | Verified |
 | Replit         | ashby      | slug=replit                                                        | yes | Verified |
 | GitLab         | greenhouse | token=gitlab                                                       | yes | Verified |
-| Postman        | greenhouse | token=postman                                                      | yes | Verified |
+| Postman        | greenhouse | token=postman                                                      | no  | Board now returns 404; needs a verified replacement |
 | Grafana Labs   | greenhouse | token=grafanalabs                                                  | yes | Verified |
 | Linear         | ashby      | slug=linear                                                        | yes | Verified |
 | Webflow        | greenhouse | token=webflow                                                      | yes | Verified |
@@ -181,7 +182,7 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Modern Treasury | ashby     | slug=moderntreasury                                                | yes | Verified |
 | Gusto          | greenhouse | token=gusto                                                        | yes | Verified |
 | Chime          | greenhouse | token=chime                                                        | yes | Verified |
-| Marqeta        | greenhouse | token=marqeta                                                      | yes | Verified |
+| Marqeta        | greenhouse | token=marqeta                                                      | no  | Board now returns 404; needs a verified replacement |
 | Checkr         | greenhouse | token=checkr                                                       | yes | Verified |
 | Carta          | greenhouse | token=carta                                                        | yes | Verified |
 | Anchorage Digital | lever   | slug=anchorage                                                     | yes | Verified |
@@ -217,7 +218,7 @@ token/slug is probably wrong. See the README for how to find the right one.
 | PDT Partners   | greenhouse | token=pdtpartners                                                  | yes | Verified |
 | Vatic Labs     | greenhouse | token=vaticlabs                                                    | yes | Verified |
 | Belvedere Trading | lever   | slug=belvederetrading                                              | yes | Verified |
-| Cubist         | ashby      | slug=cubist                                                        | yes | Verified (Point72 quant arm) |
+| Cubist         | ashby      | slug=cubist                                                        | no  | Board now returns 404; Point72 remains enabled |
 
 ### Consumer
 | Strava         | ashby      | slug=strava                                                        | yes | Verified |

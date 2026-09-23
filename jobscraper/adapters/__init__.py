@@ -4,7 +4,7 @@ from __future__ import annotations
 from collections.abc import Callable
 
 from ..models import CompanyConfig, Job
-from . import ats, ats2, ashby, amazon, microsoft, apple, google, meta
+from . import ats, ats2, ashby, amazon, microsoft, apple, google, meta, oracle
 
 FetchFn = Callable[[CompanyConfig], list[Job]]
 
@@ -22,6 +22,7 @@ REGISTRY: dict[str, FetchFn] = {
     "apple": apple.fetch,
     "google": google.fetch,
     "meta": meta.fetch,
+    "oracle": oracle.fetch,
 }
 
 

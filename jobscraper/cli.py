@@ -28,6 +28,8 @@ def _cmd_watch(args) -> int:
         settings.WATCH_INTERVAL = args.interval
     if args.company_interval:
         settings.WATCH_COMPANY_INTERVAL = args.company_interval
+    if args.priority_interval:
+        settings.WATCH_PRIORITY_INTERVAL = args.priority_interval
     if args.duration:
         settings.WATCH_DURATION = args.duration
     return main_entry()
@@ -73,6 +75,20 @@ def _cmd_probe(args) -> int:
     if jobs and not all(j.url for j in jobs):
         print("   ⚠️  some postings came back with no URL — check the adapter's url field")
     return 0 if jobs else 1
+
+
+def _cmd_delivery_status(_args) -> int:
+    """Inspect webhook attempts whose outcome Discord did not confirm."""
+    from .state import SeenStore
+    attempts = SeenStore(settings.STATE_FILE).delivery_attempts
+    if not attempts:
+        print("No webhook deliveries with unknown outcomes.")
+        return 0
+    print(f"{len(attempts)} webhook attempt(s) need manual review:")
+    for uid, item in sorted(attempts.items()):
+        print(f"  {item.get('attempted_at', '?')}  {uid}  {item.get('url', '')}")
+    print("Check Discord before clearing an attempt from delivery_attempts in the state file.")
+    return 1
 
 
 def _cmd_merge_state(args) -> int:
@@ -130,14 +146,14 @@ def _cmd_doctor(_args) -> int:
     from .main import _fetch_company
 
     enabled = [c for c in load_companies(settings.COMPANIES_FILE) if c.enabled]
-    dead, silent, healthy = [], [], 0
+    dead, empty, silent, healthy = [], [], [], 0
     with cf.ThreadPoolExecutor(max_workers=settings.CONCURRENCY) as ex:
         for company, jobs, err in ex.map(_fetch_company, enabled):
             if err:
                 dead.append(f"{company.name}: {err}")
                 continue
             if not jobs:
-                dead.append(f"{company.name}: 0 jobs fetched (check token/slug/config)")
+                empty.append(f"{company.name}: fetched successfully, 0 jobs returned")
                 continue
             # matches ignoring recency — "could this company ever alert?"
             m = sum(
@@ -154,11 +170,16 @@ def _cmd_doctor(_args) -> int:
     print(f"\n{len(enabled)} enabled companies checked:\n")
     print(f"  ✅ {healthy} have matching roles open now (will alert when one is fresh)")
     print(f"  🟡 {len(silent)} fetch fine but have no SWE+US/CA role right now")
-    print(f"  ❌ {len(dead)} BROKEN — fetch nothing/error, can never alert\n")
+    print(f"  ⚪ {len(empty)} fetched fine but returned zero jobs (verify if unexpected)")
+    print(f"  ❌ {len(dead)} BROKEN — fetch errored, can never alert\n")
     if dead:
         print("BROKEN (fix these — likely a bad token/slug):")
         for d in dead:
             print(f"  ❌ {d}")
+    if empty:
+        print("\nFetched fine but zero jobs:")
+        for e in empty:
+            print(f"  ⚪ {e}")
     if silent:
         print("\nNo matching role at the moment (usually fine — off-season):")
         for s in silent[:40]:
@@ -205,6 +226,8 @@ def build_parser() -> argparse.ArgumentParser:
     pw.add_argument("--company-interval", type=int, default=0,
                     help="seconds between full company-ATS sweeps "
                          f"(default {settings.WATCH_COMPANY_INTERVAL})")
+    pw.add_argument("--priority-interval", type=int, default=0,
+                    help=f"seconds between major-company sweeps (default {settings.WATCH_PRIORITY_INTERVAL})")
     pw.add_argument("--duration", type=int, default=0,
                     help=f"seconds to run before exiting (default {settings.WATCH_DURATION})")
     pw.set_defaults(fn=_cmd_watch)
@@ -227,6 +250,9 @@ def build_parser() -> argparse.ArgumentParser:
     pl.set_defaults(fn=_cmd_list)
 
     sub.add_parser("audit", help="freshness report of past alerts").set_defaults(fn=_cmd_audit)
+
+    sub.add_parser("delivery-status", help="show uncertain webhook deliveries").set_defaults(
+        fn=_cmd_delivery_status)
 
     sub.add_parser("doctor", help="health-check companies: which can produce alerts?").set_defaults(
         fn=_cmd_doctor)

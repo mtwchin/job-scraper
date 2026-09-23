@@ -40,6 +40,7 @@ _HEARTBEAT_INTERVAL = 30 * 60
 class Stats:
     cycles: int = 0
     company_sweeps: int = 0
+    priority_sweeps: int = 0
     sent: int = 0
     idle_cycles: int = 0        # nothing changed upstream; cycle short-circuited
     errors: int = 0
@@ -86,32 +87,41 @@ def watch() -> int:
 
     interval = max(settings.WATCH_INTERVAL, 15)
     company_interval = max(settings.WATCH_COMPANY_INTERVAL, interval)
+    priority_interval = max(settings.WATCH_PRIORITY_INTERVAL, 15)
     duration = settings.WATCH_DURATION
     stopper = _Stopper()
     store = SeenStore(settings.STATE_FILE)
     stats = Stats()
 
     logger.info(
-        "watch: polling feeds every %ds, full company sweep every %ds, for up to %s "
+        "watch: polling feeds every %ds, priority boards every %ds, full company sweep every %ds, for up to %s "
         "(%d records already known)",
-        interval, company_interval, _fmt_duration(duration), len(store),
+        interval, priority_interval, company_interval, _fmt_duration(duration), len(store),
     )
 
     end_at = time.monotonic() + duration
     next_company_sweep = 0.0   # sweep companies on the very first cycle
+    next_priority_sweep = 0.0
     next_flush = time.monotonic() + settings.WATCH_FLUSH_INTERVAL
     next_heartbeat = time.monotonic() + _HEARTBEAT_INTERVAL
 
     while not stopper.stop and time.monotonic() < end_at:
         cycle_started = time.monotonic()
-        include_companies = cycle_started >= next_company_sweep
+        full_sweep = cycle_started >= next_company_sweep
+        priority_sweep = not full_sweep and cycle_started >= next_priority_sweep
+        include_companies = full_sweep or priority_sweep
         stats.cycles += 1
 
         try:
-            c, general = main.collect_matches(include_companies=include_companies)
-            if include_companies:
+            c, general = main.collect_matches(include_companies=include_companies,
+                                              only_priority=priority_sweep)
+            if full_sweep:
                 stats.company_sweeps += 1
                 next_company_sweep = cycle_started + company_interval
+            elif priority_sweep:
+                stats.priority_sweeps += 1
+            if include_companies:
+                next_priority_sweep = cycle_started + priority_interval
 
             if not c.changed:
                 # Every feed answered 304 and we didn't sweep companies, so
@@ -152,10 +162,10 @@ def watch() -> int:
         store.save()
 
     logger.info(
-        "watch: done after %s — %d cycles (%d idle, %d full sweeps), %d notification(s), "
+        "watch: done after %s — %d cycles (%d idle, %d full sweeps, %d priority sweeps), %d notification(s), "
         "%d error(s), %d records",
         _fmt_duration(int(stats.uptime())), stats.cycles, stats.idle_cycles,
-        stats.company_sweeps, stats.sent, stats.errors, len(store),
+        stats.company_sweeps, stats.priority_sweeps, stats.sent, stats.errors, len(store),
     )
     return 0
 

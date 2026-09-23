@@ -46,6 +46,8 @@ def fetch(company: CompanyConfig) -> list[Job]:
                 }
                 if location:
                     params["location"] = location
+                if company.params.get("company"):
+                    params["company"] = company.params["company"]
                 resp = http.get(RESULTS, params=params)
                 if resp.status_code != 200:
                     break

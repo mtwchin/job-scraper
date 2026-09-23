@@ -112,6 +112,11 @@ class SeenStore:
     def __init__(self, path: Path):
         self.path = path
         self._seen: dict[str, dict] = {}
+        self.delivery_attempts: dict[str, dict] = {}
+        # A rejected attempt can already have reached the remote checkpoint.
+        # Keep a resolution marker so merging that older copy cannot restore it.
+        self.delivery_rejections: dict[str, str] = {}
+        self.prune_cutoff = ""
         self._by_url: dict[str, str] = {}
         self._by_fp: dict[str, str] = {}
         self._dirty = False
@@ -120,6 +125,7 @@ class SeenStore:
         # switched on long after the main store exists and shouldn't dump its
         # whole backlog the moment its webhook is set.
         self.simplify_all_seeded = False
+        self.health_alert_active = False
         # Sources whose existing backlog has already been absorbed. Adding a new
         # source must not dump its entire back catalogue into Discord as if it
         # had all just been posted, so an unrecognized source is seeded quietly
@@ -133,17 +139,16 @@ class SeenStore:
     def _load(self) -> None:
         try:
             data = json.loads(self.path.read_text(encoding="utf-8"))
-        except (json.JSONDecodeError, OSError):
-            # A corrupt/unreadable store is treated as absent, but we must not
-            # then "seed quietly" over a store that really did exist — that
-            # would silently swallow a backlog we may never have sent. Callers
-            # see existed=False and SEED_QUIETLY decides; the tmp+replace write
-            # below makes a torn file very unlikely in the first place.
-            self._seen = {}
-            self.existed = False
-            return
+        except (json.JSONDecodeError, OSError) as exc:
+            # A damaged state must fail closed. Treating it as a fresh install
+            # either repeats old webhook messages or quietly swallows postings.
+            raise ValueError(f"Cannot read seen-jobs state: {self.path}") from exc
         self._seen = data.get("jobs", {}) or {}
+        self.delivery_attempts = data.get("delivery_attempts", {}) or {}
+        self.delivery_rejections = data.get("delivery_rejections", {}) or {}
+        self.prune_cutoff = data.get("prune_cutoff", "") or ""
         self.simplify_all_seeded = bool(data.get("simplify_all_seeded", False))
+        self.health_alert_active = bool(data.get("health_alert_active", False))
         stored = data.get("seeded_sources")
         # A store written before this field existed still represents sources we
         # have long been alerting on. Recover them from the records themselves
@@ -198,13 +203,49 @@ class SeenStore:
         'fingerprint'. None means the posting is genuinely new."""
         if job.uid in self._seen:
             return "uid"
+        if job.uid in self.delivery_attempts:
+            return "attempt"
         if (key := dedup.canonical_url(job.url)) and key in self._by_url:
             return "url"
+        for attempt in self.delivery_attempts.values():
+            if (key := dedup.canonical_url(attempt.get("url", ""))) and key == dedup.canonical_url(job.url):
+                return "attempt"
         if use_fingerprint:
             fp = dedup.fingerprint(job.company, job.title, job.location)
             if fp and fp in self._by_fp:
                 return "fingerprint"
+            if fp and any(
+                fp == dedup.fingerprint(item.get("company", ""), item.get("title", ""), item.get("location", ""))
+                for item in self.delivery_attempts.values()
+            ):
+                return "attempt"
         return None
+
+    def begin_delivery(self, jobs: list[Job]) -> None:
+        for job in jobs:
+            self.delivery_rejections.pop(job.uid, None)
+            self.delivery_attempts[job.uid] = {
+                "title": job.title, "company": job.company, "url": job.url,
+                "location": job.location, "posted_at": job.posted_at,
+                "source": job.source, "attempted_at": _iso(_now()),
+            }
+        self._dirty = True
+        self.save()
+
+    def reject_delivery(self, jobs: list[Job]) -> None:
+        for job in jobs:
+            self.delivery_attempts.pop(job.uid, None)
+            self.delivery_rejections[job.uid] = _iso(_now())
+        self._dirty = True
+        self.save()
+
+    def confirm_delivery(self, jobs: list[Job]) -> None:
+        for job in jobs:
+            self.add(job)
+            self.delivery_attempts.pop(job.uid, None)
+            self.delivery_rejections.pop(job.uid, None)
+        self._dirty = True
+        self.save()
 
     def has_uid(self, uid: str) -> bool:
         return uid in self._seen
@@ -272,6 +313,10 @@ class SeenStore:
         if delisted_days <= 0:
             return 0
         cutoff = _now() - timedelta(days=delisted_days)
+        cutoff_iso = _iso(cutoff)
+        if cutoff_iso > self.prune_cutoff:
+            self.prune_cutoff = cutoff_iso
+            self._dirty = True
         stale = []
         for uid, rec in self._seen.items():
             # Records written before last_seen existed fall back to first_seen;
@@ -296,20 +341,33 @@ class SeenStore:
         Returns True if a write happened."""
         if not (self._dirty or force):
             return False
-        payload = {
-            "schema": _SCHEMA,
-            "updated_at": _iso(_now()),
-            "count": len(self._seen),
-            "simplify_all_seeded": self.simplify_all_seeded,
-            "seeded_sources": sorted(self.seeded_sources),
-            "jobs": self._seen,
-        }
         # Unique tmp name per writer: two writers sharing a scratch file means
         # one's partial write becomes the other's "atomic" replace. Threads share
         # a pid, so the thread id has to be in there too.
         tmp = self.path.with_suffix(
             f"{self.path.suffix}.{os.getpid()}.{threading.get_ident()}.tmp")
         with file_lock(self.path):
+            if self.path.exists():
+                # The state checkpoint process can add remote records while a
+                # long watch loop is still alive. Union them before each write
+                # so the loop's in-memory snapshot cannot erase that work.
+                try:
+                    current = json.loads(self.path.read_text(encoding="utf-8"))
+                except (json.JSONDecodeError, OSError) as exc:
+                    raise ValueError(f"Cannot read seen-jobs state: {self.path}") from exc
+                self._merge_payload(current)
+            payload = {
+                "schema": _SCHEMA,
+                "updated_at": _iso(_now()),
+                "count": len(self._seen),
+                "simplify_all_seeded": self.simplify_all_seeded,
+                "health_alert_active": self.health_alert_active,
+                "seeded_sources": sorted(self.seeded_sources),
+                "delivery_attempts": self.delivery_attempts,
+                "delivery_rejections": self.delivery_rejections,
+                "prune_cutoff": self.prune_cutoff,
+                "jobs": self._seen,
+            }
             tmp.write_text(json.dumps(payload, indent=2, sort_keys=True), encoding="utf-8")
             tmp.replace(self.path)
         self._dirty = False
@@ -329,12 +387,38 @@ class SeenStore:
             data = json.loads(other_path.read_text(encoding="utf-8"))
         except (json.JSONDecodeError, OSError):
             return 0
+        return self._merge_payload(data)
+
+    def _merge_payload(self, data: dict) -> int:
+        incoming_cutoff = data.get("prune_cutoff", "") or ""
+        if incoming_cutoff > self.prune_cutoff:
+            self.prune_cutoff = incoming_cutoff
+            self._dirty = True
         incoming = data.get("jobs", {}) or {}
+        incoming_attempts = data.get("delivery_attempts", {}) or {}
+        incoming_rejections = data.get("delivery_rejections", {}) or {}
         added = 0
         for uid, rec in incoming.items():
+            ts = _parse_iso(rec.get("last_seen", "")) or _parse_iso(rec.get("first_seen", ""))
+            if ts is not None and self.prune_cutoff and ts < _parse_iso(self.prune_cutoff):
+                continue
             if uid not in self._seen:
                 self._seen[uid] = rec
                 added += 1
+            if self.delivery_attempts.pop(uid, None) is not None:
+                self._dirty = True
+        for uid, timestamp in incoming_rejections.items():
+            if timestamp > self.delivery_rejections.get(uid, ""):
+                self.delivery_rejections[uid] = timestamp
+                self._dirty = True
+        for uid, rec in incoming_attempts.items():
+            if uid in self._seen or uid in self.delivery_attempts:
+                continue
+            if self.delivery_rejections.get(uid, "") >= rec.get("attempted_at", ""):
+                continue
+            if uid not in self.delivery_attempts:
+                self.delivery_attempts[uid] = rec
+                self._dirty = True
         merged_sources = set(data.get("seeded_sources") or [])
         if not merged_sources.issubset(self.seeded_sources):
             self.seeded_sources |= merged_sources
