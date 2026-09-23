@@ -1,5 +1,5 @@
 {
-  "count": 6097,
+  "count": 6099,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_alert_active": false,
@@ -14880,6 +14880,16 @@
       "title": "Management Trainee Intern",
       "url": "https://us-erac.icims.com/jobs/553479/job?mobile=true&needsRedirect=false"
     },
+    "simplify:entrust::simplify-3d3c9658-794e-4e6b-a5c4-c03ae49b51fe": {
+      "company": "Entrust",
+      "first_seen": "2026-09-23T15:35:14+00:00",
+      "last_seen": "2026-09-23T15:35:14+00:00",
+      "location": "Ottawa, ON, Canada",
+      "posted_at": "1790121600",
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/XMLNAME--Intern---Software-Development----8-months---Hybrid-Ottawa_R004359"
+    },
     "simplify:entrust::simplify-5b5294f8-f9a7-4dbd-ac1b-8ff014939e88": {
       "company": "Entrust",
       "first_seen": "2026-09-07T17:47:07+00:00",
@@ -14887,6 +14897,16 @@
       "posted_at": "1788739200",
       "title": "Software Developer Intern",
       "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern---Software-Developer---8-months-Hybrid-in-Ottawa_R004358"
+    },
+    "simplify:entrust::simplify-e8a23788-bd3c-493a-9ede-be9de1645c55": {
+      "company": "Entrust",
+      "first_seen": "2026-09-23T15:35:14+00:00",
+      "last_seen": "2026-09-23T15:35:14+00:00",
+      "location": "Ottawa, ON, Canada",
+      "posted_at": "1790121600",
+      "source": "simplify",
+      "title": "Software Development Intern - Citizen Remote Identity Verification",
+      "url": "https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/Canada---Ottawa/Intern--Software-Development---Hybrid-in-Ottawa_R004360"
     },
     "simplify:envision horizons llc::simplify-584d6519-6f67-48f9-b88c-0c1b41e3f7e3": {
       "company": "Envision Horizons LLC",
@@ -47978,5 +47998,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-23T15:30:04+00:00"
+  "updated_at": "2026-09-23T15:36:08+00:00"
 }
