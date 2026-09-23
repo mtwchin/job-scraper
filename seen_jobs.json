@@ -1,5 +1,5 @@
 {
-  "count": 6099,
+  "count": 6100,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_alert_active": false,
@@ -2483,6 +2483,16 @@
       "posted_at": "2026-09-14T09:09:35-04:00",
       "title": "Software Engineer - New Grad",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005"
+    },
+    "scale ai::4736426005": {
+      "company": "Scale AI",
+      "first_seen": "2026-09-23T18:03:43+00:00",
+      "last_seen": "2026-09-23T18:03:43+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "2026-09-23T13:55:35-04:00",
+      "source": "",
+      "title": "Software Engineer, Public Sector - New Grad",
+      "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005"
     },
     "seatgeek::7858968": {
       "company": "SeatGeek",
@@ -47998,5 +48008,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-23T16:16:10+00:00"
+  "updated_at": "2026-09-23T18:04:13+00:00"
 }
