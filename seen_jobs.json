@@ -1,5 +1,5 @@
 {
-  "count": 6103,
+  "count": 6104,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_alert_active": false,
@@ -1421,6 +1421,16 @@
       "posted_at": "2026-07-14T12:20:35-04:00",
       "title": "Software Engineer, Performance - New Grad",
       "url": "https://nuro.ai/careersitem?gh_jid=8064655"
+    },
+    "nuro::8227399": {
+      "company": "Nuro",
+      "first_seen": "2026-09-23T20:31:00+00:00",
+      "last_seen": "2026-09-23T20:31:00+00:00",
+      "location": "Mountain View, California (HQ)",
+      "posted_at": "2026-09-23T16:25:45-04:00",
+      "source": "",
+      "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
+      "url": "https://nuro.ai/careersitem?gh_jid=8227399"
     },
     "nvidia::PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522": {
       "company": "Nvidia",
@@ -48039,5 +48049,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-23T19:59:23+00:00"
+  "updated_at": "2026-09-23T20:31:25+00:00"
 }
