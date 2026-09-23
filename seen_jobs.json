@@ -1,5 +1,5 @@
 {
-  "count": 6082,
+  "count": 6086,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_alert_active": false,
@@ -393,6 +393,36 @@
       "title": "Entry Level Systems Engineer, C2 Integration ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007"
     },
+    "apple::200664320-3810": {
+      "company": "Apple",
+      "first_seen": "2026-09-23T10:45:10+00:00",
+      "last_seen": "2026-09-23T10:45:10+00:00",
+      "location": "United States",
+      "posted_at": "2026-05-21T19:15:38.511Z",
+      "source": "",
+      "title": "Software Engineering Masters Internships",
+      "url": "https://jobs.apple.com/en-us/details/200664320-3810/software-engineering-masters-internships"
+    },
+    "apple::200664323-3810": {
+      "company": "Apple",
+      "first_seen": "2026-09-23T10:45:10+00:00",
+      "last_seen": "2026-09-23T10:45:10+00:00",
+      "location": "United States",
+      "posted_at": "2026-05-21T19:16:20.297Z",
+      "source": "",
+      "title": "Software PhD Internships",
+      "url": "https://jobs.apple.com/en-us/details/200664323-3810/software-phd-internships"
+    },
+    "apple::200664785-3810": {
+      "company": "Apple",
+      "first_seen": "2026-09-23T10:45:10+00:00",
+      "last_seen": "2026-09-23T10:45:10+00:00",
+      "location": "United States",
+      "posted_at": "2026-05-21T19:14:07.743Z",
+      "source": "",
+      "title": "Software Undergrad Engineering Internships",
+      "url": "https://jobs.apple.com/en-us/details/200664785-3810/software-undergrad-engineering-internships"
+    },
     "applied intuition::31140958-d768-452c-8498-0b1c7f403943": {
       "company": "Applied Intuition",
       "first_seen": "2026-09-02T19:52:06+00:00",
@@ -638,6 +668,16 @@
       "source": "",
       "title": "Software Engineer Data & AI I (Intern) \u2013 United States",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2025921"
+    },
+    "cisco::Software-Engineer-Data---AI-I--Intern----United-States_2026306": {
+      "company": "Cisco",
+      "first_seen": "2026-09-23T10:45:10+00:00",
+      "last_seen": "2026-09-23T10:45:10+00:00",
+      "location": "San Jose, California, US, Milpitas, California, US, RTP, North Carolina, US, San Francisco, California, US",
+      "posted_at": "Posted 2 Days Ago",
+      "source": "",
+      "title": "Software Engineer Data & AI I (Intern) \u2013 United States",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306"
     },
     "cisco::Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926": {
       "company": "Cisco",
@@ -12160,7 +12200,6 @@
     "simplify:copart::simplify-b5e81d8d-839a-4ffb-b147-0a513ffea0a8": {
       "company": "Copart",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-09-23T10:05:30+00:00",
       "posted_at": "1779527612",
       "title": "Software Engineer Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510"
@@ -27187,8 +27226,8 @@
     },
     "simplify:northumbria university::simplify-bdc0a0d6-e899-4815-963c-144ad2bfb399": {
       "company": "Northumbria University",
-      "first_seen": "2026-09-23T09:35:57+00:00",
-      "last_seen": "2026-09-23T09:35:57+00:00",
+      "first_seen": "2026-09-23T10:45:10+00:00",
+      "last_seen": "2026-09-23T10:45:10+00:00",
       "location": "Newcastle upon Tyne, UK",
       "posted_at": "1777021254",
       "source": "simplify",
@@ -40748,7 +40787,7 @@
     "simplify:tyler technologies::simplify-d6c24595-0dd3-449f-b0ae-d13e256fc740": {
       "company": "Tyler Technologies",
       "first_seen": "2026-09-22T03:24:56+00:00",
-      "last_seen": "2026-09-23T10:05:30+00:00",
+      "last_seen": "2026-09-23T10:45:09+00:00",
       "location": "Yarmouth, ME, Orono, ME, Falmouth, ME",
       "posted_at": "1790029561",
       "source": "simplify",
@@ -42020,7 +42059,7 @@
     "simplify:versant::simplify-0272e0de-c540-444a-9e2e-63cc98f621e8": {
       "company": "Versant",
       "first_seen": "2026-09-02T04:55:51+00:00",
-      "last_seen": "2026-09-23T09:35:30+00:00",
+      "last_seen": "2026-09-23T10:45:09+00:00",
       "posted_at": "1788311223",
       "title": "Software Engineer 2",
       "url": "https://jobs.smartrecruiters.com/Versant3/744000146840259"
@@ -47829,5 +47868,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-23T10:08:37+00:00"
+  "updated_at": "2026-09-23T10:45:47+00:00"
 }
