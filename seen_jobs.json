@@ -1,5 +1,5 @@
 {
-  "count": 6102,
+  "count": 6103,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_alert_active": false,
@@ -1156,6 +1156,16 @@
       "posted_at": "Posted Today",
       "title": "Software Engineering - Intern, Graduate",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836"
+    },
+    "jpmc::210785885": {
+      "company": "JPMC",
+      "first_seen": "2026-09-23T19:58:28+00:00",
+      "last_seen": "2026-09-23T19:58:28+00:00",
+      "location": "Plano, TX, United States",
+      "posted_at": "2026-09-22",
+      "source": "",
+      "title": "Associate -Infrastructure Engineer - Privilege & Access Management",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210785885/"
     },
     "jump trading::7565728": {
       "company": "Jump Trading",
@@ -48029,5 +48039,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-23T19:37:21+00:00"
+  "updated_at": "2026-09-23T19:59:23+00:00"
 }
