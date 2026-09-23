@@ -1,5 +1,5 @@
 {
-  "count": 6059,
+  "count": 6063,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3725,6 +3725,16 @@
       "posted_at": "1783548695",
       "title": "Software Engineer - Datapath",
       "url": "https://alkira.bamboohr.com/careers/232/"
+    },
+    "simplify:allegion::simplify-3e255e6f-7b4c-4d0b-9c5f-cc5980d7f16c": {
+      "company": "Allegion",
+      "first_seen": "2026-09-23T01:32:41+00:00",
+      "last_seen": "2026-09-23T01:32:41+00:00",
+      "location": "Colorado Springs, CO",
+      "posted_at": "1790035200",
+      "source": "simplify",
+      "title": "Digital Manufacturing Intern",
+      "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Digital-Manufacturing_JR37704-1"
     },
     "simplify:allegion::simplify-87fb4399-48fd-4035-854a-817a133804a7": {
       "company": "Allegion",
@@ -17917,7 +17927,7 @@
     "simplify:goldman sachs::simplify-1949c912-65b2-42ac-9836-c110baed0ef6": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-22T03:24:55+00:00",
+      "last_seen": "2026-09-23T01:32:14+00:00",
       "posted_at": "1786767938",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/177808?type=students"
@@ -17940,7 +17950,7 @@
     "simplify:goldman sachs::simplify-5a49d74c-fa9f-4dd4-a66b-24fc3d9c1def": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-22T03:24:55+00:00",
+      "last_seen": "2026-09-23T01:32:14+00:00",
       "posted_at": "1786767952",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171564?type=students"
@@ -17948,7 +17958,7 @@
     "simplify:goldman sachs::simplify-5bdec003-2a02-42a4-a602-467541840552": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-22T03:24:55+00:00",
+      "last_seen": "2026-09-23T01:32:14+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171565?type=students"
@@ -17956,7 +17966,7 @@
     "simplify:goldman sachs::simplify-792220f4-3ba1-4cf8-843e-e23208ba8d24": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-22T03:24:55+00:00",
+      "last_seen": "2026-09-23T01:32:14+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/171553?type=students"
@@ -17986,7 +17996,7 @@
     "simplify:goldman sachs::simplify-b2b3a7df-bea1-4290-b988-4c3e567814b8": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-22T03:24:55+00:00",
+      "last_seen": "2026-09-23T01:32:14+00:00",
       "posted_at": "1786767944",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/170637?type=students"
@@ -21654,6 +21664,16 @@
       "posted_at": "1788401238",
       "title": "Software Engineer - Measurement Applications",
       "url": "https://jobs.keysight.com/jobs/54139?icims=1"
+    },
+    "simplify:keysight technologies::simplify-0b1fe42d-8ea6-4c68-bbf7-5ba32bf4a030": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-09-23T01:32:41+00:00",
+      "last_seen": "2026-09-23T01:32:41+00:00",
+      "location": "Santa Rosa, CA",
+      "posted_at": "1790125918",
+      "source": "simplify",
+      "title": "Semiconductor Systems Automation Intern",
+      "url": "https://jobs.keysight.com/jobs/54371?icims=1"
     },
     "simplify:keysight technologies::simplify-1a99b100-e38e-443b-a9cc-1be8ada5aa7f": {
       "company": "Keysight Technologies",
@@ -37885,6 +37905,16 @@
       "title": "Software Engineer Intern",
       "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550"
     },
+    "simplify:the aerospace corporation::simplify-3faca9c1-e66c-437c-a5bd-9ab5cd608a2f": {
+      "company": "The Aerospace Corporation",
+      "first_seen": "2026-09-23T01:32:41+00:00",
+      "last_seen": "2026-09-23T01:32:41+00:00",
+      "location": "El Segundo, CA",
+      "posted_at": "1790035200",
+      "source": "simplify",
+      "title": "Software Tools and Assurance Intern - Information Systems and Cyber Division",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429"
+    },
     "simplify:the aerospace corporation::simplify-5520fdfd-d417-47dd-9fa9-961f1e3f2457": {
       "company": "The Aerospace Corporation",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -38482,6 +38512,7 @@
     "simplify:the walt disney company::simplify-a8fc18f9-4b29-4232-9524-f741f63e4e17": {
       "company": "The Walt Disney Company",
       "first_seen": "2026-08-24T15:05:46+00:00",
+      "last_seen": "2026-09-23T01:32:14+00:00",
       "posted_at": "1787529600",
       "title": "Computer Science / Computer Engineering Intern - Multiple Teams",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Lake-Buena-Vista-FL-USA/WDW-Computer-Science---Computer-Engineering-Interns--Spring-2027_10158145-1"
@@ -42188,6 +42219,16 @@
       "posted_at": "1783635116",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af/application"
+    },
+    "simplify:vital lyfe::simplify-55a8df83-d3ac-49bf-acf9-3f0994fef2ab": {
+      "company": "Vital Lyfe",
+      "first_seen": "2026-09-23T01:32:41+00:00",
+      "last_seen": "2026-09-23T01:32:41+00:00",
+      "location": "Torrance, CA",
+      "posted_at": "1790126420",
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/vital-lyfe/c39b72aa-9ad5-43e7-a3fd-8ef2e152ee4b/application?embed=true"
     },
     "simplify:vivsoft technologies::simplify-19b37e51-2041-4d10-a23e-d342a6b7f791": {
       "company": "VivSoft Technologies",
@@ -47589,5 +47630,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-23T00:13:17+00:00"
+  "updated_at": "2026-09-23T01:33:18+00:00"
 }
