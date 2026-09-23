@@ -1,5 +1,8 @@
 {
-  "count": 6079,
+  "count": 6081,
+  "delivery_attempts": {},
+  "delivery_rejections": {},
+  "health_alert_active": false,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -22053,6 +22056,16 @@
       "title": "Customer Application Engineer",
       "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Customer-Applications-Development-Engineer_2638213-1"
     },
+    "simplify:kla corporation::simplify-b26371db-d53d-469b-b8e0-1f50db3f6004": {
+      "company": "KLA Corporation",
+      "first_seen": "2026-09-23T06:36:31+00:00",
+      "last_seen": "2026-09-23T06:36:31+00:00",
+      "location": "Milpitas, CA",
+      "posted_at": "1790035200",
+      "source": "simplify",
+      "title": "Software Engineering Intern - C++ - Unix",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1"
+    },
     "simplify:kla corporation::simplify-ea6ef50e-2bca-4a9a-be3e-1f91bc32ca03": {
       "company": "KLA Corporation",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -33046,6 +33059,16 @@
       "posted_at": "1788825600",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01872097"
+    },
+    "simplify:rtx::simplify-9eba7545-19f8-461d-b313-6a523b17e88c": {
+      "company": "RTX",
+      "first_seen": "2026-09-23T06:36:31+00:00",
+      "last_seen": "2026-09-23T06:36:31+00:00",
+      "location": "East Hartford, CT",
+      "posted_at": "1790035200",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-G--400-Main-St--BLDG-G/Summer-2027-Software-Engineering-Intern--Onsite-_01873645"
     },
     "simplify:rtx::simplify-9f477186-5000-4fe3-8151-4971b1c4abfb": {
       "company": "RTX",
@@ -47786,6 +47809,7 @@
       "url": "https://job-boards.greenhouse.io/webflow/jobs/8122601"
     }
   },
+  "prune_cutoff": "",
   "schema": 2,
   "seeded_sources": [
     "",
@@ -47793,5 +47817,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-23T05:18:30+00:00"
+  "updated_at": "2026-09-23T06:38:32+00:00"
 }
