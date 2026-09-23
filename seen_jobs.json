@@ -1,5 +1,5 @@
 {
-  "count": 6089,
+  "count": 6091,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_alert_active": false,
@@ -13018,6 +13018,16 @@
       "title": "Software Engineer 1",
       "url": "https://careers.dat.com/jobs/6091895004?gh_jid=6091895004"
     },
+    "simplify:data intellect::simplify-e8249f6e-ca38-4ecd-b7e5-cc47d973905a": {
+      "company": "Data Intellect",
+      "first_seen": "2026-09-23T14:36:34+00:00",
+      "last_seen": "2026-09-23T14:36:34+00:00",
+      "location": "Belfast, UK",
+      "posted_at": "1790172555",
+      "source": "simplify",
+      "title": "Graduate STEM Developer - October Start",
+      "url": "https://jobs.smartrecruiters.com/DataIntellect/744000151366579"
+    },
     "simplify:data intellect::simplify-ec031b29-4e12-40b8-b3e6-99b5b95a4b6e": {
       "company": "Data Intellect",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -19256,6 +19266,16 @@
       "posted_at": "1786679039",
       "title": "Software Engineer 1",
       "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155551"
+    },
+    "simplify:honeywell::simplify-ea902b82-59c8-4454-b4d9-e8acf43bf75b": {
+      "company": "Honeywell",
+      "first_seen": "2026-09-23T14:36:34+00:00",
+      "last_seen": "2026-09-23T14:36:34+00:00",
+      "location": "Duluth, GA",
+      "posted_at": "1790173112",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/157648"
     },
     "simplify:honeywell::simplify-f79b166b-afea-4a0b-9644-b397a4fc143e": {
       "company": "Honeywell",
@@ -47898,5 +47918,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-23T14:35:58+00:00"
+  "updated_at": "2026-09-23T14:37:00+00:00"
 }
