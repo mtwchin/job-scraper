@@ -1,5 +1,5 @@
 {
-  "count": 6063,
+  "count": 6078,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -3922,6 +3922,7 @@
     "simplify:altice usa::simplify-ed1c1803-cea0-4778-8d48-8ba69bc0716a": {
       "company": "Altice USA",
       "first_seen": "2026-08-29T02:50:35+00:00",
+      "last_seen": "2026-09-23T01:35:13+00:00",
       "posted_at": "1787304182",
       "title": "Software Development Engineer 1",
       "url": "https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors"
@@ -6402,6 +6403,16 @@
       "posted_at": "1770275588",
       "title": "Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607/application"
+    },
+    "simplify:authentic::simplify-697d4f47-13f9-46f4-85e4-18851d90babb": {
+      "company": "Authentic",
+      "first_seen": "2026-09-23T01:35:15+00:00",
+      "last_seen": "2026-09-23T01:35:15+00:00",
+      "location": "NYC",
+      "posted_at": "1790116322",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://job-boards.greenhouse.io/authenticinsurance/jobs/4114318009"
     },
     "simplify:authorium::simplify-4fcc1403-63ec-409f-9fda-0bac3a85749d": {
       "company": "Authorium",
@@ -10996,6 +11007,16 @@
       "title": "Software Engineer 2",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer-II--Full-Time----United-States_2019205"
     },
+    "simplify:cisco::simplify-4592c922-5f50-4174-9938-79cc848b1e39": {
+      "company": "Cisco",
+      "first_seen": "2026-09-23T01:35:14+00:00",
+      "last_seen": "2026-09-23T01:35:14+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1790115641",
+      "source": "simplify",
+      "title": "Compiler Software Engineer 1 - Core Platform Software and Toolchains",
+      "url": "https://careers.cisco.com/global/en/job/2025313"
+    },
     "simplify:cisco::simplify-5199b683-6293-4db7-9b3b-04a3a15cb801": {
       "company": "Cisco",
       "first_seen": "2026-07-06T22:52:48+00:00",
@@ -11009,6 +11030,16 @@
       "posted_at": "1783987200",
       "title": "Software Engineer Quality Assurance 2",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-QA-II--Full-Time----United-States_1449147"
+    },
+    "simplify:cisco::simplify-6a0248da-3508-46b4-90f1-07d13627e1c1": {
+      "company": "Cisco",
+      "first_seen": "2026-09-23T01:35:14+00:00",
+      "last_seen": "2026-09-23T01:35:14+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1790035200",
+      "source": "simplify",
+      "title": "Software Engineer Compiler 1",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Austin-Texas-US/Software-Engineer-Complier-I--Full-Time----United-States_2025313"
     },
     "simplify:cisco::simplify-816fa3ce-73c5-4f4b-8a2a-6fab0a909948": {
       "company": "Cisco",
@@ -12850,6 +12881,16 @@
       "title": "Mechanical Product Engineer 1 - Cab Exterior",
       "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Mechanical-Product-Engineer-I--Cab-Exterior--L7-_DT-18755-1"
     },
+    "simplify:daimler truck::simplify-e156668e-e925-4954-bb28-de057131545b": {
+      "company": "Daimler Truck",
+      "first_seen": "2026-09-23T01:35:15+00:00",
+      "last_seen": "2026-09-23T01:35:15+00:00",
+      "location": "Portland, OR",
+      "posted_at": "1790035200",
+      "source": "simplify",
+      "title": "Manufacturing Data & AI Developer",
+      "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Manufacturing-Data---AI-Developer_DT-19752-1"
+    },
     "simplify:daktronics::simplify-e658f2bd-3684-4904-93bd-12354df5a4de": {
       "company": "Daktronics",
       "first_seen": "2026-08-17T15:53:03+00:00",
@@ -13029,6 +13070,16 @@
       "posted_at": "1789396983",
       "title": "Entry-level Software Developer",
       "url": "https://careers-decisionpointcorp.icims.com/jobs/3766/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:decisionpoint::simplify-944082f9-dd37-42b8-a745-f3fe806525dc": {
+      "company": "DecisionPoint",
+      "first_seen": "2026-09-23T01:35:15+00:00",
+      "last_seen": "2026-09-23T01:35:15+00:00",
+      "location": "Scott AFB, IL",
+      "posted_at": "1790114719",
+      "source": "simplify",
+      "title": "Junior Software Developer",
+      "url": "https://careers-decisionpointcorp.icims.com/jobs/3786/job?mobile=true&needsRedirect=false"
     },
     "simplify:dedalus labs::simplify-8c8c7d2c-0377-4609-87fb-df719e4b5165": {
       "company": "Dedalus Labs",
@@ -15332,6 +15383,26 @@
       "source": "simplify",
       "title": "Software Development Engineer 1",
       "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer-I--Former-Summer-2026-Interns-_RP1038795"
+    },
+    "simplify:f5::simplify-8b1cf0ea-db75-4823-9d8a-2dcf9aaa270f": {
+      "company": "F5",
+      "first_seen": "2026-09-23T01:35:15+00:00",
+      "last_seen": "2026-09-23T01:35:15+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1790035200",
+      "source": "simplify",
+      "title": "Software Engineer 2 - Digital",
+      "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Engineer-II_RP1038820"
+    },
+    "simplify:f5::simplify-f65b2779-c9d2-4cdc-8327-38e3c12c8887": {
+      "company": "F5",
+      "first_seen": "2026-09-23T01:35:15+00:00",
+      "last_seen": "2026-09-23T01:35:15+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1790035200",
+      "source": "simplify",
+      "title": "Software Development Engineer 1 (AI)",
+      "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Engineer-I_RP1038827-1"
     },
     "simplify:fab2::simplify-21f8248c-0403-4432-91a0-b92f3bc0fbb9": {
       "company": "Fab2",
@@ -20021,6 +20092,7 @@
     "simplify:intel::simplify-6f79a671-9821-417a-97cd-a1c96699cc9c": {
       "company": "Intel",
       "first_seen": "2026-09-02T04:55:49+00:00",
+      "last_seen": "2026-09-23T01:35:13+00:00",
       "posted_at": "1788220800",
       "title": "Database Application Development Engineer - Foundry Automation",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Database-Application-Development-Engineer_JR0286744"
@@ -22048,6 +22120,16 @@
       "posted_at": "1782165928",
       "title": "Applications Development Engineer",
       "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Applications-Development-Engineer_2637888"
+    },
+    "simplify:kla::simplify-ede5b45b-711e-47d3-a320-db8aa4c46b0e": {
+      "company": "KLA",
+      "first_seen": "2026-09-23T01:35:15+00:00",
+      "last_seen": "2026-09-23T01:35:15+00:00",
+      "location": "Ann Arbor, MI",
+      "posted_at": "1790035200",
+      "source": "simplify",
+      "title": "Software Engineer 2",
+      "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Engr--Software-2_2640145"
     },
     "simplify:kla::simplify-fb99fc9f-da10-4a0c-9d4c-565dd66138c8": {
       "company": "KLA",
@@ -24465,6 +24547,7 @@
     "simplify:merck::simplify-25f1d732-78f0-476f-9d25-b0f357ab023f": {
       "company": "Merck",
       "first_seen": "2026-08-07T03:28:57+00:00",
+      "last_seen": "2026-09-23T01:35:13+00:00",
       "posted_at": "1785974400",
       "title": "Software Engineer - AI Development",
       "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---New-Jersey---Rahway/Software-Engineer---AI-Development_R408724-1"
@@ -24886,6 +24969,16 @@
       "posted_at": "1785823778",
       "title": "Software Engineer Intern - Cloud & Distributed Backend",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923"
+    },
+    "simplify:microsoft::simplify-8afcea8a-f2ea-4939-a079-70873c2a97db": {
+      "company": "Microsoft",
+      "first_seen": "2026-09-23T01:35:14+00:00",
+      "last_seen": "2026-09-23T01:35:14+00:00",
+      "location": "Reston, VA",
+      "posted_at": "1790125610",
+      "source": "simplify",
+      "title": "Software Engineer - Cleared",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982911"
     },
     "simplify:microsoft::simplify-8b82242b-ee49-413d-9ba5-a840c2dc3385": {
       "company": "Microsoft",
@@ -27295,6 +27388,36 @@
       "title": "Member of Technical Staff 2 - Service Provider",
       "url": "https://jobs.jobvite.com/nutanix/job/o5HuAfwA?nl=1&nl=1&fr=false"
     },
+    "simplify:nutanix::simplify-a32df889-25e2-4ac6-8202-5cad12a2d4df": {
+      "company": "Nutanix",
+      "first_seen": "2026-09-23T01:35:15+00:00",
+      "last_seen": "2026-09-23T01:35:15+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1790115641",
+      "source": "simplify",
+      "title": "Software Developer - Software Defined Security - Nutanix Flow",
+      "url": "https://jobs.jobvite.com/nutanix/job/o2lOAfwv?nl=1&nl=1&fr=false"
+    },
+    "simplify:nutanix::simplify-ad05a377-d0d7-4704-a3b8-b1dde5274964": {
+      "company": "Nutanix",
+      "first_seen": "2026-09-23T01:35:15+00:00",
+      "last_seen": "2026-09-23T01:35:15+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1790115639",
+      "source": "simplify",
+      "title": "Member of Technical Staff 2",
+      "url": "https://jobs.jobvite.com/nutanix/job/oCgOAfw0?nl=1&nl=1&fr=false"
+    },
+    "simplify:nutanix::simplify-e0bbf160-8735-47f1-8e2f-f5eac8713c75": {
+      "company": "Nutanix",
+      "first_seen": "2026-09-23T01:35:15+00:00",
+      "last_seen": "2026-09-23T01:35:15+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1790115639",
+      "source": "simplify",
+      "title": "Member of Technical Staff 2 - Software Defined Security - Nutanix Flow",
+      "url": "https://jobs.jobvite.com/nutanix/job/oHpOAfwe?nl=1&nl=1&fr=false"
+    },
     "simplify:nutanix::simplify-ea07752f-d6d3-4dba-a416-8e31612d86cb": {
       "company": "Nutanix",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -29662,6 +29785,16 @@
       "title": "Full Stack Engineer",
       "url": "https://jobs.ashbyhq.com/joinpogo/570c8f47-ee6f-4c54-9858-33d9f2233fb6/application?embed=true"
     },
+    "simplify:point::simplify-8e844e5f-0bbf-48a1-83fc-1c2710d29d18": {
+      "company": "Point",
+      "first_seen": "2026-09-23T01:35:15+00:00",
+      "last_seen": "2026-09-23T01:35:15+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1790116685",
+      "source": "simplify",
+      "title": "Associate Software Engineer - Customer Operations",
+      "url": "https://point.com/hiring?gh_jid=8829278002"
+    },
     "simplify:pointclickcare::simplify-cd82f878-c6dc-4bdf-9046-b597ab7b38ef": {
       "company": "PointClickCare",
       "first_seen": "2026-09-01T22:35:56+00:00",
@@ -31346,7 +31479,7 @@
     "simplify:roadrunner::simplify-d7b2e201-b556-489b-a8f9-5ccb4788c8d8": {
       "company": "RoadRunner",
       "first_seen": "2026-09-16T01:31:40+00:00",
-      "last_seen": "2026-09-20T00:01:56+00:00",
+      "last_seen": "2026-09-23T01:35:13+00:00",
       "location": "SF",
       "posted_at": "1789521465",
       "source": "simplify",
@@ -35073,6 +35206,16 @@
       "title": "Associate Software Engineer",
       "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Assoc-Software-Engineer_R-2026-69992"
     },
+    "simplify:southwest airlines::simplify-8373f031-9eb9-45a6-9012-e95eca490eff": {
+      "company": "Southwest Airlines",
+      "first_seen": "2026-09-23T01:35:15+00:00",
+      "last_seen": "2026-09-23T01:35:15+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1790035200",
+      "source": "simplify",
+      "title": "Associate Software Engineer - Direct College Hire",
+      "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2026-72886"
+    },
     "simplify:space dynamics laboratory::simplify-6933b4d1-6f8c-4cd0-a552-295658985f28": {
       "company": "Space Dynamics Laboratory",
       "first_seen": "2026-09-01T09:52:41+00:00",
@@ -36436,6 +36579,16 @@
       "posted_at": "1772175901",
       "title": "Core Java \u2013 Multithreading - Socket Programming",
       "url": "https://jobs.smartrecruiters.com/systemCanadaTechnologies/72248172"
+    },
+    "simplify:systems planning and analysis::simplify-1e42e978-b766-4f98-a946-d8005e4e6529": {
+      "company": "Systems Planning and Analysis",
+      "first_seen": "2026-09-23T01:35:15+00:00",
+      "last_seen": "2026-09-23T01:35:15+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1790115086",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://spa.jibeapply.com/jobs/23504?icims=1"
     },
     "simplify:systems planning and analysis::simplify-c9e8fbe2-493b-49f9-86ad-7fcf74ee4a85": {
       "company": "Systems Planning and Analysis",
@@ -40601,7 +40754,7 @@
     "simplify:u.s. bank::simplify-63c995b0-3122-45a1-8d57-e418f2c90068": {
       "company": "U.S. Bank",
       "first_seen": "2026-09-14T22:34:43+00:00",
-      "last_seen": "2026-09-20T00:01:56+00:00",
+      "last_seen": "2026-09-23T01:35:13+00:00",
       "location": "Hopkins, MN",
       "posted_at": "1789344000",
       "source": "simplify",
@@ -47630,5 +47783,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-23T01:33:18+00:00"
+  "updated_at": "2026-09-23T01:38:20+00:00"
 }
