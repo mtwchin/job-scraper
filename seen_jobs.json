@@ -1,5 +1,5 @@
 {
-  "count": 6078,
+  "count": 6079,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -1386,6 +1386,16 @@
       "source": "",
       "title": "Software Engineer, Simulation and Virtualization (RDSS Intern)",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783"
+    },
+    "nvidia::Software-Engineering-Intern--Compiler-Verification---Spring-2027_JR2026177": {
+      "company": "Nvidia",
+      "first_seen": "2026-09-23T04:23:35+00:00",
+      "last_seen": "2026-09-23T04:23:35+00:00",
+      "location": "2 Locations",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Software Engineering Intern, Compiler Verification - Spring 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Beijing/Software-Engineering-Intern--Compiler-Verification---Spring-2027_JR2026177"
     },
     "nvidia::Software-Engineering-Intern--DLFW-Comms---2027_JR2025701": {
       "company": "Nvidia",
@@ -47783,5 +47793,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-23T01:38:20+00:00"
+  "updated_at": "2026-09-23T04:28:22+00:00"
 }
