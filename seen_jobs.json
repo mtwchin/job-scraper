@@ -1,5 +1,5 @@
 {
-  "count": 6104,
+  "count": 6106,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_alert_active": false,
@@ -2520,6 +2520,26 @@
       "posted_at": "2026-06-11T16:23:10-04:00",
       "title": "Software Engineer - New Grad",
       "url": "https://seatgeek.com/jobs/7858968?gh_jid=7858968"
+    },
+    "seatgeek::8227548": {
+      "company": "SeatGeek",
+      "first_seen": "2026-09-23T20:47:21+00:00",
+      "last_seen": "2026-09-23T20:47:21+00:00",
+      "location": "New York, New York",
+      "posted_at": "2026-09-23T16:43:35-04:00",
+      "source": "",
+      "title": "Software Engineer - New Grad",
+      "url": "https://seatgeek.com/jobs/8227548?gh_jid=8227548"
+    },
+    "seatgeek::8227553": {
+      "company": "SeatGeek",
+      "first_seen": "2026-09-23T20:47:21+00:00",
+      "last_seen": "2026-09-23T20:47:21+00:00",
+      "location": "New York, New York",
+      "posted_at": "2026-09-23T16:44:26-04:00",
+      "source": "",
+      "title": "Software Engineer - Internship",
+      "url": "https://seatgeek.com/jobs/8227553?gh_jid=8227553"
     },
     "shield ai::633a3038-574c-45ff-babb-7e1b8b7c6196": {
       "company": "Shield AI",
@@ -48049,5 +48069,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-23T20:31:25+00:00"
+  "updated_at": "2026-09-23T20:47:28+00:00"
 }
