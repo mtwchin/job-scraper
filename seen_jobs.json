@@ -12160,6 +12160,7 @@
     "simplify:copart::simplify-b5e81d8d-839a-4ffb-b147-0a513ffea0a8": {
       "company": "Copart",
       "first_seen": "2026-07-14T19:49:46+00:00",
+      "last_seen": "2026-09-23T10:05:30+00:00",
       "posted_at": "1779527612",
       "title": "Software Engineer Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510"
@@ -40747,7 +40748,7 @@
     "simplify:tyler technologies::simplify-d6c24595-0dd3-449f-b0ae-d13e256fc740": {
       "company": "Tyler Technologies",
       "first_seen": "2026-09-22T03:24:56+00:00",
-      "last_seen": "2026-09-22T03:24:56+00:00",
+      "last_seen": "2026-09-23T10:05:30+00:00",
       "location": "Yarmouth, ME, Orono, ME, Falmouth, ME",
       "posted_at": "1790029561",
       "source": "simplify",
@@ -47828,5 +47829,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-23T09:38:34+00:00"
+  "updated_at": "2026-09-23T10:08:37+00:00"
 }
