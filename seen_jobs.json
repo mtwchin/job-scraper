@@ -1,5 +1,5 @@
 {
-  "count": 6081,
+  "count": 6082,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_alert_active": false,
@@ -27184,6 +27184,16 @@
       "title": "Forward Deployed Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/northslope-technologies/80b82167-7101-4f78-9006-7755dd2ca01e/application"
     },
+    "simplify:northumbria university::simplify-bdc0a0d6-e899-4815-963c-144ad2bfb399": {
+      "company": "Northumbria University",
+      "first_seen": "2026-09-23T09:35:57+00:00",
+      "last_seen": "2026-09-23T09:35:57+00:00",
+      "location": "Newcastle upon Tyne, UK",
+      "posted_at": "1777021254",
+      "source": "simplify",
+      "title": "KTP Associate: Software and Analytics Specialist",
+      "url": "https://fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4035"
+    },
     "simplify:northwell health::simplify-6c1fb526-53c3-4b84-b3b9-f057092282c6": {
       "company": "Northwell Health",
       "first_seen": "2026-07-23T23:33:02+00:00",
@@ -42009,6 +42019,7 @@
     "simplify:versant::simplify-0272e0de-c540-444a-9e2e-63cc98f621e8": {
       "company": "Versant",
       "first_seen": "2026-09-02T04:55:51+00:00",
+      "last_seen": "2026-09-23T09:35:30+00:00",
       "posted_at": "1788311223",
       "title": "Software Engineer 2",
       "url": "https://jobs.smartrecruiters.com/Versant3/744000146840259"
@@ -47817,5 +47828,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-23T06:38:32+00:00"
+  "updated_at": "2026-09-23T09:38:34+00:00"
 }
