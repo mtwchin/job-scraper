@@ -1,5 +1,5 @@
 {
-  "count": 6109,
+  "count": 6123,
   "delivery_attempts": {
     "simplify:amgen::simplify-2d23863f-49e1-4783-aab6-4f76106c7d8d": {
       "attempted_at": "2026-09-23T22:34:27+00:00",
@@ -4380,6 +4380,16 @@
       "title": "Software Engineer Intern/Co-op",
       "url": "https://careers.amd.com/jobs/90891?icims=1"
     },
+    "simplify:amd::simplify-4dd92b4d-fcb3-4e7f-ab7e-984aa0260f5e": {
+      "company": "AMD",
+      "first_seen": "2026-09-23T23:03:43+00:00",
+      "last_seen": "2026-09-23T23:03:43+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1790201437",
+      "source": "simplify",
+      "title": "AI Engineering Intern",
+      "url": "https://careers.amd.com/jobs/91005?icims=1"
+    },
     "simplify:amd::simplify-54abb8d5-92e1-4497-97fb-7102f105b7e4": {
       "company": "AMD",
       "first_seen": "2026-09-19T03:50:32+00:00",
@@ -4466,6 +4476,16 @@
       "posted_at": "1788278728",
       "title": "Compiler Engineer Intern/Co-op",
       "url": "https://careers.amd.com/jobs/91866?icims=1"
+    },
+    "simplify:amd::simplify-f3d05ac2-889f-41af-8897-4ebab63cc29b": {
+      "company": "AMD",
+      "first_seen": "2026-09-23T23:03:43+00:00",
+      "last_seen": "2026-09-23T23:03:43+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1790201433",
+      "source": "simplify",
+      "title": "Applied Artificial Intelligence Engineering Intern - Hardware AI",
+      "url": "https://careers.amd.com/jobs/90997?icims=1"
     },
     "simplify:amentum::simplify-02534a25-59a8-4b77-8837-adb01da24e8d": {
       "company": "Amentum",
@@ -9627,6 +9647,16 @@
       "title": "Software Engineer",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_324339"
     },
+    "simplify:caci::simplify-a1b3672f-5dca-4ae0-a4a9-be3434e789c5": {
+      "company": "CACI",
+      "first_seen": "2026-09-23T23:03:44+00:00",
+      "last_seen": "2026-09-23T23:03:44+00:00",
+      "location": "Reston, VA",
+      "posted_at": "1790121600",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041"
+    },
     "simplify:caci::simplify-a74b5dcd-e0aa-436e-b554-252627f0053d": {
       "company": "CACI",
       "first_seen": "2026-09-01T00:09:06+00:00",
@@ -9970,6 +10000,16 @@
       "source": "simplify",
       "title": "C++ CGF Unreal Developer Intern",
       "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-416---Stagiaire-dveloppeur-se--C---CGF-Unreal_123656"
+    },
+    "simplify:cae::simplify-4c5f0079-fc09-463d-a5f2-15618f660fcc": {
+      "company": "CAE",
+      "first_seen": "2026-09-23T23:03:44+00:00",
+      "last_seen": "2026-09-23T23:03:44+00:00",
+      "location": "Arlington, TX",
+      "posted_at": "1790121600",
+      "source": "simplify",
+      "title": "Weapons Simulation Software Co-op",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873"
     },
     "simplify:cae::simplify-5df90885-2894-464a-824b-03588fbc5d62": {
       "company": "CAE",
@@ -15557,6 +15597,16 @@
       "title": "Application & Support Engineer",
       "url": "https://expleo-jobs-gb-en.icims.com/jobs/55734/job?mobile=true&needsRedirect=false"
     },
+    "simplify:f5::simplify-04bd8248-d247-409c-a059-4abf49ba2622": {
+      "company": "F5",
+      "first_seen": "2026-09-23T23:03:44+00:00",
+      "last_seen": "2026-09-23T23:03:44+00:00",
+      "location": "Seattle, WA, Spokane Valley, WA, San Jose, CA, Chelmsford, MA",
+      "posted_at": "1790121600",
+      "source": "simplify",
+      "title": "Software Development Engineer 2",
+      "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer-II--Former-Summer-2026-Interns-_RP1038883"
+    },
     "simplify:f5::simplify-143cb976-5cd1-40e5-bc6a-0f7216e58ec1": {
       "company": "F5",
       "first_seen": "2026-09-22T23:43:37+00:00",
@@ -17132,6 +17182,16 @@
       "title": "Application Engineer 1",
       "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/USA---CO-Fort-Collins/Application-Engineer-I_JR15688"
     },
+    "simplify:general dynamics information technology::simplify-03a8913b-a007-4657-8f59-bc29a722beda": {
+      "company": "General Dynamics Information Technology",
+      "first_seen": "2026-09-23T23:03:45+00:00",
+      "last_seen": "2026-09-23T23:03:45+00:00",
+      "location": "Bossier City, LA",
+      "posted_at": "1790121600",
+      "source": "simplify",
+      "title": "Generative AI Software Development Intern",
+      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1"
+    },
     "simplify:general dynamics information technology::simplify-1a22f6de-6cee-4fe0-a021-eeef9cdb81ea": {
       "company": "General Dynamics Information Technology",
       "first_seen": "2026-07-21T14:24:56+00:00",
@@ -17244,6 +17304,16 @@
       "posted_at": "1783814400",
       "title": "UiPath Robotic Process Automation Developer Associate",
       "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Home-Office-LAHOME/UiPath-Robotic-Process-Automation-Developer-Associate_RQ223293-1"
+    },
+    "simplify:general dynamics information technology::simplify-fbed94d0-207f-4923-97dd-2c066c0e8d6a": {
+      "company": "General Dynamics Information Technology",
+      "first_seen": "2026-09-23T23:03:45+00:00",
+      "last_seen": "2026-09-23T23:03:45+00:00",
+      "location": "Bossier City, LA",
+      "posted_at": "1790121600",
+      "source": "simplify",
+      "title": "AI Network Engineering Intern",
+      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2"
     },
     "simplify:general dynamics mission systems::simplify-013b4e53-9d70-4bca-9c0f-1231cfe46dbb": {
       "company": "General Dynamics Mission Systems",
@@ -19880,6 +19950,16 @@
       "title": "Software Engineer Intern",
       "url": "https://careers.itw.com/global/en/job/JR10129"
     },
+    "simplify:illinois tool works::simplify-9e770238-e3ff-491f-baa6-08a85518e661": {
+      "company": "Illinois Tool Works",
+      "first_seen": "2026-09-23T23:03:44+00:00",
+      "last_seen": "2026-09-23T23:03:44+00:00",
+      "location": "Eden Prairie, MN",
+      "posted_at": "1790202132",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.itw.com/global/en/job/JR10261"
+    },
     "simplify:illinois tool works::simplify-f9344b8e-43cf-4dac-aef6-05e00717fd78": {
       "company": "Illinois Tool Works",
       "first_seen": "2026-08-18T06:58:11+00:00",
@@ -20171,6 +20251,16 @@
       "posted_at": "1788912000",
       "title": "Artificial Intelligence Developer Intern Co-op - Winter 2027",
       "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/AI-Developer---4-Month-Internship-Co-op--Winter-2027--_R155234"
+    },
+    "simplify:intact::simplify-5194c40c-a075-4ccb-a3eb-6ff62d2644b2": {
+      "company": "Intact",
+      "first_seen": "2026-09-23T23:03:44+00:00",
+      "last_seen": "2026-09-23T23:03:44+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1790121600",
+      "source": "simplify",
+      "title": "Android Developer Intern Co-op - Winter 2027",
+      "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Android-Developer--4-months-Internship-Coop--Winter-2027---_R155691"
     },
     "simplify:intact::simplify-53ec04c7-ae25-4f26-9510-20c8fb42f05b": {
       "company": "Intact",
@@ -30840,6 +30930,16 @@
       "title": "Software Development Engineer 2 - Planning and Forecasting",
       "url": "https://job-boards.greenhouse.io/quince/jobs/5264916008"
     },
+    "simplify:qumulo::simplify-c2cbd149-9096-42ca-b785-b8ab7d96e3cf": {
+      "company": "Qumulo",
+      "first_seen": "2026-09-23T23:03:44+00:00",
+      "last_seen": "2026-09-23T23:03:44+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1790202097",
+      "source": "simplify",
+      "title": "Software Development Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183/application?embed=true"
+    },
     "simplify:radiant::simplify-8c96054c-ba8c-46ff-95ab-037dea56cee8": {
       "company": "Radiant",
       "first_seen": "2026-09-17T23:03:17+00:00",
@@ -32457,6 +32557,16 @@
       "title": "Software Developer Co-op - Technology & Operations",
       "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--8-Months_R-0000184557-1"
     },
+    "simplify:royal bank of canada::simplify-d0e04d2e-32c8-45f4-8b27-b9d28326a191": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-09-23T23:03:44+00:00",
+      "last_seen": "2026-09-23T23:03:44+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1790121600",
+      "source": "simplify",
+      "title": "Software Developer Co-op - Technology and Operations",
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--4-Months_R-0000184555-3"
+    },
     "simplify:royal bank of canada::simplify-d1354a8b-e1fb-48c3-bf6f-93d3bea41db3": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-09-06T15:57:08+00:00",
@@ -33635,6 +33745,16 @@
       "posted_at": "1788825600",
       "title": "Software Engineer 1 - Advanced Products and Solutions",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/EOIR-Advanced-Products-and-Solutions--Software-Engineer-I--Onsite-_01872528"
+    },
+    "simplify:rtx::simplify-d43122fd-1543-4f5c-b6de-ecd3c255484d": {
+      "company": "RTX",
+      "first_seen": "2026-09-23T23:03:44+00:00",
+      "last_seen": "2026-09-23T23:03:44+00:00",
+      "location": "Longueuil, QC, Canada",
+      "posted_at": "1790121600",
+      "source": "simplify",
+      "title": "Engine Control System Simulation Developer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppeur-de-simulation-de-systmes-de-contrle-moteur---Internship---Winter-2027---Engine-Control-System-Simulation-Developer_01876605"
     },
     "simplify:rtx::simplify-d4bd04b2-b4a7-41b4-ab15-339b8e50f45e": {
       "company": "RTX",
@@ -36762,6 +36882,16 @@
       "title": "Software Engineer",
       "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963"
     },
+    "simplify:symbotic::simplify-60dfdc9e-b8e3-49d2-81b6-1e7cd70c9881": {
+      "company": "Symbotic",
+      "first_seen": "2026-09-23T23:03:44+00:00",
+      "last_seen": "2026-09-23T23:03:44+00:00",
+      "location": "Wilmington, MA",
+      "posted_at": "1790121600",
+      "source": "simplify",
+      "title": "Software Engineer Co-op",
+      "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Co-op---Software-Engineer_R8111"
+    },
     "simplify:symbotic::simplify-6ef3fbcc-770e-4606-b400-91b81efa3a57": {
       "company": "Symbotic",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -37138,6 +37268,16 @@
       "posted_at": "1788220800",
       "title": "Engineering Intern",
       "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Charleston-West-Virginia/Student-Intern--Engineering_JR-10741"
+    },
+    "simplify:tc energy::simplify-f9aac5d5-d4f2-4936-93fc-e6a1cf4306f6": {
+      "company": "TC Energy",
+      "first_seen": "2026-09-23T23:03:44+00:00",
+      "last_seen": "2026-09-23T23:03:44+00:00",
+      "location": "Houston, TX",
+      "posted_at": "1790121600",
+      "source": "simplify",
+      "title": "Work Management Capabilities & Platforms Intern",
+      "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Texas/Intern--Work-Management-Capabilities---Platforms_JR-10951"
     },
     "simplify:td bank::simplify-192e2d14-66ec-4599-b333-b1f244469d60": {
       "company": "TD Bank",
@@ -48120,5 +48260,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-23T22:37:35+00:00"
+  "updated_at": "2026-09-23T23:04:38+00:00"
 }
