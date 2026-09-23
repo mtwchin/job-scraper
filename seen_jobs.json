@@ -1,5 +1,5 @@
 {
-  "count": 6087,
+  "count": 6089,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_alert_active": false,
@@ -30749,6 +30749,26 @@
       "title": "Early Career AI Engineer - Contract",
       "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437"
     },
+    "simplify:ralliant::simplify-0114fd01-23de-4242-a750-9e8add8525e7": {
+      "company": "Ralliant",
+      "first_seen": "2026-09-23T14:35:18+00:00",
+      "last_seen": "2026-09-23T14:35:18+00:00",
+      "location": "Fairport, NY",
+      "posted_at": "1790172987",
+      "source": "simplify",
+      "title": "Research & Development Co-op",
+      "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10635"
+    },
+    "simplify:ralliant::simplify-772904d0-c686-441a-b5dd-5c8e650d5b36": {
+      "company": "Ralliant",
+      "first_seen": "2026-09-23T14:35:18+00:00",
+      "last_seen": "2026-09-23T14:35:18+00:00",
+      "location": "Fairport, NY",
+      "posted_at": "1790172987",
+      "source": "simplify",
+      "title": "Research and Development Co-op",
+      "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10637"
+    },
     "simplify:rapdev::simplify-1fd1fcc8-fade-4579-a322-2bc276d73ca7": {
       "company": "RapDev",
       "first_seen": "2026-07-30T00:10:16+00:00",
@@ -47878,5 +47898,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-23T12:05:54+00:00"
+  "updated_at": "2026-09-23T14:35:58+00:00"
 }
