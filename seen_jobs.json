@@ -1,5 +1,5 @@
 {
-  "count": 6123,
+  "count": 6131,
   "delivery_attempts": {
     "simplify:amgen::simplify-2d23863f-49e1-4783-aab6-4f76106c7d8d": {
       "attempted_at": "2026-09-23T22:34:27+00:00",
@@ -11916,6 +11916,16 @@
       "title": "Software Engineer",
       "url": "https://job-boards.greenhouse.io/commerceiq/jobs/7803169003"
     },
+    "simplify:commure::simplify-0a05b05d-daaf-4bd5-964c-6f2e5bd47d82": {
+      "company": "Commure",
+      "first_seen": "2026-09-23T23:06:47+00:00",
+      "last_seen": "2026-09-23T23:06:47+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1790202232",
+      "source": "simplify",
+      "title": "Software Engineer - Scribe AI",
+      "url": "https://jobs.ashbyhq.com/Commure/259988fe-0389-461f-823c-36d81840d465/application?embed=true"
+    },
     "simplify:commure::simplify-5cdafd83-dd1b-4e63-8712-e50a41b28317": {
       "company": "Commure",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -20836,6 +20846,16 @@
       "title": "Applications Programmer 1",
       "url": "https://careers-iridium.icims.com/jobs/4920/job?mobile=true&needsRedirect=false"
     },
+    "simplify:iron mountain::simplify-e1551d1c-8e91-44ec-b00f-6264e1d6653c": {
+      "company": "Iron Mountain",
+      "first_seen": "2026-09-23T23:06:47+00:00",
+      "last_seen": "2026-09-23T23:06:47+00:00",
+      "location": "Florida, Massachusetts",
+      "posted_at": "1790121600",
+      "source": "simplify",
+      "title": "Machine Learning Associate",
+      "url": "https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--FL--Remote/Machine-Learning-Associate_J0107736"
+    },
     "simplify:isn software::simplify-ea13638b-ec59-42b9-8392-35986da2c5ac": {
       "company": "ISN Software",
       "first_seen": "2026-09-01T09:52:41+00:00",
@@ -22502,6 +22522,16 @@
       "posted_at": "1789234577",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003"
+    },
+    "simplify:klaviyo::simplify-4c913790-31a6-448a-bfb5-21b1bffb2dc7": {
+      "company": "Klaviyo",
+      "first_seen": "2026-09-23T23:06:47+00:00",
+      "last_seen": "2026-09-23T23:06:47+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1790202101",
+      "source": "simplify",
+      "title": "AI Engineer 1",
+      "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/8003259003"
     },
     "simplify:klaviyo::simplify-5077be7d-bf97-4e0b-8fad-8674bf28d206": {
       "company": "Klaviyo",
@@ -25560,6 +25590,16 @@
       "title": "Associate Product Engineer",
       "url": "https://mjhlifesciences.wd1.myworkdayjobs.com/Careers/job/United-States/Associate-Product-Engineer_JR102409-1"
     },
+    "simplify:mks2 technologies::simplify-2fa6d8e7-5b80-4460-bfd6-473d05cd5b5f": {
+      "company": "MKS2 Technologies",
+      "first_seen": "2026-09-23T23:06:47+00:00",
+      "last_seen": "2026-09-23T23:06:47+00:00",
+      "location": "Colorado Springs, CO",
+      "posted_at": "1790203292",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://www.mks2.com/job/6206921004?gh_jid=6206921004"
+    },
     "simplify:mobius renewables::simplify-8a94a455-b2cb-44e4-9b0b-00bfda978a73": {
       "company": "Mobius Renewables",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -28191,7 +28231,7 @@
     "simplify:oneimaging::simplify-1acd5a07-50ab-4e8a-8cb2-be9a1ae33d8b": {
       "company": "OneImaging",
       "first_seen": "2026-09-11T23:13:27+00:00",
-      "last_seen": "2026-09-22T00:04:40+00:00",
+      "last_seen": "2026-09-23T23:06:47+00:00",
       "posted_at": "1789165994",
       "title": "Full Stack Associate Software Engineer - Georgia Tech Only",
       "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4403115009"
@@ -28199,7 +28239,7 @@
     "simplify:oneimaging::simplify-d35dd23b-846b-4263-be1b-ff94fdfab2e5": {
       "company": "OneImaging",
       "first_seen": "2026-09-11T23:13:27+00:00",
-      "last_seen": "2026-09-21T00:04:12+00:00",
+      "last_seen": "2026-09-23T23:06:47+00:00",
       "posted_at": "1789165995",
       "title": "Associate Software Engineer - UF Only",
       "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4403125009"
@@ -30929,6 +30969,16 @@
       "posted_at": "1782166901",
       "title": "Software Development Engineer 2 - Planning and Forecasting",
       "url": "https://job-boards.greenhouse.io/quince/jobs/5264916008"
+    },
+    "simplify:qumulo::simplify-93896d9e-e589-442f-8d6b-cc1a1b97c9a9": {
+      "company": "Qumulo",
+      "first_seen": "2026-09-23T23:06:47+00:00",
+      "last_seen": "2026-09-23T23:06:47+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1790202107",
+      "source": "simplify",
+      "title": "Software Development Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/qumulo/e1cebc33-3bfc-4c86-9581-4d558cd5f8cc/application?embed=true"
     },
     "simplify:qumulo::simplify-c2cbd149-9096-42ca-b785-b8ab7d96e3cf": {
       "company": "Qumulo",
@@ -40533,6 +40583,16 @@
       "title": "4&5 Software/Systems Engineer",
       "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/IV-V-Software-Systems-Engineer_R1450"
     },
+    "simplify:toshiba global commerce::simplify-07c15d46-f45a-4114-9666-4e95db293314": {
+      "company": "Toshiba Global Commerce",
+      "first_seen": "2026-09-23T23:06:47+00:00",
+      "last_seen": "2026-09-23T23:06:47+00:00",
+      "location": "Durham, NC",
+      "posted_at": "1790202042",
+      "source": "simplify",
+      "title": "Associate Software Support Engineer",
+      "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5247010007"
+    },
     "simplify:toshiba global commerce::simplify-5dc00cee-4e2e-4533-9b44-94c295ffddd4": {
       "company": "Toshiba Global Commerce",
       "first_seen": "2026-07-27T04:52:36+00:00",
@@ -40584,6 +40644,16 @@
       "posted_at": "1784758491",
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/traba/90d6307c-1bb1-4abf-8e73-7afa6a7e0a70/application?embed=true"
+    },
+    "simplify:trace3::simplify-bcc577ef-5958-4321-821d-9405a58357c8": {
+      "company": "Trace3",
+      "first_seen": "2026-09-23T23:06:47+00:00",
+      "last_seen": "2026-09-23T23:06:47+00:00",
+      "location": "Colorado Springs, CO",
+      "posted_at": "1789166051",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/trace3/jobs/8197955"
     },
     "simplify:trace3::simplify-e566d725-aeae-48ef-8f28-53e7201d04b0": {
       "company": "Trace3",
@@ -43444,6 +43514,16 @@
       "posted_at": "1788218243",
       "title": "Computer Engineering / Software Engineering Intern",
       "url": "https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Computer-Engineering-Software-Engineering-SC-29730/1425163200/?ats=successfactors"
+    },
+    "simplify:westinghouse electric company::simplify-fe04e570-d301-4e58-bc86-533fc129c3bd": {
+      "company": "Westinghouse Electric Company",
+      "first_seen": "2026-09-23T23:06:47+00:00",
+      "last_seen": "2026-09-23T23:06:47+00:00",
+      "location": "Cranberry Township, PA",
+      "posted_at": "1784931043",
+      "source": "simplify",
+      "title": "Computer Science Software Engineer",
+      "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Computer-ScienceSoftware-Engineer-NC/1412516200/?ats=successfactors"
     },
     "simplify:westinghouse::simplify-faaeecec-2f51-4926-b379-c75a7cabe96b": {
       "company": "Westinghouse",
@@ -48260,5 +48340,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-23T23:04:38+00:00"
+  "updated_at": "2026-09-23T23:07:40+00:00"
 }
