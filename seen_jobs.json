@@ -1,5 +1,5 @@
 {
-  "count": 6157,
+  "count": 6158,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -378,6 +378,16 @@
       "source": "",
       "title": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
       "url": "https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc"
+    },
+    "amazon::10559762": {
+      "company": "Amazon",
+      "first_seen": "2026-09-24T22:26:51+00:00",
+      "last_seen": "2026-09-24T22:26:51+00:00",
+      "location": "Redmond, Washington, USA",
+      "posted_at": "September 24, 2026",
+      "source": "",
+      "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
+      "url": "https://www.amazon.jobs/en/jobs/10559762/software-development-engineer-intern-amazon-leo-summer-2027-usa"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -48646,5 +48656,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T22:21:24+00:00"
+  "updated_at": "2026-09-24T22:27:26+00:00"
 }
