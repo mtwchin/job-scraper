@@ -1,5 +1,5 @@
 {
-  "count": 6138,
+  "count": 6139,
   "delivery_attempts": {
     "ramp::a13ae586-f4cb-4385-8822-c42b9b54ed74": {
       "attempted_at": "2026-09-24T00:47:26+00:00",
@@ -7649,6 +7649,16 @@
       "posted_at": "1786831817",
       "title": "EHR Application Analyst 1 - Epic Security",
       "url": "https://jobs.bjc.org/jobs/114939?icims=1"
+    },
+    "simplify:black box::simplify-c7c7dafc-ce0e-4ed2-92f7-ed3bc461bbb7": {
+      "company": "Black Box",
+      "first_seen": "2026-09-24T03:01:51+00:00",
+      "last_seen": "2026-09-24T03:01:51+00:00",
+      "location": "Plano, TX",
+      "posted_at": "1777500264",
+      "source": "simplify",
+      "title": "AI Intern",
+      "url": "https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5523"
     },
     "simplify:black cape::simplify-19c7a628-f5e1-4852-ae69-dc9b1519d3c3": {
       "company": "Black Cape",
@@ -48437,5 +48447,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T02:03:03+00:00"
+  "updated_at": "2026-09-24T03:02:06+00:00"
 }
