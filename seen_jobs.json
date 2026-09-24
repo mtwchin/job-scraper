@@ -1,5 +1,5 @@
 {
-  "count": 6133,
+  "count": 6138,
   "delivery_attempts": {
     "ramp::a13ae586-f4cb-4385-8822-c42b9b54ed74": {
       "attempted_at": "2026-09-24T00:47:26+00:00",
@@ -18342,7 +18342,7 @@
     "simplify:goldman sachs::simplify-5a49d74c-fa9f-4dd4-a66b-24fc3d9c1def": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-23T01:32:14+00:00",
+      "last_seen": "2026-09-24T01:34:16+00:00",
       "posted_at": "1786767952",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171564?type=students"
@@ -18350,7 +18350,7 @@
     "simplify:goldman sachs::simplify-5bdec003-2a02-42a4-a602-467541840552": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-23T01:32:14+00:00",
+      "last_seen": "2026-09-24T01:34:16+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171565?type=students"
@@ -18358,7 +18358,7 @@
     "simplify:goldman sachs::simplify-792220f4-3ba1-4cf8-843e-e23208ba8d24": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-23T01:32:14+00:00",
+      "last_seen": "2026-09-24T01:34:16+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/171553?type=students"
@@ -18388,7 +18388,7 @@
     "simplify:goldman sachs::simplify-b2b3a7df-bea1-4290-b988-4c3e567814b8": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-23T01:32:14+00:00",
+      "last_seen": "2026-09-24T01:34:16+00:00",
       "posted_at": "1786767944",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/170637?type=students"
@@ -31137,6 +31137,46 @@
       "title": "Research and Development Co-op",
       "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10637"
     },
+    "simplify:ramp::simplify-2470b381-61c4-4e0a-9a0b-dcc58f4956bd": {
+      "company": "Ramp",
+      "first_seen": "2026-09-24T01:34:17+00:00",
+      "last_seen": "2026-09-24T01:34:17+00:00",
+      "location": "NYC",
+      "posted_at": "1790212861",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Frontend",
+      "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74/application?embed=true"
+    },
+    "simplify:ramp::simplify-a6ca4015-b83d-4606-a189-7a9fe9f86aa3": {
+      "company": "Ramp",
+      "first_seen": "2026-09-24T01:34:17+00:00",
+      "last_seen": "2026-09-24T01:34:17+00:00",
+      "location": "NYC",
+      "posted_at": "1790212862",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Android",
+      "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8/application?embed=true"
+    },
+    "simplify:ramp::simplify-ac053621-f848-4ace-97dc-4ef8ad9562a0": {
+      "company": "Ramp",
+      "first_seen": "2026-09-24T01:34:17+00:00",
+      "last_seen": "2026-09-24T01:34:17+00:00",
+      "location": "NYC",
+      "posted_at": "1790212860",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Backend",
+      "url": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04/application?embed=true"
+    },
+    "simplify:ramp::simplify-f0d9dc74-c470-46ea-ab22-7301f693cf34": {
+      "company": "Ramp",
+      "first_seen": "2026-09-24T01:34:17+00:00",
+      "last_seen": "2026-09-24T01:34:17+00:00",
+      "location": "NYC",
+      "posted_at": "1790212862",
+      "source": "simplify",
+      "title": "iOS Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9/application?embed=true"
+    },
     "simplify:rapdev::simplify-1fd1fcc8-fade-4579-a322-2bc276d73ca7": {
       "company": "RapDev",
       "first_seen": "2026-07-30T00:10:16+00:00",
@@ -35051,6 +35091,16 @@
       "posted_at": "1781360986",
       "title": "Software Engineer Fellow",
       "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Fort-Worth-TX/Military-Fellowship-Program--Software-Engineer_R0029492"
+    },
+    "simplify:sierra nevada corporation::simplify-4a1157a6-d353-457f-b894-9deb47f6d3d5": {
+      "company": "Sierra Nevada Corporation",
+      "first_seen": "2026-09-24T01:34:17+00:00",
+      "last_seen": "2026-09-24T01:34:17+00:00",
+      "location": "Plano, TX",
+      "posted_at": "1790121600",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584"
     },
     "simplify:sierra nevada corporation::simplify-6f603008-25bf-41f8-abb1-bdd082bb931d": {
       "company": "Sierra Nevada Corporation",
@@ -41266,7 +41316,7 @@
     "simplify:tyler technologies::simplify-d6c24595-0dd3-449f-b0ae-d13e256fc740": {
       "company": "Tyler Technologies",
       "first_seen": "2026-09-22T03:24:56+00:00",
-      "last_seen": "2026-09-23T10:45:09+00:00",
+      "last_seen": "2026-09-24T01:34:16+00:00",
       "location": "Yarmouth, ME, Orono, ME, Falmouth, ME",
       "posted_at": "1790029561",
       "source": "simplify",
@@ -48378,5 +48428,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T01:04:54+00:00"
+  "updated_at": "2026-09-24T01:34:56+00:00"
 }
