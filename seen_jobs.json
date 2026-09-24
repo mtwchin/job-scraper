@@ -1,5 +1,5 @@
 {
-  "count": 6150,
+  "count": 6151,
   "delivery_attempts": {
     "ramp::a13ae586-f4cb-4385-8822-c42b9b54ed74": {
       "attempted_at": "2026-09-24T00:47:26+00:00",
@@ -9847,6 +9847,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999"
+    },
+    "simplify:caci::simplify-ee5c8174-efce-40b3-a4d2-fd27931c66ec": {
+      "company": "CACI",
+      "first_seen": "2026-09-24T16:03:15+00:00",
+      "last_seen": "2026-09-24T16:03:15+00:00",
+      "location": "Remote in USA, Hanover, MD",
+      "posted_at": "1790263648",
+      "source": "simplify",
+      "title": "Software Engineer Early Career - Cloud",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679"
     },
     "simplify:caci::simplify-f50900c1-f7ea-4836-a39f-5a4f4b2220bd": {
       "company": "CACI",
@@ -48558,5 +48568,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T15:54:24+00:00"
+  "updated_at": "2026-09-24T16:03:27+00:00"
 }
