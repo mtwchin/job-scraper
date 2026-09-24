@@ -1,5 +1,5 @@
 {
-  "count": 6166,
+  "count": 6186,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -8575,6 +8575,16 @@
       "title": "Software Development Engineer 2 - Engineering",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813422191"
     },
+    "simplify:boston scientific::simplify-521a56a4-f683-4861-8565-e081a72736c1": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-09-24T23:04:32+00:00",
+      "last_seen": "2026-09-24T23:04:32+00:00",
+      "location": "Arden Hills, MN",
+      "posted_at": "1790288282",
+      "source": "simplify",
+      "title": "Software Engineer Intern - R&D",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813542900"
+    },
     "simplify:boston scientific::simplify-740153d0-fd38-4fff-bc27-425b307d5c71": {
       "company": "Boston Scientific",
       "first_seen": "2026-09-21T23:07:18+00:00",
@@ -8585,12 +8595,32 @@
       "title": "AI Software Development Intern",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813600585"
     },
+    "simplify:boston scientific::simplify-b785f9ef-f9c9-4d16-aae2-973ad2a1b2dc": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-09-24T23:04:31+00:00",
+      "last_seen": "2026-09-24T23:04:31+00:00",
+      "location": "Waltham, MA",
+      "posted_at": "1790288282",
+      "source": "simplify",
+      "title": "Software Development Engineer Intern",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813567960"
+    },
     "simplify:boston scientific::simplify-dba1e111-7c03-486c-ac67-456bd8a9e0a0": {
       "company": "Boston Scientific",
       "first_seen": "2026-09-03T12:51:17+00:00",
       "posted_at": "1788407541",
       "title": "Software Engineer 1 - Engineering",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813508995"
+    },
+    "simplify:boston scientific::simplify-e7777af9-8bca-4dd7-b5b6-6ec86fff06f9": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-09-24T23:04:32+00:00",
+      "last_seen": "2026-09-24T23:04:32+00:00",
+      "location": "Waltham, MA",
+      "posted_at": "1790288282",
+      "source": "simplify",
+      "title": "Software Development Engineer Co-op",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813567963"
     },
     "simplify:bot auto::simplify-085d792a-4c79-4104-946c-89da75b559db": {
       "company": "Bot Auto",
@@ -18018,6 +18048,16 @@
       "title": "Digital Vehicle Experience Software Developer Co-op",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2026-Fall-Co-op-Digital-Vehicle-Experience-Software-Developer_JR-202616330"
     },
+    "simplify:genesis molecular ai::simplify-80a7e2c3-ed7c-41dc-92a7-85bf12db37f5": {
+      "company": "Genesis Molecular AI",
+      "first_seen": "2026-09-24T23:04:31+00:00",
+      "last_seen": "2026-09-24T23:04:31+00:00",
+      "location": "San Mateo, CA, NYC",
+      "posted_at": "1790288612",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99/application?embed=true"
+    },
     "simplify:genetec::simplify-0173ecf7-6ce3-445b-b81b-12afb669dff5": {
       "company": "Genetec",
       "first_seen": "2026-08-11T23:09:33+00:00",
@@ -18169,6 +18209,16 @@
       "posted_at": "1784239732",
       "title": "Full Stack Developer Intern",
       "url": "https://jobs.lever.co/geocomply-2/a3131ad8-06ec-4c6e-b27c-81aa4c02cc40/apply"
+    },
+    "simplify:geospatial consulting group international::simplify-ab6ea289-66f4-4681-a8d0-8a33f7188738": {
+      "company": "Geospatial Consulting Group International",
+      "first_seen": "2026-09-24T23:04:31+00:00",
+      "last_seen": "2026-09-24T23:04:31+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1790289509",
+      "source": "simplify",
+      "title": "Application Developer Intern",
+      "url": "https://job-boards.greenhouse.io/geocgi/jobs/4420076009"
     },
     "simplify:geosyntec consultants::simplify-1226965c-9ed7-4d6b-ad60-2a5c8985f78d": {
       "company": "Geosyntec Consultants",
@@ -18767,6 +18817,16 @@
       "source": "simplify",
       "title": "Front-End Intern",
       "url": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/Grasshopper-FE-Intern_R26-2253"
+    },
+    "simplify:goto group::simplify-7471b8b6-f1d5-4c2b-88f7-47f118d9cc04": {
+      "company": "GoTo Group",
+      "first_seen": "2026-09-24T23:04:32+00:00",
+      "last_seen": "2026-09-24T23:04:32+00:00",
+      "location": "Remote in Canada",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Software Engineer Intern - C3PO",
+      "url": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/C3PO-Intern_R26-2245"
     },
     "simplify:govcio::simplify-ff1f9ced-4d6d-400f-a0cf-ac068213a682": {
       "company": "GovCIO",
@@ -21842,6 +21902,16 @@
       "title": "Project Delivery Digital Engineering & Property Services Co-op",
       "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Project-Delivery-Digital-Engineering---Property-Services-Co-Op_R-096717"
     },
+    "simplify:johnson & johnson::simplify-46c77ff4-d626-47a9-bdb5-d46938c07a50": {
+      "company": "Johnson & Johnson",
+      "first_seen": "2026-09-24T23:04:31+00:00",
+      "last_seen": "2026-09-24T23:04:31+00:00",
+      "location": "Danvers, MA",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Software Engineer Co-op - Engineering",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277"
+    },
     "simplify:johnson & johnson::simplify-4c2e5fe2-a3e6-4d00-ac53-11343dc121dc": {
       "company": "Johnson & Johnson",
       "first_seen": "2026-09-15T23:33:41+00:00",
@@ -22393,6 +22463,16 @@
       "posted_at": "1788560057",
       "title": "Full Stack Intern",
       "url": "https://jobs.keysight.com/jobs/54165?icims=1"
+    },
+    "simplify:keysight technologies::simplify-9c88b1dc-1cef-4857-93ee-282e00d802b7": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-09-24T23:04:32+00:00",
+      "last_seen": "2026-09-24T23:04:32+00:00",
+      "location": "Colorado Springs, CO",
+      "posted_at": "1790287875",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.keysight.com/jobs/54395?icims=1"
     },
     "simplify:keysight technologies::simplify-c6f17ebd-5b92-4f00-94a8-6a402b2bb7e2": {
       "company": "Keysight Technologies",
@@ -23329,6 +23409,16 @@
       "title": "Frontend Engineer",
       "url": "https://jobs.ashbyhq.com/layerfi/a34fcd0d-6d73-44e9-8821-5bcb9fc10474/application?embed=true"
     },
+    "simplify:lazard::simplify-63f4d5fe-1a58-43dc-8299-1dcb69b5b2f6": {
+      "company": "Lazard",
+      "first_seen": "2026-09-24T23:04:32+00:00",
+      "last_seen": "2026-09-24T23:04:32+00:00",
+      "location": "NYC",
+      "posted_at": "1790288168",
+      "source": "simplify",
+      "title": "AI and Data Transformation Intern",
+      "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6650"
+    },
     "simplify:lazard::simplify-6a0a4b4b-9d3e-4132-8217-ea3095340856": {
       "company": "Lazard",
       "first_seen": "2026-09-19T03:50:34+00:00",
@@ -23450,6 +23540,16 @@
       "posted_at": "1786579200",
       "title": "Software Engineer",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bowie-MD/Software-Engineer_R-00189564"
+    },
+    "simplify:leidos::simplify-571f8096-0c99-4edd-9680-9daa550e8250": {
+      "company": "Leidos",
+      "first_seen": "2026-09-24T23:04:31+00:00",
+      "last_seen": "2026-09-24T23:04:31+00:00",
+      "location": "St. Louis, MO",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Software-Developer-Intern_R-00192632"
     },
     "simplify:leidos::simplify-589c3fd9-a059-4f9e-a14c-c3e9ebebfc74": {
       "company": "Leidos",
@@ -24295,6 +24395,16 @@
       "posted_at": "1777331356",
       "title": "Associate Software Engineer",
       "url": "https://www.mlb.com/careers/opportunities?gh_jid=7842178"
+    },
+    "simplify:major league baseball::simplify-e4654e28-bb64-4c28-b1f3-c86baeabe85a": {
+      "company": "Major League Baseball",
+      "first_seen": "2026-09-24T23:04:31+00:00",
+      "last_seen": "2026-09-24T23:04:31+00:00",
+      "location": "Cleveland, OH",
+      "posted_at": "1790290040",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Baseball Systems",
+      "url": "https://job-boards.greenhouse.io/clevelandguardiansbops/jobs/8827470002"
     },
     "simplify:makai labs::simplify-adbf020e-77f5-43e9-a6f8-dca0b583c219": {
       "company": "Makai Labs",
@@ -26079,6 +26189,16 @@
       "title": "Graduate Software Engineer",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R62290"
     },
+    "simplify:motorola::simplify-79807b51-faf5-46c1-9880-7c1b2a77905f": {
+      "company": "Motorola",
+      "first_seen": "2026-09-24T23:04:31+00:00",
+      "last_seen": "2026-09-24T23:04:31+00:00",
+      "location": "Plantation, FL",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "CPE Software End-to-End Triage Intern - Summer 2027",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/CPE-SW-E2E-Triage-Intern---Summer-2027_R68165"
+    },
     "simplify:motorola::simplify-8e8910ff-d27c-4f3c-871e-d348e505c0c5": {
       "company": "Motorola",
       "first_seen": "2026-07-15T00:13:08+00:00",
@@ -26130,6 +26250,16 @@
       "posted_at": "1787875200",
       "title": "Software Engineer",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Lexington-SC-SC07/Software-Engineer_R67330-1"
+    },
+    "simplify:motorola::simplify-dffa3f5f-d496-43e5-90e0-105b940da03c": {
+      "company": "Motorola",
+      "first_seen": "2026-09-24T23:04:31+00:00",
+      "last_seen": "2026-09-24T23:04:31+00:00",
+      "location": "Plantation, FL",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136"
     },
     "simplify:motorola::simplify-e4663e63-d325-4e06-891e-2accedd8bd01": {
       "company": "Motorola",
@@ -26490,6 +26620,16 @@
       "posted_at": "1782511768",
       "title": "Software Engineer 1",
       "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595"
+    },
+    "simplify:ncr voyix::simplify-b02fcae4-ac36-4769-8a28-85242403362c": {
+      "company": "NCR Voyix",
+      "first_seen": "2026-09-24T23:04:31+00:00",
+      "last_seen": "2026-09-24T23:04:31+00:00",
+      "location": "Florida",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Software Engineer Fellow",
+      "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/FLORIDA-VIRTUAL-USA/Software-Engineer-Fellow_R0158700"
     },
     "simplify:nebo::simplify-1ff5a755-8677-43b6-8f49-bc5e7e431e39": {
       "company": "Nebo",
@@ -27935,6 +28075,16 @@
       "posted_at": "1786754511",
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816/application?embed=true"
+    },
+    "simplify:notion::simplify-4ebbeec3-7c6e-4921-bd4a-0131e3cc0c04": {
+      "company": "Notion",
+      "first_seen": "2026-09-24T23:04:30+00:00",
+      "last_seen": "2026-09-24T23:04:30+00:00",
+      "location": "SF, NYC",
+      "posted_at": "1790288407",
+      "source": "simplify",
+      "title": "Mobile Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7/application?embed=true"
     },
     "simplify:notion::simplify-65650b49-1680-440d-8f63-1cc74d0ba188": {
       "company": "Notion",
@@ -31316,6 +31466,46 @@
       "title": "Software Development Engineer Intern",
       "url": "https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183/application?embed=true"
     },
+    "simplify:radiance technologies::simplify-2447c030-f0b3-45ba-8dd4-df6ca2b82259": {
+      "company": "Radiance Technologies",
+      "first_seen": "2026-09-24T23:04:32+00:00",
+      "last_seen": "2026-09-24T23:04:32+00:00",
+      "location": "Beavercreek, OH",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Modeling Engineer Intern - Analytics and Simulation Sciences",
+      "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102438"
+    },
+    "simplify:radiance technologies::simplify-544076ef-ca22-485c-8793-4770c7d30023": {
+      "company": "Radiance Technologies",
+      "first_seen": "2026-09-24T23:04:32+00:00",
+      "last_seen": "2026-09-24T23:04:32+00:00",
+      "location": "Dayton, OH",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102442"
+    },
+    "simplify:radiance technologies::simplify-6aab9099-e210-40cb-8088-d27b253dd0a7": {
+      "company": "Radiance Technologies",
+      "first_seen": "2026-09-24T23:04:32+00:00",
+      "last_seen": "2026-09-24T23:04:32+00:00",
+      "location": "Beavercreek, OH",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Modeling Engineer Intern - Analytics, Simulation Sciences, Mass",
+      "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102440-1"
+    },
+    "simplify:radiance technologies::simplify-7cff5b3d-c314-4456-ae2f-2dc4125f5ecf": {
+      "company": "Radiance Technologies",
+      "first_seen": "2026-09-24T23:04:32+00:00",
+      "last_seen": "2026-09-24T23:04:32+00:00",
+      "location": "Beavercreek, OH",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Modeling Engineer Intern - Analytics - Simulation Sciences",
+      "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Beavercreek-OH/XMLNAME-2027-Modeling--Analytics----Simulation-Sciences--MASS--Engineer-Intern_HR102439"
+    },
     "simplify:radiant::simplify-8c96054c-ba8c-46ff-95ab-037dea56cee8": {
       "company": "Radiant",
       "first_seen": "2026-09-17T23:03:17+00:00",
@@ -31586,6 +31776,16 @@
       "posted_at": "1773181477",
       "title": "Senior Software Engineer - Energy Storage",
       "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/5823270004"
+    },
+    "simplify:reflect orbital::simplify-42e76a3d-953e-45e7-8207-613a38b9017f": {
+      "company": "Reflect Orbital",
+      "first_seen": "2026-09-24T23:04:31+00:00",
+      "last_seen": "2026-09-24T23:04:31+00:00",
+      "location": "Hawthorne, CA",
+      "posted_at": "1790288385",
+      "source": "simplify",
+      "title": "Ground Software Systems Intern",
+      "url": "https://jobs.ashbyhq.com/reflect-orbital/c394615d-26c6-4435-ad84-3ca3269c2952/application?embed=true"
     },
     "simplify:regal rexnord::simplify-5333f836-9cf2-4382-96ba-082613f49176": {
       "company": "Regal Rexnord",
@@ -48736,5 +48936,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T22:38:29+00:00"
+  "updated_at": "2026-09-24T23:04:32+00:00"
 }
