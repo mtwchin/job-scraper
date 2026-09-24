@@ -10,6 +10,15 @@
       "title": "Software Engineer Internship, Frontend",
       "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74"
     },
+    "simplify:abb::simplify-d60aa1f1-7edf-4114-8ff6-293dff4175b4": {
+      "attempted_at": "2026-09-24T15:37:06+00:00",
+      "company": "ABB",
+      "location": "Stonehouse, UK",
+      "posted_at": "1783166699",
+      "source": "simplify",
+      "title": "Manufacturing Systems Engineer - Applications Specialist",
+      "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Stonehouse-Gloucestershire-United-Kingdom/Manufacturing-Systems-Engineer---Applications-Specialist_JR00036050"
+    },
     "simplify:amgen::simplify-2d23863f-49e1-4783-aab6-4f76106c7d8d": {
       "attempted_at": "2026-09-23T22:34:27+00:00",
       "company": "Amgen",
@@ -48539,5 +48548,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T15:07:13+00:00"
+  "updated_at": "2026-09-24T15:37:16+00:00"
 }
