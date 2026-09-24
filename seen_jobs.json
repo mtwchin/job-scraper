@@ -1,5 +1,5 @@
 {
-  "count": 6155,
+  "count": 6156,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -1478,6 +1478,16 @@
       "posted_at": "2026-07-06T18:37:35.161+00:00",
       "title": "Software Engineer, Early Career",
       "url": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f"
+    },
+    "notion::2b587e66-deac-421a-a824-9415ba78b5a7": {
+      "company": "Notion",
+      "first_seen": "2026-09-24T20:04:11+00:00",
+      "last_seen": "2026-09-24T20:04:11+00:00",
+      "location": "San Francisco, California",
+      "posted_at": "2026-09-24T19:58:11.492+00:00",
+      "source": "",
+      "title": "Software Engineer Intern, Mobile (Winter 2027)",
+      "url": "https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7"
     },
     "notion::3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c": {
       "company": "Notion",
@@ -48626,5 +48636,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T19:48:18+00:00"
+  "updated_at": "2026-09-24T20:04:20+00:00"
 }
