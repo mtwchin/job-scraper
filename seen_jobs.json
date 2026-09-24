@@ -1,5 +1,5 @@
 {
-  "count": 6158,
+  "count": 6162,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -8781,7 +8781,7 @@
     "simplify:bruno independent living aids::simplify-f65facdb-07b5-489d-bda0-a527041c6dd5": {
       "company": "Bruno Independent Living Aids",
       "first_seen": "2026-09-15T23:08:09+00:00",
-      "last_seen": "2026-09-18T00:18:24+00:00",
+      "last_seen": "2026-09-24T22:33:34+00:00",
       "location": "Oconomowoc, WI",
       "posted_at": "1789510393",
       "source": "simplify",
@@ -10991,6 +10991,16 @@
       "posted_at": "1786140812",
       "title": "Software Development and Engineering Associate - Wealth and Advice Solutions Technology",
       "url": "https://career-schwab.icims.com/jobs/124804/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:charles schwab::simplify-b1f4aae2-b800-4b1c-9024-8c1f9ccc8d18": {
+      "company": "Charles Schwab",
+      "first_seen": "2026-09-24T22:33:36+00:00",
+      "last_seen": "2026-09-24T22:33:36+00:00",
+      "location": "Austin, TX, Southlake, TX, Jersey City, NJ",
+      "posted_at": "1790287790",
+      "source": "simplify",
+      "title": "Java Software Engineer",
+      "url": "https://career-schwab.icims.com/jobs/125797/job?mobile=true&needsRedirect=false"
     },
     "simplify:charles schwab::simplify-d6e19b01-22aa-46ab-a8b0-95bb1092f446": {
       "company": "Charles Schwab",
@@ -14815,7 +14825,7 @@
     "simplify:eisneramper::simplify-99ceee79-3f21-401d-8568-200921f46ba8": {
       "company": "EisnerAmper",
       "first_seen": "2026-09-01T00:09:06+00:00",
-      "last_seen": "2026-09-23T00:03:42+00:00",
+      "last_seen": "2026-09-24T22:33:34+00:00",
       "posted_at": "1788134400",
       "title": "Outsourcing IT Staff 1",
       "url": "https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/New-York/XMLNAME-2026-Outsourcing-IT-Staff-I_Req-9328"
@@ -22920,6 +22930,16 @@
       "title": "Associate Creative Technologist - Early Career Consult Program",
       "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-Creative-Technologist_R-66763-2"
     },
+    "simplify:kyndryl::simplify-da3ba969-e181-470f-b17c-7b26176f07be": {
+      "company": "Kyndryl",
+      "first_seen": "2026-09-24T22:33:36+00:00",
+      "last_seen": "2026-09-24T22:33:36+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1786579200",
+      "source": "simplify",
+      "title": "Associate Creative Technologist",
+      "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Associate-Creative-Technologist_R-66763"
+    },
     "simplify:l3harris technologies::simplify-06551cb1-fb6b-43a8-b11d-24e81407e042": {
       "company": "L3Harris Technologies",
       "first_seen": "2026-08-24T20:41:41+00:00",
@@ -25695,6 +25715,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556991773"
+    },
+    "simplify:milwaukee brewers::simplify-b4ad0256-da37-4975-8e88-39e5fe38dc88": {
+      "company": "Milwaukee Brewers",
+      "first_seen": "2026-09-24T22:33:36+00:00",
+      "last_seen": "2026-09-24T22:33:36+00:00",
+      "location": "Milwaukee, WI",
+      "posted_at": "1790287646",
+      "source": "simplify",
+      "title": "Associate \u2013 Baseball Systems",
+      "url": "https://careers-brewers.icims.com/jobs/2791/job?mobile=true&needsRedirect=false"
     },
     "simplify:mimecast::simplify-4190c721-afa3-4dd7-a89f-42293d2a5a24": {
       "company": "Mimecast",
@@ -28870,6 +28900,16 @@
       "posted_at": "1788992935",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009"
+    },
+    "simplify:pacific northwest national laboratory::simplify-2c5076f5-5bce-4c5e-ba14-309f96f6dd40": {
+      "company": "Pacific Northwest National Laboratory",
+      "first_seen": "2026-09-24T22:33:36+00:00",
+      "last_seen": "2026-09-24T22:33:36+00:00",
+      "location": "Richland, WA",
+      "posted_at": "1790287586",
+      "source": "simplify",
+      "title": "Early Career Software Engineer",
+      "url": "https://careers.pnnl.gov/jobs/12171?icims=1"
     },
     "simplify:packz::simplify-a9432e02-af17-408c-bd3e-b6f7f958091d": {
       "company": "Packz",
@@ -34569,7 +34609,7 @@
     "simplify:salesforce::simplify-90326487-43c7-4181-ac71-44e331484bf4": {
       "company": "Salesforce",
       "first_seen": "2026-08-06T15:29:24+00:00",
-      "last_seen": "2026-09-22T00:04:40+00:00",
+      "last_seen": "2026-09-24T22:33:34+00:00",
       "posted_at": "1785974400",
       "title": "Software Engineer College Grad",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1"
@@ -48656,5 +48696,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T22:27:26+00:00"
+  "updated_at": "2026-09-24T22:34:28+00:00"
 }
