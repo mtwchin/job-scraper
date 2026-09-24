@@ -45,6 +45,15 @@
       "source": "simplify",
       "title": "Computer Science Engineer 1 - Cranberry Township",
       "url": "https://careers-framatome.icims.com/jobs/3408/job?mobile=true&needsRedirect=false"
+    },
+    "ziprecruiter::8127108": {
+      "attempted_at": "2026-09-24T16:22:51+00:00",
+      "company": "ZipRecruiter",
+      "location": "Santa Monica, CA",
+      "posted_at": "2026-09-24T12:18:41-04:00",
+      "source": "",
+      "title": "Software Engineer - New Grad",
+      "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108"
     }
   },
   "delivery_rejections": {},
@@ -48568,5 +48577,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T16:03:27+00:00"
+  "updated_at": "2026-09-24T16:23:29+00:00"
 }
