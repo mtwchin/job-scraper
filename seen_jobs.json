@@ -10,6 +10,15 @@
       "title": "Software Engineer Internship, Frontend",
       "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74"
     },
+    "ramp::b66be397-240b-41a6-9b05-493299b270a9": {
+      "attempted_at": "2026-09-24T01:04:01+00:00",
+      "company": "Ramp",
+      "location": "New York, NY (HQ)",
+      "posted_at": "2026-09-24T01:01:49.394+00:00",
+      "source": "",
+      "title": "Software Engineering Intern, iOS",
+      "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9"
+    },
     "simplify:amgen::simplify-2d23863f-49e1-4783-aab6-4f76106c7d8d": {
       "attempted_at": "2026-09-23T22:34:27+00:00",
       "company": "Amgen",
@@ -48369,5 +48378,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T00:58:52+00:00"
+  "updated_at": "2026-09-24T01:04:54+00:00"
 }
