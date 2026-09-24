@@ -1,5 +1,5 @@
 {
-  "count": 6141,
+  "count": 6142,
   "delivery_attempts": {
     "ramp::a13ae586-f4cb-4385-8822-c42b9b54ed74": {
       "attempted_at": "2026-09-24T00:47:26+00:00",
@@ -26424,7 +26424,7 @@
     "simplify:newsbreak::simplify-6f1652fb-4396-40dc-bf65-0aaf4c8db667": {
       "company": "NewsBreak",
       "first_seen": "2026-09-12T05:42:06+00:00",
-      "last_seen": "2026-09-16T00:01:03+00:00",
+      "last_seen": "2026-09-24T06:34:50+00:00",
       "posted_at": "1789176058",
       "title": "AI Intern - Engineering Track",
       "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4712896006"
@@ -44124,6 +44124,16 @@
       "title": "Computational and Software Engineering Intern",
       "url": "https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911/apply"
     },
+    "simplify:xero::simplify-9860b985-32f5-4061-92b6-53b33bacbe0c": {
+      "company": "Xero",
+      "first_seen": "2026-09-24T06:34:50+00:00",
+      "last_seen": "2026-09-24T06:34:50+00:00",
+      "location": "Calgary, AB, Canada",
+      "posted_at": "1790230516",
+      "source": "simplify",
+      "title": "Associate Engineer - Back End",
+      "url": "https://jobs.ashbyhq.com/xero/8f7f41b3-85db-4029-ab1a-70c88c5dc987/application?embed=true"
+    },
     "simplify:xsolla::simplify-9eeb2878-4b21-43db-94eb-1586edccfa2a": {
       "company": "Xsolla",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -48449,5 +48459,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T03:17:07+00:00"
+  "updated_at": "2026-09-24T06:35:11+00:00"
 }
