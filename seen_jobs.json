@@ -1,5 +1,5 @@
 {
-  "count": 6144,
+  "count": 6145,
   "delivery_attempts": {
     "ramp::a13ae586-f4cb-4385-8822-c42b9b54ed74": {
       "attempted_at": "2026-09-24T00:47:26+00:00",
@@ -22994,6 +22994,16 @@
       "posted_at": "1787627672",
       "title": "Associate Software Engineering",
       "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1422806500/?ats=successfactors"
+    },
+    "simplify:l3harris technologies::simplify-d6145bb9-e227-4e58-93d0-88787216d111": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-09-24T11:06:11+00:00",
+      "last_seen": "2026-09-24T11:06:11+00:00",
+      "location": "Rochester, NY",
+      "posted_at": "1788289303",
+      "source": "simplify",
+      "title": "Associate Technical Training - Tactical Communications Multimedia Training",
+      "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Technical-Training-NY-14609/1425480300/?ats=successfactors"
     },
     "simplify:l3harris technologies::simplify-dc6217c1-230d-4b6d-9ec6-781741754f2e": {
       "company": "L3Harris Technologies",
@@ -48479,5 +48489,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T10:07:40+00:00"
+  "updated_at": "2026-09-24T11:06:43+00:00"
 }
