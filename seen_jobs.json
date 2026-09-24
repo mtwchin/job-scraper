@@ -1,5 +1,5 @@
 {
-  "count": 6143,
+  "count": 6144,
   "delivery_attempts": {
     "ramp::a13ae586-f4cb-4385-8822-c42b9b54ed74": {
       "attempted_at": "2026-09-24T00:47:26+00:00",
@@ -26028,6 +26028,16 @@
       "title": "New Grad Software Engineer - Backend Rust",
       "url": "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application"
     },
+    "simplify:nasco::simplify-3a435b5c-6e92-490d-afae-1468682256cf": {
+      "company": "NASCO",
+      "first_seen": "2026-09-24T10:06:43+00:00",
+      "last_seen": "2026-09-24T10:06:43+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1788559808",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://careers-nasco.icims.com/jobs/4402/job?mobile=true&needsRedirect=false"
+    },
     "simplify:nasdaq::simplify-002618cc-e34d-4691-93cf-e7f0a7138076": {
       "company": "Nasdaq",
       "first_seen": "2026-09-07T17:47:07+00:00",
@@ -33738,7 +33748,7 @@
     "simplify:rtx::simplify-b698f712-411d-4005-b00c-49d33f52731c": {
       "company": "RTX",
       "first_seen": "2026-09-10T23:38:18+00:00",
-      "last_seen": "2026-09-22T09:03:52+00:00",
+      "last_seen": "2026-09-24T10:06:43+00:00",
       "posted_at": "1788998400",
       "title": "Software Engineer Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298"
@@ -48469,5 +48479,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T10:01:38+00:00"
+  "updated_at": "2026-09-24T10:07:40+00:00"
 }
