@@ -1,5 +1,5 @@
 {
-  "count": 6149,
+  "count": 6150,
   "delivery_attempts": {
     "ramp::a13ae586-f4cb-4385-8822-c42b9b54ed74": {
       "attempted_at": "2026-09-24T00:47:26+00:00",
@@ -94,6 +94,16 @@
       "source": "",
       "title": "2027 University Graduate - AI Forward Deployed Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018"
+    },
+    "adobe::XMLNAME-2027-University-Graduate---Software-Engineer_R172083": {
+      "company": "Adobe",
+      "first_seen": "2026-09-24T15:53:24+00:00",
+      "last_seen": "2026-09-24T15:53:24+00:00",
+      "location": "San Jose, San Francisco, Austin, Seattle, Lehi, New York",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "2027 University Graduate - Software Engineer",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083"
     },
     "affirm::7485068003": {
       "company": "Affirm",
@@ -48548,5 +48558,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T15:37:16+00:00"
+  "updated_at": "2026-09-24T15:54:24+00:00"
 }
