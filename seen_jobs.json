@@ -1,5 +1,5 @@
 {
-  "count": 6162,
+  "count": 6166,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -4733,6 +4733,16 @@
       "posted_at": "1788307200",
       "title": "Component Lab Computer Engineer",
       "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Component-Lab-Computer-Engineer_R0169438"
+    },
+    "simplify:ameren::simplify-47ef5abc-2878-4502-b445-bf173df908ab": {
+      "company": "Ameren",
+      "first_seen": "2026-09-24T22:37:44+00:00",
+      "last_seen": "2026-09-24T22:37:44+00:00",
+      "location": "St. Louis, MO",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Robotics Intern - Multiple Teams",
+      "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1"
     },
     "simplify:ameren::simplify-51b0d062-6f05-4d98-afb7-8dc7523b4758": {
       "company": "Ameren",
@@ -13129,6 +13139,16 @@
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://careers.cvent.com/jobs/10806?icims=1"
     },
+    "simplify:cvs health::simplify-3ebd187d-832e-4667-83aa-850719abfd1b": {
+      "company": "CVS Health",
+      "first_seen": "2026-09-24T22:37:44+00:00",
+      "last_seen": "2026-09-24T22:37:44+00:00",
+      "location": "Hartford, CT, NYC, Woonsocket, RI, Irving, TX, Wellesley, MA",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Analytics & Behavior Change",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Software-Engineer---Grad-Intern-Conversion_R1055183"
+    },
     "simplify:cvs health::simplify-5a476d63-cb12-4e98-8fd7-35895108a039": {
       "company": "CVS Health",
       "first_seen": "2026-08-14T18:24:15+00:00",
@@ -18738,6 +18758,16 @@
       "title": "Software Engineer Intern - Low Code",
       "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375"
     },
+    "simplify:goto group::simplify-53be118e-994c-4a33-a907-84d5c532ee8c": {
+      "company": "GoTo Group",
+      "first_seen": "2026-09-24T22:37:44+00:00",
+      "last_seen": "2026-09-24T22:37:44+00:00",
+      "location": "Remote in Canada",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Front-End Intern",
+      "url": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/Grasshopper-FE-Intern_R26-2253"
+    },
     "simplify:govcio::simplify-ff1f9ced-4d6d-400f-a0cf-ac068213a682": {
       "company": "GovCIO",
       "first_seen": "2026-09-10T05:13:45+00:00",
@@ -22739,6 +22769,16 @@
       "posted_at": "1782292243",
       "title": "AI Frontend Engineer",
       "url": "https://jobs.ashbyhq.com/klarity-ai/fc094114-4d6e-4bf5-977f-c5b37d7e33e1/application?embed=true"
+    },
+    "simplify:klaviyo::simplify-0a38034b-5b0a-49b9-98c7-c844defb5ae4": {
+      "company": "Klaviyo",
+      "first_seen": "2026-09-24T22:37:44+00:00",
+      "last_seen": "2026-09-24T22:37:44+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1790202117",
+      "source": "simplify",
+      "title": "AI Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003"
     },
     "simplify:klaviyo::simplify-155087e9-02c4-4e9c-af43-3d7e5a3a6091": {
       "company": "Klaviyo",
@@ -48696,5 +48736,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T22:34:28+00:00"
+  "updated_at": "2026-09-24T22:38:29+00:00"
 }
