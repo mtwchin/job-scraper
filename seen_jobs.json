@@ -1,5 +1,5 @@
 {
-  "count": 6145,
+  "count": 6148,
   "delivery_attempts": {
     "ramp::a13ae586-f4cb-4385-8822-c42b9b54ed74": {
       "attempted_at": "2026-09-24T00:47:26+00:00",
@@ -727,6 +727,16 @@
       "title": "Software Engineer Data & AI I (Intern) \u2013 United States",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306"
     },
+    "cisco::Software-Engineer-Data---AI-II--Intern----United-States_2026798": {
+      "company": "Cisco",
+      "first_seen": "2026-09-24T13:13:17+00:00",
+      "last_seen": "2026-09-24T13:13:17+00:00",
+      "location": "San Jose, California, US, Milpitas, California, US, RTP, North Carolina, US, San Francisco, California, US",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Software Engineer Data & AI II (Intern) \u2013 United States",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798"
+    },
     "cisco::Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926": {
       "company": "Cisco",
       "first_seen": "2026-09-22T03:24:55+00:00",
@@ -737,6 +747,16 @@
       "title": "Software Engineer Embedded Systems I (Intern) \u2013 United States",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926"
     },
+    "cisco::Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805": {
+      "company": "Cisco",
+      "first_seen": "2026-09-24T13:13:17+00:00",
+      "last_seen": "2026-09-24T13:13:17+00:00",
+      "location": "San Jose, California, US, Milpitas, California, US, RTP, North Carolina, US, San Francisco, California, US",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Software Engineer Embedded Systems II (Intern) \u2013 United States",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805"
+    },
     "cisco::Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924": {
       "company": "Cisco",
       "first_seen": "2026-09-22T03:24:55+00:00",
@@ -746,6 +766,16 @@
       "source": "",
       "title": "Software Engineer Full Stack / Backend I (Intern) \u2013 United States",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924"
+    },
+    "cisco::Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800": {
+      "company": "Cisco",
+      "first_seen": "2026-09-24T13:13:17+00:00",
+      "last_seen": "2026-09-24T13:13:17+00:00",
+      "location": "San Jose, California, US, Milpitas, California, US, RTP, North Carolina, US, San Francisco, California, US",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Software Engineer Full Stack / Backend II (Intern) \u2013 United States",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800"
     },
     "cisco::Software-Engineer-I--Full-Time----United-States_1449197": {
       "company": "Cisco",
@@ -48489,5 +48519,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T11:06:43+00:00"
+  "updated_at": "2026-09-24T13:13:46+00:00"
 }
