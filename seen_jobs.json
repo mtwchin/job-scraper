@@ -1,5 +1,5 @@
 {
-  "count": 6186,
+  "count": 6191,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -17626,6 +17626,16 @@
       "title": "Software Engineer Intern - Crypto and Cross Domain Solutions",
       "url": "https://careers-gdms.icims.com/jobs/74785/job?mobile=true&needsRedirect=false"
     },
+    "simplify:general dynamics mission systems::simplify-125dffe4-5767-49c8-a2bd-eb8e5a57abb4": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-09-24T23:05:50+00:00",
+      "last_seen": "2026-09-24T23:05:50+00:00",
+      "location": "Port Orchard, WA",
+      "posted_at": "1790288023",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://careers-gdms.icims.com/jobs/75179/job?mobile=true&needsRedirect=false"
+    },
     "simplify:general dynamics mission systems::simplify-23966701-dcec-454f-b621-9d8bd6aa22b1": {
       "company": "General Dynamics Mission Systems",
       "first_seen": "2026-09-10T00:38:47+00:00",
@@ -18550,6 +18560,16 @@
       "posted_at": "1781215635",
       "title": "Software Development Engineer 1",
       "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260271"
+    },
+    "simplify:gm financial::simplify-63ee202c-e263-4273-bfef-b12583dfe8bb": {
+      "company": "GM financial",
+      "first_seen": "2026-09-24T23:05:50+00:00",
+      "last_seen": "2026-09-24T23:05:50+00:00",
+      "location": "Irving, TX",
+      "posted_at": "1790288191",
+      "source": "simplify",
+      "title": "Software Development Engineer 1 - Mobile",
+      "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260957"
     },
     "simplify:gm financial::simplify-7d0b9ee4-e67a-458f-b2e8-9ec664639235": {
       "company": "GM financial",
@@ -23046,6 +23066,7 @@
     "simplify:kyndryl::simplify-7b7570bf-652d-4657-b8d5-9255f6211911": {
       "company": "Kyndryl",
       "first_seen": "2026-08-14T05:13:27+00:00",
+      "last_seen": "2026-09-24T23:05:50+00:00",
       "posted_at": "1786579200",
       "title": "Associate Creative Technologist - Early Career Consult Program",
       "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-Creative-Technologist_R-66763-2"
@@ -24413,6 +24434,16 @@
       "posted_at": "1778882944",
       "title": "AI Engineer",
       "url": "https://jobs.ashbyhq.com/makai-labs/a350e730-8d80-4528-9d41-497acbd01223/application"
+    },
+    "simplify:man group::simplify-74f5d04c-5dd5-4838-8c22-2cef8a0d48c0": {
+      "company": "Man Group",
+      "first_seen": "2026-09-24T23:05:50+00:00",
+      "last_seen": "2026-09-24T23:05:50+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1790289330",
+      "source": "simplify",
+      "title": "Technology Rotational Program - Associate Engineer",
+      "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978937101"
     },
     "simplify:mantech::simplify-678077f9-ae48-457f-8a21-5b51072d2d48": {
       "company": "ManTech",
@@ -30761,7 +30792,7 @@
     "simplify:pplsi::simplify-2a701480-0cb2-4855-8732-d762f6105134": {
       "company": "PPLSI",
       "first_seen": "2026-08-21T14:57:47+00:00",
-      "last_seen": "2026-09-17T00:02:10+00:00",
+      "last_seen": "2026-09-24T23:05:50+00:00",
       "posted_at": "1787270400",
       "title": "Software Engineer",
       "url": "https://legalshieldcorp.wd1.myworkdayjobs.com/en-US/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820"
@@ -33670,6 +33701,7 @@
     "simplify:rtx::simplify-4d8ade89-7d74-491e-a5cb-4fe36798e3d5": {
       "company": "RTX",
       "first_seen": "2026-07-24T23:33:06+00:00",
+      "last_seen": "2026-09-24T23:05:50+00:00",
       "posted_at": "1775686138",
       "title": "Software Engineer 1 - Test Solutions",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492"
@@ -33973,7 +34005,7 @@
     "simplify:rtx::simplify-8edf16f9-31db-4a81-b28d-bfabbbdece38": {
       "company": "RTX",
       "first_seen": "2026-09-14T19:14:49+00:00",
-      "last_seen": "2026-09-21T00:04:12+00:00",
+      "last_seen": "2026-09-24T23:05:50+00:00",
       "location": "Tucson, AZ",
       "posted_at": "1789344000",
       "source": "simplify",
@@ -35971,6 +36003,16 @@
       "source": "simplify",
       "title": "Software Developer - Deploy & Run",
       "url": "https://slice.careers/careers-listing?gh_jid=8220121"
+    },
+    "simplify:slice (slicelife.com)::simplify-845f6b5a-4840-47d7-ae70-0c81ee81d46a": {
+      "company": "Slice (slicelife.com)",
+      "first_seen": "2026-09-24T23:05:50+00:00",
+      "last_seen": "2026-09-24T23:05:50+00:00",
+      "location": "Remote in UK, Remote in Canada",
+      "posted_at": "1790290069",
+      "source": "simplify",
+      "title": "Software Developer - Services",
+      "url": "https://slice.careers/careers-listing?gh_jid=7228671"
     },
     "simplify:slice (slicelife.com)::simplify-a6a3e049-7705-4778-b661-940154f9d584": {
       "company": "Slice (slicelife.com)",
@@ -41610,6 +41652,16 @@
       "posted_at": "1788220800",
       "title": "Application Engineer Intern/Co-op",
       "url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Plymouth-MI/Application-Engineering-Intern-Co-op_R00042681"
+    },
+    "simplify:trunk tools::simplify-a1ab4c1e-22e6-4b3b-9d18-6abf551fc952": {
+      "company": "Trunk Tools",
+      "first_seen": "2026-09-24T23:05:50+00:00",
+      "last_seen": "2026-09-24T23:05:50+00:00",
+      "location": "NYC",
+      "posted_at": "1790288679",
+      "source": "simplify",
+      "title": "Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/trunk%20tools/414cdb32-9e5e-4679-8736-93cc28f7cf44/application?embed=true"
     },
     "simplify:trustpilot::simplify-b28000f1-01d7-4052-8ad3-e73e8bf916cc": {
       "company": "Trustpilot",
@@ -48936,5 +48988,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T23:04:32+00:00"
+  "updated_at": "2026-09-24T23:06:33+00:00"
 }
