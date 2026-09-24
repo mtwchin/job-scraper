@@ -1,5 +1,5 @@
 {
-  "count": 6139,
+  "count": 6141,
   "delivery_attempts": {
     "ramp::a13ae586-f4cb-4385-8822-c42b9b54ed74": {
       "attempted_at": "2026-09-24T00:47:26+00:00",
@@ -9,15 +9,6 @@
       "source": "",
       "title": "Software Engineer Internship, Frontend",
       "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74"
-    },
-    "ramp::b66be397-240b-41a6-9b05-493299b270a9": {
-      "attempted_at": "2026-09-24T01:04:01+00:00",
-      "company": "Ramp",
-      "location": "New York, NY (HQ)",
-      "posted_at": "2026-09-24T01:01:49.394+00:00",
-      "source": "",
-      "title": "Software Engineering Intern, iOS",
-      "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9"
     },
     "simplify:amgen::simplify-2d23863f-49e1-4783-aab6-4f76106c7d8d": {
       "attempted_at": "2026-09-23T22:34:27+00:00",
@@ -36,15 +27,6 @@
       "source": "simplify",
       "title": "Computer Science Engineer 1 - Cranberry Township",
       "url": "https://careers-framatome.icims.com/jobs/3408/job?mobile=true&needsRedirect=false"
-    },
-    "simplify:parallel systems::simplify-e52a13ce-a653-4971-8d74-8ac2a350f68f": {
-      "attempted_at": "2026-09-24T02:02:55+00:00",
-      "company": "Parallel Systems",
-      "location": "LA",
-      "posted_at": "1790213395",
-      "source": "simplify",
-      "title": "Full Stack Software Engineer 1 - Interfaces",
-      "url": "https://boards.greenhouse.io/parallel/jobs/5247800007"
     }
   },
   "delivery_rejections": {},
@@ -2057,6 +2039,16 @@
       "source": "",
       "title": "Software Engineering Intern, Backend",
       "url": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04"
+    },
+    "ramp::b66be397-240b-41a6-9b05-493299b270a9": {
+      "company": "Ramp",
+      "first_seen": "2026-09-24T03:16:26+00:00",
+      "last_seen": "2026-09-24T03:16:26+00:00",
+      "location": "New York, NY (HQ)",
+      "posted_at": "2026-09-24T01:01:49.394+00:00",
+      "source": "",
+      "title": "Software Engineering Intern, iOS",
+      "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9"
     },
     "ramp::fcf118cc-521a-4a62-9d13-945e5b6e3cb8": {
       "company": "Ramp",
@@ -7652,8 +7644,8 @@
     },
     "simplify:black box::simplify-c7c7dafc-ce0e-4ed2-92f7-ed3bc461bbb7": {
       "company": "Black Box",
-      "first_seen": "2026-09-24T03:01:51+00:00",
-      "last_seen": "2026-09-24T03:01:51+00:00",
+      "first_seen": "2026-09-24T03:16:27+00:00",
+      "last_seen": "2026-09-24T03:16:27+00:00",
       "location": "Plano, TX",
       "posted_at": "1777500264",
       "source": "simplify",
@@ -18353,7 +18345,7 @@
     "simplify:goldman sachs::simplify-43a5374e-0e70-4dc9-82b0-687b54e8c5da": {
       "company": "Goldman Sachs",
       "first_seen": "2026-08-15T04:58:35+00:00",
-      "last_seen": "2026-09-24T01:36:13+00:00",
+      "last_seen": "2026-09-24T03:16:26+00:00",
       "posted_at": "1786767954",
       "title": "Engineering New Analyst - Engineering",
       "url": "https://higher.gs.com/roles/171570?type=students"
@@ -18361,7 +18353,7 @@
     "simplify:goldman sachs::simplify-5a49d74c-fa9f-4dd4-a66b-24fc3d9c1def": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-24T01:34:16+00:00",
+      "last_seen": "2026-09-24T03:16:26+00:00",
       "posted_at": "1786767952",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171564?type=students"
@@ -18369,7 +18361,7 @@
     "simplify:goldman sachs::simplify-5bdec003-2a02-42a4-a602-467541840552": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-24T01:34:16+00:00",
+      "last_seen": "2026-09-24T03:16:26+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171565?type=students"
@@ -18377,7 +18369,7 @@
     "simplify:goldman sachs::simplify-792220f4-3ba1-4cf8-843e-e23208ba8d24": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-24T01:34:16+00:00",
+      "last_seen": "2026-09-24T03:16:26+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/171553?type=students"
@@ -18407,7 +18399,7 @@
     "simplify:goldman sachs::simplify-b2b3a7df-bea1-4290-b988-4c3e567814b8": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-24T01:34:16+00:00",
+      "last_seen": "2026-09-24T03:16:26+00:00",
       "posted_at": "1786767944",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/170637?type=students"
@@ -28021,7 +28013,7 @@
     "simplify:nvidia::simplify-be628885-fde3-4b73-bb0a-58e11856e97b": {
       "company": "NVIDIA",
       "first_seen": "2026-08-19T10:13:53+00:00",
-      "last_seen": "2026-09-24T01:43:53+00:00",
+      "last_seen": "2026-09-23T00:03:42+00:00",
       "posted_at": "1787097600",
       "title": "Software Engineering Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495"
@@ -28057,7 +28049,7 @@
     "simplify:nvidia::simplify-ea8c5ebd-a6c4-49ff-9dac-f3532c41737a": {
       "company": "NVIDIA",
       "first_seen": "2026-08-19T10:13:53+00:00",
-      "last_seen": "2026-09-24T01:43:53+00:00",
+      "last_seen": "2026-09-23T00:03:42+00:00",
       "posted_at": "1787097600",
       "title": "Systems Software Engineering Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492"
@@ -29275,6 +29267,16 @@
       "posted_at": "1777500545",
       "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/PAR%20Technology/da5217c9-9b0e-493a-847e-96028574d107/application"
+    },
+    "simplify:parallel systems::simplify-e52a13ce-a653-4971-8d74-8ac2a350f68f": {
+      "company": "Parallel Systems",
+      "first_seen": "2026-09-24T03:16:27+00:00",
+      "last_seen": "2026-09-24T03:16:27+00:00",
+      "location": "LA",
+      "posted_at": "1790213395",
+      "source": "simplify",
+      "title": "Full Stack Software Engineer 1 - Interfaces",
+      "url": "https://boards.greenhouse.io/parallel/jobs/5247800007"
     },
     "simplify:pariveda solutions::simplify-1b2d5e3a-9ab3-42a9-ab25-8ade9c457825": {
       "company": "Pariveda Solutions",
@@ -31158,8 +31160,8 @@
     },
     "simplify:ramp::simplify-2470b381-61c4-4e0a-9a0b-dcc58f4956bd": {
       "company": "Ramp",
-      "first_seen": "2026-09-24T01:34:17+00:00",
-      "last_seen": "2026-09-24T01:34:17+00:00",
+      "first_seen": "2026-09-24T03:16:26+00:00",
+      "last_seen": "2026-09-24T03:16:26+00:00",
       "location": "NYC",
       "posted_at": "1790212861",
       "source": "simplify",
@@ -31168,8 +31170,8 @@
     },
     "simplify:ramp::simplify-a6ca4015-b83d-4606-a189-7a9fe9f86aa3": {
       "company": "Ramp",
-      "first_seen": "2026-09-24T01:34:17+00:00",
-      "last_seen": "2026-09-24T01:34:17+00:00",
+      "first_seen": "2026-09-24T03:16:26+00:00",
+      "last_seen": "2026-09-24T03:16:26+00:00",
       "location": "NYC",
       "posted_at": "1790212862",
       "source": "simplify",
@@ -31178,8 +31180,8 @@
     },
     "simplify:ramp::simplify-ac053621-f848-4ace-97dc-4ef8ad9562a0": {
       "company": "Ramp",
-      "first_seen": "2026-09-24T01:34:17+00:00",
-      "last_seen": "2026-09-24T01:34:17+00:00",
+      "first_seen": "2026-09-24T03:16:26+00:00",
+      "last_seen": "2026-09-24T03:16:26+00:00",
       "location": "NYC",
       "posted_at": "1790212860",
       "source": "simplify",
@@ -31188,8 +31190,8 @@
     },
     "simplify:ramp::simplify-f0d9dc74-c470-46ea-ab22-7301f693cf34": {
       "company": "Ramp",
-      "first_seen": "2026-09-24T01:34:17+00:00",
-      "last_seen": "2026-09-24T01:34:17+00:00",
+      "first_seen": "2026-09-24T03:16:26+00:00",
+      "last_seen": "2026-09-24T03:16:26+00:00",
       "location": "NYC",
       "posted_at": "1790212862",
       "source": "simplify",
@@ -35113,8 +35115,8 @@
     },
     "simplify:sierra nevada corporation::simplify-4a1157a6-d353-457f-b894-9deb47f6d3d5": {
       "company": "Sierra Nevada Corporation",
-      "first_seen": "2026-09-24T01:34:17+00:00",
-      "last_seen": "2026-09-24T01:34:17+00:00",
+      "first_seen": "2026-09-24T03:16:27+00:00",
+      "last_seen": "2026-09-24T03:16:27+00:00",
       "location": "Plano, TX",
       "posted_at": "1790121600",
       "source": "simplify",
@@ -41335,7 +41337,7 @@
     "simplify:tyler technologies::simplify-d6c24595-0dd3-449f-b0ae-d13e256fc740": {
       "company": "Tyler Technologies",
       "first_seen": "2026-09-22T03:24:56+00:00",
-      "last_seen": "2026-09-24T01:34:16+00:00",
+      "last_seen": "2026-09-24T03:16:26+00:00",
       "location": "Yarmouth, ME, Orono, ME, Falmouth, ME",
       "posted_at": "1790029561",
       "source": "simplify",
@@ -48447,5 +48449,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T03:02:06+00:00"
+  "updated_at": "2026-09-24T03:17:07+00:00"
 }
