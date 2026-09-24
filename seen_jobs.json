@@ -26424,7 +26424,7 @@
     "simplify:newsbreak::simplify-6f1652fb-4396-40dc-bf65-0aaf4c8db667": {
       "company": "NewsBreak",
       "first_seen": "2026-09-12T05:42:06+00:00",
-      "last_seen": "2026-09-24T06:34:50+00:00",
+      "last_seen": "2026-09-24T08:46:51+00:00",
       "posted_at": "1789176058",
       "title": "AI Intern - Engineering Track",
       "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4712896006"
@@ -44126,8 +44126,8 @@
     },
     "simplify:xero::simplify-9860b985-32f5-4061-92b6-53b33bacbe0c": {
       "company": "Xero",
-      "first_seen": "2026-09-24T06:34:50+00:00",
-      "last_seen": "2026-09-24T06:34:50+00:00",
+      "first_seen": "2026-09-24T08:46:52+00:00",
+      "last_seen": "2026-09-24T08:46:52+00:00",
       "location": "Calgary, AB, Canada",
       "posted_at": "1790230516",
       "source": "simplify",
@@ -48459,5 +48459,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-24T06:35:11+00:00"
+  "updated_at": "2026-09-24T08:47:35+00:00"
 }
