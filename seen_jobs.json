@@ -1,5 +1,5 @@
 {
-  "count": 6220,
+  "count": 6221,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -1451,6 +1451,16 @@
       "source": "",
       "title": "Software Engineering Intern - Spring 2027",
       "url": "https://job-boards.greenhouse.io/mercury/jobs/6199367004"
+    },
+    "microsoft::1970393557008714": {
+      "company": "Microsoft",
+      "first_seen": "2026-09-25T22:20:05+00:00",
+      "last_seen": "2026-09-25T22:20:05+00:00",
+      "location": "United States, Georgia, Atlanta",
+      "posted_at": "1790373797",
+      "source": "",
+      "title": "Software Engineer: Intern Opportunities for University Students, Atlanta",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557008714"
     },
     "netflix::790313241540": {
       "company": "Netflix",
@@ -49283,5 +49293,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-25T21:57:27+00:00"
+  "updated_at": "2026-09-25T22:20:29+00:00"
 }
