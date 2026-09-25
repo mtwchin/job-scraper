@@ -1,5 +1,5 @@
 {
-  "count": 6215,
+  "count": 6216,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -1320,6 +1320,16 @@
       "posted_at": "Posted Today",
       "title": "Software Engineering - Intern, Graduate",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836"
+    },
+    "intel::System-Software-Engineering---PhD-Intern_JR0287457": {
+      "company": "Intel",
+      "first_seen": "2026-09-25T18:59:20+00:00",
+      "last_seen": "2026-09-25T18:59:20+00:00",
+      "location": "US, Oregon, Hillsboro",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "System Software Engineering - PhD Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457"
     },
     "jpmc::210785885": {
       "company": "JPMC",
@@ -49233,5 +49243,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-25T14:34:58+00:00"
+  "updated_at": "2026-09-25T19:00:14+00:00"
 }
