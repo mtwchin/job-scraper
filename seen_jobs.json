@@ -1,5 +1,5 @@
 {
-  "count": 6221,
+  "count": 6233,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -3027,6 +3027,16 @@
       "title": "Associate Software Engineer - Multiple Teams",
       "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Texas---Irving/Associate-Software-Engineer_31158107-1"
     },
+    "simplify:abbott::simplify-710de821-64c1-4cee-91fa-bb55f8498f3f": {
+      "company": "Abbott",
+      "first_seen": "2026-09-25T22:35:01+00:00",
+      "last_seen": "2026-09-25T22:35:01+00:00",
+      "location": "La Jolla, San Diego, CA",
+      "posted_at": "1790294400",
+      "source": "simplify",
+      "title": "Software Engineer 1 - Multiple Teams",
+      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---La-Jolla/Software-Engineer-I_31162389"
+    },
     "simplify:abbott::simplify-b6b3d7a4-ef99-4d90-b54e-4875edd95d12": {
       "company": "Abbott",
       "first_seen": "2026-08-12T14:39:57+00:00",
@@ -3078,6 +3088,16 @@
       "posted_at": "1785362752",
       "title": "Associate Software Engineer 1",
       "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014350476"
+    },
+    "simplify:abbvie::simplify-fec9533c-b5cc-4a22-b148-01e36f9516d4": {
+      "company": "AbbVie",
+      "first_seen": "2026-09-25T22:35:01+00:00",
+      "last_seen": "2026-09-25T22:35:01+00:00",
+      "location": "Irvine, CA",
+      "posted_at": "1790373873",
+      "source": "simplify",
+      "title": "Business Technology Solutions Intern - Data & Software Engineering",
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990015684476"
     },
     "simplify:abby care::simplify-fa54869a-f35b-40df-87b1-8c44c20b5f5a": {
       "company": "Abby Care",
@@ -8325,6 +8345,16 @@
       "title": "Software Engineer - University",
       "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246655"
     },
+    "simplify:booz allen::simplify-628819fc-d652-4fd1-9a14-5c20d1960230": {
+      "company": "Booz Allen",
+      "first_seen": "2026-09-25T22:35:01+00:00",
+      "last_seen": "2026-09-25T22:35:01+00:00",
+      "location": "Crane, IN, McLean, VA",
+      "posted_at": "1790294400",
+      "source": "simplify",
+      "title": "Software Developer",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0250368"
+    },
     "simplify:booz allen::simplify-62db8501-50e1-4e15-b869-1d6c53c8f3fb": {
       "company": "Booz Allen",
       "first_seen": "2026-08-07T23:34:48+00:00",
@@ -8591,6 +8621,16 @@
       "posted_at": "1786060800",
       "title": "Software Engineer",
       "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246665"
+    },
+    "simplify:bosch home comfort::simplify-932473fd-b2c2-4043-94aa-f69318eda3f1": {
+      "company": "Bosch Home Comfort",
+      "first_seen": "2026-09-25T22:35:01+00:00",
+      "last_seen": "2026-09-25T22:35:01+00:00",
+      "location": "Plymouth, MI",
+      "posted_at": "1790374048",
+      "source": "simplify",
+      "title": "Engineering Intern - Airbag ECU",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151900549"
     },
     "simplify:bosch home comfort::simplify-d8558fc9-9efb-4c17-b70f-26aafda3b66a": {
       "company": "Bosch Home Comfort",
@@ -11072,6 +11112,16 @@
       "title": "Software Engineering Intern - Technology",
       "url": "https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false"
     },
+    "simplify:charles schwab::simplify-40bf0d3e-456c-4a73-a81b-3767a13f72ea": {
+      "company": "Charles Schwab",
+      "first_seen": "2026-09-25T22:35:01+00:00",
+      "last_seen": "2026-09-25T22:35:01+00:00",
+      "location": "Orlando, FL, Southlake, TX",
+      "posted_at": "1790374138",
+      "source": "simplify",
+      "title": "Associate Software Development Engineer",
+      "url": "https://career-schwab.icims.com/jobs/126526/job?mobile=true&needsRedirect=false"
+    },
     "simplify:charles schwab::simplify-7d7fcc05-30c1-4dc3-a5df-2990124154eb": {
       "company": "Charles Schwab",
       "first_seen": "2026-07-29T23:12:09+00:00",
@@ -11423,7 +11473,7 @@
     "simplify:cigna group::simplify-024af855-b60d-44e5-8ca0-8446b24f70e7": {
       "company": "Cigna Group",
       "first_seen": "2026-08-21T18:41:57+00:00",
-      "last_seen": "2026-09-21T00:04:12+00:00",
+      "last_seen": "2026-09-25T22:35:00+00:00",
       "posted_at": "1787270400",
       "title": "Technology Apprentice - Multiple Teams",
       "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/Technology-Apprentice-Program---Hybrid_26010314"
@@ -13223,6 +13273,16 @@
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://careers.cvent.com/jobs/10806?icims=1"
     },
+    "simplify:cvs health::simplify-197ca67f-b0d1-4876-ac51-5e065b16540a": {
+      "company": "CVS Health",
+      "first_seen": "2026-09-25T22:35:01+00:00",
+      "last_seen": "2026-09-25T22:35:01+00:00",
+      "location": "Wisconsin",
+      "posted_at": "1790294400",
+      "source": "simplify",
+      "title": "Software Development Engineer",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/WI---Work-from-home/Software-Development-Engineer_R1024749-1"
+    },
     "simplify:cvs health::simplify-3ebd187d-832e-4667-83aa-850719abfd1b": {
       "company": "CVS Health",
       "first_seen": "2026-09-24T22:37:44+00:00",
@@ -13239,6 +13299,16 @@
       "posted_at": "1786665600",
       "title": "Associate Software Engineer",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Farmers-Branch/Associate-Software-Development-Engineer_R1006749"
+    },
+    "simplify:cvs health::simplify-9a4e692e-1dc0-4654-b6d1-ae51cbec8546": {
+      "company": "CVS Health",
+      "first_seen": "2026-09-25T22:35:01+00:00",
+      "last_seen": "2026-09-25T22:35:01+00:00",
+      "location": "Pennsylvania",
+      "posted_at": "1790294400",
+      "source": "simplify",
+      "title": "Software Development Engineer",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Work-from-home/Software-Development-Engineer_R1038482"
     },
     "simplify:cwill::simplify-a793a502-be13-4c61-a978-d990f3122ad0": {
       "company": "CWILL",
@@ -17159,6 +17229,16 @@
       "posted_at": "1784505600",
       "title": "Engineering Development Program",
       "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program_R4043922-1"
+    },
+    "simplify:ge healthcare::simplify-5cfd0cc4-fb8d-400a-8048-c690831418ad": {
+      "company": "GE Healthcare",
+      "first_seen": "2026-09-25T22:35:01+00:00",
+      "last_seen": "2026-09-25T22:35:01+00:00",
+      "location": "Beachwood, OH",
+      "posted_at": "1790294400",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Workflow Platform",
+      "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/OH05-01-Beachwood-Science-Park-Drive/Software-Engineering-Intern---Workflow-Platform_R4046886-1"
     },
     "simplify:ge healthcare::simplify-7d669b5f-60d8-41f2-8c63-353b9b7240a7": {
       "company": "GE Healthcare",
@@ -22756,6 +22836,16 @@
       "title": "Software Development Co-op/Intern - C++",
       "url": "https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false"
     },
+    "simplify:kinaxis::simplify-d3e5ba1e-a291-46e1-a4b3-7da47159deb3": {
+      "company": "Kinaxis",
+      "first_seen": "2026-09-25T22:35:01+00:00",
+      "last_seen": "2026-09-25T22:35:01+00:00",
+      "location": "Ottawa, ON, Canada",
+      "posted_at": "1790374079",
+      "source": "simplify",
+      "title": "Developer Intern - Back End Technologies",
+      "url": "https://careers-kinaxis.icims.com/jobs/35372/job?mobile=true&needsRedirect=false"
+    },
     "simplify:kinaxis::simplify-d5e526d4-218c-453d-99d1-8fc6b59a6f06": {
       "company": "Kinaxis",
       "first_seen": "2026-09-04T23:26:59+00:00",
@@ -28219,6 +28309,16 @@
       "title": "Application Development Intern",
       "url": "https://jobs.smartrecruiters.com/NorthwesternMutual/85751711"
     },
+    "simplify:northwestern mutual::simplify-d37558d5-18db-46de-a3b9-2e33b19e8b91": {
+      "company": "Northwestern Mutual",
+      "first_seen": "2026-09-25T22:35:01+00:00",
+      "last_seen": "2026-09-25T22:35:01+00:00",
+      "location": "Milwaukee, WI",
+      "posted_at": "1790294400",
+      "source": "simplify",
+      "title": "Actuarial Systems Intern",
+      "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Actuarial-Systems-Intern--Summer-2027_JR-46073"
+    },
     "simplify:northwood space::simplify-b887b47d-3ded-45eb-8d5a-268813a2e75d": {
       "company": "Northwood Space",
       "first_seen": "2026-08-29T02:50:35+00:00",
@@ -32887,6 +32987,16 @@
       "title": "Software Engineer - Nextgen",
       "url": "https://rocket.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Newbury-United-Kingdom/Software-Engineer---NextGen_R2026-6463"
     },
+    "simplify:rockwell automation::simplify-10a6747a-1b41-4024-955f-6b38e46e5a4d": {
+      "company": "Rockwell Automation",
+      "first_seen": "2026-09-25T22:35:01+00:00",
+      "last_seen": "2026-09-25T22:35:01+00:00",
+      "location": "Mayfield Heights, OH, Milwaukee, WI",
+      "posted_at": "1790294400",
+      "source": "simplify",
+      "title": "AI Software Engineering Co-op - 6 months - 8 months",
+      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Co-op--AI-Software-Engineering--6-8-months-_R26-6982"
+    },
     "simplify:rockwell automation::simplify-6dd8231b-af5b-412e-bbe4-d94af163d8f7": {
       "company": "Rockwell Automation",
       "first_seen": "2026-09-02T04:55:51+00:00",
@@ -33433,6 +33543,16 @@
       "posted_at": "1788480000",
       "title": "Developer & IT Specialist Co-op - Global Asset Management",
       "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Global-Asset-Management--Winter-Developer---IT-Specialist--4-8-months-_R-0000186669"
+    },
+    "simplify:rrs group::simplify-d750fe7b-cab1-448d-87f7-d9cc9f2ad969": {
+      "company": "RRS Group",
+      "first_seen": "2026-09-25T22:35:01+00:00",
+      "last_seen": "2026-09-25T22:35:01+00:00",
+      "location": "SF",
+      "posted_at": "1790373870",
+      "source": "simplify",
+      "title": "Associate Software Engineer Intern - Sophomore Only",
+      "url": "https://jobs.smartrecruiters.com/RRSGroup/744000151931819"
     },
     "simplify:rrs group::simplify-e0791588-2fd5-4867-8c40-2b4af827a16d": {
       "company": "RRS Group",
@@ -38453,7 +38573,7 @@
     "simplify:tencent::simplify-ba133a6e-7d68-423a-a0ab-6235909272c2": {
       "company": "Tencent",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-09-24T00:00:15+00:00",
+      "last_seen": "2026-09-25T22:35:00+00:00",
       "posted_at": "1776982043",
       "title": "Game Research & Development Intern - Engine Research",
       "url": "https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344"
@@ -38469,7 +38589,7 @@
     "simplify:tencent::simplify-f975268a-bc73-4167-8e73-024443cbc1f2": {
       "company": "Tencent",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-09-24T00:00:15+00:00",
+      "last_seen": "2026-09-25T22:35:00+00:00",
       "posted_at": "1776982042",
       "title": "Game Research & Development Intern - Engine Research",
       "url": "https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363"
@@ -49293,5 +49413,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-25T22:20:29+00:00"
+  "updated_at": "2026-09-25T22:35:31+00:00"
 }
