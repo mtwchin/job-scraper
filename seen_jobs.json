@@ -1,5 +1,5 @@
 {
-  "count": 6204,
+  "count": 6205,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -6890,6 +6890,7 @@
     "simplify:autodesk::simplify-d4ae6451-b1b2-4a63-8dc6-e456e9f5bf19": {
       "company": "Autodesk",
       "first_seen": "2026-08-13T23:09:16+00:00",
+      "last_seen": "2026-09-25T06:36:28+00:00",
       "posted_at": "1786579200",
       "title": "Software Developer",
       "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100537"
@@ -20553,6 +20554,16 @@
       "posted_at": "1771917254",
       "title": "Web Engineer - Entry",
       "url": "https://jobs.smartrecruiters.com/InfojiniInc1/107129288"
+    },
+    "simplify:information services corporation::simplify-42a206f0-1b61-4216-9e0b-24806866d8e8": {
+      "company": "Information Services Corporation",
+      "first_seen": "2026-09-25T06:36:28+00:00",
+      "last_seen": "2026-09-25T06:36:28+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1790294400",
+      "source": "simplify",
+      "title": "Developer",
+      "url": "https://isc.wd10.myworkdayjobs.com/ISC/job/Toronto/Developer---ESC_JR0001009"
     },
     "simplify:ing::simplify-0d836d0f-86b0-426e-9d8a-55a68f233a3c": {
       "company": "ING",
@@ -49121,5 +49132,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-25T04:12:46+00:00"
+  "updated_at": "2026-09-25T06:36:49+00:00"
 }
