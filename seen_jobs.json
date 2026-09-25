@@ -1,5 +1,5 @@
 {
-  "count": 6206,
+  "count": 6208,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -18441,6 +18441,16 @@
       "title": "Junior Software Engineer",
       "url": "https://gliacelltechnologies.applytojob.com/apply/Zet89PpNoU/Junior-Software-Engineer"
     },
+    "simplify:gliacell technologies::simplify-6521a00f-8b47-4195-a3ce-bdb80befcc30": {
+      "company": "GliaCell Technologies",
+      "first_seen": "2026-09-25T09:33:39+00:00",
+      "last_seen": "2026-09-25T09:33:39+00:00",
+      "location": "Annapolis Junction, MD",
+      "posted_at": "1785737503",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://gliacelltechnologies.applytojob.com/apply/F5wpzZFcry/Software-Engineer"
+    },
     "simplify:gliacell technologies::simplify-d7bc6b7e-6c64-4de0-ba0c-fbcda2ebeb79": {
       "company": "GliaCell Technologies",
       "first_seen": "2026-08-03T08:03:11+00:00",
@@ -35842,6 +35852,16 @@
       "title": "Software Engineer - Agent Harness",
       "url": "https://jobs.ashbyhq.com/sim/8bb8c0ec-babf-4923-ae78-7e35bee2cca6/application?embed=true"
     },
+    "simplify:sim::simplify-6b75f3dd-a8cd-46d9-a5ef-8f163c2be9fd": {
+      "company": "Sim",
+      "first_seen": "2026-09-25T09:33:39+00:00",
+      "last_seen": "2026-09-25T09:33:39+00:00",
+      "location": "SF",
+      "posted_at": "1782770897",
+      "source": "simplify",
+      "title": "Founding Design Engineer",
+      "url": "https://jobs.ashbyhq.com/sim/2aae9d88-23ae-4381-9591-8fe58574f86c/application?embed=true"
+    },
     "simplify:sima.ai::simplify-03f4f39a-6621-4d07-a217-dee3032bbc62": {
       "company": "SiMa.ai",
       "first_seen": "2026-08-01T04:34:34+00:00",
@@ -49142,5 +49162,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-25T09:07:29+00:00"
+  "updated_at": "2026-09-25T09:34:31+00:00"
 }
