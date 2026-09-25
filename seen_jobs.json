@@ -1,5 +1,5 @@
 {
-  "count": 6205,
+  "count": 6206,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -35832,6 +35832,16 @@
       "title": "Forward Deployed Engineer",
       "url": "https://jobs.ashbyhq.com/sim/b26bbbec-f7cb-446a-8882-3f3d034c24d8/application?embed=true"
     },
+    "simplify:sim::simplify-57766fc6-4f77-4efb-ae12-02a6133da48d": {
+      "company": "Sim",
+      "first_seen": "2026-09-25T09:07:06+00:00",
+      "last_seen": "2026-09-25T09:07:06+00:00",
+      "location": "SF",
+      "posted_at": "1787755280",
+      "source": "simplify",
+      "title": "Software Engineer - Agent Harness",
+      "url": "https://jobs.ashbyhq.com/sim/8bb8c0ec-babf-4923-ae78-7e35bee2cca6/application?embed=true"
+    },
     "simplify:sima.ai::simplify-03f4f39a-6621-4d07-a217-dee3032bbc62": {
       "company": "SiMa.ai",
       "first_seen": "2026-08-01T04:34:34+00:00",
@@ -49132,5 +49142,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-25T06:49:25+00:00"
+  "updated_at": "2026-09-25T09:07:29+00:00"
 }
