@@ -1,5 +1,5 @@
 {
-  "count": 6194,
+  "count": 6204,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -5705,6 +5705,16 @@
       "posted_at": "1788991789",
       "title": "Software Engineer - Apple Ads",
       "url": "https://jobs.apple.com/en-us/details/200682706"
+    },
+    "simplify:apple::simplify-d3c2d57b-c7ea-4194-ac33-731c72f64420": {
+      "company": "Apple",
+      "first_seen": "2026-09-25T01:34:11+00:00",
+      "last_seen": "2026-09-25T01:34:11+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1790298409",
+      "source": "simplify",
+      "title": "Software Engineer - Applied AI",
+      "url": "https://jobs.apple.com/en-us/details/200684521"
     },
     "simplify:apple::simplify-d6ad51e0-366b-4b13-b829-8c5dacf13565": {
       "company": "Apple",
@@ -14887,6 +14897,16 @@
       "title": "Reverse Engineer Anti-Cheat",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Reverse-Engineer-Anti-Cheat/213132"
     },
+    "simplify:electronic arts::simplify-8309b5a0-8e75-434e-b1e6-419b51f357ae": {
+      "company": "Electronic Arts",
+      "first_seen": "2026-09-25T01:34:11+00:00",
+      "last_seen": "2026-09-25T01:34:11+00:00",
+      "location": "LA",
+      "posted_at": "1790298947",
+      "source": "simplify",
+      "title": "Gameplay Engineer Intern",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245"
+    },
     "simplify:electronic arts::simplify-e452e67d-358a-4687-ab4a-6d68876b312d": {
       "company": "Electronic Arts",
       "first_seen": "2026-09-22T23:43:37+00:00",
@@ -15309,6 +15329,16 @@
       "posted_at": "1784596403",
       "title": "Full Stack Developer",
       "url": "https://jobs.ashbyhq.com/envision-horizons/ec0c6149-02d0-48ce-8612-61fea67918af/application?embed=true"
+    },
+    "simplify:envoy::simplify-4dbf8f7e-b82e-4f37-97c6-327eac9a9efd": {
+      "company": "Envoy",
+      "first_seen": "2026-09-25T01:34:11+00:00",
+      "last_seen": "2026-09-25T01:34:11+00:00",
+      "location": "SF",
+      "posted_at": "1790299042",
+      "source": "simplify",
+      "title": "Solutions Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/envoy/f2e20a8a-0e10-48ee-a761-3cffb89a80ca/application?embed=true"
     },
     "simplify:eos it solutions::simplify-2fc92f90-9072-4d65-92fe-6fdb60448368": {
       "company": "EOS IT Solutions",
@@ -18611,7 +18641,7 @@
     "simplify:goldman sachs::simplify-43a5374e-0e70-4dc9-82b0-687b54e8c5da": {
       "company": "Goldman Sachs",
       "first_seen": "2026-08-15T04:58:35+00:00",
-      "last_seen": "2026-09-24T03:16:26+00:00",
+      "last_seen": "2026-09-25T01:34:10+00:00",
       "posted_at": "1786767954",
       "title": "Engineering New Analyst - Engineering",
       "url": "https://higher.gs.com/roles/171570?type=students"
@@ -18619,7 +18649,7 @@
     "simplify:goldman sachs::simplify-5a49d74c-fa9f-4dd4-a66b-24fc3d9c1def": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-24T03:16:26+00:00",
+      "last_seen": "2026-09-25T01:34:10+00:00",
       "posted_at": "1786767952",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171564?type=students"
@@ -18627,7 +18657,7 @@
     "simplify:goldman sachs::simplify-5bdec003-2a02-42a4-a602-467541840552": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-24T03:16:26+00:00",
+      "last_seen": "2026-09-25T01:34:10+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171565?type=students"
@@ -18635,7 +18665,7 @@
     "simplify:goldman sachs::simplify-792220f4-3ba1-4cf8-843e-e23208ba8d24": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-24T03:16:26+00:00",
+      "last_seen": "2026-09-25T01:34:10+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/171553?type=students"
@@ -18665,7 +18695,7 @@
     "simplify:goldman sachs::simplify-b2b3a7df-bea1-4290-b988-4c3e567814b8": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-24T03:16:26+00:00",
+      "last_seen": "2026-09-25T01:34:10+00:00",
       "posted_at": "1786767944",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/170637?type=students"
@@ -18847,6 +18877,26 @@
       "source": "simplify",
       "title": "Software Engineer Intern - C3PO",
       "url": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/C3PO-Intern_R26-2245"
+    },
+    "simplify:goto group::simplify-8e170ef4-7387-4cb2-8853-5e512c263392": {
+      "company": "GoTo Group",
+      "first_seen": "2026-09-25T01:34:11+00:00",
+      "last_seen": "2026-09-25T01:34:11+00:00",
+      "location": "Remote in Canada",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Backend Software Engineer Intern - Grasshopper",
+      "url": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/Grasshopper-BE-Intern_R26-2254"
+    },
+    "simplify:goto group::simplify-f2af6a58-c979-43d6-a20b-83d4442bc1a9": {
+      "company": "GoTo Group",
+      "first_seen": "2026-09-25T01:34:11+00:00",
+      "last_seen": "2026-09-25T01:34:11+00:00",
+      "location": "Remote in Canada",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/CPS-Intern_R26-2246"
     },
     "simplify:govcio::simplify-ff1f9ced-4d6d-400f-a0cf-ac068213a682": {
       "company": "GovCIO",
@@ -23400,6 +23450,16 @@
       "posted_at": "1777943249",
       "title": "Quantum Engineering Fellow",
       "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=105663"
+    },
+    "simplify:lawrence livermore national laboratory (llnl)::simplify-4f84b4e2-87a7-4187-8d00-c27db2bdea0a": {
+      "company": "Lawrence Livermore National Laboratory (LLNL)",
+      "first_seen": "2026-09-25T01:34:11+00:00",
+      "last_seen": "2026-09-25T01:34:11+00:00",
+      "location": "Livermore, CA",
+      "posted_at": "1790298449",
+      "source": "simplify",
+      "title": "Academic Graduate Appointee",
+      "url": "https://jobs.smartrecruiters.com/LLNL/3743990015662656"
     },
     "simplify:lawrence livermore national laboratory (llnl)::simplify-5792b5a2-ef1d-434b-b7d6-f3b05887383d": {
       "company": "Lawrence Livermore National Laboratory (LLNL)",
@@ -35748,6 +35808,16 @@
       "title": "Software Engineer New Grad",
       "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003"
     },
+    "simplify:sim::simplify-37136fd4-099f-4274-9089-5506ab49a026": {
+      "company": "Sim",
+      "first_seen": "2026-09-25T01:34:11+00:00",
+      "last_seen": "2026-09-25T01:34:11+00:00",
+      "location": "SF",
+      "posted_at": "1790299163",
+      "source": "simplify",
+      "title": "Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/sim/b26bbbec-f7cb-446a-8882-3f3d034c24d8/application?embed=true"
+    },
     "simplify:sima.ai::simplify-03f4f39a-6621-4d07-a217-dee3032bbc62": {
       "company": "SiMa.ai",
       "first_seen": "2026-08-01T04:34:34+00:00",
@@ -36073,6 +36143,36 @@
       "posted_at": "1778537262",
       "title": "Software Engineer - Snowflake Postgres",
       "url": "https://jobs.ashbyhq.com/snowflake/19ff5740-e678-4f43-a6c6-29bab94fbc21/application"
+    },
+    "simplify:snowflake::simplify-8b7eafbe-423b-46f9-8bf5-ef164bb2b9bc": {
+      "company": "Snowflake",
+      "first_seen": "2026-09-25T01:34:11+00:00",
+      "last_seen": "2026-09-25T01:34:11+00:00",
+      "location": "Menlo Park, CA, Bellevue, WA",
+      "posted_at": "1790299028",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Core, Infrastructure & Security",
+      "url": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69/application?embed=true"
+    },
+    "simplify:snowflake::simplify-af7ae639-a887-435b-9b79-1edc4e0c680d": {
+      "company": "Snowflake",
+      "first_seen": "2026-09-25T01:34:11+00:00",
+      "last_seen": "2026-09-25T01:34:11+00:00",
+      "location": "Menlo Park, CA, Bellevue, WA",
+      "posted_at": "1790299028",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Database Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be/application?embed=true"
+    },
+    "simplify:snowflake::simplify-ec40080b-e1ed-4756-a8ef-b3c9f2011f41": {
+      "company": "Snowflake",
+      "first_seen": "2026-09-25T01:34:11+00:00",
+      "last_seen": "2026-09-25T01:34:11+00:00",
+      "location": "Menlo Park, CA, Bellevue, WA",
+      "posted_at": "1790299028",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca/application?embed=true"
     },
     "simplify:socket::simplify-633a9ab2-ac2c-4a15-9d67-4c4e36939176": {
       "company": "Socket",
@@ -41856,7 +41956,7 @@
     "simplify:tyler technologies::simplify-d6c24595-0dd3-449f-b0ae-d13e256fc740": {
       "company": "Tyler Technologies",
       "first_seen": "2026-09-22T03:24:56+00:00",
-      "last_seen": "2026-09-24T03:16:26+00:00",
+      "last_seen": "2026-09-25T01:34:10+00:00",
       "location": "Yarmouth, ME, Orono, ME, Falmouth, ME",
       "posted_at": "1790029561",
       "source": "simplify",
@@ -49018,5 +49118,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-25T01:18:39+00:00"
+  "updated_at": "2026-09-25T01:34:41+00:00"
 }
