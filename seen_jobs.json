@@ -1,5 +1,5 @@
 {
-  "count": 6208,
+  "count": 6215,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -7519,6 +7519,16 @@
       "title": "Software Engineer - Space Operations Computing",
       "url": "https://careers-barrios.icims.com/jobs/2877/job?mobile=true&needsRedirect=false"
     },
+    "simplify:barrios::simplify-ee8ed5ad-3be9-407e-8020-0d9a037d60be": {
+      "company": "Barrios",
+      "first_seen": "2026-09-25T14:34:33+00:00",
+      "last_seen": "2026-09-25T14:34:33+00:00",
+      "location": "Houston, TX",
+      "posted_at": "1790344923",
+      "source": "simplify",
+      "title": "Data and Computer Engineering/Computer Science Intern",
+      "url": "https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false"
+    },
     "simplify:barry-wehmiller::simplify-94439f86-761e-479b-ad07-ff674a810362": {
       "company": "Barry-Wehmiller",
       "first_seen": "2026-08-29T02:50:35+00:00",
@@ -8031,6 +8041,16 @@
       "posted_at": "1776523149",
       "title": "Operational Technology Analyst 2",
       "url": "https://bluescopenac.wd5.myworkdayjobs.com/en-US/BNACareers/job/MO-Kansas-City/Operational-Technology-Analyst-II_REQ-2153"
+    },
+    "simplify:bluestaq::simplify-d314f5f4-0dfc-4dcd-9b4a-b27f1694d1b9": {
+      "company": "Bluestaq",
+      "first_seen": "2026-09-25T14:34:33+00:00",
+      "last_seen": "2026-09-25T14:34:33+00:00",
+      "location": "Colorado Springs, CO",
+      "posted_at": "1790345284",
+      "source": "simplify",
+      "title": "Software Engineering Resident - Multiple Teams",
+      "url": "https://job-boards.greenhouse.io/bluestaq/jobs/4420189009"
     },
     "simplify:bny::simplify-0d138427-6921-4a12-99e2-30a0b223cef3": {
       "company": "BNY",
@@ -16393,6 +16413,16 @@
       "title": "SharePoint/Power Platform Intern - SharePoint - Power Platform",
       "url": "https://bankeasy.wd5.myworkdayjobs.com/bank-easy-job-openings/job/Brookings-SD-East/SharePoint-Power-Platform-Intern_R-100780"
     },
+    "simplify:first citizens bancshares::simplify-074a0da6-73e2-402d-90a7-ca4bf302d862": {
+      "company": "First Citizens BancShares",
+      "first_seen": "2026-09-25T14:34:33+00:00",
+      "last_seen": "2026-09-25T14:34:33+00:00",
+      "location": "Raleigh, NC",
+      "posted_at": "1790345328",
+      "source": "simplify",
+      "title": "IT Intern - Software Developer",
+      "url": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1"
+    },
     "simplify:first financial bank::simplify-27d97b17-2a57-439e-86ca-f86b853fac0d": {
       "company": "First Financial Bank",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -19058,6 +19088,16 @@
       "posted_at": "1788220800",
       "title": "Engineering Co-op",
       "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-OK/Engineering-Co-op-Opportunities--OK-_JR104348"
+    },
+    "simplify:greenheck group::simplify-f8aa999f-66d3-4ae6-b0bf-286944064197": {
+      "company": "Greenheck Group",
+      "first_seen": "2026-09-25T14:34:33+00:00",
+      "last_seen": "2026-09-25T14:34:33+00:00",
+      "location": "Schofield, WI",
+      "posted_at": "1790294400",
+      "source": "simplify",
+      "title": "Application Developer Co-op",
+      "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721"
     },
     "simplify:group 1 automotive::simplify-85d31e6a-319f-48fb-9257-4d401c4f3ad5": {
       "company": "Group 1 Automotive",
@@ -23621,6 +23661,7 @@
     "simplify:leidos::simplify-4ab2be7c-c405-42fa-9dbf-cb0e5ff6a73d": {
       "company": "Leidos",
       "first_seen": "2026-07-14T19:49:46+00:00",
+      "last_seen": "2026-09-25T14:34:33+00:00",
       "posted_at": "1783559547",
       "title": "Software Development Engineer",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Engineer_R-00186934-1"
@@ -23806,6 +23847,16 @@
       "posted_at": "1783555200",
       "title": "Entry Level Software Developer",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923"
+    },
+    "simplify:leidos::simplify-e61c4916-6a49-4922-a691-73e2250dd9c9": {
+      "company": "Leidos",
+      "first_seen": "2026-09-25T14:34:33+00:00",
+      "last_seen": "2026-09-25T14:34:33+00:00",
+      "location": "Gaithersburg, MD",
+      "posted_at": "1790294400",
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103"
     },
     "simplify:lennar corporation::simplify-54a06b84-67eb-4568-8969-1e478d303342": {
       "company": "Lennar Corporation",
@@ -24303,6 +24354,16 @@
       "source": "simplify",
       "title": "Ground Software Engineer Intern - Summer 2027",
       "url": "https://lunaroutpost.bamboohr.com/careers/398/"
+    },
+    "simplify:lutron electronics::simplify-06121173-b783-44a5-bd34-4a7465768bbb": {
+      "company": "Lutron Electronics",
+      "first_seen": "2026-09-25T14:34:33+00:00",
+      "last_seen": "2026-09-25T14:34:33+00:00",
+      "location": "Philadelphia, PA",
+      "posted_at": "1790345632",
+      "source": "simplify",
+      "title": "Software Engineering Co-op",
+      "url": "https://careers.lutron.com/jobs/5616?icims=1"
     },
     "simplify:lyft::simplify-0b7f448f-85cf-4eb9-95a0-7de074ec13a5": {
       "company": "Lyft",
@@ -33050,6 +33111,16 @@
       "posted_at": "1786924800",
       "title": "Technology & Operations Co-op - Software Developer",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--12-Months_R-0000184491-1"
+    },
+    "simplify:royal bank of canada::simplify-271bbb75-6699-403d-9363-90cbdfc87142": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-09-25T14:34:33+00:00",
+      "last_seen": "2026-09-25T14:34:33+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1790294400",
+      "source": "simplify",
+      "title": "Capital Markets Analyst Intern",
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--AidenEdge-Program-Winter-Analyst--4-Months-_R-0000187318-2"
     },
     "simplify:royal bank of canada::simplify-2e1e0ec9-a2ed-4430-8a6d-a21c344f395b": {
       "company": "Royal Bank of Canada",
@@ -49162,5 +49233,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-25T09:34:31+00:00"
+  "updated_at": "2026-09-25T14:34:58+00:00"
 }
