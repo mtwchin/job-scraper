@@ -1,5 +1,5 @@
 {
-  "count": 6216,
+  "count": 6217,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -49207,6 +49207,16 @@
       "title": "2027 Summer Intern, MS/PhD, Software Engineer",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8224729"
     },
+    "waymo::8224900": {
+      "company": "Waymo",
+      "first_seen": "2026-09-25T20:23:51+00:00",
+      "last_seen": "2026-09-25T20:23:51+00:00",
+      "location": "Mountain View, CA, USA",
+      "posted_at": "2026-09-25T16:20:21-04:00",
+      "source": "",
+      "title": "2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900"
+    },
     "waymo::8227640": {
       "company": "Waymo",
       "first_seen": "2026-09-24T17:33:55+00:00",
@@ -49243,5 +49253,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-25T19:06:17+00:00"
+  "updated_at": "2026-09-25T20:24:20+00:00"
 }
