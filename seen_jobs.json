@@ -1,5 +1,5 @@
 {
-  "count": 6266,
+  "count": 6267,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -36,15 +36,6 @@
       "source": "simplify",
       "title": "Associate AI Engineer - OI&A",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988"
-    },
-    "simplify:apple::simplify-72f6e435-1060-4700-9b90-48d82c3b1972": {
-      "attempted_at": "2026-09-26T01:34:02+00:00",
-      "company": "Apple",
-      "location": "Austin, TX, San Jose, CA",
-      "posted_at": "1790384785",
-      "source": "simplify",
-      "title": "CAD Engineer - Signoff Infrastructure",
-      "url": "https://jobs.apple.com/en-us/details/200685871"
     },
     "simplify:arconic::simplify-60174f6d-1cb4-49c4-93db-3cf3d5dc9382": {
       "attempted_at": "2026-09-24T14:33:47+00:00",
@@ -5701,6 +5692,16 @@
       "title": "Software Engineer-SoC Level Validation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200665150"
     },
+    "simplify:apple::simplify-72f6e435-1060-4700-9b90-48d82c3b1972": {
+      "company": "Apple",
+      "first_seen": "2026-09-26T04:51:08+00:00",
+      "last_seen": "2026-09-26T04:51:08+00:00",
+      "location": "Austin, TX, San Jose, CA",
+      "posted_at": "1790384785",
+      "source": "simplify",
+      "title": "CAD Engineer - Signoff Infrastructure",
+      "url": "https://jobs.apple.com/en-us/details/200685871"
+    },
     "simplify:apple::simplify-76b36874-f561-4551-b201-d4ca3ac11673": {
       "company": "Apple",
       "first_seen": "2026-08-29T02:50:33+00:00",
@@ -11186,7 +11187,7 @@
     "simplify:charles schwab::simplify-09239b96-d26a-4691-b9ab-9b8b442caa9f": {
       "company": "Charles Schwab",
       "first_seen": "2026-08-29T02:50:35+00:00",
-      "last_seen": "2026-09-26T01:35:41+00:00",
+      "last_seen": "2026-09-26T04:51:07+00:00",
       "posted_at": "1787963196",
       "title": "Software Engineering Intern - Technology",
       "url": "https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false"
@@ -16761,8 +16762,8 @@
     },
     "simplify:florida atlantic university::simplify-d46941ee-3f12-4840-b86c-0b2125dfc557": {
       "company": "Florida Atlantic University",
-      "first_seen": "2026-09-26T01:35:42+00:00",
-      "last_seen": "2026-09-26T01:35:42+00:00",
+      "first_seen": "2026-09-26T04:51:08+00:00",
+      "last_seen": "2026-09-26T04:51:08+00:00",
       "location": "Boca Raton, FL",
       "posted_at": "1790294400",
       "source": "simplify",
@@ -18881,7 +18882,7 @@
     "simplify:goldman sachs::simplify-1949c912-65b2-42ac-9836-c110baed0ef6": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-26T01:35:41+00:00",
+      "last_seen": "2026-09-26T04:51:07+00:00",
       "posted_at": "1786767938",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/177808?type=students"
@@ -18920,7 +18921,7 @@
     "simplify:goldman sachs::simplify-792220f4-3ba1-4cf8-843e-e23208ba8d24": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-26T01:35:41+00:00",
+      "last_seen": "2026-09-26T04:51:07+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/171553?type=students"
@@ -18950,7 +18951,7 @@
     "simplify:goldman sachs::simplify-b2b3a7df-bea1-4290-b988-4c3e567814b8": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-26T01:35:41+00:00",
+      "last_seen": "2026-09-26T04:51:07+00:00",
       "posted_at": "1786767944",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/170637?type=students"
@@ -19163,8 +19164,8 @@
     },
     "simplify:govsignals::simplify-954f1915-886d-44d2-b63c-900fb3b88410": {
       "company": "GovSignals",
-      "first_seen": "2026-09-26T01:35:42+00:00",
-      "last_seen": "2026-09-26T01:35:42+00:00",
+      "first_seen": "2026-09-26T04:51:08+00:00",
+      "last_seen": "2026-09-26T04:51:08+00:00",
       "location": "Remote in USA",
       "posted_at": "1790385438",
       "source": "simplify",
@@ -23877,8 +23878,8 @@
     },
     "simplify:leantaas::simplify-b7d0be78-5e04-4394-8976-e71c58ef4fde": {
       "company": "LeanTaaS",
-      "first_seen": "2026-09-26T01:34:41+00:00",
-      "last_seen": "2026-09-26T01:34:41+00:00",
+      "first_seen": "2026-09-26T04:51:08+00:00",
+      "last_seen": "2026-09-26T04:51:08+00:00",
       "location": "Remote in USA",
       "posted_at": "1790385259",
       "source": "simplify",
@@ -39503,8 +39504,8 @@
     },
     "simplify:tesla::simplify-cf5aad4b-cc25-4bd4-92c7-0ac99a58245e": {
       "company": "Tesla",
-      "first_seen": "2026-09-26T01:35:42+00:00",
-      "last_seen": "2026-09-26T01:35:42+00:00",
+      "first_seen": "2026-09-26T04:51:08+00:00",
+      "last_seen": "2026-09-26T04:51:08+00:00",
       "location": "Palo Alto, CA",
       "posted_at": "1790385291",
       "source": "simplify",
@@ -39875,8 +39876,8 @@
     },
     "simplify:the aerospace corporation::simplify-6db9023a-15b9-4dfa-a544-4779d19c4277": {
       "company": "The Aerospace Corporation",
-      "first_seen": "2026-09-26T01:35:42+00:00",
-      "last_seen": "2026-09-26T01:35:42+00:00",
+      "first_seen": "2026-09-26T04:51:08+00:00",
+      "last_seen": "2026-09-26T04:51:08+00:00",
       "location": "Chantilly, VA, El Segundo, CA",
       "posted_at": "1790294400",
       "source": "simplify",
@@ -43571,8 +43572,8 @@
     },
     "simplify:varsity brands::simplify-416e85c5-846c-4613-8d4d-2eccfbae2735": {
       "company": "Varsity Brands",
-      "first_seen": "2026-09-26T01:34:41+00:00",
-      "last_seen": "2026-09-26T01:34:41+00:00",
+      "first_seen": "2026-09-26T04:51:08+00:00",
+      "last_seen": "2026-09-26T04:51:08+00:00",
       "location": "Memphis, TN",
       "posted_at": "1790385444",
       "source": "simplify",
@@ -49754,5 +49755,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-26T01:35:45+00:00"
+  "updated_at": "2026-09-26T04:51:48+00:00"
 }
