@@ -1,5 +1,5 @@
 {
-  "count": 6268,
+  "count": 6269,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -49740,6 +49740,16 @@
       "title": "2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8234161"
     },
+    "waymo::8234670": {
+      "company": "Waymo",
+      "first_seen": "2026-09-28T19:41:15+00:00",
+      "last_seen": "2026-09-28T19:41:15+00:00",
+      "location": "San Francisco, California",
+      "posted_at": "2026-09-28T15:34:51-04:00",
+      "source": "",
+      "title": "2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234670"
+    },
     "webflow::8122601": {
       "company": "Webflow",
       "first_seen": "2026-08-12T20:19:37+00:00",
@@ -49766,5 +49776,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-28T17:34:53+00:00"
+  "updated_at": "2026-09-28T19:41:56+00:00"
 }
