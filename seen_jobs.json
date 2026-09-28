@@ -1,5 +1,5 @@
 {
-  "count": 6270,
+  "count": 6271,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -9,15 +9,6 @@
       "source": "",
       "title": "Software Developer, Network Software Intern (Winter 2027)",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4705599006"
-    },
-    "cisco::Software-Developer-Embedded-Systems-II--Co-op----Canada_2024136": {
-      "attempted_at": "2026-09-28T22:15:17+00:00",
-      "company": "Cisco",
-      "location": "Kanata, Ontario, Canada, Saint-Laurent, Quebec, Canada, Calgary, Alberta, Canada, Toronto, Ontario, Canada, Montreal, Quebec, Canada, Vancouver, British Columbia, Canada, Ottawa, Ontario, Canada",
-      "posted_at": "Posted Today",
-      "source": "",
-      "title": "Software Developer Embedded Systems II (Co-op) \u2013 Canada",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Co-op----Canada_2024136"
     },
     "ramp::a13ae586-f4cb-4385-8822-c42b9b54ed74": {
       "attempted_at": "2026-09-24T00:47:26+00:00",
@@ -782,6 +773,16 @@
       "title": "Software Developer Embedded Systems I (Co-op) - Canada",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Co-op----Canada_2024111"
     },
+    "cisco::Software-Developer-Embedded-Systems-II--Co-op----Canada_2024136": {
+      "company": "Cisco",
+      "first_seen": "2026-09-28T22:56:44+00:00",
+      "last_seen": "2026-09-28T22:56:44+00:00",
+      "location": "Kanata, Ontario, Canada, Saint-Laurent, Quebec, Canada, Calgary, Alberta, Canada, Toronto, Ontario, Canada, Montreal, Quebec, Canada, Vancouver, British Columbia, Canada, Ottawa, Ontario, Canada",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Software Developer Embedded Systems II (Co-op) \u2013 Canada",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Co-op----Canada_2024136"
+    },
     "cisco::Software-Developer-I--Full-Time----Canada_2023599-1": {
       "company": "Cisco",
       "first_seen": "2026-09-23T16:15:39+00:00",
@@ -1445,8 +1446,8 @@
     },
     "lyft::8802222002": {
       "company": "Lyft",
-      "first_seen": "2026-09-28T21:36:31+00:00",
-      "last_seen": "2026-09-28T21:36:31+00:00",
+      "first_seen": "2026-09-28T22:56:44+00:00",
+      "last_seen": "2026-09-28T22:56:44+00:00",
       "location": "Toronto, Canada",
       "posted_at": "2026-09-28T17:33:25-04:00",
       "source": "",
@@ -13767,7 +13768,7 @@
     "simplify:decisionpoint::simplify-1a1bb662-1a44-441f-93f4-2218cc06d0fc": {
       "company": "DecisionPoint",
       "first_seen": "2026-09-16T22:35:47+00:00",
-      "last_seen": "2026-09-28T22:35:42+00:00",
+      "last_seen": "2026-09-28T22:56:43+00:00",
       "location": "United States",
       "posted_at": "1789596365",
       "source": "simplify",
@@ -49795,5 +49796,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-28T22:36:05+00:00"
+  "updated_at": "2026-09-28T22:57:10+00:00"
 }
