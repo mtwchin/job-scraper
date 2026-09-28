@@ -13767,7 +13767,7 @@
     "simplify:decisionpoint::simplify-1a1bb662-1a44-441f-93f4-2218cc06d0fc": {
       "company": "DecisionPoint",
       "first_seen": "2026-09-16T22:35:47+00:00",
-      "last_seen": "2026-09-22T00:04:40+00:00",
+      "last_seen": "2026-09-28T22:35:42+00:00",
       "location": "United States",
       "posted_at": "1789596365",
       "source": "simplify",
@@ -49795,5 +49795,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-28T22:16:02+00:00"
+  "updated_at": "2026-09-28T22:36:05+00:00"
 }
