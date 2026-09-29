@@ -3467,7 +3467,7 @@
     "simplify:adobe::simplify-a9900edf-029b-4f1e-98cb-a9a1c96f11b3": {
       "company": "Adobe",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-29T13:04:57+00:00",
+      "last_seen": "2026-09-27T15:17:16+00:00",
       "posted_at": "1788393600",
       "title": "Software Engineer Intern",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666"
@@ -9978,7 +9978,7 @@
     "simplify:caci::simplify-4fe03bf3-4c12-4115-b009-2020faa2de23": {
       "company": "CACI",
       "first_seen": "2026-08-19T22:45:45+00:00",
-      "last_seen": "2026-09-29T15:03:51+00:00",
+      "last_seen": "2026-09-29T15:28:23+00:00",
       "posted_at": "1787097600",
       "title": "AI Prompt Engineer",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer_330802"
@@ -12766,7 +12766,6 @@
     "simplify:copart::simplify-27bc7565-972b-4dff-a2b6-d86296a62c88": {
       "company": "Copart",
       "first_seen": "2026-07-15T16:01:07+00:00",
-      "last_seen": "2026-09-29T14:03:23+00:00",
       "posted_at": "1784073600",
       "title": "Software Engineer Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689"
@@ -12846,7 +12845,7 @@
     "simplify:copart::simplify-c63937cc-49b3-4672-b316-c4e35731c6af": {
       "company": "Copart",
       "first_seen": "2026-07-30T22:42:25+00:00",
-      "last_seen": "2026-09-29T15:03:51+00:00",
+      "last_seen": "2026-09-29T15:28:23+00:00",
       "posted_at": "1785369600",
       "title": "Software Engineer Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964"
@@ -29003,7 +29002,7 @@
     "simplify:nvidia::simplify-be628885-fde3-4b73-bb0a-58e11856e97b": {
       "company": "NVIDIA",
       "first_seen": "2026-08-19T10:13:53+00:00",
-      "last_seen": "2026-09-29T13:04:57+00:00",
+      "last_seen": "2026-09-26T00:24:58+00:00",
       "posted_at": "1787097600",
       "title": "Software Engineering Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495"
@@ -38943,7 +38942,7 @@
     "simplify:tencent::simplify-6e53b9de-07c4-4545-b612-707fca641b88": {
       "company": "Tencent",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-09-29T13:35:56+00:00",
+      "last_seen": "2026-09-22T00:04:40+00:00",
       "posted_at": "1776982048",
       "title": "Game Research & Development Intern - Engine Research",
       "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344-1"
@@ -44669,8 +44668,8 @@
     },
     "simplify:wellington management::simplify-1536d52f-c983-4784-9564-0353ee0692ac": {
       "company": "Wellington Management",
-      "first_seen": "2026-09-29T15:03:51+00:00",
-      "last_seen": "2026-09-29T15:03:51+00:00",
+      "first_seen": "2026-09-29T15:28:23+00:00",
+      "last_seen": "2026-09-29T15:28:23+00:00",
       "location": "Boston, MA",
       "posted_at": "1790121600",
       "source": "simplify",
@@ -49881,5 +49880,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-29T15:04:35+00:00"
+  "updated_at": "2026-09-29T15:28:50+00:00"
 }
