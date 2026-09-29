@@ -1,5 +1,5 @@
 {
-  "count": 6293,
+  "count": 6296,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -6491,6 +6491,16 @@
       "title": "Product Engineer 1",
       "url": "https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-I-IA-50401/1425404233/?ats=successfactors"
     },
+    "simplify:assa abloy::simplify-73a73ca6-2b65-48a8-ae4e-bd56c127f358": {
+      "company": "ASSA ABLOY",
+      "first_seen": "2026-09-29T22:33:45+00:00",
+      "last_seen": "2026-09-29T22:33:45+00:00",
+      "location": "Phoenix, AZ, New Haven, CT",
+      "posted_at": "1790719980",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://assaabloy.jobs2web.com/job/Phoenix-Associate-Software-Engineer-AZ-85044/1442458033/?ats=successfactors"
+    },
     "simplify:assetmark::simplify-3ee60348-39b1-4a67-b417-dfaf6fd38d00": {
       "company": "AssetMark",
       "first_seen": "2026-09-12T01:07:02+00:00",
@@ -8270,7 +8280,7 @@
     "simplify:boeing::simplify-96ce500e-5e6d-4796-8787-89a69ab30d04": {
       "company": "Boeing",
       "first_seen": "2026-09-10T00:38:47+00:00",
-      "last_seen": "2026-09-28T00:54:52+00:00",
+      "last_seen": "2026-09-29T22:33:45+00:00",
       "posted_at": "1788912000",
       "title": "Software Engineer - Associate - Bixby",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Software-Engineer--Associate--Experienced-or-Senior----Bixby_JR2026524250"
@@ -15037,6 +15047,16 @@
       "title": "Physics/Math Graduate Software Developer",
       "url": "https://eaiti.applytojob.com/apply/04bnB7a43f/PhysicsMath-Graduate-Entry-Level-Software-Developer"
     },
+    "simplify:early warning::simplify-b81ad8d8-409c-4563-b87b-1aa4661b4937": {
+      "company": "Early Warning",
+      "first_seen": "2026-09-29T22:33:45+00:00",
+      "last_seen": "2026-09-29T22:33:45+00:00",
+      "location": "SF, Chicago, IL, Scottsdale, AZ",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Software Engineer - Java - Paze",
+      "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer---Java--Paze_REQ2026933"
+    },
     "simplify:eastern shipbuilding group::simplify-130fdccd-a8f5-4ed4-bdc4-f489a3d3553e": {
       "company": "Eastern Shipbuilding Group",
       "first_seen": "2026-08-05T04:21:08+00:00",
@@ -19035,6 +19055,7 @@
     "simplify:goldman sachs::simplify-a84b5ca0-5e89-4893-97cb-4be5aead281c": {
       "company": "Goldman Sachs",
       "first_seen": "2026-08-15T04:58:35+00:00",
+      "last_seen": "2026-09-29T22:33:45+00:00",
       "posted_at": "1786767953",
       "title": "Engineering New Analyst",
       "url": "https://higher.gs.com/roles/171568?type=students"
@@ -21605,6 +21626,16 @@
       "source": "simplify",
       "title": "Software Engineer - RISE",
       "url": "https://jobs.smartrecruiters.com/Intuitive/744000150746589"
+    },
+    "simplify:intuitive surgical::simplify-f91b1924-d624-401a-b807-2ddc1e14c988": {
+      "company": "Intuitive Surgical",
+      "first_seen": "2026-09-29T22:33:45+00:00",
+      "last_seen": "2026-09-29T22:33:45+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1790719592",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/Intuitive/744000152472854"
     },
     "simplify:inversion space::simplify-98b8f971-621c-46bf-8915-22ec116e536a": {
       "company": "Inversion Space",
@@ -26359,7 +26390,7 @@
     "simplify:microsoft::simplify-a6ab1df3-86d8-42bb-b220-97ec8c92cba2": {
       "company": "Microsoft",
       "first_seen": "2026-08-19T21:11:48+00:00",
-      "last_seen": "2026-09-26T00:00:26+00:00",
+      "last_seen": "2026-09-29T22:33:45+00:00",
       "posted_at": "1781762785",
       "title": "Software Engineer - Ctj - Poly",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556860973"
@@ -50026,5 +50057,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-29T21:03:10+00:00"
+  "updated_at": "2026-09-29T22:34:14+00:00"
 }
