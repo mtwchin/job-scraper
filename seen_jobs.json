@@ -1,5 +1,5 @@
 {
-  "count": 6272,
+  "count": 6274,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -46,15 +46,6 @@
       "title": "Software Developer Intern",
       "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233"
     },
-    "simplify:boston scientific::simplify-735a5bf8-6b11-410a-8194-7e97afd9ecdb": {
-      "attempted_at": "2026-09-29T01:32:14+00:00",
-      "company": "Boston Scientific",
-      "location": "Maple Grove, MN",
-      "posted_at": "1790644636",
-      "source": "simplify",
-      "title": "Software Engineer Intern - Interns/Graduates",
-      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584985"
-    },
     "simplify:framatome::simplify-367e2e43-5881-4312-9e29-9606b3347b8f": {
       "attempted_at": "2026-09-23T22:34:27+00:00",
       "company": "Framatome",
@@ -63,15 +54,6 @@
       "source": "simplify",
       "title": "Computer Science Engineer 1 - Cranberry Township",
       "url": "https://careers-framatome.icims.com/jobs/3408/job?mobile=true&needsRedirect=false"
-    },
-    "simplify:the aerospace corporation::simplify-8c93ba5d-c961-40fd-96f0-71e8be7211de": {
-      "attempted_at": "2026-09-29T01:32:14+00:00",
-      "company": "The Aerospace Corporation",
-      "location": "Chantilly, VA, El Segundo, CA",
-      "posted_at": "1790553600",
-      "source": "simplify",
-      "title": "Software Engineer Intern",
-      "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Grad-Intern_R016759"
     },
     "ziprecruiter::8127108": {
       "attempted_at": "2026-09-24T16:22:51+00:00",
@@ -8776,6 +8758,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern - R&D",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813542900"
+    },
+    "simplify:boston scientific::simplify-735a5bf8-6b11-410a-8194-7e97afd9ecdb": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-09-29T04:26:52+00:00",
+      "last_seen": "2026-09-29T04:26:52+00:00",
+      "location": "Maple Grove, MN",
+      "posted_at": "1790644636",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Interns/Graduates",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584985"
     },
     "simplify:boston scientific::simplify-740153d0-fd38-4fff-bc27-425b307d5c71": {
       "company": "Boston Scientific",
@@ -18961,7 +18953,7 @@
     "simplify:goldman sachs::simplify-5bdec003-2a02-42a4-a602-467541840552": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-29T01:32:14+00:00",
+      "last_seen": "2026-09-29T04:26:51+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171565?type=students"
@@ -39915,8 +39907,8 @@
     },
     "simplify:the aerospace corporation::simplify-57bebd99-f029-4628-b0dc-3532c4f03181": {
       "company": "The Aerospace Corporation",
-      "first_seen": "2026-09-29T02:03:53+00:00",
-      "last_seen": "2026-09-29T02:03:53+00:00",
+      "first_seen": "2026-09-29T04:26:52+00:00",
+      "last_seen": "2026-09-29T04:26:52+00:00",
       "location": "El Segundo, CA",
       "posted_at": "1790553600",
       "source": "simplify",
@@ -39942,6 +39934,16 @@
       "source": "simplify",
       "title": "Software Systems Engineer Intern - Acquisition",
       "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431"
+    },
+    "simplify:the aerospace corporation::simplify-8c93ba5d-c961-40fd-96f0-71e8be7211de": {
+      "company": "The Aerospace Corporation",
+      "first_seen": "2026-09-29T04:26:52+00:00",
+      "last_seen": "2026-09-29T04:26:52+00:00",
+      "location": "Chantilly, VA, El Segundo, CA",
+      "posted_at": "1790553600",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Grad-Intern_R016759"
     },
     "simplify:the aerospace corporation::simplify-98e68ffb-731f-4f1a-ade0-5907c36a9b8c": {
       "company": "The Aerospace Corporation",
@@ -44631,7 +44633,7 @@
     "simplify:wellington management::simplify-ac7bfb32-7f0b-4685-a576-98f6e7acd1d9": {
       "company": "Wellington Management",
       "first_seen": "2026-09-16T23:02:47+00:00",
-      "last_seen": "2026-09-29T01:32:14+00:00",
+      "last_seen": "2026-09-29T04:26:51+00:00",
       "location": "Boston, MA",
       "posted_at": "1789516800",
       "source": "simplify",
@@ -49824,5 +49826,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-29T02:04:22+00:00"
+  "updated_at": "2026-09-29T04:27:28+00:00"
 }
