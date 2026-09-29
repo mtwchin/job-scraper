@@ -1,5 +1,5 @@
 {
-  "count": 6285,
+  "count": 6287,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -3154,6 +3154,7 @@
     "simplify:abridge::simplify-ccc30a08-187b-428e-a4e2-333c838dadaa": {
       "company": "Abridge",
       "first_seen": "2026-07-14T19:49:46+00:00",
+      "last_seen": "2026-09-29T17:04:22+00:00",
       "posted_at": "1783980751",
       "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace/application"
@@ -15975,6 +15976,16 @@
       "title": "Application Engineer",
       "url": "https://jobs.smartrecruiters.com/Eurofins/744000148856049"
     },
+    "simplify:eurofins::simplify-52a0653a-55a6-4e3b-a576-5103d8f8f95f": {
+      "company": "Eurofins",
+      "first_seen": "2026-09-29T17:04:23+00:00",
+      "last_seen": "2026-09-29T17:04:23+00:00",
+      "location": "Lancaster, PA",
+      "posted_at": "1790690986",
+      "source": "simplify",
+      "title": "Application Engineer",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000152416389"
+    },
     "simplify:evenup::simplify-37510038-1f6f-4be0-bfe7-50811c1ee137": {
       "company": "EvenUp",
       "first_seen": "2026-08-27T03:35:02+00:00",
@@ -28263,6 +28274,16 @@
       "posted_at": "1785369600",
       "title": "Engineer/Principal Engineer Manufacturing Level",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Engineer-Principal-Engineer-Manufacturing-Level-2-3_R10242661-1"
+    },
+    "simplify:northrop grumman::simplify-a0778aed-3220-4d8c-9e84-9c474d2f3e73": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-09-29T17:04:23+00:00",
+      "last_seen": "2026-09-29T17:04:23+00:00",
+      "location": "Huntsville, AL",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Associate Software Systems Engineer / Software Systems Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Systems-Engineer---Software-Systems-Engineer---Huntsville-AL_R10253385-1"
     },
     "simplify:northrop grumman::simplify-a13cbb72-8a90-4b24-83d8-1896547d8948": {
       "company": "Northrop Grumman",
@@ -49943,5 +49964,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-29T17:04:01+00:00"
+  "updated_at": "2026-09-29T17:05:03+00:00"
 }
