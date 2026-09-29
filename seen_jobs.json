@@ -1,5 +1,5 @@
 {
-  "count": 6315,
+  "count": 6324,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -5528,6 +5528,16 @@
       "title": "Technology Intern",
       "url": "https://abinbev.wd1.myworkdayjobs.com/en-US/USA/job/St-Louis-Missouri/Technology-Internship_30102525"
     },
+    "simplify:anthropic::simplify-f2c0c0c5-f679-46c2-98dc-36b42fe0532e": {
+      "company": "Anthropic",
+      "first_seen": "2026-09-29T23:06:25+00:00",
+      "last_seen": "2026-09-29T23:06:25+00:00",
+      "location": "United States",
+      "posted_at": "1790720889",
+      "source": "simplify",
+      "title": "Claude Corps",
+      "url": "https://job-boards.greenhouse.io/claudecorps/jobs/4402649009"
+    },
     "simplify:anysphere::simplify-8f1666d8-5267-460a-9e6f-0b622ef9f60d": {
       "company": "Anysphere",
       "first_seen": "2026-09-10T05:13:45+00:00",
@@ -5854,7 +5864,7 @@
     "simplify:apple::simplify-d3c2d57b-c7ea-4194-ac33-731c72f64420": {
       "company": "Apple",
       "first_seen": "2026-09-25T01:34:11+00:00",
-      "last_seen": "2026-09-28T00:54:52+00:00",
+      "last_seen": "2026-09-29T23:06:25+00:00",
       "location": "San Diego, CA",
       "posted_at": "1790298409",
       "source": "simplify",
@@ -6766,6 +6776,7 @@
     "simplify:atlas energy solutions::simplify-c5c1c03e-4c47-4e44-978c-ad980ad6e0e9": {
       "company": "Atlas Energy Solutions",
       "first_seen": "2026-08-27T03:35:02+00:00",
+      "last_seen": "2026-09-29T23:06:25+00:00",
       "posted_at": "1787790494",
       "title": "AI Developer",
       "url": "https://job-boards.greenhouse.io/atlassand/jobs/8753225002"
@@ -11305,6 +11316,7 @@
     "simplify:charles schwab::simplify-952bbac0-18af-4767-b6a2-6d9e3639a5af": {
       "company": "Charles Schwab",
       "first_seen": "2026-08-07T22:59:16+00:00",
+      "last_seen": "2026-09-29T23:06:25+00:00",
       "posted_at": "1786140812",
       "title": "Software Development and Engineering Associate - Wealth and Advice Solutions Technology",
       "url": "https://career-schwab.icims.com/jobs/124804/job?mobile=true&needsRedirect=false"
@@ -13687,6 +13699,16 @@
       "posted_at": "1786977303",
       "title": "Software Design Student",
       "url": "https://careers-daktronics.icims.com/jobs/7493/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:dallas fort worth international airport::simplify-8a830901-d041-4b57-aa59-a8e8967e7cdd": {
+      "company": "Dallas Fort Worth International Airport",
+      "first_seen": "2026-09-29T23:06:26+00:00",
+      "last_seen": "2026-09-29T23:06:26+00:00",
+      "location": "United States",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Associate Application Developer",
+      "url": "https://dfwairport.wd5.myworkdayjobs.com/External/job/Airport-Headquarters/Associate-Application-Developer_JR102118"
     },
     "simplify:danaher corporation::simplify-2a66eaca-fc2d-4587-8cda-8e31d4687a80": {
       "company": "Danaher Corporation",
@@ -21843,6 +21865,16 @@
       "title": "Software Developer - .NET/C# - NAVSUP Programs",
       "url": "https://itcdefense.applytojob.com/apply/bHuaTk27be/Software-Developer-NETC-NAVSUP-Programs"
     },
+    "simplify:itc defense::simplify-9868e2ad-7703-44a2-9e77-0c36692e4ba3": {
+      "company": "ITC Defense",
+      "first_seen": "2026-09-29T23:06:26+00:00",
+      "last_seen": "2026-09-29T23:06:26+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1790720506",
+      "source": "simplify",
+      "title": "Software Developer - NAVSUP Programs",
+      "url": "https://itcdefense.applytojob.com/apply/2nW7Oe2sf0/Software-Developer-NETC-NAVSUP-Programs"
+    },
     "simplify:itc federal::simplify-661f570a-c103-4c06-9b18-929661f1a1b3": {
       "company": "ITC Federal",
       "first_seen": "2026-08-01T14:12:59+00:00",
@@ -27062,6 +27094,16 @@
       "title": "Junior Backend Engineer",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Junior-Back-End-Engineer_R65538"
     },
+    "simplify:motorola::simplify-f611f1d0-d34a-4790-828f-5c7a4839aaf8": {
+      "company": "Motorola",
+      "first_seen": "2026-09-29T23:06:26+00:00",
+      "last_seen": "2026-09-29T23:06:26+00:00",
+      "location": "Gatineau, QC, Canada, Ottawa, ON, Canada",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Junior Software Engineer - Emergency Call Handling",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731"
+    },
     "simplify:motorola::simplify-fcd95104-5b2a-4e23-bb5e-ee0412e59f2c": {
       "company": "Motorola",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -27111,6 +27153,16 @@
       "posted_at": "1776291785",
       "title": "Junior Software Engineer",
       "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4622899006"
+    },
+    "simplify:mufg::simplify-875136d5-d9ac-4f3a-87a8-15b8ef711c63": {
+      "company": "MUFG",
+      "first_seen": "2026-09-29T23:06:26+00:00",
+      "last_seen": "2026-09-29T23:06:26+00:00",
+      "location": "NYC",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Analyst, Markets AI Enablement and Digitization",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/New-York-NY/Analyst--Markets-AI-Enablement-and-Digitization_10079702-WD-1"
     },
     "simplify:mujin::simplify-245185f0-482e-4f3d-b036-598acb899969": {
       "company": "Mujin",
@@ -28725,6 +28777,16 @@
       "title": "Associate Software Engineer - Software Engineering",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer_R10244219"
     },
+    "simplify:northrop grumman::simplify-defd53c6-373d-4684-81eb-df7e464d1c50": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-09-29T23:06:26+00:00",
+      "last_seen": "2026-09-29T23:06:26+00:00",
+      "location": "Huntsville, AL",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Huntsville--AL-_R10253518"
+    },
     "simplify:northrop grumman::simplify-e64b78a2-03ae-46f1-9dc7-98677237e137": {
       "company": "Northrop Grumman",
       "first_seen": "2026-08-13T23:09:16+00:00",
@@ -28760,6 +28822,16 @@
       "posted_at": "1784160000",
       "title": "Software Engineer Associate",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764"
+    },
+    "simplify:northrop grumman::simplify-f1208480-1147-48ce-9646-846da02f7bc8": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-09-29T23:06:26+00:00",
+      "last_seen": "2026-09-29T23:06:26+00:00",
+      "location": "Aurora, CO",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Associate Software Engineer or Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Associate-Software-Engineering-or-Software-Engineer---Aurora-CO_R10253437"
     },
     "simplify:northrop grumman::simplify-fb111552-e548-480f-9cff-4c13c1f67d69": {
       "company": "Northrop Grumman",
@@ -29101,6 +29173,16 @@
       "posted_at": "1780610957",
       "title": "Backend Software Engineer",
       "url": "https://jobs.jobvite.com/nutanix/job/oTNeAfwe?nl=1&nl=1&fr=false"
+    },
+    "simplify:nutanix::simplify-eff98609-6d2a-4e7a-8b80-9c0f39ea9e99": {
+      "company": "Nutanix",
+      "first_seen": "2026-09-29T23:06:26+00:00",
+      "last_seen": "2026-09-29T23:06:26+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1790115639",
+      "source": "simplify",
+      "title": "Member of Technical Staff 4 - Datahub",
+      "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false"
     },
     "simplify:nutanix::simplify-f946c1fe-f878-4d37-9287-b08b55acbcb6": {
       "company": "Nutanix",
@@ -35985,6 +36067,16 @@
       "posted_at": "1783041027",
       "title": "Enterprise Technology Intern - AI and Automation",
       "url": "https://jobs.ashbyhq.com/saronic/c95c2e3a-4c67-47b0-a03d-0e0317ac11a3/application"
+    },
+    "simplify:sas::simplify-1093e6a3-6eab-4f26-a747-8ac2815f5d7b": {
+      "company": "SAS",
+      "first_seen": "2026-09-29T23:06:26+00:00",
+      "last_seen": "2026-09-29T23:06:26+00:00",
+      "location": "Cary, NC",
+      "posted_at": "1790720872",
+      "source": "simplify",
+      "title": "Software Developer - Emerging Careers",
+      "url": "https://careers-sas.icims.com/jobs/42297/job?mobile=true&needsRedirect=false"
     },
     "simplify:savannah river mission completion::simplify-35e05405-c3a2-4b74-a350-587930a5e2b3": {
       "company": "Savannah River Mission Completion",
@@ -50250,5 +50342,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-29T23:04:19+00:00"
+  "updated_at": "2026-09-29T23:07:21+00:00"
 }
