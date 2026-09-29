@@ -1,5 +1,5 @@
 {
-  "count": 6290,
+  "count": 6293,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -9891,6 +9891,16 @@
       "title": "Platform Full-Stack Engineer New Grad",
       "url": "https://c3.ai/job-description/8801434002?gh_jid=8801434002"
     },
+    "simplify:caci::simplify-02f8a929-c160-48c2-818b-cebd23779a18": {
+      "company": "CACI",
+      "first_seen": "2026-09-29T17:36:47+00:00",
+      "last_seen": "2026-09-29T17:36:47+00:00",
+      "location": "Omaha, NE",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776"
+    },
     "simplify:caci::simplify-084d6f5d-6737-409a-9864-db2d5fb418c4": {
       "company": "CACI",
       "first_seen": "2026-09-22T23:43:37+00:00",
@@ -14744,6 +14754,16 @@
       "posted_at": "1787011200",
       "title": "Full Stack Web Development Co-op - Spring 2027",
       "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1"
+    },
+    "simplify:draper::simplify-e045f585-8fe2-442c-ad32-d77296ec0f53": {
+      "company": "Draper",
+      "first_seen": "2026-09-29T17:36:47+00:00",
+      "last_seen": "2026-09-29T17:36:47+00:00",
+      "location": "Cambridge, MA, Lowell, MA, Huntsville, AL",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Requirements Engineering Intern - Digital Engineering",
+      "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Lowell-MA/Digital-Engineering---Requirements-Engineering-Intern--Summer-2027-_JR002945-1"
     },
     "simplify:driven brands::simplify-79b60bbd-cd69-4724-9b1f-dcbc1d0151e4": {
       "company": "Driven Brands",
@@ -21591,6 +21611,16 @@
       "posted_at": "1783733782",
       "title": "Full Stack Engineer 2",
       "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4714122005"
+    },
+    "simplify:invesco::simplify-d29e1b26-6366-4790-a9fb-5c7c87927b69": {
+      "company": "Invesco",
+      "first_seen": "2026-09-29T17:36:47+00:00",
+      "last_seen": "2026-09-29T17:36:47+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Early Career Intern - Technology",
+      "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1"
     },
     "simplify:ionq::simplify-c028b98f-7d2f-41f3-bd86-61daed617bdc": {
       "company": "IonQ",
@@ -33444,7 +33474,7 @@
     "simplify:rodan energy solutions::simplify-bfd666d6-eb74-40ca-8595-5c0e16820216": {
       "company": "Rodan Energy Solutions",
       "first_seen": "2026-09-21T23:07:18+00:00",
-      "last_seen": "2026-09-26T00:00:26+00:00",
+      "last_seen": "2026-09-29T17:36:46+00:00",
       "location": "Mississauga, ON, Canada",
       "posted_at": "1790029506",
       "source": "simplify",
@@ -33454,7 +33484,7 @@
     "simplify:rodan energy solutions::simplify-c0b22f53-3c47-45f3-8c12-a94866f7f461": {
       "company": "Rodan Energy Solutions",
       "first_seen": "2026-09-21T23:07:18+00:00",
-      "last_seen": "2026-09-26T00:00:26+00:00",
+      "last_seen": "2026-09-29T17:36:46+00:00",
       "location": "Mississauga, ON, Canada",
       "posted_at": "1790029506",
       "source": "simplify",
@@ -49995,5 +50025,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-29T17:33:06+00:00"
+  "updated_at": "2026-09-29T17:37:08+00:00"
 }
