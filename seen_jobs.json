@@ -55,6 +55,33 @@
       "title": "Computer Science Engineer 1 - Cranberry Township",
       "url": "https://careers-framatome.icims.com/jobs/3408/job?mobile=true&needsRedirect=false"
     },
+    "simplify:garmin::simplify-9d7fba42-9b7a-428c-8e74-6c7727783d75": {
+      "attempted_at": "2026-09-29T06:34:00+00:00",
+      "company": "Garmin",
+      "location": "Montgomery, TX",
+      "posted_at": "1790662170",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.garmin.com/jobs/20055?icims=1"
+    },
+    "simplify:rhoda ai::simplify-1736ee29-1f1e-4421-8616-9c616abc3f8e": {
+      "attempted_at": "2026-09-29T06:34:00+00:00",
+      "company": "Rhoda AI",
+      "location": "Mountain View, CA",
+      "posted_at": "1790662681",
+      "source": "simplify",
+      "title": "Robot Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5/application?embed=true"
+    },
+    "simplify:thrivent::simplify-7a4c54a2-858e-4678-90f3-93bba7644c52": {
+      "attempted_at": "2026-09-29T06:34:00+00:00",
+      "company": "Thrivent",
+      "location": "Minneapolis, MN",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Application Engineer Intern - Investments",
+      "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2"
+    },
     "ziprecruiter::8127108": {
       "attempted_at": "2026-09-24T16:22:51+00:00",
       "company": "ZipRecruiter",
@@ -49826,5 +49853,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-29T04:27:28+00:00"
+  "updated_at": "2026-09-29T06:34:32+00:00"
 }
