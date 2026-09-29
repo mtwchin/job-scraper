@@ -1,5 +1,5 @@
 {
-  "count": 6287,
+  "count": 6290,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -28127,6 +28127,16 @@
       "title": "Software Engineer / User Experience Applications",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer---User-Experience-Applications_R10236991-1"
     },
+    "simplify:northrop grumman::simplify-5e53dcd6-2301-48d9-8010-f0ddb4a2a434": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-09-29T17:32:32+00:00",
+      "last_seen": "2026-09-29T17:32:32+00:00",
+      "location": "McClellan Park, CA",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Associate Software Engineer - McClellan CA",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10253394"
+    },
     "simplify:northrop grumman::simplify-6203f891-9874-4b06-9079-4a95178007dc": {
       "company": "Northrop Grumman",
       "first_seen": "2026-08-04T23:42:34+00:00",
@@ -35015,6 +35025,7 @@
     "simplify:rtx::simplify-bf79ce83-617f-414c-a109-b3809235df00": {
       "company": "RTX",
       "first_seen": "2026-09-03T16:42:59+00:00",
+      "last_seen": "2026-09-29T17:32:32+00:00",
       "posted_at": "1786579200",
       "title": "Systems Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/Systems-Engineer-I_01866673"
@@ -42401,6 +42412,16 @@
       "title": "Software Engineer Intern",
       "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676"
     },
+    "simplify:tripadvisor::simplify-b1e25a04-c0cf-4584-9b3c-cb00a33139c3": {
+      "company": "TripAdvisor",
+      "first_seen": "2026-09-29T17:32:32+00:00",
+      "last_seen": "2026-09-29T17:32:32+00:00",
+      "location": "Oxford, UK",
+      "posted_at": "1790692199",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/6903058"
+    },
     "simplify:triplering::simplify-49123f42-29f8-4419-a712-42d5a9d05153": {
       "company": "TripleRing",
       "first_seen": "2026-09-04T10:32:12+00:00",
@@ -44672,6 +44693,16 @@
       "posted_at": "1785974400",
       "title": "Programmer 1 - Neurology",
       "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Programmer-I---Neurology_JR96482"
+    },
+    "simplify:wash u::simplify-82cd14c1-19c6-4a97-9269-66a14b578ede": {
+      "company": "Wash U",
+      "first_seen": "2026-09-29T17:32:32+00:00",
+      "last_seen": "2026-09-29T17:32:32+00:00",
+      "location": "St. Louis, MO",
+      "posted_at": "1790035200",
+      "source": "simplify",
+      "title": "Neuroimaging Engineer - Neurology",
+      "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Neuroimaging-Engineer---Neurology_JR97672"
     },
     "simplify:waymo::simplify-107e54c4-e35f-4131-8faf-6a6ab9998ca9": {
       "company": "Waymo",
@@ -49964,5 +49995,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-29T17:05:03+00:00"
+  "updated_at": "2026-09-29T17:33:06+00:00"
 }
