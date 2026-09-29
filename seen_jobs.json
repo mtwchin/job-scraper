@@ -1,5 +1,5 @@
 {
-  "count": 6278,
+  "count": 6279,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -9978,6 +9978,7 @@
     "simplify:caci::simplify-4fe03bf3-4c12-4115-b009-2020faa2de23": {
       "company": "CACI",
       "first_seen": "2026-08-19T22:45:45+00:00",
+      "last_seen": "2026-09-29T15:03:51+00:00",
       "posted_at": "1787097600",
       "title": "AI Prompt Engineer",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer_330802"
@@ -12845,6 +12846,7 @@
     "simplify:copart::simplify-c63937cc-49b3-4672-b316-c4e35731c6af": {
       "company": "Copart",
       "first_seen": "2026-07-30T22:42:25+00:00",
+      "last_seen": "2026-09-29T15:03:51+00:00",
       "posted_at": "1785369600",
       "title": "Software Engineer Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964"
@@ -44665,6 +44667,16 @@
       "title": "AI Engineer 1",
       "url": "https://job-boards.greenhouse.io/welbehealth/jobs/8599687002"
     },
+    "simplify:wellington management::simplify-1536d52f-c983-4784-9564-0353ee0692ac": {
+      "company": "Wellington Management",
+      "first_seen": "2026-09-29T15:03:51+00:00",
+      "last_seen": "2026-09-29T15:03:51+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1790121600",
+      "source": "simplify",
+      "title": "Technology Undergraduate Intern",
+      "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778-1"
+    },
     "simplify:wellington management::simplify-4b9673a4-ad8a-4a24-9875-32ffa5c81783": {
       "company": "Wellington Management",
       "first_seen": "2026-09-09T22:48:05+00:00",
@@ -49869,5 +49881,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-29T14:03:32+00:00"
+  "updated_at": "2026-09-29T15:04:35+00:00"
 }
