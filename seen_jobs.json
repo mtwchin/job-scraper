@@ -1,5 +1,5 @@
 {
-  "count": 6271,
+  "count": 6272,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -39913,6 +39913,16 @@
       "title": "Modeling - Simulation and Analysis Engineer",
       "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Modeling--Simulation-and-Analysis-Engineer_R015751"
     },
+    "simplify:the aerospace corporation::simplify-57bebd99-f029-4628-b0dc-3532c4f03181": {
+      "company": "The Aerospace Corporation",
+      "first_seen": "2026-09-29T02:03:53+00:00",
+      "last_seen": "2026-09-29T02:03:53+00:00",
+      "location": "El Segundo, CA",
+      "posted_at": "1790553600",
+      "source": "simplify",
+      "title": "Software Engineering Intern - Software Tools and Assurance",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753"
+    },
     "simplify:the aerospace corporation::simplify-6ba49fd7-fca8-4128-a0e2-5d8cffc9661e": {
       "company": "The Aerospace Corporation",
       "first_seen": "2026-09-22T00:35:19+00:00",
@@ -49814,5 +49824,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-29T01:32:20+00:00"
+  "updated_at": "2026-09-29T02:04:22+00:00"
 }
