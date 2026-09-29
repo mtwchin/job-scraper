@@ -1,5 +1,5 @@
 {
-  "count": 6300,
+  "count": 6315,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -3370,6 +3370,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e/apply"
     },
+    "simplify:acuity::simplify-4bc949a8-4e60-4c6b-90c8-fb7077b8a2b2": {
+      "company": "Acuity",
+      "first_seen": "2026-09-29T23:04:17+00:00",
+      "last_seen": "2026-09-29T23:04:17+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1790720238",
+      "source": "simplify",
+      "title": "Finance AI Engineering Intern",
+      "url": "https://careers.acuityinc.com/job/Atlanta-Finance-AI-Engineering-Intern-Onsite-GA-30309/1434878900/?ats=successfactors"
+    },
     "simplify:acuity::simplify-5c792b7d-16ed-4b9e-a8c7-e14569e5b1a4": {
       "company": "Acuity",
       "first_seen": "2026-09-12T09:34:54+00:00",
@@ -4072,6 +4082,16 @@
       "posted_at": "1784851200",
       "title": "Application Support Engineer",
       "url": "https://alegeus.wd1.myworkdayjobs.com/en-US/Alegeus_External_Careers/job/Maitland/Application-Support-Engineer_R-101288"
+    },
+    "simplify:alexion::simplify-40714b55-23e6-4ad4-af4f-3fb84666d2be": {
+      "company": "Alexion",
+      "first_seen": "2026-09-29T23:04:17+00:00",
+      "last_seen": "2026-09-29T23:04:17+00:00",
+      "location": "Mississauga, ON, Canada",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Development Operations AI & Automation Enablement Co-op Intern",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415"
     },
     "simplify:alfa financial software::simplify-ee1cdd8a-13f7-405e-81a2-69a736cdb6b6": {
       "company": "Alfa Financial Software",
@@ -11247,6 +11267,16 @@
       "title": "Software Engineer 1 - AI",
       "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-I---AI_JR30291"
     },
+    "simplify:chamberlain group::simplify-d931401d-8b80-4701-99f9-598a46f7e96c": {
+      "company": "Chamberlain Group",
+      "first_seen": "2026-09-29T23:04:17+00:00",
+      "last_seen": "2026-09-29T23:04:17+00:00",
+      "location": "Oak Brook, IL",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Software Engineer 1 Intern - Middleware",
+      "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Software-Engineer-1--Middleware--Intern-Conversion-_JR31674"
+    },
     "simplify:charles schwab::simplify-09239b96-d26a-4691-b9ab-9b8b442caa9f": {
       "company": "Charles Schwab",
       "first_seen": "2026-08-29T02:50:35+00:00",
@@ -15520,6 +15550,16 @@
       "title": "Junior Developer 1",
       "url": "https://egbc.applytojob.com/apply/7aUKZK87tT/Junior-Developer-I"
     },
+    "simplify:enova::simplify-282a057f-48f4-4133-a52c-2261299e04a8": {
+      "company": "Enova",
+      "first_seen": "2026-09-29T23:04:17+00:00",
+      "last_seen": "2026-09-29T23:04:17+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1790721431",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/enova/jobs/8239619"
+    },
     "simplify:ensign-bickford aerospace & defense company::simplify-f2c74423-edee-4802-9ffa-80d160cb0cc2": {
       "company": "Ensign-Bickford Aerospace & Defense Company",
       "first_seen": "2026-09-01T17:52:38+00:00",
@@ -17432,6 +17472,16 @@
       "posted_at": "1787616000",
       "title": "Software Engineer Co-op",
       "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2027_REQ-26592"
+    },
+    "simplify:ge appliances::simplify-9accdc5e-59fe-48e8-b800-318b388ca8ba": {
+      "company": "GE Appliances",
+      "first_seen": "2026-09-29T23:04:17+00:00",
+      "last_seen": "2026-09-29T23:04:17+00:00",
+      "location": "Louisville, KY",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Software Engineering Co-op",
+      "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2026_REQ-26919"
     },
     "simplify:ge appliances::simplify-b1a50830-e5ae-4f43-a69b-471c3c58ea97": {
       "company": "GE Appliances",
@@ -19825,6 +19875,16 @@
       "title": "Software Engineer - Agents",
       "url": "https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc/application?embed=true"
     },
+    "simplify:haven studios::simplify-72f0f06b-9e7a-4022-b8b3-b3c1f23078cb": {
+      "company": "Haven Studios",
+      "first_seen": "2026-09-29T23:04:17+00:00",
+      "last_seen": "2026-09-29T23:04:17+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1790720868",
+      "source": "simplify",
+      "title": "Technical Design Intern",
+      "url": "https://job-boards.greenhouse.io/haven/jobs/6210694004"
+    },
     "simplify:hawk-eye innovations::simplify-4adedb1c-f646-45c1-873f-d94e442704be": {
       "company": "Hawk-Eye Innovations",
       "first_seen": "2026-08-12T21:07:36+00:00",
@@ -20237,6 +20297,16 @@
       "posted_at": "1782338882",
       "title": "Software Engineer 1",
       "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/151776"
+    },
+    "simplify:honeywell::simplify-bb27869b-4a6d-4372-a4d6-44e4aa41892d": {
+      "company": "Honeywell",
+      "first_seen": "2026-09-29T23:04:17+00:00",
+      "last_seen": "2026-09-29T23:04:17+00:00",
+      "location": "United States",
+      "posted_at": "1790720428",
+      "source": "simplify",
+      "title": "Software Engineering Co-op",
+      "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/158957"
     },
     "simplify:honeywell::simplify-bca97b0b-9965-4948-aebd-d060788e65ac": {
       "company": "Honeywell",
@@ -21096,6 +21166,16 @@
       "title": "AI Developer Intern Co-op - Winter 2027",
       "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Vancouver-British-Columbia-CAN/AI-Developer---4-Month-Internship-Co-op--Winter-2027--_R155235"
     },
+    "simplify:intact::simplify-dc8b6b01-6bdc-4f5b-ba9e-1e07e8968f70": {
+      "company": "Intact",
+      "first_seen": "2026-09-29T23:04:17+00:00",
+      "last_seen": "2026-09-29T23:04:17+00:00",
+      "location": "St. John's, NL, Canada",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Software Developer 1 Intern/Co-op - Winter 2027",
+      "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/St-Johns-Newfoundland-and-Labrador-CAN/Software-Developer-I---4-months-internship--Co-op--Winter-2027-_R155972"
+    },
     "simplify:integrated resources::simplify-8610b082-0dee-4fb2-9264-5d5adf2e3bda": {
       "company": "Integrated Resources",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -21682,6 +21762,16 @@
       "title": "Software Developer 1",
       "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Software-Developer-I_R19926"
     },
+    "simplify:iridium communications::simplify-7e94c6d9-c88c-4d70-8bd0-51a2cc801485": {
+      "company": "Iridium Communications",
+      "first_seen": "2026-09-29T23:04:17+00:00",
+      "last_seen": "2026-09-29T23:04:17+00:00",
+      "location": "Tempe, AZ, McLean, VA",
+      "posted_at": "1790720381",
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://careers-iridium.icims.com/jobs/5136/job?mobile=true&needsRedirect=false"
+    },
     "simplify:iridium communications::simplify-dcb78e15-a5c5-4a55-89dc-2420d65990d0": {
       "company": "Iridium Communications",
       "first_seen": "2026-07-24T23:33:06+00:00",
@@ -22070,6 +22160,16 @@
       "posted_at": "1771917617",
       "title": "Entry Level Mobile Developer",
       "url": "https://jobs.smartrecruiters.com/Jobsbridge1/88661485"
+    },
+    "simplify:john deere::simplify-0150e350-a32f-4473-a4ee-93b1e1b1ea7e": {
+      "company": "John Deere",
+      "first_seen": "2026-09-29T23:04:17+00:00",
+      "last_seen": "2026-09-29T23:04:17+00:00",
+      "location": "Champaign, IL",
+      "posted_at": "1790720924",
+      "source": "simplify",
+      "title": "Software Engineer Part-Time Student",
+      "url": "https://johndeere.eightfold.ai/careers/job/137483583981"
     },
     "simplify:john deere::simplify-17936a1f-6724-46a7-a97a-6feceb9c2a92": {
       "company": "John Deere",
@@ -26232,6 +26332,16 @@
       "title": "Engineering Intern - Software Development",
       "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Software-Development-_R3371-26"
     },
+    "simplify:microchip technology::simplify-df3d7f78-b1f7-4efe-99d5-136648cb5d84": {
+      "company": "Microchip Technology",
+      "first_seen": "2026-09-29T23:04:17+00:00",
+      "last_seen": "2026-09-29T23:04:17+00:00",
+      "location": "Chandler, AZ",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Engineer Intern - Software",
+      "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern-Engineering--Software-_R4091-26"
+    },
     "simplify:micron technology::simplify-0921cc7c-5118-4b58-bb30-c23a720502d9": {
       "company": "Micron Technology",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -28271,6 +28381,7 @@
     "simplify:northrop grumman::simplify-68f77e24-7325-4a04-9e6f-048e16a551a1": {
       "company": "Northrop Grumman",
       "first_seen": "2026-09-03T08:16:51+00:00",
+      "last_seen": "2026-09-29T23:04:16+00:00",
       "posted_at": "1788307200",
       "title": "Software Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
@@ -34025,6 +34136,16 @@
       "title": "Quantitative Technology Services Co-op - Software Developer",
       "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676"
     },
+    "simplify:royal bank of canada::simplify-e8fda496-e9f1-4644-a3fb-c4b72895a3dc": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-09-29T23:04:17+00:00",
+      "last_seen": "2026-09-29T23:04:17+00:00",
+      "location": "NYC",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Capital Markets AidenEdge Program Winter Analyst Intern",
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/BROOKFIELD-PLACE-FKA-3-WORLD-FINANCIAL-CENTER-200-VESEY-STREETNEW-YORK/XMLNAME-2027-Capital-Markets--AidenEdge-Program-Winter-Analyst--4-Months-_R-0000186586-1"
+    },
     "simplify:royal bank of canada::simplify-e983a49c-2550-415d-989d-90c17d637555": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-09-07T12:23:58+00:00",
@@ -34478,6 +34599,7 @@
     "simplify:rtx::simplify-477443e5-44fe-40b9-a621-9daa78a67a6a": {
       "company": "RTX",
       "first_seen": "2026-09-10T00:38:47+00:00",
+      "last_seen": "2026-09-29T23:04:16+00:00",
       "posted_at": "1788912000",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Software-Engineering-Intern--Summer-2027---Open-_01873623"
@@ -34871,6 +34993,7 @@
     "simplify:rtx::simplify-96a2bb42-3d8d-415b-ad67-993931ebeac4": {
       "company": "RTX",
       "first_seen": "2026-08-27T14:35:48+00:00",
+      "last_seen": "2026-09-29T23:04:16+00:00",
       "posted_at": "1787788800",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007"
@@ -34930,7 +35053,7 @@
     "simplify:rtx::simplify-9f477186-5000-4fe3-8151-4971b1c4abfb": {
       "company": "RTX",
       "first_seen": "2026-09-16T23:02:47+00:00",
-      "last_seen": "2026-09-21T00:04:12+00:00",
+      "last_seen": "2026-09-29T23:04:16+00:00",
       "location": "Cedar Rapids, IA",
       "posted_at": "1789516800",
       "source": "simplify",
@@ -35193,7 +35316,7 @@
     "simplify:rtx::simplify-d33add69-247a-45fe-877c-f6ba4d421782": {
       "company": "RTX",
       "first_seen": "2026-09-11T23:13:27+00:00",
-      "last_seen": "2026-09-15T00:44:55+00:00",
+      "last_seen": "2026-09-29T23:04:16+00:00",
       "posted_at": "1789084800",
       "title": "Software Developer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Internship---Winter-2027---Software-Developer-Aerospace-Control-Systems---Web-Applications_01874412"
@@ -35201,7 +35324,7 @@
     "simplify:rtx::simplify-d3493d3d-52cf-4bc5-a30a-2f26571b4b4b": {
       "company": "RTX",
       "first_seen": "2026-09-15T23:08:09+00:00",
-      "last_seen": "2026-09-28T00:54:52+00:00",
+      "last_seen": "2026-09-29T23:04:16+00:00",
       "location": "Longueuil, QC, Canada",
       "posted_at": "1789430400",
       "source": "simplify",
@@ -35560,6 +35683,16 @@
       "posted_at": "1778942329",
       "title": "Application Support Engineer 1",
       "url": "https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Coral-Gables-FL-33134/Application-Support-Engineer-I_R170446"
+    },
+    "simplify:s&c electric company::simplify-d2a3ec8c-f8cf-4d52-ac45-66d27ffa39f4": {
+      "company": "S&C Electric Company",
+      "first_seen": "2026-09-29T23:04:17+00:00",
+      "last_seen": "2026-09-29T23:04:17+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1790720498",
+      "source": "simplify",
+      "title": "Software Engineer Co-op",
+      "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107307"
     },
     "simplify:s&c electric company::simplify-f26b1776-f5fe-489c-95fa-6479999186ed": {
       "company": "S&C Electric Company",
@@ -39417,6 +39550,16 @@
       "posted_at": "1780794694",
       "title": "Software Engineering Intern - Fullstack Engineer - Infrastructure Engineering",
       "url": "https://www.tesla.com/careers/search/job/264897"
+    },
+    "simplify:tesla::simplify-5866904c-1ee5-4973-8ca1-2c57ecb0569f": {
+      "company": "Tesla",
+      "first_seen": "2026-09-29T23:04:16+00:00",
+      "last_seen": "2026-09-29T23:04:16+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1790721596",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Data Transformations",
+      "url": "https://www.tesla.com/careers/search/job/284925"
     },
     "simplify:tesla::simplify-58f15152-4d52-4c28-8a28-b8ec717ba3b0": {
       "company": "Tesla",
@@ -45157,6 +45300,16 @@
       "title": "Enovia PLM Developer Intern - Enovia PLM",
       "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Enovia-PLM-NC/1426858600/?ats=successfactors"
     },
+    "simplify:westinghouse electric company::simplify-efff5c18-233b-49dd-a516-5c36f19636aa": {
+      "company": "Westinghouse Electric Company",
+      "first_seen": "2026-09-29T23:04:17+00:00",
+      "last_seen": "2026-09-29T23:04:17+00:00",
+      "location": "Warrendale, PA",
+      "posted_at": "1790720476",
+      "source": "simplify",
+      "title": "Software Developer Intern - Tools & Apps",
+      "url": "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Tools-&-Apps-OR/1434869300/?ats=successfactors"
+    },
     "simplify:westinghouse electric company::simplify-f13aeef3-c6b3-4c80-97c7-804b205a6819": {
       "company": "Westinghouse Electric Company",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -50097,5 +50250,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-29T22:37:16+00:00"
+  "updated_at": "2026-09-29T23:04:19+00:00"
 }
