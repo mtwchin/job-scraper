@@ -1,5 +1,5 @@
 {
-  "count": 6296,
+  "count": 6300,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -4300,6 +4300,16 @@
       "posted_at": "1784246400",
       "title": "AI Software Development Engineer Intern",
       "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707"
+    },
+    "simplify:altera::simplify-ca3f8b2a-724e-44cf-8a3a-7f784c36077c": {
+      "company": "Altera",
+      "first_seen": "2026-09-29T22:37:10+00:00",
+      "last_seen": "2026-09-29T22:37:10+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R03252"
     },
     "simplify:altera::simplify-e76d4605-d469-425d-a79a-1fa00dca13b2": {
       "company": "Altera",
@@ -20696,7 +20706,7 @@
     "simplify:igs energy::simplify-04b39002-c856-4b61-96ef-f8e8d00c0001": {
       "company": "IGS Energy",
       "first_seen": "2026-09-01T00:09:06+00:00",
-      "last_seen": "2026-09-24T00:00:15+00:00",
+      "last_seen": "2026-09-29T22:37:09+00:00",
       "posted_at": "1788134400",
       "title": "Software Engineer Intern",
       "url": "https://igsenergy.wd1.myworkdayjobs.com/en-US/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263"
@@ -23008,6 +23018,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://jobs.keysight.com/jobs/54395?icims=1"
+    },
+    "simplify:keysight technologies::simplify-9fb20034-acce-4973-b26e-0e2287dcfda6": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-09-29T22:37:10+00:00",
+      "last_seen": "2026-09-29T22:37:10+00:00",
+      "location": "Santa Rosa, CA",
+      "posted_at": "1790720140",
+      "source": "simplify",
+      "title": "Research and Development Software Engineer Intern",
+      "url": "https://jobs.keysight.com/jobs/54414?icims=1"
     },
     "simplify:keysight technologies::simplify-c60812e4-06ad-4e91-8d3f-cb2441c88d0d": {
       "company": "Keysight Technologies",
@@ -25325,6 +25345,16 @@
       "source": "simplify",
       "title": "SRAM Software Engineer Intern",
       "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760"
+    },
+    "simplify:marvell::simplify-6f576614-627b-4348-9a04-178f26b01381": {
+      "company": "Marvell",
+      "first_seen": "2026-09-29T22:37:10+00:00",
+      "last_seen": "2026-09-29T22:37:10+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "AI-Native Development Platform Engineer Intern",
+      "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1"
     },
     "simplify:marvell::simplify-748dbbda-4a6f-4c7d-a2fd-88c3aa19478a": {
       "company": "Marvell",
@@ -37079,6 +37109,16 @@
       "posted_at": "1783058730",
       "title": "Application Developer 2",
       "url": "https://job-boards.greenhouse.io/sonobello/jobs/5290870008"
+    },
+    "simplify:sony interactive entertainment::simplify-74efc708-4e8b-4d57-9853-eb261edfdeb2": {
+      "company": "Sony Interactive Entertainment",
+      "first_seen": "2026-09-29T22:37:10+00:00",
+      "last_seen": "2026-09-29T22:37:10+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1790720080",
+      "source": "simplify",
+      "title": "Technical Designer Intern",
+      "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6210692004"
     },
     "simplify:sony pictures imageworks::simplify-512f4a93-543c-430e-8bbb-a8a67822856b": {
       "company": "Sony Pictures Imageworks",
@@ -50057,5 +50097,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-29T22:34:14+00:00"
+  "updated_at": "2026-09-29T22:37:16+00:00"
 }
