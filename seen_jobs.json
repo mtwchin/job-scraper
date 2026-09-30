@@ -1224,8 +1224,8 @@
     },
     "imc trading::4796143101": {
       "company": "IMC Trading",
-      "first_seen": "2026-09-30T18:31:03+00:00",
-      "last_seen": "2026-09-30T18:31:03+00:00",
+      "first_seen": "2026-09-30T19:01:04+00:00",
+      "last_seen": "2026-09-30T19:01:04+00:00",
       "location": "Chicago, United States",
       "posted_at": "2026-09-30T14:26:36-04:00",
       "source": "",
@@ -50626,5 +50626,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-30T18:31:20+00:00"
+  "updated_at": "2026-09-30T19:01:31+00:00"
 }
