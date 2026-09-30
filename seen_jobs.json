@@ -1,5 +1,5 @@
 {
-  "count": 6350,
+  "count": 6351,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -50580,6 +50580,16 @@
       "title": "2027 Summer Intern, BS, Software Engineering, Labeling",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8238525"
     },
+    "waymo::8240198": {
+      "company": "Waymo",
+      "first_seen": "2026-09-30T18:09:02+00:00",
+      "last_seen": "2026-09-30T18:09:02+00:00",
+      "location": "Mountain View, CA, USA",
+      "posted_at": "2026-09-30T14:03:17-04:00",
+      "source": "",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8240198"
+    },
     "webflow::8122601": {
       "company": "Webflow",
       "first_seen": "2026-08-12T20:19:37+00:00",
@@ -50606,5 +50616,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-30T17:58:15+00:00"
+  "updated_at": "2026-09-30T18:09:18+00:00"
 }
