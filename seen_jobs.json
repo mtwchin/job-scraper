@@ -1,5 +1,5 @@
 {
-  "count": 6339,
+  "count": 6343,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -5098,7 +5098,7 @@
     "simplify:american express::simplify-ba86fe7a-6db5-4b56-a169-0c868bd5b58d": {
       "company": "American Express",
       "first_seen": "2026-09-01T17:52:38+00:00",
-      "last_seen": "2026-09-15T00:44:55+00:00",
+      "last_seen": "2026-09-30T14:36:36+00:00",
       "posted_at": "1788277303",
       "title": "Software Engineering Apprentice - Technology Software Engineering",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25022282"
@@ -16158,6 +16158,16 @@
       "title": "Software Engineer \u2013 New Grad - Cases Product",
       "url": "https://jobs.ashbyhq.com/evenup/41488eae-50a9-4ad3-b6e0-2fd28efb238e/application"
     },
+    "simplify:evenup::simplify-5d0c84fa-1994-4946-a104-4a9b317a3f9c": {
+      "company": "EvenUp",
+      "first_seen": "2026-09-30T14:36:37+00:00",
+      "last_seen": "2026-09-30T14:36:37+00:00",
+      "location": "Toronto, ON, Canada, SF",
+      "posted_at": "1790778062",
+      "source": "simplify",
+      "title": "Software Engineer New Grad - AI Entities",
+      "url": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true"
+    },
     "simplify:everfox::simplify-5b51e676-8b92-4a35-a771-c5e6ce70e43c": {
       "company": "Everfox",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -16838,7 +16848,7 @@
     "simplify:first citizens bancshares::simplify-074a0da6-73e2-402d-90a7-ca4bf302d862": {
       "company": "First Citizens BancShares",
       "first_seen": "2026-09-25T14:34:33+00:00",
-      "last_seen": "2026-09-27T00:00:21+00:00",
+      "last_seen": "2026-09-30T14:36:36+00:00",
       "location": "Raleigh, NC",
       "posted_at": "1790345328",
       "source": "simplify",
@@ -18282,6 +18292,16 @@
       "posted_at": "1788401359",
       "title": "Engineering Leadership Program Engineer - Class of 2027",
       "url": "https://careers-gdms.icims.com/jobs/74727/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:general dynamics mission systems::simplify-8241dd7c-e911-4078-85d3-5095ff275c0d": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-09-30T14:36:37+00:00",
+      "last_seen": "2026-09-30T14:36:37+00:00",
+      "location": "Middletown, RI",
+      "posted_at": "1790777682",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://careers-gdms.icims.com/jobs/75205/job?mobile=true&needsRedirect=false"
     },
     "simplify:general dynamics mission systems::simplify-83c45c64-d3e1-4b9a-88bf-39f4e4071568": {
       "company": "General Dynamics Mission Systems",
@@ -24043,6 +24063,16 @@
       "posted_at": "1785276244",
       "title": "Associate \u2013 Software Engineer",
       "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineer-VA-20171/1413343400/?ats=successfactors"
+    },
+    "simplify:l3harris technologies::simplify-af6b09bd-b87e-4688-97de-c0efa27df196": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-09-30T14:36:37+00:00",
+      "last_seen": "2026-09-30T14:36:37+00:00",
+      "location": "Waterdown, Hamilton, ON, Canada",
+      "posted_at": "1790777257",
+      "source": "simplify",
+      "title": "Manufacturing Engineering Co-op",
+      "url": "https://jobs.l3harris.com/job/Waterdown-Manufacturing-Engineering-Co-op-(Waterdown,-CAN)-ON-L9H-0C5/1435254600/?ats=successfactors"
     },
     "simplify:l3harris technologies::simplify-bb1f6823-179b-48c7-907a-9932b31bd155": {
       "company": "L3Harris Technologies",
@@ -45307,6 +45337,16 @@
       "title": "Technology Undergraduate Intern",
       "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778"
     },
+    "simplify:wellmark::simplify-069dfa9c-8d02-4151-9206-14b22adce975": {
+      "company": "Wellmark",
+      "first_seen": "2026-09-30T14:36:37+00:00",
+      "last_seen": "2026-09-30T14:36:37+00:00",
+      "location": "Des Moines, IA",
+      "posted_at": "1790777238",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Metadata Enablement Team",
+      "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000152679699"
+    },
     "simplify:wellmark::simplify-127d20c7-244f-4630-9b44-e23957ff0d16": {
       "company": "Wellmark",
       "first_seen": "2026-09-11T11:31:36+00:00",
@@ -46426,7 +46466,7 @@
     "simplify:zurich insurance::simplify-ac56ab22-4e58-404f-bd27-334854dd766c": {
       "company": "Zurich Insurance",
       "first_seen": "2026-07-23T16:42:59+00:00",
-      "last_seen": "2026-09-26T00:00:26+00:00",
+      "last_seen": "2026-09-30T14:36:36+00:00",
       "posted_at": "1784815795",
       "title": "Software Engineer Associate",
       "url": "https://www.careers.zurich.com/job/Bath-Associate-Software-Engineer-GB-E/1367510657/?ats=successfactors"
@@ -50495,5 +50535,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-30T13:30:58+00:00"
+  "updated_at": "2026-09-30T14:37:01+00:00"
 }
