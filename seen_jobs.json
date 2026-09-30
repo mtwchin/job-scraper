@@ -1,5 +1,5 @@
 {
-  "count": 6351,
+  "count": 6352,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -1221,6 +1221,16 @@
       "first_seen": "2026-06-28T23:46:38+00:00",
       "title": "Graduate Software Engineer (2026)",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4635938101"
+    },
+    "imc trading::4796143101": {
+      "company": "IMC Trading",
+      "first_seen": "2026-09-30T18:31:03+00:00",
+      "last_seen": "2026-09-30T18:31:03+00:00",
+      "location": "Chicago, United States",
+      "posted_at": "2026-09-30T14:26:36-04:00",
+      "source": "",
+      "title": "Software Engineer, Early Career",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4796143101"
     },
     "imc trading::4818790101": {
       "company": "IMC Trading",
@@ -50616,5 +50626,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-30T18:09:18+00:00"
+  "updated_at": "2026-09-30T18:31:20+00:00"
 }
