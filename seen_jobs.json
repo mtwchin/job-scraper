@@ -1,5 +1,5 @@
 {
-  "count": 6343,
+  "count": 6348,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -6790,7 +6790,7 @@
     "simplify:athene::simplify-8aed5327-2fc7-4616-9983-929999e4d871": {
       "company": "Athene",
       "first_seen": "2026-09-19T03:50:34+00:00",
-      "last_seen": "2026-09-21T00:04:12+00:00",
+      "last_seen": "2026-09-30T15:04:37+00:00",
       "location": "West Des Moines, IA",
       "posted_at": "1789689600",
       "source": "simplify",
@@ -10254,6 +10254,16 @@
       "posted_at": "1784505600",
       "title": "Junior Application Developer",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Application-Developer_328917"
+    },
+    "simplify:caci::simplify-e6e68252-64e3-4113-87e6-21679405692d": {
+      "company": "CACI",
+      "first_seen": "2026-09-30T15:04:37+00:00",
+      "last_seen": "2026-09-30T15:04:37+00:00",
+      "location": "Florham Park, NJ",
+      "posted_at": "1790726400",
+      "source": "simplify",
+      "title": "Software/Network Engineering Intern",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895"
     },
     "simplify:caci::simplify-e772b664-062b-4315-9007-69460c23019c": {
       "company": "CACI",
@@ -15907,6 +15917,7 @@
     "simplify:equifax::simplify-797283a3-845d-4408-9a7b-b3fad3eb78fb": {
       "company": "Equifax",
       "first_seen": "2026-09-03T19:27:16+00:00",
+      "last_seen": "2026-09-30T15:04:37+00:00",
       "posted_at": "1776527351",
       "title": "Rotational Technology Associate",
       "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Rotational-Technology-Associate_J00170962"
@@ -23595,6 +23606,16 @@
       "title": "Software Engineer",
       "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2640196"
     },
+    "simplify:kla::simplify-a7373af1-154a-4460-accf-0f684091471b": {
+      "company": "KLA",
+      "first_seen": "2026-09-30T15:04:37+00:00",
+      "last_seen": "2026-09-30T15:04:37+00:00",
+      "location": "Milpitas, CA",
+      "posted_at": "1790726400",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern_2641572"
+    },
     "simplify:kla::simplify-d4b7c637-570f-409e-beaf-5d2c23cf8d68": {
       "company": "KLA",
       "first_seen": "2026-08-27T23:56:31+00:00",
@@ -24821,7 +24842,7 @@
     "simplify:live oak bank::simplify-94db09b4-4148-4208-acfd-2dcfef6b4a27": {
       "company": "Live Oak Bank",
       "first_seen": "2026-09-16T09:46:36+00:00",
-      "last_seen": "2026-09-24T00:00:15+00:00",
+      "last_seen": "2026-09-30T15:04:37+00:00",
       "location": "Wilmington, NC",
       "posted_at": "1789516800",
       "source": "simplify",
@@ -26415,6 +26436,16 @@
       "posted_at": "1777349715",
       "title": "Junior Full Stack Developer",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4121413"
+    },
+    "simplify:mfs::simplify-e6f977e3-0c56-4d61-bd36-637f2e5d2dee": {
+      "company": "MFS",
+      "first_seen": "2026-09-30T15:04:37+00:00",
+      "last_seen": "2026-09-30T15:04:37+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1790726400",
+      "source": "simplify",
+      "title": "Junior Software Engineer Co-op",
+      "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Spring-2027-Jr-Software-Engineer-Co-op--January---June-_MFS-231979"
     },
     "simplify:mgm resorts international::simplify-0c885940-c72f-4328-9091-a397224b4ef2": {
       "company": "MGM Resorts International",
@@ -42548,6 +42579,16 @@
       "title": "Entry-Level Modeling and Simulation Analyst",
       "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Modeling-and-Simulation-Analyst_R1561"
     },
+    "simplify:torch technologies::simplify-688f2ebb-1fef-4424-a9f4-04a953688db8": {
+      "company": "Torch Technologies",
+      "first_seen": "2026-09-30T15:04:37+00:00",
+      "last_seen": "2026-09-30T15:04:37+00:00",
+      "location": "Tullahoma, TN",
+      "posted_at": "1790726400",
+      "source": "simplify",
+      "title": "Software Analyst",
+      "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Arnold-AFB/AEDC-Software-Analyst--Arnold-AFB-_R1948"
+    },
     "simplify:torch technologies::simplify-7efb34c1-acda-40fa-b1e8-308f2ae2f6f3": {
       "company": "Torch Technologies",
       "first_seen": "2026-07-21T12:15:21+00:00",
@@ -45395,6 +45436,16 @@
       "posted_at": "1789344000",
       "title": "Software Engineer Intern - Early Careers - Software Engineering",
       "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering-_R-574285"
+    },
+    "simplify:wells fargo::simplify-9ab3e6b9-b8cd-4bee-94d4-b877937beb96": {
+      "company": "Wells Fargo",
+      "first_seen": "2026-09-30T15:04:37+00:00",
+      "last_seen": "2026-09-30T15:04:37+00:00",
+      "location": "Iselin, Woodbridge Township, NJ, Charlotte, NC",
+      "posted_at": "1790778575",
+      "source": "simplify",
+      "title": "Engineering Associate - CIB Operations Technology",
+      "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Engineering-Associate---CIB-Operations-Technology_R-572941"
     },
     "simplify:wellsky::simplify-9248e46c-36d0-4ae1-a1b7-22b9ac2b0fb7": {
       "company": "WellSky",
@@ -50535,5 +50586,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-30T14:37:01+00:00"
+  "updated_at": "2026-09-30T15:05:05+00:00"
 }
