@@ -1,5 +1,5 @@
 {
-  "count": 6332,
+  "count": 6334,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -3129,6 +3129,7 @@
     "simplify:abec::simplify-19e4f3e2-8068-46e5-b5f9-879b2594bd38": {
       "company": "ABEC",
       "first_seen": "2026-08-02T15:27:57+00:00",
+      "last_seen": "2026-09-30T09:03:56+00:00",
       "posted_at": "1785517785",
       "title": "Product Engineer",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4372257"
@@ -6956,6 +6957,16 @@
       "posted_at": "1770275588",
       "title": "Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607/application"
+    },
+    "simplify:aurelian::simplify-10dfa9c3-f163-4d07-a147-2e457a8c3e6b": {
+      "company": "Aurelian",
+      "first_seen": "2026-09-30T09:03:57+00:00",
+      "last_seen": "2026-09-30T09:03:57+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1784067222",
+      "source": "simplify",
+      "title": "Backend Engineer \u2013 New Grad to Staff Level",
+      "url": "https://jobs.ashbyhq.com/aurelian/25273778-0cdc-4bfe-9b37-4a735d534cd5/application?embed=true"
     },
     "simplify:authentic::simplify-697d4f47-13f9-46f4-85e4-18851d90babb": {
       "company": "Authentic",
@@ -25586,7 +25597,7 @@
     "simplify:mastercard::simplify-b948ef8c-99af-4850-940a-ca3b8506efb3": {
       "company": "Mastercard",
       "first_seen": "2026-08-24T15:05:46+00:00",
-      "last_seen": "2026-09-23T00:03:42+00:00",
+      "last_seen": "2026-09-30T09:03:56+00:00",
       "posted_at": "1787529600",
       "title": "Software Engineer - Launch Program",
       "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1"
@@ -34549,6 +34560,16 @@
       "title": "Software Engineer Co-op - Summer/Fall 2027",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-OR-WILSONVILLE-596--27500-SW-Parkway-Ave--BLDG-596/Software-Engineering-Co-op--Summer-Fall-2027-_01873970"
     },
+    "simplify:rtx::simplify-1f2f92ef-4765-4730-b29c-a7f5dff8437a": {
+      "company": "RTX",
+      "first_seen": "2026-09-30T09:03:57+00:00",
+      "last_seen": "2026-09-30T09:03:57+00:00",
+      "location": "Fulton, MD",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Systems Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Systems-Engineer-I--Onsite-_01876828"
+    },
     "simplify:rtx::simplify-1f34cc09-fcbc-4a27-ac45-7145485d3425": {
       "company": "RTX",
       "first_seen": "2026-09-17T23:03:17+00:00",
@@ -35302,7 +35323,7 @@
     "simplify:rtx::simplify-b698f712-411d-4005-b00c-49d33f52731c": {
       "company": "RTX",
       "first_seen": "2026-09-10T23:38:18+00:00",
-      "last_seen": "2026-09-24T10:06:43+00:00",
+      "last_seen": "2026-09-30T09:03:56+00:00",
       "posted_at": "1788998400",
       "title": "Software Engineer Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298"
@@ -50424,5 +50445,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-30T08:03:43+00:00"
+  "updated_at": "2026-09-30T09:04:46+00:00"
 }
