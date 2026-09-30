@@ -55,6 +55,15 @@
       "title": "Computer Science Engineer 1 - Cranberry Township",
       "url": "https://careers-framatome.icims.com/jobs/3408/job?mobile=true&needsRedirect=false"
     },
+    "simplify:tesla::simplify-4cfc6f1c-ae9e-447d-8980-a90e98153e86": {
+      "attempted_at": "2026-09-30T01:34:42+00:00",
+      "company": "Tesla",
+      "location": "Palo Alto, CA",
+      "posted_at": "1790730716",
+      "source": "simplify",
+      "title": "Software Developer Intern - Integration Tools",
+      "url": "https://www.tesla.com/careers/search/job/284924"
+    },
     "ziprecruiter::8127108": {
       "attempted_at": "2026-09-24T16:22:51+00:00",
       "company": "ZipRecruiter",
@@ -21759,7 +21768,7 @@
     "simplify:invesco::simplify-d29e1b26-6366-4790-a9fb-5c7c87927b69": {
       "company": "Invesco",
       "first_seen": "2026-09-29T17:36:47+00:00",
-      "last_seen": "2026-09-29T17:36:47+00:00",
+      "last_seen": "2026-09-30T01:34:42+00:00",
       "location": "Atlanta, GA",
       "posted_at": "1790640000",
       "source": "simplify",
@@ -50342,5 +50351,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-30T00:07:27+00:00"
+  "updated_at": "2026-09-30T01:35:30+00:00"
 }
