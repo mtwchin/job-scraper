@@ -1,5 +1,5 @@
 {
-  "count": 6353,
+  "count": 6358,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -17340,6 +17340,16 @@
       "title": "Patient Care Technician",
       "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Norristown-PA/Patient-Care-Technician--Training-Provided_R0268334"
     },
+    "simplify:frontier technology::simplify-9a553838-a007-4071-b969-45ccfd1b81cb": {
+      "company": "Frontier Technology",
+      "first_seen": "2026-09-30T22:33:00+00:00",
+      "last_seen": "2026-09-30T22:33:00+00:00",
+      "location": "Norfolk, VA",
+      "posted_at": "1790806036",
+      "source": "simplify",
+      "title": "Associate Software Developer",
+      "url": "https://careers-ftidefense.icims.com/jobs/7097/job?mobile=true&needsRedirect=false"
+    },
     "simplify:frost::simplify-b85f0dff-7b07-42ee-af50-208fab628c1a": {
       "company": "Frost",
       "first_seen": "2026-08-21T20:09:42+00:00",
@@ -20099,6 +20109,16 @@
       "posted_at": "1785478970",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef/application?embed=true"
+    },
+    "simplify:hellbender::simplify-13ba423b-b67d-4b79-a96b-6e8f0425688f": {
+      "company": "HELLBENDER",
+      "first_seen": "2026-09-30T22:33:00+00:00",
+      "last_seen": "2026-09-30T22:33:00+00:00",
+      "location": "Pittsburgh, PA",
+      "posted_at": "1790635555",
+      "source": "simplify",
+      "title": "Linux Device Driver Engineer",
+      "url": "https://job-boards.greenhouse.io/hellbenderinc/jobs/5436436008"
     },
     "simplify:hello fresh::simplify-24f7e872-4855-4f4d-8aad-c73ffe276cbf": {
       "company": "Hello Fresh",
@@ -30041,6 +30061,16 @@
       "title": "Software Developer 1",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344446"
     },
+    "simplify:oracle::simplify-cea6352a-da56-4d24-a4d4-4a5f5833eeec": {
+      "company": "Oracle",
+      "first_seen": "2026-09-30T22:32:59+00:00",
+      "last_seen": "2026-09-30T22:32:59+00:00",
+      "location": "Nashville, TN",
+      "posted_at": "1790806019",
+      "source": "simplify",
+      "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/346357"
+    },
     "simplify:oracle::simplify-d814462b-3da1-4eea-a608-4b26245a5207": {
       "company": "Oracle",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -31351,6 +31381,16 @@
       "posted_at": "1785737523",
       "title": "Junior Software Engineer",
       "url": "https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer"
+    },
+    "simplify:pg&e::simplify-de2e7aef-3f85-4d5d-a785-80237b864ee3": {
+      "company": "PG&E",
+      "first_seen": "2026-09-30T22:33:00+00:00",
+      "last_seen": "2026-09-30T22:33:00+00:00",
+      "location": "Oakland, CA",
+      "posted_at": "1790805935",
+      "source": "simplify",
+      "title": "Product Engineer Associate",
+      "url": "https://careers.pge.com/job/Oakland-Product-Engineer,-Associate-CA-94612/1435363700/?ats=successfactors"
     },
     "simplify:phase 2::simplify-d80fbf0d-db39-4e22-9da4-6b876fadc339": {
       "company": "Phase 2",
@@ -36919,7 +36959,7 @@
     "simplify:sierra nevada corporation::simplify-92e26ac8-dfc6-42c8-867f-6c96fb1a9e63": {
       "company": "Sierra Nevada Corporation",
       "first_seen": "2026-08-27T23:56:31+00:00",
-      "last_seen": "2026-09-24T00:00:15+00:00",
+      "last_seen": "2026-09-30T22:32:59+00:00",
       "posted_at": "1787788800",
       "title": "Software Engineer 1",
       "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030526"
@@ -37620,6 +37660,16 @@
       "posted_at": "1772157822",
       "title": "Senior Full Stack Software Engineer",
       "url": "https://jobs.smartrecruiters.com/SourceDirectTalent/743999890004030"
+    },
+    "simplify:southern company::simplify-3d00be97-0582-45ae-a8eb-87b75501dddc": {
+      "company": "Southern Company",
+      "first_seen": "2026-09-30T22:33:00+00:00",
+      "last_seen": "2026-09-30T22:33:00+00:00",
+      "location": "Naperville, IL, Atlanta, GA",
+      "posted_at": "1790806487",
+      "source": "simplify",
+      "title": "Application Developer 1 - Integrations",
+      "url": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21843"
     },
     "simplify:southern company::simplify-b2d99288-c86e-4027-95fd-d19f07bca4f5": {
       "company": "Southern Company",
@@ -50636,5 +50686,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-30T20:15:33+00:00"
+  "updated_at": "2026-09-30T22:33:37+00:00"
 }
