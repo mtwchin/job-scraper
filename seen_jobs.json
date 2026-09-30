@@ -1,5 +1,5 @@
 {
-  "count": 6358,
+  "count": 6362,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -6614,6 +6614,16 @@
       "title": "Full-Stack Developer Associate",
       "url": "https://associatedbank.wd1.myworkdayjobs.com/en-US/external_careers/job/US-WI-Remote/Full-Stack-Developer-Associate_JR106237"
     },
+    "simplify:assurant::simplify-a9e99925-f394-4b08-906d-b96b7591cbc8": {
+      "company": "Assurant",
+      "first_seen": "2026-09-30T22:36:02+00:00",
+      "last_seen": "2026-09-30T22:36:02+00:00",
+      "location": "Miami, FL, Chicago, IL, Atlanta, GA",
+      "posted_at": "1790726400",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Summer-2027-Intern--Software-Engineering-Intern_R-115727"
+    },
     "simplify:assured guaranty::simplify-125bd988-6772-4728-ae9c-d0c5bc2562d3": {
       "company": "Assured Guaranty",
       "first_seen": "2026-09-21T23:07:18+00:00",
@@ -8661,6 +8671,16 @@
       "posted_at": "1787529600",
       "title": "Software Developer",
       "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0247713"
+    },
+    "simplify:booz allen::simplify-8c3babb7-dcbc-4c5e-af7a-a879eae188ea": {
+      "company": "Booz Allen",
+      "first_seen": "2026-09-30T22:36:02+00:00",
+      "last_seen": "2026-09-30T22:36:02+00:00",
+      "location": "McLean, VA",
+      "posted_at": "1790726400",
+      "source": "simplify",
+      "title": "Product Engineer Intern",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Product-Engineering-Intern_R0250655"
     },
     "simplify:booz allen::simplify-901d71ff-ed64-4848-95e0-094ad0610036": {
       "company": "Booz Allen",
@@ -18873,6 +18893,7 @@
     "simplify:geotab::simplify-49a0917b-97ea-4ff8-809e-87ace1070b2f": {
       "company": "Geotab",
       "first_seen": "2026-09-03T08:16:51+00:00",
+      "last_seen": "2026-09-30T22:36:02+00:00",
       "posted_at": "1788401478",
       "title": "Software Developer Intern - Months",
       "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5389341008"
@@ -30848,6 +30869,16 @@
       "title": "Software Developer Intern - Fall 2026/Spring 2027",
       "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Software-Developer-Intern_R185565"
     },
+    "simplify:patch my pc::simplify-8333b344-795f-4400-aa23-11358ddd296e": {
+      "company": "Patch My PC",
+      "first_seen": "2026-09-30T22:36:02+00:00",
+      "last_seen": "2026-09-30T22:36:02+00:00",
+      "location": "Castle Rock, CO",
+      "posted_at": "1790805930",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.lever.co/patchmypc/e2bbd0a9-5810-4cf0-bb71-3fd2e1125341/apply"
+    },
     "simplify:pathai::simplify-4e2d4aa8-3825-4d49-bb96-d3194a6ced1f": {
       "company": "PathAI",
       "first_seen": "2026-08-11T23:09:33+00:00",
@@ -37652,6 +37683,16 @@
       "source": "simplify",
       "title": "Software Developer Intern - Back End",
       "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--January-2026-12-months-_R10549"
+    },
+    "simplify:soti::simplify-d9fe6653-450b-49d8-95c7-a83d1250932c": {
+      "company": "SOTI",
+      "first_seen": "2026-09-30T22:36:02+00:00",
+      "last_seen": "2026-09-30T22:36:02+00:00",
+      "location": "Mississauga, ON, Canada",
+      "posted_at": "1790726400",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551"
     },
     "simplify:sourcedirect talent::simplify-08c705ca-04ce-417a-8f8b-9a0998c91224": {
       "company": "SourceDirect Talent",
@@ -50686,5 +50727,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-30T22:33:37+00:00"
+  "updated_at": "2026-09-30T22:36:39+00:00"
 }
