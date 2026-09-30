@@ -1,5 +1,5 @@
 {
-  "count": 6338,
+  "count": 6339,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -35483,6 +35483,16 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-9030--9030-S-Rita-Rd--BLDG-9030/Software-Engineer-I_01865110"
     },
+    "simplify:rtx::simplify-d0427656-991f-42e4-96a3-51a38b3e5d8e": {
+      "company": "RTX",
+      "first_seen": "2026-09-30T13:07:07+00:00",
+      "last_seen": "2026-09-30T13:07:07+00:00",
+      "location": "Cedar Rapids, IA",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01876388"
+    },
     "simplify:rtx::simplify-d1fec00e-2484-4015-8c22-39afe9bcdeec": {
       "company": "RTX",
       "first_seen": "2026-08-12T22:38:25+00:00",
@@ -50485,5 +50495,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-30T12:08:52+00:00"
+  "updated_at": "2026-09-30T13:07:56+00:00"
 }
