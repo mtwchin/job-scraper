@@ -1,5 +1,5 @@
 {
-  "count": 6329,
+  "count": 6330,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -54,15 +54,6 @@
       "source": "simplify",
       "title": "Computer Science Engineer 1 - Cranberry Township",
       "url": "https://careers-framatome.icims.com/jobs/3408/job?mobile=true&needsRedirect=false"
-    },
-    "simplify:tesla::simplify-4cfc6f1c-ae9e-447d-8980-a90e98153e86": {
-      "attempted_at": "2026-09-30T01:34:42+00:00",
-      "company": "Tesla",
-      "location": "Palo Alto, CA",
-      "posted_at": "1790730716",
-      "source": "simplify",
-      "title": "Software Developer Intern - Integration Tools",
-      "url": "https://www.tesla.com/careers/search/job/284924"
     },
     "ziprecruiter::8127108": {
       "attempted_at": "2026-09-24T16:22:51+00:00",
@@ -3488,7 +3479,7 @@
     "simplify:adobe::simplify-a9900edf-029b-4f1e-98cb-a9a1c96f11b3": {
       "company": "Adobe",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-30T02:11:37+00:00",
+      "last_seen": "2026-09-27T15:17:16+00:00",
       "posted_at": "1788393600",
       "title": "Software Engineer Intern",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666"
@@ -3591,8 +3582,8 @@
     },
     "simplify:aerovironment::simplify-062dc1c0-eb28-4df2-983a-3ee7f5d36ef7": {
       "company": "AeroVironment",
-      "first_seen": "2026-09-30T01:35:35+00:00",
-      "last_seen": "2026-09-30T01:35:35+00:00",
+      "first_seen": "2026-09-30T02:28:47+00:00",
+      "last_seen": "2026-09-30T02:28:47+00:00",
       "location": "Leesburg, VA",
       "posted_at": "1790640000",
       "source": "simplify",
@@ -3624,8 +3615,8 @@
     },
     "simplify:aerovironment::simplify-48e20700-7345-41e8-9119-f5a995159a93": {
       "company": "AeroVironment",
-      "first_seen": "2026-09-30T01:35:35+00:00",
-      "last_seen": "2026-09-30T01:35:35+00:00",
+      "first_seen": "2026-09-30T02:28:47+00:00",
+      "last_seen": "2026-09-30T02:28:47+00:00",
       "location": "Sunrise, FL",
       "posted_at": "1790640000",
       "source": "simplify",
@@ -5326,7 +5317,7 @@
     "simplify:amperesand::simplify-0c0ace06-0c5c-415d-8ea4-7c6fedad6324": {
       "company": "Amperesand",
       "first_seen": "2026-09-17T07:47:36+00:00",
-      "last_seen": "2026-09-30T02:02:03+00:00",
+      "last_seen": "2026-09-30T02:28:46+00:00",
       "location": "Reno, NV",
       "posted_at": "1789626296",
       "source": "simplify",
@@ -21788,7 +21779,7 @@
     "simplify:invesco::simplify-d29e1b26-6366-4790-a9fb-5c7c87927b69": {
       "company": "Invesco",
       "first_seen": "2026-09-29T17:36:47+00:00",
-      "last_seen": "2026-09-30T01:34:42+00:00",
+      "last_seen": "2026-09-30T02:28:46+00:00",
       "location": "Atlanta, GA",
       "posted_at": "1790640000",
       "source": "simplify",
@@ -35125,8 +35116,8 @@
     },
     "simplify:rtx::simplify-97d3e16d-4c5c-4908-8dc2-3d180fcd42ac": {
       "company": "RTX",
-      "first_seen": "2026-09-30T01:35:35+00:00",
-      "last_seen": "2026-09-30T01:35:35+00:00",
+      "first_seen": "2026-09-30T02:28:47+00:00",
+      "last_seen": "2026-09-30T02:28:47+00:00",
       "location": "Cedar Rapids, IA",
       "posted_at": "1790640000",
       "source": "simplify",
@@ -35544,8 +35535,8 @@
     },
     "simplify:rtx::simplify-e6eed6a3-2c62-4035-8952-30b4577d84e3": {
       "company": "RTX",
-      "first_seen": "2026-09-30T01:35:35+00:00",
-      "last_seen": "2026-09-30T01:35:35+00:00",
+      "first_seen": "2026-09-30T02:28:47+00:00",
+      "last_seen": "2026-09-30T02:28:47+00:00",
       "location": "Cedar Rapids, IA",
       "posted_at": "1790640000",
       "source": "simplify",
@@ -38671,8 +38662,8 @@
     },
     "simplify:superhuman::simplify-87a2b795-2c66-490a-880d-84caf597bf5e": {
       "company": "Superhuman",
-      "first_seen": "2026-09-30T01:35:35+00:00",
-      "last_seen": "2026-09-30T01:35:35+00:00",
+      "first_seen": "2026-09-30T02:28:47+00:00",
+      "last_seen": "2026-09-30T02:28:47+00:00",
       "location": "Toronto, ON, Canada",
       "posted_at": "1790731112",
       "source": "simplify",
@@ -39655,6 +39646,16 @@
       "posted_at": "1780812824",
       "title": "Embedded Software Engineer Intern - Keys & Authentication",
       "url": "https://www.tesla.com/careers/search/job/270067"
+    },
+    "simplify:tesla::simplify-4cfc6f1c-ae9e-447d-8980-a90e98153e86": {
+      "company": "Tesla",
+      "first_seen": "2026-09-30T02:28:47+00:00",
+      "last_seen": "2026-09-30T02:28:47+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1790730716",
+      "source": "simplify",
+      "title": "Software Developer Intern - Integration Tools",
+      "url": "https://www.tesla.com/careers/search/job/284924"
     },
     "simplify:tesla::simplify-4dcbe6c9-b5cb-4f75-9418-4f669ff1d180": {
       "company": "Tesla",
@@ -50401,5 +50402,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-30T02:12:37+00:00"
+  "updated_at": "2026-09-30T02:29:26+00:00"
 }
