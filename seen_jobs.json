@@ -1,5 +1,5 @@
 {
-  "count": 6337,
+  "count": 6338,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -17877,6 +17877,16 @@
       "posted_at": "1780927665",
       "title": "Grid Automation & Software Intern",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709"
+    },
+    "simplify:ge vernova::simplify-e10b2cda-4d20-4210-83d8-f845503f8fb6": {
+      "company": "GE Vernova",
+      "first_seen": "2026-09-30T12:08:11+00:00",
+      "last_seen": "2026-09-30T12:08:11+00:00",
+      "location": "Rugby, UK",
+      "posted_at": "1782955928",
+      "source": "simplify",
+      "title": "Software Engineering Graduate Programme",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rugby/Software-Engineering-Graduate-Programme-1_R5045896-2"
     },
     "simplify:ge vernova::simplify-e2e530e2-ab90-45f9-976f-41287cf6edcc": {
       "company": "GE Vernova",
@@ -50475,5 +50485,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-30T11:36:50+00:00"
+  "updated_at": "2026-09-30T12:08:52+00:00"
 }
