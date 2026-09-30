@@ -1,5 +1,5 @@
 {
-  "count": 6362,
+  "count": 6374,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -3157,7 +3157,7 @@
     "simplify:abridge::simplify-6ed0b949-935d-4322-93b3-8acbe09cda9e": {
       "company": "Abridge",
       "first_seen": "2026-09-17T23:03:17+00:00",
-      "last_seen": "2026-09-29T00:00:29+00:00",
+      "last_seen": "2026-09-30T23:02:54+00:00",
       "location": "SF",
       "posted_at": "1789683515",
       "source": "simplify",
@@ -12070,6 +12070,16 @@
       "title": "Fullstack Software Engineer - Clasp Talent",
       "url": "https://jobs.ashbyhq.com/clasp-group/2bcb2aa7-b4c5-4b64-ad4a-599be47f7326/application?embed=true"
     },
+    "simplify:clay::simplify-773da2cb-d9d3-4abc-aa5d-04b61ce3c66c": {
+      "company": "Clay",
+      "first_seen": "2026-09-30T23:02:55+00:00",
+      "last_seen": "2026-09-30T23:02:55+00:00",
+      "location": "NYC",
+      "posted_at": "1790806726",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/claylabs/5b7eced2-36bd-4265-a2a8-da0f786e47aa/application?embed=true"
+    },
     "simplify:clear::simplify-f5da9e60-f1f5-407b-baaa-28a9a5ceb024": {
       "company": "CLEAR",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -13007,7 +13017,7 @@
     "simplify:copart::simplify-b5e81d8d-839a-4ffb-b147-0a513ffea0a8": {
       "company": "Copart",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-09-29T12:03:15+00:00",
+      "last_seen": "2026-09-30T23:02:54+00:00",
       "posted_at": "1779527612",
       "title": "Software Engineer Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510"
@@ -13840,6 +13850,16 @@
       "posted_at": "1764260175",
       "title": "Software Engineer, Intern",
       "url": "https://jobs.ashbyhq.com/dandy/d8491a88-fa90-4299-afb0-af3a2121663f"
+    },
+    "simplify:dandy::simplify-7f191783-2ab3-4626-a830-2072091a9f5a": {
+      "company": "Dandy",
+      "first_seen": "2026-09-30T23:02:55+00:00",
+      "last_seen": "2026-09-30T23:02:55+00:00",
+      "location": "NYC",
+      "posted_at": "1790807072",
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099/application?embed=true"
     },
     "simplify:dark wolf solutions::simplify-7162223f-d901-4fff-b611-efabc6e5abce": {
       "company": "Dark Wolf Solutions",
@@ -15344,6 +15364,16 @@
       "title": "Outsourcing IT Staff 1",
       "url": "https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/New-York/XMLNAME-2026-Outsourcing-IT-Staff-I_Req-9328"
     },
+    "simplify:electronic arts::simplify-176f2474-7125-498d-bc28-a74c0ab1094d": {
+      "company": "Electronic Arts",
+      "first_seen": "2026-09-30T23:02:55+00:00",
+      "last_seen": "2026-09-30T23:02:55+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1790806631",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216227"
+    },
     "simplify:electronic arts::simplify-399524ef-9e24-4ebd-ae91-4af397d55fc1": {
       "company": "Electronic Arts",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -15360,6 +15390,16 @@
       "source": "simplify",
       "title": "Gameplay Engineer Intern",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245"
+    },
+    "simplify:electronic arts::simplify-bc6412bd-7dbe-456e-8c67-d2002acadeaa": {
+      "company": "Electronic Arts",
+      "first_seen": "2026-09-30T23:02:55+00:00",
+      "last_seen": "2026-09-30T23:02:55+00:00",
+      "location": "Orlando, FL",
+      "posted_at": "1790806630",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216263"
     },
     "simplify:electronic arts::simplify-e452e67d-358a-4687-ab4a-6d68876b312d": {
       "company": "Electronic Arts",
@@ -18756,6 +18796,16 @@
       "title": "Dynamics 365 Engineer",
       "url": "https://jobs.smartrecruiters.com/GenomicsEngland/744000139265349"
     },
+    "simplify:genscript::simplify-919e5412-3ece-4040-9f86-866837144172": {
+      "company": "GenScript",
+      "first_seen": "2026-09-30T23:02:55+00:00",
+      "last_seen": "2026-09-30T23:02:55+00:00",
+      "location": "Piscataway, NJ",
+      "posted_at": "1790807161",
+      "source": "simplify",
+      "title": "AI Intern \u2013 Enterprise Agent Development",
+      "url": "https://job-boards.greenhouse.io/genscript/jobs/5253581007"
+    },
     "simplify:gentex corporation::simplify-13816ebb-26ab-4844-bc5f-6090d01efe10": {
       "company": "Gentex Corporation",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -20075,6 +20125,16 @@
       "posted_at": "1784505600",
       "title": "Mainframe Developer",
       "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Developer---Mainframe_R0054977"
+    },
+    "simplify:hcsc::simplify-f6413b47-1d7a-4997-ab15-c9c87ae04152": {
+      "company": "HCSC",
+      "first_seen": "2026-09-30T23:02:55+00:00",
+      "last_seen": "2026-09-30T23:02:55+00:00",
+      "location": "Richardson, TX",
+      "posted_at": "1790726400",
+      "source": "simplify",
+      "title": "Developer Intern",
+      "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/Richardson-Texas-HQ-1001-E-Lookout-Drive/Early-Careers---Developer-Intern--Compliance---Health-Quality-_R0059503"
     },
     "simplify:hd supply::simplify-bf4e7af4-f65d-43ee-98a9-10279078e240": {
       "company": "HD Supply",
@@ -26404,6 +26464,16 @@
       "title": "Software Intern",
       "url": "https://metecs.applytojob.com/apply/XTBhKHIVhQ/Summer-Software-Internship"
     },
+    "simplify:metlife::simplify-7ad6c160-b084-4ec2-9be1-3617d01137d1": {
+      "company": "MetLife",
+      "first_seen": "2026-09-30T23:02:55+00:00",
+      "last_seen": "2026-09-30T23:02:55+00:00",
+      "location": "Tampa, FL, Hanover, NJ, Cary, NC, NYC",
+      "posted_at": "1790807050",
+      "source": "simplify",
+      "title": "Global Technology Intern",
+      "url": "https://metlife.avature.net/en_US/ml/JobDetail/20701"
+    },
     "simplify:metropolitan transportation authority::simplify-02822068-8c62-4e46-a294-078ad3fb898f": {
       "company": "Metropolitan Transportation Authority",
       "first_seen": "2026-09-19T03:50:34+00:00",
@@ -28420,6 +28490,16 @@
       "title": "Software Engineer / Principal Software Engineer - Simulation",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer---Principal-Software-Engineer---Simulation_R10231372"
     },
+    "simplify:northrop grumman::simplify-2b8a623c-d139-413c-aff2-d9afce6a38e4": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-09-30T23:02:55+00:00",
+      "last_seen": "2026-09-30T23:02:55+00:00",
+      "location": "Tampa, FL",
+      "posted_at": "1790035200",
+      "source": "simplify",
+      "title": "Cyber Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530"
+    },
     "simplify:northrop grumman::simplify-2ea09470-e970-4deb-8ed2-481e7329c275": {
       "company": "Northrop Grumman",
       "first_seen": "2026-09-22T00:35:19+00:00",
@@ -28714,6 +28794,16 @@
       "title": "Software Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378"
     },
+    "simplify:northrop grumman::simplify-982c416c-c960-4efd-81a7-a87081597d80": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-09-30T23:02:55+00:00",
+      "last_seen": "2026-09-30T23:02:55+00:00",
+      "location": "Rolling Meadows, IL",
+      "posted_at": "1790726400",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772"
+    },
     "simplify:northrop grumman::simplify-9a501b59-f29b-4a7d-b8ef-eb5221735c94": {
       "company": "Northrop Grumman",
       "first_seen": "2026-08-24T23:09:53+00:00",
@@ -28995,6 +29085,16 @@
       "posted_at": "1788825600",
       "title": "Software Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842"
+    },
+    "simplify:northrop grumman::simplify-e8c586d7-f281-4ffc-bd41-078c7158f059": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-09-30T23:02:55+00:00",
+      "last_seen": "2026-09-30T23:02:55+00:00",
+      "location": "Morrisville, NC",
+      "posted_at": "1790726400",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768"
     },
     "simplify:northrop grumman::simplify-edf45637-cce9-4e17-a58e-c3c827a43b98": {
       "company": "Northrop Grumman",
@@ -29477,6 +29577,16 @@
       "posted_at": "1778019051",
       "title": "Machine Learning Applications and Compiler Engineer",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016937"
+    },
+    "simplify:nvidia::simplify-6eed7061-5a5f-4b68-98e6-bdfe0e5d31c2": {
+      "company": "NVIDIA",
+      "first_seen": "2026-09-30T23:02:54+00:00",
+      "last_seen": "2026-09-30T23:02:54+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1790726400",
+      "source": "simplify",
+      "title": "PhD Research Intern - Programming Systems",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Programming-Systems---2027_JR2025379"
     },
     "simplify:nvidia::simplify-73283e9c-7252-4ace-89b5-c548e7e25e82": {
       "company": "NVIDIA",
@@ -31311,6 +31421,16 @@
       "posted_at": "1785881593",
       "title": "Junior Software Engineer - Developer - Space Communications Program",
       "url": "https://careers-peraton.icims.com/jobs/169377/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:peraton::simplify-f3437876-fa5c-490c-a81a-74af68437738": {
+      "company": "Peraton",
+      "first_seen": "2026-09-30T23:02:55+00:00",
+      "last_seen": "2026-09-30T23:02:55+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1790806646",
+      "source": "simplify",
+      "title": "Software Engineering Co-op",
+      "url": "https://careers-peraton.icims.com/jobs/171547/job?mobile=true&needsRedirect=false"
     },
     "simplify:peraton::simplify-fe6bef22-123f-4be3-bc91-d205cf1b4c6e": {
       "company": "Peraton",
@@ -43415,7 +43535,7 @@
     "simplify:tyler technologies::simplify-d6c24595-0dd3-449f-b0ae-d13e256fc740": {
       "company": "Tyler Technologies",
       "first_seen": "2026-09-22T03:24:56+00:00",
-      "last_seen": "2026-09-27T14:32:52+00:00",
+      "last_seen": "2026-09-30T23:02:54+00:00",
       "location": "Yarmouth, ME, Orono, ME, Falmouth, ME",
       "posted_at": "1790029561",
       "source": "simplify",
@@ -50727,5 +50847,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-30T22:36:39+00:00"
+  "updated_at": "2026-09-30T23:03:41+00:00"
 }
