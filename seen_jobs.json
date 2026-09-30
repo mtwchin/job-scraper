@@ -1,5 +1,5 @@
 {
-  "count": 6330,
+  "count": 6332,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -4649,6 +4649,16 @@
       "source": "simplify",
       "title": "Software Engineer Co-op",
       "url": "https://jobs.ashbyhq.com/ambrook/29ffbcea-17c3-4488-9d57-a9f7249b49a5/application?embed=true"
+    },
+    "simplify:amca::simplify-9cb9b3d0-14d5-47cb-bd55-ce2ce7c5213e": {
+      "company": "AMCA",
+      "first_seen": "2026-09-30T06:33:15+00:00",
+      "last_seen": "2026-09-30T06:33:15+00:00",
+      "location": "El Segundo, CA",
+      "posted_at": "1790748479",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/amca/jobs/4425120009"
     },
     "simplify:amd::simplify-03a692be-c92c-46ec-92a0-4dc48f6487c1": {
       "company": "AMD",
@@ -25557,7 +25567,7 @@
     "simplify:mastercard::simplify-78c03ab4-f50a-445d-9802-fb785330b50f": {
       "company": "Mastercard",
       "first_seen": "2026-08-24T15:05:46+00:00",
-      "last_seen": "2026-09-23T00:03:42+00:00",
+      "last_seen": "2026-09-30T06:33:15+00:00",
       "posted_at": "1787529600",
       "title": "Software Engineer Intern",
       "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer-Intern--Summer-2027---United-States_R-287618-1"
@@ -35503,6 +35513,16 @@
       "posted_at": "1785196800",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I--On-Site-_01862626"
+    },
+    "simplify:rtx::simplify-d9192af9-44cc-4afc-bb53-481c9e5acabf": {
+      "company": "RTX",
+      "first_seen": "2026-09-30T06:33:15+00:00",
+      "last_seen": "2026-09-30T06:33:15+00:00",
+      "location": "Richardson, TX",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411"
     },
     "simplify:rtx::simplify-dd744ff9-f99d-42d9-8199-cfc24f358f59": {
       "company": "RTX",
@@ -50403,5 +50423,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-30T05:38:30+00:00"
+  "updated_at": "2026-09-30T06:33:32+00:00"
 }
