@@ -1,5 +1,5 @@
 {
-  "count": 6352,
+  "count": 6353,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -46774,6 +46774,16 @@
       "title": "Software Engineer, Early Career \u2014 Immediate Start",
       "url": "https://stripe.com/jobs/search?gh_jid=8212517"
     },
+    "stripe::8241260": {
+      "company": "Stripe",
+      "first_seen": "2026-09-30T20:15:07+00:00",
+      "last_seen": "2026-09-30T20:15:07+00:00",
+      "location": "Seattle, San Francisco",
+      "posted_at": "2026-09-30T16:13:51-04:00",
+      "source": "",
+      "title": "High School Internship, Software Engineering",
+      "url": "https://stripe.com/jobs/search?gh_jid=8241260"
+    },
     "together ai::5211582007": {
       "company": "Together AI",
       "first_seen": "2026-09-18T16:49:23+00:00",
@@ -50626,5 +50636,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-30T19:01:31+00:00"
+  "updated_at": "2026-09-30T20:15:33+00:00"
 }
