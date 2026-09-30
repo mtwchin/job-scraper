@@ -1,5 +1,5 @@
 {
-  "count": 6334,
+  "count": 6337,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -6967,6 +6967,16 @@
       "source": "simplify",
       "title": "Backend Engineer \u2013 New Grad to Staff Level",
       "url": "https://jobs.ashbyhq.com/aurelian/25273778-0cdc-4bfe-9b37-4a735d534cd5/application?embed=true"
+    },
+    "simplify:aurelian::simplify-4bfa4cd6-fbd4-4d12-a70b-e839ea0925e8": {
+      "company": "Aurelian",
+      "first_seen": "2026-09-30T11:36:11+00:00",
+      "last_seen": "2026-09-30T11:36:11+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1784067224",
+      "source": "simplify",
+      "title": "Product Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/aurelian/216c8538-1778-4aa4-bcce-21ebf1149734/application?embed=true"
     },
     "simplify:authentic::simplify-697d4f47-13f9-46f4-85e4-18851d90babb": {
       "company": "Authentic",
@@ -16681,6 +16691,16 @@
       "posted_at": "1787270400",
       "title": "Software Engineer - Leap",
       "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/October-2027---Leap-Software-Engineer_2133884"
+    },
+    "simplify:fidelity investments::simplify-be220962-337b-458d-9bf5-631a762cc07b": {
+      "company": "Fidelity Investments",
+      "first_seen": "2026-09-30T11:36:11+00:00",
+      "last_seen": "2026-09-30T11:36:11+00:00",
+      "location": "Boston, MA, Westlake, TX, Durham, NC, Merrimack, NH",
+      "posted_at": "1790640000",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/April-2027---Leap-Software-Engineer_2133870-1"
     },
     "simplify:fidelity investments::simplify-dcaee8da-55dd-4649-9460-913115743ec6": {
       "company": "Fidelity Investments",
@@ -31591,6 +31611,16 @@
       "posted_at": "1783987200",
       "title": "Developer 1 - I",
       "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Developer-I_R101525"
+    },
+    "simplify:poet::simplify-cfd65384-8de0-4673-9086-3e19b4843b5e": {
+      "company": "POET",
+      "first_seen": "2026-09-30T11:36:11+00:00",
+      "last_seen": "2026-09-30T11:36:11+00:00",
+      "location": "Sioux Falls, SD",
+      "posted_at": "1790553600",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1"
     },
     "simplify:poet::simplify-d3f06903-5efd-4a54-afac-c96ba15dccab": {
       "company": "POET",
@@ -50445,5 +50475,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-09-30T09:04:46+00:00"
+  "updated_at": "2026-09-30T11:36:50+00:00"
 }
