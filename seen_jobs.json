@@ -1289,8 +1289,8 @@
     },
     "intel::AI-Software-Engineering-Undergraduate-Intern_JR0287583": {
       "company": "Intel",
-      "first_seen": "2026-10-01T01:21:34+00:00",
-      "last_seen": "2026-10-01T01:21:34+00:00",
+      "first_seen": "2026-10-01T06:02:02+00:00",
+      "last_seen": "2026-10-01T06:02:02+00:00",
       "location": "Costa Rica, San Jose",
       "posted_at": "Posted Today",
       "source": "",
@@ -9449,8 +9449,8 @@
     },
     "simplify:bytedance::simplify-42079b38-2a81-4395-8380-8127f696afaf": {
       "company": "ByteDance",
-      "first_seen": "2026-10-01T01:35:17+00:00",
-      "last_seen": "2026-10-01T01:35:17+00:00",
+      "first_seen": "2026-10-01T06:02:02+00:00",
+      "last_seen": "2026-10-01T06:02:02+00:00",
       "location": "San Jose, CA",
       "posted_at": "1790817111",
       "source": "simplify",
@@ -12982,7 +12982,7 @@
     "simplify:copart::simplify-27bc7565-972b-4dff-a2b6-d86296a62c88": {
       "company": "Copart",
       "first_seen": "2026-07-15T16:01:07+00:00",
-      "last_seen": "2026-10-01T02:01:59+00:00",
+      "last_seen": "2026-10-01T06:02:01+00:00",
       "posted_at": "1784073600",
       "title": "Software Engineer Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689"
@@ -19337,7 +19337,7 @@
     "simplify:goldman sachs::simplify-1949c912-65b2-42ac-9836-c110baed0ef6": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-10-01T01:35:17+00:00",
+      "last_seen": "2026-10-01T06:02:01+00:00",
       "posted_at": "1786767938",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/177808?type=students"
@@ -23334,8 +23334,8 @@
     },
     "simplify:kent::simplify-8141e2d2-391a-4aa8-9e86-fabdb2855350": {
       "company": "Kent",
-      "first_seen": "2026-10-01T01:35:18+00:00",
-      "last_seen": "2026-10-01T01:35:18+00:00",
+      "first_seen": "2026-10-01T06:02:02+00:00",
+      "last_seen": "2026-10-01T06:02:02+00:00",
       "location": "Aberdeen, UK",
       "posted_at": "1790817269",
       "source": "simplify",
@@ -33863,8 +33863,8 @@
     },
     "simplify:rivian::simplify-aee0379e-2573-4cfb-b9b3-e212ca032e4a": {
       "company": "Rivian",
-      "first_seen": "2026-10-01T01:35:18+00:00",
-      "last_seen": "2026-10-01T01:35:18+00:00",
+      "first_seen": "2026-10-01T06:02:02+00:00",
+      "last_seen": "2026-10-01T06:02:02+00:00",
       "location": "Palo Alto, CA",
       "posted_at": "1790817593",
       "source": "simplify",
@@ -33880,8 +33880,8 @@
     },
     "simplify:rivian::simplify-bb3c5751-35bc-4618-83e8-1af1b888f533": {
       "company": "Rivian",
-      "first_seen": "2026-10-01T01:35:18+00:00",
-      "last_seen": "2026-10-01T01:35:18+00:00",
+      "first_seen": "2026-10-01T06:02:02+00:00",
+      "last_seen": "2026-10-01T06:02:02+00:00",
       "location": "Palo Alto, CA",
       "posted_at": "1790817248",
       "source": "simplify",
@@ -36588,8 +36588,8 @@
     },
     "simplify:sandia laboratory federal credit union::simplify-365c2bd5-3150-42ec-b403-f660572c254f": {
       "company": "Sandia Laboratory Federal Credit Union",
-      "first_seen": "2026-10-01T01:35:18+00:00",
-      "last_seen": "2026-10-01T01:35:18+00:00",
+      "first_seen": "2026-10-01T06:02:02+00:00",
+      "last_seen": "2026-10-01T06:02:02+00:00",
       "location": "Albuquerque, NM",
       "posted_at": "1790817528",
       "source": "simplify",
@@ -40076,8 +40076,8 @@
     },
     "simplify:tesla::simplify-0bb25d49-891c-45e8-9504-1d5c8d923aa3": {
       "company": "Tesla",
-      "first_seen": "2026-10-01T01:35:17+00:00",
-      "last_seen": "2026-10-01T01:35:17+00:00",
+      "first_seen": "2026-10-01T06:02:02+00:00",
+      "last_seen": "2026-10-01T06:02:02+00:00",
       "location": "Palo Alto, CA",
       "posted_at": "1790817854",
       "source": "simplify",
@@ -51037,5 +51037,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-01T02:02:14+00:00"
+  "updated_at": "2026-10-01T06:02:23+00:00"
 }
