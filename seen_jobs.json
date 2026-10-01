@@ -1,5 +1,5 @@
 {
-  "count": 6407,
+  "count": 6408,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -2469,6 +2469,16 @@
       "posted_at": "2026-09-09T18:23:24.396+00:00",
       "title": "Software Engineer - New Grad (Summer 2027)",
       "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
+    },
+    "riot games::8222014": {
+      "company": "Riot Games",
+      "first_seen": "2026-10-01T16:06:48+00:00",
+      "last_seen": "2026-10-01T16:06:48+00:00",
+      "location": "Los Angeles, USA",
+      "posted_at": "2026-10-01T12:00:00-04:00",
+      "source": "",
+      "title": "Software Engineering Intern - Summer 2027 (Remote)",
+      "url": "https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014"
     },
     "robinhood::8123225": {
       "company": "Robinhood",
@@ -51179,5 +51189,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-01T15:34:11+00:00"
+  "updated_at": "2026-10-01T16:07:14+00:00"
 }
