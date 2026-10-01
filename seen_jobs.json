@@ -1,5 +1,5 @@
 {
-  "count": 6400,
+  "count": 6401,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -46998,6 +46998,16 @@
       "title": "Housekeeper",
       "url": "https://zrsmanagement.wd5.myworkdayjobs.com/zrs_careers/job/Austin-TX-78721/Housekeeper_R-108236"
     },
+    "simplify:zs::simplify-38c76de4-70f2-4574-8eec-c61c26f0b76b": {
+      "company": "ZS",
+      "first_seen": "2026-10-01T10:03:11+00:00",
+      "last_seen": "2026-10-01T10:03:11+00:00",
+      "location": "Chicago, IL, Princeton, NJ",
+      "posted_at": "1790115427",
+      "source": "simplify",
+      "title": "Business Technology Solutions Associate",
+      "url": "https://jobs.zs.com/jobs/67648?icims=1"
+    },
     "simplify:zscaler::simplify-45f6e525-5b17-4b57-9958-20605eb69c47": {
       "company": "Zscaler",
       "first_seen": "2026-07-03T08:18:45+00:00",
@@ -51107,5 +51117,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-01T09:37:34+00:00"
+  "updated_at": "2026-10-01T10:03:37+00:00"
 }
