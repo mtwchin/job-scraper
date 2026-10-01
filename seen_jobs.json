@@ -1,5 +1,5 @@
 {
-  "count": 6408,
+  "count": 6412,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -2274,6 +2274,46 @@
       "posted_at": "2026-06-09T16:30:17-04:00",
       "title": "Software Engineer I, Backend",
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6816337"
+    },
+    "pinterest::7838577": {
+      "company": "Pinterest",
+      "first_seen": "2026-10-01T17:08:35+00:00",
+      "last_seen": "2026-10-01T17:08:35+00:00",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-10-01T13:03:52-04:00",
+      "source": "",
+      "title": "Software Engineer Intern 2027 (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577"
+    },
+    "pinterest::7838591": {
+      "company": "Pinterest",
+      "first_seen": "2026-10-01T17:08:35+00:00",
+      "last_seen": "2026-10-01T17:08:35+00:00",
+      "location": "San Francisco, CA, US; Remote, US",
+      "posted_at": "2026-10-01T13:06:41-04:00",
+      "source": "",
+      "title": "University Grad Software Engineer 2027 (USA)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591"
+    },
+    "pinterest::8138039": {
+      "company": "Pinterest",
+      "first_seen": "2026-10-01T17:08:35+00:00",
+      "last_seen": "2026-10-01T17:08:35+00:00",
+      "location": "Toronto, ON, CA",
+      "posted_at": "2026-10-01T13:03:18-04:00",
+      "source": "",
+      "title": "Software Engineering Intern 2027 (Toronto)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138039"
+    },
+    "pinterest::8138049": {
+      "company": "Pinterest",
+      "first_seen": "2026-10-01T17:08:35+00:00",
+      "last_seen": "2026-10-01T17:08:35+00:00",
+      "location": "Toronto, ON, CA",
+      "posted_at": "2026-10-01T13:02:38-04:00",
+      "source": "",
+      "title": "University Grad Software Engineer (Toronto)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138049"
     },
     "point72::7297666002": {
       "company": "Point72",
@@ -51189,5 +51229,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-01T17:03:17+00:00"
+  "updated_at": "2026-10-01T17:09:20+00:00"
 }
