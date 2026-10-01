@@ -1,5 +1,5 @@
 {
-  "count": 6447,
+  "count": 6451,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -3566,6 +3566,16 @@
       "posted_at": "1789348713",
       "title": "Software Engineer Intern",
       "url": "https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e/apply"
+    },
+    "simplify:acuity international::simplify-96d58925-a30c-4f80-a64a-6d7f7846bfe4": {
+      "company": "Acuity International",
+      "first_seen": "2026-10-01T23:05:00+00:00",
+      "last_seen": "2026-10-01T23:05:00+00:00",
+      "location": "Washington",
+      "posted_at": "1790812800",
+      "source": "simplify",
+      "title": "Software/Application Developer",
+      "url": "https://acuityinternational.wd5.myworkdayjobs.com/external/job/Remote-WA/Software-Application-Developer_JR9606"
     },
     "simplify:acuity::simplify-4bc949a8-4e60-4c6b-90c8-fb7077b8a2b2": {
       "company": "Acuity",
@@ -12356,6 +12366,16 @@
       "title": "Fullstack Software Engineer - Clasp Talent",
       "url": "https://jobs.ashbyhq.com/clasp-group/2bcb2aa7-b4c5-4b64-ad4a-599be47f7326/application?embed=true"
     },
+    "simplify:clay::simplify-2bdc9b65-ae92-4477-b012-6fd3d78589be": {
+      "company": "Clay",
+      "first_seen": "2026-10-01T23:05:00+00:00",
+      "last_seen": "2026-10-01T23:05:00+00:00",
+      "location": "NYC",
+      "posted_at": "1790893158",
+      "source": "simplify",
+      "title": "Early Career Software Engineer",
+      "url": "https://jobs.ashbyhq.com/claylabs/16778e12-31cb-4ca1-a321-7f629a7cf273/application?embed=true"
+    },
     "simplify:clay::simplify-773da2cb-d9d3-4abc-aa5d-04b61ce3c66c": {
       "company": "Clay",
       "first_seen": "2026-10-01T00:31:32+00:00",
@@ -13425,6 +13445,16 @@
       "posted_at": "1789344000",
       "title": "Associate Software Engineer",
       "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Associate-Software-Engineer---Richmond--VA_R39667"
+    },
+    "simplify:costar group::simplify-4430d739-ddf1-4b1c-966a-d5e29f89a980": {
+      "company": "CoStar Group",
+      "first_seen": "2026-10-01T23:05:00+00:00",
+      "last_seen": "2026-10-01T23:05:00+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1790812800",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Associate-Software-Engineer---Sunnyvale--CA_R39942"
     },
     "simplify:costar group::simplify-54109f9e-2999-4211-9273-b6d34bc06e25": {
       "company": "CoStar Group",
@@ -29980,6 +30010,16 @@
       "source": "simplify",
       "title": "Member of Technical Staff 2 - Software Defined Security - Nutanix Flow",
       "url": "https://jobs.jobvite.com/nutanix/job/oHpOAfwe?nl=1&nl=1&fr=false"
+    },
+    "simplify:nutanix::simplify-e3e3594d-4b3e-49cc-b3db-5a0015281ace": {
+      "company": "Nutanix",
+      "first_seen": "2026-10-01T23:05:00+00:00",
+      "last_seen": "2026-10-01T23:05:00+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1790374523",
+      "source": "simplify",
+      "title": "Software Engineer New Grad - Master\u2019s - Bachelor\u2019s + 2",
+      "url": "https://jobs.jobvite.com/nutanix/job/oZPOAfwW?nl=1&nl=1&fr=false"
     },
     "simplify:nutanix::simplify-ea07752f-d6d3-4dba-a416-8e31612d86cb": {
       "company": "Nutanix",
@@ -51619,5 +51659,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-01T23:03:55+00:00"
+  "updated_at": "2026-10-01T23:05:57+00:00"
 }
