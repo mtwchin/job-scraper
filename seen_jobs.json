@@ -1,5 +1,5 @@
 {
-  "count": 6414,
+  "count": 6415,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -9,15 +9,6 @@
       "source": "",
       "title": "Software Developer, Network Software Intern (Winter 2027)",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4705599006"
-    },
-    "cisco::Software-Developer-Full-Stack---Backend-I--Co-op----Canada_2024208": {
-      "attempted_at": "2026-10-01T20:38:30+00:00",
-      "company": "Cisco",
-      "location": "Kanata, Ontario, Canada, Saint-Laurent, Quebec, Canada, Calgary, Alberta, Canada, Toronto, Ontario, Canada, Montreal, Quebec, Canada, Vancouver, British Columbia, Canada, Halifax, Nova Scotia, Canada, Ottawa, Ontario, Canada",
-      "posted_at": "Posted Today",
-      "source": "",
-      "title": "Software Developer Full Stack / Backend I (Co-op) - Canada",
-      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Full-Stack---Backend-I--Co-op----Canada_2024208"
     },
     "ramp::a13ae586-f4cb-4385-8822-c42b9b54ed74": {
       "attempted_at": "2026-09-24T00:47:26+00:00",
@@ -801,6 +792,16 @@
       "source": "",
       "title": "Software Developer Embedded Systems II (Co-op) \u2013 Canada",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Co-op----Canada_2024136"
+    },
+    "cisco::Software-Developer-Full-Stack---Backend-I--Co-op----Canada_2024208": {
+      "company": "Cisco",
+      "first_seen": "2026-10-01T20:38:31+00:00",
+      "last_seen": "2026-10-01T20:38:31+00:00",
+      "location": "Kanata, Ontario, Canada, Saint-Laurent, Quebec, Canada, Calgary, Alberta, Canada, Toronto, Ontario, Canada, Montreal, Quebec, Canada, Vancouver, British Columbia, Canada, Halifax, Nova Scotia, Canada, Ottawa, Ontario, Canada",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Software Developer Full Stack / Backend I (Co-op) - Canada",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Full-Stack---Backend-I--Co-op----Canada_2024208"
     },
     "cisco::Software-Developer-I--Full-Time----Canada_2023599-1": {
       "company": "Cisco",
@@ -51261,5 +51262,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-01T20:38:31+00:00"
+  "updated_at": "2026-10-01T20:39:34+00:00"
 }
