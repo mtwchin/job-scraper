@@ -1,5 +1,5 @@
 {
-  "count": 6387,
+  "count": 6393,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -9446,6 +9446,16 @@
       "posted_at": "1785921269",
       "title": "Graduate AI Model Optimization Engineer - Data Speech Product R&D Engineering",
       "url": "https://jobs.bytedance.com/en/position/7669899962768165173/detail"
+    },
+    "simplify:bytedance::simplify-42079b38-2a81-4395-8380-8127f696afaf": {
+      "company": "ByteDance",
+      "first_seen": "2026-10-01T01:35:17+00:00",
+      "last_seen": "2026-10-01T01:35:17+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1790817111",
+      "source": "simplify",
+      "title": "Software Engineer Graduate",
+      "url": "https://jobs.bytedance.com/en/position/7689561253011097909/detail"
     },
     "simplify:bytedance::simplify-42eb9963-840a-46d6-96fd-975e596c839f": {
       "company": "ByteDance",
@@ -19327,7 +19337,7 @@
     "simplify:goldman sachs::simplify-1949c912-65b2-42ac-9836-c110baed0ef6": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-30T00:01:01+00:00",
+      "last_seen": "2026-10-01T01:35:17+00:00",
       "posted_at": "1786767938",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/177808?type=students"
@@ -23321,6 +23331,16 @@
       "posted_at": "1788912000",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1"
+    },
+    "simplify:kent::simplify-8141e2d2-391a-4aa8-9e86-fabdb2855350": {
+      "company": "Kent",
+      "first_seen": "2026-10-01T01:35:18+00:00",
+      "last_seen": "2026-10-01T01:35:18+00:00",
+      "location": "Aberdeen, UK",
+      "posted_at": "1790817269",
+      "source": "simplify",
+      "title": "Software Engineer - Engineering & Consulting Software Development",
+      "url": "https://fa-emqh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/7198"
     },
     "simplify:keybank::simplify-b87e0cb1-c096-4944-b321-820a7452bc86": {
       "company": "KeyBank",
@@ -33841,12 +33861,32 @@
       "title": "Software Engineer Co-op Intern - Enterprise Applications",
       "url": "https://careers.rivian.com/jobs/33804?icims=1"
     },
+    "simplify:rivian::simplify-aee0379e-2573-4cfb-b9b3-e212ca032e4a": {
+      "company": "Rivian",
+      "first_seen": "2026-10-01T01:35:18+00:00",
+      "last_seen": "2026-10-01T01:35:18+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1790817593",
+      "source": "simplify",
+      "title": "Software Engineer Intern Co-op - Applied AI",
+      "url": "https://careers.rivian.com/jobs/33984?icims=1"
+    },
     "simplify:rivian::simplify-affc493c-ddc6-42c1-8ae5-58b0dbdc17eb": {
       "company": "Rivian",
       "first_seen": "2026-09-04T23:26:59+00:00",
       "posted_at": "1788559531",
       "title": "Software Engineer - Cloud & Software FinOps",
       "url": "https://careers.rivian.com/jobs/33476?icims=1"
+    },
+    "simplify:rivian::simplify-bb3c5751-35bc-4618-83e8-1af1b888f533": {
+      "company": "Rivian",
+      "first_seen": "2026-10-01T01:35:18+00:00",
+      "last_seen": "2026-10-01T01:35:18+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1790817248",
+      "source": "simplify",
+      "title": "Engineer Intern Co-op - ML Compilers",
+      "url": "https://careers.rivian.com/jobs/33829?icims=1"
     },
     "simplify:rivian::simplify-e031f965-19f0-4d28-88d1-410fbff55e45": {
       "company": "Rivian",
@@ -36545,6 +36585,16 @@
       "posted_at": "1776069480",
       "title": "Software Development Intern",
       "url": "https://www.sandhills.com/careers-and-internships/details/careers/sandhills/1195/software-development-intern"
+    },
+    "simplify:sandia laboratory federal credit union::simplify-365c2bd5-3150-42ec-b403-f660572c254f": {
+      "company": "Sandia Laboratory Federal Credit Union",
+      "first_seen": "2026-10-01T01:35:18+00:00",
+      "last_seen": "2026-10-01T01:35:18+00:00",
+      "location": "Albuquerque, NM",
+      "posted_at": "1790817528",
+      "source": "simplify",
+      "title": "Artificial Intelligence Intern",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4542420"
     },
     "simplify:sandisk::simplify-acccb77e-40c0-4811-b35d-470b7b148ec5": {
       "company": "Sandisk",
@@ -40023,6 +40073,16 @@
       "posted_at": "1787772309",
       "title": "Android Engineer Intern - Mobile Software",
       "url": "https://www.tesla.com/careers/search/job/280605"
+    },
+    "simplify:tesla::simplify-0bb25d49-891c-45e8-9504-1d5c8d923aa3": {
+      "company": "Tesla",
+      "first_seen": "2026-10-01T01:35:17+00:00",
+      "last_seen": "2026-10-01T01:35:17+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1790817854",
+      "source": "simplify",
+      "title": "Commercial UI Software Engineer Intern",
+      "url": "https://www.tesla.com/careers/search/job/285202"
     },
     "simplify:tesla::simplify-0ebaa63f-d5e3-410a-82b7-0234eb9a8e1a": {
       "company": "Tesla",
@@ -50977,5 +51037,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-01T01:22:10+00:00"
+  "updated_at": "2026-10-01T01:36:12+00:00"
 }
