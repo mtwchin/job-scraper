@@ -66,7 +66,7 @@
     }
   },
   "delivery_rejections": {},
-  "health_alert_active": false,
+  "health_alert_active": true,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -4665,7 +4665,7 @@
     "simplify:amazon::simplify-ae6480dc-19f7-41c1-93ec-fd10763825b1": {
       "company": "Amazon",
       "first_seen": "2026-08-27T23:56:29+00:00",
-      "last_seen": "2026-09-23T00:05:13+00:00",
+      "last_seen": "2026-10-01T19:01:23+00:00",
       "posted_at": "1787869272",
       "title": "Software Development Engineer Intern - Annapurna Labs",
       "url": "https://amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027"
@@ -4681,7 +4681,7 @@
     "simplify:amazon::simplify-c3a3cae1-f9a1-4c9b-bc38-1b3859ce6744": {
       "company": "Amazon",
       "first_seen": "2026-09-11T23:13:21+00:00",
-      "last_seen": "2026-09-23T00:05:13+00:00",
+      "last_seen": "2026-10-01T19:01:23+00:00",
       "posted_at": "1789165466",
       "title": "Machine Learning Systems Software Development Engineer Intern - Annapurna Labs",
       "url": "https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027"
@@ -27019,6 +27019,7 @@
     "simplify:microsoft::simplify-7e143f06-1c28-41b7-9291-53a869d86325": {
       "company": "Microsoft",
       "first_seen": "2026-08-04T09:10:05+00:00",
+      "last_seen": "2026-10-01T19:01:23+00:00",
       "posted_at": "1785823778",
       "title": "Software Engineer Intern - Cloud & Distributed Backend",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923"
@@ -27050,6 +27051,7 @@
     "simplify:microsoft::simplify-9fe00265-7716-44f9-bc43-1017aa863220": {
       "company": "Microsoft",
       "first_seen": "2026-08-03T11:36:49+00:00",
+      "last_seen": "2026-10-01T19:01:23+00:00",
       "posted_at": "1785748322",
       "title": "Software Engineer Intern - CoreAI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950"
@@ -27129,6 +27131,7 @@
     "simplify:microsoft::simplify-ed31bd8d-9acf-436c-9628-1d4c79959bac": {
       "company": "Microsoft",
       "first_seen": "2026-08-04T09:10:05+00:00",
+      "last_seen": "2026-10-01T19:01:23+00:00",
       "posted_at": "1785823783",
       "title": "Full-Stack Product Engineer Intern - Web + Services",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922"
@@ -29911,7 +29914,7 @@
     "simplify:nvidia::simplify-ea8c5ebd-a6c4-49ff-9dac-f3532c41737a": {
       "company": "NVIDIA",
       "first_seen": "2026-08-19T10:13:53+00:00",
-      "last_seen": "2026-09-30T17:14:36+00:00",
+      "last_seen": "2026-10-01T19:01:23+00:00",
       "posted_at": "1787097600",
       "title": "Systems Software Engineering Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492"
@@ -30644,7 +30647,7 @@
     "simplify:palantir::simplify-267d5473-4baf-4bba-ba9c-ccd65a1c0e30": {
       "company": "Palantir",
       "first_seen": "2026-07-01T04:48:56+00:00",
-      "last_seen": "2026-09-23T00:05:13+00:00",
+      "last_seen": "2026-10-01T19:01:23+00:00",
       "posted_at": "1782770692",
       "title": "Forward Deployed Software Engineer New Grad - Commercial",
       "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40/apply"
@@ -30675,7 +30678,7 @@
     "simplify:palantir::simplify-345a57b5-fae1-45c1-8deb-5bbec4479e03": {
       "company": "Palantir",
       "first_seen": "2026-07-01T08:41:47+00:00",
-      "last_seen": "2026-09-23T00:05:13+00:00",
+      "last_seen": "2026-10-01T19:01:23+00:00",
       "posted_at": "1782770695",
       "title": "Software Engineer New Grad - Defense",
       "url": "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3/apply"
@@ -30768,7 +30771,7 @@
     "simplify:palantir::simplify-7e134007-3fa8-4732-84ca-e7119c8f4116": {
       "company": "Palantir",
       "first_seen": "2026-07-02T21:01:41+00:00",
-      "last_seen": "2026-09-23T00:05:13+00:00",
+      "last_seen": "2026-10-01T19:01:23+00:00",
       "posted_at": "1762540600",
       "title": "Software Engineer",
       "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29/apply"
@@ -34206,7 +34209,7 @@
     "simplify:roblox::simplify-bed7436e-6c48-4818-a11a-c314cfbf6574": {
       "company": "Roblox",
       "first_seen": "2026-08-05T23:33:56+00:00",
-      "last_seen": "2026-09-23T00:05:13+00:00",
+      "last_seen": "2026-10-01T19:01:23+00:00",
       "posted_at": "1785968891",
       "title": "Software Engineer - Early Career",
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -34221,7 +34224,7 @@
     "simplify:roblox::simplify-f89dbf35-2e68-4087-a28a-1092da1e72d4": {
       "company": "Roblox",
       "first_seen": "2026-08-05T23:33:56+00:00",
-      "last_seen": "2026-09-23T00:05:13+00:00",
+      "last_seen": "2026-10-01T19:01:23+00:00",
       "posted_at": "1785968911",
       "title": "Software Engineer Intern",
       "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713"
@@ -39060,7 +39063,7 @@
     "simplify:stripe::simplify-076b67e3-3500-43b8-9900-446ce4075cec": {
       "company": "Stripe",
       "first_seen": "2026-09-01T09:52:40+00:00",
-      "last_seen": "2026-09-23T00:05:13+00:00",
+      "last_seen": "2026-10-01T19:01:23+00:00",
       "posted_at": "1788254093",
       "title": "Software Engineer New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8157838"
@@ -39068,7 +39071,7 @@
     "simplify:stripe::simplify-7bce6045-fde1-44d3-b2cc-1f56ae0dec16": {
       "company": "Stripe",
       "first_seen": "2026-09-01T09:52:40+00:00",
-      "last_seen": "2026-09-23T00:05:13+00:00",
+      "last_seen": "2026-10-01T19:01:23+00:00",
       "posted_at": "1788254093",
       "title": "Software Engineer Intern - Summer or Winter",
       "url": "https://stripe.com/jobs/search?gh_jid=8130805"
@@ -39076,7 +39079,7 @@
     "simplify:stripe::simplify-7e914cf5-64bf-41bb-a680-71b7d7df80f6": {
       "company": "Stripe",
       "first_seen": "2026-09-01T09:52:40+00:00",
-      "last_seen": "2026-09-23T00:05:13+00:00",
+      "last_seen": "2026-10-01T19:01:23+00:00",
       "posted_at": "1788254097",
       "title": "Software Engineer Intern - Summer or Winter",
       "url": "https://stripe.com/jobs/search?gh_jid=8128745"
@@ -39084,7 +39087,7 @@
     "simplify:stripe::simplify-8b0c8a04-8a4d-4675-8ea4-401a27ae962f": {
       "company": "Stripe",
       "first_seen": "2026-09-01T09:52:40+00:00",
-      "last_seen": "2026-09-23T00:05:13+00:00",
+      "last_seen": "2026-10-01T19:01:23+00:00",
       "posted_at": "1788254091",
       "title": "Software Engineer New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8128744"
@@ -51239,5 +51242,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-01T17:48:22+00:00"
+  "updated_at": "2026-10-01T19:01:24+00:00"
 }
