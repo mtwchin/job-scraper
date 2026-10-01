@@ -1,5 +1,5 @@
 {
-  "count": 6401,
+  "count": 6403,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -18588,6 +18588,16 @@
       "title": "Software Engineer Intern",
       "url": "https://careers-gdms.icims.com/jobs/74687/job?mobile=true&needsRedirect=false"
     },
+    "simplify:general dynamics mission systems::simplify-ee6082f2-dc5a-4ade-bf5d-c8f9411bd431": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-10-01T14:32:34+00:00",
+      "last_seen": "2026-10-01T14:32:34+00:00",
+      "location": "Canonsburg, PA",
+      "posted_at": "1790864305",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/75269/job?mobile=true&needsRedirect=false"
+    },
     "simplify:general dynamics mission systems::simplify-f19b1b6b-457a-436b-9a2a-d6488e452bbd": {
       "company": "General Dynamics Mission Systems",
       "first_seen": "2026-09-10T00:38:47+00:00",
@@ -18602,6 +18612,16 @@
       "posted_at": "1786486202",
       "title": "Cybersecurity Software Engineer Intern",
       "url": "https://careers-gdms.icims.com/jobs/74257/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:general dynamics mission systems::simplify-f677f254-7897-48f1-b179-ae9eb46071bc": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-10-01T14:32:34+00:00",
+      "last_seen": "2026-10-01T14:32:34+00:00",
+      "location": "McLeansville, NC",
+      "posted_at": "1790864305",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/74537/job?mobile=true&needsRedirect=false"
     },
     "simplify:general dynamics mission systems::simplify-fb7e5b37-dce6-487d-9ad2-a804d73279bf": {
       "company": "General Dynamics Mission Systems",
@@ -51118,5 +51138,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-01T11:33:01+00:00"
+  "updated_at": "2026-10-01T14:33:05+00:00"
 }
