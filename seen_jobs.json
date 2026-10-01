@@ -1,5 +1,5 @@
 {
-  "count": 6418,
+  "count": 6426,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -3307,7 +3307,7 @@
     "simplify:abridge::simplify-7b78baf6-f74f-4d7b-924f-a68d5e0e0dbf": {
       "company": "Abridge",
       "first_seen": "2026-08-15T05:23:27+00:00",
-      "last_seen": "2026-09-29T00:00:29+00:00",
+      "last_seen": "2026-10-01T22:35:26+00:00",
       "posted_at": "1786768120",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true"
@@ -7236,6 +7236,16 @@
       "title": "Software Developer",
       "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_25WD91160-1"
     },
+    "simplify:autodesk::simplify-6490f830-6cd7-42a5-9a36-ebb4d42d176b": {
+      "company": "Autodesk",
+      "first_seen": "2026-10-01T22:35:26+00:00",
+      "last_seen": "2026-10-01T22:35:26+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1790812800",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Summer-2027-_26WD101436"
+    },
     "simplify:autodesk::simplify-7a92d604-830a-4f21-a20c-32848b58f8d0": {
       "company": "Autodesk",
       "first_seen": "2026-08-11T15:13:43+00:00",
@@ -7272,6 +7282,16 @@
       "posted_at": "1781791529",
       "title": "Cloud Developer Intern",
       "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1"
+    },
+    "simplify:autodesk::simplify-c63e96f3-3234-440f-a70f-b754963dcb2c": {
+      "company": "Autodesk",
+      "first_seen": "2026-10-01T22:35:26+00:00",
+      "last_seen": "2026-10-01T22:35:26+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1790812800",
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Development-Internship--Winter-2027-_26WD101435"
     },
     "simplify:autodesk::simplify-ca66c41c-e5ec-46c9-b384-86a95ed3dbc6": {
       "company": "Autodesk",
@@ -13256,6 +13276,16 @@
       "posted_at": "1781639342",
       "title": "GPU Performance Engineer",
       "url": "https://coreweave.com/careers/job?4689223006&board=coreweave&gh_jid=4689223006"
+    },
+    "simplify:corgan::simplify-b9e02195-e8aa-4296-8ba7-766a14912486": {
+      "company": "Corgan",
+      "first_seen": "2026-10-01T22:35:26+00:00",
+      "last_seen": "2026-10-01T22:35:26+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1790892563",
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://campus-us-corgan.icims.com/jobs/4109/job?mobile=true&needsRedirect=false"
     },
     "simplify:cornell university::simplify-f71cadfe-dc6d-4908-ab16-8a9bb933bb52": {
       "company": "Cornell University",
@@ -23567,6 +23597,16 @@
       "title": "Semiconductor Systems Automation Intern",
       "url": "https://jobs.keysight.com/jobs/54371?icims=1"
     },
+    "simplify:keysight technologies::simplify-11960581-5c37-474a-a324-a82ae55bedff": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-10-01T22:35:26+00:00",
+      "last_seen": "2026-10-01T22:35:26+00:00",
+      "location": "Colorado Springs, CO",
+      "posted_at": "1790892799",
+      "source": "simplify",
+      "title": "IT Engineering Intern",
+      "url": "https://jobs.keysight.com/jobs/54649?icims=1"
+    },
     "simplify:keysight technologies::simplify-1a99b100-e38e-443b-a9cc-1be8ada5aa7f": {
       "company": "Keysight Technologies",
       "first_seen": "2026-09-17T22:35:53+00:00",
@@ -23610,6 +23650,16 @@
       "posted_at": "1774476428",
       "title": "R&D Engineer - Signal Processing & Measurement Software",
       "url": "https://jobs.keysight.com/jobs/52097?lang=en-us&icims=1"
+    },
+    "simplify:keysight technologies::simplify-5caca2df-6d23-4de9-aaef-86f0ac699741": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-10-01T22:35:26+00:00",
+      "last_seen": "2026-10-01T22:35:26+00:00",
+      "location": "Pleasant Grove, UT",
+      "posted_at": "1790892799",
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://jobs.keysight.com/jobs/54671?icims=1"
     },
     "simplify:keysight technologies::simplify-6e49662c-f403-4d54-acb4-df81b23afb54": {
       "company": "Keysight Technologies",
@@ -36897,6 +36947,16 @@
       "title": "Software Developer - Emerging Careers",
       "url": "https://careers-sas.icims.com/jobs/42297/job?mobile=true&needsRedirect=false"
     },
+    "simplify:sas::simplify-2f4d691e-c368-4b0b-a6ca-641b6441ab48": {
+      "company": "SAS",
+      "first_seen": "2026-10-01T22:35:26+00:00",
+      "last_seen": "2026-10-01T22:35:26+00:00",
+      "location": "Cary, NC",
+      "posted_at": "1790892823",
+      "source": "simplify",
+      "title": "Software Development and Testing Intern",
+      "url": "https://careers-sas.icims.com/jobs/42964/job?mobile=true&needsRedirect=false"
+    },
     "simplify:savannah river mission completion::simplify-35e05405-c3a2-4b74-a350-587930a5e2b3": {
       "company": "Savannah River Mission Completion",
       "first_seen": "2026-08-10T23:03:12+00:00",
@@ -41579,6 +41639,16 @@
       "title": "Software Intern - Software",
       "url": "https://jobs.ashbyhq.com/the-exploration-company/e23f19f1-b5fa-408a-822c-c6c37631a2fe/application?embed=true"
     },
+    "simplify:the federal reserve system::simplify-8ec2033a-ce88-4b22-8928-f0bcfa00049a": {
+      "company": "The Federal Reserve System",
+      "first_seen": "2026-10-01T22:35:26+00:00",
+      "last_seen": "2026-10-01T22:35:26+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1790812800",
+      "source": "simplify",
+      "title": "Computer Science and Software Engineering Intern",
+      "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637"
+    },
     "simplify:the federal reserve system::simplify-d156d721-a042-48fe-9807-31e82eaebe66": {
       "company": "The Federal Reserve System",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -44969,6 +45039,16 @@
       "posted_at": "1774316508",
       "title": "Mission Software \u2013 Intern - Python",
       "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676465003"
+    },
+    "simplify:varda space::simplify-892a9689-16bc-4820-974a-056fab823d5f": {
+      "company": "Varda Space",
+      "first_seen": "2026-10-01T22:35:26+00:00",
+      "last_seen": "2026-10-01T22:35:26+00:00",
+      "location": "El Segundo, CA",
+      "posted_at": "1790892261",
+      "source": "simplify",
+      "title": "Mission Operations Intern - Summer 2027",
+      "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8010682003"
     },
     "simplify:varian::simplify-5552be60-0f97-4b78-9b64-2eb8fef91cee": {
       "company": "Varian",
@@ -51293,5 +51373,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-01T22:33:49+00:00"
+  "updated_at": "2026-10-01T22:35:51+00:00"
 }
