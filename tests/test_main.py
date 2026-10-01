@@ -122,3 +122,40 @@ def test_uncategorized_source_gets_title_matching(monkeypatch):
     monkeypatch.setattr(settings, "US_CANADA_ONLY", False)
     assert not main._passes_filters(job(source="vanshb03", title="Marketing Intern"))
     assert main._passes_filters(job(source="vanshb03", title="Software Engineer Intern"))
+
+
+# --------------------------------------------------------------------------- #
+# health alert
+# --------------------------------------------------------------------------- #
+def _sweep(errors: int, total: int = 10) -> main.Collection:
+    return main.Collection(errors=[f"Co{i}: [x] ConnectionError" for i in range(errors)],
+                           n_enabled=total)
+
+
+@pytest.fixture
+def alerts(monkeypatch):
+    sent = []
+    monkeypatch.setattr(settings, "DRY_RUN", False)
+    monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "https://example.test/webhook")
+    monkeypatch.setattr(main.notify, "notify_summary", lambda msg, *a, **kw: sent.append(msg))
+    return sent
+
+
+def test_single_bad_sweep_does_not_alert(store, alerts):
+    """One sweep where everything fails is usually the runner's network blinking."""
+    main._maybe_health_alert(_sweep(9), store, min_sweeps=2)
+    main._maybe_health_alert(_sweep(0), store, min_sweeps=2)
+    main._maybe_health_alert(_sweep(9), store, min_sweeps=2)
+    assert alerts == []
+
+
+def test_sustained_errors_alert_once(store, alerts):
+    for _ in range(4):
+        main._maybe_health_alert(_sweep(9), store, min_sweeps=2)
+    assert len(alerts) == 1
+    assert "2 sweeps in a row" in alerts[0]
+
+
+def test_one_shot_run_alerts_on_first_sweep(store, alerts):
+    main._maybe_health_alert(_sweep(9), store, min_sweeps=1)
+    assert len(alerts) == 1

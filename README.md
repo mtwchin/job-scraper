@@ -1,7 +1,7 @@
 # Internship Radar 🛰️
 
 Polls priority companies' **official career APIs** and aggregator feeds about
-every **60 seconds**, and the full company list about every five minutes. It pings a
+every **60 seconds**, and the full company list about every three minutes. It pings a
 **Discord webhook** the moment a new **SWE/SDE internship or new-grad** role opens.
 Tuned for **off-season** (fall/winter/spring) internships by default.
 
@@ -350,7 +350,7 @@ polls on its own clock**:
   When nothing has changed the feed answers `304` with no body, so an idle poll
   costs ~0.2s and is essentially free. That is what makes a one-minute cadence
   affordable.
-- **Priority company boards every minute; every company's own ATS every 5 minutes.** Hundreds of requests with no
+- **Priority company boards every minute; every company’s own ATS every 3 minutes.** Hundreds of requests with no
   conditional-request support, so it gets its own slower tier.
 - The loop runs ~5.5h, then exits cleanly. The `concurrency` group holds the
   next scheduled run behind the current one, so whenever cron *does* fire, that

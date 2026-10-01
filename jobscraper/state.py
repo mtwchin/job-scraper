@@ -126,6 +126,10 @@ class SeenStore:
         # whole backlog the moment its webhook is set.
         self.simplify_all_seeded = False
         self.health_alert_active = False
+        # Consecutive unhealthy sweeps in this process. In memory only: it exists
+        # to tell a one-sweep network blip from a sustained outage, and a watch
+        # loop lives for hours.
+        self.health_bad_streak = 0
         # Sources whose existing backlog has already been absorbed. Adding a new
         # source must not dump its entire back catalogue into Discord as if it
         # had all just been posted, so an unrecognized source is seeded quietly

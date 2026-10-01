@@ -38,6 +38,42 @@ def test_cosmetic_differences_collapse(a, b):
     assert canonical_url(a) == canonical_url(b)
 
 
+@pytest.mark.parametrize("a,b", [
+    # Greenhouse: direct adapter vs aggregator copies of one posting
+    ("https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007",
+     "https://boards.greenhouse.io/andurilindustries/jobs/4802146007"),
+    ("https://boards.greenhouse.io/figma/jobs/6131089004",
+     "https://job-boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004"),
+    ("https://abnormal.ai/careers/jobs/7814567003?gh_jid=7814567003",
+     "https://job-boards.greenhouse.io/abnormalsecurity/jobs/7814567003"),
+    ("https://boards.greenhouse.io/embed/job_app?token=8168315",
+     "https://job-boards.greenhouse.io/toast/jobs/8168315"),
+    # Ashby / Lever: apply-form suffixes and embed flags
+    ("https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
+     "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74/application?embed=true"),
+    ("https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
+     "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0/apply"),
+    # Workday: locale segment and site-name case
+    ("https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Software-Engineering-Intern_JR0282639",
+     "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Software-Eng-Intern_JR0282639"),
+])
+def test_same_ats_posting_collapses_across_link_shapes(a, b):
+    assert canonical_url(a) == canonical_url(b)
+
+
+@pytest.mark.parametrize("a,b", [
+    ("https://boards.greenhouse.io/embed/job_app?token=8168315",
+     "https://boards.greenhouse.io/embed/job_app?token=8732364002"),
+    ("https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299",
+     "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342666"),
+    ("https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon/Intern_JR0282639",
+     "https://nvidia.wd5.myworkdayjobs.com/External/job/US-Oregon/Intern_JR0282639"),
+])
+def test_distinct_postings_on_shared_paths_stay_distinct(a, b):
+    """Collapsing these would silently swallow every posting after the first."""
+    assert canonical_url(a) != canonical_url(b)
+
+
 def test_identifying_query_params_are_kept():
     """A board that puts the posting id in the query must not collapse two
     different postings into one key."""

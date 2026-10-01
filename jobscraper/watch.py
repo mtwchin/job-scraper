@@ -12,7 +12,7 @@ So one invocation stays up for hours and sweeps on a timer:
 * Every WATCH_INTERVAL (default 60s) it polls the aggregator feeds. Those are
   conditional GETs that answer 304 when nothing has changed, so an idle cycle
   costs a couple of hundred milliseconds and no parsing at all.
-* Every WATCH_COMPANY_INTERVAL (default 300s) it also sweeps every company's own
+* Every WATCH_COMPANY_INTERVAL (default 180s) it also sweeps every company's own
   ATS, which is hundreds of requests and can't be short-circuited.
 
 State lives in memory for the life of the loop and is flushed to disk on a timer
