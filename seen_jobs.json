@@ -1,5 +1,5 @@
 {
-  "count": 6416,
+  "count": 6418,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -401,8 +401,8 @@
     },
     "amazon::10567489": {
       "company": "Amazon",
-      "first_seen": "2026-10-01T22:00:59+00:00",
-      "last_seen": "2026-10-01T22:00:59+00:00",
+      "first_seen": "2026-10-01T22:33:09+00:00",
+      "last_seen": "2026-10-01T22:33:09+00:00",
       "location": "North Reading, Massachusetts, USA",
       "posted_at": "October  1, 2026",
       "source": "",
@@ -805,8 +805,8 @@
     },
     "cisco::Software-Developer-Full-Stack---Backend-I--Co-op----Canada_2024208": {
       "company": "Cisco",
-      "first_seen": "2026-10-01T20:38:31+00:00",
-      "last_seen": "2026-10-01T20:38:31+00:00",
+      "first_seen": "2026-10-01T22:33:09+00:00",
+      "last_seen": "2026-10-01T22:33:09+00:00",
       "location": "Kanata, Ontario, Canada, Saint-Laurent, Quebec, Canada, Calgary, Alberta, Canada, Toronto, Ontario, Canada, Montreal, Quebec, Canada, Vancouver, British Columbia, Canada, Halifax, Nova Scotia, Canada, Ottawa, Ontario, Canada",
       "posted_at": "Posted Today",
       "source": "",
@@ -1413,8 +1413,8 @@
     },
     "intel::Software-Engineering-PhD-Intern-New-2027_JR0287458-1": {
       "company": "Intel",
-      "first_seen": "2026-10-01T20:22:19+00:00",
-      "last_seen": "2026-10-01T20:22:19+00:00",
+      "first_seen": "2026-10-01T22:33:09+00:00",
+      "last_seen": "2026-10-01T22:33:09+00:00",
       "location": "US, Oregon, Hillsboro",
       "posted_at": "Posted Today",
       "source": "",
@@ -7922,6 +7922,16 @@
       "source": "simplify",
       "title": "Data and Computer Engineering/Computer Science Intern",
       "url": "https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:barry-wehmiller::simplify-7531a42a-4fdd-408f-8e40-bed21c1ddb09": {
+      "company": "Barry-Wehmiller",
+      "first_seen": "2026-10-01T22:33:10+00:00",
+      "last_seen": "2026-10-01T22:33:10+00:00",
+      "location": "Raleigh, NC",
+      "posted_at": "1790812800",
+      "source": "simplify",
+      "title": "Entry Level Software Engineer",
+      "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Raleigh-NC/Entry-Level-Software-Engineer---RDU-3_R022993"
     },
     "simplify:barry-wehmiller::simplify-94439f86-761e-479b-ad07-ff674a810362": {
       "company": "Barry-Wehmiller",
@@ -25515,6 +25525,16 @@
       "title": "Flight Software Engineer",
       "url": "https://jobs.ashbyhq.com/Lynk/5ff6f792-dbe9-49ed-80df-52f0079e0189/application"
     },
+    "simplify:m&t bank::simplify-23452dfd-f110-4218-bbe2-fa3fd2227fc5": {
+      "company": "M&T Bank",
+      "first_seen": "2026-10-01T22:33:10+00:00",
+      "last_seen": "2026-10-01T22:33:10+00:00",
+      "location": "Buffalo, NY",
+      "posted_at": "1790812800",
+      "source": "simplify",
+      "title": "Technology Development Program - Software Engineering",
+      "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering_R90039"
+    },
     "simplify:m&t bank::simplify-5c3d7673-1657-4d3b-9c24-be484e2d4cc0": {
       "company": "M&T Bank",
       "first_seen": "2026-07-15T22:38:49+00:00",
@@ -33456,6 +33476,7 @@
     "simplify:reliance::simplify-46ef73eb-48ac-4b4f-b57e-f88f4c490e1d": {
       "company": "Reliance",
       "first_seen": "2026-08-11T23:09:33+00:00",
+      "last_seen": "2026-10-01T22:33:09+00:00",
       "posted_at": "1786486148",
       "title": "AI Software Engineer 1",
       "url": "https://careers.reliance.com/jobs/3330?icims=1"
@@ -51272,5 +51293,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-01T22:01:37+00:00"
+  "updated_at": "2026-10-01T22:33:49+00:00"
 }
