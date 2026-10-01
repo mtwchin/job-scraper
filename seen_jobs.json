@@ -55,6 +55,42 @@
       "title": "Computer Science Engineer 1 - Cranberry Township",
       "url": "https://careers-framatome.icims.com/jobs/3408/job?mobile=true&needsRedirect=false"
     },
+    "simplify:intel::simplify-59d6aad4-9652-4f35-9a72-29c3ef4f9d16": {
+      "attempted_at": "2026-10-01T23:01:57+00:00",
+      "company": "Intel",
+      "location": "Hillsboro, OR",
+      "posted_at": "1790812800",
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1"
+    },
+    "simplify:pinterest::simplify-a8f0c609-7e00-47ef-8b38-840c1b0f9dd0": {
+      "attempted_at": "2026-10-01T23:01:57+00:00",
+      "company": "Pinterest",
+      "location": "SF",
+      "posted_at": "1790893159",
+      "source": "simplify",
+      "title": "UX Engineering Intern",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140210"
+    },
+    "simplify:point72::simplify-1241572f-e197-4dc1-85b5-7e85e15234d8": {
+      "attempted_at": "2026-10-01T23:01:57+00:00",
+      "company": "Point72",
+      "location": "NYC",
+      "posted_at": "1790893938",
+      "source": "simplify",
+      "title": "Micro-Intern: Research Technology Developer",
+      "url": "https://boards.greenhouse.io/point72/jobs/8236734002"
+    },
+    "simplify:riot games::simplify-d24f3415-d7f3-4935-8bed-730bae30d68d": {
+      "attempted_at": "2026-10-01T23:01:57+00:00",
+      "company": "Riot Games",
+      "location": "LA",
+      "posted_at": "1790894268",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/riotgamesup/jobs/8222015"
+    },
     "ziprecruiter::8127108": {
       "attempted_at": "2026-09-24T16:22:51+00:00",
       "company": "ZipRecruiter",
@@ -34468,7 +34504,7 @@
     "simplify:rodan energy solutions::simplify-c0b22f53-3c47-45f3-8c12-a94866f7f461": {
       "company": "Rodan Energy Solutions",
       "first_seen": "2026-09-21T23:07:18+00:00",
-      "last_seen": "2026-09-30T00:01:01+00:00",
+      "last_seen": "2026-10-01T23:01:57+00:00",
       "location": "Mississauga, ON, Canada",
       "posted_at": "1790029506",
       "source": "simplify",
@@ -51373,5 +51409,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-01T22:35:51+00:00"
+  "updated_at": "2026-10-01T23:02:53+00:00"
 }
