@@ -1,5 +1,5 @@
 {
-  "count": 6393,
+  "count": 6394,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -38057,6 +38057,16 @@
       "title": "Associate Software Engineer - Direct College Hire",
       "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2026-72886"
     },
+    "simplify:southwest airlines::simplify-8b6adedc-bcf4-4553-9fa2-ff61cdd5425f": {
+      "company": "Southwest Airlines",
+      "first_seen": "2026-10-01T06:33:00+00:00",
+      "last_seen": "2026-10-01T06:33:00+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1790812800",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Software-Engineer-Internship_R-2026-73270"
+    },
     "simplify:space dynamics laboratory::simplify-6933b4d1-6f8c-4cd0-a552-295658985f28": {
       "company": "Space Dynamics Laboratory",
       "first_seen": "2026-09-01T09:52:41+00:00",
@@ -51037,5 +51047,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-01T06:02:23+00:00"
+  "updated_at": "2026-10-01T06:33:25+00:00"
 }
