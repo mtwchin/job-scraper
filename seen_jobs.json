@@ -1,5 +1,5 @@
 {
-  "count": 6412,
+  "count": 6413,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -1106,6 +1106,16 @@
       "source": "",
       "title": "Software Engineering Intern (Winter 2027)",
       "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272"
+    },
+    "glean::4595665005": {
+      "company": "Glean",
+      "first_seen": "2026-10-01T17:47:34+00:00",
+      "last_seen": "2026-10-01T17:47:34+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "2026-10-01T13:42:40-04:00",
+      "source": "",
+      "title": "Software Engineer, Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005"
     },
     "google::100648618540573382": {
       "company": "Google",
@@ -51229,5 +51239,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-01T17:09:20+00:00"
+  "updated_at": "2026-10-01T17:48:22+00:00"
 }
