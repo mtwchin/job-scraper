@@ -40506,6 +40506,7 @@
     "simplify:tesla::simplify-8b74bc73-21bb-499c-a67a-d34845246a91": {
       "company": "Tesla",
       "first_seen": "2026-08-28T08:28:37+00:00",
+      "last_seen": "2026-10-01T10:31:44+00:00",
       "posted_at": "1787898158",
       "title": "Backend Engineer Intern - Infrastructure Engineering",
       "url": "https://www.tesla.com/careers/search/job/281467"
@@ -51117,5 +51118,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-01T10:03:37+00:00"
+  "updated_at": "2026-10-01T10:32:39+00:00"
 }
