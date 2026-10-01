@@ -1,5 +1,5 @@
 {
-  "count": 6386,
+  "count": 6387,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -1286,6 +1286,16 @@
       "first_seen": "2026-06-29T02:03:48+00:00",
       "title": "AI Software Engineering Undergraduate Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/job/US-Oregon-Hillsboro/AI-Software-Engineering-Undergraduate-Intern_JR0285167"
+    },
+    "intel::AI-Software-Engineering-Undergraduate-Intern_JR0287583": {
+      "company": "Intel",
+      "first_seen": "2026-10-01T01:21:34+00:00",
+      "last_seen": "2026-10-01T01:21:34+00:00",
+      "location": "Costa Rica, San Jose",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "AI Software Engineering Undergraduate Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583"
     },
     "intel::JR0282639": {
       "company": "Intel",
@@ -50967,5 +50977,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-01T00:37:08+00:00"
+  "updated_at": "2026-10-01T01:22:10+00:00"
 }
