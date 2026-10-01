@@ -1,5 +1,5 @@
 {
-  "count": 6394,
+  "count": 6395,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -5925,7 +5925,7 @@
     "simplify:apple::simplify-d3c2d57b-c7ea-4194-ac33-731c72f64420": {
       "company": "Apple",
       "first_seen": "2026-09-25T01:34:11+00:00",
-      "last_seen": "2026-09-30T00:01:01+00:00",
+      "last_seen": "2026-10-01T06:38:13+00:00",
       "location": "San Diego, CA",
       "posted_at": "1790298409",
       "source": "simplify",
@@ -15614,6 +15614,16 @@
       "posted_at": "1784164096",
       "title": "Software Engineer",
       "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007639"
+    },
+    "simplify:emerson electric::simplify-8ec152ad-60df-44f3-8f06-cdc62ddea548": {
+      "company": "Emerson Electric",
+      "first_seen": "2026-10-01T06:38:13+00:00",
+      "last_seen": "2026-10-01T06:38:13+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1790834846",
+      "source": "simplify",
+      "title": "Software Engineer - AI Enablement & Engineering Productivity",
+      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010922"
     },
     "simplify:emerson electric::simplify-a6026254-bdf4-49e3-82e7-94a39fd78c7d": {
       "company": "Emerson Electric",
@@ -51047,5 +51057,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-01T06:33:25+00:00"
+  "updated_at": "2026-10-01T06:38:27+00:00"
 }
