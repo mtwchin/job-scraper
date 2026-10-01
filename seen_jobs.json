@@ -10846,8 +10846,8 @@
     },
     "simplify:capgemini::simplify-2c3fcb34-9459-42c5-8269-e05902759c20": {
       "company": "Capgemini",
-      "first_seen": "2026-10-01T09:36:46+00:00",
-      "last_seen": "2026-10-01T09:36:46+00:00",
+      "first_seen": "2026-10-01T11:32:31+00:00",
+      "last_seen": "2026-10-01T11:32:31+00:00",
       "location": "Telford, UK, Hove, Brighton and Hove, UK",
       "posted_at": "1790845822",
       "source": "simplify",
@@ -22083,8 +22083,8 @@
     },
     "simplify:ion group::simplify-fff88dea-356b-4db6-8aa2-4f103f1909c6": {
       "company": "ION Group",
-      "first_seen": "2026-10-01T09:36:46+00:00",
-      "last_seen": "2026-10-01T09:36:46+00:00",
+      "first_seen": "2026-10-01T11:32:31+00:00",
+      "last_seen": "2026-10-01T11:32:31+00:00",
       "location": "Woking, UK",
       "posted_at": "1790845862",
       "source": "simplify",
@@ -26955,7 +26955,7 @@
     "simplify:microsoft::simplify-a9b5356a-b658-407e-858e-29e74df5f581": {
       "company": "Microsoft",
       "first_seen": "2026-09-11T11:31:35+00:00",
-      "last_seen": "2026-10-01T09:36:46+00:00",
+      "last_seen": "2026-10-01T11:32:29+00:00",
       "posted_at": "1789109816",
       "title": "Software Engineer - CoreAI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020"
@@ -27000,8 +27000,8 @@
     },
     "simplify:microsoft::simplify-da112e4c-4b18-4df4-9cad-95acdd778d6f": {
       "company": "Microsoft",
-      "first_seen": "2026-10-01T09:36:46+00:00",
-      "last_seen": "2026-10-01T09:36:46+00:00",
+      "first_seen": "2026-10-01T11:32:30+00:00",
+      "last_seen": "2026-10-01T11:32:30+00:00",
       "location": "Redmond, WA",
       "posted_at": "1790845696",
       "source": "simplify",
@@ -40506,7 +40506,7 @@
     "simplify:tesla::simplify-8b74bc73-21bb-499c-a67a-d34845246a91": {
       "company": "Tesla",
       "first_seen": "2026-08-28T08:28:37+00:00",
-      "last_seen": "2026-10-01T10:31:44+00:00",
+      "last_seen": "2026-10-01T11:32:29+00:00",
       "posted_at": "1787898158",
       "title": "Backend Engineer Intern - Infrastructure Engineering",
       "url": "https://www.tesla.com/careers/search/job/281467"
@@ -47001,8 +47001,8 @@
     },
     "simplify:zs::simplify-38c76de4-70f2-4574-8eec-c61c26f0b76b": {
       "company": "ZS",
-      "first_seen": "2026-10-01T10:03:11+00:00",
-      "last_seen": "2026-10-01T10:03:11+00:00",
+      "first_seen": "2026-10-01T11:32:31+00:00",
+      "last_seen": "2026-10-01T11:32:31+00:00",
       "location": "Chicago, IL, Princeton, NJ",
       "posted_at": "1790115427",
       "source": "simplify",
@@ -51118,5 +51118,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-01T10:32:39+00:00"
+  "updated_at": "2026-10-01T11:33:01+00:00"
 }
