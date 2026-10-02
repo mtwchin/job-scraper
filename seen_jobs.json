@@ -1,5 +1,5 @@
 {
-  "count": 6469,
+  "count": 6470,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -444,6 +444,16 @@
       "source": "",
       "title": "Software Development Engineer, ROBOTICS, Early Career - 2027",
       "url": "https://www.amazon.jobs/en/jobs/10567489/software-development-engineer-robotics-early-career-2027"
+    },
+    "amazon::10567914": {
+      "company": "Amazon",
+      "first_seen": "2026-10-02T16:00:33+00:00",
+      "last_seen": "2026-10-02T16:00:33+00:00",
+      "location": "Seattle, Washington, USA",
+      "posted_at": "October  2, 2026",
+      "source": "",
+      "title": "Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
+      "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -51840,5 +51850,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-02T15:36:32+00:00"
+  "updated_at": "2026-10-02T16:00:34+00:00"
 }
