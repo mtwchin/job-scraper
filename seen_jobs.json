@@ -1,5 +1,5 @@
 {
-  "count": 6466,
+  "count": 6469,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -16798,6 +16798,16 @@
       "title": "Career Discovery Program - Software Development",
       "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Career-Discovery-Program-2026---Software-Development---Seattle_R-106372"
     },
+    "simplify:expedia group::simplify-819788dd-4ad4-477b-9a53-cea660803173": {
+      "company": "Expedia Group",
+      "first_seen": "2026-10-02T15:36:27+00:00",
+      "last_seen": "2026-10-02T15:36:27+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "Software Development Engineer 1",
+      "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Canada---British-Columbia---Vancouver/Software-Development-Engineer-I_R-109478"
+    },
     "simplify:expedia group::simplify-8cd9b4b6-af3a-4e87-a627-4dce6a58a377": {
       "company": "Expedia Group",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -28307,6 +28317,16 @@
       "title": "Software Engineer",
       "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Senior-Principal-IT-Architect_R0158013"
     },
+    "simplify:ncr voyix::simplify-2fb142a3-94d3-4f29-91b2-d95a17392dfa": {
+      "company": "NCR Voyix",
+      "first_seen": "2026-10-02T15:36:27+00:00",
+      "last_seen": "2026-10-02T15:36:27+00:00",
+      "location": "Bath, UK",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "Junior DevOps Engineer",
+      "url": "https://ncr.wd1.myworkdayjobs.com/ext_non_us/job/BATH-GBR/Junior-DevOps-Engineer_R0158519"
+    },
     "simplify:ncr voyix::simplify-880e56e4-25c9-471f-b83a-aba5765b085f": {
       "company": "NCR Voyix",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -36301,7 +36321,7 @@
     "simplify:rtx::simplify-a167d0aa-3bb9-4b88-84a5-ee03be6a494f": {
       "company": "RTX",
       "first_seen": "2026-08-18T06:58:11+00:00",
-      "last_seen": "2026-10-01T00:31:31+00:00",
+      "last_seen": "2026-10-02T15:36:27+00:00",
       "posted_at": "1786924800",
       "title": "Conversion Systems Engineer 1 Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Intern-Conversion-Systems-Engineer-I--Onsite-_01866850"
@@ -45350,6 +45370,16 @@
       "title": "Technology Leadership Program - Application Development",
       "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Technology-Leadership-Program---Application-Development--NC-_180082"
     },
+    "simplify:vanguard::simplify-665e2669-0a2a-4e07-9859-73f9f3e9b83d": {
+      "company": "Vanguard",
+      "first_seen": "2026-10-02T15:36:27+00:00",
+      "last_seen": "2026-10-02T15:36:27+00:00",
+      "location": "Malvern, PA",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "College to Corporate IT Intern - Application Development",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757"
+    },
     "simplify:vanguard::simplify-75aa7777-17b6-4d18-aee4-1c1eec8392e7": {
       "company": "Vanguard",
       "first_seen": "2026-07-25T04:20:05+00:00",
@@ -51810,5 +51840,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-02T15:11:29+00:00"
+  "updated_at": "2026-10-02T15:36:32+00:00"
 }
