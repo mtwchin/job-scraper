@@ -1,5 +1,5 @@
 {
-  "count": 6480,
+  "count": 6486,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -4627,6 +4627,16 @@
       "posted_at": "1784246400",
       "title": "AI Software Development Engineer Intern",
       "url": "https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/AI-Software-Development-Engineer---Intern_R02707"
+    },
+    "simplify:altera::simplify-25d37d61-12f2-475a-afdc-1ea80a5057aa": {
+      "company": "Altera",
+      "first_seen": "2026-10-02T22:31:38+00:00",
+      "last_seen": "2026-10-02T22:31:38+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "High Level Synthesis Engineer Intern",
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/High-Level-Synthesis-Engineer---Intern_R03254"
     },
     "simplify:altera::simplify-ca3f8b2a-724e-44cf-8a3a-7f784c36077c": {
       "company": "Altera",
@@ -15867,6 +15877,26 @@
       "title": "Rendering Engineer Intern - Apex Legends",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Engineer-Intern/216222"
     },
+    "simplify:elevance health::simplify-638db733-b6c2-4e36-b1ad-1d4b6b77df9b": {
+      "company": "Elevance Health",
+      "first_seen": "2026-10-02T22:31:38+00:00",
+      "last_seen": "2026-10-02T22:31:38+00:00",
+      "location": "Indianapolis, IN, Richmond, VA, Chicago, IL, Atlanta, GA",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "Engineering Graduate Intern",
+      "url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Graduate-Intern---Summer-2027_JR209082"
+    },
+    "simplify:elevance health::simplify-938e1389-c62c-4512-aecc-c83536e5bea9": {
+      "company": "Elevance Health",
+      "first_seen": "2026-10-02T22:31:38+00:00",
+      "last_seen": "2026-10-02T22:31:38+00:00",
+      "location": "Indianapolis, IN, Richmond, VA, Chicago, IL, Atlanta, GA",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "Engineering Intern",
+      "url": "https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Undergraduate-Intern---Summer-2027_JR209081"
+    },
     "simplify:elevate semiconductor::simplify-9d5887c5-a484-493a-a9cd-38e0b51c1ef6": {
       "company": "Elevate Semiconductor",
       "first_seen": "2026-08-22T03:26:25+00:00",
@@ -18183,7 +18213,7 @@
     "simplify:ge appliances::simplify-bdefa1b8-76a9-4d2c-8b53-192783c6edd7": {
       "company": "GE Appliances",
       "first_seen": "2026-08-05T15:31:06+00:00",
-      "last_seen": "2026-09-22T00:04:40+00:00",
+      "last_seen": "2026-10-02T22:31:38+00:00",
       "posted_at": "1785888000",
       "title": "Software Engineer Co-op - Software Engineering",
       "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Summer-2027_REQ-26427"
@@ -21729,6 +21759,16 @@
       "posted_at": "1785796791",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/incidentiq/jobs/7824038003"
+    },
+    "simplify:incomm payments::simplify-5fddc6ec-c292-4275-bd64-25ad0e051ce9": {
+      "company": "InComm Payments",
+      "first_seen": "2026-10-02T22:31:38+00:00",
+      "last_seen": "2026-10-02T22:31:38+00:00",
+      "location": "Sandy, UT",
+      "posted_at": "1790978679",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.incommpayments.com/jobs/22268?icims=1"
     },
     "simplify:independent software::simplify-1654b231-0156-41b1-80d3-e2a0152dc6e9": {
       "company": "Independent Software",
@@ -26091,6 +26131,16 @@
       "title": "Launch Vehicle Software Developer - 5th Space Launch Squadron",
       "url": "https://mantech.avature.net/en_US/careers/JobDetail/65190"
     },
+    "simplify:manulife financial::simplify-1d938bfb-bee6-422b-9ba6-6fa75f0b6751": {
+      "company": "Manulife Financial",
+      "first_seen": "2026-10-02T22:31:38+00:00",
+      "last_seen": "2026-10-02T22:31:38+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "Technology Enablement Analyst Co-op",
+      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774"
+    },
     "simplify:manulife financial::simplify-4ff8ce00-d5ca-486c-b103-e438be53ee1a": {
       "company": "Manulife Financial",
       "first_seen": "2026-07-31T22:42:03+00:00",
@@ -28873,6 +28923,16 @@
       "posted_at": "1777932251",
       "title": "Incubation Developer Coop/Intern",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34227"
+    },
+    "simplify:nokia::simplify-889b9ca8-2b1f-4fd5-b6f6-d9ab02236f83": {
+      "company": "Nokia",
+      "first_seen": "2026-10-02T22:31:38+00:00",
+      "last_seen": "2026-10-02T22:31:38+00:00",
+      "location": "Ottawa, ON, Canada",
+      "posted_at": "1790979357",
+      "source": "simplify",
+      "title": "Automation Engineer Co-op Intern",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41168"
     },
     "simplify:nokia::simplify-92d19f9f-b983-4fa7-a8f3-2344103d710e": {
       "company": "Nokia",
@@ -42171,7 +42231,7 @@
     "simplify:the hartford::simplify-113452f5-8851-4266-8cfa-6e8ba357281e": {
       "company": "The Hartford",
       "first_seen": "2026-08-24T21:04:28+00:00",
-      "last_seen": "2026-09-30T00:01:01+00:00",
+      "last_seen": "2026-10-02T22:31:38+00:00",
       "posted_at": "1787529600",
       "title": "Software Engineer Intern - Tech & Data Program",
       "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1"
@@ -46503,6 +46563,7 @@
     "simplify:walmart::simplify-9a65a8df-82be-4934-8e8f-0308d4a7686a": {
       "company": "Walmart",
       "first_seen": "2026-09-04T05:57:42+00:00",
+      "last_seen": "2026-10-02T22:31:38+00:00",
       "posted_at": "1788393600",
       "title": "Software Engineer 2 Intern",
       "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Software-Engineer-II---Sunnyvale_R-2630127"
@@ -51951,5 +52012,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-02T21:57:53+00:00"
+  "updated_at": "2026-10-02T22:31:55+00:00"
 }
