@@ -1,5 +1,5 @@
 {
-  "count": 6451,
+  "count": 6454,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -12104,6 +12104,16 @@
       "posted_at": "1783548322",
       "title": "Application Developer 1 - Power Platform",
       "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Offices-at-Vernon-Place/Application-Developer-I--Power-Platform_JR222607"
+    },
+    "simplify:cincinnati children\u2019s hospital and medical center::simplify-e73c9bda-894d-4193-9a98-e29f9b2a4f57": {
+      "company": "Cincinnati Children\u2019s Hospital and Medical Center",
+      "first_seen": "2026-10-02T01:33:35+00:00",
+      "last_seen": "2026-10-02T01:33:35+00:00",
+      "location": "Cincinnati, OH",
+      "posted_at": "1790812800",
+      "source": "simplify",
+      "title": "Software Engineer 1 - Web Services",
+      "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Software-Engineer-I---Web-Services_JR225073"
     },
     "simplify:cincinnati children\u2019s hospital and medical center::simplify-fcd24d2e-1552-4b2e-a939-87596e9177ce": {
       "company": "Cincinnati Children\u2019s Hospital and Medical Center",
@@ -35539,6 +35549,16 @@
       "title": "Software Engineer 2",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-II--Onsite-_01870930"
     },
+    "simplify:rtx::simplify-2053c593-1305-4042-a320-4a22dd690ec4": {
+      "company": "RTX",
+      "first_seen": "2026-10-02T01:33:35+00:00",
+      "last_seen": "2026-10-02T01:33:35+00:00",
+      "location": "Richardson, TX",
+      "posted_at": "1790812800",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01875418"
+    },
     "simplify:rtx::simplify-2189cc14-cc40-48f0-bc91-3b649e11fec9": {
       "company": "RTX",
       "first_seen": "2026-08-28T20:19:07+00:00",
@@ -35902,6 +35922,16 @@
       "posted_at": "1788134400",
       "title": "Methods Intern - Hot Section Engineering",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Methods-Intern---Hot-Section-Engineering--Summer-2027---Onsite-_01870611"
+    },
+    "simplify:rtx::simplify-7525137e-4f3a-4f97-9fbb-f2d715545fb4": {
+      "company": "RTX",
+      "first_seen": "2026-10-02T01:33:35+00:00",
+      "last_seen": "2026-10-02T01:33:35+00:00",
+      "location": "Tucson, AZ",
+      "posted_at": "1790812800",
+      "source": "simplify",
+      "title": "Software Test Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Test-Engineer-I_01879609"
     },
     "simplify:rtx::simplify-7573a783-289a-4e12-a323-ffc9ac7c615e": {
       "company": "RTX",
@@ -51659,5 +51689,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-02T00:06:02+00:00"
+  "updated_at": "2026-10-02T01:34:05+00:00"
 }
