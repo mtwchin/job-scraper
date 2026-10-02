@@ -1,5 +1,5 @@
 {
-  "count": 6486,
+  "count": 6492,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -4531,6 +4531,16 @@
       "posted_at": "1784764800",
       "title": "Systems Analyst",
       "url": "https://allina.wd5.myworkdayjobs.com/external/job/Allina-Commons/Systems-Analyst_R-0073055"
+    },
+    "simplify:allstate insurance company::simplify-4e2c335d-0005-44f6-911c-441d5ac21ff6": {
+      "company": "Allstate Insurance Company",
+      "first_seen": "2026-10-02T22:34:44+00:00",
+      "last_seen": "2026-10-02T22:34:44+00:00",
+      "location": "Belfast, UK, Londonderry, UK",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "Graduate Product Engineer",
+      "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/Belfast-10-Mays-Meadow/Graduate-Product-Engineer-Opportunities-2027_R35761"
     },
     "simplify:allstate insurance company::simplify-72d01bcf-1d1c-4454-97e2-d5db19cce4d1": {
       "company": "Allstate Insurance Company",
@@ -9465,6 +9475,16 @@
       "title": "Software Engineer",
       "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Denver-CO/Software-Engineer-_JR1084518"
     },
+    "simplify:broadridge::simplify-9e5ef9f4-bd8a-4306-96d9-b33a23effac7": {
+      "company": "Broadridge",
+      "first_seen": "2026-10-02T22:34:44+00:00",
+      "last_seen": "2026-10-02T22:34:44+00:00",
+      "location": "Newark, NJ",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "Junior Full Stack Software Engineer",
+      "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Newark-NJ/Full-Stack-Software-Engineer--Hybrid-_JR1086388"
+    },
     "simplify:brown university health::simplify-e214e3ea-1389-4e2b-9fa5-016e41e4dc27": {
       "company": "Brown University Health",
       "first_seen": "2026-09-03T16:42:59+00:00",
@@ -12878,6 +12898,16 @@
       "title": "AI Intern",
       "url": "https://jobs-cesi.icims.com/jobs/11206/job?mobile=true&needsRedirect=false"
     },
+    "simplify:colibri group::simplify-e76fd68e-0dcf-4634-a0cb-8ecf5d2d5ec8": {
+      "company": "Colibri Group",
+      "first_seen": "2026-10-02T22:34:44+00:00",
+      "last_seen": "2026-10-02T22:34:44+00:00",
+      "location": "Pleasanton, CA",
+      "posted_at": "1790978708",
+      "source": "simplify",
+      "title": "Product Builder Returnship",
+      "url": "https://jobs.lever.co/colibrigroup/dda06cac-4ba7-4291-bcdc-6b6873c98488/apply"
+    },
     "simplify:collabera::simplify-a6dfebca-bb41-4377-a2c7-8828e2adc674": {
       "company": "Collabera",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -16109,6 +16139,16 @@
       "posted_at": "1788238282",
       "title": "Software Engineering Co-op",
       "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008442"
+    },
+    "simplify:emerson electric::simplify-f102ff42-f58e-41a7-92b4-fbde30090e88": {
+      "company": "Emerson Electric",
+      "first_seen": "2026-10-02T22:34:44+00:00",
+      "last_seen": "2026-10-02T22:34:44+00:00",
+      "location": "Elyria, OH",
+      "posted_at": "1790978804",
+      "source": "simplify",
+      "title": "Software Solutions Development Program",
+      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010904"
     },
     "simplify:emerson electric::simplify-fce07d58-8d51-46a0-9ac2-6f8f9be4da7f": {
       "company": "Emerson Electric",
@@ -22616,6 +22656,16 @@
       "title": "Software Developer 1",
       "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Software-Developer-I_R19926"
     },
+    "simplify:ipipeline::simplify-1ac3352d-b85c-4b65-9b43-9e0028bf8485": {
+      "company": "iPipeline",
+      "first_seen": "2026-10-02T22:34:44+00:00",
+      "last_seen": "2026-10-02T22:34:44+00:00",
+      "location": "Fort Lauderdale, FL",
+      "posted_at": "1790979270",
+      "source": "simplify",
+      "title": "Associate Software Development Engineer - Emerging Professionals",
+      "url": "https://careers-ipipeline.icims.com/jobs/1718/job?mobile=true&needsRedirect=false"
+    },
     "simplify:iridium communications::simplify-7e94c6d9-c88c-4d70-8bd0-51a2cc801485": {
       "company": "Iridium Communications",
       "first_seen": "2026-09-29T23:04:17+00:00",
@@ -27457,6 +27507,16 @@
       "posted_at": "1784106196",
       "title": "Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556932425"
+    },
+    "simplify:microsoft::simplify-3f0ab4da-e520-442d-bc93-8ead777699cd": {
+      "company": "Microsoft",
+      "first_seen": "2026-10-02T22:34:43+00:00",
+      "last_seen": "2026-10-02T22:34:43+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1790979173",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999325"
     },
     "simplify:microsoft::simplify-3f94586c-7465-4690-b2fc-6e57482fdcc0": {
       "company": "Microsoft",
@@ -52012,5 +52072,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-02T22:31:55+00:00"
+  "updated_at": "2026-10-02T22:34:57+00:00"
 }
