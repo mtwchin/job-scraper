@@ -19999,7 +19999,7 @@
     "simplify:goto group::simplify-f2af6a58-c979-43d6-a20b-83d4442bc1a9": {
       "company": "GoTo Group",
       "first_seen": "2026-09-25T01:34:11+00:00",
-      "last_seen": "2026-09-25T01:34:11+00:00",
+      "last_seen": "2026-10-02T15:06:00+00:00",
       "location": "Remote in Canada",
       "posted_at": "1790208000",
       "source": "simplify",
@@ -21986,7 +21986,7 @@
     "simplify:intel::simplify-5fc2f214-fe6b-4c1d-b9aa-0a1dcbec56d2": {
       "company": "Intel",
       "first_seen": "2026-09-04T23:26:55+00:00",
-      "last_seen": "2026-10-02T15:04:08+00:00",
+      "last_seen": "2026-10-02T15:06:00+00:00",
       "posted_at": "1788480000",
       "title": "CAD/EDA Tools Automation Engineer",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0286757"
@@ -51810,5 +51810,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-02T15:04:15+00:00"
+  "updated_at": "2026-10-02T15:11:29+00:00"
 }
