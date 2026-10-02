@@ -1,5 +1,5 @@
 {
-  "count": 6470,
+  "count": 6471,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -32704,6 +32704,16 @@
       "title": "Software Engineer Intern",
       "url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/apply"
     },
+    "simplify:power design::simplify-99c9261f-9794-4deb-8e15-9bb47dc0ab42": {
+      "company": "Power Design",
+      "first_seen": "2026-10-02T16:03:32+00:00",
+      "last_seen": "2026-10-02T16:03:32+00:00",
+      "location": "St. Petersburg, FL",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "AI Innovation Engineer - BIM",
+      "url": "https://powerdesigninc.wd5.myworkdayjobs.com/PDI/job/FL-St-Petersburg/AI-Innovation-Engineer---BIM_R12319-1"
+    },
     "simplify:powerschool group::simplify-b28dec10-3ef5-494b-8a37-79da9da233d0": {
       "company": "PowerSchool Group",
       "first_seen": "2026-09-14T23:07:22+00:00",
@@ -51850,5 +51860,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-02T16:00:34+00:00"
+  "updated_at": "2026-10-02T16:03:36+00:00"
 }
