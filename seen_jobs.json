@@ -1,5 +1,5 @@
 {
-  "count": 6509,
+  "count": 6514,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -5874,6 +5874,16 @@
       "posted_at": "1787875200",
       "title": "Technology Intern",
       "url": "https://abinbev.wd1.myworkdayjobs.com/en-US/USA/job/St-Louis-Missouri/Technology-Internship_30102525"
+    },
+    "simplify:anthony & sylvan pools::simplify-2528a5bc-3caf-4a25-ad60-01160c7f4a14": {
+      "company": "Anthony & Sylvan Pools",
+      "first_seen": "2026-10-02T23:06:27+00:00",
+      "last_seen": "2026-10-02T23:06:27+00:00",
+      "location": "Warminster Township, PA",
+      "posted_at": "1790979577",
+      "source": "simplify",
+      "title": "AI Solutions Developer",
+      "url": "https://ats.rippling.com/anthony-sylvan-pools/jobs/1cda6c1a-ec72-4356-afd4-15e13c45d015"
     },
     "simplify:anthropic::simplify-f2c0c0c5-f679-46c2-98dc-36b42fe0532e": {
       "company": "Anthropic",
@@ -14826,7 +14836,7 @@
     "simplify:deloitte::simplify-071ed622-765f-4844-a5d5-2482916aec1e": {
       "company": "Deloitte",
       "first_seen": "2026-08-11T02:36:54+00:00",
-      "last_seen": "2026-09-24T00:00:15+00:00",
+      "last_seen": "2026-10-02T23:06:26+00:00",
       "posted_at": "1786412033",
       "title": "Cyber Software Engineering Analyst - Government & Public Services - Cyber Software Engineering",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Cyber-Software-Engineering/362393"
@@ -14881,7 +14891,7 @@
     "simplify:deloitte::simplify-a9a2e369-3bce-45ed-ac8b-e9ea8ed3da85": {
       "company": "Deloitte",
       "first_seen": "2026-08-11T23:09:33+00:00",
-      "last_seen": "2026-09-24T00:00:15+00:00",
+      "last_seen": "2026-10-02T23:06:26+00:00",
       "posted_at": "1786487064",
       "title": "Delivery Analyst - Multiple Teams",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Software-Engineering-Solutions/362516"
@@ -16636,6 +16646,7 @@
     "simplify:ernst & young::simplify-e53a7275-853a-47b2-9c3c-c88f9d888cbe": {
       "company": "Ernst & Young",
       "first_seen": "2026-07-24T23:33:06+00:00",
+      "last_seen": "2026-10-02T23:06:26+00:00",
       "posted_at": "1784931107",
       "title": "Back-end .NET Developer",
       "url": "https://careers.ey.com/ey/job/Toronto-Back-end-_net-Developer-ON-M5H-0B3/1418865833/"
@@ -18578,7 +18589,7 @@
     "simplify:ge vernova::simplify-e10b2cda-4d20-4210-83d8-f845503f8fb6": {
       "company": "GE Vernova",
       "first_seen": "2026-09-30T12:08:11+00:00",
-      "last_seen": "2026-10-01T00:31:31+00:00",
+      "last_seen": "2026-10-02T23:06:26+00:00",
       "location": "Rugby, UK",
       "posted_at": "1782955928",
       "source": "simplify",
@@ -20743,6 +20754,26 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/application?embed=true"
+    },
+    "simplify:harvey::simplify-5993eb6e-3414-429f-86b9-dd467b9ddd1d": {
+      "company": "Harvey",
+      "first_seen": "2026-10-02T23:06:26+00:00",
+      "last_seen": "2026-10-02T23:06:26+00:00",
+      "location": "SF, NYC",
+      "posted_at": "1790979915",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true"
+    },
+    "simplify:harvey::simplify-867c063f-636d-4f77-bf08-decee4955762": {
+      "company": "Harvey",
+      "first_seen": "2026-10-02T23:06:26+00:00",
+      "last_seen": "2026-10-02T23:06:26+00:00",
+      "location": "SF",
+      "posted_at": "1790979923",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true"
     },
     "simplify:harvey::simplify-b884d6ac-a1a0-4677-80ed-ce53c57be6e9": {
       "company": "Harvey",
@@ -32103,6 +32134,16 @@
       "posted_at": "1782956008",
       "title": "Computer Science and Engineering Researcher",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/CSE-Part-Time-Researcher-Hussain--S_REQ_0000079781-2"
+    },
+    "simplify:pennsylvania state university::simplify-8304bb3a-5c3a-460c-8b36-db592740b8b4": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-10-02T23:06:27+00:00",
+      "last_seen": "2026-10-02T23:06:27+00:00",
+      "location": "United States",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "Research Assistant - Public Health Sciences",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Part-time-Research-Assistant---Public-Health-Sciences_REQ_0000083189-1"
     },
     "simplify:pennsylvania state university::simplify-8e8f913d-4263-4281-9cf3-3e083858cf58": {
       "company": "Pennsylvania State University",
@@ -47217,6 +47258,16 @@
       "title": "Safety Software Engineer 1&C HMI Systems",
       "url": "https://careers.westinghousenuclear.com/job/Warrendale-Safety-SW-I&C-Engineer-HMI-Systems-OR/1411189300/?ats=successfactors"
     },
+    "simplify:westinghouse electric company::simplify-d132302c-ee49-4bf8-b018-890ad4cfc0b8": {
+      "company": "Westinghouse Electric Company",
+      "first_seen": "2026-10-02T23:06:27+00:00",
+      "last_seen": "2026-10-02T23:06:27+00:00",
+      "location": "Cranberry Township, PA",
+      "posted_at": "1790979898",
+      "source": "simplify",
+      "title": "Engineer \u2013 AI Delivery - High-potential program",
+      "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Engineer-AI-Delivery-(high-potential-program)-NC/1436332800/?ats=successfactors"
+    },
     "simplify:westinghouse electric company::simplify-ea7f7cb2-ad06-44c7-8cd8-5652e226befb": {
       "company": "Westinghouse Electric Company",
       "first_seen": "2026-07-24T23:33:06+00:00",
@@ -52242,5 +52293,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-02T23:04:00+00:00"
+  "updated_at": "2026-10-02T23:07:02+00:00"
 }
