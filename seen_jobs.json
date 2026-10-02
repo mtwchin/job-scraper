@@ -1,5 +1,5 @@
 {
-  "count": 6454,
+  "count": 6458,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -14298,6 +14298,16 @@
       "posted_at": "1784073600",
       "title": "Agentic AI Intern",
       "url": "https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Agentic-AI-Intern_R-102729"
+    },
+    "simplify:datarobot::simplify-eb685228-591f-46a4-a736-408c01575fef": {
+      "company": "DataRobot",
+      "first_seen": "2026-10-02T01:35:55+00:00",
+      "last_seen": "2026-10-02T01:35:55+00:00",
+      "location": "Boston, MA, Massachusetts",
+      "posted_at": "1790812800",
+      "source": "simplify",
+      "title": "MCP & Memory Intern",
+      "url": "https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/MCP---Memory-Intern_R-102755"
     },
     "simplify:datasite::simplify-268262ab-3056-48bd-a78d-3fe70d2fb886": {
       "company": "Datasite",
@@ -33561,6 +33571,16 @@
       "title": "iOS Engineer Intern",
       "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9/application?embed=true"
     },
+    "simplify:range::simplify-947e0edf-c842-4a59-b67c-747847abf090": {
+      "company": "Range",
+      "first_seen": "2026-10-02T01:35:55+00:00",
+      "last_seen": "2026-10-02T01:35:55+00:00",
+      "location": "McLean, VA",
+      "posted_at": "1790903968",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718/application?embed=true"
+    },
     "simplify:rapdev::simplify-1fd1fcc8-fade-4579-a322-2bc276d73ca7": {
       "company": "RapDev",
       "first_seen": "2026-07-30T00:10:16+00:00",
@@ -46190,6 +46210,16 @@
       "title": "Software Engineer 1 - Java",
       "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26336&siteid=5014&PageType=JobDetails&jobid=1855141"
     },
+    "simplify:walleye capital::simplify-7e635a7d-4a28-41ba-a06c-d0b08875dfae": {
+      "company": "Walleye Capital",
+      "first_seen": "2026-10-02T01:35:55+00:00",
+      "last_seen": "2026-10-02T01:35:55+00:00",
+      "location": "NYC",
+      "posted_at": "1790903947",
+      "source": "simplify",
+      "title": "Special Projects Developer Intern",
+      "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006"
+    },
     "simplify:walmart::simplify-1bcf3c3c-9587-4f21-b1ab-3f6d85758d87": {
       "company": "Walmart",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -46375,6 +46405,16 @@
       "posted_at": "1762179336",
       "title": "2026 Summer Intern, PhD, Software Engineer, Predictive Planner ML/DL",
       "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-phd-software-engineer-predictive-planner-ml-dl-mountain-view-california-united-states?gh_jid=7368864"
+    },
+    "simplify:waymo::simplify-fcbf49fa-4711-4d24-9ea9-cde58dba4d3e": {
+      "company": "Waymo",
+      "first_seen": "2026-10-02T01:35:54+00:00",
+      "last_seen": "2026-10-02T01:35:54+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1790904236",
+      "source": "simplify",
+      "title": "AI-driven ML Performance Engineering Intern - MS/PhD",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8248060"
     },
     "simplify:waystar::simplify-0988d1cc-3a7b-4621-84fc-6367ac9218d9": {
       "company": "Waystar",
@@ -51689,5 +51729,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-02T01:34:05+00:00"
+  "updated_at": "2026-10-02T01:36:07+00:00"
 }
