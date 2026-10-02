@@ -1,5 +1,5 @@
 {
-  "count": 6462,
+  "count": 6466,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -27534,6 +27534,16 @@
       "title": "Software Engineer 1 - Endpoint Sensor",
       "url": "https://mimecast.wd5.myworkdayjobs.com/Mimecast-Careers/job/United-States-of-America-Minnesota--Minneapolis/Software-Engineer-I_R6708-1"
     },
+    "simplify:mindex::simplify-96268a8b-5041-4571-913d-7a04ae9c4c50": {
+      "company": "Mindex",
+      "first_seen": "2026-10-02T09:35:40+00:00",
+      "last_seen": "2026-10-02T09:35:40+00:00",
+      "location": "Rochester, NY",
+      "posted_at": "1790932501",
+      "source": "simplify",
+      "title": "Software Engineer Co-op",
+      "url": "https://apply.workable.com/mindex/j/84B10DB922/apply"
+    },
     "simplify:mindlance::simplify-2e79b2fe-c212-4a91-ae33-f27118f41aa7": {
       "company": "Mindlance",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -37766,6 +37776,26 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply"
     },
+    "simplify:shopback::simplify-2555118e-7714-4f03-b900-03de0e5c29db": {
+      "company": "ShopBack",
+      "first_seen": "2026-10-02T09:35:40+00:00",
+      "last_seen": "2026-10-02T09:35:40+00:00",
+      "location": "SF",
+      "posted_at": "1790932325",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15/apply"
+    },
+    "simplify:shopback::simplify-d61fe354-e973-468f-a604-afbdac6662d2": {
+      "company": "ShopBack",
+      "first_seen": "2026-10-02T09:35:40+00:00",
+      "last_seen": "2026-10-02T09:35:40+00:00",
+      "location": "NYC",
+      "posted_at": "1790932325",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98/apply"
+    },
     "simplify:shure::simplify-052aae75-1cb8-41e7-9062-f49eac2a2fd6": {
       "company": "Shure",
       "first_seen": "2026-09-03T08:16:51+00:00",
@@ -40007,6 +40037,16 @@
       "posted_at": "1788474015",
       "title": "Software Developer Placement",
       "url": "https://symphony.com/company/apply?gh_jid=8121112"
+    },
+    "simplify:symphony::simplify-e01e0224-e425-4bc7-b957-ae573fcd0993": {
+      "company": "Symphony",
+      "first_seen": "2026-10-02T09:35:40+00:00",
+      "last_seen": "2026-10-02T09:35:40+00:00",
+      "location": "Belfast, UK",
+      "posted_at": "1790932629",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://symphony.com/company/apply?gh_jid=8121113"
     },
     "simplify:symphony::simplify-e605eb24-fccd-40f1-ba50-1d8692ca8ee7": {
       "company": "Symphony",
@@ -51769,5 +51809,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-02T06:35:56+00:00"
+  "updated_at": "2026-10-02T09:36:10+00:00"
 }
