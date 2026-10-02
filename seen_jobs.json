@@ -1,5 +1,5 @@
 {
-  "count": 6461,
+  "count": 6462,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -4619,6 +4619,16 @@
       "posted_at": "1769579993",
       "title": "Software Development Engineer - 2026",
       "url": "https://www.amazon.jobs/en/jobs/3165932/software-development-engineer-2026-canada"
+    },
+    "simplify:amazon::simplify-169846aa-cf8c-463a-9721-b9826b79a129": {
+      "company": "Amazon",
+      "first_seen": "2026-10-02T06:35:54+00:00",
+      "last_seen": "2026-10-02T06:35:54+00:00",
+      "location": "Seattle, WA, Jessup, MD, Arlington County, Arlington, VA, Denver, CO, Herndon, VA",
+      "posted_at": "1790921279",
+      "source": "simplify",
+      "title": "Software Development Engineer \u2013 Early Career - Amazon Dedicated Cloud - ADC",
+      "url": "https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc"
     },
     "simplify:amazon::simplify-1ab1a45d-f5cc-4187-9f03-f2e2c5c3e021": {
       "company": "Amazon",
@@ -51759,5 +51769,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-02T06:32:53+00:00"
+  "updated_at": "2026-10-02T06:35:56+00:00"
 }
