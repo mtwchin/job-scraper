@@ -1,5 +1,5 @@
 {
-  "count": 6492,
+  "count": 6509,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -6503,6 +6503,16 @@
       "title": "AI/ML Engineering Intern - Summer Student Program",
       "url": "https://aramcoservices.applytojob.com/apply/MdhantU1bV/Information-Technology-2027-Summer-Student-Program"
     },
+    "simplify:arc::simplify-6e2de8e6-b0dd-45d3-915d-9fc952cc4a7f": {
+      "company": "Arc",
+      "first_seen": "2026-10-02T23:03:30+00:00",
+      "last_seen": "2026-10-02T23:03:30+00:00",
+      "location": "Torrance, CA",
+      "posted_at": "1790980215",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008"
+    },
     "simplify:arcfield::simplify-2b7698da-ccad-415d-be19-f8cd939f6521": {
       "company": "Arcfield",
       "first_seen": "2026-09-21T16:24:21+00:00",
@@ -8635,7 +8645,7 @@
     "simplify:bluestaq::simplify-d314f5f4-0dfc-4dcd-9b4a-b27f1694d1b9": {
       "company": "Bluestaq",
       "first_seen": "2026-09-25T14:34:33+00:00",
-      "last_seen": "2026-09-27T00:00:21+00:00",
+      "last_seen": "2026-10-02T23:03:29+00:00",
       "location": "Colorado Springs, CO",
       "posted_at": "1790345284",
       "source": "simplify",
@@ -9232,7 +9242,7 @@
     "simplify:boston scientific::simplify-521a56a4-f683-4861-8565-e081a72736c1": {
       "company": "Boston Scientific",
       "first_seen": "2026-09-24T23:04:32+00:00",
-      "last_seen": "2026-09-27T00:00:21+00:00",
+      "last_seen": "2026-10-02T23:03:29+00:00",
       "location": "Arden Hills, MN",
       "posted_at": "1790288282",
       "source": "simplify",
@@ -10682,6 +10692,16 @@
       "posted_at": "1788998400",
       "title": "Configuration Control/Data Management Co-op - Engineering Department",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440"
+    },
+    "simplify:caci::simplify-d8e06bef-6524-48e2-aded-87d761d5da65": {
+      "company": "CACI",
+      "first_seen": "2026-10-02T23:03:30+00:00",
+      "last_seen": "2026-10-02T23:03:30+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Austin-TX-US/Software-Engineer-Intern---Summer-2027_333037"
     },
     "simplify:caci::simplify-d8f01940-000a-4963-a53a-a8ecc213ca07": {
       "company": "CACI",
@@ -14884,7 +14904,7 @@
     "simplify:deloitte::simplify-e87551ad-e266-4369-aa66-b85287a56ea2": {
       "company": "Deloitte",
       "first_seen": "2026-08-10T23:03:12+00:00",
-      "last_seen": "2026-09-24T00:00:15+00:00",
+      "last_seen": "2026-10-02T23:03:29+00:00",
       "posted_at": "1786401419",
       "title": "Summer Scholar Intern - Government & Public Services - Cyber Software Engineering",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-Cyber-Software-Engineering/362346"
@@ -19290,6 +19310,16 @@
       "title": "Software Engineer Intern - Digital Product: Software Engineering",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546"
     },
+    "simplify:general motors::simplify-93b4a798-697c-42d2-a104-cda1bb152b83": {
+      "company": "General Motors",
+      "first_seen": "2026-10-02T23:03:30+00:00",
+      "last_seen": "2026-10-02T23:03:30+00:00",
+      "location": "Sunnyvale, CA, Warren, MI",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "Software Engineer Intern - AV/AI Platform",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696"
+    },
     "simplify:general motors::simplify-98692bc2-e4ee-44ca-8252-b744fef826af": {
       "company": "General Motors",
       "first_seen": "2026-07-23T07:13:32+00:00",
@@ -20177,7 +20207,7 @@
     "simplify:govsignals::simplify-954f1915-886d-44d2-b63c-900fb3b88410": {
       "company": "GovSignals",
       "first_seen": "2026-09-26T04:51:08+00:00",
-      "last_seen": "2026-09-28T00:54:52+00:00",
+      "last_seen": "2026-10-02T23:03:29+00:00",
       "location": "Remote in USA",
       "posted_at": "1790385438",
       "source": "simplify",
@@ -20694,6 +20724,36 @@
       "title": "Co-Op Student Developer",
       "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/British-Columbia-Canada/XMLNAME--Remote--Co-Op-Student-Developer_R0044310-2"
     },
+    "simplify:harvey::simplify-2149ec11-ebea-44e9-95ff-a9ef69ecacdf": {
+      "company": "Harvey",
+      "first_seen": "2026-10-02T23:03:29+00:00",
+      "last_seen": "2026-10-02T23:03:29+00:00",
+      "location": "SF",
+      "posted_at": "1790979917",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7/application?embed=true"
+    },
+    "simplify:harvey::simplify-4bc0348e-23c1-479d-9a3d-6d47b89b866e": {
+      "company": "Harvey",
+      "first_seen": "2026-10-02T23:03:29+00:00",
+      "last_seen": "2026-10-02T23:03:29+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1790979915",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/harvey/d40e15aa-2351-4be8-ac8f-1faf60bfcdbf/application?embed=true"
+    },
+    "simplify:harvey::simplify-b884d6ac-a1a0-4677-80ed-ce53c57be6e9": {
+      "company": "Harvey",
+      "first_seen": "2026-10-02T23:03:29+00:00",
+      "last_seen": "2026-10-02T23:03:29+00:00",
+      "location": "NYC",
+      "posted_at": "1790979918",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d/application?embed=true"
+    },
     "simplify:harvey::simplify-c4ff30bf-4501-46af-832e-cbe45a12f9f9": {
       "company": "Harvey",
       "first_seen": "2026-07-23T12:58:57+00:00",
@@ -20731,6 +20791,16 @@
       "posted_at": "1784505600",
       "title": "Mainframe Developer",
       "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Developer---Mainframe_R0054977"
+    },
+    "simplify:hcsc::simplify-d9b64d1c-51e8-4aa5-8275-aee5eb3a274e": {
+      "company": "HCSC",
+      "first_seen": "2026-10-02T23:03:30+00:00",
+      "last_seen": "2026-10-02T23:03:30+00:00",
+      "location": "Richardson, TX",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "Early Careers Automation Programmer Intern",
+      "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/TX---Richardson/Early-Careers---Automation-Programmer-Intern_R0059484"
     },
     "simplify:hcsc::simplify-f6413b47-1d7a-4997-ab15-c9c87ae04152": {
       "company": "HCSC",
@@ -22542,6 +22612,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Cybersecurity",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-software-engineering-intern-cybersecurity/27595/100620927616"
+    },
+    "simplify:intuit::simplify-af2c6dba-8d51-48ed-84a8-04702a77d384": {
+      "company": "Intuit",
+      "first_seen": "2026-10-02T23:03:29+00:00",
+      "last_seen": "2026-10-02T23:03:29+00:00",
+      "location": "SF, Mountain View, CA",
+      "posted_at": "1790979605",
+      "source": "simplify",
+      "title": "Marketing Intern - AI Tooling for Marketing Efficiency",
+      "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552"
     },
     "simplify:intuit::simplify-cdbc0a69-360c-4dfe-8c6d-5c0fea16678d": {
       "company": "Intuit",
@@ -25403,6 +25483,16 @@
       "title": "Software Development Intern",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103"
     },
+    "simplify:leidos::simplify-ede62c8f-075b-4ba3-8409-4a187f9b6f1c": {
+      "company": "Leidos",
+      "first_seen": "2026-10-02T23:03:31+00:00",
+      "last_seen": "2026-10-02T23:03:31+00:00",
+      "location": "Annapolis Junction, MD",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804"
+    },
     "simplify:lennar corporation::simplify-54a06b84-67eb-4568-8969-1e478d303342": {
       "company": "Lennar Corporation",
       "first_seen": "2026-08-13T02:36:28+00:00",
@@ -26568,6 +26658,16 @@
       "posted_at": "1786320000",
       "title": "Software Engineer 1 - AI and Decision Product Enablement",
       "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-280783"
+    },
+    "simplify:mastercontrol::simplify-a16db3b5-8163-4ee5-913a-2df08569ad8c": {
+      "company": "MasterControl",
+      "first_seen": "2026-10-02T23:03:30+00:00",
+      "last_seen": "2026-10-02T23:03:30+00:00",
+      "location": "United States",
+      "posted_at": "1790980183",
+      "source": "simplify",
+      "title": "Context Engineering Intern",
+      "url": "https://www.mastercontrol.com/careers/job-listings/role/?role=4738475005&gh_jid=4738475005"
     },
     "simplify:match group::simplify-a62806df-d00b-4b10-9d89-b2e124ba1727": {
       "company": "Match Group",
@@ -28318,6 +28418,16 @@
       "title": "Software Developer/Engineer Intern",
       "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972"
     },
+    "simplify:natera::simplify-53b80883-d4d1-4b69-9bce-15f9ddb4d132": {
+      "company": "Natera",
+      "first_seen": "2026-10-02T23:03:30+00:00",
+      "last_seen": "2026-10-02T23:03:30+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1790980694",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/natera/jobs/6188497004"
+    },
     "simplify:national information solutions cooperative::simplify-13bbc7c4-2a80-4fd9-a89b-51601d50188c": {
       "company": "National Information Solutions Cooperative",
       "first_seen": "2026-09-03T08:16:51+00:00",
@@ -28605,6 +28715,16 @@
       "source": "simplify",
       "title": "Front-End Engineer Intern - UX/UI",
       "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Madison-WI/Intern---UX-UI-Front-End-Engineer_R23118"
+    },
+    "simplify:nelnet::simplify-b761fed7-c990-47a1-884c-8d67dabdcc04": {
+      "company": "Nelnet",
+      "first_seen": "2026-10-02T23:03:30+00:00",
+      "last_seen": "2026-10-02T23:03:30+00:00",
+      "location": "Lincoln, NE",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "IT Software Engineer Intern",
+      "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198"
     },
     "simplify:neon health::simplify-062d52cd-75cb-4a14-a428-ccae778d2f6d": {
       "company": "Neon Health",
@@ -38780,6 +38900,16 @@
       "title": "Software Engineer Co-op - R&D- Data Integrations",
       "url": "https://jobs.ashbyhq.com/solink/df855bdc-1d59-4af5-b7dc-5e23801aeb30/application"
     },
+    "simplify:solink::simplify-eea4ff21-9352-4ee4-a01b-10830a6c73cd": {
+      "company": "Solink",
+      "first_seen": "2026-10-02T23:03:30+00:00",
+      "last_seen": "2026-10-02T23:03:30+00:00",
+      "location": "Ottawa, ON, Canada, Remote in Canada",
+      "posted_at": "1790979791",
+      "source": "simplify",
+      "title": "Software Engineer Co-op - Agents",
+      "url": "https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true"
+    },
     "simplify:solopulse::simplify-6eab1924-cfad-4106-b8c6-162292dcc659": {
       "company": "SoloPulse",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -39270,6 +39400,16 @@
       "posted_at": "1785450179",
       "title": "Technical Intern",
       "url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5199580007"
+    },
+    "simplify:spartannash::simplify-a3297773-4d22-478c-97d6-f6f974481782": {
+      "company": "SpartanNash",
+      "first_seen": "2026-10-02T23:03:31+00:00",
+      "last_seen": "2026-10-02T23:03:31+00:00",
+      "location": "Byron Center, MI",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "IS Intern - IT Ecommerce & Marketing Developer",
+      "url": "https://spartannash.wd1.myworkdayjobs.com/SpartanNash_Careers/job/Byron-Center-Michigan/IS-Internship---IT-Ecommerce---Marketing-Developer_R90110"
     },
     "simplify:specialisterne::simplify-01f94977-fc40-414b-bd6d-f44693eacceb": {
       "company": "Specialisterne",
@@ -41279,6 +41419,16 @@
       "posted_at": "1780795231",
       "title": "Software Engineer Intern - Software Engineer - Information Security",
       "url": "https://www.tesla.com/careers/search/job/270497"
+    },
+    "simplify:tesla::simplify-6f49e470-0a16-4b21-86e6-7a8a8a5cd275": {
+      "company": "Tesla",
+      "first_seen": "2026-10-02T23:03:29+00:00",
+      "last_seen": "2026-10-02T23:03:29+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1790979739",
+      "source": "simplify",
+      "title": "Distributed Systems Software Engineer Intern - Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/285508"
     },
     "simplify:tesla::simplify-74cf1c10-8e9a-4066-a47c-024ca7ecbf4b": {
       "company": "Tesla",
@@ -45591,6 +45741,16 @@
       "title": "College to Corporate IT Intern - Application Development",
       "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Application-Development--PA-_182757"
     },
+    "simplify:vanguard::simplify-7221b5ee-e8cc-4524-8eaa-271123e68f19": {
+      "company": "Vanguard",
+      "first_seen": "2026-10-02T23:03:30+00:00",
+      "last_seen": "2026-10-02T23:03:30+00:00",
+      "location": "Malvern, PA",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "College to Corporate Investment Systems Intern",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship-Investment-Systems--PA-_182782"
+    },
     "simplify:vanguard::simplify-75aa7777-17b6-4d18-aee4-1c1eec8392e7": {
       "company": "Vanguard",
       "first_seen": "2026-07-25T04:20:05+00:00",
@@ -45673,6 +45833,16 @@
       "posted_at": "1786924800",
       "title": "Application Engineer - 2027 Start Date",
       "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/Entry-Level-Application-Engineer----2027-Start-Date_180412"
+    },
+    "simplify:vanguard::simplify-fb114fa5-9998-4bf6-a24b-a36888f142a8": {
+      "company": "Vanguard",
+      "first_seen": "2026-10-02T23:03:30+00:00",
+      "last_seen": "2026-10-02T23:03:30+00:00",
+      "location": "Charlotte, NC",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "IT Intern Application Development",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781"
     },
     "simplify:vantor::simplify-7056e132-e311-407b-b4f0-383070144ec9": {
       "company": "Vantor",
@@ -52072,5 +52242,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-02T22:34:57+00:00"
+  "updated_at": "2026-10-02T23:04:00+00:00"
 }
