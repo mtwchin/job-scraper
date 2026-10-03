@@ -1,5 +1,5 @@
 {
-  "count": 6517,
+  "count": 6518,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -19975,7 +19975,7 @@
     "simplify:goldman sachs::simplify-5bdec003-2a02-42a4-a602-467541840552": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-10-02T00:00:32+00:00",
+      "last_seen": "2026-10-03T06:31:33+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171565?type=students"
@@ -24154,6 +24154,16 @@
       "source": "simplify",
       "title": "Software Developer Intern",
       "url": "https://jobs.keysight.com/jobs/54638?icims=1"
+    },
+    "simplify:keysight technologies::simplify-3bdfa3d0-178e-48f0-be29-54a668942c5c": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-10-03T06:31:34+00:00",
+      "last_seen": "2026-10-03T06:31:34+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1791007697",
+      "source": "simplify",
+      "title": "R&D Software Engineering Intern",
+      "url": "https://jobs.keysight.com/jobs/54388?icims=1"
     },
     "simplify:keysight technologies::simplify-4502389a-6ef3-48e3-8d38-3597746c545a": {
       "company": "Keysight Technologies",
@@ -52323,5 +52333,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-03T06:05:31+00:00"
+  "updated_at": "2026-10-03T06:32:33+00:00"
 }
