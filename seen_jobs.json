@@ -1,5 +1,5 @@
 {
-  "count": 6531,
+  "count": 6544,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -23969,6 +23969,16 @@
       "title": "Simulation Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008"
     },
+    "simplify:k2 space::simplify-a840420b-b4ca-4303-905a-df709dbd8929": {
+      "company": "K2 Space",
+      "first_seen": "2026-10-03T23:07:04+00:00",
+      "last_seen": "2026-10-03T23:07:04+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1786141859",
+      "source": "simplify",
+      "title": "Ground Software Engineer",
+      "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5373554008"
+    },
     "simplify:kabam::simplify-dbfe4708-798e-4b79-be16-9b8cecdd27b4": {
       "company": "Kabam",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -30353,6 +30363,7 @@
     "simplify:notability::simplify-33c29f4d-ba3e-4b4e-8d7f-ba31f0fe0e0b": {
       "company": "Notability",
       "first_seen": "2026-07-27T11:44:05+00:00",
+      "last_seen": "2026-10-03T23:07:03+00:00",
       "posted_at": "1785143651",
       "title": "Engineer \u2013 Web Apps",
       "url": "https://job-boards.greenhouse.io/gingerlabsinc/jobs/4928821008"
@@ -39317,6 +39328,26 @@
       "title": "Web Developer Assistant - Enterprise Application Support Team",
       "url": "https://spacedynamicslaboratory.applytojob.com/apply/nWr4gII3yE/Student-Web-Developer-Assistant"
     },
+    "simplify:spacex::simplify-06f2652b-d13a-433f-9b93-9a30c7780f51": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-03T23:07:04+00:00",
+      "last_seen": "2026-10-03T23:07:04+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1781042862",
+      "source": "simplify",
+      "title": "Software Engineer - High Performance Computing - Starlink",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8578909002"
+    },
+    "simplify:spacex::simplify-09d603c7-e482-4043-9064-d02624ab5b71": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-03T23:07:04+00:00",
+      "last_seen": "2026-10-03T23:07:04+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1780006233",
+      "source": "simplify",
+      "title": "Software Engineer - Starlink Mobile",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8568939002"
+    },
     "simplify:spacex::simplify-11300faa-161b-483b-9520-12054a5957e6": {
       "company": "SpaceX",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -39347,6 +39378,16 @@
       "title": "Full Stack Software Engineer",
       "url": "https://boards.greenhouse.io/spacex/jobs/8501225002"
     },
+    "simplify:spacex::simplify-1b0ed45f-daff-44e4-96e2-551ed31d329e": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-03T23:07:04+00:00",
+      "last_seen": "2026-10-03T23:07:04+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1790990823",
+      "source": "simplify",
+      "title": "Product Operations Engineer - Government Applications - Special Programs",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8864991002"
+    },
     "simplify:spacex::simplify-1f50cd90-b872-416f-8df0-0c482c23b642": {
       "company": "SpaceX",
       "first_seen": "2026-08-14T22:52:09+00:00",
@@ -39372,6 +39413,7 @@
     "simplify:spacex::simplify-2aec360c-7d97-44c9-90e1-5ad25913c551": {
       "company": "SpaceX",
       "first_seen": "2026-07-02T21:01:41+00:00",
+      "last_seen": "2026-10-03T23:07:03+00:00",
       "posted_at": "1779919835",
       "title": "Software Engineer - Hardware Test & Automation - Starlink",
       "url": "https://boards.greenhouse.io/spacex/jobs/8565155002"
@@ -39404,6 +39446,16 @@
       "posted_at": "1782177415",
       "title": "Application Software Engineer - Manufacturing",
       "url": "https://boards.greenhouse.io/spacex/jobs/8603667002"
+    },
+    "simplify:spacex::simplify-4b9ddebc-2055-4985-b5fc-dda6a3c768c8": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-03T23:07:04+00:00",
+      "last_seen": "2026-10-03T23:07:04+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1785277387",
+      "source": "simplify",
+      "title": "Software Engineer - Power Optimization",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8647459002"
     },
     "simplify:spacex::simplify-4eb66fa6-dd81-415a-9719-a5c8c1e7e12b": {
       "company": "SpaceX",
@@ -39443,6 +39495,16 @@
       "title": "Software Engineering Intern/Co-op",
       "url": "https://boards.greenhouse.io/spacex/jobs/8621757002"
     },
+    "simplify:spacex::simplify-6eab19d8-8453-44ae-9268-15dac78bd24e": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-03T23:07:04+00:00",
+      "last_seen": "2026-10-03T23:07:04+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1787784117",
+      "source": "simplify",
+      "title": "Software Engineer - Flight Software - Starlink",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8752581002"
+    },
     "simplify:spacex::simplify-72234fcf-6866-4797-aa4b-afd49f2e7924": {
       "company": "SpaceX",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -39456,6 +39518,16 @@
       "posted_at": "1781821066",
       "title": "Software Engineer - Pcba - Starlink",
       "url": "https://boards.greenhouse.io/spacex/jobs/8584271002"
+    },
+    "simplify:spacex::simplify-7a35029d-b31d-4808-b832-684d33277c1f": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-03T23:07:04+00:00",
+      "last_seen": "2026-10-03T23:07:04+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1781042862",
+      "source": "simplify",
+      "title": "Software Engineer - Beam Planning - Starlink",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8578907002"
     },
     "simplify:spacex::simplify-7ded4e20-5915-4f94-be05-cbe546931c8b": {
       "company": "SpaceX",
@@ -39472,12 +39544,32 @@
       "title": "Software Engineer - Starlink Mobile",
       "url": "https://boards.greenhouse.io/spacex/jobs/8567634002"
     },
+    "simplify:spacex::simplify-84714d32-005b-48ea-8f5c-b4cf769c7deb": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-03T23:07:04+00:00",
+      "last_seen": "2026-10-03T23:07:04+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1779315080",
+      "source": "simplify",
+      "title": "Software Engineer - Platform Team",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8558858002"
+    },
     "simplify:spacex::simplify-89193688-20ca-44aa-b2df-5bc8c90e3cf9": {
       "company": "SpaceX",
       "first_seen": "2026-07-02T21:01:41+00:00",
       "posted_at": "1775513995",
       "title": "Full Stack Software Engineer - Application Software",
       "url": "https://boards.greenhouse.io/spacex/jobs/8495180002"
+    },
+    "simplify:spacex::simplify-8e4af5eb-1169-42d9-b552-ba119fb9f0a0": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-03T23:07:04+00:00",
+      "last_seen": "2026-10-03T23:07:04+00:00",
+      "location": "Hawthorne, CA",
+      "posted_at": "1782512927",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8605075002"
     },
     "simplify:spacex::simplify-915951dd-70ca-48b8-9767-8d9541dbca43": {
       "company": "SpaceX",
@@ -39508,6 +39600,16 @@
       "posted_at": "1783980696",
       "title": "Application Software Engineer",
       "url": "https://boards.greenhouse.io/spacex/jobs/8632103002"
+    },
+    "simplify:spacex::simplify-a2caf0cf-c90c-43b1-9914-3f9987389c30": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-03T23:07:04+00:00",
+      "last_seen": "2026-10-03T23:07:04+00:00",
+      "location": "Hawthorne, CA",
+      "posted_at": "1782523611",
+      "source": "simplify",
+      "title": "Full Stack Software Engineer",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8610872002"
     },
     "simplify:spacex::simplify-ab5425fe-34cf-4b24-ace3-73fdb7eb3b44": {
       "company": "SpaceX",
@@ -39567,6 +39669,16 @@
       "posted_at": "1768606797",
       "title": "New Graduate Engineer - Software - Starlink",
       "url": "https://boards.greenhouse.io/spacex/jobs/8376990002"
+    },
+    "simplify:spacex::simplify-e49aa991-ccca-47e8-9561-11cabf65f0a1": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-03T23:07:04+00:00",
+      "last_seen": "2026-10-03T23:07:04+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1787869234",
+      "source": "simplify",
+      "title": "Embedded Software Engineer - OS/Platform - Starlink",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8752935002"
     },
     "simplify:spacex::simplify-ed8feb9e-1d5d-49ae-a70f-b4d24228a9d6": {
       "company": "SpaceX",
@@ -41240,6 +41352,7 @@
     "simplify:teletracking::simplify-aa9c2e24-8baf-48cc-92ec-a9624e201b7e": {
       "company": "TeleTracking",
       "first_seen": "2026-08-26T22:44:32+00:00",
+      "last_seen": "2026-10-03T23:07:03+00:00",
       "posted_at": "1787772638",
       "title": "Software Engineer 1 - Logistics Engineering",
       "url": "https://job-boards.greenhouse.io/teletrackingtechnologiesinc/jobs/5397299008"
@@ -42196,6 +42309,16 @@
       "posted_at": "1785305398",
       "title": "Junior Software Engineer - AI-Forward",
       "url": "https://apply.workable.com/texas-sports-academy-main/j/2132C3AB96/apply"
+    },
+    "simplify:texas sports academy::simplify-986968af-4a3a-4038-96dc-9caaa8a58066": {
+      "company": "Texas Sports Academy",
+      "first_seen": "2026-10-03T23:07:04+00:00",
+      "last_seen": "2026-10-03T23:07:04+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1790817425",
+      "source": "simplify",
+      "title": "Junior AI Software Engineer",
+      "url": "https://apply.workable.com/texas-sports-academy-main/j/A9A9F4A25A/apply"
     },
     "simplify:texas sports academy::simplify-9ee25097-f93f-4cf5-94fc-b8071589bf17": {
       "company": "Texas Sports Academy",
@@ -44796,6 +44919,16 @@
       "posted_at": "1788907745",
       "title": "Software Engineer 1 New Grad - Elixir",
       "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007"
+    },
+    "simplify:true anomaly::simplify-f4a1644a-9004-40ea-81a6-7d0272c9d007": {
+      "company": "True Anomaly",
+      "first_seen": "2026-10-03T23:07:04+00:00",
+      "last_seen": "2026-10-03T23:07:04+00:00",
+      "location": "Long Beach, CA, Denver, CO",
+      "posted_at": "1781658700",
+      "source": "simplify",
+      "title": "Platform Engineer - AI",
+      "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166540007"
     },
     "simplify:true anomaly::simplify-f5899221-db12-4026-a976-4ea6742899cc": {
       "company": "True Anomaly",
@@ -52466,5 +52599,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-03T23:02:48+00:00"
+  "updated_at": "2026-10-03T23:07:50+00:00"
 }
