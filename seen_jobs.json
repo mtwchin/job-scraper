@@ -1,5 +1,5 @@
 {
-  "count": 6515,
+  "count": 6517,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -11838,7 +11838,7 @@
     "simplify:charles schwab::simplify-09239b96-d26a-4691-b9ab-9b8b442caa9f": {
       "company": "Charles Schwab",
       "first_seen": "2026-08-29T02:50:35+00:00",
-      "last_seen": "2026-09-28T00:54:52+00:00",
+      "last_seen": "2026-10-03T01:36:43+00:00",
       "posted_at": "1787963196",
       "title": "Software Engineering Intern - Technology",
       "url": "https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false"
@@ -15916,6 +15916,16 @@
       "source": "simplify",
       "title": "Gameplay Engineer Intern",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245"
+    },
+    "simplify:electronic arts::simplify-b45557a0-8993-4135-8a47-273587c395f5": {
+      "company": "Electronic Arts",
+      "first_seen": "2026-10-03T01:36:43+00:00",
+      "last_seen": "2026-10-03T01:36:43+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1790990108",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027/216239"
     },
     "simplify:electronic arts::simplify-bc6412bd-7dbe-456e-8c67-d2002acadeaa": {
       "company": "Electronic Arts",
@@ -21210,6 +21220,16 @@
       "title": "Software Engineer 1",
       "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Software-Engineer-I_R-30741"
     },
+    "simplify:hntb::simplify-92c455d6-d3f6-4d95-b523-eeca0104e5a8": {
+      "company": "HNTB",
+      "first_seen": "2026-10-03T01:36:43+00:00",
+      "last_seen": "2026-10-03T01:36:43+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "AI Business Process Developer Intern",
+      "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865"
+    },
     "simplify:hometap::simplify-c5436868-7e21-49cc-a04a-94724650c511": {
       "company": "Hometap",
       "first_seen": "2026-09-15T22:46:06+00:00",
@@ -24345,7 +24365,7 @@
     "simplify:kinaxis::simplify-d3e5ba1e-a291-46e1-a4b3-7da47159deb3": {
       "company": "Kinaxis",
       "first_seen": "2026-09-25T23:20:48+00:00",
-      "last_seen": "2026-10-02T00:00:32+00:00",
+      "last_seen": "2026-10-03T01:36:43+00:00",
       "location": "Ottawa, ON, Canada",
       "posted_at": "1790374079",
       "source": "simplify",
@@ -52303,5 +52323,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-03T01:35:10+00:00"
+  "updated_at": "2026-10-03T01:37:12+00:00"
 }
