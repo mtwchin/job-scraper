@@ -1,5 +1,5 @@
 {
-  "count": 6514,
+  "count": 6515,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -31933,6 +31933,16 @@
       "title": "Full Stack Software Engineer 1 - Interfaces",
       "url": "https://boards.greenhouse.io/parallel/jobs/5247800007"
     },
+    "simplify:parasail::simplify-1b4b4857-a0e7-40ae-911b-03e1528c4c9f": {
+      "company": "Parasail",
+      "first_seen": "2026-10-03T01:34:26+00:00",
+      "last_seen": "2026-10-03T01:34:26+00:00",
+      "location": "San Mateo, CA",
+      "posted_at": "1790990235",
+      "source": "simplify",
+      "title": "Software Engineer New Grad - Forward Deploy",
+      "url": "https://jobs.ashbyhq.com/parasail/da595923-4e35-4ba1-875d-383276069cf7/application?embed=true"
+    },
     "simplify:pariveda solutions::simplify-1b2d5e3a-9ab3-42a9-ab25-8ade9c457825": {
       "company": "Pariveda Solutions",
       "first_seen": "2026-08-03T23:19:57+00:00",
@@ -52293,5 +52303,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-03T00:06:07+00:00"
+  "updated_at": "2026-10-03T01:35:10+00:00"
 }
