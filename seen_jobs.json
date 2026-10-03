@@ -1,5 +1,5 @@
 {
-  "count": 6519,
+  "count": 6520,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -10772,6 +10772,16 @@
       "posted_at": "1786411938",
       "title": "Software Engineer Intern",
       "url": "https://apply.workable.com/trycaddi/j/9D1291C697/apply"
+    },
+    "simplify:cadence design systems::simplify-11026e9a-3bdc-4a1f-b5ce-7ac1a1b56e6b": {
+      "company": "Cadence Design Systems",
+      "first_seen": "2026-10-03T10:33:32+00:00",
+      "last_seen": "2026-10-03T10:33:32+00:00",
+      "location": "California",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "AI / Agentic AI / GenAI Intern - IT",
+      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/HOME-CA/AI---Agentic-AI---GenAI-Intern---IT--Fall-2026-_R56657"
     },
     "simplify:cadence design systems::simplify-13834a5f-488b-4fc4-bdd9-d3bff5044f25": {
       "company": "Cadence Design Systems",
@@ -52344,5 +52354,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-03T10:07:17+00:00"
+  "updated_at": "2026-10-03T10:34:19+00:00"
 }
