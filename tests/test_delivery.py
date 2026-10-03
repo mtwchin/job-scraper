@@ -1,6 +1,7 @@
 """Webhook delivery persists a claim before the HTTP request."""
 import pytest
 import requests
+import urllib3
 
 from jobscraper import main, notify, settings
 from jobscraper.models import Job
@@ -55,6 +56,46 @@ def test_rejected_webhook_can_retry(tmp_path, monkeypatch):
     reloaded = SeenStore(path)
     assert not reloaded.delivery_attempts
     assert reloaded.is_new(posting)
+
+
+def _dns_failure(*a, **kw):
+    reason = urllib3.exceptions.NameResolutionError("discord.com", None, "Temporary failure")
+    raise requests.ConnectionError(urllib3.exceptions.MaxRetryError(None, "/", reason))
+
+
+@pytest.mark.parametrize("error", [_dns_failure, requests.ConnectTimeout])
+def test_unsent_webhook_request_is_retried(tmp_path, monkeypatch, error):
+    """A request that never left the runner can't have posted anything, so it
+    must not be parked as 'unknown outcome' — that would mean never sending it."""
+    path = tmp_path / "state.json"
+    store = _ready_store(path)
+    posting = _job(1)
+    monkeypatch.setattr(settings, "DRY_RUN", False)
+    monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "https://example.test/webhook")
+    if isinstance(error, type):
+        monkeypatch.setattr(notify.http, "post", lambda *a, **kw: (_ for _ in ()).throw(error()))
+    else:
+        monkeypatch.setattr(notify.http, "post", error)
+
+    with pytest.raises(notify.WebhookRejected, match="unreachable"):
+        main.dispatch(store, *_collection([posting]))
+    reloaded = SeenStore(path)
+    assert not reloaded.delivery_attempts
+    assert reloaded.is_new(posting)
+
+
+def test_dropped_connection_after_send_stays_ambiguous(tmp_path, monkeypatch):
+    path = tmp_path / "state.json"
+    store = _ready_store(path)
+    posting = _job(1)
+    monkeypatch.setattr(settings, "DRY_RUN", False)
+    monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "https://example.test/webhook")
+    aborted = requests.ConnectionError(urllib3.exceptions.ProtocolError("Connection aborted."))
+    monkeypatch.setattr(notify.http, "post", lambda *a, **kw: (_ for _ in ()).throw(aborted))
+
+    with pytest.raises(RuntimeError, match="request failed"):
+        main.dispatch(store, *_collection([posting]))
+    assert posting.uid in SeenStore(path).delivery_attempts
 
 
 def test_successful_first_batch_persists_before_second_times_out(tmp_path, monkeypatch):

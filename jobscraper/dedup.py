@@ -26,7 +26,7 @@ from urllib.parse import parse_qsl, urlsplit
 # referral, board-source tags) is dropped so the same job linked from two places
 # collapses to one key.
 _MEANINGFUL_QUERY_KEYS = {
-    "jobid", "job_id", "gh_jid", "id", "req", "reqid", "req_id", "jid", "pid",
+    "job", "jobid", "job_id", "gh_jid", "id", "req", "reqid", "req_id", "jid", "pid",
     "posting", "postingid", "jobpostingid", "rid", "vacancyid", "positionid",
 }
 
@@ -39,6 +39,40 @@ _COMPANY_SUFFIXES = (
 
 _WS = re.compile(r"\s+")
 _NON_ALNUM = re.compile(r"[^a-z0-9]+")
+
+
+# Big ATSs reach us under several link shapes for one posting: the direct
+# adapter's link, and the aggregators' copy of it. Greenhouse alone shows up as
+# boards.greenhouse.io/x/jobs/N, job-boards.greenhouse.io/x/jobs/N?gh_jid=N, and
+# careers.company.com/jobs?gh_jid=N; Ashby and Lever append /application or
+# /apply; Workday inserts a locale. Generic URL cleanup can't see that those are
+# one posting, and each mismatch was a second Discord ping hours after the first.
+# These ids are unique within the ATS (per tenant, for Workday), so they key the
+# posting directly.
+_GREENHOUSE_PATH = re.compile(r"^/[^/]+/jobs/(\d+)$")
+_UUID_POSTING = re.compile(r"^/[^/]+/([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})(?:/(?:application|apply))?$")
+_WORKDAY_REQ = re.compile(r"/job/(?:[^/]+/)*[^/]*_([a-z0-9-]*\d[a-z0-9-]*)$")
+
+
+def _ats_identity(host: str, path: str, params: list[tuple[str, str]]) -> str:
+    """ATS-level posting key for a known ATS link, or "" to fall back to the URL."""
+    if host.endswith("greenhouse.io") and (m := _GREENHOUSE_PATH.match(path)):
+        return f"greenhouse:{m.group(1)}"
+    gh_jid = next((v for k, v in params if k.lower() == "gh_jid" and v.isdigit()), "")
+    if gh_jid:
+        return f"greenhouse:{gh_jid}"
+    if host.endswith("greenhouse.io") and path == "/embed/job_app":
+        # The embedded application form carries the posting id as `token`.
+        token = next((v for k, v in params if k.lower() == "token" and v.isdigit()), "")
+        if token:
+            return f"greenhouse:{token}"
+    if host in ("jobs.ashbyhq.com", "jobs.lever.co", "jobs.eu.lever.co"):
+        if (m := _UUID_POSTING.match(path)):
+            return f"{host.split('.')[-2]}:{m.group(1)}"
+    if host.endswith(".myworkdayjobs.com") and (m := _WORKDAY_REQ.search(path)):
+        tenant = host.split(".", 1)[0]
+        return f"workday:{tenant}:{m.group(1)}"
+    return ""
 
 
 def canonical_url(url: str) -> str:
@@ -67,9 +101,13 @@ def canonical_url(url: str) -> str:
     if not host and not path:
         return ""
 
+    params = parse_qsl(parts.query, keep_blank_values=False)
+    if (ats := _ats_identity(host, path.lower(), params)):
+        return ats
+
     kept = sorted(
         (k.lower(), v)
-        for k, v in parse_qsl(parts.query, keep_blank_values=False)
+        for k, v in params
         if k.lower() in _MEANINGFUL_QUERY_KEYS and v
     )
     query = "&".join(f"{k}={v}" for k, v in kept)

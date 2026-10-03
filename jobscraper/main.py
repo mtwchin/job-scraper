@@ -13,6 +13,7 @@ company's own ATS is hundreds of requests, so it runs on a slower cadence.
 from __future__ import annotations
 
 import concurrent.futures as cf
+import time
 from dataclasses import dataclass, field
 
 from . import adapters, filters, log, notify, settings
@@ -35,16 +36,26 @@ class Collection:
     changed: bool = True
 
 
+# How long each company's last fetch took, so the next sweep can start the
+# slowest boards first. A sweep lasts as long as its slowest board's finish
+# time; in file order a 15s board listed near the bottom starts after everything
+# above it and holds the whole sweep (and the loop behind it) open.
+_last_fetch_seconds: dict[str, float] = {}
+
+
 def _fetch_company(company: CompanyConfig) -> tuple[CompanyConfig, list[Job], str | None]:
     """Fetch one company. Never raises — returns an error string instead so a
     single bad board can't take down the run."""
     fetch = adapters.get(company.adapter)
     if fetch is None:
         return company, [], f"unknown adapter '{company.adapter}'"
+    started = time.monotonic()
     try:
         return company, fetch(company), None
     except Exception as exc:  # noqa: BLE001 - isolation is the whole point
         return company, [], f"[{company.adapter}] {type(exc).__name__}: {exc}"
+    finally:
+        _last_fetch_seconds[company.name] = time.monotonic() - started
 
 
 def _passes_filters(job: Job) -> bool:
@@ -91,6 +102,8 @@ def collect_matches(include_companies: bool = True,
         enabled = [c for c in load_companies(settings.COMPANIES_FILE) if c.enabled]
         if only_priority:
             enabled = [c for c in enabled if c.name.casefold() in settings.PRIORITY_COMPANIES]
+        # Unmeasured boards sort first: they might be slow, and it costs nothing.
+        enabled.sort(key=lambda c: -_last_fetch_seconds.get(c.name, float("inf")))
         result.n_enabled = len(enabled)
         logger.info(
             "Checking %d companies | roles=%s off_season=%s us_ca=%s concurrency=%d (freshness=dedup)",
@@ -180,21 +193,33 @@ def _collect_aggregators(result: Collection, general: Collection, seen: KeySet,
     return changed
 
 
-def _maybe_health_alert(c: Collection, store: SeenStore) -> None:
-    """Alert once per systemic outage and re-arm after a healthy sweep."""
+def _maybe_health_alert(c: Collection, store: SeenStore, min_sweeps: int) -> None:
+    """Alert once per systemic outage and re-arm after a healthy sweep.
+
+    The error rate has to stay high for `min_sweeps` sweeps in a row first, so a
+    momentary blip on the runner (every host failing DNS at once) doesn't page.
+    """
     if c.n_enabled == 0:
         return
     rate = len(c.errors) / c.n_enabled
     if rate < settings.HEALTH_ALERT_THRESHOLD:
+        store.health_bad_streak = 0
         if store.health_alert_active and not settings.DRY_RUN:
             store.health_alert_active = False
             store._dirty = True
             store.save()
         return
+    store.health_bad_streak += 1
+    if store.health_bad_streak < min_sweeps:
+        logger.warning("%d/%d companies errored this sweep (%.0f%%); alerting if it persists. First: %s",
+                       len(c.errors), c.n_enabled, rate * 100, c.errors[0] if c.errors else "")
+        return
     if not store.health_alert_active:
         msg = (
             f"⚠️ Scraper health: {len(c.errors)}/{c.n_enabled} companies errored "
-            f"this run ({rate:.0%}). Possible platform outage or a broken adapter. "
+            f"this run ({rate:.0%})"
+            + (f", {store.health_bad_streak} sweeps in a row" if store.health_bad_streak > 1 else "")
+            + ". Possible platform outage or a broken adapter. "
             f"First few: " + "; ".join(c.errors[:3])
         )
         logger.warning(msg)
@@ -275,7 +300,8 @@ def _absorb_new_sources(store: SeenStore, *buckets: list[Job]) -> dict[str, int]
     return absorbed
 
 
-def dispatch(store: SeenStore, c: Collection, general: Collection) -> int:
+def dispatch(store: SeenStore, c: Collection, general: Collection,
+             health_min_sweeps: int | None = None) -> int:
     """Notify on everything new in this sweep and record it. Returns how many
     notifications were sent.
 
@@ -296,7 +322,7 @@ def dispatch(store: SeenStore, c: Collection, general: Collection) -> int:
     )
     for line in c.errors:
         logger.debug("  ! %s", line)
-    _maybe_health_alert(c, store)
+    _maybe_health_alert(c, store, health_min_sweeps or settings.HEALTH_ALERT_SWEEPS)
 
     if not store.existed and settings.SEED_QUIETLY:
         # Genuine first run: absorb the whole backlog silently so we don't dump it.
@@ -394,7 +420,8 @@ def run() -> int:
 
     store = SeenStore(settings.STATE_FILE)
     c, general = collect_matches()
-    dispatch(store, c, general)
+    # A one-shot run never sees a second sweep, so it can't wait for a streak.
+    dispatch(store, c, general, health_min_sweeps=1)
 
     if (dropped := store.prune(settings.PRUNE_DELISTED_DAYS)):
         logger.info("Pruned %d record(s) for postings delisted >%dd ago.",

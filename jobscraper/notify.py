@@ -5,6 +5,7 @@ import time
 from collections.abc import Callable
 
 import requests
+import urllib3
 
 from . import http, settings
 from .models import Job
@@ -58,6 +59,22 @@ def _embed(job: Job) -> dict:
     return embed
 
 
+def _never_sent(exc: requests.RequestException) -> bool:
+    """True when the request provably never reached Discord.
+
+    A DNS failure or a connection that never opened can't have delivered
+    anything, so those jobs are safe to retry next cycle. Left as "unknown",
+    they'd sit in delivery_attempts forever and never be sent at all. Anything
+    after the connection opened (read timeouts, dropped connections) stays
+    ambiguous: Discord may have posted the message.
+    """
+    if isinstance(exc, requests.ConnectTimeout):
+        return True
+    reason = getattr(exc.args[0], "reason", None) if exc.args else None
+    return isinstance(exc, requests.ConnectionError) and isinstance(
+        reason, urllib3.exceptions.ConnectTimeoutError)  # NewConnectionError/DNS subclass this
+
+
 def _post(payload: dict, webhook_url: str) -> None:
     if settings.DRY_RUN:
         return
@@ -71,6 +88,9 @@ def _post(payload: dict, webhook_url: str) -> None:
             resp = http.post(webhook_url, json=payload, retries=0)
         except requests.RequestException as exc:
             # requests exceptions can contain the complete secret webhook URL.
+            if _never_sent(exc):
+                raise WebhookRejected(
+                    f"Discord webhook unreachable: {type(exc).__name__}") from None
             raise RuntimeError(f"Discord webhook request failed: {type(exc).__name__}") from None
         if resp.status_code == 429 and attempt == 0:
             try:
