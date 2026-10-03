@@ -1,5 +1,5 @@
 {
-  "count": 6521,
+  "count": 6531,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -5776,6 +5776,16 @@
       "title": "Mobile Engineer",
       "url": "https://jobs.ashbyhq.com/ando/3b23fc33-9e45-4213-959b-d313e418e6d0/application?embed=true"
     },
+    "simplify:anduril::simplify-157b6bc2-6368-407f-9ba7-8af25443d0be": {
+      "company": "Anduril",
+      "first_seen": "2026-10-03T22:35:34+00:00",
+      "last_seen": "2026-10-03T22:35:34+00:00",
+      "location": "Quincy, MA",
+      "posted_at": "1787682237",
+      "source": "simplify",
+      "title": "Mission Software Engineer - Undersea Reconnaissance & Strike",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5221253007"
+    },
     "simplify:anduril::simplify-275e9160-4185-4092-a492-236d2818469a": {
       "company": "Anduril",
       "first_seen": "2026-07-09T00:00:01+00:00",
@@ -5791,6 +5801,16 @@
       "title": "Early Career Software Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/4802146007"
     },
+    "simplify:anduril::simplify-5f3545fd-befc-4335-8c6c-feb35e86dfa7": {
+      "company": "Anduril",
+      "first_seen": "2026-10-03T22:35:34+00:00",
+      "last_seen": "2026-10-03T22:35:34+00:00",
+      "location": "Quincy, MA",
+      "posted_at": "1788238701",
+      "source": "simplify",
+      "title": "Senior Mission Software Engineer - Undersea Reconnaissance & Strike",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5226466007"
+    },
     "simplify:anduril::simplify-62751ae8-bd05-4fa8-8629-d50f034fcc04": {
       "company": "Anduril",
       "first_seen": "2026-08-19T02:22:37+00:00",
@@ -5798,6 +5818,26 @@
       "posted_at": "1787103087",
       "title": "Software Engineer - Tracking",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5215629007"
+    },
+    "simplify:anduril::simplify-81c985f6-1a98-41d6-81bc-4765dee97c77": {
+      "company": "Anduril",
+      "first_seen": "2026-10-03T22:35:34+00:00",
+      "last_seen": "2026-10-03T22:35:34+00:00",
+      "location": "Costa Mesa, CA",
+      "posted_at": "1788533725",
+      "source": "simplify",
+      "title": "Mission Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5208852007"
+    },
+    "simplify:anduril::simplify-8366b835-fcb2-42c4-870b-33c348adf1e5": {
+      "company": "Anduril",
+      "first_seen": "2026-10-03T22:35:34+00:00",
+      "last_seen": "2026-10-03T22:35:34+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1788238701",
+      "source": "simplify",
+      "title": "Senior Mission Software Engineer - Undersea Reconnaissance & Strike",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5226472007"
     },
     "simplify:anduril::simplify-9b3d2be7-1291-4e46-8d88-5212363141cd": {
       "company": "Anduril",
@@ -5840,6 +5880,16 @@
       "title": "Software Engineer - Battlespace Awareness",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5240165007"
     },
+    "simplify:anduril::simplify-bcf0ebb5-fa28-4ab5-94e0-888b2793c7e6": {
+      "company": "Anduril",
+      "first_seen": "2026-10-03T22:35:34+00:00",
+      "last_seen": "2026-10-03T22:35:34+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1788238641",
+      "source": "simplify",
+      "title": "Mission Software Engineer - Undersea Reconnaissance & Strike",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5226473007"
+    },
     "simplify:anduril::simplify-c1623229-faaa-4f1d-bdd8-fc0b46bc74a0": {
       "company": "Anduril",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -5857,6 +5907,16 @@
       "source": "simplify",
       "title": "Software Engineer Co-op",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007"
+    },
+    "simplify:anduril::simplify-fde7a562-b1ef-4e1a-b87e-4ec14e137f58": {
+      "company": "Anduril",
+      "first_seen": "2026-10-03T22:35:34+00:00",
+      "last_seen": "2026-10-03T22:35:34+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1788238641",
+      "source": "simplify",
+      "title": "Mission Software Engineer - Undersea Reconnaissance & Strike",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5226471007"
     },
     "simplify:anglian water::simplify-92e9de56-6381-4b20-90ea-41ec1103cf1d": {
       "company": "Anglian Water",
@@ -8534,6 +8594,16 @@
       "source": "simplify",
       "title": "Agent Solutions Engineer",
       "url": "https://jobs.ashbyhq.com/bland/824f7ebb-6d71-4484-bc7d-a2bcd4441a70/application?embed=true"
+    },
+    "simplify:blend::simplify-81a9c210-32e4-4355-8caa-77cd561f68ed": {
+      "company": "Blend",
+      "first_seen": "2026-10-03T22:35:35+00:00",
+      "last_seen": "2026-10-03T22:35:35+00:00",
+      "location": "Raleigh, NC",
+      "posted_at": "1790892884",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/blend/jobs/6214287004"
     },
     "simplify:blinqlabs::simplify-8adf8a0f-8e62-4272-a4ac-197b91e8bb67": {
       "company": "BlinqLABS",
@@ -14369,6 +14439,16 @@
       "posted_at": "1788825600",
       "title": "Software Engineer Intern",
       "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Chaska-Minnesota-United-States/Software-Engineering-Intern_R1318747"
+    },
+    "simplify:danaher::simplify-ee7288a6-1e34-4d2d-9214-5f2338c991a6": {
+      "company": "Danaher",
+      "first_seen": "2026-10-03T22:35:35+00:00",
+      "last_seen": "2026-10-03T22:35:35+00:00",
+      "location": "Irvine, CA",
+      "posted_at": "1790726400",
+      "source": "simplify",
+      "title": "Desktop Software Engineer",
+      "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Irvine-California-United-States/Engineer--Desktop-Software_R1320349"
     },
     "simplify:dandy::simplify-6d0287f3-5874-4a1b-acc3-7ecb0018c46f": {
       "company": "Dandy",
@@ -24500,6 +24580,16 @@
       "title": "Applications Development Engineer",
       "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Totowa-NJ/Applications-Development-Engineer_2637623"
     },
+    "simplify:kla corporation::simplify-5357b22e-9a94-46c0-85a8-cfcab2f2aa98": {
+      "company": "KLA Corporation",
+      "first_seen": "2026-10-03T22:35:35+00:00",
+      "last_seen": "2026-10-03T22:35:35+00:00",
+      "location": "Milpitas, CA",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Software Engineer - Metrology Systems",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer--Metrology-Systems-_2641468"
+    },
     "simplify:kla corporation::simplify-7b049ac6-9f84-4998-a4e8-37012636dfd0": {
       "company": "KLA Corporation",
       "first_seen": "2026-07-27T22:45:42+00:00",
@@ -24548,6 +24638,7 @@
     "simplify:kla corporation::simplify-f3a9de98-82b9-40ff-be18-62ed750578c6": {
       "company": "KLA Corporation",
       "first_seen": "2026-07-22T12:17:49+00:00",
+      "last_seen": "2026-10-03T22:35:33+00:00",
       "posted_at": "1784592000",
       "title": "HPC Software Engineer",
       "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/HPC-Software-Engineer_2638794"
@@ -25357,7 +25448,7 @@
     "simplify:leidos::simplify-3bbcfa63-20ac-4203-ae5f-f10e9a89efb6": {
       "company": "Leidos",
       "first_seen": "2026-09-22T00:35:19+00:00",
-      "last_seen": "2026-09-25T00:00:09+00:00",
+      "last_seen": "2026-10-03T22:35:33+00:00",
       "location": "Huntsville, AL",
       "posted_at": "1789948800",
       "source": "simplify",
@@ -28870,6 +28961,16 @@
       "posted_at": "1773451568",
       "title": "Software Engineer Intern - Internal Apps",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6083322003"
+    },
+    "simplify:neuralink::simplify-797b4661-998f-4ea6-8778-a92417262718": {
+      "company": "Neuralink",
+      "first_seen": "2026-10-03T22:35:34+00:00",
+      "last_seen": "2026-10-03T22:35:34+00:00",
+      "location": "Austin, TX, South SF",
+      "posted_at": "1790374554",
+      "source": "simplify",
+      "title": "Software Engineer - Simulation",
+      "url": "https://boards.greenhouse.io/neuralink/jobs/8005762003"
     },
     "simplify:neuralink::simplify-7f826bfb-a9e6-425c-a6dc-82510874e1d0": {
       "company": "Neuralink",
@@ -52364,5 +52465,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-03T12:04:21+00:00"
+  "updated_at": "2026-10-03T22:35:47+00:00"
 }
