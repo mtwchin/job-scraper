@@ -1,5 +1,5 @@
 {
-  "count": 6544,
+  "count": 6546,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -3766,7 +3766,7 @@
     "simplify:adobe::simplify-a9900edf-029b-4f1e-98cb-a9a1c96f11b3": {
       "company": "Adobe",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-10-04T03:27:53+00:00",
+      "last_seen": "2026-10-03T06:04:42+00:00",
       "posted_at": "1788393600",
       "title": "Software Engineer Intern",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666"
@@ -15372,6 +15372,16 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/docugami/jobs/4014838003"
     },
+    "simplify:docusign::simplify-5675fa47-e852-4cdc-9992-395a0d1765b8": {
+      "company": "DocuSign",
+      "first_seen": "2026-10-04T06:33:30+00:00",
+      "last_seen": "2026-10-04T06:33:30+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1791094240",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Self-Service Directory Diagnostics",
+      "url": "https://careers.docusign.com/jobs/30464?icims=1"
+    },
     "simplify:dollar general::simplify-5bcf139f-8834-41cd-abbc-ef975ab1b55b": {
       "company": "Dollar General",
       "first_seen": "2026-09-03T21:48:01+00:00",
@@ -18286,6 +18296,16 @@
       "posted_at": "1788559488",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6164698004"
+    },
+    "simplify:gartner::simplify-27b40008-f015-43f7-b561-8134fe22e524": {
+      "company": "Gartner",
+      "first_seen": "2026-10-04T06:33:31+00:00",
+      "last_seen": "2026-10-04T06:33:31+00:00",
+      "location": "Stamford, CT",
+      "posted_at": "1786579200",
+      "source": "simplify",
+      "title": "IT Intern",
+      "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Stamford-CT/Summer-2027-IT-Intern--May-2028-Graduates-_113095"
     },
     "simplify:gas south::simplify-97155fa4-c205-4f75-ba62-c9f3ba9428e0": {
       "company": "Gas South",
@@ -30826,7 +30846,7 @@
     "simplify:nvidia::simplify-ea8c5ebd-a6c4-49ff-9dac-f3532c41737a": {
       "company": "NVIDIA",
       "first_seen": "2026-08-19T10:13:53+00:00",
-      "last_seen": "2026-10-04T04:38:46+00:00",
+      "last_seen": "2026-10-03T06:04:42+00:00",
       "posted_at": "1787097600",
       "title": "Systems Software Engineering Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492"
@@ -52599,5 +52619,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-04T04:39:16+00:00"
+  "updated_at": "2026-10-04T06:34:26+00:00"
 }
