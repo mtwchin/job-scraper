@@ -1,5 +1,5 @@
 {
-  "count": 6599,
+  "count": 6601,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -14457,6 +14457,16 @@
       "posted_at": "1787704132",
       "title": "Software Engineer 1 - Systems Software Engineering",
       "url": "https://ats.rippling.com/d-wave-quantum/jobs/30e6077b-48d6-4f81-bf61-a043582e9b06"
+    },
+    "simplify:d.r. horton::simplify-64761fc3-fdb8-4fa2-b62b-7ff5f9ca07ab": {
+      "company": "D.R. Horton",
+      "first_seen": "2026-10-04T22:30:48+00:00",
+      "last_seen": "2026-10-04T22:30:48+00:00",
+      "location": "Arlington, TX",
+      "posted_at": "1790374784",
+      "source": "simplify",
+      "title": "Application Developer 1",
+      "url": "https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2604887"
     },
     "simplify:d.r. horton::simplify-66396035-7ef7-4576-a4e0-7487fd68616c": {
       "company": "D.R. Horton",
@@ -42890,6 +42900,7 @@
     "simplify:textron::simplify-1f33dede-1d64-4aeb-8345-18c5ceabdf28": {
       "company": "Textron",
       "first_seen": "2026-09-02T04:55:51+00:00",
+      "last_seen": "2026-10-04T22:30:47+00:00",
       "posted_at": "1788314490",
       "title": "Software Engineer Intern",
       "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299"
@@ -42897,6 +42908,7 @@
     "simplify:textron::simplify-40036615-7d95-4f3b-8105-226ddc924626": {
       "company": "Textron",
       "first_seen": "2026-09-01T14:21:01+00:00",
+      "last_seen": "2026-10-04T22:30:47+00:00",
       "posted_at": "1788255608",
       "title": "Software Engineer 1 - Electronic Systems",
       "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342666"
@@ -42904,6 +42916,7 @@
     "simplify:textron::simplify-5489cdce-696e-4c2f-b1ae-e937cff71c6c": {
       "company": "Textron",
       "first_seen": "2026-09-01T14:21:01+00:00",
+      "last_seen": "2026-10-04T22:30:47+00:00",
       "posted_at": "1788255604",
       "title": "Software Engineer Intern - Crewed Land",
       "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342915"
@@ -42933,6 +42946,7 @@
     "simplify:textron::simplify-974d081a-6d17-4aab-a42a-e9b35cafde7d": {
       "company": "Textron",
       "first_seen": "2026-09-01T14:21:01+00:00",
+      "last_seen": "2026-10-04T22:30:47+00:00",
       "posted_at": "1788255604",
       "title": "Software Engineer Intern - Electronic Systems",
       "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688"
@@ -42940,6 +42954,7 @@
     "simplify:textron::simplify-c39efb21-4101-4d94-85ce-fa5a6d78cf0e": {
       "company": "Textron",
       "first_seen": "2026-09-04T10:32:12+00:00",
+      "last_seen": "2026-10-04T22:30:47+00:00",
       "posted_at": "1781820631",
       "title": "Stage automne 2026 \u2013 Technologie de l'information / 2026 fall Internship - Information Technology - Mirabel - Qc",
       "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343165"
@@ -42947,6 +42962,7 @@
     "simplify:textron::simplify-d906473e-9355-4328-8074-8a5479ffac70": {
       "company": "Textron",
       "first_seen": "2026-09-01T14:21:01+00:00",
+      "last_seen": "2026-10-04T22:30:47+00:00",
       "posted_at": "1788255613",
       "title": "Software Engineer Intern",
       "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550"
@@ -48866,6 +48882,16 @@
       "title": "Process Automation Developer Intern",
       "url": "https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071580"
     },
+    "simplify:zions bank::simplify-e04fda0f-12a2-4117-aaa1-dc27e62a8cd0": {
+      "company": "Zions Bank",
+      "first_seen": "2026-10-04T22:30:48+00:00",
+      "last_seen": "2026-10-04T22:30:48+00:00",
+      "location": "United States",
+      "posted_at": "1789511022",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071639"
+    },
     "simplify:zip::simplify-82583da7-e72f-4b4f-aabb-0066a8951ba5": {
       "company": "Zip",
       "first_seen": "2026-08-25T22:32:01+00:00",
@@ -53176,5 +53202,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-04T20:04:14+00:00"
+  "updated_at": "2026-10-04T22:31:25+00:00"
 }
