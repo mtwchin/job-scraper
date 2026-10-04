@@ -1,5 +1,5 @@
 {
-  "count": 6550,
+  "count": 6556,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -28,15 +28,6 @@
       "title": "Manufacturing Systems Engineer - Applications Specialist",
       "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Stonehouse-Gloucestershire-United-Kingdom/Manufacturing-Systems-Engineer---Applications-Specialist_JR00036050"
     },
-    "simplify:amgen::simplify-04730f4f-d673-42b6-933d-dd493520e068": {
-      "attempted_at": "2026-10-04T10:05:10+00:00",
-      "company": "Amgen",
-      "location": "Tampa, FL, Thousand Oaks, CA",
-      "posted_at": "1787691782",
-      "source": "simplify",
-      "title": "Full Stack Software Engineer",
-      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Full-Stack-Software-Engineer_R-216946"
-    },
     "simplify:amgen::simplify-2d23863f-49e1-4783-aab6-4f76106c7d8d": {
       "attempted_at": "2026-09-23T22:34:27+00:00",
       "company": "Amgen",
@@ -64,15 +55,6 @@
       "title": "Computer Science Engineer 1 - Cranberry Township",
       "url": "https://careers-framatome.icims.com/jobs/3408/job?mobile=true&needsRedirect=false"
     },
-    "simplify:garmin::simplify-7ad6a534-75c5-473e-8d00-eaff8e564860": {
-      "attempted_at": "2026-10-04T10:05:10+00:00",
-      "company": "Garmin",
-      "location": "Olathe, KS",
-      "posted_at": "1785579906",
-      "source": "simplify",
-      "title": "Software Engineer 1 - Aviation Database",
-      "url": "https://careers.garmin.com/jobs/17162?icims=1"
-    },
     "simplify:intel::simplify-59d6aad4-9652-4f35-9a72-29c3ef4f9d16": {
       "attempted_at": "2026-10-01T23:01:57+00:00",
       "company": "Intel",
@@ -81,42 +63,6 @@
       "source": "simplify",
       "title": "Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1"
-    },
-    "simplify:krew::simplify-33c556a0-fa16-4b9c-8048-8d7a864d8293": {
-      "attempted_at": "2026-10-04T10:05:10+00:00",
-      "company": "Krew",
-      "location": "SF",
-      "posted_at": "1784596504",
-      "source": "simplify",
-      "title": "Member of Technical Staff - Forward Deployed",
-      "url": "https://jobs.ashbyhq.com/krew/19b80afa-c039-49c1-b5ea-bf6d4afa788b/application?embed=true"
-    },
-    "simplify:lynker::simplify-7aeb0624-7a4b-42bb-824b-57a29b178e5a": {
-      "attempted_at": "2026-10-04T10:05:10+00:00",
-      "company": "Lynker",
-      "location": "Boulder, CO",
-      "posted_at": "1785535745",
-      "source": "simplify",
-      "title": "API Engineer",
-      "url": "https://careers-lynker.icims.com/jobs/1640/job?mobile=true&needsRedirect=false"
-    },
-    "simplify:microsoft::simplify-0523ccf9-780c-4410-bcbb-60c3ebfa059b": {
-      "attempted_at": "2026-10-04T09:06:34+00:00",
-      "company": "Microsoft",
-      "location": "Redmond, WA",
-      "posted_at": "1790979174",
-      "source": "simplify",
-      "title": "Software Engineer - Intune",
-      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925"
-    },
-    "simplify:pariveda solutions::simplify-30cc9fb7-f137-4061-8534-52bfe586192e": {
-      "attempted_at": "2026-10-04T10:05:10+00:00",
-      "company": "Pariveda Solutions",
-      "location": "Dallas, TX",
-      "posted_at": "1789510968",
-      "source": "simplify",
-      "title": "Software Engineer 2",
-      "url": "https://jobs.ashbyhq.com/pariveda/48cfdabe-9dcc-4324-8e07-4a5ddf3af2e1/application?embed=true"
     },
     "simplify:pinterest::simplify-a8f0c609-7e00-47ef-8b38-840c1b0f9dd0": {
       "attempted_at": "2026-10-01T23:01:57+00:00",
@@ -5110,7 +5056,7 @@
     "simplify:amd::simplify-640797fc-5abf-4222-9bdb-16b62d09607e": {
       "company": "AMD",
       "first_seen": "2026-09-01T14:21:00+00:00",
-      "last_seen": "2026-10-04T09:33:26+00:00",
+      "last_seen": "2026-10-04T11:31:08+00:00",
       "posted_at": "1788256545",
       "title": "Graphics Software Engineer Intern/Co-op",
       "url": "https://careers.amd.com/jobs/91359?icims=1"
@@ -5141,7 +5087,7 @@
     "simplify:amd::simplify-b96c7c0a-e52d-479c-8c01-d4e54118328f": {
       "company": "AMD",
       "first_seen": "2026-09-01T17:52:36+00:00",
-      "last_seen": "2026-10-04T10:32:00+00:00",
+      "last_seen": "2026-10-04T11:31:08+00:00",
       "posted_at": "1788278729",
       "title": "Compiler Engineer Intern/Co-op",
       "url": "https://careers.amd.com/jobs/91865?icims=1"
@@ -5329,7 +5275,7 @@
     "simplify:american express::simplify-144e5a99-3727-49aa-be27-39b13c2cec06": {
       "company": "American Express",
       "first_seen": "2026-09-02T04:55:51+00:00",
-      "last_seen": "2026-10-04T10:32:00+00:00",
+      "last_seen": "2026-10-04T11:31:08+00:00",
       "posted_at": "1788310292",
       "title": "Software Engineer Intern - Enterprise Technology Services",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012801"
@@ -5645,6 +5591,16 @@
       "posted_at": "1785369600",
       "title": "Software Engineer 1",
       "url": "https://osv-amerisure.wd5.myworkdayjobs.com/Amerisure/job/Farmington-Hills-MI/Software-Engineer-I_JR-002063"
+    },
+    "simplify:amgen::simplify-04730f4f-d673-42b6-933d-dd493520e068": {
+      "company": "Amgen",
+      "first_seen": "2026-10-04T11:31:09+00:00",
+      "last_seen": "2026-10-04T11:31:09+00:00",
+      "location": "Tampa, FL, Thousand Oaks, CA",
+      "posted_at": "1787691782",
+      "source": "simplify",
+      "title": "Full Stack Software Engineer",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Full-Stack-Software-Engineer_R-216946"
     },
     "simplify:amgen::simplify-079b70ee-8105-46b4-9163-319c8610f157": {
       "company": "Amgen",
@@ -10570,7 +10526,7 @@
     "simplify:caci::simplify-1a605e3c-724b-47d8-8424-56b412aec324": {
       "company": "CACI",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-10-04T10:05:10+00:00",
+      "last_seen": "2026-10-04T11:31:08+00:00",
       "posted_at": "1783641600",
       "title": "AI Prompt Engineer",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer_328834"
@@ -16268,8 +16224,8 @@
     },
     "simplify:emerson electric::simplify-5cb3b2a7-3eeb-40f0-80ff-9f30db32b389": {
       "company": "Emerson Electric",
-      "first_seen": "2026-10-04T10:32:00+00:00",
-      "last_seen": "2026-10-04T10:32:00+00:00",
+      "first_seen": "2026-10-04T11:31:09+00:00",
+      "last_seen": "2026-10-04T11:31:09+00:00",
       "location": "Eden Prairie, MN",
       "posted_at": "1789409396",
       "source": "simplify",
@@ -18299,6 +18255,16 @@
       "posted_at": "1788559378",
       "title": "Aircraft Performance Engineer Intern",
       "url": "https://careers.garmin.com/jobs/19837?icims=1"
+    },
+    "simplify:garmin::simplify-7ad6a534-75c5-473e-8d00-eaff8e564860": {
+      "company": "Garmin",
+      "first_seen": "2026-10-04T11:31:09+00:00",
+      "last_seen": "2026-10-04T11:31:09+00:00",
+      "location": "Olathe, KS",
+      "posted_at": "1785579906",
+      "source": "simplify",
+      "title": "Software Engineer 1 - Aviation Database",
+      "url": "https://careers.garmin.com/jobs/17162?icims=1"
     },
     "simplify:garmin::simplify-7dbe9685-0792-4856-ab07-9f72967defd3": {
       "company": "Garmin",
@@ -22551,7 +22517,7 @@
     "simplify:intel::simplify-b854fca7-7546-478f-937b-a76b8dbbddae": {
       "company": "Intel",
       "first_seen": "2026-09-03T08:16:46+00:00",
-      "last_seen": "2026-10-04T11:03:24+00:00",
+      "last_seen": "2026-10-04T11:31:08+00:00",
       "posted_at": "1788307200",
       "title": "Software Engineer Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834"
@@ -24994,6 +24960,16 @@
       "title": "Programming Intern",
       "url": "https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002"
     },
+    "simplify:krew::simplify-33c556a0-fa16-4b9c-8048-8d7a864d8293": {
+      "company": "Krew",
+      "first_seen": "2026-10-04T11:31:09+00:00",
+      "last_seen": "2026-10-04T11:31:09+00:00",
+      "location": "SF",
+      "posted_at": "1784596504",
+      "source": "simplify",
+      "title": "Member of Technical Staff - Forward Deployed",
+      "url": "https://jobs.ashbyhq.com/krew/19b80afa-c039-49c1-b5ea-bf6d4afa788b/application?embed=true"
+    },
     "simplify:krg technologies::simplify-3e5d7b4a-f2f1-4209-a0e2-ad51aa9f0d40": {
       "company": "KRG Technologies",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -26332,6 +26308,16 @@
       "title": "Flight Software Engineer",
       "url": "https://jobs.ashbyhq.com/Lynk/5ff6f792-dbe9-49ed-80df-52f0079e0189/application"
     },
+    "simplify:lynker::simplify-7aeb0624-7a4b-42bb-824b-57a29b178e5a": {
+      "company": "Lynker",
+      "first_seen": "2026-10-04T11:31:09+00:00",
+      "last_seen": "2026-10-04T11:31:09+00:00",
+      "location": "Boulder, CO",
+      "posted_at": "1785535745",
+      "source": "simplify",
+      "title": "API Engineer",
+      "url": "https://careers-lynker.icims.com/jobs/1640/job?mobile=true&needsRedirect=false"
+    },
     "simplify:m&t bank::simplify-23452dfd-f110-4218-bbe2-fa3fd2227fc5": {
       "company": "M&T Bank",
       "first_seen": "2026-10-01T22:33:10+00:00",
@@ -26711,7 +26697,7 @@
     "simplify:markon::simplify-94256481-4cab-4687-83aa-f17d4ffeff44": {
       "company": "Markon",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-10-04T10:05:10+00:00",
+      "last_seen": "2026-10-04T11:31:08+00:00",
       "posted_at": "1780956310",
       "title": "Software Engineer Level 0",
       "url": "https://careers-markon.icims.com/jobs/8403/job?mobile=true&needsRedirect=false"
@@ -27847,13 +27833,23 @@
     },
     "simplify:microsoft::simplify-03bcc190-297d-4f25-b85d-749b57da6016": {
       "company": "Microsoft",
-      "first_seen": "2026-10-04T08:34:54+00:00",
-      "last_seen": "2026-10-04T08:34:54+00:00",
+      "first_seen": "2026-10-04T11:31:09+00:00",
+      "last_seen": "2026-10-04T11:31:09+00:00",
       "location": "Annapolis Junction, MD, Redmond, WA, Reston, VA",
       "posted_at": "1788560182",
       "source": "simplify",
       "title": "Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723"
+    },
+    "simplify:microsoft::simplify-0523ccf9-780c-4410-bcbb-60c3ebfa059b": {
+      "company": "Microsoft",
+      "first_seen": "2026-10-04T11:31:09+00:00",
+      "last_seen": "2026-10-04T11:31:09+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1790979174",
+      "source": "simplify",
+      "title": "Software Engineer - Intune",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925"
     },
     "simplify:microsoft::simplify-14175068-fa33-4dcb-b0de-4819bdef5ae5": {
       "company": "Microsoft",
@@ -29673,7 +29669,7 @@
     "simplify:northrop grumman::simplify-1c140b14-cbd4-45da-9316-2fd50f440ccf": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-10-04T10:05:10+00:00",
+      "last_seen": "2026-10-04T11:31:08+00:00",
       "posted_at": "1771343490",
       "title": "Software Engineer - Cloudworks - Skillbridge",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer---CLOUDworks--SkillBridge-_R10211395"
@@ -32214,6 +32210,16 @@
       "title": "Entry Level Software Engineer",
       "url": "https://jobs.ashbyhq.com/pariveda/cc4fc0be-c414-4aba-a15d-64daa03476a0/application?embed=true"
     },
+    "simplify:pariveda solutions::simplify-30cc9fb7-f137-4061-8534-52bfe586192e": {
+      "company": "Pariveda Solutions",
+      "first_seen": "2026-10-04T11:31:09+00:00",
+      "last_seen": "2026-10-04T11:31:09+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1789510968",
+      "source": "simplify",
+      "title": "Software Engineer 2",
+      "url": "https://jobs.ashbyhq.com/pariveda/48cfdabe-9dcc-4324-8e07-4a5ddf3af2e1/application?embed=true"
+    },
     "simplify:pariveda solutions::simplify-c4268818-09cf-4f39-a33e-85f5c536aeb4": {
       "company": "Pariveda Solutions",
       "first_seen": "2026-07-15T16:01:07+00:00",
@@ -32645,8 +32651,8 @@
     },
     "simplify:peraton::simplify-58b31cf1-a146-494d-b944-3f9f3698ea79": {
       "company": "Peraton",
-      "first_seen": "2026-10-04T09:33:26+00:00",
-      "last_seen": "2026-10-04T09:33:26+00:00",
+      "first_seen": "2026-10-04T11:31:09+00:00",
+      "last_seen": "2026-10-04T11:31:09+00:00",
       "location": "Annapolis Junction, MD",
       "posted_at": "1783605985",
       "source": "simplify",
@@ -32680,7 +32686,7 @@
     "simplify:peraton::simplify-b4c2db2d-3859-453b-823e-8dc517020ce3": {
       "company": "Peraton",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-10-04T10:05:10+00:00",
+      "last_seen": "2026-10-04T11:31:08+00:00",
       "posted_at": "1772233846",
       "title": "Cloud Software Engineer 1",
       "url": "https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false"
@@ -35647,8 +35653,8 @@
     },
     "simplify:rovisys::simplify-d916f556-bb84-4113-9e95-d93632918d6e": {
       "company": "RoviSys",
-      "first_seen": "2026-10-04T09:07:14+00:00",
-      "last_seen": "2026-10-04T09:07:14+00:00",
+      "first_seen": "2026-10-04T11:31:09+00:00",
+      "last_seen": "2026-10-04T11:31:09+00:00",
       "location": "Thousand Oaks, CA",
       "posted_at": "1790864367",
       "source": "simplify",
@@ -37093,7 +37099,7 @@
     "simplify:rtx::simplify-b698f712-411d-4005-b00c-49d33f52731c": {
       "company": "RTX",
       "first_seen": "2026-09-10T23:38:18+00:00",
-      "last_seen": "2026-10-04T09:06:34+00:00",
+      "last_seen": "2026-10-04T11:31:08+00:00",
       "posted_at": "1788998400",
       "title": "Software Engineer Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298"
@@ -39189,7 +39195,7 @@
     "simplify:solar turbines::simplify-117c2f2b-e16b-44db-b634-e9cb1579b304": {
       "company": "Solar Turbines",
       "first_seen": "2026-07-16T14:24:25+00:00",
-      "last_seen": "2026-10-04T09:33:26+00:00",
+      "last_seen": "2026-10-04T11:31:08+00:00",
       "posted_at": "1784160000",
       "title": "Entry Level Engineer Rotation - Solutions Platforms Engineering",
       "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Rotation----Solutions-Platforms-Engineered_R0000381658"
@@ -43318,7 +43324,7 @@
     "simplify:tiktok::simplify-0027f5ce-0bdc-419e-ac80-095bae27c176": {
       "company": "TikTok",
       "first_seen": "2026-08-20T02:43:11+00:00",
-      "last_seen": "2026-10-04T10:32:00+00:00",
+      "last_seen": "2026-10-04T11:31:08+00:00",
       "posted_at": "1787190346",
       "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
       "url": "https://lifeattiktok.com/search/7675163472469444917"
@@ -43461,7 +43467,6 @@
     "simplify:tiktok::simplify-1fb1e49e-1a9d-40ea-9146-1df231b49971": {
       "company": "TikTok",
       "first_seen": "2026-08-03T08:03:09+00:00",
-      "last_seen": "2026-10-04T09:33:26+00:00",
       "posted_at": "1785737712",
       "title": "Software Engineer Intern",
       "url": "https://lifeattiktok.com/search/7662700594251958581"
@@ -43584,7 +43589,7 @@
     "simplify:tiktok::simplify-47768da2-8643-4881-8249-a78543064605": {
       "company": "TikTok",
       "first_seen": "2026-07-02T21:01:41+00:00",
-      "last_seen": "2026-10-04T10:05:10+00:00",
+      "last_seen": "2026-10-04T11:31:08+00:00",
       "posted_at": "1780996220",
       "title": "AI Software Engineer Intern - Transaction Platform",
       "url": "https://lifeattiktok.com/search/7646621925436131637"
@@ -43616,7 +43621,7 @@
     "simplify:tiktok::simplify-4e30bd9b-ebf0-4353-86db-38408f6b37c3": {
       "company": "TikTok",
       "first_seen": "2026-08-03T08:03:09+00:00",
-      "last_seen": "2026-10-04T10:32:00+00:00",
+      "last_seen": "2026-10-04T11:31:08+00:00",
       "posted_at": "1785737699",
       "title": "Software Engineer Intern - ML Infra",
       "url": "https://lifeattiktok.com/search/7668696895234197813"
@@ -47555,7 +47560,7 @@
     "simplify:western & southern financial group::simplify-9b835dda-52b8-4c98-b021-0657515884ed": {
       "company": "Western & Southern Financial Group",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-10-04T10:05:10+00:00",
+      "last_seen": "2026-10-04T11:31:08+00:00",
       "posted_at": "1777989932",
       "title": "Software Developer 1 - Cobol",
       "url": "https://careers-westernsouthern.icims.com/jobs/24925/job?mobile=true&needsRedirect=false"
@@ -52726,5 +52731,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-04T11:03:41+00:00"
+  "updated_at": "2026-10-04T11:31:51+00:00"
 }
