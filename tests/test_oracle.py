@@ -51,3 +51,23 @@ def test_missing_requisitions_is_error(monkeypatch):
     with pytest.raises(ValueError, match="omitted requisitions"):
         oracle.fetch(CompanyConfig("JPMC", "oracle", {
             "host": "jpmc.fa.oraclecloud.com", "site": "CX_1001"}))
+
+
+def test_fetch_requests_every_remaining_page(monkeypatch):
+    """Pages after the first are fetched concurrently; none may be skipped."""
+    total = 2 * oracle._PAGE_SIZE + 50
+    offsets = []
+
+    def get(url, **kwargs):
+        finder = kwargs["params"]["finder"]
+        offset = int(finder.split("offset=")[1].split(",")[0])
+        offsets.append(offset)
+        rows = [{"Id": i, "Title": "Software Engineer Intern", "PrimaryLocation": "New York, NY"}
+                for i in range(offset, min(offset + oracle._PAGE_SIZE, total))]
+        return Response({"items": [{"TotalJobsCount": total, "requisitionList": rows}]})
+
+    monkeypatch.setattr(oracle.http, "get", get)
+    jobs = oracle.fetch(CompanyConfig("JPMC", "oracle", {
+        "host": "jpmc.fa.oraclecloud.com", "site": "CX_1001"}))
+    assert sorted(offsets) == [0, oracle._PAGE_SIZE, 2 * oracle._PAGE_SIZE]
+    assert len(jobs) == total

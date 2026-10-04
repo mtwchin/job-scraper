@@ -79,7 +79,7 @@ PRUNE_DELISTED_DAYS = int(os.environ.get("PRUNE_DELISTED_DAYS", "0"))
 WATCH_INTERVAL = int(os.environ.get("WATCH_INTERVAL", "60"))
 # Seconds between full sweeps of every company's own ATS. Much heavier (hundreds
 # of requests), so it runs on its own slower cadence.
-WATCH_COMPANY_INTERVAL = int(os.environ.get("WATCH_COMPANY_INTERVAL", "300"))
+WATCH_COMPANY_INTERVAL = int(os.environ.get("WATCH_COMPANY_INTERVAL", "180"))
 # Select major-company boards for an extra sweep between full scans. Heavy
 # boards such as JPMC remain in the five-minute full sweep.
 WATCH_PRIORITY_INTERVAL = int(os.environ.get("WATCH_PRIORITY_INTERVAL", "60"))
@@ -128,6 +128,11 @@ CONCURRENCY = int(os.environ.get("CONCURRENCY", "12"))
 # If this fraction of companies error in a single run, post a Discord heads-up —
 # a systemic break (a platform outage, a shipped bug) rather than one stale board.
 HEALTH_ALERT_THRESHOLD = float(os.environ.get("HEALTH_ALERT_THRESHOLD", "0.25"))
+# ...and only once that has held for this many sweeps in a row. A single bad
+# sweep is usually the runner's own network blinking (every host failing DNS at
+# once), which the next sweep a minute later shrugs off; alerting on it just
+# trains you to ignore the alert. A real outage or broken adapter persists.
+HEALTH_ALERT_SWEEPS = max(int(os.environ.get("HEALTH_ALERT_SWEEPS", "2")), 1)
 
 # --- Community aggregator feeds --------------------------------------------
 # Several community repos publish a machine-readable listings.json of open
