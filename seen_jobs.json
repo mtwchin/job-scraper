@@ -1,5 +1,5 @@
 {
-  "count": 6598,
+  "count": 6599,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -37761,6 +37761,16 @@
       "title": "Software Engineer Intern - Spring 2027",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Spring-2027-_01864146"
     },
+    "simplify:rtx::simplify-e3e6cba6-497c-46bc-8d93-7d966963bb06": {
+      "company": "RTX",
+      "first_seen": "2026-10-04T15:34:38+00:00",
+      "last_seen": "2026-10-04T15:34:38+00:00",
+      "location": "Fort Wayne, IN",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868599"
+    },
     "simplify:rtx::simplify-e4839ecb-2777-4886-93d2-c56612b08784": {
       "company": "RTX",
       "first_seen": "2026-07-21T06:16:23+00:00",
@@ -53157,5 +53167,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-04T15:03:07+00:00"
+  "updated_at": "2026-10-04T15:35:14+00:00"
 }
