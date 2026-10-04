@@ -1,5 +1,5 @@
 {
-  "count": 6547,
+  "count": 6548,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -63,6 +63,15 @@
       "source": "simplify",
       "title": "Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1"
+    },
+    "simplify:microsoft::simplify-0523ccf9-780c-4410-bcbb-60c3ebfa059b": {
+      "attempted_at": "2026-10-04T09:06:34+00:00",
+      "company": "Microsoft",
+      "location": "Redmond, WA",
+      "posted_at": "1790979174",
+      "source": "simplify",
+      "title": "Software Engineer - Intune",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925"
     },
     "simplify:pinterest::simplify-a8f0c609-7e00-47ef-8b38-840c1b0f9dd0": {
       "attempted_at": "2026-10-01T23:01:57+00:00",
@@ -35564,6 +35573,16 @@
       "title": "Engineering Co-op - Summer 2027",
       "url": "https://careers-rovisys.icims.com/jobs/2137/job?mobile=true&needsRedirect=false"
     },
+    "simplify:rovisys::simplify-d916f556-bb84-4113-9e95-d93632918d6e": {
+      "company": "RoviSys",
+      "first_seen": "2026-10-04T09:07:14+00:00",
+      "last_seen": "2026-10-04T09:07:14+00:00",
+      "location": "Thousand Oaks, CA",
+      "posted_at": "1790864367",
+      "source": "simplify",
+      "title": "Software Engineer/Developer",
+      "url": "https://careers-additionalrovisysopportunities.icims.com/jobs/2179/job?mobile=true&needsRedirect=false"
+    },
     "simplify:royal bank of canada::simplify-192ea991-da08-407c-8609-f30142e9d051": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-08-17T23:07:29+00:00",
@@ -37002,7 +37021,7 @@
     "simplify:rtx::simplify-b698f712-411d-4005-b00c-49d33f52731c": {
       "company": "RTX",
       "first_seen": "2026-09-10T23:38:18+00:00",
-      "last_seen": "2026-09-30T09:03:56+00:00",
+      "last_seen": "2026-10-04T09:06:34+00:00",
       "posted_at": "1788998400",
       "title": "Software Engineer Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298"
@@ -52629,5 +52648,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-04T08:35:30+00:00"
+  "updated_at": "2026-10-04T09:07:32+00:00"
 }
