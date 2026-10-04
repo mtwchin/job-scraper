@@ -64,6 +64,15 @@
       "title": "Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1"
     },
+    "simplify:palo alto networks::simplify-ca920373-6255-46b3-8083-3db9533be2df": {
+      "attempted_at": "2026-10-04T20:03:28+00:00",
+      "company": "Palo Alto Networks",
+      "location": "Santa Clara, CA",
+      "posted_at": "1783161315",
+      "source": "simplify",
+      "title": "Senior Staff Software Engineer",
+      "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Santa-Clara-United-States-of-America/Sr-Staff-Engineer-Software_JR-017053"
+    },
     "simplify:pinterest::simplify-a8f0c609-7e00-47ef-8b38-840c1b0f9dd0": {
       "attempted_at": "2026-10-01T23:01:57+00:00",
       "company": "Pinterest",
@@ -53167,5 +53176,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-04T17:02:11+00:00"
+  "updated_at": "2026-10-04T20:04:14+00:00"
 }
