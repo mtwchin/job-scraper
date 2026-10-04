@@ -1,5 +1,5 @@
 {
-  "count": 6546,
+  "count": 6547,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -27776,6 +27776,16 @@
       "title": "Software Engineer Intern - Mask Technology Center",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550"
     },
+    "simplify:microsoft::simplify-03bcc190-297d-4f25-b85d-749b57da6016": {
+      "company": "Microsoft",
+      "first_seen": "2026-10-04T08:34:54+00:00",
+      "last_seen": "2026-10-04T08:34:54+00:00",
+      "location": "Annapolis Junction, MD, Redmond, WA, Reston, VA",
+      "posted_at": "1788560182",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556858723"
+    },
     "simplify:microsoft::simplify-14175068-fa33-4dcb-b0de-4819bdef5ae5": {
       "company": "Microsoft",
       "first_seen": "2026-08-02T23:29:04+00:00",
@@ -52619,5 +52629,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-04T06:34:26+00:00"
+  "updated_at": "2026-10-04T08:35:30+00:00"
 }
