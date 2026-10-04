@@ -1,5 +1,5 @@
 {
-  "count": 6571,
+  "count": 6575,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -4156,7 +4156,7 @@
     "simplify:aiprise::simplify-6c3fb746-2d33-44e9-b97d-ada170e96ef0": {
       "company": "AiPrise",
       "first_seen": "2026-09-05T09:24:45+00:00",
-      "last_seen": "2026-09-17T00:02:10+00:00",
+      "last_seen": "2026-10-04T12:34:30+00:00",
       "posted_at": "1788589930",
       "title": "Software Engineer 1",
       "url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba/application?embed=true"
@@ -7643,6 +7643,16 @@
       "posted_at": "1788296936",
       "title": "Configuration Manager",
       "url": "https://apply.workable.com/avalore/j/B0B5647E68/apply"
+    },
+    "simplify:avalore::simplify-d68216d8-e538-4756-a1e8-8ecaa7185ebe": {
+      "company": "Avalore",
+      "first_seen": "2026-10-04T12:34:31+00:00",
+      "last_seen": "2026-10-04T12:34:31+00:00",
+      "location": "Arlington County, Arlington, VA",
+      "posted_at": "1788296937",
+      "source": "simplify",
+      "title": "Software Developer/Engineer",
+      "url": "https://apply.workable.com/avalore/j/937906E572/apply"
     },
     "simplify:avalore::simplify-d70d2957-012d-4805-b794-0d5527276f27": {
       "company": "Avalore",
@@ -11371,6 +11381,16 @@
       "posted_at": "1786054286",
       "title": "Frontend Developer - Mobile",
       "url": "https://careers.capgemini.com/job/Dallas,-TX-Mobile-Front-end-developer-TX-75201/1424082933/?ats=successfactors"
+    },
+    "simplify:capgemini::simplify-db894db3-f0ec-4d30-9a74-12bff5188ae7": {
+      "company": "Capgemini",
+      "first_seen": "2026-10-04T12:34:31+00:00",
+      "last_seen": "2026-10-04T12:34:31+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1789078491",
+      "source": "simplify",
+      "title": "Junior Frontend Developer",
+      "url": "https://careers.capgemini.com/job/Atlanta,-GA-Junior-Frontend-Developer-GA-30301/1435951433/?ats=successfactors"
     },
     "simplify:capital health::simplify-2ddddf54-3c3b-4af6-b8c2-5b755d594dc1": {
       "company": "Capital Health",
@@ -28808,6 +28828,16 @@
       "title": "Software Developer/Engineer Intern",
       "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972"
     },
+    "simplify:nasdaq::simplify-c062a422-c70f-4464-9f55-a3ccbdaa7287": {
+      "company": "Nasdaq",
+      "first_seen": "2026-10-04T12:34:31+00:00",
+      "last_seen": "2026-10-04T12:34:31+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1783158499",
+      "source": "simplify",
+      "title": "Analyst Software Developer",
+      "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---Atlanta---Georgia/Analyst---Software-Developer_R0025662"
+    },
     "simplify:natera::simplify-53b80883-d4d1-4b69-9bce-15f9ddb4d132": {
       "company": "Natera",
       "first_seen": "2026-10-02T23:03:30+00:00",
@@ -28991,6 +29021,16 @@
       "posted_at": "1788963401",
       "title": "Payments AI Engineer Intern",
       "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400"
+    },
+    "simplify:navy federal::simplify-a3265bb9-bf8d-4ab6-b4ed-809f2362a4ed": {
+      "company": "Navy Federal",
+      "first_seen": "2026-10-04T12:34:31+00:00",
+      "last_seen": "2026-10-04T12:34:31+00:00",
+      "location": "Pensacola, FL, Vienna, VA",
+      "posted_at": "1788963399",
+      "source": "simplify",
+      "title": "Associate Intern - Lending Automation Technology & Solutions",
+      "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32359"
     },
     "simplify:navy federal::simplify-a58125b0-2c66-4d05-ad80-42c3a6df7526": {
       "company": "Navy Federal",
@@ -52885,5 +52925,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-04T12:02:53+00:00"
+  "updated_at": "2026-10-04T12:34:55+00:00"
 }
