@@ -1,5 +1,5 @@
 {
-  "count": 6577,
+  "count": 6589,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -6627,6 +6627,16 @@
       "title": "Model-Based Systems Engineer",
       "url": "https://careers.arcfield.com/jobs/8669?icims=1"
     },
+    "simplify:arcfield::simplify-6b7f15e6-d3e2-479a-a930-500b30ef65b5": {
+      "company": "Arcfield",
+      "first_seen": "2026-10-04T14:04:20+00:00",
+      "last_seen": "2026-10-04T14:04:20+00:00",
+      "location": "Middletown, RI",
+      "posted_at": "1790125627",
+      "source": "simplify",
+      "title": "Software Engineer-On Call",
+      "url": "https://careers.arcfield.com/jobs/8675?icims=1"
+    },
     "simplify:arcfield::simplify-77212bc1-ea2f-4bb7-b214-81995c2cb299": {
       "company": "Arcfield",
       "first_seen": "2026-08-14T05:13:27+00:00",
@@ -6978,7 +6988,7 @@
     "simplify:assa abloy::simplify-47a96922-379a-4165-bf1d-40ed463a6341": {
       "company": "ASSA ABLOY",
       "first_seen": "2026-09-17T23:03:17+00:00",
-      "last_seen": "2026-10-02T00:00:32+00:00",
+      "last_seen": "2026-10-04T14:04:19+00:00",
       "location": "Berlin, CT",
       "posted_at": "1789683268",
       "source": "simplify",
@@ -8896,6 +8906,16 @@
       "posted_at": "1788912000",
       "title": "Software Engineer - Associate - Bixby",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Software-Engineer--Associate--Experienced-or-Senior----Bixby_JR2026524250"
+    },
+    "simplify:book of the month::simplify-8cd5dbe2-a8d3-434d-8a4c-9f6270250bc6": {
+      "company": "Book of the Month",
+      "first_seen": "2026-10-04T14:04:20+00:00",
+      "last_seen": "2026-10-04T14:04:20+00:00",
+      "location": "NYC",
+      "posted_at": "1789770010",
+      "source": "simplify",
+      "title": "Associate Product Engineer",
+      "url": "https://bookofthemonth.applytojob.com/apply/6LKA2Mq9dx/Associate-Product-Engineer"
     },
     "simplify:booker dimaio, llc::simplify-05bd45cb-da24-4b7e-8939-30ee09ff4c4f": {
       "company": "Booker DiMaio, LLC",
@@ -15285,6 +15305,16 @@
       "posted_at": "1784596440",
       "title": "Frontend Engineer Intern",
       "url": "https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119/application?embed=true"
+    },
+    "simplify:dext capital::simplify-bd1ffadf-bcaf-4817-9838-d14aa8dfc7db": {
+      "company": "Dext Capital",
+      "first_seen": "2026-10-04T14:04:20+00:00",
+      "last_seen": "2026-10-04T14:04:20+00:00",
+      "location": "Lake Oswego, OR",
+      "posted_at": "1790288681",
+      "source": "simplify",
+      "title": "AI Engineering Associate",
+      "url": "https://ats.rippling.com/dext-capital-llc/jobs/ec6ab4a9-fd67-4acd-8e86-778db20fa8b7"
     },
     "simplify:dgr systems::simplify-172ad890-81ad-4e3a-ab8b-3e63d27b0a38": {
       "company": "DGR Systems",
@@ -22582,6 +22612,16 @@
       "title": "Software Engineer",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Engineer_JR0285009"
     },
+    "simplify:intel::simplify-97c16019-9fb6-48dc-b65a-b752073a4d2b": {
+      "company": "Intel",
+      "first_seen": "2026-10-04T14:04:19+00:00",
+      "last_seen": "2026-10-04T14:04:19+00:00",
+      "location": "Hillsboro, OR, Phoenix, AZ",
+      "posted_at": "1790035200",
+      "source": "simplify",
+      "title": "Foundry Cloud Services Developer",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Foundry-Cloud-Services-Developer_JR0287203"
+    },
     "simplify:intel::simplify-a273898f-c0b4-4c85-85d4-badef42df706": {
       "company": "Intel",
       "first_seen": "2026-09-10T17:18:09+00:00",
@@ -22687,6 +22727,16 @@
       "posted_at": "1788220800",
       "title": "Front-End Developer Intern - Power Platform Integration",
       "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Front-End-Developer-Intern---Power-Platform-Integration_JR111615-1"
+    },
+    "simplify:intelliforce-it solutions group::simplify-5ee9e9d5-ea2a-4631-8387-e43aec1496e1": {
+      "company": "Intelliforce-IT Solutions Group",
+      "first_seen": "2026-10-04T14:04:20+00:00",
+      "last_seen": "2026-10-04T14:04:20+00:00",
+      "location": "Annapolis Junction, MD",
+      "posted_at": "1789510800",
+      "source": "simplify",
+      "title": "Junior Software Engineer - Prime",
+      "url": "https://intelliforceitsolutionsgroup.applytojob.com/apply/7PKaVRIpoz/Junior-Software-Engineer-Prime"
     },
     "simplify:intelligenesis::simplify-74c5b938-b6a5-4b8b-897c-83c285a86481": {
       "company": "IntelliGenesis",
@@ -23589,6 +23639,16 @@
       "posted_at": "1789170985",
       "title": "Student - OEM/Marine Applications",
       "url": "https://johndeere.eightfold.ai/careers/job/137483396343"
+    },
+    "simplify:john deere::simplify-b0c30a6b-682a-4cfc-b6c6-60887f2995d7": {
+      "company": "John Deere",
+      "first_seen": "2026-10-04T14:04:20+00:00",
+      "last_seen": "2026-10-04T14:04:20+00:00",
+      "location": "East Moline, IL",
+      "posted_at": "1789597422",
+      "source": "simplify",
+      "title": "Software Developer",
+      "url": "https://johndeere.eightfold.ai/careers/job/137483152431"
     },
     "simplify:john deere::simplify-b36d77b3-8f2d-43d7-bf82-ad49189efa02": {
       "company": "John Deere",
@@ -25607,6 +25667,16 @@
       "title": "Software Developer",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Eagan-MN/Software-Developer_R-00185862-1"
     },
+    "simplify:leidos::simplify-265812c3-595b-4969-9e5a-a6e3295cae6e": {
+      "company": "Leidos",
+      "first_seen": "2026-10-04T14:04:20+00:00",
+      "last_seen": "2026-10-04T14:04:20+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Engineer_R-00192469"
+    },
     "simplify:leidos::simplify-3308ac34-523a-4204-824a-4cbe54e395b0": {
       "company": "Leidos",
       "first_seen": "2026-07-21T20:06:43+00:00",
@@ -25781,6 +25851,16 @@
       "posted_at": "1778945223",
       "title": "Software Engineer",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/2143-Annapolis-Junction-MD/Software-Engineer-TS-SCI-Poly_R-00176836"
+    },
+    "simplify:leidos::simplify-ab04c6a1-e90b-4544-b69d-40557f39a1d7": {
+      "company": "Leidos",
+      "first_seen": "2026-10-04T14:04:21+00:00",
+      "last_seen": "2026-10-04T14:04:21+00:00",
+      "location": "Huntsville, AL",
+      "posted_at": "1786320000",
+      "source": "simplify",
+      "title": "Radar Modeling Engineer",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Radar-Modeling-Engineer_R-00189109"
     },
     "simplify:leidos::simplify-c1a82091-8082-4b67-ba0c-338c3b098612": {
       "company": "Leidos",
@@ -28434,6 +28514,16 @@
       "title": "Software Engineer 1",
       "url": "https://ats.rippling.com/momentumcareers/jobs/e1151761-ee74-4f66-bbc4-b676f7f7db71"
     },
+    "simplify:momentum engineering::simplify-76ec5a6b-b0ae-401e-a2f9-f36a0dfa7151": {
+      "company": "Momentum Engineering",
+      "first_seen": "2026-10-04T14:04:20+00:00",
+      "last_seen": "2026-10-04T14:04:20+00:00",
+      "location": "Annapolis Junction, MD",
+      "posted_at": "1790749067",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://ats.rippling.com/momentumcareers/jobs/dd4281b8-fa2a-4833-8370-b1859933b612"
+    },
     "simplify:mongodb::simplify-34e5f044-5304-4c9e-af40-55a70118657b": {
       "company": "MongoDB",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -29206,6 +29296,16 @@
       "posted_at": "1785715200",
       "title": "Software Engineer Intern",
       "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667"
+    },
+    "simplify:netsmart::simplify-b12bfa29-cdcc-4408-bd48-a0e1eec4d870": {
+      "company": "Netsmart",
+      "first_seen": "2026-10-04T14:04:20+00:00",
+      "last_seen": "2026-10-04T14:04:20+00:00",
+      "location": "Great River, NY",
+      "posted_at": "1790294400",
+      "source": "simplify",
+      "title": "Software Engineer Programming Knowledge",
+      "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Great-River-NY/Software-Engineer-Programming-Knowledge--Onsite-Great-River--NY_R015853"
     },
     "simplify:netsmart::simplify-db9c57de-0338-484f-acbc-6ea1db0e12ed": {
       "company": "Netsmart",
@@ -32340,6 +32440,16 @@
       "title": "Software Engineer - Full Stack",
       "url": "https://careers.na.panasonic.com/jobs/49874?icims=1"
     },
+    "simplify:pangram labs::simplify-1d1d95e4-5d5a-410f-a6ab-fd3ec8cd667f": {
+      "company": "Pangram Labs",
+      "first_seen": "2026-10-04T14:04:20+00:00",
+      "last_seen": "2026-10-04T14:04:20+00:00",
+      "location": "NYC, Brooklyn, NY",
+      "posted_at": "1789170673",
+      "source": "simplify",
+      "title": "Software Engineer - Customer Solutions",
+      "url": "https://jobs.ashbyhq.com/pangramlabs/0512183c-2373-499c-8459-91d0fd2d72f3/application?embed=true"
+    },
     "simplify:papercut::simplify-213bc9ef-3bbc-4045-9691-800365cf327e": {
       "company": "PaperCut",
       "first_seen": "2026-08-12T03:29:34+00:00",
@@ -35189,6 +35299,16 @@
       "posted_at": "1787018698",
       "title": "Technology & Innovation Intern",
       "url": "https://jobs.ashbyhq.com/riveron/a1c4ef22-34a2-43b8-950d-ca6288cc17a1/application?embed=true"
+    },
+    "simplify:riverside research::simplify-50d9fbb1-4c79-4b93-8114-5c26bb2b1c57": {
+      "company": "Riverside Research",
+      "first_seen": "2026-10-04T14:04:20+00:00",
+      "last_seen": "2026-10-04T14:04:20+00:00",
+      "location": "Lexington, MA",
+      "posted_at": "1789683070",
+      "source": "simplify",
+      "title": "Junior Research Scientist - Formal Methods",
+      "url": "https://careers-riversideresearch.icims.com/jobs/4381/job?mobile=true&needsRedirect=false"
     },
     "simplify:riverside research::simplify-c9372099-ac31-46fe-82ad-547ac87f1e6f": {
       "company": "Riverside Research",
@@ -41715,7 +41835,7 @@
     "simplify:tencent::simplify-ebfbd4aa-1575-4433-ae61-19d71eac1f5d": {
       "company": "Tencent",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-09-22T00:04:40+00:00",
+      "last_seen": "2026-10-04T14:04:19+00:00",
       "posted_at": "1776982049",
       "title": "Game Research & Development Intern - Engine Research",
       "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363-1"
@@ -48463,7 +48583,7 @@
     "simplify:xero::simplify-9860b985-32f5-4061-92b6-53b33bacbe0c": {
       "company": "Xero",
       "first_seen": "2026-09-24T08:46:52+00:00",
-      "last_seen": "2026-09-30T00:01:01+00:00",
+      "last_seen": "2026-10-04T14:04:19+00:00",
       "location": "Calgary, AB, Canada",
       "posted_at": "1790230516",
       "source": "simplify",
@@ -52945,5 +53065,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-04T13:33:00+00:00"
+  "updated_at": "2026-10-04T14:05:02+00:00"
 }
