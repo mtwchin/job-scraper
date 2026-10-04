@@ -1,5 +1,5 @@
 {
-  "count": 6556,
+  "count": 6571,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -3921,6 +3921,7 @@
     "simplify:aerovironment::simplify-74b2d4ff-f0ec-41d4-bc51-c06875faa9b7": {
       "company": "AeroVironment",
       "first_seen": "2026-08-01T11:50:42+00:00",
+      "last_seen": "2026-10-04T12:02:50+00:00",
       "posted_at": "1766446090",
       "title": "CNO Developer",
       "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/420-National-Business-Parkway-Jessup-MD/CNO-Developer_6358"
@@ -5141,6 +5142,16 @@
       "title": "Entry Level Software Engineer",
       "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259"
     },
+    "simplify:amentum::simplify-32c4defb-7dea-4ea6-af09-279f66cabd5e": {
+      "company": "Amentum",
+      "first_seen": "2026-10-04T12:02:51+00:00",
+      "last_seen": "2026-10-04T12:02:51+00:00",
+      "location": "Dahlgren, VA",
+      "posted_at": "1783987200",
+      "source": "simplify",
+      "title": "C or C++ Junior Developer",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C-or-C---Junior-Developer_R0165501"
+    },
     "simplify:amentum::simplify-4a009563-7222-4cb3-b58d-930cdc0c5a55": {
       "company": "Amentum",
       "first_seen": "2026-09-09T18:02:12+00:00",
@@ -5624,6 +5635,16 @@
       "posted_at": "1789084800",
       "title": "Software Engineer Intern - Amgen\u2019s Technology & Medical Organizations",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745"
+    },
+    "simplify:amgen::simplify-8c712045-978a-4def-bc1b-e654cb23e4c3": {
+      "company": "Amgen",
+      "first_seen": "2026-10-04T12:02:51+00:00",
+      "last_seen": "2026-10-04T12:02:51+00:00",
+      "location": "Tampa, FL, Thousand Oaks, CA",
+      "posted_at": "1786665600",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Software-Engineer_R-251398"
     },
     "simplify:amgen::simplify-a694adca-179c-44e9-86be-f1f3f3d8f198": {
       "company": "Amgen",
@@ -7572,6 +7593,16 @@
       "title": "Cloud Developer Intern - Fcap",
       "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2"
     },
+    "simplify:automat::simplify-e52f9adf-6058-49a2-8d34-de29435c2cae": {
+      "company": "Automat",
+      "first_seen": "2026-10-04T12:02:52+00:00",
+      "last_seen": "2026-10-04T12:02:52+00:00",
+      "location": "SF",
+      "posted_at": "1772580347",
+      "source": "simplify",
+      "title": "Software Engineer - Junior/Intermediate",
+      "url": "https://jobs.ashbyhq.com/automat/a4172515-0353-47ec-9c71-631a294aa137/application?embed=true"
+    },
     "simplify:autostore::simplify-e0d5fa3b-7f59-44fd-a66e-2752562258b6": {
       "company": "Autostore",
       "first_seen": "2026-09-13T19:24:49+00:00",
@@ -7620,6 +7651,16 @@
       "posted_at": "1786083522",
       "title": "Software Engineer",
       "url": "https://apply.workable.com/avalore/j/F157AC3B65/apply"
+    },
+    "simplify:avalore::simplify-f2daf1ba-2514-4b07-a4c8-36469081bcc2": {
+      "company": "Avalore",
+      "first_seen": "2026-10-04T12:02:51+00:00",
+      "last_seen": "2026-10-04T12:02:51+00:00",
+      "location": "Arlington County, Arlington, VA",
+      "posted_at": "1788218944",
+      "source": "simplify",
+      "title": "Integration Engineer",
+      "url": "https://apply.workable.com/avalore/j/D83F1BE6AF/apply"
     },
     "simplify:aveva::simplify-18d1159a-0fc5-4395-a800-8360f12d024d": {
       "company": "AVEVA",
@@ -17298,6 +17339,7 @@
     "simplify:fannie mae::simplify-6fc7d52e-825d-4917-aaaa-3941e28d5c5a": {
       "company": "Fannie Mae",
       "first_seen": "2026-08-24T20:41:41+00:00",
+      "last_seen": "2026-10-04T12:02:50+00:00",
       "posted_at": "1787529600",
       "title": "Technology Program Intern",
       "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Campus---Technology-Program-Intern_JR2810"
@@ -21256,6 +21298,16 @@
       "title": "AI Agent Developer Intern",
       "url": "http://hiebing.applytojob.com/apply/GYiQqWe8cL/AI-Agent-Developer-Intern"
     },
+    "simplify:highlight ai::simplify-7b17adda-ec77-495d-b483-4f584209b5fa": {
+      "company": "Highlight AI",
+      "first_seen": "2026-10-04T12:02:51+00:00",
+      "last_seen": "2026-10-04T12:02:51+00:00",
+      "location": "SF",
+      "posted_at": "1787343758",
+      "source": "simplify",
+      "title": "Early Career Product Engineer",
+      "url": "https://jobs.ashbyhq.com/highlightai/dd8526be-514c-46a5-98be-b068b10b4cbb/application?embed=true"
+    },
     "simplify:highradius::simplify-dd00b6e1-6bbb-4984-b566-e04475a1c181": {
       "company": "HighRadius",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -21987,6 +22039,16 @@
       "title": "Member of Technical Staff 1 - Architecture",
       "url": "https://jobs.ashbyhq.com/illumio/9f7e300f-1e61-4900-ab6d-da7429d2a6ae/application?embed=true"
     },
+    "simplify:illumio::simplify-b15bda97-3dbd-4bc1-9d38-aa221e62739e": {
+      "company": "Illumio",
+      "first_seen": "2026-10-04T12:02:51+00:00",
+      "last_seen": "2026-10-04T12:02:51+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1785795559",
+      "source": "simplify",
+      "title": "Senior Full Stack Engineer",
+      "url": "https://jobs.ashbyhq.com/illumio/8cf0360e-c52d-458b-9735-6acd10be1ac7/application?embed=true"
+    },
     "simplify:imc trading::simplify-1c8d5fb4-7d30-4fff-adcc-7926baadf184": {
       "company": "IMC Trading",
       "first_seen": "2026-07-02T00:04:23+00:00",
@@ -22638,6 +22700,16 @@
       "posted_at": "1786140896",
       "title": "Engineer 1",
       "url": "https://careers-ice.icims.com/jobs/13435/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:intercontinental exchange::simplify-b3015cae-3273-4a68-adfd-587d522af9c7": {
+      "company": "Intercontinental Exchange",
+      "first_seen": "2026-10-04T12:02:51+00:00",
+      "last_seen": "2026-10-04T12:02:51+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1785881639",
+      "source": "simplify",
+      "title": "Analyst \u2013 Infrastructure Development & Automation",
+      "url": "https://careers-ice.icims.com/jobs/13384/job?mobile=true&needsRedirect=false"
     },
     "simplify:interface.ai::simplify-41280a36-4216-449a-9315-6144bfec8a2b": {
       "company": "interface.ai",
@@ -26048,6 +26120,16 @@
       "title": "Software Engineer Co-op - Conversions API",
       "url": "https://liveramp.wd5.myworkdayjobs.com/en-US/LiveRampCareers/job/San-Francisco/Co-Op--Software-Engineer---Conversions-API_JR012232-1"
     },
+    "simplify:living spaces::simplify-75256d11-66da-429f-bdb3-8c3f1ca59318": {
+      "company": "Living Spaces",
+      "first_seen": "2026-10-04T12:02:51+00:00",
+      "last_seen": "2026-10-04T12:02:51+00:00",
+      "location": "La Mirada, CA",
+      "posted_at": "1785715200",
+      "source": "simplify",
+      "title": "Front End Web Developer 1",
+      "url": "https://livingspaces.wd5.myworkdayjobs.com/ls/job/La-Mirada-CA---Corporate/Front-End-Web-Developer-1_R45250"
+    },
     "simplify:lmi ::simplify-eb6d5f77-90a1-46ca-97de-1e5ad01af6a5": {
       "company": "LMI ",
       "first_seen": "2026-07-23T16:42:59+00:00",
@@ -28010,6 +28092,16 @@
       "title": "Software Engineer Security & Identity Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930"
     },
+    "simplify:microsoft::simplify-b4e7a187-9537-4e72-8b27-c8d54faf0118": {
+      "company": "Microsoft",
+      "first_seen": "2026-10-04T12:02:50+00:00",
+      "last_seen": "2026-10-04T12:02:50+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1789425238",
+      "source": "simplify",
+      "title": "Software Engineering - Commercial Engineering & AI - Ceai",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839"
+    },
     "simplify:microsoft::simplify-b5b15050-2287-4ebf-8a26-f0745c794fd3": {
       "company": "Microsoft",
       "first_seen": "2026-08-19T08:49:40+00:00",
@@ -28017,6 +28109,16 @@
       "posted_at": "1787127974",
       "title": "AI Software Engineer Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891"
+    },
+    "simplify:microsoft::simplify-b6708f55-ced2-419a-9010-bf33b8b94595": {
+      "company": "Microsoft",
+      "first_seen": "2026-10-04T12:02:50+00:00",
+      "last_seen": "2026-10-04T12:02:50+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1789682725",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556928331"
     },
     "simplify:microsoft::simplify-d50dd4f1-ca8c-4636-9452-4d9f4073bd45": {
       "company": "Microsoft",
@@ -28176,6 +28278,16 @@
       "source": "simplify",
       "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/mintmcp/4f5bf102-6aae-4ccb-8e8d-af39082e68af/application?embed=true"
+    },
+    "simplify:miracle software systems::simplify-a5639007-e5ff-4da1-9359-39d1c379df96": {
+      "company": "Miracle Software Systems",
+      "first_seen": "2026-10-04T12:02:51+00:00",
+      "last_seen": "2026-10-04T12:02:51+00:00",
+      "location": "Bentonville, AR, Novi, MI, Atlanta, GA",
+      "posted_at": "1771985640",
+      "source": "simplify",
+      "title": "Software Developer - Full time",
+      "url": "https://jobs.smartrecruiters.com/MiracleSoftwareSystem1/743999691008059"
     },
     "simplify:mirage::simplify-af5452e3-4340-4d84-894b-cd012345a560": {
       "company": "Mirage",
@@ -32168,6 +32280,16 @@
       "title": "Back-End Cloud Developer Intern",
       "url": "https://careers.na.panasonic.com/jobs/50754?icims=1"
     },
+    "simplify:panasonic holdings::simplify-e1cd4fc3-d728-405c-a0f7-58d0fe6e36f8": {
+      "company": "Panasonic Holdings",
+      "first_seen": "2026-10-04T12:02:51+00:00",
+      "last_seen": "2026-10-04T12:02:51+00:00",
+      "location": "Irvine, CA",
+      "posted_at": "1785575119",
+      "source": "simplify",
+      "title": "Software Engineer - Full Stack",
+      "url": "https://careers.na.panasonic.com/jobs/49874?icims=1"
+    },
     "simplify:papercut::simplify-213bc9ef-3bbc-4045-9691-800365cf327e": {
       "company": "PaperCut",
       "first_seen": "2026-08-12T03:29:34+00:00",
@@ -32260,9 +32382,20 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.lever.co/patchmypc/e2bbd0a9-5810-4cf0-bb71-3fd2e1125341/apply"
     },
+    "simplify:patch::simplify-dbf7fba9-0d13-4ff6-ab82-81622153e130": {
+      "company": "Patch",
+      "first_seen": "2026-10-04T12:02:52+00:00",
+      "last_seen": "2026-10-04T12:02:52+00:00",
+      "location": "SF",
+      "posted_at": "1776992933",
+      "source": "simplify",
+      "title": "Product Engineer \u2013 Senior / Staff+",
+      "url": "https://jobs.ashbyhq.com/patch.io/8d3edb1a-3846-436c-a286-700a1e923e0f/application?embed=true"
+    },
     "simplify:pathai::simplify-4e2d4aa8-3825-4d49-bb96-d3194a6ced1f": {
       "company": "PathAI",
       "first_seen": "2026-08-11T23:09:33+00:00",
+      "last_seen": "2026-10-04T12:02:50+00:00",
       "posted_at": "1786487003",
       "title": "Software Engineer 1 - Fullstack",
       "url": "https://www.pathai.com/careers/8696764002?gh_jid=8696764002"
@@ -33977,6 +34110,16 @@
       "posted_at": "1766110989",
       "title": "GPU Kernel Development Engineer - Multiple Levels Available - Graphics Software Engineering",
       "url": "https://qualcomm.eightfold.ai/careers/job/446715939731"
+    },
+    "simplify:qualcomm::simplify-a81214dd-ab59-4311-8449-55d8c0ffff28": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-04T12:02:50+00:00",
+      "last_seen": "2026-10-04T12:02:50+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1785910575",
+      "source": "simplify",
+      "title": "Entry Level & Senior Software Engineer - Core AI Software - Machine Learning Engineering",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446718018413"
     },
     "simplify:qualcomm::simplify-d51738a7-c696-4490-8b3f-37c15f392347": {
       "company": "Qualcomm",
@@ -42814,7 +42957,7 @@
     "simplify:the boeing company::simplify-ed847441-9d11-4dc7-aa8a-8a2e49fdbc90": {
       "company": "The Boeing Company",
       "first_seen": "2026-07-29T23:12:09+00:00",
-      "last_seen": "2026-09-21T10:53:46+00:00",
+      "last_seen": "2026-10-04T12:02:50+00:00",
       "posted_at": "1785283200",
       "title": "Software Systems Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Colorado-Springs-CO/Software-Systems-Engineer--Associate-or-Experienced-_JR2026520215"
@@ -47104,6 +47247,16 @@
       "title": "Associate Software Engineer",
       "url": "https://careers.vtgdefense.com/jobs/9425?icims=1"
     },
+    "simplify:vtg::simplify-74459e47-5d76-4ad9-9008-68903a26b25e": {
+      "company": "VTG",
+      "first_seen": "2026-10-04T12:02:51+00:00",
+      "last_seen": "2026-10-04T12:02:51+00:00",
+      "location": "Orlando, FL, Washington, DC",
+      "posted_at": "1786680251",
+      "source": "simplify",
+      "title": "Associate Software Engineer - Full-Stack - Developer",
+      "url": "https://careers.vtgdefense.com/jobs/9133?icims=1"
+    },
     "simplify:vtg::simplify-7ddc7aa1-3dff-410d-99d2-fc276ae93037": {
       "company": "VTG",
       "first_seen": "2026-09-14T20:06:23+00:00",
@@ -47117,6 +47270,7 @@
     "simplify:vtg::simplify-8b34936c-e41c-4125-be15-b324d6d312c5": {
       "company": "VTG",
       "first_seen": "2026-08-14T05:13:27+00:00",
+      "last_seen": "2026-10-04T12:02:50+00:00",
       "posted_at": "1786680207",
       "title": "Associate Software Engineer",
       "url": "https://careers.vtgdefense.com/jobs/9316?icims=1"
@@ -52731,5 +52885,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-04T11:31:51+00:00"
+  "updated_at": "2026-10-04T12:02:53+00:00"
 }
