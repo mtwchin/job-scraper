@@ -1,5 +1,5 @@
 {
-  "count": 6575,
+  "count": 6576,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -14820,6 +14820,16 @@
       "posted_at": "1789002215",
       "title": "Software Engineer Intern - Client Solutions Group Engineering",
       "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217"
+    },
+    "simplify:dell technologies::simplify-d1133c90-ab4b-4fc5-a598-143f98f88793": {
+      "company": "Dell Technologies",
+      "first_seen": "2026-10-04T13:06:13+00:00",
+      "last_seen": "2026-10-04T13:06:13+00:00",
+      "location": "Round Rock, TX",
+      "posted_at": "1789423471",
+      "source": "simplify",
+      "title": "AI Solutions Intern - Product & Content Management",
+      "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299057"
     },
     "simplify:dellfor technologies::simplify-0b2e628c-07e0-464c-b9a8-4f3053adb604": {
       "company": "DellFor Technologies",
@@ -52925,5 +52935,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-04T12:34:55+00:00"
+  "updated_at": "2026-10-04T13:06:57+00:00"
 }
