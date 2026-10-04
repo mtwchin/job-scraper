@@ -1,5 +1,5 @@
 {
-  "count": 6548,
+  "count": 6549,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -5065,6 +5065,7 @@
     "simplify:amd::simplify-640797fc-5abf-4222-9bdb-16b62d09607e": {
       "company": "AMD",
       "first_seen": "2026-09-01T14:21:00+00:00",
+      "last_seen": "2026-10-04T09:33:26+00:00",
       "posted_at": "1788256545",
       "title": "Graphics Software Engineer Intern/Co-op",
       "url": "https://careers.amd.com/jobs/91359?icims=1"
@@ -32582,6 +32583,16 @@
       "title": "Software Development Associate",
       "url": "https://careers-peraton.icims.com/jobs/168949/job?mobile=true&needsRedirect=false"
     },
+    "simplify:peraton::simplify-58b31cf1-a146-494d-b944-3f9f3698ea79": {
+      "company": "Peraton",
+      "first_seen": "2026-10-04T09:33:26+00:00",
+      "last_seen": "2026-10-04T09:33:26+00:00",
+      "location": "Annapolis Junction, MD",
+      "posted_at": "1783605985",
+      "source": "simplify",
+      "title": "Junior Software Engineer",
+      "url": "https://careers-peraton.icims.com/jobs/168379/job?mobile=true&needsRedirect=false"
+    },
     "simplify:peraton::simplify-58ef82e0-8648-4b2b-8976-fee15467601b": {
       "company": "Peraton",
       "first_seen": "2026-08-01T16:16:06+00:00",
@@ -39117,6 +39128,7 @@
     "simplify:solar turbines::simplify-117c2f2b-e16b-44db-b634-e9cb1579b304": {
       "company": "Solar Turbines",
       "first_seen": "2026-07-16T14:24:25+00:00",
+      "last_seen": "2026-10-04T09:33:26+00:00",
       "posted_at": "1784160000",
       "title": "Entry Level Engineer Rotation - Solutions Platforms Engineering",
       "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/XMLNAME-2027-Entry-Level-Rotation----Solutions-Platforms-Engineered_R0000381658"
@@ -43387,6 +43399,7 @@
     "simplify:tiktok::simplify-1fb1e49e-1a9d-40ea-9146-1df231b49971": {
       "company": "TikTok",
       "first_seen": "2026-08-03T08:03:09+00:00",
+      "last_seen": "2026-10-04T09:33:26+00:00",
       "posted_at": "1785737712",
       "title": "Software Engineer Intern",
       "url": "https://lifeattiktok.com/search/7662700594251958581"
@@ -52648,5 +52661,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-04T09:07:32+00:00"
+  "updated_at": "2026-10-04T09:33:34+00:00"
 }
