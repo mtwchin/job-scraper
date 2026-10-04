@@ -1,5 +1,5 @@
 {
-  "count": 6594,
+  "count": 6598,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -7545,6 +7545,16 @@
       "title": "Software Developer Intern - Interactive Graphics, Media & Entertainment",
       "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2"
     },
+    "simplify:autodesk::simplify-996a2707-5719-4616-8d8c-4e2cc8af6e98": {
+      "company": "Autodesk",
+      "first_seen": "2026-10-04T15:02:51+00:00",
+      "last_seen": "2026-10-04T15:02:51+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "Model Context Protocol/AI Developer",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/MCP-AI-Developer_26WD99785-1"
+    },
     "simplify:autodesk::simplify-9988a888-3523-44f0-9be3-6ca66f7e7508": {
       "company": "Autodesk",
       "first_seen": "2026-08-11T15:13:43+00:00",
@@ -10870,6 +10880,16 @@
       "title": "Configuration Control/Data Management Co-op - Engineering Department",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Danbury-CT-US/Configuration-Control-Data-Management-Co-op---Spring---Summer-2027_331440"
     },
+    "simplify:caci::simplify-caaee00c-197e-430a-b95b-f3d01ae0fb6a": {
+      "company": "CACI",
+      "first_seen": "2026-10-04T15:02:51+00:00",
+      "last_seen": "2026-10-04T15:02:51+00:00",
+      "location": "Ypsilanti, MI",
+      "posted_at": "1783165052",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_324349"
+    },
     "simplify:caci::simplify-d8e06bef-6524-48e2-aded-87d761d5da65": {
       "company": "CACI",
       "first_seen": "2026-10-02T23:03:30+00:00",
@@ -14090,6 +14110,16 @@
       "posted_at": "1786665600",
       "title": "NetSuite Implementation Intern - Consulting Practice",
       "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/NetSuite-Implementation-Intern_R-71040"
+    },
+    "simplify:crowe::simplify-3df6994b-faea-4585-a01c-50090660e390": {
+      "company": "Crowe",
+      "first_seen": "2026-10-04T15:02:51+00:00",
+      "last_seen": "2026-10-04T15:02:51+00:00",
+      "location": "Lexington, KY, Boston, MA, Indianapolis, IN, Houston, TX, Louisville, KY, Knoxville, TN, Nashville, TN, Washington, DC, SF, Austin, TX, Cleveland, OH, LA, Tampa, FL, San Jose, CA, Livingston, NJ, Grand Rapids, MI, Miami, FL, Dallas, TX, The Woodlands, TX, Plano, TX, Boca Raton, FL, Chicago, IL, Tallahassee, FL, Charlotte, NC, Oakbrook Terrace, IL, Burlington, VT, Sacramento, CA, Columbus, OH, Hartford, CT, Springfield, IL, NYC, Denver, CO, Fort Wayne, IN, South Bend, IN, Sarasota, FL, Costa Mesa, CA",
+      "posted_at": "1786665600",
+      "source": "simplify",
+      "title": "Machine Learning Software Engineer 1",
+      "url": "https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006"
     },
     "simplify:crowe::simplify-6c0e9a46-463c-43dc-8bb1-7b4c40a5ab14": {
       "company": "Crowe",
@@ -31017,7 +31047,7 @@
     "simplify:nutanix::simplify-eff98609-6d2a-4e7a-8b80-9c0f39ea9e99": {
       "company": "Nutanix",
       "first_seen": "2026-09-29T23:06:26+00:00",
-      "last_seen": "2026-10-03T09:36:11+00:00",
+      "last_seen": "2026-10-04T15:02:51+00:00",
       "location": "Vancouver, BC, Canada",
       "posted_at": "1790115639",
       "source": "simplify",
@@ -47318,6 +47348,16 @@
       "title": "Software Engineer New Grad",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--New-College-Grad---2027-Foster-City--CA_REF088543W-1"
     },
+    "simplify:visa::simplify-a3f0cde5-d90d-4d0a-a423-c4a3323e0ba3": {
+      "company": "Visa",
+      "first_seen": "2026-10-04T15:02:51+00:00",
+      "last_seen": "2026-10-04T15:02:51+00:00",
+      "location": "Denver, CO",
+      "posted_at": "1789078006",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/SW-Engineer_REF081049W"
+    },
     "simplify:visa::simplify-b9ebe0ba-87b7-4311-b4f1-24c6d21285ca": {
       "company": "Visa",
       "first_seen": "2026-08-01T17:16:43+00:00",
@@ -53117,5 +53157,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-04T14:37:04+00:00"
+  "updated_at": "2026-10-04T15:03:07+00:00"
 }
