@@ -1,5 +1,5 @@
 {
-  "count": 6589,
+  "count": 6594,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -3941,6 +3941,16 @@
       "title": "Software Engineer 1 - Applications",
       "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Melbourne-FL/Software-Engineer-III--Apps-_7569"
     },
+    "simplify:aerovironment::simplify-83a81125-8501-43a2-b0c7-82b520ae9102": {
+      "company": "AeroVironment",
+      "first_seen": "2026-10-04T14:36:11+00:00",
+      "last_seen": "2026-10-04T14:36:11+00:00",
+      "location": "Jessup, MD",
+      "posted_at": "1785801600",
+      "source": "simplify",
+      "title": "Junior Software Engineer",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322"
+    },
     "simplify:aerovironment::simplify-dc39e31e-20cd-43e1-86d2-386274f207de": {
       "company": "AeroVironment",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -5212,6 +5222,7 @@
     "simplify:ameren::simplify-51b0d062-6f05-4d98-afb7-8dc7523b4758": {
       "company": "Ameren",
       "first_seen": "2026-08-07T22:59:16+00:00",
+      "last_seen": "2026-10-04T14:36:10+00:00",
       "posted_at": "1786060800",
       "title": "Digital Co-op",
       "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Digital-Co-op_033841-1"
@@ -7884,6 +7895,7 @@
     "simplify:axos bank::simplify-f4bde942-8a53-4997-8a6e-3c3ad226eb46": {
       "company": "Axos Bank",
       "first_seen": "2026-07-21T08:47:36+00:00",
+      "last_seen": "2026-10-04T14:36:10+00:00",
       "posted_at": "1776377145",
       "title": "Automation Analyst Intern",
       "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Automation-Analyst-Intern_JR4507"
@@ -21714,6 +21726,16 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/hudl/jobs/8114314"
     },
+    "simplify:hudson pacific properties::simplify-2fae6e26-3b88-487f-9a29-0870857a87b9": {
+      "company": "Hudson Pacific Properties",
+      "first_seen": "2026-10-04T14:36:11+00:00",
+      "last_seen": "2026-10-04T14:36:11+00:00",
+      "location": "LA",
+      "posted_at": "1790817426",
+      "source": "simplify",
+      "title": "AI Enablement Specialist",
+      "url": "https://jobs.ashbyhq.com/hudson-pacific-properties/1b36e1f9-2847-47cd-920e-0ce881deb6cf/application?embed=true"
+    },
     "simplify:hudson river trading::simplify-65d9dfbd-5d39-42b0-988c-dd59701000db": {
       "company": "Hudson River Trading",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -28291,6 +28313,16 @@
       "title": "Software Engineer Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557004819"
     },
+    "simplify:microsoft::simplify-fe14fd5d-c834-4c22-bc27-c3807e210b18": {
+      "company": "Microsoft",
+      "first_seen": "2026-10-04T14:36:10+00:00",
+      "last_seen": "2026-10-04T14:36:10+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1790892628",
+      "source": "simplify",
+      "title": "Software Engineer - Forward Deployed Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557004814"
+    },
     "simplify:microsoft::simplify-fe3438ed-3bcb-4b2c-8c82-956e0c204732": {
       "company": "Microsoft",
       "first_seen": "2026-09-15T22:46:05+00:00",
@@ -32677,6 +32709,16 @@
       "posted_at": "1781361042",
       "title": "IST Graduate Assistant",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/IST-Graduate-Assistant---Dr-Calacci_REQ_0000072565-2"
+    },
+    "simplify:pennsylvania state university::simplify-3c009b4f-77db-4adf-a566-988bc63d5ba6": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-10-04T14:36:11+00:00",
+      "last_seen": "2026-10-04T14:36:11+00:00",
+      "location": "State College, PA",
+      "posted_at": "1783376223",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Software-Engineer_REQ_0000079261-2"
     },
     "simplify:pennsylvania state university::simplify-4115edde-4ae5-4920-b782-86b84818fcc2": {
       "company": "Pennsylvania State University",
@@ -37319,6 +37361,16 @@
       "posted_at": "1788825600",
       "title": "Systems Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/XMLNAME-2027-Spring-Summer-Co-Op---Systems---AVI-MIL-FMS-DAS_01872835"
+    },
+    "simplify:rtx::simplify-a3488e6f-c542-4279-9aef-97a3f424a008": {
+      "company": "RTX",
+      "first_seen": "2026-10-04T14:36:11+00:00",
+      "last_seen": "2026-10-04T14:36:11+00:00",
+      "location": "Cambridge, MA",
+      "posted_at": "1790553600",
+      "source": "simplify",
+      "title": "Research Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Research-Software-Engineer-I---Onsite_01878338"
     },
     "simplify:rtx::simplify-a3f73d95-78af-40f1-98a5-e230608dae8c": {
       "company": "RTX",
@@ -53065,5 +53117,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-04T14:05:02+00:00"
+  "updated_at": "2026-10-04T14:37:04+00:00"
 }
