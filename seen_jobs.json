@@ -1,5 +1,5 @@
 {
-  "count": 6625,
+  "count": 6630,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -14385,6 +14385,16 @@
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://careers.cvent.com/jobs/10806?icims=1"
     },
+    "simplify:cvs health::simplify-0c9a496a-20f1-4b3e-bdde-ccc6fe56f70d": {
+      "company": "CVS Health",
+      "first_seen": "2026-10-05T22:35:09+00:00",
+      "last_seen": "2026-10-05T22:35:09+00:00",
+      "location": "Hartford, CT, NYC, Woonsocket, RI, Irving, TX, Wellesley, MA",
+      "posted_at": "1790553600",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Software-Engineer---UG-Intern-Conversion_R1055246"
+    },
     "simplify:cvs health::simplify-197ca67f-b0d1-4876-ac51-5e065b16540a": {
       "company": "CVS Health",
       "first_seen": "2026-09-25T23:20:50+00:00",
@@ -17387,12 +17397,32 @@
       "title": "Software Development Engineer",
       "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Software-Development-Engineering-Intern---2026---Austin--San-Jose--Seattle_R-98557"
     },
+    "simplify:expedia group::simplify-b5be1176-4a77-4aa0-a229-cb9959886d0a": {
+      "company": "Expedia Group",
+      "first_seen": "2026-10-05T22:35:09+00:00",
+      "last_seen": "2026-10-05T22:35:09+00:00",
+      "location": "Seattle, WA, Austin, TX, San Jose, CA",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Software Development Engineer Intern",
+      "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311"
+    },
     "simplify:expedia group::simplify-c7d84f4b-ace8-45a5-a669-7f3bea56ab5d": {
       "company": "Expedia Group",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1782868018",
       "title": "Software Developer 2 - Software Developer 2 - Content",
       "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Canada---Quebec---Montreal/Dveloppeur--euse--de-logiciels-II--contenu----Software-Developer-II--Content-_R-106559"
+    },
+    "simplify:expedia group::simplify-e01d674b-7369-4b64-8785-fba7bb59da13": {
+      "company": "Expedia Group",
+      "first_seen": "2026-10-05T22:35:09+00:00",
+      "last_seen": "2026-10-05T22:35:09+00:00",
+      "location": "Seattle, WA, Austin, TX, San Jose, CA",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Mobile Engineer Intern",
+      "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Mobile-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110306"
     },
     "simplify:expleo::simplify-ab1c5055-45ed-49f4-bd74-572e5cb702ff": {
       "company": "Expleo",
@@ -22786,7 +22816,7 @@
     "simplify:intel::simplify-a273898f-c0b4-4c85-85d4-badef42df706": {
       "company": "Intel",
       "first_seen": "2026-09-10T17:18:09+00:00",
-      "last_seen": "2026-09-21T00:04:12+00:00",
+      "last_seen": "2026-10-05T22:35:08+00:00",
       "posted_at": "1788998400",
       "title": "Compiler Engineer Intern - SYCL Runtime",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Undergraduate-Intern---SYCL-Runtime_JR0286849"
@@ -28484,6 +28514,16 @@
       "title": "Software Engineer Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556991773"
     },
+    "simplify:midland states bank::simplify-c44ccf4f-7352-4f14-9f9d-43ce7522c340": {
+      "company": "Midland States Bank",
+      "first_seen": "2026-10-05T22:35:09+00:00",
+      "last_seen": "2026-10-05T22:35:09+00:00",
+      "location": "Rockford, IL, St. Louis, MO, Effingham, IL",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "AI Solutions Engineer Intern",
+      "url": "https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---AI-Solutions-Engineer_JR1461"
+    },
     "simplify:milwaukee brewers::simplify-b4ad0256-da37-4975-8e88-39e5fe38dc88": {
       "company": "Milwaukee Brewers",
       "first_seen": "2026-09-24T22:33:36+00:00",
@@ -29332,6 +29372,16 @@
       "posted_at": "1788963390",
       "title": "AI Engineer Intern",
       "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32261"
+    },
+    "simplify:nbcuniversal::simplify-a6dfb4bb-3901-447a-ac14-bb9b92ef4d21": {
+      "company": "NBCUniversal",
+      "first_seen": "2026-10-05T22:35:09+00:00",
+      "last_seen": "2026-10-05T22:35:09+00:00",
+      "location": "Glendale, CA",
+      "posted_at": "1791237916",
+      "source": "simplify",
+      "title": "Feature Technical Direction Intern",
+      "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153538044"
     },
     "simplify:ncr voyix::simplify-09c0d678-51ef-4e83-a6cd-30b5148869f4": {
       "company": "NCR Voyix",
@@ -48460,7 +48510,7 @@
     "simplify:wex::simplify-3f5cab3c-532c-4b28-ab03-48e5cd935bb0": {
       "company": "Wex",
       "first_seen": "2026-09-14T21:34:51+00:00",
-      "last_seen": "2026-09-23T00:03:42+00:00",
+      "last_seen": "2026-10-05T22:35:08+00:00",
       "location": "Remote in USA",
       "posted_at": "1789344000",
       "source": "simplify",
@@ -48470,7 +48520,7 @@
     "simplify:wex::simplify-8d2559c4-15a3-4d4b-8b6c-541fcaab8354": {
       "company": "Wex",
       "first_seen": "2026-09-14T21:34:51+00:00",
-      "last_seen": "2026-09-24T00:00:15+00:00",
+      "last_seen": "2026-10-05T22:35:08+00:00",
       "location": "Remote in USA",
       "posted_at": "1789344000",
       "source": "simplify",
@@ -48480,7 +48530,7 @@
     "simplify:wex::simplify-d2a2f7eb-19b0-4859-b09e-fefe81a88ceb": {
       "company": "Wex",
       "first_seen": "2026-09-14T21:34:51+00:00",
-      "last_seen": "2026-09-24T00:00:15+00:00",
+      "last_seen": "2026-10-05T22:35:08+00:00",
       "location": "Remote in USA",
       "posted_at": "1789344000",
       "source": "simplify",
@@ -48490,7 +48540,7 @@
     "simplify:wex::simplify-d6dfcbeb-4029-4aad-bf63-959fcd1680cd": {
       "company": "Wex",
       "first_seen": "2026-09-14T21:34:51+00:00",
-      "last_seen": "2026-09-23T00:03:42+00:00",
+      "last_seen": "2026-10-05T22:35:08+00:00",
       "location": "Remote in USA",
       "posted_at": "1789344000",
       "source": "simplify",
@@ -48500,7 +48550,7 @@
     "simplify:wex::simplify-f77b6b5f-ff7d-45d7-9704-b0198ab5cd0d": {
       "company": "Wex",
       "first_seen": "2026-09-14T21:34:51+00:00",
-      "last_seen": "2026-09-23T00:03:42+00:00",
+      "last_seen": "2026-10-05T22:35:08+00:00",
       "location": "Remote in USA",
       "posted_at": "1789344000",
       "source": "simplify",
@@ -53445,5 +53495,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-05T22:32:25+00:00"
+  "updated_at": "2026-10-05T22:35:27+00:00"
 }
