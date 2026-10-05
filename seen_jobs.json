@@ -1,5 +1,5 @@
 {
-  "count": 6624,
+  "count": 6625,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -10701,6 +10701,16 @@
       "posted_at": "1788307200",
       "title": "Software Engineer Co-op - Fall 2026",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Fall-2026_331472"
+    },
+    "simplify:caci::simplify-2dd7c885-f274-47a7-92b1-7d20f5fb9388": {
+      "company": "CACI",
+      "first_seen": "2026-10-05T21:36:42+00:00",
+      "last_seen": "2026-10-05T21:36:42+00:00",
+      "location": "Lorton, VA",
+      "posted_at": "1789603200",
+      "source": "simplify",
+      "title": "Software Safety Developer/Analyst",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Lorton-VA-US/Software-Safety-Developer-Analyst_332049"
     },
     "simplify:caci::simplify-3061cfda-4fbe-4cb7-ba26-605a5106006f": {
       "company": "CACI",
@@ -53434,5 +53444,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-05T20:58:19+00:00"
+  "updated_at": "2026-10-05T21:37:21+00:00"
 }
