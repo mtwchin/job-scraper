@@ -23832,8 +23832,8 @@
     },
     "simplify:johns hopkins applied physics laboratory::simplify-32840b1f-85f1-43a7-86fe-57d7e965e241": {
       "company": "Johns Hopkins Applied Physics Laboratory",
-      "first_seen": "2026-10-05T09:03:03+00:00",
-      "last_seen": "2026-10-05T09:03:03+00:00",
+      "first_seen": "2026-10-05T09:31:26+00:00",
+      "last_seen": "2026-10-05T09:31:26+00:00",
       "location": "Laurel, MD",
       "posted_at": "1786679974",
       "source": "simplify",
@@ -53334,5 +53334,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-05T09:03:56+00:00"
+  "updated_at": "2026-10-05T09:32:03+00:00"
 }
