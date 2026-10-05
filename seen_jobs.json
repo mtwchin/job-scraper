@@ -1,5 +1,5 @@
 {
-  "count": 6613,
+  "count": 6614,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -23829,6 +23829,16 @@
       "posted_at": "1788288487",
       "title": "Software Developer 2027 Graduate - Tactical System Prototyping and Deployment",
       "url": "https://careers.jhuapl.edu/jobs/59558?icims=1"
+    },
+    "simplify:johns hopkins applied physics laboratory::simplify-32840b1f-85f1-43a7-86fe-57d7e965e241": {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "first_seen": "2026-10-05T09:03:03+00:00",
+      "last_seen": "2026-10-05T09:03:03+00:00",
+      "location": "Laurel, MD",
+      "posted_at": "1786679974",
+      "source": "simplify",
+      "title": "Software Assurance/Formal Methods Developer",
+      "url": "https://careers.jhuapl.edu/jobs/58612?icims=1"
     },
     "simplify:johns hopkins applied physics laboratory::simplify-33f03ee2-af54-4e9a-a8c3-1ca957e56cd0": {
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -53324,5 +53334,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-05T08:18:54+00:00"
+  "updated_at": "2026-10-05T09:03:56+00:00"
 }
