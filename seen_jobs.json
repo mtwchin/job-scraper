@@ -1,5 +1,5 @@
 {
-  "count": 6615,
+  "count": 6617,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -16935,6 +16935,16 @@
       "posted_at": "1789084800",
       "title": "IT Application Engineering Intern",
       "url": "https://erickson.wd108.myworkdayjobs.com/External/job/Baltimore-MD/College-Intern-Corporate_R0103863-1"
+    },
+    "simplify:ernst & young::simplify-5225e58c-5696-4982-94a4-d20dfef3c850": {
+      "company": "Ernst & Young",
+      "first_seen": "2026-10-05T14:32:26+00:00",
+      "last_seen": "2026-10-05T14:32:26+00:00",
+      "location": "Nashville, TN, Dallas, TX, Chicago, IL, Atlanta, GA",
+      "posted_at": "1791209680",
+      "source": "simplify",
+      "title": "Tax Intern - Other Tax - Americas Tax Technology Group",
+      "url": "https://eyglobal.yello.co/jobs/yUI0hOKgEZ86mkIsV-EUdw?job_board_id=c1riT--B2O-KySgYWsZO1Q"
     },
     "simplify:ernst & young::simplify-96a269a3-eddc-4e42-bf43-69cbf7355110": {
       "company": "Ernst & Young",
@@ -34514,6 +34524,16 @@
       "posted_at": "1772003147",
       "title": "Application Support",
       "url": "https://jobs.smartrecruiters.com/Quantix/106736418"
+    },
+    "simplify:quantum signal ai::simplify-726360c4-caf8-48cc-bc62-9dc9ba9eaca4": {
+      "company": "Quantum Signal AI",
+      "first_seen": "2026-10-05T14:32:26+00:00",
+      "last_seen": "2026-10-05T14:32:26+00:00",
+      "location": "Saline, MI",
+      "posted_at": "1791210189",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Tools and Prototypes",
+      "url": "https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes"
     },
     "simplify:quera computing::simplify-07323659-ff80-4e1a-a788-ba31ef1f3ab0": {
       "company": "QuEra Computing",
@@ -53344,5 +53364,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-05T10:05:07+00:00"
+  "updated_at": "2026-10-05T14:33:11+00:00"
 }
