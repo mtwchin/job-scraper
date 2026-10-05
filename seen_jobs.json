@@ -1,5 +1,5 @@
 {
-  "count": 6634,
+  "count": 6663,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -3587,6 +3587,16 @@
       "title": "Software Engineer Intern",
       "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Software-Engineer-Intern_R00345312"
     },
+    "simplify:accenture::simplify-d484c3eb-b412-428e-b36b-b79b0996a239": {
+      "company": "Accenture",
+      "first_seen": "2026-10-05T23:17:18+00:00",
+      "last_seen": "2026-10-05T23:17:18+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1789568702",
+      "source": "simplify",
+      "title": "Full Stack Engineer",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4711985006"
+    },
     "simplify:accenture::simplify-db50fd06-19b3-4eb3-8597-d6eadf799b65": {
       "company": "Accenture",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -4721,7 +4731,7 @@
     "simplify:altice usa::simplify-ed1c1803-cea0-4778-8d48-8ba69bc0716a": {
       "company": "Altice USA",
       "first_seen": "2026-08-29T02:50:35+00:00",
-      "last_seen": "2026-09-24T00:00:15+00:00",
+      "last_seen": "2026-10-05T23:17:16+00:00",
       "posted_at": "1787304182",
       "title": "Software Development Engineer 1",
       "url": "https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors"
@@ -5225,6 +5235,16 @@
       "posted_at": "1787270400",
       "title": "Software Programmer Entry Level - Conventional Test Facility",
       "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer---Entry-Level_R0168838"
+    },
+    "simplify:amentum::simplify-8b814030-ef68-4f27-8a2b-d020a043b99c": {
+      "company": "Amentum",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Fredericksburg, VA",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Entry Level Software Engineer",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0172148"
     },
     "simplify:amentum::simplify-b370b3ca-e8e9-4e2e-a20a-1b94dd207e75": {
       "company": "Amentum",
@@ -7546,6 +7566,16 @@
       "title": "Software Developer Intern - Summer 2027",
       "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121"
     },
+    "simplify:auto-owners insurance::simplify-ddd8388b-32a1-40b4-8c3f-7eb9b9757a8d": {
+      "company": "Auto-Owners Insurance",
+      "first_seen": "2026-10-05T23:17:18+00:00",
+      "last_seen": "2026-10-05T23:17:18+00:00",
+      "location": "Lansing, MI",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "COBOL Software Developer",
+      "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/COBOL-Software-Developer_R_14568"
+    },
     "simplify:auto-owners insurance::simplify-ecfcd54c-d907-4dac-8649-56d9a8f24394": {
       "company": "Auto-Owners Insurance",
       "first_seen": "2026-09-09T18:02:12+00:00",
@@ -8713,7 +8743,7 @@
     "simplify:blackrock::simplify-a98c0a06-306e-4812-a351-9c4c42220854": {
       "company": "BlackRock",
       "first_seen": "2026-09-04T14:30:46+00:00",
-      "last_seen": "2026-09-30T00:01:01+00:00",
+      "last_seen": "2026-10-05T23:17:16+00:00",
       "posted_at": "1786579200",
       "title": "Associate Database Platform Developer - Database Platform Development",
       "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Wilmington-DE/Associate-Database-Platform-Developer_R266105"
@@ -11496,6 +11526,16 @@
       "title": "Associate Talent Program",
       "url": "https://job-boards.greenhouse.io/capco/jobs/8152949"
     },
+    "simplify:capgemini::simplify-214e7a90-9cec-4928-a2ba-cbb8931aeb79": {
+      "company": "Capgemini",
+      "first_seen": "2026-10-05T23:17:18+00:00",
+      "last_seen": "2026-10-05T23:17:18+00:00",
+      "location": "Nashville, TN",
+      "posted_at": "1791238880",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://careers.capgemini.com/job/Nashville,-TN-Associate-Software-Engineer-TN-37201/1444508633/?ats=successfactors"
+    },
     "simplify:capgemini::simplify-2c3fcb34-9459-42c5-8269-e05902759c20": {
       "company": "Capgemini",
       "first_seen": "2026-10-01T11:32:31+00:00",
@@ -13526,6 +13566,16 @@
       "title": "Software Engineer - .NET & AI",
       "url": "https://confluence.pinpointhq.com/en/postings/49d5aa65-dc1b-4254-ae94-f645e7488aa1?ats=pinpointhq"
     },
+    "simplify:constant contact::simplify-58a29872-deec-4a7e-8a5a-237b34edd4af": {
+      "company": "Constant Contact",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Waltham, MA",
+      "posted_at": "1791240984",
+      "source": "simplify",
+      "title": "Software Engineering Development Program",
+      "url": "https://job-boards.greenhouse.io/constantcontact/jobs/8212432"
+    },
     "simplify:constellation energy::simplify-5692a35b-a407-498c-9c37-aef39ac5511e": {
       "company": "Constellation Energy",
       "first_seen": "2026-09-05T01:12:48+00:00",
@@ -14829,6 +14879,16 @@
       "source": "simplify",
       "title": "Software Developer Intern",
       "url": "https://careers-daytonfreight.icims.com/jobs/18249/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:dayton freight lines::simplify-a0d1ae40-cc95-41c1-b7b0-1b9c30b2ce8a": {
+      "company": "Dayton Freight Lines",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Dayton, OH",
+      "posted_at": "1791238893",
+      "source": "simplify",
+      "title": "Business Intelligence Intern",
+      "url": "https://careers-daytonfreight.icims.com/jobs/18278/job?mobile=true&needsRedirect=false"
     },
     "simplify:decagon::simplify-886b58df-3da6-4888-8b8d-ac9eef06b1a7": {
       "company": "Decagon",
@@ -19505,6 +19565,16 @@
       "title": "Software Engineer - Multiple Teams",
       "url": "https://careers-gdms.icims.com/jobs/73300/job?mobile=true&needsRedirect=false"
     },
+    "simplify:general dynamics mission systems::simplify-aa739d1b-e0d2-4ce1-bb8a-be88fe2687f1": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Manassas, VA",
+      "posted_at": "1791238880",
+      "source": "simplify",
+      "title": "Software Engineer Intern - CWL",
+      "url": "https://careers-gdms.icims.com/jobs/75346/job?mobile=true&needsRedirect=false"
+    },
     "simplify:general dynamics mission systems::simplify-ace2a03a-1f53-4778-8e95-2ca42b7a7d5a": {
       "company": "General Dynamics Mission Systems",
       "first_seen": "2026-09-04T23:26:59+00:00",
@@ -20623,6 +20693,16 @@
       "source": "simplify",
       "title": "Front-End Intern",
       "url": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/Grasshopper-FE-Intern_R26-2253"
+    },
+    "simplify:goto group::simplify-6f20b6b4-b84b-4ed7-b608-fffb1c6e5bc0": {
+      "company": "GoTo Group",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Remote in Canada",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Software Developer Intern - Contacts",
+      "url": "https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/Contacts-Intern_R26-2249"
     },
     "simplify:goto group::simplify-7471b8b6-f1d5-4c2b-88f7-47f118d9cc04": {
       "company": "GoTo Group",
@@ -22179,12 +22259,32 @@
       "title": "Software Development Engineer Intern",
       "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003"
     },
+    "simplify:id.me::simplify-96e1951b-5f22-4c47-8da1-269eee7486fa": {
+      "company": "ID.me",
+      "first_seen": "2026-10-05T23:17:18+00:00",
+      "last_seen": "2026-10-05T23:17:18+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1791238953",
+      "source": "simplify",
+      "title": "Software Development Engineer 2 New Grad - Life Hub - Super App",
+      "url": "https://job-boards.greenhouse.io/idme/jobs/8011095003"
+    },
     "simplify:idealforce::simplify-ebdbdcd8-ef03-440b-a67f-e1930d725d62": {
       "company": "Idealforce",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1771899116",
       "title": "Web Developer",
       "url": "https://jobs.smartrecruiters.com/IDEALFORCELLC/82806726"
+    },
+    "simplify:idemia::simplify-60ab7a67-de85-40c1-889d-104e6d6019cd": {
+      "company": "IDEMIA",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Reston, VA",
+      "posted_at": "1791239075",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://uscareers-idemia.icims.com/jobs/8650/job?mobile=true&needsRedirect=false"
     },
     "simplify:idler::simplify-5c83cea3-dccc-4e0b-b407-f4703216b9ae": {
       "company": "Idler",
@@ -24819,6 +24919,16 @@
       "title": "Software Development Intern",
       "url": "https://jobs.keysight.com/jobs/53081?lang=en-us&icims=1"
     },
+    "simplify:khan academy::simplify-b1048256-c61c-403f-80b6-70efb51fdd0e": {
+      "company": "Khan Academy",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Remote in USA, Remote in Canada",
+      "posted_at": "1791240689",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259"
+    },
     "simplify:kikoff::simplify-40e6062a-75db-489e-bb33-701876794fe7": {
       "company": "Kikoff",
       "first_seen": "2026-09-03T12:51:17+00:00",
@@ -26971,6 +27081,16 @@
       "title": "Technology Enablement Analyst Co-op",
       "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Technology-Enablement-Analyst_JR26090774"
     },
+    "simplify:manulife financial::simplify-33e90245-c82a-48ca-96aa-0d0aba85be9a": {
+      "company": "Manulife Financial",
+      "first_seen": "2026-10-05T23:17:18+00:00",
+      "last_seen": "2026-10-05T23:17:18+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Associate Applied AI Engineer - GenAI Systems",
+      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Associate-Applied-AI-Engineer---GenAI-Systems_JR26091743-2"
+    },
     "simplify:manulife financial::simplify-4ff8ce00-d5ca-486c-b103-e438be53ee1a": {
       "company": "Manulife Financial",
       "first_seen": "2026-07-31T22:42:03+00:00",
@@ -27271,6 +27391,16 @@
       "posted_at": "1785196800",
       "title": "Applications Analyst 1",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Applications-Analyst-I_RQ4071746-1"
+    },
+    "simplify:mastercard::simplify-0904ada8-dd5b-47ed-b6b2-f23cdd66fb39": {
+      "company": "Mastercard",
+      "first_seen": "2026-10-05T23:17:18+00:00",
+      "last_seen": "2026-10-05T23:17:18+00:00",
+      "location": "O'Fallon, MO",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-291661"
     },
     "simplify:mastercard::simplify-20cf24f4-5879-4261-9b6a-216881df3264": {
       "company": "Mastercard",
@@ -28206,6 +28336,16 @@
       "title": "IT Software Engineer Intern",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR111582"
     },
+    "simplify:micron technology::simplify-108398c2-db25-4f0a-89ab-ebcf383dc142": {
+      "company": "Micron Technology",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Boise, ID",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "SSD Architecture Modeling Intern",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SSD-Architecture-Modeling_JR113803"
+    },
     "simplify:micron technology::simplify-1155a976-0c8a-4ce5-8e4f-e717be6dff40": {
       "company": "Micron Technology",
       "first_seen": "2026-09-01T20:11:23+00:00",
@@ -28256,6 +28396,16 @@
       "posted_at": "1786320000",
       "title": "Application Engineer - RDA",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/RDA-Application-Engineer_JR107745"
+    },
+    "simplify:micron technology::simplify-75269b0a-c784-4fec-94a8-afe657a39877": {
+      "company": "Micron Technology",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Boise, ID",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "AI Engineer Intern - SMAI TD AI Engineering Team",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991"
     },
     "simplify:micron technology::simplify-ec2d8499-9c16-4277-8aac-c8300d24f46f": {
       "company": "Micron Technology",
@@ -28947,6 +29097,16 @@
       "title": "Graduate Software Engineer",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R62290"
     },
+    "simplify:motorola::simplify-7483f661-ca29-4d1f-8d41-0e3036f6a27e": {
+      "company": "Motorola",
+      "first_seen": "2026-10-05T23:17:18+00:00",
+      "last_seen": "2026-10-05T23:17:18+00:00",
+      "location": "Remote in Canada",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Junior Software Engineer - AI Agent Platform",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300"
+    },
     "simplify:motorola::simplify-79807b51-faf5-46c1-9880-7c1b2a77905f": {
       "company": "Motorola",
       "first_seen": "2026-09-24T23:04:31+00:00",
@@ -29261,6 +29421,16 @@
       "source": "simplify",
       "title": "Software Development Intern - AI Development",
       "url": "https://job-boards.greenhouse.io/nisc/jobs/8204086"
+    },
+    "simplify:national laboratory of the rockies::simplify-423e3f73-e0d9-47d9-be9e-94bff6e4c579": {
+      "company": "National Laboratory of the Rockies",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Golden, CO",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Undergraduate / Graduate Cyber Security Research Intern - 5G",
+      "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate---Graduate--Spring---Summer--Intern---Cyber-Security-Research---5G_R14555"
     },
     "simplify:national laboratory of the rockies::simplify-c1d1053c-438a-481e-8375-57149313ea2f": {
       "company": "National Laboratory of the Rockies",
@@ -31586,6 +31756,16 @@
       "posted_at": "1787184000",
       "title": "Associate Applications Analyst",
       "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Associate-Applications-Analyst_R157300-1"
+    },
+    "simplify:oklahoma state government::simplify-16ee160f-d323-41c8-abeb-cb1b0b6e9501": {
+      "company": "Oklahoma State Government",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Oklahoma County, OK",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Applications Developer 1",
+      "url": "https://okgov.wd1.myworkdayjobs.com/okgovjobs/job/Oklahoma-County/Applications-Developer-I_JR66262"
     },
     "simplify:oklahoma state government::simplify-933ba205-c388-4e90-860a-b5e1ca92ba18": {
       "company": "Oklahoma State Government",
@@ -36219,6 +36399,16 @@
       "title": "Test and Measurement Software Engineer",
       "url": "https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Test-and-Measurement-Software-Engineer_JR6155467"
     },
+    "simplify:root insurance::simplify-475fc092-f1c3-41b4-9ccc-fb886ef59e52": {
+      "company": "Root Insurance",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1791239561",
+      "source": "simplify",
+      "title": "Software Engineer Intern: Agent Commerce",
+      "url": "https://ats.rippling.com/joinroot/jobs/845e02f9-86ee-41f9-a9ad-730ed08fca3b"
+    },
     "simplify:rover::simplify-9377f3dd-8421-4a2c-8af8-4be42ec6b607": {
       "company": "Rover",
       "first_seen": "2026-09-10T23:38:18+00:00",
@@ -36302,6 +36492,16 @@
       "source": "simplify",
       "title": "Capital Markets Analyst Intern",
       "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--AidenEdge-Program-Winter-Analyst--4-Months-_R-0000187318-2"
+    },
+    "simplify:royal bank of canada::simplify-2a5a98d4-8075-447d-b561-c0e2b294b0a4": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "AI Developer Intern - Grm - Innovation & AI Center of Excellence",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001-1"
     },
     "simplify:royal bank of canada::simplify-2e1e0ec9-a2ed-4430-8a6d-a21c344f395b": {
       "company": "Royal Bank of Canada",
@@ -36473,6 +36673,16 @@
       "posted_at": "1786924800",
       "title": "Software Developer Co-op - Technology & Operations",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--8-Months_R-0000184557-2"
+    },
+    "simplify:royal bank of canada::simplify-9e56dcfc-a790-4a64-8f68-0c5d098d75fa": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "AI Developer Intern - Innovation & AI Center of Excellence",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001"
     },
     "simplify:royal bank of canada::simplify-a9948cfe-3281-4e0a-a0b4-f8c58b272354": {
       "company": "Royal Bank of Canada",
@@ -37696,6 +37906,16 @@
       "posted_at": "1785196800",
       "title": "Systems Engineer 1 - Tactical Missile System Simulation - Unreal Engine",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-I---Tactical-Missile-System-Simulation--Unreal-Engine-_01862202"
+    },
+    "simplify:rtx::simplify-b4234a96-929f-4150-86ab-ed7b113836e8": {
+      "company": "RTX",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Marlborough, MA",
+      "posted_at": "1779919647",
+      "source": "simplify",
+      "title": "Software Engineer 1 - Receiver - Exciter",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Raytheon-Full-Time---Receiver--Exciter----Processing-Architecture-Software-Engineer-I---Marlborough--MA--Onsite-_01848076"
     },
     "simplify:rtx::simplify-b50df64e-0d8e-4631-a2c7-2da5eb33aaa2": {
       "company": "RTX",
@@ -38922,6 +39142,16 @@
       "title": "Field Application Engineer - Semiconductor",
       "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/USA---San-Jose-CA/Field-Application-Engineer_REQ3375-1"
     },
+    "simplify:semtech::simplify-dc6d3e71-ebfb-4944-b5ca-3b05d6f4f188": {
+      "company": "Semtech",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Richmond, BC, Canada",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Software Developer Co-op - Web/Cloud Application",
+      "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644"
+    },
     "simplify:sensiple::simplify-487ea07e-1522-4f04-991f-bb3026b163e1": {
       "company": "Sensiple",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -38935,6 +39165,16 @@
       "posted_at": "1765784174",
       "title": "Software Engineer - New Grad",
       "url": "https://jobs.ashbyhq.com/sentra/3c9729ca-67b3-4f9f-9c64-5e1e10be1719"
+    },
+    "simplify:sentry insurance::simplify-d13ff407-faf1-4fda-a40c-e3da888d161d": {
+      "company": "Sentry Insurance",
+      "first_seen": "2026-10-05T23:17:18+00:00",
+      "last_seen": "2026-10-05T23:17:18+00:00",
+      "location": "Stevens Point, WI",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://sentryinsurance.wd1.myworkdayjobs.com/en-US/SentryCareers/job/Stevens-Point-WI/Software-Engineer--Hybrid-Work-Model-_JR-142797-1"
     },
     "simplify:sentry::simplify-4165516a-c0f2-4f44-a98a-ad4501fb11ad": {
       "company": "Sentry",
@@ -39909,6 +40149,16 @@
       "title": "Software Engineer Co-op - R&D- Data Integrations",
       "url": "https://jobs.ashbyhq.com/solink/df855bdc-1d59-4af5-b7dc-5e23801aeb30/application"
     },
+    "simplify:solink::simplify-60cceb67-73c6-4b3b-9464-f6f276a9ad2c": {
+      "company": "Solink",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Ottawa, ON, Canada",
+      "posted_at": "1791239499",
+      "source": "simplify",
+      "title": "Software Engineer Co-op - Apps",
+      "url": "https://jobs.ashbyhq.com/solink/c973029a-83fa-449e-b4a9-0a1514165430/application?embed=true"
+    },
     "simplify:solink::simplify-eea4ff21-9352-4ee4-a01b-10830a6c73cd": {
       "company": "Solink",
       "first_seen": "2026-10-02T23:03:30+00:00",
@@ -40796,6 +41046,16 @@
       "posted_at": "1789396772",
       "title": "Software Engineer Intern - Innovation Group",
       "url": "https://jobs.statefarm.com/jobs/45838?icims=1"
+    },
+    "simplify:state of nebraska::simplify-096dd1a7-6f69-44f6-bd38-37c398745271": {
+      "company": "State of Nebraska",
+      "first_seen": "2026-10-05T23:17:18+00:00",
+      "last_seen": "2026-10-05T23:17:18+00:00",
+      "location": "Lincoln, NE",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Application Developer - Web - .NET",
+      "url": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Application-Developer---Web--NET-_JR2026-00029602"
     },
     "simplify:state of nebraska::simplify-5916d7bf-9c77-4f4e-bd21-1e3a123074e5": {
       "company": "State of Nebraska",
@@ -42212,6 +42472,16 @@
       "posted_at": "1784153782",
       "title": "Associate ServiceNow Technical Consultant",
       "url": "https://job-boards.greenhouse.io/tenon/jobs/8067766"
+    },
+    "simplify:tensorwave::simplify-7108f19f-a397-435d-8357-8bd2f0aaa2ea": {
+      "company": "TensorWave",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Las Vegas, NV",
+      "posted_at": "1791239338",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/tensorwave/39091eeb-13fc-46a7-b7e5-0d4584ac53ab/application?embed=true"
     },
     "simplify:tenstorrent::simplify-3084c516-85ae-493d-a322-241adba5a8ed": {
       "company": "Tenstorrent",
@@ -45894,6 +46164,16 @@
       "title": "Software Engineer - Analytical Platform Services",
       "url": "https://job-boards.greenhouse.io/truveta/jobs/6193466004"
     },
+    "simplify:truveta::simplify-32777707-730c-4a86-9176-5c9df02552c7": {
+      "company": "Truveta",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1791240866",
+      "source": "simplify",
+      "title": "Principal Software Engineer - Clinical Analytics",
+      "url": "https://job-boards.greenhouse.io/truveta/jobs/6217536004"
+    },
     "simplify:truveta::simplify-3c8eb845-c4d5-43c4-961f-b8130c3fff8c": {
       "company": "Truveta",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -45925,6 +46205,16 @@
       "posted_at": "1772495904",
       "title": "Software Engineer - Person Matching",
       "url": "https://job-boards.greenhouse.io/truveta/jobs/5817190004"
+    },
+    "simplify:truveta::simplify-f104d45c-5e40-468d-82c6-3e03c55ad7f0": {
+      "company": "Truveta",
+      "first_seen": "2026-10-05T23:17:17+00:00",
+      "last_seen": "2026-10-05T23:17:17+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1791240867",
+      "source": "simplify",
+      "title": "Software Engineer - Clinical Analytics",
+      "url": "https://job-boards.greenhouse.io/truveta/jobs/6217329004"
     },
     "simplify:truveta::simplify-fb0623ca-1ed7-4273-adcc-dda455705721": {
       "company": "Truveta",
@@ -53535,5 +53825,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-05T22:36:29+00:00"
+  "updated_at": "2026-10-05T23:17:49+00:00"
 }
