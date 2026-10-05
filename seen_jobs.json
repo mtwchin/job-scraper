@@ -1,5 +1,5 @@
 {
-  "count": 6601,
+  "count": 6611,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -4259,6 +4259,16 @@
       "posted_at": "1788739200",
       "title": "Software Engineering Intern",
       "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Filton/Software-Engineering-Placement--125-months-_JR10429196"
+    },
+    "simplify:airbus::simplify-c08991f6-6763-42a3-98f0-a5bd3adee4b7": {
+      "company": "Airbus",
+      "first_seen": "2026-10-05T01:33:45+00:00",
+      "last_seen": "2026-10-05T01:33:45+00:00",
+      "location": "Bristol, UK",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Digital and Technology Solutions Degree Engineer Apprentice",
+      "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bristol-Area/Digital-and-Technology-Solutions-Degree-Engineering-Apprenticeship_JR10430012"
     },
     "simplify:airbus::simplify-c22bc27e-38ff-437b-89e0-136cb456c08a": {
       "company": "Airbus",
@@ -42969,6 +42979,96 @@
       "title": "Software Engineer Intern",
       "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550"
     },
+    "simplify:thales::simplify-0b623a9e-bb75-4a7b-92e2-62a091be0fac": {
+      "company": "Thales",
+      "first_seen": "2026-10-05T01:33:45+00:00",
+      "last_seen": "2026-10-05T01:33:45+00:00",
+      "location": "Cheadle, UK",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Software Engineering New Grad",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Graduate_R0337871"
+    },
+    "simplify:thales::simplify-15d48065-7435-44d6-8e68-98ca1f3d5fd3": {
+      "company": "Thales",
+      "first_seen": "2026-10-05T01:33:45+00:00",
+      "last_seen": "2026-10-05T01:33:45+00:00",
+      "location": "Glasgow, UK",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/XMLNAME-2027-Software-Engineering-Graduate_R0337840"
+    },
+    "simplify:thales::simplify-29a143c0-c9f0-47c9-a9d7-fbce82ca89c9": {
+      "company": "Thales",
+      "first_seen": "2026-10-05T01:33:45+00:00",
+      "last_seen": "2026-10-05T01:33:45+00:00",
+      "location": "Cheadle, UK",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Software Engineering Apprentice",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Cheadle/XMLNAME-2027-Software-Engineering-Apprentice_R0337863"
+    },
+    "simplify:thales::simplify-47902906-87e8-4871-a05f-3891ed4f1960": {
+      "company": "Thales",
+      "first_seen": "2026-10-05T01:33:45+00:00",
+      "last_seen": "2026-10-05T01:33:45+00:00",
+      "location": "Belfast, UK",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Belfast/XMLNAME-2027-Software-Engineering-Graduate_R0337788"
+    },
+    "simplify:thales::simplify-48dc91fb-7f48-4f68-97fe-66a6d47d5cb2": {
+      "company": "Thales",
+      "first_seen": "2026-10-05T01:33:45+00:00",
+      "last_seen": "2026-10-05T01:33:45+00:00",
+      "location": "Crawley, UK",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Software Engineer Apprentice",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Software-Engineering-Apprentice---Level-6-Digital-and-Technology-Solutions-Degree-Apprenticeship_R0337707"
+    },
+    "simplify:thales::simplify-491dd902-9029-44d6-92ed-cdf1428b0f23": {
+      "company": "Thales",
+      "first_seen": "2026-10-05T01:33:45+00:00",
+      "last_seen": "2026-10-05T01:33:45+00:00",
+      "location": "Templecombe, UK",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Software Engineer Apprentice",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/XMLNAME-2027-Software-Engineering-Apprentice---Level-6-Digital-and-Technology-Solutions-Degree-Apprenticeship_R0337865"
+    },
+    "simplify:thales::simplify-8b8d05ca-3bab-4553-b6ca-13263ba03731": {
+      "company": "Thales",
+      "first_seen": "2026-10-05T01:33:45+00:00",
+      "last_seen": "2026-10-05T01:33:45+00:00",
+      "location": "Belfast, UK",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Industrial Information Systems Graduate",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Belfast/XMLNAME-2027-Industrial-Information-Systems-Graduate_R0337802-1"
+    },
+    "simplify:thales::simplify-b95ba065-7516-4ce7-a50c-5c5f4b885131": {
+      "company": "Thales",
+      "first_seen": "2026-10-05T01:33:45+00:00",
+      "last_seen": "2026-10-05T01:33:45+00:00",
+      "location": "Crawley, UK",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Software Engineering New Grad",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Software-Engineering-Graduate_R0337725"
+    },
+    "simplify:thales::simplify-d8615acc-6f32-4c16-a90c-76330c1a5550": {
+      "company": "Thales",
+      "first_seen": "2026-10-05T01:33:45+00:00",
+      "last_seen": "2026-10-05T01:33:45+00:00",
+      "location": "Templecombe, UK",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Software Engineering New Grad",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/XMLNAME-2027-Software-Engineering-Graduate_R0337787"
+    },
     "simplify:the aerospace corporation::simplify-3faca9c1-e66c-437c-a5bd-9ab5cd608a2f": {
       "company": "The Aerospace Corporation",
       "first_seen": "2026-09-23T01:32:41+00:00",
@@ -53204,5 +53304,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-05T00:07:32+00:00"
+  "updated_at": "2026-10-05T01:34:35+00:00"
 }
