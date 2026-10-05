@@ -1,5 +1,5 @@
 {
-  "count": 6622,
+  "count": 6623,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -1880,6 +1880,16 @@
       "source": "",
       "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
       "url": "https://nuro.ai/careersitem?gh_jid=8227399"
+    },
+    "nuro::8248317": {
+      "company": "Nuro",
+      "first_seen": "2026-10-05T19:17:45+00:00",
+      "last_seen": "2026-10-05T19:17:45+00:00",
+      "location": "Mountain View, California (HQ)",
+      "posted_at": "2026-10-05T15:14:38-04:00",
+      "source": "",
+      "title": "New Grad Software Engineer, Routing",
+      "url": "https://nuro.ai/careersitem?gh_jid=8248317"
     },
     "nvidia::NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958": {
       "company": "Nvidia",
@@ -53414,5 +53424,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-05T17:30:07+00:00"
+  "updated_at": "2026-10-05T19:18:11+00:00"
 }
