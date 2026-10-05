@@ -1,5 +1,5 @@
 {
-  "count": 6630,
+  "count": 6634,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -8306,6 +8306,16 @@
       "title": "Software Developer",
       "url": "https://careers-barrios.icims.com/jobs/2840/job?mobile=true&needsRedirect=false"
     },
+    "simplify:barrios::simplify-6c4161c2-957e-42b2-b760-2d2ad98ab8b2": {
+      "company": "Barrios",
+      "first_seen": "2026-10-05T22:36:07+00:00",
+      "last_seen": "2026-10-05T22:36:07+00:00",
+      "location": "Houston, TX",
+      "posted_at": "1791237833",
+      "source": "simplify",
+      "title": "Software Developer 1 - Applications and Data",
+      "url": "https://careers-barrios.icims.com/jobs/2903/job?mobile=true&needsRedirect=false"
+    },
     "simplify:barrios::simplify-d1c574c3-8deb-4422-8495-507f03d02f3c": {
       "company": "Barrios",
       "first_seen": "2026-09-10T23:38:18+00:00",
@@ -13845,6 +13855,16 @@
       "posted_at": "1784505600",
       "title": "AI Engineer",
       "url": "https://cornell.wd1.myworkdayjobs.com/cornellpositions/job/Ithaca-Main-Campus/AI-Engineer--Temporary-_WDR-00059902"
+    },
+    "simplify:corning::simplify-22376e19-d7d9-4048-b3ee-200ec514ad4f": {
+      "company": "Corning",
+      "first_seen": "2026-10-05T22:36:07+00:00",
+      "last_seen": "2026-10-05T22:36:07+00:00",
+      "location": "Corning, NY",
+      "posted_at": "1791238119",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://corningjobs.corning.com/job/Corning-Engineer,-Software-Developer-NY-14831/1436741900/?ats=successfactors"
     },
     "simplify:corning::simplify-9175fda7-29d6-4363-aab7-ee08277af697": {
       "company": "Corning",
@@ -25295,6 +25315,16 @@
       "title": "Co-op",
       "url": "https://kokosing.wd5.myworkdayjobs.com/en-US/Kokosing_External_Career_Site/job/Westerville-OH/Fall-2026-Co-op_R-102048"
     },
+    "simplify:konrad group::simplify-b4cff1e7-a4d8-4e21-b22d-f5f5dd9e020f": {
+      "company": "Konrad Group",
+      "first_seen": "2026-10-05T22:36:07+00:00",
+      "last_seen": "2026-10-05T22:36:07+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1791238371",
+      "source": "simplify",
+      "title": "Mobile Developer Entry Level",
+      "url": "https://boards.greenhouse.io/embed/job_app?token=7976082003"
+    },
     "simplify:kos.ai::simplify-b8c23e53-79db-45ab-a105-78a3d344b881": {
       "company": "kos.ai",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -26568,6 +26598,16 @@
       "source": "simplify",
       "title": "Engineering Intern",
       "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Greater-Charlotte-Area-United-States/Engineering-Summer-Internship-Programme_R0123571-1"
+    },
+    "simplify:lseg::simplify-617f05a7-e40b-4c9a-b24b-a6096a0fde86": {
+      "company": "LSEG",
+      "first_seen": "2026-10-05T22:36:07+00:00",
+      "last_seen": "2026-10-05T22:36:07+00:00",
+      "location": "St. Louis, MO",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Real-Time Software Engineer \u2013 Early Career",
+      "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/USA-St-Louis-795-Office-Pkwy/Real-Time-Software-Engineer---Early-Career_R0124057"
     },
     "simplify:lseg::simplify-87a7585b-c879-4559-9257-36f922ba1a14": {
       "company": "LSEG",
@@ -40827,7 +40867,7 @@
     "simplify:state street::simplify-f79114e4-14f4-4b37-9f55-d001dab2d6af": {
       "company": "State Street",
       "first_seen": "2026-09-09T01:11:58+00:00",
-      "last_seen": "2026-09-15T00:44:55+00:00",
+      "last_seen": "2026-10-05T22:36:07+00:00",
       "posted_at": "1783161968",
       "title": "AI Developer Senior Associate",
       "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/AI-Developer--SA_R-792362-1"
@@ -53495,5 +53535,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-05T22:35:27+00:00"
+  "updated_at": "2026-10-05T22:36:29+00:00"
 }
