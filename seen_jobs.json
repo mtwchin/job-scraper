@@ -1,5 +1,5 @@
 {
-  "count": 6614,
+  "count": 6615,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -21796,6 +21796,16 @@
       "posted_at": "1785801600",
       "title": "Student Programmer Analyst",
       "url": "https://hubinternational.wd1.myworkdayjobs.com/en-US/HUBInternational/job/Edmonton-AB/Student-Programmer-Analyst_R0037883"
+    },
+    "simplify:hubspot::simplify-76683b81-5fbd-480b-9373-93c41652901b": {
+      "company": "HubSpot",
+      "first_seen": "2026-10-05T09:34:23+00:00",
+      "last_seen": "2026-10-05T09:34:23+00:00",
+      "location": "Remote in UK",
+      "posted_at": "1770807253",
+      "source": "simplify",
+      "title": "HubSpot Software Engineer Intern - Co-op Placement & Industrial Placement Program",
+      "url": "https://www.hubspot.com/careers/jobs/7283239?gh_jid=7283239"
     },
     "simplify:hudl::simplify-dec76f30-791b-4318-8022-f195f9709b43": {
       "company": "Hudl",
@@ -53334,5 +53344,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-05T09:32:03+00:00"
+  "updated_at": "2026-10-05T09:35:05+00:00"
 }
