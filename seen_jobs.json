@@ -1,5 +1,5 @@
 {
-  "count": 6617,
+  "count": 6618,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -5100,6 +5100,16 @@
       "posted_at": "1788256545",
       "title": "Graphics Software Engineer Intern/Co-op",
       "url": "https://careers.amd.com/jobs/91359?icims=1"
+    },
+    "simplify:amd::simplify-67c01d5f-728d-49eb-b75f-e783fa8fc898": {
+      "company": "AMD",
+      "first_seen": "2026-10-05T14:33:24+00:00",
+      "last_seen": "2026-10-05T14:33:24+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1791209680",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://careers.amd.com/jobs/79898?icims=1"
     },
     "simplify:amd::simplify-68c629c0-ad5e-461a-a2fb-fecaf1808854": {
       "company": "AMD",
@@ -53364,5 +53374,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-05T14:33:11+00:00"
+  "updated_at": "2026-10-05T14:34:13+00:00"
 }
