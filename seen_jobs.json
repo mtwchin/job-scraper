@@ -1,5 +1,5 @@
 {
-  "count": 6611,
+  "count": 6612,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -17041,6 +17041,16 @@
       "posted_at": "1765287745",
       "title": "Software Intern",
       "url": "https://jobs.ashbyhq.com/etched/605c286d-be56-4e83-83b8-436d29ce17df"
+    },
+    "simplify:etched::simplify-1677419e-8d02-4e05-b049-cd051f2b1b28": {
+      "company": "Etched",
+      "first_seen": "2026-10-05T03:02:46+00:00",
+      "last_seen": "2026-10-05T03:02:46+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1779239343",
+      "source": "simplify",
+      "title": "Chip Simulation Software Intern",
+      "url": "https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application?embed=true"
     },
     "simplify:etched::simplify-40fdd912-45b2-44ba-8a04-89566decd578": {
       "company": "Etched",
@@ -53304,5 +53314,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-05T01:34:35+00:00"
+  "updated_at": "2026-10-05T03:03:39+00:00"
 }
