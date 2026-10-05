@@ -1,5 +1,5 @@
 {
-  "count": 6618,
+  "count": 6622,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -10814,6 +10814,16 @@
       "posted_at": "1787015801",
       "title": "Entry Level Software Engineer",
       "url": "https://jobs.smartrecruiters.com/NextCenturyCorporation/106031601"
+    },
+    "simplify:caci::simplify-8c3ef60f-82b8-40a0-a8af-f49d57750b6c": {
+      "company": "CACI",
+      "first_seen": "2026-10-05T17:29:32+00:00",
+      "last_seen": "2026-10-05T17:29:32+00:00",
+      "location": "Oklahoma City, OK",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085"
     },
     "simplify:caci::simplify-9b831cbe-5890-4ad9-a523-4a866da71a42": {
       "company": "CACI",
@@ -28811,6 +28821,16 @@
       "title": "Android Application Developer Intern - Summer 2027",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740"
     },
+    "simplify:motorola::simplify-670d8a8b-1082-42e8-9009-e35612ea924a": {
+      "company": "Motorola",
+      "first_seen": "2026-10-05T17:29:32+00:00",
+      "last_seen": "2026-10-05T17:29:32+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Android Applications Developer Intern",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313"
+    },
     "simplify:motorola::simplify-6c48d7cb-d59c-4c94-99b5-5a897366072a": {
       "company": "Motorola",
       "first_seen": "2026-09-11T23:13:27+00:00",
@@ -37861,6 +37881,16 @@
       "title": "Software Engineer Intern - Spring 2027",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Software-Engineering-Intern--Spring-2027-_01864146"
     },
+    "simplify:rtx::simplify-dfd7743c-b0f2-4e6e-b632-d83d62d785d4": {
+      "company": "RTX",
+      "first_seen": "2026-10-05T17:29:32+00:00",
+      "last_seen": "2026-10-05T17:29:32+00:00",
+      "location": "Indianapolis, IN",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Software/Developer Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Developer-Engineer-I--Onsite-_01879932"
+    },
     "simplify:rtx::simplify-e3e6cba6-497c-46bc-8d93-7d966963bb06": {
       "company": "RTX",
       "first_seen": "2026-10-04T17:01:30+00:00",
@@ -39265,6 +39295,16 @@
       "posted_at": "1775456189",
       "title": "Software Engineer New Grad",
       "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003"
+    },
+    "simplify:sikich::simplify-bb153fdc-6998-4d29-9e79-01b24c0db807": {
+      "company": "Sikich",
+      "first_seen": "2026-10-05T17:29:32+00:00",
+      "last_seen": "2026-10-05T17:29:32+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1791210384",
+      "source": "simplify",
+      "title": "Intelligence Transformation Intern",
+      "url": "https://jobs.jobvite.com/sikichcareers/job/oGOPAfwD?nl=1&nl=1&fr=false"
     },
     "simplify:sim::simplify-37136fd4-099f-4274-9089-5506ab49a026": {
       "company": "Sim",
@@ -53374,5 +53414,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-05T14:34:13+00:00"
+  "updated_at": "2026-10-05T17:30:07+00:00"
 }
