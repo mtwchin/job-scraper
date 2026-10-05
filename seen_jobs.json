@@ -1,5 +1,5 @@
 {
-  "count": 6612,
+  "count": 6613,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -1880,6 +1880,16 @@
       "source": "",
       "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
       "url": "https://nuro.ai/careersitem?gh_jid=8227399"
+    },
+    "nvidia::NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958": {
+      "company": "Nvidia",
+      "first_seen": "2026-10-05T08:18:04+00:00",
+      "last_seen": "2026-10-05T08:18:04+00:00",
+      "location": "US, CA, Santa Clara",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958"
     },
     "nvidia::PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522": {
       "company": "Nvidia",
@@ -53314,5 +53324,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-05T06:35:50+00:00"
+  "updated_at": "2026-10-05T08:18:54+00:00"
 }
