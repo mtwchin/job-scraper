@@ -1,5 +1,5 @@
 {
-  "count": 6665,
+  "count": 6667,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -20471,7 +20471,7 @@
     "simplify:goldman sachs::simplify-1949c912-65b2-42ac-9836-c110baed0ef6": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-10-05T00:00:44+00:00",
+      "last_seen": "2026-10-06T01:36:07+00:00",
       "posted_at": "1786767938",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/177808?type=students"
@@ -24864,6 +24864,16 @@
       "title": "R&D Engineer 1 - Software",
       "url": "https://jobs.keysight.com/jobs/53966?icims=1"
     },
+    "simplify:keysight technologies::simplify-7136a7a6-b9b6-47d9-be27-85bb3d354b11": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-10-06T01:36:08+00:00",
+      "last_seen": "2026-10-06T01:36:08+00:00",
+      "location": "Colorado Springs, CO",
+      "posted_at": "1791249096",
+      "source": "simplify",
+      "title": "R&D Software Engineer Intern",
+      "url": "https://jobs.keysight.com/jobs/54724?icims=1"
+    },
     "simplify:keysight technologies::simplify-95a461d8-fd13-4557-857f-f23138cd29c4": {
       "company": "Keysight Technologies",
       "first_seen": "2026-09-04T23:26:59+00:00",
@@ -28924,6 +28934,16 @@
       "posted_at": "1788480000",
       "title": "Applied Technologies Intern",
       "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Norwood-Massachusetts/Intern--Applied-Technologies--Summer-2027-_R19734"
+    },
+    "simplify:moment energy::simplify-1e0edc08-872a-46c3-b0b1-5a8eba101fe2": {
+      "company": "Moment Energy",
+      "first_seen": "2026-10-06T01:36:08+00:00",
+      "last_seen": "2026-10-06T01:36:08+00:00",
+      "location": "Surrey, BC, Canada",
+      "posted_at": "1791248928",
+      "source": "simplify",
+      "title": "Software Engineering Co-op",
+      "url": "https://job-boards.greenhouse.io/momentenergy/jobs/4434577009"
     },
     "simplify:moment energy::simplify-dbf73971-bce3-47b3-929f-77929a59c11c": {
       "company": "Moment Energy",
@@ -46380,7 +46400,7 @@
     "simplify:tyler technologies::simplify-d6c24595-0dd3-449f-b0ae-d13e256fc740": {
       "company": "Tyler Technologies",
       "first_seen": "2026-09-22T03:24:56+00:00",
-      "last_seen": "2026-10-05T00:00:44+00:00",
+      "last_seen": "2026-10-06T01:36:07+00:00",
       "location": "Yarmouth, ME, Orono, ME, Falmouth, ME",
       "posted_at": "1790029561",
       "source": "simplify",
@@ -53845,5 +53865,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T01:02:57+00:00"
+  "updated_at": "2026-10-06T01:36:59+00:00"
 }
