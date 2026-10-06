@@ -1,5 +1,5 @@
 {
-  "count": 6663,
+  "count": 6664,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -591,6 +591,16 @@
       "source": "",
       "title": "Entry Level Systems Engineer, C2 Integration ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5243880007?gh_jid=5243880007"
+    },
+    "anduril::5257690007": {
+      "company": "Anduril",
+      "first_seen": "2026-10-06T00:11:09+00:00",
+      "last_seen": "2026-10-06T00:11:09+00:00",
+      "location": "Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States",
+      "posted_at": "2026-10-05T20:08:43-04:00",
+      "source": "",
+      "title": "2027 Systems Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007"
     },
     "apple::200664320-3810": {
       "company": "Apple",
@@ -53825,5 +53835,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T00:05:54+00:00"
+  "updated_at": "2026-10-06T00:11:55+00:00"
 }
