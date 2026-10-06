@@ -111,6 +111,8 @@ class _Boards:
 
     def tick(self) -> None:
         """Dispatch a finished sweep, then start the next one if it is due."""
+        if settings.SCOPE == "rest":
+            return                  # the broad tier never sweeps boards
         if self.future is not None:
             if not self.future.done():
                 return
@@ -159,10 +161,13 @@ def watch() -> int:
     stats = Stats()
     boards = _Boards(store, stats, company_interval, priority_interval)
 
+    boards_desc = ("no board sweeps" if settings.SCOPE == "rest" else
+                   f"priority boards every {priority_interval}s, "
+                   f"full company sweep every {company_interval}s")
     logger.info(
-        "watch: polling feeds every %ds, priority boards every %ds, full company sweep every %ds, for up to %s "
+        "watch [scope=%s]: polling feeds every %ds, %s, for up to %s "
         "(%d records already known; feed commit lookup %s)",
-        interval, priority_interval, company_interval, _fmt_duration(duration), len(store),
+        settings.SCOPE, interval, boards_desc, _fmt_duration(duration), len(store),
         "on" if settings.GITHUB_TOKEN else "off, no GITHUB_TOKEN",
     )
 

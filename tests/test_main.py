@@ -159,3 +159,49 @@ def test_sustained_errors_alert_once(store, alerts):
 def test_one_shot_run_alerts_on_first_sweep(store, alerts):
     main._maybe_health_alert(_sweep(9), store, min_sweeps=1)
     assert len(alerts) == 1
+
+
+# --------------------------------------------------------------------------- #
+# SCOPE: the top / rest tiers run as separate workflows
+# --------------------------------------------------------------------------- #
+@pytest.fixture
+def two_sources(monkeypatch):
+    """One tracked company on its own board, plus a feed listing a tracked and
+    an untracked company."""
+    from jobscraper.models import CompanyConfig
+    from jobscraper.sources import aggregators
+
+    board_calls = []
+    tracked = Job("Stripe", "1", "Software Engineer Intern", "https://stripe.example/1", "Seattle, WA")
+    feed_tracked = Job("Stripe", "simplify-2", "Software Engineer Intern II",
+                       "https://stripe.example/2", "Seattle, WA", source="simplify")
+    feed_other = Job("Acme", "simplify-3", "Software Engineer Intern",
+                     "https://acme.example/3", "Austin, TX", source="simplify")
+    monkeypatch.setattr(main, "load_companies",
+                        lambda _p: [CompanyConfig("Stripe", "greenhouse", {"token": "stripe"})])
+    monkeypatch.setattr(main, "_fetch_company",
+                        lambda c: board_calls.append(c.name) or (c, [tracked], None))
+    monkeypatch.setattr(aggregators, "fetch_pair",
+                        lambda: ([feed_tracked], [feed_tracked, feed_other], True))
+    monkeypatch.setattr(main.settings, "SIMPLIFY_ENABLED", True)
+    monkeypatch.setattr(main.settings, "DISCORD_WEBHOOK_URL_ALL", "https://example.test/all")
+    monkeypatch.setattr(main.settings, "ROLE_TYPES", {"intern"})
+    monkeypatch.setattr(main.settings, "US_CANADA_ONLY", False)
+    return board_calls
+
+
+def test_top_scope_alerts_tracked_companies_only(two_sources, monkeypatch):
+    monkeypatch.setattr(main.settings, "SCOPE", "top")
+    monkeypatch.setattr(main.settings, "SIMPLIFY_ALL_ENABLED", False)
+    c, general = main.collect_matches()
+    assert {j.company for j in c.matches} == {"Stripe"} and len(c.matches) == 2
+    assert general.matches == []
+
+
+def test_rest_scope_skips_boards_and_tracked_companies(two_sources, monkeypatch):
+    monkeypatch.setattr(main.settings, "SCOPE", "rest")
+    monkeypatch.setattr(main.settings, "SIMPLIFY_ALL_ENABLED", True)
+    c, general = main.collect_matches(include_companies=True)
+    assert two_sources == []                      # no board was fetched
+    assert c.matches == []                        # tracked roles belong to `top`
+    assert [j.company for j in general.matches] == ["Acme"]

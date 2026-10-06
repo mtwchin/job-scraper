@@ -1,9 +1,14 @@
-name: top-companies
+name: all-swe
 
-# The low-latency tier: every company in companies.md, read from its own board
-# and from the aggregator feeds, alerting to DISCORD_WEBHOOK_URL. Everything
-# else (any company's SWE roles) is handled by all-swe.yml as a separate
-# workflow, so the broad feed can never slow this one down or take it out.
+# The broad tier: SWE intern / new-grad roles at every company that is NOT in
+# companies.md, from the community aggregator feeds, alerting to
+# DISCORD_WEBHOOK_URL_ALL. No company boards are swept here; those belong to the
+# low-latency top-companies workflow (scraper.yml), which this one runs beside
+# and cannot slow down.
+#
+# Keeps its own state file so the two tiers never contend for one, and folds in
+# the top tier's file at start-up and at every checkpoint so a role the top tier
+# already sent is never posted again to the other channel.
 
 # Detection latency, not schedule frequency, is what matters here — and the two
 # are not the same thing. This workflow used to ask for `*/5 * * * *` and simply
@@ -33,13 +38,13 @@ on:
       interval_seconds:
         description: "Seconds between aggregator polls"
         required: false
-        default: "20"
+        default: "60"
 
-# Never let two loops run at once — they'd both write seen_jobs.json. A newly
+# Never let two loops run at once — they'd both write seen_jobs_all.json. A newly
 # scheduled run waits here instead of being dropped, so it starts the moment the
 # current loop exits.
 concurrency:
-  group: internship-radar
+  group: all-swe
   cancel-in-progress: false
 
 permissions:
@@ -70,20 +75,29 @@ jobs:
           git config user.name "internship-radar-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+      - name: Start from everything already sent
+        # First run: begin from the shared history rather than an empty store,
+        # which would seed quietly and announce itself. Every run: union in the
+        # top tier's records, so nothing it sent can come round again here.
+        env:
+          STATE_FILE: ${{ github.workspace }}/seen_jobs_all.json
+        run: |
+          [ -f seen_jobs_all.json ] || cp seen_jobs.json seen_jobs_all.json
+          python -m jobscraper merge-state seen_jobs.json
+
       - name: Watch for new roles
         env:
-          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          SCOPE: top
+          # Summaries and health notes for this tier go to its own channel too.
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL_ALL }}
+          DISCORD_WEBHOOK_URL_ALL: ${{ secrets.DISCORD_WEBHOOK_URL_ALL }}
+          SCOPE: rest
+          ALSO_MERGE: seen_jobs.json
           ROLE_TYPES: "intern,new_grad"
           OFF_SEASON_ONLY: "false"   # include summer internships too
           US_CANADA_ONLY: "true"     # only roles in the US or Canada
-          WATCH_INTERVAL: ${{ github.event.inputs.interval_seconds || '20' }}
+          WATCH_INTERVAL: ${{ github.event.inputs.interval_seconds || '60' }}
           WATCH_DURATION: ${{ github.event.inputs.duration_seconds || '19800' }}
-          # A full sweep takes ~30s (p90 60s); sweeps never overlap, so a slow
-          # one just delays the next rather than piling up.
-          WATCH_COMPANY_INTERVAL: "60"
-          WATCH_PRIORITY_INTERVAL: "30"
-          STATE_FILE: ${{ github.workspace }}/seen_jobs.json
+          STATE_FILE: ${{ github.workspace }}/seen_jobs_all.json
           # Read-only use: look up each feed's newest commit so we fetch it the
           # moment it lands instead of a CDN copy up to 5 minutes old.
           GITHUB_TOKEN: ${{ github.token }}
@@ -107,7 +121,8 @@ jobs:
         # repo or those jobs will be re-sent next run.
         if: always()
         env:
-          STATE_FILE: ${{ github.workspace }}/seen_jobs.json
+          STATE_FILE: ${{ github.workspace }}/seen_jobs_all.json
+          ALSO_MERGE: seen_jobs.json
         run: ./scripts/persist-state.sh once
 
       - name: Start the next loop
@@ -128,4 +143,4 @@ jobs:
             echo "Loop only ran ${elapsed}s; not chaining. Cron will start the next one."
             exit 0
           fi
-          gh workflow run scraper.yml --repo "$GITHUB_REPOSITORY" --ref main
+          gh workflow run all-swe.yml --repo "$GITHUB_REPOSITORY" --ref main

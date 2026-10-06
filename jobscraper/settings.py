@@ -182,3 +182,16 @@ PRE_CATEGORIZED_SOURCES = {"simplify"}
 # set (or DRY_RUN), so turning this on doesn't quietly burn through the backlog
 # before the webhook is wired up.
 SIMPLIFY_ALL_ENABLED = os.environ.get("SIMPLIFY_ALL_ENABLED", "true").lower() in {"1", "true", "yes"}
+
+# Which alerts this process is responsible for, so the two tiers can run as
+# separate workflows that cannot slow each other down:
+#   top  — companies.md only (their own boards plus the feeds' copies of them),
+#          to DISCORD_WEBHOOK_URL. The low-latency tier.
+#   rest — every other company's roles from the feeds, to
+#          DISCORD_WEBHOOK_URL_ALL. No board sweeps.
+#   all  — both, in one process (the default, and how `run` behaves).
+SCOPE = os.environ.get("SCOPE", "all").strip().lower()
+if SCOPE not in {"all", "top", "rest"}:
+    raise ValueError(f"SCOPE must be all, top or rest, not {SCOPE!r}")
+if SCOPE == "top":
+    SIMPLIFY_ALL_ENABLED = False

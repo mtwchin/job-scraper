@@ -95,6 +95,8 @@ def collect_matches(include_companies: bool = True,
     boards are, so the watch loop can run a slow board sweep in the background
     while it keeps polling the feeds.
     """
+    if settings.SCOPE == "rest":
+        include_companies = False   # boards belong to the `top` tier
     result = Collection()
     general = Collection()
     # One KeySet across both tiers and both feeds, so a posting reached through
@@ -174,8 +176,11 @@ def _collect_aggregators(result: Collection, general: Collection, seen: KeySet,
         if job in seen or not _passes_filters(job):
             continue
         seen.add(job)
-        result.matches.append(job)
-        hits += 1
+        # The `rest` tier leaves tracked companies to the `top` workflow, but
+        # still marks them seen so the broad feed below skips them too.
+        if settings.SCOPE != "rest":
+            result.matches.append(job)
+            hits += 1
     logger.info("Aggregators: %d listings from tracked companies -> %d match", len(curated), hits)
 
     # Only actually run the broad feed once there's somewhere to send it (or

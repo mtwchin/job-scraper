@@ -99,10 +99,19 @@ Repo → **Settings → Secrets and variables → Actions → New repository sec
 (Or via CLI: `gh secret set DISCORD_WEBHOOK_URL`.)
 
 ### 5. Done
-The workflow in `.github/workflows/scraper.yml` starts a watch loop that polls
-every 20 seconds and runs for ~5.5h before handing off to the next run. Trigger
-the first one manually from the **Actions** tab → *internship-radar* → **Run
-workflow** to confirm everything works. The first run sends one "I'm live" message and seeds
+Two workflows run side by side, each a watch loop that lasts ~5.5h and then
+starts its own successor:
+
+| Workflow | Covers | Channel | Cadence |
+|---|---|---|---|
+| `scraper.yml` (*top-companies*) | every company in `companies.md`: its own board, plus the feeds' copies | `DISCORD_WEBHOOK_URL` | feeds every 20s, priority boards every 30s, all boards every 60s |
+| `all-swe.yml` (*all-swe*) | SWE roles at every **other** company, from the aggregator feeds | `DISCORD_WEBHOOK_URL_ALL` | feeds every 60s |
+
+They are separate on purpose: the broad feed can't slow down or take out the
+low-latency one. Each keeps its own state file (`seen_jobs.json`,
+`seen_jobs_all.json`), and the broad tier folds in the top tier's file, so a role
+is never posted to both channels. Trigger each once manually from the
+**Actions** tab → **Run workflow** to confirm everything works. The first run sends one "I'm live" message and seeds
 state; after that you only get pinged on new postings.
 
 ---
@@ -161,6 +170,7 @@ Set these as env vars (locally) or edit the `env:` block in the workflow:
 | `DRY_RUN`           | `false`            | `true` = print only, never send/save.              |
 | `SEED_QUIETLY`      | `true`             | `true` = first run seeds silently.                 |
 | `MAX_NOTIFICATIONS_PER_RUN` | `60`       | Safety cap per run.                                |
+| `SCOPE`             | `all`              | `top` = `companies.md` only; `rest` = every other company, feeds only; `all` = both. |
 | `TITLE_COOLDOWN_HOURS` | `168`           | Don't re-alert a company + title in another location within this window. `0` = off. |
 | `CONCURRENCY`       | `12`               | Companies fetched in parallel.                     |
 | `HEALTH_ALERT_THRESHOLD` | `0.25`        | Discord heads-up if this share of companies error. |
@@ -324,6 +334,9 @@ role/location filters as everything else, just no company gate.
 
 - A role never fires on both channels: if it's from a company already tracked
   in `companies.md`, it goes out on the main webhook only.
+- On Actions this feed runs in its own workflow (`all-swe.yml`, `SCOPE=rest`),
+  apart from the low-latency `companies.md` tier (`scraper.yml`, `SCOPE=top`).
+  Run both in one process with the default `SCOPE=all`.
 - Turning this on doesn't dump the whole existing backlog into your new channel —
   it does its own quiet first-run seed (one "I'm live" summary) the first time
   `DISCORD_WEBHOOK_URL_ALL` is configured, same as the main feed's first run.

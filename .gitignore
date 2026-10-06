@@ -6,3 +6,4 @@ __pycache__/
 seen_jobs.json.tmp
 seen_jobs.json.lock
 *.lock
+seen_jobs_all.json.lock
