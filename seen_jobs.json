@@ -1,5 +1,5 @@
 {
-  "count": 6714,
+  "count": 6715,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -7861,6 +7861,16 @@
       "posted_at": "1786083522",
       "title": "Software Engineer",
       "url": "https://apply.workable.com/avalore/j/F157AC3B65/apply"
+    },
+    "simplify:avalore::simplify-ef213512-2c5b-4f23-99a0-db6b5d87f182": {
+      "company": "Avalore",
+      "first_seen": "2026-10-06T11:02:45+00:00",
+      "last_seen": "2026-10-06T11:02:45+00:00",
+      "location": "Arlington County, Arlington, VA",
+      "posted_at": "1788296145",
+      "source": "simplify",
+      "title": "API Architect",
+      "url": "https://apply.workable.com/avalore/j/A1FB722C18/apply"
     },
     "simplify:avalore::simplify-f2daf1ba-2514-4b07-a4c8-36469081bcc2": {
       "company": "Avalore",
@@ -54336,5 +54346,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T10:42:25+00:00"
+  "updated_at": "2026-10-06T11:03:27+00:00"
 }
