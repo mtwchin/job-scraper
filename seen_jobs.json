@@ -1,5 +1,5 @@
 {
-  "count": 6733,
+  "count": 6734,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -3181,6 +3181,16 @@
       "source": "",
       "title": "Software Engineer I (R6052)",
       "url": "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196"
+    },
+    "shield ai::79c3b65f-ce0c-4868-bedf-4ddcc4cfe583": {
+      "company": "Shield AI",
+      "first_seen": "2026-10-06T21:29:43+00:00",
+      "last_seen": "2026-10-06T21:29:43+00:00",
+      "location": "San Diego, California",
+      "posted_at": "1791321945026",
+      "source": "",
+      "title": "Software Development Engineer - New Graduate",
+      "url": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583"
     },
     "shield ai::8c850c75-081d-4d09-bebf-096379a93010": {
       "company": "Shield AI",
@@ -54536,5 +54546,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T21:02:56+00:00"
+  "updated_at": "2026-10-06T21:29:58+00:00"
 }
