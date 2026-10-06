@@ -1,5 +1,5 @@
 {
-  "count": 6667,
+  "count": 6668,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -39687,6 +39687,16 @@
       "title": "Software Engineer New Grad",
       "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003"
     },
+    "simplify:signifyd::simplify-ecea0a0c-194c-4478-8605-93cac5731cb2": {
+      "company": "Signifyd",
+      "first_seen": "2026-10-06T02:05:19+00:00",
+      "last_seen": "2026-10-06T02:05:19+00:00",
+      "location": "Belfast, UK",
+      "posted_at": "1791251198",
+      "source": "simplify",
+      "title": "Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/signifyd95/jobs/8240551"
+    },
     "simplify:sikich::simplify-bb153fdc-6998-4d29-9e79-01b24c0db807": {
       "company": "Sikich",
       "first_seen": "2026-10-05T17:29:32+00:00",
@@ -50332,7 +50342,7 @@
     "vanshb03:astera::vanshb03-2c11c91c-786c-4aa6-8547-b795f5a8047b": {
       "company": "Astera",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-06T02:05:18+00:00",
       "location": "Emeryville, CA",
       "posted_at": "1785741377",
       "seeded": true,
@@ -53865,5 +53875,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T01:36:59+00:00"
+  "updated_at": "2026-10-06T02:06:01+00:00"
 }
