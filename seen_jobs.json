@@ -1,5 +1,5 @@
 {
-  "count": 6731,
+  "count": 6732,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -54460,6 +54460,16 @@
       "title": "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8240198"
     },
+    "waymo::8250220": {
+      "company": "Waymo",
+      "first_seen": "2026-10-06T20:53:26+00:00",
+      "last_seen": "2026-10-06T20:53:26+00:00",
+      "location": "Mountain View, California, United States",
+      "posted_at": "2026-10-06T16:50:50-04:00",
+      "source": "",
+      "title": "2027 Summer Intern, MS, PhD, Software Engineer ",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8250220"
+    },
     "waymo::8257205": {
       "company": "Waymo",
       "first_seen": "2026-10-05T19:45:06+00:00",
@@ -54516,5 +54526,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T20:40:52+00:00"
+  "updated_at": "2026-10-06T20:53:54+00:00"
 }
