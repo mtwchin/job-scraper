@@ -1,5 +1,5 @@
 {
-  "count": 6771,
+  "count": 6772,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -1099,6 +1099,16 @@
       "source": "",
       "title": "Software Engineer II (Co-op) - United States",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Maynard-Massachusetts-US/Software-Engineer-II--Co-op----United-States_2026923"
+    },
+    "cloudflare::7774167": {
+      "company": "Cloudflare",
+      "first_seen": "2026-10-06T23:09:21+00:00",
+      "last_seen": "2026-10-06T23:09:21+00:00",
+      "location": "Hybrid",
+      "posted_at": "2026-10-06T19:08:02-04:00",
+      "source": "",
+      "title": "People Team: Software Engineer Intern (Winter/Spring 2027)",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167"
     },
     "cohere::8c035d3d-081d-4c8a-914a-72f4efaad254": {
       "company": "Cohere",
@@ -54931,5 +54941,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T23:07:57+00:00"
+  "updated_at": "2026-10-06T23:09:59+00:00"
 }
