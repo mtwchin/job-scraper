@@ -9,9 +9,9 @@ name: internship-radar
 # So a run no longer scrapes once and exits. It starts a watch loop that stays
 # alive for ~5.5h, polling the aggregator feeds every minute (conditional GETs
 # that cost a 304 when nothing changed) and sweeping every company's ATS every
-# three. The cron below is now just a way to get a loop started: whenever it does
-# fire, the concurrency group holds the new run until the current loop finishes,
-# so coverage is continuous rather than sampled.
+# three. When a loop finishes it dispatches the next run itself (see the last
+# step), so coverage is continuous rather than waiting on cron. The cron below is
+# only a backstop for a chain that broke, e.g. a runner that died outright.
 
 on:
   schedule:
@@ -38,6 +38,7 @@ concurrency:
 
 permissions:
   contents: write   # needed to commit the updated seen_jobs.json back
+  actions: write    # needed to dispatch the next run when this loop ends
 
 jobs:
   watch:
@@ -54,6 +55,9 @@ jobs:
           cache: pip
 
       - run: pip install -r requirements.txt
+
+      - name: Note start time
+        run: echo "LOOP_STARTED=$(date +%s)" >> "$GITHUB_ENV"
 
       - name: Configure git for state commits
         run: |
@@ -94,3 +98,23 @@ jobs:
         env:
           STATE_FILE: ${{ github.workspace }}/seen_jobs.json
         run: ./scripts/persist-state.sh once
+
+      - name: Start the next loop
+        # Relying on cron alone left gaps of up to 2.5h whenever a loop ended
+        # with no scheduled run queued behind it. workflow_dispatch is one of the
+        # few events GITHUB_TOKEN is allowed to trigger, and the concurrency group
+        # keeps the new run queued until this one has fully exited.
+        #
+        # Only after a loop that actually ran for a while: if something makes
+        # runs fail within minutes, chaining would turn that into a tight loop
+        # burning Actions minutes, so the cron backstop takes over instead.
+        if: always() && github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          elapsed=$(( $(date +%s) - ${LOOP_STARTED:-$(date +%s)} ))
+          if [ "$elapsed" -lt 1800 ]; then
+            echo "Loop only ran ${elapsed}s; not chaining. Cron will start the next one."
+            exit 0
+          fi
+          gh workflow run scraper.yml --repo "$GITHUB_REPOSITORY" --ref main

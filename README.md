@@ -28,6 +28,10 @@ aggregator feeds (listings.json) ──────┘              (3 keys)
   URL, and a company + title + location fingerprint. One opening routinely
   reaches us through both a company's ATS *and* an aggregator that mirrors it;
   matching on the URL is what stops that becoming two Discord messages.
+- **One alert per company + title per week.** The same role posted for several
+  offices in one sweep becomes a single alert listing every location; the same
+  title re-listed in another city within `TITLE_COOLDOWN_HOURS` (default 7 days)
+  is recorded quietly instead of pinging again.
 - **A newly added source is seeded quietly.** Its back catalogue is new to us,
   not newly posted, so it's absorbed silently and only what it lists afterwards
   gets alerted.
@@ -157,6 +161,7 @@ Set these as env vars (locally) or edit the `env:` block in the workflow:
 | `DRY_RUN`           | `false`            | `true` = print only, never send/save.              |
 | `SEED_QUIETLY`      | `true`             | `true` = first run seeds silently.                 |
 | `MAX_NOTIFICATIONS_PER_RUN` | `60`       | Safety cap per run.                                |
+| `TITLE_COOLDOWN_HOURS` | `168`           | Don't re-alert a company + title in another location within this window. `0` = off. |
 | `CONCURRENCY`       | `12`               | Companies fetched in parallel.                     |
 | `HEALTH_ALERT_THRESHOLD` | `0.25`        | Discord heads-up if this share of companies error. |
 | `LOG_LEVEL`         | `INFO`             | `DEBUG` shows per-company fetch/error lines.        |
@@ -352,10 +357,12 @@ polls on its own clock**:
   affordable.
 - **Priority company boards every minute; every company’s own ATS every 3 minutes.** Hundreds of requests with no
   conditional-request support, so it gets its own slower tier.
-- The loop runs ~5.5h, then exits cleanly. The `concurrency` group holds the
-  next scheduled run behind the current one, so whenever cron *does* fire, that
-  run starts the moment the loop ends — coverage is continuous rather than
-  sampled.
+- The loop runs ~5.5h, then exits cleanly and **dispatches its own successor**
+  (`workflow_dispatch`, one of the few events `GITHUB_TOKEN` may trigger). The
+  `concurrency` group queues that run behind anything still running, so it
+  starts the moment the loop ends. Cron stays as a backstop: before
+  self-chaining, a loop that ended while no cron run happened to be queued left
+  gaps of up to 2.5h.
 
 Detection latency is now bounded by the poll interval (~60s for anything an
 aggregator carries, ~1 min for a priority board, ~5 min for another company board), not by the scheduler.
