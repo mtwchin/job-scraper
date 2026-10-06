@@ -1,5 +1,5 @@
 {
-  "count": 6726,
+  "count": 6727,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -483,6 +483,16 @@
       "source": "",
       "title": "Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
       "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa"
+    },
+    "amazon::10571004": {
+      "company": "Amazon",
+      "first_seen": "2026-10-06T18:59:36+00:00",
+      "last_seen": "2026-10-06T18:59:36+00:00",
+      "location": "Seattle, Washington, USA",
+      "posted_at": "October  6, 2026",
+      "source": "",
+      "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
+      "url": "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -54457,5 +54467,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T18:37:35+00:00"
+  "updated_at": "2026-10-06T18:59:38+00:00"
 }
