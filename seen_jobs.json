@@ -1,6 +1,15 @@
 {
   "count": 6727,
   "delivery_attempts": {
+    "affirm::8008649003": {
+      "attempted_at": "2026-10-06T19:05:15+00:00",
+      "company": "Affirm",
+      "location": "New York, New York, United States",
+      "posted_at": "2026-10-06T15:02:34-04:00",
+      "source": "",
+      "title": "Software Engineer, Early Career",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003"
+    },
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
       "company": "Astranis",
@@ -54467,5 +54476,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T18:59:38+00:00"
+  "updated_at": "2026-10-06T19:05:40+00:00"
 }
