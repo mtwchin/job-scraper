@@ -1,5 +1,5 @@
 {
-  "count": 6730,
+  "count": 6731,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -843,6 +843,16 @@
       "posted_at": "Posted Today",
       "title": "Associate, Software Engineer, New Grad Card Expansion",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R249083"
+    },
+    "capital one::Associate--Software-Engineer--New-Grad_R1003046": {
+      "company": "Capital One",
+      "first_seen": "2026-10-06T20:32:27+00:00",
+      "last_seen": "2026-10-06T20:32:27+00:00",
+      "location": "Toronto, ON",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Associate, Software Engineer, New Grad",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R1003046"
     },
     "capital one::Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022": {
       "company": "Capital One",
@@ -54506,5 +54516,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T20:27:47+00:00"
+  "updated_at": "2026-10-06T20:32:49+00:00"
 }
