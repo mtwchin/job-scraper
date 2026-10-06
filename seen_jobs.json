@@ -1,5 +1,5 @@
 {
-  "count": 6740,
+  "count": 6741,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -27,6 +27,15 @@
       "source": "",
       "title": "Software Engineer Internship, Frontend",
       "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74"
+    },
+    "sigma computing::7850795003": {
+      "attempted_at": "2026-10-06T22:49:19+00:00",
+      "company": "Sigma Computing",
+      "location": "San Francisco, CA; New York, NY",
+      "posted_at": "2026-10-06T18:46:38-04:00",
+      "source": "",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7850795003"
     },
     "simplify:abb::simplify-d60aa1f1-7edf-4114-8ff6-293dff4175b4": {
       "attempted_at": "2026-09-24T15:37:06+00:00",
@@ -3231,6 +3240,18 @@
       "title": "Software Engineer (New Grad Program)",
       "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003"
     },
+    "sigma computing::8001295003": {
+      "company": "Sigma Computing",
+      "duplicate_of": "sigma computing::7850795003",
+      "first_seen": "2026-10-06T22:49:19+00:00",
+      "last_seen": "2026-10-06T22:49:19+00:00",
+      "location": "New York, NY",
+      "posted_at": "2026-10-06T18:46:41-04:00",
+      "seeded": true,
+      "source": "",
+      "title": "Software Engineering Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/8001295003"
+    },
     "simplify: impact.com ::simplify-e80e3302-1101-475b-8706-adaf4a95d93a": {
       "company": " impact.com ",
       "first_seen": "2026-08-06T15:29:24+00:00",
@@ -3924,7 +3945,7 @@
     "simplify:adobe::simplify-a9900edf-029b-4f1e-98cb-a9a1c96f11b3": {
       "company": "Adobe",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-10-03T06:04:42+00:00",
+      "last_seen": "2026-10-06T22:49:19+00:00",
       "posted_at": "1788393600",
       "title": "Software Engineer Intern",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666"
@@ -54607,5 +54628,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T22:37:50+00:00"
+  "updated_at": "2026-10-06T22:49:52+00:00"
 }
