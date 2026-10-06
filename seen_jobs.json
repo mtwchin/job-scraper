@@ -23215,7 +23215,7 @@
     "simplify:intel::simplify-2d77d594-bd99-46dd-bb12-5e46c01f41e8": {
       "company": "Intel",
       "first_seen": "2026-09-25T23:20:48+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-06T20:40:22+00:00",
       "location": "Hillsboro, OR",
       "posted_at": "1790294400",
       "source": "simplify",
@@ -23333,7 +23333,7 @@
     "simplify:intel::simplify-ac297577-f4f9-4b73-ab38-00c094342140": {
       "company": "Intel",
       "first_seen": "2026-09-03T08:16:46+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-06T20:40:22+00:00",
       "posted_at": "1788307200",
       "title": "Software Engineer Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836"
@@ -54516,5 +54516,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T20:32:49+00:00"
+  "updated_at": "2026-10-06T20:40:52+00:00"
 }
