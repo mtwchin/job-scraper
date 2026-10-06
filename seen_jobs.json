@@ -1,5 +1,5 @@
 {
-  "count": 6741,
+  "count": 6749,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -9420,6 +9420,16 @@
       "title": "Software Engineer - University",
       "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246655"
     },
+    "simplify:booz allen::simplify-5ff0125a-88d7-4029-9ba8-57b94f426ff8": {
+      "company": "Booz Allen",
+      "first_seen": "2026-10-06T23:03:27+00:00",
+      "last_seen": "2026-10-06T23:03:27+00:00",
+      "location": "Rome, NY",
+      "posted_at": "1791244800",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/Software-Engineer_R0251176"
+    },
     "simplify:booz allen::simplify-628819fc-d652-4fd1-9a14-5c20d1960230": {
       "company": "Booz Allen",
       "first_seen": "2026-09-25T23:20:50+00:00",
@@ -11880,6 +11890,16 @@
       "posted_at": "1785715200",
       "title": "Technology Intern",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Technology-Internship-Program---Summer-2027_R244387-1"
+    },
+    "simplify:capital one::simplify-59736ed0-38bb-4862-b4f8-b416c14876f4": {
+      "company": "Capital One",
+      "first_seen": "2026-10-06T23:03:24+00:00",
+      "last_seen": "2026-10-06T23:03:24+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1791244800",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R1003048"
     },
     "simplify:capital one::simplify-64f281cc-18df-415d-bb14-075f5729e24d": {
       "company": "Capital One",
@@ -14843,6 +14863,16 @@
       "source": "simplify",
       "title": "Engineering Intern - Software - Machine Learning",
       "url": "https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328/application?embed=true"
+    },
+    "simplify:d'addario::simplify-3a93ce9b-b375-4f91-a7b3-4841cd8b84da": {
+      "company": "D'Addario",
+      "first_seen": "2026-10-06T23:03:27+00:00",
+      "last_seen": "2026-10-06T23:03:27+00:00",
+      "location": "Farmingdale, NY",
+      "posted_at": "1791325508",
+      "source": "simplify",
+      "title": "Junior Full Stack Engineer",
+      "url": "https://careers-daddario.icims.com/jobs/2680/job?mobile=true&needsRedirect=false"
     },
     "simplify:d-matrix::simplify-35066ac0-1560-4dd8-af1e-43c56f13ef8c": {
       "company": "d-Matrix",
@@ -20843,6 +20873,7 @@
     "simplify:goldman sachs::simplify-ebecfe1f-3890-4cf8-8663-d7b118197e24": {
       "company": "Goldman Sachs",
       "first_seen": "2026-08-15T15:35:14+00:00",
+      "last_seen": "2026-10-06T23:03:23+00:00",
       "posted_at": "1786767937",
       "title": "New Analyst - Engineering",
       "url": "https://higher.gs.com/roles/171569?type=students"
@@ -34930,10 +34961,20 @@
     "simplify:protech group::simplify-7cb90b67-c1af-4e1f-a9a9-e50dc88da299": {
       "company": "Protech Group",
       "first_seen": "2026-09-12T01:07:02+00:00",
-      "last_seen": "2026-09-25T00:00:09+00:00",
+      "last_seen": "2026-10-06T23:03:23+00:00",
       "posted_at": "1789170641",
       "title": "Junior Application Developer - Database Orientation",
       "url": "https://protechgroup.applytojob.com/apply/8TVPaSI84s/Programmeur-Junior-Dveloppeur-Applicatif-Orientation-Bases-De-Donnes"
+    },
+    "simplify:provectus::simplify-73731d4d-42e1-4c5c-a688-d6e0f81c0fa3": {
+      "company": "Provectus",
+      "first_seen": "2026-10-06T23:03:27+00:00",
+      "last_seen": "2026-10-06T23:03:27+00:00",
+      "location": "NYC",
+      "posted_at": "1791325146",
+      "source": "simplify",
+      "title": "Associate Forward Deployed Engineer",
+      "url": "https://jobs.lever.co/provectus/8f3a9444-2977-4310-b2d5-12cc327a9916/apply"
     },
     "simplify:proximate technologies::simplify-524e8882-51b0-4631-baf4-fd747567d5c4": {
       "company": "Proximate Technologies",
@@ -35011,6 +35052,16 @@
       "posted_at": "1788992440",
       "title": "Software Engineer Intern",
       "url": "https://careers.publicisgroupe.com/jobs/172577?icims=1"
+    },
+    "simplify:pure storage::simplify-99fee0ad-92bd-4ac6-99a0-d812ab1776d0": {
+      "company": "Pure Storage",
+      "first_seen": "2026-10-06T23:03:27+00:00",
+      "last_seen": "2026-10-06T23:03:27+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1791325545",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8249851"
     },
     "simplify:pure storage::simplify-dc97139d-fa2b-4aa2-8621-a1924dcbdb75": {
       "company": "Pure Storage",
@@ -42761,6 +42812,16 @@
       "title": "Engineer 1 - Surveys",
       "url": "https://ats.rippling.com/tavernresearch/jobs/7433de0b-caae-4c3d-8ad3-70fcbb2f3e6c"
     },
+    "simplify:taxrise::simplify-62da524e-ffa4-4bcd-a604-fcc071409fb5": {
+      "company": "TaxRise",
+      "first_seen": "2026-10-06T23:03:27+00:00",
+      "last_seen": "2026-10-06T23:03:27+00:00",
+      "location": "Irvine, CA",
+      "posted_at": "1791324467",
+      "source": "simplify",
+      "title": "Junior Software Developer",
+      "url": "https://job-boards.greenhouse.io/taxrise/jobs/4434618009"
+    },
     "simplify:tc energy::simplify-00e14de5-8782-4578-9d2f-b2de2e3d63f1": {
       "company": "TC Energy",
       "first_seen": "2026-09-01T14:21:01+00:00",
@@ -43939,6 +44000,16 @@
       "posted_at": "1770776263",
       "title": "Associate Software Engineer",
       "url": "https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Richardson-TX/Associate-Software-Engineer_JR104964-1"
+    },
+    "simplify:texas capital bank::simplify-a717e2b7-bb91-4da7-b5fc-8f366f7f7b5b": {
+      "company": "Texas Capital Bank",
+      "first_seen": "2026-10-06T23:03:27+00:00",
+      "last_seen": "2026-10-06T23:03:27+00:00",
+      "location": "Richardson, TX",
+      "posted_at": "1791244800",
+      "source": "simplify",
+      "title": "Associate Engineer",
+      "url": "https://texascapitalbank.wd12.myworkdayjobs.com/Careers/job/Richardson-TX/Associate-Engineer_JR105779"
     },
     "simplify:texas instruments::simplify-0b5a17d9-0294-4f5f-8f53-22abb041d6ac": {
       "company": "Texas Instruments",
@@ -49065,6 +49136,16 @@
       "source": "simplify",
       "title": "Neuroimaging Engineer - Neurology",
       "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Neuroimaging-Engineer---Neurology_JR97672"
+    },
+    "simplify:wash u::simplify-beffea84-5be8-454d-9c18-9bbe7f0a9fc9": {
+      "company": "Wash U",
+      "first_seen": "2026-10-06T23:03:27+00:00",
+      "last_seen": "2026-10-06T23:03:27+00:00",
+      "location": "St. Louis, MO",
+      "posted_at": "1791244800",
+      "source": "simplify",
+      "title": "Business & Technology Application Analyst 1 - Pathology and Immunology",
+      "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Business---Technology-Application-Analyst-I---Pathology-and-Immunology_JR97913"
     },
     "simplify:waymo::simplify-107e54c4-e35f-4131-8faf-6a6ab9998ca9": {
       "company": "Waymo",
@@ -54628,5 +54709,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T22:49:52+00:00"
+  "updated_at": "2026-10-06T23:03:54+00:00"
 }
