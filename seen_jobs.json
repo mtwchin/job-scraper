@@ -1,5 +1,5 @@
 {
-  "count": 6715,
+  "count": 6716,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -38359,6 +38359,16 @@
       "title": "Software Engineering Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01871551"
     },
+    "simplify:rtx::simplify-bd56c51a-aae8-4121-98f4-cd683c6c4a85": {
+      "company": "RTX",
+      "first_seen": "2026-10-06T13:02:48+00:00",
+      "last_seen": "2026-10-06T13:02:48+00:00",
+      "location": "Tewksbury, MA",
+      "posted_at": "1789430400",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I--Onsite-_01873222"
+    },
     "simplify:rtx::simplify-bdb07e32-29e8-4fe6-bfc8-854f3a4ce18b": {
       "company": "RTX",
       "first_seen": "2026-08-26T22:44:32+00:00",
@@ -54346,5 +54356,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T11:03:27+00:00"
+  "updated_at": "2026-10-06T13:03:31+00:00"
 }
