@@ -1,5 +1,5 @@
 {
-  "count": 6671,
+  "count": 6680,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -7179,12 +7179,52 @@
       "title": "Junior .NET Developer",
       "url": "https://job-boards.greenhouse.io/assystinc/jobs/4371586009"
     },
+    "simplify:astera labs::simplify-2246afaa-4221-4709-9120-48185cedb105": {
+      "company": "Astera Labs",
+      "first_seen": "2026-10-06T06:32:25+00:00",
+      "last_seen": "2026-10-06T06:32:25+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1791267436",
+      "source": "simplify",
+      "title": "Applied AI Engineer Intern - Silicon Engineering",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4727602005"
+    },
+    "simplify:astera labs::simplify-54af179b-4f58-495b-b497-d69518df8c27": {
+      "company": "Astera Labs",
+      "first_seen": "2026-10-06T06:32:25+00:00",
+      "last_seen": "2026-10-06T06:32:25+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1791267453",
+      "source": "simplify",
+      "title": "Platform Applications Engineer Intern Co-op - Tools Development Engineer - COSMOS Platform Software",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4733856005"
+    },
     "simplify:astera labs::simplify-5b9e82eb-e170-450f-9dfe-62e7281dc8ae": {
       "company": "Astera Labs",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1779844598",
       "title": "Platform Applications Engineer Intern Co-op",
       "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4562833005"
+    },
+    "simplify:astera labs::simplify-73c27fd9-ebbf-4db8-a79a-2cc3cc9c43b2": {
+      "company": "Astera Labs",
+      "first_seen": "2026-10-06T06:32:25+00:00",
+      "last_seen": "2026-10-06T06:32:25+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1791267435",
+      "source": "simplify",
+      "title": "Applied AI Intern - Non-Silicon",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4728357005"
+    },
+    "simplify:astera labs::simplify-c863a552-36d0-4c29-b324-c4e626146943": {
+      "company": "Astera Labs",
+      "first_seen": "2026-10-06T06:32:25+00:00",
+      "last_seen": "2026-10-06T06:32:25+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1791267444",
+      "source": "simplify",
+      "title": "Applied AI New Grad - Non Silicon",
+      "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005"
     },
     "simplify:astera::simplify-d82bb13b-066a-4f6d-8f2f-ad3e7b394a3d": {
       "company": "Astera",
@@ -19222,6 +19262,16 @@
       "title": "Digital Sciences Intern - Product Technical Development",
       "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---Product-Technical-Development---Digital-Sciences-Focus_202609-123436"
     },
+    "simplify:genentech::simplify-766c66a6-36c1-4fa9-8bcf-d522a0c71b1f": {
+      "company": "Genentech",
+      "first_seen": "2026-10-06T06:32:25+00:00",
+      "last_seen": "2026-10-06T06:32:25+00:00",
+      "location": "South SF",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Applied GenAI Scientist Intern - GenAI Applications",
+      "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---GenAI-Applications_202610-125229"
+    },
     "simplify:generac::simplify-1198914e-0b05-4c13-a78b-3ef38d2f9697": {
       "company": "Generac",
       "first_seen": "2026-07-29T23:12:09+00:00",
@@ -22334,6 +22384,16 @@
       "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/idler/cce9ab39-0ab0-489d-bbf9-4df74c2baeee/application?embed=true"
     },
+    "simplify:iex::simplify-7c58c548-fe96-40a5-ad9c-226e9751449f": {
+      "company": "IEX",
+      "first_seen": "2026-10-06T06:32:25+00:00",
+      "last_seen": "2026-10-06T06:32:25+00:00",
+      "location": "NYC",
+      "posted_at": "1791267255",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/iex-interns/jobs/8171239"
+    },
     "simplify:iflip4::simplify-188a7730-e0e6-4d6b-b1fb-5550f2812d43": {
       "company": "iFLIP4",
       "first_seen": "2026-08-18T01:43:55+00:00",
@@ -24459,6 +24519,16 @@
       "title": "Java Backend Software Engineer 2 - Artificial Intelligence",
       "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210758513"
     },
+    "simplify:jp morgan chase::simplify-8eaeeea9-e989-429e-afc9-1418dcb4545c": {
+      "company": "JP Morgan Chase",
+      "first_seen": "2026-10-06T06:32:25+00:00",
+      "last_seen": "2026-10-06T06:32:25+00:00",
+      "location": "Plano, TX",
+      "posted_at": "1791267430",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210795475"
+    },
     "simplify:jp morgan chase::simplify-97344c37-7a6a-4252-b0e7-522f9b541585": {
       "company": "JP Morgan Chase",
       "first_seen": "2026-07-28T23:15:13+00:00",
@@ -26468,6 +26538,16 @@
       "posted_at": "1788134400",
       "title": "Software Engineer New Grad - Risk Solutions Technology Graduate Program",
       "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
+    },
+    "simplify:liberty mutual::simplify-534bdae1-bb74-415c-bd75-9263c3eecc59": {
+      "company": "Liberty Mutual",
+      "first_seen": "2026-10-06T06:32:25+00:00",
+      "last_seen": "2026-10-06T06:32:25+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1791267235",
+      "source": "simplify",
+      "title": "Software Development Co-op",
+      "url": "https://campus-libertymutual.icims.com/jobs/261797/job?mobile=true&needsRedirect=false"
     },
     "simplify:life.church::simplify-08b821af-a2a3-42fa-b03d-fd9289252ec1": {
       "company": "Life.Church",
@@ -48022,6 +48102,16 @@
       "title": "Software Engineer",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer_REF081843W-1"
     },
+    "simplify:visa::simplify-1b3efb3c-9e7e-483a-a16d-28001b164d2f": {
+      "company": "Visa",
+      "first_seen": "2026-10-06T06:32:25+00:00",
+      "last_seen": "2026-10-06T06:32:25+00:00",
+      "location": "Belfast, UK",
+      "posted_at": "1789084800",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---Belfast-United-Kingdom/Software-Engineer-Placement-Year_REF088379W"
+    },
     "simplify:visa::simplify-386a0851-1bfc-40ed-94c2-db33224d056d": {
       "company": "Visa",
       "first_seen": "2026-09-17T14:34:35+00:00",
@@ -53905,5 +53995,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T05:47:05+00:00"
+  "updated_at": "2026-10-06T06:33:08+00:00"
 }
