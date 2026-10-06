@@ -14,9 +14,10 @@ from __future__ import annotations
 
 import concurrent.futures as cf
 import time
-from dataclasses import dataclass, field
+from dataclasses import dataclass, field, replace
+from datetime import datetime, timedelta, timezone
 
-from . import adapters, filters, log, notify, settings
+from . import adapters, dedup, filters, log, notify, settings
 from .companies import load_companies
 from .dedup import KeySet
 from .models import CompanyConfig, Job
@@ -255,6 +256,57 @@ def select_new(store: SeenStore, matches: list[Job]) -> list[Job]:
     return fresh
 
 
+def fold_repeat_titles(store: SeenStore, jobs: list[Job]) -> list[Job]:
+    """Collapse postings that repeat a company + title into a single alert.
+
+    The location-aware fingerprint deliberately treats one title in two offices
+    as two openings, which is right for dedup but makes for repetitive alerts:
+    a board posting "SWE Intern" for New York and San Francisco pinged twice,
+    and re-listing it in a third city days later pinged again. Within
+    TITLE_COOLDOWN_HOURS of an alert for a title, later copies are recorded
+    quietly (so they cannot alert once the window closes); copies arriving in
+    the same sweep are merged into the first one's location instead.
+    """
+    if settings.TITLE_COOLDOWN_HOURS <= 0 or not jobs:
+        return jobs
+    cutoff = (datetime.now(timezone.utc) - timedelta(hours=settings.TITLE_COOLDOWN_HOURS)
+              ).isoformat(timespec="seconds")
+    keep: list[Job] = []
+    quieted = 0
+    first: dict[str, int] = {}          # title key -> index into keep
+    extra_locs: dict[int, list[str]] = {}
+    for job in jobs:
+        key = dedup.title_key(job.company, job.title)
+        if key in first:
+            primary = keep[first[key]]
+            extra_locs.setdefault(first[key], []).append(job.location)
+            store.add(job, duplicate_of=primary.uid)
+            quieted += 1
+            logger.debug("folded repeat title into one alert: %s — %s (%s)",
+                         job.company, job.title, job.location)
+            continue
+        if key and (alerted := store.title_alerted_since(job, cutoff)):
+            store.add(job, duplicate_of=alerted)
+            quieted += 1
+            logger.debug("suppressed repeat title (cooldown): %s — %s (%s)",
+                         job.company, job.title, job.location)
+            continue
+        if key:
+            first[key] = len(keep)
+        keep.append(job)
+    for idx, locs in extra_locs.items():
+        merged: list[str] = []
+        for loc in [keep[idx].location, *locs]:
+            if loc and loc not in merged:
+                merged.append(loc)
+        keep[idx] = replace(keep[idx], location="; ".join(merged))
+    if quieted:
+        logger.info("Title cooldown: %d repeat posting(s) folded or suppressed.", quieted)
+        if not settings.DRY_RUN:
+            store.save()
+    return keep
+
+
 def _seed_quietly(store: SeenStore, new_jobs: list[Job], new_general: list[Job],
                   first_run: bool) -> None:
     """Absorb a backlog into the store without pinging for each role."""
@@ -374,6 +426,9 @@ def dispatch(store: SeenStore, c: Collection, general: Collection,
                 f"🆕 Added job source(s) — {detail} currently-open role(s) absorbed "
                 f"quietly. You'll get pinged when they list something new."
             )
+
+    new_jobs = fold_repeat_titles(store, new_jobs)
+    new_general = fold_repeat_titles(store, new_general)
 
     to_send = new_jobs[: settings.MAX_NOTIFICATIONS_PER_RUN]
     if len(new_jobs) > len(to_send):

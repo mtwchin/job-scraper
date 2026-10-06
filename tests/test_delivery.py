@@ -1,4 +1,6 @@
 """Webhook delivery persists a claim before the HTTP request."""
+import json
+
 import pytest
 import requests
 import urllib3
@@ -9,7 +11,7 @@ from jobscraper.state import SeenStore
 
 
 def _job(i):
-    return Job("Acme", str(i), "Software Engineer Intern", f"https://example.test/jobs/{i}",
+    return Job("Acme", str(i), f"Software Engineer Intern, Team {i}", f"https://example.test/jobs/{i}",
                "New York, NY")
 
 
@@ -180,3 +182,74 @@ def test_pruned_record_is_not_restored_by_state_merge(tmp_path):
     store.merge_from(old_copy)
     store.save()
     assert not SeenStore(path).has_uid(posting.uid)
+
+
+def _sent_payloads(monkeypatch):
+    payloads = []
+
+    def post(_url, json=None, **kw):
+        payloads.append(json)
+        return type("R", (), {"status_code": 204})()
+
+    monkeypatch.setattr(settings, "DRY_RUN", False)
+    monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "https://example.test/webhook")
+    monkeypatch.setattr(notify.http, "post", post)
+    monkeypatch.setattr(notify.time, "sleep", lambda _: None)
+    return payloads
+
+
+def _office(i, city):
+    return Job("Harvey", f"req-{i}", "Software Engineering Intern (Summer 2027)",
+               f"https://example.test/jobs/{i}", city)
+
+
+def test_same_title_in_several_offices_is_one_alert(tmp_path, monkeypatch):
+    path = tmp_path / "state.json"
+    store = _ready_store(path)
+    payloads = _sent_payloads(monkeypatch)
+    ny, sf = _office(1, "New York"), _office(2, "San Francisco")
+
+    assert main.dispatch(store, *_collection([ny, sf])) == 1
+    [embed] = payloads[0]["embeds"]
+    assert embed["fields"][0]["value"] == "New York; San Francisco"
+    reloaded = SeenStore(path)
+    assert reloaded.has_uid(ny.uid) and reloaded.has_uid(sf.uid)
+    # The folded copy is recorded as quiet, so the freshness audit skips it.
+    assert reloaded._seen[sf.uid]["duplicate_of"] == ny.uid
+
+
+def test_same_title_relisted_within_cooldown_is_suppressed(tmp_path, monkeypatch):
+    path = tmp_path / "state.json"
+    store = _ready_store(path)
+    payloads = _sent_payloads(monkeypatch)
+
+    main.dispatch(store, *_collection([_office(1, "New York")]))
+    # A later sweep — even a new process reading the file back — sees the same
+    # role re-listed in another city.
+    store = SeenStore(path)
+    assert main.dispatch(store, *_collection([_office(3, "Austin")])) == 0
+    assert len(payloads) == 1
+    # Recorded, so it stays quiet after the cooldown expires too.
+    assert SeenStore(path).has_uid(_office(3, "Austin").uid)
+
+
+def test_title_cooldown_expires(tmp_path, monkeypatch):
+    path = tmp_path / "state.json"
+    store = _ready_store(path)
+    payloads = _sent_payloads(monkeypatch)
+    main.dispatch(store, *_collection([_office(1, "New York")]))
+
+    # Backdate the alert to just outside the default 7-day window.
+    data = json.loads(path.read_text())
+    data["jobs"][_office(1, "New York").uid]["first_seen"] = "2020-01-01T00:00:00+00:00"
+    path.write_text(json.dumps(data))
+    assert main.dispatch(SeenStore(path), *_collection([_office(3, "Austin")])) == 1
+    assert len(payloads) == 2
+
+
+def test_title_cooldown_can_be_disabled(tmp_path, monkeypatch):
+    path = tmp_path / "state.json"
+    store = _ready_store(path)
+    _sent_payloads(monkeypatch)
+    monkeypatch.setattr(settings, "TITLE_COOLDOWN_HOURS", 0)
+    assert main.dispatch(store, *_collection([_office(1, "New York"), _office(2, "Austin")])) == 2

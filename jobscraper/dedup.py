@@ -166,6 +166,20 @@ def fingerprint(company: str, title: str, location: str) -> str:
     return f"{c}::{t}::{l}"
 
 
+def title_key(company: str, title: str) -> str:
+    """Company + title, ignoring location, or "" when either is missing.
+
+    Coarser than `fingerprint` on purpose. It never decides on its own that a
+    posting was already sent; it only drives the short title cooldown (see
+    `SeenStore.title_alerted_since`), which folds the same role posted in
+    several cities, or re-listed in a new city days later, into one alert.
+    """
+    c, t = normalize_company(company), normalize_title(title)
+    if not c or not t:
+        return ""
+    return f"{c}::{t}"
+
+
 class KeySet:
     """In-memory set of job identities, used to collapse duplicates inside a
     single collection pass.

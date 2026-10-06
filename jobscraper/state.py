@@ -119,6 +119,10 @@ class SeenStore:
         self.prune_cutoff = ""
         self._by_url: dict[str, str] = {}
         self._by_fp: dict[str, str] = {}
+        # company+title -> (first_seen, uid) of the newest record we actually
+        # alerted on. Derived from the records like the other indexes, so it
+        # needs no field of its own in the file and survives merges for free.
+        self._by_title: dict[str, tuple[str, str]] = {}
         self._dirty = False
         # Tracks whether the "all companies" aggregate feed has done its own
         # quiet first-run seed — separate from `existed`, since that feed can be
@@ -186,7 +190,11 @@ class SeenStore:
         """
         self._by_url.clear()
         self._by_fp.clear()
+        self._by_title.clear()
         for uid, rec in self._seen.items():
+            if not rec.get("seeded"):
+                self._note_title(uid, rec.get("company", ""), rec.get("title", ""),
+                                 rec.get("first_seen", ""))
             if (key := dedup.canonical_url(rec.get("url", ""))):
                 self._by_url.setdefault(key, uid)
             # Only index a fingerprint when the record carries a location.
@@ -225,6 +233,23 @@ class SeenStore:
                 return "attempt"
         return None
 
+    def title_alerted_since(self, job: Job, cutoff: str) -> str:
+        """The uid of an alert for this company + title (any location) sent at
+        or after `cutoff`, or of an unresolved delivery attempt for it; "" if
+        there is none."""
+        key = dedup.title_key(job.company, job.title)
+        if not key:
+            return ""
+        when, uid = self._by_title.get(key, ("", ""))
+        if when and when >= cutoff:
+            return uid
+        return next((uid for uid, a in self.delivery_attempts.items()
+                     if key == dedup.title_key(a.get("company", ""), a.get("title", ""))), "")
+
+    def _note_title(self, uid: str, company: str, title: str, when: str) -> None:
+        if (key := dedup.title_key(company, title)) and when > self._by_title.get(key, ("", ""))[0]:
+            self._by_title[key] = (when, uid)
+
     def begin_delivery(self, jobs: list[Job]) -> None:
         for job in jobs:
             self.delivery_rejections.pop(job.uid, None)
@@ -255,7 +280,7 @@ class SeenStore:
         return uid in self._seen
 
     # -- mutation ----------------------------------------------------------- #
-    def add(self, job: Job, seeded: bool = False) -> None:
+    def add(self, job: Job, seeded: bool = False, duplicate_of: str = "") -> None:
         """Record a posting under all three of its keys.
 
         `seeded` marks a record absorbed quietly rather than alerted on — a
@@ -264,6 +289,9 @@ class SeenStore:
         freshness audit has to be able to exclude them; mixed in, they drag the
         reported catch latency out to hours and make a working scraper look
         broken.
+
+        `duplicate_of` names the alert a posting was folded into by the title
+        cooldown. Such a record is also quiet (seeded): it was never sent itself.
         """
         now = _iso(_now())
         self._seen[job.uid] = {
@@ -275,12 +303,15 @@ class SeenStore:
             "source": job.source,
             "first_seen": now,
             "last_seen": now,
-            **({"seeded": True} if seeded else {}),
+            **({"seeded": True} if seeded or duplicate_of else {}),
+            **({"duplicate_of": duplicate_of} if duplicate_of else {}),
         }
         if (key := dedup.canonical_url(job.url)):
             self._by_url.setdefault(key, job.uid)
         if (fp := dedup.fingerprint(job.company, job.title, job.location)):
             self._by_fp.setdefault(fp, job.uid)
+        if not (seeded or duplicate_of):
+            self._note_title(job.uid, job.company, job.title, now)
         self._dirty = True
 
     def touch(self, uid: str) -> None:

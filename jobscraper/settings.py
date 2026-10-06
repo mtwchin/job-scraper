@@ -61,6 +61,14 @@ STALE_POSTED_DAYS = int(os.environ.get("STALE_POSTED_DAYS", "21"))
 # risk ever suppressing a distinct role.
 FINGERPRINT_DEDUP = os.environ.get("FINGERPRINT_DEDUP", "true").lower() in {"1", "true", "yes"}
 
+# Hours during which a company + title we already alerted on is not alerted
+# again, whatever the location. Boards routinely post one role as several
+# openings (one per office) or re-list it in a new city a few days later; before
+# this, ~13% of all alerts were such repeats. Same-sweep copies are folded into
+# one alert listing every location; later ones are recorded quietly. Past the
+# window the title alerts again. 0 disables.
+TITLE_COOLDOWN_HOURS = float(os.environ.get("TITLE_COOLDOWN_HOURS", "168"))
+
 # Drop store records for postings that no board has listed in this many days.
 # Keyed on last-seen, so a still-open role is never pruned however old it is;
 # only genuinely delisted roles age out. Keeps seen_jobs.json from growing
