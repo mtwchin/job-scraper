@@ -1,5 +1,5 @@
 {
-  "count": 6724,
+  "count": 6726,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -18500,6 +18500,16 @@
       "posted_at": "1787673524",
       "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/foundationhealthcareers/e5a46260-f26d-4c62-a641-defcc04db137/application?embed=true"
+    },
+    "simplify:foundation health::simplify-2ed8bb0c-78f4-4867-8153-c160ca581eaf": {
+      "company": "Foundation Health",
+      "first_seen": "2026-10-06T15:04:46+00:00",
+      "last_seen": "2026-10-06T15:04:46+00:00",
+      "location": "Orlando, FL",
+      "posted_at": "1791296856",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/foundationhealthcareers/cb0b5a3f-de52-40bd-b485-4f2b243bdee1/application?embed=true"
     },
     "simplify:four hands::simplify-e2d23a33-2859-4e62-a5a1-9d2672ebeb4e": {
       "company": "Four Hands",
@@ -37911,6 +37921,16 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01866246"
     },
+    "simplify:rtx::simplify-6ffabb0b-4dbb-49a3-bb98-10fd85f1898b": {
+      "company": "RTX",
+      "first_seen": "2026-10-06T15:04:46+00:00",
+      "last_seen": "2026-10-06T15:04:46+00:00",
+      "location": "Tucson, AZ",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Software Engineer 1 - Test",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I---Test_01873961"
+    },
     "simplify:rtx::simplify-703cda76-22ba-4087-a142-4fe4289646b5": {
       "company": "RTX",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -54437,5 +54457,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T15:03:39+00:00"
+  "updated_at": "2026-10-06T15:05:41+00:00"
 }
