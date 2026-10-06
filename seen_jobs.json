@@ -1,5 +1,5 @@
 {
-  "count": 6680,
+  "count": 6699,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -9584,6 +9584,16 @@
       "title": "Software Engineer Intern - R&D",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813542900"
     },
+    "simplify:boston scientific::simplify-532045a4-58bc-4fef-8105-cae7f1bdcccc": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-10-06T07:02:28+00:00",
+      "last_seen": "2026-10-06T07:02:28+00:00",
+      "location": "Maple Grove, MN",
+      "posted_at": "1791267692",
+      "source": "simplify",
+      "title": "Equipment Engineering Software Engineer Intern",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584306"
+    },
     "simplify:boston scientific::simplify-735a5bf8-6b11-410a-8194-7e97afd9ecdb": {
       "company": "Boston Scientific",
       "first_seen": "2026-09-29T04:26:52+00:00",
@@ -11356,6 +11366,16 @@
       "posted_at": "1783555200",
       "title": "Software Engineer New Grad - Undergrads",
       "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent/job/Burlington-MA/Software-Engineer--New-College-Grad-2026--Undergrads-_R54894"
+    },
+    "simplify:cadence solutions::simplify-9c73b8be-e8be-4a91-9db0-df9eb032917a": {
+      "company": "Cadence Solutions",
+      "first_seen": "2026-10-06T07:02:27+00:00",
+      "last_seen": "2026-10-06T07:02:27+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1791268852",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/solutions/jobs/4711210006"
     },
     "simplify:cae::simplify-05c29d98-1be6-40fd-a754-fa374b2a3774": {
       "company": "CAE",
@@ -21596,6 +21616,16 @@
       "title": "Software Engineer Graduate",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624"
     },
+    "simplify:hewlett packard enterprise::simplify-32a927aa-3bb5-4165-a071-577c818b9b67": {
+      "company": "Hewlett Packard Enterprise",
+      "first_seen": "2026-10-06T07:02:28+00:00",
+      "last_seen": "2026-10-06T07:02:28+00:00",
+      "location": "Bloomington, MN",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Systems Software Engineer Intern",
+      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bloomington-Minnesota-United-States-of-America/Systems-Software-Engineer-Intern_1213401"
+    },
     "simplify:hewlett packard enterprise::simplify-358bbbd4-af38-47eb-b350-ddedbe632989": {
       "company": "Hewlett Packard Enterprise",
       "first_seen": "2026-08-27T03:35:02+00:00",
@@ -21604,12 +21634,32 @@
       "title": "Software Engineer",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208691"
     },
+    "simplify:hewlett packard enterprise::simplify-424c2b21-ac5b-49ff-9c33-24fd7860f772": {
+      "company": "Hewlett Packard Enterprise",
+      "first_seen": "2026-10-06T07:02:28+00:00",
+      "last_seen": "2026-10-06T07:02:28+00:00",
+      "location": "Andover, MA, Bloomington, MN, San Jose, CA, Spring, TX, Durham, NC, Westford, MA, Chippewa Falls, WI, Fort Collins, CO, Sunnyvale, CA, Roseville, CA",
+      "posted_at": "1787875200",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625"
+    },
     "simplify:hewlett packard enterprise::simplify-8b101998-170d-4443-ad6d-edf8d5105b6f": {
       "company": "Hewlett Packard Enterprise",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1782956704",
       "title": "Software Engineer",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208770"
+    },
+    "simplify:hewlett packard enterprise::simplify-c986d084-22ce-42b2-8117-a1fdd3db77a4": {
+      "company": "Hewlett Packard Enterprise",
+      "first_seen": "2026-10-06T07:02:27+00:00",
+      "last_seen": "2026-10-06T07:02:27+00:00",
+      "location": "Bristol, UK",
+      "posted_at": "1790121600",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804"
     },
     "simplify:hewlett packard::simplify-2b9817d0-6f0e-47d5-a557-9594cca9ea27": {
       "company": "Hewlett Packard",
@@ -22713,6 +22763,66 @@
       "posted_at": "1786320000",
       "title": "Technology Intern - Innovation",
       "url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Innovation-_REQ-10119619"
+    },
+    "simplify:innovative defense technologies::simplify-0d975f4a-64df-4148-98fd-46ab01f959b8": {
+      "company": "Innovative Defense Technologies",
+      "first_seen": "2026-10-06T07:02:28+00:00",
+      "last_seen": "2026-10-06T07:02:28+00:00",
+      "location": "Mt Laurel Township, NJ",
+      "posted_at": "1791267835",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://idtus.pinpointhq.com/en/postings/20817d1b-bd0e-4aa8-a3d5-78e4614b52a3?ats=pinpointhq"
+    },
+    "simplify:innovative defense technologies::simplify-51fb48b5-add2-48f7-90e2-7a0ca38923ab": {
+      "company": "Innovative Defense Technologies",
+      "first_seen": "2026-10-06T07:02:27+00:00",
+      "last_seen": "2026-10-06T07:02:27+00:00",
+      "location": "Arlington County, Arlington, VA",
+      "posted_at": "1791267839",
+      "source": "simplify",
+      "title": "Software Systems Engineer Intern",
+      "url": "https://idtus.pinpointhq.com/en/postings/4f5ae5de-0eca-4427-8c17-85e949540be5?ats=pinpointhq"
+    },
+    "simplify:innovative defense technologies::simplify-881872b3-5779-4104-a358-a391a551b338": {
+      "company": "Innovative Defense Technologies",
+      "first_seen": "2026-10-06T07:02:28+00:00",
+      "last_seen": "2026-10-06T07:02:28+00:00",
+      "location": "Mt Laurel Township, NJ",
+      "posted_at": "1791267835",
+      "source": "simplify",
+      "title": "Software Systems Engineer Intern",
+      "url": "https://idtus.pinpointhq.com/en/postings/58417813-ec8f-4d3b-9728-40b13c6b358d?ats=pinpointhq"
+    },
+    "simplify:innovative defense technologies::simplify-8e9e2170-2a62-463a-9716-1a23c6386fb3": {
+      "company": "Innovative Defense Technologies",
+      "first_seen": "2026-10-06T07:02:28+00:00",
+      "last_seen": "2026-10-06T07:02:28+00:00",
+      "location": "Arlington County, Arlington, VA",
+      "posted_at": "1791267838",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://idtus.pinpointhq.com/en/postings/79744981-0812-4999-8af2-ce7399f521d3?ats=pinpointhq"
+    },
+    "simplify:innovative defense technologies::simplify-972de7eb-ddbf-4e57-8217-e7d6cc989614": {
+      "company": "Innovative Defense Technologies",
+      "first_seen": "2026-10-06T07:02:28+00:00",
+      "last_seen": "2026-10-06T07:02:28+00:00",
+      "location": "Mt Laurel Township, NJ, Arlington County, Arlington, VA, San Diego, CA",
+      "posted_at": "1791267838",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://idtus.pinpointhq.com/en/postings/eac7d1ca-2dbd-4c60-8f65-979f0a9e3f33?ats=pinpointhq"
+    },
+    "simplify:innovative defense technologies::simplify-bd769d36-0e90-4dec-b0f0-cafa6b24a379": {
+      "company": "Innovative Defense Technologies",
+      "first_seen": "2026-10-06T07:02:28+00:00",
+      "last_seen": "2026-10-06T07:02:28+00:00",
+      "location": "Mt Laurel Township, NJ, Arlington County, Arlington, VA, San Diego, CA",
+      "posted_at": "1791267838",
+      "source": "simplify",
+      "title": "Software Systems Engineer Intern",
+      "url": "https://idtus.pinpointhq.com/en/postings/77292978-8fb0-4bdd-8c2e-b8e37eacdf46?ats=pinpointhq"
     },
     "simplify:innovative systems::simplify-2583c13c-1003-4d90-a33c-cb634ef5ba6e": {
       "company": "Innovative Systems",
@@ -27129,6 +27239,16 @@
       "posted_at": "1778105063",
       "title": "Software Developer Co-op",
       "url": "https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5/apply"
+    },
+    "simplify:magnite::simplify-97fe6a41-dd50-4193-84c4-3bb8640b1710": {
+      "company": "Magnite",
+      "first_seen": "2026-10-06T07:02:28+00:00",
+      "last_seen": "2026-10-06T07:02:28+00:00",
+      "location": "Belfast, UK",
+      "posted_at": "1791244800",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/United-Kingdom---Belfast/Software-Engineer---Student-Placement--Queens-University-Only-_R-01418"
     },
     "simplify:major league baseball::simplify-867ae6e2-184d-4c9f-947a-7af657510d2c": {
       "company": "Major League Baseball",
@@ -41091,6 +41211,26 @@
       "title": "Epic Analyst/Builder 1",
       "url": "https://sluhn.wd1.myworkdayjobs.com/SLUHN/job/Allentown-PA---1110-American-Parkway/Epic-Analyst-Builder-I_R143531-1"
     },
+    "simplify:stackadapt::simplify-a8113d45-49e6-47d6-bcb2-b4eb4c12cb3d": {
+      "company": "StackAdapt",
+      "first_seen": "2026-10-06T07:02:27+00:00",
+      "last_seen": "2026-10-06T07:02:27+00:00",
+      "location": "Remote in Canada",
+      "posted_at": "1791268244",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386549009"
+    },
+    "simplify:stackadapt::simplify-e8a188ad-8e25-422e-9ff5-12c123be90fa": {
+      "company": "StackAdapt",
+      "first_seen": "2026-10-06T07:02:27+00:00",
+      "last_seen": "2026-10-06T07:02:27+00:00",
+      "location": "Remote in Canada",
+      "posted_at": "1791268244",
+      "source": "simplify",
+      "title": "Software Engineer Backend Intern",
+      "url": "https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009"
+    },
     "simplify:stafford gray::simplify-3e987eca-2504-4d6a-9d3c-ad762da4a132": {
       "company": "Stafford Gray",
       "first_seen": "2026-09-17T23:03:17+00:00",
@@ -48794,6 +48934,56 @@
       "title": "Software Engineer New Grad - Algorithm",
       "url": "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b/apply"
     },
+    "simplify:west monroe::simplify-7771e28f-19b8-42e9-8cfb-42c1b63e5f24": {
+      "company": "West Monroe",
+      "first_seen": "2026-10-06T07:02:27+00:00",
+      "last_seen": "2026-10-06T07:02:27+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1791269207",
+      "source": "simplify",
+      "title": "Software Engineer Consulting Intern - AI Concentration",
+      "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6173003004"
+    },
+    "simplify:west monroe::simplify-85f5fdbe-da5d-442d-be70-bf1fbe77e77b": {
+      "company": "West Monroe",
+      "first_seen": "2026-10-06T07:02:27+00:00",
+      "last_seen": "2026-10-06T07:02:27+00:00",
+      "location": "SF",
+      "posted_at": "1791269207",
+      "source": "simplify",
+      "title": "Software Engineering Consulting Intern - AI Concentration",
+      "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6172998004"
+    },
+    "simplify:west monroe::simplify-93c766dc-482e-4560-9810-1490cf9f572f": {
+      "company": "West Monroe",
+      "first_seen": "2026-10-06T07:02:27+00:00",
+      "last_seen": "2026-10-06T07:02:27+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1791269207",
+      "source": "simplify",
+      "title": "Software Engineer Consulting Intern - AI Concentration",
+      "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6170231004"
+    },
+    "simplify:west monroe::simplify-bdaf339e-2338-4004-8c3d-30f3f5541a4c": {
+      "company": "West Monroe",
+      "first_seen": "2026-10-06T07:02:27+00:00",
+      "last_seen": "2026-10-06T07:02:27+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1791269205",
+      "source": "simplify",
+      "title": "Labs Asset Foundry Consulting Intern",
+      "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6169873004"
+    },
+    "simplify:west monroe::simplify-c798dbef-6333-4990-8f5a-9774baf7a93a": {
+      "company": "West Monroe",
+      "first_seen": "2026-10-06T07:02:27+00:00",
+      "last_seen": "2026-10-06T07:02:27+00:00",
+      "location": "NYC",
+      "posted_at": "1791269207",
+      "source": "simplify",
+      "title": "Software Engineer Consulting Intern - AI Concentration",
+      "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6172721004"
+    },
     "simplify:western & southern financial group::simplify-6420dbca-62cf-469e-b003-fcf4252c3df8": {
       "company": "Western & Southern Financial Group",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -53995,5 +54185,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T06:33:08+00:00"
+  "updated_at": "2026-10-06T07:03:10+00:00"
 }
