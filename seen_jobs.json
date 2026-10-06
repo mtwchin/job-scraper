@@ -1,5 +1,5 @@
 {
-  "count": 6734,
+  "count": 6736,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -1953,7 +1953,7 @@
     "nuro::8227399": {
       "company": "Nuro",
       "first_seen": "2026-09-23T21:45:58+00:00",
-      "last_seen": "2026-09-30T00:01:01+00:00",
+      "last_seen": "2026-10-06T22:34:03+00:00",
       "location": "Mountain View, California (HQ)",
       "posted_at": "2026-09-23T16:25:45-04:00",
       "source": "",
@@ -4108,6 +4108,16 @@
       "source": "simplify",
       "title": "Junior Software Engineer",
       "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/420-National-Business-Parkway-Jessup-MD/Junior-Software-Engineer_8322"
+    },
+    "simplify:aerovironment::simplify-b2f853e1-3a69-4b5e-a66e-51596c031a7c": {
+      "company": "AeroVironment",
+      "first_seen": "2026-10-06T22:34:04+00:00",
+      "last_seen": "2026-10-06T22:34:04+00:00",
+      "location": "Germantown, MD",
+      "posted_at": "1791244800",
+      "source": "simplify",
+      "title": "Hypersonic RF Software Engineer Intern",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993"
     },
     "simplify:aerovironment::simplify-dc39e31e-20cd-43e1-86d2-386274f207de": {
       "company": "AeroVironment",
@@ -34096,6 +34106,7 @@
     "simplify:philips::simplify-476ebb5a-f574-486f-be24-b89fb51a1040": {
       "company": "Philips",
       "first_seen": "2026-09-01T20:11:23+00:00",
+      "last_seen": "2026-10-06T22:34:03+00:00",
       "posted_at": "1788220800",
       "title": "Software Engineer Co-op - R&D",
       "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891"
@@ -49042,6 +49053,16 @@
       "title": "2026 Summer Intern, PhD, Software Engineer, Predictive Planner ML/DL",
       "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-phd-software-engineer-predictive-planner-ml-dl-mountain-view-california-united-states?gh_jid=7368864"
     },
+    "simplify:waymo::simplify-be13a332-98f2-42f4-92da-142e19045eb5": {
+      "company": "Waymo",
+      "first_seen": "2026-10-06T22:34:04+00:00",
+      "last_seen": "2026-10-06T22:34:04+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1791324476",
+      "source": "simplify",
+      "title": "ML Ops & Automation Intern",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8257237"
+    },
     "simplify:waymo::simplify-fcbf49fa-4711-4d24-9ea9-cde58dba4d3e": {
       "company": "Waymo",
       "first_seen": "2026-10-02T01:35:54+00:00",
@@ -54546,5 +54567,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T22:13:45+00:00"
+  "updated_at": "2026-10-06T22:34:48+00:00"
 }
