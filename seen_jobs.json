@@ -1,5 +1,5 @@
 {
-  "count": 6736,
+  "count": 6740,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -4068,6 +4068,16 @@
       "title": "Software Engineer Intern",
       "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineering-Intern_8797"
     },
+    "simplify:aerovironment::simplify-60306e7f-505d-46e5-9416-d35214b79936": {
+      "company": "AeroVironment",
+      "first_seen": "2026-10-06T22:37:07+00:00",
+      "last_seen": "2026-10-06T22:37:07+00:00",
+      "location": "Moorpark, CA",
+      "posted_at": "1791244800",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Associate-Software-Engineer_9016"
+    },
     "simplify:aerovironment::simplify-6e0e23c9-300a-4131-a50c-35417c91599a": {
       "company": "AeroVironment",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -7373,6 +7383,16 @@
       "posted_at": "1784846279",
       "title": "Software Engineer Intern - Enterprise Systems",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006"
+    },
+    "simplify:astrazeneca::simplify-32940edd-0167-475c-9413-f85db6514344": {
+      "company": "AstraZeneca",
+      "first_seen": "2026-10-06T22:37:07+00:00",
+      "last_seen": "2026-10-06T22:37:07+00:00",
+      "location": "Cambridge, MA, Gaithersburg, MD",
+      "posted_at": "1790726400",
+      "source": "simplify",
+      "title": "Agentic AI Senior Engineer",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Cambridge-Kendall-SQ---MA/Agentic-AI-Sr-Engineer_R-260943-1"
     },
     "simplify:astrazeneca::simplify-d778c6d4-6ce5-40c6-8cb7-41d5b2f39824": {
       "company": "AstraZeneca",
@@ -19335,7 +19355,7 @@
     "simplify:ge vernova::simplify-e10b2cda-4d20-4210-83d8-f845503f8fb6": {
       "company": "GE Vernova",
       "first_seen": "2026-09-30T12:08:11+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-06T22:37:07+00:00",
       "location": "Rugby, UK",
       "posted_at": "1782955928",
       "source": "simplify",
@@ -29057,7 +29077,7 @@
     "simplify:microsoft::simplify-b4e7a187-9537-4e72-8b27-c8d54faf0118": {
       "company": "Microsoft",
       "first_seen": "2026-10-04T12:02:50+00:00",
-      "last_seen": "2026-10-05T00:00:44+00:00",
+      "last_seen": "2026-10-06T22:37:07+00:00",
       "location": "Redmond, WA",
       "posted_at": "1789425238",
       "source": "simplify",
@@ -40052,6 +40072,16 @@
       "title": "Software Engineer 1",
       "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584"
     },
+    "simplify:sierra nevada corporation::simplify-6d98507e-f9d3-4151-8068-c847abca4557": {
+      "company": "Sierra Nevada Corporation",
+      "first_seen": "2026-10-06T22:37:07+00:00",
+      "last_seen": "2026-10-06T22:37:07+00:00",
+      "location": "Dayton, OH",
+      "posted_at": "1791244800",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Software-Engineer-I--For-2026-Interns-Only-_R0030889"
+    },
     "simplify:sierra nevada corporation::simplify-6f603008-25bf-41f8-abb1-bdd082bb931d": {
       "company": "Sierra Nevada Corporation",
       "first_seen": "2026-09-04T05:57:42+00:00",
@@ -44496,6 +44526,16 @@
       "posted_at": "1788477097",
       "title": "Software Intern - Software",
       "url": "https://jobs.ashbyhq.com/the-exploration-company/e23f19f1-b5fa-408a-822c-c6c37631a2fe/application?embed=true"
+    },
+    "simplify:the federal reserve system::simplify-834fe4c4-f68e-4dbc-bf7d-5c3c22356240": {
+      "company": "The Federal Reserve System",
+      "first_seen": "2026-10-06T22:37:07+00:00",
+      "last_seen": "2026-10-06T22:37:07+00:00",
+      "location": "Boston, MA, SF, Cleveland, OH, Dallas, TX, Philadelphia, PA, Richmond, VA, Chicago, IL, St. Louis, MO, Kansas City, MO, NYC, Minneapolis, MN, Atlanta, GA",
+      "posted_at": "1791244800",
+      "source": "simplify",
+      "title": "AI Solutions Engineer Associate",
+      "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/AI-Solutions-Engineer---Associate_R-0000033675-1"
     },
     "simplify:the federal reserve system::simplify-8ec2033a-ce88-4b22-8928-f0bcfa00049a": {
       "company": "The Federal Reserve System",
@@ -54567,5 +54607,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T22:34:48+00:00"
+  "updated_at": "2026-10-06T22:37:50+00:00"
 }
