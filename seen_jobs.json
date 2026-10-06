@@ -1,5 +1,5 @@
 {
-  "count": 6717,
+  "count": 6718,
   "delivery_attempts": {
     "astranis::4705599006": {
       "attempted_at": "2026-09-24T19:28:23+00:00",
@@ -14459,7 +14459,7 @@
     "simplify:ctg::simplify-2be6f759-96be-4dc7-a468-cf02a80bdef5": {
       "company": "CTG",
       "first_seen": "2026-09-09T01:11:58+00:00",
-      "last_seen": "2026-10-03T00:00:31+00:00",
+      "last_seen": "2026-10-06T14:36:01+00:00",
       "posted_at": "1788905963",
       "title": "Software Engineer 1",
       "url": "https://careers.ctg.com/jobs/17557?icims=1"
@@ -31798,7 +31798,7 @@
     "simplify:nutanix::simplify-eff98609-6d2a-4e7a-8b80-9c0f39ea9e99": {
       "company": "Nutanix",
       "first_seen": "2026-09-29T23:06:26+00:00",
-      "last_seen": "2026-10-05T10:04:26+00:00",
+      "last_seen": "2026-10-06T14:36:01+00:00",
       "location": "Vancouver, BC, Canada",
       "posted_at": "1790115639",
       "source": "simplify",
@@ -40700,6 +40700,16 @@
       "posted_at": "1787897780",
       "title": "Application Developer 1 - Asset Technology AMI",
       "url": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/21161"
+    },
+    "simplify:southern star central gas pipeline::simplify-52d14524-3436-4572-b566-794db4872e46": {
+      "company": "Southern Star Central Gas Pipeline",
+      "first_seen": "2026-10-06T14:36:01+00:00",
+      "last_seen": "2026-10-06T14:36:01+00:00",
+      "location": "Owensboro, KY",
+      "posted_at": "1791295785",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://careers-sscgp.icims.com/jobs/3060/job?mobile=true&needsRedirect=false"
     },
     "simplify:southern states, llc::simplify-61d8dbf2-2c1b-470c-bef4-1a13de37e583": {
       "company": "Southern States, LLC",
@@ -54367,5 +54377,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-06T14:33:34+00:00"
+  "updated_at": "2026-10-06T14:36:36+00:00"
 }
