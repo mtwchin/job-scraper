@@ -7,11 +7,12 @@ name: internship-radar
 # ever caught was ten minutes old.
 #
 # So a run no longer scrapes once and exits. It starts a watch loop that stays
-# alive for ~5.5h, polling the aggregator feeds every minute (conditional GETs
-# that cost a 304 when nothing changed) and sweeping every company's ATS every
-# three. When a loop finishes it dispatches the next run itself (see the last
-# step), so coverage is continuous rather than waiting on cron. The cron below is
-# only a backstop for a chain that broke, e.g. a runner that died outright.
+# alive for ~5.5h, polling the aggregator feeds every 20s (conditional requests
+# that cost a 304 when nothing changed) while sweeping priority boards every
+# minute and every company's ATS every two, in the background. When a loop
+# finishes it dispatches the next run itself (see the last step), so coverage is
+# continuous rather than waiting on cron. The cron below is only a backstop for a
+# chain that broke, e.g. a runner that died outright.
 
 on:
   schedule:
@@ -27,7 +28,7 @@ on:
       interval_seconds:
         description: "Seconds between aggregator polls"
         required: false
-        default: "60"
+        default: "20"
 
 # Never let two loops run at once — they'd both write seen_jobs.json. A newly
 # scheduled run waits here instead of being dropped, so it starts the moment the
@@ -71,11 +72,14 @@ jobs:
           ROLE_TYPES: "intern,new_grad"
           OFF_SEASON_ONLY: "false"   # include summer internships too
           US_CANADA_ONLY: "true"     # only roles in the US or Canada
-          WATCH_INTERVAL: ${{ github.event.inputs.interval_seconds || '60' }}
+          WATCH_INTERVAL: ${{ github.event.inputs.interval_seconds || '20' }}
           WATCH_DURATION: ${{ github.event.inputs.duration_seconds || '19800' }}
-          WATCH_COMPANY_INTERVAL: "180"
+          WATCH_COMPANY_INTERVAL: "120"
           WATCH_PRIORITY_INTERVAL: "60"
           STATE_FILE: ${{ github.workspace }}/seen_jobs.json
+          # Read-only use: look up each feed's newest commit so we fetch it the
+          # moment it lands instead of a CDN copy up to 5 minutes old.
+          GITHUB_TOKEN: ${{ github.token }}
           # Freshness is dedup-based (alert on first detection), not board-date
           # based — board posted-dates are unreliable. See settings.py.
         run: |

@@ -1,0 +1,24 @@
+HTTP/2 304 
+date: Tue, 06 Oct 2026 23:12:06 GMT
+cache-control: private, max-age=60, s-maxage=60
+vary: Accept, Authorization, Cookie, X-GitHub-OTP,Accept-Encoding, Accept, X-Requested-With
+last-modified: Tue, 06 Oct 2026 23:02:07 GMT
+etag: "cac1152402e2184a4a010db5d97bd182579eb929"
+x-github-api-version-selected: 2022-11-28
+access-control-expose-headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset, Warning
+access-control-allow-origin: *
+strict-transport-security: max-age=31536000; includeSubdomains; preload
+x-frame-options: deny
+x-content-type-options: nosniff
+x-xss-protection: 0
+referrer-policy: origin-when-cross-origin, strict-origin-when-cross-origin
+content-security-policy: default-src 'none'
+server: github.com
+x-ratelimit-limit: 5000
+x-ratelimit-reset: 1791331686
+x-ratelimit-resource: core
+x-ratelimit-remaining: 4983
+x-ratelimit-used: 17
+x-github-request-id: F927:2108F:B5CD90:24CE87E:6AC58046
+x-github-edge-region: iad
+

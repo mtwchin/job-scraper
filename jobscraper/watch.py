@@ -9,11 +9,13 @@ clock.
 
 So one invocation stays up for hours and sweeps on a timer:
 
-* Every WATCH_INTERVAL (default 60s) it polls the aggregator feeds. Those are
-  conditional GETs that answer 304 when nothing has changed, so an idle cycle
-  costs a couple of hundred milliseconds and no parsing at all.
-* Every WATCH_COMPANY_INTERVAL (default 180s) it also sweeps every company's own
-  ATS, which is hundreds of requests and can't be short-circuited.
+* Every WATCH_INTERVAL (default 20s) it polls the aggregator feeds. Those are
+  conditional requests that answer 304 when nothing has changed, so an idle
+  cycle costs a couple of hundred milliseconds and no parsing at all.
+* On a background thread, every WATCH_PRIORITY_INTERVAL (60s) it sweeps the
+  priority companies' boards and every WATCH_COMPANY_INTERVAL (default 120s)
+  every company's own ATS, which is hundreds of requests and can't be
+  short-circuited. A sweep in progress never delays a feed poll.
 
 State lives in memory for the life of the loop and is flushed to disk on a timer
 and immediately after anything is sent, so a killed runner loses at most one
@@ -21,6 +23,7 @@ flush interval — and never re-sends what it already delivered.
 """
 from __future__ import annotations
 
+import concurrent.futures as cf
 import signal
 import time
 from dataclasses import dataclass, field
@@ -71,13 +74,75 @@ class _Stopper:
         self.stop = True
 
 
-def _sleep_until(deadline: float, stopper: _Stopper) -> None:
-    """Sleep toward `deadline`, waking often enough to notice a stop signal."""
+def _sleep_until(deadline: float, stopper: _Stopper, on_wake=None) -> None:
+    """Sleep toward `deadline`, waking every second to notice a stop signal and
+    to run `on_wake` (which dispatches a finished board sweep without waiting
+    for the next feed poll)."""
     while not stopper.stop:
         remaining = deadline - time.monotonic()
         if remaining <= 0:
             return
         time.sleep(min(remaining, 1.0))
+        if on_wake is not None:
+            try:
+                on_wake()
+            except Exception:  # noqa: BLE001
+                logger.exception("watch: background sweep handling failed; continuing")
+
+
+class _Boards:
+    """Company-board sweeps, run on a background thread.
+
+    A full sweep takes 15-90s and used to sit in front of every feed poll, so a
+    role that had just landed in a feed waited behind it. Now the sweep runs
+    beside the feed poller, and its results are dispatched on the main thread
+    the moment it finishes. Dispatch stays single-threaded, so the store needs
+    no locking.
+    """
+
+    def __init__(self, store: SeenStore, stats: Stats, company_interval: int,
+                 priority_interval: int):
+        self.store, self.stats = store, stats
+        self.company_interval, self.priority_interval = company_interval, priority_interval
+        self.pool = cf.ThreadPoolExecutor(max_workers=1, thread_name_prefix="boards")
+        self.future: cf.Future | None = None
+        self.next_full = 0.0        # sweep everything right away
+        self.next_priority = 0.0
+
+    def tick(self) -> None:
+        """Dispatch a finished sweep, then start the next one if it is due."""
+        if self.future is not None:
+            if not self.future.done():
+                return
+            future, self.future = self.future, None
+            try:
+                c, general = future.result()
+                self.stats.sent += main.dispatch(self.store, c, general)
+                self.stats.errors += len(c.errors)
+            except Exception:  # noqa: BLE001 - one bad sweep must not end the loop
+                self.stats.errors += 1
+                logger.exception("watch: company sweep failed; continuing")
+
+        now = time.monotonic()
+        full = now >= self.next_full
+        if not full and now < self.next_priority:
+            return
+        if full:
+            self.stats.company_sweeps += 1
+            self.next_full = now + self.company_interval
+        else:
+            self.stats.priority_sweeps += 1
+        self.next_priority = now + self.priority_interval
+        self.future = self.pool.submit(main.collect_matches, include_companies=True,
+                                       only_priority=not full, include_aggregators=False)
+
+    def finish(self) -> None:
+        """Let an in-flight sweep land so what it found is not dropped."""
+        if self.future is not None:
+            cf.wait([self.future])
+            self.next_full = self.next_priority = float("inf")
+            self.tick()
+        self.pool.shutdown(wait=True)
 
 
 def watch() -> int:
@@ -85,49 +150,37 @@ def watch() -> int:
         logger.error("DISCORD_WEBHOOK_URL is not set (or use DRY_RUN=true to test).")
         return 2
 
-    interval = max(settings.WATCH_INTERVAL, 15)
-    company_interval = max(settings.WATCH_COMPANY_INTERVAL, interval)
+    interval = max(settings.WATCH_INTERVAL, 5)
+    company_interval = max(settings.WATCH_COMPANY_INTERVAL, 15)
     priority_interval = max(settings.WATCH_PRIORITY_INTERVAL, 15)
     duration = settings.WATCH_DURATION
     stopper = _Stopper()
     store = SeenStore(settings.STATE_FILE)
     stats = Stats()
+    boards = _Boards(store, stats, company_interval, priority_interval)
 
     logger.info(
         "watch: polling feeds every %ds, priority boards every %ds, full company sweep every %ds, for up to %s "
-        "(%d records already known)",
+        "(%d records already known; feed commit lookup %s)",
         interval, priority_interval, company_interval, _fmt_duration(duration), len(store),
+        "on" if settings.GITHUB_TOKEN else "off, no GITHUB_TOKEN",
     )
 
     end_at = time.monotonic() + duration
-    next_company_sweep = 0.0   # sweep companies on the very first cycle
-    next_priority_sweep = 0.0
     next_flush = time.monotonic() + settings.WATCH_FLUSH_INTERVAL
     next_heartbeat = time.monotonic() + _HEARTBEAT_INTERVAL
 
     while not stopper.stop and time.monotonic() < end_at:
         cycle_started = time.monotonic()
-        full_sweep = cycle_started >= next_company_sweep
-        priority_sweep = not full_sweep and cycle_started >= next_priority_sweep
-        include_companies = full_sweep or priority_sweep
         stats.cycles += 1
+        boards.tick()
 
         try:
-            c, general = main.collect_matches(include_companies=include_companies,
-                                              only_priority=priority_sweep)
-            if full_sweep:
-                stats.company_sweeps += 1
-                next_company_sweep = cycle_started + company_interval
-            elif priority_sweep:
-                stats.priority_sweeps += 1
-            if include_companies:
-                next_priority_sweep = cycle_started + priority_interval
-
+            c, general = main.collect_matches(include_companies=False)
             if not c.changed:
-                # Every feed answered 304 and we didn't sweep companies, so
-                # collect_matches returned nothing to consider. Skip dispatch
-                # entirely rather than re-deciding several thousand already-seen
-                # jobs once a minute.
+                # Every feed is unchanged, so there is provably nothing new.
+                # Skip dispatch rather than re-deciding several thousand
+                # already-seen jobs every poll.
                 stats.idle_cycles += 1
             else:
                 stats.sent += main.dispatch(store, c, general)
@@ -143,17 +196,19 @@ def watch() -> int:
 
         elapsed = time.monotonic() - cycle_started
         if elapsed > interval:
-            logger.debug("watch: cycle %d took %.1fs, longer than the %ds interval",
+            logger.debug("watch: feed poll %d took %.1fs, longer than the %ds interval",
                          stats.cycles, elapsed, interval)
         if now >= next_heartbeat:
-            logger.info("watch: %s in — %d cycles (%d idle), %d sent, %d records",
-                        _fmt_duration(int(stats.uptime())), stats.cycles,
-                        stats.idle_cycles, stats.sent, len(store))
+            logger.info("watch: %s in — %d feed polls (%d idle), %d full / %d priority sweeps, "
+                        "%d sent, %d records",
+                        _fmt_duration(int(stats.uptime())), stats.cycles, stats.idle_cycles,
+                        stats.company_sweeps, stats.priority_sweeps, stats.sent, len(store))
             next_heartbeat = now + _HEARTBEAT_INTERVAL
         # Never sleep past the deadline: overshooting by a whole interval would
         # push a long run past the job limit it was sized to fit inside.
-        _sleep_until(min(cycle_started + interval, end_at), stopper)
+        _sleep_until(min(cycle_started + interval, end_at), stopper, boards.tick)
 
+    boards.finish()
     # Prune before the final save so the committed state file stays bounded.
     if (dropped := store.prune(settings.PRUNE_DELISTED_DAYS)):
         logger.info("Pruned %d record(s) for postings delisted >%dd ago.",
@@ -162,8 +217,8 @@ def watch() -> int:
         store.save()
 
     logger.info(
-        "watch: done after %s — %d cycles (%d idle, %d full sweeps, %d priority sweeps), %d notification(s), "
-        "%d error(s), %d records",
+        "watch: done after %s — %d feed polls (%d idle, %d full sweeps, %d priority sweeps), "
+        "%d notification(s), %d error(s), %d records",
         _fmt_duration(int(stats.uptime())), stats.cycles, stats.idle_cycles,
         stats.company_sweeps, stats.priority_sweeps, stats.sent, stats.errors, len(store),
     )

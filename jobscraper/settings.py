@@ -81,13 +81,14 @@ PRUNE_DELISTED_DAYS = int(os.environ.get("PRUNE_DELISTED_DAYS", "0"))
 # (observed: one run every 2-6 hours against a */5 schedule), so a long-lived
 # loop is the only way to get detection latency down to minutes.
 #
-# Seconds between polls of the cheap aggregator feeds. These are single
-# conditional GETs that return 304 when nothing changed, so a short interval
-# costs almost nothing.
-WATCH_INTERVAL = int(os.environ.get("WATCH_INTERVAL", "60"))
+# Seconds between polls of the cheap aggregator feeds. With GITHUB_TOKEN set,
+# an idle poll is one 304 per feed that doesn't count against the API rate
+# limit, so a short interval costs almost nothing. Company sweeps run in the
+# background and never hold this up.
+WATCH_INTERVAL = int(os.environ.get("WATCH_INTERVAL", "20"))
 # Seconds between full sweeps of every company's own ATS. Much heavier (hundreds
 # of requests), so it runs on its own slower cadence.
-WATCH_COMPANY_INTERVAL = int(os.environ.get("WATCH_COMPANY_INTERVAL", "180"))
+WATCH_COMPANY_INTERVAL = int(os.environ.get("WATCH_COMPANY_INTERVAL", "120"))
 # Select major-company boards for an extra sweep between full scans. Heavy
 # boards such as JPMC remain in the five-minute full sweep.
 WATCH_PRIORITY_INTERVAL = int(os.environ.get("WATCH_PRIORITY_INTERVAL", "60"))
@@ -141,6 +142,11 @@ HEALTH_ALERT_THRESHOLD = float(os.environ.get("HEALTH_ALERT_THRESHOLD", "0.25"))
 # once), which the next sweep a minute later shrugs off; alerting on it just
 # trains you to ignore the alert. A real outage or broken adapter persists.
 HEALTH_ALERT_SWEEPS = max(int(os.environ.get("HEALTH_ALERT_SWEEPS", "2")), 1)
+
+# Lets the feed poller ask GitHub for each feed's newest commit and fetch it
+# directly, instead of a branch URL the CDN may serve up to 5 minutes stale.
+# Optional: without it we fall back to the branch URL. Actions provides one.
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 
 # --- Community aggregator feeds --------------------------------------------
 # Several community repos publish a machine-readable listings.json of open

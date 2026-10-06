@@ -44,6 +44,9 @@ ALIASES = {
 _cache: dict[str, tuple[str, str, list[dict]]] = {}
 _cache_lock = threading.Lock()
 
+# Branch head per feed: (owner, repo, branch) -> (etag, sha). See `_head_sha`.
+_heads: dict[tuple[str, str, str], tuple[str, str]] = {}
+
 
 def our_company_names() -> set[str]:
     return {normalize_company(c.name) for c in load_companies(settings.COMPANIES_FILE)}
@@ -57,8 +60,43 @@ def _matches_company(name: str, ours: set[str]) -> bool:
     return bool(alias and alias in ours)
 
 
-def _raw_url(owner: str, repo: str, branch: str) -> str:
-    return f"https://raw.githubusercontent.com/{owner}/{repo}/{branch}/.github/scripts/listings.json"
+def _raw_url(owner: str, repo: str, ref: str) -> str:
+    return f"https://raw.githubusercontent.com/{owner}/{repo}/{ref}/.github/scripts/listings.json"
+
+
+def _head_sha(owner: str, repo: str, branch: str) -> str:
+    """The feed branch's current commit, or "" to fall back to the branch URL.
+
+    raw.githubusercontent.com serves a branch URL with `max-age=300`, so polling
+    it every minute still saw each Simplify push up to five minutes late. A
+    commit-pinned URL is a fresh cache key, so it is current the moment the push
+    lands. Finding the commit costs one API call, and with a token an unchanged
+    answer is a 304 that GitHub does not count against the rate limit, which is
+    what lets this run every few seconds. Without a token (60 calls/hour) it is
+    not worth it, so we keep the branch URL.
+    """
+    if not settings.GITHUB_TOKEN:
+        return ""
+    key = (owner, repo, branch)
+    etag, sha = _heads.get(key, ("", ""))
+    headers = {"Accept": "application/vnd.github.sha",
+               "Authorization": f"Bearer {settings.GITHUB_TOKEN}"}
+    if etag:
+        headers["If-None-Match"] = etag
+    try:
+        resp = http.get(f"https://api.github.com/repos/{owner}/{repo}/commits/{branch}",
+                        headers=headers, retries=0, timeout=10)
+    except Exception as exc:  # noqa: BLE001 - the branch URL still works
+        logger.debug("head lookup for %s/%s failed: %s", owner, repo, exc)
+        return sha
+    if resp.status_code == 304:
+        return sha
+    if resp.status_code != 200 or not resp.text.strip():
+        logger.debug("head lookup for %s/%s: HTTP %s", owner, repo, resp.status_code)
+        return sha
+    sha = resp.text.strip()
+    _heads[key] = (resp.headers.get("ETag", ""), sha)
+    return sha
 
 
 def _to_job(x: dict, source: str) -> Job:
@@ -150,9 +188,21 @@ def fetch_pair() -> tuple[list[Job], list[Job], bool]:
             continue
         attempted += 1
         source = "simplify" if owner == "SimplifyJobs" else owner.lower()
-        url = _raw_url(owner, repo, branch)
         try:
-            listings, changed = _fetch_listings(url)
+            sha = _head_sha(owner, repo, branch)
+            if sha:
+                # A pinned URL never changes content, so a cached copy is
+                # current by definition; skip the request altogether.
+                url = _raw_url(owner, repo, sha)
+                with _cache_lock:
+                    hit = _cache.get(url)
+                    if hit:
+                        # Only the newest pin is worth keeping; each is ~10 MB.
+                        for stale in [u for u in _cache if u != url and f"/{owner}/{repo}/" in u]:
+                            del _cache[stale]
+                listings, changed = (hit[2], False) if hit else _fetch_listings(url)
+            else:
+                listings, changed = _fetch_listings(_raw_url(owner, repo, branch))
         except Exception as exc:  # noqa: BLE001 - one bad feed must not sink the rest
             errors.append(f"{owner}/{repo}: {type(exc).__name__}: {exc}")
             logger.debug("aggregator %s/%s failed: %s", owner, repo, exc)

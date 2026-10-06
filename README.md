@@ -100,7 +100,7 @@ Repo → **Settings → Secrets and variables → Actions → New repository sec
 
 ### 5. Done
 The workflow in `.github/workflows/scraper.yml` starts a watch loop that polls
-every 60 seconds and runs for ~5.5h before handing off to the next run. Trigger
+every 20 seconds and runs for ~5.5h before handing off to the next run. Trigger
 the first one manually from the **Actions** tab → *internship-radar* → **Run
 workflow** to confirm everything works. The first run sends one "I'm live" message and seeds
 state; after that you only get pinged on new postings.
@@ -351,12 +351,17 @@ fixes a process that is not being started.
 So a run no longer scrapes once and exits. `jobscraper watch` **stays alive and
 polls on its own clock**:
 
-- **Aggregator feeds every 60s.** These are conditional GETs (`If-None-Match`).
-  When nothing has changed the feed answers `304` with no body, so an idle poll
-  costs ~0.2s and is essentially free. That is what makes a one-minute cadence
-  affordable.
-- **Priority company boards every minute; every company’s own ATS every 3 minutes.** Hundreds of requests with no
-  conditional-request support, so it gets its own slower tier.
+- **Aggregator feeds every 20s.** Each poll asks the GitHub API for the feed
+  branch's newest commit (`If-None-Match`; an unchanged answer is a `304` that
+  doesn't count against the rate limit) and downloads the feed pinned to that
+  commit only when it moved. Fetching by commit matters: the plain branch URL is
+  CDN-cached for 5 minutes, so the old one-minute poll still saw each update up
+  to 5 minutes late. Needs `GITHUB_TOKEN` (Actions provides it); without one it
+  falls back to the branch URL.
+- **Priority company boards every minute; every company’s own ATS every 2
+  minutes**, on a background thread. Hundreds of requests with no
+  conditional-request support, and a full sweep takes 15–90s; it used to sit in
+  front of every feed poll, and now never delays one.
 - The loop runs ~5.5h, then exits cleanly and **dispatches its own successor**
   (`workflow_dispatch`, one of the few events `GITHUB_TOKEN` may trigger). The
   `concurrency` group queues that run behind anything still running, so it
@@ -364,8 +369,15 @@ polls on its own clock**:
   self-chaining, a loop that ended while no cron run happened to be queued left
   gaps of up to 2.5h.
 
-Detection latency is now bounded by the poll interval (~60s for anything an
-aggregator carries, ~1 min for a priority board, ~5 min for another company board), not by the scheduler.
+Detection latency is now bounded by the poll interval (~20s after an aggregator
+publishes, ~1 min for a priority board, ~2-3 min for another company board), not
+by the scheduler.
+
+**Aggregators publish in batches.** Simplify pushes its feed every 30 minutes
+(at :01 and :31), so a role that only reaches us through Simplify can be up to
+30 minutes old before anyone outside Simplify can see it. A company tracked in
+`companies.md` is read straight from its own board instead, which is why adding
+the companies you care most about is the biggest latency win available.
 
 ### Why state is committed during the loop, not just at the end
 

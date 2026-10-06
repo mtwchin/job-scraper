@@ -12,10 +12,11 @@ from jobscraper.sources import aggregators
 
 
 class FakeResponse:
-    def __init__(self, status_code=200, payload=None, headers=None):
+    def __init__(self, status_code=200, payload=None, headers=None, text=""):
         self.status_code = status_code
         self._payload = payload if payload is not None else []
         self.headers = headers or {}
+        self.text = text
 
     def json(self):
         return self._payload
@@ -34,10 +35,14 @@ def listing(**kw):
 
 
 @pytest.fixture(autouse=True)
-def clear_cache():
+def clear_cache(monkeypatch):
+    # Branch-URL path by default; the commit-pinned tests opt in to a token.
+    monkeypatch.setattr(settings, "GITHUB_TOKEN", "")
     aggregators._cache.clear()
+    aggregators._heads.clear()
     yield
     aggregators._cache.clear()
+    aggregators._heads.clear()
 
 
 @pytest.fixture
@@ -182,3 +187,54 @@ def test_role_type_filter_skips_unwanted_feeds(monkeypatch):
     monkeypatch.setattr(aggregators.http, "get", should_not_be_called)
     curated, all_jobs, changed = aggregators.fetch_pair()
     assert (curated, all_jobs, changed) == ([], [], False)
+
+
+def _pinned_feed(monkeypatch, heads):
+    """Serve the commit lookup from `heads` (a list of SHAs, one per poll; None
+    means 304) and listings at any pinned URL. Returns the list of URLs hit."""
+    monkeypatch.setattr(settings, "GITHUB_TOKEN", "t0ken")
+    hits = []
+    polls = iter(heads)
+
+    def fake_get(url, **kw):
+        hits.append(url)
+        if url.startswith("https://api.github.com/"):
+            sha = next(polls)
+            if sha is None:
+                assert kw["headers"]["If-None-Match"]
+                return FakeResponse(304)
+            return FakeResponse(200, headers={"ETag": f'"{sha}"'}, text=sha)
+        return FakeResponse(200, [listing(category="Software")])
+
+    monkeypatch.setattr(aggregators.http, "get", fake_get)
+    return hits
+
+
+def test_feed_is_fetched_at_its_newest_commit(one_feed, monkeypatch):
+    """A branch URL can be served 5 minutes stale by the CDN; a commit URL can't."""
+    hits = _pinned_feed(monkeypatch, ["aaa", None, "bbb"])
+
+    _c, _a, changed = aggregators.fetch_pair()
+    assert changed and hits[-1].endswith("/SimplifyJobs/Repo/aaa/.github/scripts/listings.json")
+
+    hits.clear()
+    _c, _a, changed = aggregators.fetch_pair()
+    assert not changed and len(hits) == 1      # just the 304, no download
+
+    curated, _a, changed = aggregators.fetch_pair()
+    assert changed and "/bbb/" in hits[-1] and len(curated) == 1
+
+
+def test_failed_commit_lookup_falls_back_to_the_branch_url(one_feed, monkeypatch):
+    monkeypatch.setattr(settings, "GITHUB_TOKEN", "t0ken")
+    hits = []
+
+    def fake_get(url, **kw):
+        hits.append(url)
+        if url.startswith("https://api.github.com/"):
+            return FakeResponse(403)
+        return FakeResponse(200, [listing(category="Software")])
+
+    monkeypatch.setattr(aggregators.http, "get", fake_get)
+    curated, _a, _changed = aggregators.fetch_pair()
+    assert len(curated) == 1 and "/dev/" in hits[-1]

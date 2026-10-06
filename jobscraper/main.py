@@ -82,7 +82,8 @@ def _passes_filters(job: Job) -> bool:
 
 
 def collect_matches(include_companies: bool = True,
-                    only_priority: bool = False) -> tuple[Collection, Collection]:
+                    only_priority: bool = False,
+                    include_aggregators: bool = True) -> tuple[Collection, Collection]:
     """Fetch enabled sources, then filter + dedup in one place.
 
     Returns (curated, general): curated is the companies.md-scoped feed; general
@@ -90,7 +91,9 @@ def collect_matches(include_companies: bool = True,
     SIMPLIFY_ALL_ENABLED and a place to send it are both configured).
 
     With include_companies=False only the cheap aggregator feeds are swept —
-    the fast tier of the watch loop.
+    the fast tier of the watch loop. With include_aggregators=False only company
+    boards are, so the watch loop can run a slow board sweep in the background
+    while it keeps polling the feeds.
     """
     result = Collection()
     general = Collection()
@@ -128,8 +131,8 @@ def collect_matches(include_companies: bool = True,
                 if hits:
                     logger.debug("%-18s %4d fetched -> %d match", company.name, len(jobs), hits)
 
-    agg_changed = _collect_aggregators(result, general, seen,
-                                       skip_if_unchanged=not include_companies)
+    agg_changed = include_aggregators and _collect_aggregators(
+        result, general, seen, skip_if_unchanged=not include_companies)
     # A sweep that touched company boards always counts as "changed" — those
     # have no conditional-request support, so we genuinely don't know.
     result.changed = include_companies or agg_changed
