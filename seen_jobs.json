@@ -1,5 +1,5 @@
 {
-  "count": 6811,
+  "count": 6813,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -25871,7 +25871,7 @@
     "simplify:kinaxis::simplify-d5e526d4-218c-453d-99d1-8fc6b59a6f06": {
       "company": "Kinaxis",
       "first_seen": "2026-09-04T23:26:59+00:00",
-      "last_seen": "2026-09-26T00:00:26+00:00",
+      "last_seen": "2026-10-07T22:36:04+00:00",
       "posted_at": "1788559652",
       "title": "Software Developer Co-op/Intern - Core Algorithms",
       "url": "https://careers-kinaxis.icims.com/jobs/35329/job?mobile=true&needsRedirect=false"
@@ -28674,6 +28674,16 @@
       "posted_at": "1788307200",
       "title": "Software Development Intern - Summer 2027",
       "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635"
+    },
+    "simplify:mckesson::simplify-80e937f9-b321-42fa-98f7-8b8e97d42209": {
+      "company": "McKesson",
+      "first_seen": "2026-10-07T22:36:04+00:00",
+      "last_seen": "2026-10-07T22:36:04+00:00",
+      "location": "Pittsburgh, PA, Columbus, OH, Irving, TX",
+      "posted_at": "1791331200",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382"
     },
     "simplify:mckesson::simplify-85e1ecd6-59bf-43b2-9cd7-81751b18a650": {
       "company": "McKesson",
@@ -39819,6 +39829,16 @@
       "posted_at": "1787602989",
       "title": "Software Engineer Intern - Full Stack",
       "url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004"
+    },
+    "simplify:sailpoint::simplify-db1e9518-ba7e-4cdc-8914-5ec391f9a78d": {
+      "company": "SailPoint",
+      "first_seen": "2026-10-07T22:36:04+00:00",
+      "last_seen": "2026-10-07T22:36:04+00:00",
+      "location": "Remote in UK",
+      "posted_at": "1791331200",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Platform Engines",
+      "url": "https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164"
     },
     "simplify:sajix::simplify-ddf53d2b-54a9-409e-a0c4-16b535b95685": {
       "company": "Sajix",
@@ -55341,5 +55361,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-07T22:34:38+00:00"
+  "updated_at": "2026-10-07T22:36:40+00:00"
 }
