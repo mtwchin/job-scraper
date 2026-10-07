@@ -1,5 +1,5 @@
 {
-  "count": 6797,
+  "count": 6798,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -32784,6 +32784,16 @@
       "title": "Technology Solutions Analyst",
       "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Addison-Texas-United-States-of-America/Credera-Technology-Solutions-Analyst_R13713"
     },
+    "simplify:omnicom group::simplify-6708f1a7-80a4-417b-8ac6-2ac316b42287": {
+      "company": "Omnicom Group",
+      "first_seen": "2026-10-07T12:08:00+00:00",
+      "last_seen": "2026-10-07T12:08:00+00:00",
+      "location": "Addison, TX",
+      "posted_at": "1788220800",
+      "source": "simplify",
+      "title": "Technology Solutions Intern",
+      "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Addison-Texas-United-States-of-America/Credera-Technology-Solutions-Intern-Consultant_R13282"
+    },
     "simplify:omnicom group::simplify-75e8f127-6508-489a-85af-6d0bb6299903": {
       "company": "Omnicom Group",
       "first_seen": "2026-09-03T03:36:23+00:00",
@@ -55198,5 +55208,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-07T11:58:44+00:00"
+  "updated_at": "2026-10-07T12:08:46+00:00"
 }
