@@ -1,5 +1,5 @@
 {
-  "count": 6802,
+  "count": 6806,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -11244,6 +11244,16 @@
       "source": "simplify",
       "title": "Software Development Intern",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085"
+    },
+    "simplify:caci::simplify-96c65a15-841f-4ff3-85f5-ac9291e3bb35": {
+      "company": "CACI",
+      "first_seen": "2026-10-07T15:35:23+00:00",
+      "last_seen": "2026-10-07T15:35:23+00:00",
+      "location": "Chantilly, VA, Reston, VA",
+      "posted_at": "1791331200",
+      "source": "simplify",
+      "title": "Web Application Developer \u2013 Early Career",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Chantilly-VA-US/Web-Application-Developer---Early-Career_333158"
     },
     "simplify:caci::simplify-9b831cbe-5890-4ad9-a523-4a866da71a42": {
       "company": "CACI",
@@ -26867,6 +26877,16 @@
       "title": "Software Development Engineer",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Engineer_R-00186934-1"
     },
+    "simplify:leidos::simplify-4dbd811e-0477-41e7-b085-cba2d9e1cb62": {
+      "company": "Leidos",
+      "first_seen": "2026-10-07T15:06:19+00:00",
+      "last_seen": "2026-10-07T15:06:19+00:00",
+      "location": "Odenton, MD",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "Junior Systems Engineer",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Junior-Systems-Engineer_R-00193784"
+    },
     "simplify:leidos::simplify-4f269b50-3cb1-4960-9d2f-c2b2a5f0a932": {
       "company": "Leidos",
       "first_seen": "2026-07-27T11:44:05+00:00",
@@ -27005,6 +27025,16 @@
       "posted_at": "1776071854",
       "title": "Junior Software Engineer",
       "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Columbia-MD/Junior-Software-Engineer_R-00180476"
+    },
+    "simplify:leidos::simplify-9facd644-c8bc-46cb-bd5a-ddf808865147": {
+      "company": "Leidos",
+      "first_seen": "2026-10-07T15:35:23+00:00",
+      "last_seen": "2026-10-07T15:35:23+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "Business Systems AI Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770"
     },
     "simplify:leidos::simplify-a015ef37-b241-4971-89e0-e4b6561afbbb": {
       "company": "Leidos",
@@ -41148,6 +41178,16 @@
       "title": "Software Engineer - Backend - Level 3",
       "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/Software-Engineer--Backend--Level-3_H226SWE1-2"
     },
+    "simplify:snorkel ai::simplify-ca427b99-8e92-4e4b-bde3-282eb027cad0": {
+      "company": "Snorkel AI",
+      "first_seen": "2026-10-07T15:06:19+00:00",
+      "last_seen": "2026-10-07T15:06:19+00:00",
+      "location": "SF",
+      "posted_at": "1791384452",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6219198004"
+    },
     "simplify:snowflake::simplify-79cff93c-d811-4bef-a7ef-af475aef4d67": {
       "company": "Snowflake",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -45369,6 +45409,7 @@
     "simplify:the walt disney company::simplify-12634088-9777-452c-9095-9f2de268d1e0": {
       "company": "The Walt Disney Company",
       "first_seen": "2026-08-19T21:11:49+00:00",
+      "last_seen": "2026-10-07T15:35:22+00:00",
       "posted_at": "1782914899",
       "title": "Product Software Engineer 1",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2"
@@ -55248,5 +55289,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-07T15:06:01+00:00"
+  "updated_at": "2026-10-07T15:36:20+00:00"
 }
