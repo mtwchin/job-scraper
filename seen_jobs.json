@@ -1,5 +1,5 @@
 {
-  "count": 6798,
+  "count": 6800,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -17778,6 +17778,16 @@
       "title": "Application Engineer",
       "url": "https://jobs.smartrecruiters.com/Eurofins/744000152416389"
     },
+    "simplify:eurofins::simplify-541b7177-0a14-41ed-9ffb-9cc0f5cf924a": {
+      "company": "Eurofins",
+      "first_seen": "2026-10-07T14:33:16+00:00",
+      "last_seen": "2026-10-07T14:33:16+00:00",
+      "location": "Lancaster, PA",
+      "posted_at": "1791382171",
+      "source": "simplify",
+      "title": "Laboratory Software Specialist",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000154107909"
+    },
     "simplify:evenup::simplify-37510038-1f6f-4be0-bfe7-50811c1ee137": {
       "company": "EvenUp",
       "first_seen": "2026-08-27T03:35:02+00:00",
@@ -19180,6 +19190,16 @@
       "posted_at": "1788905292",
       "title": "Software Engineer 1 - Android",
       "url": "https://careers.garmin.com/jobs/16587?icims=1"
+    },
+    "simplify:garmin::simplify-8748f3a4-ffe7-42fd-a8bb-f46a6a75127b": {
+      "company": "Garmin",
+      "first_seen": "2026-10-07T14:33:16+00:00",
+      "last_seen": "2026-10-07T14:33:16+00:00",
+      "location": "Olathe, KS",
+      "posted_at": "1791382120",
+      "source": "simplify",
+      "title": "Software Engineer 1 - Web Applications",
+      "url": "https://careers.garmin.com/jobs/20219?icims=1"
     },
     "simplify:garmin::simplify-9d7fba42-9b7a-428c-8e74-6c7727783d75": {
       "company": "Garmin",
@@ -24152,7 +24172,7 @@
     "simplify:iridium communications::simplify-7e94c6d9-c88c-4d70-8bd0-51a2cc801485": {
       "company": "Iridium Communications",
       "first_seen": "2026-09-29T23:04:17+00:00",
-      "last_seen": "2026-10-03T00:00:31+00:00",
+      "last_seen": "2026-10-07T14:33:16+00:00",
       "location": "Tempe, AZ, McLean, VA",
       "posted_at": "1790720381",
       "source": "simplify",
@@ -32368,7 +32388,7 @@
     "simplify:nutanix::simplify-eff98609-6d2a-4e7a-8b80-9c0f39ea9e99": {
       "company": "Nutanix",
       "first_seen": "2026-09-29T23:06:26+00:00",
-      "last_seen": "2026-10-06T14:36:01+00:00",
+      "last_seen": "2026-10-07T14:33:16+00:00",
       "location": "Vancouver, BC, Canada",
       "posted_at": "1790115639",
       "source": "simplify",
@@ -55208,5 +55228,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-07T14:04:52+00:00"
+  "updated_at": "2026-10-07T14:33:54+00:00"
 }
