@@ -1,5 +1,5 @@
 {
-  "count": 6806,
+  "count": 6807,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -13488,6 +13488,7 @@
     "simplify:clio::simplify-23548c7d-01ff-437f-ae9c-07e51f4c86b4": {
       "company": "Clio",
       "first_seen": "2026-07-14T19:49:46+00:00",
+      "last_seen": "2026-10-07T16:05:37+00:00",
       "posted_at": "1781639242",
       "title": "Software Developer Co-op",
       "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577"
@@ -31649,6 +31650,16 @@
       "posted_at": "1782957228",
       "title": "Survivability Engineer - Survivability",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Engineer-Principal-Engineer---Survivability--El-Segundo-CA-_R10237923"
+    },
+    "simplify:northrop grumman::simplify-78a00951-890f-474e-94ee-6e0cc1a2b9f7": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-07T16:05:38+00:00",
+      "last_seen": "2026-10-07T16:05:38+00:00",
+      "location": "Chantilly, VA",
+      "posted_at": "1791331200",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1"
     },
     "simplify:northrop grumman::simplify-78a1a51e-7c5a-49ae-909c-fe53612553e2": {
       "company": "Northrop Grumman",
@@ -55289,5 +55300,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-07T15:36:20+00:00"
+  "updated_at": "2026-10-07T16:06:22+00:00"
 }
