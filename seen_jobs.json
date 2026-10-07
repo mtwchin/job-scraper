@@ -1,5 +1,5 @@
 {
-  "count": 6800,
+  "count": 6802,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -9567,6 +9567,16 @@
       "posted_at": "1788220800",
       "title": "Systems Engineer Intern - University - 2027 Summer Games",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0248384"
+    },
+    "simplify:booz allen::simplify-74c29392-8eab-44f0-a1ae-0bb1d66ec96f": {
+      "company": "Booz Allen",
+      "first_seen": "2026-10-07T15:05:23+00:00",
+      "last_seen": "2026-10-07T15:05:23+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1791331200",
+      "source": "simplify",
+      "title": "Junior AI Software Developer Intern",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/San-Diego-CA/AI-Software-Developer--Junior_R0251196"
     },
     "simplify:booz allen::simplify-7637b476-395a-4c53-bc72-f6e375758876": {
       "company": "Booz Allen",
@@ -39623,6 +39633,16 @@
       "title": "Application Support Engineer 1",
       "url": "https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Coral-Gables-FL-33134/Application-Support-Engineer-I_R170446"
     },
+    "simplify:s&c electric company::simplify-258d5748-3766-4b86-b1f1-7672e1c66cef": {
+      "company": "S&C Electric Company",
+      "first_seen": "2026-10-07T15:05:23+00:00",
+      "last_seen": "2026-10-07T15:05:23+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1791382885",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374"
+    },
     "simplify:s&c electric company::simplify-d2a3ec8c-f8cf-4d52-ac45-66d27ffa39f4": {
       "company": "S&C Electric Company",
       "first_seen": "2026-09-29T23:04:17+00:00",
@@ -55228,5 +55248,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-07T14:33:54+00:00"
+  "updated_at": "2026-10-07T15:06:01+00:00"
 }
