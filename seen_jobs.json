@@ -1,5 +1,5 @@
 {
-  "count": 6780,
+  "count": 6788,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -11734,6 +11734,16 @@
       "title": "Integration Specialist Defense & Security Intern",
       "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-470---Spcialiste-d-intgration-Dfense-et-scurit_120963"
     },
+    "simplify:cae::simplify-a39bccf1-e48c-4ff3-a2da-21fb34a10641": {
+      "company": "CAE",
+      "first_seen": "2026-10-07T01:33:53+00:00",
+      "last_seen": "2026-10-07T01:33:53+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1791244800",
+      "source": "simplify",
+      "title": "Software Developer Co-op",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904"
+    },
     "simplify:cae::simplify-c416ad28-d7e6-4fca-98ee-f4a2119e49e5": {
       "company": "CAE",
       "first_seen": "2026-09-03T08:16:51+00:00",
@@ -15166,7 +15176,7 @@
     "simplify:dandy::simplify-7f191783-2ab3-4626-a830-2072091a9f5a": {
       "company": "Dandy",
       "first_seen": "2026-10-01T00:31:32+00:00",
-      "last_seen": "2026-10-03T00:00:31+00:00",
+      "last_seen": "2026-10-07T01:33:53+00:00",
       "location": "NYC",
       "posted_at": "1790807072",
       "source": "simplify",
@@ -16127,6 +16137,18 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Self-Service Directory Diagnostics",
       "url": "https://careers.docusign.com/jobs/30464?icims=1"
+    },
+    "simplify:docusign::simplify-f3b565a6-e92b-41cc-aee4-4099b4c83171": {
+      "company": "DocuSign",
+      "duplicate_of": "simplify:docusign::simplify-2216540f-0c95-48ab-9ac1-9a2581596dce",
+      "first_seen": "2026-10-07T01:33:53+00:00",
+      "last_seen": "2026-10-07T01:33:53+00:00",
+      "location": "Seattle, WA, SF",
+      "posted_at": "1791324897",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.docusign.com/jobs/30465?icims=1"
     },
     "simplify:dollar general::simplify-5bcf139f-8834-41cd-abbc-ef975ab1b55b": {
       "company": "Dollar General",
@@ -17461,6 +17483,16 @@
       "title": "Software Engineer Intern",
       "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188474"
     },
+    "simplify:equipmentshare::simplify-ca291eaf-69cd-4a1c-91c7-dcc20bc50b33": {
+      "company": "EquipmentShare",
+      "first_seen": "2026-10-07T01:33:53+00:00",
+      "last_seen": "2026-10-07T01:33:53+00:00",
+      "location": "Columbia, MO",
+      "posted_at": "1791336148",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8071715"
+    },
     "simplify:equitable bank::simplify-167090cb-a6cc-4740-9731-6e37db8ce44d": {
       "company": "Equitable Bank",
       "first_seen": "2026-09-14T20:06:23+00:00",
@@ -17960,6 +17992,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Digital",
       "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Engineer-II_RP1038826"
+    },
+    "simplify:f5::simplify-1fd32548-9b70-43de-815b-740a8ac20359": {
+      "company": "F5",
+      "first_seen": "2026-10-07T01:33:53+00:00",
+      "last_seen": "2026-10-07T01:33:53+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1791244800",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076"
     },
     "simplify:f5::simplify-52a065eb-b3bb-4cd6-bb7d-46072a3ffdac": {
       "company": "F5",
@@ -25478,6 +25520,16 @@
       "title": "Software Development Intern",
       "url": "https://jobs.keysight.com/jobs/54671?icims=1"
     },
+    "simplify:keysight technologies::simplify-6511499a-c146-43e7-82d8-17e2afce0bdc": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-10-07T01:33:53+00:00",
+      "last_seen": "2026-10-07T01:33:53+00:00",
+      "location": "Santa Rosa, CA",
+      "posted_at": "1791324878",
+      "source": "simplify",
+      "title": "Software Development Engineer Intern - 6G Digital Twin and Visualization Platform",
+      "url": "https://jobs.keysight.com/jobs/54319?icims=1"
+    },
     "simplify:keysight technologies::simplify-6e49662c-f403-4d54-acb4-df81b23afb54": {
       "company": "Keysight Technologies",
       "first_seen": "2026-08-18T22:42:18+00:00",
@@ -25532,6 +25584,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://jobs.keysight.com/jobs/54668?icims=1"
+    },
+    "simplify:keysight technologies::simplify-b8b19e5d-20b7-445f-8168-507858a3452c": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-10-07T01:33:53+00:00",
+      "last_seen": "2026-10-07T01:33:53+00:00",
+      "location": "Santa Rosa, CA",
+      "posted_at": "1791324877",
+      "source": "simplify",
+      "title": "Enterprise Software Development Intern - EDA Tools",
+      "url": "https://jobs.keysight.com/jobs/54578?icims=1"
     },
     "simplify:keysight technologies::simplify-c60812e4-06ad-4e91-8d3f-cb2441c88d0d": {
       "company": "Keysight Technologies",
@@ -29294,6 +29356,18 @@
       "source": "simplify",
       "title": "Software Engineer - Cleared",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556982911"
+    },
+    "simplify:microsoft::simplify-8b5d1879-5003-4cf0-aaf6-4a45fdf0a007": {
+      "company": "Microsoft",
+      "duplicate_of": "simplify:microsoft::simplify-b6708f55-ced2-419a-9010-bf33b8b94595",
+      "first_seen": "2026-10-07T01:33:53+00:00",
+      "last_seen": "2026-10-07T01:33:53+00:00",
+      "location": "Redmond, WA, Reston, VA",
+      "posted_at": "1791335266",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557022487"
     },
     "simplify:microsoft::simplify-8b82242b-ee49-413d-9ba5-a840c2dc3385": {
       "company": "Microsoft",
@@ -39182,7 +39256,7 @@
     "simplify:rtx::simplify-e794a35b-2127-44e9-87c4-e486c2c351b7": {
       "company": "RTX",
       "first_seen": "2026-09-10T09:44:17+00:00",
-      "last_seen": "2026-10-06T10:38:46+00:00",
+      "last_seen": "2026-10-07T01:33:53+00:00",
       "posted_at": "1788912000",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-I---Onsite-_01872447"
@@ -47396,7 +47470,7 @@
     "simplify:tyler technologies::simplify-d6c24595-0dd3-449f-b0ae-d13e256fc740": {
       "company": "Tyler Technologies",
       "first_seen": "2026-09-22T03:24:56+00:00",
-      "last_seen": "2026-10-06T01:36:07+00:00",
+      "last_seen": "2026-10-07T01:33:53+00:00",
       "location": "Yarmouth, ME, Orono, ME, Falmouth, ME",
       "posted_at": "1790029561",
       "source": "simplify",
@@ -49011,6 +49085,16 @@
       "posted_at": "1783987200",
       "title": "Backend Senior Software Engineer",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Backend-Senior-Software-Engineer_REF081845W"
+    },
+    "simplify:visa::simplify-4c2d5f64-e8be-4bd2-b925-eea984ca00ab": {
+      "company": "Visa",
+      "first_seen": "2026-10-07T01:33:53+00:00",
+      "last_seen": "2026-10-07T01:33:53+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1791335194",
+      "source": "simplify",
+      "title": "Software Engineer Operations and Infrastructure",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Operations-and-Infrastructure_REF082600W"
     },
     "simplify:visa::simplify-62b3fe3f-1948-4119-8099-ee4fbd994b6d": {
       "company": "Visa",
@@ -55021,5 +55105,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-07T00:49:09+00:00"
+  "updated_at": "2026-10-07T01:34:11+00:00"
 }
