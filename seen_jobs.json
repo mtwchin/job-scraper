@@ -1,5 +1,5 @@
 {
-  "count": 6790,
+  "count": 6794,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -6430,6 +6430,16 @@
       "posted_at": "1779401608",
       "title": "Associate Application Engineer",
       "url": "https://job-boards.greenhouse.io/appian/jobs/7951022"
+    },
+    "simplify:apple::simplify-03a16469-429d-4f34-a718-e27b73e3b992": {
+      "company": "Apple",
+      "first_seen": "2026-10-07T06:34:31+00:00",
+      "last_seen": "2026-10-07T06:34:31+00:00",
+      "location": "Cupertino, CA",
+      "posted_at": "1791353230",
+      "source": "simplify",
+      "title": "Software Engineer - Siri User Experiences",
+      "url": "https://jobs.apple.com/en-us/details/200687375"
     },
     "simplify:apple::simplify-0ad7f4c0-4ab8-4bed-8204-15a557a79c1e": {
       "company": "Apple",
@@ -14902,6 +14912,18 @@
       "title": "Associate Software Engineer",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Farmers-Branch/Associate-Software-Development-Engineer_R1006749"
     },
+    "simplify:cvs health::simplify-6119b258-0273-42b6-8955-f605cea47f9c": {
+      "company": "CVS Health",
+      "duplicate_of": "simplify:cvs health::simplify-bab3c73f-9824-4c77-9ad6-c7450b4e9ed8",
+      "first_seen": "2026-10-07T06:34:31+00:00",
+      "last_seen": "2026-10-07T06:34:31+00:00",
+      "location": "Alpharetta, GA",
+      "posted_at": "1791331200",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Associate Software Development Engineer - Conversion",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/GA---Alpharetta/Associate-Software-Development-Engineer--Conversion-_R1055768"
+    },
     "simplify:cvs health::simplify-9a4e692e-1dc0-4654-b6d1-ae51cbec8546": {
       "company": "CVS Health",
       "first_seen": "2026-09-25T23:20:50+00:00",
@@ -14911,6 +14933,16 @@
       "source": "simplify",
       "title": "Software Development Engineer",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Work-from-home/Software-Development-Engineer_R1038482"
+    },
+    "simplify:cvs health::simplify-bab3c73f-9824-4c77-9ad6-c7450b4e9ed8": {
+      "company": "CVS Health",
+      "first_seen": "2026-10-07T06:34:32+00:00",
+      "last_seen": "2026-10-07T06:34:32+00:00",
+      "location": "New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho; Alpharetta, GA",
+      "posted_at": "1791331200",
+      "source": "simplify",
+      "title": "Associate Software Development Engineer - Conversion",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/MD---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1055601"
     },
     "simplify:cwill::simplify-a793a502-be13-4c61-a978-d990f3122ad0": {
       "company": "CWILL",
@@ -20998,7 +21030,7 @@
     "simplify:goldman sachs::simplify-43a5374e-0e70-4dc9-82b0-687b54e8c5da": {
       "company": "Goldman Sachs",
       "first_seen": "2026-08-15T04:58:35+00:00",
-      "last_seen": "2026-09-29T00:00:29+00:00",
+      "last_seen": "2026-10-07T06:34:31+00:00",
       "posted_at": "1786767954",
       "title": "Engineering New Analyst - Engineering",
       "url": "https://higher.gs.com/roles/171570?type=students"
@@ -22086,6 +22118,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625"
+    },
+    "simplify:hewlett packard enterprise::simplify-4da6a748-d1fc-4dc3-b3f7-7aaf4533f1d7": {
+      "company": "Hewlett Packard Enterprise",
+      "first_seen": "2026-10-07T06:34:32+00:00",
+      "last_seen": "2026-10-07T06:34:32+00:00",
+      "location": "Houston, TX",
+      "posted_at": "1791244800",
+      "source": "simplify",
+      "title": "Systems/Software Engineer 1",
+      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Houston-Texas-United-States-of-America/Systems-Software-Engineer-I---Graduate_1213648"
     },
     "simplify:hewlett packard enterprise::simplify-5ca6ffaa-b127-49e1-b986-4aaa08139fb3": {
       "company": "Hewlett Packard Enterprise",
@@ -55125,5 +55167,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-07T03:19:17+00:00"
+  "updated_at": "2026-10-07T06:35:14+00:00"
 }
