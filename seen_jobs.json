@@ -1,5 +1,5 @@
 {
-  "count": 6795,
+  "count": 6797,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -6485,6 +6485,16 @@
       "posted_at": "1787869189",
       "title": "CAD Automation and Mixed-Signal Simulation Engineer",
       "url": "https://jobs.apple.com/en-us/details/200680375"
+    },
+    "simplify:apple::simplify-59e18143-8042-4a91-96f7-4d3bbed0be51": {
+      "company": "Apple",
+      "first_seen": "2026-10-07T10:08:00+00:00",
+      "last_seen": "2026-10-07T10:08:00+00:00",
+      "location": "Cupertino, CA, San Diego, CA",
+      "posted_at": "1782972393",
+      "source": "simplify",
+      "title": "Screening and Integration Engineer - Watch Software, Sensing and Connectivity",
+      "url": "https://jobs.apple.com/en-us/details/200670523"
     },
     "simplify:apple::simplify-610568cb-c1f5-479d-922a-33dd9b2bda3a": {
       "company": "Apple",
@@ -32517,6 +32527,16 @@
       "title": "Compiler Engineer - Agentic Compilation Systems",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Agentic-Compilation-Systems---New-College-Grad-2027_JR2026218"
     },
+    "simplify:nvidia::simplify-be3d4ee8-4dc8-4c20-bae9-49826174e869": {
+      "company": "NVIDIA",
+      "first_seen": "2026-10-07T10:08:00+00:00",
+      "last_seen": "2026-10-07T10:08:00+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1791244800",
+      "source": "simplify",
+      "title": "Systems Software Engineer - AI and Cloud",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud---New-College-Grad-2026_JR2025458"
+    },
     "simplify:nvidia::simplify-be628885-fde3-4b73-bb0a-58e11856e97b": {
       "company": "NVIDIA",
       "first_seen": "2026-08-19T10:13:53+00:00",
@@ -55177,5 +55197,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-07T09:32:36+00:00"
+  "updated_at": "2026-10-07T10:08:39+00:00"
 }
