@@ -1,5 +1,5 @@
 {
-  "count": 6794,
+  "count": 6795,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -34679,7 +34679,7 @@
     "simplify:planview::simplify-3e0882ef-3682-46f4-b5a5-bf8dadcf4a08": {
       "company": "Planview",
       "first_seen": "2026-09-10T17:18:10+00:00",
-      "last_seen": "2026-09-28T00:54:52+00:00",
+      "last_seen": "2026-10-07T09:31:57+00:00",
       "posted_at": "1789049891",
       "title": "Software Engineer Intern",
       "url": "https://careers.planview.com/jobs/5128?icims=1"
@@ -43621,6 +43621,16 @@
       "posted_at": "1784844302",
       "title": "Software Engineer Intern - Power Modeling & AI Tools",
       "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5186916007"
+    },
+    "simplify:tenstorrent::simplify-484795df-9f5d-4137-aada-8bc8059146a3": {
+      "company": "Tenstorrent",
+      "first_seen": "2026-10-07T09:31:57+00:00",
+      "last_seen": "2026-10-07T09:31:57+00:00",
+      "location": "Austin, TX, Santa Clara, CA",
+      "posted_at": "1791364641",
+      "source": "simplify",
+      "title": "AI Software Intern",
+      "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007"
     },
     "simplify:tenstorrent::simplify-e971a3e2-631b-4ad9-ab78-effc38c864ed": {
       "company": "Tenstorrent",
@@ -55167,5 +55177,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-07T06:35:14+00:00"
+  "updated_at": "2026-10-07T09:32:36+00:00"
 }
