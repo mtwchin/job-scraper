@@ -1,5 +1,5 @@
 {
-  "count": 6851,
+  "count": 6852,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -7065,7 +7065,7 @@
     "simplify:arch::simplify-d9ab191f-a642-4db2-9b5d-d6e566d0a2b8": {
       "company": "Arch",
       "first_seen": "2026-09-03T12:51:17+00:00",
-      "last_seen": "2026-10-05T00:00:44+00:00",
+      "last_seen": "2026-10-08T14:35:49+00:00",
       "posted_at": "1788407570",
       "title": "Software Engineer - Early Careers",
       "url": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d/application?embed=true"
@@ -7073,7 +7073,7 @@
     "simplify:arch::simplify-dd719782-2aa3-4a4b-831e-f3da699bf6a4": {
       "company": "Arch",
       "first_seen": "2026-09-03T12:51:17+00:00",
-      "last_seen": "2026-10-05T00:00:44+00:00",
+      "last_seen": "2026-10-08T14:35:49+00:00",
       "posted_at": "1788407570",
       "title": "Operations Engineer - Early Careers",
       "url": "https://jobs.ashbyhq.com/arch.co/3600530a-7f41-4583-8d92-443f6978c847/application?embed=true"
@@ -48322,6 +48322,16 @@
       "title": "Information Technology Intern - Multiple Teams",
       "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---IS-MARYLAND-MDROA/UPS-Technology-Group-Summer-2027-Internship---MD_R26029757"
     },
+    "simplify:universal health services::simplify-537aaa04-0077-4de4-9a8d-d828c5d80978": {
+      "company": "Universal Health Services",
+      "first_seen": "2026-10-08T14:35:50+00:00",
+      "last_seen": "2026-10-08T14:35:50+00:00",
+      "location": "King of Prussia, PA",
+      "posted_at": "1791469593",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.uhsinc.com/jobs/368933?icims=1"
+    },
     "simplify:universal health services::simplify-625cc8ab-2104-4b98-bc4a-9013b0f4ce95": {
       "company": "Universal Health Services",
       "first_seen": "2026-08-02T07:07:49+00:00",
@@ -55756,5 +55766,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-08T13:02:32+00:00"
+  "updated_at": "2026-10-08T14:36:35+00:00"
 }
