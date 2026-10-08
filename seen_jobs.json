@@ -1,5 +1,5 @@
 {
-  "count": 6843,
+  "count": 6847,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -6747,6 +6747,16 @@
       "title": "Lab Software Engineer",
       "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Epic-Lab-Software-Engineer--NCG---Master-s-PhD-_R2622219"
     },
+    "simplify:applied materials::simplify-0750f5ca-d84f-422e-a917-baccdf94d7b1": {
+      "company": "Applied Materials",
+      "first_seen": "2026-10-08T01:38:12+00:00",
+      "last_seen": "2026-10-08T01:38:12+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1791331200",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Development-Engineer--Bachelors---Santa-Clara--CA-_R2628997"
+    },
     "simplify:applied materials::simplify-12729453-987e-41d4-8d5e-86bc51fb6af7": {
       "company": "Applied Materials",
       "first_seen": "2026-09-04T05:57:42+00:00",
@@ -6785,6 +6795,16 @@
       "posted_at": "1788220800",
       "title": "Algorithm Developer 1 - New College Grad - Bachelor's",
       "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605"
+    },
+    "simplify:applied materials::simplify-cf43075d-b9ba-4cce-b884-1d0b1597dcd4": {
+      "company": "Applied Materials",
+      "first_seen": "2026-10-08T01:38:12+00:00",
+      "last_seen": "2026-10-08T01:38:12+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1791331200",
+      "source": "simplify",
+      "title": "Software Engineer 1 New Grad",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/New-College-Grad-Software-Engineer-I--Bachelors---Santa-Clara--CA-_R2628998"
     },
     "simplify:applied materials::simplify-d0aa5e4a-9602-46ff-a906-bcd51900a9a5": {
       "company": "Applied Materials",
@@ -12637,6 +12657,16 @@
       "title": "Software Engineer 1",
       "url": "https://jobs.ashbyhq.com/chainlink-labs/8485e325-111f-4370-b3c6-0ed95872144f/application?embed=true"
     },
+    "simplify:chalk::simplify-30d31584-e527-4263-b462-ed87f955068d": {
+      "company": "Chalk",
+      "first_seen": "2026-10-08T01:38:12+00:00",
+      "last_seen": "2026-10-08T01:38:12+00:00",
+      "location": "SF, NYC",
+      "posted_at": "1791422426",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f/application?embed=true"
+    },
     "simplify:chamberlain group::simplify-36c8b8fd-365d-4bac-aacd-9ad6d868c515": {
       "company": "Chamberlain Group",
       "first_seen": "2026-08-12T22:38:25+00:00",
@@ -16090,6 +16120,7 @@
     "simplify:dexcom::simplify-a9facee3-51ba-46e7-8ce7-3f9b3d0c85d6": {
       "company": "Dexcom",
       "first_seen": "2026-08-13T23:09:16+00:00",
+      "last_seen": "2026-10-08T01:38:12+00:00",
       "posted_at": "1786579200",
       "title": "Software Development Engineer 1",
       "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540"
@@ -21938,6 +21969,16 @@
       "source": "simplify",
       "title": "Product Operations Engineer Intern",
       "url": "https://jobs.ashbyhq.com/happyrobot.ai/875c5335-97a5-4408-a9ae-9fdefdd3b768/application?embed=true"
+    },
+    "simplify:harbor foods::simplify-54109d7b-e383-4172-8aba-eda5ce54188b": {
+      "company": "Harbor Foods",
+      "first_seen": "2026-10-08T01:38:12+00:00",
+      "last_seen": "2026-10-08T01:38:12+00:00",
+      "location": "Lacey, WA",
+      "posted_at": "1791421544",
+      "source": "simplify",
+      "title": "WMS Software Developer 1",
+      "url": "https://wholesale-harborfoods.icims.com/jobs/7921/job?mobile=true&needsRedirect=false"
     },
     "simplify:hardin design::simplify-22a10269-db51-459d-b8ce-872e7a7ac070": {
       "company": "Hardin Design",
@@ -32685,7 +32726,7 @@
     "simplify:nutanix::simplify-eff98609-6d2a-4e7a-8b80-9c0f39ea9e99": {
       "company": "Nutanix",
       "first_seen": "2026-09-29T23:06:26+00:00",
-      "last_seen": "2026-10-07T14:33:16+00:00",
+      "last_seen": "2026-10-08T01:38:12+00:00",
       "location": "Vancouver, BC, Canada",
       "posted_at": "1790115639",
       "source": "simplify",
@@ -55666,5 +55707,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-08T01:32:58+00:00"
+  "updated_at": "2026-10-08T01:39:00+00:00"
 }
