@@ -1,5 +1,5 @@
 {
-  "count": 6865,
+  "count": 6883,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -3496,6 +3496,16 @@
       "posted_at": "1771398456",
       "title": "Free training on SP - Sap Abap - MM','SD','Java','Dot Net','Oracel','Business Anolyisit",
       "url": "https://jobs.smartrecruiters.com/3SBusinessCorporationInc1/81011575"
+    },
+    "simplify:7-eleven::simplify-f47413a2-57f3-47b6-bf52-f5fe59da4e45": {
+      "company": "7-Eleven",
+      "first_seen": "2026-10-08T23:07:02+00:00",
+      "last_seen": "2026-10-08T23:07:02+00:00",
+      "location": "Irving, TX",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "AI Engineer Intern",
+      "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/AI-Engineer-Intern_R26_5974-1"
     },
     "simplify:8vc::simplify-eaa89b1b-fe2e-45f4-8cd7-3d409b8bf22a": {
       "company": "8VC",
@@ -16496,6 +16506,16 @@
       "title": "Software Engineer Intern - Self-Service Directory Diagnostics",
       "url": "https://careers.docusign.com/jobs/30464?icims=1"
     },
+    "simplify:docusign::simplify-5816604a-fdad-469c-b01d-7ee4621ca78e": {
+      "company": "DocuSign",
+      "first_seen": "2026-10-08T23:07:02+00:00",
+      "last_seen": "2026-10-08T23:07:02+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1791498000",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Observability - Platform",
+      "url": "https://careers.docusign.com/jobs/30510?icims=1"
+    },
     "simplify:docusign::simplify-f3b565a6-e92b-41cc-aee4-4099b4c83171": {
       "company": "DocuSign",
       "duplicate_of": "simplify:docusign::simplify-2216540f-0c95-48ab-9ac1-9a2581596dce",
@@ -17880,6 +17900,16 @@
       "source": "simplify",
       "title": "Commercial Lending AI Engineer Intern - Winter 2027",
       "url": "https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/apply"
+    },
+    "simplify:equitable bank::simplify-bb8f20e6-5a47-4e46-96b8-2a5c1e09d831": {
+      "company": "Equitable Bank",
+      "first_seen": "2026-10-08T23:07:02+00:00",
+      "last_seen": "2026-10-08T23:07:02+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1791498371",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.lever.co/eqbank/c924506b-22ad-4906-aea5-61d9b79163f3/apply"
     },
     "simplify:equitable bank::simplify-fdbbada2-df05-4944-b424-c36fcf81ead1": {
       "company": "Equitable Bank",
@@ -20339,6 +20369,16 @@
       "title": "Engineer Intern",
       "url": "https://careers-gdms.icims.com/jobs/74859/job?mobile=true&needsRedirect=false"
     },
+    "simplify:general dynamics mission systems::simplify-273f4531-60f3-4aae-aca4-22de666d644e": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-10-08T23:07:03+00:00",
+      "last_seen": "2026-10-08T23:07:03+00:00",
+      "location": "Fort Wayne, IN",
+      "posted_at": "1791498120",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/75159/job?mobile=true&needsRedirect=false"
+    },
     "simplify:general dynamics mission systems::simplify-2ab3ea47-41c1-46b3-8932-fedbbb55e1cd": {
       "company": "General Dynamics Mission Systems",
       "first_seen": "2026-08-16T22:49:08+00:00",
@@ -20545,6 +20585,16 @@
       "posted_at": "1788906152",
       "title": "Systems Engineer Intern",
       "url": "https://careers-gdms.icims.com/jobs/74776/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:general dynamics mission systems::simplify-e149e65e-265d-4273-bc2c-9fe3740f6c41": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-10-08T23:07:02+00:00",
+      "last_seen": "2026-10-08T23:07:02+00:00",
+      "location": "Middletown, RI",
+      "posted_at": "1791498147",
+      "source": "simplify",
+      "title": "Software/Systems Engineering Intern",
+      "url": "https://careers-gdms.icims.com/jobs/75463/job?mobile=true&needsRedirect=false"
     },
     "simplify:general dynamics mission systems::simplify-e808ba48-68a5-402a-b394-ca05a260cfe8": {
       "company": "General Dynamics Mission Systems",
@@ -20769,6 +20819,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Digital Product: Software Engineering",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Software-Engineering_JR-202620546"
+    },
+    "simplify:general motors::simplify-9336555d-472f-4804-b5f7-a1e52e004ac6": {
+      "company": "General Motors",
+      "first_seen": "2026-10-08T23:07:03+00:00",
+      "last_seen": "2026-10-08T23:07:03+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "Autonomous Driving Software Engineer Intern",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Autonomous-Driving-Software-Engineer--Bachelor-s---Master-s-_JR-202622064"
     },
     "simplify:general motors::simplify-93b4a798-697c-42d2-a104-cda1bb152b83": {
       "company": "General Motors",
@@ -22698,6 +22758,16 @@
       "posted_at": "1783548624",
       "title": "Early Product Engineer",
       "url": "https://jobs.ashbyhq.com/hirehangar/a2cf4f0c-c870-4fe5-ae4e-dc2105bf4bf4/application"
+    },
+    "simplify:hitachi energy::simplify-58107a18-fd4e-4aca-b354-67281bfdb0c4": {
+      "company": "Hitachi Energy",
+      "first_seen": "2026-10-08T23:07:03+00:00",
+      "last_seen": "2026-10-08T23:07:03+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "Software Analyst Intern",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Winter-2027--8-12months-_R0145679"
     },
     "simplify:hitachi energy::simplify-7717c612-0855-40d4-8f2d-ceb5c5bc2d57": {
       "company": "Hitachi Energy",
@@ -24998,7 +25068,7 @@
     "simplify:john deere::simplify-27ef919b-f4a9-4f27-b484-e742c76fc774": {
       "company": "John Deere",
       "first_seen": "2026-09-04T14:30:47+00:00",
-      "last_seen": "2026-10-07T00:00:57+00:00",
+      "last_seen": "2026-10-08T23:07:01+00:00",
       "posted_at": "1788255577",
       "title": "Information Technology Intern - Technology",
       "url": "https://johndeere.eightfold.ai/careers/job/137482633322"
@@ -25549,6 +25619,16 @@
       "title": "General Maintenance Operative - Mobile Engineering Services",
       "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Norfolk-GBR/Specialist--Mobile-Engineering-Services_REQ524271"
     },
+    "simplify:jones lang lasalle::simplify-f648dee8-f116-470b-a358-a621305e0f9f": {
+      "company": "Jones Lang LaSalle",
+      "first_seen": "2026-10-08T23:07:02+00:00",
+      "last_seen": "2026-10-08T23:07:02+00:00",
+      "location": "LA",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "AI Intern",
+      "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/AI-Intern-Summer-2027-Internship---Los-Angeles--CA_REQ539393"
+    },
     "simplify:jp morgan chase::simplify-0ce368f3-691a-439c-98bc-3e4a3a32f91a": {
       "company": "JP Morgan Chase",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -26022,6 +26102,18 @@
       "source": "simplify",
       "title": "Software Development Engineer Intern - 6G Digital Twin and Visualization Platform",
       "url": "https://jobs.keysight.com/jobs/54319?icims=1"
+    },
+    "simplify:keysight technologies::simplify-69984bf9-c983-408b-befc-bcf50f6c79d5": {
+      "company": "Keysight Technologies",
+      "duplicate_of": "simplify:keysight technologies::simplify-7136a7a6-b9b6-47d9-be27-85bb3d354b11",
+      "first_seen": "2026-10-08T23:07:01+00:00",
+      "last_seen": "2026-10-08T23:07:01+00:00",
+      "location": "Calabasas, CA",
+      "posted_at": "1791497998",
+      "seeded": true,
+      "source": "simplify",
+      "title": "R&D Software Engineer Intern",
+      "url": "https://jobs.keysight.com/jobs/54640?icims=1"
     },
     "simplify:keysight technologies::simplify-6e49662c-f403-4d54-acb4-df81b23afb54": {
       "company": "Keysight Technologies",
@@ -28414,6 +28506,16 @@
       "title": "Full Stack Software Engineer - Fund Administration IT",
       "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Full-Stack-Software-Engineer_JR26070424-2"
     },
+    "simplify:manulife financial::simplify-8ede2bfe-2073-4a15-844c-e906d6e05de6": {
+      "company": "Manulife Financial",
+      "first_seen": "2026-10-08T23:07:02+00:00",
+      "last_seen": "2026-10-08T23:07:02+00:00",
+      "location": "Waterloo, ON, Canada",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "Software Engineering Co-op",
+      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Winter-Co-op-2027---Software-Engineering_JR26081661-1"
+    },
     "simplify:manulife financial::simplify-9cfbbc33-1806-41f9-86ba-a01f31d477b2": {
       "company": "Manulife Financial",
       "first_seen": "2026-09-01T00:09:06+00:00",
@@ -30303,6 +30405,16 @@
       "title": "Applied Technologies Intern",
       "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Norwood-Massachusetts/Intern--Applied-Technologies--Summer-2027-_R19734"
     },
+    "simplify:modernizing medicine::simplify-fd295519-9a15-422a-a9c7-36067c9a404a": {
+      "company": "Modernizing Medicine",
+      "first_seen": "2026-10-08T23:07:02+00:00",
+      "last_seen": "2026-10-08T23:07:02+00:00",
+      "location": "Boca Raton, FL",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://modmed.wd501.myworkdayjobs.com/ModMed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148"
+    },
     "simplify:moment energy::simplify-1e0edc08-872a-46c3-b0b1-5a8eba101fe2": {
       "company": "Moment Energy",
       "first_seen": "2026-10-06T01:36:08+00:00",
@@ -31470,6 +31582,16 @@
       "posted_at": "1788134400",
       "title": "Software Engineer Intern",
       "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Merrillville-IN-SLC/Intern-IT---Software-Engineer_R00943449"
+    },
+    "simplify:nissan global::simplify-4180f83c-a0bf-453e-9126-b0452bc12b58": {
+      "company": "Nissan Global",
+      "first_seen": "2026-10-08T23:07:02+00:00",
+      "last_seen": "2026-10-08T23:07:02+00:00",
+      "location": "Farmington Hills, MI",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "AI Agent Architect Intern",
+      "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Farmington-Hills-Michigan---United-States-of-America/AI-Agent-Architect---Summer-2027---Farmington-Hills--MI_R00214218"
     },
     "simplify:nissan global::simplify-9d58c016-deec-47ad-adab-db768f2e513e": {
       "company": "Nissan Global",
@@ -34962,6 +35084,16 @@
       "posted_at": "1782137179",
       "title": "Software Engineer",
       "url": "https://careers-peraton.icims.com/jobs/167887/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:peraton::simplify-5c53841c-7751-499e-a270-dec2580e62e6": {
+      "company": "Peraton",
+      "first_seen": "2026-10-08T23:07:02+00:00",
+      "last_seen": "2026-10-08T23:07:02+00:00",
+      "location": "Topeka, KS",
+      "posted_at": "1791498349",
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://careers-peraton.icims.com/jobs/172061/job?mobile=true&needsRedirect=false"
     },
     "simplify:peraton::simplify-646702df-6a22-45b8-b6ff-ea112461213c": {
       "company": "Peraton",
@@ -38966,6 +39098,16 @@
       "title": "Leadership Development Program - Engineering - Software",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-ARLINGTON-1000--1000-Wilson-Blvd--WILSON-Fl-23/Leadership-Development-Program---Engineering--Software--Starts-June-2027-_01853289-1"
     },
+    "simplify:rtx::simplify-4d44f45d-0a4d-4b56-a47a-9b17c5efd161": {
+      "company": "RTX",
+      "first_seen": "2026-10-08T23:07:02+00:00",
+      "last_seen": "2026-10-08T23:07:02+00:00",
+      "location": "Anaheim, CA; Fort Wayne, IN; Sterling, VA",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineering-Intern--Summer-2027-_01880755"
+    },
     "simplify:rtx::simplify-4d8ade89-7d74-491e-a5cb-4fe36798e3d5": {
       "company": "RTX",
       "first_seen": "2026-07-24T23:33:06+00:00",
@@ -38994,6 +39136,18 @@
       "posted_at": "1785196800",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-NY-BINGHAMTON-288--31-Lewis-Rd--LEWIS/Software-Engineer-I--Onsite-_01861373"
+    },
+    "simplify:rtx::simplify-5171a739-acb4-4c4f-a86a-278d4ad1bcd6": {
+      "company": "RTX",
+      "duplicate_of": "simplify:rtx::simplify-4d44f45d-0a4d-4b56-a47a-9b17c5efd161",
+      "first_seen": "2026-10-08T23:07:01+00:00",
+      "last_seen": "2026-10-08T23:07:01+00:00",
+      "location": "Fort Wayne, IN",
+      "posted_at": "1791417600",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01881090"
     },
     "simplify:rtx::simplify-51b1f750-bdc8-4369-865b-5edb226a9d44": {
       "company": "RTX",
@@ -39064,7 +39218,7 @@
     "simplify:rtx::simplify-5eec1982-b0e8-4ec2-b9c3-ee8ed6051a4b": {
       "company": "RTX",
       "first_seen": "2026-09-01T17:52:38+00:00",
-      "last_seen": "2026-09-22T00:04:40+00:00",
+      "last_seen": "2026-10-08T23:07:01+00:00",
       "posted_at": "1788220800",
       "title": "Numerical Methods Intern - Advanced Software Development",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Hiver-2027---Dveloppement-Logiciel-Avanc--Mthodes-Numriques---Internship---Winter-2027---Advanced-Software-Development--Numerical-Methods_01871187"
@@ -39198,6 +39352,18 @@
       "posted_at": "1788825600",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613"
+    },
+    "simplify:rtx::simplify-7738444f-ee47-4c3e-9082-2464bf8d12df": {
+      "company": "RTX",
+      "duplicate_of": "simplify:rtx::simplify-4d44f45d-0a4d-4b56-a47a-9b17c5efd161",
+      "first_seen": "2026-10-08T23:07:01+00:00",
+      "last_seen": "2026-10-08T23:07:01+00:00",
+      "location": "Sterling, VA",
+      "posted_at": "1791417600",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01877890"
     },
     "simplify:rtx::simplify-776b2184-8dc2-4958-b964-94a1ee9c9454": {
       "company": "RTX",
@@ -41962,6 +42128,16 @@
       "source": "simplify",
       "title": "Software Engineer Co-op - Agents",
       "url": "https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true"
+    },
+    "simplify:solopulse::simplify-5725559b-ba01-45c4-b901-0e73387d18e0": {
+      "company": "SoloPulse",
+      "first_seen": "2026-10-08T23:07:02+00:00",
+      "last_seen": "2026-10-08T23:07:02+00:00",
+      "location": "Peachtree Corners, GA",
+      "posted_at": "1791498217",
+      "source": "simplify",
+      "title": "Software Engineer Intern Co-op",
+      "url": "https://jobs.lever.co/solopulseco/1b36afea-e8eb-4cea-a6e9-0afc384d06ef/apply"
     },
     "simplify:solopulse::simplify-6eab1924-cfad-4106-b8c6-162292dcc659": {
       "company": "SoloPulse",
@@ -49844,6 +50020,16 @@
       "title": "Salesforce Engineer 1",
       "url": "https://vibrant.wd5.myworkdayjobs.com/VEH_EXTERNAL_CAREER_SITE/job/Remote-USA/Salesforce-Engineer-I_JR100169-1"
     },
+    "simplify:viget::simplify-b058e4f4-66d1-4259-8983-1c888392410d": {
+      "company": "Viget",
+      "first_seen": "2026-10-08T23:07:03+00:00",
+      "last_seen": "2026-10-08T23:07:03+00:00",
+      "location": "Boulder, CO",
+      "posted_at": "1791497995",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2/apply"
+    },
     "simplify:viridien::simplify-27d62306-3b52-4374-a800-705bb429b036": {
       "company": "Viridien",
       "first_seen": "2026-07-28T23:15:13+00:00",
@@ -55991,5 +56177,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-08T23:03:12+00:00"
+  "updated_at": "2026-10-08T23:07:15+00:00"
 }
