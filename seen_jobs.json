@@ -1,5 +1,5 @@
 {
-  "count": 6847,
+  "count": 6850,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -29274,6 +29274,16 @@
       "title": "Data Infra Engineer Intern",
       "url": "https://jobs.ashbyhq.com/meshy/2f33b2eb-b76d-4618-b299-497471f263b9"
     },
+    "simplify:meta::simplify-8c2db8ba-8874-4c57-8689-34298f844251": {
+      "company": "Meta",
+      "first_seen": "2026-10-08T06:35:12+00:00",
+      "last_seen": "2026-10-08T06:35:12+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1791439835",
+      "source": "simplify",
+      "title": "Manufacturing Test Engineer Intern",
+      "url": "https://www.metacareers.com/jobs/1866862250969693"
+    },
     "simplify:meta::simplify-913185e4-c0b8-46bb-add7-d4de9eb77339": {
       "company": "Meta",
       "first_seen": "2026-10-06T23:07:27+00:00",
@@ -30298,6 +30308,16 @@
       "title": "Android Application Developer Intern - Summer 2027",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740"
     },
+    "simplify:motorola::simplify-53e2d2ca-2bf9-417b-8c18-b1af4a682042": {
+      "company": "Motorola",
+      "first_seen": "2026-10-08T06:35:13+00:00",
+      "last_seen": "2026-10-08T06:35:13+00:00",
+      "location": "St. Petersburg, FL",
+      "posted_at": "1791331200",
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/St-Petersburg-Business-Center/Software-Development-Intern---Summer-2027-Internship_R68576"
+    },
     "simplify:motorola::simplify-670d8a8b-1082-42e8-9009-e35612ea924a": {
       "company": "Motorola",
       "first_seen": "2026-10-05T17:29:32+00:00",
@@ -30358,6 +30378,16 @@
       "posted_at": "1788825600",
       "title": "Software Engineer Intern",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388"
+    },
+    "simplify:motorola::simplify-9824f95e-030c-4a9f-984a-a8e683459e9a": {
+      "company": "Motorola",
+      "first_seen": "2026-10-08T06:35:13+00:00",
+      "last_seen": "2026-10-08T06:35:13+00:00",
+      "location": "Westminster, CO",
+      "posted_at": "1791331200",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Westminster-CO/Software-Engineer---Summer-2027-Internship_R68997"
     },
     "simplify:motorola::simplify-a072ca1a-08d9-415d-bbac-c6ecb8cf5e5f": {
       "company": "Motorola",
@@ -55707,5 +55737,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-08T01:39:00+00:00"
+  "updated_at": "2026-10-08T06:35:59+00:00"
 }
