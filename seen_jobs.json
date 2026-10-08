@@ -1,5 +1,5 @@
 {
-  "count": 6852,
+  "count": 6853,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -5468,6 +5468,16 @@
       "source": "simplify",
       "title": "C or C++ Junior Developer",
       "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/C-or-C---Junior-Developer_R0165501"
+    },
+    "simplify:amentum::simplify-4939e8a4-f378-418b-bf25-abaebfdf3b33": {
+      "company": "Amentum",
+      "first_seen": "2026-10-08T16:03:50+00:00",
+      "last_seen": "2026-10-08T16:03:50+00:00",
+      "location": "Hanover, MD",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0171606"
     },
     "simplify:amentum::simplify-4a009563-7222-4cb3-b58d-930cdc0c5a55": {
       "company": "Amentum",
@@ -55775,5 +55785,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-08T15:03:41+00:00"
+  "updated_at": "2026-10-08T16:04:44+00:00"
 }
