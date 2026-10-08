@@ -1,5 +1,5 @@
 {
-  "count": 6857,
+  "count": 6863,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -7226,6 +7226,16 @@
       "posted_at": "1781638919",
       "title": "Forward Deployed AI Engineer",
       "url": "https://job-boards.greenhouse.io/arizeai/jobs/6030953004"
+    },
+    "simplify:arizona state university::simplify-db2eb29a-0c4b-4164-a226-eb8dbfc81719": {
+      "company": "Arizona State University",
+      "first_seen": "2026-10-08T22:35:16+00:00",
+      "last_seen": "2026-10-08T22:35:16+00:00",
+      "location": "Tempe, AZ",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "Student Web Developer and Content Specialist Intern",
+      "url": "https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Tempe-AZ/Student-Web-Developer---Content-Specialist_R1544"
     },
     "simplify:arka infotech::simplify-323f0d24-cbde-4bca-a596-412f91d84399": {
       "company": "Arka Infotech",
@@ -23991,7 +24001,7 @@
     "simplify:intel::simplify-b035a98e-db1a-4187-b55e-8cac0076bc05": {
       "company": "Intel",
       "first_seen": "2026-09-10T05:13:43+00:00",
-      "last_seen": "2026-10-07T00:00:57+00:00",
+      "last_seen": "2026-10-08T22:35:14+00:00",
       "posted_at": "1788912000",
       "title": "Software Solutions Engineer PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019"
@@ -30328,6 +30338,16 @@
       "title": "Product Engineer Associate",
       "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-18822"
     },
+    "simplify:moog::simplify-1f80afa8-c775-4da7-b930-bcb71e621fad": {
+      "company": "Moog",
+      "first_seen": "2026-10-08T22:35:16+00:00",
+      "last_seen": "2026-10-08T22:35:16+00:00",
+      "location": "Mineral Wells, TX",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965"
+    },
     "simplify:moon::simplify-de36e85a-366d-49db-98a9-fb9c3004ef0b": {
       "company": "Moon",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -35909,6 +35929,16 @@
       "title": "Developer \u2013 GenAI and Digital Workplace",
       "url": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Developer--GenAI-and-Digital-Workplace_R4840"
     },
+    "simplify:psp investments::simplify-f101c242-c477-4a1d-9f11-a14d7c50d8e0": {
+      "company": "PSP Investments",
+      "first_seen": "2026-10-08T22:35:16+00:00",
+      "last_seen": "2026-10-08T22:35:16+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "GenAI and Digital Workplace Intern",
+      "url": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003"
+    },
     "simplify:ptc::simplify-bc73e138-3099-4018-8af3-33f851c19b72": {
       "company": "PTC",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -37523,6 +37553,16 @@
       "title": "Rotational Development Program - Software Engineer - Power Solutions",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131227160"
     },
+    "simplify:robert bosch venture capital::simplify-e9431d48-77fa-4f21-aada-d15b27d9738c": {
+      "company": "Robert Bosch Venture Capital",
+      "first_seen": "2026-10-08T22:35:16+00:00",
+      "last_seen": "2026-10-08T22:35:16+00:00",
+      "location": "Denham, UK",
+      "posted_at": "1791497281",
+      "source": "simplify",
+      "title": "Business Digitalisation & AI Automation Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154478885"
+    },
     "simplify:robert half::simplify-22c73d7b-43d7-45a2-b537-5beb5f314625": {
       "company": "Robert Half",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -37730,6 +37770,16 @@
       "posted_at": "1788220800",
       "title": "Content Software Development Intern - Lifecycle Services",
       "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-1"
+    },
+    "simplify:rockwell automation::simplify-ce4f415e-2e7f-4bd6-8b85-a3c92598f317": {
+      "company": "Rockwell Automation",
+      "first_seen": "2026-10-08T22:35:16+00:00",
+      "last_seen": "2026-10-08T22:35:16+00:00",
+      "location": "Mayfield Heights, OH",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "Customer Response Engineer Intern",
+      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Customer-Response-Engineering_R26-7270-1"
     },
     "simplify:rockwell automation::simplify-f9cecf37-3d67-4284-acf1-bce7d8f9994e": {
       "company": "Rockwell Automation",
@@ -44542,6 +44592,16 @@
       "posted_at": "1787870530",
       "title": "Software Engineer Intern - Information Security - Spring 2027",
       "url": "https://www.tesla.com/careers/search/job/281473"
+    },
+    "simplify:tesla::simplify-61d630c7-bc66-4344-a5c4-772ddef31c4e": {
+      "company": "Tesla",
+      "first_seen": "2026-10-08T22:35:15+00:00",
+      "last_seen": "2026-10-08T22:35:15+00:00",
+      "location": "Fremont, CA",
+      "posted_at": "1791497847",
+      "source": "simplify",
+      "title": "Software Integration Engineer Intern - Service Tooling",
+      "url": "https://www.tesla.com/careers/search/job/286127"
     },
     "simplify:tesla::simplify-61ec7d70-4c67-42e3-b8ec-b7d24c4048e2": {
       "company": "Tesla",
@@ -55845,5 +55905,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-08T21:36:00+00:00"
+  "updated_at": "2026-10-08T22:36:03+00:00"
 }
