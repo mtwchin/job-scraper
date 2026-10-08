@@ -1,5 +1,5 @@
 {
-  "count": 6855,
+  "count": 6856,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -8815,6 +8815,18 @@
       "posted_at": "1785110400",
       "title": "Entry Level Software Engineer",
       "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Denver-CO/Entry-Level-Software-Engineer_R022282"
+    },
+    "simplify:barry-wehmiller::simplify-ec1b1f5a-50dd-40e3-88f4-c7842d37754c": {
+      "company": "Barry-Wehmiller",
+      "duplicate_of": "simplify:barry-wehmiller::simplify-7531a42a-4fdd-408f-8e40-bed21c1ddb09",
+      "first_seen": "2026-10-08T19:04:47+00:00",
+      "last_seen": "2026-10-08T19:04:47+00:00",
+      "location": "Eau Claire, WI, Dallas, TX, Raleigh, NC, St. Louis, MO, Denver, CO",
+      "posted_at": "1791331200",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Entry Level Software Engineer",
+      "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Entry-Level-Software-Engineer_R023049"
     },
     "simplify:base power::simplify-d410a9b5-528c-4d2a-bcec-b5999e85d25f": {
       "company": "Base Power",
@@ -55814,5 +55826,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-08T17:38:52+00:00"
+  "updated_at": "2026-10-08T19:04:53+00:00"
 }
