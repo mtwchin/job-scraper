@@ -82,6 +82,15 @@
       "title": "Computer Science Engineer 1 - Cranberry Township",
       "url": "https://careers-framatome.icims.com/jobs/3408/job?mobile=true&needsRedirect=false"
     },
+    "simplify:gordon food service::simplify-38c7776b-a885-4f1e-af66-2816ed57ba66": {
+      "attempted_at": "2026-10-08T15:03:22+00:00",
+      "company": "Gordon Food Service",
+      "location": "Wyoming, MI",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Transportation Routing",
+      "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374"
+    },
     "simplify:intel::simplify-59d6aad4-9652-4f35-9a72-29c3ef4f9d16": {
       "attempted_at": "2026-10-01T23:01:57+00:00",
       "company": "Intel",
@@ -55766,5 +55775,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-08T14:46:38+00:00"
+  "updated_at": "2026-10-08T15:03:41+00:00"
 }
