@@ -9967,7 +9967,7 @@
     "simplify:boston scientific::simplify-b785f9ef-f9c9-4d16-aae2-973ad2a1b2dc": {
       "company": "Boston Scientific",
       "first_seen": "2026-09-24T23:04:31+00:00",
-      "last_seen": "2026-10-02T00:00:32+00:00",
+      "last_seen": "2026-10-08T01:32:14+00:00",
       "location": "Waltham, MA",
       "posted_at": "1790288282",
       "source": "simplify",
@@ -9984,7 +9984,7 @@
     "simplify:boston scientific::simplify-e7777af9-8bca-4dd7-b5b6-6ec86fff06f9": {
       "company": "Boston Scientific",
       "first_seen": "2026-09-24T23:04:32+00:00",
-      "last_seen": "2026-10-02T00:00:32+00:00",
+      "last_seen": "2026-10-08T01:32:14+00:00",
       "location": "Waltham, MA",
       "posted_at": "1790288282",
       "source": "simplify",
@@ -18603,6 +18603,7 @@
     "simplify:fifth third bank::simplify-7d8242ec-06c9-4afb-abfb-ccbd11a5f47b": {
       "company": "Fifth Third Bank",
       "first_seen": "2026-08-20T15:52:39+00:00",
+      "last_seen": "2026-10-08T01:32:14+00:00",
       "posted_at": "1787184000",
       "title": "Software Engineer Co-op - Enterprise Finance Applications - Summer 2027",
       "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588"
@@ -55665,5 +55666,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-08T00:03:55+00:00"
+  "updated_at": "2026-10-08T01:32:58+00:00"
 }
