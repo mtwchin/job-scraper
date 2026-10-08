@@ -73,6 +73,15 @@
       "title": "Manufacturing Systems Engineer - Applications Specialist",
       "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Stonehouse-Gloucestershire-United-Kingdom/Manufacturing-Systems-Engineer---Applications-Specialist_JR00036050"
     },
+    "simplify:akima::simplify-d319db60-64c2-4a94-beea-d04c632e1d91": {
+      "attempted_at": "2026-10-08T23:03:02+00:00",
+      "company": "Akima",
+      "location": "Huntsville, AL",
+      "posted_at": "1791498061",
+      "source": "simplify",
+      "title": "Unity Game Developer",
+      "url": "https://careers.akima.com/jobs/26095?icims=1"
+    },
     "simplify:amgen::simplify-2d23863f-49e1-4783-aab6-4f76106c7d8d": {
       "attempted_at": "2026-09-23T22:34:27+00:00",
       "company": "Amgen",
@@ -90,6 +99,33 @@
       "source": "simplify",
       "title": "Software Developer Intern",
       "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233"
+    },
+    "simplify:boeing::simplify-da4364e0-b8b0-4dd0-be28-f45380d6a895": {
+      "attempted_at": "2026-10-08T23:03:02+00:00",
+      "company": "Boeing",
+      "location": "Chantilly, VA, El Segundo, CA",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "Ground Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Chantilly-VA/Ground-Software-Engineer----Millennium-Space-Systems_JR2026525674-1"
+    },
+    "simplify:capgemini::simplify-f4875814-a00b-4c22-9d51-aed871743038": {
+      "attempted_at": "2026-10-08T23:03:02+00:00",
+      "company": "Capgemini",
+      "location": "NYC",
+      "posted_at": "1791498956",
+      "source": "simplify",
+      "title": "Lead Java Full Stack with React",
+      "url": "https://careers.capgemini.com/job/New-York,-NY-Lead-Java-Full-Stack-with-React-NY-10001/1445764233/?ats=successfactors"
+    },
+    "simplify:cencora::simplify-1ec1ac3b-fbaa-46db-b0e9-7cef01e932e9": {
+      "attempted_at": "2026-10-08T23:03:02+00:00",
+      "company": "Cencora",
+      "location": "Pennsylvania",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "Engineer 1 - Systems Software Engineering",
+      "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Pennsylvania/Engineer-I--Systems-Software-Engineering_R2614401"
     },
     "simplify:framatome::simplify-367e2e43-5881-4312-9e29-9606b3347b8f": {
       "attempted_at": "2026-09-23T22:34:27+00:00",
@@ -109,6 +145,24 @@
       "title": "Software Engineer Intern - Transportation Routing",
       "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374"
     },
+    "simplify:halliburton::simplify-82cda63c-8157-4946-afad-12f7dbeb8ef3": {
+      "attempted_at": "2026-10-08T23:03:02+00:00",
+      "company": "Halliburton",
+      "location": "Calgary, AB, Canada",
+      "posted_at": "1791498341",
+      "source": "simplify",
+      "title": "Senior Software Developer - Subsurface Applications",
+      "url": "https://jobs.halliburton.com/job/Calgary-Software-Developer,-Subsurface-Applications-(Associate-Senior)-Landmark-AB-T2P-3V4/1438393900/?ats=successfactors"
+    },
+    "simplify:highmark health::simplify-d89f0ee8-17d9-4a58-9c3e-9d4cfaf2b635": {
+      "attempted_at": "2026-10-08T23:03:02+00:00",
+      "company": "Highmark Health",
+      "location": "Pittsburgh, PA",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "ETDP Associate - Software Engineering",
+      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Associate---Software-Engineering_J288020"
+    },
     "simplify:intel::simplify-59d6aad4-9652-4f35-9a72-29c3ef4f9d16": {
       "attempted_at": "2026-10-01T23:01:57+00:00",
       "company": "Intel",
@@ -117,6 +171,15 @@
       "source": "simplify",
       "title": "Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1"
+    },
+    "simplify:micron technology::simplify-e0a34853-b9e7-41f5-b226-89fda1f5aadc": {
+      "attempted_at": "2026-10-08T23:03:02+00:00",
+      "company": "Micron Technology",
+      "location": "Boise, ID",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "AI Engineer",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/AI-Engineer_JR111826-1"
     },
     "simplify:palo alto networks::simplify-ca920373-6255-46b3-8083-3db9533be2df": {
       "attempted_at": "2026-10-04T20:03:28+00:00",
@@ -50288,7 +50351,7 @@
     "simplify:walmart::simplify-9a65a8df-82be-4934-8e8f-0308d4a7686a": {
       "company": "Walmart",
       "first_seen": "2026-09-04T05:57:42+00:00",
-      "last_seen": "2026-10-03T00:00:31+00:00",
+      "last_seen": "2026-10-08T23:03:02+00:00",
       "posted_at": "1788393600",
       "title": "Software Engineer 2 Intern",
       "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Software-Engineer-II---Sunnyvale_R-2630127"
@@ -55928,5 +55991,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-08T22:53:08+00:00"
+  "updated_at": "2026-10-08T23:03:12+00:00"
 }
