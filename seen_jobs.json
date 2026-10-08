@@ -1,5 +1,5 @@
 {
-  "count": 6850,
+  "count": 6851,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -40076,6 +40076,16 @@
       "title": "Support Engineer - Python",
       "url": "https://jobs.smartrecruiters.com/SATechnologiesInc4/85774799"
     },
+    "simplify:saab::simplify-2b3e7e0e-c98f-485f-a747-d5e7d92a1918": {
+      "company": "Saab",
+      "first_seen": "2026-10-08T13:01:51+00:00",
+      "last_seen": "2026-10-08T13:01:51+00:00",
+      "location": "East Syracuse, NY",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Software Engineer Co-op",
+      "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineer-Co-Op--Summer-2027-_R-03264-1"
+    },
     "simplify:saab::simplify-867f83e8-8c2d-4871-a154-59496914e89c": {
       "company": "Saab",
       "first_seen": "2026-09-04T23:26:59+00:00",
@@ -55746,5 +55756,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-08T07:37:12+00:00"
+  "updated_at": "2026-10-08T13:02:32+00:00"
 }
