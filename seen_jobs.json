@@ -1,5 +1,5 @@
 {
-  "count": 6853,
+  "count": 6855,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -8420,6 +8420,16 @@
       "posted_at": "1784586881",
       "title": "Software Engineer",
       "url": "https://job-boards.greenhouse.io/babelstreet/jobs/8075011"
+    },
+    "simplify:badger meter::simplify-64ffe791-24fc-4b7a-b06b-90a8bc63b978": {
+      "company": "Badger Meter",
+      "first_seen": "2026-10-08T16:05:10+00:00",
+      "last_seen": "2026-10-08T16:05:10+00:00",
+      "location": "Escondido, CA",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645"
     },
     "simplify:bae systems onearc usa, inc::simplify-360847fa-a110-475d-aa7e-121fcba41e78": {
       "company": "BAE Systems OneArc USA, Inc",
@@ -27283,6 +27293,16 @@
       "posted_at": "1785456000",
       "title": "Software Developer",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00188494"
+    },
+    "simplify:leidos::simplify-92b36766-febe-474d-941e-0bf16bc2ecc0": {
+      "company": "Leidos",
+      "first_seen": "2026-10-08T16:05:10+00:00",
+      "last_seen": "2026-10-08T16:05:10+00:00",
+      "location": "Atlantic City, NJ",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "Systems Integration and Software Engineer Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152"
     },
     "simplify:leidos::simplify-9cb8a5fd-6975-4674-857b-4f0669ea0515": {
       "company": "Leidos",
@@ -55785,5 +55805,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-08T16:04:44+00:00"
+  "updated_at": "2026-10-08T16:05:48+00:00"
 }
