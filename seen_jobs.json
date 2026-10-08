@@ -1,5 +1,5 @@
 {
-  "count": 6863,
+  "count": 6865,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -4882,6 +4882,16 @@
       "title": "AI Product Engineer - Copilot & Power Platform",
       "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/AI-Product-Engineer--Copilot---Power-Platform---Remote---US-_R30742-1"
     },
+    "simplify:allstate insurance company::simplify-d6cb0ffd-5f72-4378-ac35-53241d665b5d": {
+      "company": "Allstate Insurance Company",
+      "first_seen": "2026-10-08T22:36:05+00:00",
+      "last_seen": "2026-10-08T22:36:05+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "AI Product Engineer - Copilot & Power Platform",
+      "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/AI-Product-Engineer--Copilot---Power-Platform---Remote---US-_R35481-1"
+    },
     "simplify:alpha nexus group::simplify-a0548532-3712-4c26-9172-4f2c8f2a6a8d": {
       "company": "Alpha Nexus Group",
       "first_seen": "2026-08-18T01:43:55+00:00",
@@ -8566,6 +8576,7 @@
     "simplify:bank of montreal::simplify-021114e1-c556-4de3-ac71-007b3f8adb26": {
       "company": "Bank of Montreal",
       "first_seen": "2026-08-01T23:24:49+00:00",
+      "last_seen": "2026-10-08T22:36:05+00:00",
       "posted_at": "1785456000",
       "title": "Software Developer",
       "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Irving-TX-USA/Software-Developer---Early-Career---15_R260021450-1"
@@ -41221,6 +41232,18 @@
       "title": "Software Engineer Intern",
       "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Software-Engineering-Intern--Summer-2027-_R0030760"
     },
+    "simplify:sierra nevada corporation::simplify-a1a47707-43a0-48d4-97ae-3e9bbfd16000": {
+      "company": "Sierra Nevada Corporation",
+      "duplicate_of": "simplify:sierra nevada corporation::simplify-6d98507e-f9d3-4151-8068-c847abca4557",
+      "first_seen": "2026-10-08T22:36:05+00:00",
+      "last_seen": "2026-10-08T22:36:05+00:00",
+      "location": "Lone Tree, CO",
+      "posted_at": "1791417600",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031014"
+    },
     "simplify:sierra nevada corporation::simplify-b0a16fef-11b5-41ac-9847-3b4ac324f5b7": {
       "company": "Sierra Nevada Corporation",
       "first_seen": "2026-09-04T05:57:42+00:00",
@@ -55905,5 +55928,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-08T22:36:03+00:00"
+  "updated_at": "2026-10-08T22:37:05+00:00"
 }
