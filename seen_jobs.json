@@ -1,5 +1,5 @@
 {
-  "count": 6890,
+  "count": 6894,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -7066,6 +7066,16 @@
       "title": "RTOS Development Engineer",
       "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineer---RTOS-US_J000700368"
     },
+    "simplify:aptiv::simplify-48a2a7ae-ec5a-4743-a183-da80a429505a": {
+      "company": "Aptiv",
+      "first_seen": "2026-10-09T09:32:07+00:00",
+      "last_seen": "2026-10-09T09:32:07+00:00",
+      "location": "Walnut Creek, CA",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Compiler Intern - Compiler Team",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385"
+    },
     "simplify:aptiv::simplify-58f69c1f-a80d-4906-8d64-29ad188aa643": {
       "company": "Aptiv",
       "first_seen": "2026-09-19T03:50:34+00:00",
@@ -7076,12 +7086,32 @@
       "title": "Summer Intern - Youngstown State University",
       "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Warren-OH---USA/Summer-Intern---Youngstown-State-University_J000704519"
     },
+    "simplify:aptiv::simplify-7f8ded4e-5bcc-463e-baf8-7a13f3369116": {
+      "company": "Aptiv",
+      "first_seen": "2026-10-09T09:32:07+00:00",
+      "last_seen": "2026-10-09T09:32:07+00:00",
+      "location": "Walnut Creek, CA",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386"
+    },
     "simplify:aptiv::simplify-d3435562-7d30-441f-b281-666a67529b9b": {
       "company": "Aptiv",
       "first_seen": "2026-08-11T23:09:33+00:00",
       "posted_at": "1786406400",
       "title": "System Engineer - OS Kernel",
       "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/System-Engineer---OS-Kernel_J000701249"
+    },
+    "simplify:aptiv::simplify-e8314098-af0f-4c4a-988b-ea69c0698a13": {
+      "company": "Aptiv",
+      "first_seen": "2026-10-09T09:32:07+00:00",
+      "last_seen": "2026-10-09T09:32:07+00:00",
+      "location": "Walnut Creek, CA",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Engineering-Intern_J000704388"
     },
     "simplify:aqr capital management::simplify-33d87281-2914-4356-ad13-441114284934": {
       "company": "AQR Capital Management",
@@ -33209,6 +33239,16 @@
       "title": "Compiler Engineer New Grad",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer---Smart-Network-Devices--New-College-Grad-2026_JR2020535"
     },
+    "simplify:nvidia::simplify-612b75fd-3a87-4038-8d14-df65b4ef144a": {
+      "company": "NVIDIA",
+      "first_seen": "2026-10-09T09:32:06+00:00",
+      "last_seen": "2026-10-09T09:32:06+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "CPU Compiler Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251"
+    },
     "simplify:nvidia::simplify-66eb3818-d5e6-44ad-a145-ac9c1394f98e": {
       "company": "NVIDIA",
       "first_seen": "2026-07-21T08:47:34+00:00",
@@ -56249,5 +56289,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-09T06:37:48+00:00"
+  "updated_at": "2026-10-09T09:32:53+00:00"
 }
