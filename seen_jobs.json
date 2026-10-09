@@ -1,5 +1,5 @@
 {
-  "count": 6910,
+  "count": 6915,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -5552,6 +5552,16 @@
       "posted_at": "1787293338",
       "title": "Software Engineer Intern/Co-op",
       "url": "https://careers.amd.com/jobs/90947?icims=1"
+    },
+    "simplify:amd::simplify-b17cd560-c6e3-41da-9178-9503bee4c38f": {
+      "company": "AMD",
+      "first_seen": "2026-10-09T22:34:06+00:00",
+      "last_seen": "2026-10-09T22:34:06+00:00",
+      "location": "Orlando, FL",
+      "posted_at": "1791584191",
+      "source": "simplify",
+      "title": "AI Agentic Flow for GPU ASIC Design Co-op Intern",
+      "url": "https://careers.amd.com/jobs/91341?icims=1"
     },
     "simplify:amd::simplify-b96c7c0a-e52d-479c-8c01-d4e54118328f": {
       "company": "AMD",
@@ -12491,6 +12501,16 @@
       "title": "AI Engineering Intern",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--AI-Engineering-Internship-Program---Summer-2027_R249110-1"
     },
+    "simplify:capstone investment advisors::simplify-65d5f968-db70-4ced-968a-605604c841f5": {
+      "company": "Capstone Investment Advisors",
+      "first_seen": "2026-10-09T22:34:07+00:00",
+      "last_seen": "2026-10-09T22:34:07+00:00",
+      "location": "NYC",
+      "posted_at": "1791583789",
+      "source": "simplify",
+      "title": "Tech Execution Intern",
+      "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8882130002"
+    },
     "simplify:captech consulting::simplify-57162ec0-910a-4248-8b4a-85d8b7e6f5bb": {
       "company": "CapTech Consulting",
       "first_seen": "2026-09-01T00:09:06+00:00",
@@ -16636,6 +16656,18 @@
       "title": "Software Engineer Intern - Observability - Platform",
       "url": "https://careers.docusign.com/jobs/30510?icims=1"
     },
+    "simplify:docusign::simplify-5e3bceb0-394a-4cab-9786-e72b2aafd2c5": {
+      "company": "DocuSign",
+      "duplicate_of": "simplify:docusign::simplify-2216540f-0c95-48ab-9ac1-9a2581596dce",
+      "first_seen": "2026-10-09T22:34:06+00:00",
+      "last_seen": "2026-10-09T22:34:06+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1791584232",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.docusign.com/jobs/30497?icims=1"
+    },
     "simplify:docusign::simplify-f3b565a6-e92b-41cc-aee4-4099b4c83171": {
       "company": "DocuSign",
       "duplicate_of": "simplify:docusign::simplify-2216540f-0c95-48ab-9ac1-9a2581596dce",
@@ -17275,6 +17307,16 @@
       "posted_at": "1788134400",
       "title": "Outsourcing IT Staff 1",
       "url": "https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/New-York/XMLNAME-2026-Outsourcing-IT-Staff-I_Req-9328"
+    },
+    "simplify:elanco::simplify-fcd2b529-7cb4-4cb6-9304-f651bc5df96a": {
+      "company": "Elanco",
+      "first_seen": "2026-10-09T22:34:07+00:00",
+      "last_seen": "2026-10-09T22:34:07+00:00",
+      "location": "Indianapolis, IN",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Pet Health Sales Excellence Intern - AI Innovation & Enablement",
+      "url": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/US-Pet-Health-Sales-Excellence-Intern---AI-Innovation---Enablement--Summer-2027-_R0027467"
     },
     "simplify:electronic arts::simplify-176f2474-7125-498d-bc28-a74c0ab1094d": {
       "company": "Electronic Arts",
@@ -50868,6 +50910,16 @@
       "title": "Business & Technology Application Analyst 1 - Pathology and Immunology",
       "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Business---Technology-Application-Analyst-I---Pathology-and-Immunology_JR97913"
     },
+    "simplify:wawa::simplify-6a4e45f8-1b33-43c4-ad0c-eff30becd150": {
+      "company": "Wawa",
+      "first_seen": "2026-10-09T22:34:07+00:00",
+      "last_seen": "2026-10-09T22:34:07+00:00",
+      "location": "Media, PA",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Information Technology Development Intern",
+      "url": "https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392"
+    },
     "simplify:waymo::simplify-107e54c4-e35f-4131-8faf-6a6ab9998ca9": {
       "company": "Waymo",
       "first_seen": "2026-09-04T05:57:38+00:00",
@@ -56450,5 +56502,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-09T21:08:45+00:00"
+  "updated_at": "2026-10-09T22:34:11+00:00"
 }
