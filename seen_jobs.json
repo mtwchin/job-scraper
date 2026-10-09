@@ -1,5 +1,5 @@
 {
-  "count": 6915,
+  "count": 6922,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -4196,6 +4196,16 @@
       "title": "Product Engineer",
       "url": "https://ats.rippling.com/advocate-technologies-inc/jobs/50d16a20-4191-4bac-8915-230f81df29b3"
     },
+    "simplify:adyen::simplify-63cd8363-9acb-4154-b81c-b9a70cfb5ce8": {
+      "company": "Adyen",
+      "first_seen": "2026-10-09T22:35:55+00:00",
+      "last_seen": "2026-10-09T22:35:55+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1790030906",
+      "source": "simplify",
+      "title": "Software Engineer 1 - Front End - Lifecycle Experience",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8153114"
+    },
     "simplify:aechelon technology::simplify-9082da61-057b-4091-9ce6-2092cb662419": {
       "company": "Aechelon Technology",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -4712,6 +4722,16 @@
       "posted_at": "1778796436",
       "title": "Unreal Game Designer",
       "url": "https://careers.akima.com/jobs/22581?lang=en-us&icims=1"
+    },
+    "simplify:akima::simplify-5fa985ab-b82f-4cca-8af3-e36ba708d49b": {
+      "company": "Akima",
+      "first_seen": "2026-10-09T22:35:55+00:00",
+      "last_seen": "2026-10-09T22:35:55+00:00",
+      "location": "Frederick, MD",
+      "posted_at": "1791584273",
+      "source": "simplify",
+      "title": "Associate Software Programmer",
+      "url": "https://careers.akima.com/jobs/26142?icims=1"
     },
     "simplify:akuna capital university::simplify-13b103af-8b5c-4685-9b00-18ce29399f40": {
       "company": "Akuna Capital University",
@@ -12726,6 +12746,16 @@
       "title": "Software Engineer Intern - Web",
       "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Software-Engineer-Intern_R-4654"
     },
+    "simplify:cboe::simplify-e571900f-7e09-4802-8138-3b1dbb9a2db5": {
+      "company": "Cboe",
+      "first_seen": "2026-10-09T22:35:55+00:00",
+      "last_seen": "2026-10-09T22:35:55+00:00",
+      "location": "Kansas City, MO",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Associate Software Engineer - Web",
+      "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Associate-Software-Engineer--Web_R-4582-2"
+    },
     "simplify:cct::simplify-f0737972-1ca9-4180-ba53-d1dd5f38f723": {
       "company": "CCT",
       "first_seen": "2026-08-26T22:44:32+00:00",
@@ -15398,6 +15428,18 @@
       "source": "simplify",
       "title": "Associate Software Development Engineer - Conversion",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/GA---Alpharetta/Associate-Software-Development-Engineer--Conversion-_R1055768"
+    },
+    "simplify:cvs health::simplify-784ec0c4-a853-4f22-a2e6-437ab3932836": {
+      "company": "CVS Health",
+      "duplicate_of": "simplify:cvs health::simplify-bab3c73f-9824-4c77-9ad6-c7450b4e9ed8",
+      "first_seen": "2026-10-09T22:35:55+00:00",
+      "last_seen": "2026-10-09T22:35:55+00:00",
+      "location": "New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho",
+      "posted_at": "1791504000",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Associate Software Development Engineer - Conversion",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/GA---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1056399"
     },
     "simplify:cvs health::simplify-9a4e692e-1dc0-4654-b6d1-ae51cbec8546": {
       "company": "CVS Health",
@@ -28289,6 +28331,16 @@
       "title": "Engineering Intern",
       "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Greater-Charlotte-Area-United-States/Engineering-Summer-Internship-Programme_R0123571-1"
     },
+    "simplify:lseg::simplify-33626190-3e86-477d-9c1e-ca3cbba8ee31": {
+      "company": "LSEG",
+      "first_seen": "2026-10-09T22:35:55+00:00",
+      "last_seen": "2026-10-09T22:35:55+00:00",
+      "location": "Norwell, MA",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Engineering Graduate Programme",
+      "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Norwell-Massachusetts/Engineering-Graduate-Programme--Norwell-_R0123734"
+    },
     "simplify:lseg::simplify-617f05a7-e40b-4c9a-b24b-a6096a0fde86": {
       "company": "LSEG",
       "first_seen": "2026-10-05T22:36:07+00:00",
@@ -30086,6 +30138,16 @@
       "source": "simplify",
       "title": "AI Engineer Intern - SMAI TD AI Engineering Team",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991"
+    },
+    "simplify:micron technology::simplify-ad4ca44e-474d-4210-b8d6-7e8d58de9313": {
+      "company": "Micron Technology",
+      "first_seen": "2026-10-09T22:35:55+00:00",
+      "last_seen": "2026-10-09T22:35:55+00:00",
+      "location": "Richardson, TX",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "CAD Engineer New Grad",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---CAD-Engineer_JR114754"
     },
     "simplify:micron technology::simplify-ec2d8499-9c16-4277-8aac-c8300d24f46f": {
       "company": "Micron Technology",
@@ -40481,7 +40543,7 @@
     "simplify:rtx::simplify-f0decac3-42e6-41b6-8f73-a954263e1bd7": {
       "company": "RTX",
       "first_seen": "2026-09-16T23:07:10+00:00",
-      "last_seen": "2026-09-19T00:00:45+00:00",
+      "last_seen": "2026-10-09T22:35:55+00:00",
       "location": "Cedar Rapids, IA",
       "posted_at": "1781014588",
       "source": "simplify",
@@ -41665,6 +41727,7 @@
     "simplify:sierra nevada corporation::simplify-07bd103c-1d70-4013-a353-134890eb3530": {
       "company": "Sierra Nevada Corporation",
       "first_seen": "2026-08-27T23:56:31+00:00",
+      "last_seen": "2026-10-09T22:35:55+00:00",
       "posted_at": "1787788800",
       "title": "Software Engineer 1",
       "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529"
@@ -43663,6 +43726,16 @@
       "posted_at": "1781140488",
       "title": "Software Engineer New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=7991718"
+    },
+    "simplify:stryker::simplify-25cfcdb0-2fc3-4756-ae40-606e8c410e8e": {
+      "company": "Stryker",
+      "first_seen": "2026-10-09T22:35:55+00:00",
+      "last_seen": "2026-10-09T22:35:55+00:00",
+      "location": "Fort Lauderdale, FL",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Software Engineering - R&D Engineering Development Program",
+      "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Software-Engineering--R-D-Engineering-Development-Program_R575603"
     },
     "simplify:stryker::simplify-3c6dc4c7-bd24-4215-a600-0d55a3952673": {
       "company": "Stryker",
@@ -56502,5 +56575,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-09T22:34:11+00:00"
+  "updated_at": "2026-10-09T22:36:13+00:00"
 }
