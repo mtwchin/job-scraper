@@ -1,5 +1,5 @@
 {
-  "count": 6894,
+  "count": 6896,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -9267,6 +9267,16 @@
       "title": "Machine Learning Engineering Co-op",
       "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310"
     },
+    "simplify:bip ventures::simplify-3b795f89-6464-4dce-bc94-f55a4821c04f": {
+      "company": "BIP Ventures",
+      "first_seen": "2026-10-09T10:35:07+00:00",
+      "last_seen": "2026-10-09T10:35:07+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1789597194",
+      "source": "simplify",
+      "title": "Associate AI Engineer",
+      "url": "https://apply.workable.com/bipventures/j/75C9D6B9AF/apply"
+    },
     "simplify:bitmovin::simplify-e106eaa4-9eac-44cc-9457-887140222d04": {
       "company": "Bitmovin",
       "first_seen": "2026-09-17T23:03:17+00:00",
@@ -13630,6 +13640,16 @@
       "posted_at": "1780669218",
       "title": "Junior Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007"
+    },
+    "simplify:clark::simplify-3c6f3dde-a27b-4f3c-b6a8-fdc22c5627ba": {
+      "company": "Clark",
+      "first_seen": "2026-10-09T10:35:07+00:00",
+      "last_seen": "2026-10-09T10:35:07+00:00",
+      "location": "NYC",
+      "posted_at": "1785795449",
+      "source": "simplify",
+      "title": "Junior Software Engineer",
+      "url": "https://jobs.ashbyhq.com/clark/78fae57b-98da-46c2-be2e-11a1ca5bb5eb/application?embed=true"
     },
     "simplify:clasp::simplify-7b8feca5-0cbb-45f8-8eb6-496c93b805a9": {
       "company": "Clasp",
@@ -56289,5 +56309,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-09T10:07:55+00:00"
+  "updated_at": "2026-10-09T10:35:58+00:00"
 }
