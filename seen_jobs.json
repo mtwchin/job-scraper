@@ -73,6 +73,15 @@
       "title": "Manufacturing Systems Engineer - Applications Specialist",
       "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Stonehouse-Gloucestershire-United-Kingdom/Manufacturing-Systems-Engineer---Applications-Specialist_JR00036050"
     },
+    "simplify:affirm::simplify-be9e2ad0-7cfb-43e2-8167-a1c650e84de9": {
+      "attempted_at": "2026-10-09T23:04:58+00:00",
+      "company": "Affirm",
+      "location": "SF",
+      "posted_at": "1791584048",
+      "source": "simplify",
+      "title": "IT Engineer Intern - Early Careers",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8011375003"
+    },
     "simplify:akima::simplify-d319db60-64c2-4a94-beea-d04c632e1d91": {
       "attempted_at": "2026-10-08T23:03:02+00:00",
       "company": "Akima",
@@ -10602,7 +10611,7 @@
     "simplify:buildertrend::simplify-c2c6db10-5836-4c07-a30a-b82ff757db89": {
       "company": "Buildertrend",
       "first_seen": "2026-09-08T18:00:46+00:00",
-      "last_seen": "2026-09-28T00:54:52+00:00",
+      "last_seen": "2026-10-09T23:04:58+00:00",
       "posted_at": "1788825600",
       "title": "Software Engineer Intern",
       "url": "https://buildertrend.wd108.myworkdayjobs.com/External_Careers/job/Omaha-NE/Software-Engineering-Inter_JR-000467"
@@ -12189,7 +12198,7 @@
     "simplify:cae::simplify-c416ad28-d7e6-4fca-98ee-f4a2119e49e5": {
       "company": "CAE",
       "first_seen": "2026-09-03T08:16:51+00:00",
-      "last_seen": "2026-09-21T00:04:12+00:00",
+      "last_seen": "2026-10-09T23:04:58+00:00",
       "posted_at": "1788307200",
       "title": "Software Engineering Intern - AI, Automation and Business Intelligence",
       "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1"
@@ -56575,5 +56584,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-09T22:36:13+00:00"
+  "updated_at": "2026-10-09T23:05:15+00:00"
 }
