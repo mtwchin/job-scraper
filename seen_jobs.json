@@ -1,5 +1,5 @@
 {
-  "count": 6896,
+  "count": 6897,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -51657,6 +51657,16 @@
       "title": "Software Engineer - Calibration",
       "url": "https://jobs.lever.co/woven-by-toyota/43bdae02-424e-48f2-9648-b5aa16abcfc3/apply"
     },
+    "simplify:wtw::simplify-1564dff4-1455-4c39-8484-e1940718b5df": {
+      "company": "WTW",
+      "first_seen": "2026-10-09T14:34:01+00:00",
+      "last_seen": "2026-10-09T14:34:01+00:00",
+      "location": "Reigate, UK",
+      "posted_at": "1791555318",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435"
+    },
     "simplify:wtw::simplify-d4dc379c-1e13-4b2c-a752-0420dca7c8c6": {
       "company": "WTW",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -56309,5 +56319,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-09T10:35:58+00:00"
+  "updated_at": "2026-10-09T14:34:12+00:00"
 }
