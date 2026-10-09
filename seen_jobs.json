@@ -1,5 +1,5 @@
 {
-  "count": 6909,
+  "count": 6910,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -1243,6 +1243,16 @@
       "posted_at": "2026-09-08T18:12:20-04:00",
       "title": "Software Engineer Intern",
       "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315"
+    },
+    "coinbase::8175510": {
+      "company": "Coinbase",
+      "first_seen": "2026-10-09T16:51:53+00:00",
+      "last_seen": "2026-10-09T16:51:53+00:00",
+      "location": "Hybrid - New York, NY",
+      "posted_at": "2026-10-09T12:51:20-04:00",
+      "source": "",
+      "title": "Forward Deployed Engineer Intern (HR Technology)",
+      "url": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510"
     },
     "cresta::4123841008": {
       "company": "Cresta",
@@ -56439,5 +56449,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-09T16:30:37+00:00"
+  "updated_at": "2026-10-09T16:52:39+00:00"
 }
