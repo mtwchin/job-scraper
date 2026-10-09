@@ -1,5 +1,5 @@
 {
-  "count": 6883,
+  "count": 6888,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -4276,6 +4276,16 @@
       "title": "Entry-Level Software Engineer",
       "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Dayton-OH/Entry-Level-Software-Engineer_8010"
     },
+    "simplify:aerovironment::simplify-6f752ecb-e434-47f8-b6cc-34d63ebefaa5": {
+      "company": "AeroVironment",
+      "first_seen": "2026-10-09T01:35:00+00:00",
+      "last_seen": "2026-10-09T01:35:00+00:00",
+      "location": "Albuquerque, NM",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Albuquerque-NM/Software-Engineer_9081"
+    },
     "simplify:aerovironment::simplify-74b2d4ff-f0ec-41d4-bc51-c06875faa9b7": {
       "company": "AeroVironment",
       "first_seen": "2026-08-01T11:50:42+00:00",
@@ -4318,6 +4328,16 @@
       "source": "simplify",
       "title": "Hypersonic RF Software Engineer Intern",
       "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993"
+    },
+    "simplify:aerovironment::simplify-d2f4c18d-c287-4a3d-bfdd-f8fa7dfe7c6f": {
+      "company": "AeroVironment",
+      "first_seen": "2026-10-09T01:35:00+00:00",
+      "last_seen": "2026-10-09T01:35:00+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "Software Engineer 1 - Apps",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/7540-Metropolitan-Dr-San-Diego-CA/Software-Engineer--Apps---I_8655"
     },
     "simplify:aerovironment::simplify-dc39e31e-20cd-43e1-86d2-386274f207de": {
       "company": "AeroVironment",
@@ -8026,6 +8046,16 @@
       "source": "simplify",
       "title": "Product Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/aurelian/216c8538-1778-4aa4-bcce-21ebf1149734/application?embed=true"
+    },
+    "simplify:aurelian::simplify-7aabe808-d12f-4399-b2f0-e348094fa171": {
+      "company": "Aurelian",
+      "first_seen": "2026-10-09T01:35:00+00:00",
+      "last_seen": "2026-10-09T01:35:00+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1791508992",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e/application?embed=true"
     },
     "simplify:authentic::simplify-697d4f47-13f9-46f4-85e4-18851d90babb": {
       "company": "Authentic",
@@ -19159,6 +19189,16 @@
       "posted_at": "1787011200",
       "title": "Software Engineer Co-op - AI",
       "url": "https://foresters.wd3.myworkdayjobs.com/ForestersFinancialCareers/job/Toronto-Ontario/Software-Engineer-Co-op-Student--AI---4-month-contract-_R-2305"
+    },
+    "simplify:forge nano::simplify-b6cfb1a4-f1f9-4894-a725-982afa329551": {
+      "company": "Forge Nano",
+      "first_seen": "2026-10-09T01:35:00+00:00",
+      "last_seen": "2026-10-09T01:35:00+00:00",
+      "location": "Thornton, CO",
+      "posted_at": "1791508212",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://forge-nano.breezy.hr/p/66630c61f7e4/apply"
     },
     "simplify:formlabs::simplify-0acde240-8d95-48ba-9f67-ea228b4cbb22": {
       "company": "Formlabs",
@@ -33060,7 +33100,7 @@
     "simplify:nutanix::simplify-eff98609-6d2a-4e7a-8b80-9c0f39ea9e99": {
       "company": "Nutanix",
       "first_seen": "2026-09-29T23:06:26+00:00",
-      "last_seen": "2026-10-08T01:38:12+00:00",
+      "last_seen": "2026-10-09T01:34:59+00:00",
       "location": "Vancouver, BC, Canada",
       "posted_at": "1790115639",
       "source": "simplify",
@@ -41975,6 +42015,16 @@
       "source": "simplify",
       "title": "Software Engineer",
       "url": "https://job-boards.greenhouse.io/snorkelai/jobs/6219198004"
+    },
+    "simplify:snowflake::simplify-07705204-70be-436b-85af-c48fd1f5e63d": {
+      "company": "Snowflake",
+      "first_seen": "2026-10-09T01:35:00+00:00",
+      "last_seen": "2026-10-09T01:35:00+00:00",
+      "location": "Menlo Park, CA",
+      "posted_at": "1791508811",
+      "source": "simplify",
+      "title": "Software Engineer - Customer Experience Engineering",
+      "url": "https://jobs.ashbyhq.com/snowflake/5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec/application?embed=true"
     },
     "simplify:snowflake::simplify-79cff93c-d811-4bef-a7ef-af475aef4d67": {
       "company": "Snowflake",
@@ -56177,5 +56227,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-09T00:07:30+00:00"
+  "updated_at": "2026-10-09T01:35:33+00:00"
 }
