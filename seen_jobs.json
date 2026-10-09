@@ -1,5 +1,5 @@
 {
-  "count": 6902,
+  "count": 6904,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -8973,6 +8973,16 @@
       "source": "simplify",
       "title": "Data and Computer Engineering/Computer Science Intern",
       "url": "https://careers-barrios.icims.com/jobs/2897/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:barry-wehmiller::simplify-2c3f5dd7-36fd-40f7-a178-66ba6ac4ffea": {
+      "company": "Barry-Wehmiller",
+      "first_seen": "2026-10-09T15:05:01+00:00",
+      "last_seen": "2026-10-09T15:05:01+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWConfidential/job/Dallas-TX/Software-Engineering-Intern---DAL_R023133"
     },
     "simplify:barry-wehmiller::simplify-7531a42a-4fdd-408f-8e40-bed21c1ddb09": {
       "company": "Barry-Wehmiller",
@@ -36764,6 +36774,16 @@
       "title": "Software Engineer - Data/AI",
       "url": "https://job-boards.greenhouse.io/racapitalmanagementllc/jobs/5445201008"
     },
+    "simplify:radiance technologies::simplify-08534f02-cdda-4163-8227-8adc00591296": {
+      "company": "Radiance Technologies",
+      "first_seen": "2026-10-09T15:05:01+00:00",
+      "last_seen": "2026-10-09T15:05:01+00:00",
+      "location": "Huntsville, AL",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Modeling & Simulation Engineer Intern",
+      "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Modeling---Simulation-Engineer-Intern_HR102472"
+    },
     "simplify:radiance technologies::simplify-2447c030-f0b3-45ba-8dd4-df6ca2b82259": {
       "company": "Radiance Technologies",
       "first_seen": "2026-09-24T23:04:32+00:00",
@@ -56369,5 +56389,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-09T14:36:14+00:00"
+  "updated_at": "2026-10-09T15:05:17+00:00"
 }
