@@ -1,5 +1,5 @@
 {
-  "count": 6904,
+  "count": 6908,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -34715,6 +34715,16 @@
       "title": "Software Engineer - Customer Solutions",
       "url": "https://jobs.ashbyhq.com/pangramlabs/0512183c-2373-499c-8459-91d0fd2d72f3/application?embed=true"
     },
+    "simplify:papa john's::simplify-21f70fe2-fdef-49f7-a4f9-b5dd331e3acd": {
+      "company": "Papa John's",
+      "first_seen": "2026-10-09T16:06:35+00:00",
+      "last_seen": "2026-10-09T16:06:35+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Digital Development Intern",
+      "url": "https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Digital-Development_R26_0000002155"
+    },
     "simplify:papercut::simplify-213bc9ef-3bbc-4045-9691-800365cf327e": {
       "company": "PaperCut",
       "first_seen": "2026-08-12T03:29:34+00:00",
@@ -34781,6 +34791,16 @@
       "posted_at": "1782956964",
       "title": "Software Engineer TS",
       "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer_R175644-1"
+    },
+    "simplify:parsons::simplify-64994a10-7a52-4808-b7b9-40c15e254d93": {
+      "company": "Parsons",
+      "first_seen": "2026-10-09T16:06:35+00:00",
+      "last_seen": "2026-10-09T16:06:35+00:00",
+      "location": "Centreville, VA",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Software Engineer Co-op",
+      "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer-Co-Op---TS-SCI_R187147"
     },
     "simplify:parsons::simplify-64a54a24-5ab6-415b-bce1-88cd157d415d": {
       "company": "Parsons",
@@ -39424,6 +39444,16 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineer-I--Onsite-_01868305"
     },
+    "simplify:rtx::simplify-64798a92-22e3-405a-93b7-ccded7db1b4e": {
+      "company": "RTX",
+      "first_seen": "2026-10-09T16:06:35+00:00",
+      "last_seen": "2026-10-09T16:06:35+00:00",
+      "location": "Fullerton, CA",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Web/Full Stack Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-611--1801-Hughes-Dr--BLDG-611/Web-Full-Stack-Software-Engineer-I--Onsite-_01881496"
+    },
     "simplify:rtx::simplify-6d72adc9-d3c0-4b7b-95ee-85e523701bab": {
       "company": "RTX",
       "first_seen": "2026-10-06T15:02:50+00:00",
@@ -39673,7 +39703,7 @@
     "simplify:rtx::simplify-8dff8685-3a17-4f9c-b1d4-6d01c0258242": {
       "company": "RTX",
       "first_seen": "2026-09-11T23:13:27+00:00",
-      "last_seen": "2026-09-21T00:04:12+00:00",
+      "last_seen": "2026-10-09T16:06:35+00:00",
       "posted_at": "1789084800",
       "title": "Software Engineer Co-op - Spring/Summer 2027",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Co-op--Spring-Summer-2027-_01873682"
@@ -39877,6 +39907,16 @@
       "posted_at": "1786665600",
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392"
+    },
+    "simplify:rtx::simplify-abf307ea-f290-4086-8c5b-8986750b9083": {
+      "company": "RTX",
+      "first_seen": "2026-10-09T16:06:35+00:00",
+      "last_seen": "2026-10-09T16:06:35+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Full Stack Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Full-Stack-Software-Engineer-I--Onsite-_01881492"
     },
     "simplify:rtx::simplify-acab3458-c681-419e-821c-031f7b12b082": {
       "company": "RTX",
@@ -56389,5 +56429,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-09T15:05:17+00:00"
+  "updated_at": "2026-10-09T16:07:20+00:00"
 }
