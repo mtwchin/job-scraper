@@ -1,5 +1,5 @@
 {
-  "count": 6889,
+  "count": 6890,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -22634,6 +22634,16 @@
       "title": "Software Engineer",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208770"
     },
+    "simplify:hewlett packard enterprise::simplify-9e2a98d3-d831-4cf0-8d19-28dfaf4710f3": {
+      "company": "Hewlett Packard Enterprise",
+      "first_seen": "2026-10-09T06:37:05+00:00",
+      "last_seen": "2026-10-09T06:37:05+00:00",
+      "location": "Andover, MA",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "Storage Systems/Software Engineer",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Andover-Massachusetts-United-States-of-America/Storage-Systems-Software-Engineer_1215626"
+    },
     "simplify:hewlett packard enterprise::simplify-c986d084-22ce-42b2-8117-a1fdd3db77a4": {
       "company": "Hewlett Packard Enterprise",
       "first_seen": "2026-10-06T07:02:27+00:00",
@@ -33569,7 +33579,7 @@
     "simplify:oneimaging::simplify-7443e2ee-d487-4319-a352-cc1779444a7f": {
       "company": "OneImaging",
       "first_seen": "2026-09-29T09:57:44+00:00",
-      "last_seen": "2026-10-08T00:00:13+00:00",
+      "last_seen": "2026-10-09T06:37:05+00:00",
       "location": "Miami, FL",
       "posted_at": "1790662565",
       "source": "simplify",
@@ -56239,5 +56249,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-09T01:36:35+00:00"
+  "updated_at": "2026-10-09T06:37:48+00:00"
 }
