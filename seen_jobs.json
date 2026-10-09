@@ -1,5 +1,5 @@
 {
-  "count": 6935,
+  "count": 6941,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -21627,6 +21627,16 @@
       "title": "Software Engineer Intern",
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039"
     },
+    "simplify:globalfoundries::simplify-4badb0b9-0e92-4dab-98dc-1d7afc1476a3": {
+      "company": "GlobalFoundries",
+      "first_seen": "2026-10-09T23:06:56+00:00",
+      "last_seen": "2026-10-09T23:06:56+00:00",
+      "location": "Austin, TX, Santa Clara, CA",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100"
+    },
     "simplify:globalfoundries::simplify-622563d2-e336-4a82-b917-11650b4cbd9d": {
       "company": "GlobalFoundries",
       "first_seen": "2026-08-20T01:44:05+00:00",
@@ -22726,6 +22736,16 @@
       "title": "Software Engineer Intern",
       "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027455"
     },
+    "simplify:helios worldwide::simplify-55d3dd4c-a153-4f94-9eed-f115d0face66": {
+      "company": "Helios WorldWide",
+      "first_seen": "2026-10-09T23:06:56+00:00",
+      "last_seen": "2026-10-09T23:06:56+00:00",
+      "location": "Santa Monica, CA",
+      "posted_at": "1791584521",
+      "source": "simplify",
+      "title": "Junior Creative Engineer",
+      "url": "https://heliosww.applytojob.com/apply/rnBU1p1XkZ/Junior-Creative-Engineer"
+    },
     "simplify:heliux::simplify-5410157c-2206-4b07-8f6c-ef7f52129039": {
       "company": "Heliux",
       "first_seen": "2026-07-31T07:31:38+00:00",
@@ -23778,6 +23798,16 @@
       "posted_at": "1781745737",
       "title": "Software Development Intern",
       "url": "https://job-boards.greenhouse.io/iherb/jobs/7776154003"
+    },
+    "simplify:illinois secretary of state::simplify-8f70ebe0-0547-4409-b537-1f2d643e2774": {
+      "company": "Illinois Secretary of State",
+      "first_seen": "2026-10-09T23:06:56+00:00",
+      "last_seen": "2026-10-09T23:06:56+00:00",
+      "location": "Springfield, IL",
+      "posted_at": "1791584546",
+      "source": "simplify",
+      "title": "Information Systems Technician 1 - Business Services Office",
+      "url": "https://ilsos.applytojob.com/apply/OvFQ8chh0P/Information-Systems-Technician-I-Business-Services-Office"
     },
     "simplify:illinois tool works::simplify-47e15701-8350-4806-9e72-912b4f89f705": {
       "company": "Illinois Tool Works",
@@ -32195,6 +32225,16 @@
       "title": "Engineer 1",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1--Hybrid---Seattle--WA-_R-884936"
     },
+    "simplify:nordstrom::simplify-d1b5651a-a709-4397-98d6-3a1bd58df7fd": {
+      "company": "Nordstrom",
+      "first_seen": "2026-10-09T23:06:56+00:00",
+      "last_seen": "2026-10-09T23:06:56+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Engineer 1 - Supply Chain",
+      "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1---Supply-Chain_R-885948"
+    },
     "simplify:north american construction group::simplify-5bd436ab-2543-4cf9-9565-0a571ae07475": {
       "company": "North American Construction Group",
       "first_seen": "2026-09-03T08:16:51+00:00",
@@ -35003,7 +35043,7 @@
     "simplify:pariveda solutions::simplify-30cc9fb7-f137-4061-8534-52bfe586192e": {
       "company": "Pariveda Solutions",
       "first_seen": "2026-10-04T11:31:09+00:00",
-      "last_seen": "2026-10-07T00:00:57+00:00",
+      "last_seen": "2026-10-09T23:06:56+00:00",
       "location": "Dallas, TX",
       "posted_at": "1789510968",
       "source": "simplify",
@@ -48646,6 +48686,16 @@
       "title": "AI & People Operations Intern",
       "url": "https://www.tripleringtech.com/careers?gh_jid=4705074005"
     },
+    "simplify:triumph::simplify-a26c7b74-1550-4e9f-bc9a-ed3c7465b92e": {
+      "company": "Triumph",
+      "first_seen": "2026-10-09T23:06:56+00:00",
+      "last_seen": "2026-10-09T23:06:56+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1791584817",
+      "source": "simplify",
+      "title": "Software Engineer - Multiple Teams",
+      "url": "https://jobs.ashbyhq.com/triumph-arcade/2d8c5061-2419-4755-80d8-c808eef4a82b/application?embed=true"
+    },
     "simplify:trm labs::simplify-f5849d4c-d690-4d3a-95c8-768b874ff26e": {
       "company": "TRM Labs",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -50836,6 +50886,16 @@
       "posted_at": "1787238475",
       "title": "Software Engineer",
       "url": "https://vivsofttechnologiesfa.applytojob.com/apply/QLa8RzmXAc/Software-Engineer-Entry-Level"
+    },
+    "simplify:vizient::simplify-26c69754-b42a-4afd-807e-41e2dfe8b206": {
+      "company": "Vizient",
+      "first_seen": "2026-10-09T23:06:56+00:00",
+      "last_seen": "2026-10-09T23:06:56+00:00",
+      "location": "Cape Girardeau, MO, Irving, TX",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer_35387R-1"
     },
     "simplify:volaris group::simplify-aad57fdf-2d09-4217-9e58-26594fe974db": {
       "company": "Volaris Group",
@@ -56714,5 +56774,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-09T23:06:17+00:00"
+  "updated_at": "2026-10-09T23:07:18+00:00"
 }
