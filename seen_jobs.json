@@ -1,5 +1,5 @@
 {
-  "count": 6908,
+  "count": 6909,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -748,6 +748,16 @@
       "source": "",
       "title": "2027 Systems Engineer Intern",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007"
+    },
+    "anduril::5262340007": {
+      "company": "Anduril",
+      "first_seen": "2026-10-09T16:30:13+00:00",
+      "last_seen": "2026-10-09T16:30:13+00:00",
+      "location": "Boston, Massachusetts, United States; Boulder, Colorado, United States; Costa Mesa, California, United States; Foothill Ranch, California, United States; Huntsville, Alabama, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
+      "posted_at": "2026-10-09T12:28:14-04:00",
+      "source": "",
+      "title": "2027 Early Career Systems Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007"
     },
     "apple::200664320-3810": {
       "company": "Apple",
@@ -56429,5 +56439,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-09T16:07:20+00:00"
+  "updated_at": "2026-10-09T16:30:37+00:00"
 }
