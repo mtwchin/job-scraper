@@ -4170,7 +4170,7 @@
     "simplify:adobe::simplify-a9900edf-029b-4f1e-98cb-a9a1c96f11b3": {
       "company": "Adobe",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-10-06T22:49:19+00:00",
+      "last_seen": "2026-10-10T06:05:04+00:00",
       "posted_at": "1788393600",
       "title": "Software Engineer Intern",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666"
@@ -24399,7 +24399,7 @@
     "simplify:intel::simplify-2d77d594-bd99-46dd-bb12-5e46c01f41e8": {
       "company": "Intel",
       "first_seen": "2026-09-25T23:20:48+00:00",
-      "last_seen": "2026-10-08T22:53:03+00:00",
+      "last_seen": "2026-10-10T06:05:04+00:00",
       "location": "Hillsboro, OR",
       "posted_at": "1790294400",
       "source": "simplify",
@@ -24517,7 +24517,7 @@
     "simplify:intel::simplify-ac297577-f4f9-4b73-ab38-00c094342140": {
       "company": "Intel",
       "first_seen": "2026-09-03T08:16:46+00:00",
-      "last_seen": "2026-10-08T22:53:03+00:00",
+      "last_seen": "2026-10-10T06:05:04+00:00",
       "posted_at": "1788307200",
       "title": "Software Engineer Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836"
@@ -56851,5 +56851,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-10T06:04:31+00:00"
+  "updated_at": "2026-10-10T06:10:33+00:00"
 }
