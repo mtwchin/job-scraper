@@ -1,5 +1,5 @@
 {
-  "count": 6941,
+  "count": 6942,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -28798,6 +28798,16 @@
       "title": "Software Developer Co-op",
       "url": "https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5/apply"
     },
+    "simplify:magnet forensics::simplify-978157d4-2173-4f60-a1c7-5b7e4bab53ea": {
+      "company": "Magnet Forensics",
+      "first_seen": "2026-10-10T01:34:55+00:00",
+      "last_seen": "2026-10-10T01:34:55+00:00",
+      "location": "Ontario, Canada, Waterloo, ON, Canada, Ottawa, ON, Canada",
+      "posted_at": "1791594595",
+      "source": "simplify",
+      "title": "Software Developer Co-op",
+      "url": "https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52/apply"
+    },
     "simplify:magnite::simplify-97fe6a41-dd50-4193-84c4-3bb8640b1710": {
       "company": "Magnite",
       "first_seen": "2026-10-06T07:02:28+00:00",
@@ -56801,5 +56811,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-10T01:34:26+00:00"
+  "updated_at": "2026-10-10T01:35:28+00:00"
 }
