@@ -29202,7 +29202,7 @@
     "simplify:marvell::simplify-42ef3361-65d3-45bc-bb21-c1fe2908bf6c": {
       "company": "Marvell",
       "first_seen": "2026-09-17T22:35:53+00:00",
-      "last_seen": "2026-10-09T00:00:55+00:00",
+      "last_seen": "2026-10-10T14:04:07+00:00",
       "location": "Burlington, VT",
       "posted_at": "1789603200",
       "source": "simplify",
@@ -56871,5 +56871,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-10T10:34:52+00:00"
+  "updated_at": "2026-10-10T14:04:55+00:00"
 }
