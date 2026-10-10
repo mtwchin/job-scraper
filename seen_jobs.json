@@ -1,5 +1,5 @@
 {
-  "count": 6942,
+  "count": 6946,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -9210,6 +9210,16 @@
       "posted_at": "1784124718",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1/application?embed=true"
+    },
+    "simplify:becton dickinson::simplify-98c33fd8-dca1-426d-a419-74413b56996d": {
+      "company": "Becton Dickinson",
+      "first_seen": "2026-10-10T01:36:57+00:00",
+      "last_seen": "2026-10-10T01:36:57+00:00",
+      "location": "Sparks, MD",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I_R-557002-1"
     },
     "simplify:bectran::simplify-fa279f49-798c-42a2-a38d-20ecffdb43e0": {
       "company": "Bectran",
@@ -33510,7 +33520,7 @@
     "simplify:nutanix::simplify-eff98609-6d2a-4e7a-8b80-9c0f39ea9e99": {
       "company": "Nutanix",
       "first_seen": "2026-09-29T23:06:26+00:00",
-      "last_seen": "2026-10-09T01:34:59+00:00",
+      "last_seen": "2026-10-10T01:36:57+00:00",
       "location": "Vancouver, BC, Canada",
       "posted_at": "1790115639",
       "source": "simplify",
@@ -33645,6 +33655,16 @@
       "source": "simplify",
       "title": "AI Compiler Engineer New Grad",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Compiler-Engineer--New-College-Grad-2027_JR2026011"
+    },
+    "simplify:nvidia::simplify-82fb089b-e0cb-414d-9953-9f5d35538486": {
+      "company": "NVIDIA",
+      "first_seen": "2026-10-10T01:36:57+00:00",
+      "last_seen": "2026-10-10T01:36:57+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "C++ Software Engineer New Grad - Infrastructure Tools",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431"
     },
     "simplify:nvidia::simplify-86cb0b1e-3691-4e3c-a4ec-c65f90643d87": {
       "company": "NVIDIA",
@@ -35699,6 +35719,16 @@
       "posted_at": "1782436146",
       "title": "Member of Technical Staff - AI Policy and Strategic Initiatives",
       "url": "https://jobs.ashbyhq.com/Perplexity/91b941ae-0bd0-4322-8c0e-491abacdc33a/application"
+    },
+    "simplify:perr&knight::simplify-1f76312f-1032-4bed-9c8d-8dec5f268526": {
+      "company": "Perr&Knight",
+      "first_seen": "2026-10-10T01:36:57+00:00",
+      "last_seen": "2026-10-10T01:36:57+00:00",
+      "location": "Charlotte, NC",
+      "posted_at": "1791594830",
+      "source": "simplify",
+      "title": "Associate Programmer",
+      "url": "https://jobs.lever.co/perrknight/b15ed1e0-a7f1-444a-8130-6047c4cbcf44/apply"
     },
     "simplify:perseus group::simplify-0bef063c-0252-40bc-a594-e3c26379865e": {
       "company": "Perseus Group",
@@ -41788,6 +41818,16 @@
       "source": "simplify",
       "title": "Simulation Framework Engineer 1",
       "url": "https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba/apply"
+    },
+    "simplify:shield ai::simplify-6a2ed12f-7233-49b7-80af-74bb4795ed0e": {
+      "company": "Shield AI",
+      "first_seen": "2026-10-10T01:36:57+00:00",
+      "last_seen": "2026-10-10T01:36:57+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1791594528",
+      "source": "simplify",
+      "title": "Software Engineer 2 - Factory",
+      "url": "https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5/apply"
     },
     "simplify:shield ai::simplify-b2bf950b-bf97-4b9c-8ab7-e96bfd87276a": {
       "company": "Shield AI",
@@ -56811,5 +56851,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-10T01:35:28+00:00"
+  "updated_at": "2026-10-10T01:37:30+00:00"
 }
