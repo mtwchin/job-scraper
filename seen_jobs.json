@@ -15023,7 +15023,7 @@
     "simplify:costar group::simplify-fad2e0d4-274c-40b8-b96d-c769ef5ee9da": {
       "company": "CoStar Group",
       "first_seen": "2026-09-17T02:17:33+00:00",
-      "last_seen": "2026-10-09T00:00:55+00:00",
+      "last_seen": "2026-10-10T14:32:24+00:00",
       "location": "San Diego, CA",
       "posted_at": "1789516800",
       "source": "simplify",
@@ -56871,5 +56871,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-10T14:04:55+00:00"
+  "updated_at": "2026-10-10T14:33:07+00:00"
 }
