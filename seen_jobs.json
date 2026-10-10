@@ -226,6 +226,33 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/riotgamesup/jobs/8222015"
     },
+    "simplify:workday::simplify-0a37326a-6eb6-4459-8249-044ccfac8600": {
+      "attempted_at": "2026-10-10T01:33:57+00:00",
+      "company": "Workday",
+      "location": "Pleasanton, CA",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Software Application Development Engineer Intern",
+      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811"
+    },
+    "simplify:workday::simplify-2ab54297-543e-4470-b71e-2e95b53cd687": {
+      "attempted_at": "2026-10-10T01:33:57+00:00",
+      "company": "Workday",
+      "location": "Pleasanton, CA",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810"
+    },
+    "simplify:workday::simplify-94a30c63-9e16-4706-b9bb-9713c9b0afd0": {
+      "attempted_at": "2026-10-10T01:33:57+00:00",
+      "company": "Workday",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Software Development Engineer Intern",
+      "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807"
+    },
     "ziprecruiter::8127108": {
       "attempted_at": "2026-09-24T16:22:51+00:00",
       "company": "ZipRecruiter",
@@ -56774,5 +56801,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-10T00:07:23+00:00"
+  "updated_at": "2026-10-10T01:34:26+00:00"
 }
