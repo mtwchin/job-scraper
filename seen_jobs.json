@@ -1,5 +1,5 @@
 {
-  "count": 6946,
+  "count": 6947,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -41847,6 +41847,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply"
     },
+    "simplify:shield ai::simplify-c0e68386-5f91-485f-86a7-c92db1919740": {
+      "company": "Shield AI",
+      "first_seen": "2026-10-10T06:37:11+00:00",
+      "last_seen": "2026-10-10T06:37:11+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1791612416",
+      "source": "simplify",
+      "title": "Software Engineer 1 - Factory Team",
+      "url": "https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply"
+    },
     "simplify:shopback::simplify-2555118e-7714-4f03-b900-03de0e5c29db": {
       "company": "ShopBack",
       "first_seen": "2026-10-02T09:35:40+00:00",
@@ -56851,5 +56861,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-10T06:34:35+00:00"
+  "updated_at": "2026-10-10T06:37:38+00:00"
 }
