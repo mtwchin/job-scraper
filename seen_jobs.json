@@ -1,5 +1,5 @@
 {
-  "count": 6948,
+  "count": 6949,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -40089,6 +40089,18 @@
       "title": "Hardware In the Loop Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/HWIL-Software-Engineer-I_01874565"
     },
+    "simplify:rtx::simplify-8f6341ff-47e2-4a91-8d5d-fca1f79014c0": {
+      "company": "RTX",
+      "duplicate_of": "simplify:rtx::simplify-4d44f45d-0a4d-4b56-a47a-9b17c5efd161",
+      "first_seen": "2026-10-10T15:32:23+00:00",
+      "last_seen": "2026-10-10T15:32:23+00:00",
+      "location": "Melbourne, FL",
+      "posted_at": "1791504000",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918"
+    },
     "simplify:rtx::simplify-8fea2128-ad21-47ad-b431-eb973db4321e": {
       "company": "RTX",
       "first_seen": "2026-08-15T01:54:44+00:00",
@@ -56871,5 +56883,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-10T14:33:07+00:00"
+  "updated_at": "2026-10-10T15:33:09+00:00"
 }
