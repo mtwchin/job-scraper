@@ -1,5 +1,5 @@
 {
-  "count": 6949,
+  "count": 6952,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -26189,6 +26189,38 @@
       "posted_at": "1782511655",
       "title": "Software Engineer Co-op - Gameplay",
       "url": "https://jobs.lever.co/kabam/ad42a9d4-838d-443e-be94-e18b9097851e/apply"
+    },
+    "simplify:kainos::simplify-8c0c58e2-09a5-4405-af40-3b87b72fd72f": {
+      "company": "Kainos",
+      "first_seen": "2026-10-12T01:35:12+00:00",
+      "last_seen": "2026-10-12T01:35:12+00:00",
+      "location": "Londonderry, UK",
+      "posted_at": "1791763200",
+      "source": "simplify",
+      "title": "Placement Technologist Intern",
+      "url": "https://kainos.wd3.myworkdayjobs.com/kainos/job/Derry-Londonderry/Placement-Technologist--L-Derry----June-2027-Start-Date_JR_18557-1"
+    },
+    "simplify:kainos::simplify-a7112c54-daee-40dc-9bdd-14200a12ff83": {
+      "company": "Kainos",
+      "duplicate_of": "simplify:kainos::simplify-be3d3958-ecd3-4487-834d-28d5529d33ed",
+      "first_seen": "2026-10-12T01:35:12+00:00",
+      "last_seen": "2026-10-12T01:35:12+00:00",
+      "location": "Birmingham, UK",
+      "posted_at": "1791763200",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Technologist Intern",
+      "url": "https://kainos.wd3.myworkdayjobs.com/kainos/job/Birmingham/Placement-Technologist--Birmingham----July-2027-Start-Date_JR_18558"
+    },
+    "simplify:kainos::simplify-be3d3958-ecd3-4487-834d-28d5529d33ed": {
+      "company": "Kainos",
+      "first_seen": "2026-10-12T01:35:12+00:00",
+      "last_seen": "2026-10-12T01:35:12+00:00",
+      "location": "Belfast, UK; Birmingham, UK",
+      "posted_at": "1791763200",
+      "source": "simplify",
+      "title": "Technologist Intern",
+      "url": "https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Placement-Technologist--Belfast----June-2027-Start-Date_JR_18556"
     },
     "simplify:kanbrick::simplify-fc0ba9c7-8038-43b5-ae74-d319237d1147": {
       "company": "Kanbrick",
@@ -56883,5 +56915,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-12T00:07:00+00:00"
+  "updated_at": "2026-10-12T01:36:03+00:00"
 }
