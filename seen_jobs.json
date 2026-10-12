@@ -1,5 +1,5 @@
 {
-  "count": 6981,
+  "count": 6987,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -10645,6 +10645,16 @@
       "title": "Research Assistant",
       "url": "https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Research-Assistant--TEMPORARY---part-time-175-hrs-wk-_JR-10728"
     },
+    "simplify:brillio::simplify-4f0098a5-8b39-4eb8-bced-1938179eed05": {
+      "company": "Brillio",
+      "first_seen": "2026-10-12T23:05:35+00:00",
+      "last_seen": "2026-10-12T23:05:35+00:00",
+      "location": "Coppell, TX",
+      "posted_at": "1791843425",
+      "source": "simplify",
+      "title": "Full Stack AI Engineer",
+      "url": "https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2/apply"
+    },
     "simplify:british columbia investment::simplify-095cf7aa-8dee-4685-b19f-2d1df8abaa01": {
       "company": "British Columbia Investment",
       "first_seen": "2026-09-17T13:17:53+00:00",
@@ -16027,6 +16037,16 @@
       "title": "Software Engineer Intern",
       "url": "https://boards.greenhouse.io/embed/job_app?token=8732364002"
     },
+    "simplify:datacor::simplify-db15cdd6-f533-4bb9-a03f-e98157fb9df0": {
+      "company": "Datacor",
+      "first_seen": "2026-10-12T23:05:35+00:00",
+      "last_seen": "2026-10-12T23:05:35+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1791843451",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/datacor/jobs/5257433007"
+    },
     "simplify:datadog::simplify-47fe2157-ddd3-4233-87d7-cf96058a286d": {
       "company": "Datadog",
       "first_seen": "2026-08-17T15:53:02+00:00",
@@ -17280,6 +17300,16 @@
       "posted_at": "1787529600",
       "title": "Software Development Intern - Spring 2027",
       "url": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Software-Development-Intern---Spring-2027_REQ634"
+    },
+    "simplify:duke energy::simplify-f1cfc7fb-05c9-4483-ba10-7aa8fcca688f": {
+      "company": "Duke Energy",
+      "first_seen": "2026-10-12T23:05:35+00:00",
+      "last_seen": "2026-10-12T23:05:35+00:00",
+      "location": "Charlotte, NC",
+      "posted_at": "1791763200",
+      "source": "simplify",
+      "title": "Associate Software Engineer - iGrid",
+      "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Associate-IT-Software-Engineer_R41973"
     },
     "simplify:dunn solutions group::simplify-067a35d4-40e1-4bbd-9e22-956a8a7ec3ad": {
       "company": "Dunn Solutions Group",
@@ -29332,6 +29362,16 @@
       "title": "Associate Software Engineer",
       "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/San-Antonio-Texas/Associate-Software-Engineer_00023623"
     },
+    "simplify:marigold::simplify-2568859c-6383-4f07-a5dc-5350765a1d3a": {
+      "company": "Marigold",
+      "first_seen": "2026-10-12T23:05:35+00:00",
+      "last_seen": "2026-10-12T23:05:35+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1791763200",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487"
+    },
     "simplify:maritz::simplify-e5dcf151-a718-4c4b-9591-5dfe88d744dc": {
       "company": "Maritz",
       "first_seen": "2026-07-21T22:15:56+00:00",
@@ -30657,6 +30697,16 @@
       "title": "Software Development Engineer - Azure PostgreSQL",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556959253"
     },
+    "simplify:microsoft::simplify-1d54b27d-8a8b-4037-85f3-347baff81004": {
+      "company": "Microsoft",
+      "first_seen": "2026-10-12T23:05:34+00:00",
+      "last_seen": "2026-10-12T23:05:34+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1791843002",
+      "source": "simplify",
+      "title": "Software Engineering",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556999878"
+    },
     "simplify:microsoft::simplify-31b3c490-c657-472c-8aec-d367ec0d3a3a": {
       "company": "Microsoft",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -31152,6 +31202,16 @@
       "posted_at": "1788393600",
       "title": "Software Development Intern",
       "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756"
+    },
+    "simplify:momentum engineering::simplify-62ab028d-331e-41a8-95de-eb17fc746284": {
+      "company": "Momentum Engineering",
+      "first_seen": "2026-10-12T23:05:35+00:00",
+      "last_seen": "2026-10-12T23:05:35+00:00",
+      "location": "Annapolis Junction, MD",
+      "posted_at": "1791843774",
+      "source": "simplify",
+      "title": "Software Engineer 0",
+      "url": "https://ats.rippling.com/momentumcareers/jobs/dbcd3c46-e2fa-4d75-8da1-ac8d15d3771e"
     },
     "simplify:momentum engineering::simplify-68577c4c-9872-402a-ba7c-94206ea0fbe4": {
       "company": "Momentum Engineering",
@@ -32548,7 +32608,7 @@
     "simplify:nordstrom::simplify-addc9110-286b-45d0-9b03-24ea2d3042c6": {
       "company": "Nordstrom",
       "first_seen": "2026-10-07T23:08:09+00:00",
-      "last_seen": "2026-10-09T00:00:55+00:00",
+      "last_seen": "2026-10-12T23:05:34+00:00",
       "location": "Seattle, WA",
       "posted_at": "1791331200",
       "source": "simplify",
@@ -50602,7 +50662,7 @@
     "simplify:varsity brands::simplify-416e85c5-846c-4613-8d4d-2eccfbae2735": {
       "company": "Varsity Brands",
       "first_seen": "2026-09-26T04:51:08+00:00",
-      "last_seen": "2026-10-06T00:00:06+00:00",
+      "last_seen": "2026-10-12T23:05:34+00:00",
       "location": "Memphis, TN",
       "posted_at": "1790385444",
       "source": "simplify",
@@ -57217,5 +57277,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-12T22:35:23+00:00"
+  "updated_at": "2026-10-12T23:06:26+00:00"
 }
