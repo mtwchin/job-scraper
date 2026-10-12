@@ -1,5 +1,5 @@
 {
-  "count": 6968,
+  "count": 6969,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -35315,6 +35315,16 @@
       "title": "Software Engineer TS",
       "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer_R175644-1"
     },
+    "simplify:parsons::simplify-5ce92528-85a6-48e7-9cc5-4cd1222d3250": {
+      "company": "Parsons",
+      "first_seen": "2026-10-12T15:37:47+00:00",
+      "last_seen": "2026-10-12T15:37:47+00:00",
+      "location": "Charlotte, NC, Centreville, VA",
+      "posted_at": "1788307200",
+      "source": "simplify",
+      "title": "Engineering Internship/Co-op",
+      "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Engineering-Internship---Co-Op-Summer-2027_R185683"
+    },
     "simplify:parsons::simplify-64994a10-7a52-4808-b7b9-40c15e254d93": {
       "company": "Parsons",
       "first_seen": "2026-10-09T16:06:35+00:00",
@@ -57086,5 +57096,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-12T15:33:51+00:00"
+  "updated_at": "2026-10-12T15:37:53+00:00"
 }
