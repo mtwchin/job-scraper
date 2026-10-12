@@ -1,5 +1,5 @@
 {
-  "count": 6956,
+  "count": 6957,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -1512,6 +1512,16 @@
       "posted_at": "",
       "title": "Software Developer Intern Ms Summer 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/138960139137753798-software-developer-intern-ms-summer-2027"
+    },
+    "google::75665705386549958": {
+      "company": "Google",
+      "first_seen": "2026-10-12T09:10:47+00:00",
+      "last_seen": "2026-10-12T09:10:47+00:00",
+      "location": "United States",
+      "posted_at": "",
+      "source": "",
+      "title": "Forward Deployed Engineering Intern Bsms Summer 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/75665705386549958-forward-deployed-engineering-intern-bsms-summer-2027"
     },
     "google::76982475250639558": {
       "company": "Google",
@@ -56957,5 +56967,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-12T06:37:21+00:00"
+  "updated_at": "2026-10-12T09:11:24+00:00"
 }
