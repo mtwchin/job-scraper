@@ -1,5 +1,5 @@
 {
-  "count": 6969,
+  "count": 6970,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -1332,6 +1332,16 @@
       "posted_at": "2026-09-08T23:51:35.588+00:00",
       "title": "Software Engineer, New Grad 2027",
       "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
+    },
+    "databricks::6865687002": {
+      "company": "Databricks",
+      "first_seen": "2026-10-12T16:35:22+00:00",
+      "last_seen": "2026-10-12T16:35:22+00:00",
+      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
+      "posted_at": "2026-10-12T12:34:54-04:00",
+      "source": "",
+      "title": "Software Engineering Intern (2027)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"
     },
     "databricks::8732364002": {
       "company": "Databricks",
@@ -57096,5 +57106,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-12T16:04:59+00:00"
+  "updated_at": "2026-10-12T16:36:01+00:00"
 }
