@@ -1,5 +1,5 @@
 {
-  "count": 6970,
+  "count": 6971,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -1827,6 +1827,16 @@
       "source": "",
       "title": "Software Engineering PhD Intern New 2027",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1"
+    },
+    "intel::Student-Intern--Collaboration-Services-System-Programmer_JR0287833": {
+      "company": "Intel",
+      "first_seen": "2026-10-12T22:02:42+00:00",
+      "last_seen": "2026-10-12T22:02:42+00:00",
+      "location": "Costa Rica, San Jose",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Student Intern, Collaboration Services System Programmer",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/Student-Intern--Collaboration-Services-System-Programmer_JR0287833"
     },
     "intel::System-Software-Engineering---PhD-Intern_JR0287457": {
       "company": "Intel",
@@ -57106,5 +57116,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-12T21:43:17+00:00"
+  "updated_at": "2026-10-12T22:03:19+00:00"
 }
