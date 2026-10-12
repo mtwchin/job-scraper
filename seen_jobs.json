@@ -1,5 +1,5 @@
 {
-  "count": 6976,
+  "count": 6981,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -3814,6 +3814,16 @@
       "title": "Associate Engineer - Technology I",
       "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014058986"
     },
+    "simplify:abbvie::simplify-bc3e53cc-9c7a-49fa-afa7-8bede1da1df5": {
+      "company": "AbbVie",
+      "first_seen": "2026-10-12T22:34:35+00:00",
+      "last_seen": "2026-10-12T22:34:35+00:00",
+      "location": "North Chicago, IL",
+      "posted_at": "1791842737",
+      "source": "simplify",
+      "title": "Associate Engineer - Technology 1",
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016054796"
+    },
     "simplify:abbvie::simplify-d77ab18e-96cd-4110-89ca-b38044f2e7d6": {
       "company": "AbbVie",
       "first_seen": "2026-08-12T03:29:34+00:00",
@@ -3993,6 +4003,16 @@
       "posted_at": "1788298375",
       "title": "Associate Software Engineer - Pega",
       "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006"
+    },
+    "simplify:accenture::simplify-c8d29e73-aa91-42fb-92af-482d6cdb70d4": {
+      "company": "Accenture",
+      "first_seen": "2026-10-12T22:34:35+00:00",
+      "last_seen": "2026-10-12T22:34:35+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1791842918",
+      "source": "simplify",
+      "title": "System Architect",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4721109006"
     },
     "simplify:accenture::simplify-d0a9728d-9b6d-4a2f-93c8-353744757b18": {
       "company": "Accenture",
@@ -16694,6 +16714,16 @@
       "title": "Software Development Engineer 1",
       "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540"
     },
+    "simplify:dexcom::simplify-c5f0ccae-5750-4c3e-9954-d45d8150a0a2": {
+      "company": "Dexcom",
+      "first_seen": "2026-10-12T22:34:35+00:00",
+      "last_seen": "2026-10-12T22:34:35+00:00",
+      "location": "California",
+      "posted_at": "1791763200",
+      "source": "simplify",
+      "title": "Software Development Engineer 1",
+      "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-California/SW-Development-Engineer-1_JR121427"
+    },
     "simplify:dexmate::simplify-d9486fde-2890-432b-94f2-554f296d58bc": {
       "company": "Dexmate",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -23894,7 +23924,7 @@
     "simplify:id.me::simplify-96e1951b-5f22-4c47-8da1-269eee7486fa": {
       "company": "ID.me",
       "first_seen": "2026-10-05T23:17:18+00:00",
-      "last_seen": "2026-10-06T00:00:06+00:00",
+      "last_seen": "2026-10-12T22:34:35+00:00",
       "location": "Mountain View, CA",
       "posted_at": "1791238953",
       "source": "simplify",
@@ -33825,6 +33855,7 @@
     "simplify:nvidia::simplify-30612f5b-226b-4ab8-9610-ae2ae82ca2a0": {
       "company": "NVIDIA",
       "first_seen": "2026-07-22T23:48:29+00:00",
+      "last_seen": "2026-10-12T22:34:35+00:00",
       "posted_at": "1764565831",
       "title": "Developer Technology Engineer \u2013 New College Grad - Public Sector",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--Public-Sector---New-College-Grad-2026_JR2008990"
@@ -44211,6 +44242,16 @@
       "title": "Senior Software Engineer",
       "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4686234006"
     },
+    "simplify:str::simplify-bb65ac0a-307a-4a41-976e-1baeafd3355f": {
+      "company": "STR",
+      "first_seen": "2026-10-12T22:34:35+00:00",
+      "last_seen": "2026-10-12T22:34:35+00:00",
+      "location": "Woburn, MA",
+      "posted_at": "1791842845",
+      "source": "simplify",
+      "title": "Associate Embedded Systems Emulation Engineer",
+      "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4721162006"
+    },
     "simplify:strada::simplify-8900ebd2-3908-4311-861b-2774c0681730": {
       "company": "Strada",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -49049,6 +49090,16 @@
       "posted_at": "1788825600",
       "title": "Software Engineer Intern",
       "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676"
+    },
+    "simplify:trinet::simplify-b2923a29-715c-4b61-b190-c00f11a10529": {
+      "company": "TriNet",
+      "first_seen": "2026-10-12T22:34:35+00:00",
+      "last_seen": "2026-10-12T22:34:35+00:00",
+      "location": "Remote in USA, Atlanta, GA",
+      "posted_at": "1791842782",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004087"
     },
     "simplify:tripadvisor::simplify-b1e25a04-c0cf-4584-9b3c-cb00a33139c3": {
       "company": "TripAdvisor",
@@ -57166,5 +57217,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-12T22:34:21+00:00"
+  "updated_at": "2026-10-12T22:35:23+00:00"
 }
