@@ -1,5 +1,5 @@
 {
-  "count": 6960,
+  "count": 6963,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -15864,6 +15864,26 @@
       "title": "Software Engineer 1",
       "url": "https://careers.dat.com/jobs/6091895004?gh_jid=6091895004"
     },
+    "simplify:data intellect::simplify-a5e3e6a9-c7ea-4b56-822e-5ac9d108ab9e": {
+      "company": "Data Intellect",
+      "first_seen": "2026-10-12T14:35:22+00:00",
+      "last_seen": "2026-10-12T14:35:22+00:00",
+      "location": "Belfast, UK",
+      "posted_at": "1791813923",
+      "source": "simplify",
+      "title": "Graduate STEM Developer",
+      "url": "https://jobs.smartrecruiters.com/DataIntellect/744000154937120"
+    },
+    "simplify:data intellect::simplify-b056989f-6174-46ac-97e8-ab2037a94c27": {
+      "company": "Data Intellect",
+      "first_seen": "2026-10-12T14:35:22+00:00",
+      "last_seen": "2026-10-12T14:35:22+00:00",
+      "location": "Belfast, UK",
+      "posted_at": "1791813922",
+      "source": "simplify",
+      "title": "STEM Developer New Grad",
+      "url": "https://jobs.smartrecruiters.com/DataIntellect/744000154938759"
+    },
     "simplify:data intellect::simplify-e8249f6e-ca38-4ecd-b7e5-cc47d973905a": {
       "company": "Data Intellect",
       "first_seen": "2026-09-23T16:15:40+00:00",
@@ -21925,7 +21945,7 @@
     "simplify:goldman sachs::simplify-ebecfe1f-3890-4cf8-8663-d7b118197e24": {
       "company": "Goldman Sachs",
       "first_seen": "2026-08-15T15:35:14+00:00",
-      "last_seen": "2026-10-11T14:32:39+00:00",
+      "last_seen": "2026-10-12T14:35:21+00:00",
       "posted_at": "1786767937",
       "title": "New Analyst - Engineering",
       "url": "https://higher.gs.com/roles/171569?type=students"
@@ -52173,6 +52193,16 @@
       "title": "Entry Level C++ Software Engineer",
       "url": "https://wolve.pinpointhq.com/en/postings/1f33c89b-2592-498d-b45a-1b2092cf944e?ats=pinpointhq"
     },
+    "simplify:wolverine trading::simplify-1935c5df-770d-45f2-bbde-4d4a462ad5cb": {
+      "company": "Wolverine Trading",
+      "first_seen": "2026-10-12T14:35:22+00:00",
+      "last_seen": "2026-10-12T14:35:22+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1791814756",
+      "source": "simplify",
+      "title": "Early Career C++ Software Engineer",
+      "url": "https://wolve.pinpointhq.com/en/postings/4b0e86a1-db36-4490-9a98-17782ffcc648?ats=pinpointhq"
+    },
     "simplify:wolverine trading::simplify-24b848e7-18bc-4eab-b684-9d352141cbdd": {
       "company": "Wolverine Trading",
       "first_seen": "2026-08-15T01:54:44+00:00",
@@ -56997,5 +57027,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-12T14:24:44+00:00"
+  "updated_at": "2026-10-12T14:35:46+00:00"
 }
