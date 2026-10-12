@@ -1,5 +1,5 @@
 {
-  "count": 6957,
+  "count": 6959,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -15283,6 +15283,16 @@
       "title": "Systems Engineer 1",
       "url": "https://jobs.smartrecruiters.com/CrownInnovationsInc/744000144160949"
     },
+    "simplify:crown innovations::simplify-df3768d8-aca4-41b1-bdc0-2874bc2151d2": {
+      "company": "Crown Innovations",
+      "first_seen": "2026-10-12T10:06:46+00:00",
+      "last_seen": "2026-10-12T10:06:46+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1791798143",
+      "source": "simplify",
+      "title": "Intern",
+      "url": "https://jobs.smartrecruiters.com/TBD20261012CrownInnovationsInc/744000144112445"
+    },
     "simplify:crusoe::simplify-929cfe45-2ac9-4d39-80b3-b3fa750e2ceb": {
       "company": "Crusoe",
       "first_seen": "2026-08-20T01:44:05+00:00",
@@ -27620,6 +27630,16 @@
       "posted_at": "1785506597",
       "title": "Software Engineering Associate",
       "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors"
+    },
+    "simplify:lance::simplify-3006c01e-96d7-4dd6-92e3-db3d1467b46d": {
+      "company": "Lance",
+      "first_seen": "2026-10-12T10:06:46+00:00",
+      "last_seen": "2026-10-12T10:06:46+00:00",
+      "location": "SF",
+      "posted_at": "1782482879",
+      "source": "simplify",
+      "title": "Product Engineer",
+      "url": "https://jobs.ashbyhq.com/Lance/294e2602-725c-4d84-a7a0-a1fc602acec8/application?embed=true"
     },
     "simplify:laserfiche::simplify-3937a504-382b-4061-a6ac-e27d6b2f4540": {
       "company": "Laserfiche",
@@ -56967,5 +56987,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-12T09:11:24+00:00"
+  "updated_at": "2026-10-12T10:07:27+00:00"
 }
