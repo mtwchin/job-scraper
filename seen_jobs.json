@@ -1,5 +1,5 @@
 {
-  "count": 7057,
+  "count": 7059,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -7765,6 +7765,16 @@
       "posted_at": "1773846198",
       "title": "SW Engineer Intern, iOS (AI-Assisted Development)",
       "url": "https://arlo.wd12.myworkdayjobs.com/en-US/external_careers/job/Milpitas-CA/SW-Engineer-Intern--iOS--AI-Assisted-Development-_JR100299"
+    },
+    "simplify:armadin::simplify-2599beb7-cad8-4b9b-9020-7baf41143bfb": {
+      "company": "Armadin",
+      "first_seen": "2026-10-13T23:03:21+00:00",
+      "last_seen": "2026-10-13T23:03:21+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1791929852",
+      "source": "simplify",
+      "title": "Frontend Engineer Intern - Member of Technical Staff",
+      "url": "https://jobs.ashbyhq.com/armadin/571d7673-ce4b-414c-b736-38297d1d2b8b/application?embed=true"
     },
     "simplify:armadin::simplify-4d6c1aee-d6d2-466a-8c2b-c74c48746c43": {
       "company": "Armadin",
@@ -42406,6 +42416,18 @@
       "title": "Software Engineer Intern - Communications & Cyber Security",
       "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-23076"
     },
+    "simplify:schweitzer engineering laboratories::simplify-39fa3b6e-c238-4958-a741-72035b1798f4": {
+      "company": "Schweitzer Engineering Laboratories",
+      "duplicate_of": "simplify:schweitzer engineering laboratories::simplify-50be2257-187c-46a4-aedc-d35d1f37a185",
+      "first_seen": "2026-10-13T23:03:20+00:00",
+      "last_seen": "2026-10-13T23:03:20+00:00",
+      "location": "Spokane Valley, WA",
+      "posted_at": "1791849600",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Software-Engineer-Intern_2026-21231"
+    },
     "simplify:schweitzer engineering laboratories::simplify-50be2257-187c-46a4-aedc-d35d1f37a185": {
       "company": "Schweitzer Engineering Laboratories",
       "first_seen": "2026-10-13T01:31:58+00:00",
@@ -57999,5 +58021,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-13T22:36:05+00:00"
+  "updated_at": "2026-10-13T23:04:07+00:00"
 }
