@@ -1,5 +1,5 @@
 {
-  "count": 7022,
+  "count": 7039,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -3889,6 +3889,16 @@
       "posted_at": "1786497124",
       "title": "Associate Software Engineer 1",
       "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014551564"
+    },
+    "simplify:abbvie::simplify-dbb839ad-3507-43c5-980d-660e142114dd": {
+      "company": "AbbVie",
+      "first_seen": "2026-10-13T22:34:18+00:00",
+      "last_seen": "2026-10-13T22:34:18+00:00",
+      "location": "North Chicago, IL",
+      "posted_at": "1791929137",
+      "source": "simplify",
+      "title": "Integration Engineer",
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016088967"
     },
     "simplify:abbvie::simplify-f40a37c8-77b2-4062-8e57-b644127a95ea": {
       "company": "AbbVie",
@@ -8725,12 +8735,32 @@
       "title": "Cloud Operations & Infrastructure Graduate",
       "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Cloud-Developer-Graduate_R011704"
     },
+    "simplify:aveva::simplify-2500e2f7-e88f-499d-aa0c-99fcc6697cb0": {
+      "company": "AVEVA",
+      "first_seen": "2026-10-13T22:34:18+00:00",
+      "last_seen": "2026-10-13T22:34:18+00:00",
+      "location": "Lake Forest, CA, Scottsdale, AZ",
+      "posted_at": "1791849600",
+      "source": "simplify",
+      "title": "Cloud Operations & Infrastructure Graduate",
+      "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Cloud-Operations---Infrastructure-Graduate---USA_R014948-2"
+    },
     "simplify:aveva::simplify-25c78c31-7ddc-4133-b614-555627b96299": {
       "company": "AVEVA",
       "first_seen": "2026-07-20T23:15:00+00:00",
       "posted_at": "1784505600",
       "title": "Software Developer Intern Co-op",
       "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478"
+    },
+    "simplify:aveva::simplify-b5b14ba0-16bc-4654-ab8a-32be13589b2b": {
+      "company": "AVEVA",
+      "first_seen": "2026-10-13T22:34:17+00:00",
+      "last_seen": "2026-10-13T22:34:17+00:00",
+      "location": "Lake Forest, CA, Philadelphia, PA, San Leandro, CA, Scottsdale, AZ",
+      "posted_at": "1791849600",
+      "source": "simplify",
+      "title": "Software Developer Graduate - AI Proficient",
+      "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Software-Developer-Graduate--AI-Proficient--USA_R014947"
     },
     "simplify:avis budget group::simplify-23eccfe8-4364-45b3-a8ef-cb8127b89e2c": {
       "company": "Avis Budget Group",
@@ -10018,6 +10048,16 @@
       "title": "Artificial Intelligence Software Engineer Intern - Graduate Researcher Program",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687"
     },
+    "simplify:boeing::simplify-6fdafa9b-5cfa-42af-a06c-8507c8b2f10b": {
+      "company": "Boeing",
+      "first_seen": "2026-10-13T22:34:17+00:00",
+      "last_seen": "2026-10-13T22:34:17+00:00",
+      "location": "Richardson, TX",
+      "posted_at": "1791849600",
+      "source": "simplify",
+      "title": "Entry-Level Software Engineer Developer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1"
+    },
     "simplify:boeing::simplify-96ce500e-5e6d-4796-8787-89a69ab30d04": {
       "company": "Boeing",
       "first_seen": "2026-09-10T00:38:47+00:00",
@@ -10127,6 +10167,16 @@
       "source": "simplify",
       "title": "Full-Stack Developer",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---Full-Stack-Developer_R0251336"
+    },
+    "simplify:booz allen::simplify-2f96a21c-6810-4832-93d3-75426749562b": {
+      "company": "Booz Allen",
+      "first_seen": "2026-10-13T22:34:18+00:00",
+      "last_seen": "2026-10-13T22:34:18+00:00",
+      "location": "Annapolis Junction, MD",
+      "posted_at": "1790726400",
+      "source": "simplify",
+      "title": "Agentic AI Engineer",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/Agentic-AI-Engineer_R0250649"
     },
     "simplify:booz allen::simplify-329ae872-f7a6-4cd2-b63f-28ec9e81bbe8": {
       "company": "Booz Allen",
@@ -11922,6 +11972,16 @@
       "title": "Software Development/Engineer Intern",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1"
     },
+    "simplify:caci::simplify-5fcf69e5-29f1-4b05-95d7-9dae41b0c6c0": {
+      "company": "CACI",
+      "first_seen": "2026-10-13T22:34:17+00:00",
+      "last_seen": "2026-10-13T22:34:17+00:00",
+      "location": "Lisle, IL",
+      "posted_at": "1791849600",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Lisle-IL-US/Software-Engineer_333520"
+    },
     "simplify:caci::simplify-6af8c893-078d-4b0c-895a-7fe8105ba976": {
       "company": "CACI",
       "first_seen": "2026-07-21T08:47:36+00:00",
@@ -12047,7 +12107,7 @@
     "simplify:caci::simplify-b8a0da3d-3c2c-4f9e-bced-378378271310": {
       "company": "CACI",
       "first_seen": "2026-10-06T23:36:53+00:00",
-      "last_seen": "2026-10-09T00:00:55+00:00",
+      "last_seen": "2026-10-13T22:34:17+00:00",
       "location": "Ashburn, VA",
       "posted_at": "1790553600",
       "source": "simplify",
@@ -15837,6 +15897,46 @@
       "title": "Associate Software Development Engineer - Conversion",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/MD---Work-from-home/Associate-Software-Development-Engineer--Conversion-_R1055601"
     },
+    "simplify:cwill::simplify-180f8a05-a771-495d-ba8b-9aa51d787a12": {
+      "company": "CWILL",
+      "first_seen": "2026-10-13T22:34:17+00:00",
+      "last_seen": "2026-10-13T22:34:17+00:00",
+      "location": "Cary, NC",
+      "posted_at": "1791929813",
+      "source": "simplify",
+      "title": "Pop-Up & Email Marketing R&D Trainee - Full-Stack Engineer - Bilingual Mandarin",
+      "url": "https://apply.workable.com/cwill-us/j/7DB1CEF480/apply"
+    },
+    "simplify:cwill::simplify-69f791bc-560a-4845-acb4-860c87ecb2bb": {
+      "company": "CWILL",
+      "first_seen": "2026-10-13T22:34:17+00:00",
+      "last_seen": "2026-10-13T22:34:17+00:00",
+      "location": "Cary, NC",
+      "posted_at": "1791929828",
+      "source": "simplify",
+      "title": "Loyalty & Referrals R&D Trainee",
+      "url": "https://apply.workable.com/cwill-us/j/3DE00A2E99/apply"
+    },
+    "simplify:cwill::simplify-6b243d6c-9248-4efd-92ec-e6d7427549d2": {
+      "company": "CWILL",
+      "first_seen": "2026-10-13T22:34:17+00:00",
+      "last_seen": "2026-10-13T22:34:17+00:00",
+      "location": "Cary, NC",
+      "posted_at": "1791929813",
+      "source": "simplify",
+      "title": "AI Chat R&D Trainee - Multiple Teams",
+      "url": "https://apply.workable.com/cwill-us/j/116215D01E/apply"
+    },
+    "simplify:cwill::simplify-904e201b-5911-481f-9f12-18cde2146a70": {
+      "company": "CWILL",
+      "first_seen": "2026-10-13T22:34:17+00:00",
+      "last_seen": "2026-10-13T22:34:17+00:00",
+      "location": "Cary, NC",
+      "posted_at": "1791929813",
+      "source": "simplify",
+      "title": "R&D Trainee - Full-Stack Engineer - Backend",
+      "url": "https://apply.workable.com/cwill-us/j/D6136D8314/apply"
+    },
     "simplify:cwill::simplify-a793a502-be13-4c61-a978-d990f3122ad0": {
       "company": "CWILL",
       "first_seen": "2026-08-11T02:36:54+00:00",
@@ -15844,6 +15944,16 @@
       "posted_at": "1786411923",
       "title": "R&D Trainee - Full-Stack Engineer - Backend",
       "url": "https://apply.workable.com/cwill-us/j/1D51B4DDFC/apply"
+    },
+    "simplify:cwill::simplify-f7775e58-bdb7-45d4-9756-f7a7ebfe0638": {
+      "company": "CWILL",
+      "first_seen": "2026-10-13T22:34:17+00:00",
+      "last_seen": "2026-10-13T22:34:17+00:00",
+      "location": "Cary, NC",
+      "posted_at": "1791929813",
+      "source": "simplify",
+      "title": "AI SEO R&D Trainee - Multiple Teams",
+      "url": "https://apply.workable.com/cwill-us/j/82C35F8307/apply"
     },
     "simplify:cybernetic labs::simplify-88e29c4b-10b6-41ea-8fff-03ffc01e516d": {
       "company": "Cybernetic Labs",
@@ -24115,7 +24225,7 @@
     "simplify:id.me::simplify-92f62700-6eed-40f6-aba4-e478ba9afdee": {
       "company": "ID.me",
       "first_seen": "2026-10-06T02:34:06+00:00",
-      "last_seen": "2026-10-08T00:00:13+00:00",
+      "last_seen": "2026-10-13T22:34:17+00:00",
       "location": "Mountain View, CA",
       "posted_at": "1791249650",
       "source": "simplify",
@@ -26228,6 +26338,16 @@
       "title": "Software Development Intern - Multi-Mission Planning Development",
       "url": "https://careers.jhuapl.edu/jobs/59843?icims=1"
     },
+    "simplify:johns hopkins applied physics laboratory::simplify-ed41ffb5-8a01-4848-9d06-0d90852a3a74": {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "first_seen": "2026-10-13T22:34:18+00:00",
+      "last_seen": "2026-10-13T22:34:18+00:00",
+      "location": "Laurel, MD",
+      "posted_at": "1791929471",
+      "source": "simplify",
+      "title": "Graduate - Engineer/Analyst for ISRT and BMC2 Applications",
+      "url": "https://careers.jhuapl.edu/jobs/59529?icims=1"
+    },
     "simplify:johnson & johnson::simplify-37a55467-4513-486e-8cca-8f80493a2231": {
       "company": "Johnson & Johnson",
       "first_seen": "2026-08-24T22:49:44+00:00",
@@ -26546,6 +26666,16 @@
       "posted_at": "1784596385",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891/application?embed=true"
+    },
+    "simplify:justworks::simplify-a79e6835-8f6d-4436-8c3c-6762dafc0a75": {
+      "company": "Justworks",
+      "first_seen": "2026-10-13T22:34:18+00:00",
+      "last_seen": "2026-10-13T22:34:18+00:00",
+      "location": "NYC",
+      "posted_at": "1791929194",
+      "source": "simplify",
+      "title": "Associate Software Engineer - Frontend",
+      "url": "https://boards.greenhouse.io/justworks/jobs/8236815"
     },
     "simplify:k-id::simplify-d1956f60-b9eb-4d52-8da7-ac5ab857772b": {
       "company": "k-ID",
@@ -27731,6 +27861,16 @@
       "posted_at": "1786579200",
       "title": "Associate Creative Technologist - Early Career Consult Program",
       "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-Creative-Technologist_R-66763-2"
+    },
+    "simplify:kyndryl::simplify-d44657fe-b7e8-4618-ad61-98359c3e62ef": {
+      "company": "Kyndryl",
+      "first_seen": "2026-10-13T22:34:18+00:00",
+      "last_seen": "2026-10-13T22:34:18+00:00",
+      "location": "Frisco, TX",
+      "posted_at": "1791849600",
+      "source": "simplify",
+      "title": "Forward Deployed Engineer",
+      "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Forward-Deployed-Engineer_R-68529"
     },
     "simplify:kyndryl::simplify-da3ba969-e181-470f-b17c-7b26176f07be": {
       "company": "Kyndryl",
@@ -33057,6 +33197,16 @@
       "title": "Associate Computer Systems Analyst - Linux - Pathways Program",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Computer-Systems-Analyst---Linux---Pathways-Program---Melbourne-FL_R10246706"
     },
+    "simplify:northrop grumman::simplify-220ebe6a-b4c3-4df9-ae47-b15716b1b0b3": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-13T22:34:17+00:00",
+      "last_seen": "2026-10-13T22:34:17+00:00",
+      "location": "Redondo Beach, CA",
+      "posted_at": "1791849600",
+      "source": "simplify",
+      "title": "Associate Cloud Software Engineer 1",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Associate-Cloud-Software-Engineer--Level-1-_R10255928"
+    },
     "simplify:northrop grumman::simplify-233b632b-0384-4d63-8e58-bbd216d1c77e": {
       "company": "Northrop Grumman",
       "first_seen": "2026-09-15T23:08:09+00:00",
@@ -34627,7 +34777,7 @@
     "simplify:oneimaging::simplify-d35dd23b-846b-4263-be1b-ff94fdfab2e5": {
       "company": "OneImaging",
       "first_seen": "2026-09-11T23:13:27+00:00",
-      "last_seen": "2026-10-07T00:00:57+00:00",
+      "last_seen": "2026-10-13T22:34:17+00:00",
       "posted_at": "1789165995",
       "title": "Associate Software Engineer - UF Only",
       "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4403125009"
@@ -45521,7 +45671,7 @@
     "simplify:taxrise::simplify-62da524e-ffa4-4bcd-a604-fcc071409fb5": {
       "company": "TaxRise",
       "first_seen": "2026-10-06T23:03:27+00:00",
-      "last_seen": "2026-10-07T00:00:57+00:00",
+      "last_seen": "2026-10-13T22:34:17+00:00",
       "location": "Irvine, CA",
       "posted_at": "1791324467",
       "source": "simplify",
@@ -46999,6 +47149,16 @@
       "source": "simplify",
       "title": "Software Engineering New Grad",
       "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Crawley/XMLNAME-2027-Software-Engineering-Graduate_R0337725"
+    },
+    "simplify:thales::simplify-cdd83d13-afda-431e-80dd-c7d9481d304d": {
+      "company": "Thales",
+      "first_seen": "2026-10-13T22:34:18+00:00",
+      "last_seen": "2026-10-13T22:34:18+00:00",
+      "location": "Orlando, FL",
+      "posted_at": "1791849600",
+      "source": "simplify",
+      "title": "Graduate AI Engineer",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Orlando/AI-Engineer---Graduate_R0341851-1"
     },
     "simplify:thales::simplify-d8615acc-6f32-4c16-a90c-76330c1a5550": {
       "company": "Thales",
@@ -49010,6 +49170,16 @@
       "posted_at": "1787011200",
       "title": "Salesforce Developer - Loss Prevention",
       "url": "https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/Salesforce-Developer_REQ147178"
+    },
+    "simplify:tmeic corporation americas::simplify-23c01852-0f91-4386-9039-e28c1e73fbd7": {
+      "company": "TMEIC Corporation Americas",
+      "first_seen": "2026-10-13T22:34:17+00:00",
+      "last_seen": "2026-10-13T22:34:17+00:00",
+      "location": "Houston, TX",
+      "posted_at": "1791929821",
+      "source": "simplify",
+      "title": "Associate Software Developer - AI",
+      "url": "https://apply.workable.com/tmeic-corporation-americas/j/C4B8B72648/apply"
     },
     "simplify:tmeic corporation americas::simplify-8805a32d-c38e-4a8a-8843-ed203eec617f": {
       "company": "TMEIC Corporation Americas",
@@ -57646,5 +57816,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-13T22:13:01+00:00"
+  "updated_at": "2026-10-13T22:35:03+00:00"
 }
