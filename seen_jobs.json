@@ -235,6 +235,15 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/riotgamesup/jobs/8222015"
     },
+    "simplify:vivsoft technologies::simplify-f9e63e18-4478-4ee4-944c-305f98a747b1": {
+      "attempted_at": "2026-10-13T11:36:18+00:00",
+      "company": "VivSoft Technologies",
+      "location": "Remote in USA",
+      "posted_at": "1791498472",
+      "source": "simplify",
+      "title": "Front-End Developer",
+      "url": "https://vivsofttechnologiesfa.applytojob.com/apply/B29sOighJr/Front-End-Developer"
+    },
     "simplify:workday::simplify-0a37326a-6eb6-4459-8249-044ccfac8600": {
       "attempted_at": "2026-10-10T01:33:57+00:00",
       "company": "Workday",
@@ -57536,5 +57545,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-13T11:36:09+00:00"
+  "updated_at": "2026-10-13T11:37:11+00:00"
 }
