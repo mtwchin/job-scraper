@@ -1,5 +1,5 @@
 {
-  "count": 7021,
+  "count": 7022,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -2054,6 +2054,16 @@
       "posted_at": "1765324800",
       "title": "Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)",
       "url": "https://explore.jobs.netflix.net/careers/job/790313241540"
+    },
+    "netflix::790318904468": {
+      "company": "Netflix",
+      "first_seen": "2026-10-13T22:12:17+00:00",
+      "last_seen": "2026-10-13T22:12:17+00:00",
+      "location": "Los Gatos,California,United States of America",
+      "posted_at": "1791763200",
+      "source": "",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://explore.jobs.netflix.net/careers/job/790318904468"
     },
     "neuralink::5469298003": {
       "company": "Neuralink",
@@ -57636,5 +57646,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-13T17:50:29+00:00"
+  "updated_at": "2026-10-13T22:13:01+00:00"
 }
