@@ -1,5 +1,5 @@
 {
-  "count": 7009,
+  "count": 7011,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -7320,6 +7320,18 @@
       "source": "simplify",
       "title": "Cloud Engineer Intern",
       "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Engineering-Intern_J000704383"
+    },
+    "simplify:aptiv::simplify-afe67c2f-cce1-4dba-b02e-511c73ae28c0": {
+      "company": "Aptiv",
+      "duplicate_of": "simplify:aptiv::simplify-e8314098-af0f-4c4a-988b-ea69c0698a13",
+      "first_seen": "2026-10-13T06:36:26+00:00",
+      "last_seen": "2026-10-13T06:36:26+00:00",
+      "location": "Kanata, Ottawa, ON, Canada",
+      "posted_at": "1791763200",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Software-Engineering-Intern_J000704368-1"
     },
     "simplify:aptiv::simplify-d3435562-7d30-441f-b281-666a67529b9b": {
       "company": "Aptiv",
@@ -20930,6 +20942,16 @@
       "title": "AI Engineer Associate",
       "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/AI-Engineer_RQ226699"
     },
+    "simplify:general dynamics information technology::simplify-d3d8fa9f-12a2-4620-98c7-26daefe083e2": {
+      "company": "General Dynamics Information Technology",
+      "first_seen": "2026-10-13T06:36:27+00:00",
+      "last_seen": "2026-10-13T06:36:27+00:00",
+      "location": "Falls Church, VA",
+      "posted_at": "1791849600",
+      "source": "simplify",
+      "title": "Software Developer Intern - Defense Agencies - Software Development",
+      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Agencies--SW-DEV-_RQ230270"
+    },
     "simplify:general dynamics information technology::simplify-da223870-632f-4d31-a3aa-d059608577f3": {
       "company": "General Dynamics Information Technology",
       "first_seen": "2026-08-07T00:29:54+00:00",
@@ -34015,7 +34037,7 @@
     "simplify:nutanix::simplify-eff98609-6d2a-4e7a-8b80-9c0f39ea9e99": {
       "company": "Nutanix",
       "first_seen": "2026-09-29T23:06:26+00:00",
-      "last_seen": "2026-10-12T00:00:16+00:00",
+      "last_seen": "2026-10-13T06:36:26+00:00",
       "location": "Vancouver, BC, Canada",
       "posted_at": "1790115639",
       "source": "simplify",
@@ -57503,5 +57525,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-13T01:38:39+00:00"
+  "updated_at": "2026-10-13T06:36:38+00:00"
 }
