@@ -1,5 +1,5 @@
 {
-  "count": 7008,
+  "count": 7009,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -22107,7 +22107,7 @@
     "simplify:goldman sachs::simplify-43a5374e-0e70-4dc9-82b0-687b54e8c5da": {
       "company": "Goldman Sachs",
       "first_seen": "2026-08-15T04:58:35+00:00",
-      "last_seen": "2026-10-12T01:36:16+00:00",
+      "last_seen": "2026-10-13T01:38:08+00:00",
       "posted_at": "1786767954",
       "title": "Engineering New Analyst - Engineering",
       "url": "https://higher.gs.com/roles/171570?type=students"
@@ -32196,6 +32196,16 @@
       "source": "simplify",
       "title": "Data and AI Engineering Associate",
       "url": "https://ats.rippling.com/fluidai-medical-careers/jobs/e52b9e0d-0c04-42be-8da6-288203e18e52"
+    },
+    "simplify:netic::simplify-c922394e-fefa-48bc-88e6-16e52ab6de44": {
+      "company": "Netic",
+      "first_seen": "2026-10-13T01:38:09+00:00",
+      "last_seen": "2026-10-13T01:38:09+00:00",
+      "location": "SF, NYC",
+      "posted_at": "1791854120",
+      "source": "simplify",
+      "title": "Software Engineer - Gap Year",
+      "url": "https://jobs.ashbyhq.com/netic/e645059a-a2e8-4cfd-84e8-085d92da6e62/application?embed=true"
     },
     "simplify:netsmart::simplify-86e907c2-6aef-4071-ae6c-20a9c6b7306c": {
       "company": "Netsmart",
@@ -42565,7 +42575,7 @@
     "simplify:sierra nevada corporation::simplify-07bd103c-1d70-4013-a353-134890eb3530": {
       "company": "Sierra Nevada Corporation",
       "first_seen": "2026-08-27T23:56:31+00:00",
-      "last_seen": "2026-10-12T00:00:16+00:00",
+      "last_seen": "2026-10-13T01:38:08+00:00",
       "posted_at": "1787788800",
       "title": "Software Engineer 1",
       "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0030529"
@@ -57493,5 +57503,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-13T01:32:37+00:00"
+  "updated_at": "2026-10-13T01:38:39+00:00"
 }
