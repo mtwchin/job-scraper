@@ -1,5 +1,5 @@
 {
-  "count": 7059,
+  "count": 7061,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -31750,6 +31750,16 @@
       "title": "Montgomery Investment Technology",
       "url": "https://fintools.applytojob.com/apply/o7r6gV8IMh/Computer-Programming-Internship-Summer-2026"
     },
+    "simplify:monti inc::simplify-662a9504-a02e-4a49-b186-8619c9b721c5": {
+      "company": "Monti Inc",
+      "first_seen": "2026-10-13T23:06:16+00:00",
+      "last_seen": "2026-10-13T23:06:16+00:00",
+      "location": "Cincinnati, OH",
+      "posted_at": "1791921162",
+      "source": "simplify",
+      "title": "Associate Software Engineer - Intelligence Systems",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4581611"
+    },
     "simplify:montreal institute for learning algorithms::simplify-3306d8fb-6c29-4d88-94cb-972dc1945579": {
       "company": "Montreal Institute for Learning Algorithms",
       "first_seen": "2026-08-08T02:09:23+00:00",
@@ -34277,6 +34287,16 @@
       "source": "simplify",
       "title": "Computer Software Engineering Co-op",
       "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Computer-Software-Engineering-Co-op_R009760"
+    },
+    "simplify:ntt data aivista::simplify-410c85e8-0bb5-492d-8e8d-b44d4cd4807d": {
+      "company": "NTT DATA AIVista",
+      "first_seen": "2026-10-13T23:06:16+00:00",
+      "last_seen": "2026-10-13T23:06:16+00:00",
+      "location": "Palo Alto, CA, SF",
+      "posted_at": "1791930068",
+      "source": "simplify",
+      "title": "Member of Technical Staff - Enterprise Engineering 1",
+      "url": "https://jobs.ashbyhq.com/ntt-data-aivista/eef8b2f4-c13e-4e28-80c0-3008d3937991/application?embed=true"
     },
     "simplify:nuclear promise x::simplify-f86d892b-fb64-4c55-97c8-e0ad57d5c369": {
       "company": "Nuclear Promise X",
@@ -58021,5 +58041,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-13T23:04:07+00:00"
+  "updated_at": "2026-10-13T23:07:10+00:00"
 }
