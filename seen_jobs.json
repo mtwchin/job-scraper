@@ -1,5 +1,5 @@
 {
-  "count": 7006,
+  "count": 7008,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -6156,6 +6156,16 @@
       "source": "simplify",
       "title": "Application Billing Center Developer Intern",
       "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Intern---Application-Billing-Center-Developer_R39407"
+    },
+    "simplify:american family insurance group::simplify-bce02604-8033-424f-83ad-bc2253ce0840": {
+      "company": "American Family Insurance Group",
+      "first_seen": "2026-10-13T01:31:58+00:00",
+      "last_seen": "2026-10-13T01:31:58+00:00",
+      "location": "Madison, WI, Boston, MA",
+      "posted_at": "1791763200",
+      "source": "simplify",
+      "title": "Application Development Intern - Application Development",
+      "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Application-Development--Hybrid-_R39458"
     },
     "simplify:american family insurance group::simplify-da1c2712-58ba-46d1-8cea-127f9a2b00d7": {
       "company": "American Family Insurance Group",
@@ -41982,6 +41992,16 @@
       "title": "Software Engineer Intern - Communications & Cyber Security",
       "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-23076"
     },
+    "simplify:schweitzer engineering laboratories::simplify-50be2257-187c-46a4-aedc-d35d1f37a185": {
+      "company": "Schweitzer Engineering Laboratories",
+      "first_seen": "2026-10-13T01:31:58+00:00",
+      "last_seen": "2026-10-13T01:31:58+00:00",
+      "location": "Boise, ID",
+      "posted_at": "1791763200",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-22958"
+    },
     "simplify:schweitzer engineering laboratories::simplify-60269fbe-dbec-4b5f-a446-c717e9dd0fe7": {
       "company": "Schweitzer Engineering Laboratories",
       "first_seen": "2026-07-22T03:38:18+00:00",
@@ -49738,7 +49758,7 @@
     "simplify:tyler technologies::simplify-d6c24595-0dd3-449f-b0ae-d13e256fc740": {
       "company": "Tyler Technologies",
       "first_seen": "2026-09-22T03:24:56+00:00",
-      "last_seen": "2026-10-12T06:36:38+00:00",
+      "last_seen": "2026-10-13T01:31:57+00:00",
       "location": "Yarmouth, ME, Orono, ME, Falmouth, ME",
       "posted_at": "1790029561",
       "source": "simplify",
@@ -57473,5 +57493,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-13T00:47:34+00:00"
+  "updated_at": "2026-10-13T01:32:37+00:00"
 }
