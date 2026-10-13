@@ -1,5 +1,5 @@
 {
-  "count": 7014,
+  "count": 7018,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -22153,7 +22153,7 @@
     "simplify:goldman sachs::simplify-1949c912-65b2-42ac-9836-c110baed0ef6": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-10-12T14:38:01+00:00",
+      "last_seen": "2026-10-13T14:32:45+00:00",
       "posted_at": "1786767938",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/177808?type=students"
@@ -28650,6 +28650,16 @@
       "posted_at": "1788134400",
       "title": "Software Engineer New Grad - Risk Solutions Technology Graduate Program",
       "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
+    },
+    "simplify:liberty mutual canada::simplify-442f74df-bb53-4a98-b1d0-2513a5e31985": {
+      "company": "Liberty Mutual Canada",
+      "first_seen": "2026-10-13T14:32:45+00:00",
+      "last_seen": "2026-10-13T14:32:45+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1791900987",
+      "source": "simplify",
+      "title": "Associate Software Developer - Node.js & Python",
+      "url": "https://apply.workable.com/liberty-mutual-canada/j/A60F74CB9D/apply"
     },
     "simplify:liberty mutual::simplify-534bdae1-bb74-415c-bd75-9263c3eecc59": {
       "company": "Liberty Mutual",
@@ -42442,6 +42452,7 @@
     "simplify:sherwin-williams::simplify-6477c48f-f236-4372-b752-4dc347dd417a": {
       "company": "Sherwin-Williams",
       "first_seen": "2026-09-04T05:57:42+00:00",
+      "last_seen": "2026-10-13T14:32:45+00:00",
       "posted_at": "1788473134",
       "title": "Associate Full Stack Application Developer - Industrial Automation",
       "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622642"
@@ -42834,6 +42845,16 @@
       "posted_at": "1775456189",
       "title": "Software Engineer New Grad",
       "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003"
+    },
+    "simplify:sigma defense::simplify-1a0886f4-50a5-4cd9-b34a-19b40a719143": {
+      "company": "Sigma Defense",
+      "first_seen": "2026-10-13T14:32:45+00:00",
+      "last_seen": "2026-10-13T14:32:45+00:00",
+      "location": "Fairmont, WV",
+      "posted_at": "1791901057",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://apply.workable.com/sigmadefense/j/F207C966C1/apply"
     },
     "simplify:signifyd::simplify-ecea0a0c-194c-4478-8605-93cac5731cb2": {
       "company": "Signifyd",
@@ -44821,6 +44842,16 @@
       "posted_at": "1785888000",
       "title": "ServiceNow Associate Software Engineer - Application Development",
       "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Waterloo-Ontario/ServiceNow-Associate-Software-Engineer_JR00126629"
+    },
+    "simplify:sun life::simplify-51a5d29c-9da0-401c-b04b-d289dd739b45": {
+      "company": "Sun Life",
+      "first_seen": "2026-10-13T14:32:45+00:00",
+      "last_seen": "2026-10-13T14:32:45+00:00",
+      "location": "Toronto, ON, Canada, Waterloo, ON, Canada",
+      "posted_at": "1791849600",
+      "source": "simplify",
+      "title": "Student Associate Software Engineer Intern",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Associate-Software-Engineer--Fall--2026-_JR00128496"
     },
     "simplify:sun life::simplify-6e23884c-4320-44f5-aa13-a65a10384290": {
       "company": "Sun Life",
@@ -51283,6 +51314,16 @@
       "title": "Associate Java Software Engineer",
       "url": "https://job-boards.greenhouse.io/vestmark/jobs/8042636"
     },
+    "simplify:vestmark::simplify-71d10136-22a9-4798-89cd-9df17b662d88": {
+      "company": "Vestmark",
+      "first_seen": "2026-10-13T14:32:45+00:00",
+      "last_seen": "2026-10-13T14:32:45+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1791900301",
+      "source": "simplify",
+      "title": "Software Engineer Co-op",
+      "url": "https://job-boards.greenhouse.io/vestmark/jobs/8204509"
+    },
     "simplify:vestmark::simplify-fc0d7cba-48a3-45df-b65a-7a272b43dc54": {
       "company": "Vestmark",
       "first_seen": "2026-07-28T04:22:07+00:00",
@@ -57565,5 +57606,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-13T14:03:18+00:00"
+  "updated_at": "2026-10-13T14:33:21+00:00"
 }
