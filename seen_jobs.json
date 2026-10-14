@@ -1,5 +1,5 @@
 {
-  "count": 7110,
+  "count": 7115,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -6532,6 +6532,16 @@
       "source": "simplify",
       "title": "Software Engineer 1",
       "url": "https://careers-amtrustgroup.icims.com/jobs/21073/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:analog devices::simplify-5213f441-13c0-44bc-b8b9-3aa1d5e0a19b": {
+      "company": "Analog Devices",
+      "first_seen": "2026-10-14T23:05:44+00:00",
+      "last_seen": "2026-10-14T23:05:44+00:00",
+      "location": "Wilmington, MA",
+      "posted_at": "1792017002",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Android-Mobile-Developer_R262556"
     },
     "simplify:analog devices::simplify-7a9df6f7-6085-43b4-ad7e-c3426ad5d305": {
       "company": "Analog Devices",
@@ -16030,6 +16040,16 @@
       "posted_at": "1784068262",
       "title": "Developer Intern",
       "url": "https://job-boards.greenhouse.io/customcomputerspecialists/jobs/4221846009"
+    },
+    "simplify:cvent::simplify-2a88a21e-cd50-4b95-9a88-f579b5c14d79": {
+      "company": "Cvent",
+      "first_seen": "2026-10-14T23:05:44+00:00",
+      "last_seen": "2026-10-14T23:05:44+00:00",
+      "location": "Tysons, VA",
+      "posted_at": "1792017595",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://careers.cvent.com/jobs/8265?icims=1"
     },
     "simplify:cvent::simplify-58e64075-6609-418d-a437-22d5c25dd225": {
       "company": "Cvent",
@@ -38330,6 +38350,16 @@
       "title": "AI Integration & Interoperability Intern",
       "url": "https://qualcomm.eightfold.ai/careers/job/446716226621"
     },
+    "simplify:qualcomm::simplify-e2e74d29-f67c-4468-808e-766ee1fd7616": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-14T23:05:43+00:00",
+      "last_seen": "2026-10-14T23:05:43+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1792017109",
+      "source": "simplify",
+      "title": "Compiler Toolchain Engineer - Compiler Toolchain Software",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721572291"
+    },
     "simplify:qualifacts::simplify-8521a845-717b-4043-9a84-34537e07c480": {
       "company": "Qualifacts",
       "first_seen": "2026-07-28T23:15:13+00:00",
@@ -42571,6 +42601,7 @@
     "simplify:salesforce::simplify-9c9d72e2-4773-4a77-b5c5-5776ba645c14": {
       "company": "Salesforce",
       "first_seen": "2026-07-02T21:01:41+00:00",
+      "last_seen": "2026-10-14T23:05:42+00:00",
       "posted_at": "1771640186",
       "title": "Software Engineering AMTS/MTS \u2013 College Grad",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1"
@@ -46035,6 +46066,16 @@
       "posted_at": "1788290651",
       "title": "Graduate Software Engineer - AI",
       "url": "https://job-boards.greenhouse.io/synack/jobs/8165010"
+    },
+    "simplify:synchrony financial::simplify-0f3ae8ce-99c8-4a36-bc64-276a71e7dd7d": {
+      "company": "Synchrony Financial",
+      "first_seen": "2026-10-14T23:05:44+00:00",
+      "last_seen": "2026-10-14T23:05:44+00:00",
+      "location": "Orlando, FL, Stamford, CT, Dallas, TX, Chicago, IL, Charlotte, NC, NYC, Phoenix, AZ, Kansas City, KS, Canton, OH, Atlanta, GA, Cincinnati, OH, Costa Mesa, CA",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "API Engineer 1 - Credit",
+      "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Atlanta-Hub/API-Engineer-I---Credit_2602674"
     },
     "simplify:synchrony financial::simplify-1862811d-f108-4ae2-80e1-ebadd703d58a": {
       "company": "Synchrony Financial",
@@ -49535,6 +49576,16 @@
       "posted_at": "1787190346",
       "title": "Software Engineer Intern - TikTok Search Architecture",
       "url": "https://lifeattiktok.com/search/7675517686256863541"
+    },
+    "simplify:tiktok::simplify-c440c071-0612-4db0-b149-50dcb1876b45": {
+      "company": "TikTok",
+      "first_seen": "2026-10-14T23:05:43+00:00",
+      "last_seen": "2026-10-14T23:05:43+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1792017648",
+      "source": "simplify",
+      "title": "Software Engineer Graduate - Data Ecosystem - 2027 Start",
+      "url": "https://lifeattiktok.com/search/7685769994391832837"
     },
     "simplify:tiktok::simplify-c52bdd71-9fd3-4559-a3c5-d9a447bfb231": {
       "company": "TikTok",
@@ -58557,5 +58608,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-14T23:02:46+00:00"
+  "updated_at": "2026-10-14T23:05:48+00:00"
 }
