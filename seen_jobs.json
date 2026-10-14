@@ -1,5 +1,5 @@
 {
-  "count": 7081,
+  "count": 7082,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -13638,6 +13638,16 @@
       "source": "simplify",
       "title": "Digital Integration Intern",
       "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129"
+    },
+    "simplify:check::simplify-fe8f92c8-cf1e-4d48-a2fa-65d895096b5a": {
+      "company": "Check",
+      "first_seen": "2026-10-14T15:03:03+00:00",
+      "last_seen": "2026-10-14T15:03:03+00:00",
+      "location": "SF, NYC",
+      "posted_at": "1791989017",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/check-technologies/1647b178-a07b-4e62-b2e1-122e6fdbd134/application?embed=true"
     },
     "simplify:cheiron::simplify-4c33b0d7-ab72-41f6-a429-46ce9f78dc99": {
       "company": "Cheiron",
@@ -58260,5 +58270,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-14T14:42:03+00:00"
+  "updated_at": "2026-10-14T15:03:05+00:00"
 }
