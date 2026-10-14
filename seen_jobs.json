@@ -1,5 +1,5 @@
 {
-  "count": 7067,
+  "count": 7069,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -22390,7 +22390,7 @@
     "simplify:goldman sachs::simplify-43a5374e-0e70-4dc9-82b0-687b54e8c5da": {
       "company": "Goldman Sachs",
       "first_seen": "2026-08-15T04:58:35+00:00",
-      "last_seen": "2026-10-13T01:38:08+00:00",
+      "last_seen": "2026-10-14T06:34:57+00:00",
       "posted_at": "1786767954",
       "title": "Engineering New Analyst - Engineering",
       "url": "https://higher.gs.com/roles/171570?type=students"
@@ -22467,7 +22467,7 @@
     "simplify:goldman sachs::simplify-ebecfe1f-3890-4cf8-8663-d7b118197e24": {
       "company": "Goldman Sachs",
       "first_seen": "2026-08-15T15:35:14+00:00",
-      "last_seen": "2026-10-13T09:38:14+00:00",
+      "last_seen": "2026-10-14T06:34:57+00:00",
       "posted_at": "1786767937",
       "title": "New Analyst - Engineering",
       "url": "https://higher.gs.com/roles/171569?type=students"
@@ -25875,6 +25875,16 @@
       "posted_at": "1786320000",
       "title": "Analyst \u2013 Design Sourcing Systems",
       "url": "https://jcrew.wd1.myworkdayjobs.com/jcrewcareers/job/New-York-NY-USA-Headquarters/Analyst---Design-Sourcing-Systems_125809"
+    },
+    "simplify:jabil::simplify-18d884be-500d-4ea1-8486-4edd9f37b5b7": {
+      "company": "Jabil",
+      "first_seen": "2026-10-14T06:34:57+00:00",
+      "last_seen": "2026-10-14T06:34:57+00:00",
+      "location": "Tampa, FL, St. Petersburg, FL",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "AI and Data Solutions Developer - Global Supply Chain",
+      "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Solutions-Developer-Global-Supply-Chain_J2467953"
     },
     "simplify:jahnel group::simplify-8d500528-6b4d-4491-abf2-cff73f21e6d7": {
       "company": "Jahnel Group",
@@ -42671,6 +42681,16 @@
       "title": "Software Developer Co-op - Web/Cloud Application",
       "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Richmond-BC/Software-Developer---Web-Cloud-Application--Co-op_REQ3644"
     },
+    "simplify:semtech::simplify-df3fee7e-6a02-448c-a6f3-f3953f1f2727": {
+      "company": "Semtech",
+      "first_seen": "2026-10-14T06:34:57+00:00",
+      "last_seen": "2026-10-14T06:34:57+00:00",
+      "location": "Burlington, ON, Canada",
+      "posted_at": "1791849600",
+      "source": "simplify",
+      "title": "Associate Engineer - Software Engineering",
+      "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Associate-Engineer--Software-Engineering_REQ3652"
+    },
     "simplify:sensiple::simplify-487ea07e-1522-4f04-991f-bb3026b163e1": {
       "company": "Sensiple",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -58101,5 +58121,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-14T06:34:33+00:00"
+  "updated_at": "2026-10-14T06:35:35+00:00"
 }
