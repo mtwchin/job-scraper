@@ -235,6 +235,15 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/riotgamesup/jobs/8222015"
     },
+    "simplify:rockwell automation::simplify-000e1d44-e8bb-4c3a-82f2-c413e25e95cc": {
+      "attempted_at": "2026-10-14T08:32:50+00:00",
+      "company": "Rockwell Automation",
+      "location": "Milwaukee, WI",
+      "posted_at": "1788220800",
+      "source": "simplify",
+      "title": "Information Technology Intern",
+      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-2"
+    },
     "simplify:vivsoft technologies::simplify-f9e63e18-4478-4ee4-944c-305f98a747b1": {
       "attempted_at": "2026-10-13T11:36:18+00:00",
       "company": "VivSoft Technologies",
@@ -58122,5 +58131,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-14T07:06:37+00:00"
+  "updated_at": "2026-10-14T08:33:40+00:00"
 }
