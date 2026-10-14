@@ -1,5 +1,5 @@
 {
-  "count": 7104,
+  "count": 7110,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -8473,6 +8473,16 @@
       "posted_at": "1786054249",
       "title": "Software Engineer New Grad",
       "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687930002"
+    },
+    "simplify:atoms::simplify-b0226d52-6b25-4b8e-a451-6b06c628f659": {
+      "company": "Atoms",
+      "first_seen": "2026-10-14T23:02:13+00:00",
+      "last_seen": "2026-10-14T23:02:13+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1792016893",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8888411002"
     },
     "simplify:atria group::simplify-24c6a8ee-dffa-4ef6-b866-bbdf5be3cd1f": {
       "company": "Atria Group",
@@ -24486,6 +24496,16 @@
       "title": "Technology Software Engineer Rotation Program - Analyst",
       "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8612429002"
     },
+    "simplify:icf international::simplify-285be14e-467c-40bd-9e7d-e1efeee8735f": {
+      "company": "ICF International",
+      "first_seen": "2026-10-14T23:02:13+00:00",
+      "last_seen": "2026-10-14T23:02:13+00:00",
+      "location": "Reston, VA",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "AI Engineer Intern",
+      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603518"
+    },
     "simplify:icf international::simplify-4deda6be-a646-425e-9411-9a86903827d1": {
       "company": "ICF International",
       "first_seen": "2026-07-16T04:18:15+00:00",
@@ -26085,6 +26105,16 @@
       "posted_at": "1769125551",
       "title": "Associate Software Developer",
       "url": "https://www.jahnelgroup.com/apply.html?gh_jid=5031747007"
+    },
+    "simplify:jain global::simplify-d58e6fdc-c150-4d88-bff1-16000fd3a8c1": {
+      "company": "Jain Global",
+      "first_seen": "2026-10-14T23:02:13+00:00",
+      "last_seen": "2026-10-14T23:02:13+00:00",
+      "location": "NYC",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Compliance Technology Intern",
+      "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Compliance-Technology-Intern_JR100607"
     },
     "simplify:jain global::simplify-e162fe2f-b8fa-4f4f-9e29-415bc0f8068d": {
       "company": "Jain Global",
@@ -30044,6 +30074,16 @@
       "title": "Associate Full Stack Software Engineer",
       "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Associate-Full-Stack-Software-Engineer_JR26071165-1"
     },
+    "simplify:manulife financial::simplify-f07c4188-7f6d-47ee-b9ab-5a380934c27d": {
+      "company": "Manulife Financial",
+      "first_seen": "2026-10-14T23:02:13+00:00",
+      "last_seen": "2026-10-14T23:02:13+00:00",
+      "location": "Waterloo, ON, Canada",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686-1"
+    },
     "simplify:mapjects::simplify-04378827-0725-43e5-b38f-7b12ca4660a4": {
       "company": "Mapjects",
       "first_seen": "2026-08-13T07:14:16+00:00",
@@ -31039,6 +31079,16 @@
       "posted_at": "1779872295",
       "title": "Data Infra Engineer Intern",
       "url": "https://jobs.ashbyhq.com/meshy/2f33b2eb-b76d-4618-b299-497471f263b9"
+    },
+    "simplify:meta::simplify-5feb8f9a-8cad-46ce-8320-b03d6be84b8b": {
+      "company": "Meta",
+      "first_seen": "2026-10-14T23:02:12+00:00",
+      "last_seen": "2026-10-14T23:02:12+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1792017027",
+      "source": "simplify",
+      "title": "Manufacturing Test Engineer Intern - AI",
+      "url": "https://www.metacareers.com/jobs/954380870617862"
     },
     "simplify:meta::simplify-8c2db8ba-8874-4c57-8689-34298f844251": {
       "company": "Meta",
@@ -33186,6 +33236,16 @@
       "source": "simplify",
       "title": "Systems Engineer Intern - Summer 2027",
       "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882"
+    },
+    "simplify:nissan global::simplify-f6bf553d-9f2a-46c8-a6e7-693d5ca48d14": {
+      "company": "Nissan Global",
+      "first_seen": "2026-10-14T23:02:13+00:00",
+      "last_seen": "2026-10-14T23:02:13+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Santa-Clara-California---United-States-of-America/Software-Engineer-Intern---Spring-2027---Santa-Clara--CA_R00214269"
     },
     "simplify:nj department of environmental protection::simplify-ad4f396b-0091-4bba-a477-5eeef65c1b39": {
       "company": "NJ Department of Environmental Protection",
@@ -58497,5 +58557,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-14T22:51:38+00:00"
+  "updated_at": "2026-10-14T23:02:46+00:00"
 }
