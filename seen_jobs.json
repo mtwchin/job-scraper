@@ -1,5 +1,5 @@
 {
-  "count": 7072,
+  "count": 7080,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -4715,6 +4715,16 @@
       "posted_at": "1782252227",
       "title": "Software Developer 1",
       "url": "https://jobs.lever.co/agile-defense/4d5254dd-8366-4983-9156-a7f989fea964/apply"
+    },
+    "simplify:agilent technologies::simplify-3b23d87f-05be-4c67-93cf-cb0b4d96bb86": {
+      "company": "Agilent Technologies",
+      "first_seen": "2026-10-14T14:37:37+00:00",
+      "last_seen": "2026-10-14T14:37:37+00:00",
+      "location": "Harwell, Didcot, UK",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Junior Full Stack R&D Software Developer",
+      "url": "https://agilent.wd5.myworkdayjobs.com/Agilent_Student_Careers/job/UK-Harwell/Junior-Full-Stack-R-D-Software-Developer_4039765-1"
     },
     "simplify:ahead::simplify-009fad51-be8a-4c3c-b691-368556bf5c5d": {
       "company": "AHEAD",
@@ -20947,6 +20957,16 @@
       "title": "CIC Systems Engineer Co-op",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-CIC-Systems-Engineer-Co-op---Spring---Summer-2027_R5051807-1"
     },
+    "simplify:ge vernova::simplify-b79711bc-96c5-422c-a128-8b8b238ca2e2": {
+      "company": "GE Vernova",
+      "first_seen": "2026-10-14T14:37:37+00:00",
+      "last_seen": "2026-10-14T14:37:37+00:00",
+      "location": "Rugby, UK",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Graduate Engineer - Software",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rugby/Graduate-Engineer---Software_R5046974-3"
+    },
     "simplify:ge vernova::simplify-c86d490b-4b50-4436-9a7b-0d6287bbb4ca": {
       "company": "GE Vernova",
       "first_seen": "2026-08-20T14:51:41+00:00",
@@ -21022,6 +21042,16 @@
       "posted_at": "1786492800",
       "title": "Engineering Intern",
       "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/Engineering-Intern---Power-Conversion---Storage-AI-Tool-Developer--2027_R5049957-2"
+    },
+    "simplify:ge vernova::simplify-f43be495-fced-4bcb-b872-d0dd3fd2a01b": {
+      "company": "GE Vernova",
+      "first_seen": "2026-10-14T14:37:37+00:00",
+      "last_seen": "2026-10-14T14:37:37+00:00",
+      "location": "Rugby, UK",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Graduate Software Engineer",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Graduate-Engineer---Software_R5046974-2"
     },
     "simplify:ge vernova::simplify-fe95284a-7253-48e2-b44d-65a7a77a7068": {
       "company": "GE Vernova",
@@ -27525,6 +27555,16 @@
       "posted_at": "1788402200",
       "title": "Intern - IT",
       "url": "https://careers.kindermorgan.com/jobs/6171?icims=1"
+    },
+    "simplify:kion group::simplify-08348ecb-6917-4687-aa67-6d71cdd2be04": {
+      "company": "KION Group",
+      "first_seen": "2026-10-14T14:37:37+00:00",
+      "last_seen": "2026-10-14T14:37:37+00:00",
+      "location": "Grand Rapids, MI, Wauwatosa, WI",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Engineering-Intern_JR-0097732"
     },
     "simplify:kion group::simplify-fe972247-600c-481b-961d-3abad929c277": {
       "company": "KION Group",
@@ -35381,6 +35421,16 @@
       "title": "Associate Scientific Software Engineer",
       "url": "https://apply.workable.com/oxford-quantum-circuits-8/j/FFA221764E/apply"
     },
+    "simplify:oxford quantum circuits::simplify-390e1f47-ef47-47e3-b4ca-e364ebcb864f": {
+      "company": "Oxford Quantum Circuits",
+      "first_seen": "2026-10-14T14:37:37+00:00",
+      "last_seen": "2026-10-14T14:37:37+00:00",
+      "location": "Reading, UK",
+      "posted_at": "1791986897",
+      "source": "simplify",
+      "title": "Associate Quantum Software Engineer",
+      "url": "https://apply.workable.com/oxford-quantum-circuits-8/j/5A9494E612/apply"
+    },
     "simplify:ozmo::simplify-3c53a802-b7b7-48db-8366-4f2ee710edd6": {
       "company": "Ozmo",
       "first_seen": "2026-09-03T12:51:17+00:00",
@@ -36145,6 +36195,16 @@
       "posted_at": "1788220800",
       "title": "Software Developer Intern - Fall 2026/Spring 2027",
       "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Software-Developer-Intern_R185565"
+    },
+    "simplify:parsons::simplify-b135be7e-bf73-4526-9c91-0158ffed7bce": {
+      "company": "Parsons",
+      "first_seen": "2026-10-14T14:37:37+00:00",
+      "last_seen": "2026-10-14T14:37:37+00:00",
+      "location": "Huntsville, AL",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299"
     },
     "simplify:patch my pc::simplify-8333b344-795f-4400-aa23-11358ddd296e": {
       "company": "Patch My PC",
@@ -38966,7 +39026,7 @@
     "simplify:rf-smart::simplify-8dff8705-ad3c-4855-9d13-5e05b0ae339b": {
       "company": "RF-SMART",
       "first_seen": "2026-10-12T23:06:34+00:00",
-      "last_seen": "2026-10-13T00:00:55+00:00",
+      "last_seen": "2026-10-14T14:37:37+00:00",
       "location": "Jacksonville, FL",
       "posted_at": "1791843437",
       "source": "simplify",
@@ -43349,6 +43409,16 @@
       "title": "Software Engineer",
       "url": "https://apply.workable.com/sigmadefense/j/F207C966C1/apply"
     },
+    "simplify:signet jewelers::simplify-ccf805e9-e970-4b46-bde0-96d9de47c8a6": {
+      "company": "Signet Jewelers",
+      "first_seen": "2026-10-14T14:37:37+00:00",
+      "last_seen": "2026-10-14T14:37:37+00:00",
+      "location": "Akron, OH",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://signetjewelers.wd1.myworkdayjobs.com/SignetCorporateCareers/job/Support-Center---Akron-OH/Software-Engineer-I--Remote-_REQ_83354-1"
+    },
     "simplify:signifyd::simplify-ecea0a0c-194c-4478-8605-93cac5731cb2": {
       "company": "Signifyd",
       "first_seen": "2026-10-06T02:05:19+00:00",
@@ -44668,6 +44738,16 @@
       "source": "simplify",
       "title": "Full-Stack Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e/application?embed=true"
+    },
+    "simplify:sps commerce::simplify-e191313c-19e0-40f7-8729-69778579b693": {
+      "company": "SPS Commerce",
+      "first_seen": "2026-10-14T14:37:37+00:00",
+      "last_seen": "2026-10-14T14:37:37+00:00",
+      "location": "Brampton, ON, Canada",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://spscommerce.wd108.myworkdayjobs.com/SPS/job/CA-ON-Brampton-Office/Software-Engineer-Intern_R-001352"
     },
     "simplify:squarepoint capital::simplify-17f0421d-363e-4dcd-aa7f-0aa75fb79290": {
       "company": "Squarepoint Capital",
@@ -58170,5 +58250,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-14T14:22:58+00:00"
+  "updated_at": "2026-10-14T14:38:01+00:00"
 }
