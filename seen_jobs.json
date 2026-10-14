@@ -1,5 +1,5 @@
 {
-  "count": 7083,
+  "count": 7084,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -54114,6 +54114,16 @@
       "title": "Application Engineer",
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Application-Engineer_REQ-019650"
     },
+    "skydio::79fdda46-4ff5-42c7-b208-55f2084cdb8c": {
+      "company": "Skydio",
+      "first_seen": "2026-10-14T19:18:37+00:00",
+      "last_seen": "2026-10-14T19:18:37+00:00",
+      "location": "San Mateo, California, United States",
+      "posted_at": "2026-10-13T17:51:26.463+00:00",
+      "source": "",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c"
+    },
     "skydio::7d9dbb60-4ca1-4ba8-8bae-5ebfded4a915": {
       "company": "Skydio",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -58284,5 +58294,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-14T17:16:14+00:00"
+  "updated_at": "2026-10-14T19:19:27+00:00"
 }
