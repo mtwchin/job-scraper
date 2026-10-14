@@ -1,5 +1,5 @@
 {
-  "count": 7070,
+  "count": 7071,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -12811,6 +12811,16 @@
       "posted_at": "1786054286",
       "title": "Frontend Developer - Mobile",
       "url": "https://careers.capgemini.com/job/Dallas,-TX-Mobile-Front-end-developer-TX-75201/1424082933/?ats=successfactors"
+    },
+    "simplify:capgemini::simplify-c67013f3-bb2d-4b62-9127-75264ad45442": {
+      "company": "Capgemini",
+      "first_seen": "2026-10-14T09:36:52+00:00",
+      "last_seen": "2026-10-14T09:36:52+00:00",
+      "location": "Nashville, TN, Chicago, IL, Bridgewater, NJ, NYC, Atlanta, GA",
+      "posted_at": "1790029614",
+      "source": "simplify",
+      "title": "Associate Application Consultant",
+      "url": "https://careers.capgemini.com/job/Bridgewater,-NJ-C&CA-Associate-Application-Consultant-NJ/1439746933/?ats=successfactors"
     },
     "simplify:capgemini::simplify-db894db3-f0ec-4d30-9a74-12bff5188ae7": {
       "company": "Capgemini",
@@ -58141,5 +58151,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-14T08:35:42+00:00"
+  "updated_at": "2026-10-14T09:37:45+00:00"
 }
