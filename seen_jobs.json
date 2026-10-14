@@ -1,5 +1,5 @@
 {
-  "count": 7064,
+  "count": 7066,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -10783,6 +10783,16 @@
       "source": "simplify",
       "title": "AI Prototyping Engineer",
       "url": "https://apply.workable.com/brady-martz/j/39C6A58F26/apply"
+    },
+    "simplify:brain co.::simplify-d30520b3-3e37-4964-8ec5-834602970ba5": {
+      "company": "Brain Co.",
+      "first_seen": "2026-10-14T02:04:09+00:00",
+      "last_seen": "2026-10-14T02:04:09+00:00",
+      "location": "SF",
+      "posted_at": "1791942064",
+      "source": "simplify",
+      "title": "AI Product Engineer Co-op Intern",
+      "url": "https://jobs.ashbyhq.com/brainco/7ce0af56-d15e-4fc8-91a5-9e56cdb9cf42/application?embed=true"
     },
     "simplify:brainbase labs::simplify-6ccd63e5-c214-4937-9f21-d095f19d1ae8": {
       "company": "Brainbase Labs",
@@ -34539,6 +34549,16 @@
       "title": "CPU Compiler Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251"
     },
+    "simplify:nvidia::simplify-664f484e-e080-4fb3-be9b-ace5f9872240": {
+      "company": "NVIDIA",
+      "first_seen": "2026-10-14T02:04:08+00:00",
+      "last_seen": "2026-10-14T02:04:08+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1791849600",
+      "source": "simplify",
+      "title": "SoC Software Engineer New Grad",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1"
+    },
     "simplify:nvidia::simplify-66eb3818-d5e6-44ad-a145-ac9c1394f98e": {
       "company": "NVIDIA",
       "first_seen": "2026-07-21T08:47:34+00:00",
@@ -58071,5 +58091,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-14T02:00:19+00:00"
+  "updated_at": "2026-10-14T02:04:20+00:00"
 }
