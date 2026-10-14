@@ -1,5 +1,5 @@
 {
-  "count": 7093,
+  "count": 7103,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -8875,6 +8875,16 @@
       "title": "IT Engineering Intern - Accelerate",
       "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---IT-Engineering-Intern-Summer-2027_R0190463"
     },
+    "simplify:avis budget group::simplify-62f43e0f-64f7-40aa-9082-4aca354c9f93": {
+      "company": "Avis Budget Group",
+      "first_seen": "2026-10-14T22:37:24+00:00",
+      "last_seen": "2026-10-14T22:37:24+00:00",
+      "location": "Parsippany-Troy Hills, NJ",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Deployed Transformation Engineer New Grad",
+      "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Deployed-Transformation-Engineer---Post-Grad-Opportunity_R0191172"
+    },
     "simplify:avis budget group::simplify-8262d1b0-a155-42eb-b4f5-a14a377ffb1b": {
       "company": "Avis Budget Group",
       "first_seen": "2026-09-12T01:07:02+00:00",
@@ -10158,6 +10168,26 @@
       "posted_at": "1788912000",
       "title": "Software Engineer - Associate - Bixby",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Software-Engineer--Associate--Experienced-or-Senior----Bixby_JR2026524250"
+    },
+    "simplify:boeing::simplify-9f5b5e00-8c43-4dc8-af33-7fc02cb821f4": {
+      "company": "Boeing",
+      "first_seen": "2026-10-14T22:37:24+00:00",
+      "last_seen": "2026-10-14T22:37:24+00:00",
+      "location": "Oklahoma City, OK, Tinker Air Force Base, Oklahoma City, OK",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "B1 Software Systems Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-B1-Software-Systems-Engineer_JR2026521428-2"
+    },
+    "simplify:boeing::simplify-cffd6ec4-0af4-4f8a-9510-a43b93ec0b6b": {
+      "company": "Boeing",
+      "first_seen": "2026-10-14T22:37:24+00:00",
+      "last_seen": "2026-10-14T22:37:24+00:00",
+      "location": "Berkeley, MO",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Entry-Level Flight Simulation Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155-1"
     },
     "simplify:book of the month::simplify-8cd5dbe2-a8d3-434d-8a4c-9f6270250bc6": {
       "company": "Book of the Month",
@@ -14342,6 +14372,16 @@
       "title": "Software Engineer - Infrastructure",
       "url": "https://job-boards.greenhouse.io/clear/jobs/7901600"
     },
+    "simplify:clear::simplify-fa84b6b2-1b89-404d-b27b-e521b6a1c732": {
+      "company": "CLEAR",
+      "first_seen": "2026-10-14T22:37:24+00:00",
+      "last_seen": "2026-10-14T22:37:24+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1792016602",
+      "source": "simplify",
+      "title": "Software Development Engineer 1",
+      "url": "https://job-boards.greenhouse.io/clear/jobs/8241829"
+    },
     "simplify:clearwater analytics::simplify-111b83dd-f4af-48ed-995c-983a822f6d4a": {
       "company": "Clearwater Analytics",
       "first_seen": "2026-09-01T20:11:23+00:00",
@@ -17849,6 +17889,16 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005"
     },
+    "simplify:dxc technology::simplify-14128093-8fb4-4e4d-956f-83356ac71ced": {
+      "company": "DXC Technology",
+      "first_seen": "2026-10-14T22:37:24+00:00",
+      "last_seen": "2026-10-14T22:37:24+00:00",
+      "location": "Connecticut",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Analyst 1 Software Engineer",
+      "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---CT---ANY-CITY/Analyst-I-Software-Engineering_51586935"
+    },
     "simplify:dxc technology::simplify-9313778e-db15-4858-9adb-e94f968f55c6": {
       "company": "DXC Technology",
       "first_seen": "2026-09-19T03:50:34+00:00",
@@ -17991,7 +18041,7 @@
     "simplify:ecolab::simplify-17fff1b2-0c9d-4b1f-a4d4-e755fb16f6bd": {
       "company": "Ecolab",
       "first_seen": "2026-10-07T23:08:09+00:00",
-      "last_seen": "2026-10-13T00:00:55+00:00",
+      "last_seen": "2026-10-14T22:37:23+00:00",
       "location": "Calgary, AB, Canada",
       "posted_at": "1791331200",
       "source": "simplify",
@@ -19153,6 +19203,7 @@
     "simplify:everfox::simplify-e477c19e-0543-43fc-af92-9a394bca77e5": {
       "company": "Everfox",
       "first_seen": "2026-07-29T23:12:09+00:00",
+      "last_seen": "2026-10-14T22:37:23+00:00",
       "posted_at": "1785283200",
       "title": "Software Engineer 1",
       "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500749-1"
@@ -27028,6 +27079,16 @@
       "title": "Technologist New Grad",
       "url": "https://kainos.wd3.myworkdayjobs.com/kainos/job/Belfast/Graduate-Technologist--Belfast----August-2027-Start-Date_JR_18544"
     },
+    "simplify:kairos power::simplify-acd3a097-121f-4cd6-9056-d07f551dd0fb": {
+      "company": "Kairos Power",
+      "first_seen": "2026-10-14T22:37:24+00:00",
+      "last_seen": "2026-10-14T22:37:24+00:00",
+      "location": "Oak Ridge, TN",
+      "posted_at": "1792016183",
+      "source": "simplify",
+      "title": "Applications Integration Engineer",
+      "url": "https://job-boards.greenhouse.io/kairospower/jobs/6206174004"
+    },
     "simplify:kanbrick::simplify-fc0ba9c7-8038-43b5-ae74-d319237d1147": {
       "company": "Kanbrick",
       "first_seen": "2026-08-08T02:09:23+00:00",
@@ -27276,6 +27337,16 @@
       "source": "simplify",
       "title": "IT Engineering Intern",
       "url": "https://jobs.keysight.com/jobs/54649?icims=1"
+    },
+    "simplify:keysight technologies::simplify-12ab8bbb-1f52-460e-a738-e1ef336e0845": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-10-14T22:37:24+00:00",
+      "last_seen": "2026-10-14T22:37:24+00:00",
+      "location": "Colorado Springs, CO",
+      "posted_at": "1792016212",
+      "source": "simplify",
+      "title": "R&D Software Engineer - Electronic Measurement Systems",
+      "url": "https://jobs.keysight.com/jobs/55077?icims=1"
     },
     "simplify:keysight technologies::simplify-1a99b100-e38e-443b-a9cc-1be8ada5aa7f": {
       "company": "Keysight Technologies",
@@ -41687,6 +41758,16 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I--Onsite-_01872860"
     },
+    "simplify:rtx::simplify-c3384287-a4cf-419c-9379-1dd42e8526d4": {
+      "company": "RTX",
+      "first_seen": "2026-10-14T22:37:24+00:00",
+      "last_seen": "2026-10-14T22:37:24+00:00",
+      "location": "Tucson, AZ",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I----Onsite-_01881518"
+    },
     "simplify:rtx::simplify-c3d4ae08-ce75-4327-94cf-38da2d5cbae0": {
       "company": "RTX",
       "first_seen": "2026-07-30T16:11:31+00:00",
@@ -42404,6 +42485,7 @@
     "simplify:salesforce::simplify-5ffb792a-06f6-4670-b8ba-24c5402f1824": {
       "company": "Salesforce",
       "first_seen": "2026-07-02T21:01:41+00:00",
+      "last_seen": "2026-10-14T22:37:23+00:00",
       "posted_at": "1774908272",
       "title": "Software Engineering AMTS College Grad",
       "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400"
@@ -48501,6 +48583,16 @@
       "title": "Application Engineer Intern - Investments",
       "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Mpls-Investments-Office/IT-Application-Engineer-Intern--Investments---Summer-2027_REQ-48511-2"
     },
+    "simplify:thrivent::simplify-e39865ce-2f13-4514-9fa4-62c1ebb37e67": {
+      "company": "Thrivent",
+      "first_seen": "2026-10-14T22:37:24+00:00",
+      "last_seen": "2026-10-14T22:37:24+00:00",
+      "location": "Minneapolis, MN",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Associate Application Engineer - Asset Management",
+      "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/MN---Minneapolis/Associate-Application-Engineer---Asset-Management_REQ-48691"
+    },
     "simplify:thumbtack::simplify-189eff7a-f39b-41a6-a72c-d9e37cd08a5b": {
       "company": "Thumbtack",
       "first_seen": "2026-07-17T10:20:14+00:00",
@@ -50435,6 +50527,16 @@
       "posted_at": "1772495904",
       "title": "Software Engineer - Person Matching",
       "url": "https://job-boards.greenhouse.io/truveta/jobs/5817190004"
+    },
+    "simplify:truveta::simplify-e7dc5edb-b756-476f-8e46-5d2797edfabe": {
+      "company": "Truveta",
+      "first_seen": "2026-10-14T22:37:24+00:00",
+      "last_seen": "2026-10-14T22:37:24+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1792015989",
+      "source": "simplify",
+      "title": "Software Engineer - Security & Trust",
+      "url": "https://job-boards.greenhouse.io/truveta/jobs/6224827004"
     },
     "simplify:truveta::simplify-f104d45c-5e40-468d-82c6-3e03c55ad7f0": {
       "company": "Truveta",
@@ -58385,5 +58487,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-14T22:34:34+00:00"
+  "updated_at": "2026-10-14T22:37:36+00:00"
 }
