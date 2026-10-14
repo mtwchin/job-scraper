@@ -529,6 +529,7 @@
     "amazon::10502743": {
       "company": "Amazon",
       "first_seen": "2026-08-15T02:44:25+00:00",
+      "last_seen": "2026-10-14T16:48:58+00:00",
       "posted_at": "August 14, 2026",
       "title": "Software Development Engineer, Early Career - 2026",
       "url": "https://www.amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026"
@@ -536,6 +537,7 @@
     "amazon::10513110": {
       "company": "Amazon",
       "first_seen": "2026-08-25T01:45:07+00:00",
+      "last_seen": "2026-10-14T16:48:58+00:00",
       "posted_at": "August 25, 2026",
       "title": "Software Development Engineer, Amazon Leo, Early Career - 2026",
       "url": "https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026"
@@ -567,6 +569,7 @@
     "amazon::10529546": {
       "company": "Amazon",
       "first_seen": "2026-09-04T05:57:38+00:00",
+      "last_seen": "2026-10-14T16:48:58+00:00",
       "posted_at": "September  4, 2026",
       "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026",
       "url": "https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026"
@@ -582,7 +585,7 @@
     "amazon::10530257": {
       "company": "Amazon",
       "first_seen": "2026-09-04T19:53:01+00:00",
-      "last_seen": "2026-09-15T00:44:55+00:00",
+      "last_seen": "2026-10-14T16:48:58+00:00",
       "posted_at": "September  4, 2026",
       "title": "Software Development Engineer, Early Careers ",
       "url": "https://www.amazon.jobs/en/jobs/10530257/software-development-engineer-early-careers"
@@ -58270,5 +58273,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-14T15:03:05+00:00"
+  "updated_at": "2026-10-14T16:49:09+00:00"
 }
