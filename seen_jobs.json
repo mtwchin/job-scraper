@@ -1,5 +1,5 @@
 {
-  "count": 7066,
+  "count": 7067,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -22375,7 +22375,7 @@
     "simplify:goldman sachs::simplify-1949c912-65b2-42ac-9836-c110baed0ef6": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-10-13T14:32:45+00:00",
+      "last_seen": "2026-10-14T06:33:52+00:00",
       "posted_at": "1786767938",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/177808?type=students"
@@ -37519,6 +37519,16 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/profluent/jobs/5441955008"
     },
+    "simplify:profound medical::simplify-b2a3e977-0e6f-4197-bdb3-0b8a20ef4317": {
+      "company": "Profound Medical",
+      "first_seen": "2026-10-14T06:33:52+00:00",
+      "last_seen": "2026-10-14T06:33:52+00:00",
+      "location": "Mississauga, ON, Canada",
+      "posted_at": "1791958028",
+      "source": "simplify",
+      "title": "Software Development Co-op",
+      "url": "https://profoundmedical.bamboohr.com/careers/353/"
+    },
     "simplify:prologis::simplify-6aa00e1b-152a-4313-a998-973bca0a3542": {
       "company": "Prologis",
       "first_seen": "2026-10-12T23:06:34+00:00",
@@ -38246,7 +38256,7 @@
     "simplify:rakuten international::simplify-058f10b5-7e10-4926-bb72-004c74c2a665": {
       "company": "Rakuten International",
       "first_seen": "2026-09-15T22:46:06+00:00",
-      "last_seen": "2026-09-16T00:01:03+00:00",
+      "last_seen": "2026-10-14T06:33:52+00:00",
       "location": "Bellevue, WA",
       "posted_at": "1789510078",
       "source": "simplify",
@@ -58091,5 +58101,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-14T04:10:23+00:00"
+  "updated_at": "2026-10-14T06:34:33+00:00"
 }
