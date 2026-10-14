@@ -1,5 +1,5 @@
 {
-  "count": 7062,
+  "count": 7064,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -22826,6 +22826,16 @@
       "title": "Application Developer Co-op",
       "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721"
     },
+    "simplify:groma::simplify-4e618daf-121b-4dda-bc86-e3ddc5cd88bc": {
+      "company": "Groma",
+      "first_seen": "2026-10-14T01:34:23+00:00",
+      "last_seen": "2026-10-14T01:34:23+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1791940295",
+      "source": "simplify",
+      "title": "Finance Systems Co-op",
+      "url": "https://job-boards.greenhouse.io/groma/jobs/4743496005"
+    },
     "simplify:group 1 automotive::simplify-85d31e6a-319f-48fb-9257-4d401c4f3ad5": {
       "company": "Group 1 Automotive",
       "first_seen": "2026-07-22T00:07:28+00:00",
@@ -28273,7 +28283,7 @@
     "simplify:later::simplify-119ba1cb-df5a-4b95-9bed-4d76527e4280": {
       "company": "Later",
       "first_seen": "2026-08-30T10:42:19+00:00",
-      "last_seen": "2026-10-08T00:00:13+00:00",
+      "last_seen": "2026-10-14T01:34:22+00:00",
       "posted_at": "1782263780",
       "title": "AI Automation Engineer Co-op",
       "url": "https://job-boards.greenhouse.io/later/jobs/8604889002"
@@ -44045,6 +44055,16 @@
       "title": "Web Developer Assistant - Enterprise Application Support Team",
       "url": "https://spacedynamicslaboratory.applytojob.com/apply/nWr4gII3yE/Student-Web-Developer-Assistant"
     },
+    "simplify:space tango::simplify-cbbb7f51-7564-48f8-93c7-f822d8b5a568": {
+      "company": "Space Tango",
+      "first_seen": "2026-10-14T01:34:23+00:00",
+      "last_seen": "2026-10-14T01:34:23+00:00",
+      "location": "Lexington, KY",
+      "posted_at": "1791940580",
+      "source": "simplify",
+      "title": "Software Engineer - Level 1, 2, or 3",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4584333"
+    },
     "simplify:spacex::simplify-06f2652b-d13a-433f-9b93-9a30c7780f51": {
       "company": "SpaceX",
       "first_seen": "2026-10-04T00:30:22+00:00",
@@ -58051,5 +58071,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-14T00:06:16+00:00"
+  "updated_at": "2026-10-14T01:35:16+00:00"
 }
