@@ -55040,7 +55040,7 @@
     "vanshb03:capital one::vanshb03-b28ad3d6-dc11-46a0-8b90-945829de7543": {
       "company": "Capital One",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-14T21:32:46+00:00",
       "location": "Toronto, ON",
       "posted_at": "1787327699",
       "seeded": true,
@@ -58294,5 +58294,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-14T19:19:27+00:00"
+  "updated_at": "2026-10-14T21:33:30+00:00"
 }
