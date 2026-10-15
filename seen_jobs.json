@@ -1,5 +1,5 @@
 {
-  "count": 7118,
+  "count": 7119,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -29978,6 +29978,16 @@
       "title": "Launch Vehicle Software Developer - 5th Space Launch Squadron",
       "url": "https://mantech.avature.net/en_US/careers/JobDetail/65190"
     },
+    "simplify:manulife financial::simplify-05a491cc-5552-4539-b1dc-4bba5dbdcc6c": {
+      "company": "Manulife Financial",
+      "first_seen": "2026-10-15T06:32:07+00:00",
+      "last_seen": "2026-10-15T06:32:07+00:00",
+      "location": "Waterloo, ON, Canada",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Software Engineering",
+      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1"
+    },
     "simplify:manulife financial::simplify-1d938bfb-bee6-422b-9ba6-6fa75f0b6751": {
       "company": "Manulife Financial",
       "first_seen": "2026-10-02T22:31:38+00:00",
@@ -58638,5 +58648,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-15T04:23:04+00:00"
+  "updated_at": "2026-10-15T06:32:09+00:00"
 }
