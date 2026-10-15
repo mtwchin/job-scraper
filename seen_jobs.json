@@ -199,6 +199,15 @@
       "title": "Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1"
     },
+    "simplify:interac::simplify-c74ff3ad-83c4-4bac-b33a-85c098bb91be": {
+      "attempted_at": "2026-10-15T07:06:13+00:00",
+      "company": "Interac",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Technical Analyst Intern",
+      "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Technical-Analyst-Intern_REQ-2394"
+    },
     "simplify:micron technology::simplify-e0a34853-b9e7-41f5-b226-89fda1f5aadc": {
       "attempted_at": "2026-10-08T23:03:02+00:00",
       "company": "Micron Technology",
@@ -252,6 +261,15 @@
       "source": "simplify",
       "title": "Information Technology Intern",
       "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-2"
+    },
+    "simplify:tessera labs::simplify-ff40ee27-6821-4bc8-8929-0a9a37fa6d77": {
+      "attempted_at": "2026-10-15T07:06:13+00:00",
+      "company": "Tessera Labs",
+      "location": "San Jose, CA, Remote in USA, NYC",
+      "posted_at": "1792045761",
+      "source": "simplify",
+      "title": "Full Stack Software Engineer Intern - Full Stack",
+      "url": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true"
     },
     "simplify:vivsoft technologies::simplify-f9e63e18-4478-4ee4-944c-305f98a747b1": {
       "attempted_at": "2026-10-13T11:36:18+00:00",
@@ -22587,7 +22605,7 @@
     "simplify:goldman sachs::simplify-1949c912-65b2-42ac-9836-c110baed0ef6": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-10-14T06:33:52+00:00",
+      "last_seen": "2026-10-15T07:06:13+00:00",
       "posted_at": "1786767938",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/177808?type=students"
@@ -58648,5 +58666,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-15T07:03:11+00:00"
+  "updated_at": "2026-10-15T07:06:14+00:00"
 }
