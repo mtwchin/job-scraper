@@ -1,5 +1,5 @@
 {
-  "count": 7131,
+  "count": 7140,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -3767,6 +3767,16 @@
       "title": "Developer Intern - Trust Platforms",
       "url": "https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application"
     },
+    "simplify:1password::simplify-5a0765ab-4584-4368-a6b7-5253647fb5f1": {
+      "company": "1Password",
+      "first_seen": "2026-10-15T22:34:25+00:00",
+      "last_seen": "2026-10-15T22:34:25+00:00",
+      "location": "Remote in USA, Remote in Canada",
+      "posted_at": "1792102700",
+      "source": "simplify",
+      "title": "Junior Developer",
+      "url": "https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e/application?embed=true"
+    },
     "simplify:1password::simplify-b329a355-37a2-4a60-8ff5-bc9b42bf00c0": {
       "company": "1Password",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -7485,6 +7495,16 @@
       "title": "Algorithm Developer 2",
       "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer-II--E2-_R2628905"
     },
+    "simplify:applied materials::simplify-6cd3b389-0ef4-469c-bbf1-689ba3cd4b49": {
+      "company": "Applied Materials",
+      "first_seen": "2026-10-15T22:34:25+00:00",
+      "last_seen": "2026-10-15T22:34:25+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1792022400",
+      "source": "simplify",
+      "title": "Software Engineer 3",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-III_R2631234"
+    },
     "simplify:applied materials::simplify-78bcfab7-4ae8-462b-a21f-fc1444d142c9": {
       "company": "Applied Materials",
       "first_seen": "2026-08-18T22:42:18+00:00",
@@ -10760,6 +10780,16 @@
       "posted_at": "1788220800",
       "title": "Systems Engineer Intern - University",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Colorado-Springs-CO/University---2027-Summer-Games-Systems-Engineer-Intern---Colorado-Springs--CO_R0248368"
+    },
+    "simplify:booz allen::simplify-b9a40060-5b62-4093-91a6-d1bc3334c669": {
+      "company": "Booz Allen",
+      "first_seen": "2026-10-15T22:34:25+00:00",
+      "last_seen": "2026-10-15T22:34:25+00:00",
+      "location": "Wharton, NJ",
+      "posted_at": "1792022400",
+      "source": "simplify",
+      "title": "Software Engineer - Mid",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Wharton-NJ/Software-Engineer--Mid_R0251705"
     },
     "simplify:booz allen::simplify-bf4ff037-a559-4845-9678-eb93cb17a890": {
       "company": "Booz Allen",
@@ -16257,6 +16287,16 @@
       "posted_at": "1788218026",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://careers.cvent.com/jobs/10806?icims=1"
+    },
+    "simplify:cvs health::simplify-0bbfc987-8101-43c5-b9ae-d4ffa7abdcc6": {
+      "company": "CVS Health",
+      "first_seen": "2026-10-15T22:34:25+00:00",
+      "last_seen": "2026-10-15T22:34:25+00:00",
+      "location": "New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho",
+      "posted_at": "1792022400",
+      "source": "simplify",
+      "title": "Analyst \u2013 Software Development Engineer - Conversion",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Work-from-home/Analyst--Software-Development-Engineer--Conversion-_R1059972"
     },
     "simplify:cvs health::simplify-0c9a496a-20f1-4b3e-bdde-ccc6fe56f70d": {
       "company": "CVS Health",
@@ -28665,6 +28705,16 @@
       "title": "Software Engineering Associate",
       "url": "https://jobs.l3harris.com/job/Wilmington-Associate,-Software-Engineering-MA-01887/1415117800/?ats=successfactors"
     },
+    "simplify:l3harris technologies::simplify-9ea37dd5-1aab-477b-8586-f89d87aa5f20": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-10-15T22:34:25+00:00",
+      "last_seen": "2026-10-15T22:34:25+00:00",
+      "location": "Colorado Springs, CO",
+      "posted_at": "1792102196",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80916/1440612800/?ats=successfactors"
+    },
     "simplify:l3harris technologies::simplify-a4aabf38-92c7-4e05-b84e-51c4d41178a4": {
       "company": "L3Harris Technologies",
       "first_seen": "2026-08-19T19:15:08+00:00",
@@ -29552,6 +29602,7 @@
     "simplify:litera::simplify-ab71d070-1a5b-40d5-a65e-a1b8fbf30f38": {
       "company": "Litera",
       "first_seen": "2026-08-07T00:29:54+00:00",
+      "last_seen": "2026-10-15T22:34:24+00:00",
       "posted_at": "1785974400",
       "title": "Associate Software Engineer",
       "url": "https://litera.wd12.myworkdayjobs.com/Litera_Careers/job/Denver-CO/Associate-Software-Engineer_R-501347"
@@ -29827,6 +29878,16 @@
       "posted_at": "1781215591",
       "title": "Senior Product Engineer",
       "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Rose/Senior-Product-Engineer-P40_2026764"
+    },
+    "simplify:luminai::simplify-73d0508d-dd1e-4792-919a-46002cc966b1": {
+      "company": "Luminai",
+      "first_seen": "2026-10-15T22:34:25+00:00",
+      "last_seen": "2026-10-15T22:34:25+00:00",
+      "location": "SF, NYC",
+      "posted_at": "1792102092",
+      "source": "simplify",
+      "title": "Forward Deployed Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/luminai/ba606839-0f3b-47db-bd36-12406aec5a37/application?embed=true"
     },
     "simplify:luminance::simplify-acf611ac-2d78-4818-8fa6-d72f92d4cb99": {
       "company": "Luminance",
@@ -31627,6 +31688,16 @@
       "posted_at": "1787616000",
       "title": "System Software Engineer New Grad",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/New-College-Grad---System-Software-Engineer_JR109291"
+    },
+    "simplify:micron technology::simplify-25e41706-146c-4f0f-957d-7f2cd557405e": {
+      "company": "Micron Technology",
+      "first_seen": "2026-10-15T22:34:25+00:00",
+      "last_seen": "2026-10-15T22:34:25+00:00",
+      "location": "Boise, ID",
+      "posted_at": "1792022400",
+      "source": "simplify",
+      "title": "Computer Engineer New Grad - Central Engineering",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Computer-Engineer--Central-Engineering_JR115116-1"
     },
     "simplify:micron technology::simplify-2bc345ba-6706-4efb-925f-c449a37bc3d5": {
       "company": "Micron Technology",
@@ -34220,6 +34291,16 @@
       "posted_at": "1782957264",
       "title": "Software Engineer/Principal Software Engineer - Java",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer-Principal-Software-Engineer---JAVA_R10237701"
+    },
+    "simplify:northrop grumman::simplify-894104d6-66ef-4390-a36e-71f2891576fc": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-15T22:34:25+00:00",
+      "last_seen": "2026-10-15T22:34:25+00:00",
+      "location": "McLean, VA, Dulles, VA",
+      "posted_at": "1792022400",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineer-Dulles-VA_R10256306"
     },
     "simplify:northrop grumman::simplify-8b492425-d182-4ad6-9a71-dd01191a86f6": {
       "company": "Northrop Grumman",
@@ -38603,6 +38684,16 @@
       "posted_at": "1787015341",
       "title": "QA Tester - Mobile - Android/VR",
       "url": "https://jobs.smartrecruiters.com/QANALYSTSLLC2/743999677596559"
+    },
+    "simplify:qualtrics::simplify-6e3333b2-6b06-44e4-9cd6-fc5d4e28b7e9": {
+      "company": "Qualtrics",
+      "first_seen": "2026-10-15T22:34:25+00:00",
+      "last_seen": "2026-10-15T22:34:25+00:00",
+      "location": "Provo, UT",
+      "posted_at": "1792102396",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://www.qualtrics.com/careers/us/en/job/8264811?gh_jid=8264811"
     },
     "simplify:quanta::simplify-894170e1-a1af-4afa-9a09-988a0a205b88": {
       "company": "Quanta",
@@ -58888,5 +58979,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-15T22:33:39+00:00"
+  "updated_at": "2026-10-15T22:34:41+00:00"
 }
