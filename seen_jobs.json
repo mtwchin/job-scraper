@@ -1,5 +1,5 @@
 {
-  "count": 7129,
+  "count": 7131,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -427,6 +427,28 @@
       "source": "",
       "title": "Software Engineer Intern (Summer 2027)",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003"
+    },
+    "affirm::8017340003": {
+      "company": "Affirm",
+      "duplicate_of": "affirm::8017342003",
+      "first_seen": "2026-10-15T21:34:34+00:00",
+      "last_seen": "2026-10-15T21:34:34+00:00",
+      "location": "Remote US",
+      "posted_at": "2026-10-15T17:31:09-04:00",
+      "seeded": true,
+      "source": "",
+      "title": "Software Engineer I, Fullstack (Search)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003"
+    },
+    "affirm::8017342003": {
+      "company": "Affirm",
+      "first_seen": "2026-10-15T21:34:35+00:00",
+      "last_seen": "2026-10-15T21:34:35+00:00",
+      "location": "Remote Canada; Remote US",
+      "posted_at": "2026-10-15T17:31:11-04:00",
+      "source": "",
+      "title": "Software Engineer I, Fullstack (Search)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003"
     },
     "akuna capital::8013085": {
       "company": "Akuna Capital",
@@ -58775,5 +58797,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-15T15:47:09+00:00"
+  "updated_at": "2026-10-15T21:34:37+00:00"
 }
