@@ -181,6 +181,15 @@
       "title": "AI Software Developer Intern",
       "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710"
     },
+    "simplify:cisco::simplify-5788b6dc-21b4-4d4c-b5fb-b9627bebc50f": {
+      "attempted_at": "2026-10-15T23:05:25+00:00",
+      "company": "Cisco",
+      "location": "Milpitas, CA",
+      "posted_at": "1792103978",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer_2023271"
+    },
     "simplify:commonwealth fusion systems::simplify-95542b2a-559f-4043-9abf-11784ddc524b": {
       "attempted_at": "2026-10-15T22:33:21+00:00",
       "company": "Commonwealth Fusion Systems",
@@ -243,6 +252,15 @@
       "source": "simplify",
       "title": "Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1"
+    },
+    "simplify:intel::simplify-f4473dfb-1d23-48f0-8ea4-3bf930c7328d": {
+      "attempted_at": "2026-10-15T23:05:25+00:00",
+      "company": "Intel",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1792022400",
+      "source": "simplify",
+      "title": "Compiler Engineer Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0287934"
     },
     "simplify:interac::simplify-c74ff3ad-83c4-4bac-b33a-85c098bb91be": {
       "attempted_at": "2026-10-15T07:06:13+00:00",
@@ -6599,7 +6617,7 @@
     "simplify:amgen::simplify-04730f4f-d673-42b6-933d-dd493520e068": {
       "company": "Amgen",
       "first_seen": "2026-10-04T11:31:09+00:00",
-      "last_seen": "2026-10-10T00:01:09+00:00",
+      "last_seen": "2026-10-15T23:05:25+00:00",
       "location": "Tampa, FL, Thousand Oaks, CA",
       "posted_at": "1787691782",
       "source": "simplify",
@@ -58979,5 +58997,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-15T22:34:41+00:00"
+  "updated_at": "2026-10-15T23:05:44+00:00"
 }
