@@ -1,5 +1,5 @@
 {
-  "count": 7120,
+  "count": 7123,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -5855,6 +5855,16 @@
       "posted_at": "1787293338",
       "title": "Software Engineer Intern/Co-op",
       "url": "https://careers.amd.com/jobs/90947?icims=1"
+    },
+    "simplify:amd::simplify-9eea2756-86a8-4a63-b1c1-4631d395dac9": {
+      "company": "AMD",
+      "first_seen": "2026-10-15T09:32:11+00:00",
+      "last_seen": "2026-10-15T09:32:11+00:00",
+      "location": "Markham, ON, Canada",
+      "posted_at": "1790604796",
+      "source": "simplify",
+      "title": "Software System Designer",
+      "url": "https://careers.amd.com/jobs/91827?icims=1"
     },
     "simplify:amd::simplify-b17cd560-c6e3-41da-9178-9503bee4c38f": {
       "company": "AMD",
@@ -12945,6 +12955,16 @@
       "title": "Graduate Software Engineer Programme",
       "url": "https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027/1443168333/?ats=successfactors"
     },
+    "simplify:capgemini::simplify-7ed33e96-4645-4b9d-8798-e6d7a35228a3": {
+      "company": "Capgemini",
+      "first_seen": "2026-10-15T09:32:12+00:00",
+      "last_seen": "2026-10-15T09:32:12+00:00",
+      "location": "Telford, UK",
+      "posted_at": "1792056418",
+      "source": "simplify",
+      "title": "Engineering Digital and Technology Solutions Apprentice",
+      "url": "https://careers.capgemini.com/job/Telford-Engineering-Digital-and-Technology-Solutions-Degree-Apprenticeship-2027/1447967833/?ats=successfactors"
+    },
     "simplify:capgemini::simplify-94b406e2-f31b-4303-b276-e99f3781da36": {
       "company": "Capgemini",
       "first_seen": "2026-08-07T00:29:54+00:00",
@@ -12961,6 +12981,16 @@
       "source": "simplify",
       "title": "Associate Application Consultant",
       "url": "https://careers.capgemini.com/job/Bridgewater,-NJ-C&CA-Associate-Application-Consultant-NJ/1439746933/?ats=successfactors"
+    },
+    "simplify:capgemini::simplify-d99c1e84-901c-49a8-9b2b-7bf6f62850a1": {
+      "company": "Capgemini",
+      "first_seen": "2026-10-15T09:32:12+00:00",
+      "last_seen": "2026-10-15T09:32:12+00:00",
+      "location": "Telford, UK, Hove, Brighton and Hove, UK",
+      "posted_at": "1792056417",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027-1/1443172033/?ats=successfactors"
     },
     "simplify:capgemini::simplify-db894db3-f0ec-4d30-9a74-12bff5188ae7": {
       "company": "Capgemini",
@@ -58676,5 +58706,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-15T08:37:17+00:00"
+  "updated_at": "2026-10-15T09:32:20+00:00"
 }
