@@ -1,5 +1,5 @@
 {
-  "count": 7119,
+  "count": 7120,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -55706,6 +55706,16 @@
       "title": "Software Engineer I",
       "url": "https://careers.leonardodrs.com/job/San-Diego-Software-Engineer-CA-92127/1298209000/"
     },
+    "vanshb03:drw::vanshb03-01c1fcb9-0733-4c21-b3ce-0e4909dd74f9": {
+      "company": "DRW",
+      "first_seen": "2026-10-15T08:36:30+00:00",
+      "last_seen": "2026-10-15T08:36:30+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1785516451",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328"
+    },
     "vanshb03:drw::vanshb03-19ace929-9a60-490c-9bca-14dd35ff81b8": {
       "company": "DRW",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -58666,5 +58676,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-15T07:06:14+00:00"
+  "updated_at": "2026-10-15T08:37:17+00:00"
 }
