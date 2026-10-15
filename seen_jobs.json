@@ -118,6 +118,15 @@
       "title": "Software Developer Intern",
       "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233"
     },
+    "simplify:boeing::simplify-080ae20a-20b7-4971-8e68-70b02946bd25": {
+      "attempted_at": "2026-10-15T14:36:34+00:00",
+      "company": "Boeing",
+      "location": "Crawley, UK",
+      "posted_at": "1792022400",
+      "source": "simplify",
+      "title": "Associate Simulation Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/GBR---Crawley-UK/Associate-Simulation-Software-Engineer_JR2026526967"
+    },
     "simplify:boeing::simplify-da4364e0-b8b0-4dd0-be28-f45380d6a895": {
       "attempted_at": "2026-10-08T23:03:02+00:00",
       "company": "Boeing",
@@ -41347,7 +41356,7 @@
     "simplify:rtx::simplify-6ffabb0b-4dbb-49a3-bb98-10fd85f1898b": {
       "company": "RTX",
       "first_seen": "2026-10-06T15:04:46+00:00",
-      "last_seen": "2026-10-09T00:00:55+00:00",
+      "last_seen": "2026-10-15T14:36:34+00:00",
       "location": "Tucson, AZ",
       "posted_at": "1789516800",
       "source": "simplify",
@@ -58726,5 +58735,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-15T14:34:41+00:00"
+  "updated_at": "2026-10-15T14:36:43+00:00"
 }
