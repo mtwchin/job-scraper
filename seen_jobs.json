@@ -1,5 +1,5 @@
 {
-  "count": 7140,
+  "count": 7143,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -35043,6 +35043,16 @@
       "title": "Member of Technical Staff 2 - Service Provider",
       "url": "https://jobs.jobvite.com/nutanix/job/o5HuAfwA?nl=1&nl=1&fr=false"
     },
+    "simplify:nutanix::simplify-65368a41-05c8-40d7-91eb-041dfe59df54": {
+      "company": "Nutanix",
+      "first_seen": "2026-10-15T23:06:22+00:00",
+      "last_seen": "2026-10-15T23:06:22+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1790374523",
+      "source": "simplify",
+      "title": "Staff Engineer - DataHub",
+      "url": "https://jobs.jobvite.com/nutanix/job/omPOAfwj?nl=1&nl=1&fr=false"
+    },
     "simplify:nutanix::simplify-a32df889-25e2-4ac6-8202-5cad12a2d4df": {
       "company": "Nutanix",
       "first_seen": "2026-09-23T01:35:15+00:00",
@@ -39437,6 +39447,16 @@
       "title": "Android Developer Intern",
       "url": "https://jobs.lever.co/reply/0fb458db-7cb9-4bfd-b9b6-c1c681316061/apply"
     },
+    "simplify:research innovations::simplify-d025632f-3cb7-4ab5-9fd2-b99e9585016b": {
+      "company": "Research Innovations",
+      "first_seen": "2026-10-15T23:06:22+00:00",
+      "last_seen": "2026-10-15T23:06:22+00:00",
+      "location": "McChord AFB, WA",
+      "posted_at": "1792103334",
+      "source": "simplify",
+      "title": "DoW Forward Deployed Engineer Intern",
+      "url": "https://jobs.lever.co/researchinnovations.com/a89efcb2-9e6c-44fe-8441-cf12dc3a1181/apply"
+    },
     "simplify:resmed::simplify-cf341e15-fb9e-4b2f-871f-b5f2c95f0e3f": {
       "company": "Resmed",
       "first_seen": "2026-08-13T02:36:28+00:00",
@@ -42876,6 +42896,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719536006"
+    },
+    "simplify:saic::simplify-33de7871-0f55-4b66-9566-f7498df75863": {
+      "company": "SAIC",
+      "first_seen": "2026-10-15T23:06:22+00:00",
+      "last_seen": "2026-10-15T23:06:22+00:00",
+      "location": "California",
+      "posted_at": "1792103628",
+      "source": "simplify",
+      "title": "Software Test Engineer",
+      "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618025"
     },
     "simplify:sailpoint::simplify-db1e9518-ba7e-4cdc-8914-5ec391f9a78d": {
       "company": "SailPoint",
@@ -58997,5 +59027,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-15T23:05:44+00:00"
+  "updated_at": "2026-10-15T23:06:46+00:00"
 }
