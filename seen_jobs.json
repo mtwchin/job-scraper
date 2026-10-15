@@ -1,5 +1,5 @@
 {
-  "count": 7125,
+  "count": 7126,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -36094,6 +36094,16 @@
       "title": "Year at Palantir Intern - Forward Deployed Software Engineer - Commercial",
       "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d/apply"
     },
+    "simplify:palantir::simplify-e7efbdf7-1fb3-47ce-bca3-4ad42107a5a7": {
+      "company": "Palantir",
+      "first_seen": "2026-10-15T15:01:51+00:00",
+      "last_seen": "2026-10-15T15:01:51+00:00",
+      "location": "NYC",
+      "posted_at": "1792074525",
+      "source": "simplify",
+      "title": "Meritocracy Fellow",
+      "url": "https://jobs.lever.co/palantir/7fa0ceca-c30e-48de-9b27-f98469c374f3/apply"
+    },
     "simplify:palantir::simplify-ea21f599-680e-4822-8289-fe0af38a4bfe": {
       "company": "Palantir",
       "first_seen": "2026-07-01T08:41:47+00:00",
@@ -58735,5 +58745,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-15T14:36:43+00:00"
+  "updated_at": "2026-10-15T15:02:47+00:00"
 }
