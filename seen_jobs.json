@@ -1,5 +1,5 @@
 {
-  "count": 7149,
+  "count": 7150,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -3570,6 +3570,16 @@
       "source": "",
       "title": "Junior Software Engineer",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8029637003"
+    },
+    "rocket lab::8034180003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-10-16T02:19:43+00:00",
+      "last_seen": "2026-10-16T02:19:43+00:00",
+      "location": "Auckland, NZ",
+      "posted_at": "2026-10-15T22:18:54-04:00",
+      "source": "",
+      "title": "Junior Ground Systems Engineer - Instrumentation & Control",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8034180003"
     },
     "salesforce::Missionforce---Associate-Forward-Deployed-Engineer--FDE---Public-Sector_JR333171": {
       "company": "Salesforce",
@@ -59098,5 +59108,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-16T02:08:59+00:00"
+  "updated_at": "2026-10-16T02:20:01+00:00"
 }
