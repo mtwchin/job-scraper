@@ -35174,7 +35174,7 @@
     "simplify:nutanix::simplify-eff98609-6d2a-4e7a-8b80-9c0f39ea9e99": {
       "company": "Nutanix",
       "first_seen": "2026-09-29T23:06:26+00:00",
-      "last_seen": "2026-10-13T06:36:26+00:00",
+      "last_seen": "2026-10-16T06:34:28+00:00",
       "location": "Vancouver, BC, Canada",
       "posted_at": "1790115639",
       "source": "simplify",
@@ -59108,5 +59108,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-16T02:40:59+00:00"
+  "updated_at": "2026-10-16T06:35:04+00:00"
 }
