@@ -1,5 +1,5 @@
 {
-  "count": 7154,
+  "count": 7162,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -5679,6 +5679,16 @@
       "source": "simplify",
       "title": "Software Development Engineer \u2013 Early Career - Amazon Dedicated Cloud - ADC",
       "url": "https://amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026-amazon-dedicated-cloud-adc"
+    },
+    "simplify:amazon::simplify-1962fda2-9358-4d0b-a814-d0e55e225392": {
+      "company": "Amazon",
+      "first_seen": "2026-10-16T14:34:59+00:00",
+      "last_seen": "2026-10-16T14:34:59+00:00",
+      "location": "London, UK, Edinburgh, UK, Bristol, UK, Cambridge, UK",
+      "posted_at": "1792160266",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom"
     },
     "simplify:amazon::simplify-1ab1a45d-f5cc-4187-9f03-f2e2c5c3e021": {
       "company": "Amazon",
@@ -18476,12 +18486,42 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216227"
     },
+    "simplify:electronic arts::simplify-2171d14a-e271-49bf-95cf-d6a749318018": {
+      "company": "Electronic Arts",
+      "first_seen": "2026-10-16T14:35:00+00:00",
+      "last_seen": "2026-10-16T14:35:00+00:00",
+      "location": "Manchester, UK",
+      "posted_at": "1792159777",
+      "source": "simplify",
+      "title": "Client AI Software Engineer Intern",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Client-AI-Software-Engineer-Intern/216364"
+    },
+    "simplify:electronic arts::simplify-3040c492-d83d-4c3a-ba12-bfc0edc75a1f": {
+      "company": "Electronic Arts",
+      "first_seen": "2026-10-16T14:35:00+00:00",
+      "last_seen": "2026-10-16T14:35:00+00:00",
+      "location": "Guildford, UK",
+      "posted_at": "1792159776",
+      "source": "simplify",
+      "title": "UI Scripter Intern",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/UI-Scripter-Intern/216359"
+    },
     "simplify:electronic arts::simplify-399524ef-9e24-4ebd-ae91-4af397d55fc1": {
       "company": "Electronic Arts",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1776953271",
       "title": "Reverse Engineer Anti-Cheat",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Reverse-Engineer-Anti-Cheat/213132"
+    },
+    "simplify:electronic arts::simplify-3ace9955-fb8a-4ca0-a716-7b9d6f86671f": {
+      "company": "Electronic Arts",
+      "first_seen": "2026-10-16T14:35:00+00:00",
+      "last_seen": "2026-10-16T14:35:00+00:00",
+      "location": "Birmingham, UK",
+      "posted_at": "1792159777",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Gameplay UI",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Gameplay-UI/216190"
     },
     "simplify:electronic arts::simplify-504555e2-06ee-4bcb-a0aa-e8c7d79b0652": {
       "company": "Electronic Arts",
@@ -18572,6 +18612,16 @@
       "source": "simplify",
       "title": "Rendering Engineer Intern - Apex Legends",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Rendering-Engineer-Intern/216222"
+    },
+    "simplify:electronic arts::simplify-e77870f3-55c7-4d18-8364-57029d5adc18": {
+      "company": "Electronic Arts",
+      "first_seen": "2026-10-16T14:35:00+00:00",
+      "last_seen": "2026-10-16T14:35:00+00:00",
+      "location": "Birmingham, UK",
+      "posted_at": "1792159776",
+      "source": "simplify",
+      "title": "Software Engineer Tools Intern",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Tools/216192"
     },
     "simplify:elevance health::simplify-638db733-b6c2-4e36-b1ad-1d4b6b77df9b": {
       "company": "Elevance Health",
@@ -29487,6 +29537,26 @@
       "posted_at": "1784787329",
       "title": "Entry Level Web Developer - Multiple Teams",
       "url": "https://lentechinc.applytojob.com/apply/qnjVhHgXdC/Entry-Web-Developer"
+    },
+    "simplify:leonardo::simplify-1e7773d3-204e-4be0-84c6-7d80b5db80ff": {
+      "company": "Leonardo",
+      "first_seen": "2026-10-16T14:35:00+00:00",
+      "last_seen": "2026-10-16T14:35:00+00:00",
+      "location": "Basildon, UK",
+      "posted_at": "1792108800",
+      "source": "simplify",
+      "title": "Software Engineering Apprentice",
+      "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Software-Engineering-Degree-Apprentice_R0034281"
+    },
+    "simplify:leonardo::simplify-33481bc4-8637-4823-a224-81cbfae0e6ee": {
+      "company": "Leonardo",
+      "first_seen": "2026-10-16T14:35:00+00:00",
+      "last_seen": "2026-10-16T14:35:00+00:00",
+      "location": "Basildon, UK",
+      "posted_at": "1792108800",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Industrial-Placement-Software-Engineer_R0034283"
     },
     "simplify:letsgetchecked::simplify-44f63b87-48fd-489b-9f6e-71d611ee69a1": {
       "company": "LetsGetChecked",
@@ -53077,6 +53147,16 @@
       "title": "Systems Engineer - Linux - AI",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Systems-Engineer--Linux-and-AI_REF077273W"
     },
+    "simplify:visa::simplify-baa00ee8-4fec-4f3e-9df3-703c01b4b803": {
+      "company": "Visa",
+      "first_seen": "2026-10-16T14:35:00+00:00",
+      "last_seen": "2026-10-16T14:35:00+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1790553600",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF088588W"
+    },
     "simplify:visa::simplify-d02657b4-87d2-4593-8b0e-d4bfb5b50cce": {
       "company": "Visa",
       "first_seen": "2026-09-17T14:34:35+00:00",
@@ -59149,5 +59229,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-16T13:06:27+00:00"
+  "updated_at": "2026-10-16T14:35:37+00:00"
 }
