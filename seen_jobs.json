@@ -1,5 +1,5 @@
 {
-  "count": 7148,
+  "count": 7149,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -15850,6 +15850,16 @@
       "posted_at": "1789344000",
       "title": "Technology Intern - Multiple Teams",
       "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-TN-Nashville/Technology-Intern---Nashville--TN--Summer-2027-_R39670"
+    },
+    "simplify:costar group::simplify-9047dd23-9bb9-4503-8b3a-3792489b8b50": {
+      "company": "CoStar Group",
+      "first_seen": "2026-10-16T02:07:59+00:00",
+      "last_seen": "2026-10-16T02:07:59+00:00",
+      "location": "SF",
+      "posted_at": "1792022400",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-CA-San-Francisco/Software-Engineer-I---BizBuySell---San-Francisco--CA_R40158-1"
     },
     "simplify:costar group::simplify-be949df0-0657-4f39-b1f3-e45962a3eee3": {
       "company": "CoStar Group",
@@ -59088,5 +59098,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-16T02:04:57+00:00"
+  "updated_at": "2026-10-16T02:08:59+00:00"
 }
