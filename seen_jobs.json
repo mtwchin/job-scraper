@@ -1,5 +1,5 @@
 {
-  "count": 7150,
+  "count": 7151,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -14867,7 +14867,7 @@
     "simplify:clio::simplify-23548c7d-01ff-437f-ae9c-07e51f4c86b4": {
       "company": "Clio",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-10-15T00:00:13+00:00",
+      "last_seen": "2026-10-16T09:07:56+00:00",
       "posted_at": "1781639242",
       "title": "Software Developer Co-op",
       "url": "https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Toronto/Software-Developer--Co-op_REQ-1577"
@@ -19520,6 +19520,16 @@
       "source": "simplify",
       "title": "Software Engineer New Grad - AI Entities",
       "url": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true"
+    },
+    "simplify:evercore::simplify-7ea8d45a-67d3-43f9-ba9e-9166c90992d9": {
+      "company": "Evercore",
+      "first_seen": "2026-10-16T09:07:56+00:00",
+      "last_seen": "2026-10-16T09:07:56+00:00",
+      "location": "NYC",
+      "posted_at": "1788993176",
+      "source": "simplify",
+      "title": "Summer Analyst: Global Technology Intern",
+      "url": "https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3263-2028-Summer-Analyst-Program-Global-Technology-New-York/en-GB"
     },
     "simplify:everfox::simplify-5b51e676-8b92-4a35-a771-c5e6ce70e43c": {
       "company": "Everfox",
@@ -59108,5 +59118,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-16T07:12:08+00:00"
+  "updated_at": "2026-10-16T09:08:16+00:00"
 }
