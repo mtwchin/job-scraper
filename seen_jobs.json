@@ -118,6 +118,15 @@
       "title": "Software Developer Intern",
       "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233"
     },
+    "simplify:bc pensions::simplify-666bef1d-25fc-49ac-aca6-45ccfc8c86ff": {
+      "attempted_at": "2026-10-16T02:04:47+00:00",
+      "company": "BC Pensions",
+      "location": "Victoria, BC, Canada",
+      "posted_at": "1792114633",
+      "source": "simplify",
+      "title": "Application Developer Co-op",
+      "url": "https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/227"
+    },
     "simplify:boeing::simplify-080ae20a-20b7-4971-8e68-70b02946bd25": {
       "attempted_at": "2026-10-15T14:36:34+00:00",
       "company": "Boeing",
@@ -59079,5 +59088,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-16T01:36:55+00:00"
+  "updated_at": "2026-10-16T02:04:57+00:00"
 }
