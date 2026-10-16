@@ -1,5 +1,5 @@
 {
-  "count": 7163,
+  "count": 7166,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -4475,6 +4475,16 @@
       "posted_at": "1789348713",
       "title": "Software Engineer Intern",
       "url": "https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e/apply"
+    },
+    "simplify:actionet::simplify-798b7c48-2d01-4bf9-84e8-e1b45ba8c797": {
+      "company": "ActioNet",
+      "first_seen": "2026-10-16T22:03:28+00:00",
+      "last_seen": "2026-10-16T22:03:28+00:00",
+      "location": "Rosslyn, Arlington, VA",
+      "posted_at": "1782943858",
+      "source": "simplify",
+      "title": "Junior Developer",
+      "url": "https://jobs.jobvite.com/actionet/job/ofYQzfwm?nl=1&nl=1&fr=false"
     },
     "simplify:acuity international::simplify-96d58925-a30c-4f80-a64a-6d7f7846bfe4": {
       "company": "Acuity International",
@@ -47395,6 +47405,26 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0/application?embed=true"
     },
+    "simplify:tesco::simplify-232d5844-222c-4143-92d0-bdecbe07bcc4": {
+      "company": "Tesco",
+      "first_seen": "2026-10-16T22:03:28+00:00",
+      "last_seen": "2026-10-16T22:03:28+00:00",
+      "location": "Welwyn Garden City, UK",
+      "posted_at": "1790039894",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://tesco.avature.net/en_GB/careers/JobDetail/209138"
+    },
+    "simplify:tesco::simplify-5a420988-960a-4b0e-bbf5-a96d759ef302": {
+      "company": "Tesco",
+      "first_seen": "2026-10-16T22:03:28+00:00",
+      "last_seen": "2026-10-16T22:03:28+00:00",
+      "location": "Edinburgh, UK, Glasgow, UK",
+      "posted_at": "1790039895",
+      "source": "simplify",
+      "title": "Engineering New Grad",
+      "url": "https://tesco.avature.net/en_GB/careers/JobDetail/209131"
+    },
     "simplify:tesla::simplify-0606524d-078f-47d6-8447-f7842723a934": {
       "company": "Tesla",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -59239,5 +59269,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-16T22:01:27+00:00"
+  "updated_at": "2026-10-16T22:03:29+00:00"
 }
