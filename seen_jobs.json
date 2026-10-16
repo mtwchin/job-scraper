@@ -1,5 +1,5 @@
 {
-  "count": 7143,
+  "count": 7147,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -4177,6 +4177,16 @@
       "posted_at": "1786768120",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883/application?embed=true"
+    },
+    "simplify:abridge::simplify-abedfbfb-5d56-4e56-a4bc-2ce1b5424f8d": {
+      "company": "Abridge",
+      "first_seen": "2026-10-16T01:32:38+00:00",
+      "last_seen": "2026-10-16T01:32:38+00:00",
+      "location": "SF",
+      "posted_at": "1792113271",
+      "source": "simplify",
+      "title": "Member of Technical Staff Intern",
+      "url": "https://jobs.ashbyhq.com/abridge/aab11857-7ed3-4fc5-aab3-35256601117e/application?embed=true"
     },
     "simplify:abridge::simplify-ccc30a08-187b-428e-a4e2-333c838dadaa": {
       "company": "Abridge",
@@ -23837,6 +23847,28 @@
       "posted_at": "1788560121",
       "title": "Associate Software Engineer",
       "url": "https://careers-healthedge.icims.com/jobs/8440/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:healthpeak properties::simplify-4cc3f124-5683-4993-b06a-196a262faaaa": {
+      "company": "Healthpeak Properties",
+      "duplicate_of": "simplify:healthpeak properties::simplify-db93ac45-a63e-477d-bd8f-98cf17ca4fd7",
+      "first_seen": "2026-10-16T01:32:38+00:00",
+      "last_seen": "2026-10-16T01:32:38+00:00",
+      "location": "Irvine, CA",
+      "posted_at": "1792112928",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Forward Deployed Software Engineer Intern",
+      "url": "https://healthpeak.applytojob.com/apply/RTf9TfJE4h/Forward-Deployed-Software-Engineer-Internship"
+    },
+    "simplify:healthpeak properties::simplify-db93ac45-a63e-477d-bd8f-98cf17ca4fd7": {
+      "company": "Healthpeak Properties",
+      "first_seen": "2026-10-16T01:32:38+00:00",
+      "last_seen": "2026-10-16T01:32:38+00:00",
+      "location": "NYC; Irvine, CA",
+      "posted_at": "1792112928",
+      "source": "simplify",
+      "title": "Forward Deployed Software Engineer Intern",
+      "url": "https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship"
     },
     "simplify:hearst::simplify-0f01813c-18e9-48c2-9e47-4afaf74c1be9": {
       "company": "Hearst",
@@ -46623,6 +46655,16 @@
       "title": "Associate Engineer - Software",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Engineer--Software_REQ366936"
     },
+    "simplify:t-mobile::simplify-a8967f38-53a7-4716-80c1-8ba4fc0fb06b": {
+      "company": "T-Mobile",
+      "first_seen": "2026-10-16T01:32:38+00:00",
+      "last_seen": "2026-10-16T01:32:38+00:00",
+      "location": "Bellevue, WA",
+      "posted_at": "1792022400",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322"
+    },
     "simplify:t-mobile::simplify-d3b9d664-582b-4b4c-a7bb-70489dda21e2": {
       "company": "T-Mobile",
       "first_seen": "2026-09-15T23:08:09+00:00",
@@ -59027,5 +59069,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-16T00:05:50+00:00"
+  "updated_at": "2026-10-16T01:32:53+00:00"
 }
