@@ -1,5 +1,5 @@
 {
-  "count": 7147,
+  "count": 7148,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -17518,7 +17518,7 @@
     "simplify:dexcom::simplify-c5f0ccae-5750-4c3e-9954-d45d8150a0a2": {
       "company": "Dexcom",
       "first_seen": "2026-10-12T22:34:35+00:00",
-      "last_seen": "2026-10-13T00:00:55+00:00",
+      "last_seen": "2026-10-16T01:36:37+00:00",
       "location": "California",
       "posted_at": "1791763200",
       "source": "simplify",
@@ -26014,6 +26014,16 @@
       "posted_at": "1784067142",
       "title": "Software Engineer 1",
       "url": "https://jobs.intuit.com/job/charlotte/software-engineer-i-credit-karma/27595/97793819216"
+    },
+    "simplify:intuit::simplify-d1f50127-9dc7-4b88-a4ae-bffdc7c84812": {
+      "company": "Intuit",
+      "first_seen": "2026-10-16T01:36:37+00:00",
+      "last_seen": "2026-10-16T01:36:37+00:00",
+      "location": "Charlotte, NC, NYC, Mountain View, CA, Atlanta, GA, San Diego, CA",
+      "posted_at": "1792113725",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536"
     },
     "simplify:intuit::simplify-d249bf80-6b21-4361-bcab-b047533c7142": {
       "company": "Intuit",
@@ -48305,7 +48315,7 @@
     "simplify:thales::simplify-cdd83d13-afda-431e-80dd-c7d9481d304d": {
       "company": "Thales",
       "first_seen": "2026-10-13T22:34:18+00:00",
-      "last_seen": "2026-10-14T00:00:26+00:00",
+      "last_seen": "2026-10-16T01:36:37+00:00",
       "location": "Orlando, FL",
       "posted_at": "1791849600",
       "source": "simplify",
@@ -59069,5 +59079,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-16T01:32:53+00:00"
+  "updated_at": "2026-10-16T01:36:55+00:00"
 }
