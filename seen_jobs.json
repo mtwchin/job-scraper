@@ -1,5 +1,5 @@
 {
-  "count": 7151,
+  "count": 7153,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -9291,6 +9291,16 @@
       "posted_at": "1786141805",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003"
+    },
+    "simplify:axon::simplify-9ab5126a-5ff7-4eaa-9a53-cb901dc3185c": {
+      "company": "Axon",
+      "first_seen": "2026-10-16T09:33:44+00:00",
+      "last_seen": "2026-10-16T09:33:44+00:00",
+      "location": "Boston, MA, Seattle, WA, Sterling, VA, Scottsdale, AZ, NYC",
+      "posted_at": "1790893080",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8010994003"
     },
     "simplify:axon::simplify-f968b448-0edf-43ed-9f4c-8954bef0183b": {
       "company": "Axon",
@@ -47841,6 +47851,16 @@
       "title": "Robotaxi Simulation Engineer Intern - Systems Modeling & Optimization",
       "url": "https://www.tesla.com/careers/search/job/281936"
     },
+    "simplify:tesla::simplify-c2b83547-72d8-4dc5-8cc9-ea1825ebf4e6": {
+      "company": "Tesla",
+      "first_seen": "2026-10-16T09:33:43+00:00",
+      "last_seen": "2026-10-16T09:33:43+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1788402220",
+      "source": "simplify",
+      "title": "Software Engineer Intern - SI Data Infrastructure",
+      "url": "https://www.tesla.com/careers/search/job/282292"
+    },
     "simplify:tesla::simplify-c5bd1b3f-c4a1-4606-b687-e4afcc112363": {
       "company": "Tesla",
       "first_seen": "2026-08-27T23:56:29+00:00",
@@ -59118,5 +59138,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-16T09:08:16+00:00"
+  "updated_at": "2026-10-16T09:34:18+00:00"
 }
