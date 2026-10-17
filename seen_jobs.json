@@ -1,6 +1,15 @@
 {
   "count": 7210,
   "delivery_attempts": {
+    "abnormal security::8015179003": {
+      "attempted_at": "2026-10-17T04:07:11+00:00",
+      "company": "Abnormal Security",
+      "location": "Remote - USA",
+      "posted_at": "2026-10-17T00:06:39-04:00",
+      "source": "",
+      "title": "Software Engineer 1 - Cloud Infrastructure",
+      "url": "https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003"
+    },
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
       "company": "Affirm",
@@ -59717,5 +59726,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-17T01:36:47+00:00"
+  "updated_at": "2026-10-17T04:07:51+00:00"
 }
