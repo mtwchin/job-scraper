@@ -1,5 +1,5 @@
 {
-  "count": 7211,
+  "count": 7213,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -9154,6 +9154,16 @@
       "posted_at": "1788296936",
       "title": "Configuration Manager",
       "url": "https://apply.workable.com/avalore/j/B0B5647E68/apply"
+    },
+    "simplify:avalore::simplify-9a019136-13e7-4685-8187-00ec9d7fd140": {
+      "company": "Avalore",
+      "first_seen": "2026-10-17T09:32:20+00:00",
+      "last_seen": "2026-10-17T09:32:20+00:00",
+      "location": "Arlington, VA",
+      "posted_at": "1788218944",
+      "source": "simplify",
+      "title": "Systems Engineer",
+      "url": "https://apply.workable.com/avalore/j/D96DEC462B/apply"
     },
     "simplify:avalore::simplify-d68216d8-e538-4756-a1e8-8ecaa7185ebe": {
       "company": "Avalore",
@@ -21117,6 +21127,16 @@
       "title": "Graduate Software Engineer",
       "url": "https://job-boards.eu.greenhouse.io/fuzehealth/jobs/4833389101"
     },
+    "simplify:galatea associates::simplify-dc1736a5-1d63-4f9d-b1cb-88598e3fa554": {
+      "company": "Galatea Associates",
+      "first_seen": "2026-10-17T09:32:20+00:00",
+      "last_seen": "2026-10-17T09:32:20+00:00",
+      "location": "St. Petersburg, FL",
+      "posted_at": "1791929737",
+      "source": "simplify",
+      "title": "Entry-Level Financial Software Consultant",
+      "url": "https://jobs.lever.co/galatea-associates/d5bceaf1-0137-4cc3-9353-72cc7a4f937b/apply"
+    },
     "simplify:gallup::simplify-554ed556-de9e-4fdd-9011-1d52a9228cf0": {
       "company": "Gallup",
       "first_seen": "2026-09-09T05:58:17+00:00",
@@ -23552,7 +23572,7 @@
     "simplify:grayce::simplify-d1d59849-acaf-4fac-8763-72a6042a75f8": {
       "company": "Grayce",
       "first_seen": "2026-09-23T11:33:08+00:00",
-      "last_seen": "2026-09-24T00:00:15+00:00",
+      "last_seen": "2026-10-17T09:32:20+00:00",
       "location": "Bridgend, UK",
       "posted_at": "1790155943",
       "source": "simplify",
@@ -47225,7 +47245,7 @@
     "simplify:systems planning and analysis::simplify-c9e8fbe2-493b-49f9-86ad-7fcf74ee4a85": {
       "company": "Systems Planning and Analysis",
       "first_seen": "2026-09-03T23:33:20+00:00",
-      "last_seen": "2026-10-05T00:00:44+00:00",
+      "last_seen": "2026-10-17T09:32:20+00:00",
       "posted_at": "1785881398",
       "title": "Associate Systems Engineer",
       "url": "https://spa.jibeapply.com/jobs/23161?icims=1"
@@ -59755,5 +59775,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-17T09:05:40+00:00"
+  "updated_at": "2026-10-17T09:32:43+00:00"
 }
