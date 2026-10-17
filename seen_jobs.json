@@ -1,5 +1,5 @@
 {
-  "count": 7214,
+  "count": 7223,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -56186,6 +56186,18 @@
       "title": "Software Engineering Intern, Masters",
       "url": "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships"
     },
+    "vanshb03:aptiv::vanshb03-1b81d325-06a2-4891-a460-304950f13ec1": {
+      "company": "Aptiv",
+      "duplicate_of": "simplify:aptiv::simplify-35a95991-96d0-490a-a3c5-6a80496b8aa1",
+      "first_seen": "2026-10-17T18:30:53+00:00",
+      "last_seen": "2026-10-17T18:30:53+00:00",
+      "location": "CAN Kanata, ON",
+      "posted_at": "1791874800",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Cloud Software Engineer Intern",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375"
+    },
     "vanshb03:aquatic capital::vanshb03-bda8b046-3986-4f19-baf0-3fbf1bf3bc36": {
       "company": "Aquatic Capital",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -56339,6 +56351,16 @@
       "source": "vanshb03",
       "title": "Software Engineer I - Engineering - Development",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602803047194"
+    },
+    "vanshb03:brain co.::vanshb03-c2a2443f-38da-45a3-bc2e-ba71436eb8f9": {
+      "company": "Brain Co.",
+      "first_seen": "2026-10-17T18:30:53+00:00",
+      "last_seen": "2026-10-17T18:30:53+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1791961200",
+      "source": "vanshb03",
+      "title": "AI Platform Engineer Co-op",
+      "url": "https://jobs.ashbyhq.com/brainco/aadc490a-0d72-4be0-891b-4c362d491c3a/application"
     },
     "vanshb03:brm::vanshb03-f858a9c5-9848-4c93-9f14-dabd4522cb6d": {
       "company": "BRM",
@@ -56911,6 +56933,16 @@
       "title": "Associate Software Engineer",
       "url": "https://jobs.jobvite.com/emoneyadvisor-review/job/oD9hxfwk"
     },
+    "vanshb03:entrust::vanshb03-5ac5f65b-16ed-45a3-80e3-eb7be468a122": {
+      "company": "Entrust",
+      "first_seen": "2026-10-17T18:30:53+00:00",
+      "last_seen": "2026-10-17T18:30:53+00:00",
+      "location": "Shakopee, MN",
+      "posted_at": "1792134000",
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op",
+      "url": "https://entrust.wd1.myworkdayjobs.com/en-US/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425"
+    },
     "vanshb03:epic games::vanshb03-6ad34b8c-97ef-49cf-8230-cc2fd4d26258": {
       "company": "Epic Games",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -57120,6 +57152,16 @@
       "title": "Entry Level Software Engineer",
       "url": "https://careers-gdms.icims.com/jobs/67972/job?mobile=true&needsRedirect=false"
     },
+    "vanshb03:general dynamics mission systems::vanshb03-ae207054-d3fb-420c-bfd5-e1b160a1e6a2": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-10-17T18:30:53+00:00",
+      "last_seen": "2026-10-17T18:30:53+00:00",
+      "location": "Taunton, MA",
+      "posted_at": "1791961200",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Crypto and Cross Domain Solutions",
+      "url": "https://careers-gdms.icims.com/jobs/75478/software-engineer-intern-for-crypto-and-cross-domain-solutions/job"
+    },
     "vanshb03:general dynamics mission systems::vanshb03-c40c9f50-3e5d-463c-84b6-ee03c44e7c0c": {
       "company": "General Dynamics Mission Systems",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -57130,6 +57172,16 @@
       "source": "vanshb03",
       "title": "Junior Software Engineer",
       "url": "https://careers-gdms.icims.com/jobs/68413"
+    },
+    "vanshb03:general dynamics mission systems::vanshb03-c63e937f-e366-4557-923b-6837e394576f": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-10-17T18:30:53+00:00",
+      "last_seen": "2026-10-17T18:30:53+00:00",
+      "location": "Scottsdale, AZ",
+      "posted_at": "1791961200",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Crypto & Cross Domain Solutions",
+      "url": "https://careers-gdms.icims.com/jobs/75477/software-engineer-intern-for-crypto-%26-cross-domain-solutions/job"
     },
     "vanshb03:global relay::vanshb03-a1fe1160-a32c-41b1-a47d-c72c5d2785d6": {
       "company": "Global Relay",
@@ -57296,6 +57348,16 @@
       "title": "Entry Level Full-Stack Software Engineer",
       "url": "https://careers-i3-corps.icims.com/jobs/4833/job"
     },
+    "vanshb03:icf international::vanshb03-56f6b1e6-3a9c-41a5-9644-35acac8f7e6f": {
+      "company": "ICF International",
+      "first_seen": "2026-10-17T18:30:53+00:00",
+      "last_seen": "2026-10-17T18:30:53+00:00",
+      "location": "Reston, VA",
+      "posted_at": "1791961200",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522"
+    },
     "vanshb03:imc::vanshb03-7a690259-0c9e-4272-a776-bbdd464653a1": {
       "company": "IMC",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -57372,6 +57434,26 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee"
+    },
+    "vanshb03:kla::vanshb03-09b4184d-3d91-4e02-bae2-8d473b1cee44": {
+      "company": "KLA",
+      "first_seen": "2026-10-17T18:30:53+00:00",
+      "last_seen": "2026-10-17T18:30:53+00:00",
+      "location": "Ann Arbor, MI",
+      "posted_at": "1791874800",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821"
+    },
+    "vanshb03:kla::vanshb03-d995f89a-7744-4f7b-af19-ede44657519c": {
+      "company": "KLA",
+      "first_seen": "2026-10-17T18:30:53+00:00",
+      "last_seen": "2026-10-17T18:30:53+00:00",
+      "location": "Ann Arbor, MI",
+      "posted_at": "1791874800",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, AI",
+      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817"
     },
     "vanshb03:magical::vanshb03-21105f1e-b540-44e8-9c66-152d8c5ec185": {
       "company": "Magical",
@@ -58614,6 +58696,16 @@
       "title": "Trading System Engineering Intern",
       "url": "https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088"
     },
+    "vanshb03:symbotic::vanshb03-c9ad27ac-3ba7-430b-9fc9-c7e368a719d2": {
+      "company": "Symbotic",
+      "first_seen": "2026-10-17T18:30:53+00:00",
+      "last_seen": "2026-10-17T18:30:53+00:00",
+      "location": "Brooksville, FL",
+      "posted_at": "1792047600",
+      "source": "vanshb03",
+      "title": "System Engineer Co-op",
+      "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Brooksville-FL/Co-Op--System-Engineer_R8261"
+    },
     "vanshb03:teledyne technologies incorporated::vanshb03-d6b0d4fb-dd47-478e-ad9b-2887f64a1645": {
       "company": "Teledyne Technologies Incorporated",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -59794,5 +59886,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-17T10:03:47+00:00"
+  "updated_at": "2026-10-17T18:31:33+00:00"
 }
