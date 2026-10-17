@@ -1,5 +1,5 @@
 {
-  "count": 7207,
+  "count": 7208,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -43285,6 +43285,16 @@
       "title": "Application Analyst 1",
       "url": "https://careers-ruralking.icims.com/jobs/38941/job?mobile=true&needsRedirect=false"
     },
+    "simplify:ryan::simplify-9ca48e9a-a09b-4300-802e-47d9b4466d99": {
+      "company": "Ryan",
+      "first_seen": "2026-10-17T01:34:13+00:00",
+      "last_seen": "2026-10-17T01:34:13+00:00",
+      "location": "Plano, TX",
+      "posted_at": "1792108800",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1"
+    },
     "simplify:ryan::simplify-a34ec36a-bccc-4e43-93a8-36560196de44": {
       "company": "Ryan",
       "first_seen": "2026-10-16T23:04:32+00:00",
@@ -59687,5 +59697,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-17T00:39:43+00:00"
+  "updated_at": "2026-10-17T01:34:46+00:00"
 }
