@@ -1,5 +1,5 @@
 {
-  "count": 7224,
+  "count": 7225,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -24145,6 +24145,16 @@
       "posted_at": "1786565615",
       "title": "Football Tracking Systems Operator - Remote Operations Centre",
       "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/8dda0b7b-5e67-450b-b281-76aa9949f460/application?embed=true"
+    },
+    "simplify:hcsc::simplify-19c1720c-cfad-48e9-a226-cf3675ab78d2": {
+      "company": "HCSC",
+      "first_seen": "2026-10-17T22:33:06+00:00",
+      "last_seen": "2026-10-17T22:33:06+00:00",
+      "location": "Chicago, IL, Richardson, TX",
+      "posted_at": "1792195200",
+      "source": "simplify",
+      "title": "Finance Application Developer Intern",
+      "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Finance-Application-Developer-Intern_R0059477"
     },
     "simplify:hcsc::simplify-ae7ac1d8-d114-4fd2-8588-3298ee46931a": {
       "company": "HCSC",
@@ -59896,5 +59906,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-17T18:36:35+00:00"
+  "updated_at": "2026-10-17T22:33:50+00:00"
 }
