@@ -127,6 +127,15 @@
       "title": "Software Developer Intern",
       "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233"
     },
+    "simplify:avalore::simplify-7ca735aa-9419-4bb3-aee2-59ff92b695e6": {
+      "attempted_at": "2026-10-17T09:05:13+00:00",
+      "company": "Avalore",
+      "location": "Arlington, VA",
+      "posted_at": "1788218944",
+      "source": "simplify",
+      "title": "Innovation Engineer",
+      "url": "https://apply.workable.com/avalore/j/EF492F2BE9/apply"
+    },
     "simplify:bc pensions::simplify-666bef1d-25fc-49ac-aca6-45ccfc8c86ff": {
       "attempted_at": "2026-10-16T02:04:47+00:00",
       "company": "BC Pensions",
@@ -225,6 +234,15 @@
       "source": "simplify",
       "title": "CMM Technology Intern",
       "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/CoverMyMeds_External_Careers/job/USA-OH-Columbus/CMM-Technology-Intern---Summer-2027_JR0151979-2"
+    },
+    "simplify:cvector::simplify-5e801b15-781c-4f79-8630-11096eed5278": {
+      "attempted_at": "2026-10-17T09:05:13+00:00",
+      "company": "CVector",
+      "location": "NYC",
+      "posted_at": "1786411959",
+      "source": "simplify",
+      "title": "Full Stack Software Engineer 1 or 2",
+      "url": "https://apply.workable.com/cvector/j/0D0DE27033/apply"
     },
     "simplify:framatome::simplify-367e2e43-5881-4312-9e29-9606b3347b8f": {
       "attempted_at": "2026-09-23T22:34:27+00:00",
@@ -20656,6 +20674,7 @@
     "simplify:flexcompute::simplify-78eb2dca-9b33-4b7e-a27e-6ac21fe1b6ff": {
       "company": "Flexcompute",
       "first_seen": "2026-08-08T02:09:23+00:00",
+      "last_seen": "2026-10-17T09:05:12+00:00",
       "posted_at": "1786151872",
       "title": "Software Engineer - Infrastructure",
       "url": "https://apply.workable.com/flexcompute/j/143ECD1848/apply"
@@ -59736,5 +59755,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-17T08:55:38+00:00"
+  "updated_at": "2026-10-17T09:05:40+00:00"
 }
