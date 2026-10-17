@@ -1,5 +1,5 @@
 {
-  "count": 7208,
+  "count": 7210,
   "delivery_attempts": {
     "affirm::8008649003": {
       "attempted_at": "2026-10-06T19:05:15+00:00",
@@ -5918,6 +5918,16 @@
       "posted_at": "1779930364",
       "title": "ITS Support Engineer 1",
       "url": "https://amazon.jobs/en/jobs/10432510/its-support-engineer-i"
+    },
+    "simplify:amazon::simplify-e6dd9201-55c5-46cf-a0bc-b9d1b81d9359": {
+      "company": "Amazon",
+      "first_seen": "2026-10-17T01:36:07+00:00",
+      "last_seen": "2026-10-17T01:36:07+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1792200310",
+      "source": "simplify",
+      "title": "Systems Development Engineer \u2013 Early Career",
+      "url": "https://amazon.jobs/en/jobs/10581943/systems-development-engineer-early-career-2026-us"
     },
     "simplify:amazon::simplify-e78d8db1-0336-4670-aa71-5b51a2f8ad60": {
       "company": "Amazon",
@@ -20128,6 +20138,16 @@
       "posted_at": "1787529600",
       "title": "Technology Program Intern",
       "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Campus---Technology-Program-Intern_JR2810"
+    },
+    "simplify:faraday future::simplify-4b7d9212-ac43-4c9a-8377-465403c23615": {
+      "company": "Faraday Future",
+      "first_seen": "2026-10-17T01:36:08+00:00",
+      "last_seen": "2026-10-17T01:36:08+00:00",
+      "location": "El Segundo, CA",
+      "posted_at": "1792199187",
+      "source": "simplify",
+      "title": "SDK Platform Engineer",
+      "url": "https://job-boards.greenhouse.io/faradayfuture/jobs/8036218003"
     },
     "simplify:faros ai::simplify-b638e646-a8c7-484b-9b2b-51e2b939e5c6": {
       "company": "Faros AI",
@@ -59697,5 +59717,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-17T01:34:46+00:00"
+  "updated_at": "2026-10-17T01:36:47+00:00"
 }
