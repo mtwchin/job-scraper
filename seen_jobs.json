@@ -1,5 +1,5 @@
 {
-  "count": 7210,
+  "count": 7211,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -453,7 +453,7 @@
     }
   },
   "delivery_rejections": {},
-  "health_alert_active": true,
+  "health_alert_active": false,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -43927,6 +43927,16 @@
       "title": "Software Developer 1",
       "url": "https://careers-scires.icims.com/jobs/11507/job?mobile=true&needsRedirect=false"
     },
+    "simplify:scientific systems::simplify-1e71a3ad-b0cf-4e53-a601-f6e1b737e2a6": {
+      "company": "Scientific Systems",
+      "first_seen": "2026-10-17T08:34:14+00:00",
+      "last_seen": "2026-10-17T08:34:14+00:00",
+      "location": "Burlington, VT",
+      "posted_at": "1789597415",
+      "source": "simplify",
+      "title": "Autonomy Software Engineer 1",
+      "url": "https://apply.workable.com/ssci/j/B3FED12AAD/apply"
+    },
     "simplify:scitec::simplify-b38cc126-88d4-4da7-ba9b-9fd0d262dfa0": {
       "company": "SciTec",
       "first_seen": "2026-07-24T23:33:06+00:00",
@@ -59726,5 +59736,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-17T08:33:10+00:00"
+  "updated_at": "2026-10-17T08:35:12+00:00"
 }
