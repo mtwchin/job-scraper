@@ -1,5 +1,5 @@
 {
-  "count": 7213,
+  "count": 7214,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -49390,6 +49390,16 @@
       "title": "Federal Reserve Financial Services Software Engineer 1",
       "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/Federal-Reserve-Financial-Services-Software-Engineer-I_R-0000032219-1"
     },
+    "simplify:the focusrite group::simplify-b0fb54b5-eefe-4969-b998-22da93d6c774": {
+      "company": "The Focusrite Group",
+      "first_seen": "2026-10-17T09:37:23+00:00",
+      "last_seen": "2026-10-17T09:37:23+00:00",
+      "location": "Letchworth Garden City, UK",
+      "posted_at": "1790634035",
+      "source": "simplify",
+      "title": "Software Developer Placement Intern",
+      "url": "https://apply.workable.com/focusrite/j/BFA6731604/apply"
+    },
     "simplify:the hartford ::simplify-91a38b7d-48bf-4b20-b965-c3bce9803913": {
       "company": "The Hartford ",
       "first_seen": "2026-07-17T23:11:51+00:00",
@@ -59775,5 +59785,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-17T09:32:43+00:00"
+  "updated_at": "2026-10-17T09:37:44+00:00"
 }
