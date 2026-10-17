@@ -453,7 +453,7 @@
     }
   },
   "delivery_rejections": {},
-  "health_alert_active": true,
+  "health_alert_active": false,
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -59726,5 +59726,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-17T07:45:08+00:00"
+  "updated_at": "2026-10-17T07:47:10+00:00"
 }
