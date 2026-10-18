@@ -1,5 +1,5 @@
 {
-  "count": 7232,
+  "count": 7233,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -51134,6 +51134,16 @@
       "title": "IT Engineer Intern",
       "url": "https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Marlborough-MA-01752/IT-Engineer-Internship---Summer-2027_REQ153160"
     },
+    "simplify:tjx::simplify-a2948d5d-0733-4548-8351-e4a5d082b4dd": {
+      "company": "TJX",
+      "first_seen": "2026-10-18T09:06:23+00:00",
+      "last_seen": "2026-10-18T09:06:23+00:00",
+      "location": "Watford, UK",
+      "posted_at": "1791763200",
+      "source": "simplify",
+      "title": "IT Engineer Graduate",
+      "url": "https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Watford-HER-WD17-1TX/IT-Engineer-Graduate_REQ156568-1"
+    },
     "simplify:tjx::simplify-f2da14ca-8f33-41b0-abff-665c1a8b713e": {
       "company": "TJX",
       "first_seen": "2026-08-18T22:42:18+00:00",
@@ -59978,5 +59988,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-18T08:38:12+00:00"
+  "updated_at": "2026-10-18T09:07:14+00:00"
 }
