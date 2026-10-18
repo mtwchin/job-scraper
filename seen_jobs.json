@@ -1,5 +1,5 @@
 {
-  "count": 7231,
+  "count": 7232,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -14032,6 +14032,16 @@
       "posted_at": "1774505937",
       "title": "ServiceNow Architect - Sna - Junior",
       "url": "https://jobs.lever.co/cgsfederal/af321f10-50ca-48d6-b807-51428a5aee7a/apply"
+    },
+    "simplify:chainlink labs::simplify-25fc66da-f7d2-4a82-b918-c0645c1eb9db": {
+      "company": "Chainlink Labs",
+      "first_seen": "2026-10-18T08:37:23+00:00",
+      "last_seen": "2026-10-18T08:37:23+00:00",
+      "location": "Boston, MA, Seattle, WA, Remote in USA, NYC, Remote in Canada, Remote in Switzerland",
+      "posted_at": "1782338934",
+      "source": "simplify",
+      "title": "Research Intern",
+      "url": "https://jobs.ashbyhq.com/chainlink-labs/c71ed144-8eb4-4acf-9bf3-137b1b067ed8/application?embed=true"
     },
     "simplify:chainlink labs::simplify-4914cc60-b5e1-4765-b6f1-fd0fcabcfd72": {
       "company": "Chainlink Labs",
@@ -59968,5 +59978,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-18T04:51:07+00:00"
+  "updated_at": "2026-10-18T08:38:12+00:00"
 }
