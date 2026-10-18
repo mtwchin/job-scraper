@@ -1,5 +1,5 @@
 {
-  "count": 7234,
+  "count": 7235,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -29886,6 +29886,18 @@
       "source": "simplify",
       "title": "Software Engineering Apprentice",
       "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Software-Engineering-Degree-Apprentice_R0034281"
+    },
+    "simplify:leonardo::simplify-267a2fc2-4e05-4e4f-b0f4-000a8134452d": {
+      "company": "Leonardo",
+      "duplicate_of": "simplify:leonardo::simplify-33481bc4-8637-4823-a224-81cbfae0e6ee",
+      "first_seen": "2026-10-18T10:05:33+00:00",
+      "last_seen": "2026-10-18T10:05:33+00:00",
+      "location": "Newcastle upon Tyne, UK",
+      "posted_at": "1792281600",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Industrial-Placement-Software-Engineer_R0033876"
     },
     "simplify:leonardo::simplify-33481bc4-8637-4823-a224-81cbfae0e6ee": {
       "company": "Leonardo",
@@ -60000,5 +60012,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-18T10:03:27+00:00"
+  "updated_at": "2026-10-18T10:06:29+00:00"
 }
