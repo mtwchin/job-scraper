@@ -147,9 +147,12 @@ any moment only a handful of companies have a *fresh* (<24 h) US/CA SWE role.
 
 Run fetches companies concurrently (`CONCURRENCY`, default 12), so ~136 companies
 complete in ~25–30 s rather than minutes. Logs are structured (`LOG_LEVEL=DEBUG`
-for per-company detail), and if a large share of companies error in one run
-(`HEALTH_ALERT_THRESHOLD`) it posts a Discord heads-up so a systemic break — a
-platform outage or a shipped bug — doesn't fail silently.
+for per-company detail). A board that keeps failing (`HEALTH_ALERT_SWEEPS`
+attempts in a row over `HEALTH_ALERT_MINUTES`) gets **one** Discord heads-up,
+grouped by platform, and a ✅ when it recovers. It is never re-posted every
+sweep, and a new watch loop that starts mid-outage stays quiet. Meanwhile a
+failing board backs off (30 s, doubling to 15 min) so we stop hammering a host
+that is rate-limiting us.
 
 `pytest` covers the filter and config logic and runs in CI (`.github/workflows/
 tests.yml`) on every push.
@@ -173,7 +176,9 @@ Set these as env vars (locally) or edit the `env:` block in the workflow:
 | `SCOPE`             | `all`              | `top` = `companies.md` only; `rest` = every other company, feeds only; `all` = both. |
 | `TITLE_COOLDOWN_HOURS` | `168`           | Don't re-alert a company + title in another location within this window. `0` = off. |
 | `CONCURRENCY`       | `12`               | Companies fetched in parallel.                     |
-| `HEALTH_ALERT_THRESHOLD` | `0.25`        | Discord heads-up if this share of companies error. |
+| `HEALTH_ALERT_SWEEPS` | `2`              | A board is "down" after this many failed attempts in a row... |
+| `HEALTH_ALERT_MINUTES` | `10`            | ...spanning at least this long. One alert per outage. |
+| `BACKOFF_BASE_SECONDS` / `BACKOFF_MAX_SECONDS` | `30` / `900` | Pause a failing board, doubling per failure. |
 | `LOG_LEVEL`         | `INFO`             | `DEBUG` shows per-company fetch/error lines.        |
 | `DISCORD_WEBHOOK_URL_ALL` | unset        | Second channel: every Simplify SWE role, any company. Unset = disabled. |
 | `SIMPLIFY_ALL_ENABLED` | `true`          | Master switch for the all-companies feed (still needs `DISCORD_WEBHOOK_URL_ALL`). |

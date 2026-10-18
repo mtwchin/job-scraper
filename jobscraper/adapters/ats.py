@@ -2,6 +2,8 @@
 from __future__ import annotations
 
 import re
+import threading
+import time
 from dataclasses import replace
 
 from .. import filters, http, settings
@@ -85,7 +87,41 @@ _WORKDAY_QUERIES = (
 )
 _WORKDAY_PAGE = 20
 _WORKDAY_MAX_PER_QUERY = 200
+# Results are relevance-ranked, so past the point where whole pages hold no
+# intern/new-grad title, further pages are noise. Stop a query after this many
+# such pages in a row rather than walking all ten.
+_WORKDAY_IRRELEVANT_PAGES = 2
 _GENERIC_LOCATION = re.compile(r"^\d+\s+locations?$", re.I)
+
+# Every tenant sits on Workday's shared infrastructure, and it rate-limits by
+# client IP across all of them: when it decided our runner was too busy, all ten
+# Workday companies failed at once (HTTP 500s, then empty 200 bodies) for hours.
+# Capping our concurrent Workday requests keeps the sweep's burst modest.
+_WORKDAY_SLOTS = threading.BoundedSemaphore(3)
+# A posting's offices don't change, so resolve each "2 Locations" posting once
+# per process instead of re-fetching its detail page every sweep.
+_workday_locations: dict[str, str] = {}
+_WORKDAY_LOCATION_CACHE_MAX = 5000
+
+
+def _workday_call(fn, url: str, **kwargs):
+    """One Workday request: bounded concurrency, a clear error for a throttled
+    (non-JSON) answer, and a single patient retry for one."""
+    for attempt in range(2):
+        with _WORKDAY_SLOTS:
+            resp = fn(url, retries=1, timeout=20, **kwargs)
+        resp.raise_for_status()
+        try:
+            return http.json_body(resp)
+        except http.NotJSON:
+            if attempt:
+                raise
+        time.sleep(3)
+
+
+def _workday_relevant(title: str) -> bool:
+    probe = Job(company="", job_id="", title=title, url="", location="")
+    return filters.matches(probe, settings.ROLE_TYPES, settings.OFF_SEASON_ONLY)
 
 
 def fetch_workday(company: CompanyConfig) -> list[Job]:
@@ -102,6 +138,8 @@ def fetch_workday(company: CompanyConfig) -> list[Job]:
 
     for query in _WORKDAY_QUERIES:
         offset = 0
+        total = None
+        irrelevant_pages = 0
         while offset < _WORKDAY_MAX_PER_QUERY:
             body = {
                 "appliedFacets": {},
@@ -111,12 +149,14 @@ def fetch_workday(company: CompanyConfig) -> list[Job]:
             }
             # Bound time so one slow Workday host can't stall the whole run
             # (a failure here is caught per-company by main.py).
-            resp = http.post(api, json=body, headers=headers, retries=1, timeout=20)
-            resp.raise_for_status()
-            data = resp.json()
+            data = _workday_call(http.post, api, json=body, headers=headers)
             postings = data.get("jobPostings", [])
             if not postings:
                 break
+            # Workday reports `total` on the first page only; later pages say 0.
+            # Reading it per page stopped every query after its second page.
+            if total is None:
+                total = data.get("total", 0)
             for p in postings:
                 ext = p.get("externalPath", "")
                 # externalPath is "/job/<loc>/<title>_<req>" — the public job URL
@@ -136,8 +176,14 @@ def fetch_workday(company: CompanyConfig) -> list[Job]:
                 )
                 detail_paths[jid] = ext
             offset += _WORKDAY_PAGE
-            if offset >= data.get("total", 0):
+            if offset >= total:
                 break
+            if any(_workday_relevant(p.get("title", "")) for p in postings):
+                irrelevant_pages = 0
+            else:
+                irrelevant_pages += 1
+                if irrelevant_pages >= _WORKDAY_IRRELEVANT_PAGES:
+                    break
     # Search results sometimes say only "2 Locations". A posting URL may name
     # one foreign office while another office is in the US, so resolve every
     # relevant ambiguous role from Workday's public detail endpoint.
@@ -150,13 +196,17 @@ def fetch_workday(company: CompanyConfig) -> list[Job]:
             ext = detail_paths.get(jid)
             if not ext:
                 continue
-            detail = http.get(f"https://{host}/wday/cxs/{tenant}/{site}{ext}", retries=1, timeout=20)
-            detail.raise_for_status()
-            info = detail.json().get("jobPostingInfo") or {}
-            locations = [info.get("location") or "", *(info.get("additionalLocations") or [])]
-            location = ", ".join(loc for loc in locations if loc)
-            if not location:
-                raise ValueError(f"Workday detail omitted locations for {jid}")
+            detail_url = f"https://{host}/wday/cxs/{tenant}/{site}{ext}"
+            location = _workday_locations.get(detail_url)
+            if location is None:
+                info = _workday_call(http.get, detail_url).get("jobPostingInfo") or {}
+                locations = [info.get("location") or "", *(info.get("additionalLocations") or [])]
+                location = ", ".join(loc for loc in locations if loc)
+                if not location:
+                    raise ValueError(f"Workday detail omitted locations for {jid}")
+                if len(_workday_locations) >= _WORKDAY_LOCATION_CACHE_MAX:
+                    _workday_locations.clear()
+                _workday_locations[detail_url] = location
             jobs[jid] = replace(job, location=location)
     return list(jobs.values())
 

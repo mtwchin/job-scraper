@@ -134,14 +134,17 @@ MAX_NOTIFICATIONS_PER_RUN = int(os.environ.get("MAX_NOTIFICATIONS_PER_RUN", "60"
 # How many companies to fetch in parallel. Different companies are on different
 # hosts, so this doesn't hammer any single API.
 CONCURRENCY = int(os.environ.get("CONCURRENCY", "12"))
-# If this fraction of companies error in a single run, post a Discord heads-up —
-# a systemic break (a platform outage, a shipped bug) rather than one stale board.
-HEALTH_ALERT_THRESHOLD = float(os.environ.get("HEALTH_ALERT_THRESHOLD", "0.25"))
-# ...and only once that has held for this many sweeps in a row. A single bad
-# sweep is usually the runner's own network blinking (every host failing DNS at
-# once), which the next sweep a minute later shrugs off; alerting on it just
-# trains you to ignore the alert. A real outage or broken adapter persists.
+# A board is reported as down (once, until it recovers) when it has failed this
+# many attempts in a row...
 HEALTH_ALERT_SWEEPS = max(int(os.environ.get("HEALTH_ALERT_SWEEPS", "2")), 1)
+# ...over at least this many minutes. Workday's throttling, the outage that
+# prompted this, recovers on its own within minutes as often as not.
+HEALTH_ALERT_MINUTES = float(os.environ.get("HEALTH_ALERT_MINUTES", "10"))
+# A board that errors sits out of sweeps for BACKOFF_BASE_SECONDS, doubling with
+# each consecutive failure up to BACKOFF_MAX_SECONDS. Hammering a host that is
+# rate-limiting us only keeps it rate-limiting us.
+BACKOFF_BASE_SECONDS = float(os.environ.get("BACKOFF_BASE_SECONDS", "30"))
+BACKOFF_MAX_SECONDS = float(os.environ.get("BACKOFF_MAX_SECONDS", "900"))
 
 # Lets the feed poller ask GitHub for each feed's newest commit and fetch it
 # directly, instead of a branch URL the CDN may serve up to 5 minutes stale.

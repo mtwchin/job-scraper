@@ -127,9 +127,11 @@ def test_uncategorized_source_gets_title_matching(monkeypatch):
 # --------------------------------------------------------------------------- #
 # health alert
 # --------------------------------------------------------------------------- #
-def _sweep(errors: int, total: int = 10) -> main.Collection:
-    return main.Collection(errors=[f"Co{i}: [x] ConnectionError" for i in range(errors)],
-                           n_enabled=total)
+def _sweep(failing: int, total: int = 10, adapter: str = "workday") -> main.Collection:
+    outcomes = [(f"Co{i}", adapter, "[workday] NotJSON: HTTP 200 with an empty body" if i < failing
+                 else None) for i in range(total)]
+    return main.Collection(errors=[f"{n}: {e}" for n, _, e in outcomes if e],
+                           outcomes=outcomes, n_enabled=total)
 
 
 @pytest.fixture
@@ -143,22 +145,100 @@ def alerts(monkeypatch):
 
 def test_single_bad_sweep_does_not_alert(store, alerts):
     """One sweep where everything fails is usually the runner's network blinking."""
-    main._maybe_health_alert(_sweep(9), store, min_sweeps=2)
-    main._maybe_health_alert(_sweep(0), store, min_sweeps=2)
-    main._maybe_health_alert(_sweep(9), store, min_sweeps=2)
+    main._maybe_health_alert(_sweep(9), store, min_sweeps=2, min_age=0)
+    main._maybe_health_alert(_sweep(0), store, min_sweeps=2, min_age=0)
+    main._maybe_health_alert(_sweep(9), store, min_sweeps=2, min_age=0)
     assert alerts == []
 
 
 def test_sustained_errors_alert_once(store, alerts):
     for _ in range(4):
-        main._maybe_health_alert(_sweep(9), store, min_sweeps=2)
+        main._maybe_health_alert(_sweep(9), store, min_sweeps=2, min_age=0)
     assert len(alerts) == 1
-    assert "2 sweeps in a row" in alerts[0]
+    assert "9 companies failing" in alerts[0]
+    assert "workday" in alerts[0] and "empty body" in alerts[0]
+
+
+def test_alert_waits_for_min_age(store, alerts):
+    for _ in range(4):
+        main._maybe_health_alert(_sweep(3), store, min_sweeps=2, min_age=600)
+    assert alerts == []
 
 
 def test_one_shot_run_alerts_on_first_sweep(store, alerts):
-    main._maybe_health_alert(_sweep(9), store, min_sweeps=1)
+    main._maybe_health_alert(_sweep(9), store, min_sweeps=1, min_age=0)
     assert len(alerts) == 1
+
+
+def test_mixed_sweep_sizes_do_not_repeat_the_alert(store, alerts):
+    """The regression: a small priority sweep (5/19 failing) and a big full
+    sweep (10/136 failing) alternated, and the low-rate full sweep counted as a
+    recovery, re-arming the alert every few minutes."""
+    def sweep(total, failing):
+        outcomes = [(f"Co{i}", "workday" if i < 10 else "greenhouse",
+                     "[workday] NotJSON" if i < failing else None) for i in range(total)]
+        return main.Collection(errors=["x"] * failing, outcomes=outcomes, n_enabled=total)
+
+    for _ in range(10):
+        main._maybe_health_alert(sweep(5, 5), store, min_sweeps=2, min_age=0)
+        main._maybe_health_alert(sweep(136, 10), store, min_sweeps=2, min_age=0)
+    downs = [a for a in alerts if a.startswith("⚠️")]
+    # Co0-4 go down together, Co5-9 (full sweep only) a sweep later — then silence.
+    assert len(downs) == 2
+    assert not any(a.startswith("✅") for a in alerts)
+
+
+def test_recovery_is_announced_once(store, alerts):
+    for _ in range(2):
+        main._maybe_health_alert(_sweep(3), store, min_sweeps=2, min_age=0)
+    main._maybe_health_alert(_sweep(0), store, min_sweeps=2, min_age=0)
+    main._maybe_health_alert(_sweep(0), store, min_sweeps=2, min_age=0)
+    assert len(alerts) == 2
+    assert alerts[1].startswith("✅") and "Co0, Co1, Co2" in alerts[1]
+
+
+def test_reported_outage_survives_a_new_process(tmp_path, alerts):
+    """A fresh watch loop that starts mid-outage must not repeat the alert."""
+    path = tmp_path / "seen.json"
+    first = SeenStore(path)
+    for _ in range(2):
+        main._maybe_health_alert(_sweep(3), first, min_sweeps=2, min_age=0)
+    second = SeenStore(path)
+    for _ in range(3):
+        main._maybe_health_alert(_sweep(3), second, min_sweeps=2, min_age=0)
+    assert len(alerts) == 1
+
+
+# --------------------------------------------------------------------------- #
+# backoff
+# --------------------------------------------------------------------------- #
+def test_failing_board_backs_off_then_retries(monkeypatch):
+    from jobscraper.models import CompanyConfig
+    company = CompanyConfig("Nvidia", "workday", {})
+    calls = []
+
+    def fetch(c):
+        calls.append(c.name)
+        raise RuntimeError("throttled")
+
+    monkeypatch.setattr(main, "load_companies", lambda _path: [company])
+    monkeypatch.setattr(main.adapters, "get", lambda _name: fetch)
+    monkeypatch.setattr(settings, "SIMPLIFY_ENABLED", False)
+    clock = [1000.0]
+    monkeypatch.setattr(main.time, "monotonic", lambda: clock[0])
+
+    first, _ = main.collect_matches()
+    assert len(first.errors) == 1
+    skipped, _ = main.collect_matches()          # inside the 30s pause
+    assert calls == ["Nvidia"] and skipped.n_backed_off == 1 and not skipped.errors
+    clock[0] += 31
+    main.collect_matches()                        # retried, fails again -> 60s
+    clock[0] += 45
+    main.collect_matches()
+    assert calls == ["Nvidia", "Nvidia"]
+    clock[0] += 20
+    main.collect_matches()
+    assert calls == ["Nvidia", "Nvidia", "Nvidia"]
 
 
 # --------------------------------------------------------------------------- #

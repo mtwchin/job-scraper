@@ -19,7 +19,7 @@ import threading
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-from . import dedup
+from . import dedup, health
 from .models import Job
 
 try:
@@ -129,11 +129,13 @@ class SeenStore:
         # switched on long after the main store exists and shouldn't dump its
         # whole backlog the moment its webhook is set.
         self.simplify_all_seeded = False
-        self.health_alert_active = False
-        # Consecutive unhealthy sweeps in this process. In memory only: it exists
-        # to tell a one-sweep network blip from a sustained outage, and a watch
-        # loop lives for hours.
-        self.health_bad_streak = 0
+        # Companies whose outage has already been posted to Discord, so neither
+        # this loop nor the next one repeats it until they recover.
+        self.health_reported: set[str] = set()
+        # Per-company failure streaks. In memory only: it exists to tell a
+        # one-sweep network blip from a sustained outage, and a watch loop
+        # lives for hours.
+        self.health = health.Tracker()
         # Sources whose existing backlog has already been absorbed. Adding a new
         # source must not dump its entire back catalogue into Discord as if it
         # had all just been posted, so an unrecognized source is seeded quietly
@@ -156,7 +158,7 @@ class SeenStore:
         self.delivery_rejections = data.get("delivery_rejections", {}) or {}
         self.prune_cutoff = data.get("prune_cutoff", "") or ""
         self.simplify_all_seeded = bool(data.get("simplify_all_seeded", False))
-        self.health_alert_active = bool(data.get("health_alert_active", False))
+        self.health_reported = set(data.get("health_reported", []) or [])
         stored = data.get("seeded_sources")
         # A store written before this field existed still represents sources we
         # have long been alerting on. Recover them from the records themselves
@@ -396,7 +398,7 @@ class SeenStore:
                 "updated_at": _iso(_now()),
                 "count": len(self._seen),
                 "simplify_all_seeded": self.simplify_all_seeded,
-                "health_alert_active": self.health_alert_active,
+                "health_reported": sorted(self.health_reported),
                 "seeded_sources": sorted(self.seeded_sources),
                 "delivery_attempts": self.delivery_attempts,
                 "delivery_rejections": self.delivery_rejections,
