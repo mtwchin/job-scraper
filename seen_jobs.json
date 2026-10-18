@@ -1,5 +1,5 @@
 {
-  "count": 7225,
+  "count": 7227,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -29876,6 +29876,26 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Industrial-Placement-Software-Engineer_R0034283"
+    },
+    "simplify:leonardo::simplify-3c77f02f-7923-4b6b-8141-fd3a96423118": {
+      "company": "Leonardo",
+      "first_seen": "2026-10-18T01:32:12+00:00",
+      "last_seen": "2026-10-18T01:32:12+00:00",
+      "location": "Edinburgh, UK",
+      "posted_at": "1792281600",
+      "source": "simplify",
+      "title": "Graduate Software Engineer",
+      "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Graduate-Software-Engineer_R0033861"
+    },
+    "simplify:leonardo::simplify-f9df073e-edde-4591-9140-29bb70dd3691": {
+      "company": "Leonardo",
+      "first_seen": "2026-10-18T01:32:12+00:00",
+      "last_seen": "2026-10-18T01:32:12+00:00",
+      "location": "Edinburgh, UK, Newcastle upon Tyne, UK",
+      "posted_at": "1792281600",
+      "source": "simplify",
+      "title": "Graduate Test Software Engineer",
+      "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Graduate-Test-Software-Engineer_R0034203-1"
     },
     "simplify:letsgetchecked::simplify-44f63b87-48fd-489b-9f6e-71d611ee69a1": {
       "company": "LetsGetChecked",
@@ -59906,5 +59926,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-18T00:05:54+00:00"
+  "updated_at": "2026-10-18T01:32:57+00:00"
 }
