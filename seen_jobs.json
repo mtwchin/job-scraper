@@ -1,5 +1,5 @@
 {
-  "count": 7235,
+  "count": 7236,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -53992,6 +53992,16 @@
       "title": "Associate Software Engineer",
       "url": "https://careers.vtgdefense.com/jobs/9425?icims=1"
     },
+    "simplify:vtg::simplify-22a0a05d-ff1a-4abe-a1be-ef55d7b01fa9": {
+      "company": "VTG",
+      "first_seen": "2026-10-18T22:32:28+00:00",
+      "last_seen": "2026-10-18T22:32:28+00:00",
+      "location": "Hanover, MD",
+      "posted_at": "1792361207",
+      "source": "simplify",
+      "title": "Junior Software Engineer",
+      "url": "https://careers.vtgdefense.com/jobs/9669?icims=1"
+    },
     "simplify:vtg::simplify-74459e47-5d76-4ad9-9008-68903a26b25e": {
       "company": "VTG",
       "first_seen": "2026-10-04T12:02:51+00:00",
@@ -60012,5 +60022,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-18T21:54:05+00:00"
+  "updated_at": "2026-10-18T22:33:08+00:00"
 }
