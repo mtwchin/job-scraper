@@ -1,5 +1,5 @@
 {
-  "count": 7227,
+  "count": 7231,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -29857,6 +29857,16 @@
       "title": "Entry Level Web Developer - Multiple Teams",
       "url": "https://lentechinc.applytojob.com/apply/qnjVhHgXdC/Entry-Web-Developer"
     },
+    "simplify:leonardo::simplify-09d295fd-d8bf-43be-b771-d4daf5e511fe": {
+      "company": "Leonardo",
+      "first_seen": "2026-10-18T01:37:27+00:00",
+      "last_seen": "2026-10-18T01:37:27+00:00",
+      "location": "Basildon, UK",
+      "posted_at": "1792281600",
+      "source": "simplify",
+      "title": "Software Engineer Placement Intern",
+      "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282"
+    },
     "simplify:leonardo::simplify-1e7773d3-204e-4be0-84c6-7d80b5db80ff": {
       "company": "Leonardo",
       "first_seen": "2026-10-16T14:35:00+00:00",
@@ -29877,6 +29887,18 @@
       "title": "Software Engineer Intern",
       "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Industrial-Placement-Software-Engineer_R0034283"
     },
+    "simplify:leonardo::simplify-3b980755-8a95-43af-a208-b5bb7cdd90bc": {
+      "company": "Leonardo",
+      "duplicate_of": "simplify:leonardo::simplify-33481bc4-8637-4823-a224-81cbfae0e6ee",
+      "first_seen": "2026-10-18T01:37:27+00:00",
+      "last_seen": "2026-10-18T01:37:27+00:00",
+      "location": "Edinburgh, UK",
+      "posted_at": "1792281600",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Software-Engineer_R0033869-1"
+    },
     "simplify:leonardo::simplify-3c77f02f-7923-4b6b-8141-fd3a96423118": {
       "company": "Leonardo",
       "first_seen": "2026-10-18T01:32:12+00:00",
@@ -29886,6 +29908,26 @@
       "source": "simplify",
       "title": "Graduate Software Engineer",
       "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Graduate-Software-Engineer_R0033861"
+    },
+    "simplify:leonardo::simplify-61ce3c2a-84a7-4b1b-bed7-6ea767a7fa00": {
+      "company": "Leonardo",
+      "first_seen": "2026-10-18T01:37:27+00:00",
+      "last_seen": "2026-10-18T01:37:27+00:00",
+      "location": "Luton, UK",
+      "posted_at": "1792281600",
+      "source": "simplify",
+      "title": "Software Engineer Apprentice",
+      "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Software-Engineering-Degree-Apprentice_R0034102"
+    },
+    "simplify:leonardo::simplify-f7ddc24e-9ad6-4585-adc7-36f377e3194b": {
+      "company": "Leonardo",
+      "first_seen": "2026-10-18T01:37:27+00:00",
+      "last_seen": "2026-10-18T01:37:27+00:00",
+      "location": "Edinburgh, UK",
+      "posted_at": "1792281600",
+      "source": "simplify",
+      "title": "Test Software Engineer Intern",
+      "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Test-Software-Engineer_R0034205"
     },
     "simplify:leonardo::simplify-f9df073e-edde-4591-9140-29bb70dd3691": {
       "company": "Leonardo",
@@ -59926,5 +59968,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-18T01:32:57+00:00"
+  "updated_at": "2026-10-18T01:37:59+00:00"
 }
