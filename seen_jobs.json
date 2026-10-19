@@ -1,5 +1,5 @@
 {
-  "count": 7298,
+  "count": 7299,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -3717,6 +3717,16 @@
       "source": "",
       "title": "Systems Engineer I",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996430003"
+    },
+    "rocket lab::8007202003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-10-19T23:53:25+00:00",
+      "last_seen": "2026-10-19T23:53:25+00:00",
+      "location": "Stennis Space Center, MS",
+      "posted_at": "2026-10-19T19:51:29-04:00",
+      "source": "",
+      "title": "Ground Systems Engineering Intern Summer 2027",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8007202003"
     },
     "rocket lab::8007204003": {
       "company": "Rocket Lab",
@@ -60706,5 +60716,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-19T23:49:44+00:00"
+  "updated_at": "2026-10-19T23:53:46+00:00"
 }
