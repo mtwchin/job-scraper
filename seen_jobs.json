@@ -1,5 +1,5 @@
 {
-  "count": 7256,
+  "count": 7257,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -988,6 +988,16 @@
       "source": "",
       "title": "Amazon Robotics - Software Development Engineer Intern/Co-op - 2027",
       "url": "https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027"
+    },
+    "amazon::10583004": {
+      "company": "Amazon",
+      "first_seen": "2026-10-19T19:24:17+00:00",
+      "last_seen": "2026-10-19T19:24:17+00:00",
+      "location": "Vancouver, British Columbia, CAN",
+      "posted_at": "October 19, 2026",
+      "source": "",
+      "title": "Software Development Engineer, Early Career - 2027 (CAN)",
+      "url": "https://www.amazon.jobs/en/jobs/10583004/software-development-engineer-early-career-2027-can"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -60264,5 +60274,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-19T18:17:21+00:00"
+  "updated_at": "2026-10-19T19:24:21+00:00"
 }
