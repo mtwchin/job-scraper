@@ -37168,6 +37168,7 @@
     "simplify:palantir::simplify-d58f726c-620e-4c0c-89d7-8b54421280ab": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
+      "last_seen": "2026-10-19T17:06:45+00:00",
       "posted_at": "1781638660",
       "title": "Forward Deployed Software Engineer Intern",
       "url": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f/apply"
@@ -37240,7 +37241,7 @@
     "simplify:palantir::simplify-fe77f108-84fc-48fd-bc64-dfd8921d203f": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-19T17:06:45+00:00",
       "posted_at": "1781638661",
       "title": "Forward Deployed Software Engineer Intern - Defense Tech",
       "url": "https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b/apply"
@@ -60251,5 +60252,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-19T17:06:16+00:00"
+  "updated_at": "2026-10-19T17:11:18+00:00"
 }
