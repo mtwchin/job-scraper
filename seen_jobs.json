@@ -1,5 +1,5 @@
 {
-  "count": 7260,
+  "count": 7261,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -44964,6 +44964,18 @@
       "title": "Software Engineer Intern",
       "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759"
     },
+    "simplify:sierra nevada corporation::simplify-c14572f8-b00e-4e62-8392-acc04ab71fb7": {
+      "company": "Sierra Nevada Corporation",
+      "duplicate_of": "simplify:sierra nevada corporation::simplify-74129f26-3f29-4069-9bd9-234810c4491a",
+      "first_seen": "2026-10-19T22:03:32+00:00",
+      "last_seen": "2026-10-19T22:03:32+00:00",
+      "location": "Sparks, NV",
+      "posted_at": "1791936000",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Software-Engineer-Intern--For-SNC-Summer-2026-Intern-Only-_R0031074"
+    },
     "simplify:sierra nevada corporation::simplify-ee38a5ce-789c-4457-92fc-8400e8b038bc": {
       "company": "Sierra Nevada Corporation",
       "first_seen": "2026-09-04T05:57:42+00:00",
@@ -60315,5 +60327,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-19T21:59:30+00:00"
+  "updated_at": "2026-10-19T22:04:32+00:00"
 }
