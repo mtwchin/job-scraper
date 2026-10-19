@@ -1,5 +1,5 @@
 {
-  "count": 7242,
+  "count": 7243,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -36754,6 +36754,16 @@
       "title": "Content Developer",
       "url": "https://ats.rippling.com/ozmocareers/jobs/3b195c97-8281-418a-add8-99310d7dfa70"
     },
+    "simplify:pa consulting::simplify-00d9b277-bd9c-4738-a9dd-dc41fb214de6": {
+      "company": "PA Consulting",
+      "first_seen": "2026-10-19T09:34:07+00:00",
+      "last_seen": "2026-10-19T09:34:07+00:00",
+      "location": "Bristol, UK",
+      "posted_at": "1792401564",
+      "source": "simplify",
+      "title": "Graduate Analyst - Digital - Digital & Data",
+      "url": "https://jobs.smartrecruiters.com/PAConsulting/744000156265474"
+    },
     "simplify:paccar::simplify-2e4dc4df-7a1c-4c36-93b6-5e3cdd8bf6dc": {
       "company": "Paccar",
       "first_seen": "2026-09-10T23:38:18+00:00",
@@ -60102,5 +60112,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-19T06:37:29+00:00"
+  "updated_at": "2026-10-19T09:34:46+00:00"
 }
