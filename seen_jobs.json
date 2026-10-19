@@ -1,5 +1,5 @@
 {
-  "count": 7245,
+  "count": 7247,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -36786,6 +36786,16 @@
       "title": "Graduate Analyst - Digital - Digital & Data",
       "url": "https://jobs.smartrecruiters.com/PAConsulting/744000156265474"
     },
+    "simplify:pa consulting::simplify-a2a16702-d4f6-4606-8b38-ff0306553401": {
+      "company": "PA Consulting",
+      "first_seen": "2026-10-19T14:32:11+00:00",
+      "last_seen": "2026-10-19T14:32:11+00:00",
+      "location": "Manchester, UK",
+      "posted_at": "1792418733",
+      "source": "simplify",
+      "title": "Graduate Digital & Data Analyst",
+      "url": "https://jobs.smartrecruiters.com/PAConsulting/744000156307844"
+    },
     "simplify:paccar::simplify-2e4dc4df-7a1c-4c36-93b6-5e3cdd8bf6dc": {
       "company": "Paccar",
       "first_seen": "2026-09-10T23:38:18+00:00",
@@ -42044,7 +42054,7 @@
     "simplify:rtx::simplify-35893c47-402b-4538-9d53-6d41d4ee9a72": {
       "company": "RTX",
       "first_seen": "2026-10-01T00:31:33+00:00",
-      "last_seen": "2026-10-13T00:00:55+00:00",
+      "last_seen": "2026-10-19T14:32:10+00:00",
       "location": "Tewksbury, MA",
       "posted_at": "1790726400",
       "source": "simplify",
@@ -43833,6 +43843,16 @@
       "posted_at": "1778942058",
       "title": "AI Builder - Emerging Talent",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR341276-1"
+    },
+    "simplify:sallie mae::simplify-6bd9b720-b688-4436-b0fe-a96710105de2": {
+      "company": "Sallie Mae",
+      "first_seen": "2026-10-19T14:32:11+00:00",
+      "last_seen": "2026-10-19T14:32:11+00:00",
+      "location": "Indianapolis, IN",
+      "posted_at": "1792368000",
+      "source": "simplify",
+      "title": "Engineer 1",
+      "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Engineer-I_R26_000476"
     },
     "simplify:salvo health::simplify-e9358a97-f8ce-46dd-aff0-ad02907f6d31": {
       "company": "Salvo Health",
@@ -60134,5 +60154,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-19T12:33:55+00:00"
+  "updated_at": "2026-10-19T14:33:04+00:00"
 }
