@@ -1,5 +1,5 @@
 {
-  "count": 7259,
+  "count": 7260,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -998,6 +998,16 @@
       "source": "",
       "title": "Software Development Engineer, Early Career - 2027 (CAN)",
       "url": "https://www.amazon.jobs/en/jobs/10583004/software-development-engineer-early-career-2027-can"
+    },
+    "amazon::10583340": {
+      "company": "Amazon",
+      "first_seen": "2026-10-19T21:06:27+00:00",
+      "last_seen": "2026-10-19T21:06:27+00:00",
+      "location": "Seattle, Washington, USA",
+      "posted_at": "October 19, 2026",
+      "source": "",
+      "title": "Software Development Engineer, Early Career - 2027 (US)",
+      "url": "https://www.amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -60296,5 +60306,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-19T21:04:24+00:00"
+  "updated_at": "2026-10-19T21:07:26+00:00"
 }
