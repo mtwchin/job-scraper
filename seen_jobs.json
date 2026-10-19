@@ -1,5 +1,5 @@
 {
-  "count": 7250,
+  "count": 7252,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -216,6 +216,15 @@
       "source": "simplify",
       "title": "Software Engineer",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer_2023271"
+    },
+    "simplify:citizens financial group::simplify-0a4cd2e5-65b4-4298-ab71-d0c7705a376c": {
+      "attempted_at": "2026-10-19T15:02:51+00:00",
+      "company": "Citizens Financial Group",
+      "location": "Johnston, RI",
+      "posted_at": "1792420174",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49903"
     },
     "simplify:commonwealth fusion systems::simplify-95542b2a-559f-4043-9abf-11784ddc524b": {
       "attempted_at": "2026-10-15T22:33:21+00:00",
@@ -30013,6 +30022,18 @@
       "title": "Software Engineer Apprentice",
       "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Software-Engineering-Degree-Apprentice_R0034102"
     },
+    "simplify:leonardo::simplify-6396db23-aa49-4c70-b941-411baa6626f6": {
+      "company": "Leonardo",
+      "duplicate_of": "simplify:leonardo::simplify-3c77f02f-7923-4b6b-8141-fd3a96423118",
+      "first_seen": "2026-10-19T15:02:51+00:00",
+      "last_seen": "2026-10-19T15:02:51+00:00",
+      "location": "Luton, UK",
+      "posted_at": "1792368000",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Graduate Software Engineer",
+      "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Graduate-Software-Engineer_R0032976"
+    },
     "simplify:leonardo::simplify-72942882-0bfb-48a4-a88a-5cbf7e511932": {
       "company": "Leonardo",
       "duplicate_of": "simplify:leonardo::simplify-3c77f02f-7923-4b6b-8141-fd3a96423118",
@@ -35081,6 +35102,18 @@
       "title": "Software Engineer Associate",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2026-Associate-Software---Software-Engineer---Huntsville-AL_R10242854"
     },
+    "simplify:northrop grumman::simplify-945d226f-b0df-4b79-adae-78707211dc8e": {
+      "company": "Northrop Grumman",
+      "duplicate_of": "simplify:northrop grumman::simplify-894104d6-66ef-4390-a36e-71f2891576fc",
+      "first_seen": "2026-10-19T15:02:51+00:00",
+      "last_seen": "2026-10-19T15:02:51+00:00",
+      "location": "Cheltenham, UK",
+      "posted_at": "1792368000",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-Cheltenham/Software-Engineer_R10256025"
+    },
     "simplify:northrop grumman::simplify-95272142-2599-400f-9f53-d2eedd5a48b4": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -35253,7 +35286,7 @@
     "simplify:northrop grumman::simplify-b5a395ae-42f1-46ba-a288-7d34298231bc": {
       "company": "Northrop Grumman",
       "first_seen": "2026-10-16T23:04:33+00:00",
-      "last_seen": "2026-10-17T00:00:27+00:00",
+      "last_seen": "2026-10-19T15:02:51+00:00",
       "location": "Dulles, VA",
       "posted_at": "1792108800",
       "source": "simplify",
@@ -60186,5 +60219,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-19T14:34:06+00:00"
+  "updated_at": "2026-10-19T15:03:08+00:00"
 }
