@@ -1,5 +1,5 @@
 {
-  "count": 7261,
+  "count": 7268,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -5366,6 +5366,16 @@
       "posted_at": "1784642910",
       "title": "Software Engineer",
       "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2668"
+    },
+    "simplify:akamai technologies::simplify-33f5563b-6820-4803-bd8e-45014015ac0c": {
+      "company": "Akamai Technologies",
+      "first_seen": "2026-10-19T22:36:02+00:00",
+      "last_seen": "2026-10-19T22:36:02+00:00",
+      "location": "United States",
+      "posted_at": "1792447406",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2678"
     },
     "simplify:akima::simplify-1b47df5a-a950-4f67-8411-1bb9a8fd4554": {
       "company": "Akima",
@@ -18777,6 +18787,16 @@
       "title": "Associate Software Support Engineer",
       "url": "https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Chicago-IL/Associate-Software-Support-Engineer_R4615-1"
     },
+    "simplify:eclerx::simplify-013eacd9-f9c6-486a-9f00-5b8a9b46db9b": {
+      "company": "eClerx",
+      "first_seen": "2026-10-19T22:36:02+00:00",
+      "last_seen": "2026-10-19T22:36:02+00:00",
+      "location": "NYC",
+      "posted_at": "1792447904",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/85560"
+    },
     "simplify:ecolab::simplify-17fff1b2-0c9d-4b1f-a4d4-e755fb16f6bd": {
       "company": "Ecolab",
       "first_seen": "2026-10-07T23:08:09+00:00",
@@ -24877,6 +24897,16 @@
       "title": "AI Business Process Developer Intern",
       "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865"
     },
+    "simplify:hntb::simplify-cffbaf70-4a0b-4f31-bfb8-5c855559c95c": {
+      "company": "HNTB",
+      "first_seen": "2026-10-19T22:36:02+00:00",
+      "last_seen": "2026-10-19T22:36:02+00:00",
+      "location": "Tallahassee, FL",
+      "posted_at": "1792368000",
+      "source": "simplify",
+      "title": "Geospatial Systems Developer 1",
+      "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tallahassee-FL/Geospatial-Systems-Developer-I_R-32091"
+    },
     "simplify:hometap::simplify-c5436868-7e21-49cc-a04a-94724650c511": {
       "company": "Hometap",
       "first_seen": "2026-09-15T22:46:06+00:00",
@@ -25043,6 +25073,16 @@
       "posted_at": "1784930548",
       "title": "Product Engineer Co-op",
       "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118645"
+    },
+    "simplify:hp inc.::simplify-9682b9f6-49b4-4232-b676-470ac9b9e96f": {
+      "company": "HP Inc.",
+      "first_seen": "2026-10-19T22:36:02+00:00",
+      "last_seen": "2026-10-19T22:36:02+00:00",
+      "location": "Fort Collins, CO",
+      "posted_at": "1792368000",
+      "source": "simplify",
+      "title": "Software Applications Engineer",
+      "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Applications-Engineer_UNI4485-1"
     },
     "simplify:hp iq::simplify-949d51a9-718b-4bfe-8a44-2735fc2a1a8a": {
       "company": "HP IQ",
@@ -26759,6 +26799,16 @@
       "posted_at": "1781474824",
       "title": "Associate AI/ML Developer",
       "url": "https://jobs.jobvite.com/isoftstone/job/oXrkAfw2?nl=1&nl=1&fr=false"
+    },
+    "simplify:isoftstone::simplify-85b4f67f-4cbb-4824-a99b-037ada89eb03": {
+      "company": "iSoftStone",
+      "first_seen": "2026-10-19T22:36:02+00:00",
+      "last_seen": "2026-10-19T22:36:02+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1789079587",
+      "source": "simplify",
+      "title": "Junior Full Stack Software Engineer",
+      "url": "https://jobs.jobvite.com/isoftstone/job/oB4MAfwL?nl=1&nl=1&fr=false"
     },
     "simplify:ita international::simplify-df7ccad4-e94d-42b5-914a-8875029af2a8": {
       "company": "ITA International",
@@ -28705,6 +28755,16 @@
       "posted_at": "1782562586",
       "title": "Applications Development Engineer",
       "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Applications-Development-Engineer_2532526"
+    },
+    "simplify:kla corporation::simplify-47e8f9c4-77b2-4538-8f65-ffcd067d9d37": {
+      "company": "KLA Corporation",
+      "first_seen": "2026-10-19T22:36:02+00:00",
+      "last_seen": "2026-10-19T22:36:02+00:00",
+      "location": "NYC",
+      "posted_at": "1792368000",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/USA-NY-Remote-US03K/Engr--Software-1_2642693-1"
     },
     "simplify:kla corporation::simplify-4d2d22a7-7d80-4f59-8a8c-e8044adb9556": {
       "company": "KLA Corporation",
@@ -38060,6 +38120,16 @@
       "title": "Digital Technology Organization Rotational Engineer",
       "url": "https://careers.pennymac.com/jobs/40358?icims=1"
     },
+    "simplify:pentair::simplify-cc33f3b0-d73c-42d6-9d10-ba034dbccd6d": {
+      "company": "Pentair",
+      "first_seen": "2026-10-19T22:36:02+00:00",
+      "last_seen": "2026-10-19T22:36:02+00:00",
+      "location": "Apex, NC, Delavan, WI, Golden Valley, MN",
+      "posted_at": "1788825600",
+      "source": "simplify",
+      "title": "2027 Engineering Leadership Development Program - Computer Science / Computer Engineering",
+      "url": "https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/XMLNAME-2027-Engineering-Leadership-Development-Program---Computer-Science---Computer-Engineering_R23949"
+    },
     "simplify:people culture talent::simplify-22a341c0-1428-4064-a7c3-2c01961fcee3": {
       "company": "People Culture Talent",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -40411,7 +40481,7 @@
     "simplify:resmed::simplify-eeb61a55-e885-45c8-a56f-8a173d4848d6": {
       "company": "Resmed",
       "first_seen": "2026-10-06T02:34:06+00:00",
-      "last_seen": "2026-10-12T00:00:16+00:00",
+      "last_seen": "2026-10-19T22:36:02+00:00",
       "location": "San Diego, CA",
       "posted_at": "1791158400",
       "source": "simplify",
@@ -60327,5 +60397,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-19T22:04:32+00:00"
+  "updated_at": "2026-10-19T22:36:34+00:00"
 }
