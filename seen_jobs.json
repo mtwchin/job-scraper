@@ -1,5 +1,5 @@
 {
-  "count": 7241,
+  "count": 7242,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -52495,6 +52495,16 @@
       "title": "Web Development Intern - Marketing & Communications",
       "url": "https://nshe.wd1.myworkdayjobs.com/UNR-external/job/University-of-Nevada-Reno---Main-Campus/Student-Worker---Web-Development-Intern--Marketing---Communications_R0152288"
     },
+    "simplify:university of ottawa::simplify-e22e5105-4050-4583-95a1-47a24adc4dad": {
+      "company": "University of Ottawa",
+      "first_seen": "2026-10-19T06:36:51+00:00",
+      "last_seen": "2026-10-19T06:36:51+00:00",
+      "location": "Ottawa, ON, Canada",
+      "posted_at": "1792368000",
+      "source": "simplify",
+      "title": "Teaching Assistant Intern",
+      "url": "https://uottawa.wd3.myworkdayjobs.com/uOttawa_External_Career_Site/job/Ottawa-ON/CUPE---Winter-2027---Teaching-Assistant---ADM4379_JR40054"
+    },
     "simplify:university of rochester::simplify-3278eb15-e3f1-4dee-960d-7e1481d6b4a5": {
       "company": "University of Rochester",
       "first_seen": "2026-09-03T21:48:01+00:00",
@@ -60092,5 +60102,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-19T03:57:25+00:00"
+  "updated_at": "2026-10-19T06:37:29+00:00"
 }
