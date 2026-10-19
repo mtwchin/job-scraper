@@ -469,6 +469,15 @@
       "title": "Software Development Engineer Intern",
       "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807"
     },
+    "vanshb03:caci::vanshb03-24dd6f67-0f24-4af4-be49-c619d04f0cb6": {
+      "attempted_at": "2026-10-19T00:20:33+00:00",
+      "company": "CACI",
+      "location": "Florham Park, NJ",
+      "posted_at": "1791961200",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543"
+    },
     "ziprecruiter::8127108": {
       "attempted_at": "2026-09-24T16:22:51+00:00",
       "company": "ZipRecruiter",
@@ -60022,5 +60031,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-19T00:07:15+00:00"
+  "updated_at": "2026-10-19T00:21:17+00:00"
 }
