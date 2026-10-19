@@ -1,5 +1,5 @@
 {
-  "count": 7289,
+  "count": 7297,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -4711,6 +4711,16 @@
       "title": "Associate Software Engineer",
       "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/3397/Associate-Software-Engineer_JR014379"
     },
+    "simplify:acxiom::simplify-75cedc37-d994-453e-a7bf-8afc8ed63a1f": {
+      "company": "Acxiom",
+      "first_seen": "2026-10-19T23:06:05+00:00",
+      "last_seen": "2026-10-19T23:06:05+00:00",
+      "location": "Conway, AR",
+      "posted_at": "1792368000",
+      "source": "simplify",
+      "title": "Associate Solution Developer",
+      "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/Conway/Associate-Solution-Developer_JR014611"
+    },
     "simplify:ada::simplify-f59e5b11-d1a0-4afa-ac2f-9c1e54ef6179": {
       "company": "Ada",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -7550,6 +7560,16 @@
       "posted_at": "1778076529",
       "title": "Software Engineer Intern - Visual Intelligence",
       "url": "https://jobs.apple.com/en-us/details/200604470"
+    },
+    "simplify:apple::simplify-685e432a-5583-46a1-a7ac-d9819bab8f8d": {
+      "company": "Apple",
+      "first_seen": "2026-10-19T23:06:04+00:00",
+      "last_seen": "2026-10-19T23:06:04+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1792449035",
+      "source": "simplify",
+      "title": "Software Engineer - IS&T",
+      "url": "https://jobs.apple.com/en-us/details/200688599"
     },
     "simplify:apple::simplify-6ecd2227-64fc-4d77-99bb-158081023302": {
       "company": "Apple",
@@ -12622,6 +12642,16 @@
       "title": "Platform Full-Stack Engineer New Grad",
       "url": "https://c3.ai/job-description/8801434002?gh_jid=8801434002"
     },
+    "simplify:c3.ai::simplify-de1eceed-6782-43c0-9b0f-1d732c38d6d4": {
+      "company": "C3.ai",
+      "first_seen": "2026-10-19T23:06:05+00:00",
+      "last_seen": "2026-10-19T23:06:05+00:00",
+      "location": "Tysons, VA",
+      "posted_at": "1792448909",
+      "source": "simplify",
+      "title": "Forward Deployed Engineer New Grad - Federal",
+      "url": "https://c3.ai/job-description/8900477002?gh_jid=8900477002"
+    },
     "simplify:caci::simplify-02f8a929-c160-48c2-818b-cebd23779a18": {
       "company": "CACI",
       "first_seen": "2026-09-29T17:36:47+00:00",
@@ -14965,6 +14995,16 @@
       "source": "simplify",
       "title": "Analyst \u2013 Technology Solutions - Financial Statement & Regulatory Reporting",
       "url": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20013"
+    },
+    "simplify:citi::simplify-05f7dd48-c15c-4144-8a19-8bee502520d4": {
+      "company": "Citi",
+      "first_seen": "2026-10-19T23:06:05+00:00",
+      "last_seen": "2026-10-19T23:06:05+00:00",
+      "location": "Irving, TX",
+      "posted_at": "1792368000",
+      "source": "simplify",
+      "title": "Angular Developer / Frontend Engineer",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Angular-Developer---Frontend-Engineer--Entry-Level-_26999296"
     },
     "simplify:citi::simplify-2d211cf5-7727-4985-9a34-6afd5a6ea8f9": {
       "company": "Citi",
@@ -19004,6 +19044,16 @@
       "source": "simplify",
       "title": "Technical Artist Co-op",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Technical-Artist-Co-op/216406"
+    },
+    "simplify:electronic arts::simplify-5d914152-b9b5-4947-beba-e7d6c0cced5e": {
+      "company": "Electronic Arts",
+      "first_seen": "2026-10-19T23:06:05+00:00",
+      "last_seen": "2026-10-19T23:06:05+00:00",
+      "location": "Orlando, FL",
+      "posted_at": "1792449800",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I/216357"
     },
     "simplify:electronic arts::simplify-8309b5a0-8e75-434e-b1e6-419b51f357ae": {
       "company": "Electronic Arts",
@@ -27629,6 +27679,16 @@
       "posted_at": "1788288489",
       "title": "Software Development Intern",
       "url": "https://careers.jhuapl.edu/jobs/59745?icims=1"
+    },
+    "simplify:johns hopkins applied physics laboratory::simplify-87a28502-9c85-4bc1-99ad-ee0a56ff42b7": {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "first_seen": "2026-10-19T23:06:05+00:00",
+      "last_seen": "2026-10-19T23:06:05+00:00",
+      "location": "Laurel, MD",
+      "posted_at": "1792449039",
+      "source": "simplify",
+      "title": "Cybersecurity Software Engineer New Grad - Cyber Concepts",
+      "url": "https://careers.jhuapl.edu/jobs/60116?icims=1"
     },
     "simplify:johns hopkins applied physics laboratory::simplify-8be181ac-18b4-4c90-8d3f-95f303749bf2": {
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -36698,7 +36758,7 @@
     "simplify:omnicom group::simplify-4ab0ffd6-f5fb-4177-ba56-87c64332053c": {
       "company": "Omnicom Group",
       "first_seen": "2026-09-02T00:29:34+00:00",
-      "last_seen": "2026-10-12T00:00:16+00:00",
+      "last_seen": "2026-10-19T23:06:04+00:00",
       "posted_at": "1788220800",
       "title": "Technology Solutions Analyst",
       "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Addison-Texas-United-States-of-America/Credera-Technology-Solutions-Analyst_R13713"
@@ -37116,6 +37176,16 @@
       "source": "simplify",
       "title": "Software Engineer New Grad - Front-End",
       "url": "https://otter.ai/careers?gh_jid=8016078003"
+    },
+    "simplify:otter.ai::simplify-b043dd73-06f2-4ce6-8f9c-00113656ba29": {
+      "company": "Otter.ai",
+      "first_seen": "2026-10-19T23:06:05+00:00",
+      "last_seen": "2026-10-19T23:06:05+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1783473071",
+      "source": "simplify",
+      "title": "Software Engineer New Grad - Backend",
+      "url": "https://otter.ai/careers?gh_jid=7798264003"
     },
     "simplify:ou health::simplify-1123b920-9db4-4da1-aa71-92f6c33aaf5a": {
       "company": "OU Health",
@@ -39571,6 +39641,16 @@
       "posted_at": "1788992440",
       "title": "Software Engineer Intern",
       "url": "https://careers.publicisgroupe.com/jobs/172577?icims=1"
+    },
+    "simplify:pultegroup::simplify-c56673b6-42e9-4903-859f-b36ea78629cf": {
+      "company": "PulteGroup",
+      "first_seen": "2026-10-19T23:06:05+00:00",
+      "last_seen": "2026-10-19T23:06:05+00:00",
+      "location": "Tempe, AZ",
+      "posted_at": "1792368000",
+      "source": "simplify",
+      "title": "Associate Developer",
+      "url": "https://pultegroup.wd1.myworkdayjobs.com/PGI/job/Tempe-AZ/Associate-Developer_JR9750"
     },
     "simplify:pure storage::simplify-4bed7671-153b-4cbc-84ad-30fbb5e3f1f1": {
       "company": "Pure Storage",
@@ -43585,7 +43665,7 @@
     "simplify:rtx::simplify-da5add3d-df09-436a-b370-0fae4cb326df": {
       "company": "RTX",
       "first_seen": "2026-10-01T00:31:33+00:00",
-      "last_seen": "2026-10-13T00:00:55+00:00",
+      "last_seen": "2026-10-19T23:06:04+00:00",
       "location": "Woburn, MA",
       "posted_at": "1790726400",
       "source": "simplify",
@@ -60607,5 +60687,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-19T23:05:38+00:00"
+  "updated_at": "2026-10-19T23:06:40+00:00"
 }
