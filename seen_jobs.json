@@ -1,5 +1,5 @@
 {
-  "count": 7236,
+  "count": 7241,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -56112,6 +56112,16 @@
       "title": "New Grad 2025: Software Engineer",
       "url": "https://www.workatastartup.com/jobs/81441"
     },
+    "vanshb03:agco::vanshb03-cdce3526-309a-4002-84a9-f214fdeeafb6": {
+      "company": "AGCO",
+      "first_seen": "2026-10-19T00:51:40+00:00",
+      "last_seen": "2026-10-19T00:51:40+00:00",
+      "location": "Hesston, KS, Jackson, MN",
+      "posted_at": "1792190402",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors"
+    },
     "vanshb03:al warren oil company::vanshb03-2b0b7d78-f588-4c81-b82f-18f1a0c37f28": {
       "company": "Al Warren Oil Company",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -56298,6 +56308,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Undergrad",
       "url": "https://jobs.apple.com/en-us/details/200664785/software-undergrad-engineering-internships"
+    },
+    "vanshb03:apple::vanshb03-4e4b84eb-8cd4-4a4c-b71f-e5b60e2e1936": {
+      "company": "Apple",
+      "first_seen": "2026-10-19T00:51:39+00:00",
+      "last_seen": "2026-10-19T00:51:39+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1792114389",
+      "source": "vanshb03",
+      "title": "SoC Machine Learning Software Engineer Intern",
+      "url": "https://jobs.apple.com/en-us/details/200689488"
     },
     "vanshb03:apple::vanshb03-ae6d2c02-2b2d-4a2b-a803-c4cd9eb0032a": {
       "company": "Apple",
@@ -57526,6 +57546,16 @@
       "title": "Software Engineer 1",
       "url": "https://jobs.intuit.com/job/-/-/27595/87369448720"
     },
+    "vanshb03:inversion space::vanshb03-33fcf848-0df4-454b-a8f4-bab99d95d1dc": {
+      "company": "Inversion Space",
+      "first_seen": "2026-10-19T00:51:40+00:00",
+      "last_seen": "2026-10-19T00:51:40+00:00",
+      "location": "Playa Vista, LA",
+      "posted_at": "1792113833",
+      "source": "vanshb03",
+      "title": "Avionics Embedded Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4744391005"
+    },
     "vanshb03:ixl learning::vanshb03-3139597e-c985-4a80-818f-c3a711d3ce34": {
       "company": "IXL Learning",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -57569,6 +57599,18 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee"
+    },
+    "vanshb03:keysight technologies::vanshb03-2b3118ae-29de-4ebf-acb4-07f506c0098d": {
+      "company": "Keysight Technologies",
+      "duplicate_of": "simplify:keysight technologies::simplify-7aa1a15a-c14e-4ed7-bccb-cb92212f2636",
+      "first_seen": "2026-10-19T00:51:39+00:00",
+      "last_seen": "2026-10-19T00:51:39+00:00",
+      "location": "Santa Rosa, CA",
+      "posted_at": "1792114622",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "R&D Software Engineer Intern",
+      "url": "https://jobs.keysight.com/jobs/54673?icims=1"
     },
     "vanshb03:kla::vanshb03-09b4184d-3d91-4e02-bae2-8d473b1cee44": {
       "company": "KLA",
@@ -59048,6 +59090,16 @@
       "title": "Software Engineer I",
       "url": "https:/.workable.com/thorlabs/j/E79FA34ED4"
     },
+    "vanshb03:tiktok::vanshb03-003d3576-aa77-444f-813f-3072e227f8bd": {
+      "company": "TikTok",
+      "first_seen": "2026-10-19T00:51:39+00:00",
+      "last_seen": "2026-10-19T00:51:39+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1792114830",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Recommendation Performance Efficiency",
+      "url": "https://lifeattiktok.com/search/7673636206961641781"
+    },
     "vanshb03:tiktok::vanshb03-0e423f57-96dd-449f-8cc7-27d7070d1492": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60031,5 +60083,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-19T00:21:17+00:00"
+  "updated_at": "2026-10-19T00:52:19+00:00"
 }
