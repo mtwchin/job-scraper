@@ -271,6 +271,15 @@
       "title": "Senior Software Developer - Subsurface Applications",
       "url": "https://jobs.halliburton.com/job/Calgary-Software-Developer,-Subsurface-Applications-(Associate-Senior)-Landmark-AB-T2P-3V4/1438393900/?ats=successfactors"
     },
+    "simplify:heygen::simplify-2f956c52-edf6-4b68-99c9-7db4d96de3c0": {
+      "attempted_at": "2026-10-19T01:34:33+00:00",
+      "company": "HeyGen",
+      "location": "Toronto, ON, Canada, SF, LA, Singapore",
+      "posted_at": "1792372994",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/heygen/jobs/4540716007"
+    },
     "simplify:highmark health::simplify-d89f0ee8-17d9-4a58-9c3e-9d4cfaf2b635": {
       "attempted_at": "2026-10-08T23:03:02+00:00",
       "company": "Highmark Health",
@@ -23222,7 +23231,7 @@
     "simplify:goldman sachs::simplify-1949c912-65b2-42ac-9836-c110baed0ef6": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-10-18T00:00:06+00:00",
+      "last_seen": "2026-10-19T01:34:33+00:00",
       "posted_at": "1786767938",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/177808?type=students"
@@ -60083,5 +60092,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-19T01:28:22+00:00"
+  "updated_at": "2026-10-19T01:35:24+00:00"
 }
