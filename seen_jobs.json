@@ -1,5 +1,5 @@
 {
-  "count": 7243,
+  "count": 7244,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -534,6 +534,16 @@
       "posted_at": "Posted Today",
       "title": "2027 Intern - Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666"
+    },
+    "adobe::XMLNAME-2027-Intern--Software-Engineer_R173015": {
+      "company": "Adobe",
+      "first_seen": "2026-10-19T11:47:31+00:00",
+      "last_seen": "2026-10-19T11:47:31+00:00",
+      "location": "Basel",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "2027 Intern- Software Engineer",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015"
     },
     "adobe::XMLNAME-2027-University-Graduate---AI-Forward-Deployed-Engineer_R172018": {
       "company": "Adobe",
@@ -60112,5 +60122,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-19T09:34:46+00:00"
+  "updated_at": "2026-10-19T11:47:50+00:00"
 }
