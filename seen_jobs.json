@@ -1,5 +1,5 @@
 {
-  "count": 7252,
+  "count": 7255,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -11387,6 +11387,26 @@
       "posted_at": "1787004857",
       "title": "Coffee Bar Barista - Java Vegas - On Call",
       "url": "https://jobs.smartrecruiters.com/BoydGaming/3743990014633026"
+    },
+    "simplify:bracebridge capital::simplify-5360208a-9885-42bb-a092-21121b730e84": {
+      "company": "Bracebridge Capital",
+      "first_seen": "2026-10-19T15:06:03+00:00",
+      "last_seen": "2026-10-19T15:06:03+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1792420453",
+      "source": "simplify",
+      "title": "Software Engineer Co-op - Application Development",
+      "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005"
+    },
+    "simplify:bracebridge capital::simplify-b9d84998-3a7f-4698-a344-64d97d9d9381": {
+      "company": "Bracebridge Capital",
+      "first_seen": "2026-10-19T15:06:03+00:00",
+      "last_seen": "2026-10-19T15:06:03+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1792420453",
+      "source": "simplify",
+      "title": "Software Engineer: Business Intelligence Co-op",
+      "url": "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4744999005"
     },
     "simplify:brady martz::simplify-ebda590f-cbe9-4e03-b0eb-6de1c724a228": {
       "company": "Brady Martz",
@@ -29961,7 +29981,7 @@
     "simplify:leonardo::simplify-1e7773d3-204e-4be0-84c6-7d80b5db80ff": {
       "company": "Leonardo",
       "first_seen": "2026-10-16T14:35:00+00:00",
-      "last_seen": "2026-10-16T14:35:00+00:00",
+      "last_seen": "2026-10-19T15:06:02+00:00",
       "location": "Basildon, UK",
       "posted_at": "1792108800",
       "source": "simplify",
@@ -30045,6 +30065,18 @@
       "source": "simplify",
       "title": "Graduate Software Engineer",
       "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Graduate-Software-Engineer_R0033863"
+    },
+    "simplify:leonardo::simplify-b6e92704-1818-41ae-8f08-0a3c6d9399ca": {
+      "company": "Leonardo",
+      "duplicate_of": "simplify:leonardo::simplify-33481bc4-8637-4823-a224-81cbfae0e6ee",
+      "first_seen": "2026-10-19T15:06:02+00:00",
+      "last_seen": "2026-10-19T15:06:02+00:00",
+      "location": "Luton, UK",
+      "posted_at": "1792368000",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Industrial-Placement-Software-Engineer_R0032981"
     },
     "simplify:leonardo::simplify-f7ddc24e-9ad6-4585-adc7-36f377e3194b": {
       "company": "Leonardo",
@@ -33698,7 +33730,7 @@
     "simplify:nationwide::simplify-6bf9017f-b3da-451e-b506-46820adb72e0": {
       "company": "Nationwide",
       "first_seen": "2026-09-01T17:52:38+00:00",
-      "last_seen": "2026-10-16T00:00:29+00:00",
+      "last_seen": "2026-10-19T15:06:02+00:00",
       "posted_at": "1788220800",
       "title": "Technology Intern",
       "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Summer-2027-Technology-Internship_100105"
@@ -60219,5 +60251,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-19T15:03:08+00:00"
+  "updated_at": "2026-10-19T15:06:10+00:00"
 }
