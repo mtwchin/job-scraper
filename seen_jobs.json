@@ -1,5 +1,5 @@
 {
-  "count": 7357,
+  "count": 7367,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -5156,6 +5156,18 @@
       "title": "Software Engineer 1",
       "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineer-I_8682"
     },
+    "simplify:aerovironment::simplify-fee72465-1044-41bc-bbe9-42eebb214243": {
+      "company": "AeroVironment",
+      "duplicate_of": "simplify:aerovironment::simplify-1138a140-4370-4e0e-8224-e7099e30ae01",
+      "first_seen": "2026-10-20T22:36:03+00:00",
+      "last_seen": "2026-10-20T22:36:03+00:00",
+      "location": "Minneapolis, MN",
+      "posted_at": "1792454400",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Minneapolis-MN/Software-Engineering-Intern_8940"
+    },
     "simplify:aes::simplify-c0f32904-a649-462d-9285-ee2fc8c510f0": {
       "company": "AES",
       "first_seen": "2026-09-03T19:27:16+00:00",
@@ -5933,6 +5945,16 @@
       "source": "simplify",
       "title": "High Level Synthesis Engineer Intern",
       "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/High-Level-Synthesis-Engineer---Intern_R03254"
+    },
+    "simplify:altera::simplify-420b65ad-93a7-4bf4-a5b8-8ff3d0fc4f75": {
+      "company": "Altera",
+      "first_seen": "2026-10-20T22:36:05+00:00",
+      "last_seen": "2026-10-20T22:36:05+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "Quartus User Interface Intern",
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-User-Interface---Intern_R03353"
     },
     "simplify:altera::simplify-ca3f8b2a-724e-44cf-8a3a-7f784c36077c": {
       "company": "Altera",
@@ -7134,6 +7156,16 @@
       "source": "simplify",
       "title": "Software Engineer 1",
       "url": "https://careers-amtrustgroup.icims.com/jobs/21073/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:analog devices::simplify-2b6eadb2-5806-404f-83ac-3987283615b1": {
+      "company": "Analog Devices",
+      "first_seen": "2026-10-20T22:36:05+00:00",
+      "last_seen": "2026-10-20T22:36:05+00:00",
+      "location": "Edinburgh, UK",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "Software Tools Engineer Intern",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/United-Kingdom-Edinburgh-SC-Freer/Software-Tools-Engineering-Intern_R267128"
     },
     "simplify:analog devices::simplify-5213f441-13c0-44bc-b8b9-3aa1d5e0a19b": {
       "company": "Analog Devices",
@@ -11553,7 +11585,7 @@
     "simplify:boston scientific::simplify-532045a4-58bc-4fef-8105-cae7f1bdcccc": {
       "company": "Boston Scientific",
       "first_seen": "2026-10-06T07:02:28+00:00",
-      "last_seen": "2026-10-09T00:00:55+00:00",
+      "last_seen": "2026-10-20T22:36:03+00:00",
       "location": "Maple Grove, MN",
       "posted_at": "1791267692",
       "source": "simplify",
@@ -15842,6 +15874,16 @@
       "title": "Software Engineer",
       "url": "https://job-boards.greenhouse.io/commerceiq/jobs/7803169003"
     },
+    "simplify:commonai c.i.c.::simplify-15541ad0-6422-49de-b84d-968855e502c2": {
+      "company": "CommonAI C.I.C.",
+      "first_seen": "2026-10-20T22:36:05+00:00",
+      "last_seen": "2026-10-20T22:36:05+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1792534037",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.workable.com/commonai/j/021D3FCF3E/apply"
+    },
     "simplify:commure::simplify-0a05b05d-daaf-4bd5-964c-6f2e5bd47d82": {
       "company": "Commure",
       "first_seen": "2026-09-23T23:06:47+00:00",
@@ -19338,7 +19380,7 @@
     "simplify:elevance health::simplify-638db733-b6c2-4e36-b1ad-1d4b6b77df9b": {
       "company": "Elevance Health",
       "first_seen": "2026-10-02T22:31:38+00:00",
-      "last_seen": "2026-10-16T00:00:29+00:00",
+      "last_seen": "2026-10-20T22:36:03+00:00",
       "location": "Indianapolis, IN, Richmond, VA, Chicago, IL, Atlanta, GA",
       "posted_at": "1790899200",
       "source": "simplify",
@@ -19348,7 +19390,7 @@
     "simplify:elevance health::simplify-938e1389-c62c-4512-aecc-c83536e5bea9": {
       "company": "Elevance Health",
       "first_seen": "2026-10-02T22:31:38+00:00",
-      "last_seen": "2026-10-16T00:00:29+00:00",
+      "last_seen": "2026-10-20T22:36:03+00:00",
       "location": "Indianapolis, IN, Richmond, VA, Chicago, IL, Atlanta, GA",
       "posted_at": "1790899200",
       "source": "simplify",
@@ -25297,6 +25339,16 @@
       "title": "Engineering Intern",
       "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/XMLNAME-2027-Summer-Engineering-Intern---Raleigh_R0142571"
     },
+    "simplify:hitachi::simplify-a6cdd443-4fea-4b43-b34b-25e736cc3f0a": {
+      "company": "Hitachi",
+      "first_seen": "2026-10-20T22:36:05+00:00",
+      "last_seen": "2026-10-20T22:36:05+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "AI Intern Supply Chain",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/AI-Intern--Supply-Chain--Winter-2027--12months-_R0145043"
+    },
     "simplify:hitachi::simplify-a86f5630-f0c3-4242-8953-47503546c39f": {
       "company": "Hitachi",
       "first_seen": "2026-07-21T18:43:37+00:00",
@@ -26420,6 +26472,26 @@
       "title": "Gameplay Programmer Intern",
       "url": "https://job-boards.greenhouse.io/insomniac/jobs/6226611004"
     },
+    "simplify:insomniac games::simplify-9f461243-b3dd-46c6-882c-7cece23604c7": {
+      "company": "Insomniac Games",
+      "first_seen": "2026-10-20T22:36:05+00:00",
+      "last_seen": "2026-10-20T22:36:05+00:00",
+      "location": "Burbank, CA",
+      "posted_at": "1792534152",
+      "source": "simplify",
+      "title": "Technical Artist Intern",
+      "url": "https://job-boards.greenhouse.io/insomniac/jobs/6226344004"
+    },
+    "simplify:insomniac games::simplify-f3b0993a-b1fc-4fa4-a1f4-bc7129fb05f3": {
+      "company": "Insomniac Games",
+      "first_seen": "2026-10-20T22:36:05+00:00",
+      "last_seen": "2026-10-20T22:36:05+00:00",
+      "location": "Burbank, CA",
+      "posted_at": "1792534152",
+      "source": "simplify",
+      "title": "Engine and Tools Programming Intern",
+      "url": "https://job-boards.greenhouse.io/insomniac/jobs/6227080004"
+    },
     "simplify:insperity::simplify-59c4465f-c0d4-4d19-b808-988e46c72c88": {
       "company": "Insperity",
       "first_seen": "2026-09-17T23:03:17+00:00",
@@ -27039,7 +27111,7 @@
     "simplify:intuit::simplify-71018f38-602e-4001-9e45-698d20f81b5f": {
       "company": "Intuit",
       "first_seen": "2026-09-25T23:20:48+00:00",
-      "last_seen": "2026-10-03T00:00:31+00:00",
+      "last_seen": "2026-10-20T22:36:03+00:00",
       "location": "Toronto, ON, Canada",
       "posted_at": "1790374603",
       "source": "simplify",
@@ -28473,6 +28545,16 @@
       "posted_at": "1784596670",
       "title": "Engineering Intern - Program",
       "url": "https://jobs.ashbyhq.com/k-id/18619df2-45d8-4732-8815-9a340d498d48/application?embed=true"
+    },
+    "simplify:k1::simplify-cd52d493-1bc9-4b16-aadc-1f73f8a88355": {
+      "company": "K1",
+      "first_seen": "2026-10-20T22:36:05+00:00",
+      "last_seen": "2026-10-20T22:36:05+00:00",
+      "location": "Manhattan Beach, CA",
+      "posted_at": "1792534415",
+      "source": "simplify",
+      "title": "AI Intern",
+      "url": "https://k1im.applytojob.com/apply/mCBPNVUJu4/AI-Intern"
     },
     "simplify:k2 space::simplify-20b0f4b1-dafa-4b0c-bebe-41e1e3676175": {
       "company": "K2 Space",
@@ -44188,6 +44270,16 @@
       "title": "Operations Software Engineering Intern - Summer 2027",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Operations-Software-Engineering-Intern--Summer-2027-_01874620"
     },
+    "simplify:rtx::simplify-e8a2975b-62cb-450a-9629-f7210118211b": {
+      "company": "RTX",
+      "first_seen": "2026-10-20T22:36:05+00:00",
+      "last_seen": "2026-10-20T22:36:05+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026"
+    },
     "simplify:rtx::simplify-e90bb9b3-2e96-47e0-80c1-169bb7a56849": {
       "company": "RTX",
       "first_seen": "2026-09-08T10:07:30+00:00",
@@ -44442,6 +44534,16 @@
       "source": "simplify",
       "title": "Application Development Intern",
       "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Application-Development_R0020820"
+    },
+    "simplify:ryan::simplify-a83008e3-bd87-4c41-92f2-3a50d3b0bcfc": {
+      "company": "Ryan",
+      "first_seen": "2026-10-20T22:36:05+00:00",
+      "last_seen": "2026-10-20T22:36:05+00:00",
+      "location": "Plano, TX",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "Application Engineering Intern",
+      "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Application-Engineering_R0020808-1"
     },
     "simplify:ryan::simplify-c7c5c8d2-37c7-4b14-89b5-e0318a1fad90": {
       "company": "Ryan",
@@ -61333,5 +61435,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-20T22:33:27+00:00"
+  "updated_at": "2026-10-20T22:36:29+00:00"
 }
