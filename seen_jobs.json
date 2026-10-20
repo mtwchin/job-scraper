@@ -1,5 +1,5 @@
 {
-  "count": 7347,
+  "count": 7357,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6505,6 +6505,16 @@
       "title": "Software Programmer Intern",
       "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TN-Tullahoma/Software-Programmer-Intern_R0169775"
     },
+    "simplify:amentum::simplify-7a4c4359-4bc9-45ad-bf3d-a530294be35a": {
+      "company": "Amentum",
+      "first_seen": "2026-10-20T22:32:45+00:00",
+      "last_seen": "2026-10-20T22:32:45+00:00",
+      "location": "Huntsville, AL",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "Programmer Analyst",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Programmer-Analyst_R0172394"
+    },
     "simplify:amentum::simplify-819eedb4-b5db-4a0d-8f0d-c91e64fb9eeb": {
       "company": "Amentum",
       "first_seen": "2026-08-21T18:41:57+00:00",
@@ -7952,6 +7962,16 @@
       "title": "Algorithm Developer 1 - New College Grad - Bachelor's",
       "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2626605"
     },
+    "simplify:applied materials::simplify-bcc5917d-14c6-476e-8eb3-06d5f398ff78": {
+      "company": "Applied Materials",
+      "first_seen": "2026-10-20T22:32:45+00:00",
+      "last_seen": "2026-10-20T22:32:45+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "Algorithm Developer New Grad",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780"
+    },
     "simplify:applied materials::simplify-cf43075d-b9ba-4cce-b884-1d0b1597dcd4": {
       "company": "Applied Materials",
       "first_seen": "2026-10-08T01:38:12+00:00",
@@ -8176,6 +8196,16 @@
       "posted_at": "1782857409",
       "title": "Analyst - LLC",
       "url": "https://careers.aqr.com/jobs?gh_jid=8038473&gh_jid=8038473"
+    },
+    "simplify:aqr capital management::simplify-b13f54cd-bea8-496e-90d2-fc9e388ea1ab": {
+      "company": "AQR Capital Management",
+      "first_seen": "2026-10-20T22:32:45+00:00",
+      "last_seen": "2026-10-20T22:32:45+00:00",
+      "location": "Greenwich, CT",
+      "posted_at": "1792535030",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://careers.aqr.com/jobs?gh_jid=8284812&gh_jid=8284812"
     },
     "simplify:aquatic capital management::simplify-15636fe2-413f-4e5d-b6c9-0d42dc5edc5f": {
       "company": "Aquatic Capital Management",
@@ -10667,6 +10697,16 @@
       "posted_at": "1776809381",
       "title": "Rust Developer Intern",
       "url": "https://jobs.ashbyhq.com/blockhouse/42a3066f-683c-4b32-b097-5047e89dd12c/application"
+    },
+    "simplify:blockhouse::simplify-f85253cb-dca3-4867-ab55-198869bfb119": {
+      "company": "Blockhouse",
+      "first_seen": "2026-10-20T22:32:45+00:00",
+      "last_seen": "2026-10-20T22:32:45+00:00",
+      "location": "NYC",
+      "posted_at": "1792534210",
+      "source": "simplify",
+      "title": "RL Environments Engineer",
+      "url": "https://jobs.ashbyhq.com/blockhouse/f0e609b1-5237-407d-afe2-281b824ec25c/application?embed=true"
     },
     "simplify:blue cross and blue shield of kansas::simplify-1928f9d6-0a30-4adb-94a2-06207eed993a": {
       "company": "Blue Cross and Blue Shield of Kansas",
@@ -27852,6 +27892,16 @@
       "title": "Part-Time Student - Continuous Improvement - Waterloo IA Product Engineering (CA)",
       "url": "https://johndeere.eightfold.ai/careers/job/137478896949"
     },
+    "simplify:john deere::simplify-f1044ef9-7da2-4a5b-a8e5-c26f1e2efd68": {
+      "company": "John Deere",
+      "first_seen": "2026-10-20T22:32:45+00:00",
+      "last_seen": "2026-10-20T22:32:45+00:00",
+      "location": "Moline, IL",
+      "posted_at": "1792534049",
+      "source": "simplify",
+      "title": "Information Technology Development Program - Software Engineering",
+      "url": "https://johndeere.eightfold.ai/careers/job/137482532344"
+    },
     "simplify:john deere::simplify-fa734bf9-e27f-4e85-97fb-6e126f1ec998": {
       "company": "John Deere",
       "first_seen": "2026-10-07T23:03:20+00:00",
@@ -33340,6 +33390,16 @@
       "source": "simplify",
       "title": "Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556928331"
+    },
+    "simplify:microsoft::simplify-cfa9e9a7-7d54-4f72-ab81-1485d300ae55": {
+      "company": "Microsoft",
+      "first_seen": "2026-10-20T22:32:44+00:00",
+      "last_seen": "2026-10-20T22:32:44+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1792535016",
+      "source": "simplify",
+      "title": "Member of Technical Staff - Platform",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042199"
     },
     "simplify:microsoft::simplify-d50dd4f1-ca8c-4636-9452-4d9f4073bd45": {
       "company": "Microsoft",
@@ -40404,6 +40464,16 @@
       "title": "Software Development Engineer Intern",
       "url": "https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183/application?embed=true"
     },
+    "simplify:quora::simplify-1fac2631-0a51-44d0-9af9-209c670e1742": {
+      "company": "Quora",
+      "first_seen": "2026-10-20T22:32:45+00:00",
+      "last_seen": "2026-10-20T22:32:45+00:00",
+      "location": "Remote in USA, Remote in Canada",
+      "posted_at": "1792535027",
+      "source": "simplify",
+      "title": "Full Stack Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52/application?embed=true"
+    },
     "simplify:ra capital management::simplify-9badfac1-7ddd-47de-8976-a015cb441b3f": {
       "company": "RA Capital Management",
       "first_seen": "2026-10-06T23:36:53+00:00",
@@ -43839,6 +43909,16 @@
       "title": "Software Engineer Intern",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA4--1001-Boston-Post-Rd--BLDG-4/Software-Engineering-Intern--Summer-2027-_01874955"
     },
+    "simplify:rtx::simplify-caf2c40d-930b-4a27-9c3e-b4d2e80026bf": {
+      "company": "RTX",
+      "first_seen": "2026-10-20T22:32:45+00:00",
+      "last_seen": "2026-10-20T22:32:45+00:00",
+      "location": "Huntsville, AL",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "Software Engineer 1 - Core Services and Libraries",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-382--420-Jan-Davis-Dr--DAVIS-382/Software-Engineer-I--Core-Services-and-Libraries--Onsite-_01883494"
+    },
     "simplify:rtx::simplify-cb10960c-cbb5-4773-a7da-082249e6b4bc": {
       "company": "RTX",
       "first_seen": "2026-07-29T15:21:42+00:00",
@@ -44087,6 +44167,16 @@
       "posted_at": "1786406400",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01858008"
+    },
+    "simplify:rtx::simplify-e85971c7-fc74-4cf9-b661-6b4bde36305a": {
+      "company": "RTX",
+      "first_seen": "2026-10-20T22:32:45+00:00",
+      "last_seen": "2026-10-20T22:32:45+00:00",
+      "location": "Cedar Rapids, IA",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "Software Engineer 1-Embedded Linux",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Software-Engineer-I-Embedded-Linux--Onsite-_01883477"
     },
     "simplify:rtx::simplify-e85fe564-c92c-4c56-b2ce-41f4ca778811": {
       "company": "RTX",
@@ -56235,6 +56325,16 @@
       "title": "Software Developer Intern",
       "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605435"
     },
+    "simplify:wtw::simplify-bf357e7e-5047-410b-a11a-b939b5f31b63": {
+      "company": "WTW",
+      "first_seen": "2026-10-20T22:32:45+00:00",
+      "last_seen": "2026-10-20T22:32:45+00:00",
+      "location": "Reigate, UK",
+      "posted_at": "1792535015",
+      "source": "simplify",
+      "title": "Software Developer New Grad",
+      "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202606689"
+    },
     "simplify:wtw::simplify-d4dc379c-1e13-4b2c-a752-0420dca7c8c6": {
       "company": "WTW",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -61233,5 +61333,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-20T22:30:25+00:00"
+  "updated_at": "2026-10-20T22:33:27+00:00"
 }
