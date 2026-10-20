@@ -1,5 +1,5 @@
 {
-  "count": 7367,
+  "count": 7368,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -17176,6 +17176,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Analytics & Behavior Change",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/NY---New-York/Software-Engineer---Grad-Intern-Conversion_R1055183"
+    },
+    "simplify:cvs health::simplify-58185ccc-7583-4e95-856b-92ede737ff0a": {
+      "company": "CVS Health",
+      "first_seen": "2026-10-20T23:04:52+00:00",
+      "last_seen": "2026-10-20T23:04:52+00:00",
+      "location": "Hartford, CT",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "Software Development Engineer - Conversion",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Hartford/Software-Development-Engineer--Conversion-_R1055653"
     },
     "simplify:cvs health::simplify-5a476d63-cb12-4e98-8fd7-35895108a039": {
       "company": "CVS Health",
@@ -61525,5 +61535,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-20T23:03:31+00:00"
+  "updated_at": "2026-10-20T23:05:33+00:00"
 }
