@@ -1,5 +1,5 @@
 {
-  "count": 7335,
+  "count": 7336,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2423,6 +2423,16 @@
       "posted_at": "1765324800",
       "title": "Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)",
       "url": "https://explore.jobs.netflix.net/careers/job/790313241540"
+    },
+    "netflix::790317917022": {
+      "company": "Netflix",
+      "first_seen": "2026-10-20T20:17:51+00:00",
+      "last_seen": "2026-10-20T20:17:51+00:00",
+      "location": "Los Gatos,California,United States of America",
+      "posted_at": "1787097600",
+      "source": "",
+      "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+      "url": "https://explore.jobs.netflix.net/careers/job/790317917022"
     },
     "netflix::790318904468": {
       "company": "Netflix",
@@ -61108,5 +61118,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-20T19:34:03+00:00"
+  "updated_at": "2026-10-20T20:18:07+00:00"
 }
