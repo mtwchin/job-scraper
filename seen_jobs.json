@@ -1,5 +1,5 @@
 {
-  "count": 7302,
+  "count": 7304,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -14598,6 +14598,16 @@
       "title": "Software Engineer 1",
       "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R22450"
     },
+    "simplify:chubb::simplify-0557e7b9-859d-4a33-a43e-21e7ff5bb8ab": {
+      "company": "Chubb",
+      "first_seen": "2026-10-20T08:34:27+00:00",
+      "last_seen": "2026-10-20T08:34:27+00:00",
+      "location": "Philadelphia, PA, Jersey City, NJ",
+      "posted_at": "1789740570",
+      "source": "simplify",
+      "title": "Technology Associate",
+      "url": "https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/36864"
+    },
     "simplify:church & dwight::simplify-22c7894f-b45d-4a2c-acf9-6b149c73474e": {
       "company": "Church & Dwight",
       "first_seen": "2026-09-17T23:03:17+00:00",
@@ -21260,6 +21270,16 @@
       "posted_at": "1770851386",
       "title": "Applied AI Engineer - AI Agent",
       "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22125"
+    },
+    "simplify:fortinet::simplify-2ec2d3b8-1016-4a8d-9dcf-b9f16abe4c6d": {
+      "company": "Fortinet",
+      "first_seen": "2026-10-20T08:34:27+00:00",
+      "last_seen": "2026-10-20T08:34:27+00:00",
+      "location": "Burnaby, BC, Canada",
+      "posted_at": "1779746833",
+      "source": "simplify",
+      "title": "Senior Software Developer",
+      "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22910"
     },
     "simplify:fortinet::simplify-717f0806-c8b3-4053-9457-9e172707e5fa": {
       "company": "Fortinet",
@@ -60755,5 +60775,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-20T06:56:11+00:00"
+  "updated_at": "2026-10-20T08:35:14+00:00"
 }
