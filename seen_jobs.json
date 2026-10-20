@@ -1,5 +1,5 @@
 {
-  "count": 7331,
+  "count": 7334,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -58269,6 +58269,16 @@
       "title": "Software Engineer - New Graduate Rotational Development Program",
       "url": "https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application"
     },
+    "vanshb03:generac::vanshb03-1ed46c67-7fbf-4de8-9eed-16ff814391fb": {
+      "company": "Generac",
+      "first_seen": "2026-10-20T15:49:24+00:00",
+      "last_seen": "2026-10-20T15:49:24+00:00",
+      "location": "Fort Collins, CO",
+      "posted_at": "1792441354",
+      "source": "vanshb03",
+      "title": "Micro-Grid Systems Engineering Intern",
+      "url": "https://generac.wd5.myworkdayjobs.com/External/job/USA---CO-Fort-Collins/Micro-Grid-Systems-Engineering-Summer-Intern_JR17432"
+    },
     "vanshb03:general dynamics information technology::vanshb03-a02b12ad-98b2-4614-9f9f-9cbe081d9f24": {
       "company": "General Dynamics Information Technology",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -58332,6 +58342,16 @@
       "source": "vanshb03",
       "title": "Junior Software Developer Engineer in Test - C#",
       "url": "https://www.globalrelay.com/careers/jobs?gh_jid=5616305004"
+    },
+    "vanshb03:globalfoundries::vanshb03-a1d326c5-008f-4dd8-ada7-7a622c952ae3": {
+      "company": "GlobalFoundries",
+      "first_seen": "2026-10-20T15:49:24+00:00",
+      "last_seen": "2026-10-20T15:49:24+00:00",
+      "location": "Richardson, TX",
+      "posted_at": "1792441894",
+      "source": "vanshb03",
+      "title": "AI/ML Systems Engineering Intern",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051"
     },
     "vanshb03:google::vanshb03-21405d15-54dd-45da-a0f1-9ea32ffc3f54": {
       "company": "Google",
@@ -59481,6 +59501,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Autonomous Driving",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000139649345"
+    },
+    "vanshb03:robert bosch venture capital::vanshb03-04fd72aa-b1c3-4ff1-8259-08b6ad402b2a": {
+      "company": "Robert Bosch Venture Capital",
+      "first_seen": "2026-10-20T15:49:24+00:00",
+      "last_seen": "2026-10-20T15:49:24+00:00",
+      "location": "Fountain Inn, SC",
+      "posted_at": "1792418919",
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156311682"
     },
     "vanshb03:roblox::vanshb03-7b5acac0-f9bd-41ec-9452-d6b4e40f8488": {
       "company": "Roblox",
@@ -61067,5 +61097,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-20T15:03:51+00:00"
+  "updated_at": "2026-10-20T15:49:56+00:00"
 }
