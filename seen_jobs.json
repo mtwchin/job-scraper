@@ -1,5 +1,5 @@
 {
-  "count": 7311,
+  "count": 7317,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -23247,6 +23247,16 @@
       "title": "Application Developer Intern",
       "url": "https://job-boards.greenhouse.io/geocgi/jobs/4420076009"
     },
+    "simplify:geospectrum technologies::simplify-e63307f6-52eb-4edb-a2ea-1448402f84ef": {
+      "company": "GeoSpectrum Technologies",
+      "first_seen": "2026-10-20T14:34:02+00:00",
+      "last_seen": "2026-10-20T14:34:02+00:00",
+      "location": "Dartmouth, NS, Canada",
+      "posted_at": "1792505460",
+      "source": "simplify",
+      "title": "Software Developer Co-op",
+      "url": "https://geospectrum.bamboohr.com/careers/286/"
+    },
     "simplify:geosyntec consultants::simplify-1226965c-9ed7-4d6b-ad60-2a5c8985f78d": {
       "company": "Geosyntec Consultants",
       "first_seen": "2026-09-04T23:26:59+00:00",
@@ -40584,6 +40594,16 @@
       "title": "Associate Software Engineer",
       "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Durham/Associate-Software-Engineer_R-058395"
     },
+    "simplify:redgate::simplify-adea30a6-775b-4c81-ae92-6ed234b64e3b": {
+      "company": "Redgate",
+      "first_seen": "2026-10-20T14:34:02+00:00",
+      "last_seen": "2026-10-20T14:34:02+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1792505183",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/red-gate/2449a05b-81da-40de-b64d-3436c8ddb1df/application?embed=true"
+    },
     "simplify:redwood materials::simplify-468150cb-140a-48f5-828a-e98a815a8056": {
       "company": "Redwood Materials",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -43440,6 +43460,18 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-I---Onsite-_01872451"
     },
+    "simplify:rtx::simplify-a5702f5f-906d-4b1f-8b18-e4034368a2cb": {
+      "company": "RTX",
+      "duplicate_of": "simplify:rtx::simplify-d6b959d0-3774-41d6-bc89-d62b84ca38bf",
+      "first_seen": "2026-10-20T14:34:02+00:00",
+      "last_seen": "2026-10-20T14:34:02+00:00",
+      "location": "Aurora, CO",
+      "posted_at": "1792454400",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Part-time-Software-Engineer-Co-op--Remote-_01883452"
+    },
     "simplify:rtx::simplify-a5e72fb8-b288-4f48-98d7-d3083964de7e": {
       "company": "RTX",
       "first_seen": "2026-07-29T23:12:09+00:00",
@@ -43775,6 +43807,16 @@
       "posted_at": "1788307200",
       "title": "Software Engineering Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Winter-Spring-2027-_01870191"
+    },
+    "simplify:rtx::simplify-d6b959d0-3774-41d6-bc89-d62b84ca38bf": {
+      "company": "RTX",
+      "first_seen": "2026-10-20T14:34:02+00:00",
+      "last_seen": "2026-10-20T14:34:02+00:00",
+      "location": "Richardson, TX; Aurora, CO",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "Software Engineer Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545"
     },
     "simplify:rtx::simplify-d6ccc1b0-bad2-4c51-af45-22ed47ddb4b5": {
       "company": "RTX",
@@ -47281,6 +47323,16 @@
       "title": "Software Development Intern",
       "url": "https://careers-aluminumdynamics.icims.com/jobs/8017/job?mobile=true&needsRedirect=false"
     },
+    "simplify:steel::simplify-135b8fde-7c9d-4852-a29b-385efc07e7b4": {
+      "company": "Steel",
+      "first_seen": "2026-10-20T14:34:02+00:00",
+      "last_seen": "2026-10-20T14:34:02+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1792505584",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true"
+    },
     "simplify:steerbridge::simplify-dc6284c7-4bc7-41bd-b3a7-77ad38c4a1a9": {
       "company": "SteerBridge",
       "first_seen": "2026-08-24T21:04:28+00:00",
@@ -49737,6 +49789,16 @@
       "posted_at": "1788255604",
       "title": "Software Engineer Intern - Electronic Systems",
       "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688"
+    },
+    "simplify:textron::simplify-a60efa9b-43c1-4b1c-bc8f-a61640fe4c3d": {
+      "company": "Textron",
+      "first_seen": "2026-10-20T14:34:02+00:00",
+      "last_seen": "2026-10-20T14:34:02+00:00",
+      "location": "Williamsport, PA",
+      "posted_at": "1792505702",
+      "source": "simplify",
+      "title": "Industrial Software Engineer Intern",
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345735"
     },
     "simplify:textron::simplify-c39efb21-4101-4d94-85ce-fa5a6d78cf0e": {
       "company": "Textron",
@@ -60865,5 +60927,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-20T14:06:35+00:00"
+  "updated_at": "2026-10-20T14:34:37+00:00"
 }
