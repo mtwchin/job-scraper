@@ -1,5 +1,5 @@
 {
-  "count": 7337,
+  "count": 7338,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2092,6 +2092,16 @@
       "posted_at": "2026-07-01T13:11:54-04:00",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101"
+    },
+    "intel::AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139": {
+      "company": "Intel",
+      "first_seen": "2026-10-20T21:07:14+00:00",
+      "last_seen": "2026-10-20T21:07:14+00:00",
+      "location": "US, Oregon, Hillsboro",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "AI Data Science / Software Engineering PhD Intern New 2027",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139"
     },
     "intel::AI-Software-Engineer-Graduate-Intern_JR0285989": {
       "company": "Intel",
@@ -9389,6 +9399,7 @@
     "simplify:autodesk::simplify-fb717af7-686b-4077-a8c0-033da193b3fb": {
       "company": "Autodesk",
       "first_seen": "2026-08-07T23:34:48+00:00",
+      "last_seen": "2026-10-20T21:07:14+00:00",
       "posted_at": "1786060800",
       "title": "Cloud Developer Intern - Fcap",
       "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-2"
@@ -61128,5 +61139,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-20T21:01:12+00:00"
+  "updated_at": "2026-10-20T21:08:15+00:00"
 }
