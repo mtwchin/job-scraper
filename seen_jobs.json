@@ -1,5 +1,5 @@
 {
-  "count": 7339,
+  "count": 7347,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -57764,6 +57764,38 @@
       "title": "Software Engineer Intern, Team Pickle",
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013"
     },
+    "vanshb03:cibc::vanshb03-561f4093-2ac6-4050-b7fb-c0d6c32533ae": {
+      "company": "CIBC",
+      "duplicate_of": "simplify:cibc::simplify-31378135-5f8c-4b51-bc35-dd36b493da6c",
+      "first_seen": "2026-10-20T22:29:42+00:00",
+      "last_seen": "2026-10-20T22:29:42+00:00",
+      "location": "Toronto, ON",
+      "posted_at": "1792479600",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Application/Software Developer Co-op, Capital Markets Technology",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523"
+    },
+    "vanshb03:cibc::vanshb03-5d6007f8-97bc-48ae-ba5c-754d14f2ea31": {
+      "company": "CIBC",
+      "first_seen": "2026-10-20T22:29:43+00:00",
+      "last_seen": "2026-10-20T22:29:43+00:00",
+      "location": "Toronto, ON",
+      "posted_at": "1792479600",
+      "source": "vanshb03",
+      "title": "Application/Software Developer Co-op, Enterprise Technology & Business Management",
+      "url": "https://cibc.wd3.myworkdayjobs.com/en-US/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524-2"
+    },
+    "vanshb03:ciena::vanshb03-9333b87b-4d6d-4fe6-b888-297736c94e29": {
+      "company": "Ciena",
+      "first_seen": "2026-10-20T22:29:43+00:00",
+      "last_seen": "2026-10-20T22:29:43+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1792454400",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Security",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926"
+    },
     "vanshb03:circle::vanshb03-49a7d53a-eab0-4f53-827c-aa2b38c81596": {
       "company": "Circle",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -58614,6 +58646,16 @@
       "title": "Avionics Embedded Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4744391005"
     },
+    "vanshb03:inversion space::vanshb03-a574a5c3-dcd9-4829-9a99-16be7fdd36ee": {
+      "company": "Inversion Space",
+      "first_seen": "2026-10-20T22:29:43+00:00",
+      "last_seen": "2026-10-20T22:29:43+00:00",
+      "location": "Playa Vista, CA",
+      "posted_at": "1792449144",
+      "source": "vanshb03",
+      "title": "Vehicle Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745083005"
+    },
     "vanshb03:ixl learning::vanshb03-3139597e-c985-4a80-818f-c3a711d3ce34": {
       "company": "IXL Learning",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -58689,6 +58731,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, AI",
       "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817"
+    },
+    "vanshb03:l3harris technologies::vanshb03-0b57208e-fafb-4160-8214-c8403abf2ac7": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-10-20T22:29:43+00:00",
+      "last_seen": "2026-10-20T22:29:43+00:00",
+      "location": "Salt Lake City, UT",
+      "posted_at": "1792449175",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-UT-84116/1413790400/?ats=successfactors"
     },
     "vanshb03:magical::vanshb03-21105f1e-b540-44e8-9c66-152d8c5ec185": {
       "company": "Magical",
@@ -58987,6 +59039,16 @@
       "title": "Full-Stack Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef?embed=true"
     },
+    "vanshb03:northrop grumman::vanshb03-a935273f-f0e0-441b-9b94-b853e1ab2f5a": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-20T22:29:43+00:00",
+      "last_seen": "2026-10-20T22:29:43+00:00",
+      "location": "Tampa, FL",
+      "posted_at": "1792509715",
+      "source": "vanshb03",
+      "title": "Cyber Systems Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196"
+    },
     "vanshb03:notion::vanshb03-1c67c620-a130-4ade-9fa4-a4de51ac9cf7": {
       "company": "Notion",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -59118,6 +59180,16 @@
       "source": "vanshb03",
       "title": "Software Engineer I",
       "url": "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/job/4261"
+    },
+    "vanshb03:openai::vanshb03-84c02120-d777-45d0-b408-8ce53748ab80": {
+      "company": "OpenAI",
+      "first_seen": "2026-10-20T22:29:43+00:00",
+      "last_seen": "2026-10-20T22:29:43+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1792479600",
+      "source": "vanshb03",
+      "title": "Backend Software Engineer Intern, Cooperative AI (Evals)",
+      "url": "https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2/application"
     },
     "vanshb03:optiver::vanshb03-07823e02-de3a-4a2e-8024-cfd38554f423": {
       "company": "Optiver",
@@ -60795,6 +60867,16 @@
       "title": "Software Developer Intern",
       "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808"
     },
+    "vanshb03:zebra technologies::vanshb03-c7aefaa9-b5bd-4f2a-aa37-e10f8069eae0": {
+      "company": "Zebra Technologies",
+      "first_seen": "2026-10-20T22:29:43+00:00",
+      "last_seen": "2026-10-20T22:29:43+00:00",
+      "location": "Holtsville, NY",
+      "posted_at": "1792393200",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625"
+    },
     "vanshb03:zip::vanshb03-cdfab975-d2bc-443a-9a63-3611d32cd73e": {
       "company": "Zip",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -61151,5 +61233,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-20T21:17:17+00:00"
+  "updated_at": "2026-10-20T22:30:25+00:00"
 }
