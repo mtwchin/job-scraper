@@ -1,5 +1,5 @@
 {
-  "count": 7336,
+  "count": 7337,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -56771,6 +56771,16 @@
       "title": "Embedded Software Engineer Intern - Summer 2027",
       "url": "https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260"
     },
+    "skydio::8a237302-3fe8-4403-b32b-7690f333ba52": {
+      "company": "Skydio",
+      "first_seen": "2026-10-20T21:00:43+00:00",
+      "last_seen": "2026-10-20T21:00:43+00:00",
+      "location": "San Mateo, California, United States",
+      "posted_at": "2026-10-20T20:58:33.699+00:00",
+      "source": "",
+      "title": "Mobile Software Engineer Intern - Summer 2027",
+      "url": "https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52"
+    },
     "skydio::f6320e9b-4eed-408d-8d37-d509fb0406ee": {
       "company": "Skydio",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -61118,5 +61128,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-20T20:36:10+00:00"
+  "updated_at": "2026-10-20T21:01:12+00:00"
 }
