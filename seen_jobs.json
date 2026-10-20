@@ -1,5 +1,5 @@
 {
-  "count": 7334,
+  "count": 7335,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -56724,6 +56724,16 @@
       "title": "Application Engineer",
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Application-Engineer_REQ-019650"
     },
+    "skydio::370da6a5-5ae6-48fe-8e08-9b1dcc63bf34": {
+      "company": "Skydio",
+      "first_seen": "2026-10-20T19:33:49+00:00",
+      "last_seen": "2026-10-20T19:33:49+00:00",
+      "location": "San Mateo, California, United States",
+      "posted_at": "2026-10-20T19:31:38.502+00:00",
+      "source": "",
+      "title": "Embedded Software Engineer Intern - Winer 2027",
+      "url": "https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34"
+    },
     "skydio::79fdda46-4ff5-42c7-b208-55f2084cdb8c": {
       "company": "Skydio",
       "first_seen": "2026-10-14T19:18:37+00:00",
@@ -61098,5 +61108,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-20T17:58:00+00:00"
+  "updated_at": "2026-10-20T19:34:03+00:00"
 }
