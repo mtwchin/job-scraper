@@ -1,5 +1,5 @@
 {
-  "count": 7310,
+  "count": 7311,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -54171,6 +54171,16 @@
       "title": "Call Routing Optimization Engineer Intern",
       "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398"
     },
+    "simplify:verizon communications::simplify-10e3eb17-36c8-4cb3-b39a-45fdf27e0b4d": {
+      "company": "Verizon Communications",
+      "first_seen": "2026-10-20T13:06:58+00:00",
+      "last_seen": "2026-10-20T13:06:58+00:00",
+      "location": "Basking Ridge, Bernards, NJ",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "Call Routing Optimization Engineering Intern",
+      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394"
+    },
     "simplify:verkada::simplify-1b2a515c-420c-4739-90eb-0ca8c93613b4": {
       "company": "Verkada",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -60855,5 +60865,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-20T11:33:28+00:00"
+  "updated_at": "2026-10-20T13:07:31+00:00"
 }
