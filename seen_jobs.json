@@ -1,5 +1,5 @@
 {
-  "count": 7300,
+  "count": 7302,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -14606,6 +14606,16 @@
       "title": "Technology Graduate Rotational Program Associate - TGRP",
       "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Associate--Technology-Graduate-Rotational-Program--TGRP-_2616657-1"
     },
+    "simplify:cibc::simplify-31378135-5f8c-4b51-bc35-dd36b493da6c": {
+      "company": "CIBC",
+      "first_seen": "2026-10-20T01:33:13+00:00",
+      "last_seen": "2026-10-20T01:33:13+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1792368000",
+      "source": "simplify",
+      "title": "Application/Software Developer Co-op - Capital Markets Technology",
+      "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523-1"
+    },
     "simplify:cibc::simplify-43942487-1905-4f16-b4f3-82eafb81e332": {
       "company": "CIBC",
       "first_seen": "2026-09-14T22:36:22+00:00",
@@ -14664,6 +14674,16 @@
       "posted_at": "1785974400",
       "title": "Technology Graduate Rotational Program Associate - TGRP",
       "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Associate--Technology-Graduate-Rotational-Program--TGRP-_2511828"
+    },
+    "simplify:cibc::simplify-c2ad7d6e-7477-4f43-adc5-f46fbdd5ecd3": {
+      "company": "CIBC",
+      "first_seen": "2026-10-20T01:33:13+00:00",
+      "last_seen": "2026-10-20T01:33:13+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1792368000",
+      "source": "simplify",
+      "title": "Application Developer Co-op - Enterprise Technology & Business Management",
+      "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524"
     },
     "simplify:cibc::simplify-e9bbbfe9-e9ad-44fd-9576-86518357ea97": {
       "company": "CIBC",
@@ -52291,7 +52311,7 @@
     "simplify:trimble::simplify-ca3d442d-982e-4251-b443-6e607ffd2504": {
       "company": "Trimble",
       "first_seen": "2026-09-08T23:04:44+00:00",
-      "last_seen": "2026-10-18T00:00:06+00:00",
+      "last_seen": "2026-10-20T01:33:13+00:00",
       "posted_at": "1788825600",
       "title": "Software Engineer Intern",
       "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676"
@@ -60726,5 +60746,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-20T01:14:43+00:00"
+  "updated_at": "2026-10-20T01:33:45+00:00"
 }
