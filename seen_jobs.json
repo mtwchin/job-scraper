@@ -1,5 +1,5 @@
 {
-  "count": 7304,
+  "count": 7305,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -44672,6 +44672,16 @@
       "title": "Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089"
     },
+    "simplify:schonfeld::simplify-9688e18b-53f3-4354-aea8-0f59f30f3431": {
+      "company": "Schonfeld",
+      "first_seen": "2026-10-20T09:35:33+00:00",
+      "last_seen": "2026-10-20T09:35:33+00:00",
+      "location": "NYC",
+      "posted_at": "1777558638",
+      "source": "simplify",
+      "title": "AI Engineer",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/7843962"
+    },
     "simplify:schweitzer engineering laboratories::simplify-10cf72c1-fc60-4ada-bf7f-88ed2002e684": {
       "company": "Schweitzer Engineering Laboratories",
       "first_seen": "2026-09-25T23:20:49+00:00",
@@ -60793,5 +60803,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-20T09:03:17+00:00"
+  "updated_at": "2026-10-20T09:36:19+00:00"
 }
