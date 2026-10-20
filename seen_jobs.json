@@ -1,5 +1,5 @@
 {
-  "count": 7338,
+  "count": 7339,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2092,6 +2092,18 @@
       "posted_at": "2026-07-01T13:11:54-04:00",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101"
+    },
+    "intel::AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138": {
+      "company": "Intel",
+      "duplicate_of": "intel::AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139",
+      "first_seen": "2026-10-20T21:16:46+00:00",
+      "last_seen": "2026-10-20T21:16:46+00:00",
+      "location": "US, California, Santa Clara",
+      "posted_at": "Posted Today",
+      "seeded": true,
+      "source": "",
+      "title": "AI Data Science / Software Engineering PhD Intern New 2027",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138"
     },
     "intel::AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139": {
       "company": "Intel",
@@ -61139,5 +61151,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-20T21:08:15+00:00"
+  "updated_at": "2026-10-20T21:17:17+00:00"
 }
