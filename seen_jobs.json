@@ -181,6 +181,15 @@
       "title": "Ground Software Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Chantilly-VA/Ground-Software-Engineer----Millennium-Space-Systems_JR2026525674-1"
     },
+    "simplify:boston scientific::simplify-649995a2-a18c-401a-9cc3-062fa58dc1b3": {
+      "attempted_at": "2026-10-20T02:05:20+00:00",
+      "company": "Boston Scientific",
+      "location": "Arden Hills, MN",
+      "posted_at": "1792460036",
+      "source": "simplify",
+      "title": "R&D Software Engineer Intern",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563514"
+    },
     "simplify:bp::simplify-e182497d-faeb-4cac-9de9-4db3935647ad": {
       "attempted_at": "2026-10-14T10:32:50+00:00",
       "company": "BP",
@@ -23596,7 +23605,7 @@
     "simplify:goldman sachs::simplify-1949c912-65b2-42ac-9836-c110baed0ef6": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-10-19T01:34:33+00:00",
+      "last_seen": "2026-10-20T02:05:20+00:00",
       "posted_at": "1786767938",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/177808?type=students"
@@ -60746,5 +60755,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-20T02:04:48+00:00"
+  "updated_at": "2026-10-20T02:05:50+00:00"
 }
