@@ -1,5 +1,5 @@
 {
-  "count": 7321,
+  "count": 7325,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -5779,6 +5779,16 @@
       "source": "simplify",
       "title": "AI Product Engineer - Copilot & Power Platform",
       "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/AI-Product-Engineer--Copilot---Power-Platform---Remote---US-_R35481-1"
+    },
+    "simplify:allstate::simplify-ba0364a9-1ac6-476c-bce0-118895d7a5ed": {
+      "company": "Allstate",
+      "first_seen": "2026-10-20T15:01:57+00:00",
+      "last_seen": "2026-10-20T15:01:57+00:00",
+      "location": "North Carolina",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266"
     },
     "simplify:alpha nexus group::simplify-a0548532-3712-4c26-9172-4f2c8f2a6a8d": {
       "company": "Alpha Nexus Group",
@@ -24019,6 +24029,26 @@
       "posted_at": "1781906919",
       "title": "Regional Technology Associate",
       "url": "https://granite.wd1.myworkdayjobs.com/careers/job/Tucson-Arizona/Regional-Technology-Associate_R0000007670"
+    },
+    "simplify:graphcore::simplify-269f1429-7b09-4c8c-958f-36696b091490": {
+      "company": "Graphcore",
+      "first_seen": "2026-10-20T15:01:57+00:00",
+      "last_seen": "2026-10-20T15:01:57+00:00",
+      "location": "Bristol, UK",
+      "posted_at": "1792506469",
+      "source": "simplify",
+      "title": "Software Engineer Intern - AI Compute Libraries & Performance",
+      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894868002"
+    },
+    "simplify:graphcore::simplify-a3402104-9822-4ba3-8b75-e30551bc1b32": {
+      "company": "Graphcore",
+      "first_seen": "2026-10-20T15:01:57+00:00",
+      "last_seen": "2026-10-20T15:01:57+00:00",
+      "location": "Bristol, UK",
+      "posted_at": "1792506470",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Drivers and Utilities",
+      "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894376002"
     },
     "simplify:graphcore::simplify-f3bf9a9f-934e-4822-ab11-a2619bdeb436": {
       "company": "Graphcore",
@@ -49670,6 +49700,16 @@
       "title": "Software Engineer",
       "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25010693"
     },
+    "simplify:texas instruments::simplify-2e5e07c1-0b7d-4211-bca8-0ac7c3663a1a": {
+      "company": "Texas Instruments",
+      "first_seen": "2026-10-20T15:01:57+00:00",
+      "last_seen": "2026-10-20T15:01:57+00:00",
+      "location": "Sugar Land, TX, United States",
+      "posted_at": "1792506992",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Compiler",
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019103"
+    },
     "simplify:texas instruments::simplify-53311897-ff89-413c-811c-2099ff6c4c30": {
       "company": "Texas Instruments",
       "first_seen": "2026-09-16T09:46:36+00:00",
@@ -60967,5 +61007,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-20T14:35:41+00:00"
+  "updated_at": "2026-10-20T15:02:45+00:00"
 }
