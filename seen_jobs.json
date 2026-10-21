@@ -1,5 +1,5 @@
 {
-  "count": 7375,
+  "count": 7384,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -5154,6 +5154,18 @@
       "title": "Software Engineer Intern",
       "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineering-Intern_8797"
     },
+    "simplify:aerovironment::simplify-4c21866b-8acd-4bce-b804-6482c07400fa": {
+      "company": "AeroVironment",
+      "duplicate_of": "simplify:aerovironment::simplify-1138a140-4370-4e0e-8224-e7099e30ae01",
+      "first_seen": "2026-10-21T01:37:43+00:00",
+      "last_seen": "2026-10-21T01:37:43+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1792454400",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/San-Diego-CA/Software-Engineering-Intern_8828"
+    },
     "simplify:aerovironment::simplify-60306e7f-505d-46e5-9416-d35214b79936": {
       "company": "AeroVironment",
       "first_seen": "2026-10-06T22:37:07+00:00",
@@ -8112,6 +8124,16 @@
       "source": "simplify",
       "title": "Algorithm Developer New Grad",
       "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Algorithm-Developer--Masters-Degree--New-College-Grad--Santa-Clara-_R2631780"
+    },
+    "simplify:applied materials::simplify-c289fea9-67db-45d8-ab27-d9aa699b67cc": {
+      "company": "Applied Materials",
+      "first_seen": "2026-10-21T01:37:44+00:00",
+      "last_seen": "2026-10-21T01:37:44+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672"
     },
     "simplify:applied materials::simplify-cf43075d-b9ba-4cce-b884-1d0b1597dcd4": {
       "company": "Applied Materials",
@@ -11830,6 +11852,26 @@
       "source": "simplify",
       "title": "AI Prototyping Engineer",
       "url": "https://apply.workable.com/brady-martz/j/39C6A58F26/apply"
+    },
+    "simplify:brain co.::simplify-7654bad4-ebff-466a-bd2d-63a5d167ba11": {
+      "company": "Brain Co.",
+      "first_seen": "2026-10-21T01:37:44+00:00",
+      "last_seen": "2026-10-21T01:37:44+00:00",
+      "location": "SF",
+      "posted_at": "1792544959",
+      "source": "simplify",
+      "title": "AI Product Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e/application?embed=true"
+    },
+    "simplify:brain co.::simplify-96705002-95d7-4a17-8292-87bbaea60a95": {
+      "company": "Brain Co.",
+      "first_seen": "2026-10-21T01:37:44+00:00",
+      "last_seen": "2026-10-21T01:37:44+00:00",
+      "location": "SF",
+      "posted_at": "1792544960",
+      "source": "simplify",
+      "title": "AI Platform Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15/application?embed=true"
     },
     "simplify:brain co.::simplify-d30520b3-3e37-4964-8ec5-834602970ba5": {
       "company": "Brain Co.",
@@ -15635,6 +15677,16 @@
       "posted_at": "1789344000",
       "title": "Computer Science Engineer Intern",
       "url": "https://aksteel.wd1.myworkdayjobs.com/careers/job/Rockport-Works/Computer-Science-Engineering-Intern_R13553"
+    },
+    "simplify:clickhouse::simplify-1396b282-ae49-4b5f-a315-27c109ef26fd": {
+      "company": "ClickHouse",
+      "first_seen": "2026-10-21T01:37:44+00:00",
+      "last_seen": "2026-10-21T01:37:44+00:00",
+      "location": "Remote in Germany, SF, Remote in USA, Remote in Netherlands",
+      "posted_at": "1792545865",
+      "source": "simplify",
+      "title": "Research Intern",
+      "url": "https://jobs.ashbyhq.com/clickhouse/558c0c16-5fde-407a-966b-7a2255d3531b/application?embed=true"
     },
     "simplify:clinton foundation::simplify-d982ee30-b711-41a7-a5ff-d71ae2b98f18": {
       "company": "Clinton Foundation",
@@ -25042,6 +25094,16 @@
       "title": "Software Engineer Intern",
       "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027455"
     },
+    "simplify:heidelberg materials::simplify-75c1c665-cda7-40b3-8db3-ce25f1ddd6ea": {
+      "company": "Heidelberg Materials",
+      "first_seen": "2026-10-21T01:37:44+00:00",
+      "last_seen": "2026-10-21T01:37:44+00:00",
+      "location": "Irving, TX",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "Digital Growth Intern",
+      "url": "https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Irving-TX/Digital-Growth-Intern_JR10018997-1"
+    },
     "simplify:helios worldwide::simplify-55d3dd4c-a153-4f94-9eed-f115d0face66": {
       "company": "Helios WorldWide",
       "first_seen": "2026-10-09T23:06:56+00:00",
@@ -31159,6 +31221,16 @@
       "posted_at": "1785189834",
       "title": "Senior Software Engineer - Applications",
       "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000140073832"
+    },
+    "simplify:linkedin::simplify-5635b14b-45dd-4bb0-925f-0231622eb338": {
+      "company": "LinkedIn",
+      "first_seen": "2026-10-21T01:37:44+00:00",
+      "last_seen": "2026-10-21T01:37:44+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1792546006",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169"
     },
     "simplify:liquid::simplify-536242db-62cc-4f97-b8e4-d38cd8088500": {
       "company": "Liquid",
@@ -40817,12 +40889,22 @@
     "simplify:rakuten international::simplify-058f10b5-7e10-4926-bb72-004c74c2a665": {
       "company": "Rakuten International",
       "first_seen": "2026-09-15T22:46:06+00:00",
-      "last_seen": "2026-10-14T06:33:52+00:00",
+      "last_seen": "2026-10-21T01:37:43+00:00",
       "location": "Bellevue, WA",
       "posted_at": "1789510078",
       "source": "simplify",
       "title": "Early Career AI Engineer - Contract",
       "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437"
+    },
+    "simplify:rakuten international::simplify-4dc5f31e-e744-4c5c-ac98-baeb6b6f17f3": {
+      "company": "Rakuten International",
+      "first_seen": "2026-10-21T01:37:44+00:00",
+      "last_seen": "2026-10-21T01:37:44+00:00",
+      "location": "San Mateo, CA",
+      "posted_at": "1783548630",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171"
     },
     "simplify:ralliant::simplify-0114fd01-23de-4242-a750-9e8add8525e7": {
       "company": "Ralliant",
@@ -53442,6 +53524,16 @@
       "title": "Software Engineer \u2013 Early Career",
       "url": "https://job-boards.greenhouse.io/uareai/jobs/4036519009"
     },
+    "simplify:uber::simplify-f8f882fd-ee8e-4b25-ae90-0f2a5746e3ed": {
+      "company": "Uber",
+      "first_seen": "2026-10-21T01:37:44+00:00",
+      "last_seen": "2026-10-21T01:37:44+00:00",
+      "location": "Seattle, WA, SF, Sunnyvale, CA",
+      "posted_at": "1792545218",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922"
+    },
     "simplify:udig::simplify-3a86764d-e47b-4475-98c1-ec31081f9a2f": {
       "company": "Udig",
       "first_seen": "2026-09-22T18:13:27+00:00",
@@ -61614,5 +61706,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-21T01:36:44+00:00"
+  "updated_at": "2026-10-21T01:37:46+00:00"
 }
