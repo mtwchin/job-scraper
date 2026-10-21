@@ -17,6 +17,8 @@ SWE_PATTERNS = [
     r"\bswe\b",
     r"software\s+engineering",
     r"software\s+(?:undergrad|masters?|phd)\s+(?:engineering|internship)",
+    # "Systems Software Intern", "Software Intern - Embedded Systems" (NVIDIA)
+    r"\bsoftware\s+(?:development\s+)?(?:intern|internship|co-?op)\b",
     r"member\s+of\s+technical\s+staff",
     r"\bprogrammer\b",
     r"systems?\s+engineer",

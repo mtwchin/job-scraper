@@ -22,6 +22,9 @@ from jobscraper.models import Job
     "SoC Software Engineer - New College Grad 2026",
     "Campus Software Engineer (Full-Time)",
     "Software Engineer - Campus",
+    "Systems Software Intern, Aerial PHY- Summer 2027",
+    "Software Development Co-op - Spring 2027",
+    "Robotics Software Intern",
 ])
 def test_matches_positive(title):
     job = Job("X", "1", title, "http://x", "New York, NY", "")
@@ -40,6 +43,7 @@ def test_matches_positive(title):
     "Senior Associate Software Engineer",
     "Sr. Software Engineer I, Cloud Security",
     "OCI Core Infrastructure Engineer 2 - Nashville Campus",
+    "Software Sales Representative",   # "software" alone is not a SWE role
 ])
 def test_matches_negative(title):
     job = Job("X", "1", title, "http://x", "New York, NY", "")
