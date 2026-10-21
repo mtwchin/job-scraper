@@ -1,7 +1,7 @@
 # Internship Radar 🛰️
 
-Polls priority companies' **official career APIs** and aggregator feeds about
-every **60 seconds**, and the full company list about every three minutes. It pings a
+Polls priority (FAANG+) companies' **official career APIs** every **15 seconds**,
+aggregator feeds every 20 seconds, and the full company list every minute. It pings a
 **Discord webhook** the moment a new **SWE/SDE internship or new-grad** role opens.
 Tuned for **off-season** (fall/winter/spring) internships by default.
 
@@ -104,7 +104,7 @@ starts its own successor:
 
 | Workflow | Covers | Channel | Cadence |
 |---|---|---|---|
-| `scraper.yml` (*top-companies*) | every company in `companies.md`: its own board, plus the feeds' copies | `DISCORD_WEBHOOK_URL` | feeds every 20s, priority boards every 30s, all boards every 60s |
+| `scraper.yml` (*top-companies*) | every company in `companies.md`: its own board, plus the feeds' copies | `DISCORD_WEBHOOK_URL` | feeds every 20s, priority boards every 15s, all boards every 60s |
 | `all-swe.yml` (*all-swe*) | SWE roles at every **other** company, from the aggregator feeds | `DISCORD_WEBHOOK_URL_ALL` | feeds every 60s |
 
 They are separate on purpose: the broad feed can't slow down or take out the
@@ -376,10 +376,14 @@ polls on its own clock**:
   CDN-cached for 5 minutes, so the old one-minute poll still saw each update up
   to 5 minutes late. Needs `GITHUB_TOKEN` (Actions provides it); without one it
   falls back to the branch URL.
-- **Priority company boards every minute; every company’s own ATS every 2
-  minutes**, on a background thread. Hundreds of requests with no
-  conditional-request support, and a full sweep takes 15–90s; it used to sit in
-  front of every feed poll, and now never delays one.
+- **Every company’s own ATS every minute**, on a background thread. Hundreds of
+  requests with no conditional-request support, and a full sweep takes 15–90s;
+  it used to sit in front of every feed poll, and now never delays one.
+- **Priority (FAANG+) boards every 15s**, in a lane of their own so a slow full
+  sweep never holds them back. It is a *quick* sweep: Workday boards read only
+  their newest-first "Posted Today" pages instead of every keyword search, so
+  the whole priority sweep takes a few seconds rather than ~30. The full sweep
+  still runs the complete scan. `PRIORITY_COMPANIES` sets the list.
 - The loop runs ~5.5h, then exits cleanly and **dispatches its own successor**
   (`workflow_dispatch`, one of the few events `GITHUB_TOKEN` may trigger). The
   `concurrency` group queues that run behind anything still running, so it
@@ -388,8 +392,15 @@ polls on its own clock**:
   gaps of up to 2.5h.
 
 Detection latency is now bounded by the poll interval (~20s after an aggregator
-publishes, ~1 min for a priority board, ~2-3 min for another company board), not
+publishes, ~15-20s for a priority board, ~1-2 min for another company board), not
 by the scheduler.
+
+**Priority alerts come first.** A priority company's new roles are sent ahead of
+everything else in their own message, marked ⭐, and are never the ones held
+back by `MAX_NOTIFICATIONS_PER_RUN`. Set the `PRIORITY_MENTION` repository
+variable (Settings → Secrets and variables → Actions → Variables), e.g. `@here`
+or a role `<@&ROLE_ID>`, and that message pings too, so a FAANG+ opening reaches
+your phone instead of waiting in the channel. Other alerts never ping.
 
 **Aggregators publish in batches.** Simplify pushes its feed every 30 minutes
 (at :01 and :31), so a role that only reaches us through Simplify can be up to

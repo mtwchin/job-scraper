@@ -8,6 +8,7 @@ import requests
 import urllib3
 
 from . import http, settings
+from .dedup import normalize_company
 from .models import Job
 
 _COLOR_INTERN = 0x5865F2   # blurple
@@ -37,6 +38,13 @@ def _posted_field(job: Job) -> dict | None:
     return {"name": "🕐 Posted", "value": value, "inline": True}
 
 
+def is_priority(job: Job) -> bool:
+    """Whether a job is from a priority (FAANG+) company, whichever source
+    found it — a feed spells names its own way ("NVIDIA" for "Nvidia")."""
+    name = normalize_company(job.company)
+    return any(normalize_company(p) == name for p in settings.PRIORITY_COMPANIES)
+
+
 def _embed(job: Job) -> dict:
     from .filters import role_type
 
@@ -51,7 +59,7 @@ def _embed(job: Job) -> dict:
         "title": job.title[:256],
         "url": job.url,
         "color": color,
-        "author": {"name": job.company[:256]},
+        "author": {"name": (f"⭐ {job.company}" if is_priority(job) else job.company)[:256]},
         "fields": fields,
     }
     if job.source == "simplify":
@@ -116,13 +124,25 @@ def notify_jobs(jobs: list[Job], webhook_url: str = "", *,
         return
     webhook_url = webhook_url or settings.DISCORD_WEBHOOK_URL
     batch_size = settings.MAX_EMBEDS_PER_MESSAGE
-    for i in range(0, len(jobs), batch_size):
-        chunk = jobs[i : i + batch_size]
+    # Priority-company roles go first and in batches of their own: they are the
+    # ones worth being first in line for, and only their message should ping.
+    priority = [j for j in jobs if is_priority(j)]
+    rest = [j for j in jobs if not is_priority(j)]
+    chunks = [(group[i : i + batch_size], group is priority)
+              for group in (priority, rest) for i in range(0, len(group), batch_size)]
+    for n, (chunk, is_top) in enumerate(chunks):
+        if is_top:
+            names = ", ".join(dict.fromkeys(j.company for j in chunk))
+            content = f"⭐ **{len(chunk)} priority role(s) just opened** — {names}"
+            if settings.PRIORITY_MENTION:
+                content = f"{settings.PRIORITY_MENTION} {content}"
+        elif n == 0 and len(chunks) == 1:
+            content = f"🚨 **{len(chunk)} new role(s) just opened**"
+        else:
+            content = None
         payload = {
             "username": "Internship Radar",
-            "content": f"🚨 **{len(chunk)} new role(s) just opened**"
-            if i == 0 and len(jobs) <= batch_size
-            else None,
+            "content": content[:2000] if content else None,
             "embeds": [_embed(j) for j in chunk],
         }
         payload = {k: v for k, v in payload.items() if v is not None}

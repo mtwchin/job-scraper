@@ -20,27 +20,42 @@ def test_board_sweep_runs_beside_the_feed_poll_and_is_dispatched(monkeypatch):
     stats = watch.Stats()
     boards = watch._Boards(store=None, stats=stats, company_interval=120, priority_interval=60)
 
-    boards.tick()                      # starts a full sweep in the background
-    assert calls == [{"include_companies": True, "only_priority": False,
-                      "include_aggregators": False}]
+    boards.tick()                      # starts both lanes in the background
+    assert sorted(c["only_priority"] for c in calls) == [False, True]
+    assert all(c["include_companies"] and not c["include_aggregators"] for c in calls)
     boards.tick()                      # still running: neither blocks nor restarts
-    assert len(calls) == 1 and not dispatched
+    assert len(calls) == 2 and not dispatched
 
     release.set()
     boards.finish()
-    assert len(dispatched) == 1 and stats.sent == 3 and stats.company_sweeps == 1
+    assert len(dispatched) == 2 and stats.sent == 6
+    assert stats.company_sweeps == 1 and stats.priority_sweeps == 1
 
 
-def test_priority_sweep_runs_between_full_sweeps(monkeypatch):
-    calls = []
-    monkeypatch.setattr(main, "collect_matches",
-                        lambda **kw: calls.append(kw) or (main.Collection(), main.Collection()))
-    monkeypatch.setattr(main, "dispatch", lambda *a: 0)
+def test_priority_lane_never_waits_for_a_full_sweep(monkeypatch):
+    """A slow full sweep used to hold the priority boards back to its own pace."""
+    release = threading.Event()
+    calls, dispatched = [], []
+
+    def collect(**kw):
+        calls.append(kw["only_priority"])
+        if not kw["only_priority"]:
+            release.wait(5)            # the full sweep is still running...
+        return main.Collection(), main.Collection()
+
+    monkeypatch.setattr(main, "collect_matches", collect)
+    monkeypatch.setattr(main, "dispatch", lambda store, c, g: dispatched.append(c) or 0)
     boards = watch._Boards(store=None, stats=watch.Stats(), company_interval=120,
-                           priority_interval=60)
+                           priority_interval=15)
     boards.tick()
-    boards.future.result()
-    boards.next_priority = 0           # priority due, full sweep not
-    boards.tick()
+    for _ in range(2):                 # ...while priority sweeps finish and repeat
+        boards.priority.future.result()
+        boards.priority.next_at = 0
+        boards.tick()
+    boards.priority.future.result()
+    assert calls.count(True) == 3 and calls.count(False) == 1
+    assert len(dispatched) == 2        # both finished priority sweeps, no full one yet
+
+    release.set()
     boards.finish()
-    assert [c["only_priority"] for c in calls] == [False, True]
+    assert len(dispatched) == 4

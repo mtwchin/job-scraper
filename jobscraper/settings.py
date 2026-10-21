@@ -101,6 +101,11 @@ PRIORITY_COMPANIES = {
         "Coinbase,Roblox,PayPal,LinkedIn",
     ).split(",") if name.strip()
 }
+# Prepended to the Discord message for priority-company roles, which are also
+# sent ahead of everything else. A mention here is what turns a FAANG+ alert into
+# a phone notification: "@here", a role "<@&ROLE_ID>" or a user "<@USER_ID>".
+# Empty (the default) marks them with a star but pings no one.
+PRIORITY_MENTION = os.environ.get("PRIORITY_MENTION", "").strip()
 # How long the loop runs before exiting cleanly, in seconds. Sized to sit under
 # the 6-hour ceiling GitHub puts on a single job, leaving room for the final
 # state push.

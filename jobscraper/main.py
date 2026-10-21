@@ -46,7 +46,9 @@ class Collection:
 # slowest boards first. A sweep lasts as long as its slowest board's finish
 # time; in file order a 15s board listed near the bottom starts after everything
 # above it and holds the whole sweep (and the loop behind it) open.
-_last_fetch_seconds: dict[str, float] = {}
+# Keyed by (name, quick): a quick priority fetch says nothing about how long the
+# same board's full scan takes.
+_last_fetch_seconds: dict[tuple[str, bool], float] = {}
 
 
 # Boards that just failed sit out for a while: name -> (retry_at, failures).
@@ -82,7 +84,7 @@ def _fetch_company(company: CompanyConfig) -> tuple[CompanyConfig, list[Job], st
     except Exception as exc:  # noqa: BLE001 - isolation is the whole point
         return company, [], f"[{company.adapter}] {type(exc).__name__}: {exc}"
     finally:
-        _last_fetch_seconds[company.name] = time.monotonic() - started
+        _last_fetch_seconds[company.name, company.quick] = time.monotonic() - started
 
 
 def _passes_filters(job: Job) -> bool:
@@ -133,9 +135,10 @@ def collect_matches(include_companies: bool = True,
     if include_companies:
         enabled = [c for c in load_companies(settings.COMPANIES_FILE) if c.enabled]
         if only_priority:
-            enabled = [c for c in enabled if c.name.casefold() in settings.PRIORITY_COMPANIES]
+            enabled = [replace(c, quick=True) for c in enabled
+                       if c.name.casefold() in settings.PRIORITY_COMPANIES]
         # Unmeasured boards sort first: they might be slow, and it costs nothing.
-        enabled.sort(key=lambda c: -_last_fetch_seconds.get(c.name, float("inf")))
+        enabled.sort(key=lambda c: -_last_fetch_seconds.get((c.name, c.quick), float("inf")))
         result.n_enabled = len(enabled)
         now = time.monotonic()
         backing_off = [c for c in enabled if _backing_off(c, now)]
@@ -477,6 +480,8 @@ def dispatch(store: SeenStore, c: Collection, general: Collection,
 
     new_jobs = fold_repeat_titles(store, new_jobs)
     new_general = fold_repeat_titles(store, new_general)
+    # Priority (FAANG+) roles first, so the per-run cap never holds one back.
+    new_jobs.sort(key=lambda j: not notify.is_priority(j))
 
     to_send = new_jobs[: settings.MAX_NOTIFICATIONS_PER_RUN]
     if len(new_jobs) > len(to_send):

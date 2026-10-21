@@ -122,6 +122,23 @@ def test_newest_first_pass_is_capped(monkeypatch):
     assert len(offsets) == ats._WORKDAY_NEWEST_PAGES
 
 
+def test_quick_sweep_runs_only_the_newest_first_pass(monkeypatch):
+    from dataclasses import replace
+    monkeypatch.setattr(settings, "US_CANADA_ONLY", False)
+    queries = []
+    def post(url, json, **kw):
+        queries.append(json["searchText"])
+        page = _postings(json["offset"], ["Software Engineer Intern"] * 20)
+        page[-1]["postedOn"] = "Posted 3 Days Ago"
+        return Response({"total": 2000, "jobPostings": page})
+    monkeypatch.setattr(ats.http, "post", post)
+    ats.fetch_workday(replace(NVIDIA, quick=True))
+    assert queries == [""]
+    queries.clear()
+    ats.fetch_workday(NVIDIA)
+    assert queries[0] == "" and len(set(queries)) == len(ats._WORKDAY_QUERIES)
+
+
 class Blocked:
     status_code = 200
     headers = {"Content-Type": "text/html"}
