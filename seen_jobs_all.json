@@ -1,5 +1,5 @@
 {
-  "count": 7421,
+  "count": 7428,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -59304,6 +59304,16 @@
       "title": "Member Of Technical Staff Intern",
       "url": "https://www.workatastartup.com/jobs/83224"
     },
+    "vanshb03:hitachi::vanshb03-84fa22cf-b7dd-4905-9539-70e99b3dbe06": {
+      "company": "Hitachi",
+      "first_seen": "2026-10-21T19:33:33+00:00",
+      "last_seen": "2026-10-21T19:33:33+00:00",
+      "location": "Liberty, SC",
+      "posted_at": "1792601555",
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op",
+      "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733"
+    },
     "vanshb03:homebase::vanshb03-54f1c8a5-bef7-404a-a9c7-87ce94f6f777": {
       "company": "Homebase",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60401,6 +60411,16 @@
       "title": "Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009?gh_src=kpek4mqz9us"
     },
+    "vanshb03:rhoda ai::vanshb03-30af1325-f87d-4e4e-b279-b7c7596f0ec3": {
+      "company": "Rhoda AI",
+      "first_seen": "2026-10-21T19:33:33+00:00",
+      "last_seen": "2026-10-21T19:33:33+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1792550753",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Inference",
+      "url": "https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4"
+    },
     "vanshb03:rippling::vanshb03-859558cb-6cc3-4251-8a23-4545fdfaebfa": {
       "company": "Rippling",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60521,6 +60541,16 @@
       "title": "New Grad: Software Engineering",
       "url": "https://www.samsara.com/company/careers/roles/7172579"
     },
+    "vanshb03:schweitzer engineering laboratories::vanshb03-aae71294-e2fe-4249-b27b-90726e0963b4": {
+      "company": "Schweitzer Engineering Laboratories",
+      "first_seen": "2026-10-21T19:33:33+00:00",
+      "last_seen": "2026-10-21T19:33:33+00:00",
+      "location": "Pullman, WA",
+      "posted_at": "1792454400",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-24190"
+    },
     "vanshb03:sentry::vanshb03-b562fdec-1ab1-4886-a2a1-864620b7d2d8": {
       "company": "Sentry",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60619,6 +60649,36 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009"
+    },
+    "vanshb03:smith+nephew::vanshb03-4d9997e7-9568-4e49-a1d0-8b5b58081fdf": {
+      "company": "Smith+Nephew",
+      "first_seen": "2026-10-21T19:33:33+00:00",
+      "last_seen": "2026-10-21T19:33:33+00:00",
+      "location": "Andover, MA",
+      "posted_at": "1792603103",
+      "source": "vanshb03",
+      "title": "Computer Vision Software Engineering Intern",
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964"
+    },
+    "vanshb03:smith+nephew::vanshb03-a10cdb28-2938-4ed4-98e6-c3a5e2bd9a77": {
+      "company": "Smith+Nephew",
+      "first_seen": "2026-10-21T19:33:33+00:00",
+      "last_seen": "2026-10-21T19:33:33+00:00",
+      "location": "Andover, MA",
+      "posted_at": "1792566000",
+      "source": "vanshb03",
+      "title": "Agentic AI Software Engineering Intern",
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953"
+    },
+    "vanshb03:smith+nephew::vanshb03-db9f9f7f-d42b-423f-8ab6-7c8018ff379d": {
+      "company": "Smith+Nephew",
+      "first_seen": "2026-10-21T19:33:33+00:00",
+      "last_seen": "2026-10-21T19:33:33+00:00",
+      "location": "Andover, MA",
+      "posted_at": "1792603101",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952"
     },
     "vanshb03:snowflake::vanshb03-0022a0b8-1f49-4fc1-9915-e9765f2af0a4": {
       "company": "Snowflake",
@@ -60881,6 +60941,16 @@
       "source": "vanshb03",
       "title": "System Engineer Co-op",
       "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Brooksville-FL/Co-Op--System-Engineer_R8261"
+    },
+    "vanshb03:t-mobile::vanshb03-dd5b34d7-be48-46be-b009-2d489c67c62d": {
+      "company": "T-Mobile",
+      "first_seen": "2026-10-21T19:33:33+00:00",
+      "last_seen": "2026-10-21T19:33:33+00:00",
+      "location": "Atlanta, GA, Frisco, TX",
+      "posted_at": "1792516655",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Cloud Security",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190"
     },
     "vanshb03:teledyne technologies incorporated::vanshb03-d6b0d4fb-dd47-478e-ad9b-2887f64a1645": {
       "company": "Teledyne Technologies Incorporated",
@@ -62082,5 +62152,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-21T19:01:31+00:00"
+  "updated_at": "2026-10-21T19:33:35+00:00"
 }
