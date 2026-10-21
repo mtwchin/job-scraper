@@ -213,7 +213,7 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Tower Research | greenhouse | token=towerresearchcapital                                         | yes | Verified |
 | Virtu Financial | greenhouse | token=virtu                                                       | yes | Verified |
 | Chicago Trading | greenhouse | token=chicagotrading                                              | yes | Verified |
-| Old Mission    | greenhouse | token=oldmissioncapital                                            | yes | Verified |
+| Old Mission    | ashby      | slug=old-mission-capital                                           | yes | Verified via probe — moved from Greenhouse (404) to Ashby |
 | Squarepoint    | greenhouse | token=squarepointcapital                                           | yes | Verified |
 | PDT Partners   | greenhouse | token=pdtpartners                                                  | yes | Verified |
 | Vatic Labs     | greenhouse | token=vaticlabs                                                    | yes | Verified |
