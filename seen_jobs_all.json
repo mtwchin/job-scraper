@@ -1,5 +1,5 @@
 {
-  "count": 7408,
+  "count": 7410,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -3629,6 +3629,16 @@
       "posted_at": "Posted Today",
       "title": "Associate Software Engineer",
       "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Associate-Software-Engineer_R-059017"
+    },
+    "red hat::Associate-Software-Engineer_R-059369": {
+      "company": "Red Hat",
+      "first_seen": "2026-10-21T11:35:41+00:00",
+      "last_seen": "2026-10-21T11:35:41+00:00",
+      "location": "Waterford City",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Associate Software Engineer",
+      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Waterford-City/Associate-Software-Engineer_R-059369"
     },
     "red hat::Associate-Software-Engineer_R-059370": {
       "company": "Red Hat",
@@ -8437,6 +8447,16 @@
       "source": "simplify",
       "title": "Embedded Software Engineer Intern",
       "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386"
+    },
+    "simplify:aptiv::simplify-870cc93e-557c-4662-95bf-2cf7b7e1fbb3": {
+      "company": "Aptiv",
+      "first_seen": "2026-10-21T12:31:53+00:00",
+      "last_seen": "2026-10-21T12:31:53+00:00",
+      "location": "San Antonio, TX",
+      "posted_at": "1791504000",
+      "source": "simplify",
+      "title": "Linux Software Development Intern",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399"
     },
     "simplify:aptiv::simplify-9fe5cb59-10c4-44a8-80e4-6cb6542c2889": {
       "company": "Aptiv",
@@ -49458,7 +49478,7 @@
     "simplify:tencent::simplify-ebfbd4aa-1575-4433-ae61-19d71eac1f5d": {
       "company": "Tencent",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-10-19T12:33:42+00:00",
+      "last_seen": "2026-10-21T12:31:53+00:00",
       "posted_at": "1776982049",
       "title": "Game Research & Development Intern - Engine Research",
       "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Game-Research---Development-Intern--Engine-Research_R107363-1"
@@ -61952,5 +61972,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-21T10:01:59+00:00"
+  "updated_at": "2026-10-21T12:32:03+00:00"
 }
