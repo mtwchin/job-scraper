@@ -1,5 +1,5 @@
 {
-  "count": 7416,
+  "count": 7417,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -43217,7 +43217,7 @@
     "simplify:rtx::simplify-06c5700d-2702-4f7a-a7c1-e713c7de94a4": {
       "company": "RTX",
       "first_seen": "2026-09-16T23:02:47+00:00",
-      "last_seen": "2026-10-20T00:00:02+00:00",
+      "last_seen": "2026-10-21T15:02:45+00:00",
       "location": "Tucson, AZ",
       "posted_at": "1789516800",
       "source": "simplify",
@@ -43230,6 +43230,16 @@
       "posted_at": "1788134400",
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01865026"
+    },
+    "simplify:rtx::simplify-09d77bd3-845b-4ffb-bc37-c77d9ed70dd6": {
+      "company": "RTX",
+      "first_seen": "2026-10-21T15:02:46+00:00",
+      "last_seen": "2026-10-21T15:02:46+00:00",
+      "location": "Tewksbury, MA",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Software-Engineer-Intern--Summer-2027-_01880127"
     },
     "simplify:rtx::simplify-0a9b8db2-a3bc-4f68-8dec-a15c55f9ea3b": {
       "company": "RTX",
@@ -43833,7 +43843,7 @@
     "simplify:rtx::simplify-6ffabb0b-4dbb-49a3-bb98-10fd85f1898b": {
       "company": "RTX",
       "first_seen": "2026-10-06T15:04:46+00:00",
-      "last_seen": "2026-10-20T00:00:02+00:00",
+      "last_seen": "2026-10-21T15:02:45+00:00",
       "location": "Tucson, AZ",
       "posted_at": "1789516800",
       "source": "simplify",
@@ -62032,5 +62042,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-21T14:33:16+00:00"
+  "updated_at": "2026-10-21T15:03:20+00:00"
 }
