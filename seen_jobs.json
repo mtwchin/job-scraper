@@ -61719,7 +61719,7 @@
     "waymo::8203200": {
       "company": "Waymo",
       "first_seen": "2026-09-17T03:37:23+00:00",
-      "last_seen": "2026-09-29T00:02:41+00:00",
+      "last_seen": "2026-10-21T19:29:50+00:00",
       "location": "San Francisco, California",
       "posted_at": "2026-09-16T23:33:58-04:00",
       "source": "",
@@ -61922,5 +61922,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-21T14:04:05+00:00"
+  "updated_at": "2026-10-21T19:30:38+00:00"
 }
