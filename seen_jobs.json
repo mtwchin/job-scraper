@@ -1,5 +1,5 @@
 {
-  "count": 7407,
+  "count": 7413,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1381,6 +1381,26 @@
       "title": "Software Engineer Intern - Enterprise Systems (Fall 2026)",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006"
     },
+    "astranis::4704595006": {
+      "company": "Astranis",
+      "first_seen": "2026-10-21T20:11:14+00:00",
+      "last_seen": "2026-10-21T20:11:14+00:00",
+      "location": "San Francisco",
+      "posted_at": "2026-10-07T16:59:29-04:00",
+      "source": "",
+      "title": "Flight Software Intern (Winter 2027)",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704595006"
+    },
+    "astranis::4704598006": {
+      "company": "Astranis",
+      "first_seen": "2026-10-21T20:11:14+00:00",
+      "last_seen": "2026-10-21T20:11:14+00:00",
+      "location": "San Francisco",
+      "posted_at": "2026-10-07T16:59:29-04:00",
+      "source": "",
+      "title": "Flight Software Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704598006"
+    },
     "astranis::4705214006": {
       "company": "Astranis",
       "first_seen": "2026-09-22T23:43:35+00:00",
@@ -1538,6 +1558,26 @@
       "source": "",
       "title": "Summer 2027 Aerospace Systems Engineering Intern - Graduate",
       "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Intern---Graduate_R71435"
+    },
+    "blue origin::Summer-2027-Avionics-Software-Internship---Graduate_R71423": {
+      "company": "Blue Origin",
+      "first_seen": "2026-10-21T20:11:14+00:00",
+      "last_seen": "2026-10-21T20:11:14+00:00",
+      "location": "Greater Seattle Area, Los Angeles, CA, Denver, CO",
+      "posted_at": "Posted 8 Days Ago",
+      "source": "",
+      "title": "Summer 2027 Avionics Software Internship - Graduate",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423"
+    },
+    "blue origin::Summer-2027-Avionics-Software-Internship---Undergraduate_R71424": {
+      "company": "Blue Origin",
+      "first_seen": "2026-10-21T20:11:14+00:00",
+      "last_seen": "2026-10-21T20:11:14+00:00",
+      "location": "Greater Seattle Area, Denver, CO, Los Angeles, CA, Longmont, CO",
+      "posted_at": "Posted 8 Days Ago",
+      "source": "",
+      "title": "Summer 2027 Avionics Software Internship - Undergraduate",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Undergraduate_R71424"
     },
     "blue origin::Summer-2027-Electrical-Systems-Engineering-Internship---Graduate_R71437": {
       "company": "Blue Origin",
@@ -4011,6 +4051,26 @@
       "posted_at": "2026-09-09T19:40:26-04:00",
       "title": "Systems Engineering Intern Summer 2027",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987046003"
+    },
+    "rocket lab::7989722003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-10-21T20:11:14+00:00",
+      "last_seen": "2026-10-21T20:11:14+00:00",
+      "location": "Littleton, CO",
+      "posted_at": "2026-09-09T18:49:59-04:00",
+      "source": "",
+      "title": "Flight Software Intern Summer 2027",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989722003"
+    },
+    "rocket lab::7989724003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-10-21T20:11:14+00:00",
+      "last_seen": "2026-10-21T20:11:14+00:00",
+      "location": "Littleton, CO",
+      "posted_at": "2026-09-09T18:48:43-04:00",
+      "source": "",
+      "title": "Flight Software Intern Spring 2027",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989724003"
     },
     "rocket lab::7990138003": {
       "company": "Rocket Lab",
@@ -61940,5 +62000,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-21T19:34:40+00:00"
+  "updated_at": "2026-10-21T20:11:55+00:00"
 }
