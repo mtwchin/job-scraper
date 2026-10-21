@@ -27,3 +27,6 @@ class CompanyConfig:
     adapter: str
     params: dict[str, str] = field(default_factory=dict)
     enabled: bool = True
+    # Set for priority sweeps: an adapter with a cheap "what's new" query runs
+    # only that, leaving its full scan to the regular sweep.
+    quick: bool = False

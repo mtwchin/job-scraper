@@ -12,10 +12,11 @@ So one invocation stays up for hours and sweeps on a timer:
 * Every WATCH_INTERVAL (default 20s) it polls the aggregator feeds. Those are
   conditional requests that answer 304 when nothing has changed, so an idle
   cycle costs a couple of hundred milliseconds and no parsing at all.
-* On a background thread, every WATCH_PRIORITY_INTERVAL (60s) it sweeps the
-  priority companies' boards and every WATCH_COMPANY_INTERVAL (default 120s)
+* On background threads, every WATCH_COMPANY_INTERVAL (default 120s) it sweeps
   every company's own ATS, which is hundreds of requests and can't be
-  short-circuited. A sweep in progress never delays a feed poll.
+  short-circuited, and every WATCH_PRIORITY_INTERVAL (60s), in a lane of its
+  own, it takes a quick look at the priority companies' boards. A sweep in
+  progress never delays a feed poll or the other lane.
 
 State lives in memory for the life of the loop and is flushed to disk on a timer
 and immediately after anything is sent, so a killed runner loses at most one
@@ -90,61 +91,78 @@ def _sleep_until(deadline: float, stopper: _Stopper, on_wake=None) -> None:
                 logger.exception("watch: background sweep handling failed; continuing")
 
 
+class _Lane:
+    """One kind of board sweep on its own worker thread."""
+
+    def __init__(self, name: str, interval: int, only_priority: bool):
+        self.name, self.interval, self.only_priority = name, interval, only_priority
+        self.pool = cf.ThreadPoolExecutor(max_workers=1, thread_name_prefix=f"boards-{name}")
+        self.future: cf.Future | None = None
+        self.next_at = 0.0          # sweep right away
+
+
 class _Boards:
-    """Company-board sweeps, run on a background thread.
+    """Company-board sweeps, run on background threads.
 
     A full sweep takes 15-90s and used to sit in front of every feed poll, so a
-    role that had just landed in a feed waited behind it. Now the sweep runs
-    beside the feed poller, and its results are dispatched on the main thread
-    the moment it finishes. Dispatch stays single-threaded, so the store needs
-    no locking.
+    role that had just landed in a feed waited behind it. Now sweeps run beside
+    the feed poller, and their results are dispatched on the main thread the
+    moment they finish. Dispatch stays single-threaded, so the store needs no
+    locking.
+
+    Priority boards get a lane of their own. Sharing one worker with the full
+    sweep, they were checked about once a minute whatever the priority interval
+    said, because a priority sweep could only start once the full sweep ahead of
+    it had finished. Their sweep is also a quick one (see CompanyConfig.quick),
+    so it takes seconds and can run every few.
     """
 
     def __init__(self, store: SeenStore, stats: Stats, company_interval: int,
                  priority_interval: int):
         self.store, self.stats = store, stats
-        self.company_interval, self.priority_interval = company_interval, priority_interval
-        self.pool = cf.ThreadPoolExecutor(max_workers=1, thread_name_prefix="boards")
-        self.future: cf.Future | None = None
-        self.next_full = 0.0        # sweep everything right away
-        self.next_priority = 0.0
+        self.full = _Lane("full", company_interval, only_priority=False)
+        self.priority = _Lane("priority", priority_interval, only_priority=True)
 
     def tick(self) -> None:
-        """Dispatch a finished sweep, then start the next one if it is due."""
+        """Dispatch any finished sweep, then start each lane's next one if due."""
         if settings.SCOPE == "rest":
             return                  # the broad tier never sweeps boards
-        if self.future is not None:
-            if not self.future.done():
+        for lane in (self.priority, self.full):
+            self._tick(lane)
+
+    def _tick(self, lane: _Lane) -> None:
+        if lane.future is not None:
+            if not lane.future.done():
                 return
-            future, self.future = self.future, None
+            future, lane.future = lane.future, None
             try:
                 c, general = future.result()
                 self.stats.sent += main.dispatch(self.store, c, general)
                 self.stats.errors += len(c.errors)
             except Exception:  # noqa: BLE001 - one bad sweep must not end the loop
                 self.stats.errors += 1
-                logger.exception("watch: company sweep failed; continuing")
+                logger.exception("watch: %s sweep failed; continuing", lane.name)
 
         now = time.monotonic()
-        full = now >= self.next_full
-        if not full and now < self.next_priority:
+        if now < lane.next_at:
             return
-        if full:
-            self.stats.company_sweeps += 1
-            self.next_full = now + self.company_interval
-        else:
+        lane.next_at = now + lane.interval
+        if lane.only_priority:
             self.stats.priority_sweeps += 1
-        self.next_priority = now + self.priority_interval
-        self.future = self.pool.submit(main.collect_matches, include_companies=True,
-                                       only_priority=not full, include_aggregators=False)
+        else:
+            self.stats.company_sweeps += 1
+        lane.future = lane.pool.submit(main.collect_matches, include_companies=True,
+                                       only_priority=lane.only_priority,
+                                       include_aggregators=False)
 
     def finish(self) -> None:
-        """Let an in-flight sweep land so what it found is not dropped."""
-        if self.future is not None:
-            cf.wait([self.future])
-            self.next_full = self.next_priority = float("inf")
-            self.tick()
-        self.pool.shutdown(wait=True)
+        """Let in-flight sweeps land so what they found is not dropped."""
+        for lane in (self.priority, self.full):
+            if lane.future is not None:
+                cf.wait([lane.future])
+            lane.next_at = float("inf")
+            self._tick(lane)
+            lane.pool.shutdown(wait=True)
 
 
 def watch() -> int:

@@ -106,17 +106,21 @@ _WORKDAY_TODAY = re.compile(r"\btoday\b|just posted", re.I)
 # Workday companies failed at once (HTTP 500s, then empty 200 bodies) for hours.
 # Capping our concurrent Workday requests keeps the sweep's burst modest.
 _WORKDAY_SLOTS = threading.BoundedSemaphore(3)
+# Quick (priority) sweeps get slots of their own. Sharing, they queued behind a
+# full sweep's ~250 Workday requests and a 4s look at NVIDIA took 50s. Their
+# whole sweep is a dozen-odd requests, so this adds little to the burst.
+_WORKDAY_QUICK_SLOTS = threading.BoundedSemaphore(2)
 # A posting's offices don't change, so resolve each "2 Locations" posting once
 # per process instead of re-fetching its detail page every sweep.
 _workday_locations: dict[str, str] = {}
 _WORKDAY_LOCATION_CACHE_MAX = 5000
 
 
-def _workday_call(fn, url: str, **kwargs):
+def _workday_call(fn, url: str, quick: bool = False, **kwargs):
     """One Workday request: bounded concurrency, a clear error for a throttled
     (non-JSON) answer, and a single patient retry for one."""
     for attempt in range(2):
-        with _WORKDAY_SLOTS:
+        with _WORKDAY_QUICK_SLOTS if quick else _WORKDAY_SLOTS:
             resp = fn(url, retries=1, timeout=20, **kwargs)
         resp.raise_for_status()
         try:
@@ -144,7 +148,9 @@ def fetch_workday(company: CompanyConfig) -> list[Job]:
     jobs: dict[str, Job] = {}
     detail_paths: dict[str, str] = {}
 
-    for query in _WORKDAY_QUERIES:
+    # A quick (priority) sweep runs only the newest-first pass: it is what
+    # catches a fresh posting, at a fraction of the keyword queries' requests.
+    for query in ("",) if company.quick else _WORKDAY_QUERIES:
         newest = not query
         limit = _WORKDAY_NEWEST_PAGES * _WORKDAY_PAGE if newest else _WORKDAY_MAX_PER_QUERY
         offset = 0
@@ -159,7 +165,7 @@ def fetch_workday(company: CompanyConfig) -> list[Job]:
             }
             # Bound time so one slow Workday host can't stall the whole run
             # (a failure here is caught per-company by main.py).
-            data = _workday_call(http.post, api, json=body, headers=headers)
+            data = _workday_call(http.post, api, quick=company.quick, json=body, headers=headers)
             postings = data.get("jobPostings", [])
             if not postings:
                 break
@@ -213,7 +219,7 @@ def fetch_workday(company: CompanyConfig) -> list[Job]:
             detail_url = f"https://{host}/wday/cxs/{tenant}/{site}{ext}"
             location = _workday_locations.get(detail_url)
             if location is None:
-                info = _workday_call(http.get, detail_url).get("jobPostingInfo") or {}
+                info = _workday_call(http.get, detail_url, quick=company.quick).get("jobPostingInfo") or {}
                 locations = [info.get("location") or "", *(info.get("additionalLocations") or [])]
                 location = ", ".join(loc for loc in locations if loc)
                 if not location:
