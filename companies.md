@@ -88,9 +88,9 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Cursor         | ashby      | slug=cursor                                                        | yes | Verified — Anysphere |
 | Snowflake      | ashby      | slug=snowflake                                                     | yes | Verified (fixed from bad greenhouse token) |
 | Akuna Capital  | greenhouse | token=akunacapital                                                 | yes | Verified — quant |
-| LinkedIn       | custom     |                                                                    | no  | Microsoft-owned; custom careers site |
+| LinkedIn       | smartrecruiters | id=LinkedIn3                                                       | yes | Verified via probe — SmartRecruiters board (Simplify lagged it ~9h) |
 | Hugging Face   | workable   | slug=huggingface                                                   | yes | Verified via CI probe — Workable |
-| Disney         | workday    |                                                                    | no  | Workday — need host/tenant/site |
+| Disney         | workday    | host=disney.wd5.myworkdayjobs.com;tenant=disney;site=disneycareer  | yes | Verified via probe |
 | GitHub         | custom     |                                                                    | no  | Microsoft-owned; custom careers site |
 | Bloomberg      | custom     |                                                                    | no  | Custom careers site |
 | X (Twitter)    | custom     |                                                                    | no  | Custom careers site |
@@ -101,10 +101,10 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Datadog        | greenhouse | token=datadog                                                      | yes | Verified |
 | NASA           | custom     |                                                                    | no  | Government — USAJobs.gov |
 | ByteDance      | custom     |                                                                    | no  | Custom careers site |
-| Twitch         | custom     |                                                                    | no  | Amazon-owned; custom careers site |
+| Twitch         | greenhouse | token=twitch                                                       | yes | Verified via probe — Greenhouse |
 | Indeed         | smartrecruiters | id=Indeed1                                                    | yes | Verified via CI probe — SmartRecruiters |
 | Slack          | workday    |                                                                    | no  | Salesforce-owned; Workday — need config |
-| Blue Origin    | custom     |                                                                    | no  | No public ATS API found |
+| Blue Origin    | workday    | host=blueorigin.wd5.myworkdayjobs.com;tenant=blueorigin;site=BlueOrigin | yes | Verified via probe |
 | Snap           | custom     |                                                                    | no  | Custom careers site |
 | Atlassian      | smartrecruiters | id=Atlassian2                                                 | yes | Verified via CI probe — small SR tenant, main board is elsewhere |
 | Verily         | custom     |                                                                    | no  | Alphabet; no public ATS API found |
@@ -112,12 +112,12 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Goldman Sachs  | custom     |                                                                    | no  | Custom careers site |
 | Flow Traders   | greenhouse | token=flowtraders                                                  | yes | Verified — quant |
 | eBay           | workday    |                                                                    | no  | Workday — need host/tenant/site |
-| Oracle         | custom     |                                                                    | no  | Custom careers site |
+| Oracle         | oracle     | host=eeho.fa.us2.oraclecloud.com;site=CX_45001                     | yes | Verified via probe — Oracle Cloud board |
 | Palo Alto Networks | smartrecruiters | id=PaloAltoNetworks1                                      | yes | Verified via CI probe — small SR tenant |
 | Riot Games     | greenhouse | token=riotgames                                                    | yes | Verified |
 | Shopify        | custom     |                                                                    | no  | Custom careers site |
 | Splunk         | workday    |                                                                    | no  | Now part of Cisco's board (cisco.wd5/Cisco_Careers) |
-| Blackrock      | custom     |                                                                    | no  | Custom careers site |
+| Blackrock      | workday    | host=blackrock.wd1.myworkdayjobs.com;tenant=blackrock;site=BlackRock_Professional | yes | Verified via probe |
 | Capital One    | workday    | host=capitalone.wd12.myworkdayjobs.com;tenant=capitalone;site=Capital_One | yes | Verified |
 | Duolingo       | greenhouse | token=duolingo                                                     | yes | Verified |
 | Morgan Stanley | custom     |                                                                    | no  | Custom careers site |
@@ -125,7 +125,7 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Red Hat        | workday    | host=redhat.wd5.myworkdayjobs.com;tenant=redhat;site=jobs           | yes | Verified |
 | IBM            | custom     |                                                                    | no  | Custom careers site (cutoff company) |
 | Samsung        | greenhouse | token=samsungsemiconductor                                         | yes | Verified — Samsung Semiconductor board |
-| Zoom           | custom     |                                                                    | no  | No public ATS API found |
+| Zoom           | workday    | host=zoom.wd5.myworkdayjobs.com;tenant=zoom;site=Zoom              | yes | Verified via probe |
 | Cohere         | ashby      | slug=cohere                                                        | yes | Verified |
 | Glean          | greenhouse | token=gleanwork                                                    | yes | Verified |
 | Box            | greenhouse | token=boxinc                                                       | yes | Verified |
@@ -234,4 +234,4 @@ token/slug is probably wrong. See the README for how to find the right one.
 | DocuSign       | custom     |                                                                    | no  | iCIMS site (no clean API); covered via Simplify |
 | HubSpot        | custom     |                                                                    | no  | Custom/JS careers site; covered via Simplify |
 | Qualcomm       | custom     |                                                                    | no  | Moved off public Workday; covered via Simplify |
-| PlayStation    | custom     |                                                                    | no  | Sony custom careers site; covered via Simplify |
+| PlayStation    | greenhouse | token=sonyinteractiveentertainmentglobal                           | yes | Verified via probe — Sony Interactive Greenhouse |

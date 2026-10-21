@@ -19,6 +19,9 @@ from jobscraper.models import Job
     "SDE I, Amazon Fulfillment",
     "Associate Software Engineer",
     "Junior Software Developer",
+    "SoC Software Engineer - New College Grad 2026",
+    "Campus Software Engineer (Full-Time)",
+    "Software Engineer - Campus",
 ])
 def test_matches_positive(title):
     job = Job("X", "1", title, "http://x", "New York, NY", "")
@@ -36,6 +39,7 @@ def test_matches_positive(title):
     "Software Engineer",               # no level marker — ambiguous, excluded
     "Senior Associate Software Engineer",
     "Sr. Software Engineer I, Cloud Security",
+    "OCI Core Infrastructure Engineer 2 - Nashville Campus",
 ])
 def test_matches_negative(title):
     job = Job("X", "1", title, "http://x", "New York, NY", "")

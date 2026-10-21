@@ -78,6 +78,7 @@ def fetch_lever(company: CompanyConfig) -> list[Job]:
 # paginatable set) and merge. This reliably surfaces the intern/new-grad roles we
 # care about instead of truncating at an arbitrary 40.
 _WORKDAY_QUERIES = (
+    "",  # newest-first listing; see _WORKDAY_NEWEST_PAGES
     "software engineer intern",
     "software engineer new grad",
     "software engineer graduate",
@@ -92,6 +93,13 @@ _WORKDAY_MAX_PER_QUERY = 200
 # such pages in a row rather than walking all ten.
 _WORKDAY_IRRELEVANT_PAGES = 2
 _GENERIC_LOCATION = re.compile(r"^\d+\s+locations?$", re.I)
+# An empty search lists the board newest-first by posting day, so walking its
+# "Posted Today" pages sees every new posting however it is titled or ranked.
+# The keyword queries alone missed roles that relevance buried under dozens of
+# overseas interns (NVIDIA), leaving them to the aggregator feeds hours later.
+# Within a day the order isn't by time, hence every Today page, not just one.
+_WORKDAY_NEWEST_PAGES = 8
+_WORKDAY_TODAY = re.compile(r"\btoday\b|just posted", re.I)
 
 # Every tenant sits on Workday's shared infrastructure, and it rate-limits by
 # client IP across all of them: when it decided our runner was too busy, all ten
@@ -137,10 +145,12 @@ def fetch_workday(company: CompanyConfig) -> list[Job]:
     detail_paths: dict[str, str] = {}
 
     for query in _WORKDAY_QUERIES:
+        newest = not query
+        limit = _WORKDAY_NEWEST_PAGES * _WORKDAY_PAGE if newest else _WORKDAY_MAX_PER_QUERY
         offset = 0
         total = None
         irrelevant_pages = 0
-        while offset < _WORKDAY_MAX_PER_QUERY:
+        while offset < limit:
             body = {
                 "appliedFacets": {},
                 "limit": _WORKDAY_PAGE,
@@ -178,6 +188,10 @@ def fetch_workday(company: CompanyConfig) -> list[Job]:
             offset += _WORKDAY_PAGE
             if offset >= total:
                 break
+            if newest:
+                if not all(_WORKDAY_TODAY.search(p.get("postedOn", "")) for p in postings):
+                    break
+                continue
             if any(_workday_relevant(p.get("title", "")) for p in postings):
                 irrelevant_pages = 0
             else:

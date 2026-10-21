@@ -92,6 +92,36 @@ def test_stops_after_consecutive_irrelevant_pages(one_query, monkeypatch):
     assert offsets == [0, 20, 40]
 
 
+def test_newest_first_pass_walks_every_today_page_then_stops(monkeypatch):
+    """The empty search catches a new role whatever its title, without walking
+    the board's whole back catalogue."""
+    monkeypatch.setattr(ats, "_WORKDAY_QUERIES", ("",))
+    monkeypatch.setattr(settings, "US_CANADA_ONLY", False)
+    offsets = []
+    def post(url, json, **kw):
+        off = json["offset"]
+        offsets.append(off)
+        page = _postings(off, ["Compiler Engineer - New College Grad 2026"] * 20)
+        if off == 40:
+            page[-1]["postedOn"] = "Posted Yesterday"
+        return Response({"total": 2000 if off == 0 else 0, "jobPostings": page})
+    monkeypatch.setattr(ats.http, "post", post)
+    assert len(ats.fetch_workday(NVIDIA)) == 60
+    assert offsets == [0, 20, 40]
+
+
+def test_newest_first_pass_is_capped(monkeypatch):
+    monkeypatch.setattr(ats, "_WORKDAY_QUERIES", ("",))
+    monkeypatch.setattr(settings, "US_CANADA_ONLY", False)
+    offsets = []
+    def post(url, json, **kw):
+        offsets.append(json["offset"])
+        return Response({"total": 2000, "jobPostings": _postings(json["offset"], ["Analyst"] * 20)})
+    monkeypatch.setattr(ats.http, "post", post)
+    ats.fetch_workday(NVIDIA)
+    assert len(offsets) == ats._WORKDAY_NEWEST_PAGES
+
+
 class Blocked:
     status_code = 200
     headers = {"Content-Type": "text/html"}

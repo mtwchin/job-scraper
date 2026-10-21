@@ -287,7 +287,7 @@ Three layers:
 A company is `On=no` when it has **no clean public job API**:
 
 - **Custom / JS-rendered sites** (Jane Street, Bloomberg, Citadel, Two Sigma,
-  Tesla, the banks, Apple, Meta, Microsoft, LinkedIn, Indeed): the listings are
+  Tesla, the banks, Meta, Indeed): the listings are
   rendered by JavaScript and/or sit behind anti-bot protection. Reading them
   reliably needs a full headless browser (Playwright/Selenium) per site, which is
   brittle and high-maintenance — every site is a one-off that breaks on redesign.
@@ -309,7 +309,7 @@ feeds and alerts on new postings whose company is in `companies.md`:
 
 | Feed | Role type |
 |------|-----------|
-| `SimplifyJobs/Summer2026-Internships` | intern |
+| `SimplifyJobs/Summer2027-Internships` | intern |
 | `SimplifyJobs/New-Grad-Positions` | new grad |
 | `vanshb03/Summer2027-Internships` (cvrve) | intern |
 | `vanshb03/New-Grad-2027` (cvrve) | new grad |

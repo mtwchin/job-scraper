@@ -98,7 +98,7 @@ PRIORITY_COMPANIES = {
         "PRIORITY_COMPANIES",
         "Amazon,Google,Microsoft,Apple,Netflix,Nvidia,Salesforce,Adobe,Intel,"
         "OpenAI,Anthropic,SpaceX,Stripe,Palantir,Databricks,Cloudflare,"
-        "Coinbase,Roblox,PayPal",
+        "Coinbase,Roblox,PayPal,LinkedIn",
     ).split(",") if name.strip()
 }
 # How long the loop runs before exiting cleanly, in seconds. Sized to sit under
@@ -166,7 +166,9 @@ SIMPLIFY_ENABLED = os.environ.get("SIMPLIFY_ENABLED", "true").lower() in {"1", "
 # (which catches e.g. "Systems Engineer Intern"). Feeds without that field get
 # the normal title-based role filter instead.
 AGGREGATOR_FEEDS = [
-    ("SimplifyJobs", "Summer2026-Internships", "dev", "intern", True),
+    # Renamed from Summer2026-Internships. The old name still redirects, but
+    # every head lookup then pays a 301 that counts against the rate limit.
+    ("SimplifyJobs", "Summer2027-Internships", "dev", "intern", True),
     ("SimplifyJobs", "New-Grad-Positions", "dev", "new_grad", True),
     # cvrve's feeds track the following cycle and carry roles Simplify hasn't
     # picked up yet. No `category` field, so these are title-filtered.
