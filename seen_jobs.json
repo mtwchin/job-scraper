@@ -1,5 +1,5 @@
 {
-  "count": 7402,
+  "count": 7403,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -3629,6 +3629,16 @@
       "posted_at": "Posted Today",
       "title": "Associate Software Engineer",
       "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Boston/Associate-Software-Engineer_R-059017"
+    },
+    "red hat::Associate-Software-Engineer_R-059369": {
+      "company": "Red Hat",
+      "first_seen": "2026-10-21T11:35:41+00:00",
+      "last_seen": "2026-10-21T11:35:41+00:00",
+      "location": "Waterford City",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Associate Software Engineer",
+      "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Waterford-City/Associate-Software-Engineer_R-059369"
     },
     "red hat::Associate-Software-Engineer_R-059370": {
       "company": "Red Hat",
@@ -61890,5 +61900,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-21T07:02:46+00:00"
+  "updated_at": "2026-10-21T11:35:57+00:00"
 }
