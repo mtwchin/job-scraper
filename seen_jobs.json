@@ -1,5 +1,5 @@
 {
-  "count": 7401,
+  "count": 7402,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -37185,6 +37185,16 @@
       "title": "CPU Compiler Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251"
     },
+    "simplify:nvidia::simplify-66380619-8481-4fe4-947a-26176558c345": {
+      "company": "NVIDIA",
+      "first_seen": "2026-10-21T07:01:50+00:00",
+      "last_seen": "2026-10-21T07:01:50+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "Systems Software Intern - Aerial PHY",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530"
+    },
     "simplify:nvidia::simplify-664f484e-e080-4fb3-be9b-ace5f9872240": {
       "company": "NVIDIA",
       "first_seen": "2026-10-14T02:04:08+00:00",
@@ -61880,5 +61890,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-21T03:38:41+00:00"
+  "updated_at": "2026-10-21T07:02:46+00:00"
 }
