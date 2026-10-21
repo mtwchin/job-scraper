@@ -1,5 +1,5 @@
 {
-  "count": 7368,
+  "count": 7369,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1143,6 +1143,16 @@
       "source": "",
       "title": "Software Development Engineer, Early Career - 2027 (US)",
       "url": "https://www.amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us"
+    },
+    "amazon::10584797": {
+      "company": "Amazon",
+      "first_seen": "2026-10-21T00:13:15+00:00",
+      "last_seen": "2026-10-21T00:13:15+00:00",
+      "location": "Cupertino, California, USA",
+      "posted_at": "October 21, 2026",
+      "source": "",
+      "title": "Software Development Engineer I \u2013 AI/ML Network Infrastructure, Annapurna Labs",
+      "url": "https://www.amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -61535,5 +61545,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-21T00:06:38+00:00"
+  "updated_at": "2026-10-21T00:13:40+00:00"
 }
