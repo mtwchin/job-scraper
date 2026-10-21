@@ -1,5 +1,5 @@
 {
-  "count": 7453,
+  "count": 7470,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2719,6 +2719,16 @@
       "source": "",
       "title": "Software Engineer: Intern Opportunities for University Students, Atlanta",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557008714"
+    },
+    "microsoft::1970393557044765": {
+      "company": "Microsoft",
+      "first_seen": "2026-10-21T22:40:11+00:00",
+      "last_seen": "2026-10-21T22:40:11+00:00",
+      "location": "United States, Massachusetts, Cambridge",
+      "posted_at": "1792622205",
+      "source": "",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765"
     },
     "netflix::790313241540": {
       "company": "Netflix",
@@ -6868,6 +6878,7 @@
     "simplify:amentum::simplify-037965da-859d-4532-a3b3-45dc8fd6220f": {
       "company": "Amentum",
       "first_seen": "2026-09-11T06:18:52+00:00",
+      "last_seen": "2026-10-21T23:02:34+00:00",
       "posted_at": "1783376017",
       "title": "Entry Level Software Engineer",
       "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259"
@@ -10386,6 +10397,16 @@
       "posted_at": "1781878114",
       "title": "Software Engineer Apprentice",
       "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-SO-NAILSEA-2-HIGH-STREET/Emerging-Talent---Software-Engineer-Apprentice-2026--Nailsea-_R165829"
+    },
+    "simplify:baker hughes::simplify-c8c4b64f-f585-4a36-8642-ddec96927799": {
+      "company": "Baker Hughes",
+      "first_seen": "2026-10-21T23:02:34+00:00",
+      "last_seen": "2026-10-21T23:02:34+00:00",
+      "location": "Cramlington, UK",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Engineering---2027_R170942"
     },
     "simplify:bank of china usa::simplify-67073e06-6a56-423e-8829-d36ad479d2fe": {
       "company": "Bank of China USA",
@@ -15122,6 +15143,16 @@
       "title": "Software Engineer 1 - WIZMO engineering team",
       "url": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Bellevue-WA/Software-Engineer-I_R30695-1"
     },
+    "simplify:chewy::simplify-d9b632c0-c73f-4641-957d-84ac0cdc4acf": {
+      "company": "Chewy",
+      "first_seen": "2026-10-21T23:02:35+00:00",
+      "last_seen": "2026-10-21T23:02:35+00:00",
+      "location": "Boston, MA, Plantation, FL",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://wd5.myworkdaysite.com/recruiting/chewy/External/job/Plantation-FL/Software-Engineer-I_R31182-1"
+    },
     "simplify:chicago trading company::simplify-0489a50d-5cd6-4f17-8222-4ac7f89961cf": {
       "company": "Chicago Trading Company",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -16421,6 +16452,16 @@
       "posted_at": "1784764800",
       "title": "Software Developer Fellow",
       "url": "https://compassion.wd5.myworkdayjobs.com/CompassionCareersPrivateLink/job/Remote---USA/Software-Developer-Fellow---CVG_R8264"
+    },
+    "simplify:compassion international::simplify-690a0246-8088-452c-b544-1a72c56ee267": {
+      "company": "Compassion International",
+      "first_seen": "2026-10-21T23:02:35+00:00",
+      "last_seen": "2026-10-21T23:02:35+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Software Support Specialist",
+      "url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/Remote---USA/Software-Support-Specialist--Temporary-_R8665-1"
     },
     "simplify:compeer financial::simplify-15dc91f7-a293-402d-901f-811134f675ec": {
       "company": "Compeer Financial",
@@ -19230,6 +19271,16 @@
       "source": "simplify",
       "title": "Application Analyst Intern",
       "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27400"
+    },
+    "simplify:draftkings::simplify-6df8bd66-e2bc-412e-ab52-7565bcc76ccf": {
+      "company": "DraftKings",
+      "first_seen": "2026-10-21T23:02:35+00:00",
+      "last_seen": "2026-10-21T23:02:35+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Software-Engineer_JR14697"
     },
     "simplify:draftkings::simplify-e102b2db-3bfc-42d6-b363-84cbbe6172e5": {
       "company": "DraftKings",
@@ -23165,6 +23216,16 @@
       "title": "AI Engineer Associate",
       "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/AI-Engineer_RQ226699"
     },
+    "simplify:general dynamics information technology::simplify-ca54c597-62db-4da0-94dc-586e386ef525": {
+      "company": "General Dynamics Information Technology",
+      "first_seen": "2026-10-21T23:02:34+00:00",
+      "last_seen": "2026-10-21T23:02:34+00:00",
+      "location": "Falls Church, VA",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "AI and Estimation Intern",
+      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646"
+    },
     "simplify:general dynamics information technology::simplify-d3d8fa9f-12a2-4620-98c7-26daefe083e2": {
       "company": "General Dynamics Information Technology",
       "first_seen": "2026-10-13T06:36:27+00:00",
@@ -24208,6 +24269,16 @@
       "title": "AI Developer Co-op",
       "url": "https://www.globalrelay.com/careers/jobs?gh_jid=6112675004"
     },
+    "simplify:globalfoundries::simplify-1fd1fefe-0577-40e1-9bdc-01d1a1bbf326": {
+      "company": "GlobalFoundries",
+      "first_seen": "2026-10-21T23:02:34+00:00",
+      "last_seen": "2026-10-21T23:02:34+00:00",
+      "location": "Malta, NY",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Systems/Process Engineering Intern - Tapeout Operations",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924"
+    },
     "simplify:globalfoundries::simplify-2be561b9-160a-48ef-bd5b-6428e001f402": {
       "company": "GlobalFoundries",
       "first_seen": "2026-10-09T23:05:56+00:00",
@@ -24255,6 +24326,16 @@
       "posted_at": "1788393600",
       "title": "RF Technology Development Automation Engineer Intern - Summer 2027",
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/RF-Technology-Development-Automation-Engineering-Intern--Summer-2027-_JR-2604272"
+    },
+    "simplify:globalfoundries::simplify-fb38e938-a410-4c0d-8933-595419ce7ac4": {
+      "company": "GlobalFoundries",
+      "first_seen": "2026-10-21T23:02:34+00:00",
+      "last_seen": "2026-10-21T23:02:34+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Cloud Platform",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034"
     },
     "simplify:globus medical::simplify-40cf634e-92e6-4592-983b-7d2595222420": {
       "company": "Globus Medical",
@@ -24694,6 +24775,16 @@
       "posted_at": "1788912000",
       "title": "AI Engineer Intern",
       "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/AI-intern_R0023512"
+    },
+    "simplify:graham capital management::simplify-726a67fb-9bab-4e59-97a7-777e543943ab": {
+      "company": "Graham Capital Management",
+      "first_seen": "2026-10-21T23:02:35+00:00",
+      "last_seen": "2026-10-21T23:02:35+00:00",
+      "location": "Norwalk, CT",
+      "posted_at": "1792622069",
+      "source": "simplify",
+      "title": "Trading Technology Software Developer",
+      "url": "https://boards.greenhouse.io/grahamcapitalmanagement/jobs/4745292005"
     },
     "simplify:granite construction::simplify-5e853f47-8506-4e4c-96f3-88bd7c4ce574": {
       "company": "Granite Construction",
@@ -26964,6 +27055,16 @@
       "title": "Software Engineer Intern",
       "url": "https://idtus.pinpointhq.com/en/postings/20817d1b-bd0e-4aa8-a3d5-78e4614b52a3?ats=pinpointhq"
     },
+    "simplify:innovative defense technologies::simplify-10f1fba2-5f54-4e3c-9837-9d9af4a3c4cc": {
+      "company": "Innovative Defense Technologies",
+      "first_seen": "2026-10-21T23:02:35+00:00",
+      "last_seen": "2026-10-21T23:02:35+00:00",
+      "location": "Mt Laurel Township, NJ",
+      "posted_at": "1792622613",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://idtus.pinpointhq.com/en/postings/7f0d1270-7754-4346-9c73-1fe45e086258?ats=pinpointhq"
+    },
     "simplify:innovative defense technologies::simplify-51fb48b5-add2-48f7-90e2-7a0ca38923ab": {
       "company": "Innovative Defense Technologies",
       "first_seen": "2026-10-06T07:02:27+00:00",
@@ -28716,6 +28817,16 @@
       "posted_at": "1788290302",
       "title": "Reverse Engineer New Grad - Systems Exploitation",
       "url": "https://careers.jhuapl.edu/jobs/59797?icims=1"
+    },
+    "simplify:johns hopkins applied physics laboratory::simplify-b57d46f0-383f-4fd8-a530-e5e1c2bb0424": {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "first_seen": "2026-10-21T23:02:35+00:00",
+      "last_seen": "2026-10-21T23:02:35+00:00",
+      "location": "Laurel, MD",
+      "posted_at": "1792622242",
+      "source": "simplify",
+      "title": "Software Engineer New Grad - Applications, Analysis, And Services Group",
+      "url": "https://careers.jhuapl.edu/jobs/60586?icims=1"
     },
     "simplify:johns hopkins applied physics laboratory::simplify-c192d7cd-8e41-43d0-9f80-86b20fa05310": {
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -32325,6 +32436,16 @@
       "title": "Associate Computer Network Operations Developer",
       "url": "https://mantech.avature.net/en_US/careers/JobDetail/64786"
     },
+    "simplify:mantech::simplify-d005c265-e4c0-4cfe-a117-fe33afe73f8a": {
+      "company": "ManTech",
+      "first_seen": "2026-10-21T23:02:34+00:00",
+      "last_seen": "2026-10-21T23:02:34+00:00",
+      "location": "Remote in USA, Stafford, VA",
+      "posted_at": "1792622233",
+      "source": "simplify",
+      "title": "AI Workflow Intern",
+      "url": "https://mantech.avature.net/en_US/careers/JobDetail/66705"
+    },
     "simplify:mantech::simplify-e8a83f95-a91b-4658-ad2b-d5a105fe51e9": {
       "company": "ManTech",
       "first_seen": "2026-08-02T04:32:45+00:00",
@@ -32718,7 +32839,7 @@
     "simplify:mastercard::simplify-0904ada8-dd5b-47ed-b6b2-f23cdd66fb39": {
       "company": "Mastercard",
       "first_seen": "2026-10-05T23:17:18+00:00",
-      "last_seen": "2026-10-19T00:01:18+00:00",
+      "last_seen": "2026-10-21T23:02:34+00:00",
       "location": "O'Fallon, MO",
       "posted_at": "1791158400",
       "source": "simplify",
@@ -34571,6 +34692,16 @@
       "posted_at": "1784596567",
       "title": "Software Engineer 1",
       "url": "https://jobs.ashbyhq.com/morrishealthtech/21e734ca-b012-438d-af22-ff30ea12bf39/application?embed=true"
+    },
+    "simplify:motorola solutions::simplify-5f70632d-c11e-4006-a4eb-a0ab37ed4448": {
+      "company": "Motorola Solutions",
+      "first_seen": "2026-10-21T23:02:34+00:00",
+      "last_seen": "2026-10-21T23:02:34+00:00",
+      "location": "Remote in USA, Chicago, IL",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Software Engineering Co-op",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering---2026-Spring-Co-Op_R67662"
     },
     "simplify:motorola::simplify-0e645a26-5aa4-441c-b793-1ef8516245ca": {
       "company": "Motorola",
@@ -37225,6 +37356,16 @@
       "source": "simplify",
       "title": "Computer Software Engineering Co-op",
       "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Apex-NC/Computer-Software-Engineering-Co-op_R009760"
+    },
+    "simplify:nox metals::simplify-88d7aaa4-91af-481c-994f-d3644f540f75": {
+      "company": "NOX METALS",
+      "first_seen": "2026-10-21T23:02:34+00:00",
+      "last_seen": "2026-10-21T23:02:34+00:00",
+      "location": "Detroit, MI",
+      "posted_at": "1792621763",
+      "source": "simplify",
+      "title": "Factory Deployed Intern",
+      "url": "https://jobs.ashbyhq.com/nox-metals/c5ae2170-dc13-4b1b-b6f6-a46fed6a7a68/application?embed=true"
     },
     "simplify:ntt data aivista::simplify-410c85e8-0bb5-492d-8e8d-b44d4cd4807d": {
       "company": "NTT DATA AIVista",
@@ -43922,6 +44063,7 @@
     "simplify:rtx::simplify-550c0f8a-8e58-4586-9968-9340d5265955": {
       "company": "RTX",
       "first_seen": "2026-08-13T23:09:16+00:00",
+      "last_seen": "2026-10-21T23:02:34+00:00",
       "posted_at": "1777500478",
       "title": "Software Engineer 1 - Test Solutions",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1"
@@ -44283,7 +44425,7 @@
     "simplify:rtx::simplify-8edf16f9-31db-4a81-b28d-bfabbbdece38": {
       "company": "RTX",
       "first_seen": "2026-09-14T19:14:49+00:00",
-      "last_seen": "2026-10-14T00:00:26+00:00",
+      "last_seen": "2026-10-21T23:02:34+00:00",
       "location": "Tucson, AZ",
       "posted_at": "1789344000",
       "source": "simplify",
@@ -44629,7 +44771,7 @@
     "simplify:rtx::simplify-bd56c51a-aae8-4121-98f4-cd683c6c4a85": {
       "company": "RTX",
       "first_seen": "2026-10-06T13:02:48+00:00",
-      "last_seen": "2026-10-08T00:00:13+00:00",
+      "last_seen": "2026-10-21T23:02:34+00:00",
       "location": "Tewksbury, MA",
       "posted_at": "1789430400",
       "source": "simplify",
@@ -44868,7 +45010,7 @@
     "simplify:rtx::simplify-da5add3d-df09-436a-b370-0fae4cb326df": {
       "company": "RTX",
       "first_seen": "2026-10-01T00:31:33+00:00",
-      "last_seen": "2026-10-20T00:00:02+00:00",
+      "last_seen": "2026-10-21T23:02:34+00:00",
       "location": "Woburn, MA",
       "posted_at": "1790726400",
       "source": "simplify",
@@ -44916,6 +45058,16 @@
       "posted_at": "1773310382",
       "title": "Software Engineer 2",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-II---Test-Equipment---Onsite_01790413"
+    },
+    "simplify:rtx::simplify-e4aa5ca4-b78b-479f-978b-698199dbf50f": {
+      "company": "RTX",
+      "first_seen": "2026-10-21T23:02:34+00:00",
+      "last_seen": "2026-10-21T23:02:34+00:00",
+      "location": "Fulton, MD",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01883899"
     },
     "simplify:rtx::simplify-e50fbe33-5a1a-4146-a62b-6cc71745b602": {
       "company": "RTX",
@@ -45104,7 +45256,7 @@
     "simplify:rtx::simplify-f6047d64-9f62-4688-8e91-7010bdb36b16": {
       "company": "RTX",
       "first_seen": "2026-10-01T00:31:33+00:00",
-      "last_seen": "2026-10-13T00:00:55+00:00",
+      "last_seen": "2026-10-21T23:02:34+00:00",
       "location": "Marlborough, MA",
       "posted_at": "1790726400",
       "source": "simplify",
@@ -51049,7 +51201,7 @@
     "simplify:the aerospace corporation::simplify-8c93ba5d-c961-40fd-96f0-71e8be7211de": {
       "company": "The Aerospace Corporation",
       "first_seen": "2026-09-29T04:26:52+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-21T23:02:34+00:00",
       "location": "Chantilly, VA, El Segundo, CA",
       "posted_at": "1790553600",
       "source": "simplify",
@@ -56173,6 +56325,16 @@
       "title": "Software Engineer 2 Intern",
       "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1"
     },
+    "simplify:walrus::simplify-502a4d0f-2bc5-4383-a7fe-13ed93bfdcd1": {
+      "company": "Walrus",
+      "first_seen": "2026-10-21T23:02:34+00:00",
+      "last_seen": "2026-10-21T23:02:34+00:00",
+      "location": "NYC",
+      "posted_at": "1792622040",
+      "source": "simplify",
+      "title": "Full Stack Developer Intern",
+      "url": "https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5/application?embed=true"
+    },
     "simplify:walrus::simplify-ea4a1ec2-be57-42a0-b019-7e37d08513b1": {
       "company": "Walrus",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -57507,6 +57669,16 @@
       "posted_at": "1785738003",
       "title": "Technology Intern",
       "url": "https://zgfarchitects.applytojob.com/apply/uqHC8SCmq2/Technology-Intern"
+    },
+    "simplify:zillow::simplify-6244dbb0-e314-486b-b2c6-143c829bd211": {
+      "company": "Zillow",
+      "first_seen": "2026-10-21T23:02:34+00:00",
+      "last_seen": "2026-10-21T23:02:34+00:00",
+      "location": "Seattle, WA, Remote in USA",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Software Development Engineer Intern",
+      "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630"
     },
     "simplify:zions bank::simplify-2a92c757-3cf3-472c-ae04-1df20bde3598": {
       "company": "Zions Bank",
@@ -62404,5 +62576,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-21T22:32:40+00:00"
+  "updated_at": "2026-10-21T23:02:43+00:00"
 }
