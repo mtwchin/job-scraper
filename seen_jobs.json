@@ -10894,6 +10894,7 @@
     "simplify:blue cross of idaho::simplify-95049413-d496-4bfa-9d12-e16f926251e5": {
       "company": "Blue Cross of Idaho",
       "first_seen": "2026-07-24T23:33:06+00:00",
+      "last_seen": "2026-10-21T02:02:43+00:00",
       "posted_at": "1784851200",
       "title": "AI Engineer 1",
       "url": "https://bcidaho.wd5.myworkdayjobs.com/BCI/job/Meridian---Main/AI-Engineer-I_R3397"
@@ -23997,7 +23998,7 @@
     "simplify:goldman sachs::simplify-43a5374e-0e70-4dc9-82b0-687b54e8c5da": {
       "company": "Goldman Sachs",
       "first_seen": "2026-08-15T04:58:35+00:00",
-      "last_seen": "2026-10-20T02:04:14+00:00",
+      "last_seen": "2026-10-21T02:02:43+00:00",
       "posted_at": "1786767954",
       "title": "Engineering New Analyst - Engineering",
       "url": "https://higher.gs.com/roles/171570?type=students"
@@ -24074,7 +24075,7 @@
     "simplify:goldman sachs::simplify-ebecfe1f-3890-4cf8-8663-d7b118197e24": {
       "company": "Goldman Sachs",
       "first_seen": "2026-08-15T15:35:14+00:00",
-      "last_seen": "2026-10-20T02:04:14+00:00",
+      "last_seen": "2026-10-21T02:02:43+00:00",
       "posted_at": "1786767937",
       "title": "New Analyst - Engineering",
       "url": "https://higher.gs.com/roles/171569?type=students"
@@ -61706,5 +61707,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-21T01:57:48+00:00"
+  "updated_at": "2026-10-21T02:02:50+00:00"
 }
