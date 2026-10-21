@@ -1,5 +1,5 @@
 {
-  "count": 7369,
+  "count": 7375,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -58688,6 +58688,16 @@
       "title": "Systems Engineer Intern",
       "url": "https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity"
     },
+    "vanshb03:general dynamics mission systems::vanshb03-41b1fef4-b52b-4801-8aa7-7e5fa7cfedce": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-10-21T00:20:12+00:00",
+      "last_seen": "2026-10-21T00:20:12+00:00",
+      "location": "Pittsburgh, PA",
+      "posted_at": "1792479600",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/75637/software-engineer-intern/job"
+    },
     "vanshb03:general dynamics mission systems::vanshb03-7ed10785-49a3-4087-9990-79a4584496ac": {
       "company": "General Dynamics Mission Systems",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -58872,6 +58882,16 @@
       "title": "Software Engineer Intern, CenterWell and Humana Military",
       "url": "https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1"
     },
+    "vanshb03:humble robotics::vanshb03-02458334-fee5-45c3-9087-e6e0fd8a61be": {
+      "company": "Humble Robotics",
+      "first_seen": "2026-10-21T00:20:12+00:00",
+      "last_seen": "2026-10-21T00:20:12+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1792524329",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3"
+    },
     "vanshb03:hypercubic::vanshb03-434df1f4-3a94-4a13-b2b3-74fbd410e6d7": {
       "company": "Hypercubic",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -58936,6 +58956,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://www.imc.com/us/careers/jobs/4823924101"
+    },
+    "vanshb03:integrate::vanshb03-9047f5f8-60ac-4518-9160-a93ae0db177b": {
+      "company": "Integrate",
+      "first_seen": "2026-10-21T00:20:12+00:00",
+      "last_seen": "2026-10-21T00:20:12+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1792522551",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/integrate/d619e978-446a-4147-a788-9e53918a1736"
     },
     "vanshb03:intuit::vanshb03-680db584-edb4-4dc5-8c59-5bfa3cbe5636": {
       "company": "Intuit",
@@ -59023,6 +59053,26 @@
       "source": "vanshb03",
       "title": "R&D Software Engineer Intern",
       "url": "https://jobs.keysight.com/jobs/54673?icims=1"
+    },
+    "vanshb03:keysight technologies::vanshb03-6998ff1c-2b98-401b-a28d-5257df1f6ed3": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-10-21T00:20:12+00:00",
+      "last_seen": "2026-10-21T00:20:12+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1792448259",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, R&D",
+      "url": "https://jobs.keysight.com/jobs/54805?icims=1"
+    },
+    "vanshb03:kinaxis::vanshb03-ae53df3b-4b77-4718-b4bd-3abf9574f34b": {
+      "company": "Kinaxis",
+      "first_seen": "2026-10-21T00:20:12+00:00",
+      "last_seen": "2026-10-21T00:20:12+00:00",
+      "location": "Ottawa, ON",
+      "posted_at": "1792479600",
+      "source": "vanshb03",
+      "title": "Cloud Developer Intern, Platform Engineering",
+      "url": "https://careers-kinaxis.icims.com/jobs/35572/intern-cloud-developer%2c-platform-engineering/job"
     },
     "vanshb03:kla::vanshb03-09b4184d-3d91-4e02-bae2-8d473b1cee44": {
       "company": "KLA",
@@ -60147,6 +60197,16 @@
       "source": "vanshb03",
       "title": "Software Engineer I - Membership",
       "url": "https://join.softheon.com/_/j/4AFE55D62D/"
+    },
+    "vanshb03:soti::vanshb03-7aac59d7-be2a-40f4-a85f-fabd42389302": {
+      "company": "SOTI",
+      "first_seen": "2026-10-21T00:20:12+00:00",
+      "last_seen": "2026-10-21T00:20:12+00:00",
+      "location": "Mississauga, ON",
+      "posted_at": "1792479600",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604"
     },
     "vanshb03:spacex::vanshb03-9602c975-7f35-4932-9b25-39983c85cffd": {
       "company": "SpaceX",
@@ -61545,5 +61605,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-21T00:13:40+00:00"
+  "updated_at": "2026-10-21T00:20:42+00:00"
 }
