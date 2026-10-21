@@ -1,5 +1,5 @@
 {
-  "count": 7418,
+  "count": 7421,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -57865,6 +57865,16 @@
       "title": "Graduate Software Engineer",
       "url": "https://recruiting.ultipro.com/VMS1002VMOO/JobBoard/3dde3e78-a60b-47af-93cf-ef6db6ed312b/OpportunityDetail?opportunityId=fa0772d7-fa49-4ce9-b7ae-de1a0da018eb"
     },
+    "vanshb03:abb::vanshb03-7235baf2-9aac-4602-b293-d43af539c3b1": {
+      "company": "ABB",
+      "first_seen": "2026-10-21T19:00:35+00:00",
+      "last_seen": "2026-10-21T19:00:35+00:00",
+      "location": "Greenville, SC",
+      "posted_at": "1792393200",
+      "source": "vanshb03",
+      "title": "Integrated Motor Drive Software Co-op",
+      "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Greenville-South-Carolina-United-States-of-America/Integrated-Motor-Drive-SW-Co-Op---Spring-2027_JR00050240"
+    },
     "vanshb03:abundant::vanshb03-be8a32ae-5fd1-4286-9558-350522401001": {
       "company": "Abundant",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -58599,6 +58609,16 @@
       "title": "Associate Software Engineer",
       "url": "https://careers.codan.com.au/job/Victoria-Associate-Software-Engineer-Cana/1213160701/"
     },
+    "vanshb03:colgate-palmolive::vanshb03-a2d054d1-b2ed-45cc-b1ab-e49e5f38130c": {
+      "company": "Colgate-Palmolive",
+      "first_seen": "2026-10-21T19:00:35+00:00",
+      "last_seen": "2026-10-21T19:00:35+00:00",
+      "location": "Piscataway, NJ",
+      "posted_at": "1757733987",
+      "source": "vanshb03",
+      "title": "Software Development Intern",
+      "url": "https://career4.successfactors.com/careers?career_ns=job_listing&company=colgate&selected_lang=nl-NL&career_job_req_id=169295"
+    },
     "vanshb03:collective hub, inc::vanshb03-eaa94c8f-a590-4ae1-9915-b0947f8f89d5": {
       "company": "Collective Hub, Inc",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -59240,6 +59260,16 @@
       "source": "vanshb03",
       "title": "ML & Cloud Infrastructure Engineer Intern",
       "url": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523"
+    },
+    "vanshb03:h&co::vanshb03-28bb78f3-56ce-4349-bc48-5990025540af": {
+      "company": "H&CO",
+      "first_seen": "2026-10-21T19:00:35+00:00",
+      "last_seen": "2026-10-21T19:00:35+00:00",
+      "location": "Coral Gables, FL",
+      "posted_at": "1776914902",
+      "source": "vanshb03",
+      "title": "Software Development Intern",
+      "url": "https://career41.sapsf.com/career?career_ns=job_listing&company=hcollp&career_job_req_id=3507"
     },
     "vanshb03:harvey::vanshb03-a5a93b54-414b-4dc2-abcb-3a552214b73b": {
       "company": "Harvey",
@@ -62052,5 +62082,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-21T17:32:26+00:00"
+  "updated_at": "2026-10-21T19:01:31+00:00"
 }
