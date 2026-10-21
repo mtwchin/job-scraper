@@ -99,10 +99,19 @@ Repo → **Settings → Secrets and variables → Actions → New repository sec
 (Or via CLI: `gh secret set DISCORD_WEBHOOK_URL`.)
 
 ### 5. Done
-The workflow in `.github/workflows/scraper.yml` starts a watch loop that polls
-every 60 seconds and runs for ~5.5h before handing off to the next run. Trigger
-the first one manually from the **Actions** tab → *internship-radar* → **Run
-workflow** to confirm everything works. The first run sends one "I'm live" message and seeds
+Two workflows run side by side, each a watch loop that lasts ~5.5h and then
+starts its own successor:
+
+| Workflow | Covers | Channel | Cadence |
+|---|---|---|---|
+| `scraper.yml` (*top-companies*) | every company in `companies.md`: its own board, plus the feeds' copies | `DISCORD_WEBHOOK_URL` | feeds every 20s, priority boards every 30s, all boards every 60s |
+| `all-swe.yml` (*all-swe*) | SWE roles at every **other** company, from the aggregator feeds | `DISCORD_WEBHOOK_URL_ALL` | feeds every 60s |
+
+They are separate on purpose: the broad feed can't slow down or take out the
+low-latency one. Each keeps its own state file (`seen_jobs.json`,
+`seen_jobs_all.json`), and the broad tier folds in the top tier's file, so a role
+is never posted to both channels. Trigger each once manually from the
+**Actions** tab → **Run workflow** to confirm everything works. The first run sends one "I'm live" message and seeds
 state; after that you only get pinged on new postings.
 
 ---
@@ -138,9 +147,12 @@ any moment only a handful of companies have a *fresh* (<24 h) US/CA SWE role.
 
 Run fetches companies concurrently (`CONCURRENCY`, default 12), so ~136 companies
 complete in ~25–30 s rather than minutes. Logs are structured (`LOG_LEVEL=DEBUG`
-for per-company detail), and if a large share of companies error in one run
-(`HEALTH_ALERT_THRESHOLD`) it posts a Discord heads-up so a systemic break — a
-platform outage or a shipped bug — doesn't fail silently.
+for per-company detail). A board that keeps failing (`HEALTH_ALERT_SWEEPS`
+attempts in a row over `HEALTH_ALERT_MINUTES`) gets **one** Discord heads-up,
+grouped by platform, and a ✅ when it recovers. It is never re-posted every
+sweep, and a new watch loop that starts mid-outage stays quiet. Meanwhile a
+failing board backs off (30 s, doubling to 15 min) so we stop hammering a host
+that is rate-limiting us.
 
 `pytest` covers the filter and config logic and runs in CI (`.github/workflows/
 tests.yml`) on every push.
@@ -161,9 +173,12 @@ Set these as env vars (locally) or edit the `env:` block in the workflow:
 | `DRY_RUN`           | `false`            | `true` = print only, never send/save.              |
 | `SEED_QUIETLY`      | `true`             | `true` = first run seeds silently.                 |
 | `MAX_NOTIFICATIONS_PER_RUN` | `60`       | Safety cap per run.                                |
+| `SCOPE`             | `all`              | `top` = `companies.md` only; `rest` = every other company, feeds only; `all` = both. |
 | `TITLE_COOLDOWN_HOURS` | `168`           | Don't re-alert a company + title in another location within this window. `0` = off. |
 | `CONCURRENCY`       | `12`               | Companies fetched in parallel.                     |
-| `HEALTH_ALERT_THRESHOLD` | `0.25`        | Discord heads-up if this share of companies error. |
+| `HEALTH_ALERT_SWEEPS` | `2`              | A board is "down" after this many failed attempts in a row... |
+| `HEALTH_ALERT_MINUTES` | `10`            | ...spanning at least this long. One alert per outage. |
+| `BACKOFF_BASE_SECONDS` / `BACKOFF_MAX_SECONDS` | `30` / `900` | Pause a failing board, doubling per failure. |
 | `LOG_LEVEL`         | `INFO`             | `DEBUG` shows per-company fetch/error lines.        |
 | `DISCORD_WEBHOOK_URL_ALL` | unset        | Second channel: every Simplify SWE role, any company. Unset = disabled. |
 | `SIMPLIFY_ALL_ENABLED` | `true`          | Master switch for the all-companies feed (still needs `DISCORD_WEBHOOK_URL_ALL`). |
@@ -272,7 +287,7 @@ Three layers:
 A company is `On=no` when it has **no clean public job API**:
 
 - **Custom / JS-rendered sites** (Jane Street, Bloomberg, Citadel, Two Sigma,
-  Tesla, the banks, Apple, Meta, Microsoft, LinkedIn, Indeed): the listings are
+  Tesla, the banks, Meta, Indeed): the listings are
   rendered by JavaScript and/or sit behind anti-bot protection. Reading them
   reliably needs a full headless browser (Playwright/Selenium) per site, which is
   brittle and high-maintenance — every site is a one-off that breaks on redesign.
@@ -294,7 +309,7 @@ feeds and alerts on new postings whose company is in `companies.md`:
 
 | Feed | Role type |
 |------|-----------|
-| `SimplifyJobs/Summer2026-Internships` | intern |
+| `SimplifyJobs/Summer2027-Internships` | intern |
 | `SimplifyJobs/New-Grad-Positions` | new grad |
 | `vanshb03/Summer2027-Internships` (cvrve) | intern |
 | `vanshb03/New-Grad-2027` (cvrve) | new grad |
@@ -324,6 +339,9 @@ role/location filters as everything else, just no company gate.
 
 - A role never fires on both channels: if it's from a company already tracked
   in `companies.md`, it goes out on the main webhook only.
+- On Actions this feed runs in its own workflow (`all-swe.yml`, `SCOPE=rest`),
+  apart from the low-latency `companies.md` tier (`scraper.yml`, `SCOPE=top`).
+  Run both in one process with the default `SCOPE=all`.
 - Turning this on doesn't dump the whole existing backlog into your new channel —
   it does its own quiet first-run seed (one "I'm live" summary) the first time
   `DISCORD_WEBHOOK_URL_ALL` is configured, same as the main feed's first run.
@@ -351,12 +369,17 @@ fixes a process that is not being started.
 So a run no longer scrapes once and exits. `jobscraper watch` **stays alive and
 polls on its own clock**:
 
-- **Aggregator feeds every 60s.** These are conditional GETs (`If-None-Match`).
-  When nothing has changed the feed answers `304` with no body, so an idle poll
-  costs ~0.2s and is essentially free. That is what makes a one-minute cadence
-  affordable.
-- **Priority company boards every minute; every company’s own ATS every 3 minutes.** Hundreds of requests with no
-  conditional-request support, so it gets its own slower tier.
+- **Aggregator feeds every 20s.** Each poll asks the GitHub API for the feed
+  branch's newest commit (`If-None-Match`; an unchanged answer is a `304` that
+  doesn't count against the rate limit) and downloads the feed pinned to that
+  commit only when it moved. Fetching by commit matters: the plain branch URL is
+  CDN-cached for 5 minutes, so the old one-minute poll still saw each update up
+  to 5 minutes late. Needs `GITHUB_TOKEN` (Actions provides it); without one it
+  falls back to the branch URL.
+- **Priority company boards every minute; every company’s own ATS every 2
+  minutes**, on a background thread. Hundreds of requests with no
+  conditional-request support, and a full sweep takes 15–90s; it used to sit in
+  front of every feed poll, and now never delays one.
 - The loop runs ~5.5h, then exits cleanly and **dispatches its own successor**
   (`workflow_dispatch`, one of the few events `GITHUB_TOKEN` may trigger). The
   `concurrency` group queues that run behind anything still running, so it
@@ -364,8 +387,15 @@ polls on its own clock**:
   self-chaining, a loop that ended while no cron run happened to be queued left
   gaps of up to 2.5h.
 
-Detection latency is now bounded by the poll interval (~60s for anything an
-aggregator carries, ~1 min for a priority board, ~5 min for another company board), not by the scheduler.
+Detection latency is now bounded by the poll interval (~20s after an aggregator
+publishes, ~1 min for a priority board, ~2-3 min for another company board), not
+by the scheduler.
+
+**Aggregators publish in batches.** Simplify pushes its feed every 30 minutes
+(at :01 and :31), so a role that only reaches us through Simplify can be up to
+30 minutes old before anyone outside Simplify can see it. A company tracked in
+`companies.md` is read straight from its own board instead, which is why adding
+the companies you care most about is the biggest latency win available.
 
 ### Why state is committed during the loop, not just at the end
 

@@ -81,13 +81,14 @@ PRUNE_DELISTED_DAYS = int(os.environ.get("PRUNE_DELISTED_DAYS", "0"))
 # (observed: one run every 2-6 hours against a */5 schedule), so a long-lived
 # loop is the only way to get detection latency down to minutes.
 #
-# Seconds between polls of the cheap aggregator feeds. These are single
-# conditional GETs that return 304 when nothing changed, so a short interval
-# costs almost nothing.
-WATCH_INTERVAL = int(os.environ.get("WATCH_INTERVAL", "60"))
+# Seconds between polls of the cheap aggregator feeds. With GITHUB_TOKEN set,
+# an idle poll is one 304 per feed that doesn't count against the API rate
+# limit, so a short interval costs almost nothing. Company sweeps run in the
+# background and never hold this up.
+WATCH_INTERVAL = int(os.environ.get("WATCH_INTERVAL", "20"))
 # Seconds between full sweeps of every company's own ATS. Much heavier (hundreds
 # of requests), so it runs on its own slower cadence.
-WATCH_COMPANY_INTERVAL = int(os.environ.get("WATCH_COMPANY_INTERVAL", "180"))
+WATCH_COMPANY_INTERVAL = int(os.environ.get("WATCH_COMPANY_INTERVAL", "120"))
 # Select major-company boards for an extra sweep between full scans. Heavy
 # boards such as JPMC remain in the five-minute full sweep.
 WATCH_PRIORITY_INTERVAL = int(os.environ.get("WATCH_PRIORITY_INTERVAL", "60"))
@@ -97,7 +98,7 @@ PRIORITY_COMPANIES = {
         "PRIORITY_COMPANIES",
         "Amazon,Google,Microsoft,Apple,Netflix,Nvidia,Salesforce,Adobe,Intel,"
         "OpenAI,Anthropic,SpaceX,Stripe,Palantir,Databricks,Cloudflare,"
-        "Coinbase,Roblox,PayPal",
+        "Coinbase,Roblox,PayPal,LinkedIn",
     ).split(",") if name.strip()
 }
 # How long the loop runs before exiting cleanly, in seconds. Sized to sit under
@@ -133,14 +134,22 @@ MAX_NOTIFICATIONS_PER_RUN = int(os.environ.get("MAX_NOTIFICATIONS_PER_RUN", "60"
 # How many companies to fetch in parallel. Different companies are on different
 # hosts, so this doesn't hammer any single API.
 CONCURRENCY = int(os.environ.get("CONCURRENCY", "12"))
-# If this fraction of companies error in a single run, post a Discord heads-up —
-# a systemic break (a platform outage, a shipped bug) rather than one stale board.
-HEALTH_ALERT_THRESHOLD = float(os.environ.get("HEALTH_ALERT_THRESHOLD", "0.25"))
-# ...and only once that has held for this many sweeps in a row. A single bad
-# sweep is usually the runner's own network blinking (every host failing DNS at
-# once), which the next sweep a minute later shrugs off; alerting on it just
-# trains you to ignore the alert. A real outage or broken adapter persists.
+# A board is reported as down (once, until it recovers) when it has failed this
+# many attempts in a row...
 HEALTH_ALERT_SWEEPS = max(int(os.environ.get("HEALTH_ALERT_SWEEPS", "2")), 1)
+# ...over at least this many minutes. Workday's throttling, the outage that
+# prompted this, recovers on its own within minutes as often as not.
+HEALTH_ALERT_MINUTES = float(os.environ.get("HEALTH_ALERT_MINUTES", "10"))
+# A board that errors sits out of sweeps for BACKOFF_BASE_SECONDS, doubling with
+# each consecutive failure up to BACKOFF_MAX_SECONDS. Hammering a host that is
+# rate-limiting us only keeps it rate-limiting us.
+BACKOFF_BASE_SECONDS = float(os.environ.get("BACKOFF_BASE_SECONDS", "30"))
+BACKOFF_MAX_SECONDS = float(os.environ.get("BACKOFF_MAX_SECONDS", "900"))
+
+# Lets the feed poller ask GitHub for each feed's newest commit and fetch it
+# directly, instead of a branch URL the CDN may serve up to 5 minutes stale.
+# Optional: without it we fall back to the branch URL. Actions provides one.
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 
 # --- Community aggregator feeds --------------------------------------------
 # Several community repos publish a machine-readable listings.json of open
@@ -157,7 +166,9 @@ SIMPLIFY_ENABLED = os.environ.get("SIMPLIFY_ENABLED", "true").lower() in {"1", "
 # (which catches e.g. "Systems Engineer Intern"). Feeds without that field get
 # the normal title-based role filter instead.
 AGGREGATOR_FEEDS = [
-    ("SimplifyJobs", "Summer2026-Internships", "dev", "intern", True),
+    # Renamed from Summer2026-Internships. The old name still redirects, but
+    # every head lookup then pays a 301 that counts against the rate limit.
+    ("SimplifyJobs", "Summer2027-Internships", "dev", "intern", True),
     ("SimplifyJobs", "New-Grad-Positions", "dev", "new_grad", True),
     # cvrve's feeds track the following cycle and carry roles Simplify hasn't
     # picked up yet. No `category` field, so these are title-filtered.
@@ -176,3 +187,16 @@ PRE_CATEGORIZED_SOURCES = {"simplify"}
 # set (or DRY_RUN), so turning this on doesn't quietly burn through the backlog
 # before the webhook is wired up.
 SIMPLIFY_ALL_ENABLED = os.environ.get("SIMPLIFY_ALL_ENABLED", "true").lower() in {"1", "true", "yes"}
+
+# Which alerts this process is responsible for, so the two tiers can run as
+# separate workflows that cannot slow each other down:
+#   top  — companies.md only (their own boards plus the feeds' copies of them),
+#          to DISCORD_WEBHOOK_URL. The low-latency tier.
+#   rest — every other company's roles from the feeds, to
+#          DISCORD_WEBHOOK_URL_ALL. No board sweeps.
+#   all  — both, in one process (the default, and how `run` behaves).
+SCOPE = os.environ.get("SCOPE", "all").strip().lower()
+if SCOPE not in {"all", "top", "rest"}:
+    raise ValueError(f"SCOPE must be all, top or rest, not {SCOPE!r}")
+if SCOPE == "top":
+    SIMPLIFY_ALL_ENABLED = False

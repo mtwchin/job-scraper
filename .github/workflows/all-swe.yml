@@ -1,0 +1,146 @@
+name: all-swe
+
+# The broad tier: SWE intern / new-grad roles at every company that is NOT in
+# companies.md, from the community aggregator feeds, alerting to
+# DISCORD_WEBHOOK_URL_ALL. No company boards are swept here; those belong to the
+# low-latency top-companies workflow (scraper.yml), which this one runs beside
+# and cannot slow down.
+#
+# Keeps its own state file so the two tiers never contend for one, and folds in
+# the top tier's file at start-up and at every checkpoint so a role the top tier
+# already sent is never posted again to the other channel.
+
+# Detection latency, not schedule frequency, is what matters here — and the two
+# are not the same thing. This workflow used to ask for `*/5 * * * *` and simply
+# scrape once per run. In practice GitHub throttles scheduled workflows heavily:
+# consecutive runs on this repo landed 2-6 HOURS apart, and the freshest posting
+# ever caught was ten minutes old.
+#
+# So a run no longer scrapes once and exits. It starts a watch loop that stays
+# alive for ~5.5h, polling the aggregator feeds every 20s (conditional requests
+# that cost a 304 when nothing changed) while sweeping priority boards every
+# minute and every company's ATS every two, in the background. When a loop
+# finishes it dispatches the next run itself (see the last step), so coverage is
+# continuous rather than waiting on cron. The cron below is only a backstop for a
+# chain that broke, e.g. a runner that died outright.
+
+on:
+  schedule:
+    # Fires far less often than this in practice — that's fine and expected.
+    # Its job is to make sure a loop is always queued behind the running one.
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+    inputs:
+      duration_seconds:
+        description: "How long the watch loop should run (seconds)"
+        required: false
+        default: "19800"
+      interval_seconds:
+        description: "Seconds between aggregator polls"
+        required: false
+        default: "60"
+
+# Never let two loops run at once — they'd both write seen_jobs_all.json. A newly
+# scheduled run waits here instead of being dropped, so it starts the moment the
+# current loop exits.
+concurrency:
+  group: all-swe
+  cancel-in-progress: false
+
+permissions:
+  contents: write   # needed to commit the updated seen_jobs.json back
+  actions: write    # needed to dispatch the next run when this loop ends
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    # Comfortably above the loop's own duration so the loop always gets to exit
+    # cleanly and push its final state, rather than being killed mid-write.
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Note start time
+        run: echo "LOOP_STARTED=$(date +%s)" >> "$GITHUB_ENV"
+
+      - name: Configure git for state commits
+        run: |
+          git config user.name "internship-radar-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Start from everything already sent
+        # First run: begin from the shared history rather than an empty store,
+        # which would seed quietly and announce itself. Every run: union in the
+        # top tier's records, so nothing it sent can come round again here.
+        env:
+          STATE_FILE: ${{ github.workspace }}/seen_jobs_all.json
+        run: |
+          [ -f seen_jobs_all.json ] || cp seen_jobs.json seen_jobs_all.json
+          python -m jobscraper merge-state seen_jobs.json
+
+      - name: Watch for new roles
+        env:
+          # Summaries and health notes for this tier go to its own channel too.
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL_ALL }}
+          DISCORD_WEBHOOK_URL_ALL: ${{ secrets.DISCORD_WEBHOOK_URL_ALL }}
+          SCOPE: rest
+          ALSO_MERGE: seen_jobs.json
+          ROLE_TYPES: "intern,new_grad"
+          OFF_SEASON_ONLY: "false"   # include summer internships too
+          US_CANADA_ONLY: "true"     # only roles in the US or Canada
+          WATCH_INTERVAL: ${{ github.event.inputs.interval_seconds || '60' }}
+          WATCH_DURATION: ${{ github.event.inputs.duration_seconds || '19800' }}
+          STATE_FILE: ${{ github.workspace }}/seen_jobs_all.json
+          # Read-only use: look up each feed's newest commit so we fetch it the
+          # moment it lands instead of a CDN copy up to 5 minutes old.
+          GITHUB_TOKEN: ${{ github.token }}
+          # Freshness is dedup-based (alert on first detection), not board-date
+          # based — board posted-dates are unreliable. See settings.py.
+        run: |
+          # Checkpoint state to git while the loop runs. seen_jobs.json is the
+          # only record of what has already been sent to Discord, so if the
+          # runner dies five hours in, an uncommitted record of those five hours
+          # means every one of those jobs gets sent again. Checkpointing bounds
+          # that loss to the interval below.
+          ./scripts/persist-state.sh loop 60 &
+          persist_pid=$!
+          trap 'kill "$persist_pid" 2>/dev/null || true' EXIT
+
+          python -m jobscraper watch
+
+      - name: Persist final state
+        # Runs even if the loop errored or was cancelled: whatever it managed to
+        # send is recorded in the state file, and that record has to reach the
+        # repo or those jobs will be re-sent next run.
+        if: always()
+        env:
+          STATE_FILE: ${{ github.workspace }}/seen_jobs_all.json
+          ALSO_MERGE: seen_jobs.json
+        run: ./scripts/persist-state.sh once
+
+      - name: Start the next loop
+        # Relying on cron alone left gaps of up to 2.5h whenever a loop ended
+        # with no scheduled run queued behind it. workflow_dispatch is one of the
+        # few events GITHUB_TOKEN is allowed to trigger, and the concurrency group
+        # keeps the new run queued until this one has fully exited.
+        #
+        # Only after a loop that actually ran for a while: if something makes
+        # runs fail within minutes, chaining would turn that into a tight loop
+        # burning Actions minutes, so the cron backstop takes over instead.
+        if: always() && github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          elapsed=$(( $(date +%s) - ${LOOP_STARTED:-$(date +%s)} ))
+          if [ "$elapsed" -lt 1800 ]; then
+            echo "Loop only ran ${elapsed}s; not chaining. Cron will start the next one."
+            exit 0
+          fi
+          gh workflow run all-swe.yml --repo "$GITHUB_REPOSITORY" --ref main

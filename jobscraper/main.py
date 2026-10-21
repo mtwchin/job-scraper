@@ -17,7 +17,7 @@ import time
 from dataclasses import dataclass, field, replace
 from datetime import datetime, timedelta, timezone
 
-from . import adapters, dedup, filters, log, notify, settings
+from . import adapters, dedup, filters, health, log, notify, settings
 from .companies import load_companies
 from .dedup import KeySet
 from .models import CompanyConfig, Job
@@ -32,6 +32,11 @@ class Collection:
     errors: list[str] = field(default_factory=list)
     n_enabled: int = 0
     n_fetched: int = 0
+    # (company, adapter, error or None) for every board actually fetched, which
+    # the health tracker folds into per-company failure streaks.
+    outcomes: list[tuple[str, str, str | None]] = field(default_factory=list)
+    # Boards left out of this sweep because they are backing off after errors.
+    n_backed_off: int = 0
     # False when every aggregator feed answered 304 and companies weren't swept:
     # nothing anywhere has moved, so a caller can skip the rest of the cycle.
     changed: bool = True
@@ -42,6 +47,27 @@ class Collection:
 # time; in file order a 15s board listed near the bottom starts after everything
 # above it and holds the whole sweep (and the loop behind it) open.
 _last_fetch_seconds: dict[str, float] = {}
+
+
+# Boards that just failed sit out for a while: name -> (retry_at, failures).
+# Polling a host that is throttling us every 30s is what keeps it throttling
+# us — ten Workday boards failed together for three hours that way — so each
+# consecutive failure doubles the pause, up to BACKOFF_MAX_SECONDS.
+_backoff: dict[str, tuple[float, int]] = {}
+
+
+def _backing_off(company: CompanyConfig, now: float) -> bool:
+    entry = _backoff.get(company.name)
+    return entry is not None and now < entry[0]
+
+
+def _note_outcome(company: CompanyConfig, error: str | None) -> None:
+    if error is None:
+        _backoff.pop(company.name, None)
+        return
+    failures = _backoff.get(company.name, (0.0, 0))[1] + 1
+    delay = min(settings.BACKOFF_BASE_SECONDS * 2 ** (failures - 1), settings.BACKOFF_MAX_SECONDS)
+    _backoff[company.name] = (time.monotonic() + delay, failures)
 
 
 def _fetch_company(company: CompanyConfig) -> tuple[CompanyConfig, list[Job], str | None]:
@@ -82,7 +108,8 @@ def _passes_filters(job: Job) -> bool:
 
 
 def collect_matches(include_companies: bool = True,
-                    only_priority: bool = False) -> tuple[Collection, Collection]:
+                    only_priority: bool = False,
+                    include_aggregators: bool = True) -> tuple[Collection, Collection]:
     """Fetch enabled sources, then filter + dedup in one place.
 
     Returns (curated, general): curated is the companies.md-scoped feed; general
@@ -90,8 +117,12 @@ def collect_matches(include_companies: bool = True,
     SIMPLIFY_ALL_ENABLED and a place to send it are both configured).
 
     With include_companies=False only the cheap aggregator feeds are swept —
-    the fast tier of the watch loop.
+    the fast tier of the watch loop. With include_aggregators=False only company
+    boards are, so the watch loop can run a slow board sweep in the background
+    while it keeps polling the feeds.
     """
+    if settings.SCOPE == "rest":
+        include_companies = False   # boards belong to the `top` tier
     result = Collection()
     general = Collection()
     # One KeySet across both tiers and both feeds, so a posting reached through
@@ -106,6 +137,13 @@ def collect_matches(include_companies: bool = True,
         # Unmeasured boards sort first: they might be slow, and it costs nothing.
         enabled.sort(key=lambda c: -_last_fetch_seconds.get(c.name, float("inf")))
         result.n_enabled = len(enabled)
+        now = time.monotonic()
+        backing_off = [c for c in enabled if _backing_off(c, now)]
+        if backing_off:
+            result.n_backed_off = len(backing_off)
+            enabled = [c for c in enabled if not _backing_off(c, now)]
+            logger.debug("Backing off %d board(s): %s", len(backing_off),
+                         ", ".join(c.name for c in backing_off))
         logger.info(
             "Checking %d companies | roles=%s off_season=%s us_ca=%s concurrency=%d (freshness=dedup)",
             len(enabled), sorted(settings.ROLE_TYPES), settings.OFF_SEASON_ONLY,
@@ -113,6 +151,8 @@ def collect_matches(include_companies: bool = True,
         )
         with cf.ThreadPoolExecutor(max_workers=settings.CONCURRENCY) as ex:
             for company, jobs, error in ex.map(_fetch_company, enabled):
+                _note_outcome(company, error)
+                result.outcomes.append((company.name, company.adapter, error))
                 if error is not None:
                     result.errors.append(f"{company.name}: {error}")
                     logger.debug("%-18s ERROR %s", company.name, error)
@@ -128,8 +168,8 @@ def collect_matches(include_companies: bool = True,
                 if hits:
                     logger.debug("%-18s %4d fetched -> %d match", company.name, len(jobs), hits)
 
-    agg_changed = _collect_aggregators(result, general, seen,
-                                       skip_if_unchanged=not include_companies)
+    agg_changed = include_aggregators and _collect_aggregators(
+        result, general, seen, skip_if_unchanged=not include_companies)
     # A sweep that touched company boards always counts as "changed" — those
     # have no conditional-request support, so we genuinely don't know.
     result.changed = include_companies or agg_changed
@@ -153,8 +193,11 @@ def _collect_aggregators(result: Collection, general: Collection, seen: KeySet,
     try:
         curated, all_jobs, changed = aggregators.fetch_pair()
     except Exception as exc:  # noqa: BLE001
-        result.errors.append(f"Aggregators: {type(exc).__name__}: {exc}")
+        error = f"{type(exc).__name__}: {exc}"
+        result.errors.append(f"Aggregators: {error}")
+        result.outcomes.append(("Aggregator feeds", "feeds", error))
         return False
+    result.outcomes.append(("Aggregator feeds", "feeds", None))
 
     if skip_if_unchanged and not changed:
         # Every feed answered 304, and this sweep isn't touching company boards.
@@ -171,8 +214,11 @@ def _collect_aggregators(result: Collection, general: Collection, seen: KeySet,
         if job in seen or not _passes_filters(job):
             continue
         seen.add(job)
-        result.matches.append(job)
-        hits += 1
+        # The `rest` tier leaves tracked companies to the `top` workflow, but
+        # still marks them seen so the broad feed below skips them too.
+        if settings.SCOPE != "rest":
+            result.matches.append(job)
+            hits += 1
     logger.info("Aggregators: %d listings from tracked companies -> %d match", len(curated), hits)
 
     # Only actually run the broad feed once there's somewhere to send it (or
@@ -194,47 +240,49 @@ def _collect_aggregators(result: Collection, general: Collection, seen: KeySet,
     return changed
 
 
-def _maybe_health_alert(c: Collection, store: SeenStore, min_sweeps: int) -> None:
-    """Alert once per systemic outage and re-arm after a healthy sweep.
+def _maybe_health_alert(c: Collection, store: SeenStore, min_sweeps: int,
+                        min_age: float | None = None) -> None:
+    """Post one alert per outage and one note when it clears.
 
-    The error rate has to stay high for `min_sweeps` sweeps in a row first, so a
-    momentary blip on the runner (every host failing DNS at once) doesn't page.
+    A company counts as down once it has failed `min_sweeps` attempts in a row
+    for at least `min_age` seconds, so a momentary blip on the runner (every
+    host failing DNS at once) doesn't page. See health.py for why this is
+    tracked per company rather than as an error rate per sweep.
     """
-    if c.n_enabled == 0:
+    for name, adapter, error in c.outcomes:
+        store.health.record(name, adapter, error)
+    if min_age is None:
+        min_age = settings.HEALTH_ALERT_MINUTES * 60
+    report = store.health.evaluate(store.health_reported, min_sweeps, min_age)
+    if report.down:
+        logger.warning(health.format_down(report, store.health))
+    elif c.errors:
+        logger.warning("%d board(s) errored this sweep; alerting if it persists. First: %s",
+                       len(c.errors), c.errors[0])
+    if report.recovered:
+        logger.info(health.format_recovered(report.recovered))
+    if settings.DRY_RUN or not settings.DISCORD_WEBHOOK_URL or not (report.down or report.recovered):
         return
-    rate = len(c.errors) / c.n_enabled
-    if rate < settings.HEALTH_ALERT_THRESHOLD:
-        store.health_bad_streak = 0
-        if store.health_alert_active and not settings.DRY_RUN:
-            store.health_alert_active = False
+
+    if report.recovered:
+        store.health_reported -= set(report.recovered)
+        store._dirty = True
+        store.save()
+        notify.notify_summary(health.format_recovered(report.recovered))
+    if report.down:
+        # Recorded before sending: a send that dies halfway must not turn into
+        # the same alert every sweep. A rejected webhook is the exception —
+        # nothing reached the channel, so it has to be retried.
+        store.health_reported |= set(report.down)
+        store._dirty = True
+        store.save()
+        try:
+            notify.notify_summary(health.format_down(report, store.health))
+        except notify.WebhookRejected:
+            store.health_reported -= set(report.down)
             store._dirty = True
             store.save()
-        return
-    store.health_bad_streak += 1
-    if store.health_bad_streak < min_sweeps:
-        logger.warning("%d/%d companies errored this sweep (%.0f%%); alerting if it persists. First: %s",
-                       len(c.errors), c.n_enabled, rate * 100, c.errors[0] if c.errors else "")
-        return
-    if not store.health_alert_active:
-        msg = (
-            f"⚠️ Scraper health: {len(c.errors)}/{c.n_enabled} companies errored "
-            f"this run ({rate:.0%})"
-            + (f", {store.health_bad_streak} sweeps in a row" if store.health_bad_streak > 1 else "")
-            + ". Possible platform outage or a broken adapter. "
-            f"First few: " + "; ".join(c.errors[:3])
-        )
-        logger.warning(msg)
-        if not settings.DRY_RUN and settings.DISCORD_WEBHOOK_URL:
-            store.health_alert_active = True
-            store._dirty = True
-            store.save()
-            try:
-                notify.notify_summary(msg)
-            except notify.WebhookRejected:
-                store.health_alert_active = False
-                store._dirty = True
-                store.save()
-                raise
+            raise
 
 
 def select_new(store: SeenStore, matches: list[Job]) -> list[Job]:
@@ -353,7 +401,7 @@ def _absorb_new_sources(store: SeenStore, *buckets: list[Job]) -> dict[str, int]
 
 
 def dispatch(store: SeenStore, c: Collection, general: Collection,
-             health_min_sweeps: int | None = None) -> int:
+             health_min_sweeps: int | None = None, health_min_age: float | None = None) -> int:
     """Notify on everything new in this sweep and record it. Returns how many
     notifications were sent.
 
@@ -368,13 +416,13 @@ def dispatch(store: SeenStore, c: Collection, general: Collection,
     new_general = select_new(store, general.matches)
 
     logger.info(
-        "%d match / %d new | %d fetched | %d errors | all-companies: %d match / %d new",
-        len(c.matches), len(new_jobs), c.n_fetched, len(c.errors),
+        "%d match / %d new | %d fetched | %d errors | %d backed off | all-companies: %d match / %d new",
+        len(c.matches), len(new_jobs), c.n_fetched, len(c.errors), c.n_backed_off,
         len(general.matches), len(new_general),
     )
     for line in c.errors:
         logger.debug("  ! %s", line)
-    _maybe_health_alert(c, store, health_min_sweeps or settings.HEALTH_ALERT_SWEEPS)
+    _maybe_health_alert(c, store, health_min_sweeps or settings.HEALTH_ALERT_SWEEPS, health_min_age)
 
     if not store.existed and settings.SEED_QUIETLY:
         # Genuine first run: absorb the whole backlog silently so we don't dump it.
@@ -476,7 +524,7 @@ def run() -> int:
     store = SeenStore(settings.STATE_FILE)
     c, general = collect_matches()
     # A one-shot run never sees a second sweep, so it can't wait for a streak.
-    dispatch(store, c, general, health_min_sweeps=1)
+    dispatch(store, c, general, health_min_sweeps=1, health_min_age=0)
 
     if (dropped := store.prune(settings.PRUNE_DELISTED_DAYS)):
         logger.info("Pruned %d record(s) for postings delisted >%dd ago.",

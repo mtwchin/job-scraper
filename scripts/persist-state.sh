@@ -18,6 +18,11 @@ set -uo pipefail
 STATE_FILE="${STATE_FILE:-seen_jobs.json}"
 export STATE_FILE
 BRANCH="${PERSIST_BRANCH:-main}"
+# Other tiers' state files (space-separated, repo-relative) to fold in as well.
+# The broad tier lists the top tier's file here so it learns, within a
+# checkpoint interval, about roles the top tier already sent and never posts
+# the same one to the other channel.
+ALSO_MERGE="${ALSO_MERGE:-}"
 MAX_ATTEMPTS="${PERSIST_MAX_ATTEMPTS:-5}"
 
 # Not every environment has a bare `python` on PATH. Resolve it once rather than
@@ -50,8 +55,10 @@ record_count() {
 push_once() {
   [ -f "$STATE_FILE" ] || { log "no $STATE_FILE yet"; return 0; }
 
-  # Nothing to do if our copy already matches what is committed.
-  if git diff --quiet -- "$STATE_FILE" && git diff --cached --quiet -- "$STATE_FILE"; then
+  # Nothing to do if our copy already matches what is committed. An untracked
+  # file (a new tier's first run) shows up in neither diff, so check that too.
+  if git ls-files --error-unmatch -- "$STATE_FILE" >/dev/null 2>&1 \
+      && git diff --quiet -- "$STATE_FILE" && git diff --cached --quiet -- "$STATE_FILE"; then
     return 0
   fi
 
@@ -69,6 +76,13 @@ push_once() {
     if git show "origin/$BRANCH:$(git_relative_state)" > "$remote_copy" 2>/dev/null; then
       "$PYTHON" -m jobscraper merge-state "$remote_copy" || merge_ok=0
     fi
+    for other in $ALSO_MERGE; do
+      # Best effort: the other tier's file only prevents cross-channel repeats,
+      # so failing to read it must not block persisting our own state.
+      if git show "origin/$BRANCH:$other" > "$remote_copy" 2>/dev/null; then
+        "$PYTHON" -m jobscraper merge-state "$remote_copy" >/dev/null || log "could not fold in $other"
+      fi
+    done
     rm -f "$remote_copy"
     if [ "$merge_ok" -eq 0 ]; then
       # Pushing now would overwrite the remote with a state file that is missing

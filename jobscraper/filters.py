@@ -46,12 +46,15 @@ INTERN_PATTERNS = [
 NEW_GRAD_PATTERNS = [
     r"new\s+grad",
     r"new\s+graduate",
+    r"new\s+college\s+grad",              # NVIDIA: "... - New College Grad 2026"
     r"recent\s+graduate",
     r"university\s+grad",
     r"early\s+career",
     r"early\s+in\s+career",
     r"entry[\s-]level",
-    r"\bcampus\b",
+    # "Campus Software Engineer", "Software Engineer - Campus"; not a place
+    # name such as Oracle's "Engineer 2 - Nashville Campus".
+    r"(?:^|[-–(,:]\s*)campus\b",
     r"\bgrad(uate)?\s+(software|engineer|program|rotation)",
     r"\bjunior\b",
     r"\bjr\.?\s+(software|engineer|developer)",
