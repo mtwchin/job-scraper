@@ -1,5 +1,5 @@
 {
-  "count": 7417,
+  "count": 7418,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -11363,6 +11363,16 @@
       "posted_at": "1787875200",
       "title": "Software Developer Intern - University",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Software-Developer-Intern_R0248134"
+    },
+    "simplify:booz allen::simplify-1af6a582-286e-4274-bf65-6fa11bdf398b": {
+      "company": "Booz Allen",
+      "first_seen": "2026-10-21T17:32:14+00:00",
+      "last_seen": "2026-10-21T17:32:14+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Applied AI Intern",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/Washington-DC/University---Applied-AI-Specialist_R0249409"
     },
     "simplify:booz allen::simplify-1cd3e703-e004-4850-8dc5-440acec35de0": {
       "company": "Booz Allen",
@@ -62042,5 +62052,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-21T15:03:20+00:00"
+  "updated_at": "2026-10-21T17:32:26+00:00"
 }
