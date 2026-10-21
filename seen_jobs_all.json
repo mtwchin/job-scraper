@@ -1,5 +1,5 @@
 {
-  "count": 7428,
+  "count": 7453,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1381,6 +1381,26 @@
       "title": "Software Engineer Intern - Enterprise Systems (Fall 2026)",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006"
     },
+    "astranis::4704595006": {
+      "company": "Astranis",
+      "first_seen": "2026-10-21T20:11:14+00:00",
+      "last_seen": "2026-10-21T20:11:14+00:00",
+      "location": "San Francisco",
+      "posted_at": "2026-10-07T16:59:29-04:00",
+      "source": "",
+      "title": "Flight Software Intern (Winter 2027)",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704595006"
+    },
+    "astranis::4704598006": {
+      "company": "Astranis",
+      "first_seen": "2026-10-21T20:11:14+00:00",
+      "last_seen": "2026-10-21T20:11:14+00:00",
+      "location": "San Francisco",
+      "posted_at": "2026-10-07T16:59:29-04:00",
+      "source": "",
+      "title": "Flight Software Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704598006"
+    },
     "astranis::4705214006": {
       "company": "Astranis",
       "first_seen": "2026-09-22T23:43:35+00:00",
@@ -1538,6 +1558,26 @@
       "source": "",
       "title": "Summer 2027 Aerospace Systems Engineering Intern - Graduate",
       "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Intern---Graduate_R71435"
+    },
+    "blue origin::Summer-2027-Avionics-Software-Internship---Graduate_R71423": {
+      "company": "Blue Origin",
+      "first_seen": "2026-10-21T20:11:14+00:00",
+      "last_seen": "2026-10-21T20:11:14+00:00",
+      "location": "Greater Seattle Area, Los Angeles, CA, Denver, CO",
+      "posted_at": "Posted 8 Days Ago",
+      "source": "",
+      "title": "Summer 2027 Avionics Software Internship - Graduate",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423"
+    },
+    "blue origin::Summer-2027-Avionics-Software-Internship---Undergraduate_R71424": {
+      "company": "Blue Origin",
+      "first_seen": "2026-10-21T20:11:14+00:00",
+      "last_seen": "2026-10-21T20:11:14+00:00",
+      "location": "Greater Seattle Area, Denver, CO, Los Angeles, CA, Longmont, CO",
+      "posted_at": "Posted 8 Days Ago",
+      "source": "",
+      "title": "Summer 2027 Avionics Software Internship - Undergraduate",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Undergraduate_R71424"
     },
     "blue origin::Summer-2027-Electrical-Systems-Engineering-Internship---Graduate_R71437": {
       "company": "Blue Origin",
@@ -2999,6 +3039,26 @@
       "title": "Software Engineer \u2013 2027 Internship Program (June Start)",
       "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003"
     },
+    "old mission::78e433a8-cd5f-404d-8f58-3fcb61e9837d": {
+      "company": "Old Mission",
+      "first_seen": "2026-10-21T19:33:47+00:00",
+      "last_seen": "2026-10-21T19:33:47+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "2026-07-13T19:46:19.369+00:00",
+      "source": "",
+      "title": "Software Engineer \u2013 2027 Graduate Program (August Start)",
+      "url": "https://jobs.ashbyhq.com/old-mission-capital/78e433a8-cd5f-404d-8f58-3fcb61e9837d"
+    },
+    "old mission::d003aaa4-a1e9-46b5-b271-eaccc15db9d6": {
+      "company": "Old Mission",
+      "first_seen": "2026-10-21T19:33:47+00:00",
+      "last_seen": "2026-10-21T19:33:47+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "2026-07-15T17:45:13.245+00:00",
+      "source": "",
+      "title": "Software Engineer \u2013 2027 Internship Program (June Start)",
+      "url": "https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6"
+    },
     "optiver::8401042002": {
       "company": "Optiver",
       "first_seen": "2026-07-01T20:17:32+00:00",
@@ -3991,6 +4051,26 @@
       "posted_at": "2026-09-09T19:40:26-04:00",
       "title": "Systems Engineering Intern Summer 2027",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987046003"
+    },
+    "rocket lab::7989722003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-10-21T20:11:14+00:00",
+      "last_seen": "2026-10-21T20:11:14+00:00",
+      "location": "Littleton, CO",
+      "posted_at": "2026-09-09T18:49:59-04:00",
+      "source": "",
+      "title": "Flight Software Intern Summer 2027",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989722003"
+    },
+    "rocket lab::7989724003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-10-21T20:11:14+00:00",
+      "last_seen": "2026-10-21T20:11:14+00:00",
+      "location": "Littleton, CO",
+      "posted_at": "2026-09-09T18:48:43-04:00",
+      "source": "",
+      "title": "Flight Software Intern Spring 2027",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989724003"
     },
     "rocket lab::7990138003": {
       "company": "Rocket Lab",
@@ -5789,6 +5869,16 @@
       "source": "simplify",
       "title": "Software Engineer",
       "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2678"
+    },
+    "simplify:akamai technologies::simplify-941e3fee-accd-4e6d-9123-561edd7554a4": {
+      "company": "Akamai Technologies",
+      "first_seen": "2026-10-21T22:32:35+00:00",
+      "last_seen": "2026-10-21T22:32:35+00:00",
+      "location": "United States",
+      "posted_at": "1792621478",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4237"
     },
     "simplify:akima::simplify-1b47df5a-a950-4f67-8411-1bb9a8fd4554": {
       "company": "Akima",
@@ -7634,6 +7724,16 @@
       "title": "Senior Mission Software Engineer - Undersea Reconnaissance & Strike",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5226472007"
     },
+    "simplify:anduril::simplify-9b0a00f8-306d-4f85-be43-6b438422bb5c": {
+      "company": "Anduril",
+      "first_seen": "2026-10-21T22:31:59+00:00",
+      "last_seen": "2026-10-21T22:31:59+00:00",
+      "location": "Ashville, OH, Costa Mesa, CA",
+      "posted_at": "1792620375",
+      "source": "simplify",
+      "title": "Business Operations Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271672007"
+    },
     "simplify:anduril::simplify-9b3d2be7-1291-4e46-8d88-5212363141cd": {
       "company": "Anduril",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -7641,6 +7741,16 @@
       "posted_at": "1781216095",
       "title": "Software Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007"
+    },
+    "simplify:anduril::simplify-9b8baf0a-0a8c-4351-9fcc-ed44351e77e5": {
+      "company": "Anduril",
+      "first_seen": "2026-10-21T22:31:59+00:00",
+      "last_seen": "2026-10-21T22:31:59+00:00",
+      "location": "Ashville, OH, Costa Mesa, CA",
+      "posted_at": "1792620377",
+      "source": "simplify",
+      "title": "Business Operations Engineer Co-op",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271686007"
     },
     "simplify:anduril::simplify-a5a74a79-9e57-4bc6-b89d-a5635316f006": {
       "company": "Anduril",
@@ -7784,6 +7894,16 @@
       "posted_at": "1765840442",
       "title": "Backend Engineer - AI",
       "url": "https://jobs.ashbyhq.com/anything/f4123aa5-855a-4b82-b762-66fb4a77f493/application"
+    },
+    "simplify:aon::simplify-e7350a2d-fa26-4da5-908e-82eb0a7a4b34": {
+      "company": "Aon",
+      "first_seen": "2026-10-21T22:32:35+00:00",
+      "last_seen": "2026-10-21T22:32:35+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1792621144",
+      "source": "simplify",
+      "title": "IT / AI Engineer Intern",
+      "url": "https://jobs.aon.com/jobs/110099?icims=1"
     },
     "simplify:apera ai::simplify-0e6b54b7-af1e-4918-8224-6720703ec563": {
       "company": "Apera AI",
@@ -16137,6 +16257,16 @@
       "title": "Software Engineer Intern",
       "url": "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51"
     },
+    "simplify:collier aerospace::simplify-7ed5a47d-9d52-4ec3-8b73-90c5f6a726ed": {
+      "company": "Collier Aerospace",
+      "first_seen": "2026-10-21T22:32:35+00:00",
+      "last_seen": "2026-10-21T22:32:35+00:00",
+      "location": "Raleigh, NC, Newport News, VA",
+      "posted_at": "1792620542",
+      "source": "simplify",
+      "title": "Software Engineer \u2013 Entry Level",
+      "url": "https://ats.rippling.com/collieraerospace/jobs/a3ae57de-5925-4f55-a106-812b5069cd19"
+    },
     "simplify:collier aerospace::simplify-a023874d-88f4-4e6c-a29a-681d54bc45f9": {
       "company": "Collier Aerospace",
       "first_seen": "2026-09-10T00:38:47+00:00",
@@ -16360,6 +16490,16 @@
       "posted_at": "1788905208",
       "title": "Core System Engineer",
       "url": "https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/12862"
+    },
+    "simplify:comscore::simplify-23e3ed13-41f7-4c8c-a7d9-7a33e6a92987": {
+      "company": "Comscore",
+      "first_seen": "2026-10-21T22:32:35+00:00",
+      "last_seen": "2026-10-21T22:32:35+00:00",
+      "location": "Portland, OR",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://comscore.wd5.myworkdayjobs.com/en-US/External/job/OR---Portland-Airport/Software-Engineer_REQ1765"
     },
     "simplify:comtech::simplify-126d88e3-b139-4f05-a819-7867cd679fde": {
       "company": "Comtech",
@@ -19991,7 +20131,7 @@
     "simplify:emerson electric::simplify-d00b3611-6ef4-4084-8f7e-0bcd89e90261": {
       "company": "Emerson Electric",
       "first_seen": "2026-09-01T09:52:41+00:00",
-      "last_seen": "2026-10-09T00:00:55+00:00",
+      "last_seen": "2026-10-21T22:32:34+00:00",
       "posted_at": "1788238282",
       "title": "Software Engineering Co-op",
       "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008442"
@@ -20636,6 +20776,16 @@
       "source": "simplify",
       "title": "Core Engineering Intern",
       "url": "https://jobs.ashbyhq.com/Etched/494546ec-de37-46a2-b450-692c23b7b0c8/application?embed=true"
+    },
+    "simplify:etsy::simplify-05891430-1723-4b9b-839e-f243696e66ef": {
+      "company": "Etsy",
+      "first_seen": "2026-10-21T22:32:35+00:00",
+      "last_seen": "2026-10-21T22:32:35+00:00",
+      "location": "Brooklyn, NY",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Software Engineer 1 - Marketplace Makers",
+      "url": "https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Brooklyn-New-York/Software-Engineer-I--Marketplace-Makers_JR6037-1"
     },
     "simplify:eulerity::simplify-624a2b7b-51e9-4b7e-87d8-5e15ae69b867": {
       "company": "Eulerity",
@@ -26318,6 +26468,16 @@
       "title": "Technology Software Engineer Rotation Program - Analyst",
       "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8612429002"
     },
+    "simplify:icf international::simplify-24537423-4d5f-4c4e-96e3-47f55defe704": {
+      "company": "ICF International",
+      "first_seen": "2026-10-21T22:32:35+00:00",
+      "last_seen": "2026-10-21T22:32:35+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Seasonal Associate Intern - Full Stack Developer",
+      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603571"
+    },
     "simplify:icf international::simplify-285be14e-467c-40bd-9e7d-e1efeee8735f": {
       "company": "ICF International",
       "first_seen": "2026-10-14T23:02:13+00:00",
@@ -26334,6 +26494,16 @@
       "posted_at": "1784073600",
       "title": "Associate ServiceNow Developer",
       "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Associate-ServiceNow-Developer--Secret-Clearance-Required-_R2602450"
+    },
+    "simplify:icf international::simplify-73395dc9-ae40-45b9-b46a-7c823d29cc98": {
+      "company": "ICF International",
+      "first_seen": "2026-10-21T22:32:35+00:00",
+      "last_seen": "2026-10-21T22:32:35+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Full-Stack Developer Intern",
+      "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603570"
     },
     "simplify:icf international::simplify-75efacf7-58e1-468e-9621-e23a1444acdf": {
       "company": "ICF International",
@@ -28307,6 +28477,16 @@
       "posted_at": "1772752946",
       "title": "Part Time Student - Software Engineer",
       "url": "https://johndeere.eightfold.ai/careers/job/137479561561"
+    },
+    "simplify:john deere::simplify-a7ba68b4-0c20-417e-b048-21ba6077cdc9": {
+      "company": "John Deere",
+      "first_seen": "2026-10-21T22:32:35+00:00",
+      "last_seen": "2026-10-21T22:32:35+00:00",
+      "location": "Cary, NC",
+      "posted_at": "1792621411",
+      "source": "simplify",
+      "title": "Software Engineer Student Intern - Product Engineering",
+      "url": "https://johndeere.eightfold.ai/careers/job/137483990019"
     },
     "simplify:john deere::simplify-aab2c1bd-bf56-42bf-b06b-fd9efea2acba": {
       "company": "John Deere",
@@ -33344,6 +33524,16 @@
       "title": "Software Engineer Intern - Machine Learning",
       "url": "https://www.metacareers.com/jobs/2180490782513668"
     },
+    "simplify:metalenz::simplify-b381b011-e575-41c8-ae41-8f24bc2299d7": {
+      "company": "Metalenz",
+      "first_seen": "2026-10-21T22:32:35+00:00",
+      "last_seen": "2026-10-21T22:32:35+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1792620834",
+      "source": "simplify",
+      "title": "Camera Software Intern",
+      "url": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6/application?embed=true"
+    },
     "simplify:metaview::simplify-9fad232c-43cc-403b-9475-b965f64e9c1f": {
       "company": "Metaview",
       "first_seen": "2026-09-05T12:52:21+00:00",
@@ -35068,6 +35258,16 @@
       "title": "Software Engineer Fellow",
       "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/FLORIDA-VIRTUAL-USA/Software-Engineer-Fellow_R0158700"
     },
+    "simplify:ncr voyix::simplify-d899f8fd-9b88-4410-8fe0-21f2f0ac1d3d": {
+      "company": "NCR Voyix",
+      "first_seen": "2026-10-21T22:32:35+00:00",
+      "last_seen": "2026-10-21T22:32:35+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Software-Engineer---NCR-Voyix-for-Department-and-Specialty-Retail_R0159033"
+    },
     "simplify:nebo::simplify-1ff5a755-8677-43b6-8f49-bc5e7e431e39": {
       "company": "Nebo",
       "first_seen": "2026-08-03T08:03:11+00:00",
@@ -35272,6 +35472,16 @@
       "posted_at": "1781734231",
       "title": "Associate Product Engineer - Home Fragrance",
       "url": "https://jobs.newellbrands.com/job/South-Deerfield-Associate-Product-Engineer,-Home-Fragrance-Mass/1400762300/?ats=successfactors"
+    },
+    "simplify:newell brands::simplify-ad922fdd-2a0e-4ef9-94d9-5e1c54969683": {
+      "company": "Newell Brands",
+      "first_seen": "2026-10-21T22:32:35+00:00",
+      "last_seen": "2026-10-21T22:32:35+00:00",
+      "location": "Huntersville, NC",
+      "posted_at": "1789683438",
+      "source": "simplify",
+      "title": "Sales AI & Analytics Developer Intern",
+      "url": "https://jobs.newellbrands.com/job/Huntersville-2027-Newell-Brands-Intern-Sales-AI-&-Analytics-Developer-Intern-Nort/1431281200/?ats=successfactors"
     },
     "simplify:newrez::simplify-04af52ae-d053-4a93-8927-e281a49801e6": {
       "company": "Newrez",
@@ -55116,6 +55326,16 @@
       "title": "Technology Intern - Summer Internship Program",
       "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4722"
     },
+    "simplify:verisk::simplify-f98a73fd-4f03-43a7-9253-2a17b5fdee3d": {
+      "company": "Verisk",
+      "first_seen": "2026-10-21T22:32:35+00:00",
+      "last_seen": "2026-10-21T22:32:35+00:00",
+      "location": "Manchester, UK",
+      "posted_at": "1792621294",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4997"
+    },
     "simplify:verizon communications::simplify-069f3f4c-adc9-4e2d-919c-045fd3bef6b6": {
       "company": "Verizon Communications",
       "first_seen": "2026-10-20T11:32:51+00:00",
@@ -55688,6 +55908,16 @@
       "source": "simplify",
       "title": "Associate Software Engineer",
       "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer_35387R-1"
+    },
+    "simplify:vizient::simplify-5d2615fd-5855-468c-b2f7-0ba0cf79d0a5": {
+      "company": "Vizient",
+      "first_seen": "2026-10-21T22:32:35+00:00",
+      "last_seen": "2026-10-21T22:32:35+00:00",
+      "location": "Irving, TX",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer_35366R"
     },
     "simplify:volaris group::simplify-aad57fdf-2d09-4217-9e58-26594fe974db": {
       "company": "Volaris Group",
@@ -57030,6 +57260,16 @@
       "title": "PhD Residency - Multiple Teams",
       "url": "https://x.company/careers/8328378002?gh_jid=8328378002"
     },
+    "simplify:x development::simplify-b9c363cf-6bfc-4b3b-b3c3-351dc07109fd": {
+      "company": "X Development",
+      "first_seen": "2026-10-21T22:32:35+00:00",
+      "last_seen": "2026-10-21T22:32:35+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1792621070",
+      "source": "simplify",
+      "title": "PhD Resident - AI for Science - Lab Automation",
+      "url": "https://x.company/careers/8907040002?gh_jid=8907040002"
+    },
     "simplify:xai::simplify-036f95f0-b954-4120-bd02-980666b57a4d": {
       "company": "xAI",
       "first_seen": "2026-07-13T23:07:58+00:00",
@@ -57853,6 +58093,18 @@
       "source": "",
       "title": "Software Engineer I",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8879673002"
+    },
+    "twitch::8906750002": {
+      "company": "Twitch",
+      "duplicate_of": "twitch::8879673002",
+      "first_seen": "2026-10-21T20:58:35+00:00",
+      "last_seen": "2026-10-21T20:58:35+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "2026-10-21T16:56:21-04:00",
+      "seeded": true,
+      "source": "",
+      "title": "Software Engineer I",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8906750002"
     },
     "vanshb03:21cs::vanshb03-8f371c86-66af-4fb5-b691-d8e1f3497d40": {
       "company": "21CS",
@@ -62152,5 +62404,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-21T19:33:35+00:00"
+  "updated_at": "2026-10-21T22:32:40+00:00"
 }
