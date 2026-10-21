@@ -1,5 +1,5 @@
 {
-  "count": 7416,
+  "count": 7417,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2719,6 +2719,16 @@
       "source": "",
       "title": "Software Engineer: Intern Opportunities for University Students, Atlanta",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557008714"
+    },
+    "microsoft::1970393557044765": {
+      "company": "Microsoft",
+      "first_seen": "2026-10-21T22:40:11+00:00",
+      "last_seen": "2026-10-21T22:40:11+00:00",
+      "location": "United States, Massachusetts, Cambridge",
+      "posted_at": "1792622205",
+      "source": "",
+      "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765"
     },
     "netflix::790313241540": {
       "company": "Netflix",
@@ -62032,5 +62042,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-21T22:32:02+00:00"
+  "updated_at": "2026-10-21T22:41:05+00:00"
 }
