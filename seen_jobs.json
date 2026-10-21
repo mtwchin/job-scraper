@@ -1,5 +1,5 @@
 {
-  "count": 7414,
+  "count": 7416,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -7714,6 +7714,16 @@
       "title": "Senior Mission Software Engineer - Undersea Reconnaissance & Strike",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5226472007"
     },
+    "simplify:anduril::simplify-9b0a00f8-306d-4f85-be43-6b438422bb5c": {
+      "company": "Anduril",
+      "first_seen": "2026-10-21T22:31:59+00:00",
+      "last_seen": "2026-10-21T22:31:59+00:00",
+      "location": "Ashville, OH, Costa Mesa, CA",
+      "posted_at": "1792620375",
+      "source": "simplify",
+      "title": "Business Operations Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271672007"
+    },
     "simplify:anduril::simplify-9b3d2be7-1291-4e46-8d88-5212363141cd": {
       "company": "Anduril",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -7721,6 +7731,16 @@
       "posted_at": "1781216095",
       "title": "Software Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007"
+    },
+    "simplify:anduril::simplify-9b8baf0a-0a8c-4351-9fcc-ed44351e77e5": {
+      "company": "Anduril",
+      "first_seen": "2026-10-21T22:31:59+00:00",
+      "last_seen": "2026-10-21T22:31:59+00:00",
+      "location": "Ashville, OH, Costa Mesa, CA",
+      "posted_at": "1792620377",
+      "source": "simplify",
+      "title": "Business Operations Engineer Co-op",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271686007"
     },
     "simplify:anduril::simplify-a5a74a79-9e57-4bc6-b89d-a5635316f006": {
       "company": "Anduril",
@@ -62012,5 +62032,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-21T20:58:59+00:00"
+  "updated_at": "2026-10-21T22:32:02+00:00"
 }
