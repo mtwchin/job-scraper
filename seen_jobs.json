@@ -1,5 +1,5 @@
 {
-  "count": 7403,
+  "count": 7405,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -37096,6 +37096,16 @@
       "title": "PhD Research Intern - System Software and I/O Architecture",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667"
     },
+    "simplify:nvidia::simplify-0ac04b5c-cd94-4e69-b532-c62eb19b9fa9": {
+      "company": "NVIDIA",
+      "first_seen": "2026-10-21T13:31:46+00:00",
+      "last_seen": "2026-10-21T13:31:46+00:00",
+      "location": "Bristol, UK, Cambridge, UK",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "System Software Engineer, Automotive Cybersecurity - Tegra Security Software",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/System-Software-Engineer--Tegra-Security-Software_JR2028405"
+    },
     "simplify:nvidia::simplify-17d6c668-4bc6-4bfb-8c59-1da4ee9209a5": {
       "company": "NVIDIA",
       "first_seen": "2026-07-22T03:38:14+00:00",
@@ -37278,6 +37288,16 @@
       "posted_at": "1788134400",
       "title": "AI Developer Technology Engineer New Grad - AI",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2026_JR2024557"
+    },
+    "simplify:nvidia::simplify-a31a7c17-501a-4eb8-a17b-39bf87ed4403": {
+      "company": "NVIDIA",
+      "first_seen": "2026-10-21T13:31:46+00:00",
+      "last_seen": "2026-10-21T13:31:46+00:00",
+      "location": "Bristol, UK",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Software Intern - Embedded Systems",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1"
     },
     "simplify:nvidia::simplify-a455da9d-eaec-41c8-9de6-819c1f5bac60": {
       "company": "NVIDIA",
@@ -61900,5 +61920,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-21T11:35:57+00:00"
+  "updated_at": "2026-10-21T13:32:02+00:00"
 }
