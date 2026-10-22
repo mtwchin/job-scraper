@@ -1,5 +1,5 @@
 {
-  "count": 7421,
+  "count": 7422,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -40817,6 +40817,16 @@
       "title": "Machine Learning Compiler Engineer - Machine Learning Engineering",
       "url": "https://qualcomm.eightfold.ai/careers/job/446717346550"
     },
+    "simplify:qualcomm::simplify-060c5b3e-72e6-4565-8196-5327e4baf243": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-22T14:32:10+00:00",
+      "last_seen": "2026-10-22T14:32:10+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1792678332",
+      "source": "simplify",
+      "title": "Applied AI Engineering Intern - Hardware Systems",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721678733"
+    },
     "simplify:qualcomm::simplify-0d26968d-9eb7-4cd0-bb5d-cb6ee2933e60": {
       "company": "Qualcomm",
       "first_seen": "2026-08-05T06:47:04+00:00",
@@ -62083,5 +62093,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T14:01:29+00:00"
+  "updated_at": "2026-10-22T14:32:31+00:00"
 }
