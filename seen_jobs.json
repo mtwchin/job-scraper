@@ -1,5 +1,5 @@
 {
-  "count": 7426,
+  "count": 7427,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -3399,6 +3399,16 @@
       "posted_at": "1750950062839",
       "title": "Software Engineer, Internship - Infrastructure",
       "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3"
+    },
+    "palantir::b3d81928-6c26-432f-8a0a-36602c2eefcb": {
+      "company": "Palantir",
+      "first_seen": "2026-10-22T21:38:36+00:00",
+      "last_seen": "2026-10-22T21:38:36+00:00",
+      "location": "New York, NY",
+      "posted_at": "1792705069924",
+      "source": "",
+      "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
+      "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb"
     },
     "palantir::bdcfb29f-4f27-42de-933f-7f83a359b9f0": {
       "company": "Palantir",
@@ -62142,5 +62152,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T21:35:55+00:00"
+  "updated_at": "2026-10-22T21:38:57+00:00"
 }
