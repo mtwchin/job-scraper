@@ -1,5 +1,5 @@
 {
-  "count": 7419,
+  "count": 7420,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -33977,7 +33977,7 @@
     "simplify:microsoft::simplify-ed31bd8d-9acf-436c-9628-1d4c79959bac": {
       "company": "Microsoft",
       "first_seen": "2026-08-04T09:10:05+00:00",
-      "last_seen": "2026-10-08T07:09:14+00:00",
+      "last_seen": "2026-10-22T09:31:47+00:00",
       "posted_at": "1785823783",
       "title": "Full-Stack Product Engineer Intern - Web + Services",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922"
@@ -60939,6 +60939,16 @@
       "title": "Commercial UI Software Engineer Intern, Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/248805"
     },
+    "vanshb03:tesla::vanshb03-66255d25-16a2-4d86-b9f2-b8cba746694f": {
+      "company": "Tesla",
+      "first_seen": "2026-10-22T09:31:47+00:00",
+      "last_seen": "2026-10-22T09:31:47+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1778313304",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Maps & Navigation Validation",
+      "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-maps-navigation-validation-fall-2026--270186"
+    },
     "vanshb03:tesla::vanshb03-8c025004-2b27-43e8-8d60-a9f2eca60b3a": {
       "company": "Tesla",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -62062,5 +62072,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T07:20:04+00:00"
+  "updated_at": "2026-10-22T09:32:08+00:00"
 }
