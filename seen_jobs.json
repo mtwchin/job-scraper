@@ -673,7 +673,7 @@
     "abnormal security::8001641003": {
       "company": "Abnormal Security",
       "first_seen": "2026-09-22T23:43:35+00:00",
-      "last_seen": "2026-09-23T00:03:42+00:00",
+      "last_seen": "2026-10-22T15:43:09+00:00",
       "location": "Remote - USA",
       "posted_at": "2026-09-22T17:23:33-04:00",
       "source": "",
@@ -62093,5 +62093,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T15:02:34+00:00"
+  "updated_at": "2026-10-22T15:43:37+00:00"
 }
