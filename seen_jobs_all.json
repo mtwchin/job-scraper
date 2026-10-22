@@ -1,5 +1,5 @@
 {
-  "count": 7496,
+  "count": 7501,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1162,6 +1162,16 @@
       "source": "",
       "title": "Software Development Engineer I \u2013 AI/ML Network Infrastructure, Annapurna Labs",
       "url": "https://www.amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs"
+    },
+    "amazon::10586548": {
+      "company": "Amazon",
+      "first_seen": "2026-10-22T17:03:16+00:00",
+      "last_seen": "2026-10-22T17:03:16+00:00",
+      "location": "Detroit, Michigan, USA",
+      "posted_at": "October 22, 2026",
+      "source": "",
+      "title": "Jr. Software Development Engineer - Detroit, MI, Jr. Developer Program",
+      "url": "https://www.amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -58429,6 +58439,26 @@
       "title": "Software Engineer I",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8879673002"
     },
+    "twitch::8886605002": {
+      "company": "Twitch",
+      "first_seen": "2026-10-22T19:19:35+00:00",
+      "last_seen": "2026-10-22T19:19:35+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "2026-10-22T15:18:02-04:00",
+      "source": "",
+      "title": "Undergrad Software Engineering Intern (Grad Year: Winter 2027)",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8886605002"
+    },
+    "twitch::8886748002": {
+      "company": "Twitch",
+      "first_seen": "2026-10-22T19:19:35+00:00",
+      "last_seen": "2026-10-22T19:19:35+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "2026-10-22T15:17:18-04:00",
+      "source": "",
+      "title": "Undergrad Software Engineering Intern (Grad Year: Spring 2028)",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8886748002"
+    },
     "twitch::8906750002": {
       "company": "Twitch",
       "duplicate_of": "twitch::8879673002",
@@ -60525,6 +60555,16 @@
       "title": "Full-Stack Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef?embed=true"
     },
+    "vanshb03:northrop grumman::vanshb03-42b214fe-48b1-4f78-ba30-82ec84babd47": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-22T19:44:19+00:00",
+      "last_seen": "2026-10-22T19:44:19+00:00",
+      "location": "San Antonio, TX",
+      "posted_at": "1792695674",
+      "source": "vanshb03",
+      "title": "Cyber Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311"
+    },
     "vanshb03:northrop grumman::vanshb03-a935273f-f0e0-441b-9b94-b853e1ab2f5a": {
       "company": "Northrop Grumman",
       "first_seen": "2026-10-20T22:29:43+00:00",
@@ -61176,6 +61216,18 @@
       "source": "vanshb03",
       "title": "Junior Software Engineer",
       "url": "https://jobs.ashbyhq.com/Rose%20Rocket/c074b14e-ebe0-4a14-beb2-1419eca9d447/application"
+    },
+    "vanshb03:rtx::vanshb03-5cbaedb9-8b20-47ed-b530-48732c63faf9": {
+      "company": "RTX",
+      "duplicate_of": "simplify:rtx::simplify-d6b959d0-3774-41d6-bc89-d62b84ca38bf",
+      "first_seen": "2026-10-22T19:44:18+00:00",
+      "last_seen": "2026-10-22T19:44:18+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1792690514",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451"
     },
     "vanshb03:safran::vanshb03-d4d8496f-7104-4259-b775-6a77600f6f34": {
       "company": "Safran",
@@ -62839,5 +62891,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T17:02:46+00:00"
+  "updated_at": "2026-10-22T19:44:55+00:00"
 }
