@@ -1,5 +1,5 @@
 {
-  "count": 7482,
+  "count": 7483,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -39963,6 +39963,16 @@
       "title": "Junior Software Engineer",
       "url": "https://petersontechnologies.applytojob.com/apply/ma86Yof82u/Junior-Software-Engineer"
     },
+    "simplify:petfolk::simplify-101d6598-2e85-4e94-89dd-6aaf227ae221": {
+      "company": "Petfolk",
+      "first_seen": "2026-10-22T08:32:09+00:00",
+      "last_seen": "2026-10-22T08:32:09+00:00",
+      "location": "NYC",
+      "posted_at": "1784596680",
+      "source": "simplify",
+      "title": "Strategy Lead, AI - AI-Operations/Medops",
+      "url": "https://ats.rippling.com/petfolk/jobs/0d50eac0-a5ca-4094-a14d-98a48b702c81"
+    },
     "simplify:pg&e::simplify-de2e7aef-3f85-4d5d-a785-80237b864ee3": {
       "company": "PG&E",
       "first_seen": "2026-10-01T00:31:32+00:00",
@@ -62696,5 +62706,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T06:32:10+00:00"
+  "updated_at": "2026-10-22T08:32:14+00:00"
 }
