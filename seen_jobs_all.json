@@ -1,5 +1,5 @@
 {
-  "count": 7488,
+  "count": 7489,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -31344,6 +31344,16 @@
       "posted_at": "1783555200",
       "title": "Entry Level Software Developer",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923"
+    },
+    "simplify:leidos::simplify-cfb5c410-4f53-4c7d-ac5a-eafa72cfbe58": {
+      "company": "Leidos",
+      "first_seen": "2026-10-22T12:32:27+00:00",
+      "last_seen": "2026-10-22T12:32:27+00:00",
+      "location": "Huntsville, AL",
+      "posted_at": "1787616000",
+      "source": "simplify",
+      "title": "Electronic Warfare Software Engineer",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/2682-Huntsville-AL/Electronic-Warfare-Software-Engineer_R-00190536"
     },
     "simplify:leidos::simplify-e61c4916-6a49-4922-a691-73e2250dd9c9": {
       "company": "Leidos",
@@ -62757,5 +62767,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T11:33:27+00:00"
+  "updated_at": "2026-10-22T12:32:30+00:00"
 }
