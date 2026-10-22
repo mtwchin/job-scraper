@@ -1,5 +1,5 @@
 {
-  "count": 7420,
+  "count": 7421,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2009,6 +2009,16 @@
       "posted_at": "2026-08-20T19:40:25-04:00",
       "title": "Software Engineering Intern (2027 Start) - Winter",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
+    },
+    "databricks::8907988002": {
+      "company": "Databricks",
+      "first_seen": "2026-10-22T13:31:42+00:00",
+      "last_seen": "2026-10-22T13:31:42+00:00",
+      "location": "New York City, New York",
+      "posted_at": "2026-10-22T09:31:19-04:00",
+      "source": "",
+      "title": "Associate Forward Deployed Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002"
     },
     "datadog::7646452": {
       "company": "Datadog",
@@ -62073,5 +62083,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T11:03:12+00:00"
+  "updated_at": "2026-10-22T13:32:26+00:00"
 }
