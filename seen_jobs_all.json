@@ -1,5 +1,5 @@
 {
-  "count": 7501,
+  "count": 7533,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -630,6 +630,15 @@
       "source": "simplify",
       "title": "Mechanical Engineer Intern",
       "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627"
+    },
+    "skydio::89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd": {
+      "attempted_at": "2026-10-22T19:46:19+00:00",
+      "company": "Skydio",
+      "location": "San Mateo, California, United States",
+      "posted_at": "2026-10-22T19:44:53.854+00:00",
+      "source": "",
+      "title": "Frontend Software Engineer Intern - Summer 2027",
+      "url": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd"
     },
     "vanshb03:caci::vanshb03-24dd6f67-0f24-4af4-be49-c619d04f0cb6": {
       "attempted_at": "2026-10-19T00:20:33+00:00",
@@ -3287,6 +3296,16 @@
       "title": "Year at Palantir - Software Engineer, Internship",
       "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329"
     },
+    "palantir::66b495eb-aaf9-4bf9-a759-41854534add7": {
+      "company": "Palantir",
+      "first_seen": "2026-10-22T21:35:28+00:00",
+      "last_seen": "2026-10-22T21:35:28+00:00",
+      "location": "New York, NY",
+      "posted_at": "1792704868169",
+      "source": "",
+      "title": "Forward Deployed Software Engineer, New Grad - Warp Speed",
+      "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7"
+    },
     "palantir::701a9307-0619-45d3-b077-cabe9897cd12": {
       "company": "Palantir",
       "first_seen": "2026-08-31T20:53:23+00:00",
@@ -3380,6 +3399,16 @@
       "posted_at": "1750950062839",
       "title": "Software Engineer, Internship - Infrastructure",
       "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3"
+    },
+    "palantir::b3d81928-6c26-432f-8a0a-36602c2eefcb": {
+      "company": "Palantir",
+      "first_seen": "2026-10-22T21:38:36+00:00",
+      "last_seen": "2026-10-22T21:38:36+00:00",
+      "location": "New York, NY",
+      "posted_at": "1792705069924",
+      "source": "",
+      "title": "Forward Deployed Software Engineer, Internship - Warp Speed",
+      "url": "https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb"
     },
     "palantir::bdcfb29f-4f27-42de-933f-7f83a359b9f0": {
       "company": "Palantir",
@@ -4434,6 +4463,36 @@
       "title": "Engineering Fellow",
       "url": "https://job-boards.greenhouse.io/10alabs/jobs/4203095009"
     },
+    "simplify:1password::simplify-1c5e8952-b8d8-438e-a4a2-0c43e815da28": {
+      "company": "1Password",
+      "first_seen": "2026-10-22T22:32:08+00:00",
+      "last_seen": "2026-10-22T22:32:08+00:00",
+      "location": "Remote in USA, Remote in Canada",
+      "posted_at": "1792707736",
+      "source": "simplify",
+      "title": "Developer Intern - Machine Identity",
+      "url": "https://jobs.ashbyhq.com/1password/6a6869a7-98d2-43e3-b9b5-b68fa4daeb9f/application?embed=true"
+    },
+    "simplify:1password::simplify-28e22b29-32bb-4e01-8a30-19fea4fe8f28": {
+      "company": "1Password",
+      "first_seen": "2026-10-22T22:32:08+00:00",
+      "last_seen": "2026-10-22T22:32:08+00:00",
+      "location": "Remote in USA, Remote in Canada",
+      "posted_at": "1792707736",
+      "source": "simplify",
+      "title": "Developer Intern - Provisioning",
+      "url": "https://jobs.ashbyhq.com/1password/c5289ef1-e919-4672-85c5-ee3112f9ddb9/application?embed=true"
+    },
+    "simplify:1password::simplify-379fb3aa-7732-4809-8b51-dac32b966e6c": {
+      "company": "1Password",
+      "first_seen": "2026-10-22T22:32:08+00:00",
+      "last_seen": "2026-10-22T22:32:08+00:00",
+      "location": "Remote in USA, Remote in Canada",
+      "posted_at": "1792707736",
+      "source": "simplify",
+      "title": "Developer Intern - Extension Excellence",
+      "url": "https://jobs.ashbyhq.com/1password/7f1732a6-5317-4319-82b9-67c62e88d491/application?embed=true"
+    },
     "simplify:1password::simplify-4474324d-fc29-44ab-ac6b-ad29c0babae6": {
       "company": "1Password",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -4451,12 +4510,32 @@
       "title": "Junior Developer",
       "url": "https://jobs.ashbyhq.com/1password/a492badd-a02f-4360-aa15-7ea8c6e2c85e/application?embed=true"
     },
+    "simplify:1password::simplify-a8540a76-75da-4ebe-9e00-0e8eefa3b9cf": {
+      "company": "1Password",
+      "first_seen": "2026-10-22T22:32:08+00:00",
+      "last_seen": "2026-10-22T22:32:08+00:00",
+      "location": "Remote in USA, Remote in Canada",
+      "posted_at": "1792707736",
+      "source": "simplify",
+      "title": "Developer Intern - Front-End Platform",
+      "url": "https://jobs.ashbyhq.com/1password/71a3afd1-12b3-4f55-a3bd-fc4e7c46ee37/application?embed=true"
+    },
     "simplify:1password::simplify-b329a355-37a2-4a60-8ff5-bc9b42bf00c0": {
       "company": "1Password",
       "first_seen": "2026-07-02T21:01:41+00:00",
       "posted_at": "1781820605",
       "title": "Developer Intern - Service Development",
       "url": "https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/application"
+    },
+    "simplify:1password::simplify-c4f7b9a7-0136-490c-891e-ee3a84d6864c": {
+      "company": "1Password",
+      "first_seen": "2026-10-22T22:32:08+00:00",
+      "last_seen": "2026-10-22T22:32:08+00:00",
+      "location": "Remote in USA, Remote in Canada",
+      "posted_at": "1792707736",
+      "source": "simplify",
+      "title": "Developer Intern - Vault Team",
+      "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true"
     },
     "simplify:2020 companies::simplify-4499e3de-6ca9-43b8-8614-fa4b79582a4b": {
       "company": "2020 Companies",
@@ -6230,7 +6309,7 @@
     "simplify:allstate::simplify-ba0364a9-1ac6-476c-bce0-118895d7a5ed": {
       "company": "Allstate",
       "first_seen": "2026-10-20T15:01:57+00:00",
-      "last_seen": "2026-10-20T15:01:57+00:00",
+      "last_seen": "2026-10-22T22:32:08+00:00",
       "location": "North Carolina",
       "posted_at": "1792454400",
       "source": "simplify",
@@ -8589,6 +8668,16 @@
       "title": "Summer Intern - Youngstown State University",
       "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Warren-OH---USA/Summer-Intern---Youngstown-State-University_J000704519"
     },
+    "simplify:aptiv::simplify-63c7d7a6-4964-432d-972e-f9f90380aed6": {
+      "company": "Aptiv",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "Kanata, Ottawa, ON, Canada",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Linux Engineer Intern",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Engineering-Intern_J000704371"
+    },
     "simplify:aptiv::simplify-7f8ded4e-5bcc-463e-baf8-7a13f3369116": {
       "company": "Aptiv",
       "first_seen": "2026-10-09T09:32:07+00:00",
@@ -8608,6 +8697,16 @@
       "source": "simplify",
       "title": "Linux Software Development Intern",
       "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399"
+    },
+    "simplify:aptiv::simplify-8d4d5499-21b2-4dc5-a784-9148fa54bfd3": {
+      "company": "Aptiv",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "Kanata, Ottawa, ON, Canada",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Linux Intern",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Linux-Intern_J000704370"
     },
     "simplify:aptiv::simplify-9fe5cb59-10c4-44a8-80e4-6cb6542c2889": {
       "company": "Aptiv",
@@ -9941,6 +10040,16 @@
       "source": "simplify",
       "title": "Software Engineer - Junior/Intermediate",
       "url": "https://jobs.ashbyhq.com/automat/a4172515-0353-47ec-9c71-631a294aa137/application?embed=true"
+    },
+    "simplify:autostore::simplify-b41aacae-898e-465a-8545-99f3f8ec54ec": {
+      "company": "Autostore",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Software-Engineer_JR102735-1"
     },
     "simplify:autostore::simplify-e0d5fa3b-7f59-44fd-a66e-2752562258b6": {
       "company": "Autostore",
@@ -11413,6 +11522,16 @@
       "title": "Entry-Level Software Engineer Developer",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1"
     },
+    "simplify:boeing::simplify-7a61173c-4b74-46ad-bf86-831048ae1170": {
+      "company": "Boeing",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "Maryland Heights, MO, Hazelwood, MO",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Entry-Level Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1"
+    },
     "simplify:boeing::simplify-96ce500e-5e6d-4796-8787-89a69ab30d04": {
       "company": "Boeing",
       "first_seen": "2026-09-10T00:38:47+00:00",
@@ -12382,6 +12501,16 @@
       "source": "simplify",
       "title": "Junior Full Stack Software Engineer",
       "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Newark-NJ/Full-Stack-Software-Engineer--Hybrid-_JR1086388"
+    },
+    "simplify:brookhaven lab::simplify-7ca05d58-84bd-46f5-a7fd-18ff83187dc1": {
+      "company": "Brookhaven Lab",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "Upton, Brookhaven, NY",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Data Engineering Student Assistant Intern",
+      "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Data-Engineering-Student-Assistant_JR102753"
     },
     "simplify:brown & brown insurance::simplify-0a264790-fc03-4d54-97bd-6403679d2ff3": {
       "company": "Brown & Brown Insurance",
@@ -14734,6 +14863,16 @@
       "title": "Technical Consultant - Early Careers",
       "url": "https://jobs.lever.co/casino-cash-trac/7ce28efa-000e-4848-9972-ade20d8694a1/apply"
     },
+    "simplify:cdk global::simplify-2085ccad-8d75-4447-984d-d190fde07eb0": {
+      "company": "CDK Global",
+      "first_seen": "2026-10-22T22:32:10+00:00",
+      "last_seen": "2026-10-22T22:32:10+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9204"
+    },
     "simplify:cdk global::simplify-2d9eafef-4f51-4b00-9778-8056f9e763ec": {
       "company": "CDK Global",
       "first_seen": "2026-08-31T20:53:24+00:00",
@@ -15318,7 +15457,7 @@
     "simplify:cibc::simplify-a3057bae-dd6b-423a-aa65-19b37fac301b": {
       "company": "CIBC",
       "first_seen": "2026-09-22T23:43:37+00:00",
-      "last_seen": "2026-10-12T00:00:16+00:00",
+      "last_seen": "2026-10-22T22:32:08+00:00",
       "location": "Toronto, ON, Canada",
       "posted_at": "1790035200",
       "source": "simplify",
@@ -15664,7 +15803,7 @@
     "simplify:citadel securities::simplify-495929ef-4f6f-4cdb-9c26-6156e4966b6b": {
       "company": "Citadel Securities",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-10-22T22:32:08+00:00",
       "posted_at": "1783328994",
       "title": "Graduate Software Engineer",
       "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/"
@@ -15672,7 +15811,7 @@
     "simplify:citadel securities::simplify-c76dbe61-c0f6-47a8-b05e-b219b4e28fb7": {
       "company": "Citadel Securities",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-10-22T22:32:08+00:00",
       "posted_at": "1783318197",
       "title": "Software Engineer Intern",
       "url": "https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/"
@@ -17704,6 +17843,16 @@
       "source": "simplify",
       "title": "Associate Software Development Engineer - Conversion",
       "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/GA---Alpharetta/Associate-Software-Development-Engineer--Conversion-_R1055768"
+    },
+    "simplify:cvs health::simplify-68e4bba0-a727-469b-85b3-b908918f535a": {
+      "company": "CVS Health",
+      "first_seen": "2026-10-22T22:32:10+00:00",
+      "last_seen": "2026-10-22T22:32:10+00:00",
+      "location": "Connecticut",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Associate AI Engineer - Conversion",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Work-from-home/Associate-AI-Engineer--Conversion-_R1077377"
     },
     "simplify:cvs health::simplify-784ec0c4-a853-4f22-a2e6-437ab3932836": {
       "company": "CVS Health",
@@ -21901,6 +22050,16 @@
       "title": "Scientific Computing New Grad - Rising Stars",
       "url": "https://apply.workable.com/flexcompute/j/75BA5AB5DC/apply"
     },
+    "simplify:flexera::simplify-d6c7c535-f4ec-487d-b0cc-28b9a4e942b1": {
+      "company": "Flexera",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Senior Software Engineer",
+      "url": "https://flexerasoftware.wd1.myworkdayjobs.com/FlexeraSoftware/job/Home-United-States/Senior-AI-Augmented-Software-Engineer_17762"
+    },
     "simplify:flexgen::simplify-d0c5c25a-e0ac-488e-8b2f-feb1134545b5": {
       "company": "FlexGen",
       "first_seen": "2026-07-31T12:11:59+00:00",
@@ -22031,6 +22190,26 @@
       "posted_at": "1784067787",
       "title": "Test Software Intern",
       "url": "https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543"
+    },
+    "simplify:formlabs::simplify-6b403ecb-e347-4da1-909a-4874e69f0c32": {
+      "company": "Formlabs",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "Somerville, MA",
+      "posted_at": "1792707276",
+      "source": "simplify",
+      "title": "Senior Software Engineer - API & Automation",
+      "url": "https://careers.formlabs.com/job/8316018/apply/?gh_jid=8316018"
+    },
+    "simplify:formlabs::simplify-6c1c7495-d515-4497-94fe-ac9ecca9421d": {
+      "company": "Formlabs",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "Somerville, MA",
+      "posted_at": "1792707275",
+      "source": "simplify",
+      "title": "Manufacturing Test Software Intern",
+      "url": "https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004"
     },
     "simplify:formlabs::simplify-6d7eaee5-c397-4318-a363-1aca5bdb6bde": {
       "company": "Formlabs",
@@ -23120,6 +23299,16 @@
       "source": "simplify",
       "title": "Applied GenAI Scientist Intern - GenAI Applications",
       "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---GenAI-Applications_202610-125229"
+    },
+    "simplify:genentech::simplify-b01920f5-b93e-452e-b431-adc1e6351ea2": {
+      "company": "Genentech",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "South SF",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Data Science & Machine Learning Intern - Agentic AI Discovery & Prototyping",
+      "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---Data-Science---Machine-Learning_202609-124657"
     },
     "simplify:generac::simplify-1198914e-0b05-4c13-a78b-3ef38d2f9697": {
       "company": "Generac",
@@ -27588,6 +27777,16 @@
       "title": "Software Engineer Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834"
     },
+    "simplify:intel::simplify-ccdb3dc3-8922-4bcb-b317-28364bbe1843": {
+      "company": "Intel",
+      "first_seen": "2026-10-22T22:32:07+00:00",
+      "last_seen": "2026-10-22T22:32:07+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Compiler Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Graduate-Intern_JR0287933"
+    },
     "simplify:intel::simplify-dc78ae5b-1e53-4193-9e47-0549b350dd79": {
       "company": "Intel",
       "first_seen": "2026-07-31T12:11:58+00:00",
@@ -28188,6 +28387,16 @@
       "posted_at": "1785537409",
       "title": "Associate AI Builder - Liberty",
       "url": "https://job-boards.greenhouse.io/itslogisticsllc/jobs/5376450008"
+    },
+    "simplify:ivalua::simplify-b33840e8-18c3-4caf-af11-3ede11899f1b": {
+      "company": "Ivalua",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "NYC",
+      "posted_at": "1792706704",
+      "source": "simplify",
+      "title": "Marketing Web Developer Intern",
+      "url": "https://boards.greenhouse.io/ivalua/jobs/8293704"
     },
     "simplify:ivo::simplify-1ca94190-fd1a-4531-953f-194660778ad9": {
       "company": "Ivo",
@@ -31509,7 +31718,7 @@
     "simplify:leonardo::simplify-1e7773d3-204e-4be0-84c6-7d80b5db80ff": {
       "company": "Leonardo",
       "first_seen": "2026-10-16T14:35:00+00:00",
-      "last_seen": "2026-10-19T15:06:02+00:00",
+      "last_seen": "2026-10-22T22:32:08+00:00",
       "location": "Basildon, UK",
       "posted_at": "1792108800",
       "source": "simplify",
@@ -32273,6 +32482,16 @@
       "posted_at": "1783900800",
       "title": "Technology Intern - Multiple Teams",
       "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Internship-Program_R88052"
+    },
+    "simplify:m&t bank::simplify-5f79145f-11ea-456d-bcbc-a37ab2cfed7a": {
+      "company": "M&T Bank",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "Buffalo, NY",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Technology Intern - Software Engineering - Enterprise API Services Development Team",
+      "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812"
     },
     "simplify:m&t bank::simplify-77ad5970-6566-4dd2-a2ba-443fdd8e38a9": {
       "company": "M&T Bank",
@@ -35754,6 +35973,16 @@
       "title": "Software Engineer",
       "url": "https://www.nexhealth.com/careers/open-positions?gh_jid=6014570004"
     },
+    "simplify:nexla::simplify-ad80182d-6058-4c44-9e30-6e7c194b4930": {
+      "company": "Nexla",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "San Mateo, CA",
+      "posted_at": "1792707574",
+      "source": "simplify",
+      "title": "Forward Deployed Engineer - Data Integration",
+      "url": "https://job-boards.greenhouse.io/nexla/jobs/4746760005"
+    },
     "simplify:nextgen federal systems::simplify-d557630f-831a-471f-a70b-deeebe4ca3a6": {
       "company": "NextGen Federal Systems",
       "first_seen": "2026-07-14T22:33:53+00:00",
@@ -36453,7 +36682,7 @@
     "simplify:northrop grumman::simplify-2b8a623c-d139-413c-aff2-d9afce6a38e4": {
       "company": "Northrop Grumman",
       "first_seen": "2026-10-01T00:31:32+00:00",
-      "last_seen": "2026-10-03T00:00:31+00:00",
+      "last_seen": "2026-10-22T22:32:08+00:00",
       "location": "Tampa, FL",
       "posted_at": "1790035200",
       "source": "simplify",
@@ -38292,6 +38521,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08/application?embed=true"
     },
+    "simplify:opensesame::simplify-815329f1-cd74-499b-977c-33adb4f5150c": {
+      "company": "OpenSesame",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1792707892",
+      "source": "simplify",
+      "title": "AI Product Builder Intern",
+      "url": "https://boards.greenhouse.io/opensesame/jobs/8313424"
+    },
     "simplify:openworks engineering::simplify-6b1e085b-2dea-4281-b981-a744258f70a4": {
       "company": "OpenWorks Engineering",
       "first_seen": "2026-09-09T18:02:12+00:00",
@@ -39446,6 +39685,16 @@
       "posted_at": "1774649685",
       "title": "Software Engineer - Entry",
       "url": "https://job-boards.greenhouse.io/patterndata/jobs/5092337007"
+    },
+    "simplify:pattern::simplify-31855c60-6c99-45e6-81b1-283b023df4b1": {
+      "company": "Pattern",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "Lehi, UT",
+      "posted_at": "1792707886",
+      "source": "simplify",
+      "title": "AI Infrastructure Engineer Intern",
+      "url": "https://jobs.lever.co/pattern/5c0c1963-87c5-48d7-8da9-0c79121fe443/apply"
     },
     "simplify:payit::simplify-896a2ce6-0e75-40f5-9b7e-811079dfe6bb": {
       "company": "PayIt",
@@ -41130,6 +41379,7 @@
     "simplify:qorvo::simplify-8decbc9f-51db-465d-82d6-b6dfca4baf0f": {
       "company": "Qorvo",
       "first_seen": "2026-08-31T07:34:23+00:00",
+      "last_seen": "2026-10-22T22:32:08+00:00",
       "posted_at": "1788153920",
       "title": "Software Engineer Intern",
       "url": "https://careers.qorvo.com/job/Richardson-Software-Engineer-Intern-TX-75080/1421457600/?ats=successfactors"
@@ -43109,6 +43359,16 @@
       "posted_at": "1776377502",
       "title": "Junior Software Engineer",
       "url": "https://apply.workable.com/rokt/j/783A754DDB/apply"
+    },
+    "simplify:rokt::simplify-ea863c93-964b-415e-ac0c-adbf23ed5d9c": {
+      "company": "Rokt",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "NYC",
+      "posted_at": "1792706853",
+      "source": "simplify",
+      "title": "Junior Software Engineer Resident",
+      "url": "https://apply.workable.com/rokt/j/616F2D0286/apply"
     },
     "simplify:roku::simplify-099d2b2d-cbfc-40bd-957b-563be9992d9e": {
       "company": "Roku",
@@ -47920,6 +48180,16 @@
       "title": "Software Engineer - High Assurance Test - Starshield",
       "url": "https://boards.greenhouse.io/spacex/jobs/8550675002"
     },
+    "simplify:spacex::simplify-40068b1c-1318-4f31-b141-aa63e3c51300": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-22T22:31:47+00:00",
+      "last_seen": "2026-10-22T22:31:47+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1792708018",
+      "source": "simplify",
+      "title": "Software Engineer - Linux Kernel - Starlink",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8852114002"
+    },
     "simplify:spacex::simplify-404802e3-b765-48db-b1b1-78b712cdd293": {
       "company": "SpaceX",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -48157,6 +48427,16 @@
       "title": "New Graduate Engineer - Software - Starlink",
       "url": "https://boards.greenhouse.io/spacex/jobs/8376990002"
     },
+    "simplify:spacex::simplify-dce78796-c3cc-4b57-827a-6fa91cc08682": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-22T22:31:47+00:00",
+      "last_seen": "2026-10-22T22:31:47+00:00",
+      "location": "Bellevue, WA",
+      "posted_at": "1792708017",
+      "source": "simplify",
+      "title": "Software Engineer, Linux Kernel - Linux Kernel",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8852121002"
+    },
     "simplify:spacex::simplify-e49aa991-ccca-47e8-9561-11cabf65f0a1": {
       "company": "SpaceX",
       "first_seen": "2026-10-04T00:30:22+00:00",
@@ -48319,6 +48599,16 @@
       "source": "simplify",
       "title": "Full-Stack Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e/application?embed=true"
+    },
+    "simplify:sps commerce::simplify-67e5c9f9-1402-4295-b8ba-485f68212f76": {
+      "company": "SPS Commerce",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "Minneapolis, MN",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://spscommerce.wd108.myworkdayjobs.com/SPS/job/US-MN-Minneapolis-Office/Software-Engineer-Intern_R-001398"
     },
     "simplify:sps commerce::simplify-e191313c-19e0-40f7-8729-69778579b693": {
       "company": "SPS Commerce",
@@ -51371,6 +51661,16 @@
       "title": "Software Engineer Intern",
       "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Grad-Intern_R016759"
     },
+    "simplify:the aerospace corporation::simplify-96b6092b-58e1-4305-a553-4a0f1784d9f2": {
+      "company": "The Aerospace Corporation",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "Chantilly, VA",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Junior Full Stack Engineer - Associate Member of Technical Staff - Software Architecture Engineering and Cloud Computing Architecture",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/Junior-Full-Stack-Engineer_R016972"
+    },
     "simplify:the aerospace corporation::simplify-98e68ffb-731f-4f1a-ade0-5907c36a9b8c": {
       "company": "The Aerospace Corporation",
       "first_seen": "2026-09-22T00:35:19+00:00",
@@ -51930,7 +52230,7 @@
     "simplify:the walt disney company::simplify-12634088-9777-452c-9095-9f2de268d1e0": {
       "company": "The Walt Disney Company",
       "first_seen": "2026-08-19T21:11:49+00:00",
-      "last_seen": "2026-10-07T15:35:22+00:00",
+      "last_seen": "2026-10-22T22:32:08+00:00",
       "posted_at": "1782914899",
       "title": "Product Software Engineer 1",
       "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Product-Software-Engineer-I_10151599-2"
@@ -54898,6 +55198,16 @@
       "title": "Software Engineer Intern",
       "url": "https://homeoffice-na-urbn.icims.com/jobs/30602/job?mobile=true&needsRedirect=false"
     },
+    "simplify:ursa major::simplify-fd09f346-c36c-4ce5-8491-1ad9de70aabd": {
+      "company": "Ursa Major",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "Berthoud, CO",
+      "posted_at": "1792706741",
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://ursamajor.com/careers/?gh_jid=4746827005"
+    },
     "simplify:us foods::simplify-48b53b80-88a1-48a0-bb79-81d7488f9e3d": {
       "company": "US Foods",
       "first_seen": "2026-09-02T00:29:34+00:00",
@@ -55545,6 +55855,16 @@
       "source": "simplify",
       "title": "Competitive Intelligence AI Engineer Intern",
       "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101"
+    },
+    "simplify:veeda ai::simplify-2ec65e14-bcd0-4e89-af40-02da2affff7e": {
+      "company": "Veeda AI",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1792707178",
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/veeda-ai/84dfad5c-d790-4c4a-9411-40b676b1abbb/application?embed=true"
     },
     "simplify:veeva systems::simplify-0b7e7043-7827-4ce9-ad37-87f67ec5375b": {
       "company": "Veeva Systems",
@@ -57002,6 +57322,16 @@
       "posted_at": "1787602669",
       "title": "Computer Engineering / Software Engineering Intern",
       "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Computer-Engineering-Software-Engineering-NC/1422595200/?ats=successfactors"
+    },
+    "simplify:westinghouse electric company::simplify-66fe6724-ef82-4474-b024-ee942c90d16b": {
+      "company": "Westinghouse Electric Company",
+      "first_seen": "2026-10-22T22:32:09+00:00",
+      "last_seen": "2026-10-22T22:32:09+00:00",
+      "location": "Warrendale, PA",
+      "posted_at": "1792708024",
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Software-Engineering-OR/1442826200/?ats=successfactors"
     },
     "simplify:westinghouse electric company::simplify-674e587c-edc9-497e-b2f3-325b559527a2": {
       "company": "Westinghouse Electric Company",
@@ -62891,5 +63221,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T19:44:55+00:00"
+  "updated_at": "2026-10-22T22:33:10+00:00"
 }
