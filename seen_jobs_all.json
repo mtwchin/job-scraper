@@ -1,5 +1,5 @@
 {
-  "count": 7485,
+  "count": 7487,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -29560,6 +29560,7 @@
     "simplify:kearney::simplify-9e130b58-5f39-4a5b-b464-85ddbc71940d": {
       "company": "Kearney",
       "first_seen": "2026-08-01T22:24:31+00:00",
+      "last_seen": "2026-10-22T09:32:10+00:00",
       "posted_at": "1785277454",
       "title": "Full Stack Developer",
       "url": "https://kearney.taleo.net/careersection/01/jobdetail.ftl?job=006JX"
@@ -46853,6 +46854,16 @@
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/siftstack/0d65481e-e762-4d8f-ae38-5040754a5134/application?embed=true"
     },
+    "simplify:sight machine::simplify-8e041bd2-6931-44d4-bceb-82bc73062c1f": {
+      "company": "Sight Machine",
+      "first_seen": "2026-10-22T09:32:10+00:00",
+      "last_seen": "2026-10-22T09:32:10+00:00",
+      "location": "SF",
+      "posted_at": "1776146977",
+      "source": "simplify",
+      "title": "Platform Backend Engineer",
+      "url": "https://ats.rippling.com/sightmachine/jobs/a2b3026d-f155-488c-9345-d954537e8367"
+    },
     "simplify:sightcall::simplify-06d4f7fc-332c-4434-9f9b-abc6fc22ddca": {
       "company": "SightCall",
       "first_seen": "2026-08-18T01:43:55+00:00",
@@ -61593,6 +61604,16 @@
       "title": "Commercial UI Software Engineer Intern, Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/248805"
     },
+    "vanshb03:tesla::vanshb03-66255d25-16a2-4d86-b9f2-b8cba746694f": {
+      "company": "Tesla",
+      "first_seen": "2026-10-22T09:31:47+00:00",
+      "last_seen": "2026-10-22T09:31:47+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1778313304",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Maps & Navigation Validation",
+      "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-maps-navigation-validation-fall-2026--270186"
+    },
     "vanshb03:tesla::vanshb03-8c025004-2b27-43e8-8d60-a9f2eca60b3a": {
       "company": "Tesla",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -62726,5 +62747,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T09:02:19+00:00"
+  "updated_at": "2026-10-22T09:32:22+00:00"
 }
