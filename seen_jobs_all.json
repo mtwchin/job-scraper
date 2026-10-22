@@ -1,5 +1,5 @@
 {
-  "count": 7487,
+  "count": 7488,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -54346,6 +54346,16 @@
       "title": "Software Development Intern",
       "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R265684"
     },
+    "simplify:uline::simplify-e41fbb04-5d3a-4afb-bf00-859f48e0a2aa": {
+      "company": "Uline",
+      "first_seen": "2026-10-22T11:33:27+00:00",
+      "last_seen": "2026-10-22T11:33:27+00:00",
+      "location": "Waukegan, IL, Milwaukee, WI, Glenview, IL, Pleasant Prairie, WI, Kenosha, WI",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537"
+    },
     "simplify:umc health system::simplify-ad81f1a7-6557-4e78-8f50-eca834b17a15": {
       "company": "UMC Health System",
       "first_seen": "2026-07-30T22:42:25+00:00",
@@ -62747,5 +62757,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T11:32:25+00:00"
+  "updated_at": "2026-10-22T11:33:27+00:00"
 }
