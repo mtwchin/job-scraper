@@ -1,5 +1,5 @@
 {
-  "count": 7422,
+  "count": 7423,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1162,6 +1162,16 @@
       "source": "",
       "title": "Software Development Engineer I \u2013 AI/ML Network Infrastructure, Annapurna Labs",
       "url": "https://www.amazon.jobs/en/jobs/10584797/software-development-engineer-i-ai-ml-network-infrastructure-annapurna-labs"
+    },
+    "amazon::10586548": {
+      "company": "Amazon",
+      "first_seen": "2026-10-22T17:03:16+00:00",
+      "last_seen": "2026-10-22T17:03:16+00:00",
+      "location": "Detroit, Michigan, USA",
+      "posted_at": "October 22, 2026",
+      "source": "",
+      "title": "Jr. Software Development Engineer - Detroit, MI, Jr. Developer Program",
+      "url": "https://www.amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -62093,5 +62103,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T15:43:37+00:00"
+  "updated_at": "2026-10-22T17:03:40+00:00"
 }
