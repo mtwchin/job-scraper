@@ -1,5 +1,5 @@
 {
-  "count": 7423,
+  "count": 7425,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -57873,6 +57873,26 @@
       "title": "Software Engineer I",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8879673002"
     },
+    "twitch::8886605002": {
+      "company": "Twitch",
+      "first_seen": "2026-10-22T19:19:35+00:00",
+      "last_seen": "2026-10-22T19:19:35+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "2026-10-22T15:18:02-04:00",
+      "source": "",
+      "title": "Undergrad Software Engineering Intern (Grad Year: Winter 2027)",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8886605002"
+    },
+    "twitch::8886748002": {
+      "company": "Twitch",
+      "first_seen": "2026-10-22T19:19:35+00:00",
+      "last_seen": "2026-10-22T19:19:35+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "2026-10-22T15:17:18-04:00",
+      "source": "",
+      "title": "Undergrad Software Engineering Intern (Grad Year: Spring 2028)",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8886748002"
+    },
     "twitch::8906750002": {
       "company": "Twitch",
       "duplicate_of": "twitch::8879673002",
@@ -62103,5 +62123,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T17:03:40+00:00"
+  "updated_at": "2026-10-22T19:19:48+00:00"
 }
