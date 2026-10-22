@@ -1,5 +1,5 @@
 {
-  "count": 7418,
+  "count": 7419,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -60250,6 +60250,16 @@
       "title": "Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05"
     },
+    "vanshb03:qualcomm::vanshb03-2a848b71-f695-44eb-bffc-cb912a1636cf": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-22T02:34:25+00:00",
+      "last_seen": "2026-10-22T02:34:25+00:00",
+      "location": "Markham, ON, Canada",
+      "posted_at": "1792621575",
+      "source": "vanshb03",
+      "title": "Display Systems Engineer Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721661677"
+    },
     "vanshb03:qualtrics::vanshb03-30e20599-08d5-4f27-a53d-281034abd678": {
       "company": "Qualtrics",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -62052,5 +62062,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T01:33:15+00:00"
+  "updated_at": "2026-10-22T02:34:44+00:00"
 }
