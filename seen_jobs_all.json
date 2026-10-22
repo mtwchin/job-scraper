@@ -1,5 +1,5 @@
 {
-  "count": 7489,
+  "count": 7495,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2009,6 +2009,16 @@
       "posted_at": "2026-08-20T19:40:25-04:00",
       "title": "Software Engineering Intern (2027 Start) - Winter",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
+    },
+    "databricks::8907988002": {
+      "company": "Databricks",
+      "first_seen": "2026-10-22T13:31:42+00:00",
+      "last_seen": "2026-10-22T13:31:42+00:00",
+      "location": "New York City, New York",
+      "posted_at": "2026-10-22T09:31:19-04:00",
+      "source": "",
+      "title": "Associate Forward Deployed Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002"
     },
     "datadog::7646452": {
       "company": "Datadog",
@@ -16523,6 +16533,28 @@
       "posted_at": "1786687014",
       "title": "Forward Deployed Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/composio/f83a19a0-8188-4100-9dd5-b259efb342e6/application?embed=true"
+    },
+    "simplify:computershare::simplify-319cbcee-d50c-4be3-965d-86b2c09bdc4a": {
+      "company": "Computershare",
+      "duplicate_of": "simplify:computershare::simplify-57c3e597-0998-4bdd-93ed-9ff2e7e67cee",
+      "first_seen": "2026-10-22T14:32:27+00:00",
+      "last_seen": "2026-10-22T14:32:27+00:00",
+      "location": "Bristol, UK",
+      "posted_at": "1792678054",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Graduate AI Engineer",
+      "url": "https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/13282"
+    },
+    "simplify:computershare::simplify-57c3e597-0998-4bdd-93ed-9ff2e7e67cee": {
+      "company": "Computershare",
+      "first_seen": "2026-10-22T14:32:28+00:00",
+      "last_seen": "2026-10-22T14:32:28+00:00",
+      "location": "Edinburgh, UK; Bristol, UK",
+      "posted_at": "1792678054",
+      "source": "simplify",
+      "title": "Graduate AI Engineer",
+      "url": "https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/13281"
     },
     "simplify:computershare::simplify-7090a37a-afc8-4ff7-a7b4-5a70bc49d5bf": {
       "company": "Computershare",
@@ -37499,6 +37531,16 @@
       "title": "Staff Engineer - DataHub",
       "url": "https://jobs.jobvite.com/nutanix/job/omPOAfwj?nl=1&nl=1&fr=false"
     },
+    "simplify:nutanix::simplify-8c79b347-4be7-4551-8b17-0eee3a073dc5": {
+      "company": "Nutanix",
+      "first_seen": "2026-10-22T14:32:28+00:00",
+      "last_seen": "2026-10-22T14:32:28+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1792678712",
+      "source": "simplify",
+      "title": "Software Developer Co-op",
+      "url": "https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false"
+    },
     "simplify:nutanix::simplify-a32df889-25e2-4ac6-8202-5cad12a2d4df": {
       "company": "Nutanix",
       "first_seen": "2026-09-23T01:35:15+00:00",
@@ -41180,6 +41222,16 @@
       "source": "simplify",
       "title": "Machine Learning Compiler Engineer - Machine Learning Engineering",
       "url": "https://qualcomm.eightfold.ai/careers/job/446717346550"
+    },
+    "simplify:qualcomm::simplify-060c5b3e-72e6-4565-8196-5327e4baf243": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-22T14:32:10+00:00",
+      "last_seen": "2026-10-22T14:32:10+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1792678332",
+      "source": "simplify",
+      "title": "Applied AI Engineering Intern - Hardware Systems",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721678733"
     },
     "simplify:qualcomm::simplify-0d26968d-9eb7-4cd0-bb5d-cb6ee2933e60": {
       "company": "Qualcomm",
@@ -49812,6 +49864,16 @@
       "posted_at": "1784764800",
       "title": "Software Engineer Associate",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1495599"
+    },
+    "simplify:td bank::simplify-b81f0d85-3704-4a61-ba56-733b528bd6ba": {
+      "company": "TD Bank",
+      "first_seen": "2026-10-22T14:32:28+00:00",
+      "last_seen": "2026-10-22T14:32:28+00:00",
+      "location": "Belfast, UK",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Technology New Grad",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Technology-Graduate-Programme_R_1518242"
     },
     "simplify:td bank::simplify-b88a8051-a762-4abf-a895-5e224dbba386": {
       "company": "TD Bank",
@@ -62767,5 +62829,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T13:03:32+00:00"
+  "updated_at": "2026-10-22T14:32:36+00:00"
 }
