@@ -1,5 +1,5 @@
 {
-  "count": 7481,
+  "count": 7482,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -25810,6 +25810,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineering-Internship--Placement-Year-_1215804"
+    },
+    "simplify:hewlett packard enterprise::simplify-e719d8fb-c202-4b96-9086-53406bbab0f7": {
+      "company": "Hewlett Packard Enterprise",
+      "first_seen": "2026-10-22T06:32:09+00:00",
+      "last_seen": "2026-10-22T06:32:09+00:00",
+      "location": "Saint-Laurent, Montreal, QC, Canada",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Software Development Intern - AI-Assisted Development",
+      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1"
     },
     "simplify:hewlett packard::simplify-2b9817d0-6f0e-47d5-a557-9594cca9ea27": {
       "company": "Hewlett Packard",
@@ -62686,5 +62696,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T06:02:07+00:00"
+  "updated_at": "2026-10-22T06:32:10+00:00"
 }
