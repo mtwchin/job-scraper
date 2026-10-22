@@ -22324,7 +22324,7 @@
     "simplify:galatea associates::simplify-dc1736a5-1d63-4f9d-b1cb-88598e3fa554": {
       "company": "Galatea Associates",
       "first_seen": "2026-10-17T09:32:20+00:00",
-      "last_seen": "2026-10-20T00:00:02+00:00",
+      "last_seen": "2026-10-22T10:02:09+00:00",
       "location": "St. Petersburg, FL",
       "posted_at": "1791929737",
       "source": "simplify",
@@ -35556,7 +35556,7 @@
     "simplify:netic::simplify-c922394e-fefa-48bc-88e6-16e52ab6de44": {
       "company": "Netic",
       "first_seen": "2026-10-13T01:38:09+00:00",
-      "last_seen": "2026-10-15T00:00:13+00:00",
+      "last_seen": "2026-10-22T10:02:09+00:00",
       "location": "SF, NYC",
       "posted_at": "1791854120",
       "source": "simplify",
@@ -62747,5 +62747,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T09:32:22+00:00"
+  "updated_at": "2026-10-22T10:02:25+00:00"
 }
