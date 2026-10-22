@@ -1,5 +1,5 @@
 {
-  "count": 7484,
+  "count": 7485,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -43840,6 +43840,16 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01869922"
     },
+    "simplify:rtx::simplify-23c417dd-4a2d-4c26-a7d1-380d2a7f24fe": {
+      "company": "RTX",
+      "first_seen": "2026-10-22T09:02:11+00:00",
+      "last_seen": "2026-10-22T09:02:11+00:00",
+      "location": "West Valley City, UT",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "Software Engineer 2",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-II--Onsite-_01883050"
+    },
     "simplify:rtx::simplify-24d89841-c8be-4eea-95fb-98701ee651a1": {
       "company": "RTX",
       "first_seen": "2026-08-04T11:32:42+00:00",
@@ -62716,5 +62726,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T08:51:16+00:00"
+  "updated_at": "2026-10-22T09:02:19+00:00"
 }
