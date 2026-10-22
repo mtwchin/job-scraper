@@ -1,5 +1,5 @@
 {
-  "count": 7483,
+  "count": 7484,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -58634,6 +58634,16 @@
       "title": "Cloud Software Engineer Intern",
       "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375"
     },
+    "vanshb03:aptiv::vanshb03-855b7638-9325-42a1-a85f-eaad6c5c77bd": {
+      "company": "Aptiv",
+      "first_seen": "2026-10-22T08:51:08+00:00",
+      "last_seen": "2026-10-22T08:51:08+00:00",
+      "location": "Troy, MI",
+      "posted_at": "1792627200",
+      "source": "vanshb03",
+      "title": "Software Development Intern",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861"
+    },
     "vanshb03:aquatic capital::vanshb03-bda8b046-3986-4f19-baf0-3fbf1bf3bc36": {
       "company": "Aquatic Capital",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -62706,5 +62716,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T08:32:14+00:00"
+  "updated_at": "2026-10-22T08:51:16+00:00"
 }
