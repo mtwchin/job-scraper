@@ -1,5 +1,5 @@
 {
-  "count": 7495,
+  "count": 7496,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -16255,7 +16255,7 @@
     "simplify:colibri group::simplify-e76fd68e-0dcf-4634-a0cb-8ecf5d2d5ec8": {
       "company": "Colibri Group",
       "first_seen": "2026-10-02T22:34:44+00:00",
-      "last_seen": "2026-10-12T00:00:16+00:00",
+      "last_seen": "2026-10-22T15:03:27+00:00",
       "location": "Pleasanton, CA",
       "posted_at": "1790978708",
       "source": "simplify",
@@ -21415,6 +21415,16 @@
       "posted_at": "1788991884",
       "title": "IT Intern",
       "url": "https://careers-federatedinsurance.icims.com/jobs/5718/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:fedex freight::simplify-a9482eaf-0940-4198-b8c8-e65d2e136819": {
+      "company": "FedEx Freight",
+      "first_seen": "2026-10-22T15:03:28+00:00",
+      "last_seen": "2026-10-22T15:03:28+00:00",
+      "location": "United States",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Media & Web Development Intern - Marketing",
+      "url": "https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Media---Web-Development--Marketing-_RC5600"
     },
     "simplify:felicity::simplify-538e7991-2b20-4492-b418-e7ac75c0c8b9": {
       "company": "Felicity",
@@ -49688,7 +49698,7 @@
     "simplify:target::simplify-8ee871d8-4385-49e0-9f0d-1f89f3ed0863": {
       "company": "Target",
       "first_seen": "2026-09-10T23:38:18+00:00",
-      "last_seen": "2026-09-21T00:04:12+00:00",
+      "last_seen": "2026-10-22T15:03:27+00:00",
       "posted_at": "1788998400",
       "title": "Software Engineer Intern",
       "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082"
@@ -62829,5 +62839,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T14:32:36+00:00"
+  "updated_at": "2026-10-22T15:03:38+00:00"
 }
