@@ -1,5 +1,5 @@
 {
-  "count": 7470,
+  "count": 7471,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -29753,6 +29753,16 @@
       "source": "simplify",
       "title": "R&D Software Engineer Intern",
       "url": "https://jobs.keysight.com/jobs/54724?icims=1"
+    },
+    "simplify:keysight technologies::simplify-7a944b5d-00b3-4976-a381-49c8b71abe4c": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-10-22T01:32:49+00:00",
+      "last_seen": "2026-10-22T01:32:49+00:00",
+      "location": "Calabasas, CA",
+      "posted_at": "1792631014",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.keysight.com/jobs/55115?icims=1"
     },
     "simplify:keysight technologies::simplify-7aa1a15a-c14e-4ed7-bccb-cb92212f2636": {
       "company": "Keysight Technologies",
@@ -62576,5 +62586,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T00:31:48+00:00"
+  "updated_at": "2026-10-22T01:32:50+00:00"
 }
