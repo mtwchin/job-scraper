@@ -1,5 +1,5 @@
 {
-  "count": 7427,
+  "count": 7429,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -15655,7 +15655,7 @@
     "simplify:citadel::simplify-410b28b6-b357-4b72-9480-bad83701b4cb": {
       "company": "Citadel",
       "first_seen": "2026-07-06T09:42:12+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-10-22T22:31:46+00:00",
       "posted_at": "1783318138",
       "title": "Software Engineer \u2013 University Graduate",
       "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/"
@@ -47473,6 +47473,16 @@
       "title": "Software Engineer - High Assurance Test - Starshield",
       "url": "https://boards.greenhouse.io/spacex/jobs/8550675002"
     },
+    "simplify:spacex::simplify-40068b1c-1318-4f31-b141-aa63e3c51300": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-22T22:31:47+00:00",
+      "last_seen": "2026-10-22T22:31:47+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1792708018",
+      "source": "simplify",
+      "title": "Software Engineer - Linux Kernel - Starlink",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8852114002"
+    },
     "simplify:spacex::simplify-404802e3-b765-48db-b1b1-78b712cdd293": {
       "company": "SpaceX",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -47709,6 +47719,16 @@
       "posted_at": "1768606797",
       "title": "New Graduate Engineer - Software - Starlink",
       "url": "https://boards.greenhouse.io/spacex/jobs/8376990002"
+    },
+    "simplify:spacex::simplify-dce78796-c3cc-4b57-827a-6fa91cc08682": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-22T22:31:47+00:00",
+      "last_seen": "2026-10-22T22:31:47+00:00",
+      "location": "Bellevue, WA",
+      "posted_at": "1792708017",
+      "source": "simplify",
+      "title": "Software Engineer, Linux Kernel - Linux Kernel",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8852121002"
     },
     "simplify:spacex::simplify-e49aa991-ccca-47e8-9561-11cabf65f0a1": {
       "company": "SpaceX",
@@ -62152,5 +62172,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T21:51:59+00:00"
+  "updated_at": "2026-10-22T22:32:02+00:00"
 }
