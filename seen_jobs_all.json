@@ -1,5 +1,5 @@
 {
-  "count": 7473,
+  "count": 7481,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -59672,6 +59672,16 @@
       "title": "Junior Software Developer Engineer in Test - C#",
       "url": "https://www.globalrelay.com/careers/jobs?gh_jid=5616305004"
     },
+    "vanshb03:globalfoundries::vanshb03-89025015-cd95-4b5f-a9ec-629bd8567d6f": {
+      "company": "GlobalFoundries",
+      "first_seen": "2026-10-22T02:34:49+00:00",
+      "last_seen": "2026-10-22T02:34:49+00:00",
+      "location": "Santa Clara, CA, Richardson, TX",
+      "posted_at": "1792540800",
+      "source": "vanshb03",
+      "title": "AI Software Intern",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029"
+    },
     "vanshb03:globalfoundries::vanshb03-a1d326c5-008f-4dd8-ada7-7a622c952ae3": {
       "company": "GlobalFoundries",
       "first_seen": "2026-10-20T15:49:24+00:00",
@@ -60044,6 +60054,36 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-UT-84116/1413790400/?ats=successfactors"
+    },
+    "vanshb03:l3harris technologies::vanshb03-dfcc782f-ef72-431f-8cf9-d41504dcee29": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-10-22T02:34:49+00:00",
+      "last_seen": "2026-10-22T02:34:49+00:00",
+      "location": "Salt Lake City, UT",
+      "posted_at": "1792613877",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Intern,-Software-Engineer-(Salt-Lake-City,-UT)-UT-84116/1418569700/?ats=successfactors"
+    },
+    "vanshb03:light & wonder::vanshb03-2a600969-e8f2-41f2-85a8-c05728d47b32": {
+      "company": "Light & Wonder",
+      "first_seen": "2026-10-22T02:34:49+00:00",
+      "last_seen": "2026-10-22T02:34:49+00:00",
+      "location": "Las Vegas, NV",
+      "posted_at": "1792566000",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Las-Vegas-NV/Intern-Software-Engineering_R322982"
+    },
+    "vanshb03:light & wonder::vanshb03-761b85bd-6b9b-4076-b10f-baafc227022c": {
+      "company": "Light & Wonder",
+      "first_seen": "2026-10-22T02:34:49+00:00",
+      "last_seen": "2026-10-22T02:34:49+00:00",
+      "location": "Las Vegas, NV",
+      "posted_at": "1792566000",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Las-Vegas-NV/Software-Engineer---Intern_R323017"
     },
     "vanshb03:magical::vanshb03-21105f1e-b540-44e8-9c66-152d8c5ec185": {
       "company": "Magical",
@@ -60744,6 +60784,16 @@
       "title": "Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05"
     },
+    "vanshb03:qualcomm::vanshb03-2a848b71-f695-44eb-bffc-cb912a1636cf": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-22T02:34:25+00:00",
+      "last_seen": "2026-10-22T02:34:25+00:00",
+      "location": "Markham, ON, Canada",
+      "posted_at": "1792621575",
+      "source": "vanshb03",
+      "title": "Display Systems Engineer Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721661677"
+    },
     "vanshb03:qualtrics::vanshb03-30e20599-08d5-4f27-a53d-281034abd678": {
       "company": "Qualtrics",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60984,6 +61034,16 @@
       "title": "Junior Software Engineer",
       "url": "https://jobs.ashbyhq.com/Rose%20Rocket/c074b14e-ebe0-4a14-beb2-1419eca9d447/application"
     },
+    "vanshb03:safran::vanshb03-d4d8496f-7104-4259-b775-6a77600f6f34": {
+      "company": "Safran",
+      "first_seen": "2026-10-22T02:34:49+00:00",
+      "last_seen": "2026-10-22T02:34:49+00:00",
+      "location": "Bedford, NH",
+      "posted_at": "1792613579",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://careers.safran-dsi.com/job/Bedford-Software-Engineering-Internship-NH-03110/1440599100/?ats=successfactors"
+    },
     "vanshb03:samsara::vanshb03-39e6d57e-60d5-4926-8ab4-08c5c5651d77": {
       "company": "Samsara",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -61048,6 +61108,16 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856?ashby_jid=404bb82e-37f3-4a78-b0f3-12923a7c4856"
+    },
+    "vanshb03:sierra space::vanshb03-9c419789-6d1b-4cf5-aa4b-4443c7368d0d": {
+      "company": "Sierra Space",
+      "first_seen": "2026-10-22T02:34:49+00:00",
+      "last_seen": "2026-10-22T02:34:49+00:00",
+      "location": "Louisville, CO",
+      "posted_at": "1792540800",
+      "source": "vanshb03",
+      "title": "Flight Software Engineer Intern",
+      "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/Summer-2027-Flight-Software-Engineer-Intern_R26456"
     },
     "vanshb03:sierra::vanshb03-063c73ea-6a18-4cd0-b970-f55a4e5f5461": {
       "company": "Sierra",
@@ -61580,6 +61650,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Embedded",
       "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job"
+    },
+    "vanshb03:the aerospace corporation::vanshb03-2a77e792-a823-40b2-bf20-244d37b55813": {
+      "company": "The Aerospace Corporation",
+      "first_seen": "2026-10-22T02:34:49+00:00",
+      "last_seen": "2026-10-22T02:34:49+00:00",
+      "location": "El Segundo, CA",
+      "posted_at": "1792540800",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern, Multiple Teams",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949"
     },
     "vanshb03:thor solutions::vanshb03-8be0d853-a214-4dfe-96ae-f5c0819942b4": {
       "company": "Thor Solutions",
@@ -62606,5 +62686,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T02:02:53+00:00"
+  "updated_at": "2026-10-22T02:34:56+00:00"
 }
