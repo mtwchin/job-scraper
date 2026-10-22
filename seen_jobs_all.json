@@ -1,5 +1,5 @@
 {
-  "count": 7471,
+  "count": 7473,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -17396,6 +17396,16 @@
       "posted_at": "1785277279",
       "title": "Software Engineer 1 - Storage",
       "url": "https://jobs.ashbyhq.com/Crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02/application?embed=true"
+    },
+    "simplify:crusoe::simplify-fd1af9f8-2356-4f0f-b005-ab9f523e4e24": {
+      "company": "Crusoe",
+      "first_seen": "2026-10-22T02:02:51+00:00",
+      "last_seen": "2026-10-22T02:02:51+00:00",
+      "location": "SF",
+      "posted_at": "1792633321",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application?embed=true"
     },
     "simplify:csc generation::simplify-03b53364-747f-47ed-8bfc-ba012349cb8c": {
       "company": "CSC Generation",
@@ -41165,6 +41175,16 @@
       "title": "Backend Software Engineer - Software Engineering",
       "url": "https://qualcomm.eightfold.ai/careers/job/446721162271"
     },
+    "simplify:qualcomm::simplify-58d62252-3525-471b-8267-bdac7ba2d764": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-22T01:32:19+00:00",
+      "last_seen": "2026-10-22T01:32:19+00:00",
+      "location": "Markham, ON, Canada",
+      "posted_at": "1792632406",
+      "source": "simplify",
+      "title": "Applied AI Engineer Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721664194"
+    },
     "simplify:qualcomm::simplify-6128a4f5-8798-47fb-a46b-e553d79e7c09": {
       "company": "Qualcomm",
       "first_seen": "2026-10-16T23:04:31+00:00",
@@ -62586,5 +62606,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-22T01:32:50+00:00"
+  "updated_at": "2026-10-22T02:02:53+00:00"
 }
