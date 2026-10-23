@@ -1,5 +1,5 @@
 {
-  "count": 7556,
+  "count": 7558,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -10372,6 +10372,16 @@
       "posted_at": "1784505600",
       "title": "Software Developer Intern Co-op",
       "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Philadelphia-Pennsylvania-United-States-of-America/Software-Developer-Intern--Drexel-Co-op-US_R014478"
+    },
+    "simplify:aveva::simplify-41dab1e4-72c6-48b7-8746-ed1c6a3018f3": {
+      "company": "AVEVA",
+      "first_seen": "2026-10-23T09:31:28+00:00",
+      "last_seen": "2026-10-23T09:31:28+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1784505600",
+      "source": "simplify",
+      "title": "R&D Software Engineer",
+      "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/R-D-Software-Engineer_R012858-1"
     },
     "simplify:aveva::simplify-b5b14ba0-16bc-4654-ab8a-32be13589b2b": {
       "company": "AVEVA",
@@ -52013,6 +52023,7 @@
     "simplify:the boeing company::simplify-2254ac53-779c-4e35-af27-c955600704ba": {
       "company": "The Boeing Company",
       "first_seen": "2026-07-19T03:45:05+00:00",
+      "last_seen": "2026-10-23T09:31:28+00:00",
       "posted_at": "1784332800",
       "title": "Associate Software Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Omaha-NE/Software-Engineer_JR2026517990"
@@ -55027,6 +55038,16 @@
       "posted_at": "1785449616",
       "title": "IT Application Analyst-Entry - Epic Mychart",
       "url": "https://umchealthsystem.wd1.myworkdayjobs.com/External/job/Business-and-Technology-Center/IT-Application-Analyst--Entry--Epic-MyChart-_R20410"
+    },
+    "simplify:unconventional ai::simplify-6c83cb46-84d6-4867-99c6-4ed77f4a81a5": {
+      "company": "Unconventional AI",
+      "first_seen": "2026-10-23T09:31:28+00:00",
+      "last_seen": "2026-10-23T09:31:28+00:00",
+      "location": "Remote in USA, Mountain View, CA",
+      "posted_at": "1775081942",
+      "source": "simplify",
+      "title": "Junior Member of Technical Staff, System Modeling",
+      "url": "https://unconv.ai/careers/?gh_jid=4206025009"
     },
     "simplify:uniswap::simplify-ec8d7f8d-2154-4e58-bc3d-7413c3536d43": {
       "company": "Uniswap",
@@ -63604,5 +63625,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T09:02:40+00:00"
+  "updated_at": "2026-10-23T09:31:42+00:00"
 }
