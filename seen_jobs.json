@@ -1,5 +1,5 @@
 {
-  "count": 7452,
+  "count": 7454,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6698,6 +6698,16 @@
       "posted_at": "1765926915",
       "title": "Software Development Engineer - Amazon Leo - US",
       "url": "https://amazon.jobs/en/jobs/3144341/software-development-engineer-amazon-leo-us"
+    },
+    "simplify:amazon::simplify-62b12319-6d0b-464c-b8a5-65f958a10b82": {
+      "company": "Amazon",
+      "first_seen": "2026-10-23T14:31:34+00:00",
+      "last_seen": "2026-10-23T14:31:34+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1790413564",
+      "source": "simplify",
+      "title": "Senior Software Engineer - Amazon Tax",
+      "url": "https://amazon.jobs/en/jobs/10471522/senior-sde-amazon-tax"
     },
     "simplify:amazon::simplify-6d55f27f-9786-4c75-ab7c-c79dd9c729e0": {
       "company": "Amazon",
@@ -24543,7 +24553,7 @@
     "simplify:goldman sachs::simplify-a84b5ca0-5e89-4893-97cb-4be5aead281c": {
       "company": "Goldman Sachs",
       "first_seen": "2026-08-15T04:58:35+00:00",
-      "last_seen": "2026-10-06T00:00:06+00:00",
+      "last_seen": "2026-10-23T14:31:34+00:00",
       "posted_at": "1786767953",
       "title": "Engineering New Analyst",
       "url": "https://higher.gs.com/roles/171568?type=students"
@@ -56298,6 +56308,16 @@
       "title": "Information Technology Development Intern",
       "url": "https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392"
     },
+    "simplify:waymo::simplify-07ec9414-a580-4b59-87ad-55bc953f8447": {
+      "company": "Waymo",
+      "first_seen": "2026-10-23T14:31:35+00:00",
+      "last_seen": "2026-10-23T14:31:35+00:00",
+      "location": "SF",
+      "posted_at": "1790633910",
+      "source": "simplify",
+      "title": "Depot Automation Intern",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234553"
+    },
     "simplify:waymo::simplify-107e54c4-e35f-4131-8faf-6a6ab9998ca9": {
       "company": "Waymo",
       "first_seen": "2026-09-04T05:57:38+00:00",
@@ -62418,5 +62438,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T14:02:07+00:00"
+  "updated_at": "2026-10-23T14:32:10+00:00"
 }
