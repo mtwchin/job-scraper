@@ -1,5 +1,5 @@
 {
-  "count": 7449,
+  "count": 7452,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6532,6 +6532,16 @@
       "title": "Software Privacy Engineer - Multiple Teams",
       "url": "https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa"
     },
+    "simplify:amazon::simplify-0e95c4d8-4cf7-4cd4-b75a-f3de798448de": {
+      "company": "Amazon",
+      "first_seen": "2026-10-23T14:01:34+00:00",
+      "last_seen": "2026-10-23T14:01:34+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1789884361",
+      "source": "simplify",
+      "title": "Senior Applied Scientist - Amazon Cryptographic Libraries",
+      "url": "https://amazon.jobs/en/jobs/10524925/sr-applied-scientist-amazon-cryptographic-libraries"
+    },
     "simplify:amazon::simplify-12b63c6b-1151-4084-a798-a22c27fd6f2c": {
       "company": "Amazon",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -6670,6 +6680,16 @@
       "posted_at": "1784758338",
       "title": "EFA Network Software Engineer 1 - Annapurna Labs",
       "url": "https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs"
+    },
+    "simplify:amazon::simplify-5f33de29-15e8-4906-b915-9ba5f2e2d858": {
+      "company": "Amazon",
+      "first_seen": "2026-10-23T14:01:34+00:00",
+      "last_seen": "2026-10-23T14:01:34+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1789884363",
+      "source": "simplify",
+      "title": "Applied Scientist - Amazon Cryptographic Libraries",
+      "url": "https://amazon.jobs/en/jobs/10522632/applied-scientist-amazon-cryptographic-libraries"
     },
     "simplify:amazon::simplify-5fde436c-570a-464b-9d9c-3a3e457151d0": {
       "company": "Amazon",
@@ -47633,6 +47653,16 @@
       "title": "Software Engineer New Grad - Software - Application Software",
       "url": "https://boards.greenhouse.io/spacex/jobs/8730567002"
     },
+    "simplify:spacex::simplify-213245fd-01d7-48ad-8a63-d1e7934925ff": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-23T14:01:34+00:00",
+      "last_seen": "2026-10-23T14:01:34+00:00",
+      "location": "Hawthorne, CA",
+      "posted_at": "1790213197",
+      "source": "simplify",
+      "title": "Full Stack Software Engineer - Components",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8839057002"
+    },
     "simplify:spacex::simplify-2aec360c-7d97-44c9-90e1-5ad25913c551": {
       "company": "SpaceX",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -62388,5 +62418,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T13:03:04+00:00"
+  "updated_at": "2026-10-23T14:02:07+00:00"
 }
