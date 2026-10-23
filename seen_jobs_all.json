@@ -1,5 +1,5 @@
 {
-  "count": 7564,
+  "count": 7567,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -36799,6 +36799,7 @@
     "simplify:northeastern university::simplify-99283317-d8aa-4b4e-be87-1a9bd31e8e11": {
       "company": "Northeastern University",
       "first_seen": "2026-08-01T12:42:58+00:00",
+      "last_seen": "2026-10-23T10:31:50+00:00",
       "posted_at": "1782561451",
       "title": "Temporary R&D Software Engineer",
       "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Burlington-MA/Temporary-R-D-Software-Engineer_R123231"
@@ -38838,6 +38839,16 @@
       "posted_at": "1786602280",
       "title": "PHP/SQL Web Developer - Options Market Data Team",
       "url": "https://optionsit.bamboohr.com/careers/121/"
+    },
+    "simplify:optisigns::simplify-f79e8b9d-0778-4688-b89e-ed8ec12a8e09": {
+      "company": "OptiSigns",
+      "first_seen": "2026-10-23T10:31:51+00:00",
+      "last_seen": "2026-10-23T10:31:51+00:00",
+      "location": "Houston, TX",
+      "posted_at": "1786151860",
+      "source": "simplify",
+      "title": "Junior UI Engineer",
+      "url": "https://apply.workable.com/optisigns-inc/j/65009062A3/apply"
     },
     "simplify:optiver::simplify-1e2b7529-adf7-49ab-8d4a-8979fab4e3e9": {
       "company": "Optiver",
@@ -42445,6 +42456,16 @@
       "posted_at": "1785283200",
       "title": "Application Engineer 1",
       "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Florence-Kentucky-United-States/Application-Engineer-I_R26_03815"
+    },
+    "simplify:regal::simplify-bc816593-ba1f-4122-96df-ff3cd3b19a7a": {
+      "company": "Regal",
+      "first_seen": "2026-10-23T10:31:51+00:00",
+      "last_seen": "2026-10-23T10:31:51+00:00",
+      "location": "NYC",
+      "posted_at": "1786485929",
+      "source": "simplify",
+      "title": "AI Agent Product Specialist",
+      "url": "https://jobs.lever.co/regal.ai/6ede46c2-86ca-42a6-a645-322c3bcdbb4a/apply"
     },
     "simplify:regdesk::simplify-7a1b2d0b-fb4d-450e-9f60-44a50b914ab1": {
       "company": "RegDesk",
@@ -50628,6 +50649,7 @@
     "simplify:teledyne::simplify-46378d7c-8f2b-4684-9119-6454bb14df9b": {
       "company": "Teledyne",
       "first_seen": "2026-08-14T05:13:27+00:00",
+      "last_seen": "2026-10-23T10:31:50+00:00",
       "posted_at": "1786579200",
       "title": "Software Engineer Intern - NHRC",
       "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2"
@@ -54530,6 +54552,16 @@
       "source": "simplify",
       "title": "Software Engineer",
       "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004087"
+    },
+    "simplify:trinet::simplify-d75dc307-5c8a-4306-9b07-36e3d53715ff": {
+      "company": "TriNet",
+      "first_seen": "2026-10-23T10:31:51+00:00",
+      "last_seen": "2026-10-23T10:31:51+00:00",
+      "location": "Remote in USA, Atlanta, GA",
+      "posted_at": "1788403037",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3003910"
     },
     "simplify:tripadvisor::simplify-b1e25a04-c0cf-4584-9b3c-cb00a33139c3": {
       "company": "TripAdvisor",
@@ -62470,7 +62502,7 @@
     "vanshb03:teledyne technologies incorporated::vanshb03-d6b0d4fb-dd47-478e-ad9b-2887f64a1645": {
       "company": "Teledyne Technologies Incorporated",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-23T10:31:50+00:00",
       "location": "Huntsville, AL",
       "posted_at": "1787326577",
       "seeded": true,
@@ -63687,5 +63719,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T10:02:54+00:00"
+  "updated_at": "2026-10-23T10:31:56+00:00"
 }
