@@ -1,5 +1,5 @@
 {
-  "count": 7436,
+  "count": 7440,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6554,6 +6554,16 @@
       "title": "Software Development Engineer - AWS Glue",
       "url": "https://amazon.jobs/en/jobs/10459443/software-development-engineer-aws-glue"
     },
+    "simplify:amazon::simplify-312b7b27-dc1b-4ccc-a582-f20be014c2e9": {
+      "company": "Amazon",
+      "first_seen": "2026-10-23T02:01:40+00:00",
+      "last_seen": "2026-10-23T02:01:40+00:00",
+      "location": "Seattle, WA; Seattle, WA, NYC, Sunnyvale, CA",
+      "posted_at": "1792720347",
+      "source": "simplify",
+      "title": "Software Development Engineer - Prime Video Personalization & Discovery",
+      "url": "https://amazon.jobs/en/jobs/10412948/software-dev-engineer-prime-video-personalization-discovery"
+    },
     "simplify:amazon::simplify-328f9f48-1b9a-42bd-8438-ab12c2bde5bf": {
       "company": "Amazon",
       "first_seen": "2026-07-22T10:52:15+00:00",
@@ -6590,6 +6600,26 @@
       "posted_at": "1783692472",
       "title": "Junior Software Development Engineer - Jr. Developer Program",
       "url": "https://amazon.jobs/en/jobs/10420146/jr-software-development-engineer-san-luis-obispo-ca-jr-developer-program"
+    },
+    "simplify:amazon::simplify-4d59f74a-c96d-4f88-bf07-1f3df967b2de": {
+      "company": "Amazon",
+      "first_seen": "2026-10-23T02:01:40+00:00",
+      "last_seen": "2026-10-23T02:01:40+00:00",
+      "location": "Denver, CO",
+      "posted_at": "1792720056",
+      "source": "simplify",
+      "title": "System Development Engineer - Region Reliability Engineering",
+      "url": "https://amazon.jobs/en/jobs/10550753/system-development-engineer-region-reliability-engineering"
+    },
+    "simplify:amazon::simplify-5353b527-0cda-43e8-a9ef-cdfa8f45bcd8": {
+      "company": "Amazon",
+      "first_seen": "2026-10-23T02:01:40+00:00",
+      "last_seen": "2026-10-23T02:01:40+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1779487538",
+      "source": "simplify",
+      "title": "Front-End Engineer",
+      "url": "https://amazon.jobs/en/jobs/10428762/front-end-engineer-2026-us"
     },
     "simplify:amazon::simplify-5b94931b-c8c1-4030-94fd-b855ea4581c5": {
       "company": "Amazon",
@@ -6654,6 +6684,18 @@
       "posted_at": "1787869272",
       "title": "Software Development Engineer Intern - Annapurna Labs",
       "url": "https://amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027"
+    },
+    "simplify:amazon::simplify-beb3809f-7e70-4921-8048-c14921c4ba78": {
+      "company": "Amazon",
+      "duplicate_of": "simplify:amazon::simplify-312b7b27-dc1b-4ccc-a582-f20be014c2e9",
+      "first_seen": "2026-10-23T02:01:40+00:00",
+      "last_seen": "2026-10-23T02:01:40+00:00",
+      "location": "Seattle, WA, NYC, Sunnyvale, CA",
+      "posted_at": "1792720171",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Development Engineer - Prime Video Personalization & Discovery",
+      "url": "https://amazon.jobs/en/jobs/10576161/software-dev-engineer-prime-video-personalization-discovery"
     },
     "simplify:amazon::simplify-bfa6d860-85c2-4118-8d8c-e224b9e52584": {
       "company": "Amazon",
@@ -62251,5 +62293,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T01:32:19+00:00"
+  "updated_at": "2026-10-23T02:02:21+00:00"
 }
