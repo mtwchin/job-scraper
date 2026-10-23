@@ -1,5 +1,5 @@
 {
-  "count": 7435,
+  "count": 7436,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -58123,6 +58123,16 @@
       "title": "Software Development Engineer Intern",
       "url": "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us"
     },
+    "vanshb03:amazon::vanshb03-c67980a2-a76b-4d85-bf82-7d24f5963882": {
+      "company": "Amazon",
+      "first_seen": "2026-10-23T00:57:19+00:00",
+      "last_seen": "2026-10-23T00:57:19+00:00",
+      "location": "Vancouver, Canada",
+      "posted_at": "1792698816",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer",
+      "url": "https://www.amazon.jobs/jobs/10583004"
+    },
     "vanshb03:amazon::vanshb03-ca864e2e-3553-49df-a5c7-785ee52f7755": {
       "company": "Amazon",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -62232,5 +62242,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T00:06:14+00:00"
+  "updated_at": "2026-10-23T00:58:17+00:00"
 }
