@@ -1,5 +1,5 @@
 {
-  "count": 7442,
+  "count": 7443,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -47712,6 +47712,16 @@
       "title": "Software Engineer - Beam Planning - Starlink",
       "url": "https://boards.greenhouse.io/spacex/jobs/8578907002"
     },
+    "simplify:spacex::simplify-7a360d8e-fe35-401d-93bf-1533bb66be44": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-23T09:31:30+00:00",
+      "last_seen": "2026-10-23T09:31:30+00:00",
+      "location": "Hawthorne, CA",
+      "posted_at": "1783635234",
+      "source": "simplify",
+      "title": "Software Engineer - Components Test - Starshield",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8625615002"
+    },
     "simplify:spacex::simplify-7ded4e20-5915-4f94-be05-cbe546931c8b": {
       "company": "SpaceX",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -52511,6 +52521,7 @@
     "simplify:tiktok::simplify-8e3d641a-8bc6-43f8-9fc3-16e49711a6d9": {
       "company": "TikTok",
       "first_seen": "2026-07-02T21:01:41+00:00",
+      "last_seen": "2026-10-23T09:31:30+00:00",
       "posted_at": "1776676329",
       "title": "Software Engineer Project Intern - Recommendation Infrastructure",
       "url": "https://lifeattiktok.com/search/7629500062003218741"
@@ -60911,7 +60922,7 @@
     "vanshb03:spacex::vanshb03-9602c975-7f35-4932-9b25-39983c85cffd": {
       "company": "SpaceX",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-23T09:31:30+00:00",
       "location": "Remote",
       "posted_at": "1786024339",
       "seeded": true,
@@ -62315,5 +62326,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T09:02:11+00:00"
+  "updated_at": "2026-10-23T09:32:14+00:00"
 }
