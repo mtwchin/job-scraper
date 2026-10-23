@@ -1,5 +1,5 @@
 {
-  "count": 7595,
+  "count": 7597,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -8565,6 +8565,16 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/appian/jobs/8041237"
     },
+    "simplify:appian::simplify-47eebf42-243b-4d68-8beb-0204c6bfec0b": {
+      "company": "Appian",
+      "first_seen": "2026-10-23T16:02:10+00:00",
+      "last_seen": "2026-10-23T16:02:10+00:00",
+      "location": "McLean, VA",
+      "posted_at": "1791497949",
+      "source": "simplify",
+      "title": "Associate Product Engineer",
+      "url": "https://job-boards.greenhouse.io/appian/jobs/8264454"
+    },
     "simplify:appian::simplify-58649bd4-c621-49ec-9ed6-236a6d8882ad": {
       "company": "Appian",
       "first_seen": "2026-07-24T01:00:21+00:00",
@@ -14892,6 +14902,16 @@
       "source": "simplify",
       "title": "Graduate Software Engineer Programme",
       "url": "https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027/1443168333/?ats=successfactors"
+    },
+    "simplify:capgemini::simplify-6ad571cf-4f40-450e-a33b-7c70cf9100df": {
+      "company": "Capgemini",
+      "first_seen": "2026-10-23T16:02:10+00:00",
+      "last_seen": "2026-10-23T16:02:10+00:00",
+      "location": "Telford, UK",
+      "posted_at": "1791941117",
+      "source": "simplify",
+      "title": "Java Engineer",
+      "url": "https://careers.capgemini.com/job/Telford-Relaunch-Java-Engineer/1446799533/?ats=successfactors"
     },
     "simplify:capgemini::simplify-7ed33e96-4645-4b9d-8798-e6d7a35228a3": {
       "company": "Capgemini",
@@ -64160,5 +64180,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T15:32:12+00:00"
+  "updated_at": "2026-10-23T16:02:15+00:00"
 }
