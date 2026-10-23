@@ -1,5 +1,5 @@
 {
-  "count": 7448,
+  "count": 7449,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2788,6 +2788,16 @@
       "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765"
     },
+    "mongodb::8209134": {
+      "company": "MongoDB",
+      "first_seen": "2026-10-23T12:58:00+00:00",
+      "last_seen": "2026-10-23T12:58:00+00:00",
+      "location": "Austin; New York City; Palo Alto; San Francisco; Seattle",
+      "posted_at": "2026-10-23T08:57:16-04:00",
+      "source": "",
+      "title": "2027 - Software Engineering Intern, AMER",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134"
+    },
     "netflix::790313241540": {
       "company": "Netflix",
       "first_seen": "2026-06-29T20:24:39+00:00",
@@ -4409,7 +4419,7 @@
     "shield ai::633a3038-574c-45ff-babb-7e1b8b7c6196": {
       "company": "Shield AI",
       "first_seen": "2026-09-18T20:49:48+00:00",
-      "last_seen": "2026-09-18T20:49:48+00:00",
+      "last_seen": "2026-10-23T12:57:01+00:00",
       "location": "Seattle, Washington",
       "posted_at": "1789688164711",
       "source": "",
@@ -62378,5 +62388,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T12:53:59+00:00"
+  "updated_at": "2026-10-23T12:58:02+00:00"
 }
