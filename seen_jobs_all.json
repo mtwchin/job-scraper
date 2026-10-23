@@ -1,5 +1,5 @@
 {
-  "count": 7631,
+  "count": 7635,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -4912,6 +4912,16 @@
       "title": "Developer Intern - Service Development",
       "url": "https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/application"
     },
+    "simplify:1password::simplify-c27dd769-5cb4-46de-9658-90d85c12cfbc": {
+      "company": "1Password",
+      "first_seen": "2026-10-23T17:32:33+00:00",
+      "last_seen": "2026-10-23T17:32:33+00:00",
+      "location": "Remote in USA, Remote in Canada",
+      "posted_at": "1792766545",
+      "source": "simplify",
+      "title": "Developer Intern - Credential Brokering",
+      "url": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true"
+    },
     "simplify:1password::simplify-c4f7b9a7-0136-490c-891e-ee3a84d6864c": {
       "company": "1Password",
       "first_seen": "2026-10-22T22:32:08+00:00",
@@ -4921,6 +4931,16 @@
       "source": "simplify",
       "title": "Developer Intern - Vault Team",
       "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true"
+    },
+    "simplify:1password::simplify-e6004504-fc09-4fa4-8b4f-0e12d0e319a6": {
+      "company": "1Password",
+      "first_seen": "2026-10-23T17:32:33+00:00",
+      "last_seen": "2026-10-23T17:32:33+00:00",
+      "location": "Remote in USA, Remote in Canada",
+      "posted_at": "1792766545",
+      "source": "simplify",
+      "title": "Developer Intern - Developer Interfaces",
+      "url": "https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true"
     },
     "simplify:2020 companies::simplify-4499e3de-6ca9-43b8-8614-fa4b79582a4b": {
       "company": "2020 Companies",
@@ -16464,6 +16484,16 @@
       "title": "Applications Development Intermediate Programmer Analyst",
       "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Apps-Dev-Intmd-Programmer-Analyst_26980086"
     },
+    "simplify:citi::simplify-dc4fde37-ff4b-4326-ad59-9a80cfc0019f": {
+      "company": "Citi",
+      "first_seen": "2026-10-23T17:33:09+00:00",
+      "last_seen": "2026-10-23T17:33:09+00:00",
+      "location": "Belfast, UK",
+      "posted_at": "1792713600",
+      "source": "simplify",
+      "title": "Technology Placement Analyst Intern - Application Development",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology---Application-Development--Placement-Analyst--Belfast-2027_261002927"
+    },
     "simplify:citi::simplify-e260dcba-6860-4a88-af61-8057ccf8970d": {
       "company": "Citi",
       "first_seen": "2026-07-17T23:11:51+00:00",
@@ -17675,6 +17705,16 @@
       "source": "simplify",
       "title": "Graduate Software Engineer",
       "url": "https://jobs.ashbyhq.com/coram-ai/3fa08156-569d-4a69-a918-53e5074dd3a3/application?embed=true"
+    },
+    "simplify:coretek services::simplify-803b306d-364e-4c89-90ae-c3f32c7cd40a": {
+      "company": "Coretek Services",
+      "first_seen": "2026-10-23T17:33:09+00:00",
+      "last_seen": "2026-10-23T17:33:09+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1792764570",
+      "source": "simplify",
+      "title": "AI & Data Automation Developer Co-op",
+      "url": "https://apply.workable.com/coretek-services/j/21D19CC253/apply"
     },
     "simplify:coretek services::simplify-e82c7314-c2c9-4c30-a616-4409eec153f8": {
       "company": "Coretek Services",
@@ -64566,5 +64606,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T17:32:31+00:00"
+  "updated_at": "2026-10-23T17:33:33+00:00"
 }
