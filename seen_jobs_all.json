@@ -1,5 +1,5 @@
 {
-  "count": 7551,
+  "count": 7552,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -16131,6 +16131,7 @@
     "simplify:city and county of san francisco::simplify-1ad5e34b-7418-46fe-9725-948719ed2572": {
       "company": "City and County of San Francisco",
       "first_seen": "2026-07-14T19:49:46+00:00",
+      "last_seen": "2026-10-23T08:32:28+00:00",
       "posted_at": "1782349560",
       "title": "Technology Engineer - Associate - Applications Specialty",
       "url": "https://jobs.smartrecruiters.com/CityAndCountyOfSanFrancisco1/3743990013780745"
@@ -40011,6 +40012,16 @@
       "title": "Research and Development Engineering Intern",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1"
     },
+    "simplify:pennsylvania state university::simplify-0229b183-a876-44d7-8a2f-fbc0e8e32dd2": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-10-23T08:32:28+00:00",
+      "last_seen": "2026-10-23T08:32:28+00:00",
+      "location": "University Park, State College, PA",
+      "posted_at": "1781361029",
+      "source": "simplify",
+      "title": "Research Assistant Intern",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistants_REQ_0000074801-1"
+    },
     "simplify:pennsylvania state university::simplify-2dcb71be-979e-47c0-b8a8-0f9a1e116f46": {
       "company": "Pennsylvania State University",
       "first_seen": "2026-09-10T17:18:10+00:00",
@@ -45358,7 +45369,7 @@
     "simplify:rtx::simplify-b698f712-411d-4005-b00c-49d33f52731c": {
       "company": "RTX",
       "first_seen": "2026-09-10T23:38:18+00:00",
-      "last_seen": "2026-10-04T11:31:08+00:00",
+      "last_seen": "2026-10-23T08:32:28+00:00",
       "posted_at": "1788998400",
       "title": "Software Engineer Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298"
@@ -63553,5 +63564,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T06:32:32+00:00"
+  "updated_at": "2026-10-23T08:32:35+00:00"
 }
