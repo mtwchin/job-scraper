@@ -1,5 +1,5 @@
 {
-  "count": 7454,
+  "count": 7455,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2067,6 +2067,18 @@
       "source": "",
       "title": "Associate Forward Deployed Engineer",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002"
+    },
+    "databricks::8910846002": {
+      "company": "Databricks",
+      "duplicate_of": "databricks::8907988002",
+      "first_seen": "2026-10-23T15:20:08+00:00",
+      "last_seen": "2026-10-23T15:20:08+00:00",
+      "location": "Mountain View, California",
+      "posted_at": "2026-10-23T11:19:31-04:00",
+      "seeded": true,
+      "source": "",
+      "title": "Associate Forward Deployed Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002"
     },
     "datadog::7646452": {
       "company": "Datadog",
@@ -62438,5 +62450,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T14:32:10+00:00"
+  "updated_at": "2026-10-23T15:20:13+00:00"
 }
