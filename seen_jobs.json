@@ -1,5 +1,5 @@
 {
-  "count": 7440,
+  "count": 7442,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6546,6 +6546,18 @@
       "title": "Software Engineer - AI Security",
       "url": "https://amazon.jobs/en/jobs/10440600/software-engineer-ai-security"
     },
+    "simplify:amazon::simplify-2b19951c-67c9-4606-b94a-7ad022323200": {
+      "company": "Amazon",
+      "duplicate_of": "simplify:amazon::simplify-b528e2b6-04c3-46be-bd21-cac3f2e018bb",
+      "first_seen": "2026-10-23T02:02:39+00:00",
+      "last_seen": "2026-10-23T02:02:39+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1792719940",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Systems Development Engineer Intern",
+      "url": "https://amazon.jobs/en/jobs/10573999/systems-development-engineer-intern-canada-2027"
+    },
     "simplify:amazon::simplify-2cd0f1c9-7c43-41d3-850c-4b74451159f6": {
       "company": "Amazon",
       "first_seen": "2026-09-03T21:48:00+00:00",
@@ -6684,6 +6696,16 @@
       "posted_at": "1787869272",
       "title": "Software Development Engineer Intern - Annapurna Labs",
       "url": "https://amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027"
+    },
+    "simplify:amazon::simplify-b528e2b6-04c3-46be-bd21-cac3f2e018bb": {
+      "company": "Amazon",
+      "first_seen": "2026-10-23T02:02:40+00:00",
+      "last_seen": "2026-10-23T02:02:40+00:00",
+      "location": "Bellevue, WA; Vancouver, BC, Canada",
+      "posted_at": "1792719940",
+      "source": "simplify",
+      "title": "Systems Development Engineer Intern",
+      "url": "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027"
     },
     "simplify:amazon::simplify-beb3809f-7e70-4921-8048-c14921c4ba78": {
       "company": "Amazon",
@@ -62293,5 +62315,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T02:02:21+00:00"
+  "updated_at": "2026-10-23T02:03:24+00:00"
 }
