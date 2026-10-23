@@ -1,5 +1,5 @@
 {
-  "count": 7456,
+  "count": 7457,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -8431,6 +8431,16 @@
       "posted_at": "1778076509",
       "title": "Software Engineer Silicon Engineering Documentation Tools",
       "url": "https://jobs.apple.com/en-us/details/200661584"
+    },
+    "simplify:apple::simplify-946bbff5-9d0d-4834-8b42-b696719861f5": {
+      "company": "Apple",
+      "first_seen": "2026-10-23T17:02:13+00:00",
+      "last_seen": "2026-10-23T17:02:13+00:00",
+      "location": "Cupertino, CA, Sunnyvale, CA",
+      "posted_at": "1792449037",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200689349"
     },
     "simplify:apple::simplify-949d8a95-4a05-4773-abf0-ef1ba68de79d": {
       "company": "Apple",
@@ -62460,5 +62470,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T16:41:16+00:00"
+  "updated_at": "2026-10-23T17:02:21+00:00"
 }
