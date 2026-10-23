@@ -1,5 +1,5 @@
 {
-  "count": 7558,
+  "count": 7559,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -48568,6 +48568,16 @@
       "title": "Software Engineer - Beam Planning - Starlink",
       "url": "https://boards.greenhouse.io/spacex/jobs/8578907002"
     },
+    "simplify:spacex::simplify-7a360d8e-fe35-401d-93bf-1533bb66be44": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-23T09:31:30+00:00",
+      "last_seen": "2026-10-23T09:31:30+00:00",
+      "location": "Hawthorne, CA",
+      "posted_at": "1783635234",
+      "source": "simplify",
+      "title": "Software Engineer - Components Test - Starshield",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8625615002"
+    },
     "simplify:spacex::simplify-7ded4e20-5915-4f94-be05-cbe546931c8b": {
       "company": "SpaceX",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -63625,5 +63635,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T09:31:42+00:00"
+  "updated_at": "2026-10-23T09:33:48+00:00"
 }
