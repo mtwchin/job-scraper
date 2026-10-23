@@ -352,6 +352,15 @@
       "title": "Software Engineer",
       "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineer_2023271"
     },
+    "simplify:citco::simplify-e0399094-ed27-493f-9e45-697db407532b": {
+      "attempted_at": "2026-10-23T15:02:22+00:00",
+      "company": "Citco",
+      "location": "Halifax Regional Municipality, NS, Canada",
+      "posted_at": "1790979839",
+      "source": "simplify",
+      "title": "Junior AI Engineer",
+      "url": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20545"
+    },
     "simplify:citizens financial group::simplify-0a4cd2e5-65b4-4298-ab71-d0c7705a376c": {
       "attempted_at": "2026-10-19T15:02:51+00:00",
       "company": "Citizens Financial Group",
@@ -504,6 +513,15 @@
       "source": "simplify",
       "title": "Computer Science Engineer 1 - Cranberry Township",
       "url": "https://careers-framatome.icims.com/jobs/3408/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:freedom technology solutions group::simplify-9c56cba3-9b43-4bdb-a6dc-9cf12b83e51d": {
+      "attempted_at": "2026-10-23T15:02:22+00:00",
+      "company": "Freedom Technology Solutions Group",
+      "location": "St. Louis, MO",
+      "posted_at": "1790807203",
+      "source": "simplify",
+      "title": "Junior Backend Developer",
+      "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5252868007"
     },
     "simplify:genentech::simplify-e594a935-587e-4202-ab30-9e3057cbd9c8": {
       "attempted_at": "2026-10-20T23:03:04+00:00",
@@ -739,6 +757,15 @@
       "title": "Information Technology Intern",
       "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/Intern--Information-Technology_R26-5374-2"
     },
+    "simplify:rtx::simplify-4762fbd9-94a7-4b2c-8845-8a1829a2df71": {
+      "attempted_at": "2026-10-23T15:02:22+00:00",
+      "company": "RTX",
+      "location": "Andover, MA",
+      "posted_at": "1790812800",
+      "source": "simplify",
+      "title": "Software Test Engineer 1",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-ANDOVER-AN0--366-Lowell-St--BLDG-AN0/Software-Test-Engineer-I_01879607"
+    },
     "simplify:sanofi::simplify-7f0b7c25-d497-4aa4-a34c-ddb186a0c932": {
       "attempted_at": "2026-10-22T23:02:40+00:00",
       "company": "Sanofi",
@@ -792,6 +819,15 @@
       "source": "simplify",
       "title": "Software DevSecOps Engineer Graduate",
       "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Orlando/Software-DevOps-Engineer---Grad_R0340353-2"
+    },
+    "simplify:thales::simplify-d64a3add-2995-4b47-a628-2b3289b6047e": {
+      "attempted_at": "2026-10-23T15:02:22+00:00",
+      "company": "Thales",
+      "location": "Glasgow, UK",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Development Operations Engineer New Grad",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Glasgow/XMLNAME-2027-Development-Operations-Engineering-Graduate_R0337885"
     },
     "simplify:the focusrite group::simplify-ff723fb0-8021-476f-94d8-a14675f7883f": {
       "attempted_at": "2026-10-17T10:03:25+00:00",
@@ -43311,6 +43347,7 @@
     "simplify:ribbon::simplify-97d542d1-34cd-4cd5-a7fc-6d841b5b0a28": {
       "company": "Ribbon",
       "first_seen": "2026-07-21T21:22:56+00:00",
+      "last_seen": "2026-10-23T15:02:22+00:00",
       "posted_at": "1782828484",
       "title": "UI Engineer Co-op",
       "url": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Ontario-Ottawa/Canada--Co-op-_REQ-2026-2965"
@@ -45306,7 +45343,7 @@
     "simplify:rtx::simplify-7525137e-4f3a-4f97-9fbb-f2d715545fb4": {
       "company": "RTX",
       "first_seen": "2026-10-02T01:33:35+00:00",
-      "last_seen": "2026-10-07T00:00:57+00:00",
+      "last_seen": "2026-10-23T15:02:22+00:00",
       "location": "Tucson, AZ",
       "posted_at": "1790812800",
       "source": "simplify",
@@ -64091,5 +64128,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T14:32:21+00:00"
+  "updated_at": "2026-10-23T15:02:24+00:00"
 }
