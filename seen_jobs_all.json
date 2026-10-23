@@ -1,5 +1,5 @@
 {
-  "count": 7548,
+  "count": 7550,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -59500,6 +59500,16 @@
       "title": "Associate Flight Test Data Processing Software Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/en-US/tap2/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420-2"
     },
+    "vanshb03:booz allen::vanshb03-89f1a01e-06f6-4e04-8f8b-7c42e1ada118": {
+      "company": "Booz Allen",
+      "first_seen": "2026-10-23T05:20:27+00:00",
+      "last_seen": "2026-10-23T05:20:27+00:00",
+      "location": "Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA",
+      "posted_at": "1792732377",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Developer",
+      "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280"
+    },
     "vanshb03:boston scientific::vanshb03-ff35da1b-aa4e-4040-aff2-49c84084d8b0": {
       "company": "Boston Scientific",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -61706,6 +61716,16 @@
       "title": "Junior Software Engineer",
       "url": "https://remodelhealth.com/resources/job/?gh_jid=4880033008"
     },
+    "vanshb03:rendezvous robotics::vanshb03-359d7673-1353-4fb0-a6cd-ffbb0e5c1099": {
+      "company": "Rendezvous Robotics",
+      "first_seen": "2026-10-23T05:20:27+00:00",
+      "last_seen": "2026-10-23T05:20:27+00:00",
+      "location": "Golden, CO",
+      "posted_at": "1792732376",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Flight Software Engineer",
+      "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009"
+    },
     "vanshb03:rendezvous robotics::vanshb03-54743b8f-2366-4655-a083-483baf96593c": {
       "company": "Rendezvous Robotics",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -63521,5 +63541,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T04:03:26+00:00"
+  "updated_at": "2026-10-23T05:20:29+00:00"
 }
