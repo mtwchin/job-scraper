@@ -1,5 +1,5 @@
 {
-  "count": 7570,
+  "count": 7571,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -21212,6 +21212,16 @@
       "title": "Agent Development Architect Senior",
       "url": "https://careers.ey.com/ey/job/Atlanta-Agent-Development-Architect-Senior-GA-30309/1431249733/"
     },
+    "simplify:ernst & young::simplify-ede8c3f5-fd50-49d4-b347-bece731058ad": {
+      "company": "Ernst & Young",
+      "first_seen": "2026-10-23T12:31:51+00:00",
+      "last_seen": "2026-10-23T12:31:51+00:00",
+      "location": "Houston, TX, Dallas, TX, Atlanta, GA",
+      "posted_at": "1788530856",
+      "source": "simplify",
+      "title": "Vector Capitalization Intern - Multiple Teams",
+      "url": "https://eyglobal.yello.co/jobs/LBmQQDFgzrEW53QwXVMXLw?job_board_id=c1riT--B2O-KySgYWsZO1Q"
+    },
     "simplify:erpa::simplify-b93029bb-0502-4da5-9050-4b8933270db8": {
       "company": "ERPA",
       "first_seen": "2026-08-12T03:29:34+00:00",
@@ -24142,7 +24152,7 @@
     "simplify:general dynamics uk::simplify-3f3c2722-e6f4-460f-a318-ada5d0e970f7": {
       "company": "General Dynamics UK",
       "first_seen": "2026-09-04T23:26:59+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-23T12:31:51+00:00",
       "posted_at": "1788559708",
       "title": "Systems Engineering Co-op - TacNET 8",
       "url": "https://jobs.smartrecruiters.com/GDMSI/744000147537709"
@@ -63804,5 +63814,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T12:03:05+00:00"
+  "updated_at": "2026-10-23T12:32:08+00:00"
 }
