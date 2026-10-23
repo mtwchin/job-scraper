@@ -1,5 +1,5 @@
 {
-  "count": 7446,
+  "count": 7447,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1876,6 +1876,16 @@
       "source": "",
       "title": "Software Engineer Data & AI PhD (Intern) - United States",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611"
+    },
+    "cisco::Software-Engineer-Embedded-Systems-I--Co-op----United-States_2029701": {
+      "company": "Cisco",
+      "first_seen": "2026-10-23T12:48:38+00:00",
+      "last_seen": "2026-10-23T12:48:38+00:00",
+      "location": "San Jose, California, US, Milpitas, California, US, RTP, North Carolina, US",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Software Engineer Embedded Systems I (Co-op) - United States",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Co-op----United-States_2029701"
     },
     "cisco::Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926": {
       "company": "Cisco",
@@ -62358,5 +62368,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T11:32:54+00:00"
+  "updated_at": "2026-10-23T12:48:57+00:00"
 }
