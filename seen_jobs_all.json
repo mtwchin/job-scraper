@@ -1,5 +1,5 @@
 {
-  "count": 7533,
+  "count": 7541,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -58984,6 +58984,16 @@
       "title": "Software Development Engineer Intern",
       "url": "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us"
     },
+    "vanshb03:amazon::vanshb03-c67980a2-a76b-4d85-bf82-7d24f5963882": {
+      "company": "Amazon",
+      "first_seen": "2026-10-23T00:57:19+00:00",
+      "last_seen": "2026-10-23T00:57:19+00:00",
+      "location": "Vancouver, Canada",
+      "posted_at": "1792698816",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer",
+      "url": "https://www.amazon.jobs/jobs/10583004"
+    },
     "vanshb03:amazon::vanshb03-ca864e2e-3553-49df-a5c7-785ee52f7755": {
       "company": "Amazon",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -59324,6 +59334,16 @@
       "title": "Early Career Software Engineer",
       "url": "https://jobs.battelle.org/us/en/job/BMIBMIUS75654EXTERNALENUS/Early-Career-Software-Engineer"
     },
+    "vanshb03:boeing::vanshb03-da14411a-32a3-4fe0-b502-f5fcfa14525e": {
+      "company": "Boeing",
+      "first_seen": "2026-10-23T00:57:39+00:00",
+      "last_seen": "2026-10-23T00:57:39+00:00",
+      "location": "Berkeley, MO",
+      "posted_at": "1792698816",
+      "source": "vanshb03",
+      "title": "Associate Flight Test Data Processing Software Engineer",
+      "url": "https://boeing.wd1.myworkdayjobs.com/en-US/tap2/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420-2"
+    },
     "vanshb03:boston scientific::vanshb03-ff35da1b-aa4e-4040-aff2-49c84084d8b0": {
       "company": "Boston Scientific",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -59650,6 +59670,16 @@
       "source": "vanshb03",
       "title": "New Grad: Software Engineer",
       "url": "https://www.collective.com/careers/6614825003"
+    },
+    "vanshb03:college board::vanshb03-a3dde36b-b9be-4f00-93b3-5abb3f55c4bf": {
+      "company": "College Board",
+      "first_seen": "2026-10-23T00:57:39+00:00",
+      "last_seen": "2026-10-23T00:57:39+00:00",
+      "location": "Remote",
+      "posted_at": "1792698816",
+      "source": "vanshb03",
+      "title": "Software Engineer I",
+      "url": "https://collegeboard.wd1.myworkdayjobs.com/en-US/cbcareers/job/Remote---USA/Software-Engineer-I--New-Grad-_REQ002974-1"
     },
     "vanshb03:comcast::vanshb03-5e55899d-b3f7-4b46-ad42-c0a0d05a7997": {
       "company": "Comcast",
@@ -60239,6 +60269,16 @@
       "title": "Junior Software Developer Engineer in Test - C#",
       "url": "https://www.globalrelay.com/careers/jobs?gh_jid=5616305004"
     },
+    "vanshb03:globalfoundries::vanshb03-50654b1a-a207-4f2f-9ca7-587fe2c923c5": {
+      "company": "GlobalFoundries",
+      "first_seen": "2026-10-23T00:57:39+00:00",
+      "last_seen": "2026-10-23T00:57:39+00:00",
+      "location": "Richardson, TX",
+      "posted_at": "1792698816",
+      "source": "vanshb03",
+      "title": "New Grad 2027: AI/ML Systems Engineer",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer--2027-New-College-Graduate-_JR-2604163"
+    },
     "vanshb03:globalfoundries::vanshb03-89025015-cd95-4b5f-a9ec-629bd8567d6f": {
       "company": "GlobalFoundries",
       "first_seen": "2026-10-22T02:34:49+00:00",
@@ -60248,6 +60288,16 @@
       "source": "vanshb03",
       "title": "AI Software Intern",
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029"
+    },
+    "vanshb03:globalfoundries::vanshb03-9baf129f-2b93-4601-ae8b-7ae014e0bcd1": {
+      "company": "GlobalFoundries",
+      "first_seen": "2026-10-23T00:57:39+00:00",
+      "last_seen": "2026-10-23T00:57:39+00:00",
+      "location": "Santa Clara, CA, Richardson, TX",
+      "posted_at": "1792698816",
+      "source": "vanshb03",
+      "title": "New Grad 2027: AI Software Engineer",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Engineer--2027-New-College-Graduate-_JR-2604055"
     },
     "vanshb03:globalfoundries::vanshb03-a1d326c5-008f-4dd8-ada7-7a622c952ae3": {
       "company": "GlobalFoundries",
@@ -60622,6 +60672,16 @@
       "title": "Software Engineering Intern",
       "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-UT-84116/1413790400/?ats=successfactors"
     },
+    "vanshb03:l3harris technologies::vanshb03-64282743-9efa-42ca-9cf2-5214634b3ab1": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-10-23T00:57:39+00:00",
+      "last_seen": "2026-10-23T00:57:39+00:00",
+      "location": "Colorado Springs, CO",
+      "posted_at": "1792698816",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Associate Software Engineer",
+      "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineer-CO-80916/1441835200/?ats=successfactors"
+    },
     "vanshb03:l3harris technologies::vanshb03-dfcc782f-ef72-431f-8cf9-d41504dcee29": {
       "company": "L3Harris Technologies",
       "first_seen": "2026-10-22T02:34:49+00:00",
@@ -60706,6 +60766,16 @@
       "source": "vanshb03",
       "title": "Software Engineer I (Backend - Java)",
       "url": "https://careers.mastercard.com/us/en/job/MASRUSR258140EXTERNALENUS/Software-Engineer-I-Backend-Java"
+    },
+    "vanshb03:mastercard::vanshb03-9b8b4a9f-cb5d-447b-a689-f621a82eeb5b": {
+      "company": "Mastercard",
+      "first_seen": "2026-10-23T00:57:39+00:00",
+      "last_seen": "2026-10-23T00:57:39+00:00",
+      "location": "O'Fallon, MO",
+      "posted_at": "1792698816",
+      "source": "vanshb03",
+      "title": "Software Engineer I",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/OFallon-Missouri/Software-Engineer-I_R-292618-1"
     },
     "vanshb03:mathtech::vanshb03-a3c476d8-893d-4647-ae26-c33f13121cee": {
       "company": "Mathtech",
@@ -61458,6 +61528,16 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer - Backend",
       "url": "https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8"
+    },
+    "vanshb03:raytheon technologies::vanshb03-eada10c2-4910-4637-9528-5e45315bae43": {
+      "company": "Raytheon Technologies",
+      "first_seen": "2026-10-23T00:57:39+00:00",
+      "last_seen": "2026-10-23T00:57:39+00:00",
+      "location": "Cedar Rapids, IA",
+      "posted_at": "1792698816",
+      "source": "vanshb03",
+      "title": "Software Engineer I",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684"
     },
     "vanshb03:remodel health::vanshb03-c9a38815-68ea-46d9-a9e0-807396e9173d": {
       "company": "Remodel Health",
@@ -63285,5 +63365,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T00:03:17+00:00"
+  "updated_at": "2026-10-23T00:58:21+00:00"
 }
