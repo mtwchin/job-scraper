@@ -1,5 +1,5 @@
 {
-  "count": 7568,
+  "count": 7570,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -8640,6 +8640,16 @@
       "posted_at": "1779430055",
       "title": "Software Engineering Masters Intern",
       "url": "https://jobs.apple.com/en-us/details/200664320"
+    },
+    "simplify:apple::simplify-e5efd84d-ee5e-47b6-8b5c-f101e7094c9f": {
+      "company": "Apple",
+      "first_seen": "2026-10-23T11:32:34+00:00",
+      "last_seen": "2026-10-23T11:32:34+00:00",
+      "location": "California",
+      "posted_at": "1787626810",
+      "source": "simplify",
+      "title": "Software Engineer - Infrastructure Services - Cloud Network Fault Tolerance",
+      "url": "https://jobs.apple.com/en-us/details/200679765"
     },
     "simplify:apple::simplify-ed2cf37e-8a1e-4d2f-8cf3-ea92bbfbcde2": {
       "company": "Apple",
@@ -30035,7 +30045,7 @@
     "simplify:kbr::simplify-8d357db3-4bed-433c-8281-3e0775e1be25": {
       "company": "KBR",
       "first_seen": "2026-08-24T22:49:44+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-23T11:32:50+00:00",
       "posted_at": "1787529600",
       "title": "Junior Software Engineer",
       "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Chantilly-Virginia/JR-Software-Engineer_R2128745"
@@ -40176,6 +40186,16 @@
       "source": "simplify",
       "title": "Research Assistant - Public Health Sciences",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Part-time-Research-Assistant---Public-Health-Sciences_REQ_0000083189-1"
+    },
+    "simplify:pennsylvania state university::simplify-8491157e-ce81-4f76-baab-038206c23ae6": {
+      "company": "Pennsylvania State University",
+      "first_seen": "2026-10-23T11:32:50+00:00",
+      "last_seen": "2026-10-23T11:32:50+00:00",
+      "location": "State College, PA, University Park, State College, PA",
+      "posted_at": "1781952334",
+      "source": "simplify",
+      "title": "Data Extraction Programming",
+      "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Data-Extraction-Programming_REQ_0000075672-1"
     },
     "simplify:pennsylvania state university::simplify-8e8f913d-4263-4281-9cf3-3e083858cf58": {
       "company": "Pennsylvania State University",
@@ -63747,5 +63767,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T11:02:59+00:00"
+  "updated_at": "2026-10-23T11:33:03+00:00"
 }
