@@ -1,5 +1,5 @@
 {
-  "count": 7552,
+  "count": 7556,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -26148,6 +26148,16 @@
       "title": "Software Engineer New Grad",
       "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624-1"
     },
+    "simplify:hewlett packard enterprise::simplify-152af2dd-b2be-4726-8e26-0344e48e9377": {
+      "company": "Hewlett Packard Enterprise",
+      "first_seen": "2026-10-23T09:01:28+00:00",
+      "last_seen": "2026-10-23T09:01:28+00:00",
+      "location": "Milpitas, CA",
+      "posted_at": "1781345376",
+      "source": "simplify",
+      "title": "Research Engineer",
+      "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Milpitas-California-United-States-of-America/HPE-Labs---Research-Engineer_1206781"
+    },
     "simplify:hewlett packard enterprise::simplify-240aec7f-4292-4146-b546-08c1b4d6430f": {
       "company": "Hewlett Packard Enterprise",
       "first_seen": "2026-08-29T02:50:35+00:00",
@@ -37956,6 +37966,16 @@
       "title": "Full Stack Engineer",
       "url": "https://ats.rippling.com/nucleus-biologics-careers/jobs/af1ea033-27f0-42e8-bac9-09434a5ffbe3"
     },
+    "simplify:nucleusteq::simplify-5e6aa3fc-45fa-4932-829b-6fdc3d5a0564": {
+      "company": "NucleusTeq",
+      "first_seen": "2026-10-23T09:01:28+00:00",
+      "last_seen": "2026-10-23T09:01:28+00:00",
+      "location": "Phoenix, AZ",
+      "posted_at": "1778278103",
+      "source": "simplify",
+      "title": "Graduate Trainee",
+      "url": "https://nucleusteq.breezy.hr/p/695264e84c5c/apply"
+    },
     "simplify:nuovo photography::simplify-0a7f7f6a-3e82-4b4f-aa8e-eade2c83a8b6": {
       "company": "Nuovo Photography",
       "first_seen": "2026-10-19T23:05:20+00:00",
@@ -48023,6 +48043,16 @@
       "title": "JavaScript Software Engineer 1 - TS/SCI with Poly",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4272523"
     },
+    "simplify:solerity::simplify-3af86a17-91d4-4605-b65c-f1dc1266af9d": {
+      "company": "Solerity",
+      "first_seen": "2026-10-23T09:01:28+00:00",
+      "last_seen": "2026-10-23T09:01:28+00:00",
+      "location": "Fort Meade, MD",
+      "posted_at": "1782166370",
+      "source": "simplify",
+      "title": "JavaScript Developer Software Engineer 1",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4272488"
+    },
     "simplify:solid power::simplify-214fc73f-c4d9-4c6d-8455-16b74d79ce68": {
       "company": "Solid Power",
       "first_seen": "2026-08-21T23:02:56+00:00",
@@ -58020,6 +58050,16 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/workshop/jobs/5237900007"
     },
+    "simplify:worldscape technology::simplify-4f87a199-9c4d-468f-b17c-66ea30769939": {
+      "company": "Worldscape Technology",
+      "first_seen": "2026-10-23T09:01:28+00:00",
+      "last_seen": "2026-10-23T09:01:28+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1783202652",
+      "source": "simplify",
+      "title": "Game Engine Engineer - Platform",
+      "url": "https://jobs.lever.co/worldscape-technology/599859f7-02f1-45f8-ae01-ff9a412d5743/apply"
+    },
     "simplify:worldstrides::simplify-5a283cb6-d2dc-4b0b-b57a-c6d5fe463dc8": {
       "company": "WorldStrides",
       "first_seen": "2026-09-10T00:38:47+00:00",
@@ -63564,5 +63604,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T08:32:35+00:00"
+  "updated_at": "2026-10-23T09:01:38+00:00"
 }
