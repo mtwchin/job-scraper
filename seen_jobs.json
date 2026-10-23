@@ -1,5 +1,5 @@
 {
-  "count": 7461,
+  "count": 7462,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -62464,6 +62464,16 @@
       "title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8257660"
     },
+    "waymo::8287385": {
+      "company": "Waymo",
+      "first_seen": "2026-10-23T19:56:15+00:00",
+      "last_seen": "2026-10-23T19:56:15+00:00",
+      "location": "Mountain View, CA, USA",
+      "posted_at": "2026-10-23T15:55:17-04:00",
+      "source": "",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8287385"
+    },
     "webflow::8122601": {
       "company": "Webflow",
       "first_seen": "2026-08-12T20:19:37+00:00",
@@ -62510,5 +62520,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T19:41:41+00:00"
+  "updated_at": "2026-10-23T19:56:43+00:00"
 }
