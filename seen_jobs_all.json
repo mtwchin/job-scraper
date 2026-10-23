@@ -1,5 +1,5 @@
 {
-  "count": 7592,
+  "count": 7595,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2355,6 +2355,18 @@
       "source": "",
       "title": "Associate Forward Deployed Engineer",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002"
+    },
+    "databricks::8910846002": {
+      "company": "Databricks",
+      "duplicate_of": "databricks::8907988002",
+      "first_seen": "2026-10-23T15:20:08+00:00",
+      "last_seen": "2026-10-23T15:20:08+00:00",
+      "location": "Mountain View, California",
+      "posted_at": "2026-10-23T11:19:31-04:00",
+      "seeded": true,
+      "source": "",
+      "title": "Associate Forward Deployed Engineer",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002"
     },
     "datadog::7646452": {
       "company": "Datadog",
@@ -14696,6 +14708,16 @@
       "posted_at": "1788307200",
       "title": "Software Engineering Intern - AI, Automation and Business Intelligence",
       "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1"
+    },
+    "simplify:cae::simplify-e2230fbe-8777-4bdd-a0a1-b2c6e6f893e2": {
+      "company": "CAE",
+      "first_seen": "2026-10-23T15:32:11+00:00",
+      "last_seen": "2026-10-23T15:32:11+00:00",
+      "location": "Mirabel, QC, Canada",
+      "posted_at": "1791331200",
+      "source": "simplify",
+      "title": "Junior Software Developer - System Integration Labs",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Mirabel/Dveloppeureuse-logiciel-junior---Bancs-d-essais--Rive-Nord-_123921-1"
     },
     "simplify:cae::simplify-efa65a8c-d804-442f-9165-003d9fe830c6": {
       "company": "CAE",
@@ -45274,6 +45296,16 @@
       "title": "Software Engineering Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027-_01871232"
     },
+    "simplify:rtx::simplify-6e1bbe95-8042-4358-809b-38088ef4297b": {
+      "company": "RTX",
+      "first_seen": "2026-10-23T15:32:11+00:00",
+      "last_seen": "2026-10-23T15:32:11+00:00",
+      "location": "Tucson, AZ",
+      "posted_at": "1791244800",
+      "source": "simplify",
+      "title": "Software Test Engineer 2",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Test-Engineer-II_01880024"
+    },
     "simplify:rtx::simplify-6ea50b0f-5bb0-46f9-9acf-2cb906b4da62": {
       "company": "RTX",
       "first_seen": "2026-09-25T23:20:49+00:00",
@@ -64128,5 +64160,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T15:04:08+00:00"
+  "updated_at": "2026-10-23T15:32:12+00:00"
 }
