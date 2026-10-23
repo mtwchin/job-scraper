@@ -1,5 +1,5 @@
 {
-  "count": 7444,
+  "count": 7445,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -41066,6 +41066,16 @@
       "title": "GPU Kernel Development Engineer - Multiple Levels Available - Graphics Software Engineering",
       "url": "https://qualcomm.eightfold.ai/careers/job/446715939731"
     },
+    "simplify:qualcomm::simplify-9bdd8995-6afb-43bb-bb7a-b461fddace53": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-23T10:31:50+00:00",
+      "last_seen": "2026-10-23T10:31:50+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1785910534",
+      "source": "simplify",
+      "title": "AI Software Core Software Engineer - AI Software Platform - Machine Learning Engineering",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446718120116"
+    },
     "simplify:qualcomm::simplify-a81214dd-ab59-4311-8449-55d8c0ffff28": {
       "company": "Qualcomm",
       "first_seen": "2026-10-04T12:02:50+00:00",
@@ -53012,6 +53022,7 @@
     "simplify:tiktok::simplify-fd5ce344-8090-4978-9130-22580b2ba64d": {
       "company": "TikTok",
       "first_seen": "2026-07-02T21:01:41+00:00",
+      "last_seen": "2026-10-23T10:31:30+00:00",
       "posted_at": "1765840896",
       "title": "Software Engineer Project Intern \u2013 Lead Ads - 2026 Start - BS/MS",
       "url": "https://lifeattiktok.com/search/7584179082162653445"
@@ -62337,5 +62348,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T10:02:17+00:00"
+  "updated_at": "2026-10-23T10:32:19+00:00"
 }
