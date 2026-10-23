@@ -1,5 +1,5 @@
 {
-  "count": 7458,
+  "count": 7460,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -4588,6 +4588,16 @@
       "title": "Developer Intern - Service Development",
       "url": "https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/application"
     },
+    "simplify:1password::simplify-c27dd769-5cb4-46de-9658-90d85c12cfbc": {
+      "company": "1Password",
+      "first_seen": "2026-10-23T17:32:33+00:00",
+      "last_seen": "2026-10-23T17:32:33+00:00",
+      "location": "Remote in USA, Remote in Canada",
+      "posted_at": "1792766545",
+      "source": "simplify",
+      "title": "Developer Intern - Credential Brokering",
+      "url": "https://jobs.ashbyhq.com/1password/67bfbd8b-aba9-42b1-a8a8-833367888fba/application?embed=true"
+    },
     "simplify:1password::simplify-c4f7b9a7-0136-490c-891e-ee3a84d6864c": {
       "company": "1Password",
       "first_seen": "2026-10-22T22:32:08+00:00",
@@ -4597,6 +4607,16 @@
       "source": "simplify",
       "title": "Developer Intern - Vault Team",
       "url": "https://jobs.ashbyhq.com/1password/b2726ac7-dd0d-42f3-93a5-139e18c90779/application?embed=true"
+    },
+    "simplify:1password::simplify-e6004504-fc09-4fa4-8b4f-0e12d0e319a6": {
+      "company": "1Password",
+      "first_seen": "2026-10-23T17:32:33+00:00",
+      "last_seen": "2026-10-23T17:32:33+00:00",
+      "location": "Remote in USA, Remote in Canada",
+      "posted_at": "1792766545",
+      "source": "simplify",
+      "title": "Developer Intern - Developer Interfaces",
+      "url": "https://jobs.ashbyhq.com/1password/00f861d4-2b4a-4159-b6dc-8aed0cde6e39/application?embed=true"
     },
     "simplify:2020 companies::simplify-4499e3de-6ca9-43b8-8614-fa4b79582a4b": {
       "company": "2020 Companies",
@@ -60411,7 +60431,7 @@
     "vanshb03:optiver::vanshb03-07823e02-de3a-4a2e-8024-cfd38554f423": {
       "company": "Optiver",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-21T00:01:33+00:00",
+      "last_seen": "2026-10-23T17:32:33+00:00",
       "location": "Austin, TX",
       "posted_at": "1783426662",
       "seeded": true,
@@ -62480,5 +62500,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T17:03:24+00:00"
+  "updated_at": "2026-10-23T17:33:26+00:00"
 }
