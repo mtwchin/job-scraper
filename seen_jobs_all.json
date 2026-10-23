@@ -1,5 +1,5 @@
 {
-  "count": 7638,
+  "count": 7652,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -7757,6 +7757,16 @@
       "title": "Software Engineer 1 - Oracle Cloud HCM - CET Services",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007827"
     },
+    "simplify:american express::simplify-61fa0744-4831-4c97-9f73-b7fff685dfe2": {
+      "company": "American Express",
+      "first_seen": "2026-10-23T22:32:28+00:00",
+      "last_seen": "2026-10-23T22:32:28+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1792793561",
+      "source": "simplify",
+      "title": "AI Engineer Intern - Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015552"
+    },
     "simplify:american express::simplify-74ef05dd-dadb-4a70-838d-d41642df9bdd": {
       "company": "American Express",
       "first_seen": "2026-09-22T23:43:37+00:00",
@@ -7884,6 +7894,16 @@
       "posted_at": "1787004631",
       "title": "Software Engineer Intern - Enterprise Technology Services",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084"
+    },
+    "simplify:american family insurance group::simplify-24d68083-3cb9-4678-ae53-e6a2fcd638fe": {
+      "company": "American Family Insurance Group",
+      "first_seen": "2026-10-23T22:32:28+00:00",
+      "last_seen": "2026-10-23T22:32:28+00:00",
+      "location": "Madison, WI",
+      "posted_at": "1792713600",
+      "source": "simplify",
+      "title": "AI Platform Engineering Intern",
+      "url": "https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462"
     },
     "simplify:american family insurance group::simplify-2b94f977-4dc4-418e-8e20-7004a6af1a13": {
       "company": "American Family Insurance Group",
@@ -9168,6 +9188,16 @@
       "posted_at": "1784844702",
       "title": "Associate AI Automation Engineer/AI Automation Engineer",
       "url": "https://careers-appliedsystems.icims.com/jobs/7719/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:applied underwriters::simplify-ee3a8d08-0634-4977-978a-3073541eb055": {
+      "company": "Applied Underwriters",
+      "first_seen": "2026-10-23T22:32:29+00:00",
+      "last_seen": "2026-10-23T22:32:29+00:00",
+      "location": "NYC",
+      "posted_at": "1792793384",
+      "source": "simplify",
+      "title": "AI Engineer - Application Development",
+      "url": "https://jobs.lever.co/auw/9234d6e2-f306-48d9-9cd6-9192d34d889c/apply"
     },
     "simplify:applovin::simplify-b8ccf2d6-f57b-44fd-bb25-fdda3e617777": {
       "company": "AppLovin",
@@ -21362,6 +21392,16 @@
       "title": "Frontend Programmer Intern",
       "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004"
     },
+    "simplify:epic games::simplify-c4dc3458-525a-41e5-a1cc-5508b08f1c45": {
+      "company": "Epic Games",
+      "first_seen": "2026-10-23T22:32:28+00:00",
+      "last_seen": "2026-10-23T22:32:28+00:00",
+      "location": "Cary, NC",
+      "posted_at": "1792780820",
+      "source": "simplify",
+      "title": "Tools Programmer Intern - Graphics",
+      "url": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004"
+    },
     "simplify:epic games::simplify-cc42178a-cb7e-4d51-9f4c-a0cfc4b81f50": {
       "company": "Epic Games",
       "first_seen": "2026-09-10T05:13:45+00:00",
@@ -31106,6 +31146,16 @@
       "title": "Software Engineer",
       "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2637811"
     },
+    "simplify:kla corporation::simplify-4eaa723e-570b-4a9d-88de-a5f01e273d96": {
+      "company": "KLA Corporation",
+      "first_seen": "2026-10-23T22:32:28+00:00",
+      "last_seen": "2026-10-23T22:32:28+00:00",
+      "location": "Milpitas, CA",
+      "posted_at": "1792713600",
+      "source": "simplify",
+      "title": "Software Engineer Intern - AI/ML for Diagnostics & Calibration",
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129"
+    },
     "simplify:kla corporation::simplify-528bffa3-11cc-41b2-93e1-b130dbfa6c8f": {
       "company": "KLA Corporation",
       "first_seen": "2026-07-21T23:14:00+00:00",
@@ -31143,6 +31193,16 @@
       "posted_at": "1784678400",
       "title": "Customer Application Engineer",
       "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Austin-TX/Customer-Applications-Development-Engineer_2638213-1"
+    },
+    "simplify:kla corporation::simplify-b03555c3-944d-4213-aab1-95db2f80fabf": {
+      "company": "KLA Corporation",
+      "first_seen": "2026-10-23T22:32:28+00:00",
+      "last_seen": "2026-10-23T22:32:28+00:00",
+      "location": "Milpitas, CA",
+      "posted_at": "1792713600",
+      "source": "simplify",
+      "title": "Software Engineer Intern - C++ - Linux",
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878"
     },
     "simplify:kla corporation::simplify-b26371db-d53d-469b-b8e0-1f50db3f6004": {
       "company": "KLA Corporation",
@@ -35769,6 +35829,16 @@
       "title": "Back End Developer",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/C--Software-Engineer---Temporary-from-01-01-2027-for-12-months_R67751"
     },
+    "simplify:motorola solutions::simplify-ff4139c4-0cba-4e64-9000-9503b26bd436": {
+      "company": "Motorola Solutions",
+      "first_seen": "2026-10-23T22:32:28+00:00",
+      "last_seen": "2026-10-23T22:32:28+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1792713600",
+      "source": "simplify",
+      "title": "Android Applications Developer",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer_R68135"
+    },
     "simplify:motorola::simplify-0e645a26-5aa4-441c-b793-1ef8516245ca": {
       "company": "Motorola",
       "first_seen": "2026-07-28T15:35:20+00:00",
@@ -36015,6 +36085,16 @@
       "posted_at": "1787005721",
       "title": "AI Engineer",
       "url": "https://careers.msasafety.com/jobs/9830?icims=1"
+    },
+    "simplify:msa safety::simplify-dabc8ae4-5aec-4b6c-9ccd-12444c1f39c6": {
+      "company": "MSA Safety",
+      "first_seen": "2026-10-23T22:32:28+00:00",
+      "last_seen": "2026-10-23T22:32:28+00:00",
+      "location": "Cranberry Township, PA",
+      "posted_at": "1792774200",
+      "source": "simplify",
+      "title": "AI Engineer Co-op",
+      "url": "https://careers.msasafety.com/jobs/10243?icims=1"
     },
     "simplify:mthree::simplify-5034a0e7-592a-458f-b515-579d804d7bef": {
       "company": "mthree",
@@ -39030,6 +39110,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/oceanus/c16078ab-131c-461e-9049-b094633ae41b/application?embed=true"
     },
+    "simplify:oclc::simplify-7b666801-fc12-4d52-bec8-29423fb85a3a": {
+      "company": "OCLC",
+      "first_seen": "2026-10-23T22:32:28+00:00",
+      "last_seen": "2026-10-23T22:32:28+00:00",
+      "location": "Dublin, OH",
+      "posted_at": "1792713600",
+      "source": "simplify",
+      "title": "Associate Software Engineer - Search Team",
+      "url": "https://oclc.wd1.myworkdayjobs.com/en-US/OCLC_Careers/job/Dublin-OH--Hybrid/Associate-Software-Engineer---Search-Team_R0003958"
+    },
     "simplify:offerup::simplify-cc2fec71-d445-40e3-be3e-b8dd51184164": {
       "company": "OfferUp",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -41074,6 +41164,16 @@
       "posted_at": "1769210833",
       "title": "Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/perpay/jobs/4076988007"
+    },
+    "simplify:perplexity ai::simplify-3557be68-fc43-4f36-88de-aeddac816ec2": {
+      "company": "Perplexity AI",
+      "first_seen": "2026-10-23T22:32:29+00:00",
+      "last_seen": "2026-10-23T22:32:29+00:00",
+      "location": "Washington, DC, SF",
+      "posted_at": "1792713600",
+      "source": "simplify",
+      "title": "Member of Technical Staff - AI Policy and Strategic Initiatives",
+      "url": "https://jobs.ashbyhq.com/perplexity/c23c4d82-3c53-432b-8a00-2e400ccdf3ea/application?embed=true"
     },
     "simplify:perplexity ai::simplify-e9bddf7b-c66c-41f2-a149-321d40ff2a9b": {
       "company": "Perplexity AI",
@@ -47589,6 +47689,16 @@
       "title": "Software Engineer - Agentic AI Systems - Moveworks",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000128997739"
     },
+    "simplify:servicenow::simplify-8f92f713-831e-414a-9cc3-067cf3b3ba4f": {
+      "company": "ServiceNow",
+      "first_seen": "2026-10-23T22:32:29+00:00",
+      "last_seen": "2026-10-23T22:32:29+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1792790698",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157571919"
+    },
     "simplify:servicenow::simplify-96fb8f30-f721-4712-816d-5a381a92d51f": {
       "company": "ServiceNow",
       "first_seen": "2026-08-05T22:37:23+00:00",
@@ -50222,7 +50332,7 @@
     "simplify:sun life::simplify-1152eb49-b54c-4cf5-ac13-01753a599595": {
       "company": "Sun Life",
       "first_seen": "2026-09-14T19:14:49+00:00",
-      "last_seen": "2026-09-24T00:00:15+00:00",
+      "last_seen": "2026-10-23T22:32:27+00:00",
       "location": "Waterloo, ON, Canada",
       "posted_at": "1789344000",
       "source": "simplify",
@@ -51297,6 +51407,16 @@
       "posted_at": "1787873425",
       "title": "Software Engineer Intern - US - Summer 2027",
       "url": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11/application?embed=true"
+    },
+    "simplify:telus digital::simplify-598f7d86-9ae9-4217-9a5c-b8cdda8d7431": {
+      "company": "TELUS Digital",
+      "first_seen": "2026-10-23T22:32:28+00:00",
+      "last_seen": "2026-10-23T22:32:28+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1792713600",
+      "source": "simplify",
+      "title": "Software Engineering Intern Co-op",
+      "url": "https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2/application?embed=true"
     },
     "simplify:tencent::simplify-6e53b9de-07c4-4545-b612-707fca641b88": {
       "company": "Tencent",
@@ -52507,6 +52627,16 @@
       "source": "simplify",
       "title": "Software Engineer Apprentice",
       "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Templecombe/XMLNAME-2027-Software-Engineering-Apprentice---Level-6-Digital-and-Technology-Solutions-Degree-Apprenticeship_R0337865"
+    },
+    "simplify:thales::simplify-7a04abc6-6dbe-4af5-b0ac-c6df3e337263": {
+      "company": "Thales",
+      "first_seen": "2026-10-23T22:32:28+00:00",
+      "last_seen": "2026-10-23T22:32:28+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1792713600",
+      "source": "simplify",
+      "title": "Tools and Process Development Intern",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Montreal/Stagiaire-en-dveloppement-outils---processus-outill_R0343987-1"
     },
     "simplify:thales::simplify-8b8d05ca-3bab-4553-b6ca-13263ba03731": {
       "company": "Thales",
@@ -59463,6 +59593,16 @@
       "title": "Mobile Software Engineer Intern - Summer 2027",
       "url": "https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52"
     },
+    "skydio::d79ccbaa-2901-4303-bd90-675db7802366": {
+      "company": "Skydio",
+      "first_seen": "2026-10-23T21:20:35+00:00",
+      "last_seen": "2026-10-23T21:20:35+00:00",
+      "location": "San Mateo, California, United States",
+      "posted_at": "2026-10-23T21:18:39.017+00:00",
+      "source": "",
+      "title": "Embedded Software Engineer Intern - Winter 2027",
+      "url": "https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366"
+    },
     "skydio::f6320e9b-4eed-408d-8d37-d509fb0406ee": {
       "company": "Skydio",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -64636,5 +64776,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T20:34:25+00:00"
+  "updated_at": "2026-10-23T22:32:33+00:00"
 }
