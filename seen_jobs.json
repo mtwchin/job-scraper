@@ -1,5 +1,5 @@
 {
-  "count": 7443,
+  "count": 7444,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -47873,6 +47873,16 @@
       "title": "Software Engineer, Linux Kernel - Linux Kernel",
       "url": "https://boards.greenhouse.io/spacex/jobs/8852121002"
     },
+    "simplify:spacex::simplify-dd4a3413-dd61-40f2-9b74-1b9d87213560": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-23T10:01:50+00:00",
+      "last_seen": "2026-10-23T10:01:50+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1777587817",
+      "source": "simplify",
+      "title": "Software Engineer - Development Test - Starlink",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8532395002"
+    },
     "simplify:spacex::simplify-e49aa991-ccca-47e8-9561-11cabf65f0a1": {
       "company": "SpaceX",
       "first_seen": "2026-10-04T00:30:22+00:00",
@@ -51869,7 +51879,7 @@
     "simplify:tiktok::simplify-0027f5ce-0bdc-419e-ac80-095bae27c176": {
       "company": "TikTok",
       "first_seen": "2026-08-20T02:43:11+00:00",
-      "last_seen": "2026-10-04T11:31:08+00:00",
+      "last_seen": "2026-10-23T10:02:10+00:00",
       "posted_at": "1787190346",
       "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
       "url": "https://lifeattiktok.com/search/7675163472469444917"
@@ -52050,6 +52060,7 @@
     "simplify:tiktok::simplify-2851e500-7a2b-4e96-a2fa-681730e8d48e": {
       "company": "TikTok",
       "first_seen": "2026-08-10T15:11:36+00:00",
+      "last_seen": "2026-10-23T10:02:10+00:00",
       "posted_at": "1786371587",
       "title": "Software Engineer Intern - Global E-commerce-Search",
       "url": "https://lifeattiktok.com/search/7670839752644233525"
@@ -62326,5 +62337,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T09:32:14+00:00"
+  "updated_at": "2026-10-23T10:02:17+00:00"
 }
