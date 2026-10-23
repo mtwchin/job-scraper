@@ -1,5 +1,5 @@
 {
-  "count": 7582,
+  "count": 7592,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6972,6 +6972,16 @@
       "posted_at": "1765926915",
       "title": "Software Development Engineer - Amazon Leo - US",
       "url": "https://amazon.jobs/en/jobs/3144341/software-development-engineer-amazon-leo-us"
+    },
+    "simplify:amazon::simplify-62b12319-6d0b-464c-b8a5-65f958a10b82": {
+      "company": "Amazon",
+      "first_seen": "2026-10-23T14:31:34+00:00",
+      "last_seen": "2026-10-23T14:31:34+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1790413564",
+      "source": "simplify",
+      "title": "Senior Software Engineer - Amazon Tax",
+      "url": "https://amazon.jobs/en/jobs/10471522/senior-sde-amazon-tax"
     },
     "simplify:amazon::simplify-6d55f27f-9786-4c75-ab7c-c79dd9c729e0": {
       "company": "Amazon",
@@ -14269,7 +14279,7 @@
     "simplify:caci::simplify-e772b664-062b-4315-9007-69460c23019c": {
       "company": "CACI",
       "first_seen": "2026-09-14T19:14:49+00:00",
-      "last_seen": "2026-09-28T00:54:52+00:00",
+      "last_seen": "2026-10-23T14:31:51+00:00",
       "location": "Remote in USA, Sterling, VA, Denver, CO",
       "posted_at": "1789344000",
       "source": "simplify",
@@ -21291,6 +21301,16 @@
       "title": "Retail Lending AI Engineer Intern",
       "url": "https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/apply"
     },
+    "simplify:ercot::simplify-16002037-6c01-492b-8883-204bec2edbb1": {
+      "company": "Ercot",
+      "first_seen": "2026-10-23T14:31:52+00:00",
+      "last_seen": "2026-10-23T14:31:52+00:00",
+      "location": "Taylor, TX",
+      "posted_at": "1790553600",
+      "source": "simplify",
+      "title": "Entry Level Power & Computer Engineer",
+      "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Development-Program---Entry-Level-Power---Computer-Engineer_R2513-1"
+    },
     "simplify:ercot::simplify-a7c61c00-3f37-4f60-a827-43ce1d719294": {
       "company": "Ercot",
       "first_seen": "2026-07-21T21:22:56+00:00",
@@ -26026,6 +26046,16 @@
       "source": "simplify",
       "title": "WMS Software Developer 1",
       "url": "https://wholesale-harborfoods.icims.com/jobs/7921/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:harbor::simplify-59ea968c-caa6-409c-a2c7-e001618e44c3": {
+      "company": "Harbor",
+      "first_seen": "2026-10-23T14:31:52+00:00",
+      "last_seen": "2026-10-23T14:31:52+00:00",
+      "location": "Remote in UK, Remote in Canada",
+      "posted_at": "1790633270",
+      "source": "simplify",
+      "title": "Junior Developer - Finance Systems",
+      "url": "https://job-boards.greenhouse.io/harborglobal/jobs/5238900007"
     },
     "simplify:hardin design::simplify-22a10269-db51-459d-b8ce-872e7a7ac070": {
       "company": "Hardin Design",
@@ -35505,6 +35535,16 @@
       "title": "Software Engineer 1",
       "url": "https://jobs.ashbyhq.com/morrishealthtech/21e734ca-b012-438d-af22-ff30ea12bf39/application?embed=true"
     },
+    "simplify:motorola solutions::simplify-4749eed9-dd34-4ec5-b20d-18276b56dd7b": {
+      "company": "Motorola Solutions",
+      "first_seen": "2026-10-23T14:31:52+00:00",
+      "last_seen": "2026-10-23T14:31:52+00:00",
+      "location": "Edinburgh, UK",
+      "posted_at": "1792765209",
+      "source": "simplify",
+      "title": "Mid Level Software Engineer",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Mid-Level-Back-End-Software-Engineer_R65766"
+    },
     "simplify:motorola solutions::simplify-5f70632d-c11e-4006-a4eb-a0ab37ed4448": {
       "company": "Motorola Solutions",
       "first_seen": "2026-10-21T23:02:34+00:00",
@@ -36069,12 +36109,34 @@
       "title": "Software Engineer - Full Stack - Application Product Security",
       "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Full-Stack-_100006"
     },
+    "simplify:natwest group::simplify-ba72bc0a-c5ca-41ea-87bc-e7b5abe02f6a": {
+      "company": "NatWest Group",
+      "first_seen": "2026-10-23T14:31:52+00:00",
+      "last_seen": "2026-10-23T14:31:52+00:00",
+      "location": "Bristol, UK; Manchester, UK",
+      "posted_at": "1790553600",
+      "source": "simplify",
+      "title": "Engineering Intern",
+      "url": "https://rbs.wd3.myworkdayjobs.com/rbs/job/Bristol/Engineering----Internship_R-00285732"
+    },
     "simplify:natwest group::simplify-d9d98718-3266-4066-a180-d6d84556794c": {
       "company": "NatWest Group",
       "first_seen": "2026-07-21T08:47:36+00:00",
       "posted_at": "1780132193",
       "title": "Tech Insight Experience for Women - Engineering",
       "url": "https://rbs.wd3.myworkdayjobs.com/rbs/job/Edinburgh/Tech-Insight-Experience-for-Women---Engineering_R-00276058"
+    },
+    "simplify:natwest group::simplify-dffd4db8-49f0-4ebf-bfdc-8c58fe35018a": {
+      "company": "NatWest Group",
+      "duplicate_of": "simplify:natwest group::simplify-ba72bc0a-c5ca-41ea-87bc-e7b5abe02f6a",
+      "first_seen": "2026-10-23T14:31:51+00:00",
+      "last_seen": "2026-10-23T14:31:51+00:00",
+      "location": "Manchester, UK",
+      "posted_at": "1790553600",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Engineering Intern",
+      "url": "https://rbs.wd3.myworkdayjobs.com/rbs/job/Manchester/Engineering----Internship_R-00285731"
     },
     "simplify:nav canada::simplify-3d4bb444-d328-44a8-9c50-2a5c0e35d574": {
       "company": "NAV CANADA",
@@ -36200,6 +36262,16 @@
       "posted_at": "1782511768",
       "title": "Software Engineer 1",
       "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/SW-Engineer-I_R0157595"
+    },
+    "simplify:ncr voyix::simplify-99b14664-1bdf-4b69-b627-0fd226013c5b": {
+      "company": "NCR Voyix",
+      "first_seen": "2026-10-23T14:31:52+00:00",
+      "last_seen": "2026-10-23T14:31:52+00:00",
+      "location": "Bath, UK",
+      "posted_at": "1790294400",
+      "source": "simplify",
+      "title": "Software Developer 1",
+      "url": "https://ncr.wd1.myworkdayjobs.com/ext_non_us/job/BATH-GBR/Software-Developer-I_R0157940"
     },
     "simplify:ncr voyix::simplify-b02fcae4-ac36-4769-8a28-85242403362c": {
       "company": "NCR Voyix",
@@ -38955,6 +39027,16 @@
       "source": "simplify",
       "title": "Manufacturing AI Engineering Intern",
       "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506642"
+    },
+    "simplify:onsemi::simplify-ef81bfb1-56bf-4a32-b001-020a5ce145b3": {
+      "company": "onsemi",
+      "first_seen": "2026-10-23T14:31:52+00:00",
+      "last_seen": "2026-10-23T14:31:52+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1790633467",
+      "source": "simplify",
+      "title": "AI & Data Engineering Intern",
+      "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506526"
     },
     "simplify:ontario teachers' pension plan::simplify-563165c9-79ea-427e-a9f7-ac43878f12f6": {
       "company": "Ontario Teachers' Pension Plan",
@@ -50329,6 +50411,16 @@
       "title": "Technology Intern - Technology",
       "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/BLP-Intern---Technology_2601695-1"
     },
+    "simplify:synchrony financial::simplify-37c49cf0-32b3-401f-a00e-3f878679c268": {
+      "company": "Synchrony Financial",
+      "first_seen": "2026-10-23T14:31:52+00:00",
+      "last_seen": "2026-10-23T14:31:52+00:00",
+      "location": "Stamford, CT",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Digital Technology Center Intern",
+      "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/University/job/Stamford-Hub/UConn-Stamford-Digital-Technology-Center-Intern---Summer-2027_2602661"
+    },
     "simplify:synchrony financial::simplify-926aad82-a906-40e6-ad7f-97a1fca95370": {
       "company": "Synchrony Financial",
       "first_seen": "2026-08-01T16:16:06+00:00",
@@ -57537,6 +57629,16 @@
       "title": "Information Technology Development Intern",
       "url": "https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392"
     },
+    "simplify:waymo::simplify-07ec9414-a580-4b59-87ad-55bc953f8447": {
+      "company": "Waymo",
+      "first_seen": "2026-10-23T14:31:35+00:00",
+      "last_seen": "2026-10-23T14:31:35+00:00",
+      "location": "SF",
+      "posted_at": "1790633910",
+      "source": "simplify",
+      "title": "Depot Automation Intern",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8234553"
+    },
     "simplify:waymo::simplify-107e54c4-e35f-4131-8faf-6a6ab9998ca9": {
       "company": "Waymo",
       "first_seen": "2026-09-04T05:57:38+00:00",
@@ -63989,5 +64091,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T14:03:18+00:00"
+  "updated_at": "2026-10-23T14:32:21+00:00"
 }
