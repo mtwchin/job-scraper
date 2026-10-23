@@ -1,5 +1,5 @@
 {
-  "count": 7626,
+  "count": 7630,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -928,6 +928,15 @@
       "title": "Frontend Software Engineer Intern - Summer 2027",
       "url": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd"
     },
+    "vanshb03:asml::vanshb03-283cf569-3546-4109-a0d9-cdf0228b2851": {
+      "attempted_at": "2026-10-23T17:25:09+00:00",
+      "company": "ASML",
+      "location": "San Jose, CA",
+      "posted_at": "1792773605",
+      "source": "vanshb03",
+      "title": "Software Engineer In Test Intern, MOD",
+      "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568"
+    },
     "vanshb03:caci::vanshb03-24dd6f67-0f24-4af4-be49-c619d04f0cb6": {
       "attempted_at": "2026-10-19T00:20:33+00:00",
       "company": "CACI",
@@ -936,6 +945,33 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543"
+    },
+    "vanshb03:kla::vanshb03-9aff637f-ed10-42d2-b06e-cbebb43ccbcd": {
+      "attempted_at": "2026-10-23T17:25:09+00:00",
+      "company": "KLA",
+      "location": "Milpitas, CA",
+      "posted_at": "1792773065",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, AI/ML for Diagnostics & Calibration",
+      "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1"
+    },
+    "vanshb03:nokia::vanshb03-f836bbc6-c2e3-4eba-9fba-d04811cf032f": {
+      "attempted_at": "2026-10-23T17:25:09+00:00",
+      "company": "Nokia",
+      "location": "Canada",
+      "posted_at": "1792738800",
+      "source": "vanshb03",
+      "title": "Network Systems Engineer Co-op",
+      "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41672"
+    },
+    "vanshb03:rivian and volkswagen group technologies::vanshb03-c4bcc390-2e9e-4a1d-b1d8-02c8f170e9a5": {
+      "attempted_at": "2026-10-23T17:25:09+00:00",
+      "company": "Rivian and Volkswagen Group Technologies",
+      "location": "Vancouver, Canada; Palo Alto, CA",
+      "posted_at": "1792738800",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Applications",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b/application"
     },
     "vanshb03:soti::vanshb03-2917627b-aff8-4419-83fb-1e67c9833307": {
       "attempted_at": "2026-10-23T12:02:22+00:00",
@@ -5658,6 +5694,16 @@
       "posted_at": "1786602150",
       "title": "iOS Developer",
       "url": "https://adidev.bamboohr.com/careers/34/"
+    },
+    "simplify:adobe::simplify-31ee782b-3421-455d-9cc1-e5c1fc84b692": {
+      "company": "Adobe",
+      "first_seen": "2026-10-23T17:02:53+00:00",
+      "last_seen": "2026-10-23T17:02:53+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1792368000",
+      "source": "simplify",
+      "title": "AI & Architecture Intern",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998"
     },
     "simplify:adobe::simplify-404ba643-445d-4434-b04c-20a6d12d4d18": {
       "company": "Adobe",
@@ -62655,6 +62701,18 @@
       "title": "Software Engineering Intern, OTA Integration",
       "url": "https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27233/job"
     },
+    "vanshb03:rivian and volkswagen group technologies::vanshb03-589eba12-350f-4d50-b544-1070a24f8eb6": {
+      "company": "Rivian and Volkswagen Group Technologies",
+      "duplicate_of": "vanshb03:rivian and volkswagen group technologies::vanshb03-c4bcc390-2e9e-4a1d-b1d8-02c8f170e9a5",
+      "first_seen": "2026-10-23T17:25:09+00:00",
+      "last_seen": "2026-10-23T17:25:09+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1792738800",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Applications",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/7cc3dd48-631f-45ec-ae95-46c7cf05b160/application"
+    },
     "vanshb03:rivian and volkswagen group technologies::vanshb03-8ae57b40-93cf-44a0-8a44-a63ff170ac3b": {
       "company": "Rivian and Volkswagen Group Technologies",
       "first_seen": "2026-10-23T16:49:10+00:00",
@@ -62686,6 +62744,18 @@
       "title": "Software Engineering Intern, Connected Systems",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/62e45b20-cbdc-4d16-9466-00bc158b7a7f"
     },
+    "vanshb03:rivian and volkswagen group technologies::vanshb03-9db45eb3-9258-45d8-a7b8-28c71e622e19": {
+      "company": "Rivian and Volkswagen Group Technologies",
+      "duplicate_of": "vanshb03:rivian and volkswagen group technologies::vanshb03-8ae57b40-93cf-44a0-8a44-a63ff170ac3b",
+      "first_seen": "2026-10-23T17:25:09+00:00",
+      "last_seen": "2026-10-23T17:25:09+00:00",
+      "location": "Vancouver, Canada",
+      "posted_at": "1792738800",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Vehicle Controls",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0/application"
+    },
     "vanshb03:rivian and volkswagen group technologies::vanshb03-b606ba0e-3439-4cc2-83be-304f60d8725d": {
       "company": "Rivian and Volkswagen Group Technologies",
       "first_seen": "2026-10-23T16:49:10+00:00",
@@ -62695,6 +62765,18 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern, Embedded Platforms",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048"
+    },
+    "vanshb03:rivian and volkswagen group technologies::vanshb03-f803c244-b6df-4228-861d-9de6498c7fb9": {
+      "company": "Rivian and Volkswagen Group Technologies",
+      "duplicate_of": "vanshb03:rivian and volkswagen group technologies::vanshb03-b606ba0e-3439-4cc2-83be-304f60d8725d",
+      "first_seen": "2026-10-23T17:25:09+00:00",
+      "last_seen": "2026-10-23T17:25:09+00:00",
+      "location": "Vancouver, Canada",
+      "posted_at": "1792707800",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Embedded Platforms",
+      "url": "https://jobs.ashbyhq.com/rivianvw.tech/c6ae5fc4-ac16-450c-ac07-3efd6f0411a1"
     },
     "vanshb03:robert bosch llc::vanshb03-e7805292-5034-4597-ae35-8d01de630c0c": {
       "company": "Robert Bosch LLC",
@@ -64474,5 +64556,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T17:02:25+00:00"
+  "updated_at": "2026-10-23T17:25:28+00:00"
 }
