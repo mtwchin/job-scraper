@@ -1,5 +1,5 @@
 {
-  "count": 7445,
+  "count": 7446,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -8454,6 +8454,16 @@
       "posted_at": "1779430055",
       "title": "Software Engineering Masters Intern",
       "url": "https://jobs.apple.com/en-us/details/200664320"
+    },
+    "simplify:apple::simplify-e5efd84d-ee5e-47b6-8b5c-f101e7094c9f": {
+      "company": "Apple",
+      "first_seen": "2026-10-23T11:32:34+00:00",
+      "last_seen": "2026-10-23T11:32:34+00:00",
+      "location": "California",
+      "posted_at": "1787626810",
+      "source": "simplify",
+      "title": "Software Engineer - Infrastructure Services - Cloud Network Fault Tolerance",
+      "url": "https://jobs.apple.com/en-us/details/200679765"
     },
     "simplify:apple::simplify-ed2cf37e-8a1e-4d2f-8cf3-ea92bbfbcde2": {
       "company": "Apple",
@@ -62348,5 +62358,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T11:01:51+00:00"
+  "updated_at": "2026-10-23T11:32:54+00:00"
 }
