@@ -46,6 +46,7 @@ concurrency:
 permissions:
   contents: write   # needed to commit the updated seen_jobs.json back
   actions: write    # needed to dispatch the next run when this loop ends
+  issues: write     # health/outage notices are filed as an issue, not to Discord
 
 jobs:
   watch:

@@ -20,7 +20,7 @@ on:
         options: [doctor, discover]
         default: doctor
       targets:
-        description: "discover only: space-separated company names or careers URLs"
+        description: "discover only: company names or careers URLs, ONE PER LINE"
         required: false
         default: ""
 
@@ -57,6 +57,15 @@ jobs:
             echo "No targets given. Pass names or careers URLs in the 'targets' input."
             exit 1
           fi
-          # Deliberately unquoted: TARGETS is a space-separated list of targets.
-          # shellcheck disable=SC2086
-          python -m jobscraper discover $TARGETS
+          # One target per LINE, not per space. Splitting on whitespace mangles
+          # every multi-word company name: quotes inside a variable are not
+          # re-parsed by the shell, so "Thinking Machines" arrives as two
+          # targets, `Thinking` and `Machines"`, and the company actually asked
+          # about is never probed. That hid two working boards (Thinking
+          # Machines and World Labs, both since found on Ashby) behind what
+          # looked like "no board found". Reading line by line needs no quoting
+          # rules at all.
+          while IFS= read -r target; do
+            [ -n "$target" ] || continue
+            python -m jobscraper discover "$target" || true
+          done <<< "$TARGETS"

@@ -17,7 +17,7 @@ import time
 from dataclasses import dataclass, field, replace
 from datetime import datetime, timedelta, timezone
 
-from . import adapters, dedup, filters, health, log, notify, settings
+from . import adapters, alerts, dedup, filters, health, log, notify, settings
 from .companies import load_companies
 from .dedup import KeySet
 from .models import CompanyConfig, Job
@@ -257,35 +257,51 @@ def _maybe_health_alert(c: Collection, store: SeenStore, min_sweeps: int,
     if min_age is None:
         min_age = settings.HEALTH_ALERT_MINUTES * 60
     report = store.health.evaluate(store.health_reported, min_sweeps, min_age)
-    if report.down:
-        logger.warning(health.format_down(report, store.health))
-    elif c.errors:
-        logger.warning("%d board(s) errored this sweep; alerting if it persists. First: %s",
-                       len(c.errors), c.errors[0])
-    if report.recovered:
-        logger.info(health.format_recovered(report.recovered))
-    if settings.DRY_RUN or not settings.DISCORD_WEBHOOK_URL or not (report.down or report.recovered):
+    if not (report.down or report.recovered):
+        if c.errors:
+            logger.warning("%d board(s) errored this sweep; alerting if it persists. First: %s",
+                           len(c.errors), c.errors[0])
         return
 
+    if settings.DRY_RUN:
+        # Show what would be reported, but change no state and notify nobody.
+        if report.down:
+            logger.warning(health.format_down(report, store.health))
+        if report.recovered:
+            logger.info(health.format_recovered(report.recovered))
+        return
+
+    # Health notices go to the operational sinks (log, Actions annotation,
+    # GitHub issue) — not to the Discord job channel, which should only carry
+    # roles worth applying to. HEALTH_ALERT_DISCORD puts them back if wanted.
     if report.recovered:
+        text = health.format_recovered(report.recovered)
         store.health_reported -= set(report.recovered)
         store._dirty = True
         store.save()
-        notify.notify_summary(health.format_recovered(report.recovered))
+        alerts.health_alert(text, resolved=True)
+        if settings.HEALTH_ALERT_DISCORD and settings.DISCORD_WEBHOOK_URL:
+            notify.notify_summary(text)
+
     if report.down:
+        text = health.format_down(report, store.health)
         # Recorded before sending: a send that dies halfway must not turn into
-        # the same alert every sweep. A rejected webhook is the exception —
-        # nothing reached the channel, so it has to be retried.
+        # the same alert every sweep.
         store.health_reported |= set(report.down)
         store._dirty = True
         store.save()
-        try:
-            notify.notify_summary(health.format_down(report, store.health))
-        except notify.WebhookRejected:
-            store.health_reported -= set(report.down)
-            store._dirty = True
-            store.save()
-            raise
+        alerts.health_alert(text)
+        if settings.HEALTH_ALERT_DISCORD and settings.DISCORD_WEBHOOK_URL:
+            try:
+                notify.notify_summary(text)
+            except notify.WebhookRejected:
+                # Nothing reached the channel, so it has to be retried. Only
+                # un-report when Discord is the sink that failed; the other
+                # sinks already carried this notice.
+                store.health_reported -= set(report.down)
+                store._dirty = True
+                store.save()
+                raise
 
 
 def select_new(store: SeenStore, matches: list[Job]) -> list[Job]:

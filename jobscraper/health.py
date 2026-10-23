@@ -51,6 +51,40 @@ class Tracker:
         else:
             self.failing[company] = Failure(adapter, error, now or time.time())
 
+    def to_dict(self) -> dict:
+        """Currently-failing boards, for the state file.
+
+        Only the failing set is persisted, not every board's adapter: it is
+        normally empty or a handful of entries, and it is the part that has to
+        survive a process boundary.
+        """
+        return {
+            name: {"adapter": f.adapter, "error": f.error,
+                   "since": f.since, "streak": f.streak}
+            for name, f in self.failing.items()
+        }
+
+    def load_dict(self, data: dict | None) -> None:
+        """Restore failing boards written by an earlier process.
+
+        Streak and `since` are restored rather than reset, so a board that has
+        been down for a day still reads as down for a day after a watch loop
+        restarts — and a restart no longer silently re-arms the alert delay.
+        """
+        for name, raw in (data or {}).items():
+            if not isinstance(raw, dict):
+                continue
+            try:
+                self.failing[name] = Failure(
+                    adapter=str(raw.get("adapter", "")),
+                    error=str(raw.get("error", "")),
+                    since=float(raw.get("since", 0.0)),
+                    streak=int(raw.get("streak", 1)),
+                )
+            except (TypeError, ValueError):
+                continue   # a malformed row must not sink the whole restore
+            self.adapters.setdefault(name, str(raw.get("adapter", "")))
+
     def evaluate(self, reported: set[str], min_streak: int, min_age: float,
                  now: float | None = None) -> Report:
         """What to tell the channel, given who has already been reported."""

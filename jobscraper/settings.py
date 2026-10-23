@@ -148,6 +148,19 @@ HEALTH_ALERT_MINUTES = float(os.environ.get("HEALTH_ALERT_MINUTES", "10"))
 # A board that errors sits out of sweeps for BACKOFF_BASE_SECONDS, doubling with
 # each consecutive failure up to BACKOFF_MAX_SECONDS. Hammering a host that is
 # rate-limiting us only keeps it rate-limiting us.
+# Where health/outage notices go. The Discord webhook is the *job* channel —
+# an outage notice between two postings is noise in the one place that should
+# only carry things worth applying to — so it is off by default. Set
+# HEALTH_ALERT_DISCORD=true to put them back on the webhook.
+HEALTH_ALERT_DISCORD = os.environ.get(
+    "HEALTH_ALERT_DISCORD", "false").lower() in {"1", "true", "yes"}
+# File/update a GitHub issue instead. This is the sink that actually notifies
+# (through normal GitHub notifications); one issue is reused for the life of an
+# outage rather than one per sweep. Needs GITHUB_TOKEN + GITHUB_REPOSITORY and
+# `issues: write`; it no-ops quietly without them, so it is safe on by default.
+HEALTH_ALERT_GITHUB = os.environ.get(
+    "HEALTH_ALERT_GITHUB", "true").lower() in {"1", "true", "yes"}
+
 BACKOFF_BASE_SECONDS = float(os.environ.get("BACKOFF_BASE_SECONDS", "30"))
 BACKOFF_MAX_SECONDS = float(os.environ.get("BACKOFF_MAX_SECONDS", "900"))
 

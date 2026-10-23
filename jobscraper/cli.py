@@ -4,6 +4,7 @@
     jobscraper watch          # poll continuously (the scheduled command)
     jobscraper list           # show tracked companies + adapter breakdown
     jobscraper audit          # freshness report of past alerts
+    jobscraper health         # which boards are failing right now
     jobscraper discover NAME  # detect a company's ATS config
     jobscraper probe ADAPTER CONFIG  # check one adapter+config end to end
     jobscraper test-webhook   # send a test message to your Discord webhook
@@ -132,6 +133,25 @@ def _cmd_list(args) -> int:
     return 0
 
 
+def _cmd_health(args) -> int:
+    """Print current board health, for reading out on demand.
+
+    Health notices no longer go to the Discord channel, so this is how to see
+    the current picture without digging through an Actions log: it reads the
+    tracker straight out of the state file.
+    """
+    from . import alerts
+    from .state import SeenStore
+
+    store = SeenStore(settings.STATE_FILE)
+    if not store.existed:
+        print(f"No state file at {settings.STATE_FILE} yet — nothing to report.")
+        return 0
+    print(alerts.dump_json(store) if args.json else alerts.health_snapshot(store))
+    # Non-zero when something is actively down, so a shell check can gate on it.
+    return 1 if store.health.failing else 0
+
+
 def _cmd_audit(_args) -> int:
     from .audit import main as audit_main
     return audit_main()
@@ -250,6 +270,10 @@ def build_parser() -> argparse.ArgumentParser:
     pl.set_defaults(fn=_cmd_list)
 
     sub.add_parser("audit", help="freshness report of past alerts").set_defaults(fn=_cmd_audit)
+
+    ph = sub.add_parser("health", help="show which job boards are currently failing")
+    ph.add_argument("--json", action="store_true", help="machine-readable output")
+    ph.set_defaults(fn=_cmd_health)
 
     sub.add_parser("delivery-status", help="show uncertain webhook deliveries").set_defaults(
         fn=_cmd_delivery_status)

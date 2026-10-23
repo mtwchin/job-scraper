@@ -148,11 +148,42 @@ any moment only a handful of companies have a *fresh* (<24 h) US/CA SWE role.
 Run fetches companies concurrently (`CONCURRENCY`, default 12), so ~136 companies
 complete in ~25–30 s rather than minutes. Logs are structured (`LOG_LEVEL=DEBUG`
 for per-company detail). A board that keeps failing (`HEALTH_ALERT_SWEEPS`
-attempts in a row over `HEALTH_ALERT_MINUTES`) gets **one** Discord heads-up,
-grouped by platform, and a ✅ when it recovers. It is never re-posted every
-sweep, and a new watch loop that starts mid-outage stays quiet. Meanwhile a
-failing board backs off (30 s, doubling to 15 min) so we stop hammering a host
-that is rate-limiting us.
+attempts in a row over `HEALTH_ALERT_MINUTES`) is reported **once**, grouped by
+platform, with a ✅ when it recovers. It is never re-posted every sweep, and a
+new watch loop that starts mid-outage stays quiet. Meanwhile a failing board
+backs off (30 s, doubling to 15 min) so we stop hammering a host that is
+rate-limiting us.
+
+### Where health notices go (not Discord)
+
+The Discord webhook is the **job** channel. An outage notice sitting between two
+postings is noise in the one place that should only ever carry roles worth
+applying to, and it trains you to skim the channel. So health notices are routed
+out of it:
+
+| Sink | When | Notifies you? |
+|------|------|----------------|
+| Log line | always | no — but it's what you read when already suspicious |
+| Actions annotation + job summary | in GitHub Actions | no — shows on the run's own page |
+| **GitHub issue** | `HEALTH_ALERT_GITHUB` (default on) | **yes**, via normal GitHub notifications |
+| Discord webhook | `HEALTH_ALERT_DISCORD` (default **off**) | yes, in the job channel |
+
+The issue sink is the one that actually reaches you. A single issue is reused
+for the life of an outage — reopened if closed, commented on if open — rather
+than one filed per sweep, which is what makes it safe to leave on. It needs
+`issues: write` (both scraper workflows have it) and no-ops quietly without a
+token, so nothing breaks if you run the scraper outside Actions.
+
+To see the current picture on demand, rather than waiting to be told:
+
+```bash
+jobscraper health          # which boards are failing, streaks, how long
+jobscraper health --json   # same, machine-readable
+```
+
+It exits non-zero while any board is failing, so a shell check can gate on it.
+The failing set is persisted in the state file, so this stays truthful across a
+watch-loop restart instead of reporting "nothing failing" mid-outage.
 
 `pytest` covers the filter and config logic and runs in CI (`.github/workflows/
 tests.yml`) on every push.
@@ -178,6 +209,8 @@ Set these as env vars (locally) or edit the `env:` block in the workflow:
 | `CONCURRENCY`       | `12`               | Companies fetched in parallel.                     |
 | `HEALTH_ALERT_SWEEPS` | `2`              | A board is "down" after this many failed attempts in a row... |
 | `HEALTH_ALERT_MINUTES` | `10`            | ...spanning at least this long. One alert per outage. |
+| `HEALTH_ALERT_GITHUB` | `true`           | File/update a GitHub issue for outages. The sink that actually notifies. |
+| `HEALTH_ALERT_DISCORD` | `false`         | Also post outages to the Discord job channel. Off so ops noise stays out of it. |
 | `BACKOFF_BASE_SECONDS` / `BACKOFF_MAX_SECONDS` | `30` / `900` | Pause a failing board, doubling per failure. |
 | `LOG_LEVEL`         | `INFO`             | `DEBUG` shows per-company fetch/error lines.        |
 | `DISCORD_WEBHOOK_URL_ALL` | unset        | Second channel: every Simplify SWE role, any company. Unset = disabled. |

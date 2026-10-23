@@ -136,10 +136,20 @@ def _sweep(failing: int, total: int = 10, adapter: str = "workday") -> main.Coll
 
 @pytest.fixture
 def alerts(monkeypatch):
+    """Health notices, captured from the operational sink they now go to.
+
+    Health notices no longer reach the Discord webhook by default — that
+    channel is for roles worth applying to. These tests are about *when* a
+    notice fires and what it says, so they capture it at `alerts.health_alert`,
+    which every sink hangs off. Routing is asserted separately below.
+    """
     sent = []
     monkeypatch.setattr(settings, "DRY_RUN", False)
     monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "https://example.test/webhook")
-    monkeypatch.setattr(main.notify, "notify_summary", lambda msg, *a, **kw: sent.append(msg))
+    monkeypatch.setattr(settings, "HEALTH_ALERT_DISCORD", False)
+    monkeypatch.setattr(settings, "HEALTH_ALERT_GITHUB", False)
+    monkeypatch.setattr(main.alerts, "health_alert",
+                        lambda text, resolved=False: sent.append(text))
     return sent
 
 
@@ -285,3 +295,101 @@ def test_rest_scope_skips_boards_and_tracked_companies(two_sources, monkeypatch)
     assert two_sources == []                      # no board was fetched
     assert c.matches == []                        # tracked roles belong to `top`
     assert [j.company for j in general.matches] == ["Acme"]
+
+
+# --------------------------------------------------------------------------- #
+# health alert routing: operational notices must stay out of the job channel
+# --------------------------------------------------------------------------- #
+@pytest.fixture
+def routed(monkeypatch):
+    """Capture both sinks separately so routing can be asserted."""
+    seen = {"discord": [], "ops": []}
+    monkeypatch.setattr(settings, "DRY_RUN", False)
+    monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "https://example.test/webhook")
+    monkeypatch.setattr(settings, "HEALTH_ALERT_GITHUB", False)
+    monkeypatch.setattr(main.notify, "notify_summary",
+                        lambda msg, *a, **kw: seen["discord"].append(msg))
+    monkeypatch.setattr(main.alerts, "health_alert",
+                        lambda text, resolved=False: seen["ops"].append(text))
+    return seen
+
+
+def _drive_outage(store, sweeps: int = 4) -> None:
+    for _ in range(sweeps):
+        main._maybe_health_alert(_sweep(9), store, min_sweeps=2, min_age=0)
+
+
+def test_health_alert_does_not_reach_discord_by_default(store, routed, monkeypatch):
+    """The whole point: an outage notice must not land in the job channel."""
+    monkeypatch.setattr(settings, "HEALTH_ALERT_DISCORD", False)
+    _drive_outage(store)
+    assert routed["discord"] == []
+    assert len(routed["ops"]) == 1
+
+
+def test_health_alert_reaches_discord_when_opted_back_in(store, routed, monkeypatch):
+    """The switch has to actually work, or it is not a switch."""
+    monkeypatch.setattr(settings, "HEALTH_ALERT_DISCORD", True)
+    _drive_outage(store)
+    assert len(routed["discord"]) == 1
+    assert len(routed["ops"]) == 1
+
+
+def test_recovery_note_also_stays_out_of_discord(store, routed, monkeypatch):
+    monkeypatch.setattr(settings, "HEALTH_ALERT_DISCORD", False)
+    for _ in range(2):
+        main._maybe_health_alert(_sweep(3), store, min_sweeps=2, min_age=0)
+    main._maybe_health_alert(_sweep(0), store, min_sweeps=2, min_age=0)
+    assert routed["discord"] == []
+    assert any(t.startswith("✅") for t in routed["ops"])
+
+
+def test_outage_is_still_recorded_without_a_discord_webhook(tmp_path, routed, monkeypatch):
+    """Previously the whole function bailed out when no webhook was set, so
+    `health_reported` never advanced. With the webhook no longer the sink, an
+    outage must still be recorded once — or it would alert on every sweep."""
+    monkeypatch.setattr(settings, "HEALTH_ALERT_DISCORD", False)
+    monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "")
+    store = SeenStore(tmp_path / "seen.json")
+    _drive_outage(store, sweeps=6)
+    assert len(routed["ops"]) == 1
+    assert store.health_reported
+
+
+def test_discord_rejection_rolls_back_only_when_discord_is_the_sink(store, routed, monkeypatch):
+    """A rejected webhook must leave the outage un-reported so it retries. That
+    rollback belongs to the Discord path only; the ops sinks already carried it."""
+    monkeypatch.setattr(settings, "HEALTH_ALERT_DISCORD", True)
+
+    def reject(msg, *a, **kw):
+        raise main.notify.WebhookRejected("HTTP 404")
+
+    monkeypatch.setattr(main.notify, "notify_summary", reject)
+    with pytest.raises(main.notify.WebhookRejected):
+        _drive_outage(store)
+    assert not store.health_reported          # will be retried
+    assert len(routed["ops"]) == 1            # but the ops sink saw it once
+
+
+def test_dry_run_notifies_nobody_and_records_nothing(store, routed, monkeypatch):
+    monkeypatch.setattr(settings, "DRY_RUN", True)
+    monkeypatch.setattr(settings, "HEALTH_ALERT_DISCORD", True)
+    _drive_outage(store)
+    assert routed["discord"] == [] and routed["ops"] == []
+    assert not store.health_reported
+
+
+def test_job_notifications_still_go_to_discord(store, monkeypatch):
+    """Rerouting health notices must not touch the job path."""
+    monkeypatch.setattr(settings, "DRY_RUN", False)
+    monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "https://example.test/webhook")
+    monkeypatch.setattr(settings, "SEED_QUIETLY", False)
+    sent = []
+    monkeypatch.setattr(main.notify, "notify_jobs",
+                        lambda jobs, *a, **kw: sent.extend(jobs))
+    monkeypatch.setattr(main.notify, "notify_summary", lambda *a, **kw: None)
+
+    fresh = job(job_id="n1", url="https://example.com/jobs/n1")
+    c = main.Collection(matches=[fresh])
+    main.dispatch(store, c, main.Collection())
+    assert [j.job_id for j in sent] == ["n1"]

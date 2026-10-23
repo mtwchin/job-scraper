@@ -132,9 +132,11 @@ class SeenStore:
         # Companies whose outage has already been posted to Discord, so neither
         # this loop nor the next one repeats it until they recover.
         self.health_reported: set[str] = set()
-        # Per-company failure streaks. In memory only: it exists to tell a
-        # one-sweep network blip from a sustained outage, and a watch loop
-        # lives for hours.
+        # Per-company failure streaks. Persisted (the failing set only): health
+        # notices no longer go to Discord, so `jobscraper health` reading this
+        # file is how an outage gets seen on demand — and a tracker that reset
+        # on every loop restart would report "nothing failing" mid-outage.
+        # Keeping `since` across restarts also means an alert's age is truthful.
         self.health = health.Tracker()
         # Sources whose existing backlog has already been absorbed. Adding a new
         # source must not dump its entire back catalogue into Discord as if it
@@ -159,6 +161,7 @@ class SeenStore:
         self.prune_cutoff = data.get("prune_cutoff", "") or ""
         self.simplify_all_seeded = bool(data.get("simplify_all_seeded", False))
         self.health_reported = set(data.get("health_reported", []) or [])
+        self.health.load_dict(data.get("health_failing"))
         stored = data.get("seeded_sources")
         # A store written before this field existed still represents sources we
         # have long been alerting on. Recover them from the records themselves
@@ -399,6 +402,7 @@ class SeenStore:
                 "count": len(self._seen),
                 "simplify_all_seeded": self.simplify_all_seeded,
                 "health_reported": sorted(self.health_reported),
+                "health_failing": self.health.to_dict(),
                 "seeded_sources": sorted(self.seeded_sources),
                 "delivery_attempts": self.delivery_attempts,
                 "delivery_rejections": self.delivery_rejections,
