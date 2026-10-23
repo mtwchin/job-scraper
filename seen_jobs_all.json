@@ -1,5 +1,5 @@
 {
-  "count": 7550,
+  "count": 7551,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -8776,7 +8776,7 @@
     "simplify:applied materials::simplify-fe444a2e-411b-4a40-b6f4-9098bbd980bb": {
       "company": "Applied Materials",
       "first_seen": "2026-09-21T05:23:25+00:00",
-      "last_seen": "2026-10-13T00:00:55+00:00",
+      "last_seen": "2026-10-23T06:32:28+00:00",
       "location": "Gloucester, MA",
       "posted_at": "1789862400",
       "source": "simplify",
@@ -37306,6 +37306,18 @@
       "title": "Associate Simulation Software Engineer / Simulation Software Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Simulation-Software-Engineer---Simulation-Software-Engineer_R10238808"
     },
+    "simplify:northrop grumman::simplify-a2ad4a24-0d07-4881-a550-508caf6b7999": {
+      "company": "Northrop Grumman",
+      "duplicate_of": "simplify:northrop grumman::simplify-fe413853-4493-4bf0-a4af-5723d1b9fdbc",
+      "first_seen": "2026-10-23T06:32:28+00:00",
+      "last_seen": "2026-10-23T06:32:28+00:00",
+      "location": "Aurora, CO",
+      "posted_at": "1792108800",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393"
+    },
     "simplify:northrop grumman::simplify-a30b6cf3-5eb4-475b-984a-9aa30e8c34be": {
       "company": "Northrop Grumman",
       "first_seen": "2026-09-17T15:03:56+00:00",
@@ -63541,5 +63553,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T05:20:29+00:00"
+  "updated_at": "2026-10-23T06:32:32+00:00"
 }
