@@ -1,5 +1,5 @@
 {
-  "count": 7559,
+  "count": 7562,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -22525,6 +22525,16 @@
       "title": "Full Stack Software Developer",
       "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22399"
     },
+    "simplify:fortinet::simplify-d6d9aa9b-d516-4a21-b8ba-e2b4ba217313": {
+      "company": "Fortinet",
+      "first_seen": "2026-10-23T10:01:50+00:00",
+      "last_seen": "2026-10-23T10:01:50+00:00",
+      "location": "Burnaby, BC, Canada",
+      "posted_at": "1779228473",
+      "source": "simplify",
+      "title": "Software Developer - Agent Security",
+      "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22907"
+    },
     "simplify:fortinet::simplify-d9270ca6-ff0e-4172-a370-e76a727bd54a": {
       "company": "Fortinet",
       "first_seen": "2026-08-21T22:47:23+00:00",
@@ -25714,6 +25724,16 @@
       "posted_at": "1779199567",
       "title": "Software Engineer",
       "url": "https://jobs.halliburton.com/job/Calgary-Software-Engineer-Early-Career-Landmark-AB-T2P-3V4/1392093600/?ats=successfactors"
+    },
+    "simplify:halliburton::simplify-cb96d32f-67a9-4494-8a76-7c40bfd6a366": {
+      "company": "Halliburton",
+      "first_seen": "2026-10-23T10:01:50+00:00",
+      "last_seen": "2026-10-23T10:01:50+00:00",
+      "location": "Abingdon, UK",
+      "posted_at": "1784643148",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://jobs.halliburton.com/job/Abingdon-Associate-Software-Engineer-LND-OX14-4RW/1410905600/?ats=successfactors"
     },
     "simplify:halliburton::simplify-f1e5e8b4-e1b1-4c33-9df4-f6e5cfdbb83d": {
       "company": "Halliburton",
@@ -50522,6 +50542,16 @@
       "title": "IT Business Systems Engineer - IT Specialist in Business Systems - API Web",
       "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Business-Systems-Engineer---Spcialiste-en-systmes-d-affaires_R46579-1"
     },
+    "simplify:teamsnap::simplify-d89be8a9-e6d6-49cd-8492-5dbafba0c8a8": {
+      "company": "TeamSnap",
+      "first_seen": "2026-10-23T10:01:50+00:00",
+      "last_seen": "2026-10-23T10:01:50+00:00",
+      "location": "LA",
+      "posted_at": "1781820330",
+      "source": "simplify",
+      "title": "Full-Stack Engineer - Backend Focused",
+      "url": "https://jobs.lever.co/teamsnap/58d0ad09-5a31-47c2-8cd0-251815b207d9/apply"
+    },
     "simplify:tebra::simplify-8e485f76-0130-4ad8-a850-a6489868c676": {
       "company": "Tebra",
       "first_seen": "2026-09-02T04:55:51+00:00",
@@ -63635,5 +63665,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T09:33:48+00:00"
+  "updated_at": "2026-10-23T10:01:51+00:00"
 }
