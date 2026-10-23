@@ -1,5 +1,5 @@
 {
-  "count": 7457,
+  "count": 7458,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -5370,6 +5370,16 @@
       "posted_at": "1786602150",
       "title": "iOS Developer",
       "url": "https://adidev.bamboohr.com/careers/34/"
+    },
+    "simplify:adobe::simplify-31ee782b-3421-455d-9cc1-e5c1fc84b692": {
+      "company": "Adobe",
+      "first_seen": "2026-10-23T17:02:53+00:00",
+      "last_seen": "2026-10-23T17:02:53+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1792368000",
+      "source": "simplify",
+      "title": "AI & Architecture Intern",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---AI---Architecture_R172998"
     },
     "simplify:adobe::simplify-404ba643-445d-4434-b04c-20a6d12d4d18": {
       "company": "Adobe",
@@ -62470,5 +62480,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T17:02:21+00:00"
+  "updated_at": "2026-10-23T17:03:24+00:00"
 }
