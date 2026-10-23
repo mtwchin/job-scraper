@@ -1,5 +1,5 @@
 {
-  "count": 7462,
+  "count": 7463,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2205,6 +2205,16 @@
       "posted_at": "2026-07-14T13:52:00-04:00",
       "title": "Campus Full Time 2027 - Software Developer",
       "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008"
+    },
+    "fivetran::8028409003": {
+      "company": "Fivetran",
+      "first_seen": "2026-10-23T20:02:53+00:00",
+      "last_seen": "2026-10-23T20:02:53+00:00",
+      "location": "Toronto, Ontario, Canada",
+      "posted_at": "2026-10-23T16:00:45-04:00",
+      "source": "",
+      "title": "Software Engineer I",
+      "url": "https://www.fivetran.com/careers/job?gh_jid=8028409003"
     },
     "gemini::7875125": {
       "company": "Gemini",
@@ -62520,5 +62530,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T19:56:43+00:00"
+  "updated_at": "2026-10-23T20:03:46+00:00"
 }
