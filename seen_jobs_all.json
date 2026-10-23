@@ -1,5 +1,5 @@
 {
-  "count": 7625,
+  "count": 7626,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -8762,6 +8762,16 @@
       "posted_at": "1778076509",
       "title": "Software Engineer Silicon Engineering Documentation Tools",
       "url": "https://jobs.apple.com/en-us/details/200661584"
+    },
+    "simplify:apple::simplify-946bbff5-9d0d-4834-8b42-b696719861f5": {
+      "company": "Apple",
+      "first_seen": "2026-10-23T17:02:13+00:00",
+      "last_seen": "2026-10-23T17:02:13+00:00",
+      "location": "Cupertino, CA, Sunnyvale, CA",
+      "posted_at": "1792449037",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://jobs.apple.com/en-us/details/200689349"
     },
     "simplify:apple::simplify-949d8a95-4a05-4773-abf0-ef1ba68de79d": {
       "company": "Apple",
@@ -33227,7 +33237,7 @@
     "simplify:magna::simplify-a864bebf-e087-4574-860e-29229283a0fd": {
       "company": "Magna",
       "first_seen": "2026-10-20T14:35:21+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-10-23T17:02:09+00:00",
       "location": "Troy, MI",
       "posted_at": "1792454400",
       "source": "simplify",
@@ -64464,5 +64474,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T16:49:22+00:00"
+  "updated_at": "2026-10-23T17:02:25+00:00"
 }
