@@ -1,5 +1,5 @@
 {
-  "count": 7635,
+  "count": 7638,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1127,6 +1127,16 @@
       "source": "",
       "title": "Software Engineer Intern (Summer 2027)",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003"
+    },
+    "affirm::8011718003": {
+      "company": "Affirm",
+      "first_seen": "2026-10-23T17:40:05+00:00",
+      "last_seen": "2026-10-23T17:40:05+00:00",
+      "location": "Remote UK",
+      "posted_at": "2026-10-23T13:38:23-04:00",
+      "source": "",
+      "title": "Software Engineer I (New Grad 2027) - Instruments team",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8011718003"
     },
     "affirm::8017340003": {
       "company": "Affirm",
@@ -2519,6 +2529,16 @@
       "posted_at": "2026-07-14T13:52:00-04:00",
       "title": "Campus Full Time 2027 - Software Developer",
       "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008"
+    },
+    "fivetran::8028409003": {
+      "company": "Fivetran",
+      "first_seen": "2026-10-23T20:02:53+00:00",
+      "last_seen": "2026-10-23T20:02:53+00:00",
+      "location": "Toronto, Ontario, Canada",
+      "posted_at": "2026-10-23T16:00:45-04:00",
+      "source": "",
+      "title": "Software Engineer I",
+      "url": "https://www.fivetran.com/careers/job?gh_jid=8028409003"
     },
     "gemini::7875125": {
       "company": "Gemini",
@@ -64560,6 +64580,16 @@
       "title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8257660"
     },
+    "waymo::8287385": {
+      "company": "Waymo",
+      "first_seen": "2026-10-23T19:56:15+00:00",
+      "last_seen": "2026-10-23T19:56:15+00:00",
+      "location": "Mountain View, CA, USA",
+      "posted_at": "2026-10-23T15:55:17-04:00",
+      "source": "",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8287385"
+    },
     "webflow::8122601": {
       "company": "Webflow",
       "first_seen": "2026-08-12T20:19:37+00:00",
@@ -64606,5 +64636,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T17:33:33+00:00"
+  "updated_at": "2026-10-23T20:34:25+00:00"
 }
