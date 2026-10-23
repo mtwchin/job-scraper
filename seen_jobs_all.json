@@ -1,5 +1,5 @@
 {
-  "count": 7562,
+  "count": 7564,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -5639,6 +5639,18 @@
       "title": "Software Engineering Intern \u2013 Hyper-RF Division",
       "url": "https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Software-Engineering-Intern---Hyper-RF-Division_6367"
     },
+    "simplify:aerovironment::simplify-3a88588d-781e-4310-871c-3d14276eb6dd": {
+      "company": "AeroVironment",
+      "duplicate_of": "simplify:aerovironment::simplify-1138a140-4370-4e0e-8224-e7099e30ae01",
+      "first_seen": "2026-10-23T10:02:50+00:00",
+      "last_seen": "2026-10-23T10:02:50+00:00",
+      "location": "Melbourne, FL",
+      "posted_at": "1789516800",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550"
+    },
     "simplify:aerovironment::simplify-48e20700-7345-41e8-9119-f5a995159a93": {
       "company": "AeroVironment",
       "first_seen": "2026-09-30T02:28:47+00:00",
@@ -7365,7 +7377,7 @@
     "simplify:american express::simplify-144e5a99-3727-49aa-be27-39b13c2cec06": {
       "company": "American Express",
       "first_seen": "2026-09-02T04:55:51+00:00",
-      "last_seen": "2026-10-04T11:31:08+00:00",
+      "last_seen": "2026-10-23T10:02:50+00:00",
       "posted_at": "1788310292",
       "title": "Software Engineer Intern - Enterprise Technology Services",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012801"
@@ -48749,6 +48761,16 @@
       "title": "Software Engineer, Linux Kernel - Linux Kernel",
       "url": "https://boards.greenhouse.io/spacex/jobs/8852121002"
     },
+    "simplify:spacex::simplify-dd4a3413-dd61-40f2-9b74-1b9d87213560": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-23T10:01:50+00:00",
+      "last_seen": "2026-10-23T10:01:50+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1777587817",
+      "source": "simplify",
+      "title": "Software Engineer - Development Test - Starlink",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8532395002"
+    },
     "simplify:spacex::simplify-e49aa991-ccca-47e8-9561-11cabf65f0a1": {
       "company": "SpaceX",
       "first_seen": "2026-10-04T00:30:22+00:00",
@@ -61312,7 +61334,7 @@
     "vanshb03:northrop grumman::vanshb03-42b214fe-48b1-4f78-ba30-82ec84babd47": {
       "company": "Northrop Grumman",
       "first_seen": "2026-10-22T19:44:19+00:00",
-      "last_seen": "2026-10-22T19:44:19+00:00",
+      "last_seen": "2026-10-23T10:02:50+00:00",
       "location": "San Antonio, TX",
       "posted_at": "1792695674",
       "source": "vanshb03",
@@ -63665,5 +63687,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T10:01:51+00:00"
+  "updated_at": "2026-10-23T10:02:54+00:00"
 }
