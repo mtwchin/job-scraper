@@ -8323,7 +8323,7 @@
     "simplify:appian::simplify-31b95070-c5a6-4523-b7d4-54fbaa062677": {
       "company": "Appian",
       "first_seen": "2026-07-23T23:33:02+00:00",
-      "last_seen": "2026-09-28T00:54:52+00:00",
+      "last_seen": "2026-10-23T09:02:27+00:00",
       "posted_at": "1784846149",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/appian/jobs/8041237"
@@ -17166,7 +17166,7 @@
     "simplify:copart::simplify-188c70e9-8a5c-445e-8bcf-9061fecdd0bb": {
       "company": "Copart",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-10-07T00:00:57+00:00",
+      "last_seen": "2026-10-23T09:02:27+00:00",
       "posted_at": "1782338824",
       "title": "Database Engineer Intern",
       "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Database-Engineering-Intern_JR109636"
@@ -60843,7 +60843,7 @@
       "company": "Keysight Technologies",
       "duplicate_of": "simplify:keysight technologies::simplify-7aa1a15a-c14e-4ed7-bccb-cb92212f2636",
       "first_seen": "2026-10-19T00:51:39+00:00",
-      "last_seen": "2026-10-20T00:00:02+00:00",
+      "last_seen": "2026-10-23T09:02:27+00:00",
       "location": "Santa Rosa, CA",
       "posted_at": "1792114622",
       "seeded": true,
@@ -61544,7 +61544,7 @@
     "vanshb03:phonely::vanshb03-f5c02ac0-bb2c-4cc3-a2c1-5a4752fa26f4": {
       "company": "Phonely",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-23T09:02:27+00:00",
       "location": "San Francisco, CA",
       "posted_at": "1784879117",
       "seeded": true,
@@ -63604,5 +63604,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T09:01:38+00:00"
+  "updated_at": "2026-10-23T09:02:40+00:00"
 }
