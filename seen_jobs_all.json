@@ -1,5 +1,5 @@
 {
-  "count": 7578,
+  "count": 7579,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -28974,6 +28974,16 @@
       "title": "Software Developer",
       "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-Office/Developer_JR100255"
     },
+    "simplify:jampack ai::simplify-431420ae-6573-4299-8147-1fd42ede8b56": {
+      "company": "Jampack AI",
+      "first_seen": "2026-10-23T13:32:23+00:00",
+      "last_seen": "2026-10-23T13:32:23+00:00",
+      "location": "NYC",
+      "posted_at": "1789568367",
+      "source": "simplify",
+      "title": "Founding Product Engineer",
+      "url": "https://jobs.ashbyhq.com/jampack-ai/8668f920-0640-42b9-8bb4-d322c14e97a9/application?embed=true"
+    },
     "simplify:jane street::simplify-043d70c3-4576-4f40-bc1f-08885ba8ebc8": {
       "company": "Jane Street",
       "first_seen": "2026-07-15T23:37:54+00:00",
@@ -40355,7 +40365,7 @@
     "simplify:pennsylvania state university::simplify-d49d4a3f-dcd1-4699-9cad-00b2bbc628dc": {
       "company": "Pennsylvania State University",
       "first_seen": "2026-07-31T12:11:59+00:00",
-      "last_seen": "2026-10-22T00:01:33+00:00",
+      "last_seen": "2026-10-23T13:32:22+00:00",
       "posted_at": "1783163790",
       "title": "Simulation Software Engineer",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Simulation-Software-Engineer_REQ_0000076942-2"
@@ -40398,7 +40408,7 @@
     "simplify:pennsylvania state university::simplify-f205101a-c504-424c-a768-a9e0ebb3adf3": {
       "company": "Pennsylvania State University",
       "first_seen": "2026-07-30T14:36:29+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-10-23T13:32:22+00:00",
       "posted_at": "1783163077",
       "title": "Computer Engineer",
       "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Computer-Engineer_REQ_0000077378-2"
@@ -56015,7 +56025,7 @@
     "simplify:valitana::simplify-e3fef2a4-b7e1-4354-9ccd-b21b2d2e9a29": {
       "company": "Valitana",
       "first_seen": "2026-09-15T23:08:09+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-23T13:32:22+00:00",
       "location": "Plano, TX",
       "posted_at": "1789510748",
       "source": "simplify",
@@ -63886,5 +63896,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T13:02:12+00:00"
+  "updated_at": "2026-10-23T13:33:14+00:00"
 }
