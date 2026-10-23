@@ -1,5 +1,5 @@
 {
-  "count": 7579,
+  "count": 7582,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -108,6 +108,24 @@
       "source": "simplify",
       "title": "Manufacturing Systems Engineer - Applications Specialist",
       "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Stonehouse-Gloucestershire-United-Kingdom/Manufacturing-Systems-Engineer---Applications-Specialist_JR00036050"
+    },
+    "simplify:accenture::simplify-a2dc3660-4c67-4466-aabf-0f6d39125974": {
+      "attempted_at": "2026-10-23T14:02:23+00:00",
+      "company": "Accenture",
+      "location": "Arlington County, Arlington, VA",
+      "posted_at": "1790028906",
+      "source": "simplify",
+      "title": "Junior Forward Deployed Engineer",
+      "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4715182006"
+    },
+    "simplify:aci worldwide::simplify-59c91bb5-c7b2-4849-9e8e-c13518b6dd45": {
+      "attempted_at": "2026-10-23T14:02:23+00:00",
+      "company": "ACI Worldwide",
+      "location": "Norcross, GA",
+      "posted_at": "1789682817",
+      "source": "simplify",
+      "title": "Technology Intern",
+      "url": "https://ebwg.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19943"
     },
     "simplify:aderant::simplify-2081ec0c-9ef0-4e78-8859-84739cedab0c": {
       "attempted_at": "2026-10-12T15:33:33+00:00",
@@ -271,6 +289,15 @@
       "title": "Graduate Digital - Data, AI & Engineering",
       "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Graduate---Digital---Data--AI---Engineering---UK_RQ117184"
     },
+    "simplify:cae::simplify-e036c643-73e5-4aed-9393-88ba5c8585bd": {
+      "attempted_at": "2026-10-23T14:02:23+00:00",
+      "company": "CAE",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Software Developer Intern - Operating System Image & Configuration",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-055---Dveloppeur-Logiciel--Systme-d-exploitation---Configuration--_123657-1"
+    },
     "simplify:canonical::simplify-2e33f293-d66b-48dc-9a1c-6feb41db4879": {
       "attempted_at": "2026-10-23T11:02:50+00:00",
       "company": "Canonical",
@@ -433,6 +460,15 @@
       "title": "AI Consulting Associate Program Product Owner Intern",
       "url": "https://boards.greenhouse.io/drivewealth/jobs/8038087003"
     },
+    "simplify:exiger::simplify-b8386828-ffbf-455a-9c3b-c2254f0eb005": {
+      "attempted_at": "2026-10-23T14:02:23+00:00",
+      "company": "Exiger",
+      "location": "McLean, VA, Richmond, VA",
+      "posted_at": "1790028846",
+      "source": "simplify",
+      "title": "AI Product Builder",
+      "url": "https://www.exiger.com/careers/6202657004?gh_jid=6202657004"
+    },
     "simplify:fanduel::simplify-202513de-0add-442b-a2dd-58e2d4fdb670": {
       "attempted_at": "2026-10-23T01:32:40+00:00",
       "company": "FanDuel",
@@ -559,6 +595,15 @@
       "title": "Technical Analyst Intern",
       "url": "https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Technical-Analyst-Intern_REQ-2394"
     },
+    "simplify:intersystems::simplify-33bf8d04-5439-4fc4-b50f-5393b810e9a0": {
+      "attempted_at": "2026-10-23T14:02:23+00:00",
+      "company": "InterSystems",
+      "location": "Edinburgh, UK, Windsor, UK",
+      "posted_at": "1790001657",
+      "source": "simplify",
+      "title": "Technical Graduate",
+      "url": "https://job-boards.greenhouse.io/intersystems/jobs/7998006003"
+    },
     "simplify:intuitive surgical::simplify-a5683c5a-9b84-4ff9-972e-b22ba427faed": {
       "attempted_at": "2026-10-20T23:03:04+00:00",
       "company": "Intuitive Surgical",
@@ -585,6 +630,15 @@
       "source": "simplify",
       "title": "Performance Enablement AI/ML Intern",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656"
+    },
+    "simplify:macy's::simplify-2d1205f2-cb07-4355-a160-2ae1b57ed991": {
+      "attempted_at": "2026-10-23T14:02:23+00:00",
+      "company": "Macy's",
+      "location": "Johns Creek, GA",
+      "posted_at": "1790028537",
+      "source": "simplify",
+      "title": "Summer Internship - Technology",
+      "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/92293"
     },
     "simplify:mbda::simplify-780206a3-eb49-4dd7-a2fe-28606280d916": {
       "attempted_at": "2026-10-23T01:32:40+00:00",
@@ -729,6 +783,15 @@
       "source": "simplify",
       "title": "Full Stack Software Engineer Intern - Full Stack",
       "url": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true"
+    },
+    "simplify:thales::simplify-2f51e800-8122-447f-905e-203d26f17fb1": {
+      "attempted_at": "2026-10-23T14:02:23+00:00",
+      "company": "Thales",
+      "location": "Orlando, FL",
+      "posted_at": "1789689600",
+      "source": "simplify",
+      "title": "Software DevSecOps Engineer Graduate",
+      "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Orlando/Software-DevOps-Engineer---Grad_R0340353-2"
     },
     "simplify:the focusrite group::simplify-ff723fb0-8021-476f-94d8-a14675f7883f": {
       "attempted_at": "2026-10-17T10:03:25+00:00",
@@ -6743,6 +6806,16 @@
       "title": "Software Privacy Engineer - Multiple Teams",
       "url": "https://amazon.jobs/en/jobs/10538147/software-privacy-engineer-trust-platform-automation-devices-services-trust-privacy-and-accessibility-tpa"
     },
+    "simplify:amazon::simplify-0e95c4d8-4cf7-4cd4-b75a-f3de798448de": {
+      "company": "Amazon",
+      "first_seen": "2026-10-23T14:01:34+00:00",
+      "last_seen": "2026-10-23T14:01:34+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1789884361",
+      "source": "simplify",
+      "title": "Senior Applied Scientist - Amazon Cryptographic Libraries",
+      "url": "https://amazon.jobs/en/jobs/10524925/sr-applied-scientist-amazon-cryptographic-libraries"
+    },
     "simplify:amazon::simplify-12b63c6b-1151-4084-a798-a22c27fd6f2c": {
       "company": "Amazon",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -6881,6 +6954,16 @@
       "posted_at": "1784758338",
       "title": "EFA Network Software Engineer 1 - Annapurna Labs",
       "url": "https://amazon.jobs/en/jobs/10481932/efa-network-software-engineer-i-annapurna-labs"
+    },
+    "simplify:amazon::simplify-5f33de29-15e8-4906-b915-9ba5f2e2d858": {
+      "company": "Amazon",
+      "first_seen": "2026-10-23T14:01:34+00:00",
+      "last_seen": "2026-10-23T14:01:34+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1789884363",
+      "source": "simplify",
+      "title": "Applied Scientist - Amazon Cryptographic Libraries",
+      "url": "https://amazon.jobs/en/jobs/10522632/applied-scientist-amazon-cryptographic-libraries"
     },
     "simplify:amazon::simplify-5fde436c-570a-464b-9d9c-3a3e457151d0": {
       "company": "Amazon",
@@ -32662,7 +32745,7 @@
     "simplify:lseg::simplify-0fd4122e-ceb7-4f97-8f55-aaab32d000d7": {
       "company": "LSEG",
       "first_seen": "2026-09-17T22:35:53+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-23T14:02:23+00:00",
       "location": "Boston, MA",
       "posted_at": "1789603200",
       "source": "simplify",
@@ -32740,7 +32823,7 @@
     "simplify:lseg::simplify-e9b7e6e4-f5c7-447c-bd8d-3c9a764d5f44": {
       "company": "LSEG",
       "first_seen": "2026-09-17T22:35:53+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-23T14:02:23+00:00",
       "location": "NYC",
       "posted_at": "1789603200",
       "source": "simplify",
@@ -48669,6 +48752,16 @@
       "title": "Software Engineer New Grad - Software - Application Software",
       "url": "https://boards.greenhouse.io/spacex/jobs/8730567002"
     },
+    "simplify:spacex::simplify-213245fd-01d7-48ad-8a63-d1e7934925ff": {
+      "company": "SpaceX",
+      "first_seen": "2026-10-23T14:01:34+00:00",
+      "last_seen": "2026-10-23T14:01:34+00:00",
+      "location": "Hawthorne, CA",
+      "posted_at": "1790213197",
+      "source": "simplify",
+      "title": "Full Stack Software Engineer - Components",
+      "url": "https://boards.greenhouse.io/spacex/jobs/8839057002"
+    },
     "simplify:spacex::simplify-2aec360c-7d97-44c9-90e1-5ad25913c551": {
       "company": "SpaceX",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -63896,5 +63989,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-23T13:33:14+00:00"
+  "updated_at": "2026-10-23T14:03:18+00:00"
 }
