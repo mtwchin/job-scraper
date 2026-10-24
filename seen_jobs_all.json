@@ -1,5 +1,5 @@
 {
-  "count": 7682,
+  "count": 7683,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -31733,6 +31733,16 @@
       "posted_at": "1786679752",
       "title": "Product Specialist Intern Co-op - Asset Management Digital Solutions",
       "url": "https://careers.kpmg.ca/jobs/33301?icims=1"
+    },
+    "simplify:krafton::simplify-5bb4ece4-430e-448a-b283-4429b6fa0aa5": {
+      "company": "KRAFTON",
+      "first_seen": "2026-10-24T09:03:01+00:00",
+      "last_seen": "2026-10-24T09:03:01+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1792679825",
+      "source": "simplify",
+      "title": "UI Programming Intern",
+      "url": "https://job-boards.greenhouse.io/studiokraftonboard/jobs/8906470002"
     },
     "simplify:krafton::simplify-7445221a-4683-4040-9ebb-25e29d31c57f": {
       "company": "KRAFTON",
@@ -65090,5 +65100,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-24T07:34:59+00:00"
+  "updated_at": "2026-10-24T09:03:04+00:00"
 }
