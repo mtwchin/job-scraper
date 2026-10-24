@@ -670,10 +670,7 @@
   },
   "delivery_rejections": {},
   "health_reported": [
-    "Adobe",
-    "Blue Origin",
-    "Disney",
-    "Zoom"
+    "Adobe"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -62565,5 +62562,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-24T08:18:06+00:00"
+  "updated_at": "2026-10-24T08:19:07+00:00"
 }
