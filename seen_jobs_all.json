@@ -1,5 +1,5 @@
 {
-  "count": 7678,
+  "count": 7682,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -60586,6 +60586,16 @@
       "title": "Software Developer Associate",
       "url": "https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0"
     },
+    "vanshb03:asml::vanshb03-ff4f572a-2531-4acf-8e27-648b8a3929f7": {
+      "company": "ASML",
+      "first_seen": "2026-10-24T05:00:42+00:00",
+      "last_seen": "2026-10-24T05:00:42+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1792808889",
+      "source": "vanshb03",
+      "title": "Platform Software Engineer In Test Intern",
+      "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558"
+    },
     "vanshb03:astera::vanshb03-2c11c91c-786c-4aa6-8547-b795f5a8047b": {
       "company": "Astera",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -62167,6 +62177,18 @@
       "title": "Software Engineer Intern, AI",
       "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817"
     },
+    "vanshb03:kla::vanshb03-f034eba7-acb0-40ff-a2a4-e230ad4de31a": {
+      "company": "KLA",
+      "duplicate_of": "vanshb03:kla::vanshb03-09b4184d-3d91-4e02-bae2-8d473b1cee44",
+      "first_seen": "2026-10-24T05:00:42+00:00",
+      "last_seen": "2026-10-24T05:00:42+00:00",
+      "location": "Milpitas, CA",
+      "posted_at": "1792738800",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1"
+    },
     "vanshb03:l3harris technologies::vanshb03-0b57208e-fafb-4160-8214-c8403abf2ac7": {
       "company": "L3Harris Technologies",
       "first_seen": "2026-10-20T22:29:43+00:00",
@@ -63444,6 +63466,16 @@
       "title": "New Grad: Software Developer",
       "url": "https://careers.sig.com/job/SUSQA004Y9261"
     },
+    "vanshb03:simbe robotics::vanshb03-f10c3139-9c8b-4b4c-befd-6b3511e2304f": {
+      "company": "Simbe Robotics",
+      "first_seen": "2026-10-24T05:00:42+00:00",
+      "last_seen": "2026-10-24T05:00:42+00:00",
+      "location": "Burlingame, CA",
+      "posted_at": "1792793466",
+      "source": "vanshb03",
+      "title": "Robot Software Engineer Intern",
+      "url": "https://jobs.lever.co/SimbeRobotics/d91f42b9-50b8-4b5f-8daf-00281d7dd61c/apply"
+    },
     "vanshb03:sixtyfour (x25)::vanshb03-84367af2-83ed-47f7-a231-2418fae3f83d": {
       "company": "Sixtyfour (X25)",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -64422,6 +64454,16 @@
       "title": "Software Engineer I (AI Driven)",
       "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--AI-Driven-_R-49831"
     },
+    "vanshb03:trimble::vanshb03-f74f172a-ca58-493f-b5b4-de835edd606c": {
+      "company": "Trimble",
+      "first_seen": "2026-10-24T05:00:42+00:00",
+      "last_seen": "2026-10-24T05:00:42+00:00",
+      "location": "Richmond Hill, Canada",
+      "posted_at": "1792738800",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963"
+    },
     "vanshb03:twitch interactive, inc.::vanshb03-d92422ef-ee94-463b-831b-7a780ad0b741": {
       "company": "Twitch Interactive, Inc.",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -65048,5 +65090,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-24T02:04:41+00:00"
+  "updated_at": "2026-10-24T05:00:46+00:00"
 }
