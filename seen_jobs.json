@@ -672,10 +672,15 @@
   "health_reported": [
     "Adobe",
     "Blackrock",
+    "Blue Origin",
+    "Cisco",
+    "Disney",
     "Intel",
     "Nvidia",
+    "PayPal",
     "Red Hat",
-    "Workday"
+    "Workday",
+    "Zoom"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -62567,5 +62572,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-24T06:15:41+00:00"
+  "updated_at": "2026-10-24T06:16:43+00:00"
 }
