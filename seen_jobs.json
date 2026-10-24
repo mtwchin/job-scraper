@@ -1,5 +1,5 @@
 {
-  "count": 7465,
+  "count": 7466,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6880,6 +6880,16 @@
       "posted_at": "1775743775",
       "title": "Software Development Engineer Intern",
       "url": "https://amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada"
+    },
+    "simplify:amazon::simplify-d5c8a4f3-a150-4968-813c-20fc2c81df18": {
+      "company": "Amazon",
+      "first_seen": "2026-10-24T02:01:51+00:00",
+      "last_seen": "2026-10-24T02:01:51+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1792793533",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa"
     },
     "simplify:amazon::simplify-d931bc42-b07d-4012-9ff8-d315e5e25dc7": {
       "company": "Amazon",
@@ -24611,7 +24621,7 @@
     "simplify:goldman sachs::simplify-5bdec003-2a02-42a4-a602-467541840552": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-10-23T22:32:09+00:00",
+      "last_seen": "2026-10-24T02:01:50+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171565?type=students"
@@ -24619,7 +24629,7 @@
     "simplify:goldman sachs::simplify-792220f4-3ba1-4cf8-843e-e23208ba8d24": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-09-29T00:00:29+00:00",
+      "last_seen": "2026-10-24T02:01:50+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/171553?type=students"
@@ -62550,5 +62560,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-24T02:01:39+00:00"
+  "updated_at": "2026-10-24T02:02:40+00:00"
 }
