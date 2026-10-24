@@ -669,9 +669,7 @@
     }
   },
   "delivery_rejections": {},
-  "health_reported": [
-    "Adobe"
-  ],
+  "health_reported": [],
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -62562,5 +62560,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-24T08:19:07+00:00"
+  "updated_at": "2026-10-24T08:24:10+00:00"
 }
