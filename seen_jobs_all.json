@@ -1,5 +1,5 @@
 {
-  "count": 7683,
+  "count": 7684,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -46837,6 +46837,16 @@
       "title": "Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01865828"
     },
+    "simplify:rtx::simplify-eff6e46f-68bb-46cd-b491-ae901b415a6d": {
+      "company": "RTX",
+      "first_seen": "2026-10-24T13:32:18+00:00",
+      "last_seen": "2026-10-24T13:32:18+00:00",
+      "location": "Burnsville, MN",
+      "posted_at": "1792713600",
+      "source": "simplify",
+      "title": "Engineer 1 - Software Engineer - Test Engineering",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Engineer-I--Software-Engineer---Test-Engineering--Onsite-_01883521"
+    },
     "simplify:rtx::simplify-f049d222-a352-43e2-bcca-b2ead5fc94c1": {
       "company": "RTX",
       "first_seen": "2026-08-12T22:38:25+00:00",
@@ -65100,5 +65110,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-24T13:05:16+00:00"
+  "updated_at": "2026-10-24T13:32:18+00:00"
 }
