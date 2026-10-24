@@ -671,7 +671,6 @@
   "delivery_rejections": {},
   "health_reported": [
     "Adobe",
-    "Barclays",
     "Blackrock",
     "Blue Origin",
     "Cisco",
@@ -62573,5 +62572,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-24T06:17:45+00:00"
+  "updated_at": "2026-10-24T07:30:48+00:00"
 }
