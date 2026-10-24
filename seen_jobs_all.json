@@ -1,5 +1,5 @@
 {
-  "count": 7677,
+  "count": 7678,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -7226,6 +7226,16 @@
       "posted_at": "1775743775",
       "title": "Software Development Engineer Intern",
       "url": "https://amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada"
+    },
+    "simplify:amazon::simplify-d5c8a4f3-a150-4968-813c-20fc2c81df18": {
+      "company": "Amazon",
+      "first_seen": "2026-10-24T02:01:51+00:00",
+      "last_seen": "2026-10-24T02:01:51+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1792793533",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa"
     },
     "simplify:amazon::simplify-d931bc42-b07d-4012-9ff8-d315e5e25dc7": {
       "company": "Amazon",
@@ -65038,5 +65048,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-24T01:32:44+00:00"
+  "updated_at": "2026-10-24T02:04:41+00:00"
 }
