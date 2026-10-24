@@ -1,5 +1,5 @@
 {
-  "count": 7675,
+  "count": 7677,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -9230,6 +9230,16 @@
       "source": "simplify",
       "title": "Associate Cloud Engineer",
       "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Associate-Cloud-Engineer_J000703943"
+    },
+    "simplify:aptiv::simplify-19189a03-be12-41d8-85ab-ff66a343ee22": {
+      "company": "Aptiv",
+      "first_seen": "2026-10-24T01:32:27+00:00",
+      "last_seen": "2026-10-24T01:32:27+00:00",
+      "location": "Kanata, Ottawa, ON, Canada",
+      "posted_at": "1792804445",
+      "source": "simplify",
+      "title": "Engineering Intern",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000693010"
     },
     "simplify:aptiv::simplify-225e2ae1-b489-4254-a690-889ce1a7578b": {
       "company": "Aptiv",
@@ -47422,6 +47432,16 @@
       "title": "Application Development Specialist",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dallas/Specialist--Application-Development_Req1610190"
     },
+    "simplify:sardine::simplify-860a5d35-fd73-4f09-9dab-71f9950473cf": {
+      "company": "Sardine",
+      "first_seen": "2026-10-24T01:32:27+00:00",
+      "last_seen": "2026-10-24T01:32:27+00:00",
+      "location": "Remote in USA, Remote in Canada",
+      "posted_at": "1792713600",
+      "source": "simplify",
+      "title": "Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/sardine/b25449a4-c78c-4b1a-b5b2-74b45981a37a/application?embed=true"
+    },
     "simplify:sargent & lundy::simplify-e5d6ed75-e71c-4466-a1c4-803fdc3bb93a": {
       "company": "Sargent & Lundy",
       "first_seen": "2026-08-07T00:29:54+00:00",
@@ -65018,5 +65038,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-24T01:31:42+00:00"
+  "updated_at": "2026-10-24T01:32:44+00:00"
 }
