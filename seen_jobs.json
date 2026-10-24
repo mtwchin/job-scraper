@@ -1,5 +1,5 @@
 {
-  "count": 7464,
+  "count": 7465,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -33587,6 +33587,16 @@
       "title": "Software Engineer 1",
       "url": "https://careers-mercuryinsurance.icims.com/jobs/6743/job?mobile=true&needsRedirect=false"
     },
+    "simplify:mercury::simplify-a509cc99-b862-4bd9-8c30-49393b371170": {
+      "company": "Mercury",
+      "first_seen": "2026-10-24T01:31:30+00:00",
+      "last_seen": "2026-10-24T01:31:30+00:00",
+      "location": "SF, Remote in USA, NYC, Portland, OR, Remote in Canada",
+      "posted_at": "1792796421",
+      "source": "simplify",
+      "title": "Frontend Engineer - Design Systems",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6233910004"
+    },
     "simplify:meridian partners::simplify-1e31d74f-0f5b-482c-9140-d0be0ff9eeeb": {
       "company": "Meridian Partners",
       "first_seen": "2026-08-25T07:13:11+00:00",
@@ -62540,5 +62550,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-24T00:05:33+00:00"
+  "updated_at": "2026-10-24T01:31:36+00:00"
 }
