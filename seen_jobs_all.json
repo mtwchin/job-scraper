@@ -1,5 +1,5 @@
 {
-  "count": 7673,
+  "count": 7675,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -15408,6 +15408,16 @@
       "posted_at": "1779529203",
       "title": "Mobile Application Developer - Service Technician",
       "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAGAO-Carrier-Home-Georgia-Remote-Location-Remote-City-GA-30303-USA/Mobile-Application-Developer---Service-Technician_30205642"
+    },
+    "simplify:carvana::simplify-8135261f-ace0-4f34-9e6a-7a979e430526": {
+      "company": "Carvana",
+      "first_seen": "2026-10-24T01:31:27+00:00",
+      "last_seen": "2026-10-24T01:31:27+00:00",
+      "location": "Tempe, AZ",
+      "posted_at": "1792803733",
+      "source": "simplify",
+      "title": "Software Engineering",
+      "url": "https://www.carvana.com/careers/apply?gh_jid=7542940"
     },
     "simplify:castle::simplify-49359bde-573c-4530-af6e-e13563e1ff13": {
       "company": "Castle",
@@ -34822,6 +34832,16 @@
       "posted_at": "1787341447",
       "title": "Software Engineer 1",
       "url": "https://careers-mercuryinsurance.icims.com/jobs/6743/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:mercury::simplify-a509cc99-b862-4bd9-8c30-49393b371170": {
+      "company": "Mercury",
+      "first_seen": "2026-10-24T01:31:30+00:00",
+      "last_seen": "2026-10-24T01:31:30+00:00",
+      "location": "SF, Remote in USA, NYC, Portland, OR, Remote in Canada",
+      "posted_at": "1792796421",
+      "source": "simplify",
+      "title": "Frontend Engineer - Design Systems",
+      "url": "https://job-boards.greenhouse.io/mercury/jobs/6233910004"
     },
     "simplify:meridian partners::simplify-1e31d74f-0f5b-482c-9140-d0be0ff9eeeb": {
       "company": "Meridian Partners",
@@ -64998,5 +65018,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-24T00:02:38+00:00"
+  "updated_at": "2026-10-24T01:31:42+00:00"
 }
