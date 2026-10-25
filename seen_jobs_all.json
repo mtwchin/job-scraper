@@ -973,6 +973,15 @@
       "title": "Software Engineering Intern, Applications",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b/application"
     },
+    "vanshb03:skydio::vanshb03-2295901e-eac9-41b9-8e2c-6164c9d0f3bf": {
+      "attempted_at": "2026-10-25T08:43:56+00:00",
+      "company": "Skydio",
+      "location": "San Mateo, CA",
+      "posted_at": "1792917819",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/BD"
+    },
     "vanshb03:soti::vanshb03-2917627b-aff8-4419-83fb-1e67c9833307": {
       "attempted_at": "2026-10-23T12:02:22+00:00",
       "company": "SOTI",
@@ -66159,5 +66168,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-25T08:27:24+00:00"
+  "updated_at": "2026-10-25T11:06:35+00:00"
 }
