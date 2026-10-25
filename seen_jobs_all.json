@@ -1,5 +1,5 @@
 {
-  "count": 7685,
+  "count": 7785,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6471,6 +6471,7 @@
     "simplify:akuna capital university::simplify-17b55e16-4b9d-4870-ba60-51a53eaf71c5": {
       "company": "Akuna Capital University",
       "first_seen": "2026-07-14T19:49:46+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
       "posted_at": "1783980592",
       "title": "Software Engineer Intern - C# .NET Desktop",
       "url": "https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886"
@@ -6478,6 +6479,7 @@
     "simplify:akuna capital university::simplify-18e99160-24c6-4a84-bc61-bec64dd7decb": {
       "company": "Akuna Capital University",
       "first_seen": "2026-07-14T19:49:46+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
       "posted_at": "1783980587",
       "title": "Software Engineer Intern - Full Stack Web",
       "url": "https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893"
@@ -6485,6 +6487,7 @@
     "simplify:akuna capital university::simplify-30a79016-bc6f-4525-a5fe-a459b18de455": {
       "company": "Akuna Capital University",
       "first_seen": "2026-07-14T19:49:46+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
       "posted_at": "1783980617",
       "title": "Software Engineer Intern - C++",
       "url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847"
@@ -22856,6 +22859,7 @@
     "simplify:five rings capital::simplify-14baa8ae-f151-483f-b5e0-77ca5086d04e": {
       "company": "Five Rings Capital",
       "first_seen": "2026-07-15T00:13:06+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
       "posted_at": "1784068202",
       "title": "Software Developer Intern - Software Developer",
       "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008"
@@ -60282,6 +60286,40 @@
       "title": "New Grad 2026: Software Engineer",
       "url": "https://careers.adobe.com/us/en/job/ADOBUSR159933EXTERNALENUS/2026-University-Graduate-Software-Engineer"
     },
+    "vanshb03:aerovironment::vanshb03-1182a84a-1005-491e-b88d-451db385adb1": {
+      "company": "AeroVironment",
+      "duplicate_of": "vanshb03:aerovironment::vanshb03-d9d0eae0-f29d-4b86-84d4-92a3b6d705b7",
+      "first_seen": "2026-10-25T08:27:15+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1792566000",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/dk"
+    },
+    "vanshb03:aerovironment::vanshb03-5e3fee69-0c50-44d6-b9ef-df56e28e2859": {
+      "company": "AeroVironment",
+      "duplicate_of": "vanshb03:aerovironment::vanshb03-d9d0eae0-f29d-4b86-84d4-92a3b6d705b7",
+      "first_seen": "2026-10-25T08:27:15+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
+      "location": "Minneapolis, MN",
+      "posted_at": "1792479600",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/cy"
+    },
+    "vanshb03:aerovironment::vanshb03-d9d0eae0-f29d-4b86-84d4-92a3b6d705b7": {
+      "company": "AeroVironment",
+      "first_seen": "2026-10-25T08:27:16+00:00",
+      "last_seen": "2026-10-25T08:27:16+00:00",
+      "location": "Moorpark, CA; Minneapolis, MN; San Diego, CA",
+      "posted_at": "1792220400",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/ay"
+    },
     "vanshb03:aflac::vanshb03-f7314607-a633-4e02-a83f-a9c060b540f5": {
       "company": "Aflac",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60324,6 +60362,36 @@
       "title": "Software Engineering Intern, Backend",
       "url": "https://job-boards.greenhouse.io/aidashinc/jobs/4436057009"
     },
+    "vanshb03:akuna capital::vanshb03-a2a0252c-cef2-4e59-bd6c-40f63824ab65": {
+      "company": "Akuna Capital",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1784878929",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, C# .NET Desktop",
+      "url": "https://go.vansh.nyc/3E"
+    },
+    "vanshb03:akuna capital::vanshb03-d6cc616f-fce5-49e4-8bc9-86c7aa74213f": {
+      "company": "Akuna Capital",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1784878914",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, C++",
+      "url": "https://go.vansh.nyc/3z"
+    },
+    "vanshb03:akuna capital::vanshb03-edb9ce9b-f37c-4252-838f-c4a4111fab95": {
+      "company": "Akuna Capital",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1784878926",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Full Stack Web",
+      "url": "https://go.vansh.nyc/3D"
+    },
     "vanshb03:al warren oil company::vanshb03-2b0b7d78-f588-4c81-b82f-18f1a0c37f28": {
       "company": "Al Warren Oil Company",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60335,6 +60403,28 @@
       "title": "Software Developer Intern",
       "url": "https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/"
     },
+    "vanshb03:altera::vanshb03-0bc7cec5-c9d8-46e9-8417-fefa13de197d": {
+      "company": "Altera",
+      "first_seen": "2026-10-25T08:27:15+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
+      "location": "Toronto, ON",
+      "posted_at": "1792134000",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/ac"
+    },
+    "vanshb03:altera::vanshb03-72d4a4fa-a2f8-48e9-8f69-5917eca49816": {
+      "company": "Altera",
+      "duplicate_of": "simplify:altera::simplify-5f8e95d8-b5c0-4d21-9ec0-a25bd2e3943f",
+      "first_seen": "2026-10-25T08:27:15+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1792738800",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Intern",
+      "url": "https://go.vansh.nyc/gt"
+    },
     "vanshb03:amazon::vanshb03-17c35d70-b2fc-4725-be99-5f4707b80d62": {
       "company": "Amazon",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60345,6 +60435,16 @@
       "source": "vanshb03",
       "title": "New Grad 2025: Software Development Engineer I",
       "url": "https://amazon.jobs/en/jobs/2855790/software-development-engineer-i-2025-computer-science"
+    },
+    "vanshb03:amazon::vanshb03-1e94a2b1-7f62-4423-acfd-0d0f4fbe4076": {
+      "company": "Amazon",
+      "first_seen": "2026-10-25T08:27:05+00:00",
+      "last_seen": "2026-10-25T08:27:05+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1790899200",
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern, Embedded Systems",
+      "url": "https://go.vansh.nyc/g0"
     },
     "vanshb03:amazon::vanshb03-24b34901-083a-45ca-901e-437ad82baf0f": {
       "company": "Amazon",
@@ -60368,6 +60468,26 @@
       "title": "Software Development Engineer Intern",
       "url": "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us"
     },
+    "vanshb03:amazon::vanshb03-66b9befa-cd91-4357-8e00-f0b6102e6a16": {
+      "company": "Amazon",
+      "first_seen": "2026-10-25T08:27:05+00:00",
+      "last_seen": "2026-10-25T08:27:05+00:00",
+      "location": "United States",
+      "posted_at": "1792719938",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Embedded Systems",
+      "url": "https://go.vansh.nyc/gE"
+    },
+    "vanshb03:amazon::vanshb03-9df960cc-66fe-437d-ab6b-32f6e36fbbed": {
+      "company": "Amazon",
+      "first_seen": "2026-10-25T08:27:05+00:00",
+      "last_seen": "2026-10-25T08:27:05+00:00",
+      "location": "Seattle, WA, Austin, TX, Cupertino, CA",
+      "posted_at": "1792732377",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer 1, Annapurna Labs",
+      "url": "https://go.vansh.nyc/Bg"
+    },
     "vanshb03:amazon::vanshb03-c67980a2-a76b-4d85-bf82-7d24f5963882": {
       "company": "Amazon",
       "first_seen": "2026-10-23T00:57:19+00:00",
@@ -60388,6 +60508,36 @@
       "source": "vanshb03",
       "title": "Software Engineer I",
       "url": "https://www.amazon.jobs/en/jobs/3126885/software-engineer-i"
+    },
+    "vanshb03:amazon::vanshb03-cc0aa8d7-087c-424d-8d7a-e7e6bf31b22f": {
+      "company": "Amazon",
+      "first_seen": "2026-10-25T08:27:05+00:00",
+      "last_seen": "2026-10-25T08:27:05+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1791331200",
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern, Amazon Leo, Embedded Systems",
+      "url": "https://go.vansh.nyc/g6"
+    },
+    "vanshb03:amazon::vanshb03-d31da38e-ad26-40ee-a431-5d710553aa25": {
+      "company": "Amazon",
+      "first_seen": "2026-10-25T08:27:05+00:00",
+      "last_seen": "2026-10-25T08:27:05+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1792726089",
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern, Amazon Leo",
+      "url": "https://go.vansh.nyc/hR"
+    },
+    "vanshb03:amazon::vanshb03-e1e1bbdd-3b2b-4b29-8d40-ecaee33c804e": {
+      "company": "Amazon",
+      "first_seen": "2026-10-25T08:27:05+00:00",
+      "last_seen": "2026-10-25T08:27:05+00:00",
+      "location": "Detroit, MI",
+      "posted_at": "1792719931",
+      "source": "vanshb03",
+      "title": "Junior Software Development Engineer Intern",
+      "url": "https://go.vansh.nyc/gC"
     },
     "vanshb03:amd::vanshb03-10650a14-859e-42bd-9fa4-ac96e0758dbf": {
       "company": "AMD",
@@ -60444,6 +60594,26 @@
       "title": "Software Engineer 1, Technology",
       "url": "https://aexp.eightfold.ai/careers/job/38270703"
     },
+    "vanshb03:american express::vanshb03-bdd6e13b-35b7-4758-9ef1-132e6e16276e": {
+      "company": "American Express",
+      "first_seen": "2026-10-25T08:27:15+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
+      "location": "New York, NY",
+      "posted_at": "1787326677",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Enterprise Technology Services",
+      "url": "https://go.vansh.nyc/71"
+    },
+    "vanshb03:american fidelity::vanshb03-d98cf44d-c5c4-4b6c-89ae-a8b3a3d2ed09": {
+      "company": "American Fidelity",
+      "first_seen": "2026-10-25T08:27:16+00:00",
+      "last_seen": "2026-10-25T08:27:16+00:00",
+      "location": "Oklahoma City, OK",
+      "posted_at": "1792441414",
+      "source": "vanshb03",
+      "title": "Software Developer Innovation Intern",
+      "url": "https://go.vansh.nyc/bi"
+    },
     "vanshb03:amperity::vanshb03-7403096c-37ed-4440-8f23-871cdc957c4b": {
       "company": "Amperity",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60454,6 +60624,16 @@
       "source": "vanshb03",
       "title": "Software Development Engineer I",
       "url": "https://amperity.com/careers/6799726?gh_jid=6799726&gh_src=053ff1fc1us&gh_jid=6799726"
+    },
+    "vanshb03:anduril::vanshb03-a224d25f-a4be-4c98-b314-2ffa8bcad0ea": {
+      "company": "Anduril",
+      "first_seen": "2026-10-25T08:27:08+00:00",
+      "last_seen": "2026-10-25T08:27:08+00:00",
+      "location": "Boston, MA, Costa Mesa, CA, Fort Collins, CO, Reston, VA, Seattle, WA",
+      "posted_at": "1791244800",
+      "source": "vanshb03",
+      "title": "Systems Engineer Intern",
+      "url": "https://go.vansh.nyc/g5"
     },
     "vanshb03:anduril::vanshb03-e6ef564e-5028-431b-97ed-0154893db99f": {
       "company": "Anduril",
@@ -60585,10 +60765,20 @@
       "title": "Software Development Intern",
       "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861"
     },
+    "vanshb03:aptiv::vanshb03-eb475c71-a0f6-422c-9136-0df64caaaf48": {
+      "company": "Aptiv",
+      "first_seen": "2026-10-25T08:27:15+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
+      "location": "CAN Kanata, ON",
+      "posted_at": "1791874800",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/8u"
+    },
     "vanshb03:aquatic capital::vanshb03-bda8b046-3986-4f19-baf0-3fbf1bf3bc36": {
       "company": "Aquatic Capital",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
       "location": "Chicago, IL",
       "posted_at": "1779501433",
       "seeded": true,
@@ -60606,10 +60796,20 @@
       "title": "Infrastructure Engineer Intern",
       "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007"
     },
+    "vanshb03:armadin::vanshb03-c7114ad9-f32f-4842-af34-a5b2da537911": {
+      "company": "Armadin",
+      "first_seen": "2026-10-25T08:27:15+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1791874800",
+      "source": "vanshb03",
+      "title": "Member of Technical Staff Intern, Frontend",
+      "url": "https://go.vansh.nyc/8v"
+    },
     "vanshb03:artera::vanshb03-9b56566a-f423-4ea2-a03e-a302c28b3057": {
       "company": "Artera",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
       "location": "Seattle, WA",
       "posted_at": "1785529003",
       "seeded": true,
@@ -60693,6 +60893,26 @@
       "title": "Embedded Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/AtomicSemi/13e95284-dbcf-4cf2-8151-c9687dfc1889"
     },
+    "vanshb03:atoms::vanshb03-cce8b4d4-483a-4493-bfa0-b352d4800928": {
+      "company": "Atoms",
+      "first_seen": "2026-10-25T08:27:15+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
+      "location": "Multiple Locations Available",
+      "posted_at": "1787327064",
+      "source": "vanshb03",
+      "title": "ML PhD Software Engineer Intern",
+      "url": "https://go.vansh.nyc/7v"
+    },
+    "vanshb03:atoms::vanshb03-fd0a610d-af0e-4d87-ae0a-60f8896e3173": {
+      "company": "Atoms",
+      "first_seen": "2026-10-25T08:27:15+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1791961200",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/93"
+    },
     "vanshb03:aurora innovation::vanshb03-58733930-a2d2-45da-a177-7fc8f45219f5": {
       "company": "Aurora Innovation",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60768,6 +60988,16 @@
       "title": "Early Career Software Engineer",
       "url": "https://jobs.battelle.org/us/en/job/BMIBMIUS75654EXTERNALENUS/Early-Career-Software-Engineer"
     },
+    "vanshb03:berkshire hathaway energy::vanshb03-cd00c8f9-c38c-4902-8e02-e1112a8456d2": {
+      "company": "Berkshire Hathaway Energy",
+      "first_seen": "2026-10-25T08:27:16+00:00",
+      "last_seen": "2026-10-25T08:27:16+00:00",
+      "location": "Des Moines, IA",
+      "posted_at": "1792479600",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/cA"
+    },
     "vanshb03:boeing::vanshb03-da14411a-32a3-4fe0-b502-f5fcfa14525e": {
       "company": "Boeing",
       "first_seen": "2026-10-23T00:57:39+00:00",
@@ -60788,6 +61018,16 @@
       "title": "New Grad 2027: Software Developer",
       "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280"
     },
+    "vanshb03:bosch::vanshb03-04fd72aa-b1c3-4ff1-8259-08b6ad402b2a": {
+      "company": "Bosch",
+      "first_seen": "2026-10-25T08:27:16+00:00",
+      "last_seen": "2026-10-25T08:27:16+00:00",
+      "location": "Fountain Inn, SC",
+      "posted_at": "1792418919",
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/bd"
+    },
     "vanshb03:boston scientific::vanshb03-ff35da1b-aa4e-4040-aff2-49c84084d8b0": {
       "company": "Boston Scientific",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60798,6 +61038,16 @@
       "source": "vanshb03",
       "title": "Software Engineer I - Engineering - Development",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602803047194"
+    },
+    "vanshb03:brain co.::vanshb03-4958690b-e605-49a8-b864-ab33f197f45f": {
+      "company": "Brain Co.",
+      "first_seen": "2026-10-25T08:27:17+00:00",
+      "last_seen": "2026-10-25T08:27:17+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1792698816",
+      "source": "vanshb03",
+      "title": "New Grad 2027: AI Platform Engineer",
+      "url": "https://go.vansh.nyc/Av"
     },
     "vanshb03:brain co.::vanshb03-c2a2443f-38da-45a3-bc2e-ba71436eb8f9": {
       "company": "Brain Co.",
@@ -60830,6 +61080,16 @@
       "source": "vanshb03",
       "title": "GPU/AI Application System Software Engineer Intern",
       "url": "https://joinbytedance.com/search/7668464504736876853"
+    },
+    "vanshb03:bytedance::vanshb03-05b2d7c1-02ca-4f78-ba54-b5cc91b46ad7": {
+      "company": "ByteDance",
+      "first_seen": "2026-10-25T08:27:08+00:00",
+      "last_seen": "2026-10-25T08:27:08+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1755115167",
+      "source": "vanshb03",
+      "title": "New Grad 2026: Software Engineer (Dev Infra)",
+      "url": "https://go.vansh.nyc/pj"
     },
     "vanshb03:bytedance::vanshb03-144e2a0e-b835-4a36-811c-92e04d055e78": {
       "company": "ByteDance",
@@ -61007,6 +61267,16 @@
       "title": "Backend Software Engineer Intern, Team Interstellar",
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022"
     },
+    "vanshb03:capital one::vanshb03-ce66fb41-a283-46d4-8802-a1ffd75ad916": {
+      "company": "Capital One",
+      "first_seen": "2026-10-25T08:27:08+00:00",
+      "last_seen": "2026-10-25T08:27:08+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1792776556",
+      "source": "vanshb03",
+      "title": "Associate Software Engineer, Card Expansion",
+      "url": "https://go.vansh.nyc/Bl"
+    },
     "vanshb03:capital one::vanshb03-d6288825-2aef-4086-b1b6-f29bf66edfb8": {
       "company": "Capital One",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -61017,6 +61287,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Team Pickle",
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013"
+    },
+    "vanshb03:cboe global markets::vanshb03-4a5a1a53-d2c7-4a4c-aceb-61119f9535bb": {
+      "company": "Cboe Global Markets",
+      "first_seen": "2026-10-25T08:27:15+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
+      "location": "Kansas City, MO",
+      "posted_at": "1791788400",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, C++",
+      "url": "https://go.vansh.nyc/88"
     },
     "vanshb03:cibc::vanshb03-561f4093-2ac6-4050-b7fb-c0d6c32533ae": {
       "company": "CIBC",
@@ -61070,6 +61350,116 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer, Backend",
       "url": "https://careers.circle.com/us/en/job/CIICIRUSJR100011EGEXTERNALENUS/New-Grad-Software-Engineer-Backend-2026"
+    },
+    "vanshb03:cisco::vanshb03-03b86019-4f02-41f9-96c2-a38984ee6ef1": {
+      "company": "Cisco",
+      "first_seen": "2026-10-25T08:27:07+00:00",
+      "last_seen": "2026-10-25T08:27:07+00:00",
+      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
+      "posted_at": "1792628362",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Full Stack / Backend II",
+      "url": "https://go.vansh.nyc/e4"
+    },
+    "vanshb03:cisco::vanshb03-1d3ae82c-b797-450a-a50a-a11f5796a353": {
+      "company": "Cisco",
+      "first_seen": "2026-10-25T08:27:07+00:00",
+      "last_seen": "2026-10-25T08:27:07+00:00",
+      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
+      "posted_at": "1792628362",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Full Stack / Backend I",
+      "url": "https://go.vansh.nyc/e3"
+    },
+    "vanshb03:cisco::vanshb03-1f60908e-917a-4223-b17b-68254c63c2b6": {
+      "company": "Cisco",
+      "first_seen": "2026-10-25T08:27:08+00:00",
+      "last_seen": "2026-10-25T08:27:08+00:00",
+      "location": "Maynard, MA",
+      "posted_at": "1790812800",
+      "source": "vanshb03",
+      "title": "Software Engineer II Co-op",
+      "url": "https://go.vansh.nyc/fV"
+    },
+    "vanshb03:cisco::vanshb03-6889390f-30ad-42a0-9126-421ad4550b1e": {
+      "company": "Cisco",
+      "first_seen": "2026-10-25T08:27:08+00:00",
+      "last_seen": "2026-10-25T08:27:08+00:00",
+      "location": "San Jose, CA, Milpitas, CA, Research Triangle Park, NC, San Francisco, CA",
+      "posted_at": "1792540800",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Data & AI",
+      "url": "https://go.vansh.nyc/gs"
+    },
+    "vanshb03:cisco::vanshb03-6b726fee-7dce-4e72-8290-b7d2b8d6803b": {
+      "company": "Cisco",
+      "first_seen": "2026-10-25T08:27:08+00:00",
+      "last_seen": "2026-10-25T08:27:08+00:00",
+      "location": "San Jose, CA, Milpitas, CA, Research Triangle Park, NC, San Francisco, CA",
+      "posted_at": "1792771505",
+      "source": "vanshb03",
+      "title": "Software Engineer Data & AI II Intern",
+      "url": "https://go.vansh.nyc/gO"
+    },
+    "vanshb03:cisco::vanshb03-9f825d8b-b93e-47ec-8fea-e2693848b31a": {
+      "company": "Cisco",
+      "first_seen": "2026-10-25T08:27:08+00:00",
+      "last_seen": "2026-10-25T08:27:08+00:00",
+      "location": "San Jose, CA, Milpitas, CA, Research Triangle Park, NC",
+      "posted_at": "1792771505",
+      "source": "vanshb03",
+      "title": "Software Engineer Embedded Systems I Co-op",
+      "url": "https://go.vansh.nyc/gQ"
+    },
+    "vanshb03:cisco::vanshb03-c33c75c4-d7d3-4508-8821-6ad386621c06": {
+      "company": "Cisco",
+      "first_seen": "2026-10-25T08:27:08+00:00",
+      "last_seen": "2026-10-25T08:27:08+00:00",
+      "location": "San Jose, CA, Carlsbad, CA",
+      "posted_at": "1792771505",
+      "source": "vanshb03",
+      "title": "Software Engineer Full Stack / Backend I Co-op",
+      "url": "https://go.vansh.nyc/gP"
+    },
+    "vanshb03:cisco::vanshb03-e0f8d61d-374d-4b65-a6d9-046d2a8fd10c": {
+      "company": "Cisco",
+      "first_seen": "2026-10-25T08:27:07+00:00",
+      "last_seen": "2026-10-25T08:27:07+00:00",
+      "location": "San Jose, CA, Milpitas, CA, Rtp, NC, San Francisco, CA",
+      "posted_at": "1792628362",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Embedded Systems II",
+      "url": "https://go.vansh.nyc/e2"
+    },
+    "vanshb03:cisco::vanshb03-e73e8ab9-1b0e-444b-8ac6-4cd85b20369d": {
+      "company": "Cisco",
+      "first_seen": "2026-10-25T08:27:08+00:00",
+      "last_seen": "2026-10-25T08:27:08+00:00",
+      "location": "Maynard, MA",
+      "posted_at": "1790812800",
+      "source": "vanshb03",
+      "title": "Software Engineer I Co-op",
+      "url": "https://go.vansh.nyc/fW"
+    },
+    "vanshb03:citadel::vanshb03-91af86ad-2961-4c31-8986-6bc57fe080d5": {
+      "company": "Citadel",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "New York, NY, Greenwich, CT, Miami, FL, Houston, TX",
+      "posted_at": "1783425771",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/3a"
+    },
+    "vanshb03:citi::vanshb03-c319f6eb-eccd-4fb2-becb-86223888c1e5": {
+      "company": "Citi",
+      "first_seen": "2026-10-25T08:27:17+00:00",
+      "last_seen": "2026-10-25T08:27:17+00:00",
+      "location": "Jacksonville, FL",
+      "posted_at": "1792812025",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Developer, Application Development",
+      "url": "https://go.vansh.nyc/Br"
     },
     "vanshb03:cloudflare::vanshb03-c8331f85-946c-4b41-bc1e-03481ba48f95": {
       "company": "Cloudflare",
@@ -61179,6 +61569,38 @@
       "title": "Associate Software Engineer",
       "url": "https://jobs.cvshealth.com/us/en/job/CVSCHLUSR0632604EXTERNALENUS/Associate-Software-Engineer"
     },
+    "vanshb03:cvs health::vanshb03-0ecc9f49-c549-4324-a02a-2604ae100bac": {
+      "company": "CVS Health",
+      "duplicate_of": "simplify:cvs health::simplify-4da3ddc6-8559-489a-b239-8d419ece6bad",
+      "first_seen": "2026-10-25T08:27:15+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
+      "location": "Scottsdale, AZ, Dallas, TX, Hartford, CT, Woonsocket, RI",
+      "posted_at": "1792627200",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Platform & Applications",
+      "url": "https://go.vansh.nyc/fj"
+    },
+    "vanshb03:cvs health::vanshb03-8e2e8cae-d28b-49e5-b85b-f8d7c64ad714": {
+      "company": "CVS Health",
+      "first_seen": "2026-10-25T08:27:16+00:00",
+      "last_seen": "2026-10-25T08:27:16+00:00",
+      "location": "New York, NY",
+      "posted_at": "1792738800",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Data & Intelligence",
+      "url": "https://go.vansh.nyc/gu"
+    },
+    "vanshb03:cvs health::vanshb03-df039203-dacc-46bf-95d1-5a5bb2cd13ea": {
+      "company": "CVS Health",
+      "first_seen": "2026-10-25T08:27:16+00:00",
+      "last_seen": "2026-10-25T08:27:16+00:00",
+      "location": "New York, NY",
+      "posted_at": "1792627200",
+      "source": "vanshb03",
+      "title": "Software Engineering: Data & Intelligence Intern, Innovation & Technology",
+      "url": "https://go.vansh.nyc/fn"
+    },
     "vanshb03:d2l::vanshb03-c12ef982-e139-46e1-9faa-7be465019367": {
       "company": "D2L",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -61211,6 +61633,16 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer",
       "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2026-start-6865698002"
+    },
+    "vanshb03:databricks::vanshb03-bed17ef6-8f66-4693-a2b4-96a614788937": {
+      "company": "Databricks",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "Bellevue, WA, Mountain View, CA, San Francisco, CA, Vancouver, BC",
+      "posted_at": "1791788400",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/aD"
     },
     "vanshb03:databricks::vanshb03-c045a1de-0845-4fb4-8d88-73b2d41f0ca4": {
       "company": "Databricks",
@@ -61398,6 +61830,16 @@
       "title": "New Grad: Software Engineer",
       "url": "https://careers.duolingo.com/jobs/8155283002"
     },
+    "vanshb03:dv group::vanshb03-7b2a02cc-3617-4263-b478-bbfbe59374be": {
+      "company": "DV Group",
+      "first_seen": "2026-10-25T08:27:15+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
+      "location": "New York, NY",
+      "posted_at": "1787327113",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Commodities",
+      "url": "https://go.vansh.nyc/7B"
+    },
     "vanshb03:edgetrace::vanshb03-d4334d6b-d66c-4f44-ae17-52fb24e1bae9": {
       "company": "EdgeTrace",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -61573,7 +62015,7 @@
     "vanshb03:exa::vanshb03-a6a6d90e-88fb-4d03-a660-25f1dedd54bd": {
       "company": "Exa",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-08T07:36:34+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
       "location": "San Francisco, CA",
       "posted_at": "1787327032",
       "seeded": true,
@@ -61602,6 +62044,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004"
+    },
+    "vanshb03:five rings::vanshb03-4b8ca79c-b960-40bb-91f5-635de8e52635": {
+      "company": "Five Rings",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "New York, NY",
+      "posted_at": "1784878908",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/3y"
     },
     "vanshb03:freeform::vanshb03-7d6562a8-d601-4168-aeb8-aca66ee1af7f": {
       "company": "Freeform",
@@ -61816,6 +62268,16 @@
       "title": "New Grad 2026: Software Engineer",
       "url": "https://www.google.com/about/careers/applications/jobs/results/79125737784648390"
     },
+    "vanshb03:google::vanshb03-b7b52190-57a0-4101-8fc6-70e4eb052344": {
+      "company": "Google",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1791788400",
+      "source": "vanshb03",
+      "title": "Forward Deployed Engineering Intern",
+      "url": "https://go.vansh.nyc/8e"
+    },
     "vanshb03:greenboard (w24)::vanshb03-871c5c89-5787-4ce1-a5fa-b5d254bc1661": {
       "company": "Greenboard (W24)",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -61872,7 +62334,7 @@
     "vanshb03:heliux::vanshb03-6ca75b17-424f-471f-a303-71bab2644e24": {
       "company": "Heliux",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
       "location": "San Francisco, CA",
       "posted_at": "1785741445",
       "seeded": true,
@@ -61904,7 +62366,7 @@
     "vanshb03:hitachi::vanshb03-84fa22cf-b7dd-4905-9539-70e99b3dbe06": {
       "company": "Hitachi",
       "first_seen": "2026-10-21T19:33:33+00:00",
-      "last_seen": "2026-10-23T12:02:22+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
       "location": "Liberty, SC",
       "posted_at": "1792601555",
       "source": "vanshb03",
@@ -61943,6 +62405,16 @@
       "source": "vanshb03",
       "title": "Software Engineer I",
       "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931"
+    },
+    "vanshb03:hpr::vanshb03-e563fe75-dbf7-4799-9d0c-f3586112ce97": {
+      "company": "HPR",
+      "first_seen": "2026-10-25T08:27:15+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
+      "location": "Needham, MA",
+      "posted_at": "1785741371",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/5B"
     },
     "vanshb03:hudson river trading::vanshb03-d141c64b-9fdf-4d81-9216-84b5898e46d5": {
       "company": "Hudson River Trading",
@@ -62102,6 +62574,18 @@
       "title": "Avionics Embedded Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4744391005"
     },
+    "vanshb03:inversion space::vanshb03-4e557851-0365-4966-99c8-43a7dd63361a": {
+      "company": "Inversion Space",
+      "duplicate_of": "simplify:inversion space::simplify-e0945d4c-fd78-4677-981a-b7cf12cea361",
+      "first_seen": "2026-10-25T08:27:15+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
+      "location": "Playa Vista, CA",
+      "posted_at": "1792449144",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "AI & Internal Tools Software Engineer Intern",
+      "url": "https://go.vansh.nyc/ch"
+    },
     "vanshb03:inversion space::vanshb03-a574a5c3-dcd9-4829-9a99-16be7fdd36ee": {
       "company": "Inversion Space",
       "first_seen": "2026-10-20T22:29:43+00:00",
@@ -62145,16 +62629,66 @@
       "title": "Software Engineer Intern",
       "url": "https://www.janestreet.com/join-jane-street/position/8419303002/"
     },
+    "vanshb03:john deere::vanshb03-fc2f20cf-9da2-4d1c-8fc2-b7a54db14b66": {
+      "company": "John Deere",
+      "first_seen": "2026-10-25T08:27:16+00:00",
+      "last_seen": "2026-10-25T08:27:16+00:00",
+      "location": "Ames, IA",
+      "posted_at": "1792188899",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Technology",
+      "url": "https://go.vansh.nyc/aT"
+    },
+    "vanshb03:johns hopkins applied physics laboratory::vanshb03-2a3c1e0f-887d-4f86-a79e-fdd30118784b": {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "first_seen": "2026-10-25T08:27:17+00:00",
+      "last_seen": "2026-10-25T08:27:17+00:00",
+      "location": "Laurel, MD",
+      "posted_at": "1792698816",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Cybersecurity Software Engineer - Cyber Concepts",
+      "url": "https://go.vansh.nyc/AH"
+    },
+    "vanshb03:jump trading::vanshb03-03443f37-7b10-4753-8828-2d9bcc2e4f2d": {
+      "company": "Jump Trading",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1783642975",
+      "source": "vanshb03",
+      "title": "Campus Systems Engineer Intern",
+      "url": "https://go.vansh.nyc/3t"
+    },
+    "vanshb03:jump trading::vanshb03-7c6cb84c-1fcc-4634-b671-50e75e7dbcac": {
+      "company": "Jump Trading",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1783638501",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/3l"
+    },
     "vanshb03:kastle::vanshb03-402dc9c0-a793-4251-91f2-671f344534d0": {
       "company": "Kastle",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
       "location": "San Francisco, CA",
       "posted_at": "1787327091",
       "seeded": true,
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee"
+    },
+    "vanshb03:kensington::vanshb03-8fa82bfb-2992-457f-9e21-8ae49c329823": {
+      "company": "Kensington",
+      "first_seen": "2026-10-25T08:27:16+00:00",
+      "last_seen": "2026-10-25T08:27:16+00:00",
+      "location": "Toronto, ON",
+      "posted_at": "1792134000",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/aj"
     },
     "vanshb03:keysight technologies::vanshb03-2b3118ae-29de-4ebf-acb4-07f506c0098d": {
       "company": "Keysight Technologies",
@@ -62282,6 +62816,18 @@
       "title": "Software Engineer Intern",
       "url": "https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Las-Vegas-NV/Software-Engineer---Intern_R323017"
     },
+    "vanshb03:linkup::vanshb03-8511625a-1286-4399-bb1f-eefe37b3a590": {
+      "company": "Linkup",
+      "duplicate_of": "simplify:linkup::simplify-9c711fc2-83e8-49a3-9058-560747634130",
+      "first_seen": "2026-10-25T08:27:15+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
+      "location": "New York, NY",
+      "posted_at": "1792713600",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Member of Technical Staff Intern",
+      "url": "https://go.vansh.nyc/hy"
+    },
     "vanshb03:magical::vanshb03-21105f1e-b540-44e8-9c66-152d8c5ec185": {
       "company": "Magical",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -62404,7 +62950,7 @@
     "vanshb03:melius::vanshb03-6647eb8f-3baf-4822-9916-eaf8780a466e": {
       "company": "Melius",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
       "location": "New York City, NY",
       "posted_at": "1785852859",
       "seeded": true,
@@ -62455,6 +63001,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Security & Identity",
       "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930"
+    },
+    "vanshb03:microsoft::vanshb03-9843e494-b52f-4aae-9240-3aa4ecc78a8b": {
+      "company": "Microsoft",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "Cambridge, MA",
+      "posted_at": "1792626262",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Security & Identity",
+      "url": "https://go.vansh.nyc/e6"
     },
     "vanshb03:microsoft::vanshb03-adea9c62-2047-4e4f-aebb-a218d42035ee": {
       "company": "Microsoft",
@@ -62511,6 +63067,26 @@
       "title": "Software Engineer Intern, Backend & API",
       "url": "https://ats.rippling.com/en-GB/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b"
     },
+    "vanshb03:multiply labs::vanshb03-37710137-3678-4c75-b476-022f9c8fd20c": {
+      "company": "Multiply Labs",
+      "first_seen": "2026-10-25T08:27:17+00:00",
+      "last_seen": "2026-10-25T08:27:17+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1792793407",
+      "source": "vanshb03",
+      "title": "Robotics Software Engineer Intern",
+      "url": "https://go.vansh.nyc/hH"
+    },
+    "vanshb03:multiply labs::vanshb03-c81adab2-2ec1-4ef2-8111-c625f1922323": {
+      "company": "Multiply Labs",
+      "first_seen": "2026-10-25T08:27:16+00:00",
+      "last_seen": "2026-10-25T08:27:16+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1792793407",
+      "source": "vanshb03",
+      "title": "Software Intern",
+      "url": "https://go.vansh.nyc/hG"
+    },
     "vanshb03:muon space::vanshb03-b2777e62-8d0f-498d-9356-1de0abbf38c0": {
       "company": "Muon Space",
       "first_seen": "2026-10-23T16:49:10+00:00",
@@ -62520,6 +63096,16 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern, GNC",
       "url": "https://job-boards.greenhouse.io/muonspace/jobs/5252680007"
+    },
+    "vanshb03:n1::vanshb03-7be4ecb2-7da3-4059-9fa8-8656cfd9fa95": {
+      "company": "N1",
+      "first_seen": "2026-10-25T08:27:17+00:00",
+      "last_seen": "2026-10-25T08:27:17+00:00",
+      "location": "Oakland, CA, NYC",
+      "posted_at": "1756872100",
+      "source": "vanshb03",
+      "title": "New Grad Software Engineer - Backend Rust",
+      "url": "https://go.vansh.nyc/rf"
     },
     "vanshb03:nash::vanshb03-18b7d350-1f9a-4ab2-ad4b-0027c482ff67": {
       "company": "Nash",
@@ -62579,7 +63165,7 @@
     "vanshb03:netic::vanshb03-380a517f-7ba1-4690-8922-d3ca051358f2": {
       "company": "Netic",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
       "location": "San Francisco, CA",
       "posted_at": "1784878899",
       "seeded": true,
@@ -62590,7 +63176,7 @@
     "vanshb03:netic::vanshb03-4088bfd2-a590-47cc-b01f-84cfb13e767a": {
       "company": "Netic",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-15T09:36:16+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
       "location": "San Francisco, CA",
       "posted_at": "1784880696",
       "seeded": true,
@@ -62601,7 +63187,7 @@
     "vanshb03:netic::vanshb03-a8b122cc-6088-4dbe-b7cf-2d34262b0b49": {
       "company": "Netic",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
       "location": "San Francisco, CA",
       "posted_at": "1784880689",
       "seeded": true,
@@ -62836,6 +63422,204 @@
       "title": "Associate Software Engineer",
       "url": "https://careers.unitedhealthgroup.com/job/22310390/associate-software-engineer-vancouver-ca/"
     },
+    "vanshb03:palantir technologies::vanshb03-012269d3-ac77-42ec-b155-6d02f53f8a49": {
+      "company": "Palantir Technologies",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "Washington, D.C.; New York, NY",
+      "posted_at": "1784882322",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Defense Tech",
+      "url": "https://go.vansh.nyc/4n"
+    },
+    "vanshb03:palantir technologies::vanshb03-0c8e1e21-7cfa-4338-a358-b04bd39fa799": {
+      "company": "Palantir Technologies",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "Washington, D.C.; New York, NY",
+      "posted_at": "1784882312",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/4k"
+    },
+    "vanshb03:palantir technologies::vanshb03-332f85f8-6ca8-47db-9377-039379a6d58d": {
+      "company": "Palantir Technologies",
+      "duplicate_of": "vanshb03:palantir technologies::vanshb03-75f28f5a-4ac9-4bab-894f-4175ba430e77",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1784882356",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Production Infrastructure",
+      "url": "https://go.vansh.nyc/4t"
+    },
+    "vanshb03:palantir technologies::vanshb03-35cbe6f4-e5e3-45fe-92fb-ead7d21826f5": {
+      "company": "Palantir Technologies",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "New York, NY; Chicago, IL",
+      "posted_at": "1784882294",
+      "source": "vanshb03",
+      "title": "Forward Deployed Software Engineer Intern",
+      "url": "https://go.vansh.nyc/4g"
+    },
+    "vanshb03:palantir technologies::vanshb03-627e89a9-d3c2-49e9-8c6e-5757d9dc5fb9": {
+      "company": "Palantir Technologies",
+      "duplicate_of": "vanshb03:palantir technologies::vanshb03-012269d3-ac77-42ec-b155-6d02f53f8a49",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "New York, NY",
+      "posted_at": "1784882336",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Defense Tech",
+      "url": "https://go.vansh.nyc/4p"
+    },
+    "vanshb03:palantir technologies::vanshb03-62ec68a4-2c66-4687-b3ba-018b1caa6437": {
+      "company": "Palantir Technologies",
+      "duplicate_of": "vanshb03:palantir technologies::vanshb03-0c8e1e21-7cfa-4338-a358-b04bd39fa799",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "New York, NY",
+      "posted_at": "1784882314",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/4l"
+    },
+    "vanshb03:palantir technologies::vanshb03-75f28f5a-4ac9-4bab-894f-4175ba430e77": {
+      "company": "Palantir Technologies",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "New York, NY; Seattle, WA",
+      "posted_at": "1784882350",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Production Infrastructure",
+      "url": "https://go.vansh.nyc/4s"
+    },
+    "vanshb03:palantir technologies::vanshb03-7df0afda-c7d5-4b89-ae2e-d90be7286f68": {
+      "company": "Palantir Technologies",
+      "duplicate_of": "vanshb03:palantir technologies::vanshb03-eb2485e8-7d0d-4a6a-9bb0-a65a4468fbbd",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1784882344",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Infrastructure",
+      "url": "https://go.vansh.nyc/4r"
+    },
+    "vanshb03:palantir technologies::vanshb03-be9c167e-b272-46e1-a169-a88b742aa291": {
+      "company": "Palantir Technologies",
+      "duplicate_of": "vanshb03:palantir technologies::vanshb03-35cbe6f4-e5e3-45fe-92fb-ead7d21826f5",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1784882297",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Forward Deployed Software Engineer Intern",
+      "url": "https://go.vansh.nyc/4h"
+    },
+    "vanshb03:palantir technologies::vanshb03-eb2485e8-7d0d-4a6a-9bb0-a65a4468fbbd": {
+      "company": "Palantir Technologies",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "New York, NY; Palo Alto, CA",
+      "posted_at": "1784882341",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Infrastructure",
+      "url": "https://go.vansh.nyc/4q"
+    },
+    "vanshb03:palantir::vanshb03-00c9f52c-50b9-4f30-b893-408af92049c6": {
+      "company": "Palantir",
+      "duplicate_of": "vanshb03:palantir::vanshb03-fb4fb9d4-a4cb-413c-b073-ca336cc40eff",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1751752305",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineer",
+      "url": "https://go.vansh.nyc/m0"
+    },
+    "vanshb03:palantir::vanshb03-0c394fff-c713-412f-992e-9a3a61a8ee5e": {
+      "company": "Palantir",
+      "first_seen": "2026-10-25T08:27:05+00:00",
+      "last_seen": "2026-10-25T08:27:05+00:00",
+      "location": "New York, NY",
+      "posted_at": "1792732377",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Forward Deployed Software Engineer, Warp Speed",
+      "url": "https://go.vansh.nyc/Bb"
+    },
+    "vanshb03:palantir::vanshb03-5e1c65f0-67cd-4db7-a538-17a1dbd4a1cb": {
+      "company": "Palantir",
+      "duplicate_of": "vanshb03:palantir::vanshb03-fb4fb9d4-a4cb-413c-b073-ca336cc40eff",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1751750974",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineer",
+      "url": "https://go.vansh.nyc/lF"
+    },
+    "vanshb03:palantir::vanshb03-7449f87e-753a-4f51-b257-f7b3c214fd97": {
+      "company": "Palantir",
+      "first_seen": "2026-10-25T08:27:05+00:00",
+      "last_seen": "2026-10-25T08:27:05+00:00",
+      "location": "New York, NY",
+      "posted_at": "1792708610",
+      "source": "vanshb03",
+      "title": "Forward Deployed Software Engineer Intern, Warp Speed",
+      "url": "https://go.vansh.nyc/fD"
+    },
+    "vanshb03:palantir::vanshb03-dff8ddcf-bb12-43a8-bd8b-38038821c627": {
+      "company": "Palantir",
+      "duplicate_of": "vanshb03:palantir::vanshb03-fb4fb9d4-a4cb-413c-b073-ca336cc40eff",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "New York, NY",
+      "posted_at": "1751750941",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineer",
+      "url": "https://go.vansh.nyc/lC"
+    },
+    "vanshb03:palantir::vanshb03-f130f45d-27ed-49f0-9a41-5aef69d45ac3": {
+      "company": "Palantir",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "New York, NY",
+      "posted_at": "1792479600",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Query Engines",
+      "url": "https://go.vansh.nyc/bJ"
+    },
+    "vanshb03:palantir::vanshb03-f154d8fe-393d-4c0c-8371-13b50dc3b8c0": {
+      "company": "Palantir",
+      "duplicate_of": "vanshb03:palantir::vanshb03-fb4fb9d4-a4cb-413c-b073-ca336cc40eff",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1751750969",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineer",
+      "url": "https://go.vansh.nyc/lE"
+    },
+    "vanshb03:palantir::vanshb03-fb4fb9d4-a4cb-413c-b073-ca336cc40eff": {
+      "company": "Palantir",
+      "first_seen": "2026-10-25T08:27:05+00:00",
+      "last_seen": "2026-10-25T08:27:05+00:00",
+      "location": "Denver, CO; New York, NY; Palo Alto, CA; Washington, DC; Seattle, WA",
+      "posted_at": "1751750917",
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineer",
+      "url": "https://go.vansh.nyc/lA"
+    },
     "vanshb03:parafin::vanshb03-288067b5-2d3b-4992-9a00-75e18a4ab1de": {
       "company": "Parafin",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -62868,6 +63652,16 @@
       "source": "vanshb03",
       "title": "New Grad: Software Engineer",
       "url": "https://paypal.eightfold.ai/careers/job/274908696559"
+    },
+    "vanshb03:pdt partners::vanshb03-a2f1a704-2ce0-4f89-abbb-6a783383b1fa": {
+      "company": "PDT Partners",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "New York, NY",
+      "posted_at": "1785124648",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/4J"
     },
     "vanshb03:pega::vanshb03-e0c6321d-2747-4446-954d-57f30119f246": {
       "company": "Pega",
@@ -62915,7 +63709,7 @@
     "vanshb03:phonely::vanshb03-f5c02ac0-bb2c-4cc3-a2c1-5a4752fa26f4": {
       "company": "Phonely",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-23T09:02:27+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
       "location": "San Francisco, CA",
       "posted_at": "1784879117",
       "seeded": true,
@@ -62954,6 +63748,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto/"
+    },
+    "vanshb03:point72::vanshb03-09f4fd4b-1858-448f-bc4e-04da8b4e3e35": {
+      "company": "Point72",
+      "first_seen": "2026-10-25T08:27:07+00:00",
+      "last_seen": "2026-10-25T08:27:07+00:00",
+      "location": "New York, NY",
+      "posted_at": "1791961200",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/9m"
     },
     "vanshb03:pony.ai::vanshb03-18407a46-9633-4ef5-8c21-c8e8c924a51d": {
       "company": "Pony.ai",
@@ -63371,7 +64175,7 @@
       "company": "RTX",
       "duplicate_of": "simplify:rtx::simplify-d6b959d0-3774-41d6-bc89-d62b84ca38bf",
       "first_seen": "2026-10-22T19:44:18+00:00",
-      "last_seen": "2026-10-23T13:01:50+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
       "location": "Remote in USA",
       "posted_at": "1792690514",
       "seeded": true,
@@ -63389,6 +64193,16 @@
       "title": "Software Engineering Intern",
       "url": "https://careers.safran-dsi.com/job/Bedford-Software-Engineering-Internship-NH-03110/1440599100/?ats=successfactors"
     },
+    "vanshb03:salesforce::vanshb03-c80adfa7-7b0a-4ef6-9984-b28540e9dc6f": {
+      "company": "Salesforce",
+      "first_seen": "2026-10-25T08:27:04+00:00",
+      "last_seen": "2026-10-25T08:27:04+00:00",
+      "location": "San Francisco, CA, Bellevue, WA",
+      "posted_at": "1792443379",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Security/Government",
+      "url": "https://go.vansh.nyc/bA"
+    },
     "vanshb03:samsara::vanshb03-39e6d57e-60d5-4926-8ab4-08c5c5651d77": {
       "company": "Samsara",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -63399,6 +64213,16 @@
       "source": "vanshb03",
       "title": "New Grad: Software Engineering",
       "url": "https://www.samsara.com/company/careers/roles/7172579"
+    },
+    "vanshb03:samsara::vanshb03-a846c62b-3c4e-42b7-bd96-38b98b968af0": {
+      "company": "Samsara",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1785852884",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/5U"
     },
     "vanshb03:schweitzer engineering laboratories::vanshb03-aae71294-e2fe-4249-b27b-90726e0963b4": {
       "company": "Schweitzer Engineering Laboratories",
@@ -63431,6 +64255,16 @@
       "source": "vanshb03",
       "title": "Associate Systems Engineer",
       "url": "https://careers.servicenow.com/jobs/744000073378905/associate-systems-engineer/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73"
+    },
+    "vanshb03:servicenow::vanshb03-f3cfcfb6-329b-4efb-a4f3-b982703d0448": {
+      "company": "ServiceNow",
+      "first_seen": "2026-10-25T08:27:15+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1791874800",
+      "source": "vanshb03",
+      "title": "Associate Software Engineer Intern, AI Engineering",
+      "url": "https://go.vansh.nyc/8N"
     },
     "vanshb03:sev1tech::vanshb03-b613ccb0-7dc2-4056-b507-9415cf812734": {
       "company": "Sev1Tech",
@@ -63834,13 +64668,23 @@
     "vanshb03:teledyne technologies incorporated::vanshb03-d6b0d4fb-dd47-478e-ad9b-2887f64a1645": {
       "company": "Teledyne Technologies Incorporated",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-23T10:31:50+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
       "location": "Huntsville, AL",
       "posted_at": "1787326577",
       "seeded": true,
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193"
+    },
+    "vanshb03:telus digital::vanshb03-95a0124b-bb32-433d-83e5-6c91d926abed": {
+      "company": "TELUS Digital",
+      "first_seen": "2026-10-25T08:27:16+00:00",
+      "last_seen": "2026-10-25T08:27:16+00:00",
+      "location": "Vancouver, Canada",
+      "posted_at": "1792738800",
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/hb"
     },
     "vanshb03:tenstorrent::vanshb03-46c114a3-a96a-4ec5-b228-68de72c09e17": {
       "company": "Tenstorrent",
@@ -63862,6 +64706,16 @@
       "source": "vanshb03",
       "title": "System Software Engineer Intern, System Software",
       "url": "https://www.tesla.com/careers/search/job/248064"
+    },
+    "vanshb03:tesla::vanshb03-0babc28a-266b-45dc-bd63-3be553ec8bd4": {
+      "company": "Tesla",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "Palo Alto, CA, Fremont, CA",
+      "posted_at": "1776727865",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Vehicle Engineering",
+      "url": "https://go.vansh.nyc/1E"
     },
     "vanshb03:tesla::vanshb03-0d42096b-7395-4849-ad5e-1a6afb0bdcc0": {
       "company": "Tesla",
@@ -64026,6 +64880,18 @@
       "title": "Software Engineer Intern, Embedded",
       "url": "https://tetramem.hrmdirect.com/employment/job-opening.php?req=3491042#job"
     },
+    "vanshb03:texas instruments::vanshb03-3b199ce3-17c3-41c3-b597-3191ff039e74": {
+      "company": "Texas Instruments",
+      "duplicate_of": "simplify:texas instruments::simplify-2e5e07c1-0b7d-4211-bca8-0ac7c3663a1a",
+      "first_seen": "2026-10-25T08:27:15+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
+      "location": "Sugar Land, TX",
+      "posted_at": "1792506992",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Compiler",
+      "url": "https://go.vansh.nyc/cv"
+    },
     "vanshb03:texas instruments::vanshb03-f53500b7-d29e-4efd-8e88-163fe964081c": {
       "company": "Texas Instruments",
       "first_seen": "2026-10-23T16:49:10+00:00",
@@ -64077,6 +64943,26 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Recommendation Performance Efficiency",
       "url": "https://lifeattiktok.com/search/7673636206961641781"
+    },
+    "vanshb03:tiktok::vanshb03-050c9508-f0be-4ba0-9d15-862ab3d54008": {
+      "company": "TikTok",
+      "first_seen": "2026-10-25T08:27:07+00:00",
+      "last_seen": "2026-10-25T08:27:07+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1785853307",
+      "source": "vanshb03",
+      "title": "Frontend Engineer Intern, TikTok-Open Platform",
+      "url": "https://go.vansh.nyc/6k"
+    },
+    "vanshb03:tiktok::vanshb03-0d7566d2-73ff-4625-bcea-36fbbfa2bde4": {
+      "company": "TikTok",
+      "first_seen": "2026-10-25T08:27:07+00:00",
+      "last_seen": "2026-10-25T08:27:07+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1785853320",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Data Arch - E-commerce",
+      "url": "https://go.vansh.nyc/6n"
     },
     "vanshb03:tiktok::vanshb03-0e423f57-96dd-449f-8cc7-27d7070d1492": {
       "company": "TikTok",
@@ -64155,6 +65041,16 @@
       "title": "New Grad 2026: Software Engineer Graduate (Data Platfrom TikTok BP)",
       "url": "https://lifeattiktok.com/search/7535528357414570248?spread=5MWH5CQ"
     },
+    "vanshb03:tiktok::vanshb03-302db2f9-46c2-42af-a0e1-656459c754b3": {
+      "company": "TikTok",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1785853292",
+      "source": "vanshb03",
+      "title": "Backend Software Engineer Intern, Search",
+      "url": "https://go.vansh.nyc/6h"
+    },
     "vanshb03:tiktok::vanshb03-3499d2d8-5d25-497b-a7d7-554a83e9f31e": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -64165,6 +65061,16 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer Graduate (Data Arch - E-commerce)",
       "url": "https://lifeattiktok.com/search/7535871317771634952"
+    },
+    "vanshb03:tiktok::vanshb03-35644c35-f1fd-4fcc-b689-46ede931ce3f": {
+      "company": "TikTok",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1785853283",
+      "source": "vanshb03",
+      "title": "Backend Software Engineer Intern, PGC-Digital Content Center",
+      "url": "https://go.vansh.nyc/6f"
     },
     "vanshb03:tiktok::vanshb03-3b4462db-6f92-4f9a-979c-9f340461fd30": {
       "company": "TikTok",
@@ -64187,6 +65093,16 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer Graduate (Video-on-Demand Algorithm)",
       "url": "https://lifeattiktok.com/search/7538319953965287698"
+    },
+    "vanshb03:tiktok::vanshb03-44454f62-101e-4c52-abfd-a58e0c690831": {
+      "company": "TikTok",
+      "first_seen": "2026-10-25T08:27:07+00:00",
+      "last_seen": "2026-10-25T08:27:07+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1785853363",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, TikTok-Agentic Creation-AIGC",
+      "url": "https://go.vansh.nyc/6u"
     },
     "vanshb03:tiktok::vanshb03-4558b1fa-f289-47fa-9640-23678e537355": {
       "company": "TikTok",
@@ -64232,6 +65148,16 @@
       "title": "New Grad 2026: Engineer (Backend Software Engineer, Trust and Safety- Seattle)",
       "url": "https://lifeattiktok.com/search/7530752375372466439?spread=5MWH5CQ"
     },
+    "vanshb03:tiktok::vanshb03-5915d9f4-7fbd-4029-98f8-e2373a982744": {
+      "company": "TikTok",
+      "first_seen": "2026-10-25T08:27:07+00:00",
+      "last_seen": "2026-10-25T08:27:07+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1785853311",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Privacy and Security",
+      "url": "https://go.vansh.nyc/6l"
+    },
     "vanshb03:tiktok::vanshb03-5cc9fc27-abca-4f53-836b-244428b5b60d": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -64265,6 +65191,26 @@
       "title": "New Grad 2026: Software Engineer Graduate - Data-Search",
       "url": "https://lifeattiktok.com/search/7533719102990190866?spread=5MWH5CQ"
     },
+    "vanshb03:tiktok::vanshb03-6a30baf8-bf9f-4a0e-8369-1e5dc04dd0b3": {
+      "company": "TikTok",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1785853278",
+      "source": "vanshb03",
+      "title": "Backend Software Engineer Intern, Social Foundation",
+      "url": "https://go.vansh.nyc/6d"
+    },
+    "vanshb03:tiktok::vanshb03-769d0101-712d-4e54-926c-1d43d669b379": {
+      "company": "TikTok",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1785853222",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, AI Agent & Global Revenue Platform",
+      "url": "https://go.vansh.nyc/61"
+    },
     "vanshb03:tiktok::vanshb03-84e4d646-f8fa-4e5e-8670-72f4bcc6fd91": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -64286,6 +65232,16 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer Graduate Mobile Reliability (Android)",
       "url": "https://lifeattiktok.com/search/7534794210978187527?spread=5MWH5CQ"
+    },
+    "vanshb03:tiktok::vanshb03-87c2a369-995b-4331-913a-0dcebd8c7fe9": {
+      "company": "TikTok",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1785853216",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Global Live-Foundation",
+      "url": "https://go.vansh.nyc/5Z"
     },
     "vanshb03:tiktok::vanshb03-90d814e2-7ba5-428e-9b6b-58c9f3fee9dd": {
       "company": "TikTok",
@@ -64331,6 +65287,26 @@
       "title": "New Grad 2026: Software Engineer (Ads ML Infrastructure)",
       "url": "https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ"
     },
+    "vanshb03:tiktok::vanshb03-abda1495-311a-45b6-aad7-1d3d86bf1c6e": {
+      "company": "TikTok",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1785853281",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Growth Innovation",
+      "url": "https://go.vansh.nyc/6e"
+    },
+    "vanshb03:tiktok::vanshb03-ad414d77-c548-4f3b-8594-3ec4c5b1bd4e": {
+      "company": "TikTok",
+      "first_seen": "2026-10-25T08:27:07+00:00",
+      "last_seen": "2026-10-25T08:27:07+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1785853316",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Code Graph and Quality Validation",
+      "url": "https://go.vansh.nyc/6m"
+    },
     "vanshb03:tiktok::vanshb03-b900c985-c9fe-40dc-b5ad-1d57fdcc4033": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -64364,6 +65340,16 @@
       "title": "New Grad 2026: Software Engineer Graduate (Monetization Technology - Ads Creative)",
       "url": "https://lifeattiktok.com/search/7532457296103295239?spread=5MWH5CQ"
     },
+    "vanshb03:tiktok::vanshb03-c40c8751-c427-4db4-bafe-013d36e70014": {
+      "company": "TikTok",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1785853266",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Shoot Experience Optimization",
+      "url": "https://go.vansh.nyc/69"
+    },
     "vanshb03:tiktok::vanshb03-c7102462-cd53-4a83-ae42-ee9ac01601e5": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -64385,6 +65371,16 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer (Media Platform)",
       "url": "https://lifeattiktok.com/search/7538318336657606930"
+    },
+    "vanshb03:tiktok::vanshb03-cb1e66d4-a081-4cf6-8fd8-f3b202adfe14": {
+      "company": "TikTok",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1785853295",
+      "source": "vanshb03",
+      "title": "Backend Software Engineer Intern, Social Friending",
+      "url": "https://go.vansh.nyc/6i"
     },
     "vanshb03:tiktok::vanshb03-d19c32df-55c4-4eca-b686-be1736e43c22": {
       "company": "TikTok",
@@ -64429,6 +65425,26 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer (Commerce Ads)",
       "url": "https://lifeattiktok.com/search/7538213896365689096"
+    },
+    "vanshb03:tiktok::vanshb03-d9eab611-769e-424a-a61a-f070365a86da": {
+      "company": "TikTok",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1785853287",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, TikTok-Social-Friending",
+      "url": "https://go.vansh.nyc/6g"
+    },
+    "vanshb03:tiktok::vanshb03-e5e5e861-a0f4-4983-bdb8-12c509ec53f6": {
+      "company": "TikTok",
+      "first_seen": "2026-10-25T08:27:06+00:00",
+      "last_seen": "2026-10-25T08:27:06+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1785853272",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Trust and Safety-Engineering",
+      "url": "https://go.vansh.nyc/6b"
     },
     "vanshb03:tiktok::vanshb03-e7d10c09-f1e3-4f9c-987e-166da71a2781": {
       "company": "TikTok",
@@ -64528,6 +65544,16 @@
       "title": "Software Engineer I",
       "url": "https://careers.twitch.com/en/career-posts/8334351002/"
     },
+    "vanshb03:twitch::vanshb03-b8bd9378-c89f-40ef-9272-07d6976f6ed4": {
+      "company": "Twitch",
+      "first_seen": "2026-10-25T08:27:07+00:00",
+      "last_seen": "2026-10-25T08:27:07+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1792652400",
+      "source": "vanshb03",
+      "title": "Undergrad Software Engineering Intern",
+      "url": "https://go.vansh.nyc/eV"
+    },
     "vanshb03:uber technologies, inc.::vanshb03-805b10d4-d4dd-455a-9401-0e512e692c42": {
       "company": "Uber Technologies, Inc.",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -64603,6 +65629,18 @@
       "source": "vanshb03",
       "title": "Embedded Flight Software Intern",
       "url": "https://ursamajor.com/careers/?gh_jid=4746825005"
+    },
+    "vanshb03:veeda ai::vanshb03-983bb6bf-3ea3-4128-8d13-673fef03e03f": {
+      "company": "Veeda AI",
+      "duplicate_of": "simplify:veeda ai::simplify-2ec65e14-bcd0-4e89-af40-02da2affff7e",
+      "first_seen": "2026-10-25T08:27:15+00:00",
+      "last_seen": "2026-10-25T08:27:15+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1792707178",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/fr"
     },
     "vanshb03:verition fund management llc::vanshb03-835cac0f-ad17-450e-984c-ac7973199416": {
       "company": "Verition Fund Management LLC",
@@ -65121,5 +66159,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-25T05:36:14+00:00"
+  "updated_at": "2026-10-25T08:27:24+00:00"
 }
