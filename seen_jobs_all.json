@@ -62612,7 +62612,7 @@
     "vanshb03:northrop grumman::vanshb03-42b214fe-48b1-4f78-ba30-82ec84babd47": {
       "company": "Northrop Grumman",
       "first_seen": "2026-10-22T19:44:19+00:00",
-      "last_seen": "2026-10-23T10:02:50+00:00",
+      "last_seen": "2026-10-25T05:31:57+00:00",
       "location": "San Antonio, TX",
       "posted_at": "1792695674",
       "source": "vanshb03",
@@ -65121,5 +65121,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-25T04:53:04+00:00"
+  "updated_at": "2026-10-25T05:32:07+00:00"
 }
