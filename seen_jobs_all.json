@@ -1,5 +1,5 @@
 {
-  "count": 7684,
+  "count": 7685,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -60565,6 +60565,16 @@
       "title": "Cloud Software Engineer Intern",
       "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/CAN-Kanata-2-ON---WR/Cloud-Software-Engineer-Intern_J000704375"
     },
+    "vanshb03:aptiv::vanshb03-620479e0-2a5b-4657-bb31-6b8fec445b99": {
+      "company": "Aptiv",
+      "first_seen": "2026-10-25T04:52:56+00:00",
+      "last_seen": "2026-10-25T04:52:56+00:00",
+      "location": "Kanata, Canada, Ottawa, Canada",
+      "posted_at": "1792713600",
+      "source": "vanshb03",
+      "title": "Cloud Software Engineer Intern",
+      "url": "https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000704366"
+    },
     "vanshb03:aptiv::vanshb03-855b7638-9325-42a1-a85f-eaad6c5c77bd": {
       "company": "Aptiv",
       "first_seen": "2026-10-22T08:51:08+00:00",
@@ -65111,5 +65121,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-25T03:02:00+00:00"
+  "updated_at": "2026-10-25T04:53:04+00:00"
 }
