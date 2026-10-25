@@ -1,5 +1,5 @@
 {
-  "count": 7533,
+  "count": 7534,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -27915,6 +27915,16 @@
       "posted_at": "1776118194",
       "title": "Software Engineer 1",
       "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720"
+    },
+    "simplify:intuit::simplify-6c3c3d72-bc76-4b02-b99c-a3e1867d21ea": {
+      "company": "Intuit",
+      "first_seen": "2026-10-25T22:32:01+00:00",
+      "last_seen": "2026-10-25T22:32:01+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1792966320",
+      "source": "simplify",
+      "title": "Software Developer Co-op - Front End",
+      "url": "https://jobs.intuit.com/job/toronto/winter-2027-software-developer-co-op-front-end-8-months/27595/102435217392"
     },
     "simplify:intuit::simplify-71018f38-602e-4001-9e45-698d20f81b5f": {
       "company": "Intuit",
@@ -63257,5 +63267,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-25T08:44:21+00:00"
+  "updated_at": "2026-10-25T22:32:41+00:00"
 }
