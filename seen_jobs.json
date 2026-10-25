@@ -658,6 +658,15 @@
       "title": "Software Engineering Intern",
       "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543"
     },
+    "vanshb03:skydio::vanshb03-2295901e-eac9-41b9-8e2c-6164c9d0f3bf": {
+      "attempted_at": "2026-10-25T08:43:56+00:00",
+      "company": "Skydio",
+      "location": "San Mateo, CA",
+      "posted_at": "1792917819",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/BD"
+    },
     "ziprecruiter::8127108": {
       "attempted_at": "2026-09-24T16:22:51+00:00",
       "company": "ZipRecruiter",
@@ -63248,5 +63257,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-25T08:27:18+00:00"
+  "updated_at": "2026-10-25T08:44:21+00:00"
 }
