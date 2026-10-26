@@ -1,5 +1,5 @@
 {
-  "count": 7966,
+  "count": 7989,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -61611,6 +61611,26 @@
       "title": "Associate Flight Test Data Processing Software Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/en-US/tap2/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420-2"
     },
+    "vanshb03:bombardier::vanshb03-2f3556cf-9ff6-48f6-b46a-301d3bc35ee0": {
+      "company": "Bombardier",
+      "first_seen": "2026-10-26T16:58:12+00:00",
+      "last_seen": "2026-10-26T16:58:12+00:00",
+      "location": "St-Laurent, Canada",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/Sp"
+    },
+    "vanshb03:bombardier::vanshb03-9c282fbd-4cbc-44b7-ab73-716b59b88838": {
+      "company": "Bombardier",
+      "first_seen": "2026-10-26T16:58:12+00:00",
+      "last_seen": "2026-10-26T16:58:12+00:00",
+      "location": "Dorval, Canada",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Extended Reality Programmer Intern",
+      "url": "https://go.vansh.nyc/Sm"
+    },
     "vanshb03:booz allen hamilton::vanshb03-2f91e9c4-1b12-4b14-a545-b8a0c3ebfe13": {
       "company": "Booz Allen Hamilton",
       "first_seen": "2026-10-26T16:11:12+00:00",
@@ -61640,6 +61660,16 @@
       "source": "vanshb03",
       "title": "New Grad 2027: Software Developer",
       "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280"
+    },
+    "vanshb03:booz allen::vanshb03-9e2e4d5d-ce9a-42fe-ab71-f6b516e16caf": {
+      "company": "Booz Allen",
+      "first_seen": "2026-10-26T16:58:12+00:00",
+      "last_seen": "2026-10-26T16:58:12+00:00",
+      "location": "Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA",
+      "posted_at": "1792732377",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Systems Engineer",
+      "url": "https://go.vansh.nyc/Be"
     },
     "vanshb03:bosch::vanshb03-04fd72aa-b1c3-4ff1-8259-08b6ad402b2a": {
       "company": "Bosch",
@@ -62134,6 +62164,16 @@
       "title": "Software Engineer I Co-op",
       "url": "https://go.vansh.nyc/fW"
     },
+    "vanshb03:cisive::vanshb03-afb036e7-c0b8-4f2d-bd17-24c709ec9ad8": {
+      "company": "Cisive",
+      "first_seen": "2026-10-26T16:58:12+00:00",
+      "last_seen": "2026-10-26T16:58:12+00:00",
+      "location": "Remote, United States",
+      "posted_at": "1793032585",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/SB"
+    },
     "vanshb03:citadel::vanshb03-91af86ad-2961-4c31-8986-6bc57fe080d5": {
       "company": "Citadel",
       "first_seen": "2026-10-25T08:27:06+00:00",
@@ -62524,6 +62564,16 @@
       "source": "vanshb03",
       "title": "Forward Deployed Engineering Intern",
       "url": "https://www.workatastartup.com/jobs/94211"
+    },
+    "vanshb03:disney::vanshb03-1c99b896-2442-4516-91f0-d43e043e3609": {
+      "company": "Disney",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "Glendale, CA, San Francisco, CA, New York, NY",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Product & Technology Software Engineering Intern",
+      "url": "https://go.vansh.nyc/R3"
     },
     "vanshb03:disney::vanshb03-2119d1b9-d3e3-4295-80c0-db8711168fa4": {
       "company": "Disney",
@@ -64067,6 +64117,16 @@
       "title": "Member of Technical Staff Intern",
       "url": "https://go.vansh.nyc/hy"
     },
+    "vanshb03:lockheed martin::vanshb03-e3253f6e-43c9-4222-b07c-0ea2b474046c": {
+      "company": "Lockheed Martin",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "Calgary, Canada",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Software Development Co-op, Technical I",
+      "url": "https://go.vansh.nyc/Rj"
+    },
     "vanshb03:lpl financial holdings::vanshb03-f38bf2ff-8142-4e54-96cd-21f7888b6643": {
       "company": "LPL Financial Holdings",
       "first_seen": "2026-10-26T16:38:11+00:00",
@@ -64148,6 +64208,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Backend",
       "url": "https://go.vansh.nyc/Qp"
+    },
+    "vanshb03:lyft::vanshb03-84e98a74-4945-4ef6-93c7-2a0dc54bf485": {
+      "company": "Lyft",
+      "first_seen": "2026-10-26T16:38:07+00:00",
+      "last_seen": "2026-10-26T16:38:07+00:00",
+      "location": "Montreal, Canada",
+      "posted_at": "1792449816",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Test Automation",
+      "url": "https://go.vansh.nyc/RT"
     },
     "vanshb03:lyft::vanshb03-b1fb4428-6ebb-49cb-b5fb-326bf423731f": {
       "company": "Lyft",
@@ -64320,6 +64390,16 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280"
+    },
+    "vanshb03:member solutions::vanshb03-910c7624-1d11-48c0-a8cb-70a8ded99846": {
+      "company": "Member Solutions",
+      "first_seen": "2026-10-26T16:58:12+00:00",
+      "last_seen": "2026-10-26T16:58:12+00:00",
+      "location": "Markham, Canada, Remote, Canada",
+      "posted_at": "1793032585",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/SK"
     },
     "vanshb03:mesh optical technologies::vanshb03-c711a765-070c-4241-884c-5aaa170a5db5": {
       "company": "Mesh Optical Technologies",
@@ -64618,6 +64698,26 @@
       "title": "Full-Stack Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef?embed=true"
     },
+    "vanshb03:neuralink::vanshb03-4c2c614e-2c43-4b56-8fe1-b4c714504ae5": {
+      "company": "Neuralink",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "Austin, TX, South San Francisco, CA",
+      "posted_at": "1790299101",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern, Implant Embedded Systems",
+      "url": "https://go.vansh.nyc/QF"
+    },
+    "vanshb03:neuralink::vanshb03-90d6dfbc-2504-4b10-bc4f-c132ebc1a623": {
+      "company": "Neuralink",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "Austin, TX, South San Francisco, CA",
+      "posted_at": "1790299101",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, BCI Applications",
+      "url": "https://go.vansh.nyc/QG"
+    },
     "vanshb03:northmarq::vanshb03-b09be508-fe41-4780-bd2a-0f798d0b4a76": {
       "company": "Northmarq",
       "first_seen": "2026-10-26T14:17:24+00:00",
@@ -64797,6 +64897,16 @@
       "source": "vanshb03",
       "title": "Software Engineer I",
       "url": "https://www.okta.com/company/careers/product/software-engineer-i-7169515/"
+    },
+    "vanshb03:old mission::vanshb03-aa7f58d3-79d8-4b5d-b5ec-fd8487ae8ee3": {
+      "company": "Old Mission",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1784137513",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/QB"
     },
     "vanshb03:old mission::vanshb03-bbec8687-ddae-4138-96f6-090c3b2c156b": {
       "company": "Old Mission",
@@ -65146,6 +65256,16 @@
       "title": "New Grad: Software Engineer",
       "url": "https://paypal.eightfold.ai/careers/job/274908696559"
     },
+    "vanshb03:pdt partners::vanshb03-375e3b9b-74f3-476b-923e-4c6cb11d3f03": {
+      "company": "PDT Partners",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "New York, NY",
+      "posted_at": "1791388328",
+      "source": "vanshb03",
+      "title": "Systems Engineering Intern",
+      "url": "https://go.vansh.nyc/QK"
+    },
     "vanshb03:pdt partners::vanshb03-a2f1a704-2ce0-4f89-abbb-6a783383b1fa": {
       "company": "PDT Partners",
       "first_seen": "2026-10-25T08:27:06+00:00",
@@ -65358,6 +65478,16 @@
       "title": "Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05"
     },
+    "vanshb03:qualcomm::vanshb03-0db390cb-1b3f-4deb-94f8-e98d97aa2bc3": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "San Diego, CA, Austin, TX, Boxborough, MA, United States, Tempe, AZ, Irvine, CA, Louisville, KY, New York, NY",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/Rs"
+    },
     "vanshb03:qualcomm::vanshb03-2a848b71-f695-44eb-bffc-cb912a1636cf": {
       "company": "Qualcomm",
       "first_seen": "2026-10-22T02:34:25+00:00",
@@ -65367,6 +65497,36 @@
       "source": "vanshb03",
       "title": "Display Systems Engineer Intern",
       "url": "https://qualcomm.eightfold.ai/careers/job/446721661677"
+    },
+    "vanshb03:qualcomm::vanshb03-52fa71d2-bcac-4ab2-8547-f1ec2c6fd39d": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "Markham, Canada",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Low-Power AI, Audio, and Sensors Subsystem Engineering Intern, ASIC Firmware / Embedded",
+      "url": "https://go.vansh.nyc/Rx"
+    },
+    "vanshb03:qualcomm::vanshb03-6c043c23-b592-469b-831f-d181df43b721": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "Markham, Canada",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Low Power AI Software Development Intern",
+      "url": "https://go.vansh.nyc/Rz"
+    },
+    "vanshb03:qualcomm::vanshb03-cb917838-14b3-4ab3-bbcd-48e8f8087b88": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Firmware/Embedded Software Engineering Intern",
+      "url": "https://go.vansh.nyc/Ry"
     },
     "vanshb03:qualcomm::vanshb03-d928325b-a04d-4a73-b1e7-abc96930168e": {
       "company": "Qualcomm",
@@ -65921,6 +66081,16 @@
       "title": "Software Engineer Intern",
       "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2026-24190"
     },
+    "vanshb03:seagate technology::vanshb03-cf2f32dd-f355-4cec-9bdc-b8b433b22fcd": {
+      "company": "Seagate Technology",
+      "first_seen": "2026-10-26T16:58:12+00:00",
+      "last_seen": "2026-10-26T16:58:12+00:00",
+      "location": "Longmont, CO",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Ss"
+    },
     "vanshb03:semtech::vanshb03-529386e9-c026-4317-9c23-71723dc0b364": {
       "company": "Semtech",
       "first_seen": "2026-10-26T12:09:23+00:00",
@@ -66155,6 +66325,16 @@
       "title": "Software Engineer I - Membership",
       "url": "https://join.softheon.com/_/j/4AFE55D62D/"
     },
+    "vanshb03:soti::vanshb03-1605f560-b8fd-4dd2-ae91-6111f9c9ce84": {
+      "company": "SOTI",
+      "first_seen": "2026-10-26T16:58:12+00:00",
+      "last_seen": "2026-10-26T16:58:12+00:00",
+      "location": "Mississauga, Canada",
+      "posted_at": "1793032585",
+      "source": "vanshb03",
+      "title": "Software Developer Intern, Server",
+      "url": "https://go.vansh.nyc/SJ"
+    },
     "vanshb03:soti::vanshb03-7aac59d7-be2a-40f4-a85f-fabd42389302": {
       "company": "SOTI",
       "first_seen": "2026-10-21T00:20:12+00:00",
@@ -66164,6 +66344,16 @@
       "source": "vanshb03",
       "title": "Software Developer Intern",
       "url": "https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--May-2027-_R10604"
+    },
+    "vanshb03:soti::vanshb03-919309b0-7029-4ac7-abae-b97ce5677802": {
+      "company": "SOTI",
+      "first_seen": "2026-10-26T16:58:12+00:00",
+      "last_seen": "2026-10-26T16:58:12+00:00",
+      "location": "Mississauga, Canada",
+      "posted_at": "1793032585",
+      "source": "vanshb03",
+      "title": "Software Developer Intern, Android",
+      "url": "https://go.vansh.nyc/SI"
     },
     "vanshb03:spacex::vanshb03-9602c975-7f35-4932-9b25-39983c85cffd": {
       "company": "SpaceX",
@@ -66949,6 +67139,16 @@
       "title": "New Grad 2027: Backend Engineer, Social Foundation",
       "url": "https://go.vansh.nyc/Dw"
     },
+    "vanshb03:tiktok::vanshb03-65a2d1eb-ff41-4ede-b92c-8cf266a78fa5": {
+      "company": "TikTok",
+      "first_seen": "2026-10-26T16:38:07+00:00",
+      "last_seen": "2026-10-26T16:38:07+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Software Development Engineer in Test Intern, Testing",
+      "url": "https://go.vansh.nyc/RO"
+    },
     "vanshb03:tiktok::vanshb03-674663b1-3c0d-45e8-816f-092f68f04b64": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -67056,6 +67256,18 @@
       "title": "New Grad 2026: Software Engineer (Ads ML Infrastructure)",
       "url": "https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ"
     },
+    "vanshb03:tiktok::vanshb03-a6a71817-77ac-47c6-8106-e59371cde542": {
+      "company": "TikTok",
+      "duplicate_of": "vanshb03:tiktok::vanshb03-ffe0a043-7948-43c1-a3b4-3f5d314df447",
+      "first_seen": "2026-10-26T16:38:05+00:00",
+      "last_seen": "2026-10-26T16:38:05+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1792339604",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation",
+      "url": "https://go.vansh.nyc/RQ"
+    },
     "vanshb03:tiktok::vanshb03-abda1495-311a-45b6-aad7-1d3d86bf1c6e": {
       "company": "TikTok",
       "first_seen": "2026-10-25T08:27:06+00:00",
@@ -67075,6 +67287,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Code Graph and Quality Validation",
       "url": "https://go.vansh.nyc/6m"
+    },
+    "vanshb03:tiktok::vanshb03-b6dd0990-6d38-4fb6-bd07-5a279bc3f6b7": {
+      "company": "TikTok",
+      "first_seen": "2026-10-26T16:38:07+00:00",
+      "last_seen": "2026-10-26T16:38:07+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Security Software Engineer Project Intern, Product Security",
+      "url": "https://go.vansh.nyc/RN"
     },
     "vanshb03:tiktok::vanshb03-b900c985-c9fe-40dc-b5ad-1d57fdcc4033": {
       "company": "TikTok",
@@ -67236,6 +67458,16 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer Graduate Search",
       "url": "https://lifeattiktok.com/search/7532627070011771154?spread=5MWH5CQ"
+    },
+    "vanshb03:tiktok::vanshb03-ffe0a043-7948-43c1-a3b4-3f5d314df447": {
+      "company": "TikTok",
+      "first_seen": "2026-10-26T16:38:07+00:00",
+      "last_seen": "2026-10-26T16:38:07+00:00",
+      "location": "San Jose, CA; Seattle, WA",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation",
+      "url": "https://go.vansh.nyc/RP"
     },
     "vanshb03:touchdown labs::vanshb03-5732d286-04e4-4a23-ad7d-d43b2e516f92": {
       "company": "Touchdown Labs",
@@ -68072,5 +68304,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T16:38:32+00:00"
+  "updated_at": "2026-10-26T16:58:35+00:00"
 }
