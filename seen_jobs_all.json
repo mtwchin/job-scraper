@@ -1,5 +1,5 @@
 {
-  "count": 7934,
+  "count": 7944,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -60446,6 +60446,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/N6"
     },
+    "vanshb03:acuity::vanshb03-cbfaa5cc-d3c1-4abf-b12b-943754cd3a26": {
+      "company": "Acuity",
+      "first_seen": "2026-10-26T15:04:12+00:00",
+      "last_seen": "2026-10-26T15:04:12+00:00",
+      "location": "Sheboygan, WI",
+      "posted_at": "1792677853",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/PT"
+    },
     "vanshb03:adobe::vanshb03-2831b917-2c9f-428b-b256-37b173939f56": {
       "company": "Adobe",
       "first_seen": "2026-10-26T14:02:47+00:00",
@@ -61213,6 +61223,16 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern, AI-Assisted Baseband Debugging Evaluation",
       "url": "https://go.vansh.nyc/D3"
+    },
+    "vanshb03:applied intuition::vanshb03-325e0094-e5ad-4cc1-9c76-2c3d09864157": {
+      "company": "Applied Intuition",
+      "first_seen": "2026-10-26T15:04:07+00:00",
+      "last_seen": "2026-10-26T15:04:07+00:00",
+      "location": "Ann Arbor, MI, Sunnyvale, CA",
+      "posted_at": "1787875200",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/P3"
     },
     "vanshb03:applied intuition::vanshb03-62eae085-05c9-4db1-b6d0-07c5277e246a": {
       "company": "Applied Intuition",
@@ -62888,6 +62908,16 @@
       "title": "Software Developer Intern",
       "url": "https://go.vansh.nyc/3y"
     },
+    "vanshb03:freeform::vanshb03-056e95c2-3285-4d51-9cce-7b391ca79b7c": {
+      "company": "Freeform",
+      "first_seen": "2026-10-26T15:04:12+00:00",
+      "last_seen": "2026-10-26T15:04:12+00:00",
+      "location": "Los Angeles, CA",
+      "posted_at": "1787875200",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/P6"
+    },
     "vanshb03:freeform::vanshb03-7d6562a8-d601-4168-aeb8-aca66ee1af7f": {
       "company": "Freeform",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -63102,6 +63132,16 @@
       "source": "vanshb03",
       "title": "Embedded and Systems Engineering Intern, Digital Product",
       "url": "https://go.vansh.nyc/IS"
+    },
+    "vanshb03:global lending services::vanshb03-4fd767fe-30b1-4774-a9e4-5b4047b8e3ed": {
+      "company": "Global Lending Services",
+      "first_seen": "2026-10-26T15:04:12+00:00",
+      "last_seen": "2026-10-26T15:04:12+00:00",
+      "location": "Greenville, SC",
+      "posted_at": "1787848357",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Developer",
+      "url": "https://go.vansh.nyc/Pw"
     },
     "vanshb03:global relay::vanshb03-a1fe1160-a32c-41b1-a47d-c72c5d2785d6": {
       "company": "Global Relay",
@@ -63665,6 +63705,16 @@
       "source": "vanshb03",
       "title": "New Grad 2027: Robotics & Autonomous Systems Engineer, Tailored Autonomous Systems",
       "url": "https://go.vansh.nyc/NZ"
+    },
+    "vanshb03:jpmorganchase::vanshb03-abc372f0-196d-4e3d-8879-4e7cb41d6bb7": {
+      "company": "JPMorganChase",
+      "first_seen": "2026-10-26T15:04:12+00:00",
+      "last_seen": "2026-10-26T15:04:12+00:00",
+      "location": "Palo Alto, CA, Houston, TX, Tampa, FL, Plano, TX, Chicago, IL, Jersey City, NJ, Columbus, OH, New York, NY, Wilmington, DE",
+      "posted_at": "1787184000",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer Program",
+      "url": "https://go.vansh.nyc/Pg"
     },
     "vanshb03:jump trading::vanshb03-03443f37-7b10-4753-8828-2d9bcc2e4f2d": {
       "company": "Jump Trading",
@@ -67177,6 +67227,28 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/fr"
     },
+    "vanshb03:veeva systems::vanshb03-0a848d0b-3504-488e-86cf-6d7e298791dd": {
+      "company": "Veeva Systems",
+      "first_seen": "2026-10-26T15:04:12+00:00",
+      "last_seen": "2026-10-26T15:04:12+00:00",
+      "location": "Pleasanton, CA; Columbus, OH",
+      "posted_at": "1787961600",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Associate Software Engineer",
+      "url": "https://go.vansh.nyc/P0"
+    },
+    "vanshb03:veeva systems::vanshb03-0c16ab98-adf1-405a-a23e-d579a04f7f8f": {
+      "company": "Veeva Systems",
+      "duplicate_of": "vanshb03:veeva systems::vanshb03-0a848d0b-3504-488e-86cf-6d7e298791dd",
+      "first_seen": "2026-10-26T15:04:11+00:00",
+      "last_seen": "2026-10-26T15:04:11+00:00",
+      "location": "Columbus, OH",
+      "posted_at": "1787961600",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "New Grad 2027: Associate Software Engineer",
+      "url": "https://go.vansh.nyc/P1"
+    },
     "vanshb03:verition fund management llc::vanshb03-835cac0f-ad17-450e-984c-ac7973199416": {
       "company": "Verition Fund Management LLC",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -67197,6 +67269,16 @@
       "source": "vanshb03",
       "title": "Embedded Software Engineer Intern",
       "url": "https://go.vansh.nyc/Ot"
+    },
+    "vanshb03:vermeer::vanshb03-86e51beb-d377-4cd7-b3e1-3cb704c40061": {
+      "company": "Vermeer",
+      "first_seen": "2026-10-26T15:04:12+00:00",
+      "last_seen": "2026-10-26T15:04:12+00:00",
+      "location": "Pella, IA",
+      "posted_at": "1788360952",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Engineer I, Embedded Software Engineer",
+      "url": "https://go.vansh.nyc/PL"
     },
     "vanshb03:vermeer::vanshb03-c85e9796-d07b-43aa-9688-934176295c81": {
       "company": "Vermeer",
@@ -67284,6 +67366,16 @@
       "title": "Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af"
     },
+    "vanshb03:voleon::vanshb03-9c1383b9-da48-425d-8a5b-0bba8a3f258d": {
+      "company": "Voleon",
+      "first_seen": "2026-10-26T15:04:12+00:00",
+      "last_seen": "2026-10-26T15:04:12+00:00",
+      "location": "Berkeley, CA, New York, NY",
+      "posted_at": "1787692907",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, University Hire",
+      "url": "https://go.vansh.nyc/Pm"
+    },
     "vanshb03:voyager technologies::vanshb03-bfb41fe6-a451-4268-988b-1cabff76df0d": {
       "company": "Voyager Technologies",
       "first_seen": "2026-10-23T16:49:10+00:00",
@@ -67336,6 +67428,16 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern, Maneuvering Tech",
       "url": "https://go.vansh.nyc/IF"
+    },
+    "vanshb03:weride::vanshb03-9501d08e-8de9-4c94-a656-bb6d34475205": {
+      "company": "WeRide",
+      "first_seen": "2026-10-26T15:04:12+00:00",
+      "last_seen": "2026-10-26T15:04:12+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1787961600",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/P2"
     },
     "vanshb03:wsp::vanshb03-65f57b05-3453-432e-8874-c22e99f13c8f": {
       "company": "WSP",
@@ -67746,5 +67848,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T15:03:20+00:00"
+  "updated_at": "2026-10-26T15:04:23+00:00"
 }
