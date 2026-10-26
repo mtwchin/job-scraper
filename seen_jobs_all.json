@@ -1,5 +1,5 @@
 {
-  "count": 7930,
+  "count": 7934,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -7782,7 +7782,7 @@
     "simplify:american express::simplify-275ffbf9-4e98-440f-92a7-a43740911ff4": {
       "company": "American Express",
       "first_seen": "2026-09-14T18:25:38+00:00",
-      "last_seen": "2026-10-23T00:02:39+00:00",
+      "last_seen": "2026-10-26T15:03:12+00:00",
       "posted_at": "1789394951",
       "title": "AI Engineer Intern - Undergraduate",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756"
@@ -7888,7 +7888,7 @@
     "simplify:american express::simplify-9ccdafeb-a560-48e7-a199-38d185706e9c": {
       "company": "American Express",
       "first_seen": "2026-09-14T18:25:38+00:00",
-      "last_seen": "2026-10-23T00:02:39+00:00",
+      "last_seen": "2026-10-26T15:03:12+00:00",
       "posted_at": "1789394954",
       "title": "Software Engineer Intern - Undergraduate",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771"
@@ -24421,7 +24421,7 @@
     "simplify:general dynamics information technology::simplify-7b0c7936-f5ca-4813-a556-483b1e6edbf0": {
       "company": "General Dynamics Information Technology",
       "first_seen": "2026-10-19T23:05:20+00:00",
-      "last_seen": "2026-10-20T00:00:02+00:00",
+      "last_seen": "2026-10-26T15:03:12+00:00",
       "location": "Egg Harbor Township, NJ",
       "posted_at": "1792368000",
       "source": "simplify",
@@ -44801,6 +44801,18 @@
       "title": "Technology & Operations Co-op - Software Developer",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-Technology---Operations---Software-Developer--12-Months_R-0000184491-1"
     },
+    "simplify:royal bank of canada::simplify-240d28d8-55dc-4e88-ab4c-f6ec1dda6110": {
+      "company": "Royal Bank of Canada",
+      "duplicate_of": "simplify:royal bank of canada::simplify-f5035e53-554c-43fa-adcf-00ffabdcc1e4",
+      "first_seen": "2026-10-26T15:03:12+00:00",
+      "last_seen": "2026-10-26T15:03:12+00:00",
+      "location": "Bedford, NS, Canada",
+      "posted_at": "1792972800",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Developer Intern",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196-1"
+    },
     "simplify:royal bank of canada::simplify-271bbb75-6699-403d-9363-90cbdfc87142": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-09-25T14:34:33+00:00",
@@ -44911,6 +44923,18 @@
       "posted_at": "1786924800",
       "title": "Software Developer Co-op - Quantitative Technology Services",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter-Student-Opportunities-Capital-Markets--QTS---Software-Developer--4-months_R-0000184603-2"
+    },
+    "simplify:royal bank of canada::simplify-6836e7fe-76f9-498a-b178-4bf481fd5b3e": {
+      "company": "Royal Bank of Canada",
+      "duplicate_of": "simplify:royal bank of canada::simplify-f5035e53-554c-43fa-adcf-00ffabdcc1e4",
+      "first_seen": "2026-10-26T15:03:12+00:00",
+      "last_seen": "2026-10-26T15:03:12+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1792972800",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Developer Intern",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1"
     },
     "simplify:royal bank of canada::simplify-6c668749-9b77-4c73-a3c7-e202655f53ab": {
       "company": "Royal Bank of Canada",
@@ -45093,6 +45117,16 @@
       "title": "Software Engineer Intern - Investor Services - Months",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Investor-Services--PEY-Software-Engineer--12-months-_R-0000188109"
     },
+    "simplify:royal bank of canada::simplify-c6e6dba4-9db9-41aa-9f66-54d1405af20c": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-10-26T15:03:12+00:00",
+      "last_seen": "2026-10-26T15:03:12+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Developer Intern - RBC Amplify",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1"
+    },
     "simplify:royal bank of canada::simplify-ca2a28c6-6f13-4f6e-a05e-70bbce112fde": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-08-18T06:58:11+00:00",
@@ -45149,6 +45183,18 @@
       "posted_at": "1788763063",
       "title": "Developer",
       "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2026--Toronto_R-0000140792-2"
+    },
+    "simplify:royal bank of canada::simplify-f2891e20-53eb-4249-80fc-1561322b7a7b": {
+      "company": "Royal Bank of Canada",
+      "duplicate_of": "simplify:royal bank of canada::simplify-f5035e53-554c-43fa-adcf-00ffabdcc1e4",
+      "first_seen": "2026-10-26T15:03:12+00:00",
+      "last_seen": "2026-10-26T15:03:12+00:00",
+      "location": "Calgary, AB, Canada",
+      "posted_at": "1792972800",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Developer Intern",
+      "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1"
     },
     "simplify:royal bank of canada::simplify-f5035e53-554c-43fa-adcf-00ffabdcc1e4": {
       "company": "Royal Bank of Canada",
@@ -67700,5 +67746,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T15:02:18+00:00"
+  "updated_at": "2026-10-26T15:03:20+00:00"
 }
