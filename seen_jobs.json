@@ -1,5 +1,5 @@
 {
-  "count": 7544,
+  "count": 7549,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -58416,6 +58416,16 @@
       "title": "Embedded Software Engineer Intern",
       "url": "https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors"
     },
+    "vanshb03:akuna capital::vanshb03-738d5932-714e-4521-a698-6865157d598c": {
+      "company": "Akuna Capital",
+      "first_seen": "2026-10-26T12:08:28+00:00",
+      "last_seen": "2026-10-26T12:08:28+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1791337377",
+      "source": "vanshb03",
+      "title": "Entry-Level Software Engineer Intern, C++",
+      "url": "https://go.vansh.nyc/FT"
+    },
     "vanshb03:akuna capital::vanshb03-a2a0252c-cef2-4e59-bd6c-40f63824ab65": {
       "company": "Akuna Capital",
       "first_seen": "2026-10-25T08:27:06+00:00",
@@ -58522,6 +58532,18 @@
       "title": "New Grad 2027: Software Development Engineer",
       "url": "https://go.vansh.nyc/DJ"
     },
+    "vanshb03:amazon::vanshb03-94cd3fa7-5c08-4f64-93ca-00240dbb920c": {
+      "company": "Amazon",
+      "duplicate_of": "vanshb03:amazon::vanshb03-66b9befa-cd91-4357-8e00-f0b6102e6a16",
+      "first_seen": "2026-10-26T12:08:27+00:00",
+      "last_seen": "2026-10-26T12:08:27+00:00",
+      "location": "Redmond, WA, Northridge, CA",
+      "posted_at": "1791335260",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Embedded Systems",
+      "url": "https://go.vansh.nyc/FS"
+    },
     "vanshb03:amazon::vanshb03-9df960cc-66fe-437d-ab6b-32f6e36fbbed": {
       "company": "Amazon",
       "first_seen": "2026-10-25T08:27:05+00:00",
@@ -58582,6 +58604,18 @@
       "source": "vanshb03",
       "title": "Junior Software Development Engineer Intern",
       "url": "https://go.vansh.nyc/gC"
+    },
+    "vanshb03:amazon::vanshb03-e30d4af2-e3aa-4c01-80d6-a3b93677e903": {
+      "company": "Amazon",
+      "duplicate_of": "simplify:amazon::simplify-d5c8a4f3-a150-4968-813c-20fc2c81df18",
+      "first_seen": "2026-10-26T12:08:27+00:00",
+      "last_seen": "2026-10-26T12:08:27+00:00",
+      "location": "Seattle, WA, Jessup, MD, Arlington, VA, Denver, CO",
+      "posted_at": "1790892579",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Eh"
     },
     "vanshb03:amd::vanshb03-10650a14-859e-42bd-9fa4-ac96e0758dbf": {
       "company": "AMD",
@@ -59368,6 +59402,16 @@
       "title": "Associate Software Engineer",
       "url": "https://careers.codan.com.au/job/Victoria-Associate-Software-Engineer-Cana/1213160701/"
     },
+    "vanshb03:coinbase::vanshb03-a01e8519-80ee-448b-8646-0642c029800d": {
+      "company": "Coinbase",
+      "first_seen": "2026-10-26T12:08:27+00:00",
+      "last_seen": "2026-10-26T12:08:27+00:00",
+      "location": "New York, NY",
+      "posted_at": "1791583866",
+      "source": "vanshb03",
+      "title": "Forward Deployed Engineer Intern, HR Technology",
+      "url": "https://go.vansh.nyc/Gv"
+    },
     "vanshb03:collective hub, inc::vanshb03-eaa94c8f-a590-4ae1-9915-b0947f8f89d5": {
       "company": "Collective Hub, Inc",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -59617,6 +59661,16 @@
       "source": "vanshb03",
       "title": "New Grad: Software Engineer I",
       "url": "https://careersatdoordash.com/jobs/software-engineer-i-entry-level-graduation-date-fall-2025-summer-2026/7263610/"
+    },
+    "vanshb03:doordash::vanshb03-734325f4-081e-4ff9-bb0b-0994801d8d29": {
+      "company": "DoorDash",
+      "first_seen": "2026-10-26T12:08:28+00:00",
+      "last_seen": "2026-10-26T12:08:28+00:00",
+      "location": "San Francisco, CA, Sunnyvale, CA",
+      "posted_at": "1791453827",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/G9"
     },
     "vanshb03:drs::vanshb03-50dbfbb6-86b3-4d28-8be4-8a699807d614": {
       "company": "DRS",
@@ -63369,5 +63423,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T11:49:47+00:00"
+  "updated_at": "2026-10-26T12:08:49+00:00"
 }
