@@ -1,5 +1,5 @@
 {
-  "count": 7555,
+  "count": 7563,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -58489,6 +58489,16 @@
       "title": "Software Developer Intern",
       "url": "https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/"
     },
+    "vanshb03:amazon::vanshb03-01c1a676-beec-4b44-a85b-a82949807095": {
+      "company": "Amazon",
+      "first_seen": "2026-10-26T13:45:07+00:00",
+      "last_seen": "2026-10-26T13:45:07+00:00",
+      "location": "Seattle, WA, Arlington, VA; Vancouver, Canada",
+      "posted_at": "1789693504",
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern",
+      "url": "https://go.vansh.nyc/IL"
+    },
     "vanshb03:amazon::vanshb03-17c35d70-b2fc-4725-be99-5f4707b80d62": {
       "company": "Amazon",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -58530,6 +58540,18 @@
       "source": "vanshb03",
       "title": "New Grad 2027: Software Development Engineer, Robotics",
       "url": "https://go.vansh.nyc/HB"
+    },
+    "vanshb03:amazon::vanshb03-2e0339a5-6fd8-4f57-a7e2-16fd64c81248": {
+      "company": "Amazon",
+      "duplicate_of": "vanshb03:amazon::vanshb03-01c1a676-beec-4b44-a85b-a82949807095",
+      "first_seen": "2026-10-26T13:45:07+00:00",
+      "last_seen": "2026-10-26T13:45:07+00:00",
+      "location": "Vancouver, Canada",
+      "posted_at": "1789769139",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern",
+      "url": "https://go.vansh.nyc/IN"
     },
     "vanshb03:amazon::vanshb03-5523431f-7de5-4e00-be54-8f529bcf2e50": {
       "company": "Amazon",
@@ -58897,6 +58919,16 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern, Neuro & AGI",
       "url": "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066"
+    },
+    "vanshb03:astranis::vanshb03-2d76f90c-c8c6-4848-a9ed-af84ec343da4": {
+      "company": "Astranis",
+      "first_seen": "2026-10-26T13:45:08+00:00",
+      "last_seen": "2026-10-26T13:45:08+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1790126212",
+      "source": "vanshb03",
+      "title": "Flight Software Intern",
+      "url": "https://go.vansh.nyc/Jn"
     },
     "vanshb03:atlassian::vanshb03-1133c4b4-7c0a-4f83-a978-519b8f8d0cb3": {
       "company": "Atlassian",
@@ -59370,6 +59402,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Full Stack / Backend I Co-op",
       "url": "https://go.vansh.nyc/gP"
+    },
+    "vanshb03:cisco::vanshb03-c7c838e1-7ade-44bd-b0f3-e3f209bdba70": {
+      "company": "Cisco",
+      "first_seen": "2026-10-26T13:45:08+00:00",
+      "last_seen": "2026-10-26T13:45:08+00:00",
+      "location": "Kanata, Canada, Saint-Laurent, Canada, Calgary, Canada, Toronto, Canada, Montreal, Canada, Ottawa, Canada",
+      "posted_at": "1792163979",
+      "source": "vanshb03",
+      "title": "Software Developer Embedded Systems I Co-op",
+      "url": "https://go.vansh.nyc/K6"
     },
     "vanshb03:cisco::vanshb03-e0f8d61d-374d-4b65-a6d9-046d2a8fd10c": {
       "company": "Cisco",
@@ -60008,6 +60050,16 @@
       "source": "vanshb03",
       "title": "Software Engineer - New Graduate Rotational Development Program",
       "url": "https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application"
+    },
+    "vanshb03:gemini::vanshb03-dd307d08-b142-4c53-b2b3-5297ceff917a": {
+      "company": "Gemini",
+      "first_seen": "2026-10-26T13:45:08+00:00",
+      "last_seen": "2026-10-26T13:45:08+00:00",
+      "location": "New York, NY",
+      "posted_at": "1789769377",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/IO"
     },
     "vanshb03:generac::vanshb03-1ed46c67-7fbf-4de8-9eed-16ff814391fb": {
       "company": "Generac",
@@ -61452,6 +61504,26 @@
       "source": "vanshb03",
       "title": "Display Systems Engineer Intern",
       "url": "https://qualcomm.eightfold.ai/careers/job/446721661677"
+    },
+    "vanshb03:qualcomm::vanshb03-d928325b-a04d-4a73-b1e7-abc96930168e": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-26T13:45:08+00:00",
+      "last_seen": "2026-10-26T13:45:08+00:00",
+      "location": "Markham, Canada",
+      "posted_at": "1789511031",
+      "source": "vanshb03",
+      "title": "Sensors Subsystem Engineering Intern, Multiple Teams",
+      "url": "https://go.vansh.nyc/Iw"
+    },
+    "vanshb03:qualcomm::vanshb03-f55cfd94-67dc-421f-9c91-8f046d583ed7": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-26T13:45:08+00:00",
+      "last_seen": "2026-10-26T13:45:08+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1789683780",
+      "source": "vanshb03",
+      "title": "Firmware Engineer Intern, Embedded Software Engineering, Embedded Firmware and SDK Development",
+      "url": "https://go.vansh.nyc/II"
     },
     "vanshb03:qualtrics::vanshb03-30e20599-08d5-4f27-a53d-281034abd678": {
       "company": "Qualtrics",
@@ -63098,6 +63170,16 @@
       "title": "New Grad: Full-Stack Software Engineer",
       "url": "https://www.workatastartup.com/jobs/83761"
     },
+    "vanshb03:waymo::vanshb03-c92100ab-20db-4adc-bd14-b23fa54ece5c": {
+      "company": "Waymo",
+      "first_seen": "2026-10-26T13:45:08+00:00",
+      "last_seen": "2026-10-26T13:45:08+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1789626800",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Maneuvering Tech",
+      "url": "https://go.vansh.nyc/IF"
+    },
     "vanshb03:wsp::vanshb03-65f57b05-3453-432e-8874-c22e99f13c8f": {
       "company": "WSP",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -63485,5 +63567,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T12:37:52+00:00"
+  "updated_at": "2026-10-26T13:45:55+00:00"
 }
