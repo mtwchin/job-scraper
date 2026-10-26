@@ -1,5 +1,5 @@
 {
-  "count": 7789,
+  "count": 7792,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -61803,6 +61803,26 @@
       "title": "Associate Software Developer",
       "url": "https://divergehealth.org/jobs/?gh_jid=4840575007"
     },
+    "vanshb03:docusign::vanshb03-0d839e35-71ec-4a1a-b4ff-1c8476d57733": {
+      "company": "DocuSign",
+      "first_seen": "2026-10-26T10:12:13+00:00",
+      "last_seen": "2026-10-26T10:12:13+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1792772100",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/BU"
+    },
+    "vanshb03:docusign::vanshb03-913881c8-e4c3-4cf4-9ea2-65da8adefa3c": {
+      "company": "DocuSign",
+      "first_seen": "2026-10-26T10:12:13+00:00",
+      "last_seen": "2026-10-26T10:12:13+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1792728000",
+      "source": "vanshb03",
+      "title": "AI Platform Engineer Intern",
+      "url": "https://go.vansh.nyc/BR"
+    },
     "vanshb03:doordash::vanshb03-70264109-99ca-4129-bc64-efa7eb25fa59": {
       "company": "DoorDash",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -62995,6 +63015,16 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280"
+    },
+    "vanshb03:mesh optical technologies::vanshb03-c711a765-070c-4241-884c-5aaa170a5db5": {
+      "company": "Mesh Optical Technologies",
+      "first_seen": "2026-10-26T10:12:52+00:00",
+      "last_seen": "2026-10-26T10:12:52+00:00",
+      "location": "Gardena, CA",
+      "posted_at": "1771299964",
+      "source": "vanshb03",
+      "title": "Associate Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/BQ"
     },
     "vanshb03:metrostar::vanshb03-68e6d33d-c5c9-4a4d-9d2b-acd3ee888a79": {
       "company": "MetroStar",
@@ -66217,5 +66247,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T09:07:50+00:00"
+  "updated_at": "2026-10-26T10:12:54+00:00"
 }
