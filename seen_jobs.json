@@ -1,5 +1,5 @@
 {
-  "count": 7576,
+  "count": 7580,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -58935,6 +58935,16 @@
       "title": "Software Engineering Intern, AI-Assisted Baseband Debugging Evaluation",
       "url": "https://go.vansh.nyc/D3"
     },
+    "vanshb03:applied intuition::vanshb03-62eae085-05c9-4db1-b6d0-07c5277e246a": {
+      "company": "Applied Intuition",
+      "first_seen": "2026-10-26T14:39:49+00:00",
+      "last_seen": "2026-10-26T14:39:49+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1788531870",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Cybersecurity Software Engineer",
+      "url": "https://go.vansh.nyc/O8"
+    },
     "vanshb03:aptiv::vanshb03-1b81d325-06a2-4891-a460-304950f13ec1": {
       "company": "Aptiv",
       "duplicate_of": "simplify:aptiv::simplify-35a95991-96d0-490a-a3c5-6a80496b8aa1",
@@ -59121,6 +59131,16 @@
       "source": "vanshb03",
       "title": "Early Career Software Engineer",
       "url": "https://jobs.battelle.org/us/en/job/BMIBMIUS75654EXTERNALENUS/Early-Career-Software-Engineer"
+    },
+    "vanshb03:blue origin::vanshb03-4ff9084e-3049-4b79-ac3b-b6c3a1d37727": {
+      "company": "Blue Origin",
+      "first_seen": "2026-10-26T14:39:49+00:00",
+      "last_seen": "2026-10-26T14:39:49+00:00",
+      "location": "Van Horn, TX, Space Coast, FL, Huntsville, AL, Denver, CO",
+      "posted_at": "1788272670",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Avionics / Embedded Software Engineer I",
+      "url": "https://go.vansh.nyc/O9"
     },
     "vanshb03:boston scientific::vanshb03-ff35da1b-aa4e-4040-aff2-49c84084d8b0": {
       "company": "Boston Scientific",
@@ -59857,6 +59877,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/G9"
+    },
+    "vanshb03:doordash::vanshb03-8c8cb091-680f-4421-a9b3-e0ab28829504": {
+      "company": "DoorDash",
+      "first_seen": "2026-10-26T14:39:49+00:00",
+      "last_seen": "2026-10-26T14:39:49+00:00",
+      "location": "Los Angeles, CA, New York, NY, San Francisco, CA, Sunnyvale, CA, Seattle, WA",
+      "posted_at": "1788480000",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer I",
+      "url": "https://go.vansh.nyc/Nh"
     },
     "vanshb03:drs::vanshb03-50dbfbb6-86b3-4d28-8be4-8a699807d614": {
       "company": "DRS",
@@ -62213,6 +62243,16 @@
       "title": "New Grad: Software Engineer",
       "url": "https://stripe.com/jobs/listing/software-engineer-new-grad/7210112"
     },
+    "vanshb03:stripe::vanshb03-58aa2bbe-9f50-4bc8-8682-cc07ee112036": {
+      "company": "Stripe",
+      "first_seen": "2026-10-26T14:39:48+00:00",
+      "last_seen": "2026-10-26T14:39:48+00:00",
+      "location": "San Francisco, CA, Seattle, WA, New York, NY",
+      "posted_at": "1788220800",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/No"
+    },
     "vanshb03:stripe::vanshb03-5b399554-b8eb-4165-96af-5d141cf9559c": {
       "company": "Stripe",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -63699,5 +63739,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T14:17:00+00:00"
+  "updated_at": "2026-10-26T14:40:02+00:00"
 }
