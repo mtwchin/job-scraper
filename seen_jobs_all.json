@@ -1,5 +1,5 @@
 {
-  "count": 7883,
+  "count": 7904,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -60368,6 +60368,16 @@
       "title": "Software Engineering Intern, Research Focused",
       "url": "https://www.workatastartup.com/jobs/94634"
     },
+    "vanshb03:activision blizzard::vanshb03-24f00b37-ccc2-446f-ad23-adacfd0198b6": {
+      "company": "Activision Blizzard",
+      "first_seen": "2026-10-26T14:17:24+00:00",
+      "last_seen": "2026-10-26T14:17:24+00:00",
+      "location": "Sherman Oaks, CA, Portland, OR, Santa Monica, CA",
+      "posted_at": "1788955234",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/N6"
+    },
     "vanshb03:adobe::vanshb03-2831b917-2c9f-428b-b256-37b173939f56": {
       "company": "Adobe",
       "first_seen": "2026-10-26T14:02:47+00:00",
@@ -60421,6 +60431,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/dk"
     },
+    "vanshb03:aerovironment::vanshb03-49301c30-a056-4371-b08a-f35f2f70a473": {
+      "company": "AeroVironment",
+      "first_seen": "2026-10-26T14:17:23+00:00",
+      "last_seen": "2026-10-26T14:17:23+00:00",
+      "location": "Dayton, OH, Annapolis Junction, MD, Pottstown, PA, Albuquerque, NM, Sunrise, FL, Arlington, VA, Melbourne, FL, Petaluma, CA, Centreville, VA, Lawrence, KS, Minneapolis, MN, San Luis Obispo, CA, Huntsville, AL, San Diego, CA, Moorpark, CA, Simi Valley, CA",
+      "posted_at": "1788220800",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Ly"
+    },
     "vanshb03:aerovironment::vanshb03-5e3fee69-0c50-44d6-b9ef-df56e28e2859": {
       "company": "AeroVironment",
       "duplicate_of": "vanshb03:aerovironment::vanshb03-d9d0eae0-f29d-4b86-84d4-92a3b6d705b7",
@@ -60442,6 +60462,16 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/ay"
+    },
+    "vanshb03:aerovironment::vanshb03-e24156cf-2b19-4735-9a2e-73ee82608fa7": {
+      "company": "AeroVironment",
+      "first_seen": "2026-10-26T14:17:23+00:00",
+      "last_seen": "2026-10-26T14:17:23+00:00",
+      "location": "Germantown, MD, Annapolis Junction, MD, Pottstown, PA, Albuquerque, NM, Sunrise, FL, Arlington, VA, Melbourne, FL, Petaluma, CA, Minneapolis, MN, San Luis Obispo, CA, Huntsville, AL, San Diego, CA, Moorpark, CA, Simi Valley, CA",
+      "posted_at": "1788220800",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Lz"
     },
     "vanshb03:affirm::vanshb03-1e3c4ba5-87e3-49f3-930d-ef1f99d25691": {
       "company": "Affirm",
@@ -60654,6 +60684,16 @@
       "title": "Software Development Engineer Intern",
       "url": "https://go.vansh.nyc/IN"
     },
+    "vanshb03:amazon::vanshb03-2f820aa8-a8ad-4b4c-aab3-264aebf9b625": {
+      "company": "Amazon",
+      "first_seen": "2026-10-26T14:16:27+00:00",
+      "last_seen": "2026-10-26T14:16:27+00:00",
+      "location": "Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington, VA, Bellevue, WA, Westborough, MA",
+      "posted_at": "1788483835",
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern, Robotics",
+      "url": "https://go.vansh.nyc/Mg"
+    },
     "vanshb03:amazon::vanshb03-5523431f-7de5-4e00-be54-8f529bcf2e50": {
       "company": "Amazon",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60772,6 +60812,26 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/Eh"
     },
+    "vanshb03:amazon::vanshb03-f8444049-7784-4c7d-85f9-3d692b3ec9fa": {
+      "company": "Amazon",
+      "first_seen": "2026-10-26T14:16:27+00:00",
+      "last_seen": "2026-10-26T14:16:27+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1789165466",
+      "source": "vanshb03",
+      "title": "Machine Learning Systems Software Development Engineer Intern, Annapurna Labs",
+      "url": "https://go.vansh.nyc/MP"
+    },
+    "vanshb03:amd::vanshb03-0811ecdf-edf0-453d-bc89-0cb547d87c51": {
+      "company": "AMD",
+      "first_seen": "2026-10-26T14:16:28+00:00",
+      "last_seen": "2026-10-26T14:16:28+00:00",
+      "location": "Vancouver, Canada",
+      "posted_at": "1788256546",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/LK"
+    },
     "vanshb03:amd::vanshb03-10650a14-859e-42bd-9fa4-ac96e0758dbf": {
       "company": "AMD",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60794,6 +60854,16 @@
       "title": "Software Engineer Intern",
       "url": "https://careers.amd.com/careers-home/jobs/90891"
     },
+    "vanshb03:amd::vanshb03-94e6b394-7a34-4865-8b4a-2b089d80e5f3": {
+      "company": "AMD",
+      "first_seen": "2026-10-26T14:16:28+00:00",
+      "last_seen": "2026-10-26T14:16:28+00:00",
+      "location": "Markham, Canada",
+      "posted_at": "1788256545",
+      "source": "vanshb03",
+      "title": "Graphics Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/LH"
+    },
     "vanshb03:amd::vanshb03-afac265d-dc35-498a-8bac-6a28e4faffba": {
       "company": "AMD",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60804,6 +60874,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://careers.amd.com/careers-home/jobs/90947"
+    },
+    "vanshb03:amd::vanshb03-e29ebb71-a8a4-4b92-93ca-e01b8556fdb2": {
+      "company": "AMD",
+      "first_seen": "2026-10-26T14:16:28+00:00",
+      "last_seen": "2026-10-26T14:16:28+00:00",
+      "location": "Markham, Canada",
+      "posted_at": "1788246600",
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/MZ"
     },
     "vanshb03:amd::vanshb03-f1fb259b-d4f0-4533-bff6-ab51a408a4db": {
       "company": "AMD",
@@ -61587,6 +61667,26 @@
       "title": "New Grad 2027: Forward Deployed Engineer",
       "url": "https://go.vansh.nyc/KL"
     },
+    "vanshb03:caci::vanshb03-330c18ca-9e8a-49a2-8f42-0014f6560377": {
+      "company": "CACI",
+      "first_seen": "2026-10-26T14:17:23+00:00",
+      "last_seen": "2026-10-26T14:17:23+00:00",
+      "location": "Remote, United States, Sterling, VA, Denver, CO",
+      "posted_at": "1789344000",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/MU"
+    },
+    "vanshb03:caci::vanshb03-e3b94133-78bc-428a-8d2b-d2360a018df8": {
+      "company": "CACI",
+      "first_seen": "2026-10-26T14:17:23+00:00",
+      "last_seen": "2026-10-26T14:17:23+00:00",
+      "location": "Danbury, CT",
+      "posted_at": "1788220800",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/Lu"
+    },
     "vanshb03:cae::vanshb03-643b937a-b567-4855-896d-f81bd162d8d7": {
       "company": "CAE",
       "first_seen": "2026-10-26T13:44:52+00:00",
@@ -61899,6 +61999,16 @@
       "title": "Forward Deployed Engineer Intern, HR Technology",
       "url": "https://go.vansh.nyc/Gv"
     },
+    "vanshb03:coinbase::vanshb03-d047f9fa-6b9c-4b3f-970d-e128a431912c": {
+      "company": "Coinbase",
+      "first_seen": "2026-10-26T14:16:27+00:00",
+      "last_seen": "2026-10-26T14:16:27+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1788916882",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Mw"
+    },
     "vanshb03:colgate-palmolive::vanshb03-a2d054d1-b2ed-45cc-b1ab-e49e5f38130c": {
       "company": "Colgate-Palmolive",
       "first_seen": "2026-10-21T19:00:35+00:00",
@@ -61952,6 +62062,16 @@
       "title": "New Grad 2026: Software Engineer",
       "url": "https://jobs.ashbyhq.com/Commure-Athelas/00dbfa4a-986c-4c98-a966-47874d1ff0f8"
     },
+    "vanshb03:compeer financial::vanshb03-e055ac75-21f6-4a59-a35c-8125ff1474d5": {
+      "company": "Compeer Financial",
+      "first_seen": "2026-10-26T14:17:24+00:00",
+      "last_seen": "2026-10-26T14:17:24+00:00",
+      "location": "Lakeville, MN",
+      "posted_at": "1789162621",
+      "source": "vanshb03",
+      "title": "Infrastructure Engineering Intern",
+      "url": "https://go.vansh.nyc/Nd"
+    },
     "vanshb03:costar group::vanshb03-35b0800e-6687-4526-a92e-65ddcb261792": {
       "company": "CoStar Group",
       "first_seen": "2026-10-26T12:37:52+00:00",
@@ -62002,6 +62122,16 @@
       "source": "vanshb03",
       "title": "New Grad: Software Engineer",
       "url": "https://jobs.ashbyhq.com/creditgenie/016056e0-61cd-4a19-9d42-5f3cd88fed02"
+    },
+    "vanshb03:cvent::vanshb03-c712bdc5-df3c-4678-aeed-f83b93f67d33": {
+      "company": "Cvent",
+      "first_seen": "2026-10-26T14:17:23+00:00",
+      "last_seen": "2026-10-26T14:17:23+00:00",
+      "location": "Tysons, VA",
+      "posted_at": "1788218026",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Lq"
     },
     "vanshb03:cvs health::vanshb03-03761046-05de-4fe9-8754-3ef666d42e4a": {
       "company": "CVS Health",
@@ -62110,6 +62240,16 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://careers.datadoghq.com/detail/6954161/?gh_jid=6954161"
+    },
+    "vanshb03:datadog::vanshb03-4c14782e-0e71-4d06-97cc-3bc2020cb91a": {
+      "company": "Datadog",
+      "first_seen": "2026-10-26T14:16:28+00:00",
+      "last_seen": "2026-10-26T14:16:28+00:00",
+      "location": "Boston, MA, New York, NY",
+      "posted_at": "1788905360",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Mm"
     },
     "vanshb03:dayton freight lines::vanshb03-2d4f397b-bd4f-4200-b13f-9d8321eb8495": {
       "company": "Dayton Freight Lines",
@@ -62625,6 +62765,28 @@
       "title": "Software Engineer I, Aviation Web Development",
       "url": "https://careers.garmin.com/jobs/16774"
     },
+    "vanshb03:garmin::vanshb03-8b909a3b-93fe-4129-8664-c91060bb1a47": {
+      "company": "Garmin",
+      "first_seen": "2026-10-26T14:17:23+00:00",
+      "last_seen": "2026-10-26T14:17:23+00:00",
+      "location": "Chandler, AZ; Tulsa, OK",
+      "posted_at": "1788202080",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Lo"
+    },
+    "vanshb03:garmin::vanshb03-b57a446a-891d-4602-996e-db60ec454a98": {
+      "company": "Garmin",
+      "duplicate_of": "vanshb03:garmin::vanshb03-8b909a3b-93fe-4129-8664-c91060bb1a47",
+      "first_seen": "2026-10-26T14:17:23+00:00",
+      "last_seen": "2026-10-26T14:17:23+00:00",
+      "location": "Tulsa, OK",
+      "posted_at": "1789106769",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/MO"
+    },
     "vanshb03:gecko robotics::vanshb03-1fe62028-1608-4bc3-98f3-13c95345faf1": {
       "company": "Gecko Robotics",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -63127,6 +63289,16 @@
       "source": "vanshb03",
       "title": "Software Development Engineer in Test Co-op",
       "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Software-Development-Engineer-in-Test--January---June-2027--Hybrid-_REQ-2026-18026"
+    },
+    "vanshb03:insulet corporation::vanshb03-dd278132-7eee-4d71-8807-c59ac1bf7ac9": {
+      "company": "Insulet Corporation",
+      "first_seen": "2026-10-26T14:17:23+00:00",
+      "last_seen": "2026-10-26T14:17:23+00:00",
+      "location": "Acton, MA",
+      "posted_at": "1788998400",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/MC"
     },
     "vanshb03:integrate::vanshb03-9047f5f8-60ac-4518-9160-a93ae0db177b": {
       "company": "Integrate",
@@ -63931,6 +64103,16 @@
       "source": "vanshb03",
       "title": "Full-Stack Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef?embed=true"
+    },
+    "vanshb03:northmarq::vanshb03-b09be508-fe41-4780-bd2a-0f798d0b4a76": {
+      "company": "Northmarq",
+      "first_seen": "2026-10-26T14:17:24+00:00",
+      "last_seen": "2026-10-26T14:17:24+00:00",
+      "location": "Minneapolis, MN",
+      "posted_at": "1788380490",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/N2"
     },
     "vanshb03:northrop grumman::vanshb03-42b214fe-48b1-4f78-ba30-82ec84babd47": {
       "company": "Northrop Grumman",
@@ -65526,6 +65708,16 @@
       "title": "Associate Software Engineer",
       "url": "https://jobs.smartrecruiters.com/SquareTrade1/744000045758179-associate-software-engineer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73"
     },
+    "vanshb03:stanley black & decker::vanshb03-a91c1bea-5d10-45fe-9adf-a715a602eae1": {
+      "company": "Stanley Black & Decker",
+      "first_seen": "2026-10-26T14:17:23+00:00",
+      "last_seen": "2026-10-26T14:17:23+00:00",
+      "location": "Towson, MD",
+      "posted_at": "1788220800",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://go.vansh.nyc/Lv"
+    },
     "vanshb03:starsling (x25)::vanshb03-571c24f4-2886-41dc-a3df-e41b5c15149a": {
       "company": "StarSling (X25)",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -65914,6 +66106,16 @@
       "source": "vanshb03",
       "title": "Embedded Software Engineer Intern, Multiple Teams",
       "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949"
+    },
+    "vanshb03:the toro company::vanshb03-f3a5d859-4257-470e-a640-7128dc163d82": {
+      "company": "The Toro Company",
+      "first_seen": "2026-10-26T14:17:23+00:00",
+      "last_seen": "2026-10-26T14:17:23+00:00",
+      "location": "Bloomington, MN",
+      "posted_at": "1789084800",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/MJ"
     },
     "vanshb03:thor solutions::vanshb03-8be0d853-a214-4dfe-96ae-f5c0819942b4": {
       "company": "Thor Solutions",
@@ -66706,6 +66908,16 @@
       "title": "Software Engineer Intern",
       "url": "https://www.verition.com/open-positions?gh_jid=5214784007&gh_src=za15el4f7us&t=3253f722teu"
     },
+    "vanshb03:vermeer::vanshb03-c85e9796-d07b-43aa-9688-934176295c81": {
+      "company": "Vermeer",
+      "first_seen": "2026-10-26T14:17:23+00:00",
+      "last_seen": "2026-10-26T14:17:23+00:00",
+      "location": "Pella, IA",
+      "posted_at": "1788220800",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Ls"
+    },
     "vanshb03:veterans united home loans::vanshb03-4183e8da-2ffa-428f-916c-b0b081789eff": {
       "company": "Veterans United Home Loans",
       "first_seen": "2026-10-23T16:49:10+00:00",
@@ -67222,5 +67434,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T14:04:13+00:00"
+  "updated_at": "2026-10-26T14:18:17+00:00"
 }
