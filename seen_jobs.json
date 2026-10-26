@@ -1,5 +1,5 @@
 {
-  "count": 7535,
+  "count": 7537,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -59535,6 +59535,26 @@
       "title": "Associate Software Developer",
       "url": "https://divergehealth.org/jobs/?gh_jid=4840575007"
     },
+    "vanshb03:docusign::vanshb03-0d839e35-71ec-4a1a-b4ff-1c8476d57733": {
+      "company": "DocuSign",
+      "first_seen": "2026-10-26T10:12:13+00:00",
+      "last_seen": "2026-10-26T10:12:13+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1792772100",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/BU"
+    },
+    "vanshb03:docusign::vanshb03-913881c8-e4c3-4cf4-9ea2-65da8adefa3c": {
+      "company": "DocuSign",
+      "first_seen": "2026-10-26T10:12:13+00:00",
+      "last_seen": "2026-10-26T10:12:13+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1792728000",
+      "source": "vanshb03",
+      "title": "AI Platform Engineer Intern",
+      "url": "https://go.vansh.nyc/BR"
+    },
     "vanshb03:doordash::vanshb03-70264109-99ca-4129-bc64-efa7eb25fa59": {
       "company": "DoorDash",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -63277,5 +63297,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T08:50:14+00:00"
+  "updated_at": "2026-10-26T10:12:18+00:00"
 }
