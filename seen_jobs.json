@@ -1,5 +1,5 @@
 {
-  "count": 7563,
+  "count": 7569,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -58363,6 +58363,16 @@
       "title": "Software Engineering Intern, Research Focused",
       "url": "https://www.workatastartup.com/jobs/94634"
     },
+    "vanshb03:adobe::vanshb03-2831b917-2c9f-428b-b256-37b173939f56": {
+      "company": "Adobe",
+      "first_seen": "2026-10-26T14:02:47+00:00",
+      "last_seen": "2026-10-26T14:02:47+00:00",
+      "location": "Seattle, WA, San Francisco, CA, Austin, TX, San Jose, CA, New York, NY, Lehi, UT",
+      "posted_at": "1790208000",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/L7"
+    },
     "vanshb03:adobe::vanshb03-3cd950c6-c512-41d2-ac29-0a0a91eb97f4": {
       "company": "Adobe",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -58941,6 +58951,16 @@
       "title": "New Grad 2026: Software Engineer",
       "url": "https://join.atlassian.com/atlassian-talent-community/jobs/20908?lang=en-us"
     },
+    "vanshb03:atlassian::vanshb03-83321ae2-fc46-41d5-be70-ab77cae1de26": {
+      "company": "Atlassian",
+      "first_seen": "2026-10-26T14:02:48+00:00",
+      "last_seen": "2026-10-26T14:02:48+00:00",
+      "location": "Burnaby, Canada, Vancouver, Canada, Richmond, Canada; Seattle, WA",
+      "posted_at": "1789776000",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/Ku"
+    },
     "vanshb03:atlassian::vanshb03-87cc7698-6d20-43c9-9e46-ddee5c59f02c": {
       "company": "Atlassian",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -58951,6 +58971,18 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer",
       "url": "https://careers-americas.icims.com/jobs/20901/software-engineer%252c-2026-graduate-u.s./job"
+    },
+    "vanshb03:atlassian::vanshb03-d1c2ce62-921d-471a-ab5a-f941e435021e": {
+      "company": "Atlassian",
+      "duplicate_of": "vanshb03:atlassian::vanshb03-83321ae2-fc46-41d5-be70-ab77cae1de26",
+      "first_seen": "2026-10-26T14:02:47+00:00",
+      "last_seen": "2026-10-26T14:02:47+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1789430400",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/KE"
     },
     "vanshb03:atomic semi::vanshb03-7dc12db6-b846-4319-a1f0-ce521dd0dbd5": {
       "company": "Atomic Semi",
@@ -59724,6 +59756,16 @@
       "source": "vanshb03",
       "title": "AI Platform Engineer Intern",
       "url": "https://go.vansh.nyc/BR"
+    },
+    "vanshb03:doordash::vanshb03-30db1ad6-60d1-4d8c-a71c-ec14e2488d1e": {
+      "company": "DoorDash",
+      "first_seen": "2026-10-26T14:02:48+00:00",
+      "last_seen": "2026-10-26T14:02:48+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1789862400",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/Kd"
     },
     "vanshb03:doordash::vanshb03-70264109-99ca-4129-bc64-efa7eb25fa59": {
       "company": "DoorDash",
@@ -61017,6 +61059,16 @@
       "title": "Backend Software Engineer Intern, Cooperative AI (Evals)",
       "url": "https://jobs.ashbyhq.com/openai/3d064454-c0c3-4225-bc2c-6d8c0f8735b2/application"
     },
+    "vanshb03:openai::vanshb03-b605a925-4127-48d0-b3cb-5f79c6b02aad": {
+      "company": "OpenAI",
+      "first_seen": "2026-10-26T14:02:47+00:00",
+      "last_seen": "2026-10-26T14:02:47+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1789430400",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, Applied Emerging Talent",
+      "url": "https://go.vansh.nyc/KF"
+    },
     "vanshb03:optiver::vanshb03-07823e02-de3a-4a2e-8024-cfd38554f423": {
       "company": "Optiver",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -61785,6 +61837,16 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/5U"
+    },
+    "vanshb03:scale ai::vanshb03-e2f24589-1208-4005-9f05-6ecdffd66536": {
+      "company": "Scale AI",
+      "first_seen": "2026-10-26T14:02:48+00:00",
+      "last_seen": "2026-10-26T14:02:48+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1790121600",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, Public Sector",
+      "url": "https://go.vansh.nyc/Ka"
     },
     "vanshb03:sentry::vanshb03-b562fdec-1ab1-4886-a2a1-864620b7d2d8": {
       "company": "Sentry",
@@ -63567,5 +63629,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T13:45:55+00:00"
+  "updated_at": "2026-10-26T14:02:57+00:00"
 }
