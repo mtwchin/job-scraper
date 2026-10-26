@@ -7942,7 +7942,7 @@
     "simplify:american express::simplify-d3f55aee-b4d4-43d9-b14f-49ef62f29d1f": {
       "company": "American Express",
       "first_seen": "2026-09-14T18:25:38+00:00",
-      "last_seen": "2026-10-23T00:02:39+00:00",
+      "last_seen": "2026-10-26T15:02:12+00:00",
       "posted_at": "1789394953",
       "title": "AI Engineer",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013776"
@@ -7950,7 +7950,7 @@
     "simplify:american express::simplify-da90fe45-cc1a-4111-8f00-ad0c06a730b5": {
       "company": "American Express",
       "first_seen": "2026-09-14T18:25:38+00:00",
-      "last_seen": "2026-10-23T00:02:39+00:00",
+      "last_seen": "2026-10-26T15:02:12+00:00",
       "posted_at": "1789394954",
       "title": "Software Engineer New Grad",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013783"
@@ -29589,7 +29589,7 @@
     "simplify:jabil::simplify-18d884be-500d-4ea1-8486-4edd9f37b5b7": {
       "company": "Jabil",
       "first_seen": "2026-10-14T06:34:57+00:00",
-      "last_seen": "2026-10-17T00:00:27+00:00",
+      "last_seen": "2026-10-26T15:02:12+00:00",
       "location": "Tampa, FL, St. Petersburg, FL",
       "posted_at": "1791936000",
       "source": "simplify",
@@ -67700,5 +67700,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T14:48:15+00:00"
+  "updated_at": "2026-10-26T15:02:18+00:00"
 }
