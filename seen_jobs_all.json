@@ -1,5 +1,5 @@
 {
-  "count": 8008,
+  "count": 8011,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -62450,6 +62450,16 @@
       "title": "Associate Software Engineer",
       "url": "https://careers.codan.com.au/job/Victoria-Associate-Software-Engineer-Cana/1213160701/"
     },
+    "vanshb03:cohesity::vanshb03-0d4115b1-ca44-4ed6-ab79-926c694af93c": {
+      "company": "Cohesity",
+      "first_seen": "2026-10-26T22:41:31+00:00",
+      "last_seen": "2026-10-26T22:41:31+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1793054321",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/Tc"
+    },
     "vanshb03:coinbase::vanshb03-a01e8519-80ee-448b-8646-0642c029800d": {
       "company": "Coinbase",
       "first_seen": "2026-10-26T12:08:27+00:00",
@@ -63683,6 +63693,18 @@
       "title": "Systems/Software Engineer I",
       "url": "https://go.vansh.nyc/Lg"
     },
+    "vanshb03:highmark health::vanshb03-8c03754c-bb98-4e5f-8a0c-c7a08a737f2a": {
+      "company": "Highmark Health",
+      "duplicate_of": "simplify:highmark health::simplify-58a7bc55-d2fe-4a18-8d1c-ad95595dd5fb",
+      "first_seen": "2026-10-26T22:41:31+00:00",
+      "last_seen": "2026-10-26T22:41:31+00:00",
+      "location": "Remote, United States",
+      "posted_at": "1792972800",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Provider Delivery Software Engineer Intern",
+      "url": "https://go.vansh.nyc/T8"
+    },
     "vanshb03:highmark health::vanshb03-95e28595-e7d0-4cde-93ad-3f62be4ce75f": {
       "company": "Highmark Health",
       "first_seen": "2026-10-26T18:42:12+00:00",
@@ -64243,6 +64265,18 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-UT-84116/1413790400/?ats=successfactors"
+    },
+    "vanshb03:l3harris technologies::vanshb03-0bfaefa3-e008-4766-a9ec-957fcb692f45": {
+      "company": "L3Harris Technologies",
+      "duplicate_of": "vanshb03:l3harris technologies::vanshb03-dfcc782f-ef72-431f-8cf9-d41504dcee29",
+      "first_seen": "2026-10-26T22:41:31+00:00",
+      "last_seen": "2026-10-26T22:41:31+00:00",
+      "location": "Rockwall, TX",
+      "posted_at": "1793053470",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Tb"
     },
     "vanshb03:l3harris technologies::vanshb03-64282743-9efa-42ca-9cf2-5214634b3ab1": {
       "company": "L3Harris Technologies",
@@ -68559,5 +68593,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T22:32:41+00:00"
+  "updated_at": "2026-10-26T22:41:44+00:00"
 }
