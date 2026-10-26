@@ -1,5 +1,5 @@
 {
-  "count": 7580,
+  "count": 7582,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -62695,6 +62695,16 @@
       "title": "New Grad 2026: Software Engineer Graduate (Recommendation Platform)",
       "url": "https://lifeattiktok.com/search/7536356589390301458?spread=5MWH5CQ"
     },
+    "vanshb03:tiktok::vanshb03-3efb2bbd-9139-441f-842a-cb0b656b97ec": {
+      "company": "TikTok",
+      "first_seen": "2026-10-26T14:47:47+00:00",
+      "last_seen": "2026-10-26T14:47:47+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1787704451",
+      "source": "vanshb03",
+      "title": "AI Infrastructure Engineer Intern, Recommendation & LLM",
+      "url": "https://go.vansh.nyc/Ox"
+    },
     "vanshb03:tiktok::vanshb03-41609643-f4cd-48f7-b085-dd54d1c0618f": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -63243,6 +63253,16 @@
       "title": "Software Engineer Intern",
       "url": "https://www.verition.com/open-positions?gh_jid=5214784007&gh_src=za15el4f7us&t=3253f722teu"
     },
+    "vanshb03:verkada::vanshb03-9182f910-36f9-456c-b69b-e868455546f9": {
+      "company": "Verkada",
+      "first_seen": "2026-10-26T14:47:47+00:00",
+      "last_seen": "2026-10-26T14:47:47+00:00",
+      "location": "San Mateo, CA",
+      "posted_at": "1787681642",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Ot"
+    },
     "vanshb03:viasat::vanshb03-e99e9d74-ff1a-42cd-a01e-32f38fb42973": {
       "company": "Viasat",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -63739,5 +63759,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T14:40:02+00:00"
+  "updated_at": "2026-10-26T14:48:06+00:00"
 }
