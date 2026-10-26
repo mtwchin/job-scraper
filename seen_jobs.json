@@ -1,5 +1,5 @@
 {
-  "count": 7588,
+  "count": 7603,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -59804,6 +59804,16 @@
       "title": "Forward Deployed Engineering Intern",
       "url": "https://www.workatastartup.com/jobs/94211"
     },
+    "vanshb03:disney::vanshb03-1c99b896-2442-4516-91f0-d43e043e3609": {
+      "company": "Disney",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "Glendale, CA, San Francisco, CA, New York, NY",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Product & Technology Software Engineering Intern",
+      "url": "https://go.vansh.nyc/R3"
+    },
     "vanshb03:disney::vanshb03-2119d1b9-d3e3-4295-80c0-db8711168fa4": {
       "company": "Disney",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60690,6 +60700,16 @@
       "title": "Software Engineering Intern",
       "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-UT-84116/1413790400/?ats=successfactors"
     },
+    "vanshb03:lockheed martin::vanshb03-e3253f6e-43c9-4222-b07c-0ea2b474046c": {
+      "company": "Lockheed Martin",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "Calgary, Canada",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Software Development Co-op, Technical I",
+      "url": "https://go.vansh.nyc/Rj"
+    },
     "vanshb03:lyft::vanshb03-1b07aa70-502b-4d79-a50d-87e9fac7d55b": {
       "company": "Lyft",
       "first_seen": "2026-10-26T15:29:47+00:00",
@@ -60731,6 +60751,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Backend",
       "url": "https://go.vansh.nyc/Qp"
+    },
+    "vanshb03:lyft::vanshb03-84e98a74-4945-4ef6-93c7-2a0dc54bf485": {
+      "company": "Lyft",
+      "first_seen": "2026-10-26T16:38:07+00:00",
+      "last_seen": "2026-10-26T16:38:07+00:00",
+      "location": "Montreal, Canada",
+      "posted_at": "1792449816",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Test Automation",
+      "url": "https://go.vansh.nyc/RT"
     },
     "vanshb03:lyft::vanshb03-b1fb4428-6ebb-49cb-b5fb-326bf423731f": {
       "company": "Lyft",
@@ -61061,6 +61091,26 @@
       "title": "Full-Stack Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef?embed=true"
     },
+    "vanshb03:neuralink::vanshb03-4c2c614e-2c43-4b56-8fe1-b4c714504ae5": {
+      "company": "Neuralink",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "Austin, TX, South San Francisco, CA",
+      "posted_at": "1790299101",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern, Implant Embedded Systems",
+      "url": "https://go.vansh.nyc/QF"
+    },
+    "vanshb03:neuralink::vanshb03-90d6dfbc-2504-4b10-bc4f-c132ebc1a623": {
+      "company": "Neuralink",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "Austin, TX, South San Francisco, CA",
+      "posted_at": "1790299101",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, BCI Applications",
+      "url": "https://go.vansh.nyc/QG"
+    },
     "vanshb03:northrop grumman::vanshb03-a935273f-f0e0-441b-9b94-b853e1ab2f5a": {
       "company": "Northrop Grumman",
       "first_seen": "2026-10-20T22:29:43+00:00",
@@ -61190,6 +61240,16 @@
       "source": "vanshb03",
       "title": "Software Engineer I",
       "url": "https://www.okta.com/company/careers/product/software-engineer-i-7169515/"
+    },
+    "vanshb03:old mission::vanshb03-aa7f58d3-79d8-4b5d-b5ec-fd8487ae8ee3": {
+      "company": "Old Mission",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1784137513",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/QB"
     },
     "vanshb03:old mission::vanshb03-bbec8687-ddae-4138-96f6-090c3b2c156b": {
       "company": "Old Mission",
@@ -61529,6 +61589,16 @@
       "title": "New Grad: Software Engineer",
       "url": "https://paypal.eightfold.ai/careers/job/274908696559"
     },
+    "vanshb03:pdt partners::vanshb03-375e3b9b-74f3-476b-923e-4c6cb11d3f03": {
+      "company": "PDT Partners",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "New York, NY",
+      "posted_at": "1791388328",
+      "source": "vanshb03",
+      "title": "Systems Engineering Intern",
+      "url": "https://go.vansh.nyc/QK"
+    },
     "vanshb03:pdt partners::vanshb03-a2f1a704-2ce0-4f89-abbb-6a783383b1fa": {
       "company": "PDT Partners",
       "first_seen": "2026-10-25T08:27:06+00:00",
@@ -61711,6 +61781,16 @@
       "title": "Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05"
     },
+    "vanshb03:qualcomm::vanshb03-0db390cb-1b3f-4deb-94f8-e98d97aa2bc3": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "San Diego, CA, Austin, TX, Boxborough, MA, United States, Tempe, AZ, Irvine, CA, Louisville, KY, New York, NY",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/Rs"
+    },
     "vanshb03:qualcomm::vanshb03-2a848b71-f695-44eb-bffc-cb912a1636cf": {
       "company": "Qualcomm",
       "first_seen": "2026-10-22T02:34:25+00:00",
@@ -61720,6 +61800,36 @@
       "source": "vanshb03",
       "title": "Display Systems Engineer Intern",
       "url": "https://qualcomm.eightfold.ai/careers/job/446721661677"
+    },
+    "vanshb03:qualcomm::vanshb03-52fa71d2-bcac-4ab2-8547-f1ec2c6fd39d": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "Markham, Canada",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Low-Power AI, Audio, and Sensors Subsystem Engineering Intern, ASIC Firmware / Embedded",
+      "url": "https://go.vansh.nyc/Rx"
+    },
+    "vanshb03:qualcomm::vanshb03-6c043c23-b592-469b-831f-d181df43b721": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "Markham, Canada",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Low Power AI Software Development Intern",
+      "url": "https://go.vansh.nyc/Rz"
+    },
+    "vanshb03:qualcomm::vanshb03-cb917838-14b3-4ab3-bbcd-48e8f8087b88": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-10-26T16:38:06+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Firmware/Embedded Software Engineering Intern",
+      "url": "https://go.vansh.nyc/Ry"
     },
     "vanshb03:qualcomm::vanshb03-d928325b-a04d-4a73-b1e7-abc96930168e": {
       "company": "Qualcomm",
@@ -62876,6 +62986,16 @@
       "title": "New Grad 2027: Backend Engineer, Social Foundation",
       "url": "https://go.vansh.nyc/Dw"
     },
+    "vanshb03:tiktok::vanshb03-65a2d1eb-ff41-4ede-b92c-8cf266a78fa5": {
+      "company": "TikTok",
+      "first_seen": "2026-10-26T16:38:07+00:00",
+      "last_seen": "2026-10-26T16:38:07+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Software Development Engineer in Test Intern, Testing",
+      "url": "https://go.vansh.nyc/RO"
+    },
     "vanshb03:tiktok::vanshb03-674663b1-3c0d-45e8-816f-092f68f04b64": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -62983,6 +63103,18 @@
       "title": "New Grad 2026: Software Engineer (Ads ML Infrastructure)",
       "url": "https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ"
     },
+    "vanshb03:tiktok::vanshb03-a6a71817-77ac-47c6-8106-e59371cde542": {
+      "company": "TikTok",
+      "duplicate_of": "vanshb03:tiktok::vanshb03-ffe0a043-7948-43c1-a3b4-3f5d314df447",
+      "first_seen": "2026-10-26T16:38:05+00:00",
+      "last_seen": "2026-10-26T16:38:05+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1792339604",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation",
+      "url": "https://go.vansh.nyc/RQ"
+    },
     "vanshb03:tiktok::vanshb03-abda1495-311a-45b6-aad7-1d3d86bf1c6e": {
       "company": "TikTok",
       "first_seen": "2026-10-25T08:27:06+00:00",
@@ -63002,6 +63134,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Code Graph and Quality Validation",
       "url": "https://go.vansh.nyc/6m"
+    },
+    "vanshb03:tiktok::vanshb03-b6dd0990-6d38-4fb6-bd07-5a279bc3f6b7": {
+      "company": "TikTok",
+      "first_seen": "2026-10-26T16:38:07+00:00",
+      "last_seen": "2026-10-26T16:38:07+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Security Software Engineer Project Intern, Product Security",
+      "url": "https://go.vansh.nyc/RN"
     },
     "vanshb03:tiktok::vanshb03-b900c985-c9fe-40dc-b5ad-1d57fdcc4033": {
       "company": "TikTok",
@@ -63163,6 +63305,16 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer Graduate Search",
       "url": "https://lifeattiktok.com/search/7532627070011771154?spread=5MWH5CQ"
+    },
+    "vanshb03:tiktok::vanshb03-ffe0a043-7948-43c1-a3b4-3f5d314df447": {
+      "company": "TikTok",
+      "first_seen": "2026-10-26T16:38:07+00:00",
+      "last_seen": "2026-10-26T16:38:07+00:00",
+      "location": "San Jose, CA; Seattle, WA",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation",
+      "url": "https://go.vansh.nyc/RP"
     },
     "vanshb03:touchdown labs::vanshb03-5732d286-04e4-4a23-ad7d-d43b2e516f92": {
       "company": "Touchdown Labs",
@@ -63823,5 +63975,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T15:30:12+00:00"
+  "updated_at": "2026-10-26T16:38:45+00:00"
 }
