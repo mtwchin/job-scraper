@@ -1,5 +1,5 @@
 {
-  "count": 7904,
+  "count": 7906,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -45027,6 +45027,18 @@
       "title": "Java Full Stack Developer New Grad",
       "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MISSISSAUGA-Ontario-Canada/Java-Full-Stack-Developer--New-Grad-_R-0000184142"
     },
+    "simplify:royal bank of canada::simplify-b8178344-d11e-4dee-a05e-320016075d4b": {
+      "company": "Royal Bank of Canada",
+      "duplicate_of": "simplify:royal bank of canada::simplify-f5035e53-554c-43fa-adcf-00ffabdcc1e4",
+      "first_seen": "2026-10-26T14:33:52+00:00",
+      "last_seen": "2026-10-26T14:33:52+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1792972800",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Developer Intern",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199-2"
+    },
     "simplify:royal bank of canada::simplify-bc3404d7-8d9b-4760-8a4e-c6cd8497ce62": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-08-24T21:04:28+00:00",
@@ -45137,6 +45149,16 @@
       "posted_at": "1788763063",
       "title": "Developer",
       "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2026--Toronto_R-0000140792-2"
+    },
+    "simplify:royal bank of canada::simplify-f5035e53-554c-43fa-adcf-00ffabdcc1e4": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-10-26T14:33:52+00:00",
+      "last_seen": "2026-10-26T14:33:52+00:00",
+      "location": "Halifax Regional Municipality, NS, Canada; Vancouver, BC, Canada",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Developer Intern",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196"
     },
     "simplify:royal bank of canada::simplify-f5caa061-d2b7-4386-84d3-c0621e03aa18": {
       "company": "Royal Bank of Canada",
@@ -67434,5 +67456,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T14:18:17+00:00"
+  "updated_at": "2026-10-26T14:34:19+00:00"
 }
