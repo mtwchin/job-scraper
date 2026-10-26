@@ -1,5 +1,5 @@
 {
-  "count": 7583,
+  "count": 7588,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -60690,6 +60690,60 @@
       "title": "Software Engineering Intern",
       "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-UT-84116/1413790400/?ats=successfactors"
     },
+    "vanshb03:lyft::vanshb03-1b07aa70-502b-4d79-a50d-87e9fac7d55b": {
+      "company": "Lyft",
+      "first_seen": "2026-10-26T15:29:47+00:00",
+      "last_seen": "2026-10-26T15:29:47+00:00",
+      "location": "San Francisco, CA; Montreal, Canada; Toronto, Canada",
+      "posted_at": "1789164508",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Backend",
+      "url": "https://go.vansh.nyc/Qm"
+    },
+    "vanshb03:lyft::vanshb03-2b0a5d6e-0d6f-4755-875e-0d0302b894fb": {
+      "company": "Lyft",
+      "first_seen": "2026-10-26T15:29:47+00:00",
+      "last_seen": "2026-10-26T15:29:47+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1789164508",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Fullstack",
+      "url": "https://go.vansh.nyc/Qq"
+    },
+    "vanshb03:lyft::vanshb03-30b23fed-ca38-4e65-9bf0-e26afb8f01ef": {
+      "company": "Lyft",
+      "first_seen": "2026-10-26T15:29:47+00:00",
+      "last_seen": "2026-10-26T15:29:47+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1789164508",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Machine Learning",
+      "url": "https://go.vansh.nyc/Qo"
+    },
+    "vanshb03:lyft::vanshb03-6de55455-b178-4e23-8fda-c540611bf634": {
+      "company": "Lyft",
+      "duplicate_of": "vanshb03:lyft::vanshb03-1b07aa70-502b-4d79-a50d-87e9fac7d55b",
+      "first_seen": "2026-10-26T15:29:47+00:00",
+      "last_seen": "2026-10-26T15:29:47+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1789164508",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Backend",
+      "url": "https://go.vansh.nyc/Qp"
+    },
+    "vanshb03:lyft::vanshb03-b1fb4428-6ebb-49cb-b5fb-326bf423731f": {
+      "company": "Lyft",
+      "duplicate_of": "vanshb03:lyft::vanshb03-1b07aa70-502b-4d79-a50d-87e9fac7d55b",
+      "first_seen": "2026-10-26T15:29:47+00:00",
+      "last_seen": "2026-10-26T15:29:47+00:00",
+      "location": "Montreal, Canada",
+      "posted_at": "1789164508",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Backend",
+      "url": "https://go.vansh.nyc/Qn"
+    },
     "vanshb03:magical::vanshb03-21105f1e-b540-44e8-9c66-152d8c5ec185": {
       "company": "Magical",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -63769,5 +63823,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T15:04:10+00:00"
+  "updated_at": "2026-10-26T15:30:12+00:00"
 }
