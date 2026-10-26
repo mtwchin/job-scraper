@@ -1,5 +1,5 @@
 {
-  "count": 8011,
+  "count": 8027,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -9544,7 +9544,7 @@
     "simplify:aquatic capital management::simplify-d54312d4-b724-4f31-8edc-89a45c0f4ef5": {
       "company": "Aquatic Capital Management",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-09-23T00:03:42+00:00",
+      "last_seen": "2026-10-26T23:02:32+00:00",
       "posted_at": "1775081547",
       "title": "Software Engineer \u2013 Early Career",
       "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489226002"
@@ -12435,6 +12435,18 @@
       "title": "Systems Engineer Intern",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361"
     },
+    "simplify:booz allen::simplify-21c18eb8-3afc-47cf-8cb6-7ee1838386b5": {
+      "company": "Booz Allen",
+      "duplicate_of": "simplify:booz allen::simplify-8ebd0a44-2e7c-4174-adf7-a6c4c147af85",
+      "first_seen": "2026-10-26T23:02:32+00:00",
+      "last_seen": "2026-10-26T23:02:32+00:00",
+      "location": "Albuquerque, NM",
+      "posted_at": "1792972800",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games-Software-Developer-Intern---Albuquerque--NM_R0252335"
+    },
     "simplify:booz allen::simplify-28f1943a-a3c5-499b-bb1d-b54d5dcca2d5": {
       "company": "Booz Allen",
       "first_seen": "2026-10-06T23:36:53+00:00",
@@ -12525,6 +12537,28 @@
       "title": "Software Engineer - University",
       "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246655"
     },
+    "simplify:booz allen::simplify-5b845bf6-dc2f-44da-bb1c-afb5cf727cde": {
+      "company": "Booz Allen",
+      "first_seen": "2026-10-26T23:02:33+00:00",
+      "last_seen": "2026-10-26T23:02:33+00:00",
+      "location": "Detroit, MI",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Systems Engineer Intern - Summer Games",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games--Systems-Engineer-Intern---Royal-Oaks--MI_R0252341"
+    },
+    "simplify:booz allen::simplify-5f3ee0c2-89e2-4e7a-a6f4-0dfa76336d4d": {
+      "company": "Booz Allen",
+      "duplicate_of": "simplify:booz allen::simplify-f1276b45-1dc3-4ceb-8560-5b4741b33a8b",
+      "first_seen": "2026-10-26T23:02:32+00:00",
+      "last_seen": "2026-10-26T23:02:32+00:00",
+      "location": "Dayton, OH",
+      "posted_at": "1792972800",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Systems Engineer Intern",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games--Systems-Engineer-Intern---Dayton--OH_R0252342"
+    },
     "simplify:booz allen::simplify-5ff0125a-88d7-4029-9ba8-57b94f426ff8": {
       "company": "Booz Allen",
       "first_seen": "2026-10-06T23:03:27+00:00",
@@ -12601,6 +12635,16 @@
       "title": "Systems Engineer Intern - University",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386"
     },
+    "simplify:booz allen::simplify-765cf08e-bec4-4b7c-b810-b06b2b3d4040": {
+      "company": "Booz Allen",
+      "first_seen": "2026-10-26T23:02:33+00:00",
+      "last_seen": "2026-10-26T23:02:33+00:00",
+      "location": "Dayton, OH",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Software Developer Intern - University - Summer Games",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345"
+    },
     "simplify:booz allen::simplify-7cef83de-ff10-493e-abfb-9def6ada06d0": {
       "company": "Booz Allen",
       "first_seen": "2026-08-29T02:50:35+00:00",
@@ -12658,6 +12702,16 @@
       "title": "Software Developer",
       "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0247713"
     },
+    "simplify:booz allen::simplify-8c2d4fa4-d2b6-4ca2-bf92-4bbd38e700d1": {
+      "company": "Booz Allen",
+      "first_seen": "2026-10-26T23:02:33+00:00",
+      "last_seen": "2026-10-26T23:02:33+00:00",
+      "location": "Lexington, MA",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Summer Games Systems Engineer Intern",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273"
+    },
     "simplify:booz allen::simplify-8c3babb7-dcbc-4c5e-af7a-a879eae188ea": {
       "company": "Booz Allen",
       "first_seen": "2026-10-01T00:31:32+00:00",
@@ -12667,6 +12721,16 @@
       "source": "simplify",
       "title": "Product Engineer Intern",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Product-Engineering-Intern_R0250655"
+    },
+    "simplify:booz allen::simplify-8ebd0a44-2e7c-4174-adf7-a6c4c147af85": {
+      "company": "Booz Allen",
+      "first_seen": "2026-10-26T23:02:33+00:00",
+      "last_seen": "2026-10-26T23:02:33+00:00",
+      "location": "Lexington, MA; Albuquerque, NM",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Software-Developer-Intern---Lexington--MA_R0252274"
     },
     "simplify:booz allen::simplify-901d71ff-ed64-4848-95e0-094ad0610036": {
       "company": "Booz Allen",
@@ -12733,6 +12797,16 @@
       "posted_at": "1788912000",
       "title": "Quantum Computing Research Intern",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046"
+    },
+    "simplify:booz allen::simplify-c033b014-3543-4799-8be7-042be636bc14": {
+      "company": "Booz Allen",
+      "first_seen": "2026-10-26T23:02:33+00:00",
+      "last_seen": "2026-10-26T23:02:33+00:00",
+      "location": "Detroit, MI",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Summer Games Software Developer Intern",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games-Software-Developer-Intern---Royal-Oaks--MI_R0252340"
     },
     "simplify:booz allen::simplify-c067fe94-7764-4b4b-b95a-74df217fe320": {
       "company": "Booz Allen",
@@ -12839,6 +12913,16 @@
       "source": "simplify",
       "title": "Technologist Intern",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University--2026-Fall-Technologist-Intern_R0249246"
+    },
+    "simplify:booz allen::simplify-f1276b45-1dc3-4ceb-8560-5b4741b33a8b": {
+      "company": "Booz Allen",
+      "first_seen": "2026-10-26T23:02:33+00:00",
+      "last_seen": "2026-10-26T23:02:33+00:00",
+      "location": "Albuquerque, NM; Dayton, OH",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Systems Engineer Intern",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Albuquerque-NM/University---2027-Summer-Games--Systems-Engineer-Intern---Albuquerque--NM_R0252337"
     },
     "simplify:booz allen::simplify-f4091e7b-71a6-466b-a7f3-aab344fe1f9a": {
       "company": "Booz Allen",
@@ -15722,7 +15806,7 @@
     "simplify:cencora::simplify-71efbec5-7a6e-44ef-996e-13ceb6d0df55": {
       "company": "Cencora",
       "first_seen": "2026-09-25T23:20:49+00:00",
-      "last_seen": "2026-10-10T00:01:09+00:00",
+      "last_seen": "2026-10-26T23:02:32+00:00",
       "location": "Conshohocken, PA",
       "posted_at": "1790294400",
       "source": "simplify",
@@ -17330,6 +17414,16 @@
       "posted_at": "1786406400",
       "title": "Software Engineer New Grad",
       "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineer_R01282"
+    },
+    "simplify:cohesity::simplify-b3b5266a-b857-4999-8c6f-daa45fa2c9e6": {
+      "company": "Cohesity",
+      "first_seen": "2026-10-26T23:02:33+00:00",
+      "last_seen": "2026-10-26T23:02:33+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2"
     },
     "simplify:coinbase::simplify-52c6c00b-0538-4eae-ba83-7a32198496a7": {
       "company": "Coinbase",
@@ -22149,6 +22243,16 @@
       "source": "simplify",
       "title": "Summer Analyst: Global Technology Intern",
       "url": "https://evercore.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/2/opp/3263-2028-Summer-Analyst-Program-Global-Technology-New-York/en-GB"
+    },
+    "simplify:everfox::simplify-2f49a679-e4b5-41e5-9ff7-7c3cf645c769": {
+      "company": "Everfox",
+      "first_seen": "2026-10-26T23:02:34+00:00",
+      "last_seen": "2026-10-26T23:02:34+00:00",
+      "location": "Richardson, TX",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/USA_TX_Richardson/Software-Engineer-I_JR500927"
     },
     "simplify:everfox::simplify-5b51e676-8b92-4a35-a771-c5e6ce70e43c": {
       "company": "Everfox",
@@ -33835,6 +33939,16 @@
       "title": "Software Engineer Intern",
       "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/91780"
     },
+    "simplify:madhive::simplify-f5c56e74-6403-4a4b-9708-7ec43edb0886": {
+      "company": "Madhive",
+      "first_seen": "2026-10-26T23:02:34+00:00",
+      "last_seen": "2026-10-26T23:02:34+00:00",
+      "location": "NYC",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Software Engineer - Financial Systems",
+      "url": "https://jobs.ashbyhq.com/madhive/b95e6485-c017-49a0-a966-61f68404279c/application?embed=true"
+    },
     "simplify:magna::simplify-14d33eac-9588-4ef2-aad6-4f65465e5bc0": {
       "company": "Magna",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -42567,6 +42681,16 @@
       "title": "IT Customer Experience Technologies Intern",
       "url": "https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/IT-Customer-Experience-Technologies-Intern_R6829"
     },
+    "simplify:prologis::simplify-a4d2115d-636b-42dc-8297-226ab9dd27c5": {
+      "company": "Prologis",
+      "first_seen": "2026-10-26T23:02:33+00:00",
+      "last_seen": "2026-10-26T23:02:33+00:00",
+      "location": "Denver, CO",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "AI and Automation Intern",
+      "url": "https://prologis.wd5.myworkdayjobs.com/Prologis_External_Careers/job/Denver-Colorado/AI-and-Automation--IT--Intern_R6883"
+    },
     "simplify:pronexus::simplify-7ededa5d-af4b-4f9d-80ae-9e03985190e9": {
       "company": "ProNexus",
       "first_seen": "2026-08-08T02:09:23+00:00",
@@ -49556,6 +49680,30 @@
       "title": "Software Developer Intern - Back End",
       "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern--January-2026-12-months-_R10549"
     },
+    "simplify:soti::simplify-6c04df75-8087-4664-add0-7b57b5836154": {
+      "company": "SOTI",
+      "duplicate_of": "vanshb03:soti::vanshb03-919309b0-7029-4ac7-abae-b97ce5677802",
+      "first_seen": "2026-10-26T23:02:32+00:00",
+      "last_seen": "2026-10-26T23:02:32+00:00",
+      "location": "Mississauga, ON, Canada",
+      "posted_at": "1792972800",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Developer Intern - Android",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Android--May-2027---12-Months-_R10620"
+    },
+    "simplify:soti::simplify-8ac418d6-3fee-416d-8394-e104b7e5e798": {
+      "company": "SOTI",
+      "duplicate_of": "vanshb03:soti::vanshb03-1605f560-b8fd-4dd2-ae91-6111f9c9ce84",
+      "first_seen": "2026-10-26T23:02:32+00:00",
+      "last_seen": "2026-10-26T23:02:32+00:00",
+      "location": "Mississauga, ON, Canada",
+      "posted_at": "1792972800",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Developer Intern - Server",
+      "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---Server--May-2027---12-Months-_R10647"
+    },
     "simplify:soti::simplify-d9fe6653-450b-49d8-95c7-a83d1250932c": {
       "company": "SOTI",
       "first_seen": "2026-10-01T00:31:32+00:00",
@@ -49665,6 +49813,16 @@
       "posted_at": "1788238419",
       "title": "Software Engineer",
       "url": "https://spacedynamicslaboratory.applytojob.com/apply/bpQKRcIwMJ/Software-Engineer"
+    },
+    "simplify:space dynamics laboratory::simplify-7f872990-d646-4fec-801c-59fd426c8202": {
+      "company": "Space Dynamics Laboratory",
+      "first_seen": "2026-10-26T23:02:33+00:00",
+      "last_seen": "2026-10-26T23:02:33+00:00",
+      "location": "Logan, UT",
+      "posted_at": "1793054616",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://spacedynamicslaboratory.applytojob.com/apply/Xb4whC202X/Student-Software-Engineer"
     },
     "simplify:space dynamics laboratory::simplify-9402b8bf-beb0-4608-8f7a-2ffde99dd0b2": {
       "company": "Space Dynamics Laboratory",
@@ -51083,6 +51241,16 @@
       "source": "simplify",
       "title": "Junior Analytics and Automation Developer Student - Winter 2027",
       "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/North-York-Ontario/Student--Jr-Analytics-and-Automation-Developer--Winter-2027-_JR00127514"
+    },
+    "simplify:sun life::simplify-e5c5bd51-aad4-46ef-a77b-0dd49bee8594": {
+      "company": "Sun Life",
+      "first_seen": "2026-10-26T23:02:33+00:00",
+      "last_seen": "2026-10-26T23:02:33+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Software Engineer Co-op - Security",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Software-Engineer---Security--Winter-2027-_JR00129065"
     },
     "simplify:sunbird software inc.::simplify-5ffc89cf-42df-49a7-bd5c-59a9a9d50f7c": {
       "company": "Sunbird Software Inc.",
@@ -68593,5 +68761,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T22:41:44+00:00"
+  "updated_at": "2026-10-26T23:02:47+00:00"
 }
