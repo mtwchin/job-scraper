@@ -1,5 +1,5 @@
 {
-  "count": 7534,
+  "count": 7535,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -60592,6 +60592,16 @@
       "title": "Member of Technical Staff Intern",
       "url": "https://ats.rippling.com/en-GB/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866"
     },
+    "vanshb03:netflix::vanshb03-16487a19-f2e5-490f-807c-237754ee0577": {
+      "company": "Netflix",
+      "first_seen": "2026-10-26T08:50:13+00:00",
+      "last_seen": "2026-10-26T08:50:13+00:00",
+      "location": "Los Gatos, CA",
+      "posted_at": "1792472995",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/BN"
+    },
     "vanshb03:netic::vanshb03-380a517f-7ba1-4690-8922-d3ca051358f2": {
       "company": "Netic",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -63267,5 +63277,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T01:37:54+00:00"
+  "updated_at": "2026-10-26T08:50:14+00:00"
 }
