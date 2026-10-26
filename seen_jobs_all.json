@@ -1,5 +1,5 @@
 {
-  "count": 7922,
+  "count": 7930,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -60431,6 +60431,16 @@
       "title": "New Grad 2027: RPO Software Developer/Analyst (Master's)",
       "url": "https://go.vansh.nyc/Ln"
     },
+    "vanshb03:aerospace corporation::vanshb03-2e3a3590-da0a-4580-81bf-8dc3ebf06889": {
+      "company": "Aerospace Corporation",
+      "first_seen": "2026-10-26T14:48:12+00:00",
+      "last_seen": "2026-10-26T14:48:12+00:00",
+      "location": "United States",
+      "posted_at": "1787943014",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/OP"
+    },
     "vanshb03:aerospace::vanshb03-dbd51e85-4c88-47f1-9c02-b8a99f5115d8": {
       "company": "Aerospace",
       "first_seen": "2026-10-26T14:03:25+00:00",
@@ -61505,6 +61515,16 @@
       "title": "Associate Flight Test Data Processing Software Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/en-US/tap2/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420-2"
     },
+    "vanshb03:booz allen hamilton::vanshb03-702d1faa-d613-4a9e-bb2a-22362f0f7faf": {
+      "company": "Booz Allen Hamilton",
+      "first_seen": "2026-10-26T14:48:12+00:00",
+      "last_seen": "2026-10-26T14:48:12+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1787788800",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/Oy"
+    },
     "vanshb03:booz allen::vanshb03-89f1a01e-06f6-4e04-8f8b-7c42e1ada118": {
       "company": "Booz Allen",
       "first_seen": "2026-10-23T05:20:27+00:00",
@@ -61738,6 +61758,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/MU"
+    },
+    "vanshb03:caci::vanshb03-8228caeb-818c-413b-a67b-22aefe7b85b9": {
+      "company": "CACI",
+      "first_seen": "2026-10-26T14:48:12+00:00",
+      "last_seen": "2026-10-26T14:48:12+00:00",
+      "location": "Danbury, CT",
+      "posted_at": "1788134400",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/OE"
     },
     "vanshb03:caci::vanshb03-e3b94133-78bc-428a-8d2b-d2360a018df8": {
       "company": "CACI",
@@ -62750,6 +62780,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16"
     },
+    "vanshb03:fab2::vanshb03-855e82b4-84ec-4205-8af2-715d9fa32d21": {
+      "company": "fab2",
+      "first_seen": "2026-10-26T14:48:12+00:00",
+      "last_seen": "2026-10-26T14:48:12+00:00",
+      "location": "San Francisco, CA, Austin, TX",
+      "posted_at": "1787886883",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/OC"
+    },
     "vanshb03:fab2::vanshb03-9de235b1-0b40-4547-be8b-8ccc3d64cec5": {
       "company": "fab2",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -62878,6 +62918,18 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/MO"
+    },
+    "vanshb03:garmin::vanshb03-c7f7a590-bcb7-4a3f-996c-060d3e533d33": {
+      "company": "Garmin",
+      "duplicate_of": "vanshb03:garmin::vanshb03-8b909a3b-93fe-4129-8664-c91060bb1a47",
+      "first_seen": "2026-10-26T14:48:11+00:00",
+      "last_seen": "2026-10-26T14:48:11+00:00",
+      "location": "Olathe, KS",
+      "posted_at": "1787602171",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Oq"
     },
     "vanshb03:gecko robotics::vanshb03-1fe62028-1608-4bc3-98f3-13c95345faf1": {
       "company": "Gecko Robotics",
@@ -64107,6 +64159,16 @@
       "source": "vanshb03",
       "title": "Junior Software Engineer, AI Agent Platform",
       "url": "https://go.vansh.nyc/HF"
+    },
+    "vanshb03:msa safety::vanshb03-37848f53-5db5-465d-a498-f63b7f3864be": {
+      "company": "MSA Safety",
+      "first_seen": "2026-10-26T14:48:12+00:00",
+      "last_seen": "2026-10-26T14:48:12+00:00",
+      "location": "Cranberry Township, PA",
+      "posted_at": "1787603300",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Product Development",
+      "url": "https://go.vansh.nyc/Or"
     },
     "vanshb03:multiply labs::vanshb03-37710137-3678-4c75-b476-022f9c8fd20c": {
       "company": "Multiply Labs",
@@ -66450,6 +66512,16 @@
       "title": "New Grad 2026: Software Engineer Graduate (Recommendation Platform)",
       "url": "https://lifeattiktok.com/search/7536356589390301458?spread=5MWH5CQ"
     },
+    "vanshb03:tiktok::vanshb03-3efb2bbd-9139-441f-842a-cb0b656b97ec": {
+      "company": "TikTok",
+      "first_seen": "2026-10-26T14:47:47+00:00",
+      "last_seen": "2026-10-26T14:47:47+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1787704451",
+      "source": "vanshb03",
+      "title": "AI Infrastructure Engineer Intern, Recommendation & LLM",
+      "url": "https://go.vansh.nyc/Ox"
+    },
     "vanshb03:tiktok::vanshb03-41609643-f4cd-48f7-b085-dd54d1c0618f": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -67070,6 +67142,16 @@
       "title": "Software Engineer Intern",
       "url": "https://www.verition.com/open-positions?gh_jid=5214784007&gh_src=za15el4f7us&t=3253f722teu"
     },
+    "vanshb03:verkada::vanshb03-9182f910-36f9-456c-b69b-e868455546f9": {
+      "company": "Verkada",
+      "first_seen": "2026-10-26T14:47:47+00:00",
+      "last_seen": "2026-10-26T14:47:47+00:00",
+      "location": "San Mateo, CA",
+      "posted_at": "1787681642",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Ot"
+    },
     "vanshb03:vermeer::vanshb03-c85e9796-d07b-43aa-9688-934176295c81": {
       "company": "Vermeer",
       "first_seen": "2026-10-26T14:17:23+00:00",
@@ -67618,5 +67700,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T14:40:12+00:00"
+  "updated_at": "2026-10-26T14:48:15+00:00"
 }
