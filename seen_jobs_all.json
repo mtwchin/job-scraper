@@ -1,5 +1,5 @@
 {
-  "count": 7953,
+  "count": 7966,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -61539,6 +61539,16 @@
       "title": "Software Engineer Intern, DIADS",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3814718"
     },
+    "vanshb03:awetomaton::vanshb03-fad6835b-f4db-412f-8fc3-696e1587490b": {
+      "company": "Awetomaton",
+      "first_seen": "2026-10-26T16:38:11+00:00",
+      "last_seen": "2026-10-26T16:38:11+00:00",
+      "location": "Beavercreek, OH",
+      "posted_at": "1788375183",
+      "source": "vanshb03",
+      "title": "Platform Engineering Intern",
+      "url": "https://go.vansh.nyc/QC"
+    },
     "vanshb03:bae systems::vanshb03-78d451b7-7d85-4d58-a03f-5254f0620fac": {
       "company": "BAE Systems",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -61549,6 +61559,16 @@
       "source": "vanshb03",
       "title": "Junior Software Engineer",
       "url": "https://jobs.baesystems.com/global/en/job/BAE1US115338BREXTERNAL/Junior-Software-Engineer"
+    },
+    "vanshb03:barkback::vanshb03-316729a4-dea8-482d-a0c6-c41fb9ca2c91": {
+      "company": "Barkback",
+      "first_seen": "2026-10-26T16:38:11+00:00",
+      "last_seen": "2026-10-26T16:38:11+00:00",
+      "location": "Santa Barbara, CA",
+      "posted_at": "1458840313",
+      "source": "vanshb03",
+      "title": "Software Intern",
+      "url": "https://go.vansh.nyc/Qv"
     },
     "vanshb03:battelle::vanshb03-7dccad6a-25e0-4448-bbf8-efe61702482c": {
       "company": "Battelle",
@@ -63173,6 +63193,16 @@
       "title": "Embedded and Systems Engineering Intern, Digital Product",
       "url": "https://go.vansh.nyc/IS"
     },
+    "vanshb03:ginkgo bioworks::vanshb03-ce9656eb-4e3b-436a-8380-cd0fdee2e0bd": {
+      "company": "Ginkgo Bioworks",
+      "first_seen": "2026-10-26T16:38:11+00:00",
+      "last_seen": "2026-10-26T16:38:11+00:00",
+      "location": "Emeryville, CA",
+      "posted_at": "1775047150",
+      "source": "vanshb03",
+      "title": "Software Intern, Autonomous Lab",
+      "url": "https://go.vansh.nyc/Qz"
+    },
     "vanshb03:global lending services::vanshb03-4fd767fe-30b1-4774-a9e4-5b4047b8e3ed": {
       "company": "Global Lending Services",
       "first_seen": "2026-10-26T15:04:12+00:00",
@@ -63736,6 +63766,16 @@
       "title": "New Grad 2027: Software Developer, Engagement Optimization",
       "url": "https://go.vansh.nyc/Nv"
     },
+    "vanshb03:johns hopkins applied physics laboratory::vanshb03-b2275fba-67e9-48c3-afba-698281a1f40e": {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "first_seen": "2026-10-26T16:38:11+00:00",
+      "last_seen": "2026-10-26T16:38:11+00:00",
+      "location": "Laurel, MD",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Algorithm, Software, or RF Systems Engineering Intern",
+      "url": "https://go.vansh.nyc/Rb"
+    },
     "vanshb03:johns hopkins applied physics laboratory::vanshb03-d8fbffdc-6552-44a3-85b8-a6b84d1047c0": {
       "company": "Johns Hopkins Applied Physics Laboratory",
       "first_seen": "2026-10-26T14:40:11+00:00",
@@ -63819,6 +63859,16 @@
       "title": "R&D Software Engineer Intern",
       "url": "https://jobs.keysight.com/jobs/54673?icims=1"
     },
+    "vanshb03:keysight technologies::vanshb03-64a42a30-e583-4ea4-a97a-4cd7a4436dd3": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-10-26T16:38:11+00:00",
+      "last_seen": "2026-10-26T16:38:11+00:00",
+      "location": "Austin, TX, Raleigh, NC",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Engineering Software Developer Intern",
+      "url": "https://go.vansh.nyc/Rg"
+    },
     "vanshb03:keysight technologies::vanshb03-6998ff1c-2b98-401b-a28d-5257df1f6ed3": {
       "company": "Keysight Technologies",
       "first_seen": "2026-10-21T00:20:12+00:00",
@@ -63828,6 +63878,36 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, R&D",
       "url": "https://jobs.keysight.com/jobs/54805?icims=1"
+    },
+    "vanshb03:keysight technologies::vanshb03-a3eae3ac-0d20-4294-9bcb-937429fa78ef": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-10-26T16:38:11+00:00",
+      "last_seen": "2026-10-26T16:38:11+00:00",
+      "location": "Colorado Springs, CO",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "R&D Embedded Software Intern",
+      "url": "https://go.vansh.nyc/Rd"
+    },
+    "vanshb03:keysight technologies::vanshb03-cb0bf4bd-be07-456f-bf00-feb3cdee4f88": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-10-26T16:38:11+00:00",
+      "last_seen": "2026-10-26T16:38:11+00:00",
+      "location": "Santa Rosa, CA, San Diego, CA",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "R&D Software Engineer QA DevOps Intern",
+      "url": "https://go.vansh.nyc/Re"
+    },
+    "vanshb03:keysight technologies::vanshb03-eb40a025-afeb-4c3c-a006-bdd0762f0a66": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-10-26T16:38:11+00:00",
+      "last_seen": "2026-10-26T16:38:11+00:00",
+      "location": "Calabasas, CA",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/Rh"
     },
     "vanshb03:kinaxis::vanshb03-ae53df3b-4b77-4718-b4bd-3abf9574f34b": {
       "company": "Kinaxis",
@@ -63925,6 +64005,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Intern,-Software-Engineer-(Salt-Lake-City,-UT)-UT-84116/1418569700/?ats=successfactors"
     },
+    "vanshb03:laxir::vanshb03-9ddf62fd-eb47-42c5-af16-9185af95629f": {
+      "company": "LAXIR",
+      "first_seen": "2026-10-26T16:38:11+00:00",
+      "last_seen": "2026-10-26T16:38:11+00:00",
+      "location": "Remote, United States",
+      "posted_at": "1655849138",
+      "source": "vanshb03",
+      "title": "Junior Full-Stack Engineer Intern",
+      "url": "https://go.vansh.nyc/Qx"
+    },
     "vanshb03:lexisnexis risk solutions::vanshb03-b053221b-3653-47b9-ad68-f0548f4668f3": {
       "company": "LexisNexis Risk Solutions",
       "first_seen": "2026-10-26T14:40:11+00:00",
@@ -63976,6 +64066,16 @@
       "source": "vanshb03",
       "title": "Member of Technical Staff Intern",
       "url": "https://go.vansh.nyc/hy"
+    },
+    "vanshb03:lpl financial holdings::vanshb03-f38bf2ff-8142-4e54-96cd-21f7888b6643": {
+      "company": "LPL Financial Holdings",
+      "first_seen": "2026-10-26T16:38:11+00:00",
+      "last_seen": "2026-10-26T16:38:11+00:00",
+      "location": "Fort Mill, SC, Charlotte, NC, Austin, TX",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Platform Engineer Intern",
+      "url": "https://go.vansh.nyc/QR"
     },
     "vanshb03:lumentum::vanshb03-66671d23-c5dc-4878-b87a-7fedbba12a5a": {
       "company": "Lumentum",
@@ -64178,6 +64278,16 @@
       "source": "vanshb03",
       "title": "Software Engineer 1",
       "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1329771000/?ats=successfactors"
+    },
+    "vanshb03:mda::vanshb03-1bd2e5a0-b273-4ea9-8e0e-383482dbb5c1": {
+      "company": "MDA",
+      "first_seen": "2026-10-26T16:38:12+00:00",
+      "last_seen": "2026-10-26T16:38:12+00:00",
+      "location": "Brampton, Canada",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/Rk"
     },
     "vanshb03:mechanize::vanshb03-a188bb26-6383-4bee-ac14-122c83b89a47": {
       "company": "Mechanize",
@@ -65621,6 +65731,26 @@
       "source": "vanshb03",
       "title": "Software Engineer Co-op, Embedded Software",
       "url": "https://go.vansh.nyc/ER"
+    },
+    "vanshb03:rivian::vanshb03-df3ca5c0-0b8b-4742-ba39-3013194951fb": {
+      "company": "Rivian",
+      "first_seen": "2026-10-26T16:38:12+00:00",
+      "last_seen": "2026-10-26T16:38:12+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op, Embedded Software",
+      "url": "https://go.vansh.nyc/RI"
+    },
+    "vanshb03:rivian::vanshb03-e7b94e78-6142-4d45-809d-14a50b5cb070": {
+      "company": "Rivian",
+      "first_seen": "2026-10-26T16:38:12+00:00",
+      "last_seen": "2026-10-26T16:38:12+00:00",
+      "location": "Palo Alto, CA, Irvine, CA, Plymouth, MI, Atlanta, GA, Normal, IL",
+      "posted_at": "1792339604",
+      "source": "vanshb03",
+      "title": "Computer Vision Software Intern",
+      "url": "https://go.vansh.nyc/RL"
     },
     "vanshb03:robert bosch llc::vanshb03-e7805292-5034-4597-ae35-8d01de630c0c": {
       "company": "Robert Bosch LLC",
@@ -67942,5 +68072,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T16:11:29+00:00"
+  "updated_at": "2026-10-26T16:38:32+00:00"
 }
