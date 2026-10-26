@@ -1,5 +1,5 @@
 {
-  "count": 7989,
+  "count": 7991,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -63460,6 +63460,16 @@
       "title": "Systems/Software Engineer I",
       "url": "https://go.vansh.nyc/Lg"
     },
+    "vanshb03:highmark health::vanshb03-95e28595-e7d0-4cde-93ad-3f62be4ce75f": {
+      "company": "Highmark Health",
+      "first_seen": "2026-10-26T18:42:12+00:00",
+      "last_seen": "2026-10-26T18:42:12+00:00",
+      "location": "Remote, United States",
+      "posted_at": "1793038924",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/SR"
+    },
     "vanshb03:hitachi::vanshb03-84fa22cf-b7dd-4905-9539-70e99b3dbe06": {
       "company": "Hitachi",
       "first_seen": "2026-10-21T19:33:33+00:00",
@@ -64747,6 +64757,16 @@
       "source": "vanshb03",
       "title": "Systems Engineering Intern, AI Experience",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
+    },
+    "vanshb03:northrop grumman::vanshb03-89bca250-ab21-474c-b928-0ef143615731": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-26T18:42:12+00:00",
+      "last_seen": "2026-10-26T18:42:12+00:00",
+      "location": "Beavercreek, OH",
+      "posted_at": "1793038864",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/ST"
     },
     "vanshb03:northrop grumman::vanshb03-a935273f-f0e0-441b-9b94-b853e1ab2f5a": {
       "company": "Northrop Grumman",
@@ -68304,5 +68324,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T16:58:35+00:00"
+  "updated_at": "2026-10-26T18:42:38+00:00"
 }
