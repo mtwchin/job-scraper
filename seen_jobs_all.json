@@ -1,5 +1,5 @@
 {
-  "count": 7786,
+  "count": 7787,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -22069,6 +22069,16 @@
       "posted_at": "1788224292",
       "title": "Software Engineer 1",
       "url": "https://job-boards.greenhouse.io/everlaw/jobs/4705236006"
+    },
+    "simplify:evolent::simplify-7fb4df11-724b-4388-80ba-7b185189f957": {
+      "company": "Evolent",
+      "first_seen": "2026-10-26T06:31:34+00:00",
+      "last_seen": "2026-10-26T06:31:34+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-916896"
     },
     "simplify:evolver::simplify-e4a31c6e-717d-4b5a-89d8-666c552afe34": {
       "company": "Evolver",
@@ -66178,5 +66188,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T03:37:32+00:00"
+  "updated_at": "2026-10-26T06:31:38+00:00"
 }
