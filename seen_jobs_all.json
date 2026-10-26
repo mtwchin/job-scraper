@@ -1,5 +1,5 @@
 {
-  "count": 7996,
+  "count": 8008,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -225,6 +225,15 @@
       "source": "simplify",
       "title": "Innovation Engineer",
       "url": "https://apply.workable.com/avalore/j/EF492F2BE9/apply"
+    },
+    "simplify:banner health::simplify-eceab729-cafc-4a8d-95ac-7fd4870c459a": {
+      "attempted_at": "2026-10-26T22:32:03+00:00",
+      "company": "Banner Health",
+      "location": "Arizona",
+      "posted_at": "1792368000",
+      "source": "simplify",
+      "title": "DevOps Engineer 1",
+      "url": "https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/DevOps-Engineer-II_R4457524"
     },
     "simplify:bc pensions::simplify-666bef1d-25fc-49ac-aca6-45ccfc8c86ff": {
       "attempted_at": "2026-10-16T02:04:47+00:00",
@@ -496,6 +505,15 @@
       "title": "Software Engineer",
       "url": "https://boards.greenhouse.io/embed/job_app?token=7981990"
     },
+    "simplify:fortinet::simplify-1f07993a-5e6f-4e09-8236-942da5e6d9e3": {
+      "attempted_at": "2026-10-26T22:32:03+00:00",
+      "company": "Fortinet",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1793053316",
+      "source": "simplify",
+      "title": "Early Careers: Software Development Engineer",
+      "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24770"
+    },
     "simplify:fortinet::simplify-4d3bf7a0-d637-4f21-8c80-06621d2022bf": {
       "attempted_at": "2026-10-20T09:02:33+00:00",
       "company": "Fortinet",
@@ -585,6 +603,15 @@
       "source": "simplify",
       "title": "ETDP Associate - Software Engineering",
       "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/ETDP-Associate---Software-Engineering_J288020"
+    },
+    "simplify:hntb::simplify-6f937a47-ff54-4faf-8f75-633200d09722": {
+      "attempted_at": "2026-10-26T22:32:03+00:00",
+      "company": "HNTB",
+      "location": "Tampa, FL, Tallahassee, FL",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Software Engineer 1 New Grad",
+      "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Returning-New-Grad-Software-Engineer-I--For-Current-Previous-HNTB-Interns-ONLY-_R-32175"
     },
     "simplify:humana::simplify-434274bf-c21e-42e0-9be3-e519740dc6b7": {
       "attempted_at": "2026-10-20T23:03:04+00:00",
@@ -712,6 +739,15 @@
       "title": "Ground Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007"
     },
+    "simplify:nordstrom::simplify-5007661b-0a06-4e51-948f-229c882124ea": {
+      "attempted_at": "2026-10-26T22:32:03+00:00",
+      "company": "Nordstrom",
+      "location": "Seattle, WA",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Engineer 1 - POS+",
+      "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1--POS---Hybrid---Seattle--WA-_R-891900"
+    },
     "simplify:nvidia::simplify-d848615a-0d50-478c-a92e-2dda9489542c": {
       "attempted_at": "2026-10-21T01:36:38+00:00",
       "company": "NVIDIA",
@@ -801,6 +837,15 @@
       "source": "simplify",
       "title": "Systems Engineer 1",
       "url": "https://simventions.jibeapply.com/jobs/1626?icims=1"
+    },
+    "simplify:t-mobile::simplify-dffcfc23-8cbd-490a-8145-fcefb06961ad": {
+      "attempted_at": "2026-10-26T22:32:03+00:00",
+      "company": "T-Mobile",
+      "location": "Frisco, TX, Atlanta, GA, Overland Park, KS",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Associate Software Engineer: Billing Platform",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Software-Engineer--Billing-Platform_REQ375195-1"
     },
     "simplify:techinsights::simplify-d66f9778-04a8-4c2b-ab69-50d0282f8f9e": {
       "attempted_at": "2026-10-15T22:33:21+00:00",
@@ -10857,7 +10902,7 @@
     "simplify:aveva::simplify-2500e2f7-e88f-499d-aa0c-99fcc6697cb0": {
       "company": "AVEVA",
       "first_seen": "2026-10-13T22:34:18+00:00",
-      "last_seen": "2026-10-17T00:00:27+00:00",
+      "last_seen": "2026-10-26T22:32:03+00:00",
       "location": "Lake Forest, CA, Scottsdale, AZ",
       "posted_at": "1791849600",
       "source": "simplify",
@@ -12917,7 +12962,7 @@
     "simplify:boston scientific::simplify-532045a4-58bc-4fef-8105-cae7f1bdcccc": {
       "company": "Boston Scientific",
       "first_seen": "2026-10-06T07:02:28+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-10-26T22:32:32+00:00",
       "location": "Maple Grove, MN",
       "posted_at": "1791267692",
       "source": "simplify",
@@ -12943,6 +12988,16 @@
       "source": "simplify",
       "title": "AI Software Development Intern",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813600585"
+    },
+    "simplify:boston scientific::simplify-b65c767b-a542-408b-8821-3378b57afe82": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-10-26T22:32:33+00:00",
+      "last_seen": "2026-10-26T22:32:33+00:00",
+      "location": "Arden Hills, MN",
+      "posted_at": "1793053284",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Graduates",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813600558"
     },
     "simplify:boston scientific::simplify-b785f9ef-f9c9-4d16-aae2-973ad2a1b2dc": {
       "company": "Boston Scientific",
@@ -26744,6 +26799,16 @@
       "title": "Football Tracking Systems Operator - Remote Operations Centre",
       "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/8dda0b7b-5e67-450b-b281-76aa9949f460/application?embed=true"
     },
+    "simplify:hcsc::simplify-0608b7e5-7ebb-48ff-84fb-1f261025e8f3": {
+      "company": "HCSC",
+      "first_seen": "2026-10-26T22:32:33+00:00",
+      "last_seen": "2026-10-26T22:32:33+00:00",
+      "location": "Chicago, IL, Richardson, TX",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Product Engineer Intern",
+      "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Product-Engineering-Developer-Intern_R0059492"
+    },
     "simplify:hcsc::simplify-19c1720c-cfad-48e9-a226-cf3675ab78d2": {
       "company": "HCSC",
       "first_seen": "2026-10-17T22:33:06+00:00",
@@ -27213,6 +27278,58 @@
       "title": "Early Career Product Engineer",
       "url": "https://jobs.ashbyhq.com/highlightai/dd8526be-514c-46a5-98be-b068b10b4cbb/application?embed=true"
     },
+    "simplify:highmark health::simplify-0e75cae4-e315-4886-9c81-87bc9f671a74": {
+      "company": "Highmark Health",
+      "first_seen": "2026-10-26T22:32:33+00:00",
+      "last_seen": "2026-10-26T22:32:33+00:00",
+      "location": "New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Software Engineer Graduate Intern",
+      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Graduate-Intern_J289845"
+    },
+    "simplify:highmark health::simplify-26adecaa-1b1b-48c4-bb1e-931f72e03f7d": {
+      "company": "Highmark Health",
+      "first_seen": "2026-10-26T22:32:33+00:00",
+      "last_seen": "2026-10-26T22:32:33+00:00",
+      "location": "New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Applied Gen AI/Data Scientist Graduate Intern",
+      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007"
+    },
+    "simplify:highmark health::simplify-58a7bc55-d2fe-4a18-8d1c-ad95595dd5fb": {
+      "company": "Highmark Health",
+      "first_seen": "2026-10-26T22:32:33+00:00",
+      "last_seen": "2026-10-26T22:32:33+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Provider Delivery Software Engineer Intern",
+      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Provider-Delivery-Software-Engineer-enGen-Undergraduate-Intern_J290026"
+    },
+    "simplify:highmark health::simplify-aac08f60-5598-4676-9fbd-0bb81e77da07": {
+      "company": "Highmark Health",
+      "first_seen": "2026-10-26T22:32:33+00:00",
+      "last_seen": "2026-10-26T22:32:33+00:00",
+      "location": "Pennsylvania",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Software Engineer Undergraduate Intern",
+      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J290027"
+    },
+    "simplify:highmark health::simplify-c653bbbf-b416-4571-bf39-8208f6011a49": {
+      "company": "Highmark Health",
+      "duplicate_of": "vanshb03:highmark health::vanshb03-95e28595-e7d0-4cde-93ad-3f62be4ce75f",
+      "first_seen": "2026-10-26T22:32:33+00:00",
+      "last_seen": "2026-10-26T22:32:33+00:00",
+      "location": "Pennsylvania",
+      "posted_at": "1792972800",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812"
+    },
     "simplify:highradius::simplify-dd00b6e1-6bbb-4984-b566-e04475a1c181": {
       "company": "HighRadius",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -27315,6 +27432,16 @@
       "posted_at": "1783404633",
       "title": "Software Analyst Intern",
       "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Software-Analyst-Intern--Fall-2026--8-months-_R1013034-1"
+    },
+    "simplify:hive financial systems::simplify-40788700-c5a9-4875-9193-d098f17dbbd8": {
+      "company": "Hive Financial Systems",
+      "first_seen": "2026-10-26T22:32:33+00:00",
+      "last_seen": "2026-10-26T22:32:33+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1793026080",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274887007"
     },
     "simplify:hmh::simplify-40461c7f-fc5e-4ce9-b353-ec4eb4746300": {
       "company": "HMH",
@@ -27902,7 +28029,7 @@
     "simplify:icf international::simplify-75efacf7-58e1-468e-9621-e23a1444acdf": {
       "company": "ICF International",
       "first_seen": "2026-09-07T12:23:58+00:00",
-      "last_seen": "2026-09-26T00:00:26+00:00",
+      "last_seen": "2026-10-26T22:32:32+00:00",
       "posted_at": "1788739200",
       "title": "Software Developer Intern",
       "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002"
@@ -36389,7 +36516,7 @@
     "simplify:motorola::simplify-f611f1d0-d34a-4790-828f-5c7a4839aaf8": {
       "company": "Motorola",
       "first_seen": "2026-09-29T23:06:26+00:00",
-      "last_seen": "2026-10-07T00:00:57+00:00",
+      "last_seen": "2026-10-26T22:32:03+00:00",
       "location": "Gatineau, QC, Canada, Ottawa, ON, Canada",
       "posted_at": "1790640000",
       "source": "simplify",
@@ -37198,6 +37325,16 @@
       "title": "Forward Deployed Engineer - Data Integration",
       "url": "https://job-boards.greenhouse.io/nexla/jobs/4746760005"
     },
+    "simplify:nexstar::simplify-799f65e2-6d08-4494-8cd4-9c90e93a80e7": {
+      "company": "Nexstar",
+      "first_seen": "2026-10-26T22:32:33+00:00",
+      "last_seen": "2026-10-26T22:32:33+00:00",
+      "location": "Tampa, FL",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Programming Intern",
+      "url": "https://nexstar.wd5.myworkdayjobs.com/nexstar/job/FL-Tampa/Unpaid-Programming-Intern_REQ-43464"
+    },
     "simplify:nextgen federal systems::simplify-d557630f-831a-471f-a70b-deeebe4ca3a6": {
       "company": "NextGen Federal Systems",
       "first_seen": "2026-07-14T22:33:53+00:00",
@@ -37863,7 +38000,7 @@
     "simplify:northrop grumman::simplify-220ebe6a-b4c3-4df9-ae47-b15716b1b0b3": {
       "company": "Northrop Grumman",
       "first_seen": "2026-10-13T22:34:17+00:00",
-      "last_seen": "2026-10-14T00:00:26+00:00",
+      "last_seen": "2026-10-26T22:32:03+00:00",
       "location": "Redondo Beach, CA",
       "posted_at": "1791849600",
       "source": "simplify",
@@ -37879,6 +38016,16 @@
       "source": "simplify",
       "title": "Software Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer--Level-1-2-_R10248373"
+    },
+    "simplify:northrop grumman::simplify-24acfe0f-88f2-4bb9-886e-3ea454518e2c": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-26T22:32:33+00:00",
+      "last_seen": "2026-10-26T22:32:33+00:00",
+      "location": "Beavercreek, OH",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656"
     },
     "simplify:northrop grumman::simplify-25d93b12-6922-48cc-8b99-aa6d6786667a": {
       "company": "Northrop Grumman",
@@ -40788,6 +40935,16 @@
       "posted_at": "1777500545",
       "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/PAR%20Technology/da5217c9-9b0e-493a-847e-96028574d107/application"
+    },
+    "simplify:parallel systems::simplify-e0b676c6-f972-4b70-b4f3-86b7670865aa": {
+      "company": "Parallel Systems",
+      "first_seen": "2026-10-26T22:32:33+00:00",
+      "last_seen": "2026-10-26T22:32:33+00:00",
+      "location": "LA",
+      "posted_at": "1793051232",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Multiple Teams",
+      "url": "https://boards.greenhouse.io/parallel/jobs/5275690007"
     },
     "simplify:parallel systems::simplify-e52a13ce-a653-4971-8d74-8ac2a350f68f": {
       "company": "Parallel Systems",
@@ -44961,6 +45118,18 @@
       "title": "AI Applications Intern - Group Risk Management",
       "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--MCCR-Policy-AI-Applications-Intern--4-Months-_R-0000184696"
     },
+    "simplify:royal bank of canada::simplify-77f5b473-6971-4b74-a041-cbcc533d9a33": {
+      "company": "Royal Bank of Canada",
+      "duplicate_of": "simplify:royal bank of canada::simplify-f5035e53-554c-43fa-adcf-00ffabdcc1e4",
+      "first_seen": "2026-10-26T22:32:33+00:00",
+      "last_seen": "2026-10-26T22:32:33+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1792972800",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Developer Intern",
+      "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206"
+    },
     "simplify:royal bank of canada::simplify-7a902c4a-8678-47af-ae5c-cb8f2d0b9e6f": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-09-07T12:23:58+00:00",
@@ -46777,7 +46946,7 @@
     "simplify:rtx::simplify-d6b959d0-3774-41d6-bc89-d62b84ca38bf": {
       "company": "RTX",
       "first_seen": "2026-10-20T14:34:02+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-10-26T22:32:32+00:00",
       "location": "Richardson, TX; Aurora, CO",
       "posted_at": "1792454400",
       "source": "simplify",
@@ -48884,7 +49053,7 @@
     "simplify:singlestore::simplify-3e6f921b-67f9-4456-8fb9-b304590094b6": {
       "company": "SingleStore",
       "first_seen": "2026-09-14T20:34:50+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-10-26T22:32:32+00:00",
       "location": "United States",
       "posted_at": "1789416471",
       "source": "simplify",
@@ -53257,6 +53426,7 @@
     "simplify:the boeing company::simplify-01a98038-5e8b-421a-9505-1e936c4c1648": {
       "company": "The Boeing Company",
       "first_seen": "2026-07-29T03:35:09+00:00",
+      "last_seen": "2026-10-26T22:32:03+00:00",
       "posted_at": "1785196800",
       "title": "Entry-Level Software Engineer-Developers",
       "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/Entry-level-Software-Engineer-Developers_JR2026518452"
@@ -55413,7 +55583,7 @@
     "simplify:toyota::simplify-cc7c4f99-00f9-44a9-9e51-dc2f9d993851": {
       "company": "Toyota",
       "first_seen": "2026-09-19T03:50:34+00:00",
-      "last_seen": "2026-09-25T00:00:09+00:00",
+      "last_seen": "2026-10-26T22:32:03+00:00",
       "location": "Plano, TX",
       "posted_at": "1789689600",
       "source": "simplify",
@@ -68389,5 +68559,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T20:42:37+00:00"
+  "updated_at": "2026-10-26T22:32:41+00:00"
 }
