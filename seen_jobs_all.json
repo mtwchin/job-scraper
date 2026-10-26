@@ -1,5 +1,5 @@
 {
-  "count": 7792,
+  "count": 7799,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -937,6 +937,15 @@
       "title": "Frontend Software Engineer Intern - Summer 2027",
       "url": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd"
     },
+    "vanshb03:anysignal::vanshb03-586815ae-6642-4b03-a441-26311c0416e6": {
+      "attempted_at": "2026-10-26T11:49:23+00:00",
+      "company": "AnySignal",
+      "location": "Los Angeles, CA",
+      "posted_at": "1792236191",
+      "source": "vanshb03",
+      "title": "Associate Embedded Software Engineer",
+      "url": "https://go.vansh.nyc/DD"
+    },
     "vanshb03:asml::vanshb03-283cf569-3546-4109-a0d9-cdf0228b2851": {
       "attempted_at": "2026-10-23T17:25:09+00:00",
       "company": "ASML",
@@ -955,6 +964,15 @@
       "title": "Software Engineering Intern",
       "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543"
     },
+    "vanshb03:figure::vanshb03-358ae923-bc8c-4090-911b-14df17f50011": {
+      "attempted_at": "2026-10-26T11:49:23+00:00",
+      "company": "Figure",
+      "location": "San Jose, CA",
+      "posted_at": "1792017153",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern, Platform",
+      "url": "https://go.vansh.nyc/Cq"
+    },
     "vanshb03:kla::vanshb03-9aff637f-ed10-42d2-b06e-cbebb43ccbcd": {
       "attempted_at": "2026-10-23T17:25:09+00:00",
       "company": "KLA",
@@ -964,6 +982,15 @@
       "title": "Software Engineering Intern, AI/ML for Diagnostics & Calibration",
       "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1"
     },
+    "vanshb03:lseg::vanshb03-eee61953-269c-48e4-94bc-ea397eee3291": {
+      "attempted_at": "2026-10-26T11:49:23+00:00",
+      "company": "LSEG",
+      "location": "New York, NY",
+      "posted_at": "1791936000",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Ce"
+    },
     "vanshb03:nokia::vanshb03-f836bbc6-c2e3-4eba-9fba-d04811cf032f": {
       "attempted_at": "2026-10-23T17:25:09+00:00",
       "company": "Nokia",
@@ -972,6 +999,15 @@
       "source": "vanshb03",
       "title": "Network Systems Engineer Co-op",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41672"
+    },
+    "vanshb03:ptc::vanshb03-f950fe69-464d-4071-899c-553816100c9c": {
+      "attempted_at": "2026-10-26T11:49:23+00:00",
+      "company": "PTC",
+      "location": "Boston, MA",
+      "posted_at": "1793012955",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/CS"
     },
     "vanshb03:rivian and volkswagen group technologies::vanshb03-c4bcc390-2e9e-4a1d-b1d8-02c8f170e9a5": {
       "attempted_at": "2026-10-23T17:25:09+00:00",
@@ -999,6 +1035,15 @@
       "source": "vanshb03",
       "title": "Software Developer Intern, SOTI MobiControl Apple HQ",
       "url": "https://soti.wd3.myworkdayjobs.com/en-US/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2"
+    },
+    "vanshb03:wolverine trading::vanshb03-33731457-31e2-43b6-9c75-cfdadc3f8ffb": {
+      "attempted_at": "2026-10-26T11:49:23+00:00",
+      "company": "Wolverine Trading",
+      "location": "Chicago, IL",
+      "posted_at": "1791976991",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Entry Level C++ Software Engineer",
+      "url": "https://go.vansh.nyc/DH"
     },
     "ziprecruiter::8127108": {
       "attempted_at": "2026-09-24T16:22:51+00:00",
@@ -60358,6 +60403,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/ay"
     },
+    "vanshb03:affirm::vanshb03-d1a4e0b1-cbb1-4046-90d5-c7945e8bfea3": {
+      "company": "Affirm",
+      "first_seen": "2026-10-26T10:15:13+00:00",
+      "last_seen": "2026-10-26T10:15:13+00:00",
+      "location": "Remote",
+      "posted_at": "1791794592",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer I, Instruments",
+      "url": "https://go.vansh.nyc/BX"
+    },
     "vanshb03:aflac::vanshb03-f7314607-a633-4e02-a83f-a9c060b540f5": {
       "company": "Aflac",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60515,6 +60570,18 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Embedded Systems",
       "url": "https://go.vansh.nyc/gE"
+    },
+    "vanshb03:amazon::vanshb03-7b288fbb-c762-4f61-8c43-8019d867213c": {
+      "company": "Amazon",
+      "duplicate_of": "vanshb03:amazon::vanshb03-c67980a2-a76b-4d85-bf82-7d24f5963882",
+      "first_seen": "2026-10-26T11:48:47+00:00",
+      "last_seen": "2026-10-26T11:48:47+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1792368000",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer",
+      "url": "https://go.vansh.nyc/DJ"
     },
     "vanshb03:amazon::vanshb03-9df960cc-66fe-437d-ab6b-32f6e36fbbed": {
       "company": "Amazon",
@@ -60728,6 +60795,16 @@
       "title": "New Grad 2027: Software Engineer",
       "url": "https://careers.appian.com/jobs/8041241-software-engineer--2027-graduates-"
     },
+    "vanshb03:apple::vanshb03-0e4ca12b-f42d-4f4b-9c21-6c993650f361": {
+      "company": "Apple",
+      "first_seen": "2026-10-26T11:48:47+00:00",
+      "last_seen": "2026-10-26T11:48:47+00:00",
+      "location": "United States",
+      "posted_at": "1792680536",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, On-Demand Agent Provisioning in Cellular Test",
+      "url": "https://go.vansh.nyc/Dc"
+    },
     "vanshb03:apple::vanshb03-327cf819-c7a4-4249-a175-28aba3d98638": {
       "company": "Apple",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60748,6 +60825,16 @@
       "source": "vanshb03",
       "title": "SoC Machine Learning Software Engineer Intern",
       "url": "https://jobs.apple.com/en-us/details/200689488"
+    },
+    "vanshb03:apple::vanshb03-6fe1052d-2f74-4956-bac6-b60766e9082a": {
+      "company": "Apple",
+      "first_seen": "2026-10-26T11:48:47+00:00",
+      "last_seen": "2026-10-26T11:48:47+00:00",
+      "location": "United States",
+      "posted_at": "1792459481",
+      "source": "vanshb03",
+      "title": "Aeon Modeling Software Intern",
+      "url": "https://go.vansh.nyc/D1"
     },
     "vanshb03:apple::vanshb03-ae6d2c02-2b2d-4a2b-a803-c4cd9eb0032a": {
       "company": "Apple",
@@ -60770,6 +60857,16 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern, Masters",
       "url": "https://jobs.apple.com/en-us/details/200664320/software-engineering-masters-internships"
+    },
+    "vanshb03:apple::vanshb03-d408bb8e-16e7-4f5a-b8cb-0c5ed6d24725": {
+      "company": "Apple",
+      "first_seen": "2026-10-26T11:48:47+00:00",
+      "last_seen": "2026-10-26T11:48:47+00:00",
+      "location": "United States",
+      "posted_at": "1792505700",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, AI-Assisted Baseband Debugging Evaluation",
+      "url": "https://go.vansh.nyc/D3"
     },
     "vanshb03:aptiv::vanshb03-1b81d325-06a2-4891-a460-304950f13ec1": {
       "company": "Aptiv",
@@ -63402,6 +63499,16 @@
       "title": "Software Engineering Intern, Dynamo",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295"
     },
+    "vanshb03:nvidia::vanshb03-9f0b23c5-433e-4f30-a814-2329b3d45cbe": {
+      "company": "NVIDIA",
+      "first_seen": "2026-10-26T11:48:47+00:00",
+      "last_seen": "2026-10-26T11:48:47+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1791936000",
+      "source": "vanshb03",
+      "title": "New Grad 2027: SoC Software Engineer",
+      "url": "https://go.vansh.nyc/Df"
+    },
     "vanshb03:okta::vanshb03-e0a4bc37-7764-4733-b331-b45878eced60": {
       "company": "Okta",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -65268,6 +65375,16 @@
       "title": "New Grad 2026: Software Engineer Graduate Social",
       "url": "https://lifeattiktok.com/search/7532627070011230482?spread=5MWH5CQ"
     },
+    "vanshb03:tiktok::vanshb03-635594b8-a571-4462-8e09-b719f2d6e04b": {
+      "company": "TikTok",
+      "first_seen": "2026-10-26T11:48:48+00:00",
+      "last_seen": "2026-10-26T11:48:48+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1792058086",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Backend Engineer, Social Foundation",
+      "url": "https://go.vansh.nyc/Dw"
+    },
     "vanshb03:tiktok::vanshb03-674663b1-3c0d-45e8-816f-092f68f04b64": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -66247,5 +66364,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T10:12:54+00:00"
+  "updated_at": "2026-10-26T11:49:59+00:00"
 }
