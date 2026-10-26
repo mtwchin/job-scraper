@@ -1,5 +1,5 @@
 {
-  "count": 7537,
+  "count": 7538,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -58374,6 +58374,16 @@
       "title": "New Grad 2026: Software Engineer",
       "url": "https://careers.adobe.com/us/en/job/ADOBUSR159933EXTERNALENUS/2026-University-Graduate-Software-Engineer"
     },
+    "vanshb03:affirm::vanshb03-d1a4e0b1-cbb1-4046-90d5-c7945e8bfea3": {
+      "company": "Affirm",
+      "first_seen": "2026-10-26T10:15:13+00:00",
+      "last_seen": "2026-10-26T10:15:13+00:00",
+      "location": "Remote",
+      "posted_at": "1791794592",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer I, Instruments",
+      "url": "https://go.vansh.nyc/BX"
+    },
     "vanshb03:aflac::vanshb03-f7314607-a633-4e02-a83f-a9c060b540f5": {
       "company": "Aflac",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -63297,5 +63307,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T10:12:18+00:00"
+  "updated_at": "2026-10-26T10:15:20+00:00"
 }
