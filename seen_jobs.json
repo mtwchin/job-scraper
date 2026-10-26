@@ -1,5 +1,5 @@
 {
-  "count": 7603,
+  "count": 7604,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -24356,6 +24356,16 @@
       "posted_at": "1783721211",
       "title": "Software Engineer",
       "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4713145005"
+    },
+    "simplify:glean::simplify-6af75cb5-069d-4604-8cdf-ace14944602a": {
+      "company": "Glean",
+      "first_seen": "2026-10-26T23:02:02+00:00",
+      "last_seen": "2026-10-26T23:02:02+00:00",
+      "location": "SF, Mountain View, CA",
+      "posted_at": "1793042795",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4747670005"
     },
     "simplify:glean::simplify-c0ac6ad4-9461-42b9-9740-6caf78973162": {
       "company": "Glean",
@@ -63984,5 +63994,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T20:34:55+00:00"
+  "updated_at": "2026-10-26T23:03:01+00:00"
 }
