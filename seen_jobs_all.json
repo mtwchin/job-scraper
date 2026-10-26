@@ -1,5 +1,5 @@
 {
-  "count": 7991,
+  "count": 7996,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -61640,6 +61640,18 @@
       "title": "Extended Reality Programmer Intern",
       "url": "https://go.vansh.nyc/Sm"
     },
+    "vanshb03:booz allen hamilton::vanshb03-0f277df1-f76a-4b63-947d-bc876f9f40a3": {
+      "company": "Booz Allen Hamilton",
+      "duplicate_of": "vanshb03:booz allen hamilton::vanshb03-702d1faa-d613-4a9e-bb2a-22362f0f7faf",
+      "first_seen": "2026-10-26T20:42:03+00:00",
+      "last_seen": "2026-10-26T20:42:03+00:00",
+      "location": "Detroit, MI",
+      "posted_at": "1793046594",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/SY"
+    },
     "vanshb03:booz allen hamilton::vanshb03-2f91e9c4-1b12-4b14-a545-b8a0c3ebfe13": {
       "company": "Booz Allen Hamilton",
       "first_seen": "2026-10-26T16:11:12+00:00",
@@ -61659,6 +61671,38 @@
       "source": "vanshb03",
       "title": "Software Developer Intern",
       "url": "https://go.vansh.nyc/Oy"
+    },
+    "vanshb03:booz allen hamilton::vanshb03-a18d77e3-844e-4943-b121-6e2c2d79d9b6": {
+      "company": "Booz Allen Hamilton",
+      "first_seen": "2026-10-26T20:42:03+00:00",
+      "last_seen": "2026-10-26T20:42:03+00:00",
+      "location": "Detroit, MI",
+      "posted_at": "1793046594",
+      "source": "vanshb03",
+      "title": "Systems Engineer Intern",
+      "url": "https://go.vansh.nyc/SX"
+    },
+    "vanshb03:booz allen hamilton::vanshb03-e55c80f4-f851-434e-b973-5edeca45139a": {
+      "company": "Booz Allen Hamilton",
+      "duplicate_of": "vanshb03:booz allen hamilton::vanshb03-702d1faa-d613-4a9e-bb2a-22362f0f7faf",
+      "first_seen": "2026-10-26T20:42:03+00:00",
+      "last_seen": "2026-10-26T20:42:03+00:00",
+      "location": "Dayton, OH",
+      "posted_at": "1793046594",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/SZ"
+    },
+    "vanshb03:booz allen hamilton::vanshb03-ec7c1876-5feb-4ef7-ba4f-631b4855fb04": {
+      "company": "Booz Allen Hamilton",
+      "first_seen": "2026-10-26T20:42:03+00:00",
+      "last_seen": "2026-10-26T20:42:03+00:00",
+      "location": "Albuquerque, NM",
+      "posted_at": "1793046983",
+      "source": "vanshb03",
+      "title": "Systems Engineer Intern, Games",
+      "url": "https://go.vansh.nyc/T0"
     },
     "vanshb03:booz allen::vanshb03-89f1a01e-06f6-4e04-8f8b-7c42e1ada118": {
       "company": "Booz Allen",
@@ -66039,6 +66083,18 @@
       "title": "Embedded Software Engineering Intern",
       "url": "https://go.vansh.nyc/BP"
     },
+    "vanshb03:rtx::vanshb03-bbd0c620-54fe-4568-b5ed-1a31793eff10": {
+      "company": "RTX",
+      "duplicate_of": "simplify:rtx::simplify-e8a2975b-62cb-450a-9629-f7210118211b",
+      "first_seen": "2026-10-26T20:42:03+00:00",
+      "last_seen": "2026-10-26T20:42:03+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1793046983",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/T2"
+    },
     "vanshb03:safran::vanshb03-d4d8496f-7104-4259-b775-6a77600f6f34": {
       "company": "Safran",
       "first_seen": "2026-10-22T02:34:49+00:00",
@@ -68333,5 +68389,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T20:13:33+00:00"
+  "updated_at": "2026-10-26T20:42:37+00:00"
 }
