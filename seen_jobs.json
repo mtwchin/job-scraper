@@ -1,5 +1,5 @@
 {
-  "count": 7582,
+  "count": 7583,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -58935,6 +58935,16 @@
       "title": "Software Engineering Intern, AI-Assisted Baseband Debugging Evaluation",
       "url": "https://go.vansh.nyc/D3"
     },
+    "vanshb03:applied intuition::vanshb03-325e0094-e5ad-4cc1-9c76-2c3d09864157": {
+      "company": "Applied Intuition",
+      "first_seen": "2026-10-26T15:04:07+00:00",
+      "last_seen": "2026-10-26T15:04:07+00:00",
+      "location": "Ann Arbor, MI, Sunnyvale, CA",
+      "posted_at": "1787875200",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/P3"
+    },
     "vanshb03:applied intuition::vanshb03-62eae085-05c9-4db1-b6d0-07c5277e246a": {
       "company": "Applied Intuition",
       "first_seen": "2026-10-26T14:39:49+00:00",
@@ -63759,5 +63769,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T14:48:06+00:00"
+  "updated_at": "2026-10-26T15:04:10+00:00"
 }
