@@ -1,5 +1,5 @@
 {
-  "count": 7549,
+  "count": 7555,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -58374,6 +58374,28 @@
       "title": "New Grad 2026: Software Engineer",
       "url": "https://careers.adobe.com/us/en/job/ADOBUSR159933EXTERNALENUS/2026-University-Graduate-Software-Engineer"
     },
+    "vanshb03:affirm::vanshb03-1e3c4ba5-87e3-49f3-930d-ef1f99d25691": {
+      "company": "Affirm",
+      "first_seen": "2026-10-26T12:37:48+00:00",
+      "last_seen": "2026-10-26T12:37:48+00:00",
+      "location": "New York, NY; San Francisco, CA, New York, NY",
+      "posted_at": "1791325244",
+      "source": "vanshb03",
+      "title": "Software Engineer 1",
+      "url": "https://go.vansh.nyc/HK"
+    },
+    "vanshb03:affirm::vanshb03-81196d38-84cd-4243-95d9-89a75b0f4a40": {
+      "company": "Affirm",
+      "duplicate_of": "vanshb03:affirm::vanshb03-1e3c4ba5-87e3-49f3-930d-ef1f99d25691",
+      "first_seen": "2026-10-26T12:37:47+00:00",
+      "last_seen": "2026-10-26T12:37:47+00:00",
+      "location": "San Francisco, CA, New York, NY",
+      "posted_at": "1791325244",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer 1",
+      "url": "https://go.vansh.nyc/HM"
+    },
     "vanshb03:affirm::vanshb03-d1a4e0b1-cbb1-4046-90d5-c7945e8bfea3": {
       "company": "Affirm",
       "first_seen": "2026-10-26T10:15:13+00:00",
@@ -58498,6 +58520,16 @@
       "source": "vanshb03",
       "title": "Hardware Simulator SDE I, AWS Machine Learning Accelerators, Annapurna Labs",
       "url": "https://www.amazon.jobs/en/jobs/2940695/hardware-simulator-sde-i-aws-machine-learning-accelerators-annapurna-labs"
+    },
+    "vanshb03:amazon::vanshb03-2640d6f6-8e78-4569-9be1-121ddac7a1c7": {
+      "company": "Amazon",
+      "first_seen": "2026-10-26T12:37:47+00:00",
+      "last_seen": "2026-10-26T12:37:47+00:00",
+      "location": "Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington, VA, Bellevue, WA, Westborough, MA",
+      "posted_at": "1790892578",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer, Robotics",
+      "url": "https://go.vansh.nyc/HB"
     },
     "vanshb03:amazon::vanshb03-5523431f-7de5-4e00-be54-8f529bcf2e50": {
       "company": "Amazon",
@@ -60125,6 +60157,16 @@
       "title": "New Grad: Software Engineer",
       "url": "https://jobs.ashbyhq.com/harvey/fe8e594b-f2e1-453b-8a0d-e0b0bfdf745b"
     },
+    "vanshb03:harvey::vanshb03-a6ce3842-18ea-4bb5-a158-4ae57ce390d8": {
+      "company": "Harvey",
+      "first_seen": "2026-10-26T12:37:48+00:00",
+      "last_seen": "2026-10-26T12:37:48+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1790899200",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/Hq"
+    },
     "vanshb03:heliux::vanshb03-6ca75b17-424f-471f-a303-71bab2644e24": {
       "company": "Heliux",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60978,6 +61020,16 @@
       "title": "Associate Software Engineer",
       "url": "https://careers.unitedhealthgroup.com/job/22310390/associate-software-engineer-vancouver-ca/"
     },
+    "vanshb03:oracle::vanshb03-5171502f-38aa-4b25-9c06-592c09d35eb6": {
+      "company": "Oracle",
+      "first_seen": "2026-10-26T12:37:48+00:00",
+      "last_seen": "2026-10-26T12:37:48+00:00",
+      "location": "Nashville, TN",
+      "posted_at": "1790806019",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, Oracle Cloud Infrastructure",
+      "url": "https://go.vansh.nyc/Hy"
+    },
     "vanshb03:palantir technologies::vanshb03-012269d3-ac77-42ec-b155-6d02f53f8a49": {
       "company": "Palantir Technologies",
       "first_seen": "2026-10-25T08:27:04+00:00",
@@ -61694,6 +61746,16 @@
       "source": "vanshb03",
       "title": "Entry Level Software Developer",
       "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false"
+    },
+    "vanshb03:shield ai::vanshb03-2492f9d3-af17-4735-9b3d-f467cc4e642c": {
+      "company": "Shield AI",
+      "first_seen": "2026-10-26T12:37:48+00:00",
+      "last_seen": "2026-10-26T12:37:48+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1791325522",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer",
+      "url": "https://go.vansh.nyc/HL"
     },
     "vanshb03:shopify::vanshb03-12011286-0eca-4688-8c69-aa283024575d": {
       "company": "Shopify",
@@ -63423,5 +63485,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T12:08:49+00:00"
+  "updated_at": "2026-10-26T12:37:52+00:00"
 }
