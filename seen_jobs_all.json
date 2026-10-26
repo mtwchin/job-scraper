@@ -1,5 +1,5 @@
 {
-  "count": 7821,
+  "count": 7834,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -60337,6 +60337,16 @@
       "title": "Graduate Software Engineer",
       "url": "https://recruiting.ultipro.com/VMS1002VMOO/JobBoard/3dde3e78-a60b-47af-93cf-ef6db6ed312b/OpportunityDetail?opportunityId=fa0772d7-fa49-4ce9-b7ae-de1a0da018eb"
     },
+    "vanshb03:66degrees::vanshb03-d5861b9b-f5b0-409e-9e2c-c0a731c7a2a3": {
+      "company": "66degrees",
+      "first_seen": "2026-10-26T12:37:52+00:00",
+      "last_seen": "2026-10-26T12:37:52+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1791634470",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Associate Software Engineer, Gradient Specialist",
+      "url": "https://go.vansh.nyc/Ia"
+    },
     "vanshb03:abb::vanshb03-7235baf2-9aac-4602-b293-d43af539c3b1": {
       "company": "ABB",
       "first_seen": "2026-10-21T19:00:35+00:00",
@@ -60402,6 +60412,28 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/ay"
+    },
+    "vanshb03:affirm::vanshb03-1e3c4ba5-87e3-49f3-930d-ef1f99d25691": {
+      "company": "Affirm",
+      "first_seen": "2026-10-26T12:37:48+00:00",
+      "last_seen": "2026-10-26T12:37:48+00:00",
+      "location": "New York, NY; San Francisco, CA, New York, NY",
+      "posted_at": "1791325244",
+      "source": "vanshb03",
+      "title": "Software Engineer 1",
+      "url": "https://go.vansh.nyc/HK"
+    },
+    "vanshb03:affirm::vanshb03-81196d38-84cd-4243-95d9-89a75b0f4a40": {
+      "company": "Affirm",
+      "duplicate_of": "vanshb03:affirm::vanshb03-1e3c4ba5-87e3-49f3-930d-ef1f99d25691",
+      "first_seen": "2026-10-26T12:37:47+00:00",
+      "last_seen": "2026-10-26T12:37:47+00:00",
+      "location": "San Francisco, CA, New York, NY",
+      "posted_at": "1791325244",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer 1",
+      "url": "https://go.vansh.nyc/HM"
     },
     "vanshb03:affirm::vanshb03-d1a4e0b1-cbb1-4046-90d5-c7945e8bfea3": {
       "company": "Affirm",
@@ -60559,6 +60591,16 @@
       "source": "vanshb03",
       "title": "Hardware Simulator SDE I, AWS Machine Learning Accelerators, Annapurna Labs",
       "url": "https://www.amazon.jobs/en/jobs/2940695/hardware-simulator-sde-i-aws-machine-learning-accelerators-annapurna-labs"
+    },
+    "vanshb03:amazon::vanshb03-2640d6f6-8e78-4569-9be1-121ddac7a1c7": {
+      "company": "Amazon",
+      "first_seen": "2026-10-26T12:37:47+00:00",
+      "last_seen": "2026-10-26T12:37:47+00:00",
+      "location": "Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington, VA, Bellevue, WA, Westborough, MA",
+      "posted_at": "1790892578",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer, Robotics",
+      "url": "https://go.vansh.nyc/HB"
     },
     "vanshb03:amazon::vanshb03-5523431f-7de5-4e00-be54-8f529bcf2e50": {
       "company": "Amazon",
@@ -61736,6 +61778,26 @@
       "title": "New Grad 2026: Software Engineer",
       "url": "https://jobs.ashbyhq.com/Commure-Athelas/00dbfa4a-986c-4c98-a966-47874d1ff0f8"
     },
+    "vanshb03:costar group::vanshb03-35b0800e-6687-4526-a92e-65ddcb261792": {
+      "company": "CoStar Group",
+      "first_seen": "2026-10-26T12:37:52+00:00",
+      "last_seen": "2026-10-26T12:37:52+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1790812800",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Associate Software Engineer",
+      "url": "https://go.vansh.nyc/HC"
+    },
+    "vanshb03:costar group::vanshb03-3b9ccd40-8d8b-4d8f-b85e-7fc847d958db": {
+      "company": "CoStar Group",
+      "first_seen": "2026-10-26T12:37:52+00:00",
+      "last_seen": "2026-10-26T12:37:52+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1790943270",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Associate Embedded Software Engineer",
+      "url": "https://go.vansh.nyc/Id"
+    },
     "vanshb03:costar group::vanshb03-509ac46f-8cbe-4578-80d5-bb7ba388175f": {
       "company": "CoStar Group",
       "first_seen": "2026-10-26T12:09:23+00:00",
@@ -62293,6 +62355,16 @@
       "title": "Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true"
     },
+    "vanshb03:fellow insights::vanshb03-6394d25d-454b-456c-9c8f-cc894e02bb34": {
+      "company": "Fellow Insights",
+      "first_seen": "2026-10-26T12:37:52+00:00",
+      "last_seen": "2026-10-26T12:37:52+00:00",
+      "location": "Ottawa, Canada",
+      "posted_at": "1791116070",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/If"
+    },
     "vanshb03:figma::vanshb03-ab806a40-3173-438c-b929-7cb4e21780ed": {
       "company": "Figma",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -62476,6 +62548,16 @@
       "title": "Junior Software Developer Engineer in Test - C#",
       "url": "https://www.globalrelay.com/careers/jobs?gh_jid=5616305004"
     },
+    "vanshb03:globalfoundries::vanshb03-1ad8e42d-6ff1-4222-9b67-2e2a9649caf6": {
+      "company": "GlobalFoundries",
+      "first_seen": "2026-10-26T12:37:52+00:00",
+      "last_seen": "2026-10-26T12:37:52+00:00",
+      "location": "Austin, TX, Santa Clara, CA",
+      "posted_at": "1791504000",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/I2"
+    },
     "vanshb03:globalfoundries::vanshb03-50654b1a-a207-4f2f-9ca7-587fe2c923c5": {
       "company": "GlobalFoundries",
       "first_seen": "2026-10-23T00:57:39+00:00",
@@ -62589,6 +62671,16 @@
       "source": "vanshb03",
       "title": "New Grad: Software Engineer",
       "url": "https://jobs.ashbyhq.com/harvey/fe8e594b-f2e1-453b-8a0d-e0b0bfdf745b"
+    },
+    "vanshb03:harvey::vanshb03-a6ce3842-18ea-4bb5-a158-4ae57ce390d8": {
+      "company": "Harvey",
+      "first_seen": "2026-10-26T12:37:48+00:00",
+      "last_seen": "2026-10-26T12:37:48+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1790899200",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/Hq"
     },
     "vanshb03:heliux::vanshb03-6ca75b17-424f-471f-a303-71bab2644e24": {
       "company": "Heliux",
@@ -63408,6 +63500,16 @@
       "title": "Software Engineer Intern, Backend & API",
       "url": "https://ats.rippling.com/en-GB/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b"
     },
+    "vanshb03:motorola::vanshb03-b0de13da-8568-4fdd-a82d-2bc05827fdd3": {
+      "company": "Motorola",
+      "first_seen": "2026-10-26T12:37:52+00:00",
+      "last_seen": "2026-10-26T12:37:52+00:00",
+      "location": "Remote, Canada",
+      "posted_at": "1791158400",
+      "source": "vanshb03",
+      "title": "Junior Software Engineer, AI Agent Platform",
+      "url": "https://go.vansh.nyc/HF"
+    },
     "vanshb03:multiply labs::vanshb03-37710137-3678-4c75-b476-022f9c8fd20c": {
       "company": "Multiply Labs",
       "first_seen": "2026-10-25T08:27:17+00:00",
@@ -63728,6 +63830,16 @@
       "title": "Software Engineer I",
       "url": "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/job/4261"
     },
+    "vanshb03:oneimaging::vanshb03-113b65bc-8031-41fe-9150-8d363d0120c3": {
+      "company": "OneImaging",
+      "first_seen": "2026-10-26T12:37:52+00:00",
+      "last_seen": "2026-10-26T12:37:52+00:00",
+      "location": "Miami, FL",
+      "posted_at": "1790662565",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Full Stack Associate Software Engineer",
+      "url": "https://go.vansh.nyc/Hv"
+    },
     "vanshb03:openai::vanshb03-84c02120-d777-45d0-b408-8ce53748ab80": {
       "company": "OpenAI",
       "first_seen": "2026-10-20T22:29:43+00:00",
@@ -63792,6 +63904,16 @@
       "source": "vanshb03",
       "title": "Associate Software Engineer",
       "url": "https://careers.unitedhealthgroup.com/job/22310390/associate-software-engineer-vancouver-ca/"
+    },
+    "vanshb03:oracle::vanshb03-5171502f-38aa-4b25-9c06-592c09d35eb6": {
+      "company": "Oracle",
+      "first_seen": "2026-10-26T12:37:48+00:00",
+      "last_seen": "2026-10-26T12:37:48+00:00",
+      "location": "Nashville, TN",
+      "posted_at": "1790806019",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, Oracle Cloud Infrastructure",
+      "url": "https://go.vansh.nyc/Hy"
     },
     "vanshb03:palantir technologies::vanshb03-012269d3-ac77-42ec-b155-6d02f53f8a49": {
       "company": "Palantir Technologies",
@@ -64687,6 +64809,16 @@
       "source": "vanshb03",
       "title": "Entry Level Software Developer",
       "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false"
+    },
+    "vanshb03:shield ai::vanshb03-2492f9d3-af17-4735-9b3d-f467cc4e642c": {
+      "company": "Shield AI",
+      "first_seen": "2026-10-26T12:37:48+00:00",
+      "last_seen": "2026-10-26T12:37:48+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1791325522",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer",
+      "url": "https://go.vansh.nyc/HL"
     },
     "vanshb03:shopify::vanshb03-12011286-0eca-4688-8c69-aa283024575d": {
       "company": "Shopify",
@@ -66592,5 +66724,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-26T12:10:02+00:00"
+  "updated_at": "2026-10-26T12:38:05+00:00"
 }
