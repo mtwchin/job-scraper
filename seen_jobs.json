@@ -1,5 +1,5 @@
 {
-  "count": 7620,
+  "count": 7621,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -34120,6 +34120,16 @@
       "title": "Software Engineer - Intune",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925"
     },
+    "simplify:microsoft::simplify-12b37514-55d3-4d2b-889d-499ef0584772": {
+      "company": "Microsoft",
+      "first_seen": "2026-10-27T07:01:53+00:00",
+      "last_seen": "2026-10-27T07:01:53+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1793082825",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557045516"
+    },
     "simplify:microsoft::simplify-14175068-fa33-4dcb-b0de-4819bdef5ae5": {
       "company": "Microsoft",
       "first_seen": "2026-08-02T23:29:04+00:00",
@@ -64160,5 +64170,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T02:02:21+00:00"
+  "updated_at": "2026-10-27T07:02:09+00:00"
 }
