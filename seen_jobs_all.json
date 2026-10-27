@@ -1,5 +1,5 @@
 {
-  "count": 8028,
+  "count": 8029,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -65311,6 +65311,16 @@
       "title": "Software Engineer 1 / Early Career - Backend C++/Linux/AWS-S3",
       "url": "https://jobs.jobvite.com/nutanix/job/oGXDxfwx?nl=1&nl=1&fr=false"
     },
+    "vanshb03:nuvacore::vanshb03-c9f4b947-9adb-4f90-9f0b-75f519f872d3": {
+      "company": "NUVACORE",
+      "first_seen": "2026-10-27T01:12:32+00:00",
+      "last_seen": "2026-10-27T01:12:32+00:00",
+      "location": "Markham, Canada",
+      "posted_at": "1793043355",
+      "source": "vanshb03",
+      "title": "CPU Software Intern",
+      "url": "https://go.vansh.nyc/Tm"
+    },
     "vanshb03:nvidia::vanshb03-8e13a875-b5b1-46d1-ada8-cdc1dfa8b485": {
       "company": "NVIDIA",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -68771,5 +68781,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T00:03:51+00:00"
+  "updated_at": "2026-10-27T01:12:55+00:00"
 }
