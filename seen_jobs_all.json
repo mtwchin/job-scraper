@@ -1,5 +1,5 @@
 {
-  "count": 8132,
+  "count": 8133,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -57234,6 +57234,18 @@
       "title": "Software Engineer \u2013 Early Career",
       "url": "https://job-boards.greenhouse.io/uareai/jobs/4036519009"
     },
+    "simplify:uber::simplify-c23b560b-a6bd-4212-80ea-34fb77e95bfa": {
+      "company": "Uber",
+      "duplicate_of": "simplify:uber::simplify-f8f882fd-ee8e-4b25-ae90-0f2a5746e3ed",
+      "first_seen": "2026-10-27T23:02:52+00:00",
+      "last_seen": "2026-10-27T23:02:52+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793140501",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304178"
+    },
     "simplify:uber::simplify-f8f882fd-ee8e-4b25-ae90-0f2a5746e3ed": {
       "company": "Uber",
       "first_seen": "2026-10-21T01:37:44+00:00",
@@ -69930,5 +69942,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T23:03:19+00:00"
+  "updated_at": "2026-10-27T23:40:04+00:00"
 }
