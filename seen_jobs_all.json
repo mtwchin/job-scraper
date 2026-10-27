@@ -1,5 +1,5 @@
 {
-  "count": 8124,
+  "count": 8132,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -5838,6 +5838,16 @@
       "posted_at": "1782770709",
       "title": "Undergraduate Intern - Technology and Analytics Department-Educate Pod",
       "url": "https://job-boards.greenhouse.io/acluinternships/jobs/8612266002"
+    },
+    "simplify:aclu kentucky::simplify-cadc94e7-9726-4c36-8cce-d06bf21a5a85": {
+      "company": "ACLU Kentucky",
+      "first_seen": "2026-10-27T23:02:47+00:00",
+      "last_seen": "2026-10-27T23:02:47+00:00",
+      "location": "NYC",
+      "posted_at": "1793129801",
+      "source": "simplify",
+      "title": "Undergraduate Software Engineer Intern - Technology and Analytics Department-Educate Pod",
+      "url": "https://job-boards.greenhouse.io/acluinternships/jobs/8919540002"
     },
     "simplify:acrisure::simplify-5922f002-13a5-421a-835f-d69782f4f801": {
       "company": "Acrisure",
@@ -14718,6 +14728,16 @@
       "title": "AI Prompt Engineer",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer_330802"
     },
+    "simplify:caci::simplify-50c14a6a-77e0-4a0b-b4e2-55437b8bc32b": {
+      "company": "CACI",
+      "first_seen": "2026-10-27T23:02:47+00:00",
+      "last_seen": "2026-10-27T23:02:47+00:00",
+      "location": "Sarasota, FL",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618"
+    },
     "simplify:caci::simplify-565376c9-9f43-421c-aee2-1c09b5461f85": {
       "company": "CACI",
       "first_seen": "2026-08-17T23:07:29+00:00",
@@ -20214,6 +20234,16 @@
       "title": "Delivery Analyst - Multiple Teams",
       "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Tech-Package-Solutions/362522"
     },
+    "simplify:delta dental::simplify-21845f2d-3358-4394-9609-8ea2d11ee1a0": {
+      "company": "Delta Dental",
+      "first_seen": "2026-10-27T23:02:47+00:00",
+      "last_seen": "2026-10-27T23:02:47+00:00",
+      "location": "Okemos, MI",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Application Development Intern - Application Development",
+      "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101510"
+    },
     "simplify:delta dental::simplify-4e1c3c96-80a3-44d4-85ff-7da897beb1f5": {
       "company": "Delta Dental",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -21933,7 +21963,7 @@
     "simplify:entegris::simplify-a3b700b5-11b3-48ae-92cf-a4cd8017c1f6": {
       "company": "Entegris",
       "first_seen": "2026-09-10T17:18:10+00:00",
-      "last_seen": "2026-09-30T00:01:01+00:00",
+      "last_seen": "2026-10-27T23:02:46+00:00",
       "posted_at": "1788998400",
       "title": "Lab Automation & AI Engineering Co-op",
       "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1"
@@ -24327,7 +24357,7 @@
     "simplify:ge appliances::simplify-88d4e38d-d6d5-4550-8ea8-651074023cd3": {
       "company": "GE Appliances",
       "first_seen": "2026-08-26T01:26:26+00:00",
-      "last_seen": "2026-10-20T00:00:02+00:00",
+      "last_seen": "2026-10-27T23:02:46+00:00",
       "posted_at": "1787616000",
       "title": "Software Engineer Co-op",
       "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2027_REQ-26592"
@@ -26687,6 +26717,26 @@
       "source": "simplify",
       "title": "Graduate Software Engineer - Bridgend",
       "url": "https://apply.workable.com/grayce/j/1789116104/apply"
+    },
+    "simplify:great american insurance company::simplify-36f067d2-5ba6-440a-9dcf-1e2fd5f4ba50": {
+      "company": "Great American Insurance Company",
+      "first_seen": "2026-10-27T23:02:47+00:00",
+      "last_seen": "2026-10-27T23:02:47+00:00",
+      "location": "Cincinnati, OH",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Claims Lab Developer Intern",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803"
+    },
+    "simplify:great american insurance company::simplify-d1eb886b-0de3-4b44-a75f-e5b3c10bdb23": {
+      "company": "Great American Insurance Company",
+      "first_seen": "2026-10-27T23:02:47+00:00",
+      "last_seen": "2026-10-27T23:02:47+00:00",
+      "location": "Cincinnati, OH",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Data Application Engineer Intern",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Application-Development-Intern---Summer-2027_R9796"
     },
     "simplify:great question::simplify-b0dddbd1-f4e1-4c85-8399-7c54e668fbd8": {
       "company": "Great Question",
@@ -29739,6 +29789,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.intuit.com/job/new-york/intern-software-engineering/27595/99410270400"
     },
+    "simplify:intuit::simplify-a279fba6-3495-4e9c-ac89-769269250310": {
+      "company": "Intuit",
+      "first_seen": "2026-10-27T23:02:30+00:00",
+      "last_seen": "2026-10-27T23:02:30+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793140376",
+      "source": "simplify",
+      "title": "Software Developer 1 - API Management Platform",
+      "url": "https://jobs.intuit.com/job/toronto/software-developer-1-api-management-platform/27595/102521440064"
+    },
     "simplify:intuit::simplify-a57d347e-4ce0-4590-bf80-9368dd106660": {
       "company": "Intuit",
       "first_seen": "2026-09-14T21:34:50+00:00",
@@ -29758,6 +29818,16 @@
       "source": "simplify",
       "title": "Marketing Intern - AI Tooling for Marketing Efficiency",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552"
+    },
+    "simplify:intuit::simplify-b5b550d8-07b7-48d1-a1ba-9aa09a1cc8c1": {
+      "company": "Intuit",
+      "first_seen": "2026-10-27T23:02:30+00:00",
+      "last_seen": "2026-10-27T23:02:30+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793140378",
+      "source": "simplify",
+      "title": "Software Developer 1",
+      "url": "https://jobs.intuit.com/job/toronto/software-developer-1/27595/102521439744"
     },
     "simplify:intuit::simplify-cdbc0a69-360c-4dfe-8c6d-5c0fea16678d": {
       "company": "Intuit",
@@ -38290,6 +38360,16 @@
       "posted_at": "1788358387",
       "title": "Web Developer Co-op Intern - Intern",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39612"
+    },
+    "simplify:nomad gcs::simplify-7cf9e6f3-53d7-436f-8cfb-de413386333b": {
+      "company": "Nomad GCS",
+      "first_seen": "2026-10-27T23:02:47+00:00",
+      "last_seen": "2026-10-27T23:02:47+00:00",
+      "location": "Columbia Falls, MT",
+      "posted_at": "1793140122",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://nomadgcs.bamboohr.com/careers/506/"
     },
     "simplify:nooks::simplify-0d7e5ade-c787-44c5-9358-0e54abadfdfe": {
       "company": "Nooks",
@@ -47232,7 +47312,7 @@
       "company": "RTX",
       "duplicate_of": "simplify:rtx::simplify-d6b959d0-3774-41d6-bc89-d62b84ca38bf",
       "first_seen": "2026-10-20T14:34:02+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-10-27T23:02:46+00:00",
       "location": "Aurora, CO",
       "posted_at": "1792454400",
       "seeded": true,
@@ -69850,5 +69930,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T23:02:16+00:00"
+  "updated_at": "2026-10-27T23:03:19+00:00"
 }
