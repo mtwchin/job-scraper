@@ -1,5 +1,5 @@
 {
-  "count": 8081,
+  "count": 8084,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2100,6 +2100,16 @@
       "title": "Avionics / Embedded Software Engineer I - Early Career & New Graduate Rotation (2027 Starts)",
       "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324"
     },
+    "blue origin::Electronics-Electrical-Systems-Engineer-Co-Op_R71548": {
+      "company": "Blue Origin",
+      "first_seen": "2026-10-27T15:31:18+00:00",
+      "last_seen": "2026-10-27T15:31:18+00:00",
+      "location": "Los Angeles, CA",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "",
+      "title": "Electronics/Electrical Systems Engineer Co-Op (Fixed Term)",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548"
+    },
     "blue origin::Summer-2027-Aerospace-Systems-Engineering-Intern---Graduate_R71435": {
       "company": "Blue Origin",
       "first_seen": "2026-10-21T03:37:44+00:00",
@@ -2169,6 +2179,16 @@
       "source": "",
       "title": "Summer 2027 Software Developer Internship - Undergraduate",
       "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Software-Developer-Internship---Undergraduate_R71425"
+    },
+    "blue origin::XMLNAME-2026-Intern-Conversion---Electronics-Electrical-Systems-Engineer-I_R70292": {
+      "company": "Blue Origin",
+      "first_seen": "2026-10-27T15:31:18+00:00",
+      "last_seen": "2026-10-27T15:31:18+00:00",
+      "location": "Greater Seattle Area, Van Horn, TX, Denver, CO, Huntsville, AL, Space Coast, FL, Arlington, VA, Los Angeles, CA, Longmont, CO, Reston, VA",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "",
+      "title": "2026 Intern Conversion - Electronics/Electrical Systems Engineer I",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Electronics-Electrical-Systems-Engineer-I_R70292"
     },
     "capital one::Associate--Software-Engineer--New-Grad-Card-Expansion_R236833": {
       "company": "Capital One",
@@ -62615,6 +62635,18 @@
       "title": "Embedded Software Engineer Co-op",
       "url": "https://go.vansh.nyc/Lu"
     },
+    "vanshb03:caci::vanshb03-f584eb4c-c3f2-4e17-8d18-4bc86182342a": {
+      "company": "CACI",
+      "duplicate_of": "vanshb03:caci::vanshb03-24dd6f67-0f24-4af4-be49-c619d04f0cb6",
+      "first_seen": "2026-10-27T15:39:26+00:00",
+      "last_seen": "2026-10-27T15:39:26+00:00",
+      "location": "Sarasota, FL",
+      "posted_at": "1793114862",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/VM"
+    },
     "vanshb03:cae::vanshb03-643b937a-b567-4855-896d-f81bd162d8d7": {
       "company": "CAE",
       "first_seen": "2026-10-26T13:44:52+00:00",
@@ -69390,5 +69422,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T15:02:39+00:00"
+  "updated_at": "2026-10-27T15:39:43+00:00"
 }
