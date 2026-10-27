@@ -1,5 +1,5 @@
 {
-  "count": 8086,
+  "count": 8087,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -65400,6 +65400,16 @@
       "title": "Software Engineer Intern, Backend & API",
       "url": "https://ats.rippling.com/en-GB/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b"
     },
+    "vanshb03:motorola solutions::vanshb03-0e38900e-b4ba-4cd1-9d8f-192cd126d0e3": {
+      "company": "Motorola Solutions",
+      "first_seen": "2026-10-27T18:11:46+00:00",
+      "last_seen": "2026-10-27T18:11:46+00:00",
+      "location": "Gatineau, Canada, Ottawa, Canada",
+      "posted_at": "1793038135",
+      "source": "vanshb03",
+      "title": "Junior Software Engineer - Emergency Call Handling",
+      "url": "https://go.vansh.nyc/W6"
+    },
     "vanshb03:motorola::vanshb03-b0de13da-8568-4fdd-a82d-2bc05827fdd3": {
       "company": "Motorola",
       "first_seen": "2026-10-26T12:37:52+00:00",
@@ -69442,5 +69452,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T18:09:44+00:00"
+  "updated_at": "2026-10-27T18:11:47+00:00"
 }
