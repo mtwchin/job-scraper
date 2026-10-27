@@ -1,5 +1,5 @@
 {
-  "count": 8056,
+  "count": 8057,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -66912,6 +66912,16 @@
       "title": "Embedded Software Engineer Intern",
       "url": "https://go.vansh.nyc/Ss"
     },
+    "vanshb03:seagate::vanshb03-574ee7df-42f7-44ac-944e-36bac4db91ba": {
+      "company": "Seagate",
+      "first_seen": "2026-10-27T08:48:10+00:00",
+      "last_seen": "2026-10-27T08:48:10+00:00",
+      "location": "Longmont, CO",
+      "posted_at": "1792368702",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer I",
+      "url": "https://go.vansh.nyc/UM"
+    },
     "vanshb03:semtech::vanshb03-529386e9-c026-4317-9c23-71723dc0b364": {
       "company": "Semtech",
       "first_seen": "2026-10-26T12:09:23+00:00",
@@ -69125,5 +69135,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T07:09:09+00:00"
+  "updated_at": "2026-10-27T08:48:12+00:00"
 }
