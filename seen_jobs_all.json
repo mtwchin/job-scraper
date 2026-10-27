@@ -1,5 +1,5 @@
 {
-  "count": 8046,
+  "count": 8047,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -63800,6 +63800,18 @@
       "title": "Software Intern, Autonomous Lab",
       "url": "https://go.vansh.nyc/Qz"
     },
+    "vanshb03:glean::vanshb03-80f7b19b-00f3-4200-b8e8-8c6193b8a35e": {
+      "company": "Glean",
+      "duplicate_of": "simplify:glean::simplify-6af75cb5-069d-4604-8cdf-ace14944602a",
+      "first_seen": "2026-10-27T01:32:21+00:00",
+      "last_seen": "2026-10-27T01:32:21+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1793043054",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/SV"
+    },
     "vanshb03:global lending services::vanshb03-4fd767fe-30b1-4774-a9e4-5b4047b8e3ed": {
       "company": "Global Lending Services",
       "first_seen": "2026-10-26T15:04:12+00:00",
@@ -69021,5 +69033,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T01:33:01+00:00"
+  "updated_at": "2026-10-27T01:38:50+00:00"
 }
