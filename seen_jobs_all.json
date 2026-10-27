@@ -1,5 +1,5 @@
 {
-  "count": 8044,
+  "count": 8046,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -24230,6 +24230,7 @@
     "simplify:ge vernova::simplify-4dcd82b7-38d8-4c45-b11f-1d0b3a75a1d0": {
       "company": "GE Vernova",
       "first_seen": "2026-08-21T18:41:57+00:00",
+      "last_seen": "2026-10-27T01:32:33+00:00",
       "posted_at": "1787270400",
       "title": "Project Engineer Intern - Summer 2027",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-1"
@@ -32633,6 +32634,16 @@
       "title": "Data Visualization Software Engineer",
       "url": "https://jobs.smartrecruiters.com/LLNL/3743990016422126"
     },
+    "simplify:lawrence livermore national laboratory (llnl)::simplify-f3d3f266-8dd3-4d3a-b387-6431187b5e2a": {
+      "company": "Lawrence Livermore National Laboratory (LLNL)",
+      "first_seen": "2026-10-27T01:32:33+00:00",
+      "last_seen": "2026-10-27T01:32:33+00:00",
+      "location": "Livermore, CA",
+      "posted_at": "1790633350",
+      "source": "simplify",
+      "title": "Defense Science and Technology Intern",
+      "url": "https://jobs.smartrecruiters.com/LLNL/3743990015740565"
+    },
     "simplify:laxir::simplify-0fd7656d-322f-47ea-9e64-07d69e3831ba": {
       "company": "LAXIR",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -33656,7 +33667,7 @@
     "simplify:lpl financial holdings::simplify-6538dcdb-7ff2-4214-ba47-f53b40274027": {
       "company": "LPL Financial Holdings",
       "first_seen": "2026-08-11T02:36:54+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-10-27T01:32:33+00:00",
       "posted_at": "1786320000",
       "title": "Software Engineer Intern",
       "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921"
@@ -37588,6 +37599,16 @@
       "posted_at": "1784758490",
       "title": "Software Engineer 1 - DSP Runtime",
       "url": "https://jobs.ashbyhq.com/nexxen/53cbef54-13b1-4539-9a18-bdd0c3431d32/application?embed=true"
+    },
+    "simplify:niantic spatial::simplify-3619b4c7-53d4-4dcc-aa54-3f79280248ed": {
+      "company": "Niantic Spatial",
+      "first_seen": "2026-10-27T01:32:33+00:00",
+      "last_seen": "2026-10-27T01:32:33+00:00",
+      "location": "SF",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Native SDK & Mobile Platforms",
+      "url": "https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43/application?embed=true"
     },
     "simplify:niantic spatial::simplify-8db764f7-caf2-46e5-88d8-976776e63ec3": {
       "company": "Niantic Spatial",
@@ -69000,5 +69021,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T01:31:58+00:00"
+  "updated_at": "2026-10-27T01:33:01+00:00"
 }
