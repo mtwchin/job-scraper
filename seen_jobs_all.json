@@ -1,5 +1,5 @@
 {
-  "count": 8109,
+  "count": 8118,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -7342,6 +7342,16 @@
       "title": "Front-End Engineer",
       "url": "https://amazon.jobs/en/jobs/10428762/front-end-engineer-2026-us"
     },
+    "simplify:amazon::simplify-59c8e11d-c4c9-4e51-895d-4e7e5e98c975": {
+      "company": "Amazon",
+      "first_seen": "2026-10-27T22:33:13+00:00",
+      "last_seen": "2026-10-27T22:33:13+00:00",
+      "location": "Seattle, WA, East Palo Alto, CA",
+      "posted_at": "1793138653",
+      "source": "simplify",
+      "title": "Database Engineer Intern",
+      "url": "https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027"
+    },
     "simplify:amazon::simplify-5b94931b-c8c1-4030-94fd-b855ea4581c5": {
       "company": "Amazon",
       "first_seen": "2026-07-22T23:48:29+00:00",
@@ -7391,6 +7401,16 @@
       "posted_at": "1770851522",
       "title": "Software Development Engineer Intern - Military Veteran",
       "url": "https://amazon.jobs/en/jobs/3179209/software-development-engineer-internship-military-veteran"
+    },
+    "simplify:amazon::simplify-9a6685e2-0aaf-400a-92b9-ec98a727cbf4": {
+      "company": "Amazon",
+      "first_seen": "2026-10-27T22:32:50+00:00",
+      "last_seen": "2026-10-27T22:32:50+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1793138655",
+      "source": "simplify",
+      "title": "Software Developer Engineer 1 - Graviton Software - Annapurna Labs",
+      "url": "https://amazon.jobs/en/jobs/10526808/software-dev-engineer-i-graviton-software-annapurna-labs"
     },
     "simplify:amazon::simplify-9d3485fc-e9c9-4315-b9af-f839b852b2a6": {
       "company": "Amazon",
@@ -10099,12 +10119,32 @@
       "title": "Software Engineering Intern",
       "url": "https://www.asm.com/open-vacancies/?gh_jid=4830113101"
     },
+    "simplify:asml::simplify-26950fa2-b1ab-4035-b222-f7a747d72c6c": {
+      "company": "ASML",
+      "first_seen": "2026-10-27T22:33:48+00:00",
+      "last_seen": "2026-10-27T22:33:48+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Frontend Developer Intern",
+      "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852"
+    },
     "simplify:asml::simplify-3dbd2ba2-63b1-4b77-9886-cb3abf12b61c": {
       "company": "ASML",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1765902404",
       "title": "Internship - Software Quality Assurance",
       "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00327394"
+    },
+    "simplify:asml::simplify-46638fe5-8edb-490d-9f11-3ac1b33f3da3": {
+      "company": "ASML",
+      "first_seen": "2026-10-27T22:33:48+00:00",
+      "last_seen": "2026-10-27T22:33:48+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Imaging Product Engineer Intern",
+      "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship--Imaging-product-engineer_J-00355220"
     },
     "simplify:asml::simplify-f1cc7ce7-00a3-49c1-9092-46d88ff06988": {
       "company": "ASML",
@@ -12034,6 +12074,16 @@
       "posted_at": "1771484831",
       "title": "Quality Assurance Engineer - Quality Assurance - Software",
       "url": "https://jobs.smartrecruiters.com/BetaSoftSystems3/85575889"
+    },
+    "simplify:betterment::simplify-2571b67c-fbd9-4e5e-9dd1-3cf2115d8bbc": {
+      "company": "Betterment",
+      "first_seen": "2026-10-27T22:33:48+00:00",
+      "last_seen": "2026-10-27T22:33:48+00:00",
+      "location": "NYC",
+      "posted_at": "1788456601",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/bettermentcampusrecruiting/jobs/8168098"
     },
     "simplify:beyondsoft::simplify-d77e9157-6bd3-45f9-82d5-488b2242147f": {
       "company": "Beyondsoft",
@@ -17797,6 +17847,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://apply.workable.com/commonai/j/021D3FCF3E/apply"
+    },
+    "simplify:commonwealth fusion systems::simplify-e56fc6cf-2283-4163-bd37-3a76a7894bb5": {
+      "company": "Commonwealth Fusion Systems",
+      "first_seen": "2026-10-27T22:33:48+00:00",
+      "last_seen": "2026-10-27T22:33:48+00:00",
+      "location": "Devens, MA",
+      "posted_at": "1793138796",
+      "source": "simplify",
+      "title": "Scientific Software Engineer Intern",
+      "url": "https://jobs.lever.co/cfsenergy/912d6878-25dd-4bdc-8df8-8f7002999619/apply"
     },
     "simplify:commure::simplify-0a05b05d-daaf-4bd5-964c-6f2e5bd47d82": {
       "company": "Commure",
@@ -31500,6 +31560,16 @@
       "title": "Software Engineer Intern - R&D",
       "url": "https://jobs.keysight.com/jobs/54327?icims=1"
     },
+    "simplify:keysight technologies::simplify-1e8a3975-ed86-4ea2-ac8a-6cb86af700b5": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-10-27T22:33:48+00:00",
+      "last_seen": "2026-10-27T22:33:48+00:00",
+      "location": "Santa Rosa, CA",
+      "posted_at": "1793122980",
+      "source": "simplify",
+      "title": "Application Development Intern",
+      "url": "https://jobs.keysight.com/jobs/55157?icims=1"
+    },
     "simplify:keysight technologies::simplify-3560b9fe-52fc-4370-8c2a-da157231f4bf": {
       "company": "Keysight Technologies",
       "first_seen": "2026-09-17T22:35:53+00:00",
@@ -35992,6 +36062,16 @@
       "source": "simplify",
       "title": "CAD Engineer New Grad",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---CAD-Engineer_JR114754"
+    },
+    "simplify:micron technology::simplify-b83ac3e2-dbad-4c8f-ad68-1ed696c5a30a": {
+      "company": "Micron Technology",
+      "first_seen": "2026-10-27T22:33:48+00:00",
+      "last_seen": "2026-10-27T22:33:48+00:00",
+      "location": "Boise, ID",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Product Yield Enhancement Software Engineer Intern",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864"
     },
     "simplify:micron technology::simplify-ec2d8499-9c16-4277-8aac-c8300d24f46f": {
       "company": "Micron Technology",
@@ -49415,7 +49495,7 @@
     "simplify:sikich::simplify-bb153fdc-6998-4d29-9e79-01b24c0db807": {
       "company": "Sikich",
       "first_seen": "2026-10-05T17:29:32+00:00",
-      "last_seen": "2026-10-19T00:01:18+00:00",
+      "last_seen": "2026-10-27T22:33:46+00:00",
       "location": "Remote in USA",
       "posted_at": "1791210384",
       "source": "simplify",
@@ -53663,6 +53743,16 @@
       "posted_at": "1789078695",
       "title": "Information Technology Intern - Software",
       "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017625"
+    },
+    "simplify:texas instruments::simplify-e28f811e-85c3-4d57-83e2-ce87c7bf684e": {
+      "company": "Texas Instruments",
+      "first_seen": "2026-10-27T22:33:48+00:00",
+      "last_seen": "2026-10-27T22:33:48+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1792103499",
+      "source": "simplify",
+      "title": "Web Marketing Intern - Front-end Developer",
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25018753"
     },
     "simplify:texas instruments::simplify-f2af9d1e-3614-4c95-bdd0-d3441623bfec": {
       "company": "Texas Instruments",
@@ -69691,5 +69781,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T22:33:09+00:00"
+  "updated_at": "2026-10-27T22:34:13+00:00"
 }
