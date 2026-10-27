@@ -1,5 +1,5 @@
 {
-  "count": 8047,
+  "count": 8051,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -63133,6 +63133,16 @@
       "title": "Software Engineer I",
       "url": "https://www.disneycareers.com/en/job/-/-/391/85002977104"
     },
+    "vanshb03:disney::vanshb03-2a9f325f-5fc8-435a-be34-f7766e9f1dac": {
+      "company": "Disney",
+      "first_seen": "2026-10-27T01:52:21+00:00",
+      "last_seen": "2026-10-27T01:52:21+00:00",
+      "location": "Vancouver, Canada",
+      "posted_at": "1793065665",
+      "source": "vanshb03",
+      "title": "Systems Engineer Intern, Data Services",
+      "url": "https://go.vansh.nyc/Uz"
+    },
     "vanshb03:disney::vanshb03-334897e1-96ff-43df-878b-6704f87c25ca": {
       "company": "Disney",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -63143,6 +63153,16 @@
       "source": "vanshb03",
       "title": "Software Engineer I",
       "url": "https://www.disneycareers.com/en/job/-/-/391/85823385568"
+    },
+    "vanshb03:disney::vanshb03-5c72cd4d-39c1-4f66-8944-0c1aa015e1f7": {
+      "company": "Disney",
+      "first_seen": "2026-10-27T01:52:21+00:00",
+      "last_seen": "2026-10-27T01:52:21+00:00",
+      "location": "Vancouver, Canada",
+      "posted_at": "1793065665",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Pipeline Infrastructure",
+      "url": "https://go.vansh.nyc/UA"
     },
     "vanshb03:diverge health::vanshb03-727f5f59-ed40-4dc1-9860-6260acd5af37": {
       "company": "Diverge Health",
@@ -64710,6 +64730,16 @@
       "title": "Member of Technical Staff Intern",
       "url": "https://go.vansh.nyc/hy"
     },
+    "vanshb03:lockheed martin::vanshb03-d2362609-cc36-4fdf-8c97-53a4bf6b5bac": {
+      "company": "Lockheed Martin",
+      "first_seen": "2026-10-27T01:52:21+00:00",
+      "last_seen": "2026-10-27T01:52:21+00:00",
+      "location": "Huntsville, AL",
+      "posted_at": "1793065665",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/UC"
+    },
     "vanshb03:lockheed martin::vanshb03-e3253f6e-43c9-4222-b07c-0ea2b474046c": {
       "company": "Lockheed Martin",
       "first_seen": "2026-10-26T16:38:06+00:00",
@@ -65310,6 +65340,18 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, BCI Applications",
       "url": "https://go.vansh.nyc/QG"
+    },
+    "vanshb03:niantic spatial::vanshb03-58603e5e-b4f0-48ac-a231-daa3e18befd7": {
+      "company": "Niantic Spatial",
+      "duplicate_of": "simplify:niantic spatial::simplify-3619b4c7-53d4-4dcc-aa54-3f79280248ed",
+      "first_seen": "2026-10-27T01:53:22+00:00",
+      "last_seen": "2026-10-27T01:53:22+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1792972800",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Native SDK & Mobile Platforms",
+      "url": "https://go.vansh.nyc/Uy"
     },
     "vanshb03:northmarq::vanshb03-b09be508-fe41-4780-bd2a-0f798d0b4a76": {
       "company": "Northmarq",
@@ -69033,5 +69075,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T01:38:50+00:00"
+  "updated_at": "2026-10-27T01:53:52+00:00"
 }
