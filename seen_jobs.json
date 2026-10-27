@@ -37737,7 +37737,7 @@
     "simplify:nvidia::simplify-6eed7061-5a5f-4b68-98e6-bdfe0e5d31c2": {
       "company": "NVIDIA",
       "first_seen": "2026-10-01T00:31:31+00:00",
-      "last_seen": "2026-10-23T00:02:24+00:00",
+      "last_seen": "2026-10-27T02:01:43+00:00",
       "location": "Santa Clara, CA",
       "posted_at": "1790726400",
       "source": "simplify",
@@ -64160,5 +64160,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T01:53:19+00:00"
+  "updated_at": "2026-10-27T02:02:21+00:00"
 }
