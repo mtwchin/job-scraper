@@ -1,5 +1,5 @@
 {
-  "count": 8118,
+  "count": 8124,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1143,6 +1143,15 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern, Applications",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b/application"
+    },
+    "vanshb03:salesforce::vanshb03-a37a1acf-a0a0-4dc4-b183-d7050135a28f": {
+      "attempted_at": "2026-10-27T22:38:11+00:00",
+      "company": "Salesforce",
+      "location": "United States",
+      "posted_at": "1793059200",
+      "source": "vanshb03",
+      "title": "Forward Deployed Engineer Intern, Global Public Sector",
+      "url": "https://go.vansh.nyc/WD"
     },
     "vanshb03:skydio::vanshb03-2295901e-eac9-41b9-8e2c-6164c9d0f3bf": {
       "attempted_at": "2026-10-25T08:43:56+00:00",
@@ -7882,6 +7891,16 @@
       "posted_at": "1783376015",
       "title": "Entry Level Software Engineer",
       "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0165144"
+    },
+    "simplify:amentum::simplify-c00e49e3-1cb9-4459-b70f-d8df2e569bac": {
+      "company": "Amentum",
+      "first_seen": "2026-10-27T23:01:47+00:00",
+      "last_seen": "2026-10-27T23:01:47+00:00",
+      "location": "Vandenberg Space Force Base, CA",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Junior Software Engineer",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629"
     },
     "simplify:amentum::simplify-ec0efca9-ba6b-47eb-9826-7864eb3520bc": {
       "company": "Amentum",
@@ -48351,6 +48370,36 @@
       "title": "Software Engineer",
       "url": "https://jobs.lever.co/salvohealth/285d6b09-7961-490b-8927-3b24698affe9/apply"
     },
+    "simplify:sambanova systems::simplify-2ca476b1-e283-4e45-8f5d-12dcfa6b20e8": {
+      "company": "SambaNova Systems",
+      "first_seen": "2026-10-27T23:01:47+00:00",
+      "last_seen": "2026-10-27T23:01:47+00:00",
+      "location": "Austin, TX, San Jose, CA",
+      "posted_at": "1793129086",
+      "source": "simplify",
+      "title": "ML Infrastructure Engineer New Grad",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004"
+    },
+    "simplify:sambanova systems::simplify-574ed495-74af-4f04-bd8a-3d57aa8a2151": {
+      "company": "SambaNova Systems",
+      "first_seen": "2026-10-27T23:01:47+00:00",
+      "last_seen": "2026-10-27T23:01:47+00:00",
+      "location": "Austin, TX, San Jose, CA",
+      "posted_at": "1793129061",
+      "source": "simplify",
+      "title": "Runtime Engineer New Grad",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224843004"
+    },
+    "simplify:sambanova systems::simplify-74737e11-7997-42ce-8911-1628466217e5": {
+      "company": "SambaNova Systems",
+      "first_seen": "2026-10-27T23:01:47+00:00",
+      "last_seen": "2026-10-27T23:01:47+00:00",
+      "location": "Austin, TX, San Jose, CA",
+      "posted_at": "1793129050",
+      "source": "simplify",
+      "title": "Compiler Engineer New Grad",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004"
+    },
     "simplify:samsara::simplify-a10690dd-586c-41d0-9609-4b55fa5eba3a": {
       "company": "Samsara",
       "first_seen": "2026-08-04T00:17:51+00:00",
@@ -49002,6 +49051,16 @@
       "posted_at": "1788991641",
       "title": "Software Engineer - AI Developer Products",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000148580489"
+    },
+    "simplify:servicenow::simplify-ffedf0e5-2d73-47af-aa9d-0ef0ae4b42d6": {
+      "company": "ServiceNow",
+      "first_seen": "2026-10-27T23:01:47+00:00",
+      "last_seen": "2026-10-27T23:01:47+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1793043857",
+      "source": "simplify",
+      "title": "Software Engineer New Grad - AI/ML",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157900224"
     },
     "simplify:set of x::simplify-17be086b-1987-4060-8151-25af9f96e55f": {
       "company": "Set of X",
@@ -56864,6 +56923,16 @@
       "posted_at": "1778941407",
       "title": "Systems Engineer 1",
       "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Systems-Engineer-I_JR2566"
+    },
+    "simplify:tsc::simplify-70e82cc3-75ea-49cc-ba32-56ba5b297758": {
+      "company": "TSC",
+      "first_seen": "2026-10-27T23:01:47+00:00",
+      "last_seen": "2026-10-27T23:01:47+00:00",
+      "location": "Silver Spring, MD",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Electrical Engineer - Radar",
+      "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Electrical-Engineer--Radar--I_JR2884"
     },
     "simplify:tsc::simplify-952ea53b-46d2-468c-a4ee-c7ea0ae0051d": {
       "company": "TSC",
@@ -69781,5 +69850,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T22:34:13+00:00"
+  "updated_at": "2026-10-27T23:02:16+00:00"
 }
