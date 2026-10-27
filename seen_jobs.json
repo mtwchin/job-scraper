@@ -1,5 +1,5 @@
 {
-  "count": 7627,
+  "count": 7631,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -4399,6 +4399,16 @@
       "posted_at": "Posted Today",
       "title": "Software Engineering Intern - Future Pathways",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842"
+    },
+    "salesforce::Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1": {
+      "company": "Salesforce",
+      "first_seen": "2026-10-27T22:23:44+00:00",
+      "last_seen": "2026-10-27T22:23:44+00:00",
+      "location": "Arkansas - Remote, Ohio - Remote",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Summer 2027 Intern - Forward Deployed Engineer \u2013 Global Public Sector",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1"
     },
     "salesforce::Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1": {
       "company": "Salesforce",
@@ -59814,6 +59824,26 @@
       "title": "New Grad 2026: Software Engineer",
       "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2026-start-6865698002"
     },
+    "vanshb03:databricks::vanshb03-4fa58e54-6a7c-42ad-82da-b806598121f4": {
+      "company": "Databricks",
+      "first_seen": "2026-10-27T22:23:41+00:00",
+      "last_seen": "2026-10-27T22:23:41+00:00",
+      "location": "Bellevue, WA, Mountain View, CA",
+      "posted_at": "1793059200",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, Distributed Data Systems",
+      "url": "https://go.vansh.nyc/WB"
+    },
+    "vanshb03:databricks::vanshb03-7a4e1b1b-2a9c-4a30-a472-fc4ebabb53db": {
+      "company": "Databricks",
+      "first_seen": "2026-10-27T22:23:41+00:00",
+      "last_seen": "2026-10-27T22:23:41+00:00",
+      "location": "Bellevue, WA, Mountain View, CA, San Francisco, CA, Vancouver, Canada",
+      "posted_at": "1793059200",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/WA"
+    },
     "vanshb03:databricks::vanshb03-bed17ef6-8f66-4693-a2b4-96a614788937": {
       "company": "Databricks",
       "first_seen": "2026-10-25T08:27:04+00:00",
@@ -63699,6 +63729,16 @@
       "title": "Software Engineering Intern",
       "url": "https://university-uber.icims.com/jobs/159161/job?mobile=false&width=1270&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240"
     },
+    "vanshb03:uber::vanshb03-923fdad5-e187-4274-9847-d4fa0cbea6b7": {
+      "company": "Uber",
+      "first_seen": "2026-10-27T22:23:42+00:00",
+      "last_seen": "2026-10-27T22:23:42+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1793059200",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/Wx"
+    },
     "vanshb03:uber::vanshb03-bb23c197-5910-4caf-923b-9118085f6545": {
       "company": "Uber",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -64249,5 +64289,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T20:22:30+00:00"
+  "updated_at": "2026-10-27T22:24:37+00:00"
 }
