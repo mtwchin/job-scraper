@@ -685,6 +685,15 @@
       "title": "Software Engineering Intern",
       "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543"
     },
+    "vanshb03:salesforce::vanshb03-a37a1acf-a0a0-4dc4-b183-d7050135a28f": {
+      "attempted_at": "2026-10-27T22:38:11+00:00",
+      "company": "Salesforce",
+      "location": "United States",
+      "posted_at": "1793059200",
+      "source": "vanshb03",
+      "title": "Forward Deployed Engineer Intern, Global Public Sector",
+      "url": "https://go.vansh.nyc/WD"
+    },
     "vanshb03:skydio::vanshb03-2295901e-eac9-41b9-8e2c-6164c9d0f3bf": {
       "attempted_at": "2026-10-25T08:43:56+00:00",
       "company": "Skydio",
@@ -64309,5 +64318,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T22:33:39+00:00"
+  "updated_at": "2026-10-27T22:38:42+00:00"
 }
