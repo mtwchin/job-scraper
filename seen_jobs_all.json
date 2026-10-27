@@ -1,5 +1,5 @@
 {
-  "count": 8094,
+  "count": 8109,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -4885,6 +4885,16 @@
       "title": "Software Engineering Intern - Future Pathways",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-Intern---Future-Pathways_JR355842"
     },
+    "salesforce::Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1": {
+      "company": "Salesforce",
+      "first_seen": "2026-10-27T22:23:44+00:00",
+      "last_seen": "2026-10-27T22:23:44+00:00",
+      "location": "Arkansas - Remote, Ohio - Remote",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Summer 2027 Intern - Forward Deployed Engineer \u2013 Global Public Sector",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Arkansas---Remote/Summer-2027-Intern---Forward-Deployed-Engineer---Global-Public-Sector_JR366026-1"
+    },
     "salesforce::Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1": {
       "company": "Salesforce",
       "first_seen": "2026-10-20T01:00:21+00:00",
@@ -6401,6 +6411,16 @@
       "posted_at": "1785805700",
       "title": "Software Developer 1",
       "url": "https://jobs.lever.co/agatesoftware/60c278e1-9b47-4ba9-8961-0e0cf41e0739/apply"
+    },
+    "simplify:agile defense::simplify-84ee1b8e-a18b-47c7-a497-5a7e53a2ea04": {
+      "company": "Agile Defense",
+      "first_seen": "2026-10-27T22:32:46+00:00",
+      "last_seen": "2026-10-27T22:32:46+00:00",
+      "location": "McLean, VA",
+      "posted_at": "1793139350",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://jobs.lever.co/agile-defense/0d603eca-2337-4122-8e53-07b22a4077f8/apply"
     },
     "simplify:agile defense::simplify-c524550c-525b-4838-8898-17e6386a560e": {
       "company": "Agile Defense",
@@ -10403,6 +10423,16 @@
       "posted_at": "1785892546",
       "title": "Associate AI Software Engineer",
       "url": "https://asuresoftware.bamboohr.com/careers/1058/"
+    },
+    "simplify:at&t::simplify-08793a1b-056f-4a21-9867-6c550f09d1d5": {
+      "company": "AT&T",
+      "first_seen": "2026-10-27T22:32:46+00:00",
+      "last_seen": "2026-10-27T22:32:46+00:00",
+      "location": "Bothell, WA, Dallas, TX, Alpharetta, GA",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "AI-Native Software Engineer Analyst - Full-Stack Python",
+      "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USATXDallas--208-S-Akard-St---Concourse208-S-Akard-St--Concourse/AI-Native-Software-Engineer-Analyst--Full-Stack-Python_R-124488-1"
     },
     "simplify:at&t::simplify-28c81062-506f-485d-959b-39015b174c5d": {
       "company": "AT&T",
@@ -15102,6 +15132,16 @@
       "posted_at": "1772179689",
       "title": "Software Intern",
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Intern_R53282-1"
+    },
+    "simplify:cadence design systems::simplify-d775c1eb-869a-43d8-998a-e9a02dcd9997": {
+      "company": "Cadence Design Systems",
+      "first_seen": "2026-10-27T22:32:46+00:00",
+      "last_seen": "2026-10-27T22:32:46+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Lead Software Engineer - Mesh Generation",
+      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Lead-Software-Engineer---Mesh-Generation_R56961-2"
     },
     "simplify:cadence design systems::simplify-e849f4c2-737b-476e-8296-765db1bdc056": {
       "company": "Cadence Design Systems",
@@ -21545,6 +21585,16 @@
       "title": "Software Engineer Intern",
       "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010928"
     },
+    "simplify:emerson electric::simplify-2f04cf36-aee9-49fa-845e-326106818d30": {
+      "company": "Emerson Electric",
+      "first_seen": "2026-10-27T22:32:46+00:00",
+      "last_seen": "2026-10-27T22:32:46+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1793139144",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013042"
+    },
     "simplify:emerson electric::simplify-2f8b3696-a0e4-4b49-ae6a-ab6bbe7b640d": {
       "company": "Emerson Electric",
       "first_seen": "2026-09-22T23:43:37+00:00",
@@ -24293,6 +24343,16 @@
       "title": "Grid Automation & Software Intern",
       "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Grid-Automation---Software-Intern_R5041709-1"
     },
+    "simplify:ge vernova::simplify-09b9b75a-4724-4a31-92a8-aeefde0948c4": {
+      "company": "GE Vernova",
+      "first_seen": "2026-10-27T22:32:46+00:00",
+      "last_seen": "2026-10-27T22:32:46+00:00",
+      "location": "Greenville, SC",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "AI Engineer New Grad",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/GE-Vernova-AI-Engineer_R5057133-2"
+    },
     "simplify:ge vernova::simplify-0be76f75-bb28-4d12-b0f5-9d0455bc825b": {
       "company": "GE Vernova",
       "first_seen": "2026-09-04T23:26:59+00:00",
@@ -24560,6 +24620,16 @@
       "posted_at": "1788912000",
       "title": "Research & Innovation Intern",
       "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Stafford/Research---Innovation---Intern_R5052249"
+    },
+    "simplify:ge vernova::simplify-f0056630-4271-461e-8d6f-fcc066c9c144": {
+      "company": "GE Vernova",
+      "first_seen": "2026-10-27T22:32:46+00:00",
+      "last_seen": "2026-10-27T22:32:46+00:00",
+      "location": "Greenville, SC",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "New Technology Introduction Leader",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/New-Technology-Introduction-Leader_R5056508-2"
     },
     "simplify:ge vernova::simplify-f0ac800d-804a-400b-9ee5-a6006e56c30b": {
       "company": "GE Vernova",
@@ -35290,7 +35360,7 @@
     "simplify:meijer::simplify-ec3e9690-f766-4512-af30-a7ff06ba310d": {
       "company": "Meijer",
       "first_seen": "2026-10-23T23:02:28+00:00",
-      "last_seen": "2026-10-26T00:02:14+00:00",
+      "last_seen": "2026-10-27T22:32:46+00:00",
       "location": "Grand Rapids, MI",
       "posted_at": "1792713600",
       "source": "simplify",
@@ -38543,6 +38613,18 @@
       "title": "Software Engineer Intern - Navigation Intelligence and Connectivity Division",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150"
     },
+    "simplify:northrop grumman::simplify-4fe0fff9-5005-4bef-a6ba-278e25c94a1b": {
+      "company": "Northrop Grumman",
+      "duplicate_of": "simplify:northrop grumman::simplify-90c10d80-558b-4325-9b3e-e883b3db1a7d",
+      "first_seen": "2026-10-27T22:32:46+00:00",
+      "last_seen": "2026-10-27T22:32:46+00:00",
+      "location": "Azusa, CA",
+      "posted_at": "1793059200",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890"
+    },
     "simplify:northrop grumman::simplify-4ff921c1-6ccb-40f6-aff2-0f2ae665bc9d": {
       "company": "Northrop Grumman",
       "first_seen": "2026-08-25T15:27:09+00:00",
@@ -38577,6 +38659,18 @@
       "posted_at": "1784160000",
       "title": "Associate Software Engineer/Software Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10240868"
+    },
+    "simplify:northrop grumman::simplify-5cb614bd-a490-404d-9f15-01f7d1583f71": {
+      "company": "Northrop Grumman",
+      "duplicate_of": "simplify:northrop grumman::simplify-90c10d80-558b-4325-9b3e-e883b3db1a7d",
+      "first_seen": "2026-10-27T22:32:46+00:00",
+      "last_seen": "2026-10-27T22:32:46+00:00",
+      "location": "Boulder, CO",
+      "posted_at": "1793059200",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908"
     },
     "simplify:northrop grumman::simplify-5dc014dc-40fe-4d80-8937-e6edfd2fc3e1": {
       "company": "Northrop Grumman",
@@ -38734,6 +38828,16 @@
       "posted_at": "1781362306",
       "title": "Software Development Engineers - Level 2 or 3",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Software-Development-Engineers--Level-2-or-3-_R10236310"
+    },
+    "simplify:northrop grumman::simplify-90c10d80-558b-4325-9b3e-e883b3db1a7d": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-27T22:32:46+00:00",
+      "last_seen": "2026-10-27T22:32:46+00:00",
+      "location": "Colorado Springs, CO; Azusa, CA; Boulder, CO",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912"
     },
     "simplify:northrop grumman::simplify-9382a362-7087-43b2-a34a-7046290965ee": {
       "company": "Northrop Grumman",
@@ -40557,7 +40661,7 @@
     "simplify:otter.ai::simplify-24901885-b792-4344-a66a-26907a743ebc": {
       "company": "Otter.ai",
       "first_seen": "2026-10-07T23:08:10+00:00",
-      "last_seen": "2026-10-13T00:00:55+00:00",
+      "last_seen": "2026-10-27T22:32:46+00:00",
       "location": "Mountain View, CA",
       "posted_at": "1791411293",
       "source": "simplify",
@@ -40688,6 +40792,16 @@
       "source": "simplify",
       "title": "Software Engineering Intern",
       "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Software-Engineering-Internship_R17826"
+    },
+    "simplify:pacific northwest national laboratory::simplify-181f008b-979c-4133-835f-94bb3b4f1910": {
+      "company": "Pacific Northwest National Laboratory",
+      "first_seen": "2026-10-27T22:32:46+00:00",
+      "last_seen": "2026-10-27T22:32:46+00:00",
+      "location": "United States",
+      "posted_at": "1793121360",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://careers.pnnl.gov/jobs/12640?icims=1"
     },
     "simplify:pacific northwest national laboratory::simplify-2c5076f5-5bce-4c5e-ba14-309f96f6dd40": {
       "company": "Pacific Northwest National Laboratory",
@@ -43754,6 +43868,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://ragleinc.applytojob.com/apply/lonTfWhOqm/Software-Engineer-Intern"
+    },
+    "simplify:rainfocus::simplify-40f1cb6d-ba5b-4991-8b2a-dd09c54f239a": {
+      "company": "RainFocus",
+      "first_seen": "2026-10-27T22:32:46+00:00",
+      "last_seen": "2026-10-27T22:32:46+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1793139084",
+      "source": "simplify",
+      "title": "Junior UI Developer",
+      "url": "https://jobs.lever.co/rainfocus/ae4ee26f-6b97-4e15-9072-433d92a82798/apply"
     },
     "simplify:rainmaker::simplify-1b9a36a2-6f07-4938-983a-19a711787c74": {
       "company": "Rainmaker",
@@ -63230,6 +63354,26 @@
       "title": "New Grad 2026: Software Engineer",
       "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2026-start-6865698002"
     },
+    "vanshb03:databricks::vanshb03-4fa58e54-6a7c-42ad-82da-b806598121f4": {
+      "company": "Databricks",
+      "first_seen": "2026-10-27T22:23:41+00:00",
+      "last_seen": "2026-10-27T22:23:41+00:00",
+      "location": "Bellevue, WA, Mountain View, CA",
+      "posted_at": "1793059200",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, Distributed Data Systems",
+      "url": "https://go.vansh.nyc/WB"
+    },
+    "vanshb03:databricks::vanshb03-7a4e1b1b-2a9c-4a30-a472-fc4ebabb53db": {
+      "company": "Databricks",
+      "first_seen": "2026-10-27T22:23:41+00:00",
+      "last_seen": "2026-10-27T22:23:41+00:00",
+      "location": "Bellevue, WA, Mountain View, CA, San Francisco, CA, Vancouver, Canada",
+      "posted_at": "1793059200",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/WA"
+    },
     "vanshb03:databricks::vanshb03-bed17ef6-8f66-4693-a2b4-96a614788937": {
       "company": "Databricks",
       "first_seen": "2026-10-25T08:27:04+00:00",
@@ -68861,6 +69005,16 @@
       "title": "Software Engineering Intern",
       "url": "https://university-uber.icims.com/jobs/159161/job?mobile=false&width=1270&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240"
     },
+    "vanshb03:uber::vanshb03-923fdad5-e187-4274-9847-d4fa0cbea6b7": {
+      "company": "Uber",
+      "first_seen": "2026-10-27T22:23:42+00:00",
+      "last_seen": "2026-10-27T22:23:42+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1793059200",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/Wx"
+    },
     "vanshb03:uber::vanshb03-bb23c197-5910-4caf-923b-9118085f6545": {
       "company": "Uber",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -69537,5 +69691,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T22:10:06+00:00"
+  "updated_at": "2026-10-27T22:33:09+00:00"
 }
