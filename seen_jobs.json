@@ -1,5 +1,5 @@
 {
-  "count": 7616,
+  "count": 7617,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -60335,6 +60335,18 @@
       "title": "Software Engineer Intern, Crypto & Cross Domain Solutions",
       "url": "https://careers-gdms.icims.com/jobs/75477/software-engineer-intern-for-crypto-%26-cross-domain-solutions/job"
     },
+    "vanshb03:glean::vanshb03-80f7b19b-00f3-4200-b8e8-8c6193b8a35e": {
+      "company": "Glean",
+      "duplicate_of": "simplify:glean::simplify-6af75cb5-069d-4604-8cdf-ace14944602a",
+      "first_seen": "2026-10-27T01:32:21+00:00",
+      "last_seen": "2026-10-27T01:32:21+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1793043054",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/SV"
+    },
     "vanshb03:global relay::vanshb03-a1fe1160-a32c-41b1-a47d-c72c5d2785d6": {
       "company": "Global Relay",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -64118,5 +64130,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T01:32:14+00:00"
+  "updated_at": "2026-10-27T01:33:16+00:00"
 }
