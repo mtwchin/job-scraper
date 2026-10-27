@@ -1,5 +1,5 @@
 {
-  "count": 7625,
+  "count": 7626,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -58971,6 +58971,16 @@
       "title": "SoC Machine Learning Software Engineer Intern",
       "url": "https://jobs.apple.com/en-us/details/200689488"
     },
+    "vanshb03:apple::vanshb03-54c6c262-2f23-4e23-9281-09171536e781": {
+      "company": "Apple",
+      "first_seen": "2026-10-27T17:09:53+00:00",
+      "last_seen": "2026-10-27T17:09:53+00:00",
+      "location": "United States",
+      "posted_at": "1793024849",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Core OS",
+      "url": "https://go.vansh.nyc/W1"
+    },
     "vanshb03:apple::vanshb03-6fe1052d-2f74-4956-bac6-b60766e9082a": {
       "company": "Apple",
       "first_seen": "2026-10-26T11:48:47+00:00",
@@ -64219,5 +64229,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T15:31:23+00:00"
+  "updated_at": "2026-10-27T17:10:27+00:00"
 }
