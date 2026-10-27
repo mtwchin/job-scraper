@@ -1,5 +1,5 @@
 {
-  "count": 8064,
+  "count": 8068,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -63674,6 +63674,16 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004"
     },
+    "vanshb03:first solar (us)::vanshb03-a6e71544-6972-44f0-8ff4-390a382624aa": {
+      "company": "First Solar (US)",
+      "first_seen": "2026-10-27T11:11:11+00:00",
+      "last_seen": "2026-10-27T11:11:11+00:00",
+      "location": "Perrysburg, OH",
+      "posted_at": "1791158400",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Vk"
+    },
     "vanshb03:five rings::vanshb03-4b8ca79c-b960-40bb-91f5-635de8e52635": {
       "company": "Five Rings",
       "first_seen": "2026-10-25T08:27:06+00:00",
@@ -66587,6 +66597,36 @@
       "title": "Software Engineer Intern, Inference",
       "url": "https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4"
     },
+    "vanshb03:ricoh::vanshb03-27d01d17-8aa6-430d-aac4-b97541736fdd": {
+      "company": "Ricoh",
+      "first_seen": "2026-10-27T11:11:11+00:00",
+      "last_seen": "2026-10-27T11:11:11+00:00",
+      "location": "Boulder, CO",
+      "posted_at": "1789603200",
+      "source": "vanshb03",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/Vi"
+    },
+    "vanshb03:ricoh::vanshb03-4d3ecf9d-da61-4291-bbb9-58a1780c4f19": {
+      "company": "Ricoh",
+      "first_seen": "2026-10-27T11:11:11+00:00",
+      "last_seen": "2026-10-27T11:11:11+00:00",
+      "location": "Boulder, CO",
+      "posted_at": "1790812800",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Microservice Developer",
+      "url": "https://go.vansh.nyc/Vj"
+    },
+    "vanshb03:ricoh::vanshb03-f33cf776-07e3-4510-a84d-4b0f368a0a5e": {
+      "company": "Ricoh",
+      "first_seen": "2026-10-27T11:11:11+00:00",
+      "last_seen": "2026-10-27T11:11:11+00:00",
+      "location": "Boulder, CO",
+      "posted_at": "1792368000",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Graphic Communications",
+      "url": "https://go.vansh.nyc/Vl"
+    },
     "vanshb03:rippling::vanshb03-859558cb-6cc3-4251-8a23-4545fdfaebfa": {
       "company": "Rippling",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -69214,5 +69254,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T10:11:22+00:00"
+  "updated_at": "2026-10-27T11:11:25+00:00"
 }
