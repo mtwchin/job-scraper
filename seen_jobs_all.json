@@ -1,5 +1,5 @@
 {
-  "count": 8087,
+  "count": 8088,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -67473,6 +67473,16 @@
       "title": "Software Engineer I - Membership",
       "url": "https://join.softheon.com/_/j/4AFE55D62D/"
     },
+    "vanshb03:sonos::vanshb03-c0f16512-8c7e-4733-bd2b-f0450e636a7e": {
+      "company": "Sonos",
+      "first_seen": "2026-10-27T19:09:45+00:00",
+      "last_seen": "2026-10-27T19:09:45+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793127043",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/W9"
+    },
     "vanshb03:soti::vanshb03-1605f560-b8fd-4dd2-ae91-6111f9c9ce84": {
       "company": "SOTI",
       "first_seen": "2026-10-26T16:58:12+00:00",
@@ -69452,5 +69462,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T18:11:47+00:00"
+  "updated_at": "2026-10-27T19:09:51+00:00"
 }
