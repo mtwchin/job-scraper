@@ -1,5 +1,5 @@
 {
-  "count": 8074,
+  "count": 8077,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -18670,6 +18670,28 @@
       "posted_at": "1788993024",
       "title": "Developer Intern",
       "url": "https://jobs.lever.co/crestoperations/e012721c-e731-483d-a4e3-1a240c48bfbd/apply"
+    },
+    "simplify:crosscountry consulting::simplify-51468c5a-b033-4207-9b74-f29b742bc364": {
+      "company": "CrossCountry Consulting",
+      "duplicate_of": "simplify:crosscountry consulting::simplify-9f9295eb-a51e-49d6-8755-2fbe6cd5e3fe",
+      "first_seen": "2026-10-27T14:31:27+00:00",
+      "last_seen": "2026-10-27T14:31:27+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1793110514",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Forward Deployed Software Engineer New Grad",
+      "url": "https://jobs.lever.co/crosscountry-consulting/10ecb553-0393-4e7b-af5a-88a1947a0769/apply"
+    },
+    "simplify:crosscountry consulting::simplify-9f9295eb-a51e-49d6-8755-2fbe6cd5e3fe": {
+      "company": "CrossCountry Consulting",
+      "first_seen": "2026-10-27T14:31:28+00:00",
+      "last_seen": "2026-10-27T14:31:28+00:00",
+      "location": "NYC; Chicago, IL",
+      "posted_at": "1793110509",
+      "source": "simplify",
+      "title": "Forward Deployed Software Engineer New Grad",
+      "url": "https://jobs.lever.co/crosscountry-consulting/f294b6dd-b2dc-46c5-9139-9ba93163ba5c/apply"
     },
     "simplify:crossmark::simplify-aa1f9e60-c448-45b5-aeb8-6f3cefcf159a": {
       "company": "CROSSMARK",
@@ -39016,6 +39038,16 @@
       "source": "simplify",
       "title": "Software Engineering Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080"
+    },
+    "simplify:northrop grumman::simplify-dd78d693-5a46-4ccf-8fec-2c46920e2d0d": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-27T14:31:28+00:00",
+      "last_seen": "2026-10-27T14:31:28+00:00",
+      "location": "Colorado Springs, CO",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Associate Software Engineer / Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Colorado-Springs-CO_R10257768"
     },
     "simplify:northrop grumman::simplify-ddb49233-5a37-440d-b616-cac6dc372935": {
       "company": "Northrop Grumman",
@@ -69316,5 +69348,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T13:11:28+00:00"
+  "updated_at": "2026-10-27T14:31:32+00:00"
 }
