@@ -1,5 +1,5 @@
 {
-  "count": 8093,
+  "count": 8094,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -67325,6 +67325,16 @@
       "title": "New Grad 2025: Software Engineer",
       "url": "https://jobs.ashbyhq.com/sentry/90fb5dd4-410d-4672-9f40-3f11ea01c75d"
     },
+    "vanshb03:servicenow::vanshb03-0a2c3c96-6161-4f97-aa48-518f989408a5": {
+      "company": "ServiceNow",
+      "first_seen": "2026-10-27T22:09:45+00:00",
+      "last_seen": "2026-10-27T22:09:45+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1793052512",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer (AI/ML)",
+      "url": "https://go.vansh.nyc/WC"
+    },
     "vanshb03:servicenow::vanshb03-1bbc1e3a-35a8-462b-a5f3-eb1764ec2e0a": {
       "company": "ServiceNow",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -69527,5 +69537,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T22:09:04+00:00"
+  "updated_at": "2026-10-27T22:10:06+00:00"
 }
