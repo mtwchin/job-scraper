@@ -1,5 +1,5 @@
 {
-  "count": 7622,
+  "count": 7623,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -61319,6 +61319,16 @@
       "title": "Software Engineer 1 / Early Career - Backend C++/Linux/AWS-S3",
       "url": "https://jobs.jobvite.com/nutanix/job/oGXDxfwx?nl=1&nl=1&fr=false"
     },
+    "vanshb03:nvidia (eightfold)::vanshb03-81e4349a-0208-4067-97c4-2bff5b00908a": {
+      "company": "NVIDIA (Eightfold)",
+      "first_seen": "2026-10-27T12:09:02+00:00",
+      "last_seen": "2026-10-27T12:09:02+00:00",
+      "location": "Berlin, DE",
+      "posted_at": "1793102753",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, AI Agents & Backend Infrastructure",
+      "url": "https://go.vansh.nyc/Vv"
+    },
     "vanshb03:nvidia::vanshb03-8e13a875-b5b1-46d1-ada8-cdc1dfa8b485": {
       "company": "NVIDIA",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -64189,5 +64199,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T09:38:58+00:00"
+  "updated_at": "2026-10-27T12:09:03+00:00"
 }
