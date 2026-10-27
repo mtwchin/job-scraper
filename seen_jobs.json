@@ -1,5 +1,5 @@
 {
-  "count": 7626,
+  "count": 7627,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2106,6 +2106,16 @@
       "source": "",
       "title": "Software Engineering Intern (2027)",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"
+    },
+    "databricks::6865698002": {
+      "company": "Databricks",
+      "first_seen": "2026-10-27T20:02:36+00:00",
+      "last_seen": "2026-10-27T20:02:36+00:00",
+      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
+      "posted_at": "2026-10-27T16:02:08-04:00",
+      "source": "",
+      "title": "Software Engineer - New Grad (2027 Start)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002"
     },
     "databricks::8732364002": {
       "company": "Databricks",
@@ -64230,5 +64240,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T18:25:37+00:00"
+  "updated_at": "2026-10-27T20:03:27+00:00"
 }
