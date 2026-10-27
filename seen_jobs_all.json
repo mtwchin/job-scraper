@@ -1,5 +1,5 @@
 {
-  "count": 8090,
+  "count": 8092,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -65639,6 +65639,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/N2"
     },
+    "vanshb03:northrop grumman::vanshb03-032a051a-3476-406d-9748-d7b2fb7568d5": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-27T20:39:46+00:00",
+      "last_seen": "2026-10-27T20:39:46+00:00",
+      "location": "Azusa, CA; Boulder, CO",
+      "posted_at": "1793059200",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Associate Software Engineer",
+      "url": "https://go.vansh.nyc/Wn"
+    },
     "vanshb03:northrop grumman::vanshb03-42b214fe-48b1-4f78-ba30-82ec84babd47": {
       "company": "Northrop Grumman",
       "first_seen": "2026-10-22T19:44:19+00:00",
@@ -65680,6 +65690,18 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/Wl"
+    },
+    "vanshb03:northrop grumman::vanshb03-a2bf4203-9697-48ee-ab6e-4a83627dcdd5": {
+      "company": "Northrop Grumman",
+      "duplicate_of": "vanshb03:northrop grumman::vanshb03-032a051a-3476-406d-9748-d7b2fb7568d5",
+      "first_seen": "2026-10-27T20:39:45+00:00",
+      "last_seen": "2026-10-27T20:39:45+00:00",
+      "location": "Boulder, CO",
+      "posted_at": "1793059200",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "New Grad 2027: Associate Software Engineer",
+      "url": "https://go.vansh.nyc/Wo"
     },
     "vanshb03:northrop grumman::vanshb03-a935273f-f0e0-441b-9b94-b853e1ab2f5a": {
       "company": "Northrop Grumman",
@@ -69493,5 +69515,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T20:37:58+00:00"
+  "updated_at": "2026-10-27T20:40:00+00:00"
 }
