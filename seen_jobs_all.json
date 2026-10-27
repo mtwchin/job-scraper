@@ -1,5 +1,5 @@
 {
-  "count": 8073,
+  "count": 8074,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -66980,6 +66980,16 @@
       "title": "Software Engineer Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451"
     },
+    "vanshb03:rtx::vanshb03-9496da95-497c-4080-9240-ba1f9c5d9760": {
+      "company": "RTX",
+      "first_seen": "2026-10-27T13:11:26+00:00",
+      "last_seen": "2026-10-27T13:11:26+00:00",
+      "location": "Mckinney, TX",
+      "posted_at": "1793106179",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer I",
+      "url": "https://go.vansh.nyc/VA"
+    },
     "vanshb03:rtx::vanshb03-aa3767fb-f5f0-41c7-b500-3bd4c16ad62e": {
       "company": "RTX",
       "first_seen": "2026-10-26T08:51:05+00:00",
@@ -69306,5 +69316,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T12:39:25+00:00"
+  "updated_at": "2026-10-27T13:11:28+00:00"
 }
