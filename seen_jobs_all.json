@@ -1,5 +1,5 @@
 {
-  "count": 8088,
+  "count": 8090,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -45,6 +45,15 @@
       "source": "",
       "title": "Software Developer I (Full Time) - Canada",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Ottawa-Ontario-Canada/Software-Developer-I--Full-Time----Canada_2028166"
+    },
+    "databricks::6865704002": {
+      "attempted_at": "2026-10-27T20:22:18+00:00",
+      "company": "Databricks",
+      "location": "Bellevue, Washington; Mountain View, California",
+      "posted_at": "2026-10-27T16:22:04-04:00",
+      "source": "",
+      "title": "Software Engineer - New Grad, Distributed Data Systems (2027 Start)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002"
     },
     "doordash::8263774": {
       "attempted_at": "2026-10-08T06:51:14+00:00",
@@ -2592,6 +2601,16 @@
       "source": "",
       "title": "Software Engineering Intern (2027)",
       "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002"
+    },
+    "databricks::6865698002": {
+      "company": "Databricks",
+      "first_seen": "2026-10-27T20:02:36+00:00",
+      "last_seen": "2026-10-27T20:02:36+00:00",
+      "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
+      "posted_at": "2026-10-27T16:02:08-04:00",
+      "source": "",
+      "title": "Software Engineer - New Grad (2027 Start)",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002"
     },
     "databricks::8732364002": {
       "company": "Databricks",
@@ -65650,6 +65669,18 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/ST"
     },
+    "vanshb03:northrop grumman::vanshb03-9eb663a4-d935-4dc7-ab6c-e8393c93623c": {
+      "company": "Northrop Grumman",
+      "duplicate_of": "simplify:northrop grumman::simplify-24acfe0f-88f2-4bb9-886e-3ea454518e2c",
+      "first_seen": "2026-10-27T20:37:45+00:00",
+      "last_seen": "2026-10-27T20:37:45+00:00",
+      "location": "Azusa, CA",
+      "posted_at": "1793132512",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Wl"
+    },
     "vanshb03:northrop grumman::vanshb03-a935273f-f0e0-441b-9b94-b853e1ab2f5a": {
       "company": "Northrop Grumman",
       "first_seen": "2026-10-20T22:29:43+00:00",
@@ -69462,5 +69493,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T19:09:51+00:00"
+  "updated_at": "2026-10-27T20:37:58+00:00"
 }
