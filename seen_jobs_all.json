@@ -1,5 +1,5 @@
 {
-  "count": 8060,
+  "count": 8063,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -54,6 +54,15 @@
       "source": "",
       "title": "Software Engineer, Intern - Labs (Summer 2027)",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8263774"
+    },
+    "nvidia::Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939": {
+      "attempted_at": "2026-10-27T09:38:37+00:00",
+      "company": "Nvidia",
+      "location": "UK, Remote, UK, Bristol, UK, Belfast, UK, Reading",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Software Engineering Intern, AI Agents and Backend Infrastructure \u2013 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939"
     },
     "palantir::90329118-d9b7-4b96-acdf-13377e3196ac": {
       "attempted_at": "2026-10-19T23:47:18+00:00",
@@ -26045,6 +26054,16 @@
       "posted_at": "1786767952",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171567?type=students"
+    },
+    "simplify:goldman sachs::simplify-9e6275a1-cf04-4bd1-b477-7016e96a3b06": {
+      "company": "Goldman Sachs",
+      "first_seen": "2026-10-27T09:31:53+00:00",
+      "last_seen": "2026-10-27T09:31:53+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1787090998",
+      "source": "simplify",
+      "title": "Data Platform Engineering",
+      "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/181810"
     },
     "simplify:goldman sachs::simplify-a84b5ca0-5e89-4893-97cb-4be5aead281c": {
       "company": "Goldman Sachs",
@@ -65622,6 +65641,26 @@
       "title": "3D Subsea Simulator Software Intern",
       "url": "https://go.vansh.nyc/H8"
     },
+    "vanshb03:oceaneering::vanshb03-7dc09b8e-172c-4828-8ed0-c34a35c91ea3": {
+      "company": "Oceaneering",
+      "first_seen": "2026-10-27T10:09:10+00:00",
+      "last_seen": "2026-10-27T10:09:10+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1790121600",
+      "source": "vanshb03",
+      "title": "Software Intern, C++",
+      "url": "https://go.vansh.nyc/V2"
+    },
+    "vanshb03:oceaneering::vanshb03-83508569-f58d-4d50-b350-a8e2f69665b4": {
+      "company": "Oceaneering",
+      "first_seen": "2026-10-27T10:09:10+00:00",
+      "last_seen": "2026-10-27T10:09:10+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1790121600",
+      "source": "vanshb03",
+      "title": "ROV Software Intern",
+      "url": "https://go.vansh.nyc/V1"
+    },
     "vanshb03:okta::vanshb03-e0a4bc37-7764-4733-b331-b45878eced60": {
       "company": "Okta",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -69165,5 +69204,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T09:31:17+00:00"
+  "updated_at": "2026-10-27T10:09:20+00:00"
 }
