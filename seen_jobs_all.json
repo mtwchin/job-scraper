@@ -1,5 +1,5 @@
 {
-  "count": 8092,
+  "count": 8093,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -67145,6 +67145,18 @@
       "title": "Secure Software Intern",
       "url": "https://go.vansh.nyc/VG"
     },
+    "vanshb03:rtx::vanshb03-2be02248-53d3-4ef6-89ef-f4e879acc872": {
+      "company": "RTX",
+      "duplicate_of": "simplify:rtx::simplify-e8a2975b-62cb-450a-9629-f7210118211b",
+      "first_seen": "2026-10-27T22:08:45+00:00",
+      "last_seen": "2026-10-27T22:08:45+00:00",
+      "location": "Cedar Rapids, IA",
+      "posted_at": "1793059200",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/Ww"
+    },
     "vanshb03:rtx::vanshb03-44ecec59-f0a0-4e6a-9c1e-3c1c49902fba": {
       "company": "RTX",
       "duplicate_of": "simplify:rtx::simplify-09d77bd3-845b-4ffb-bc37-c77d9ed70dd6",
@@ -69515,5 +69527,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T20:40:00+00:00"
+  "updated_at": "2026-10-27T22:09:04+00:00"
 }
