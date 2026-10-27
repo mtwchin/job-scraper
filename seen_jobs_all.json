@@ -1,5 +1,5 @@
 {
-  "count": 8059,
+  "count": 8060,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -23561,6 +23561,16 @@
       "source": "simplify",
       "title": "Software Development Engineer - Gui",
       "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24399"
+    },
+    "simplify:fortinet::simplify-9775f7b2-989f-4829-8ba4-4039b4334a4c": {
+      "company": "Fortinet",
+      "first_seen": "2026-10-27T09:31:11+00:00",
+      "last_seen": "2026-10-27T09:31:11+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1792805650",
+      "source": "simplify",
+      "title": "AI Automation Engineer",
+      "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24771"
     },
     "simplify:fortinet::simplify-a48ddd41-804f-44ac-b08f-8ea10552ea6d": {
       "company": "Fortinet",
@@ -69155,5 +69165,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T09:02:15+00:00"
+  "updated_at": "2026-10-27T09:31:17+00:00"
 }
