@@ -1,5 +1,5 @@
 {
-  "count": 8071,
+  "count": 8073,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -65534,6 +65534,16 @@
       "title": "Cyber Systems Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196"
     },
+    "vanshb03:northrop grumman::vanshb03-abd1a870-00ac-4b82-b7c4-10d23ce9014c": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-27T12:11:10+00:00",
+      "last_seen": "2026-10-27T12:11:10+00:00",
+      "location": "Colorado Springs, CO",
+      "posted_at": "1793059200",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
+      "url": "https://go.vansh.nyc/Vw"
+    },
     "vanshb03:northwood space::vanshb03-f059e346-e26d-484c-9dcd-6e572ce46932": {
       "company": "Northwood Space",
       "first_seen": "2026-10-27T11:13:11+00:00",
@@ -65651,6 +65661,16 @@
       "source": "vanshb03",
       "title": "CPU Software Intern",
       "url": "https://go.vansh.nyc/Tm"
+    },
+    "vanshb03:nvidia (eightfold)::vanshb03-81e4349a-0208-4067-97c4-2bff5b00908a": {
+      "company": "NVIDIA (Eightfold)",
+      "first_seen": "2026-10-27T12:09:02+00:00",
+      "last_seen": "2026-10-27T12:09:02+00:00",
+      "location": "Berlin, DE",
+      "posted_at": "1793102753",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, AI Agents & Backend Infrastructure",
+      "url": "https://go.vansh.nyc/Vv"
     },
     "vanshb03:nvidia::vanshb03-8e13a875-b5b1-46d1-ada8-cdc1dfa8b485": {
       "company": "NVIDIA",
@@ -69286,5 +69306,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T11:13:27+00:00"
+  "updated_at": "2026-10-27T12:11:30+00:00"
 }
