@@ -1,5 +1,5 @@
 {
-  "count": 8068,
+  "count": 8071,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -62996,6 +62996,18 @@
       "title": "Associate Embedded Software Engineer Intern",
       "url": "https://go.vansh.nyc/Ee"
     },
+    "vanshb03:costar group::vanshb03-bb188637-051b-463d-b6f0-551bae39d3b7": {
+      "company": "CoStar Group",
+      "duplicate_of": "vanshb03:costar group::vanshb03-35b0800e-6687-4526-a92e-65ddcb261792",
+      "first_seen": "2026-10-27T11:13:10+00:00",
+      "last_seen": "2026-10-27T11:13:10+00:00",
+      "location": "Irvine, CA",
+      "posted_at": "1793099429",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "New Grad 2027: Associate Software Engineer",
+      "url": "https://go.vansh.nyc/Vr"
+    },
     "vanshb03:credit genie::vanshb03-b26e4dea-7809-4ece-96c8-ebd97f5e3021": {
       "company": "Credit Genie",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -65522,6 +65534,16 @@
       "title": "Cyber Systems Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196"
     },
+    "vanshb03:northwood space::vanshb03-f059e346-e26d-484c-9dcd-6e572ce46932": {
+      "company": "Northwood Space",
+      "first_seen": "2026-10-27T11:13:11+00:00",
+      "last_seen": "2026-10-27T11:13:11+00:00",
+      "location": "Torrance, CA",
+      "posted_at": "1793099429",
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineer \u2013 General",
+      "url": "https://go.vansh.nyc/Vq"
+    },
     "vanshb03:notion::vanshb03-1c67c620-a130-4ade-9fa4-a4de51ac9cf7": {
       "company": "Notion",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -66626,6 +66648,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Graphic Communications",
       "url": "https://go.vansh.nyc/Vl"
+    },
+    "vanshb03:rilla::vanshb03-4f14f2c5-8cc3-4acb-bb85-05d170643589": {
+      "company": "Rilla",
+      "first_seen": "2026-10-27T11:13:11+00:00",
+      "last_seen": "2026-10-27T11:13:11+00:00",
+      "location": "New York, NY",
+      "posted_at": "1793099429",
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineer",
+      "url": "https://go.vansh.nyc/Vn"
     },
     "vanshb03:rippling::vanshb03-859558cb-6cc3-4251-8a23-4545fdfaebfa": {
       "company": "Rippling",
@@ -69254,5 +69286,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T11:11:25+00:00"
+  "updated_at": "2026-10-27T11:13:27+00:00"
 }
