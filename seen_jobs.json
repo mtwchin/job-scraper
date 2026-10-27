@@ -1,5 +1,5 @@
 {
-  "count": 7633,
+  "count": 7635,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -28070,6 +28070,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.intuit.com/job/new-york/intern-software-engineering/27595/99410270400"
     },
+    "simplify:intuit::simplify-a279fba6-3495-4e9c-ac89-769269250310": {
+      "company": "Intuit",
+      "first_seen": "2026-10-27T23:02:30+00:00",
+      "last_seen": "2026-10-27T23:02:30+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793140376",
+      "source": "simplify",
+      "title": "Software Developer 1 - API Management Platform",
+      "url": "https://jobs.intuit.com/job/toronto/software-developer-1-api-management-platform/27595/102521440064"
+    },
     "simplify:intuit::simplify-a57d347e-4ce0-4590-bf80-9368dd106660": {
       "company": "Intuit",
       "first_seen": "2026-09-14T21:34:50+00:00",
@@ -28089,6 +28099,16 @@
       "source": "simplify",
       "title": "Marketing Intern - AI Tooling for Marketing Efficiency",
       "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552"
+    },
+    "simplify:intuit::simplify-b5b550d8-07b7-48d1-a1ba-9aa09a1cc8c1": {
+      "company": "Intuit",
+      "first_seen": "2026-10-27T23:02:30+00:00",
+      "last_seen": "2026-10-27T23:02:30+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793140378",
+      "source": "simplify",
+      "title": "Software Developer 1",
+      "url": "https://jobs.intuit.com/job/toronto/software-developer-1/27595/102521439744"
     },
     "simplify:intuit::simplify-cdbc0a69-360c-4dfe-8c6d-5c0fea16678d": {
       "company": "Intuit",
@@ -64318,5 +64338,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T22:38:42+00:00"
+  "updated_at": "2026-10-27T23:02:44+00:00"
 }
