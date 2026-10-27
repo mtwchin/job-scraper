@@ -1,5 +1,5 @@
 {
-  "count": 8051,
+  "count": 8055,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -10636,6 +10636,46 @@
       "source": "simplify",
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/aurelian/a2bc965f-d639-41f7-946a-67c05c22e04e/application?embed=true"
+    },
+    "simplify:aurora innovation::simplify-049cea50-d78a-47ec-bcdf-991d89ae226a": {
+      "company": "Aurora Innovation",
+      "first_seen": "2026-10-27T02:02:23+00:00",
+      "last_seen": "2026-10-27T02:02:23+00:00",
+      "location": "Pittsburgh, PA, Mountain View, CA",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Full Stack Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9/application?embed=true"
+    },
+    "simplify:aurora innovation::simplify-14d9ebdd-7c3d-4e8a-acaf-97c40fc2d9fb": {
+      "company": "Aurora Innovation",
+      "first_seen": "2026-10-27T02:02:23+00:00",
+      "last_seen": "2026-10-27T02:02:23+00:00",
+      "location": "SF, Mountain View, CA",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Simulation Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd/application?embed=true"
+    },
+    "simplify:aurora innovation::simplify-626eb6cc-ead0-4682-883c-b93395cb4e04": {
+      "company": "Aurora Innovation",
+      "first_seen": "2026-10-27T02:02:23+00:00",
+      "last_seen": "2026-10-27T02:02:23+00:00",
+      "location": "Pittsburgh, PA, Mountain View, CA",
+      "posted_at": "1790294400",
+      "source": "simplify",
+      "title": "Core Autonomy Software Intern - C++",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12/application?embed=true"
+    },
+    "simplify:aurora innovation::simplify-c4495dbb-9fdd-486f-bfc8-3b914424d558": {
+      "company": "Aurora Innovation",
+      "first_seen": "2026-10-27T02:02:23+00:00",
+      "last_seen": "2026-10-27T02:02:23+00:00",
+      "location": "Seattle, WA, Pittsburgh, PA, Mountain View, CA",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "AI Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c/application?embed=true"
     },
     "simplify:authentic::simplify-697d4f47-13f9-46f4-85e4-18851d90babb": {
       "company": "Authentic",
@@ -31991,7 +32031,7 @@
     "simplify:klaviyo::simplify-155087e9-02c4-4e9c-af43-3d7e5a3a6091": {
       "company": "Klaviyo",
       "first_seen": "2026-09-12T18:23:19+00:00",
-      "last_seen": "2026-10-23T00:02:39+00:00",
+      "last_seen": "2026-10-27T02:02:22+00:00",
       "posted_at": "1789234577",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003"
@@ -32024,7 +32064,7 @@
     "simplify:klaviyo::simplify-90073809-4e42-4a91-9c65-c5750c320aba": {
       "company": "Klaviyo",
       "first_seen": "2026-09-12T18:23:19+00:00",
-      "last_seen": "2026-10-23T00:02:39+00:00",
+      "last_seen": "2026-10-27T02:02:22+00:00",
       "posted_at": "1789234577",
       "title": "Software Engineer Co-op",
       "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989365003"
@@ -69075,5 +69115,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T01:53:52+00:00"
+  "updated_at": "2026-10-27T02:02:55+00:00"
 }
