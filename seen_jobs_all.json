@@ -1,5 +1,5 @@
 {
-  "count": 8079,
+  "count": 8080,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -67008,6 +67008,16 @@
       "title": "Junior Software Engineer",
       "url": "https://jobs.ashbyhq.com/Rose%20Rocket/c074b14e-ebe0-4a14-beb2-1419eca9d447/application"
     },
+    "vanshb03:rtx::vanshb03-1fe89484-cadc-486a-9f6e-e65f20873f7e": {
+      "company": "RTX",
+      "first_seen": "2026-10-27T14:39:27+00:00",
+      "last_seen": "2026-10-27T14:39:27+00:00",
+      "location": "Woburn, MA",
+      "posted_at": "1793111100",
+      "source": "vanshb03",
+      "title": "Secure Software Intern",
+      "url": "https://go.vansh.nyc/VG"
+    },
     "vanshb03:rtx::vanshb03-44ecec59-f0a0-4e6a-9c1e-3c1c49902fba": {
       "company": "RTX",
       "duplicate_of": "simplify:rtx::simplify-09d77bd3-845b-4ffb-bc37-c77d9ed70dd6",
@@ -69368,5 +69378,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-27T14:32:34+00:00"
+  "updated_at": "2026-10-27T14:39:37+00:00"
 }
