@@ -1,5 +1,5 @@
 {
-  "count": 8198,
+  "count": 8199,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -63176,6 +63176,18 @@
       "title": "Platform Engineering Intern",
       "url": "https://go.vansh.nyc/QC"
     },
+    "vanshb03:axiom math::vanshb03-e05c4ec2-79ca-492f-a162-f88dfb235dff": {
+      "company": "Axiom Math",
+      "duplicate_of": "simplify:axiom math::simplify-5e478bc2-4e79-471f-aee6-6776530ddf09",
+      "first_seen": "2026-10-28T10:08:23+00:00",
+      "last_seen": "2026-10-28T10:08:23+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793145600",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Member of Technical Staff Intern",
+      "url": "https://go.vansh.nyc/Xm"
+    },
     "vanshb03:bae systems::vanshb03-78d451b7-7d85-4d58-a03f-5254f0620fac": {
       "company": "BAE Systems",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -70621,5 +70633,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T10:02:51+00:00"
+  "updated_at": "2026-10-28T10:08:53+00:00"
 }
