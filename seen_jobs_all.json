@@ -1,5 +1,5 @@
 {
-  "count": 8158,
+  "count": 8161,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -63392,6 +63392,28 @@
       "title": "Software Engineer Intern, C++",
       "url": "https://go.vansh.nyc/88"
     },
+    "vanshb03:chathamfinancial::vanshb03-3870fd15-e536-4e22-b402-5c9d45b4322f": {
+      "company": "chathamfinancial",
+      "duplicate_of": "vanshb03:chathamfinancial::vanshb03-cda7ba17-183a-488e-91e2-03a1effd33c7",
+      "first_seen": "2026-10-28T06:09:23+00:00",
+      "last_seen": "2026-10-28T06:09:23+00:00",
+      "location": "Kennett Square, PA",
+      "posted_at": "1793145600",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/X6"
+    },
+    "vanshb03:chathamfinancial::vanshb03-cda7ba17-183a-488e-91e2-03a1effd33c7": {
+      "company": "chathamfinancial",
+      "first_seen": "2026-10-28T06:09:24+00:00",
+      "last_seen": "2026-10-28T06:09:24+00:00",
+      "location": "Denver, CO; Kennett Square, PA",
+      "posted_at": "1793145600",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/X5"
+    },
     "vanshb03:cibc::vanshb03-561f4093-2ac6-4050-b7fb-c0d6c32533ae": {
       "company": "CIBC",
       "duplicate_of": "simplify:cibc::simplify-31378135-5f8c-4b51-bc35-dd36b493da6c",
@@ -69745,6 +69767,16 @@
       "title": "Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009"
     },
+    "vanshb03:vsp vision::vanshb03-d3bd142d-32e3-4c0b-adc4-4ce114a210d9": {
+      "company": "VSP Vision",
+      "first_seen": "2026-10-28T06:09:24+00:00",
+      "last_seen": "2026-10-28T06:09:24+00:00",
+      "location": "Remote, United States",
+      "posted_at": "1793164723",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/X3"
+    },
     "vanshb03:wanderlog (w19)::vanshb03-22c6766f-df59-43ee-822b-df2319b6cebd": {
       "company": "Wanderlog (W19)",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -70207,5 +70239,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T05:10:23+00:00"
+  "updated_at": "2026-10-28T06:09:26+00:00"
 }
