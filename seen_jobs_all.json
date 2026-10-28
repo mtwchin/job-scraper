@@ -1,5 +1,5 @@
 {
-  "count": 8234,
+  "count": 8244,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -7750,6 +7750,16 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/amca/jobs/4425120009"
     },
+    "simplify:amd::simplify-015289cb-f341-4c56-b934-ad5a39ac1cb8": {
+      "company": "AMD",
+      "first_seen": "2026-10-28T23:02:11+00:00",
+      "last_seen": "2026-10-28T23:02:11+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793205720",
+      "source": "simplify",
+      "title": "Masters AI Training Software & Performance Co-op",
+      "url": "https://careers.amd.com/jobs/93476?icims=1"
+    },
     "simplify:amd::simplify-03a692be-c92c-46ec-92a0-4dc48f6487c1": {
       "company": "AMD",
       "first_seen": "2026-09-01T14:21:00+00:00",
@@ -7757,6 +7767,16 @@
       "posted_at": "1788256547",
       "title": "Software Engineer Intern/Co-op",
       "url": "https://careers.amd.com/jobs/91366?icims=1"
+    },
+    "simplify:amd::simplify-0727f717-7671-410b-a2ce-72856c4f8adb": {
+      "company": "AMD",
+      "first_seen": "2026-10-28T23:01:31+00:00",
+      "last_seen": "2026-10-28T23:01:31+00:00",
+      "location": "Austin, TX, San Jose, CA",
+      "posted_at": "1793210760",
+      "source": "simplify",
+      "title": "Distributed Systems Software Engineer - Collectives",
+      "url": "https://careers.amd.com/jobs/93894?icims=1"
     },
     "simplify:amd::simplify-2057d1a3-289b-49ae-8328-fa3527c533c5": {
       "company": "AMD",
@@ -8310,6 +8330,16 @@
       "posted_at": "1789394954",
       "title": "Software Engineer New Grad",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013783"
+    },
+    "simplify:american express::simplify-dd5445d4-cfa8-4776-afcc-18cc05033ec6": {
+      "company": "American Express",
+      "first_seen": "2026-10-28T23:01:59+00:00",
+      "last_seen": "2026-10-28T23:01:59+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793227263",
+      "source": "simplify",
+      "title": "Campus Graduate Full-Time Engineer - 2027 AI Engineering - Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015465"
     },
     "simplify:american express::simplify-fccd4367-7e28-42a3-93ee-6e8e6447fbf3": {
       "company": "American Express",
@@ -10243,6 +10273,16 @@
       "posted_at": "1787343096",
       "title": "Application Technology Specialist - Clinical Imaging",
       "url": "https://jobs.ascension.org/us/en/job/459181"
+    },
+    "simplify:ascensus::simplify-7481b6e9-8bb5-4030-9e88-eaa8ae4dccb2": {
+      "company": "Ascensus",
+      "first_seen": "2026-10-28T23:01:59+00:00",
+      "last_seen": "2026-10-28T23:01:59+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1777586782",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Remote-Nationwide/AI-Software-Engineer_R0021417"
     },
     "simplify:ashby::simplify-51cd0743-ca8b-4606-b478-0c3aa6d02dd0": {
       "company": "Ashby",
@@ -19156,7 +19196,7 @@
     "simplify:crusoe::simplify-929cfe45-2ac9-4d39-80b3-b3fa750e2ceb": {
       "company": "Crusoe",
       "first_seen": "2026-08-20T01:44:05+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-10-28T23:01:59+00:00",
       "posted_at": "1787187240",
       "title": "Software Engineer 1 - Network",
       "url": "https://jobs.ashbyhq.com/Crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed/application?embed=true"
@@ -37348,6 +37388,16 @@
       "title": "Back End Developer",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/C--Software-Engineer---Temporary-from-01-01-2027-for-12-months_R67751"
     },
+    "simplify:motorola solutions::simplify-af1c8d02-38a6-434d-9011-8739541c301c": {
+      "company": "Motorola Solutions",
+      "first_seen": "2026-10-28T23:01:59+00:00",
+      "last_seen": "2026-10-28T23:01:59+00:00",
+      "location": "Chicago, IL, Schaumburg, IL",
+      "posted_at": "1793145600",
+      "source": "simplify",
+      "title": "Software Engineer - Java / Python",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer---Java---Python_R69271"
+    },
     "simplify:motorola solutions::simplify-ff4139c4-0cba-4e64-9000-9503b26bd436": {
       "company": "Motorola Solutions",
       "first_seen": "2026-10-23T22:32:28+00:00",
@@ -43629,6 +43679,16 @@
       "title": "Applied AI Engineer Intern",
       "url": "https://jobs.ashbyhq.com/pressw/3b69cc30-a47b-4cd2-a27c-763b8f65c8e3/application?embed=true"
     },
+    "simplify:priceline::simplify-b20248d4-8618-4218-96d9-6ea9dace4c4b": {
+      "company": "Priceline",
+      "first_seen": "2026-10-28T23:01:59+00:00",
+      "last_seen": "2026-10-28T23:01:59+00:00",
+      "location": "NYC",
+      "posted_at": "1793145600",
+      "source": "simplify",
+      "title": "Junior Software Engineer - Front End",
+      "url": "https://priceline.wd1.myworkdayjobs.com/Priceline/job/New-York/Junior-Software-Engineer_R5885"
+    },
     "simplify:pricewaterhousecoopers (pwc)::simplify-0db4db4a-cd56-42f2-aa9f-4de76e4fc79c": {
       "company": "PricewaterhouseCoopers (PwC)",
       "first_seen": "2026-09-01T00:09:06+00:00",
@@ -44926,6 +44986,16 @@
       "posted_at": "1787015535",
       "title": "Front End Developer Intern",
       "url": "https://jobs.smartrecruiters.com/RegDeskInc/92145731"
+    },
+    "simplify:regeneron pharmaceuticals::simplify-0798f561-9eaf-425b-aaf1-80d2da8691a2": {
+      "company": "Regeneron Pharmaceuticals",
+      "first_seen": "2026-10-28T23:02:28+00:00",
+      "last_seen": "2026-10-28T23:02:28+00:00",
+      "location": "Rensselaer, NY",
+      "posted_at": "1793145600",
+      "source": "simplify",
+      "title": "IT and Systems Intern - Industrial Operations and Product Supply",
+      "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-IT---Systems--IOPS-_R51822"
     },
     "simplify:regions bank::simplify-3fbde271-db0b-4f32-a74c-aa1682b44994": {
       "company": "Regions Bank",
@@ -49314,6 +49384,16 @@
       "title": "Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8180089"
     },
+    "simplify:schonfeld::simplify-27cab255-9396-4c25-a512-f6c47902a4ef": {
+      "company": "Schonfeld",
+      "first_seen": "2026-10-28T23:02:28+00:00",
+      "last_seen": "2026-10-28T23:02:28+00:00",
+      "location": "NYC",
+      "posted_at": "1793214794",
+      "source": "simplify",
+      "title": "AI Enablement Intern",
+      "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171694"
+    },
     "simplify:schonfeld::simplify-9688e18b-53f3-4354-aea8-0f59f30f3431": {
       "company": "Schonfeld",
       "first_seen": "2026-10-20T09:35:33+00:00",
@@ -50914,6 +50994,16 @@
       "posted_at": "1783058730",
       "title": "Application Developer 2",
       "url": "https://job-boards.greenhouse.io/sonobello/jobs/5290870008"
+    },
+    "simplify:sonos::simplify-47fc293a-86ff-4dfb-9ef9-71a0f154f798": {
+      "company": "Sonos",
+      "first_seen": "2026-10-28T23:02:28+00:00",
+      "last_seen": "2026-10-28T23:02:28+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1793145600",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1"
     },
     "simplify:sony interactive entertainment::simplify-74efc708-4e8b-4d57-9853-eb261edfdeb2": {
       "company": "Sony Interactive Entertainment",
@@ -59054,7 +59144,7 @@
     "simplify:varian::simplify-daa90d5b-5345-4efa-a41c-9939aa72f4da": {
       "company": "Varian",
       "first_seen": "2026-10-07T23:03:20+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-10-28T23:02:28+00:00",
       "location": "Winnipeg, MB, Canada",
       "posted_at": "1791331200",
       "source": "simplify",
@@ -61027,6 +61117,16 @@
       "source": "simplify",
       "title": "Application Development Intern - Multiple Teams",
       "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242285007"
+    },
+    "simplify:william hill::simplify-213cc68c-49eb-4e5b-9a81-e112543fb921": {
+      "company": "William Hill",
+      "first_seen": "2026-10-28T23:01:59+00:00",
+      "last_seen": "2026-10-28T23:01:59+00:00",
+      "location": "Leeds, UK",
+      "posted_at": "1793227443",
+      "source": "simplify",
+      "title": "Junior Java Developer",
+      "url": "https://amswh.avature.net/careers/JobDetail/41813"
     },
     "simplify:williams racing::simplify-f7c2b206-3434-4427-ada0-1851de938a0e": {
       "company": "Williams Racing",
@@ -71056,5 +71156,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T22:43:39+00:00"
+  "updated_at": "2026-10-28T23:02:47+00:00"
 }
