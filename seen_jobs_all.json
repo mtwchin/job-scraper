@@ -1,5 +1,5 @@
 {
-  "count": 8204,
+  "count": 8207,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -33614,6 +33614,16 @@
       "title": "Radar Modeling Engineer",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Radar-Modeling-Engineer_R-00189109"
     },
+    "simplify:leidos::simplify-b0f48ab2-fa93-4288-9a16-412d0dfbc180": {
+      "company": "Leidos",
+      "first_seen": "2026-10-28T14:31:46+00:00",
+      "last_seen": "2026-10-28T14:31:46+00:00",
+      "location": "Bethesda, MD",
+      "posted_at": "1793145600",
+      "source": "simplify",
+      "title": "Junior Software Engineer",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Jr-Software-Engineer_R-00195656"
+    },
     "simplify:leidos::simplify-c1a82091-8082-4b67-ba0c-338c3b098612": {
       "company": "Leidos",
       "first_seen": "2026-07-24T23:33:06+00:00",
@@ -38829,6 +38839,18 @@
       "title": "Materials & Processes Engineer/Principal Engineer - Composites",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/Materials---Processes-Engineer-Principal-Engineer--Composites----2nd-Shift_R10236040-1"
     },
+    "simplify:northrop grumman::simplify-0f4f6ee2-0933-4e35-9a55-dc0f3016ac4d": {
+      "company": "Northrop Grumman",
+      "duplicate_of": "simplify:northrop grumman::simplify-dd78d693-5a46-4ccf-8fec-2c46920e2d0d",
+      "first_seen": "2026-10-28T14:31:46+00:00",
+      "last_seen": "2026-10-28T14:31:46+00:00",
+      "location": "Huntsville, AL",
+      "posted_at": "1793145600",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Associate Software Engineer / Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986"
+    },
     "simplify:northrop grumman::simplify-12dac20b-912f-4745-8fc4-76b5c94d7d2d": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-21T21:22:56+00:00",
@@ -41194,6 +41216,16 @@
       "posted_at": "1788912000",
       "title": "Technology Intern - Data & Digital",
       "url": "https://ovintiv.wd3.myworkdayjobs.com/ovintivcareers/job/Denver-CO-US/Intern-Technology--Data---Digital_R2587"
+    },
+    "simplify:oxbridge health::simplify-4517ade3-c19e-483b-8589-1506dbcf03c8": {
+      "company": "Oxbridge Health",
+      "first_seen": "2026-10-28T14:31:46+00:00",
+      "last_seen": "2026-10-28T14:31:46+00:00",
+      "location": "Norwalk, CT",
+      "posted_at": "1793196673",
+      "source": "simplify",
+      "title": "AI Engineer",
+      "url": "https://ats.rippling.com/oxbridge-health/jobs/196c59b6-8360-4766-a205-f873a3d2c2f4"
     },
     "simplify:oxford quantum circuits (oqc)::simplify-832938a4-3ffe-4b33-92a1-cb77b96ca582": {
       "company": "Oxford Quantum Circuits (OQC)",
@@ -70705,5 +70737,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T13:44:59+00:00"
+  "updated_at": "2026-10-28T14:32:05+00:00"
 }
