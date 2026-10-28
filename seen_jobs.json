@@ -1,5 +1,5 @@
 {
-  "count": 7646,
+  "count": 7649,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6840,6 +6840,16 @@
       "title": "Junior Software Development Engineer - Jr. Developer Program",
       "url": "https://amazon.jobs/en/jobs/10420146/jr-software-development-engineer-san-luis-obispo-ca-jr-developer-program"
     },
+    "simplify:amazon::simplify-4b410012-08f3-48f8-8a2a-d71ca89a4191": {
+      "company": "Amazon",
+      "first_seen": "2026-10-28T22:31:19+00:00",
+      "last_seen": "2026-10-28T22:31:19+00:00",
+      "location": "Seattle, WA, United States",
+      "posted_at": "1793226272",
+      "source": "simplify",
+      "title": "Software Developer Engineer - Product Knowledge Store",
+      "url": "https://amazon.jobs/en/jobs/10590471/software-dev-engineer-product-knowledge-store"
+    },
     "simplify:amazon::simplify-4d59f74a-c96d-4f88-bf07-1f3df967b2de": {
       "company": "Amazon",
       "first_seen": "2026-10-23T02:01:40+00:00",
@@ -10994,6 +11004,16 @@
       "posted_at": "1788912000",
       "title": "Graduate Technology Developer",
       "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Graduate-Programme-Glasgow_JR-0000129313"
+    },
+    "simplify:barclays::simplify-76dfc9fa-2273-4b3a-8af4-4ce49e92d964": {
+      "company": "Barclays",
+      "first_seen": "2026-10-28T22:31:19+00:00",
+      "last_seen": "2026-10-28T22:31:19+00:00",
+      "location": "Hanover, NJ",
+      "posted_at": "1793226384",
+      "source": "simplify",
+      "title": "Full Stack Developer",
+      "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Full-Stack-Developer_JR-0000098421-1"
     },
     "simplify:barclays::simplify-81a0e97d-9eea-4bd4-bbf6-b511c860fa9c": {
       "company": "Barclays",
@@ -27772,6 +27792,16 @@
       "posted_at": "1788307200",
       "title": "Software Engineer Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834"
+    },
+    "simplify:intel::simplify-c76bdf45-b985-490a-83f2-38586bb77ae5": {
+      "company": "Intel",
+      "first_seen": "2026-10-28T22:31:19+00:00",
+      "last_seen": "2026-10-28T22:31:19+00:00",
+      "location": "Austin, TX, Santa Clara, CA, Hillsboro, OR, Worcester, MA",
+      "posted_at": "1793145600",
+      "source": "simplify",
+      "title": "Compiler Engineer for AI DSLs",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Compiler-Engineer-for-AI-DSLs_JR0288433"
     },
     "simplify:intel::simplify-ccdb3dc3-8922-4bcb-b317-28364bbe1843": {
       "company": "Intel",
@@ -64464,5 +64494,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T21:52:32+00:00"
+  "updated_at": "2026-10-28T22:31:35+00:00"
 }
