@@ -1,5 +1,5 @@
 {
-  "count": 8202,
+  "count": 8204,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -62039,6 +62039,16 @@
       "title": "Software Engineering Intern, Research Focused",
       "url": "https://www.workatastartup.com/jobs/94634"
     },
+    "vanshb03:ace hardware corporation::vanshb03-213ac571-729d-450b-ae2a-9339c87cc649": {
+      "company": "Ace Hardware Corporation",
+      "first_seen": "2026-10-28T13:44:17+00:00",
+      "last_seen": "2026-10-28T13:44:17+00:00",
+      "location": "Oak Brook, IL",
+      "posted_at": "1793194806",
+      "source": "vanshb03",
+      "title": "IT Associate Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Xx"
+    },
     "vanshb03:activision blizzard::vanshb03-24f00b37-ccc2-446f-ad23-adacfd0198b6": {
       "company": "Activision Blizzard",
       "first_seen": "2026-10-26T14:17:24+00:00",
@@ -62298,6 +62308,16 @@
       "source": "vanshb03",
       "title": "Software Developer Intern",
       "url": "https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/"
+    },
+    "vanshb03:allegion::vanshb03-b6a9003d-149f-4f13-b5df-63c10630f95b": {
+      "company": "Allegion",
+      "first_seen": "2026-10-28T13:44:17+00:00",
+      "last_seen": "2026-10-28T13:44:17+00:00",
+      "location": "Golden, CO",
+      "posted_at": "1793193542",
+      "source": "vanshb03",
+      "title": "Software Systems Engineering Intern",
+      "url": "https://go.vansh.nyc/Xv"
     },
     "vanshb03:altera::vanshb03-0bc7cec5-c9d8-46e9-8417-fefa13de197d": {
       "company": "Altera",
@@ -70685,5 +70705,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T12:39:55+00:00"
+  "updated_at": "2026-10-28T13:44:59+00:00"
 }
