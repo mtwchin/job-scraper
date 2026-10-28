@@ -1,5 +1,5 @@
 {
-  "count": 8138,
+  "count": 8146,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -24087,6 +24087,16 @@
       "title": "Software Engineer Entry to Mid-Level",
       "url": "https://apply.workable.com/funnel-leasing/j/1B817A4D38/apply"
     },
+    "simplify:futo::simplify-4f0257bc-0588-4ab9-b230-b1111acb93ed": {
+      "company": "FUTO",
+      "first_seen": "2026-10-28T01:33:08+00:00",
+      "last_seen": "2026-10-28T01:33:08+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1793150194",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70/apply"
+    },
     "simplify:fuze health::simplify-7d8768dc-f8bf-486b-bcea-cb2578964f69": {
       "company": "Fuze Health",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -27772,6 +27782,16 @@
       "title": "Product Engineer Intern",
       "url": "https://boards.greenhouse.io/embed/job_app?token=6186215004"
     },
+    "simplify:hex technologies::simplify-82d57bfb-b95d-4459-a243-72a860fcf560": {
+      "company": "Hex Technologies",
+      "first_seen": "2026-10-28T01:33:08+00:00",
+      "last_seen": "2026-10-28T01:33:08+00:00",
+      "location": "SF",
+      "posted_at": "1788912000",
+      "source": "simplify",
+      "title": "Product Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/hex/45022740-b0ca-4a54-a98b-b90f9b4a9a30/application?embed=true"
+    },
     "simplify:hexagon ab ::simplify-b39239d0-829e-4eba-912a-0db837607248": {
       "company": "Hexagon AB ",
       "first_seen": "2026-08-05T22:37:23+00:00",
@@ -29263,6 +29283,16 @@
       "source": "simplify",
       "title": "Software Developer 1 Intern/Co-op - Winter 2027",
       "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/St-Johns-Newfoundland-and-Labrador-CAN/Software-Developer-I---4-months-internship--Co-op--Winter-2027-_R155972"
+    },
+    "simplify:integrate::simplify-2ad07235-f2f9-4156-b729-afd7942895fc": {
+      "company": "Integrate",
+      "first_seen": "2026-10-28T01:33:08+00:00",
+      "last_seen": "2026-10-28T01:33:08+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3/application?embed=true"
     },
     "simplify:integrated resources::simplify-8610b082-0dee-4fb2-9264-5d5adf2e3bda": {
       "company": "Integrated Resources",
@@ -40963,6 +40993,16 @@
       "title": "Software Developer Intern",
       "url": "https://jobs.paccar.com/job/Renton-2027-Winter-Internship-Software-Developer-Intern-WA-98057/1435928733/?ats=successfactors"
     },
+    "simplify:paccar::simplify-49e57c55-743b-457d-b17f-64d6b36a90c6": {
+      "company": "Paccar",
+      "first_seen": "2026-10-28T01:33:08+00:00",
+      "last_seen": "2026-10-28T01:33:08+00:00",
+      "location": "Chillicothe, OH",
+      "posted_at": "1793149905",
+      "source": "simplify",
+      "title": "Application Developer Intern",
+      "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-(OH)-WA-98033/1451927133/?ats=successfactors"
+    },
     "simplify:pace::simplify-1a642388-e27f-433e-b8ec-63c5709ac3aa": {
       "company": "Pace",
       "first_seen": "2026-09-14T21:34:51+00:00",
@@ -43022,6 +43062,26 @@
       "source": "simplify",
       "title": "Associate Software Engineer",
       "url": "https://careers-powerschool.icims.com/jobs/53084/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:powertown::simplify-76cd5351-c440-48c5-b2c0-d6cf8f24b499": {
+      "company": "Powertown",
+      "first_seen": "2026-10-28T01:33:08+00:00",
+      "last_seen": "2026-10-28T01:33:08+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1788566400",
+      "source": "simplify",
+      "title": "Machine Learning Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/powertown/754a7189-5505-459d-a7d3-dda2e0eaf38b/application?embed=true"
+    },
+    "simplify:powertown::simplify-88a5d35e-6e51-427b-83b4-ac738b09910a": {
+      "company": "Powertown",
+      "first_seen": "2026-10-28T01:33:08+00:00",
+      "last_seen": "2026-10-28T01:33:08+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1788566400",
+      "source": "simplify",
+      "title": "Forward Deployed Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/powertown/642bc3ac-1d1f-400a-975e-a80e745f277b/application?embed=true"
     },
     "simplify:pplsi::simplify-2a701480-0cb2-4855-8732-d762f6105134": {
       "company": "PPLSI",
@@ -61071,6 +61131,26 @@
       "title": "Application Engineer",
       "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Application-Engineer_REQ-019650"
     },
+    "simplify:zus health::simplify-eb7932b5-9a0e-45fe-9c0c-15544194228a": {
+      "company": "Zus Health",
+      "first_seen": "2026-10-28T01:33:08+00:00",
+      "last_seen": "2026-10-28T01:33:08+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Platform Software Engineering Co-op",
+      "url": "https://jobs.ashbyhq.com/zus-health/ec0f1de8-c589-4637-b3f8-4a87dd06882a/application?embed=true"
+    },
+    "simplify:zus health::simplify-f6eaac34-845f-4574-96eb-d3728a2ad24e": {
+      "company": "Zus Health",
+      "first_seen": "2026-10-28T01:33:08+00:00",
+      "last_seen": "2026-10-28T01:33:08+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Data Acquisition Software Engineer Co-op",
+      "url": "https://jobs.ashbyhq.com/zus-health/985c43c5-3c2a-4174-831d-b53ef0d6308c/application?embed=true"
+    },
     "skydio::370da6a5-5ae6-48fe-8e08-9b1dcc63bf34": {
       "company": "Skydio",
       "first_seen": "2026-10-20T19:33:49+00:00",
@@ -70001,5 +70081,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T01:32:14+00:00"
+  "updated_at": "2026-10-28T01:33:16+00:00"
 }
