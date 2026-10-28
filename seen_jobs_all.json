@@ -1,5 +1,5 @@
 {
-  "count": 8187,
+  "count": 8188,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -62140,6 +62140,16 @@
       "title": "New Grad 2025: Software Engineer",
       "url": "https://www.workatastartup.com/jobs/81441"
     },
+    "vanshb03:agave::vanshb03-5dc1a47a-7c99-4448-a194-3a68ce018866": {
+      "company": "Agave",
+      "first_seen": "2026-10-28T07:09:24+00:00",
+      "last_seen": "2026-10-28T07:09:24+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1793059200",
+      "source": "vanshb03",
+      "title": "New Grad: Full-Stack Software Engineer",
+      "url": "https://go.vansh.nyc/Xc"
+    },
     "vanshb03:agco::vanshb03-cdce3526-309a-4002-84a9-f214fdeeafb6": {
       "company": "AGCO",
       "first_seen": "2026-10-19T00:51:40+00:00",
@@ -70503,5 +70513,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T07:07:36+00:00"
+  "updated_at": "2026-10-28T07:09:38+00:00"
 }
