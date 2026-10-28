@@ -1,5 +1,5 @@
 {
-  "count": 7644,
+  "count": 7645,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -61032,6 +61032,18 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/UC"
     },
+    "vanshb03:lockheed martin::vanshb03-d3403517-9a3f-4fa3-bfe0-6f836a0bacd7": {
+      "company": "Lockheed Martin",
+      "duplicate_of": "vanshb03:lockheed martin::vanshb03-d2362609-cc36-4fdf-8c97-53a4bf6b5bac",
+      "first_seen": "2026-10-28T19:08:33+00:00",
+      "last_seen": "2026-10-28T19:08:33+00:00",
+      "location": "Littleton, CO",
+      "posted_at": "1793214392",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/XV"
+    },
     "vanshb03:lockheed martin::vanshb03-e3253f6e-43c9-4222-b07c-0ea2b474046c": {
       "company": "Lockheed Martin",
       "first_seen": "2026-10-26T16:38:06+00:00",
@@ -64442,5 +64454,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T17:52:59+00:00"
+  "updated_at": "2026-10-28T19:09:03+00:00"
 }
