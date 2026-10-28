@@ -1,5 +1,5 @@
 {
-  "count": 8193,
+  "count": 8194,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -26870,6 +26870,16 @@
       "source": "simplify",
       "title": "Graduate Software Engineer - Bridgend",
       "url": "https://apply.workable.com/grayce/j/1789116104/apply"
+    },
+    "simplify:grayce::simplify-fabf8881-9392-4594-8303-a4d34402502f": {
+      "company": "Grayce",
+      "first_seen": "2026-10-28T10:01:25+00:00",
+      "last_seen": "2026-10-28T10:01:25+00:00",
+      "location": "Burgess Hill, UK",
+      "posted_at": "1792189783",
+      "source": "simplify",
+      "title": "Mobile Software Developer - Android / iOS",
+      "url": "https://apply.workable.com/grayce/j/9D6835622E/apply"
     },
     "simplify:great american insurance company::simplify-36f067d2-5ba6-440a-9dcf-1e2fd5f4ba50": {
       "company": "Great American Insurance Company",
@@ -70571,5 +70581,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T09:02:45+00:00"
+  "updated_at": "2026-10-28T10:01:48+00:00"
 }
