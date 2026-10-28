@@ -723,9 +723,7 @@
     }
   },
   "delivery_rejections": {},
-  "health_reported": [
-    "Anduril"
-  ],
+  "health_reported": [],
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -64444,5 +64442,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T17:48:57+00:00"
+  "updated_at": "2026-10-28T17:52:59+00:00"
 }
