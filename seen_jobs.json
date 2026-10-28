@@ -1,5 +1,5 @@
 {
-  "count": 7649,
+  "count": 7650,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -7144,6 +7144,16 @@
       "posted_at": "1788256547",
       "title": "Software Engineer Intern/Co-op",
       "url": "https://careers.amd.com/jobs/91366?icims=1"
+    },
+    "simplify:amd::simplify-0727f717-7671-410b-a2ce-72856c4f8adb": {
+      "company": "AMD",
+      "first_seen": "2026-10-28T23:01:31+00:00",
+      "last_seen": "2026-10-28T23:01:31+00:00",
+      "location": "Austin, TX, San Jose, CA",
+      "posted_at": "1793210760",
+      "source": "simplify",
+      "title": "Distributed Systems Software Engineer - Collectives",
+      "url": "https://careers.amd.com/jobs/93894?icims=1"
     },
     "simplify:amd::simplify-2057d1a3-289b-49ae-8328-fa3527c533c5": {
       "company": "AMD",
@@ -64494,5 +64504,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T22:31:35+00:00"
+  "updated_at": "2026-10-28T23:01:39+00:00"
 }
