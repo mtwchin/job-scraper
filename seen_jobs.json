@@ -1,5 +1,5 @@
 {
-  "count": 7645,
+  "count": 7646,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2788,6 +2788,16 @@
       "posted_at": "2026-07-08T17:38:21-04:00",
       "title": "Campus Systems Engineer (Full-Time)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8008112"
+    },
+    "linkedin::744000158394370": {
+      "company": "LinkedIn",
+      "first_seen": "2026-10-28T21:51:34+00:00",
+      "last_seen": "2026-10-28T21:51:34+00:00",
+      "location": "Mountain View, CA, us",
+      "posted_at": "2026-10-28T21:50:51.939Z",
+      "source": "",
+      "title": "Software Engineer Intern (First Play)  - Summer 2027 (Mountain View, CA) ",
+      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000158394370"
     },
     "lyft::8767534002": {
       "company": "Lyft",
@@ -64454,5 +64464,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T19:09:03+00:00"
+  "updated_at": "2026-10-28T21:52:32+00:00"
 }
