@@ -1,5 +1,5 @@
 {
-  "count": 8212,
+  "count": 8213,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -68718,6 +68718,16 @@
       "title": "Software Engineer I - Membership",
       "url": "https://join.softheon.com/_/j/4AFE55D62D/"
     },
+    "vanshb03:solink::vanshb03-3cf77de2-69ae-462f-91f3-489acea420e7": {
+      "company": "Solink",
+      "first_seen": "2026-10-28T15:08:46+00:00",
+      "last_seen": "2026-10-28T15:08:46+00:00",
+      "location": "Ottawa, Canada",
+      "posted_at": "1791239499",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op, Apps",
+      "url": "https://go.vansh.nyc/ET"
+    },
     "vanshb03:sonos::vanshb03-c0f16512-8c7e-4733-bd2b-f0450e636a7e": {
       "company": "Sonos",
       "first_seen": "2026-10-27T19:09:45+00:00",
@@ -70787,5 +70797,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T15:03:17+00:00"
+  "updated_at": "2026-10-28T15:09:20+00:00"
 }
