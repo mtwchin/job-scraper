@@ -1,5 +1,5 @@
 {
-  "count": 8135,
+  "count": 8138,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -108,6 +108,15 @@
       "source": "",
       "title": "Flight Software Engineer I",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8038139003"
+    },
+    "samsung::8046795003": {
+      "attempted_at": "2026-10-28T00:23:47+00:00",
+      "company": "Samsung",
+      "location": "San Jose, California, United States",
+      "posted_at": "2026-10-27T20:22:25-04:00",
+      "source": "",
+      "title": "Intern, Power-Thermal Simulation Software Engineer",
+      "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046795003"
     },
     "sigma computing::7850795003": {
       "attempted_at": "2026-10-06T22:49:19+00:00",
@@ -6814,6 +6823,16 @@
       "source": "simplify",
       "title": "Fullstack Developer Intern - Python",
       "url": "https://alayacare.com/open-positions?gh_jid=8811336002"
+    },
+    "simplify:alchemi::simplify-905eb459-d660-44a9-a5fb-815dd3ae4d15": {
+      "company": "Alchemi",
+      "first_seen": "2026-10-28T01:32:07+00:00",
+      "last_seen": "2026-10-28T01:32:07+00:00",
+      "location": "NYC",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "AI Engineer",
+      "url": "https://jobs.ashbyhq.com/alchemi/0b6d993e-e29f-4102-a055-34db1f2797a0/application?embed=true"
     },
     "simplify:alcoa::simplify-e70c7072-27b1-4eb9-af34-c97970e09bcb": {
       "company": "Alcoa",
@@ -39018,6 +39037,16 @@
       "title": "Associate Software Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912"
     },
+    "simplify:northrop grumman::simplify-92ed232b-c9f2-451b-b0ce-31ae57ae6118": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-28T01:32:07+00:00",
+      "last_seen": "2026-10-28T01:32:07+00:00",
+      "location": "Redondo Beach, CA, Palmdale, CA, San Diego, CA, El Segundo, CA",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10257957"
+    },
     "simplify:northrop grumman::simplify-9382a362-7087-43b2-a34a-7046290965ee": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-29T23:12:09+00:00",
@@ -58825,6 +58854,16 @@
       "title": "Software Developer Intern",
       "url": "https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2/apply"
     },
+    "simplify:viggle ai::simplify-366fbb61-7a96-4f27-b9bd-bf5aa16fea31": {
+      "company": "Viggle AI",
+      "first_seen": "2026-10-28T01:32:07+00:00",
+      "last_seen": "2026-10-28T01:32:07+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1789516800",
+      "source": "simplify",
+      "title": "Full-Stack Software Engineer New Grad - AI & 3D Creator Tools",
+      "url": "https://jobs.ashbyhq.com/viggle/98352e43-0f84-4df8-9f17-88520fe8314a/application?embed=true"
+    },
     "simplify:viridien::simplify-27d62306-3b52-4374-a800-705bb429b036": {
       "company": "Viridien",
       "first_seen": "2026-07-28T23:15:13+00:00",
@@ -69962,5 +70001,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T00:02:10+00:00"
+  "updated_at": "2026-10-28T01:32:14+00:00"
 }
