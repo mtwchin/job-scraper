@@ -1,5 +1,5 @@
 {
-  "count": 8153,
+  "count": 8158,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -20989,6 +20989,30 @@
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294"
     },
+    "simplify:drivewealth::simplify-80919054-b40e-4ff9-9a11-e6e21dcf9d98": {
+      "company": "DriveWealth",
+      "duplicate_of": "simplify:drivewealth::simplify-ea672c45-89c1-45e5-afb3-0a7061e3ea16",
+      "first_seen": "2026-10-28T02:03:06+00:00",
+      "last_seen": "2026-10-28T02:03:06+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1792454400",
+      "seeded": true,
+      "source": "simplify",
+      "title": "AI Consulting Associate Program Product Owner Intern",
+      "url": "https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true"
+    },
+    "simplify:drivewealth::simplify-eba86e55-1480-473d-814f-7d863ebba833": {
+      "company": "DriveWealth",
+      "duplicate_of": "simplify:drivewealth::simplify-7f0b6226-d723-4097-a060-879f717c121d",
+      "first_seen": "2026-10-28T02:03:06+00:00",
+      "last_seen": "2026-10-28T02:03:06+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1792454400",
+      "seeded": true,
+      "source": "simplify",
+      "title": "AI Consulting Associate Program \u2013 AI Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application?embed=true"
+    },
     "simplify:dropbox::simplify-425aaabf-7af3-4cd6-b041-c9f26fe0e736": {
       "company": "Dropbox",
       "first_seen": "2026-09-07T17:47:06+00:00",
@@ -40019,6 +40043,18 @@
       "title": "Member of Technical Staff 1",
       "url": "https://jobs.jobvite.com/nutanix/job/o1pjAfw3?nl=1&nl=1&fr=false"
     },
+    "simplify:nuvacore::simplify-6b8067fc-13e3-461e-99b4-7b43a2991856": {
+      "company": "NUVACORE",
+      "duplicate_of": "vanshb03:nuvacore::vanshb03-c9f4b947-9adb-4f90-9f0b-75f519f872d3",
+      "first_seen": "2026-10-28T02:03:06+00:00",
+      "last_seen": "2026-10-28T02:03:06+00:00",
+      "location": "Markham, ON, Canada",
+      "posted_at": "1793151702",
+      "seeded": true,
+      "source": "simplify",
+      "title": "CPU Software Intern",
+      "url": "https://jobs.lever.co/nuvacore/f167579a-db4b-4f85-91b9-e0bfb444a37c/apply"
+    },
     "simplify:nvidia::simplify-0317c6ee-8867-463c-899c-dab81eee99b4": {
       "company": "NVIDIA",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -42543,6 +42579,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/persona/eb77c97c-fa9d-4bf0-9566-e5ba4453b7d3/application?embed=true"
     },
+    "simplify:perspective therapeutics::simplify-a5292077-b7c5-403d-ab85-8809ba8c335c": {
+      "company": "Perspective Therapeutics",
+      "first_seen": "2026-10-28T02:03:06+00:00",
+      "last_seen": "2026-10-28T02:03:06+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793150868",
+      "source": "simplify",
+      "title": "AI Innovation Intern",
+      "url": "https://perspectivetherapeutics.applytojob.com/apply/W9dIXxB2Qe/AI-Innovation-Intern"
+    },
     "simplify:peterson technologies::simplify-4f002917-8cdb-4ef9-a66c-02d05d0d220e": {
       "company": "Peterson Technologies",
       "first_seen": "2026-08-03T08:03:11+00:00",
@@ -44556,6 +44602,16 @@
       "posted_at": "1776118244",
       "title": "Associate Software Engineer",
       "url": "https://reliaquest.wd5.myworkdayjobs.com/en-US/ReliaQuest_Careers/job/Tampa-FL/Associate-Software-Engineer_R15047"
+    },
+    "simplify:relling::simplify-b0a42e09-b82d-47a1-9ef7-123014b6678d": {
+      "company": "Relling",
+      "first_seen": "2026-10-28T02:03:06+00:00",
+      "last_seen": "2026-10-28T02:03:06+00:00",
+      "location": "SF",
+      "posted_at": "1790899200",
+      "source": "simplify",
+      "title": "Robotics Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e/application?embed=true"
     },
     "simplify:reltio::simplify-939a6215-c585-4039-ae27-5bd6c2def8cc": {
       "company": "Reltio",
@@ -70151,5 +70207,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T02:02:19+00:00"
+  "updated_at": "2026-10-28T02:03:22+00:00"
 }
