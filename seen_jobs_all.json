@@ -1,5 +1,5 @@
 {
-  "count": 8185,
+  "count": 8187,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -63634,6 +63634,16 @@
       "title": "Software Engineer Intern, C++",
       "url": "https://go.vansh.nyc/88"
     },
+    "vanshb03:certa::vanshb03-01fc6607-f112-4bf3-9323-6878fc2ef682": {
+      "company": "Certa",
+      "first_seen": "2026-10-28T07:07:24+00:00",
+      "last_seen": "2026-10-28T07:07:24+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1793168940",
+      "source": "vanshb03",
+      "title": "Frontend Engineer Intern",
+      "url": "https://go.vansh.nyc/Xa"
+    },
     "vanshb03:chathamfinancial::vanshb03-3870fd15-e536-4e22-b402-5c9d45b4322f": {
       "company": "chathamfinancial",
       "duplicate_of": "vanshb03:chathamfinancial::vanshb03-cda7ba17-183a-488e-91e2-03a1effd33c7",
@@ -70009,6 +70019,18 @@
       "title": "Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4423330009"
     },
+    "vanshb03:vsp vision::vanshb03-5074e01c-8570-44f1-bcf2-3a01313085fb": {
+      "company": "VSP Vision",
+      "duplicate_of": "simplify:vsp vision::simplify-ee6ec003-29b0-4b45-84ff-f2bc079dd1cf",
+      "first_seen": "2026-10-28T07:07:24+00:00",
+      "last_seen": "2026-10-28T07:07:24+00:00",
+      "location": "Remote, United States",
+      "posted_at": "1793145600",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Technology Innovation",
+      "url": "https://go.vansh.nyc/X8"
+    },
     "vanshb03:vsp vision::vanshb03-d3bd142d-32e3-4c0b-adc4-4ce114a210d9": {
       "company": "VSP Vision",
       "first_seen": "2026-10-28T06:09:24+00:00",
@@ -70481,5 +70503,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T07:02:33+00:00"
+  "updated_at": "2026-10-28T07:07:36+00:00"
 }
