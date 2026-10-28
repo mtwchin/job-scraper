@@ -1,5 +1,5 @@
 {
-  "count": 8244,
+  "count": 8245,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -66333,6 +66333,18 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/DP"
     },
+    "vanshb03:l3harris technologies::vanshb03-bd110fa4-dae1-4c2e-8f03-15b9a474e116": {
+      "company": "L3Harris Technologies",
+      "duplicate_of": "vanshb03:l3harris technologies::vanshb03-dfcc782f-ef72-431f-8cf9-d41504dcee29",
+      "first_seen": "2026-10-28T23:08:27+00:00",
+      "last_seen": "2026-10-28T23:08:27+00:00",
+      "location": "Carlsbad, CA",
+      "posted_at": "1793227322",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Yw"
+    },
     "vanshb03:l3harris technologies::vanshb03-cd6d4abf-61a2-413f-bb5d-3f5fc9c72bcd": {
       "company": "L3Harris Technologies",
       "duplicate_of": "vanshb03:l3harris technologies::vanshb03-dfcc782f-ef72-431f-8cf9-d41504dcee29",
@@ -71156,5 +71168,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T23:02:47+00:00"
+  "updated_at": "2026-10-28T23:08:49+00:00"
 }
