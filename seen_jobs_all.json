@@ -1018,6 +1018,15 @@
       "title": "Frontend Software Engineer Intern - Summer 2027",
       "url": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd"
     },
+    "vanshb03:allegion::vanshb03-34c528f8-854f-47f6-a542-98288d7250d4": {
+      "attempted_at": "2026-10-28T12:39:17+00:00",
+      "company": "Allegion",
+      "location": "Golden, CO",
+      "posted_at": "1793145600",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Quality Assurance",
+      "url": "https://go.vansh.nyc/Xt"
+    },
     "vanshb03:anysignal::vanshb03-586815ae-6642-4b03-a441-26311c0416e6": {
       "attempted_at": "2026-10-26T11:49:23+00:00",
       "company": "AnySignal",
@@ -1152,6 +1161,15 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern, Applications",
       "url": "https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b/application"
+    },
+    "vanshb03:rtx::vanshb03-4f8a0d1a-15be-43df-a3fb-fa32ad91a73c": {
+      "attempted_at": "2026-10-28T12:39:17+00:00",
+      "company": "RTX",
+      "location": "Marlborough, MA",
+      "posted_at": "1793145600",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/Xu"
     },
     "vanshb03:salesforce::vanshb03-a37a1acf-a0a0-4dc4-b183-d7050135a28f": {
       "attempted_at": "2026-10-27T22:38:11+00:00",
@@ -70667,5 +70685,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T12:31:52+00:00"
+  "updated_at": "2026-10-28T12:39:55+00:00"
 }
