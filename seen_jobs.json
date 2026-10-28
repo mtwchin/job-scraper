@@ -1,5 +1,5 @@
 {
-  "count": 7641,
+  "count": 7642,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -62589,6 +62589,16 @@
       "title": "New Grad 2027: Software Development Engineer",
       "url": "https://go.vansh.nyc/HL"
     },
+    "vanshb03:shield ai::vanshb03-818c120a-e0d0-4b4d-894a-9652e93acf9b": {
+      "company": "Shield AI",
+      "first_seen": "2026-10-28T07:09:21+00:00",
+      "last_seen": "2026-10-28T07:09:21+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1793059200",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Autonomous Software Engineer",
+      "url": "https://go.vansh.nyc/Xb"
+    },
     "vanshb03:shopify::vanshb03-12011286-0eca-4688-8c69-aa283024575d": {
       "company": "Shopify",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -64409,5 +64419,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T06:32:06+00:00"
+  "updated_at": "2026-10-28T07:10:09+00:00"
 }
