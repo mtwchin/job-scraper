@@ -1,5 +1,5 @@
 {
-  "count": 8209,
+  "count": 8210,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -58376,6 +58376,16 @@
       "title": "Context Developer Modeler",
       "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Context-Developer-Modeler_R0121199"
     },
+    "simplify:usaa::simplify-ef912e83-5396-42ce-b372-3e501ffa4a19": {
+      "company": "USAA",
+      "first_seen": "2026-10-28T15:01:46+00:00",
+      "last_seen": "2026-10-28T15:01:46+00:00",
+      "location": "Plano, TX, San Antonio, TX",
+      "posted_at": "1793145600",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Entry-Level_R0121057-1"
+    },
     "simplify:usm business systems::simplify-10fd1f55-da69-47fe-9aab-74af4f789977": {
       "company": "USM Business Systems",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -70757,5 +70767,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T14:39:11+00:00"
+  "updated_at": "2026-10-28T15:02:14+00:00"
 }
