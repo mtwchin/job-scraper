@@ -1,5 +1,5 @@
 {
-  "count": 8194,
+  "count": 8198,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -11339,6 +11339,16 @@
       "source": "simplify",
       "title": "Software Applications Engineer 1",
       "url": "https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Eng-SW-Applications-I_11969"
+    },
+    "simplify:axiom math::simplify-5e478bc2-4e79-471f-aee6-6776530ddf09": {
+      "company": "Axiom Math",
+      "first_seen": "2026-10-28T10:02:26+00:00",
+      "last_seen": "2026-10-28T10:02:26+00:00",
+      "location": "Palo Alto, CA, London, UK",
+      "posted_at": "1793145600",
+      "source": "simplify",
+      "title": "Member of Technical Staff Intern",
+      "url": "https://jobs.ashbyhq.com/axiommath/bc494f2d-64d0-4f8e-a18a-3c9059d5940e/application?embed=true"
     },
     "simplify:axiom space::simplify-a2aece51-4842-47ed-ae57-24e53d89a054": {
       "company": "Axiom Space",
@@ -33127,6 +33137,16 @@
       "title": "Support Engineer 1 - I",
       "url": "https://jobs.jobvite.com/laserfiche/job/orDbAfwz?nl=1&nl=1&fr=false"
     },
+    "simplify:latent defense::simplify-41346207-66b3-4202-87c1-e27c8ad4e155": {
+      "company": "Latent Defense",
+      "first_seen": "2026-10-28T10:02:26+00:00",
+      "last_seen": "2026-10-28T10:02:26+00:00",
+      "location": "NYC",
+      "posted_at": "1776211200",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/latent%20defense/54841e7d-d80a-4c2f-8c44-d492fe8eb487/application?embed=true"
+    },
     "simplify:later::simplify-119ba1cb-df5a-4b95-9bed-4d76527e4280": {
       "company": "Later",
       "first_seen": "2026-08-30T10:42:19+00:00",
@@ -45949,6 +45969,16 @@
       "title": "Software Engineer Intern: Agent Commerce",
       "url": "https://ats.rippling.com/joinroot/jobs/845e02f9-86ee-41f9-a9ad-730ed08fca3b"
     },
+    "simplify:rosaiclabs::simplify-4df74a84-8306-470c-a342-936bd9335db1": {
+      "company": "RosaicLabs",
+      "first_seen": "2026-10-28T10:02:26+00:00",
+      "last_seen": "2026-10-28T10:02:26+00:00",
+      "location": "Austin, TX, Santa Clara, CA",
+      "posted_at": "1793180285",
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://jobs.lever.co/rosaiclabs/740b53d3-dd36-41fb-b49c-ab7f97505aa8/apply"
+    },
     "simplify:rover::simplify-9377f3dd-8421-4a2c-8af8-4be42ec6b607": {
       "company": "Rover",
       "first_seen": "2026-09-10T23:38:18+00:00",
@@ -52495,6 +52525,16 @@
       "posted_at": "1788825600",
       "title": "Software Engineer Intern",
       "url": "https://swbc.wd1.myworkdayjobs.com/swbccareers/job/San-Antonio-TX/Software-Engineering-Intern_R0015482-2"
+    },
+    "simplify:sycamore::simplify-a19b6b71-cdc8-4602-94e3-b3a50b1f9ba9": {
+      "company": "Sycamore",
+      "first_seen": "2026-10-28T10:02:26+00:00",
+      "last_seen": "2026-10-28T10:02:26+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/sycamore/20c06fdf-9aa4-44b0-9cd1-4e21707a16f3/application?embed=true"
     },
     "simplify:symbotic::simplify-5292f2d8-70e9-44a6-a50e-aea6724dfacd": {
       "company": "Symbotic",
@@ -70581,5 +70621,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T10:01:48+00:00"
+  "updated_at": "2026-10-28T10:02:51+00:00"
 }
