@@ -1,5 +1,5 @@
 {
-  "count": 8218,
+  "count": 8220,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -3291,6 +3291,16 @@
       "posted_at": "2026-07-08T17:38:21-04:00",
       "title": "Campus Systems Engineer (Full-Time)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8008112"
+    },
+    "linkedin::744000158394370": {
+      "company": "LinkedIn",
+      "first_seen": "2026-10-28T21:51:34+00:00",
+      "last_seen": "2026-10-28T21:51:34+00:00",
+      "location": "Mountain View, CA, us",
+      "posted_at": "2026-10-28T21:50:51.939Z",
+      "source": "",
+      "title": "Software Engineer Intern (First Play)  - Summer 2027 (Mountain View, CA) ",
+      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000158394370"
     },
     "lyft::8767534002": {
       "company": "Lyft",
@@ -63095,6 +63105,16 @@
       "title": "Software Developer Associate",
       "url": "https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0"
     },
+    "vanshb03:asml::vanshb03-d54f7250-8e5d-4e5c-9dbb-5ca417ea7ff4": {
+      "company": "ASML",
+      "first_seen": "2026-10-28T22:08:59+00:00",
+      "last_seen": "2026-10-28T22:08:59+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1793223776",
+      "source": "vanshb03",
+      "title": "Software Development Engineer in Test Intern",
+      "url": "https://go.vansh.nyc/Y2"
+    },
     "vanshb03:asml::vanshb03-ff4f572a-2531-4acf-8e27-648b8a3929f7": {
       "company": "ASML",
       "first_seen": "2026-10-24T05:00:42+00:00",
@@ -70849,5 +70869,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T21:41:26+00:00"
+  "updated_at": "2026-10-28T22:09:30+00:00"
 }
