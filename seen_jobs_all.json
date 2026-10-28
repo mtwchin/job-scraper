@@ -1,5 +1,5 @@
 {
-  "count": 8215,
+  "count": 8216,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -64875,6 +64875,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16"
     },
+    "vanshb03:extrahop::vanshb03-635ef6c4-83a7-423c-9ec0-c00a61cd1d07": {
+      "company": "ExtraHop",
+      "first_seen": "2026-10-28T18:11:08+00:00",
+      "last_seen": "2026-10-28T18:11:08+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793208683",
+      "source": "vanshb03",
+      "title": "Software Engineer I, Cloud",
+      "url": "https://go.vansh.nyc/XK"
+    },
     "vanshb03:fab2::vanshb03-855e82b4-84ec-4205-8af2-715d9fa32d21": {
       "company": "fab2",
       "first_seen": "2026-10-26T14:48:12+00:00",
@@ -70817,5 +70827,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T17:40:14+00:00"
+  "updated_at": "2026-10-28T18:11:19+00:00"
 }
