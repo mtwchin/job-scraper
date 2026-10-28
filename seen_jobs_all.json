@@ -1,5 +1,5 @@
 {
-  "count": 8199,
+  "count": 8201,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -65972,6 +65972,18 @@
       "title": "Member of Technical Staff Intern",
       "url": "https://go.vansh.nyc/hy"
     },
+    "vanshb03:lockheed martin::vanshb03-12457784-c81a-4877-9db8-ecccb9c9d098": {
+      "company": "Lockheed Martin",
+      "duplicate_of": "vanshb03:lockheed martin::vanshb03-d2362609-cc36-4fdf-8c97-53a4bf6b5bac",
+      "first_seen": "2026-10-28T11:13:59+00:00",
+      "last_seen": "2026-10-28T11:13:59+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1793185551",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Xr"
+    },
     "vanshb03:lockheed martin::vanshb03-d2362609-cc36-4fdf-8c97-53a4bf6b5bac": {
       "company": "Lockheed Martin",
       "first_seen": "2026-10-27T01:52:21+00:00",
@@ -66688,6 +66700,18 @@
       "source": "vanshb03",
       "title": "New Grad 2027: Associate Software Engineer",
       "url": "https://go.vansh.nyc/Wo"
+    },
+    "vanshb03:northrop grumman::vanshb03-a4526c80-2764-4474-a61d-fadb6ea90da5": {
+      "company": "Northrop Grumman",
+      "duplicate_of": "vanshb03:northrop grumman::vanshb03-abd1a870-00ac-4b82-b7c4-10d23ce9014c",
+      "first_seen": "2026-10-28T12:09:45+00:00",
+      "last_seen": "2026-10-28T12:09:45+00:00",
+      "location": "Huntsville, AL",
+      "posted_at": "1793145600",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
+      "url": "https://go.vansh.nyc/Xs"
     },
     "vanshb03:northrop grumman::vanshb03-a935273f-f0e0-441b-9b94-b853e1ab2f5a": {
       "company": "Northrop Grumman",
@@ -70633,5 +70657,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T10:40:44+00:00"
+  "updated_at": "2026-10-28T12:09:49+00:00"
 }
