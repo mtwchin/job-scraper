@@ -1,5 +1,5 @@
 {
-  "count": 7643,
+  "count": 7644,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2326,6 +2326,16 @@
       "source": "",
       "title": "Software Engineer, Intern (Summer 2027)",
       "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005"
+    },
+    "glean::4748567005": {
+      "company": "Glean",
+      "first_seen": "2026-10-28T17:23:03+00:00",
+      "last_seen": "2026-10-28T17:23:03+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "2026-10-28T13:22:26-04:00",
+      "source": "",
+      "title": "Software Engineer, University Grad",
+      "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4748567005"
     },
     "google::100648618540573382": {
       "company": "Google",
@@ -64431,5 +64441,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T11:15:23+00:00"
+  "updated_at": "2026-10-28T17:23:50+00:00"
 }
