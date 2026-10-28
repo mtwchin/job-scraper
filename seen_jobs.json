@@ -1,5 +1,5 @@
 {
-  "count": 7636,
+  "count": 7641,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -46629,6 +46629,26 @@
       "title": "Simulation Framework Engineer 1",
       "url": "https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba/apply"
     },
+    "simplify:shield ai::simplify-4be638e1-80b0-4aa7-ac1f-416839d623c1": {
+      "company": "Shield AI",
+      "first_seen": "2026-10-28T06:31:45+00:00",
+      "last_seen": "2026-10-28T06:31:45+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1791331200",
+      "source": "simplify",
+      "title": "Simulation Framework Engineer 2",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a9e2509c-fa35-4bf7-b50d-a557666b629d/application?embed=true"
+    },
+    "simplify:shield ai::simplify-50363c94-1c17-4034-909d-b4b47a67fe3f": {
+      "company": "Shield AI",
+      "first_seen": "2026-10-28T06:31:45+00:00",
+      "last_seen": "2026-10-28T06:31:45+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Software Integration Engineer 1 New Grad - Software Integration",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true"
+    },
     "simplify:shield ai::simplify-6a2ed12f-7233-49b7-80af-74bb4795ed0e": {
       "company": "Shield AI",
       "first_seen": "2026-10-10T01:36:57+00:00",
@@ -46639,6 +46659,26 @@
       "title": "Software Engineer 2 - Factory",
       "url": "https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5/apply"
     },
+    "simplify:shield ai::simplify-74eb4b4b-ac29-4bdc-90f3-f70b743e4c06": {
+      "company": "Shield AI",
+      "first_seen": "2026-10-28T06:31:45+00:00",
+      "last_seen": "2026-10-28T06:31:45+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1792713600",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true"
+    },
+    "simplify:shield ai::simplify-9c20706d-1c36-49c7-a6d2-07c92520bf94": {
+      "company": "Shield AI",
+      "first_seen": "2026-10-28T06:31:45+00:00",
+      "last_seen": "2026-10-28T06:31:45+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1791331200",
+      "source": "simplify",
+      "title": "Simulation Framework Engineer - Simulation Framework",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true"
+    },
     "simplify:shield ai::simplify-b2bf950b-bf97-4b9c-8ab7-e96bfd87276a": {
       "company": "Shield AI",
       "first_seen": "2026-10-07T22:34:02+00:00",
@@ -46648,6 +46688,16 @@
       "source": "simplify",
       "title": "Simulation Framework Engineer 2 - Simulation Framework",
       "url": "https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62/apply"
+    },
+    "simplify:shield ai::simplify-b3968d77-3489-4bef-9ff3-acd12708ba23": {
+      "company": "Shield AI",
+      "first_seen": "2026-10-28T06:31:45+00:00",
+      "last_seen": "2026-10-28T06:31:45+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Software Engineer 2 New Grad",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/0e7ecf76-b4f6-4159-aa44-4814af263c86/application?embed=true"
     },
     "simplify:shield ai::simplify-b7311fa1-4180-4d5a-8ce3-29a7c2703ea1": {
       "company": "Shield AI",
@@ -64359,5 +64409,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T01:38:02+00:00"
+  "updated_at": "2026-10-28T06:32:06+00:00"
 }
