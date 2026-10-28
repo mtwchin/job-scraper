@@ -1,5 +1,5 @@
 {
-  "count": 8208,
+  "count": 8209,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -65553,6 +65553,16 @@
       "title": "Software Engineer Intern",
       "url": "https://www.imc.com/us/careers/jobs/4823924101"
     },
+    "vanshb03:infleqtion::vanshb03-3f178600-999b-4d23-8264-65108f950e20": {
+      "company": "Infleqtion",
+      "first_seen": "2026-10-28T14:38:46+00:00",
+      "last_seen": "2026-10-28T14:38:46+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1793196709",
+      "source": "vanshb03",
+      "title": "Quantum Software Intern",
+      "url": "https://go.vansh.nyc/Xz"
+    },
     "vanshb03:insulet corporation::vanshb03-5ec0f628-9339-4371-a075-8947c5883855": {
       "company": "Insulet Corporation",
       "first_seen": "2026-10-23T16:49:10+00:00",
@@ -70747,5 +70757,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T14:33:08+00:00"
+  "updated_at": "2026-10-28T14:39:11+00:00"
 }
