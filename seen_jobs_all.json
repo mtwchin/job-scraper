@@ -1,5 +1,5 @@
 {
-  "count": 8232,
+  "count": 8233,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1125,6 +1125,15 @@
       "source": "vanshb03",
       "title": "New Grad: Software Engineer",
       "url": "https://go.vansh.nyc/Uh"
+    },
+    "vanshb03:johnson controls::vanshb03-2e9d39ef-3478-4dd7-a209-1f159dd84a65": {
+      "attempted_at": "2026-10-28T22:41:59+00:00",
+      "company": "Johnson Controls",
+      "location": "Burlington, MA",
+      "posted_at": "1793145600",
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/Yb"
     },
     "vanshb03:kla::vanshb03-9aff637f-ed10-42d2-b06e-cbebb43ccbcd": {
       "attempted_at": "2026-10-23T17:25:09+00:00",
@@ -69170,6 +69179,18 @@
       "title": "New Grad: Software Engineer I",
       "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4749965101"
     },
+    "vanshb03:subtotal::vanshb03-bf987a07-4488-439f-94a0-35d69467dcb8": {
+      "company": "Subtotal",
+      "duplicate_of": "simplify:subtotal::simplify-f5f92fa6-34b5-4a3d-9bb0-65f4e2a13555",
+      "first_seen": "2026-10-28T22:41:59+00:00",
+      "last_seen": "2026-10-28T22:41:59+00:00",
+      "location": "Remote, United States",
+      "posted_at": "1793145600",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Yc"
+    },
     "vanshb03:suno::vanshb03-327c146b-66e5-4035-9b7d-8028c929a624": {
       "company": "Suno",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -71025,5 +71046,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T22:32:33+00:00"
+  "updated_at": "2026-10-28T22:42:36+00:00"
 }
