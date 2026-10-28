@@ -1,5 +1,5 @@
 {
-  "count": 8188,
+  "count": 8193,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -68321,6 +68321,16 @@
       "title": "New Grad 2027: Software Development Engineer",
       "url": "https://go.vansh.nyc/HL"
     },
+    "vanshb03:shield ai::vanshb03-818c120a-e0d0-4b4d-894a-9652e93acf9b": {
+      "company": "Shield AI",
+      "first_seen": "2026-10-28T07:09:21+00:00",
+      "last_seen": "2026-10-28T07:09:21+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1793059200",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Autonomous Software Engineer",
+      "url": "https://go.vansh.nyc/Xb"
+    },
     "vanshb03:shopify::vanshb03-12011286-0eca-4688-8c69-aa283024575d": {
       "company": "Shopify",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -69965,6 +69975,42 @@
       "title": "New Grad 2026: Software Engineer",
       "url": "https://jobs.smartrecruiters.com/visa/744000080904205-software-engineer-new-college-grad-2026"
     },
+    "vanshb03:visa::vanshb03-1dd4eb0e-f23e-45c8-9832-0f9ca763ae14": {
+      "company": "Visa",
+      "duplicate_of": "simplify:visa::simplify-7d6d0c79-df4a-4100-b0e6-68dc43dade2a",
+      "first_seen": "2026-10-28T08:37:24+00:00",
+      "last_seen": "2026-10-28T08:37:24+00:00",
+      "location": "Denver, CO",
+      "posted_at": "1793107390",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Sophomore Program Software Engineer Intern",
+      "url": "https://go.vansh.nyc/VB"
+    },
+    "vanshb03:visa::vanshb03-5a9b3dfd-9fb8-41b2-a1a3-cc7cb93c7254": {
+      "company": "Visa",
+      "duplicate_of": "simplify:visa::simplify-7d6d0c79-df4a-4100-b0e6-68dc43dade2a",
+      "first_seen": "2026-10-28T08:37:24+00:00",
+      "last_seen": "2026-10-28T08:37:24+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1793107390",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Sophomore Program Software Engineer Intern",
+      "url": "https://go.vansh.nyc/VC"
+    },
+    "vanshb03:visa::vanshb03-6ff3b44c-5a15-4442-8d13-69b75b7648e9": {
+      "company": "Visa",
+      "duplicate_of": "simplify:visa::simplify-7d6d0c79-df4a-4100-b0e6-68dc43dade2a",
+      "first_seen": "2026-10-28T08:37:24+00:00",
+      "last_seen": "2026-10-28T08:37:24+00:00",
+      "location": "Bellevue, WA",
+      "posted_at": "1793106025",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Sophomore Program Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Vx"
+    },
     "vanshb03:visa::vanshb03-7c8f509f-1c3d-4b6a-a2e1-edd93599058b": {
       "company": "Visa",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -69986,6 +70032,18 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer",
       "url": "https://jobs.smartrecruiters.com/visa/744000080906904-software-engineer-new-college-grad-2026"
+    },
+    "vanshb03:visa::vanshb03-cb3be6bb-b78a-496a-b038-04c0ce4dfc64": {
+      "company": "Visa",
+      "duplicate_of": "simplify:visa::simplify-7d6d0c79-df4a-4100-b0e6-68dc43dade2a",
+      "first_seen": "2026-10-28T08:37:24+00:00",
+      "last_seen": "2026-10-28T08:37:24+00:00",
+      "location": "Foster City, CA",
+      "posted_at": "1793106025",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Sophomore Program Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Vy"
     },
     "vanshb03:visa::vanshb03-f6284868-3387-4d56-8eca-4086fafc4d16": {
       "company": "Visa",
@@ -70513,5 +70571,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T07:09:38+00:00"
+  "updated_at": "2026-10-28T08:37:42+00:00"
 }
