@@ -1,5 +1,5 @@
 {
-  "count": 8207,
+  "count": 8208,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -29146,6 +29146,16 @@
       "posted_at": "1787616841",
       "title": "Quantum Software Engineer - Compiler & Control Systems",
       "url": "https://apply.workable.com/coldquanta/j/DA0D4B3975/apply"
+    },
+    "simplify:infleqtion::simplify-b8ebd7b8-bd94-4af7-8d80-9bdd6cfa8c52": {
+      "company": "Infleqtion",
+      "first_seen": "2026-10-28T14:32:47+00:00",
+      "last_seen": "2026-10-28T14:32:47+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1793196709",
+      "source": "simplify",
+      "title": "Quantum Software Intern - Quantum Software",
+      "url": "https://apply.workable.com/coldquanta/j/EB77DE8198/apply"
     },
     "simplify:infleqtion::simplify-eac46790-0057-4518-8e60-be17fee9950f": {
       "company": "Infleqtion",
@@ -70737,5 +70747,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T14:32:05+00:00"
+  "updated_at": "2026-10-28T14:33:08+00:00"
 }
