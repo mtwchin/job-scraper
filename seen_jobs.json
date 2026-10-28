@@ -1,5 +1,5 @@
 {
-  "count": 7650,
+  "count": 7651,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -7136,6 +7136,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/amca/jobs/4425120009"
+    },
+    "simplify:amd::simplify-015289cb-f341-4c56-b934-ad5a39ac1cb8": {
+      "company": "AMD",
+      "first_seen": "2026-10-28T23:02:11+00:00",
+      "last_seen": "2026-10-28T23:02:11+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793205720",
+      "source": "simplify",
+      "title": "Masters AI Training Software & Performance Co-op",
+      "url": "https://careers.amd.com/jobs/93476?icims=1"
     },
     "simplify:amd::simplify-03a692be-c92c-46ec-92a0-4dc48f6487c1": {
       "company": "AMD",
@@ -56129,6 +56139,7 @@
     "simplify:virtu financial::simplify-d8419553-b116-44e9-8ec0-d1ae843c6512": {
       "company": "Virtu Financial",
       "first_seen": "2026-07-30T00:10:16+00:00",
+      "last_seen": "2026-10-28T23:02:11+00:00",
       "posted_at": "1785363946",
       "title": "Frontend Developer Internship",
       "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002"
@@ -64504,5 +64515,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T23:01:39+00:00"
+  "updated_at": "2026-10-28T23:02:41+00:00"
 }
