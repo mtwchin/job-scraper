@@ -1,5 +1,5 @@
 {
-  "count": 8146,
+  "count": 8153,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -8505,6 +8505,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa/application?embed=true"
+    },
+    "simplify:amplitude::simplify-4ae0b156-0dee-4cd8-9586-be6ccba61655": {
+      "company": "Amplitude",
+      "first_seen": "2026-10-28T02:02:07+00:00",
+      "last_seen": "2026-10-28T02:02:07+00:00",
+      "location": "SF",
+      "posted_at": "1791331200",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://jobs.ashbyhq.com/amplitude/9c43576b-d16f-4192-a366-7c9eb689c4be/application?embed=true"
     },
     "simplify:ampliwork, inc::simplify-8b2cbddc-da27-4fb2-b8db-666cf3beb9ca": {
       "company": "Ampliwork, Inc",
@@ -18460,6 +18470,16 @@
       "title": "Graduate Software Engineer",
       "url": "https://jobs.ashbyhq.com/coram-ai/3fa08156-569d-4a69-a918-53e5074dd3a3/application?embed=true"
     },
+    "simplify:coretech security services::simplify-6db079a2-0f0f-4c58-a32a-601a9c866d01": {
+      "company": "CoreTech Security Services",
+      "first_seen": "2026-10-28T02:02:07+00:00",
+      "last_seen": "2026-10-28T02:02:07+00:00",
+      "location": "Cheltenham, UK",
+      "posted_at": "1793151823",
+      "source": "simplify",
+      "title": "Graduate Software Engineer",
+      "url": "https://jobs.eu.lever.co/coretechsecurity/31809178-6182-46d2-9baf-700f410a45de/apply"
+    },
     "simplify:coretek services::simplify-803b306d-364e-4c89-90ae-c3f32c7cd40a": {
       "company": "Coretek Services",
       "first_seen": "2026-10-23T17:33:09+00:00",
@@ -26261,6 +26281,26 @@
       "posted_at": "1782338726",
       "title": "Software Engineer 1 - Adobe Exp Platform",
       "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260400"
+    },
+    "simplify:goaly::simplify-cd6f30ae-cfcf-4975-8371-655f5f3c95f4": {
+      "company": "Goaly",
+      "first_seen": "2026-10-28T02:02:07+00:00",
+      "last_seen": "2026-10-28T02:02:07+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1790208000",
+      "source": "simplify",
+      "title": "Founding Senior Applied AI Engineer",
+      "url": "https://jobs.ashbyhq.com/goaly/70f6bbdd-e300-4a47-9875-ba2dfa4ded18/application?embed=true"
+    },
+    "simplify:goaly::simplify-dd34b526-672b-4db5-b552-1a3c468ccdc4": {
+      "company": "Goaly",
+      "first_seen": "2026-10-28T02:02:07+00:00",
+      "last_seen": "2026-10-28T02:02:07+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1786147200",
+      "source": "simplify",
+      "title": "Applied AI Engineer Early Career",
+      "url": "https://jobs.ashbyhq.com/goaly/ff6ec280-f5c6-4151-8bfd-e75ff8004c89/application?embed=true"
     },
     "simplify:godaddy::simplify-12d18ee4-5916-44bb-8d90-d5b39f8a7c4b": {
       "company": "GoDaddy",
@@ -34204,6 +34244,16 @@
       "title": "Engineering Graduate Programme",
       "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Engineering-Graduate-Programme_R0123391"
     },
+    "simplify:lumaril::simplify-24bb49cb-168e-4f7f-aef6-fc5fe1503447": {
+      "company": "Lumaril",
+      "first_seen": "2026-10-28T02:02:07+00:00",
+      "last_seen": "2026-10-28T02:02:07+00:00",
+      "location": "NYC",
+      "posted_at": "1793151202",
+      "source": "simplify",
+      "title": "Engineer \u2013 Generalist",
+      "url": "https://jobs.lever.co/lumaril-corporation/bf68ec9b-b6a6-48da-b532-b3254dec1cd1/apply"
+    },
     "simplify:lumentum::simplify-6df12b44-dd54-4190-9e0b-c129286498e4": {
       "company": "Lumentum",
       "first_seen": "2026-07-21T10:51:40+00:00",
@@ -40679,6 +40729,16 @@
       "posted_at": "1786602280",
       "title": "PHP/SQL Web Developer - Options Market Data Team",
       "url": "https://optionsit.bamboohr.com/careers/121/"
+    },
+    "simplify:options technology::simplify-ab0b03b0-bca9-4a7a-9a92-ed44ec9b0054": {
+      "company": "Options Technology",
+      "first_seen": "2026-10-28T02:02:07+00:00",
+      "last_seen": "2026-10-28T02:02:07+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1790035200",
+      "source": "simplify",
+      "title": "PHP/SQL Web Developer",
+      "url": "https://jobs.ashbyhq.com/options-it/cb8e50e4-5ef8-4140-bcb6-2193e047cfb8/application?embed=true"
     },
     "simplify:optisigns::simplify-f79e8b9d-0778-4688-b89e-ed8ec12a8e09": {
       "company": "OptiSigns",
@@ -51081,6 +51141,16 @@
       "source": "simplify",
       "title": "Full Stack Developer 1/2",
       "url": "https://specteraerospace.bamboohr.com/careers/152/"
+    },
+    "simplify:spectral labs::simplify-d46d2d06-e165-43aa-935a-3100862bc19e": {
+      "company": "Spectral Labs",
+      "first_seen": "2026-10-28T02:02:07+00:00",
+      "last_seen": "2026-10-28T02:02:07+00:00",
+      "location": "SF",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/spectral%20labs/c7d4c871-2b72-4096-b6c2-df210d6fcb5f/application?embed=true"
     },
     "simplify:spirit aerosystems::simplify-01526870-c76a-40bc-981b-2617e593fde3": {
       "company": "Spirit AeroSystems",
@@ -70081,5 +70151,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T01:33:16+00:00"
+  "updated_at": "2026-10-28T02:02:19+00:00"
 }
