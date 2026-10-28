@@ -1,5 +1,5 @@
 {
-  "count": 8233,
+  "count": 8234,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -64085,6 +64085,16 @@
       "title": "Software Developer Intern",
       "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1"
     },
+    "vanshb03:ciena::vanshb03-857072be-16de-401e-a096-37df29a6778f": {
+      "company": "Ciena",
+      "first_seen": "2026-10-28T22:43:27+00:00",
+      "last_seen": "2026-10-28T22:43:27+00:00",
+      "location": "Ottawa, Canada",
+      "posted_at": "1793145600",
+      "source": "vanshb03",
+      "title": "New Grad: Routing/IP Software Engineer",
+      "url": "https://go.vansh.nyc/Ym"
+    },
     "vanshb03:ciena::vanshb03-9333b87b-4d6d-4fe6-b888-297736c94e29": {
       "company": "Ciena",
       "first_seen": "2026-10-20T22:29:43+00:00",
@@ -71046,5 +71056,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T22:42:36+00:00"
+  "updated_at": "2026-10-28T22:43:39+00:00"
 }
