@@ -1,5 +1,5 @@
 {
-  "count": 7642,
+  "count": 7643,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -61000,6 +61000,18 @@
       "title": "Software Engineering Intern",
       "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Software-Engineering-Intern-UT-84116/1413790400/?ats=successfactors"
     },
+    "vanshb03:lockheed martin::vanshb03-12457784-c81a-4877-9db8-ecccb9c9d098": {
+      "company": "Lockheed Martin",
+      "duplicate_of": "vanshb03:lockheed martin::vanshb03-d2362609-cc36-4fdf-8c97-53a4bf6b5bac",
+      "first_seen": "2026-10-28T11:13:59+00:00",
+      "last_seen": "2026-10-28T11:13:59+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1793185551",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Xr"
+    },
     "vanshb03:lockheed martin::vanshb03-d2362609-cc36-4fdf-8c97-53a4bf6b5bac": {
       "company": "Lockheed Martin",
       "first_seen": "2026-10-27T01:52:21+00:00",
@@ -64419,5 +64431,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T07:10:09+00:00"
+  "updated_at": "2026-10-28T11:14:21+00:00"
 }
