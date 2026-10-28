@@ -1,5 +1,5 @@
 {
-  "count": 8167,
+  "count": 8179,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -25574,6 +25574,36 @@
       "title": "Information Technology Intern - Software Engineering - Computer Science",
       "url": "https://careers-gdeb.icims.com/jobs/20341/job?mobile=true&needsRedirect=false"
     },
+    "simplify:general magic::simplify-1aa5987c-ec80-457f-9cf4-f0ad07ae342e": {
+      "company": "General Magic",
+      "first_seen": "2026-10-28T06:32:25+00:00",
+      "last_seen": "2026-10-28T06:32:25+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1792108800",
+      "source": "simplify",
+      "title": "Design Engineer Co-op",
+      "url": "https://jobs.ashbyhq.com/generalmagic/5c0e1614-de0c-4a8a-b37a-86af8f92b506/application?embed=true"
+    },
+    "simplify:general magic::simplify-6c514fac-5158-4951-864f-7e825c5cf6f4": {
+      "company": "General Magic",
+      "first_seen": "2026-10-28T06:32:25+00:00",
+      "last_seen": "2026-10-28T06:32:25+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1792108800",
+      "source": "simplify",
+      "title": "AI Engineer Co-op",
+      "url": "https://jobs.ashbyhq.com/generalmagic/bf200870-484c-4beb-b08b-9655d07fabe6/application?embed=true"
+    },
+    "simplify:general magic::simplify-c06039c4-ba75-429d-bdd0-6d8a878845ee": {
+      "company": "General Magic",
+      "first_seen": "2026-10-28T06:32:25+00:00",
+      "last_seen": "2026-10-28T06:32:25+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1792108800",
+      "source": "simplify",
+      "title": "Backend Engineer Co-op",
+      "url": "https://jobs.ashbyhq.com/generalmagic/76c162b0-9fd6-42bb-93d5-9ab7ad3f569b/application?embed=true"
+    },
     "simplify:general matter::simplify-52758ea7-052d-4c85-9fbe-2558a05538f1": {
       "company": "General Matter",
       "first_seen": "2026-08-20T01:44:05+00:00",
@@ -29222,7 +29252,7 @@
     "simplify:insomniac games::simplify-3d74d34b-cf5a-4c64-b08a-73afd63a61f6": {
       "company": "Insomniac Games",
       "first_seen": "2026-10-19T23:05:20+00:00",
-      "last_seen": "2026-10-26T00:02:14+00:00",
+      "last_seen": "2026-10-28T06:32:25+00:00",
       "location": "Burbank, CA, Remote in USA",
       "posted_at": "1792449487",
       "source": "simplify",
@@ -30278,6 +30308,16 @@
       "posted_at": "1782562154",
       "title": "Federal Work Study Website Development Intern",
       "url": "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Anderson-IN/Federal-Work-Study---Website-Development-Intern_JR0000105569"
+    },
+    "simplify:ixian robotics::simplify-0291dc48-d38e-41a2-8ec1-6679aa4b7d0f": {
+      "company": "Ixian Robotics",
+      "first_seen": "2026-10-28T06:32:25+00:00",
+      "last_seen": "2026-10-28T06:32:25+00:00",
+      "location": "SF",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Software Intern",
+      "url": "https://jobs.ashbyhq.com/ixianrobotics/23738c13-3881-402e-9919-85683052d233/application?embed=true"
     },
     "simplify:ixl learning::simplify-1169bc21-fa23-40ca-a33d-bc5c23912da9": {
       "company": "IXL Learning",
@@ -33039,6 +33079,16 @@
       "posted_at": "1785506597",
       "title": "Software Engineering Associate",
       "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors"
+    },
+    "simplify:laminar::simplify-f50200ae-9d5d-4692-bd20-24e9ac535f98": {
+      "company": "Laminar",
+      "first_seen": "2026-10-28T06:32:25+00:00",
+      "last_seen": "2026-10-28T06:32:25+00:00",
+      "location": "SF",
+      "posted_at": "1788134400",
+      "source": "simplify",
+      "title": "Technical Intern",
+      "url": "https://jobs.ashbyhq.com/laminar-jobs/b8bf92af-a213-4f50-a22c-4a2413c4ab87/application?embed=true"
     },
     "simplify:lance::simplify-3006c01e-96d7-4dd6-92e3-db3d1467b46d": {
       "company": "Lance",
@@ -49451,6 +49501,26 @@
       "title": "Simulation Framework Engineer 1",
       "url": "https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba/apply"
     },
+    "simplify:shield ai::simplify-4be638e1-80b0-4aa7-ac1f-416839d623c1": {
+      "company": "Shield AI",
+      "first_seen": "2026-10-28T06:31:45+00:00",
+      "last_seen": "2026-10-28T06:31:45+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1791331200",
+      "source": "simplify",
+      "title": "Simulation Framework Engineer 2",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a9e2509c-fa35-4bf7-b50d-a557666b629d/application?embed=true"
+    },
+    "simplify:shield ai::simplify-50363c94-1c17-4034-909d-b4b47a67fe3f": {
+      "company": "Shield AI",
+      "first_seen": "2026-10-28T06:31:45+00:00",
+      "last_seen": "2026-10-28T06:31:45+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Software Integration Engineer 1 New Grad - Software Integration",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true"
+    },
     "simplify:shield ai::simplify-6a2ed12f-7233-49b7-80af-74bb4795ed0e": {
       "company": "Shield AI",
       "first_seen": "2026-10-10T01:36:57+00:00",
@@ -49461,6 +49531,26 @@
       "title": "Software Engineer 2 - Factory",
       "url": "https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5/apply"
     },
+    "simplify:shield ai::simplify-74eb4b4b-ac29-4bdc-90f3-f70b743e4c06": {
+      "company": "Shield AI",
+      "first_seen": "2026-10-28T06:31:45+00:00",
+      "last_seen": "2026-10-28T06:31:45+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1792713600",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true"
+    },
+    "simplify:shield ai::simplify-9c20706d-1c36-49c7-a6d2-07c92520bf94": {
+      "company": "Shield AI",
+      "first_seen": "2026-10-28T06:31:45+00:00",
+      "last_seen": "2026-10-28T06:31:45+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1791331200",
+      "source": "simplify",
+      "title": "Simulation Framework Engineer - Simulation Framework",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/f5ea96c5-7d70-4058-adec-16be606f5ad3/application?embed=true"
+    },
     "simplify:shield ai::simplify-b2bf950b-bf97-4b9c-8ab7-e96bfd87276a": {
       "company": "Shield AI",
       "first_seen": "2026-10-07T22:34:02+00:00",
@@ -49470,6 +49560,16 @@
       "source": "simplify",
       "title": "Simulation Framework Engineer 2 - Simulation Framework",
       "url": "https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62/apply"
+    },
+    "simplify:shield ai::simplify-b3968d77-3489-4bef-9ff3-acd12708ba23": {
+      "company": "Shield AI",
+      "first_seen": "2026-10-28T06:31:45+00:00",
+      "last_seen": "2026-10-28T06:31:45+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Software Engineer 2 New Grad",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/0e7ecf76-b4f6-4159-aa44-4814af263c86/application?embed=true"
     },
     "simplify:shield ai::simplify-b7311fa1-4180-4d5a-8ce3-29a7c2703ea1": {
       "company": "Shield AI",
@@ -59471,6 +59571,28 @@
       "source": "simplify",
       "title": "Software Engineer - AI Automation - Internal Tools",
       "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4251267009"
+    },
+    "simplify:vsp vision::simplify-178d0613-9e8b-480c-b35e-f7b89b94e02e": {
+      "company": "VSP Vision",
+      "duplicate_of": "vanshb03:vsp vision::vanshb03-d3bd142d-32e3-4c0b-adc4-4ce114a210d9",
+      "first_seen": "2026-10-28T06:32:25+00:00",
+      "last_seen": "2026-10-28T06:32:25+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1793145600",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068"
+    },
+    "simplify:vsp vision::simplify-ee6ec003-29b0-4b45-84ff-f2bc079dd1cf": {
+      "company": "VSP Vision",
+      "first_seen": "2026-10-28T06:32:25+00:00",
+      "last_seen": "2026-10-28T06:32:25+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1793145600",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Technology Innovation",
+      "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020"
     },
     "simplify:vtg::simplify-1a6e1243-653e-4c44-9a87-789030cb51a3": {
       "company": "VTG",
@@ -70299,5 +70421,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T06:31:28+00:00"
+  "updated_at": "2026-10-28T06:32:31+00:00"
 }
