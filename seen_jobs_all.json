@@ -1,5 +1,5 @@
 {
-  "count": 8201,
+  "count": 8202,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -23541,6 +23541,16 @@
       "source": "simplify",
       "title": "Associate Software Engineer",
       "url": "https://jobs.lever.co/fiscalnote/c76e748f-6e25-42cf-bf26-ebae44280ffd/apply"
+    },
+    "simplify:fiserv::simplify-ef389837-a436-4e61-ad27-7f8a5a2e414f": {
+      "company": "Fiserv",
+      "first_seen": "2026-10-28T12:31:46+00:00",
+      "last_seen": "2026-10-28T12:31:46+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1791849600",
+      "source": "simplify",
+      "title": "Android Application Framework Developer - Device Engineering",
+      "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Android-AOSP-Device-Software-Engineer_R-10403880"
     },
     "simplify:five rings capital::simplify-14baa8ae-f151-483f-b5e0-77ca5086d04e": {
       "company": "Five Rings Capital",
@@ -70657,5 +70667,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-28T12:09:49+00:00"
+  "updated_at": "2026-10-28T12:31:52+00:00"
 }
