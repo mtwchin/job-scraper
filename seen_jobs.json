@@ -1,5 +1,5 @@
 {
-  "count": 7662,
+  "count": 7663,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -64305,6 +64305,16 @@
       "title": "New Grad 2026: Software Engineer",
       "url": "https://jobs.ashbyhq.com/zip/5f28357a-c95d-485a-84f9-feff64ce9fb3"
     },
+    "vanshb03:zoox::vanshb03-30e6ad4f-5843-480a-b4ee-d9d1f1106507": {
+      "company": "Zoox",
+      "first_seen": "2026-10-29T23:09:06+00:00",
+      "last_seen": "2026-10-29T23:09:06+00:00",
+      "location": "Foster City, CA",
+      "posted_at": "1793232000",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/ZY"
+    },
     "vercel::6181755004": {
       "company": "Vercel",
       "first_seen": "2026-09-08T18:00:44+00:00",
@@ -64661,5 +64671,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T23:02:10+00:00"
+  "updated_at": "2026-10-29T23:09:13+00:00"
 }
