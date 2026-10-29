@@ -1,5 +1,5 @@
 {
-  "count": 8344,
+  "count": 8345,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -66628,6 +66628,18 @@
       "title": "Embedded and Systems Engineering Intern, Digital Product",
       "url": "https://go.vansh.nyc/IS"
     },
+    "vanshb03:genius ai::vanshb03-aa6a99b7-7eba-4da8-a33d-c6c7d761b386": {
+      "company": "Genius AI",
+      "duplicate_of": "simplify:genius ai::simplify-0e1ea591-5cd9-421a-8dda-6c282f9025c0",
+      "first_seen": "2026-10-29T23:08:51+00:00",
+      "last_seen": "2026-10-29T23:08:51+00:00",
+      "location": "New York, NY",
+      "posted_at": "1793232000",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/108"
+    },
     "vanshb03:ginkgo bioworks::vanshb03-ce9656eb-4e3b-436a-8380-cd0fdee2e0bd": {
       "company": "Ginkgo Bioworks",
       "first_seen": "2026-10-26T16:38:11+00:00",
@@ -72421,5 +72433,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T23:03:06+00:00"
+  "updated_at": "2026-10-29T23:09:09+00:00"
 }
