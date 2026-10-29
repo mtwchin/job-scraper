@@ -1,5 +1,5 @@
 {
-  "count": 8295,
+  "count": 8298,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -65862,6 +65862,16 @@
       "title": "Entry Level Software Developer",
       "url": "https://careers-gannettfleming.icims.com/jobs/12404/entry-level-software-developer/job"
     },
+    "vanshb03:gardaworld::vanshb03-44ae88e5-8ae4-4524-b8ca-d1e944296d85": {
+      "company": "GardaWorld",
+      "first_seen": "2026-10-29T18:10:02+00:00",
+      "last_seen": "2026-10-29T18:10:02+00:00",
+      "location": "Wayzata, MN",
+      "posted_at": "1793225173",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, C#",
+      "url": "https://go.vansh.nyc/Zc"
+    },
     "vanshb03:garmin::vanshb03-26093e95-ae02-466f-9159-da032bc2e2f5": {
       "company": "Garmin",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -66834,6 +66844,16 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821"
+    },
+    "vanshb03:kla::vanshb03-972a06df-1885-4871-a815-3a3d70d25b10": {
+      "company": "KLA",
+      "first_seen": "2026-10-29T18:10:02+00:00",
+      "last_seen": "2026-10-29T18:10:02+00:00",
+      "location": "Milpitas, CA",
+      "posted_at": "1793232000",
+      "source": "vanshb03",
+      "title": "Software Intern",
+      "url": "https://go.vansh.nyc/Zl"
     },
     "vanshb03:kla::vanshb03-d995f89a-7744-4f7b-af19-ede44657519c": {
       "company": "KLA",
@@ -69695,6 +69715,16 @@
       "title": "Software Engineer I - Membership",
       "url": "https://join.softheon.com/_/j/4AFE55D62D/"
     },
+    "vanshb03:solarity::vanshb03-53eec40f-8769-4c25-ae2a-ea60c183acd1": {
+      "company": "Solarity",
+      "first_seen": "2026-10-29T18:10:02+00:00",
+      "last_seen": "2026-10-29T18:10:02+00:00",
+      "location": "Sioux Falls, SD",
+      "posted_at": "1793157421",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Zh"
+    },
     "vanshb03:solink::vanshb03-3cf77de2-69ae-462f-91f3-489acea420e7": {
       "company": "Solink",
       "first_seen": "2026-10-28T15:08:46+00:00",
@@ -71808,5 +71838,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T17:42:51+00:00"
+  "updated_at": "2026-10-29T18:10:54+00:00"
 }
