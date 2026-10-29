@@ -1,5 +1,5 @@
 {
-  "count": 8318,
+  "count": 8344,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -343,6 +343,15 @@
       "title": "Graduate Digital - Data, AI & Engineering",
       "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Graduate---Digital---Data--AI---Engineering---UK_RQ117184"
     },
+    "simplify:caci::simplify-cdc35a24-ab55-44ca-90d3-c39986ed8c92": {
+      "attempted_at": "2026-10-29T23:02:23+00:00",
+      "company": "CACI",
+      "location": "Aurora, CO, Sterling, VA",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "Front End Software Developer",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Front-End-Software-Developer_334352"
+    },
     "simplify:cae::simplify-e036c643-73e5-4aed-9393-88ba5c8585bd": {
       "attempted_at": "2026-10-23T14:02:23+00:00",
       "company": "CAE",
@@ -631,6 +640,15 @@
       "title": "Junior Backend Developer",
       "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5252868007"
     },
+    "simplify:fuku::simplify-31e519e5-0135-4f6f-960f-fa5f6fea660d": {
+      "attempted_at": "2026-10-29T23:02:23+00:00",
+      "company": "Fuku",
+      "location": "Austin, TX",
+      "posted_at": "1793313786",
+      "source": "simplify",
+      "title": "Software Engineer / Member of Technical Staff",
+      "url": "https://apply.workable.com/fuku/j/3B9E64FF33/apply"
+    },
     "simplify:genentech::simplify-e594a935-587e-4202-ab30-9e3057cbd9c8": {
       "attempted_at": "2026-10-20T23:03:04+00:00",
       "company": "Genentech",
@@ -793,6 +811,15 @@
       "title": "Full-Stack Engineer",
       "url": "https://jobs.smartrecruiters.com/Intuitive/744000156658124"
     },
+    "simplify:johns hopkins applied physics laboratory::simplify-007dcff7-02c1-4bd8-bc8b-a194434974bc": {
+      "attempted_at": "2026-10-29T23:02:23+00:00",
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "location": "Laurel, MD",
+      "posted_at": "1793306280",
+      "source": "simplify",
+      "title": "Software Systems Engineer",
+      "url": "https://careers.jhuapl.edu/jobs/60601?icims=1"
+    },
     "simplify:johnson & johnson::simplify-ea0930c5-15f8-43f4-894d-cf6d01c9a145": {
       "attempted_at": "2026-10-15T22:33:21+00:00",
       "company": "Johnson & Johnson",
@@ -856,6 +883,15 @@
       "title": "AI Engineer",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/AI-Engineer_JR111826-1"
     },
+    "simplify:morningstar::simplify-f0518227-634a-49fb-8e4e-eba9d347a10e": {
+      "attempted_at": "2026-10-29T23:02:23+00:00",
+      "company": "Morningstar",
+      "location": "Chicago, IL",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "Associate Software Engineer - Central Tech AI",
+      "url": "https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Associate-Software-Engineer--Central-Tech-AI-_REQ-059108"
+    },
     "simplify:motorola solutions::simplify-4ac8a904-55c8-41a8-bf6f-024654bfb82b": {
       "attempted_at": "2026-10-29T13:32:40+00:00",
       "company": "Motorola Solutions",
@@ -874,6 +910,15 @@
       "title": "Ground Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007"
     },
+    "simplify:neurohire.ai::simplify-87c40439-ed10-4b6a-99b3-511100982f8f": {
+      "attempted_at": "2026-10-29T23:02:23+00:00",
+      "company": "neurohire.ai",
+      "location": "Remote in Canada",
+      "posted_at": "1793314036",
+      "source": "simplify",
+      "title": "Software Developer",
+      "url": "https://apply.workable.com/neurohire-dot-a-i/j/01ECE8E2C4/apply"
+    },
     "simplify:new york iso::simplify-0a2d8d42-726b-49fe-9136-60580662f2da": {
       "attempted_at": "2026-10-29T01:32:29+00:00",
       "company": "New York ISO",
@@ -891,6 +936,15 @@
       "source": "simplify",
       "title": "Engineer 1 - POS+",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1--POS---Hybrid---Seattle--WA-_R-891900"
+    },
+    "simplify:northrop grumman::simplify-2cfb374c-f2cc-4038-a831-a9a8c67eb5fe": {
+      "attempted_at": "2026-10-29T23:02:23+00:00",
+      "company": "Northrop Grumman",
+      "location": "Aurora, CO",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "Associate Cyber Software Engineer - Pathways Program",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279"
     },
     "simplify:northrop grumman::simplify-d57ce697-9274-4176-85eb-5f6098fd3fc7": {
       "attempted_at": "2026-10-28T22:31:59+00:00",
@@ -954,6 +1008,33 @@
       "source": "simplify",
       "title": "Design Automation & Quality Assurance Engineer Intern",
       "url": "https://qualcomm.eightfold.ai/careers/job/446721349404"
+    },
+    "simplify:raydar::simplify-a258eec4-7137-4d4b-b446-f390e0c33826": {
+      "attempted_at": "2026-10-29T23:02:23+00:00",
+      "company": "Raydar",
+      "location": "SF; NYC",
+      "posted_at": "1793312988",
+      "source": "simplify",
+      "title": "Founding Software Engineer",
+      "url": "https://apply.workable.com/raydar/j/29870CA1DE/apply"
+    },
+    "simplify:raydar::simplify-c95a8759-ec1e-4a10-995b-fa1c59f0f47e": {
+      "attempted_at": "2026-10-29T23:02:23+00:00",
+      "company": "Raydar",
+      "location": "LA",
+      "posted_at": "1793312983",
+      "source": "simplify",
+      "title": "AI Engineer",
+      "url": "https://apply.workable.com/raydar/j/EF9BC1EC32/apply"
+    },
+    "simplify:raydar::simplify-ccbad166-ed29-434d-8d0e-eff6be00e081": {
+      "attempted_at": "2026-10-29T23:02:23+00:00",
+      "company": "Raydar",
+      "location": "SF",
+      "posted_at": "1793312985",
+      "source": "simplify",
+      "title": "Applied AI Engineer",
+      "url": "https://apply.workable.com/raydar/j/89F1DF6904/apply"
     },
     "simplify:riot games::simplify-d24f3415-d7f3-4935-8bed-730bae30d68d": {
       "attempted_at": "2026-10-01T23:01:57+00:00",
@@ -1107,6 +1188,15 @@
       "source": "simplify",
       "title": "Front-End Developer",
       "url": "https://vivsofttechnologiesfa.applytojob.com/apply/B29sOighJr/Front-End-Developer"
+    },
+    "simplify:waggoner financial::simplify-5951a15d-1725-4e7a-96f2-33ccb97e28f5": {
+      "attempted_at": "2026-10-29T23:02:23+00:00",
+      "company": "Waggoner Financial",
+      "location": "Lansing, MI",
+      "posted_at": "1793313026",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://apply.workable.com/waggoner-financial/j/ECBC946186/apply"
     },
     "simplify:wikimedia foundation::simplify-58133210-2067-49d2-85f6-9cbc957b9b44": {
       "attempted_at": "2026-10-15T22:33:21+00:00",
@@ -1350,6 +1440,15 @@
       "source": "vanshb03",
       "title": "New Grad: Software Engineer",
       "url": "https://go.vansh.nyc/Tx"
+    },
+    "vanshb03:qualcomm::vanshb03-06325c22-2856-4591-84d5-789e7a3e09c2": {
+      "attempted_at": "2026-10-29T22:38:23+00:00",
+      "company": "Qualcomm",
+      "location": "Toronto, Canada",
+      "posted_at": "1793312674",
+      "source": "vanshb03",
+      "title": "AI Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/ZK"
     },
     "vanshb03:rivian and volkswagen group technologies::vanshb03-c4bcc390-2e9e-4a1d-b1d8-02c8f170e9a5": {
       "attempted_at": "2026-10-23T17:25:09+00:00",
@@ -7592,6 +7691,16 @@
       "title": "Software Development Engineer Intern - Summer",
       "url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa"
     },
+    "simplify:amazon::simplify-22b41b69-61b2-4b32-88f6-61e9f4d4643d": {
+      "company": "Amazon",
+      "first_seen": "2026-10-29T23:02:02+00:00",
+      "last_seen": "2026-10-29T23:02:02+00:00",
+      "location": "Cupertino, CA",
+      "posted_at": "1793314195",
+      "source": "simplify",
+      "title": "Software Development Engineer",
+      "url": "https://amazon.jobs/en/jobs/10592066/software-development-engineer"
+    },
     "simplify:amazon::simplify-27a0f900-c5b2-4b8f-85c2-8614ea5badf0": {
       "company": "Amazon",
       "first_seen": "2026-07-08T15:22:24+00:00",
@@ -8982,7 +9091,7 @@
     "simplify:anavation::simplify-bfd3e5c6-0630-477a-a77e-5849e825fd81": {
       "company": "AnaVation",
       "first_seen": "2026-09-08T23:04:44+00:00",
-      "last_seen": "2026-10-22T00:01:33+00:00",
+      "last_seen": "2026-10-29T23:02:50+00:00",
       "posted_at": "1788906346",
       "title": "Computer Science Intern - Summer Program",
       "url": "https://jobs.lever.co/anavationllc/a5c70b6a-2d16-4774-9043-677456614b1b/apply"
@@ -17669,6 +17778,16 @@
       "title": "Technology Cyber Security",
       "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Cyber-Security--Full-Time-Analyst--Irving-2027-_26999831"
     },
+    "simplify:citi::simplify-793b6819-02ba-4446-8fde-55a2aa4cdd7f": {
+      "company": "Citi",
+      "first_seen": "2026-10-29T23:02:52+00:00",
+      "last_seen": "2026-10-29T23:02:52+00:00",
+      "location": "NYC",
+      "posted_at": "1792108800",
+      "source": "simplify",
+      "title": "Python Developer",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Python-Developer_261002498-1"
+    },
     "simplify:citi::simplify-84fa0a5f-8366-48f2-9718-6823090c9978": {
       "company": "Citi",
       "first_seen": "2026-08-04T23:42:34+00:00",
@@ -24805,6 +24924,16 @@
       "title": "Associate Software Developer",
       "url": "https://careers-gannettfleming.icims.com/jobs/14760/job?mobile=true&needsRedirect=false"
     },
+    "simplify:garda capital partners::simplify-1099db4b-84db-44c0-abbd-4f3675aaf6e0": {
+      "company": "Garda Capital Partners",
+      "first_seen": "2026-10-29T23:02:51+00:00",
+      "last_seen": "2026-10-29T23:02:51+00:00",
+      "location": "Wayzata, MN",
+      "posted_at": "1793224115",
+      "source": "simplify",
+      "title": "Software Engineer Intern - C#",
+      "url": "https://job-boards.greenhouse.io/gardacp/jobs/6238021004"
+    },
     "simplify:garda capital partners::simplify-d935bae6-e667-4bd1-b10d-4431b5555110": {
       "company": "Garda Capital Partners",
       "first_seen": "2026-08-18T23:23:42+00:00",
@@ -26427,6 +26556,26 @@
       "title": "AI Engineer Intern",
       "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5240107007"
     },
+    "simplify:genius ai::simplify-0e1ea591-5cd9-421a-8dda-6c282f9025c0": {
+      "company": "Genius AI",
+      "first_seen": "2026-10-29T23:02:51+00:00",
+      "last_seen": "2026-10-29T23:02:51+00:00",
+      "location": "NYC",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/geniusai/96ebddc5-6ed4-4e68-813b-55d44c315b27/application?embed=true"
+    },
+    "simplify:genius ai::simplify-e056927f-98e5-4421-9db6-61f601a250e2": {
+      "company": "Genius AI",
+      "first_seen": "2026-10-29T23:02:51+00:00",
+      "last_seen": "2026-10-29T23:02:51+00:00",
+      "location": "NYC",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/geniusai/06198681-5c9d-40fa-aa68-ac92b65227c4/application?embed=true"
+    },
     "simplify:genomics england::simplify-f7e20b19-467d-47e8-96ec-93acbd0fc3f4": {
       "company": "Genomics England",
       "first_seen": "2026-07-26T03:56:28+00:00",
@@ -27520,6 +27669,26 @@
       "title": "Claims Lab Developer Intern",
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803"
     },
+    "simplify:great american insurance company::simplify-93157a2c-d04f-4785-b701-eb8a4beb6fd7": {
+      "company": "Great American Insurance Company",
+      "first_seen": "2026-10-29T23:02:51+00:00",
+      "last_seen": "2026-10-29T23:02:51+00:00",
+      "location": "Cincinnati, OH",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "Extreme Programming Engineer Intern",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Extreme-Programming-Engineer-Intern---Summer-2027_R9821"
+    },
+    "simplify:great american insurance company::simplify-947ecf5c-75d7-40ab-9352-13a2b8e00ce5": {
+      "company": "Great American Insurance Company",
+      "first_seen": "2026-10-29T23:02:51+00:00",
+      "last_seen": "2026-10-29T23:02:51+00:00",
+      "location": "Cincinnati, OH",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "Content Publishing Developer Intern",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Content-Publishing-Developer-Intern---Summer-2027_R9813"
+    },
     "simplify:great american insurance company::simplify-d1eb886b-0de3-4b44-a75f-e5b3c10bdb23": {
       "company": "Great American Insurance Company",
       "first_seen": "2026-10-27T23:02:47+00:00",
@@ -27529,6 +27698,16 @@
       "source": "simplify",
       "title": "Data Application Engineer Intern",
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Application-Development-Intern---Summer-2027_R9796"
+    },
+    "simplify:great american insurance company::simplify-e1cafb2f-2420-4d7e-9cc6-5c161ba89dd3": {
+      "company": "Great American Insurance Company",
+      "first_seen": "2026-10-29T23:02:51+00:00",
+      "last_seen": "2026-10-29T23:02:51+00:00",
+      "location": "Cincinnati, OH",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "DevOps Developer Intern",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826"
     },
     "simplify:great question::simplify-b0dddbd1-f4e1-4c85-8399-7c54e668fbd8": {
       "company": "Great Question",
@@ -33934,6 +34113,16 @@
       "posted_at": "1787701651",
       "title": "Academic Graduate Appointee - Data Acquisition Software Development",
       "url": "https://jobs.smartrecruiters.com/LLNL/3743990014839366"
+    },
+    "simplify:lawrence livermore national laboratory (llnl)::simplify-6e030c11-d332-4a82-970d-cc6421ca6d1e": {
+      "company": "Lawrence Livermore National Laboratory (LLNL)",
+      "first_seen": "2026-10-29T23:02:52+00:00",
+      "last_seen": "2026-10-29T23:02:52+00:00",
+      "location": "Livermore, CA",
+      "posted_at": "1793303806",
+      "source": "simplify",
+      "title": "Geographic Information System Software Developer",
+      "url": "https://jobs.smartrecruiters.com/LLNL/3743990016508806"
     },
     "simplify:lawrence livermore national laboratory (llnl)::simplify-9288d3f9-b0e5-4d21-8dd2-6910da83436f": {
       "company": "Lawrence Livermore National Laboratory (LLNL)",
@@ -41940,6 +42129,16 @@
       "title": "Web Specialist",
       "url": "https://oumedicine.wd5.myworkdayjobs.com/OUHealthCareers/job/Oklahoma-City/Web-Specialist_R0068494"
     },
+    "simplify:overland ai::simplify-e6698a06-642e-483b-8dfb-1d1b5ec9299c": {
+      "company": "Overland AI",
+      "first_seen": "2026-10-29T23:02:51+00:00",
+      "last_seen": "2026-10-29T23:02:51+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793313372",
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://ats.rippling.com/overland-ai/jobs/37dd9f44-cdb1-4e2e-98c5-800b9b8cb40e"
+    },
     "simplify:ovintiv::simplify-aefb70e4-21a0-4269-b8c0-5a30ccdfa355": {
       "company": "Ovintiv",
       "first_seen": "2026-09-09T22:48:05+00:00",
@@ -44557,6 +44756,16 @@
       "title": "Junior Software Engineer",
       "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Foster-City-CA-USA/Junior-Software-Engineer_JR112167"
     },
+    "simplify:ptc::simplify-e4e949a2-d0a8-497c-a7db-0da3ab81acb4": {
+      "company": "PTC",
+      "first_seen": "2026-10-29T23:02:51+00:00",
+      "last_seen": "2026-10-29T23:02:51+00:00",
+      "location": "San Mateo, CA",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "Arena Engineering Intern",
+      "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Mateo-CA/Arena-Engineering-Intern_JR112955"
+    },
     "simplify:publicis groupe::simplify-40b8e5c6-6160-4419-83e5-a0c6ba958867": {
       "company": "Publicis Groupe",
       "first_seen": "2026-08-25T17:19:06+00:00",
@@ -44911,6 +45120,16 @@
       "title": "Automotive Engineering Intern",
       "url": "https://qualcomm.eightfold.ai/careers/job/446721615591"
     },
+    "simplify:qualcomm::simplify-6a04f366-4e42-4fe5-bb4f-c88ef2a7db83": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-29T22:32:03+00:00",
+      "last_seen": "2026-10-29T22:32:03+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793312674",
+      "source": "simplify",
+      "title": "AI Software Systems Co-op Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721862430"
+    },
     "simplify:qualcomm::simplify-77fe5b68-ffda-4a79-b56d-caddb2246641": {
       "company": "Qualcomm",
       "first_seen": "2026-08-05T06:47:04+00:00",
@@ -44942,6 +45161,16 @@
       "source": "simplify",
       "title": "AI Software Core Software Engineer - AI Software Platform - Machine Learning Engineering",
       "url": "https://qualcomm.eightfold.ai/careers/job/446718120116"
+    },
+    "simplify:qualcomm::simplify-a5c09908-c437-4b31-badf-24f0d4accd96": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-29T22:32:03+00:00",
+      "last_seen": "2026-10-29T22:32:03+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793312674",
+      "source": "simplify",
+      "title": "AI Software Engineering Co-op Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721862429"
     },
     "simplify:qualcomm::simplify-a81214dd-ab59-4311-8449-55d8c0ffff28": {
       "company": "Qualcomm",
@@ -45423,6 +45652,130 @@
       "posted_at": "1784124283",
       "title": "Associate Engineer Apprentice - Engineering",
       "url": "https://jobs.lever.co/ravl_io/4145932c-b493-4112-a0ed-68705ca0d720/apply"
+    },
+    "simplify:raydar::simplify-00bf55d7-0603-40f1-a5fb-4e1cfc96754a": {
+      "company": "Raydar",
+      "first_seen": "2026-10-29T23:02:52+00:00",
+      "last_seen": "2026-10-29T23:02:52+00:00",
+      "location": "NYC",
+      "posted_at": "1793312987",
+      "source": "simplify",
+      "title": "Founding Engineer",
+      "url": "https://apply.workable.com/raydar/j/6BB37B686B/apply"
+    },
+    "simplify:raydar::simplify-07a8cdea-4601-41cb-a9f8-fed8d444f0df": {
+      "company": "Raydar",
+      "first_seen": "2026-10-29T23:02:52+00:00",
+      "last_seen": "2026-10-29T23:02:52+00:00",
+      "location": "SF",
+      "posted_at": "1793312992",
+      "source": "simplify",
+      "title": "Member of Technical Staff - Product",
+      "url": "https://apply.workable.com/raydar/j/17A9330EE3/apply"
+    },
+    "simplify:raydar::simplify-71a60768-fb86-4b4e-9f88-6f0979434591": {
+      "company": "Raydar",
+      "first_seen": "2026-10-29T23:02:52+00:00",
+      "last_seen": "2026-10-29T23:02:52+00:00",
+      "location": "London, UK, SF, Austin, TX, Remote in USA, Remote in Canada",
+      "posted_at": "1793312985",
+      "source": "simplify",
+      "title": "AI Product Engineer / Forward Deployed Engineer",
+      "url": "https://apply.workable.com/raydar/j/31364F00E3/apply"
+    },
+    "simplify:raydar::simplify-76d5d2fb-6a28-4159-8fc6-bfde1e69edd6": {
+      "company": "Raydar",
+      "first_seen": "2026-10-29T23:02:52+00:00",
+      "last_seen": "2026-10-29T23:02:52+00:00",
+      "location": "SF",
+      "posted_at": "1793312988",
+      "source": "simplify",
+      "title": "Full Stack Engineer",
+      "url": "https://apply.workable.com/raydar/j/2EB8E9A042/apply"
+    },
+    "simplify:raydar::simplify-8708bf87-af06-41ec-bc7f-8110ac41a5c5": {
+      "company": "Raydar",
+      "duplicate_of": "simplify:raydar::simplify-a258eec4-7137-4d4b-b446-f390e0c33826",
+      "first_seen": "2026-10-29T23:02:22+00:00",
+      "last_seen": "2026-10-29T23:02:22+00:00",
+      "location": "NYC",
+      "posted_at": "1793312987",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Founding Software Engineer",
+      "url": "https://apply.workable.com/raydar/j/85776B356C/apply"
+    },
+    "simplify:raydar::simplify-90767c2b-3a0c-4ba9-9f58-da9bd55c74ef": {
+      "company": "Raydar",
+      "first_seen": "2026-10-29T23:02:52+00:00",
+      "last_seen": "2026-10-29T23:02:52+00:00",
+      "location": "SF",
+      "posted_at": "1793312993",
+      "source": "simplify",
+      "title": "Product Engineer",
+      "url": "https://apply.workable.com/raydar/j/C05807495F/apply"
+    },
+    "simplify:raydar::simplify-915fc350-2ce2-47d6-9dab-8e17db9d1f5d": {
+      "company": "Raydar",
+      "first_seen": "2026-10-29T23:02:52+00:00",
+      "last_seen": "2026-10-29T23:02:52+00:00",
+      "location": "SF",
+      "posted_at": "1793312989",
+      "source": "simplify",
+      "title": "Full-Stack Software Engineer",
+      "url": "https://apply.workable.com/raydar/j/247E466DF2/apply"
+    },
+    "simplify:raydar::simplify-9b32e077-1014-4400-97fe-7645c3f3e997": {
+      "company": "Raydar",
+      "first_seen": "2026-10-29T23:02:52+00:00",
+      "last_seen": "2026-10-29T23:02:52+00:00",
+      "location": "SF",
+      "posted_at": "1793312988",
+      "source": "simplify",
+      "title": "Founding Software Engineer - AI Agents",
+      "url": "https://apply.workable.com/raydar/j/F452EE23A1/apply"
+    },
+    "simplify:raydar::simplify-bfeda75e-cae7-4576-bc98-7c02ca535e9e": {
+      "company": "Raydar",
+      "first_seen": "2026-10-29T23:02:52+00:00",
+      "last_seen": "2026-10-29T23:02:52+00:00",
+      "location": "SF",
+      "posted_at": "1793312988",
+      "source": "simplify",
+      "title": "Founding Product Engineer",
+      "url": "https://apply.workable.com/raydar/j/EB038A923D/apply"
+    },
+    "simplify:raydar::simplify-dcdb24cd-759c-4a3d-9ac2-e0f7172c4755": {
+      "company": "Raydar",
+      "first_seen": "2026-10-29T23:02:52+00:00",
+      "last_seen": "2026-10-29T23:02:52+00:00",
+      "location": "SF",
+      "posted_at": "1793312983",
+      "source": "simplify",
+      "title": "Backend Software Engineer",
+      "url": "https://apply.workable.com/raydar/j/943D7BFDEF/apply"
+    },
+    "simplify:raydar::simplify-e2a8eb46-b3a3-4557-9dd9-33eff90f3994": {
+      "company": "Raydar",
+      "duplicate_of": "simplify:raydar::simplify-bfeda75e-cae7-4576-bc98-7c02ca535e9e",
+      "first_seen": "2026-10-29T23:02:22+00:00",
+      "last_seen": "2026-10-29T23:02:22+00:00",
+      "location": "NYC",
+      "posted_at": "1793312988",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Founding Product Engineer",
+      "url": "https://apply.workable.com/raydar/j/8017722EB8/apply"
+    },
+    "simplify:raydar::simplify-ea6b3e49-22fb-4f11-8863-1c5c552146e9": {
+      "company": "Raydar",
+      "first_seen": "2026-10-29T23:02:51+00:00",
+      "last_seen": "2026-10-29T23:02:51+00:00",
+      "location": "SF, LA",
+      "posted_at": "1793312988",
+      "source": "simplify",
+      "title": "Forward Deployed Engineer",
+      "url": "https://apply.workable.com/raydar/j/3D1A5526C8/apply"
     },
     "simplify:raymond james financial::simplify-ed410248-773f-43a3-a1dd-3157708a9b23": {
       "company": "Raymond James Financial",
@@ -60885,6 +61238,16 @@
       "title": "Engineer Rotational Program",
       "url": "https://jobs.smartrecruiters.com/Wabtec/3743990014806166"
     },
+    "simplify:waggoner financial::simplify-559f471c-b9e2-41e5-8f47-bdbe11a4bade": {
+      "company": "Waggoner Financial",
+      "first_seen": "2026-10-29T23:02:51+00:00",
+      "last_seen": "2026-10-29T23:02:51+00:00",
+      "location": "Lansing, MI",
+      "posted_at": "1793313025",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.workable.com/waggoner-financial/j/FA0B644142/apply"
+    },
     "simplify:walgreens::simplify-06bb9d4d-dab5-495e-ad36-24bc797defe0": {
       "company": "Walgreens",
       "first_seen": "2026-09-06T05:09:51+00:00",
@@ -72058,5 +72421,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T22:33:03+00:00"
+  "updated_at": "2026-10-29T23:03:06+00:00"
 }
