@@ -43,13 +43,16 @@ def test_every_message_has_the_same_header(monkeypatch):
 # --- the FAANG+ list -----------------------------------------------------------
 
 
-def test_companies_md_is_faang_plus_only():
+def test_companies_md_is_ibm_or_better_only():
     """Any row in companies.md, enabled or not, routes the feeds' copies of that
-    company to the FAANG+ channel — which is how Goldman Sachs got there."""
+    company to the FAANG+ channel — which is how Goldman Sachs got there. The bar
+    is IBM on the prestige ranking, or entry-level TC over $200K."""
     ours = aggregators.our_company_names()
-    for name in ("Goldman Sachs", "Disney", "JPMC", "Capital One", "Barclays", "Red Hat",
-                 "Cisco", "Oracle", "Accenture", "RTX"):
+    for name in ("Goldman Sachs", "Disney", "JPMC", "Capital One", "Barclays", "Cisco",
+                 "Intel", "PayPal", "Accenture", "RTX"):
         assert not aggregators._matches_company(name, ours), name
     for name in ("Google", "NVIDIA", "Meta Platforms", "TikTok", "Jane Street", "DE Shaw",
-                 "IMC", "Uber Technologies, Inc.", "Anysphere"):
+                 "IMC", "Uber Technologies, Inc.", "Anysphere", "IBM", "Oracle", "Red Hat",
+                 "Susquehanna International Group", "Bridgewater Associates", "Square",
+                 "Renaissance Technologies LLC", "The D. E. Shaw Group"):
         assert aggregators._matches_company(name, ours), name
