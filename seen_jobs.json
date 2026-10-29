@@ -694,6 +694,15 @@
       "title": "Mechanical Engineer Intern",
       "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627"
     },
+    "simplify:zoox::simplify-09245a39-078b-476f-a779-34881b444f91": {
+      "attempted_at": "2026-10-29T22:31:16+00:00",
+      "company": "Zoox",
+      "location": "Foster City, CA, San Diego, CA",
+      "posted_at": "1793312633",
+      "source": "simplify",
+      "title": "Contract Student Worker - Software Engineer",
+      "url": "https://jobs.lever.co/zoox/67982bee-811b-453b-8596-b53c13f7a78d/apply"
+    },
     "skydio::89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd": {
       "attempted_at": "2026-10-22T19:46:19+00:00",
       "company": "Skydio",
@@ -6921,7 +6930,7 @@
     "simplify:amazon::simplify-5353b527-0cda-43e8-a9ef-cdfa8f45bcd8": {
       "company": "Amazon",
       "first_seen": "2026-10-23T02:01:40+00:00",
-      "last_seen": "2026-10-23T02:01:40+00:00",
+      "last_seen": "2026-10-29T22:31:16+00:00",
       "location": "Seattle, WA",
       "posted_at": "1779487538",
       "source": "simplify",
@@ -64613,5 +64622,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T22:19:00+00:00"
+  "updated_at": "2026-10-29T22:32:02+00:00"
 }
