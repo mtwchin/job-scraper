@@ -1,5 +1,5 @@
 {
-  "count": 8266,
+  "count": 8267,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -32909,6 +32909,16 @@
       "posted_at": "1788220800",
       "title": "Software Engineer",
       "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2640196"
+    },
+    "simplify:kla::simplify-92bf3646-4a8c-41d1-b24c-c18e53318dfd": {
+      "company": "KLA",
+      "first_seen": "2026-10-29T10:32:39+00:00",
+      "last_seen": "2026-10-29T10:32:39+00:00",
+      "location": "Milpitas, CA",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "System Software Engineer - Distributed Computing",
+      "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/System-Software-Engineer---Distributed-Computing_2642720"
     },
     "simplify:kla::simplify-9b2b1358-6a3c-48e5-afa1-219bc271af07": {
       "company": "KLA",
@@ -71480,5 +71490,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T09:32:10+00:00"
+  "updated_at": "2026-10-29T10:33:14+00:00"
 }
