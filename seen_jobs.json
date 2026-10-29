@@ -1,5 +1,5 @@
 {
-  "count": 7655,
+  "count": 7657,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -5598,6 +5598,16 @@
       "posted_at": "1786406400",
       "title": "Photoshop Developer - GPU/Imaging",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Photoshop-Developer--GPU-Imaging_R171014"
+    },
+    "simplify:adobe::simplify-e7d2687d-8b7e-4615-88e6-df7f4f101331": {
+      "company": "Adobe",
+      "first_seen": "2026-10-29T13:31:50+00:00",
+      "last_seen": "2026-10-29T13:31:50+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "Technical Support Consultant Intern",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Technical-Support-Consultant_R172785"
     },
     "simplify:adt::simplify-13f98f4e-64c3-4717-aa5c-9fe4e527b91f": {
       "company": "ADT",
@@ -46025,6 +46035,16 @@
       "title": "AI Builder - Emerging Talent",
       "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Builder--Emerging-Talent_JR341276-1"
     },
+    "simplify:salesforce::simplify-fcd88c67-d6d6-41a6-9f32-1b0db5954dd6": {
+      "company": "Salesforce",
+      "first_seen": "2026-10-29T13:32:10+00:00",
+      "last_seen": "2026-10-29T13:32:10+00:00",
+      "location": "Indianapolis, IN, Dallas, TX",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598"
+    },
     "simplify:sallie mae::simplify-6bd9b720-b688-4436-b0fe-a96710105de2": {
       "company": "Sallie Mae",
       "first_seen": "2026-10-19T14:32:11+00:00",
@@ -64564,5 +64584,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T10:32:11+00:00"
+  "updated_at": "2026-10-29T13:32:28+00:00"
 }
