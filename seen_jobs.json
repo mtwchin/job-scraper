@@ -1,5 +1,5 @@
 {
-  "count": 7652,
+  "count": 7653,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -60205,6 +60205,16 @@
       "title": "Software Engineer Intern, Pipeline Infrastructure",
       "url": "https://go.vansh.nyc/UA"
     },
+    "vanshb03:disney::vanshb03-f7f95b4a-0bae-44da-a14f-a4c778913a8b": {
+      "company": "Disney",
+      "first_seen": "2026-10-29T06:07:55+00:00",
+      "last_seen": "2026-10-29T06:07:55+00:00",
+      "location": "Orlando, FL",
+      "posted_at": "1793253948",
+      "source": "vanshb03",
+      "title": "Enterprise Technology & Data Software Engineering Intern",
+      "url": "https://go.vansh.nyc/YL"
+    },
     "vanshb03:diverge health::vanshb03-727f5f59-ed40-4dc1-9860-6260acd5af37": {
       "company": "Diverge Health",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -64525,5 +64535,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T00:57:51+00:00"
+  "updated_at": "2026-10-29T06:08:26+00:00"
 }
