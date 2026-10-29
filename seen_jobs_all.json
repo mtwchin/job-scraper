@@ -424,6 +424,15 @@
       "title": "Junior AI Engineer",
       "url": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20545"
     },
+    "simplify:citi::simplify-0f6fba47-42cc-4485-89af-6ea48098bcd2": {
+      "attempted_at": "2026-10-29T15:02:31+00:00",
+      "company": "Citi",
+      "location": "Belfast, UK",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "Application Development Analyst",
+      "url": "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology---Application-Development--Full-Time-Analyst--Belfast-2027_261005116"
+    },
     "simplify:citizens financial group::simplify-0a4cd2e5-65b4-4298-ab71-d0c7705a376c": {
       "attempted_at": "2026-10-19T15:02:51+00:00",
       "company": "Citizens Financial Group",
@@ -891,6 +900,15 @@
       "source": "simplify",
       "title": "Software Engineer New Grad - Agent Performance Modeling",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350"
+    },
+    "simplify:omen ai::simplify-b2972fae-a36b-454e-859f-b0e97ae896dc": {
+      "attempted_at": "2026-10-29T15:02:31+00:00",
+      "company": "Omen AI",
+      "location": "SF",
+      "posted_at": "1791301467",
+      "source": "simplify",
+      "title": "GTM Wizard",
+      "url": "https://www.omen.ai/careers?gh_jid=4435132009"
     },
     "simplify:palo alto networks::simplify-ca920373-6255-46b3-8083-3db9533be2df": {
       "attempted_at": "2026-10-04T20:03:28+00:00",
@@ -71659,5 +71677,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T14:41:36+00:00"
+  "updated_at": "2026-10-29T15:02:39+00:00"
 }
