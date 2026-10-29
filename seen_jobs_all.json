@@ -1,5 +1,5 @@
 {
-  "count": 8261,
+  "count": 8264,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -12982,6 +12982,7 @@
     "simplify:booz allen::simplify-0b789ff7-5e0b-41ba-98b2-35370afdd223": {
       "company": "Booz Allen",
       "first_seen": "2026-08-29T02:50:35+00:00",
+      "last_seen": "2026-10-29T08:32:46+00:00",
       "posted_at": "1787875200",
       "title": "Software Developer Intern - University",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138"
@@ -17900,6 +17901,16 @@
       "posted_at": "1784787346",
       "title": "CloudFit Software Internship - Company name withheld",
       "url": "https://cloudfitsoftware.applytojob.com/apply/oaG5GcybAo/Future-Intern-2027"
+    },
+    "simplify:cloudflare::simplify-1fa2c9e1-e059-42a4-b327-8391cb6596fc": {
+      "company": "Cloudflare",
+      "first_seen": "2026-10-29T08:31:18+00:00",
+      "last_seen": "2026-10-29T08:31:18+00:00",
+      "location": "United States",
+      "posted_at": "1791929196",
+      "source": "simplify",
+      "title": "Systems Engineer - Browser Isolation",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8276155"
     },
     "simplify:cloudflare::simplify-7d28754d-98f1-4b89-a78e-ecb4f103ce8b": {
       "company": "Cloudflare",
@@ -43241,6 +43252,16 @@
       "title": "Full Stack Engineer Intern",
       "url": "https://jobs.ashbyhq.com/phia/71c26b8b-86cd-446d-a63f-8cd8c2a3f162/application"
     },
+    "simplify:philips::simplify-0ad97afd-e0ba-4720-ae97-7e1ad0f20d62": {
+      "company": "Philips",
+      "first_seen": "2026-10-29T08:32:47+00:00",
+      "last_seen": "2026-10-29T08:32:47+00:00",
+      "location": "Nashville, TN",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "AI & Analytics Analyst Intern",
+      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012"
+    },
     "simplify:philips::simplify-327ffcc9-d306-44ce-8b6d-ddbdeb204304": {
       "company": "Philips",
       "first_seen": "2026-08-24T22:49:44+00:00",
@@ -54012,6 +54033,16 @@
       "posted_at": "1780812826",
       "title": "Software Engineer Intern - Vehicle UI Development",
       "url": "https://www.tesla.com/careers/search/job/270063"
+    },
+    "simplify:tesla::simplify-065e5232-bc79-44a9-ad83-20b9e3e240b2": {
+      "company": "Tesla",
+      "first_seen": "2026-10-29T08:31:58+00:00",
+      "last_seen": "2026-10-29T08:31:58+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1791584258",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Software Engineer - Infotainment Platforms Validation",
+      "url": "https://www.tesla.com/careers/search/job/286261"
     },
     "simplify:tesla::simplify-0b09ad76-6210-4b87-94c9-b662b170d268": {
       "company": "Tesla",
@@ -71420,5 +71451,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T06:31:54+00:00"
+  "updated_at": "2026-10-29T08:32:58+00:00"
 }
