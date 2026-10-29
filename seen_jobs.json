@@ -559,6 +559,15 @@
       "title": "Micro-Intern: Research Technology Developer",
       "url": "https://boards.greenhouse.io/point72/jobs/8236734002"
     },
+    "simplify:qualcomm::simplify-4e5a549d-7b37-4edc-b990-e4f3ec584002": {
+      "attempted_at": "2026-10-29T09:01:59+00:00",
+      "company": "Qualcomm",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1790817622",
+      "source": "simplify",
+      "title": "Design Automation & Quality Assurance Engineer Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721349404"
+    },
     "simplify:riot games::simplify-d24f3415-d7f3-4935-8bed-730bae30d68d": {
       "attempted_at": "2026-10-01T23:01:57+00:00",
       "company": "Riot Games",
@@ -64555,5 +64564,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T08:32:04+00:00"
+  "updated_at": "2026-10-29T09:02:07+00:00"
 }
