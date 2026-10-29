@@ -1,5 +1,5 @@
 {
-  "count": 8245,
+  "count": 8247,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -442,6 +442,24 @@
       "title": "AI & Infrastructure Engineer Intern",
       "url": "https://jobs.lever.co/cfsenergy/fa87d365-ac8a-44c3-8fda-c9dec3ea8878/apply"
     },
+    "simplify:coveo::simplify-56ec84f6-5260-4f75-a7ea-a98c17287bf9": {
+      "attempted_at": "2026-10-29T01:32:29+00:00",
+      "company": "Coveo",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1791302054",
+      "source": "simplify",
+      "title": "Software Developer Intern - Solutions Engineering Core Team",
+      "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8846052002"
+    },
+    "simplify:coveo::simplify-8c9b0c86-472b-4fc9-a011-8e8167d34398": {
+      "attempted_at": "2026-10-29T01:32:29+00:00",
+      "company": "Coveo",
+      "location": "Montreal, QC, Canada; Qu\u00e9bec City, QC, Canada",
+      "posted_at": "1790638766",
+      "source": "simplify",
+      "title": "Frontend Developer Intern",
+      "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8827775002"
+    },
     "simplify:covermymeds::simplify-90d4be1a-888d-4b8c-a5e7-f07c01f135bb": {
       "attempted_at": "2026-10-15T22:33:21+00:00",
       "company": "CoverMyMeds",
@@ -613,6 +631,24 @@
       "title": "Software Engineer Intern - Transportation Routing",
       "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374"
     },
+    "simplify:graphcore::simplify-1153d1db-e3fe-4f2a-bb00-42f49e6fcc71": {
+      "attempted_at": "2026-10-29T01:32:29+00:00",
+      "company": "Graphcore",
+      "location": "Bristol, UK",
+      "posted_at": "1792493473",
+      "source": "simplify",
+      "title": "Graduate Software Engineer - Drivers and Utilities",
+      "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902099002"
+    },
+    "simplify:graphcore::simplify-4082fdde-4f01-4939-b1c5-a0a7233d41ce": {
+      "attempted_at": "2026-10-29T01:32:29+00:00",
+      "company": "Graphcore",
+      "location": "Bristol, UK",
+      "posted_at": "1792498541",
+      "source": "simplify",
+      "title": "Software Engineer New Grad - AI Compute Libraries & Performance",
+      "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902321002"
+    },
     "simplify:guidehouse::simplify-972b80b8-e865-4003-afae-31d91851fd02": {
       "attempted_at": "2026-10-23T01:32:40+00:00",
       "company": "Guidehouse",
@@ -630,6 +666,15 @@
       "source": "simplify",
       "title": "Senior Software Developer - Subsurface Applications",
       "url": "https://jobs.halliburton.com/job/Calgary-Software-Developer,-Subsurface-Applications-(Associate-Senior)-Landmark-AB-T2P-3V4/1438393900/?ats=successfactors"
+    },
+    "simplify:hearst::simplify-1edcd461-c4f7-41b5-99da-49416607380e": {
+      "attempted_at": "2026-10-29T01:32:29+00:00",
+      "company": "Hearst",
+      "location": "SF",
+      "posted_at": "1793026428",
+      "source": "simplify",
+      "title": "AI Newsroom Developer Fellow",
+      "url": "https://job-boards.greenhouse.io/hearst/jobs/4466321009"
     },
     "simplify:heygen::simplify-2f956c52-edf6-4b68-99c9-7db4d96de3c0": {
       "attempted_at": "2026-10-19T01:34:33+00:00",
@@ -657,6 +702,24 @@
       "source": "simplify",
       "title": "Software Engineer 1 New Grad",
       "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Tallahassee-FL/Returning-New-Grad-Software-Engineer-I--For-Current-Previous-HNTB-Interns-ONLY-_R-32175"
+    },
+    "simplify:hp inc.::simplify-76f81261-3cc0-45e5-938b-cc7d06c83756": {
+      "attempted_at": "2026-10-29T01:32:29+00:00",
+      "company": "HP Inc.",
+      "location": "SF",
+      "posted_at": "1793145600",
+      "source": "simplify",
+      "title": "Software Quality Assurance Intern",
+      "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802"
+    },
+    "simplify:hp inc.::simplify-d2f0c44e-b2d5-4ab2-ad1e-7991506e8027": {
+      "attempted_at": "2026-10-29T01:32:29+00:00",
+      "company": "HP Inc.",
+      "location": "SF",
+      "posted_at": "1793145600",
+      "source": "simplify",
+      "title": "Software Systems Intern - IQ",
+      "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801"
     },
     "simplify:humana::simplify-434274bf-c21e-42e0-9be3-e519740dc6b7": {
       "attempted_at": "2026-10-20T23:03:04+00:00",
@@ -783,6 +846,15 @@
       "source": "simplify",
       "title": "Ground Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007"
+    },
+    "simplify:new york iso::simplify-0a2d8d42-726b-49fe-9136-60580662f2da": {
+      "attempted_at": "2026-10-29T01:32:29+00:00",
+      "company": "New York ISO",
+      "location": "Rensselaer, NY",
+      "posted_at": "1789482304",
+      "source": "simplify",
+      "title": "Software Engineering Co-op - Software Engineering",
+      "url": "https://job-boards.greenhouse.io/nyisocoops/jobs/5236034007"
     },
     "simplify:nordstrom::simplify-5007661b-0a06-4e51-948f-229c882124ea": {
       "attempted_at": "2026-10-26T22:32:03+00:00",
@@ -927,6 +999,24 @@
       "source": "simplify",
       "title": "Full Stack Software Engineer Intern - Full Stack",
       "url": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7/application?embed=true"
+    },
+    "simplify:textnow::simplify-360d58b7-2e8d-435c-8b3a-09d576737492": {
+      "attempted_at": "2026-10-29T01:32:29+00:00",
+      "company": "TextNow",
+      "location": "SF",
+      "posted_at": "1778259987",
+      "source": "simplify",
+      "title": "Software Developer - Android",
+      "url": "https://job-boards.greenhouse.io/textnowinc/jobs/4221551009"
+    },
+    "simplify:textnow::simplify-5b2a2d8f-1c97-46be-b3a7-1ecd7cbd7f26": {
+      "attempted_at": "2026-10-29T01:32:29+00:00",
+      "company": "TextNow",
+      "location": "SF",
+      "posted_at": "1778259975",
+      "source": "simplify",
+      "title": "Software Developer - Backend",
+      "url": "https://job-boards.greenhouse.io/textnowinc/jobs/4221596009"
     },
     "simplify:thales::simplify-2f51e800-8122-447f-905e-203d26f17fb1": {
       "attempted_at": "2026-10-23T14:02:23+00:00",
@@ -4970,6 +5060,16 @@
       "source": "",
       "title": "Junior Ground Systems Engineer - Instrumentation & Control",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8034180003"
+    },
+    "rocket lab::8058455003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-10-29T00:57:43+00:00",
+      "last_seen": "2026-10-29T00:57:43+00:00",
+      "location": "Long Beach, CA",
+      "posted_at": "2026-10-28T20:56:39-04:00",
+      "source": "",
+      "title": "Spacecraft Propulsion Systems Engineer I",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8058455003"
     },
     "salesforce::Missionforce---Associate-Forward-Deployed-Engineer--FDE---Public-Sector_JR333171": {
       "company": "Salesforce",
@@ -18950,6 +19050,18 @@
       "posted_at": "1786678909",
       "title": "Surgery Scheduler - DSA Special Procedures",
       "url": "https://careers-covenanthealth.icims.com/jobs/74982/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:coveo::simplify-10b9c8a3-412f-4c38-8957-b21fac811721": {
+      "company": "Coveo",
+      "duplicate_of": "simplify:coveo::simplify-8c9b0c86-472b-4fc9-a011-8e8167d34398",
+      "first_seen": "2026-10-29T01:32:29+00:00",
+      "last_seen": "2026-10-29T01:32:29+00:00",
+      "location": "Qu\u00e9bec City, QC, Canada",
+      "posted_at": "1790638768",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Frontend Developer Intern",
+      "url": "https://www.coveo.com/en/company/careers/open-positions?gh_jid=8853969002"
     },
     "simplify:covestro::simplify-741a3736-0994-46fa-a2e1-80cd78dc6722": {
       "company": "Covestro",
@@ -71168,5 +71280,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T00:01:53+00:00"
+  "updated_at": "2026-10-29T01:32:58+00:00"
 }
