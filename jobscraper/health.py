@@ -1,7 +1,7 @@
 """Per-company health: one alert per outage, one note when it clears.
 
 This used to be a single error *rate* per sweep, which broke down once the
-watch loop ran two kinds of sweep. A priority sweep of 19 boards with five
+watch loop ran two kinds of sweep. A quick sweep of 19 boards with five
 Workday boards down is 26% and over the threshold; the full sweep of ~136
 boards a minute later is 7% and under it, which counted as "recovered" and
 re-armed the alert. The result was the same warning every three minutes for

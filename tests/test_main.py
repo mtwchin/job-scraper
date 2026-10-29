@@ -171,7 +171,7 @@ def test_one_shot_run_alerts_on_first_sweep(store, alerts):
 
 
 def test_mixed_sweep_sizes_do_not_repeat_the_alert(store, alerts):
-    """The regression: a small priority sweep (5/19 failing) and a big full
+    """The regression: a small quick sweep (5/19 failing) and a big full
     sweep (10/136 failing) alternated, and the low-rate full sweep counted as a
     recovery, re-arming the alert every few minutes."""
     def sweep(total, failing):

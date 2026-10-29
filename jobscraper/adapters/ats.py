@@ -106,7 +106,7 @@ _WORKDAY_TODAY = re.compile(r"\btoday\b|just posted", re.I)
 # Workday companies failed at once (HTTP 500s, then empty 200 bodies) for hours.
 # Capping our concurrent Workday requests keeps the sweep's burst modest.
 _WORKDAY_SLOTS = threading.BoundedSemaphore(3)
-# Quick (priority) sweeps get slots of their own. Sharing, they queued behind a
+# Quick sweeps get slots of their own. Sharing, they queued behind a
 # full sweep's ~250 Workday requests and a 4s look at NVIDIA took 50s. Their
 # whole sweep is a dozen-odd requests, so this adds little to the burst.
 _WORKDAY_QUICK_SLOTS = threading.BoundedSemaphore(2)
@@ -148,7 +148,7 @@ def fetch_workday(company: CompanyConfig) -> list[Job]:
     jobs: dict[str, Job] = {}
     detail_paths: dict[str, str] = {}
 
-    # A quick (priority) sweep runs only the newest-first pass: it is what
+    # A quick sweep runs only the newest-first pass: it is what
     # catches a fresh posting, at a fraction of the keyword queries' requests.
     for query in ("",) if company.quick else _WORKDAY_QUERIES:
         newest = not query

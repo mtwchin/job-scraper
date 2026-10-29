@@ -132,6 +132,9 @@ class SeenStore:
         # Companies whose outage has already been posted to Discord, so neither
         # this loop nor the next one repeats it until they recover.
         self.health_reported: set[str] = set()
+        # Pending attempts last warned about, so a watch loop warns when the
+        # set changes rather than on every sweep. In memory only.
+        self.attempts_warned: frozenset[str] = frozenset()
         # Per-company failure streaks. In memory only: it exists to tell a
         # one-sweep network blip from a sustained outage, and a watch loop
         # lives for hours.
@@ -277,6 +280,59 @@ class SeenStore:
             self.delivery_rejections.pop(job.uid, None)
         self._dirty = True
         self.save()
+
+    def settle_attempt(self, uid: str) -> bool:
+        """Close out an unknown-outcome attempt as delivered.
+
+        Discord gives no way to look a webhook message up after a timed-out
+        POST, so an attempt can never confirm itself. Left alone it stays in
+        delivery_attempts for good: still suppressing the job (correctly — a
+        resend risks a duplicate) but warning on every sweep. Settling records
+        it as an ordinary seen job, flagged `delivery_unconfirmed`, which keeps
+        the dedup and stops the noise. Returns False if `uid` isn't pending.
+        """
+        attempt = self.delivery_attempts.pop(uid, None)
+        if attempt is None:
+            return False
+        rec = {k: attempt.get(k, "") for k in
+               ("title", "company", "url", "location", "posted_at", "source")}
+        self._seen[uid] = {
+            **rec,
+            "first_seen": attempt.get("attempted_at") or _iso(_now()),
+            "last_seen": _iso(_now()),
+            "delivery_unconfirmed": True,
+        }
+        self.delivery_rejections.pop(uid, None)
+        if (key := dedup.canonical_url(rec["url"])):
+            self._by_url.setdefault(key, uid)
+        if (fp := dedup.fingerprint(rec["company"], rec["title"], rec["location"])):
+            self._by_fp.setdefault(fp, uid)
+        self._note_title(uid, rec["company"], rec["title"], self._seen[uid]["first_seen"])
+        self._dirty = True
+        return True
+
+    def retry_attempt(self, uid: str) -> bool:
+        """Drop an unknown-outcome attempt so the job alerts again next sweep —
+        for when someone checked Discord and it never arrived. Leaves a
+        rejection marker so an older checkpoint can't restore the attempt."""
+        if self.delivery_attempts.pop(uid, None) is None:
+            return False
+        self.delivery_rejections[uid] = _iso(_now())
+        self._dirty = True
+        return True
+
+    def settle_stale_attempts(self, max_age_hours: float) -> list[str]:
+        """Settle every attempt older than `max_age_hours` (see settle_attempt).
+        The window is time for a person to check Discord and choose a retry
+        instead. Non-positive input disables it. Returns the uids settled."""
+        if max_age_hours <= 0:
+            return []
+        cutoff = _now() - timedelta(hours=max_age_hours)
+        stale = [uid for uid, a in self.delivery_attempts.items()
+                 if (ts := _parse_iso(a.get("attempted_at", ""))) is None or ts < cutoff]
+        for uid in stale:
+            self.settle_attempt(uid)
+        return stale
 
     def has_uid(self, uid: str) -> bool:
         return uid in self._seen
@@ -448,10 +504,21 @@ class SeenStore:
             if timestamp > self.delivery_rejections.get(uid, ""):
                 self.delivery_rejections[uid] = timestamp
                 self._dirty = True
+            # A retry resolved by another process (`delivery-status --retry`)
+            # postdates our copy of the attempt; keeping it would write the
+            # attempt straight back and the resolution would never stick.
+            local = self.delivery_attempts.get(uid)
+            if local is not None and timestamp >= local.get("attempted_at", ""):
+                del self.delivery_attempts[uid]
+                self._dirty = True
         for uid, rec in incoming_attempts.items():
             if uid in self._seen or uid in self.delivery_attempts:
                 continue
             if self.delivery_rejections.get(uid, "") >= rec.get("attempted_at", ""):
+                continue
+            # Older than anything we still keep a record for: it was settled
+            # and later pruned, so a stale copy must not bring it back.
+            if self.prune_cutoff and rec.get("attempted_at", "") < self.prune_cutoff:
                 continue
             if uid not in self.delivery_attempts:
                 self.delivery_attempts[uid] = rec

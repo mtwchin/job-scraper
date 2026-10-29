@@ -17,9 +17,8 @@ name: all-swe
 # ever caught was ten minutes old.
 #
 # So a run no longer scrapes once and exits. It starts a watch loop that stays
-# alive for ~5.5h, polling the aggregator feeds every 20s (conditional requests
-# that cost a 304 when nothing changed) while sweeping priority boards every
-# minute and every company's ATS every two, in the background. When a loop
+# alive for ~5.5h, polling the aggregator feeds every 60s (conditional requests
+# that cost a 304 when nothing changed). When a loop
 # finishes it dispatches the next run itself (see the last step), so coverage is
 # continuous rather than waiting on cron. The cron below is only a backstop for a
 # chain that broke, e.g. a runner that died outright.

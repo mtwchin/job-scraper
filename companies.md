@@ -1,4 +1,4 @@
-# Tracked Companies
+# Tracked Companies (FAANG+)
 
 This file is the **source of truth** for which companies the scraper checks.
 It is parsed by `jobscraper/companies.py` — keep the table format intact.
@@ -19,219 +19,74 @@ It is parsed by `jobscraper/companies.py` — keep the table format intact.
   - `workable` → `slug=<account slug>`
   - `recruitee` → `slug=<company slug>`
   - `oracle` → `host=<sub.domain>;site=<site number>`
-- **On** — `yes` to check this company, `no` to skip it.
+- **On** — `yes` to read this company's own board, `no` to skip the board (see below).
 - **Notes** — anything; ignored by the parser.
 
-To add a company: add a row. To pause one: set **On** to `no`.
+This list *is* the FAANG+ channel: every row here, on or off, alerts to
+`DISCORD_WEBHOOK_URL`. **On** only decides whether we read the company's own
+board; a row set to `no` still gets its roles from the aggregator feeds (that is
+how Tesla, Citadel etc. are covered). Every company *not* listed here goes to
+the all-SWE channel instead, so to demote a company, delete its row.
+
+To add a company: add a row. To stop reading its board: set **On** to `no`.
 Use `jobscraper discover <name|url>` to find a company's adapter + config, and
 `jobscraper probe <adapter> <config>` to confirm the adapter actually parses it.
 Tokens marked `(verify)` are best guesses — if a company returns 0 jobs, the
 token/slug is probably wrong. See the README for how to find the right one.
 
-## Top tech — SWE/SDE intern & new-grad sources
+## Big tech
 
 | Company        | Adapter    | Config                                                              | On  | Notes |
 |----------------|------------|--------------------------------------------------------------------|-----|-------|
 | Amazon         | amazon     |                                                                    | yes | Verified — amazon.jobs API |
 | Google         | google     |                                                                    | yes | Verified — scrapes server-rendered results page |
+| DeepMind       | google     | company=DeepMind                                                   | yes | Official careers page now uses Google Careers company filter |
 | Meta           | meta       |                                                                    | no  | GraphQL doc_id rotates; needs maintenance to re-enable |
 | Microsoft      | microsoft  |                                                                    | yes | Verified — current apply.careers.microsoft.com Eightfold search |
+| LinkedIn       | smartrecruiters | id=LinkedIn3                                                       | yes | Verified via probe — SmartRecruiters board (Simplify lagged it ~9h) |
 | Apple          | apple      |                                                                    | yes | Verified — server-rendered internship listings with exact posting times |
 | Netflix        | eightfold  | host=explore.jobs.netflix.net;domain=netflix.com                   | yes | Verified (moved off Lever to Eightfold) |
-| Palantir       | lever      | slug=palantir                                                      | yes | Verified |
-| Plaid          | ashby      | slug=plaid                                                         | yes | Verified |
-| OpenAI         | ashby      | slug=openai                                                        | yes | Verified |
-| Ramp           | ashby      | slug=ramp                                                          | yes | Verified |
-| Notion         | ashby      | slug=notion                                                        | yes | Verified |
-| Stripe         | greenhouse | token=stripe                                                       | yes | Verified |
-| Databricks     | greenhouse | token=databricks                                                   | yes | Verified |
-| Coinbase       | greenhouse | token=coinbase                                                     | yes | Verified |
-| Robinhood      | greenhouse | token=robinhood                                                    | yes | Verified |
+| Nvidia         | workday    | host=nvidia.wd5.myworkdayjobs.com;tenant=nvidia;site=NVIDIAExternalCareerSite | yes | Verified |
+| Tesla          | custom     |                                                                    | no  | Custom careers site |
+| SpaceX         | greenhouse | token=spacex                                                       | yes | Verified |
+| ByteDance      | custom     |                                                                    | no  | Custom careers site |
+| Uber           | workday    | host=uber.wd1.myworkdayjobs.com;tenant=uber;site=External          | no  | Workday config 422; verify site/tenant |
 | Airbnb         | greenhouse | token=airbnb                                                       | yes | Verified |
-| Dropbox        | greenhouse | token=dropbox                                                      | yes | Verified |
-| Reddit         | greenhouse | token=reddit                                                       | yes | Verified |
-| Pinterest      | greenhouse | token=pinterest                                                    | yes | Verified |
-| DoorDash       | greenhouse | token=doordashusa                                                  | yes | Verified |
-| Instacart      | greenhouse | token=instacart                                                    | yes | Verified |
-| Lyft           | greenhouse | token=lyft                                                         | yes | Verified |
-| Brex           | greenhouse | token=brex                                                         | yes | Verified |
-| Figma          | greenhouse | token=figma                                                        | yes | Verified |
-| Discord        | greenhouse | token=discord                                                      | yes | Verified |
+| Waymo          | greenhouse | token=waymo                                                        | yes | Verified |
+
+## AI labs
+
+| OpenAI         | ashby      | slug=openai                                                        | yes | Verified |
 | Anthropic      | greenhouse | token=anthropic                                                    | yes | Verified |
 | Scale AI       | greenhouse | token=scaleai                                                      | yes | Verified |
-| Cloudflare     | greenhouse | token=cloudflare                                                   | yes | Verified |
+| Cursor         | ashby      | slug=cursor                                                        | yes | Verified — Anysphere |
+| Perplexity     | ashby      | slug=perplexity                                                    | yes | Verified |
+| Thinking Machines | ashby   | slug=ThinkingMachines                                             | yes | Official Ashby board; old Greenhouse token 404s |
+
+## Top-tier tech
+
+| Stripe         | greenhouse | token=stripe                                                       | yes | Verified |
+| Databricks     | greenhouse | token=databricks                                                   | yes | Verified |
+| Palantir       | lever      | slug=palantir                                                      | yes | Verified |
+| Snowflake      | ashby      | slug=snowflake                                                     | yes | Verified (fixed from bad greenhouse token) |
+| Ramp           | ashby      | slug=ramp                                                          | yes | Verified |
+| Figma          | greenhouse | token=figma                                                        | yes | Verified |
+| Coinbase       | greenhouse | token=coinbase                                                     | yes | Verified |
+| Robinhood      | greenhouse | token=robinhood                                                    | yes | Verified |
+| DoorDash       | greenhouse | token=doordashusa                                                  | yes | Verified |
 | Roblox         | greenhouse | token=roblox                                                       | yes | Verified |
-| Block (Square) | greenhouse | token=block                                                        | yes | Verified |
-| Affirm         | greenhouse | token=affirm                                                       | yes | Verified |
-| Asana          | greenhouse | token=asana                                                        | yes | Verified |
-| Samsara        | greenhouse | token=samsara                                                      | yes | Verified |
-| Nvidia         | workday    | host=nvidia.wd5.myworkdayjobs.com;tenant=nvidia;site=NVIDIAExternalCareerSite | yes | Verified |
-| Salesforce     | workday    | host=salesforce.wd12.myworkdayjobs.com;tenant=salesforce;site=External_Career_Site | yes | Verified |
-| Adobe          | workday    | host=adobe.wd5.myworkdayjobs.com;tenant=adobe;site=external_experienced | yes | Verified |
-| PayPal         | workday    | host=paypal.wd1.myworkdayjobs.com;tenant=paypal;site=jobs          | yes | Verified |
-| DeepMind       | google     | company=DeepMind                                                   | yes | Official careers page now uses Google Careers company filter |
+| Snap           | custom     |                                                                    | no  | Custom careers site |
+| Anduril        | greenhouse | token=andurilindustries                                            | yes | Verified |
+
+## Quant / trading
+
 | Jane Street    | greenhouse | token=janestreet                                                   | yes | Verified — quant |
-| Hudson River Trading | custom     |                                                                    | no  | HRT — no public ATS API; custom careers site |
 | Citadel        | custom     |                                                                    | no  | Custom careers site |
-| Jump Trading   | greenhouse | token=jumptrading                                                  | yes | Verified — quant |
+| Hudson River Trading | custom     |                                                                    | no  | HRT — no public ATS API; custom careers site |
 | Two Sigma      | custom     |                                                                    | no  | Custom careers site |
-| xAI            | greenhouse | token=xai                                                          | yes | Verified |
+| D.E. Shaw      | custom     |                                                                    | no  | Custom careers site |
 | Renaissance Technologies | custom     |                                                                    | no  | RenTech — custom careers site |
-| Intel          | workday    | host=intel.wd1.myworkdayjobs.com;tenant=intel;site=External         | yes | Verified |
+| Jump Trading   | greenhouse | token=jumptrading                                                  | yes | Verified — quant |
+| Five Rings     | greenhouse | token=fiveringsllc                                                 | yes | Verified — quant |
 | IMC Trading    | greenhouse | token=imc                                                          | yes | Verified — quant |
 | Optiver        | greenhouse | token=optiverus                                                    | yes | Verified — quant |
-| Radix Trading  | custom     |                                                                    | no  | Custom careers site |
-| SpaceX         | greenhouse | token=spacex                                                       | yes | Verified |
-| D.E. Shaw      | custom     |                                                                    | no  | Custom careers site |
-| Five Rings     | greenhouse | token=fiveringsllc                                                 | yes | Verified — quant |
-| Neuralink      | greenhouse | token=neuralink                                                    | yes | Verified |
-| Cursor         | ashby      | slug=cursor                                                        | yes | Verified — Anysphere |
-| Snowflake      | ashby      | slug=snowflake                                                     | yes | Verified (fixed from bad greenhouse token) |
-| Akuna Capital  | greenhouse | token=akunacapital                                                 | yes | Verified — quant |
-| LinkedIn       | smartrecruiters | id=LinkedIn3                                                       | yes | Verified via probe — SmartRecruiters board (Simplify lagged it ~9h) |
-| Hugging Face   | workable   | slug=huggingface                                                   | yes | Verified via CI probe — Workable |
-| Disney         | workday    | host=disney.wd5.myworkdayjobs.com;tenant=disney;site=disneycareer  | yes | Verified via probe |
-| GitHub         | custom     |                                                                    | no  | Microsoft-owned; custom careers site |
-| Bloomberg      | custom     |                                                                    | no  | Custom careers site |
-| X (Twitter)    | custom     |                                                                    | no  | Custom careers site |
-| Spotify        | lever      | slug=spotify                                                       | yes | Verified |
-| Tesla          | custom     |                                                                    | no  | Custom careers site |
-| Anduril        | greenhouse | token=andurilindustries                                            | yes | Verified |
-| Nextdoor       | greenhouse | token=nextdoor                                                     | yes | Verified |
-| Datadog        | greenhouse | token=datadog                                                      | yes | Verified |
-| NASA           | custom     |                                                                    | no  | Government — USAJobs.gov |
-| ByteDance      | custom     |                                                                    | no  | Custom careers site |
-| Twitch         | greenhouse | token=twitch                                                       | yes | Verified via probe — Greenhouse |
-| Indeed         | smartrecruiters | id=Indeed1                                                    | yes | Verified via CI probe — SmartRecruiters |
-| Slack          | workday    |                                                                    | no  | Salesforce-owned; Workday — need config |
-| Blue Origin    | workday    | host=blueorigin.wd5.myworkdayjobs.com;tenant=blueorigin;site=BlueOrigin | yes | Verified via probe |
-| Snap           | custom     |                                                                    | no  | Custom careers site |
-| Atlassian      | smartrecruiters | id=Atlassian2                                                 | yes | Verified via CI probe — small SR tenant, main board is elsewhere |
-| Verily         | custom     |                                                                    | no  | Alphabet; no public ATS API found |
-| MongoDB        | greenhouse | token=mongodb                                                      | yes | Verified |
-| Goldman Sachs  | custom     |                                                                    | no  | Custom careers site |
-| Flow Traders   | greenhouse | token=flowtraders                                                  | yes | Verified — quant |
-| eBay           | workday    |                                                                    | no  | Workday — need host/tenant/site |
-| Oracle         | oracle     | host=eeho.fa.us2.oraclecloud.com;site=CX_45001                     | yes | Verified via probe — Oracle Cloud board |
-| Palo Alto Networks | smartrecruiters | id=PaloAltoNetworks1                                      | yes | Verified via CI probe — small SR tenant |
-| Riot Games     | greenhouse | token=riotgames                                                    | yes | Verified |
-| Shopify        | custom     |                                                                    | no  | Custom careers site |
-| Splunk         | workday    |                                                                    | no  | Now part of Cisco's board (cisco.wd5/Cisco_Careers) |
-| Blackrock      | workday    | host=blackrock.wd1.myworkdayjobs.com;tenant=blackrock;site=BlackRock_Professional | yes | Verified via probe |
-| Capital One    | workday    | host=capitalone.wd12.myworkdayjobs.com;tenant=capitalone;site=Capital_One | yes | Verified |
-| Duolingo       | greenhouse | token=duolingo                                                     | yes | Verified |
-| Morgan Stanley | custom     |                                                                    | no  | Custom careers site |
-| Lockheed Martin | workday    |                                                                    | no  | Workday — need host/tenant/site |
-| Red Hat        | workday    | host=redhat.wd5.myworkdayjobs.com;tenant=redhat;site=jobs           | yes | Verified |
-| IBM            | custom     |                                                                    | no  | Custom careers site (cutoff company) |
-| Samsung        | greenhouse | token=samsungsemiconductor                                         | yes | Verified — Samsung Semiconductor board |
-| Zoom           | workday    | host=zoom.wd5.myworkdayjobs.com;tenant=zoom;site=Zoom              | yes | Verified via probe |
-| Cohere         | ashby      | slug=cohere                                                        | yes | Verified |
-| Glean          | greenhouse | token=gleanwork                                                    | yes | Verified |
-| Box            | greenhouse | token=boxinc                                                       | yes | Verified |
-| JPMC           | oracle     | host=jpmc.fa.oraclecloud.com;site=CX_1001                          | yes | Official Oracle Candidate Experience feed |
-| Okta           | greenhouse | token=okta                                                         | yes | Verified |
-| Rippling       | custom     |                                                                    | no  | No public ATS API found (was bad greenhouse token) |
-| Intuit         | workday    | host=intuit.wd1.myworkdayjobs.com;tenant=intuit;site=External      | no  | Workday config returns 401; verify site/tenant |
-| Cisco          | workday    | host=cisco.wd5.myworkdayjobs.com;tenant=cisco;site=Cisco_Careers    | yes | Verified (covers Splunk too) |
-| Uber           | workday    | host=uber.wd1.myworkdayjobs.com;tenant=uber;site=External          | no  | Workday config 422; verify site/tenant |
-
-## Expanded list — additional high-prestige companies (verified via bulk ATS probe)
-
-### AI labs / ML
-| Mistral AI     | ashby      | slug=mistral.ai                                                    | yes | Official board moved from Lever to Ashby |
-| Perplexity     | ashby      | slug=perplexity                                                    | yes | Verified |
-| Together AI    | greenhouse | token=togetherai                                                   | yes | Verified |
-| Runway         | ashby      | slug=runway                                                        | yes | Verified |
-| Character AI   | ashby      | slug=character                                                     | yes | Verified |
-| Sierra         | ashby      | slug=sierra                                                        | yes | Verified |
-| Harvey         | ashby      | slug=harvey                                                        | yes | Verified |
-| Cresta         | greenhouse | token=cresta                                                       | yes | Verified |
-| ElevenLabs     | ashby      | slug=elevenlabs                                                    | yes | Verified |
-| Stability AI   | greenhouse | token=stabilityai                                                  | yes | Verified |
-| Decagon        | ashby      | slug=decagon                                                       | yes | Verified |
-| Cognition      | ashby      | slug=cognition                                                     | yes | Verified |
-| Thinking Machines | ashby   | slug=ThinkingMachines                                             | yes | Official Ashby board; old Greenhouse token 404s |
-| Imbue          | greenhouse | token=imbue                                                        | yes | Verified |
-| Suno           | ashby      | slug=suno                                                          | yes | Verified |
-| World Labs     | ashby      | slug=worldlabs                                                     | yes | Official Ashby board; old Greenhouse token 404s |
-| Physical Intelligence | ashby | slug=physicalintelligence                                       | yes | Verified |
-
-### Dev tools / infra / data
-| Confluent      | ashby      | slug=confluent                                                     | yes | Verified |
-| Cockroach Labs | greenhouse | token=cockroachlabs                                                | yes | Verified |
-| PlanetScale    | greenhouse | token=planetscale                                                  | yes | Verified |
-| Supabase       | ashby      | slug=supabase                                                      | yes | Verified |
-| Vercel         | greenhouse | token=vercel                                                       | yes | Verified |
-| Netlify        | greenhouse | token=netlify                                                      | yes | Verified |
-| Temporal       | ashby      | slug=temporal                                                      | yes | Verified |
-| Airbyte        | ashby      | slug=airbyte                                                       | yes | Verified |
-| Fivetran       | greenhouse | token=fivetran                                                     | yes | Verified |
-| Replit         | ashby      | slug=replit                                                        | yes | Verified |
-| GitLab         | greenhouse | token=gitlab                                                       | yes | Verified |
-| Postman        | greenhouse | token=postman                                                      | no  | Board now returns 404; needs a verified replacement |
-| Grafana Labs   | greenhouse | token=grafanalabs                                                  | yes | Verified |
-| Linear         | ashby      | slug=linear                                                        | yes | Verified |
-| Webflow        | greenhouse | token=webflow                                                      | yes | Verified |
-| Zapier         | ashby      | slug=zapier                                                        | yes | Verified |
-| Miro           | ashby      | slug=miro                                                          | yes | Verified |
-| Workday        | workday    | host=workday.wd5.myworkdayjobs.com;tenant=workday;site=Workday     | yes | Verified |
-
-### Fintech / crypto
-| Mercury        | greenhouse | token=mercury                                                      | yes | Verified |
-| Modern Treasury | ashby     | slug=moderntreasury                                                | yes | Verified |
-| Gusto          | greenhouse | token=gusto                                                        | yes | Verified |
-| Chime          | greenhouse | token=chime                                                        | yes | Verified |
-| Marqeta        | greenhouse | token=marqeta                                                      | no  | Board now returns 404; needs a verified replacement |
-| Checkr         | greenhouse | token=checkr                                                       | yes | Verified |
-| Carta          | greenhouse | token=carta                                                        | yes | Verified |
-| Anchorage Digital | lever   | slug=anchorage                                                     | yes | Verified |
-| Gemini         | greenhouse | token=gemini                                                       | yes | Verified |
-| Fireblocks     | greenhouse | token=fireblocks                                                   | yes | Verified |
-| Faire          | greenhouse | token=faire                                                        | yes | Verified |
-
-### Security
-| 1Password      | ashby      | slug=1password                                                     | yes | Verified |
-| Abnormal Security | greenhouse | token=abnormalsecurity                                          | yes | Verified |
-| Zscaler        | greenhouse | token=zscaler                                                      | yes | Verified |
-| Tailscale      | greenhouse | token=tailscale                                                    | yes | Verified |
-| Verkada        | greenhouse | token=verkada                                                      | yes | Verified |
-
-### Robotics / space / autonomy
-| Applied Intuition | ashby   | slug=applied                                                       | yes | Verified |
-| Astranis       | greenhouse | token=astranis                                                     | yes | Verified |
-| Relativity Space | greenhouse | token=relativity                                                 | yes | Verified |
-| Rocket Lab     | greenhouse | token=rocketlab                                                    | yes | Verified |
-| Waymo          | greenhouse | token=waymo                                                        | yes | Verified |
-| Nuro           | greenhouse | token=nuro                                                         | yes | Verified |
-| Zoox           | lever      | slug=zoox                                                          | yes | Verified |
-| Skydio         | ashby      | slug=skydio                                                        | yes | Verified |
-| Shield AI      | lever      | slug=shieldai                                                      | yes | Verified |
-
-### Quant / trading
-| Point72        | greenhouse | token=point72                                                      | yes | Verified |
-| Tower Research | greenhouse | token=towerresearchcapital                                         | yes | Verified |
-| Virtu Financial | greenhouse | token=virtu                                                       | yes | Verified |
-| Chicago Trading | greenhouse | token=chicagotrading                                              | yes | Verified |
-| Old Mission    | greenhouse | token=oldmissioncapital                                            | yes | Verified |
-| Squarepoint    | greenhouse | token=squarepointcapital                                           | yes | Verified |
-| PDT Partners   | greenhouse | token=pdtpartners                                                  | yes | Verified |
-| Vatic Labs     | greenhouse | token=vaticlabs                                                    | yes | Verified |
-| Belvedere Trading | lever   | slug=belvederetrading                                              | yes | Verified |
-| Cubist         | ashby      | slug=cubist                                                        | no  | Board now returns 404; Point72 remains enabled |
-
-### Consumer
-| Strava         | ashby      | slug=strava                                                        | yes | Verified |
-| Patreon        | ashby      | slug=patreon                                                       | yes | Verified |
-| Substack       | ashby      | slug=substack                                                      | yes | Verified |
-
-### User-requested additions
-| SeatGeek       | greenhouse | token=seatgeek                                                     | yes | Verified |
-| Sigma Computing | greenhouse | token=sigmacomputing                                              | yes | Verified |
-| ZipRecruiter   | greenhouse | token=ziprecruiter                                                 | yes | Verified |
-| Barclays       | workday    | host=barclays.wd3.myworkdayjobs.com;tenant=barclays;site=External_Career_Site_Barclays | yes | Verified |
-| AMD            | custom     |                                                                    | no  | iCIMS site (no clean API); covered via Simplify |
-| DocuSign       | custom     |                                                                    | no  | iCIMS site (no clean API); covered via Simplify |
-| HubSpot        | custom     |                                                                    | no  | Custom/JS careers site; covered via Simplify |
-| Qualcomm       | custom     |                                                                    | no  | Moved off public Workday; covered via Simplify |
-| PlayStation    | greenhouse | token=sonyinteractiveentertainmentglobal                           | yes | Verified via probe — Sony Interactive Greenhouse |

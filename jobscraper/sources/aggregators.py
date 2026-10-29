@@ -37,6 +37,15 @@ ALIASES = {
     "alphabet": "google",
     "rocket lab usa": "rocketlab",
     "x formerly twitter": "x",
+    "uber technologies": "uber",
+    "anysphere": "cursor",
+    "de shaw": "d e shaw",
+    "d e shaw co": "d e shaw",
+    "imc": "imc trading",
+    "hrt": "hudson river trading",
+    "citadel securities": "citadel",
+    "jane street capital": "jane street",
+    "two sigma investments": "two sigma",
 }
 
 # Conditional-request cache: feed url -> (etag, last_modified, parsed listings).

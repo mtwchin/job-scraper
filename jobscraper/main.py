@@ -13,7 +13,9 @@ company's own ATS is hundreds of requests, so it runs on a slower cadence.
 from __future__ import annotations
 
 import concurrent.futures as cf
+import logging
 import time
+from collections.abc import Callable
 from dataclasses import dataclass, field, replace
 from datetime import datetime, timedelta, timezone
 
@@ -41,13 +43,22 @@ class Collection:
     # nothing anywhere has moved, so a caller can skip the rest of the cycle.
     changed: bool = True
 
+    def absorb(self, other: "Collection") -> None:
+        """Fold another collection's results into this one."""
+        self.matches += other.matches
+        self.errors += other.errors
+        self.outcomes += other.outcomes
+        self.n_enabled += other.n_enabled
+        self.n_fetched += other.n_fetched
+        self.n_backed_off += other.n_backed_off
+
 
 # How long each company's last fetch took, so the next sweep can start the
 # slowest boards first. A sweep lasts as long as its slowest board's finish
 # time; in file order a 15s board listed near the bottom starts after everything
 # above it and holds the whole sweep (and the loop behind it) open.
-# Keyed by (name, quick): a quick priority fetch says nothing about how long the
-# same board's full scan takes.
+# Keyed by (name, quick): a quick fetch says nothing about how long the same
+# board's full scan takes.
 _last_fetch_seconds: dict[tuple[str, bool], float] = {}
 
 
@@ -110,8 +121,10 @@ def _passes_filters(job: Job) -> bool:
 
 
 def collect_matches(include_companies: bool = True,
-                    only_priority: bool = False,
-                    include_aggregators: bool = True) -> tuple[Collection, Collection]:
+                    quick: bool = False,
+                    include_aggregators: bool = True,
+                    on_board: Callable[[Collection], None] | None = None,
+                    ) -> tuple[Collection, Collection]:
     """Fetch enabled sources, then filter + dedup in one place.
 
     Returns (curated, general): curated is the companies.md-scoped feed; general
@@ -121,7 +134,14 @@ def collect_matches(include_companies: bool = True,
     With include_companies=False only the cheap aggregator feeds are swept —
     the fast tier of the watch loop. With include_aggregators=False only company
     boards are, so the watch loop can run a slow board sweep in the background
-    while it keeps polling the feeds.
+    while it keeps polling the feeds. quick=True runs only each board's cheap
+    newest-postings query (see CompanyConfig.quick).
+
+    With on_board set, each board's result is handed to it (from this thread)
+    the moment that board finishes, and left out of the returned collection.
+    A sweep otherwise reports only once its slowest board is done, and one
+    board can take 50s on a bad minute, which held back every other board's
+    new roles for that long.
     """
     if settings.SCOPE == "rest":
         include_companies = False   # boards belong to the `top` tier
@@ -134,9 +154,8 @@ def collect_matches(include_companies: bool = True,
 
     if include_companies:
         enabled = [c for c in load_companies(settings.COMPANIES_FILE) if c.enabled]
-        if only_priority:
-            enabled = [replace(c, quick=True) for c in enabled
-                       if c.name.casefold() in settings.PRIORITY_COMPANIES]
+        if quick:
+            enabled = [replace(c, quick=True) for c in enabled]
         # Unmeasured boards sort first: they might be slow, and it costs nothing.
         enabled.sort(key=lambda c: -_last_fetch_seconds.get((c.name, c.quick), float("inf")))
         result.n_enabled = len(enabled)
@@ -153,23 +172,29 @@ def collect_matches(include_companies: bool = True,
             settings.US_CANADA_ONLY, settings.CONCURRENCY,
         )
         with cf.ThreadPoolExecutor(max_workers=settings.CONCURRENCY) as ex:
-            for company, jobs, error in ex.map(_fetch_company, enabled):
+            futures = [ex.submit(_fetch_company, c) for c in enabled]
+            for future in cf.as_completed(futures):
+                company, jobs, error = future.result()
                 _note_outcome(company, error)
-                result.outcomes.append((company.name, company.adapter, error))
+                board = Collection()
+                board.outcomes.append((company.name, company.adapter, error))
                 if error is not None:
-                    result.errors.append(f"{company.name}: {error}")
+                    board.errors.append(f"{company.name}: {error}")
                     logger.debug("%-18s ERROR %s", company.name, error)
-                    continue
-                result.n_fetched += len(jobs)
-                hits = 0
-                for job in jobs:
-                    if job in seen or not _passes_filters(job):
-                        continue
-                    seen.add(job)
-                    result.matches.append(job)
-                    hits += 1
-                if hits:
-                    logger.debug("%-18s %4d fetched -> %d match", company.name, len(jobs), hits)
+                else:
+                    board.n_fetched += len(jobs)
+                    for job in jobs:
+                        if job in seen or not _passes_filters(job):
+                            continue
+                        seen.add(job)
+                        board.matches.append(job)
+                    if board.matches:
+                        logger.debug("%-18s %4d fetched -> %d match",
+                                     company.name, len(jobs), len(board.matches))
+                if on_board is not None:
+                    on_board(board)
+                else:
+                    result.absorb(board)
 
     agg_changed = include_aggregators and _collect_aggregators(
         result, general, seen, skip_if_unchanged=not include_companies)
@@ -404,21 +429,32 @@ def _absorb_new_sources(store: SeenStore, *buckets: list[Job]) -> dict[str, int]
 
 
 def dispatch(store: SeenStore, c: Collection, general: Collection,
-             health_min_sweeps: int | None = None, health_min_age: float | None = None) -> int:
+             health_min_sweeps: int | None = None, health_min_age: float | None = None,
+             quiet: bool = False) -> int:
     """Notify on everything new in this sweep and record it. Returns how many
     notifications were sent.
 
     State is saved immediately after each Discord batch rather than at the end:
     a run that dies between sending and saving would otherwise re-send all of it
     next time, which is the single most likely way to spam the channel.
+
+    quiet=True logs the per-call summary at DEBUG when there is nothing new and
+    nothing failed: a watch loop dispatches every few boards as they finish.
     """
-    if store.delivery_attempts:
+    if (settled := store.settle_stale_attempts(settings.DELIVERY_ATTEMPT_SETTLE_HOURS)):
+        logger.info("Settled %d unconfirmed webhook attempt(s) older than %gh as delivered.",
+                    len(settled), settings.DELIVERY_ATTEMPT_SETTLE_HOURS)
+        if not settings.DRY_RUN:
+            store.save()
+    if (pending := frozenset(store.delivery_attempts)) and pending != store.attempts_warned:
         logger.warning("%d webhook attempt(s) have unknown outcomes; inspect `jobscraper delivery-status`",
-                       len(store.delivery_attempts))
+                       len(pending))
+    store.attempts_warned = pending
     new_jobs = select_new(store, c.matches)
     new_general = select_new(store, general.matches)
 
-    logger.info(
+    logger.log(
+        logging.DEBUG if quiet and not (new_jobs or new_general or c.errors) else logging.INFO,
         "%d match / %d new | %d fetched | %d errors | %d backed off | all-companies: %d match / %d new",
         len(c.matches), len(new_jobs), c.n_fetched, len(c.errors), c.n_backed_off,
         len(general.matches), len(new_general),
@@ -480,8 +516,6 @@ def dispatch(store: SeenStore, c: Collection, general: Collection,
 
     new_jobs = fold_repeat_titles(store, new_jobs)
     new_general = fold_repeat_titles(store, new_general)
-    # Priority (FAANG+) roles first, so the per-run cap never holds one back.
-    new_jobs.sort(key=lambda j: not notify.is_priority(j))
 
     to_send = new_jobs[: settings.MAX_NOTIFICATIONS_PER_RUN]
     if len(new_jobs) > len(to_send):

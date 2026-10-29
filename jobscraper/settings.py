@@ -89,23 +89,10 @@ WATCH_INTERVAL = int(os.environ.get("WATCH_INTERVAL", "20"))
 # Seconds between full sweeps of every company's own ATS. Much heavier (hundreds
 # of requests), so it runs on its own slower cadence.
 WATCH_COMPANY_INTERVAL = int(os.environ.get("WATCH_COMPANY_INTERVAL", "120"))
-# Select major-company boards for an extra sweep between full scans. Heavy
-# boards such as JPMC remain in the five-minute full sweep.
-WATCH_PRIORITY_INTERVAL = int(os.environ.get("WATCH_PRIORITY_INTERVAL", "60"))
-PRIORITY_COMPANIES = {
-    name.strip().casefold()
-    for name in os.environ.get(
-        "PRIORITY_COMPANIES",
-        "Amazon,Google,Microsoft,Apple,Netflix,Nvidia,Salesforce,Adobe,Intel,"
-        "OpenAI,Anthropic,SpaceX,Stripe,Palantir,Databricks,Cloudflare,"
-        "Coinbase,Roblox,PayPal,LinkedIn",
-    ).split(",") if name.strip()
-}
-# Prepended to the Discord message for priority-company roles, which are also
-# sent ahead of everything else. A mention here is what turns a FAANG+ alert into
-# a phone notification: "@here", a role "<@&ROLE_ID>" or a user "<@USER_ID>".
-# Empty (the default) marks them with a star but pings no one.
-PRIORITY_MENTION = os.environ.get("PRIORITY_MENTION", "").strip()
+# Seconds between quick sweeps of every board, in a lane of their own beside
+# the full sweep. A quick sweep runs only each adapter's cheap "what's new"
+# query (Workday reads just its newest postings), so it takes seconds.
+WATCH_QUICK_INTERVAL = int(os.environ.get("WATCH_QUICK_INTERVAL", "60"))
 # How long the loop runs before exiting cleanly, in seconds. Sized to sit under
 # the 6-hour ceiling GitHub puts on a single job, leaving room for the final
 # state push.
@@ -132,6 +119,12 @@ USER_AGENT = os.environ.get(
 
 # Discord allows up to 10 embeds per webhook message.
 MAX_EMBEDS_PER_MESSAGE = 10
+# A webhook POST that times out after Discord received it has an unknown
+# outcome: it most likely posted, and resending risks a duplicate, so the job
+# stays suppressed. After this many hours (time to check Discord and run
+# `jobscraper delivery-status --retry` if it never arrived) it is settled as
+# delivered. 0 keeps attempts pending until resolved by hand.
+DELIVERY_ATTEMPT_SETTLE_HOURS = float(os.environ.get("DELIVERY_ATTEMPT_SETTLE_HOURS", "24"))
 # Safety valve: never send more than this many new jobs in one run.
 MAX_NOTIFICATIONS_PER_RUN = int(os.environ.get("MAX_NOTIFICATIONS_PER_RUN", "60"))
 
