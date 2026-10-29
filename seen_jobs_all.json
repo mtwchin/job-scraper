@@ -1,5 +1,5 @@
 {
-  "count": 8269,
+  "count": 8270,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -64294,6 +64294,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/MU"
     },
+    "vanshb03:caci::vanshb03-5d30b04b-fa9c-457b-a4a3-3bc138691104": {
+      "company": "CACI",
+      "first_seen": "2026-10-29T14:09:39+00:00",
+      "last_seen": "2026-10-29T14:09:39+00:00",
+      "location": "Rochester, NY",
+      "posted_at": "1793280792",
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/YV"
+    },
     "vanshb03:caci::vanshb03-8228caeb-818c-413b-a67b-22aefe7b85b9": {
       "company": "CACI",
       "first_seen": "2026-10-26T14:48:12+00:00",
@@ -71519,5 +71529,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T13:33:21+00:00"
+  "updated_at": "2026-10-29T14:10:24+00:00"
 }
