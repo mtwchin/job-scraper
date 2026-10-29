@@ -1,4 +1,4 @@
-name: top-companies
+name: faang+
 
 # The low-latency tier: every company in companies.md, read from its own board
 # and from the aggregator feeds, alerting to DISCORD_WEBHOOK_URL. Everything

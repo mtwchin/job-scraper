@@ -3,7 +3,7 @@ name: all-swe
 # The broad tier: SWE intern / new-grad roles at every company that is NOT in
 # companies.md, from the community aggregator feeds, alerting to
 # DISCORD_WEBHOOK_URL_ALL. No company boards are swept here; those belong to the
-# low-latency top-companies workflow (scraper.yml), which this one runs beside
+# low-latency faang+ workflow (scraper.yml), which this one runs beside
 # and cannot slow down.
 #
 # Keeps its own state file so the two tiers never contend for one, and folds in

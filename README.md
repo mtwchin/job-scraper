@@ -103,7 +103,7 @@ starts its own successor:
 
 | Workflow | Covers | Channel | Cadence |
 |---|---|---|---|
-| `scraper.yml` (*top-companies*) | every company in `companies.md` (FAANG+): its own board, plus the feeds' copies | `DISCORD_WEBHOOK_URL` | feeds every 20s, quick board sweep every 15s, full board sweep every 60s |
+| `scraper.yml` (*faang+*) | every company in `companies.md` (FAANG+): its own board, plus the feeds' copies | `DISCORD_WEBHOOK_URL` | feeds every 20s, quick board sweep every 15s, full board sweep every 60s |
 | `all-swe.yml` (*all-swe*) | SWE roles at every **other** company, from the aggregator feeds | `DISCORD_WEBHOOK_URL_ALL` | feeds every 60s |
 
 They are separate on purpose: the broad feed can't slow down or take out the
