@@ -1,5 +1,5 @@
 {
-  "count": 8253,
+  "count": 8255,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -67192,6 +67192,26 @@
       "title": "Software Engineering Intern",
       "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121848194"
     },
+    "vanshb03:neon::vanshb03-58df6bb2-b790-420b-b447-e1893c999a51": {
+      "company": "Neon",
+      "first_seen": "2026-10-29T03:11:46+00:00",
+      "last_seen": "2026-10-29T03:11:46+00:00",
+      "location": "San Francisco, CA, Mountain View, CA, Bellevue, WA, Vancouver, Canada",
+      "posted_at": "1793186377",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/YJ"
+    },
+    "vanshb03:neon::vanshb03-aaff1ae6-ad50-4e36-9e67-3fb8d3dd8781": {
+      "company": "Neon",
+      "first_seen": "2026-10-29T03:11:46+00:00",
+      "last_seen": "2026-10-29T03:11:46+00:00",
+      "location": "Mountain View, CA, Bellevue, WA",
+      "posted_at": "1793186378",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, Distributed Data Systems",
+      "url": "https://go.vansh.nyc/YI"
+    },
     "vanshb03:neosigma::vanshb03-6d5d5617-45c7-4284-9e9b-12007059a498": {
       "company": "NeoSigma",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -71340,5 +71360,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T03:11:45+00:00"
+  "updated_at": "2026-10-29T03:12:47+00:00"
 }
