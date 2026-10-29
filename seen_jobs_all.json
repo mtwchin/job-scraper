@@ -1,5 +1,5 @@
 {
-  "count": 8282,
+  "count": 8283,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -70138,6 +70138,16 @@
       "title": "Software Engineer I",
       "url": "https:/.workable.com/thorlabs/j/E79FA34ED4"
     },
+    "vanshb03:thoughtworks::vanshb03-acd5ae34-a51b-4708-8bce-8729a7850f54": {
+      "company": "Thoughtworks",
+      "first_seen": "2026-10-29T14:41:31+00:00",
+      "last_seen": "2026-10-29T14:41:31+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1793270498",
+      "source": "vanshb03",
+      "title": "New Grad: Software Developer",
+      "url": "https://go.vansh.nyc/Z2"
+    },
     "vanshb03:tiktok::vanshb03-003d3576-aa77-444f-813f-3072e227f8bd": {
       "company": "TikTok",
       "first_seen": "2026-10-19T00:51:39+00:00",
@@ -71649,5 +71659,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T14:33:33+00:00"
+  "updated_at": "2026-10-29T14:41:36+00:00"
 }
