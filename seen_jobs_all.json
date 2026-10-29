@@ -1,5 +1,5 @@
 {
-  "count": 8298,
+  "count": 8299,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -69745,6 +69745,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/W9"
     },
+    "vanshb03:sosi::vanshb03-e97e4fcb-1ea4-4d4d-8ed8-60e41ae71200": {
+      "company": "SOSi",
+      "first_seen": "2026-10-29T18:11:31+00:00",
+      "last_seen": "2026-10-29T18:11:31+00:00",
+      "location": "Charleston, SC",
+      "posted_at": "1793297333",
+      "source": "vanshb03",
+      "title": "Entry-Level PeopleSoft Software Developer",
+      "url": "https://go.vansh.nyc/Zn"
+    },
     "vanshb03:soti::vanshb03-1605f560-b8fd-4dd2-ae91-6111f9c9ce84": {
       "company": "SOTI",
       "first_seen": "2026-10-26T16:58:12+00:00",
@@ -71838,5 +71848,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T18:10:54+00:00"
+  "updated_at": "2026-10-29T18:11:56+00:00"
 }
