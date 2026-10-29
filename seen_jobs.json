@@ -50741,7 +50741,7 @@
     "simplify:tesla::simplify-6f49e470-0a16-4b21-86e6-7a8a8a5cd275": {
       "company": "Tesla",
       "first_seen": "2026-10-02T23:03:29+00:00",
-      "last_seen": "2026-10-05T00:00:44+00:00",
+      "last_seen": "2026-10-29T10:31:55+00:00",
       "location": "Palo Alto, CA",
       "posted_at": "1790979739",
       "source": "simplify",
@@ -64564,5 +64564,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T09:02:07+00:00"
+  "updated_at": "2026-10-29T10:32:11+00:00"
 }
