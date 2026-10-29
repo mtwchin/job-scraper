@@ -1,5 +1,5 @@
 {
-  "count": 8257,
+  "count": 8261,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -10902,6 +10902,16 @@
       "title": "Software Engineer Intern",
       "url": "https://careers-americas.icims.com/jobs/26266/software-engineer-intern%2c-2027-summer-u.s./job"
     },
+    "simplify:atomic object::simplify-a3337344-ef18-4095-a8c8-02b8f7270e0d": {
+      "company": "Atomic Object",
+      "first_seen": "2026-10-29T06:31:47+00:00",
+      "last_seen": "2026-10-29T06:31:47+00:00",
+      "location": "Grand Rapids, MI, Raleigh, NC, Ann Arbor, MI, Chicago, IL",
+      "posted_at": "1788282725",
+      "source": "simplify",
+      "title": "Software Developer Accelerator",
+      "url": "https://job-boards.greenhouse.io/atomicobject/jobs/4390717009"
+    },
     "simplify:atomic semi::simplify-577380e9-9967-4e82-bd6f-7e700a92f224": {
       "company": "Atomic Semi",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -13634,6 +13644,16 @@
       "source": "simplify",
       "title": "Equipment Engineering Software Engineer Intern",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584306"
+    },
+    "simplify:boston scientific::simplify-5617d404-c12b-458b-ab00-3c6cd2ec70e9": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-10-29T06:31:47+00:00",
+      "last_seen": "2026-10-29T06:31:47+00:00",
+      "location": "Arden Hills, MN",
+      "posted_at": "1793255197",
+      "source": "simplify",
+      "title": "AI Solutions Engineering Intern",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547675"
     },
     "simplify:boston scientific::simplify-735a5bf8-6b11-410a-8194-7e97afd9ecdb": {
       "company": "Boston Scientific",
@@ -22862,7 +22882,7 @@
     "simplify:etched::simplify-ca280838-311b-45d8-bc16-74d93c8462f8": {
       "company": "Etched",
       "first_seen": "2026-09-15T11:45:30+00:00",
-      "last_seen": "2026-10-15T00:00:13+00:00",
+      "last_seen": "2026-10-29T06:31:47+00:00",
       "location": "San Jose, CA",
       "posted_at": "1789466728",
       "source": "simplify",
@@ -58843,6 +58863,16 @@
       "title": "Software Engineer",
       "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Entry-Level_R0121057-1"
     },
+    "simplify:usafacts::simplify-502cc8d5-9ab0-45f7-8d62-eb6c9c030d91": {
+      "company": "USAFacts",
+      "first_seen": "2026-10-29T06:31:47+00:00",
+      "last_seen": "2026-10-29T06:31:47+00:00",
+      "location": "Bellevue, WA",
+      "posted_at": "1793242570",
+      "source": "simplify",
+      "title": "AI & Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/usafacts/jobs/4472154009"
+    },
     "simplify:usm business systems::simplify-10fd1f55-da69-47fe-9aab-74af4f789977": {
       "company": "USM Business Systems",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -64982,6 +65012,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Pipeline Infrastructure",
       "url": "https://go.vansh.nyc/UA"
+    },
+    "vanshb03:disney::vanshb03-f7f95b4a-0bae-44da-a14f-a4c778913a8b": {
+      "company": "Disney",
+      "first_seen": "2026-10-29T06:07:55+00:00",
+      "last_seen": "2026-10-29T06:07:55+00:00",
+      "location": "Orlando, FL",
+      "posted_at": "1793253948",
+      "source": "vanshb03",
+      "title": "Enterprise Technology & Data Software Engineering Intern",
+      "url": "https://go.vansh.nyc/YL"
     },
     "vanshb03:diverge health::vanshb03-727f5f59-ed40-4dc1-9860-6260acd5af37": {
       "company": "Diverge Health",
@@ -71380,5 +71420,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T06:07:51+00:00"
+  "updated_at": "2026-10-29T06:31:54+00:00"
 }
