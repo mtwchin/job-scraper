@@ -1,5 +1,5 @@
 {
-  "count": 8299,
+  "count": 8300,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1314,15 +1314,6 @@
       "source": "vanshb03",
       "title": "Network Systems Engineer Co-op",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41672"
-    },
-    "vanshb03:northrop grumman::vanshb03-a7171bec-f0f3-412b-adec-e3ff093d0096": {
-      "attempted_at": "2026-10-29T20:11:50+00:00",
-      "company": "Northrop Grumman",
-      "location": "Aurora, CO",
-      "posted_at": "1793232000",
-      "source": "vanshb03",
-      "title": "New Grad 2027: Associate Cyber Software Engineer",
-      "url": "https://go.vansh.nyc/Zv"
     },
     "vanshb03:ptc::vanshb03-f950fe69-464d-4071-899c-553816100c9c": {
       "attempted_at": "2026-10-26T11:49:23+00:00",
@@ -67839,6 +67830,16 @@
       "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
       "url": "https://go.vansh.nyc/Xs"
     },
+    "vanshb03:northrop grumman::vanshb03-a7171bec-f0f3-412b-adec-e3ff093d0096": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-10-29T20:11:53+00:00",
+      "last_seen": "2026-10-29T20:11:53+00:00",
+      "location": "Aurora, CO",
+      "posted_at": "1793232000",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Associate Cyber Software Engineer",
+      "url": "https://go.vansh.nyc/Zv"
+    },
     "vanshb03:northrop grumman::vanshb03-a935273f-f0e0-441b-9b94-b853e1ab2f5a": {
       "company": "Northrop Grumman",
       "first_seen": "2026-10-20T22:29:43+00:00",
@@ -71857,5 +71858,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T20:11:53+00:00"
+  "updated_at": "2026-10-29T20:12:55+00:00"
 }
