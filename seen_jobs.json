@@ -1,5 +1,5 @@
 {
-  "count": 7657,
+  "count": 7659,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -3157,6 +3157,16 @@
       "title": "New Grad Software Engineer, Routing",
       "url": "https://nuro.ai/careersitem?gh_jid=8248317"
     },
+    "nvidia::AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170": {
+      "company": "Nvidia",
+      "first_seen": "2026-10-29T22:18:54+00:00",
+      "last_seen": "2026-10-29T22:18:54+00:00",
+      "location": "US, TX, Austin",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "AI Systems Software Engineering Intern \u2013 Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170"
+    },
     "nvidia::Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713": {
       "company": "Nvidia",
       "first_seen": "2026-10-21T03:37:43+00:00",
@@ -3166,6 +3176,16 @@
       "source": "",
       "title": "Applied Systems Engineering Rotation Engineer - New College Graduate 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Systems-Engineering-Rotation-Engineer---New-College-Graduate-2026_JR2024713"
+    },
+    "nvidia::Compiler-Software-Engineering-Intern---Summer-2027_JR2028607": {
+      "company": "Nvidia",
+      "first_seen": "2026-10-29T22:18:54+00:00",
+      "last_seen": "2026-10-29T22:18:54+00:00",
+      "location": "US, WA, Redmond",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Compiler Software Engineering Intern - Summer 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607"
     },
     "nvidia::NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958": {
       "company": "Nvidia",
@@ -64593,5 +64613,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T22:06:57+00:00"
+  "updated_at": "2026-10-29T22:19:00+00:00"
 }
