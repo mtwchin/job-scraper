@@ -721,6 +721,15 @@
       "title": "Software Engineering Intern",
       "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543"
     },
+    "vanshb03:qualcomm::vanshb03-06325c22-2856-4591-84d5-789e7a3e09c2": {
+      "attempted_at": "2026-10-29T22:38:23+00:00",
+      "company": "Qualcomm",
+      "location": "Toronto, Canada",
+      "posted_at": "1793312674",
+      "source": "vanshb03",
+      "title": "AI Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/ZK"
+    },
     "vanshb03:salesforce::vanshb03-a37a1acf-a0a0-4dc4-b183-d7050135a28f": {
       "attempted_at": "2026-10-27T22:38:11+00:00",
       "company": "Salesforce",
@@ -64642,5 +64651,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T22:33:05+00:00"
+  "updated_at": "2026-10-29T22:39:08+00:00"
 }
