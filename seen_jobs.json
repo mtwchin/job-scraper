@@ -1,5 +1,5 @@
 {
-  "count": 7661,
+  "count": 7662,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6841,6 +6841,16 @@
       "source": "simplify",
       "title": "Software Development Engineer Intern - Summer",
       "url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa"
+    },
+    "simplify:amazon::simplify-22b41b69-61b2-4b32-88f6-61e9f4d4643d": {
+      "company": "Amazon",
+      "first_seen": "2026-10-29T23:02:02+00:00",
+      "last_seen": "2026-10-29T23:02:02+00:00",
+      "location": "Cupertino, CA",
+      "posted_at": "1793314195",
+      "source": "simplify",
+      "title": "Software Development Engineer",
+      "url": "https://amazon.jobs/en/jobs/10592066/software-development-engineer"
     },
     "simplify:amazon::simplify-27a0f900-c5b2-4b8f-85c2-8614ea5badf0": {
       "company": "Amazon",
@@ -64651,5 +64661,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T22:39:08+00:00"
+  "updated_at": "2026-10-29T23:02:10+00:00"
 }
