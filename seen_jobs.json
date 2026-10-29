@@ -1,5 +1,5 @@
 {
-  "count": 7659,
+  "count": 7661,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -41538,6 +41538,16 @@
       "title": "Automotive Engineering Intern",
       "url": "https://qualcomm.eightfold.ai/careers/job/446721615591"
     },
+    "simplify:qualcomm::simplify-6a04f366-4e42-4fe5-bb4f-c88ef2a7db83": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-29T22:32:03+00:00",
+      "last_seen": "2026-10-29T22:32:03+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793312674",
+      "source": "simplify",
+      "title": "AI Software Systems Co-op Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721862430"
+    },
     "simplify:qualcomm::simplify-77fe5b68-ffda-4a79-b56d-caddb2246641": {
       "company": "Qualcomm",
       "first_seen": "2026-08-05T06:47:04+00:00",
@@ -41569,6 +41579,16 @@
       "source": "simplify",
       "title": "AI Software Core Software Engineer - AI Software Platform - Machine Learning Engineering",
       "url": "https://qualcomm.eightfold.ai/careers/job/446718120116"
+    },
+    "simplify:qualcomm::simplify-a5c09908-c437-4b31-badf-24f0d4accd96": {
+      "company": "Qualcomm",
+      "first_seen": "2026-10-29T22:32:03+00:00",
+      "last_seen": "2026-10-29T22:32:03+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793312674",
+      "source": "simplify",
+      "title": "AI Software Engineering Co-op Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721862429"
     },
     "simplify:qualcomm::simplify-a81214dd-ab59-4311-8449-55d8c0ffff28": {
       "company": "Qualcomm",
@@ -64622,5 +64642,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T22:32:02+00:00"
+  "updated_at": "2026-10-29T22:33:05+00:00"
 }
