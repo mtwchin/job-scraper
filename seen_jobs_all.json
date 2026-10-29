@@ -1,5 +1,5 @@
 {
-  "count": 8270,
+  "count": 8282,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6294,6 +6294,16 @@
       "title": "Rotational Field Application Engineer",
       "url": "https://jobs.advanced-energy.com/job/Milpitas-Rotational-Field-Application-Engineer-CA-95035/1331850100/?ats=successfactors"
     },
+    "simplify:advanced space::simplify-8281f41a-114f-4b46-bd00-8660449e0b4a": {
+      "company": "Advanced Space",
+      "first_seen": "2026-10-29T14:33:04+00:00",
+      "last_seen": "2026-10-29T14:33:04+00:00",
+      "location": "Westminster, CO",
+      "posted_at": "1787603868",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/advancedspace/jobs/4324855009"
+    },
     "simplify:adventist health::simplify-599526f9-fdb6-4d08-b061-57f3933545e8": {
       "company": "Adventist Health",
       "first_seen": "2026-07-24T11:09:47+00:00",
@@ -12315,6 +12325,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1/application?embed=true"
     },
+    "simplify:beauhurst::simplify-ce7870f3-9963-4b74-8606-25e5eefe83b5": {
+      "company": "Beauhurst",
+      "first_seen": "2026-10-29T14:33:04+00:00",
+      "last_seen": "2026-10-29T14:33:04+00:00",
+      "location": "Nottingham, UK",
+      "posted_at": "1792771581",
+      "source": "simplify",
+      "title": "Junior Web Developer",
+      "url": "https://job-boards.greenhouse.io/beauhurst/jobs/8375802002"
+    },
     "simplify:becton dickinson::simplify-98c33fd8-dca1-426d-a419-74413b56996d": {
       "company": "Becton Dickinson",
       "first_seen": "2026-10-10T01:36:57+00:00",
@@ -16980,6 +17000,16 @@
       "posted_at": "1787616000",
       "title": "Technology Graduate Rotational Program Associate - TGRP",
       "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Associate--Technology-Graduate-Rotational-Program--TGRP-_2616657-1"
+    },
+    "simplify:cibc::simplify-2b2e5210-8084-4fd3-b375-bdd043c7b676": {
+      "company": "CIBC",
+      "first_seen": "2026-10-29T14:33:04+00:00",
+      "last_seen": "2026-10-29T14:33:04+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "AI Developer Co-op - Bilingual",
+      "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/AI-Developer-Co-op---Bilingual---Winter-2027_2622390"
     },
     "simplify:cibc::simplify-31378135-5f8c-4b51-bc35-dd36b493da6c": {
       "company": "CIBC",
@@ -23873,6 +23903,16 @@
       "source": "simplify",
       "title": "IT Intern - Software Developer",
       "url": "https://firstcitizens.jibeapply.com/jobs/35709?icims=1"
+    },
+    "simplify:first due::simplify-735db69e-c591-4f36-8a68-480a6492a64b": {
+      "company": "First Due",
+      "first_seen": "2026-10-29T14:33:04+00:00",
+      "last_seen": "2026-10-29T14:33:04+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1786663150",
+      "source": "simplify",
+      "title": "Cloud Security Software Engineer",
+      "url": "https://job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4364212009"
     },
     "simplify:first financial bank::simplify-27d97b17-2a57-439e-86ca-f86b853fac0d": {
       "company": "First Financial Bank",
@@ -31011,6 +31051,16 @@
       "source": "simplify",
       "title": "Forward Deployed Engineer",
       "url": "https://apply.workable.com/jeffreym-consulting/j/3E649E3762/apply"
+    },
+    "simplify:jm family::simplify-f82632d8-09d1-4568-bbaf-aa4a5ecb312a": {
+      "company": "JM Family",
+      "first_seen": "2026-10-29T14:33:04+00:00",
+      "last_seen": "2026-10-29T14:33:04+00:00",
+      "location": "Deerfield Beach, FL",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158"
     },
     "simplify:jobsbridge::simplify-4ba18748-ff07-4644-9ff0-8440a7c6404e": {
       "company": "Jobsbridge",
@@ -44773,6 +44823,26 @@
       "title": "Layout Automation Engineering Intern",
       "url": "https://jobs.eu.lever.co/quantinuum/550a6e3c-2556-4ac3-8cc4-862cb0681dc0/apply"
     },
+    "simplify:quantiq::simplify-e8c065bb-38a4-449d-a3c5-01e4519c1fef": {
+      "company": "Quantiq",
+      "first_seen": "2026-10-29T14:33:04+00:00",
+      "last_seen": "2026-10-29T14:33:04+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1781213190",
+      "source": "simplify",
+      "title": "Software Developer New Grad",
+      "url": "https://job-boards.greenhouse.io/quantiq/jobs/4280650009"
+    },
+    "simplify:quantiq::simplify-fef80be2-32b2-45c7-8fd7-acdeba3b2295": {
+      "company": "Quantiq",
+      "first_seen": "2026-10-29T14:33:04+00:00",
+      "last_seen": "2026-10-29T14:33:04+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1781714041",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/quantiq/jobs/4287936009"
+    },
     "simplify:quantix scs::simplify-c22ed2b1-7dbc-4fec-8e24-0ed23174312c": {
       "company": "Quantix SCS",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -45850,6 +45920,36 @@
       "posted_at": "1781676408",
       "title": "Software Engineer",
       "url": "https://fa-exew-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9146"
+    },
+    "simplify:riverlane::simplify-4b2be312-37f3-4192-9005-a5ed509457ef": {
+      "company": "Riverlane",
+      "first_seen": "2026-10-29T14:33:04+00:00",
+      "last_seen": "2026-10-29T14:33:04+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1791557755",
+      "source": "simplify",
+      "title": "PhD Research Intern",
+      "url": "https://www.riverlane.com/jobs?gh_jid=5001381101#vacancies"
+    },
+    "simplify:riverlane::simplify-82bec8a9-ec01-4b76-8b37-2700ee8c35b6": {
+      "company": "Riverlane",
+      "first_seen": "2026-10-29T14:33:04+00:00",
+      "last_seen": "2026-10-29T14:33:04+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1791555836",
+      "source": "simplify",
+      "title": "Engineering Graduate Scheme",
+      "url": "https://www.riverlane.com/jobs?gh_jid=5000685101#vacancies"
+    },
+    "simplify:riverlane::simplify-faaf5b8b-6d65-440e-b445-14d9f0e1bd7c": {
+      "company": "Riverlane",
+      "first_seen": "2026-10-29T14:33:04+00:00",
+      "last_seen": "2026-10-29T14:33:04+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1791556414",
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://www.riverlane.com/jobs?gh_jid=5000786101#vacancies"
     },
     "simplify:riveron::simplify-6359c80a-9d69-4dcc-9607-0b4506269693": {
       "company": "Riveron",
@@ -56056,6 +56156,26 @@
       "posted_at": "1783560107",
       "title": "Graduate Developer",
       "url": "https://www.thoughtworks.com/careers/jobs/8037730?gh_jid=8037730"
+    },
+    "simplify:thoughtworks::simplify-756f5acb-ee83-4d78-8f4b-7cbbdaff4b18": {
+      "company": "Thoughtworks",
+      "first_seen": "2026-10-29T14:33:05+00:00",
+      "last_seen": "2026-10-29T14:33:05+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1793270498",
+      "source": "simplify",
+      "title": "Software Developer New Grad",
+      "url": "https://www.thoughtworks.com/careers/jobs/8333235?gh_jid=8333235"
+    },
+    "simplify:thoughtworks::simplify-a78b3bae-270e-40f5-888b-ab2cae4598ea": {
+      "company": "Thoughtworks",
+      "first_seen": "2026-10-29T14:33:05+00:00",
+      "last_seen": "2026-10-29T14:33:05+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793270503",
+      "source": "simplify",
+      "title": "Associate Developer",
+      "url": "https://www.thoughtworks.com/careers/jobs/8333236?gh_jid=8333236"
     },
     "simplify:thrivent::simplify-61b9a212-f545-496c-b822-3bae971775e3": {
       "company": "Thrivent",
@@ -71529,5 +71649,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T14:12:30+00:00"
+  "updated_at": "2026-10-29T14:33:33+00:00"
 }
