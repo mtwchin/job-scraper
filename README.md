@@ -57,10 +57,10 @@ aggregator feeds (listings.json) ──────┘              (3 keys)
 | `apple`      | jobs.apple.com                  | — (server-rendered internship listings) |
 | `oracle`     | *.fa.oraclecloud.com            | `host=;site=` (full paginated board) |
 
-`companies.md` is the FAANG+ list: about 100 companies at or above IBM on the
+`companies.md` is the FAANG+ list: about 160 companies at or near IBM on the
 Plonkd prestige ranking, plus any company paying entry-level SWEs over $200K
 total comp (levels.fyi). That covers big tech, AI labs, top-tier and
-infrastructure tech, and the quant firms. Every row,
+infrastructure tech, the top banks, and the quant firms. Every row,
 whether its board is read or not, alerts to the FAANG+ channel; every company
 not listed goes to the all-SWE channel. To demote a company, delete its row.
 

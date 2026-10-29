@@ -66,6 +66,20 @@ ALIASES = {
     "bloomberg lp": "bloomberg",
     "square": "block",
     "international business machines": "ibm",
+    "jpmorgan chase": "jpmc",
+    "jpmorgan": "jpmc",
+    "jp morgan": "jpmc",
+    "j p morgan": "jpmc",
+    "jp morgan chase": "jpmc",
+    "cisco systems": "cisco",
+    "zoom video communications": "zoom",
+    "zoom communications": "zoom",
+    "maplebear": "instacart",
+    "cadence design systems": "cadence",
+    "arista networks": "arista",
+    "point72 asset management": "point72",
+    "squarepoint capital": "squarepoint",
+    "old mission capital": "old mission",
 }
 
 # Conditional-request cache: feed url -> (etag, last_modified, parsed listings).

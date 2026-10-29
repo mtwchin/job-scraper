@@ -33,7 +33,10 @@ software-engineering prestige ranking (plonkd.com, the successor to Prestige
 Hunt), plus any company whose entry-level SWE median total compensation on
 levels.fyi is over $200K, plus a few top labs and quant firms too new or too
 small to be ranked (xAI, Thinking Machines, Waymo, Five Rings, Radix, ...).
-Below that bar (Disney, the banks, Cisco, Intel, PayPal, ...) goes to all-SWE.
+The bar is deliberately generous: borderline names a little below IBM (Cisco,
+Intel, PayPal, Zoom, Affirm, Reddit, Instacart, the top banks, well-funded AI
+startups) are in too. Clearly below it (Disney, consultancies, defense
+contractors, ...) goes to all-SWE.
 
 To add a company: add a row. To stop reading its board: set **On** to `no`.
 Use `jobscraper discover <name|url>` to find a company's adapter + config, and
@@ -46,6 +49,14 @@ token/slug is probably wrong. See the README for how to find the right one.
 
 | Company        | Adapter    | Config                                                              | On  | Notes |
 |----------------|------------|--------------------------------------------------------------------|-----|-------|
+| Cisco          | workday    | host=cisco.wd5.myworkdayjobs.com;tenant=cisco;site=Cisco_Careers   | yes | Verified (covers Splunk too) |
+| Intel          | workday    | host=intel.wd1.myworkdayjobs.com;tenant=intel;site=External        | yes | Verified |
+| Micron         | workday    | host=micron.wd1.myworkdayjobs.com;tenant=micron;site=External      | yes | Verified via probe |
+| Cadence        | workday    | host=cadence.wd1.myworkdayjobs.com;tenant=cadence;site=External_Careers | yes | Verified via probe |
+| Arista         | custom     |                                                                    | no  | No public ATS board found; covered via feeds |
+| PayPal         | workday    | host=paypal.wd1.myworkdayjobs.com;tenant=paypal;site=jobs          | yes | Verified |
+| Zoom           | workday    | host=zoom.wd5.myworkdayjobs.com;tenant=zoom;site=Zoom              | yes | Verified via probe |
+| Workday        | workday    | host=workday.wd5.myworkdayjobs.com;tenant=workday;site=Workday     | yes | Verified |
 | Google         | google     |                                                                    | yes | Verified — scrapes server-rendered results page |
 | DeepMind       | google     | company=DeepMind                                                   | yes | Official careers page now uses Google Careers company filter |
 | Meta           | meta       |                                                                    | no  | GraphQL doc_id rotates; needs maintenance to re-enable |
@@ -76,6 +87,18 @@ token/slug is probably wrong. See the README for how to find the right one.
 ## AI labs
 
 
+| Mistral AI     | ashby      | slug=mistral.ai                                                    | yes | Official board moved from Lever to Ashby |
+| Cohere         | ashby      | slug=cohere                                                        | yes | Verified |
+| Hugging Face   | workable   | slug=huggingface                                                   | yes | Verified via CI probe — Workable |
+| Together AI    | greenhouse | token=togetherai                                                   | yes | Verified |
+| Character AI   | ashby      | slug=character                                                     | yes | Verified |
+| Sierra         | ashby      | slug=sierra                                                        | yes | Verified |
+| ElevenLabs     | ashby      | slug=elevenlabs                                                    | yes | Verified |
+| Decagon        | ashby      | slug=decagon                                                       | yes | Verified |
+| Physical Intelligence | ashby      | slug=physicalintelligence                                          | yes | Verified |
+| World Labs     | ashby      | slug=worldlabs                                                     | yes | Official Ashby board; old Greenhouse token 404s |
+| Runway         | ashby      | slug=runway                                                        | yes | Verified |
+| Neuralink      | greenhouse | token=neuralink                                                    | yes | Verified |
 | OpenAI         | ashby      | slug=openai                                                        | yes | Verified |
 | Anthropic      | greenhouse | token=anthropic                                                    | yes | Verified |
 | xAI            | greenhouse | token=xai                                                          | yes | Verified |
@@ -92,6 +115,26 @@ token/slug is probably wrong. See the README for how to find the right one.
 ## Top-tier tech
 
 
+| Affirm         | greenhouse | token=affirm                                                       | yes | Verified |
+| Mercury        | greenhouse | token=mercury                                                      | yes | Verified |
+| Gusto          | greenhouse | token=gusto                                                        | yes | Verified |
+| Carta          | greenhouse | token=carta                                                        | yes | Verified |
+| Toast          | greenhouse | token=toast                                                        | yes | Verified via probe |
+| Reddit         | greenhouse | token=reddit                                                       | yes | Verified |
+| Instacart      | greenhouse | token=instacart                                                    | yes | Verified |
+| Nextdoor       | greenhouse | token=nextdoor                                                     | yes | Verified |
+| Duolingo       | greenhouse | token=duolingo                                                     | yes | Verified |
+| Riot Games     | greenhouse | token=riotgames                                                    | yes | Verified |
+| Electronic Arts | custom     |                                                                    | no  | No public ATS board found; covered via feeds |
+| Unity          | custom     |                                                                    | no  | No public ATS board found; covered via feeds |
+| AppLovin       | greenhouse | token=applovin                                                     | yes | Verified via probe |
+| Twitch         | greenhouse | token=twitch                                                       | yes | Verified via probe — Greenhouse |
+| Linear         | ashby      | slug=linear                                                        | yes | Verified |
+| Replit         | ashby      | slug=replit                                                        | yes | Verified |
+| Applied Intuition | ashby      | slug=applied                                                       | yes | Verified |
+| Zoox           | lever      | slug=zoox                                                          | yes | Verified |
+| Nuro           | greenhouse | token=nuro                                                         | yes | Verified |
+| Blue Origin    | workday    | host=blueorigin.wd5.myworkdayjobs.com;tenant=blueorigin;site=BlueOrigin | yes | Verified via probe |
 | Stripe         | greenhouse | token=stripe                                                       | yes | Verified |
 | Databricks     | greenhouse | token=databricks                                                   | yes | Verified |
 | Snowflake      | ashby      | slug=snowflake                                                     | yes | Verified (fixed from bad greenhouse token) |
@@ -128,6 +171,11 @@ token/slug is probably wrong. See the README for how to find the right one.
 ## Infrastructure & enterprise
 
 
+| Samsara        | greenhouse | token=samsara                                                      | yes | Verified |
+| Amplitude      | ashby      | slug=amplitude                                                     | yes | Verified via probe |
+| HashiCorp      | custom     |                                                                    | no  | IBM-owned; no public ATS board found |
+| Supabase       | ashby      | slug=supabase                                                      | yes | Verified |
+| DigitalOcean   | greenhouse | token=digitalocean98                                               | yes | Verified via probe |
 | Datadog        | greenhouse | token=datadog                                                      | yes | Verified |
 | Cloudflare     | greenhouse | token=cloudflare                                                   | yes | Verified |
 | CrowdStrike    | workday    | host=crowdstrike.wd5.myworkdayjobs.com;tenant=crowdstrike;site=crowdstrikecareers | yes | Verified via probe |
@@ -147,9 +195,22 @@ token/slug is probably wrong. See the README for how to find the right one.
 | Pure Storage   | greenhouse | token=purestorage                                                  | yes | Verified via probe |
 | Red Hat        | workday    | host=redhat.wd5.myworkdayjobs.com;tenant=redhat;site=jobs          | yes | Verified |
 
+## Banks & finance
+
+
+| JPMC           | oracle     | host=jpmc.fa.oraclecloud.com;site=CX_1001                          | yes | Official Oracle Candidate Experience feed |
+| Goldman Sachs  | custom     |                                                                    | no  | Custom careers site |
+| Capital One    | workday    | host=capitalone.wd12.myworkdayjobs.com;tenant=capitalone;site=Capital_One | yes | Verified |
+| Blackrock      | workday    | host=blackrock.wd1.myworkdayjobs.com;tenant=blackrock;site=BlackRock_Professional | yes | Verified via probe |
+
 ## Quant / trading
 
 
+| Point72        | greenhouse | token=point72                                                      | yes | Verified |
+| Squarepoint    | greenhouse | token=squarepointcapital                                           | yes | Verified |
+| Old Mission    | ashby      | slug=old-mission-capital                                           | yes | Verified via probe — moved from Greenhouse (404) to Ashby |
+| Chicago Trading | greenhouse | token=chicagotrading                                               | yes | Verified |
+| Vatic Labs     | greenhouse | token=vaticlabs                                                    | yes | Verified |
 | Jane Street    | greenhouse | token=janestreet                                                   | yes | Verified — quant |
 | Citadel        | custom     |                                                                    | no  | Custom careers site |
 | Two Sigma      | custom     |                                                                    | no  | Custom careers site |
