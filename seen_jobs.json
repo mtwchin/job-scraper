@@ -1,5 +1,5 @@
 {
-  "count": 7651,
+  "count": 7652,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -4422,6 +4422,16 @@
       "source": "",
       "title": "Junior Ground Systems Engineer - Instrumentation & Control",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8034180003"
+    },
+    "rocket lab::8058455003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-10-29T00:57:43+00:00",
+      "last_seen": "2026-10-29T00:57:43+00:00",
+      "location": "Long Beach, CA",
+      "posted_at": "2026-10-28T20:56:39-04:00",
+      "source": "",
+      "title": "Spacecraft Propulsion Systems Engineer I",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8058455003"
     },
     "salesforce::Missionforce---Associate-Forward-Deployed-Engineer--FDE---Public-Sector_JR333171": {
       "company": "Salesforce",
@@ -64515,5 +64525,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T00:05:48+00:00"
+  "updated_at": "2026-10-29T00:57:51+00:00"
 }
