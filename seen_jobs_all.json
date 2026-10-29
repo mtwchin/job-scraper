@@ -1315,6 +1315,15 @@
       "title": "Network Systems Engineer Co-op",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41672"
     },
+    "vanshb03:northrop grumman::vanshb03-a7171bec-f0f3-412b-adec-e3ff093d0096": {
+      "attempted_at": "2026-10-29T20:11:50+00:00",
+      "company": "Northrop Grumman",
+      "location": "Aurora, CO",
+      "posted_at": "1793232000",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Associate Cyber Software Engineer",
+      "url": "https://go.vansh.nyc/Zv"
+    },
     "vanshb03:ptc::vanshb03-f950fe69-464d-4071-899c-553816100c9c": {
       "attempted_at": "2026-10-26T11:49:23+00:00",
       "company": "PTC",
@@ -71848,5 +71857,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T19:42:50+00:00"
+  "updated_at": "2026-10-29T20:11:53+00:00"
 }
