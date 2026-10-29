@@ -1,5 +1,5 @@
 {
-  "count": 8283,
+  "count": 8294,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -14170,6 +14170,16 @@
       "title": "Software Engineer 1 - Internal Tooling",
       "url": "https://job-boards.greenhouse.io/getbuilt/jobs/4713164005"
     },
+    "simplify:burns engineering::simplify-a56c3be4-35d8-45ca-a8f7-c98206f9e105": {
+      "company": "Burns Engineering",
+      "first_seen": "2026-10-29T15:03:33+00:00",
+      "last_seen": "2026-10-29T15:03:33+00:00",
+      "location": "Pittsburgh, PA",
+      "posted_at": "1793040714",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009"
+    },
     "simplify:buyers edge platform::simplify-c3cf48b5-1173-4d4f-844d-b1af756ce6b6": {
       "company": "Buyers Edge Platform",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -19457,6 +19467,26 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application?embed=true"
+    },
+    "simplify:crystal dynamics::simplify-28764194-7d52-4d45-b292-fc66a47c6503": {
+      "company": "Crystal Dynamics",
+      "first_seen": "2026-10-29T15:03:32+00:00",
+      "last_seen": "2026-10-29T15:03:32+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1792703554",
+      "source": "simplify",
+      "title": "Technical Artist Intern",
+      "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4746826005"
+    },
+    "simplify:crystal dynamics::simplify-68688728-c254-4961-b5ba-f479aace81a0": {
+      "company": "Crystal Dynamics",
+      "first_seen": "2026-10-29T15:03:32+00:00",
+      "last_seen": "2026-10-29T15:03:32+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1792705486",
+      "source": "simplify",
+      "title": "Gameplay Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4746848005"
     },
     "simplify:csc generation::simplify-03b53364-747f-47ed-8bfc-ba012349cb8c": {
       "company": "CSC Generation",
@@ -35330,6 +35360,16 @@
       "title": "Technology Rotational Program - Associate Engineer",
       "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4978937101"
     },
+    "simplify:mantari::simplify-a00f22bf-8c0f-4b8b-b6cb-997259b24257": {
+      "company": "Mantari",
+      "first_seen": "2026-10-29T15:03:32+00:00",
+      "last_seen": "2026-10-29T15:03:32+00:00",
+      "location": "LA",
+      "posted_at": "1772747573",
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://job-boards.greenhouse.io/mantari/jobs/4173646009"
+    },
     "simplify:mantech::simplify-678077f9-ae48-457f-8a21-5b51072d2d48": {
       "company": "ManTech",
       "first_seen": "2026-08-02T04:32:45+00:00",
@@ -41304,6 +41344,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application?embed=true"
     },
+    "simplify:oneethos::simplify-e7dad441-1919-402c-8936-123968e0e6b3": {
+      "company": "OneEthos",
+      "first_seen": "2026-10-29T15:03:32+00:00",
+      "last_seen": "2026-10-29T15:03:32+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1792511877",
+      "source": "simplify",
+      "title": "Research and Development Intern",
+      "url": "https://job-boards.greenhouse.io/oneethos/jobs/4459193009"
+    },
     "simplify:oneimaging::simplify-1acd5a07-50ab-4e8a-8cb2-be9a1ae33d8b": {
       "company": "OneImaging",
       "first_seen": "2026-09-11T23:13:27+00:00",
@@ -44121,6 +44171,26 @@
       "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/probook/83a9ab68-0f4c-437f-8d9a-2566eaf9aba6/application"
     },
+    "simplify:procogia::simplify-726bf5e5-369b-4f1f-8aa3-984297944379": {
+      "company": "ProCogia",
+      "first_seen": "2026-10-29T15:03:32+00:00",
+      "last_seen": "2026-10-29T15:03:32+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1781632565",
+      "source": "simplify",
+      "title": "Statistical Programming Intern",
+      "url": "https://procogia.com/about-us/careers/?gh_jid=5265312008"
+    },
+    "simplify:procogia::simplify-e6808cfb-6fc0-41a3-aa2a-b27d76e71392": {
+      "company": "ProCogia",
+      "first_seen": "2026-10-29T15:03:32+00:00",
+      "last_seen": "2026-10-29T15:03:32+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1791555746",
+      "source": "simplify",
+      "title": "AI Applied & Agentic AI Intern",
+      "url": "https://procogia.com/about-us/careers/?gh_jid=5448664008"
+    },
     "simplify:procom::simplify-1fceed24-f2fd-41af-83d8-5c7114574435": {
       "company": "Procom",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -44877,6 +44947,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Tools and Prototypes",
       "url": "https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes"
+    },
+    "simplify:qube research & technologies::simplify-956d7e6e-0435-403d-877c-4026d34ea7cc": {
+      "company": "Qube Research & Technologies",
+      "first_seen": "2026-10-29T15:03:32+00:00",
+      "last_seen": "2026-10-29T15:03:32+00:00",
+      "location": "Chicago, IL, NYC",
+      "posted_at": "1793012494",
+      "source": "simplify",
+      "title": "Technology Intern",
+      "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8870423002"
     },
     "simplify:quera computing::simplify-07323659-ff80-4e1a-a788-ba31ef1f3ab0": {
       "company": "QuEra Computing",
@@ -58361,6 +58441,16 @@
       "title": "Software Engineer",
       "url": "https://twosigma.avature.net/careers/JobDetail/14018"
     },
+    "simplify:two six technologies::simplify-bfa01257-724c-4c7e-9a32-1bd1a99d9b9e": {
+      "company": "Two Six Technologies",
+      "first_seen": "2026-10-29T15:03:32+00:00",
+      "last_seen": "2026-10-29T15:03:32+00:00",
+      "location": "Arlington County, Arlington, VA",
+      "posted_at": "1793283993",
+      "source": "simplify",
+      "title": "Systems Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004"
+    },
     "simplify:tyler technologies::simplify-170b4dbe-36bf-488f-8c87-9759f8f3fc2b": {
       "company": "Tyler Technologies",
       "first_seen": "2026-09-18T22:19:43+00:00",
@@ -60790,6 +60880,26 @@
       "source": "simplify",
       "title": "Business & Technology Application Analyst 1 - Pathology and Immunology",
       "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Business---Technology-Application-Analyst-I---Pathology-and-Immunology_JR97913"
+    },
+    "simplify:wave life sciences usa::simplify-8d877b1b-437c-4ddd-94ef-af8b4819b9fb": {
+      "company": "Wave Life Sciences USA",
+      "first_seen": "2026-10-29T15:03:32+00:00",
+      "last_seen": "2026-10-29T15:03:32+00:00",
+      "location": "United States",
+      "posted_at": "1789700433",
+      "source": "simplify",
+      "title": "Intellectual Property/Data Science Co-op",
+      "url": "https://wavelifesciences.com/jobs?gh_jid=4403998009"
+    },
+    "simplify:wave life sciences usa::simplify-e46659b2-c5d9-4721-889b-e3e9d24f56d7": {
+      "company": "Wave Life Sciences USA",
+      "first_seen": "2026-10-29T15:03:32+00:00",
+      "last_seen": "2026-10-29T15:03:32+00:00",
+      "location": "Lexington, MA",
+      "posted_at": "1789700781",
+      "source": "simplify",
+      "title": "Microsoft Copilot AI Co-op",
+      "url": "https://wavelifesciences.com/jobs?gh_jid=4409054009"
     },
     "simplify:wawa::simplify-6a4e45f8-1b33-43c4-ad0c-eff30becd150": {
       "company": "Wawa",
@@ -71677,5 +71787,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T15:02:39+00:00"
+  "updated_at": "2026-10-29T15:03:42+00:00"
 }
