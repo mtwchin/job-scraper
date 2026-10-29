@@ -1,5 +1,5 @@
 {
-  "count": 8264,
+  "count": 8266,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -909,6 +909,15 @@
       "source": "simplify",
       "title": "Micro-Intern: Research Technology Developer",
       "url": "https://boards.greenhouse.io/point72/jobs/8236734002"
+    },
+    "simplify:qualcomm::simplify-4e5a549d-7b37-4edc-b990-e4f3ec584002": {
+      "attempted_at": "2026-10-29T09:01:59+00:00",
+      "company": "Qualcomm",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1790817622",
+      "source": "simplify",
+      "title": "Design Automation & Quality Assurance Engineer Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721349404"
     },
     "simplify:riot games::simplify-d24f3415-d7f3-4935-8bed-730bae30d68d": {
       "attempted_at": "2026-10-01T23:01:57+00:00",
@@ -15965,6 +15974,26 @@
       "source": "simplify",
       "title": "Junior Frontend Developer",
       "url": "https://careers.capgemini.com/job/Atlanta,-GA-Junior-Frontend-Developer-GA-30301/1435951433/?ats=successfactors"
+    },
+    "simplify:capital de recherche tower::simplify-0fe687ca-5424-4eac-9d21-5b5baf0a4e5d": {
+      "company": "Capital de Recherche Tower",
+      "first_seen": "2026-10-29T09:32:08+00:00",
+      "last_seen": "2026-10-29T09:32:08+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1789678789",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://www.tower-research.ca/postes-vacants/?gh_jid=8212194"
+    },
+    "simplify:capital de recherche tower::simplify-6f6e177e-6489-412b-b087-1cdcceb47a7a": {
+      "company": "Capital de Recherche Tower",
+      "first_seen": "2026-10-29T09:32:08+00:00",
+      "last_seen": "2026-10-29T09:32:08+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1789480714",
+      "source": "simplify",
+      "title": "C++ Software Developer New Grad",
+      "url": "https://www.tower-research.ca/postes-vacants/?gh_jid=8126668"
     },
     "simplify:capital health::simplify-2ddddf54-3c3b-4af6-b8c2-5b755d594dc1": {
       "company": "Capital Health",
@@ -71451,5 +71480,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-29T08:42:06+00:00"
+  "updated_at": "2026-10-29T09:32:10+00:00"
 }
