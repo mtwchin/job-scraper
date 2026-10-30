@@ -1,5 +1,5 @@
 {
-  "count": 8364,
+  "count": 8370,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2064,6 +2064,16 @@
       "source": "",
       "title": "Jr. Software Development Engineer - Detroit, MI, Jr. Developer Program",
       "url": "https://www.amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program"
+    },
+    "amazon::10593521": {
+      "company": "Amazon",
+      "first_seen": "2026-10-30T15:29:21+00:00",
+      "last_seen": "2026-10-30T15:29:21+00:00",
+      "location": "Seattle, Washington, USA",
+      "posted_at": "October 30, 2026",
+      "source": "",
+      "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -64044,6 +64054,16 @@
       "title": "Software Development Engineer Intern, Robotics",
       "url": "https://go.vansh.nyc/Mg"
     },
+    "vanshb03:amazon::vanshb03-539ba40f-e018-40a9-95e7-f69964f01d62": {
+      "company": "Amazon",
+      "first_seen": "2026-10-30T15:38:28+00:00",
+      "last_seen": "2026-10-30T15:38:28+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793318400",
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning",
+      "url": "https://go.vansh.nyc/10y"
+    },
     "vanshb03:amazon::vanshb03-5523431f-7de5-4e00-be54-8f529bcf2e50": {
       "company": "Amazon",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -65404,6 +65424,26 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Team Pickle",
       "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013"
+    },
+    "vanshb03:carnegie mellon sei::vanshb03-8e58257a-5eb1-484a-b8ef-ecf664431925": {
+      "company": "Carnegie Mellon SEI",
+      "first_seen": "2026-10-30T16:11:51+00:00",
+      "last_seen": "2026-10-30T16:11:51+00:00",
+      "location": "Pittsburgh, PA",
+      "posted_at": "1793375536",
+      "source": "vanshb03",
+      "title": "Full-Stack Software Development Intern",
+      "url": "https://go.vansh.nyc/10B"
+    },
+    "vanshb03:carnegie mellon university::vanshb03-e56cafc3-4333-4d3a-9e45-3705e4e7d6ed": {
+      "company": "Carnegie Mellon University",
+      "first_seen": "2026-10-30T16:11:51+00:00",
+      "last_seen": "2026-10-30T16:11:51+00:00",
+      "location": "Pittsburgh, PA",
+      "posted_at": "1793375536",
+      "source": "vanshb03",
+      "title": "Full-Stack Software Development Intern",
+      "url": "https://go.vansh.nyc/10A"
     },
     "vanshb03:cboe global markets::vanshb03-4a5a1a53-d2c7-4a4c-aceb-61119f9535bb": {
       "company": "Cboe Global Markets",
@@ -66780,6 +66820,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Crypto & Cross Domain Solutions",
       "url": "https://careers-gdms.icims.com/jobs/75477/software-engineer-intern-for-crypto-%26-cross-domain-solutions/job"
+    },
+    "vanshb03:general motors::vanshb03-024ca398-c1d9-4fea-b67f-87f4174a09bd": {
+      "company": "General Motors",
+      "first_seen": "2026-10-30T16:11:51+00:00",
+      "last_seen": "2026-10-30T16:11:51+00:00",
+      "location": "Milford, MI, Warren, MI",
+      "posted_at": "1791158400",
+      "source": "vanshb03",
+      "title": "ADAS Software Engineer Intern",
+      "url": "https://go.vansh.nyc/EG"
     },
     "vanshb03:general motors::vanshb03-4c7348d1-1cbc-451b-80ae-c106f1e953fe": {
       "company": "General Motors",
@@ -72217,6 +72267,16 @@
       "title": "New Grad 2027: Software Engineer",
       "url": "https://go.vansh.nyc/P2"
     },
+    "vanshb03:wex::vanshb03-41d2d47b-d430-4db6-aaba-de1b9e5e6f1e": {
+      "company": "Wex",
+      "first_seen": "2026-10-30T16:11:51+00:00",
+      "last_seen": "2026-10-30T16:11:51+00:00",
+      "location": "Remote, United States",
+      "posted_at": "1793375656",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/10z"
+    },
     "vanshb03:wsp::vanshb03-65f57b05-3453-432e-8874-c22e99f13c8f": {
       "company": "WSP",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -72636,5 +72696,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T15:03:58+00:00"
+  "updated_at": "2026-10-30T16:12:02+00:00"
 }
