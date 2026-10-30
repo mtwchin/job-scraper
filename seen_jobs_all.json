@@ -1,5 +1,5 @@
 {
-  "count": 8370,
+  "count": 8371,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -67019,6 +67019,16 @@
       "title": "Software Engineering Intern, Embark",
       "url": "https://careers-hrblock.icims.com/jobs/76987/embark-software-engineering-intern---s/job"
     },
+    "vanshb03:harmonic::vanshb03-589552c3-f3eb-4d48-941c-a466b56abb42": {
+      "company": "Harmonic",
+      "first_seen": "2026-10-30T18:09:18+00:00",
+      "last_seen": "2026-10-30T18:09:18+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793211967",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/10K"
+    },
     "vanshb03:harvey::vanshb03-a5a93b54-414b-4dc2-abcb-3a552214b73b": {
       "company": "Harvey",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -72696,5 +72706,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T17:49:16+00:00"
+  "updated_at": "2026-10-30T18:09:19+00:00"
 }
