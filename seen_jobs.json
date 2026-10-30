@@ -1,5 +1,5 @@
 {
-  "count": 7670,
+  "count": 7672,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1300,6 +1300,16 @@
       "source": "",
       "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027",
       "url": "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027"
+    },
+    "amazon::10593902": {
+      "company": "Amazon",
+      "first_seen": "2026-10-30T22:33:51+00:00",
+      "last_seen": "2026-10-30T22:33:51+00:00",
+      "location": "Seattle, Washington, USA",
+      "posted_at": "October 30, 2026",
+      "source": "",
+      "title": "Software Development Engineer (Database) Early Career- 2027 (US)",
+      "url": "https://www.amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -4508,6 +4518,16 @@
       "source": "",
       "title": "Spacecraft Propulsion Systems Engineer I",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8058455003"
+    },
+    "rocket lab::8087292003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-10-30T22:33:13+00:00",
+      "last_seen": "2026-10-30T22:33:13+00:00",
+      "location": "Long Beach, CA",
+      "posted_at": "2026-10-30T18:32:21-04:00",
+      "source": "",
+      "title": "Business Systems Engineer I",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8087292003"
     },
     "salesforce::Missionforce---Associate-Forward-Deployed-Engineer--FDE---Public-Sector_JR333171": {
       "company": "Salesforce",
@@ -64741,5 +64761,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T22:32:06+00:00"
+  "updated_at": "2026-10-30T22:34:08+00:00"
 }
