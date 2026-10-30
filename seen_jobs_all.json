@@ -1,5 +1,5 @@
 {
-  "count": 8346,
+  "count": 8347,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -67226,6 +67226,16 @@
       "title": "Software Engineering Intern, Technology",
       "url": "https://go.vansh.nyc/aT"
     },
+    "vanshb03:johns hopkins apl::vanshb03-43f1ab62-309e-49c7-aa6b-380e148c5bef": {
+      "company": "Johns Hopkins APL",
+      "first_seen": "2026-10-30T01:11:22+00:00",
+      "last_seen": "2026-10-30T01:11:22+00:00",
+      "location": "Laurel, MD",
+      "posted_at": "1793322465",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Systems Engineer",
+      "url": "https://go.vansh.nyc/10j"
+    },
     "vanshb03:johns hopkins applied physics laboratory::vanshb03-2a36d013-2f05-4fdb-b236-d2fe749d92c3": {
       "company": "Johns Hopkins Applied Physics Laboratory",
       "first_seen": "2026-10-26T14:40:11+00:00",
@@ -72452,5 +72462,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T01:03:16+00:00"
+  "updated_at": "2026-10-30T01:11:55+00:00"
 }
