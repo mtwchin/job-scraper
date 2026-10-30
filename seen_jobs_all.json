@@ -1,5 +1,5 @@
 {
-  "count": 8349,
+  "count": 8350,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -64753,6 +64753,18 @@
       "title": "Member of Technical Staff Intern",
       "url": "https://go.vansh.nyc/Xm"
     },
+    "vanshb03:axon::vanshb03-a31f5ed8-30ae-4c7a-a40a-43e3dba50abd": {
+      "company": "Axon",
+      "duplicate_of": "simplify:axon::simplify-8a9e6891-293e-40a9-b0cc-86a38defec9c",
+      "first_seen": "2026-10-30T02:14:10+00:00",
+      "last_seen": "2026-10-30T02:14:10+00:00",
+      "location": "Seattle, WA, Arlington, VA",
+      "posted_at": "1793320794",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/10l"
+    },
     "vanshb03:bae systems::vanshb03-78d451b7-7d85-4d58-a03f-5254f0620fac": {
       "company": "BAE Systems",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -72482,5 +72494,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T02:03:15+00:00"
+  "updated_at": "2026-10-30T02:14:17+00:00"
 }
