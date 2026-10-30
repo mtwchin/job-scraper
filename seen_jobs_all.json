@@ -1,5 +1,5 @@
 {
-  "count": 8363,
+  "count": 8364,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -13129,6 +13129,16 @@
       "source": "simplify",
       "title": "Engineering Developer Analyst - Engineering - Developer",
       "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/82296"
+    },
+    "simplify:bodyspec::simplify-f7888bad-462c-451b-a9e7-6c7506eea223": {
+      "company": "BodySpec",
+      "first_seen": "2026-10-30T15:03:52+00:00",
+      "last_seen": "2026-10-30T15:03:52+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1793370878",
+      "source": "simplify",
+      "title": "Junior Software Engineer",
+      "url": "https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer"
     },
     "simplify:boeing::simplify-174acb70-442d-4271-bbfa-4b1ea5cd105e": {
       "company": "Boeing",
@@ -72626,5 +72636,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T14:31:55+00:00"
+  "updated_at": "2026-10-30T15:03:58+00:00"
 }
