@@ -1,5 +1,5 @@
 {
-  "count": 7672,
+  "count": 7673,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -7151,6 +7151,18 @@
       "posted_at": "1775743775",
       "title": "Software Development Engineer Intern",
       "url": "https://amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada"
+    },
+    "simplify:amazon::simplify-c8c7f423-8401-4ef2-a8d6-cab40eedbb2b": {
+      "company": "Amazon",
+      "duplicate_of": "vanshb03:amazon::vanshb03-01c1a676-beec-4b44-a85b-a82949807095",
+      "first_seen": "2026-10-30T23:02:46+00:00",
+      "last_seen": "2026-10-30T23:02:46+00:00",
+      "location": "Cupertino, CA",
+      "posted_at": "1793399898",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Development Engineer Intern",
+      "url": "https://amazon.jobs/en/jobs/10593872/software-development-engineer"
     },
     "simplify:amazon::simplify-d5c8a4f3-a150-4968-813c-20fc2c81df18": {
       "company": "Amazon",
@@ -64761,5 +64773,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T22:34:08+00:00"
+  "updated_at": "2026-10-30T23:03:10+00:00"
 }
