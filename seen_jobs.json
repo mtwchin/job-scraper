@@ -1,5 +1,5 @@
 {
-  "count": 7668,
+  "count": 7670,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -14985,7 +14985,7 @@
     "simplify:capital one::simplify-d03ac761-2dfa-4cd7-bd7c-797b6ff89c19": {
       "company": "Capital One",
       "first_seen": "2026-07-20T23:14:58+00:00",
-      "last_seen": "2026-10-27T00:02:02+00:00",
+      "last_seen": "2026-10-30T22:32:05+00:00",
       "posted_at": "1784505600",
       "title": "Software Engineer New Grad - Software Engineer",
       "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R247320"
@@ -27769,6 +27769,16 @@
       "posted_at": "1788912000",
       "title": "AI and Compiler Engineering Graduate Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850"
+    },
+    "simplify:intel::simplify-07e8db57-fe7c-4076-83fc-01a3b6f9b55b": {
+      "company": "Intel",
+      "first_seen": "2026-10-30T22:32:06+00:00",
+      "last_seen": "2026-10-30T22:32:06+00:00",
+      "location": "Hillsboro, OR, Phoenix, AZ",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "Software Application Development Engineer New Grad",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523"
     },
     "simplify:intel::simplify-0f0efd25-01fa-419b-9d3a-916d06967722": {
       "company": "Intel",
@@ -43107,6 +43117,16 @@
       "posted_at": "1789396945",
       "title": "Software Developer Intern",
       "url": "https://boards.greenhouse.io/robinhood/jobs/8199744"
+    },
+    "simplify:roblox::simplify-487d6bab-a6f6-4568-915e-7058332e43c8": {
+      "company": "Roblox",
+      "first_seen": "2026-10-30T22:32:06+00:00",
+      "last_seen": "2026-10-30T22:32:06+00:00",
+      "location": "San Mateo, CA",
+      "posted_at": "1793376257",
+      "source": "simplify",
+      "title": "Senior Software Engineer \u2013 Data Acquisition PhD Early Career",
+      "url": "https://careers.roblox.com/jobs/8315883?gh_jid=8315883"
     },
     "simplify:roblox::simplify-bed7436e-6c48-4818-a11a-c314cfbf6574": {
       "company": "Roblox",
@@ -64721,5 +64741,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T22:14:04+00:00"
+  "updated_at": "2026-10-30T22:32:06+00:00"
 }
