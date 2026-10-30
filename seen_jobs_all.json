@@ -1,5 +1,5 @@
 {
-  "count": 8347,
+  "count": 8348,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -20604,6 +20604,16 @@
       "posted_at": "1787097600",
       "title": "Software Development Apprentice - Digital Solutions Team",
       "url": "https://dedalus.wd3.myworkdayjobs.com/External/job/GBR---Leeds/Software-Engineer-Apprentice_JR108875"
+    },
+    "simplify:dee zee::simplify-0c2e08ec-3a20-496f-8117-21a7031cbe20": {
+      "company": "Dee Zee",
+      "first_seen": "2026-10-30T01:32:12+00:00",
+      "last_seen": "2026-10-30T01:32:12+00:00",
+      "location": "Des Moines, IA",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00471"
     },
     "simplify:dee zee::simplify-8d49244e-af9c-4cbb-bb68-827c8671b75d": {
       "company": "Dee Zee",
@@ -72462,5 +72472,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T01:13:09+00:00"
+  "updated_at": "2026-10-30T01:33:12+00:00"
 }
