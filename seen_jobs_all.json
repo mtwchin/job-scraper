@@ -1,5 +1,5 @@
 {
-  "count": 8371,
+  "count": 8372,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -65104,6 +65104,16 @@
       "title": "Software Engineer I - Engineering - Development",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602803047194"
     },
+    "vanshb03:brain co.::vanshb03-3b8780e7-d461-49ef-a8c1-267ab7f97c8f": {
+      "company": "Brain Co.",
+      "first_seen": "2026-10-30T18:44:17+00:00",
+      "last_seen": "2026-10-30T18:44:17+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1789243187",
+      "source": "vanshb03",
+      "title": "AI Platform Engineer Intern",
+      "url": "https://go.vansh.nyc/10Q"
+    },
     "vanshb03:brain co.::vanshb03-4958690b-e605-49a8-b864-ab33f197f45f": {
       "company": "Brain Co.",
       "first_seen": "2026-10-25T08:27:17+00:00",
@@ -72706,5 +72716,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T18:09:19+00:00"
+  "updated_at": "2026-10-30T18:44:22+00:00"
 }
