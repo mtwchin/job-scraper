@@ -759,7 +759,9 @@
     }
   },
   "delivery_rejections": {},
-  "health_reported": [],
+  "health_reported": [
+    "Oracle"
+  ],
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -64721,5 +64723,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T20:56:40+00:00"
+  "updated_at": "2026-10-30T21:15:43+00:00"
 }
