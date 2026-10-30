@@ -1,5 +1,5 @@
 {
-  "count": 8402,
+  "count": 8410,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -7628,6 +7628,16 @@
       "title": "Software Engineer Intern - Factory Apps",
       "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer---Factory-Apps---Intern_R03384"
     },
+    "simplify:altera::simplify-c6cac530-3934-498d-9f3d-5af062252215": {
+      "company": "Altera",
+      "first_seen": "2026-10-30T23:03:18+00:00",
+      "last_seen": "2026-10-30T23:03:18+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "FPGA Development Tools Intern",
+      "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-Development-Tools---Intern_R03394"
+    },
     "simplify:altera::simplify-ca3f8b2a-724e-44cf-8a3a-7f784c36077c": {
       "company": "Altera",
       "first_seen": "2026-09-29T22:37:10+00:00",
@@ -8009,6 +8019,18 @@
       "posted_at": "1775743775",
       "title": "Software Development Engineer Intern",
       "url": "https://amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada"
+    },
+    "simplify:amazon::simplify-c8c7f423-8401-4ef2-a8d6-cab40eedbb2b": {
+      "company": "Amazon",
+      "duplicate_of": "vanshb03:amazon::vanshb03-01c1a676-beec-4b44-a85b-a82949807095",
+      "first_seen": "2026-10-30T23:02:46+00:00",
+      "last_seen": "2026-10-30T23:02:46+00:00",
+      "location": "Cupertino, CA",
+      "posted_at": "1793399898",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Development Engineer Intern",
+      "url": "https://amazon.jobs/en/jobs/10593872/software-development-engineer"
     },
     "simplify:amazon::simplify-d5c8a4f3-a150-4968-813c-20fc2c81df18": {
       "company": "Amazon",
@@ -9954,7 +9976,7 @@
     "simplify:applied materials::simplify-c289fea9-67db-45d8-ab27-d9aa699b67cc": {
       "company": "Applied Materials",
       "first_seen": "2026-10-21T01:37:44+00:00",
-      "last_seen": "2026-10-27T00:03:04+00:00",
+      "last_seen": "2026-10-30T23:03:17+00:00",
       "location": "Santa Clara, CA",
       "posted_at": "1792454400",
       "source": "simplify",
@@ -14272,6 +14294,16 @@
       "source": "simplify",
       "title": "Full Stack AI Engineer",
       "url": "https://jobs.lever.co/brillio-2/3de75f8b-9ddc-4908-b67d-d6e91bafd9e2/apply"
+    },
+    "simplify:bristol myers squibb::simplify-fc31f420-a553-440f-b4e2-14bf2e7fdf26": {
+      "company": "Bristol Myers Squibb",
+      "first_seen": "2026-10-30T23:03:18+00:00",
+      "last_seen": "2026-10-30T23:03:18+00:00",
+      "location": "New Brunswick, NJ",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "Quality Control Strategy and Science Co-op",
+      "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/New-Brunswick---NJ---US/Quality-Control-Strategy-and-Science-Spring-Co-op_R1608003"
     },
     "simplify:british columbia investment::simplify-095cf7aa-8dee-4685-b19f-2d1df8abaa01": {
       "company": "British Columbia Investment",
@@ -22562,6 +22594,16 @@
       "title": "Software Engineer \u2013 New Grads - Multiple Teams",
       "url": "https://jobs.ashbyhq.com/ellipsislabs/256c2ec2-01c8-4ff6-9ad0-b926fe40472d/application"
     },
+    "simplify:elucid::simplify-663a7c79-649c-400d-b91b-5c791e4bae7e": {
+      "company": "Elucid",
+      "first_seen": "2026-10-30T23:03:18+00:00",
+      "last_seen": "2026-10-30T23:03:18+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1793400164",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://elucid.applytojob.com/apply/6VSEqF73l9/Software-Engineering-Intern-Spring-2027"
+    },
     "simplify:ema::simplify-8a308b93-06a7-472d-a655-a49f2bf19ab1": {
       "company": "Ema",
       "first_seen": "2026-08-18T23:41:59+00:00",
@@ -23962,6 +24004,16 @@
       "source": "simplify",
       "title": "SDK Platform Engineer",
       "url": "https://job-boards.greenhouse.io/faradayfuture/jobs/8036218003"
+    },
+    "simplify:farmers mutual hail::simplify-b8ba8da7-1255-40d8-9d48-6b77d5195454": {
+      "company": "Farmers Mutual Hail",
+      "first_seen": "2026-10-30T23:03:18+00:00",
+      "last_seen": "2026-10-30T23:03:18+00:00",
+      "location": "West Des Moines, IA",
+      "posted_at": "1789145073",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4403596009"
     },
     "simplify:faros ai::simplify-b638e646-a8c7-484b-9b2b-51e2b939e5c6": {
       "company": "Faros AI",
@@ -28857,6 +28909,16 @@
       "source": "simplify",
       "title": "Software Development Intern - AI-Assisted Development",
       "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1"
+    },
+    "simplify:hewlett packard enterprise::simplify-eca74c97-b4a2-47c3-9c47-d2ac8fe296cf": {
+      "company": "Hewlett Packard Enterprise",
+      "first_seen": "2026-10-30T23:03:18+00:00",
+      "last_seen": "2026-10-30T23:03:18+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146"
     },
     "simplify:hewlett packard::simplify-2b9817d0-6f0e-47d5-a557-9594cca9ea27": {
       "company": "Hewlett Packard",
@@ -41912,6 +41974,16 @@
       "posted_at": "1783548518",
       "title": "Front End Developer",
       "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Front-End-Developer-Student_R26_00492"
+    },
+    "simplify:olg::simplify-bc7d4376-6b3f-4e31-8e71-be0610594d48": {
+      "company": "OLG",
+      "first_seen": "2026-10-30T23:03:18+00:00",
+      "last_seen": "2026-10-30T23:03:18+00:00",
+      "location": "Toronto, ON, Canada, Sault Ste. Marie, ON, Canada",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "Front End Developer Student Intern",
+      "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Front-End-Developer-Student_R26_00665"
     },
     "simplify:oligo space::simplify-3985a844-5488-44dd-b1c2-938877e7d062": {
       "company": "Oligo Space",
@@ -61541,6 +61613,16 @@
       "title": "Software Engineer - AI Automation - Internal Tools",
       "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4251267009"
     },
+    "simplify:vsp vision::simplify-046091a9-a6ce-44b7-9a9f-151534102afe": {
+      "company": "VSP Vision",
+      "first_seen": "2026-10-30T23:03:18+00:00",
+      "last_seen": "2026-10-30T23:03:18+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "AI, Agentic & Machine Learning Development Intern - AI, Agentic & Machine Learning Development",
+      "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072"
+    },
     "simplify:vsp vision::simplify-178d0613-9e8b-480c-b35e-f7b89b94e02e": {
       "company": "VSP Vision",
       "duplicate_of": "vanshb03:vsp vision::vanshb03-d3bd142d-32e3-4c0b-adc4-4ce114a210d9",
@@ -62034,7 +62116,7 @@
     "simplify:wellington management::simplify-ac7bfb32-7f0b-4685-a576-98f6e7acd1d9": {
       "company": "Wellington Management",
       "first_seen": "2026-09-16T23:02:47+00:00",
-      "last_seen": "2026-10-01T00:31:31+00:00",
+      "last_seen": "2026-10-30T23:03:17+00:00",
       "location": "Boston, MA",
       "posted_at": "1789516800",
       "source": "simplify",
@@ -73020,5 +73102,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T23:01:46+00:00"
+  "updated_at": "2026-10-30T23:03:49+00:00"
 }
