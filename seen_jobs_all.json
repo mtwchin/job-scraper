@@ -1,5 +1,5 @@
 {
-  "count": 8359,
+  "count": 8360,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -18027,6 +18027,16 @@
       "source": "simplify",
       "title": "Software & Field Technology Intern IS",
       "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167672"
+    },
+    "simplify:clear::simplify-41b6d874-c6e0-42f4-943c-19dd808bc3c0": {
+      "company": "CLEAR",
+      "first_seen": "2026-10-30T09:02:32+00:00",
+      "last_seen": "2026-10-30T09:02:32+00:00",
+      "location": "NYC",
+      "posted_at": "1791382390",
+      "source": "simplify",
+      "title": "Forward Deployed AI Engineer 1",
+      "url": "https://job-boards.greenhouse.io/clear/jobs/8259786"
     },
     "simplify:clear::simplify-f5da9e60-f1f5-407b-baaa-28a9a5ceb024": {
       "company": "CLEAR",
@@ -72586,5 +72596,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T08:33:38+00:00"
+  "updated_at": "2026-10-30T09:02:41+00:00"
 }
