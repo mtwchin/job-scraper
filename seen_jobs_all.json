@@ -1,5 +1,5 @@
 {
-  "count": 8391,
+  "count": 8402,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2074,6 +2074,16 @@
       "source": "",
       "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027",
       "url": "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027"
+    },
+    "amazon::10593902": {
+      "company": "Amazon",
+      "first_seen": "2026-10-30T22:33:51+00:00",
+      "last_seen": "2026-10-30T22:33:51+00:00",
+      "location": "Seattle, Washington, USA",
+      "posted_at": "October 30, 2026",
+      "source": "",
+      "title": "Software Development Engineer (Database) Early Career- 2027 (US)",
+      "url": "https://www.amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -5281,6 +5291,16 @@
       "source": "",
       "title": "Spacecraft Propulsion Systems Engineer I",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8058455003"
+    },
+    "rocket lab::8087292003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-10-30T22:33:13+00:00",
+      "last_seen": "2026-10-30T22:33:13+00:00",
+      "location": "Long Beach, CA",
+      "posted_at": "2026-10-30T18:32:21-04:00",
+      "source": "",
+      "title": "Business Systems Engineer I",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8087292003"
     },
     "salesforce::Missionforce---Associate-Forward-Deployed-Engineer--FDE---Public-Sector_JR333171": {
       "company": "Salesforce",
@@ -9357,7 +9377,7 @@
     "simplify:anthony & sylvan pools::simplify-2528a5bc-3caf-4a25-ad60-01160c7f4a14": {
       "company": "Anthony & Sylvan Pools",
       "first_seen": "2026-10-02T23:06:27+00:00",
-      "last_seen": "2026-10-19T00:01:18+00:00",
+      "last_seen": "2026-10-30T23:01:18+00:00",
       "location": "Warminster Township, PA",
       "posted_at": "1790979577",
       "source": "simplify",
@@ -14446,6 +14466,16 @@
       "posted_at": "1783548906",
       "title": "Software Engineer 1 - Internal Tooling",
       "url": "https://job-boards.greenhouse.io/getbuilt/jobs/4713164005"
+    },
+    "simplify:built technologies::simplify-f96126b1-2518-47bf-8cf3-c60b07118209": {
+      "company": "Built Technologies",
+      "first_seen": "2026-10-30T23:01:18+00:00",
+      "last_seen": "2026-10-30T23:01:18+00:00",
+      "location": "Nashville, TN",
+      "posted_at": "1793388725",
+      "source": "simplify",
+      "title": "Innovation Software Engineer 1 - Marketplace",
+      "url": "https://job-boards.greenhouse.io/getbuilt/jobs/4749545005"
     },
     "simplify:burns engineering::simplify-a56c3be4-35d8-45ca-a8f7-c98206f9e105": {
       "company": "Burns Engineering",
@@ -31258,6 +31288,16 @@
       "title": "Machine Learning Associate",
       "url": "https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--FL--Remote/Machine-Learning-Associate_J0107736"
     },
+    "simplify:isembard::simplify-db2e73d9-53a4-44ad-8d27-d8c6bc00acd8": {
+      "company": "Isembard",
+      "first_seen": "2026-10-30T23:01:18+00:00",
+      "last_seen": "2026-10-30T23:01:18+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/isembard/c676e261-3792-4564-96f7-934a696fc104/application?embed=true"
+    },
     "simplify:isn software::simplify-ea13638b-ec59-42b9-8392-35986da2c5ac": {
       "company": "ISN Software",
       "first_seen": "2026-09-01T09:52:41+00:00",
@@ -39260,6 +39300,16 @@
       "title": "Software Engineer Intern - BCI Applications",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003"
     },
+    "simplify:neutreeno::simplify-884fbb6d-915c-4987-b2e4-4c384413b11e": {
+      "company": "Neutreeno",
+      "first_seen": "2026-10-30T23:01:18+00:00",
+      "last_seen": "2026-10-30T23:01:18+00:00",
+      "location": "Cambridge, UK, Remote in UK",
+      "posted_at": "1793399388",
+      "source": "simplify",
+      "title": "Carbon Analysis Engineer",
+      "url": "https://apply.workable.com/neutreeno-1/j/FD929624D0/apply"
+    },
     "simplify:new york iso::simplify-461ac8b2-4b9a-4a97-825c-f6dfc0624d58": {
       "company": "New York ISO",
       "first_seen": "2026-10-30T06:33:11+00:00",
@@ -39605,6 +39655,16 @@
       "source": "simplify",
       "title": "Watershed & Land Management Intern",
       "url": "https://njdepartmentofenvironmentalprotection.applytojob.com/apply/vPwbyhmsxt/Watershed-Land-Management-Intern-WLM20265i"
+    },
+    "simplify:noble machines::simplify-d202bcd8-184c-4654-b894-1e739072df81": {
+      "company": "Noble Machines",
+      "first_seen": "2026-10-30T23:01:18+00:00",
+      "last_seen": "2026-10-30T23:01:18+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1788891685",
+      "source": "simplify",
+      "title": "Robotics Software Engineer",
+      "url": "https://job-boards.greenhouse.io/undercontrolroboticsinc/jobs/4396196009"
     },
     "simplify:noblis::simplify-0243fda8-ee44-49ba-b33f-d9bd2da4261a": {
       "company": "Noblis",
@@ -51113,6 +51173,16 @@
       "title": "Software Engineer New Grad - AI/ML",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157900224"
     },
+    "simplify:servicetitan::simplify-fa428a84-cc4e-4bd1-a258-d20af2ff146c": {
+      "company": "ServiceTitan",
+      "first_seen": "2026-10-30T23:01:18+00:00",
+      "last_seen": "2026-10-30T23:01:18+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "AI Engineer",
+      "url": "https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/AI-Engineer_JR116391"
+    },
     "simplify:set of x::simplify-17be086b-1987-4060-8151-25af9f96e55f": {
       "company": "Set of X",
       "first_seen": "2026-08-03T08:03:11+00:00",
@@ -53265,6 +53335,26 @@
       "title": "Imaging Tech Student",
       "url": "https://careers-hhsys.icims.com/jobs/71368/job?mobile=true&needsRedirect=false"
     },
+    "simplify:star mountain capital::simplify-88626003-5148-4ff0-8428-cc07f115c496": {
+      "company": "Star Mountain Capital",
+      "first_seen": "2026-10-30T23:01:18+00:00",
+      "last_seen": "2026-10-30T23:01:18+00:00",
+      "location": "Tampa, FL, NYC",
+      "posted_at": "1790800600",
+      "source": "simplify",
+      "title": "Portfolio Operations Engineer",
+      "url": "https://job-boards.greenhouse.io/starmountaincapital/jobs/4426665009"
+    },
+    "simplify:star mountain capital::simplify-eaab2022-45c5-4c78-8700-af628ab2c858": {
+      "company": "Star Mountain Capital",
+      "first_seen": "2026-10-30T23:01:18+00:00",
+      "last_seen": "2026-10-30T23:01:18+00:00",
+      "location": "Tampa, FL, NYC",
+      "posted_at": "1792850368",
+      "source": "simplify",
+      "title": "Financial Systems Engineer",
+      "url": "https://job-boards.greenhouse.io/starmountaincapital/jobs/4466686009"
+    },
     "simplify:starbucks::simplify-10282be3-6654-440b-8bd2-74329d579fb0": {
       "company": "Starbucks",
       "first_seen": "2026-09-16T04:16:17+00:00",
@@ -54026,6 +54116,16 @@
       "posted_at": "1788561674",
       "title": "Software Engineer Intern - Platform",
       "url": "https://jobs.ashbyhq.com/super.com/29751d58-eacc-4b5a-8e9d-e59cb7a595c7/application?embed=true"
+    },
+    "simplify:superapp::simplify-4c4a65e7-1bd3-4404-96f6-9c585d5fc314": {
+      "company": "SuperApp",
+      "first_seen": "2026-10-30T23:01:18+00:00",
+      "last_seen": "2026-10-30T23:01:18+00:00",
+      "location": "SF",
+      "posted_at": "1789566119",
+      "source": "simplify",
+      "title": "Software Engineer - Early Careers",
+      "url": "https://job-boards.greenhouse.io/superapp/jobs/8813982002"
     },
     "simplify:superhuman::simplify-18052ece-e9bc-41d6-bcd9-f20ab241dcc2": {
       "company": "Superhuman",
@@ -56298,6 +56398,16 @@
       "source": "simplify",
       "title": "Software Systems Engineer Intern - Acquisition",
       "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Systems-Engineer-and-Acquisition-Intern_R016431"
+    },
+    "simplify:the aerospace corporation::simplify-733d0c96-62a2-4faf-b1ee-3b7c6e7e9752": {
+      "company": "The Aerospace Corporation",
+      "first_seen": "2026-10-30T23:01:18+00:00",
+      "last_seen": "2026-10-30T23:01:18+00:00",
+      "location": "Chantilly, VA",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "Software Integration Engineer New Grad",
+      "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/IC-2027-Software-Integration-Engineer_R017007"
     },
     "simplify:the aerospace corporation::simplify-8c93ba5d-c961-40fd-96f0-71e8be7211de": {
       "company": "The Aerospace Corporation",
@@ -72910,5 +73020,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T22:33:43+00:00"
+  "updated_at": "2026-10-30T23:01:46+00:00"
 }
