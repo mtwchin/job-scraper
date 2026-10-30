@@ -1,5 +1,5 @@
 {
-  "count": 8360,
+  "count": 8363,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -25615,6 +25615,16 @@
       "title": "Grid Automation & Software Intern",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709"
     },
+    "simplify:ge vernova::simplify-de3bf8f9-526d-453d-9e6a-42166acd7a86": {
+      "company": "GE Vernova",
+      "first_seen": "2026-10-30T14:31:52+00:00",
+      "last_seen": "2026-10-30T14:31:52+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Software-Engineering-Intern_R5057006-2"
+    },
     "simplify:ge vernova::simplify-e10b2cda-4d20-4210-83d8-f845503f8fb6": {
       "company": "GE Vernova",
       "first_seen": "2026-09-30T12:08:11+00:00",
@@ -25689,6 +25699,16 @@
       "posted_at": "1787097600",
       "title": "Application Engineer Co-op/Intern - PCS",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Findlay-Township/PCS-Application-Engineering-Co-Op-Intern---Summer-2027_R5050417-1"
+    },
+    "simplify:gearset::simplify-86891032-3a4b-437d-865a-bff2958f4d90": {
+      "company": "Gearset",
+      "first_seen": "2026-10-30T14:31:52+00:00",
+      "last_seen": "2026-10-30T14:31:52+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f/application?embed=true"
     },
     "simplify:gearset::simplify-88c5bdf1-0566-486c-9ce9-71492610af86": {
       "company": "Gearset",
@@ -44847,6 +44867,16 @@
       "source": "simplify",
       "title": "GenAI and Digital Workplace Intern",
       "url": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003"
+    },
+    "simplify:ptc::simplify-b1c85b2f-82a7-405f-be5e-b91959b2f8aa": {
+      "company": "PTC",
+      "first_seen": "2026-10-30T14:31:52+00:00",
+      "last_seen": "2026-10-30T14:31:52+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998"
     },
     "simplify:ptc::simplify-bc73e138-3099-4018-8af3-33f851c19b72": {
       "company": "PTC",
@@ -72596,5 +72626,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T12:13:50+00:00"
+  "updated_at": "2026-10-30T14:31:55+00:00"
 }
