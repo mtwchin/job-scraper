@@ -1,5 +1,5 @@
 {
-  "count": 8376,
+  "count": 8381,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -12870,6 +12870,16 @@
       "posted_at": "1779487451",
       "title": "Software Engineer",
       "url": "https://careers-blackhawknetwork.icims.com/jobs/26610/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:blackline::simplify-73292424-f766-4523-9adf-574b6dcc5a53": {
+      "company": "BlackLine",
+      "first_seen": "2026-10-30T22:32:18+00:00",
+      "last_seen": "2026-10-30T22:32:18+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://blackline.wd108.myworkdayjobs.com/BlackLineCareers/job/Toronto/Associate-Software-Engineer_002014"
     },
     "simplify:blackrock::simplify-3ff68a8b-40ab-45bd-b4df-3de7fc5eab51": {
       "company": "BlackRock",
@@ -30474,6 +30484,16 @@
       "title": "AI and Compiler Engineering Graduate Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850"
     },
+    "simplify:intel::simplify-07e8db57-fe7c-4076-83fc-01a3b6f9b55b": {
+      "company": "Intel",
+      "first_seen": "2026-10-30T22:32:06+00:00",
+      "last_seen": "2026-10-30T22:32:06+00:00",
+      "location": "Hillsboro, OR, Phoenix, AZ",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "Software Application Development Engineer New Grad",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523"
+    },
     "simplify:intel::simplify-0f0efd25-01fa-419b-9d3a-916d06967722": {
       "company": "Intel",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -37946,6 +37966,16 @@
       "posted_at": "1786665600",
       "title": "Software Engineer",
       "url": "https://mii.wd5.myworkdayjobs.com/MiTek/job/Greenwood-Village-CO-USA/Software-Engineer_R06590-1"
+    },
+    "simplify:mitel networks::simplify-0405cce9-0d25-4dd2-b6ef-9cfe7bb03f89": {
+      "company": "Mitel Networks",
+      "first_seen": "2026-10-30T22:32:18+00:00",
+      "last_seen": "2026-10-30T22:32:18+00:00",
+      "location": "Ottawa, ON, Canada",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "Junior Full Stack Web Developer",
+      "url": "https://mitel.wd3.myworkdayjobs.com/mitelcareers/job/Ottawa/Junior-Full-Stack-Web-Developer_R013211"
     },
     "simplify:mitratech::simplify-2abdeb2f-c08f-453f-bcf4-452c264696d6": {
       "company": "Mitratech",
@@ -47055,6 +47085,16 @@
       "title": "Software Developer Intern",
       "url": "https://boards.greenhouse.io/robinhood/jobs/8199744"
     },
+    "simplify:roblox::simplify-487d6bab-a6f6-4568-915e-7058332e43c8": {
+      "company": "Roblox",
+      "first_seen": "2026-10-30T22:32:06+00:00",
+      "last_seen": "2026-10-30T22:32:06+00:00",
+      "location": "San Mateo, CA",
+      "posted_at": "1793376257",
+      "source": "simplify",
+      "title": "Senior Software Engineer \u2013 Data Acquisition PhD Early Career",
+      "url": "https://careers.roblox.com/jobs/8315883?gh_jid=8315883"
+    },
     "simplify:roblox::simplify-bed7436e-6c48-4818-a11a-c314cfbf6574": {
       "company": "Roblox",
       "first_seen": "2026-08-05T23:33:56+00:00",
@@ -49453,6 +49493,16 @@
       "posted_at": "1788825600",
       "title": "Software Engineer 1 - Advanced Products and Solutions",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/EOIR-Advanced-Products-and-Solutions--Software-Engineer-I--Onsite-_01872528"
+    },
+    "simplify:rtx::simplify-d379f70f-2ee0-4561-bd8e-ee5d4795e25c": {
+      "company": "RTX",
+      "first_seen": "2026-10-30T22:32:18+00:00",
+      "last_seen": "2026-10-30T22:32:18+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "Entry-Level Software Developer - Application Support & Sustainment",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356"
     },
     "simplify:rtx::simplify-d43122fd-1543-4f5c-b6de-ecd3c255484d": {
       "company": "RTX",
@@ -72756,5 +72806,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T21:38:37+00:00"
+  "updated_at": "2026-10-30T22:32:41+00:00"
 }
