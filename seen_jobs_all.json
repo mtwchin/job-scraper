@@ -1,5 +1,5 @@
 {
-  "count": 8350,
+  "count": 8358,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -12740,6 +12740,36 @@
       "title": "Associate AI Engineer",
       "url": "https://apply.workable.com/bipventures/j/75C9D6B9AF/apply"
     },
+    "simplify:bitgo::simplify-420f0029-3727-4af7-b7d6-abd18e9b2b24": {
+      "company": "BitGo",
+      "first_seen": "2026-10-30T06:33:11+00:00",
+      "last_seen": "2026-10-30T06:33:11+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1788477885",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Prime Trade",
+      "url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002"
+    },
+    "simplify:bitgo::simplify-84065c1e-ebdb-4e61-a553-324a104b2127": {
+      "company": "BitGo",
+      "first_seen": "2026-10-30T06:33:11+00:00",
+      "last_seen": "2026-10-30T06:33:11+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1788477804",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Settlement Systems/Go Network",
+      "url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002"
+    },
+    "simplify:bitgo::simplify-9b812413-6cc7-43e6-9c5e-1879a00f8abb": {
+      "company": "BitGo",
+      "first_seen": "2026-10-30T06:33:11+00:00",
+      "last_seen": "2026-10-30T06:33:11+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1788540458",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Custody",
+      "url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8783312002"
+    },
     "simplify:bitmovin::simplify-e106eaa4-9eac-44cc-9457-887140222d04": {
       "company": "Bitmovin",
       "first_seen": "2026-09-17T23:03:17+00:00",
@@ -23636,6 +23666,16 @@
       "posted_at": "1787949664",
       "title": "Application & Support Engineer",
       "url": "https://expleo-jobs-gb-en.icims.com/jobs/55734/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:f&g::simplify-9cb3446e-3c82-4d8d-b018-8c325d2f08b3": {
+      "company": "F&G",
+      "first_seen": "2026-10-30T06:33:11+00:00",
+      "last_seen": "2026-10-30T06:33:11+00:00",
+      "location": "Des Moines, IA",
+      "posted_at": "1789491512",
+      "source": "simplify",
+      "title": "IT Software Engineer Intern - Summer",
+      "url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003"
     },
     "simplify:f5::simplify-04bd8248-d247-409c-a059-4abf49ba2622": {
       "company": "F5",
@@ -38824,6 +38864,16 @@
       "title": "Feature Technical Direction Intern",
       "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153538044"
     },
+    "simplify:ncino::simplify-b5646bd6-fe0f-4ecd-9059-5522d8fa320e": {
+      "company": "Ncino",
+      "first_seen": "2026-10-30T06:33:11+00:00",
+      "last_seen": "2026-10-30T06:33:11+00:00",
+      "location": "Lehi, UT",
+      "posted_at": "1790789205",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009"
+    },
     "simplify:ncr voyix::simplify-09c0d678-51ef-4e83-a6cd-30b5148869f4": {
       "company": "NCR Voyix",
       "first_seen": "2026-08-29T09:24:34+00:00",
@@ -39077,6 +39127,16 @@
       "posted_at": "1764533170",
       "title": "Software Engineer Intern - BCI Applications",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003"
+    },
+    "simplify:new york iso::simplify-461ac8b2-4b9a-4a97-825c-f6dfc0624d58": {
+      "company": "New York ISO",
+      "first_seen": "2026-10-30T06:33:11+00:00",
+      "last_seen": "2026-10-30T06:33:11+00:00",
+      "location": "Rensselaer, NY",
+      "posted_at": "1789482337",
+      "source": "simplify",
+      "title": "Information Technology Software Development Intern",
+      "url": "https://job-boards.greenhouse.io/nyisointernships/jobs/5236084007"
     },
     "simplify:newell brands::simplify-00dea79d-a99b-4b51-9373-02b22d16cba2": {
       "company": "Newell Brands",
@@ -48259,6 +48319,7 @@
     "simplify:rtx::simplify-44a036f1-8b46-4596-939b-e10b3f0e8761": {
       "company": "RTX",
       "first_seen": "2026-08-15T01:54:44+00:00",
+      "last_seen": "2026-10-30T06:33:11+00:00",
       "posted_at": "1786665600",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129"
@@ -68614,6 +68675,16 @@
       "title": "Software Engineering Intern, AI Agents & Backend Infrastructure",
       "url": "https://go.vansh.nyc/Vv"
     },
+    "vanshb03:nvidia::vanshb03-86269d27-e8ef-4462-afc0-e0d487011313": {
+      "company": "NVIDIA",
+      "first_seen": "2026-10-30T03:07:51+00:00",
+      "last_seen": "2026-10-30T03:07:51+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1793329555",
+      "source": "vanshb03",
+      "title": "AI Systems Software Engineering Intern",
+      "url": "https://go.vansh.nyc/10o"
+    },
     "vanshb03:nvidia::vanshb03-8e13a875-b5b1-46d1-ada8-cdc1dfa8b485": {
       "company": "NVIDIA",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -68634,6 +68705,16 @@
       "source": "vanshb03",
       "title": "New Grad 2027: SoC Software Engineer",
       "url": "https://go.vansh.nyc/Df"
+    },
+    "vanshb03:nvidia::vanshb03-f4e4d984-265b-453b-9621-04c3bd6c1464": {
+      "company": "NVIDIA",
+      "first_seen": "2026-10-30T03:07:51+00:00",
+      "last_seen": "2026-10-30T03:07:51+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1793329555",
+      "source": "vanshb03",
+      "title": "Compiler Software Engineering Intern",
+      "url": "https://go.vansh.nyc/10p"
     },
     "vanshb03:oceaneering::vanshb03-545036a7-5741-4ae1-bda9-b1c2d6cadec8": {
       "company": "Oceaneering",
@@ -72494,5 +72575,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T02:14:17+00:00"
+  "updated_at": "2026-10-30T06:33:24+00:00"
 }
