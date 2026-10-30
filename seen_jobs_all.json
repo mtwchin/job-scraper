@@ -1,5 +1,5 @@
 {
-  "count": 8372,
+  "count": 8374,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2408,6 +2408,16 @@
       "source": "",
       "title": "Associate, Software Engineer - SMA Solutions",
       "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/Chicago-IL/Associate--Software-Engineer---SMA-Solutions_R266216"
+    },
+    "blackrock::Java-Developer--Software-Engineering--Associate--Regulatory-Reporting_R267007": {
+      "company": "Blackrock",
+      "first_seen": "2026-10-30T19:32:59+00:00",
+      "last_seen": "2026-10-30T19:32:59+00:00",
+      "location": "NY7 - 50 Hudson Yards, New York",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Java Developer, Software Engineering, Associate\u2013 Regulatory Reporting",
+      "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/NY7---50-Hudson-Yards-New-York/Java-Developer--Software-Engineering--Associate--Regulatory-Reporting_R267007"
     },
     "blue origin::Aerospace-Systems-Engineer-I---Early-Career--2026-Starts-_R70050": {
       "company": "Blue Origin",
@@ -66247,6 +66257,16 @@
       "title": "New Grad 2027: Software Engineer I",
       "url": "https://go.vansh.nyc/Nh"
     },
+    "vanshb03:dow jones::vanshb03-1e2ea7ba-a6ec-49a0-83cf-8d27b929e1c0": {
+      "company": "Dow Jones",
+      "first_seen": "2026-10-30T19:39:17+00:00",
+      "last_seen": "2026-10-30T19:39:17+00:00",
+      "location": "New York, NY",
+      "posted_at": "1793387697",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/10X"
+    },
     "vanshb03:drs::vanshb03-50dbfbb6-86b3-4d28-8be4-8a699807d614": {
       "company": "DRS",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -72716,5 +72736,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T18:44:22+00:00"
+  "updated_at": "2026-10-30T19:39:31+00:00"
 }
