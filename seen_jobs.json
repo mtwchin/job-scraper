@@ -1,5 +1,5 @@
 {
-  "count": 7663,
+  "count": 7665,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -61770,6 +61770,16 @@
       "title": "Software Engineering Intern, AI Agents & Backend Infrastructure",
       "url": "https://go.vansh.nyc/Vv"
     },
+    "vanshb03:nvidia::vanshb03-86269d27-e8ef-4462-afc0-e0d487011313": {
+      "company": "NVIDIA",
+      "first_seen": "2026-10-30T03:07:51+00:00",
+      "last_seen": "2026-10-30T03:07:51+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1793329555",
+      "source": "vanshb03",
+      "title": "AI Systems Software Engineering Intern",
+      "url": "https://go.vansh.nyc/10o"
+    },
     "vanshb03:nvidia::vanshb03-8e13a875-b5b1-46d1-ada8-cdc1dfa8b485": {
       "company": "NVIDIA",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -61790,6 +61800,16 @@
       "source": "vanshb03",
       "title": "New Grad 2027: SoC Software Engineer",
       "url": "https://go.vansh.nyc/Df"
+    },
+    "vanshb03:nvidia::vanshb03-f4e4d984-265b-453b-9621-04c3bd6c1464": {
+      "company": "NVIDIA",
+      "first_seen": "2026-10-30T03:07:51+00:00",
+      "last_seen": "2026-10-30T03:07:51+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1793329555",
+      "source": "vanshb03",
+      "title": "Compiler Software Engineering Intern",
+      "url": "https://go.vansh.nyc/10p"
     },
     "vanshb03:okta::vanshb03-e0a4bc37-7764-4733-b331-b45878eced60": {
       "company": "Okta",
@@ -64671,5 +64691,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T00:24:31+00:00"
+  "updated_at": "2026-10-30T03:08:35+00:00"
 }
