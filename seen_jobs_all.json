@@ -1,5 +1,5 @@
 {
-  "count": 8381,
+  "count": 8391,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -14117,6 +14117,18 @@
       "title": "AI Prototyping Engineer",
       "url": "https://apply.workable.com/brady-martz/j/39C6A58F26/apply"
     },
+    "simplify:brain co.::simplify-3336f385-0b66-4e71-af69-42c243613d83": {
+      "company": "Brain Co.",
+      "duplicate_of": "vanshb03:brain co.::vanshb03-3b8780e7-d461-49ef-a8c1-267ab7f97c8f",
+      "first_seen": "2026-10-30T22:33:18+00:00",
+      "last_seen": "2026-10-30T22:33:18+00:00",
+      "location": "SF",
+      "posted_at": "1789171200",
+      "seeded": true,
+      "source": "simplify",
+      "title": "AI Platform Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/brainco/2db4339e-79c8-4e97-9c94-92753b49e20a/application?embed=true"
+    },
     "simplify:brain co.::simplify-7654bad4-ebff-466a-bd2d-63a5d167ba11": {
       "company": "Brain Co.",
       "first_seen": "2026-10-21T01:37:44+00:00",
@@ -14126,6 +14138,16 @@
       "source": "simplify",
       "title": "AI Product Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/brainco/c1788246-305f-4e4f-8b03-8444c76a466e/application?embed=true"
+    },
+    "simplify:brain co.::simplify-772bc79c-99f8-434b-b3f8-c449513885d4": {
+      "company": "Brain Co.",
+      "first_seen": "2026-10-30T22:33:18+00:00",
+      "last_seen": "2026-10-30T22:33:18+00:00",
+      "location": "SF",
+      "posted_at": "1789171200",
+      "source": "simplify",
+      "title": "AI Product Intern",
+      "url": "https://jobs.ashbyhq.com/brainco/28c6cd2f-b609-4ca6-a2f6-adfa3d679d0b/application?embed=true"
     },
     "simplify:brain co.::simplify-96705002-95d7-4a17-8292-87bbaea60a95": {
       "company": "Brain Co.",
@@ -16617,6 +16639,16 @@
       "posted_at": "1779529203",
       "title": "Mobile Application Developer - Service Technician",
       "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAGAO-Carrier-Home-Georgia-Remote-Location-Remote-City-GA-30303-USA/Mobile-Application-Developer---Service-Technician_30205642"
+    },
+    "simplify:cartesian systems::simplify-f35a1a77-7e03-4826-be20-c1f9add78d6f": {
+      "company": "Cartesian Systems",
+      "first_seen": "2026-10-30T22:33:18+00:00",
+      "last_seen": "2026-10-30T22:33:18+00:00",
+      "location": "Cambridge, MA",
+      "posted_at": "1789569924",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009"
     },
     "simplify:carvana::simplify-8135261f-ace0-4f34-9e6a-7a979e430526": {
       "company": "Carvana",
@@ -31316,6 +31348,16 @@
       "title": "AI/ML Software Engineer",
       "url": "https://www.itradenetwork.com/jobs/5290252008?gh_jid=5290252008"
     },
+    "simplify:itron::simplify-13f44310-92f3-43a5-bc53-fd9a9ef15ca8": {
+      "company": "Itron",
+      "first_seen": "2026-10-30T22:33:18+00:00",
+      "last_seen": "2026-10-30T22:33:18+00:00",
+      "location": "West Union, SC",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "Systems Engineer Intern",
+      "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-1"
+    },
     "simplify:its logistics::simplify-3bc8bc1a-f3ec-402a-8552-c643b8acad58": {
       "company": "ITS Logistics",
       "first_seen": "2026-08-04T23:42:34+00:00",
@@ -40303,7 +40345,7 @@
     "simplify:northrop grumman::simplify-68f77e24-7325-4a04-9e6f-048e16a551a1": {
       "company": "Northrop Grumman",
       "first_seen": "2026-09-03T08:16:51+00:00",
-      "last_seen": "2026-10-26T00:02:14+00:00",
+      "last_seen": "2026-10-30T22:33:18+00:00",
       "posted_at": "1788307200",
       "title": "Software Engineer Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"
@@ -41655,6 +41697,16 @@
       "posted_at": "1769729967",
       "title": "AI-First Software Engineer \u2013 Entry Level",
       "url": "https://nymbus.com/careers?gh_jid=5785973004"
+    },
+    "simplify:obsidian entertainment::simplify-cafb9ee2-6d84-4473-b7f3-b464596c8c17": {
+      "company": "Obsidian Entertainment",
+      "first_seen": "2026-10-30T22:33:18+00:00",
+      "last_seen": "2026-10-30T22:33:18+00:00",
+      "location": "Irvine, CA",
+      "posted_at": "1793398023",
+      "source": "simplify",
+      "title": "Gameplay Engineer Intern",
+      "url": "https://obsidian.applytojob.com/apply/zxhj1ePGcR/Gameplay-Engineer-2027-Summer-Internship"
     },
     "simplify:obsidian solutions group::simplify-ee1bc7a8-d82f-4c73-8228-18ce9b38d4b0": {
       "company": "Obsidian Solutions Group",
@@ -44862,6 +44914,16 @@
       "title": "Backend / Frontend Developer Intern",
       "url": "https://prospectequities.applytojob.com/apply/XTbzSAcNtg/Backend-Frontend-Developer-Intern"
     },
+    "simplify:protagonist::simplify-871b6c2e-2fc6-4cd0-a15a-f6678513e85c": {
+      "company": "Protagonist",
+      "first_seen": "2026-10-30T22:33:18+00:00",
+      "last_seen": "2026-10-30T22:33:18+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1793135605",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/protagonist/jobs/6236620004"
+    },
     "simplify:protech group::simplify-7cb90b67-c1af-4e1f-a9a9-e50dc88da299": {
       "company": "Protech Group",
       "first_seen": "2026-09-12T01:07:02+00:00",
@@ -46515,6 +46577,16 @@
       "title": "Full-Stack AI Developer Intern",
       "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044782-1"
     },
+    "simplify:revvity::simplify-517d70ad-eccf-44be-962c-c6a788b7586f": {
+      "company": "Revvity",
+      "first_seen": "2026-10-30T22:33:18+00:00",
+      "last_seen": "2026-10-30T22:33:18+00:00",
+      "location": "Ontario, Canada",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "Full-stack AI Developer Intern",
+      "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-stack-AI-Developer-Intern_JR-045792"
+    },
     "simplify:revvity::simplify-599919c9-248d-495b-a106-81088707bc82": {
       "company": "Revvity",
       "first_seen": "2026-07-15T22:38:49+00:00",
@@ -47740,7 +47812,7 @@
     "simplify:royal bank of canada::simplify-95c4cff1-400b-4054-ab5a-96b8ea6662dd": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-10-06T23:07:28+00:00",
-      "last_seen": "2026-10-15T00:00:13+00:00",
+      "last_seen": "2026-10-30T22:33:18+00:00",
       "location": "Raleigh, NC",
       "posted_at": "1791244800",
       "source": "simplify",
@@ -52253,6 +52325,16 @@
       "title": "Software Engineer Associate",
       "url": "https://sonyglobal.wd1.myworkdayjobs.com/Sony_Europe_Careers/job/Basingstoke/Associate-Software-Engineer_JR-119414-1"
     },
+    "simplify:sophinea::simplify-1556f336-95fd-4c5e-bced-3da0d5e2cb99": {
+      "company": "Sophinea",
+      "first_seen": "2026-10-30T22:33:18+00:00",
+      "last_seen": "2026-10-30T22:33:18+00:00",
+      "location": "Manassas, VA",
+      "posted_at": "1793398847",
+      "source": "simplify",
+      "title": "Mobile App Developer Intern",
+      "url": "https://apply.workable.com/sophinea/j/B392177653/apply"
+    },
     "simplify:sophos::simplify-382edd59-362c-4067-97e0-f333684dab49": {
       "company": "Sophos",
       "first_seen": "2026-08-21T20:37:46+00:00",
@@ -56682,6 +56764,16 @@
       "posted_at": "1776895626",
       "title": "iOS Engineer",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4680153005"
+    },
+    "simplify:the new york times::simplify-6853cf9e-5cf2-46aa-a033-d2ec5a07823c": {
+      "company": "The New York Times",
+      "first_seen": "2026-10-30T22:33:18+00:00",
+      "last_seen": "2026-10-30T22:33:18+00:00",
+      "location": "NYC",
+      "posted_at": "1793386927",
+      "source": "simplify",
+      "title": "Backend Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4748483005"
     },
     "simplify:the new york times::simplify-68674c8e-c435-47e4-b0cb-9625d7e71081": {
       "company": "The New York Times",
@@ -62277,6 +62369,18 @@
       "posted_at": "1765387587",
       "title": "Software Engineering Intern",
       "url": "https://careers.westinghousenuclear.com/job/Shoreview-Software-Engineering-Intern-Summer-2026-MN-55126/1348239000/"
+    },
+    "simplify:wex::simplify-29a95b15-0c3d-48df-b7cf-6a72e17df163": {
+      "company": "Wex",
+      "duplicate_of": "vanshb03:wex::vanshb03-41d2d47b-d430-4db6-aaba-de1b9e5e6f1e",
+      "first_seen": "2026-10-30T22:33:18+00:00",
+      "last_seen": "2026-10-30T22:33:18+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1793318400",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern_R22585"
     },
     "simplify:wex::simplify-3f5cab3c-532c-4b28-ab03-48e5cd935bb0": {
       "company": "Wex",
@@ -72806,5 +72910,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T22:32:41+00:00"
+  "updated_at": "2026-10-30T22:33:43+00:00"
 }
