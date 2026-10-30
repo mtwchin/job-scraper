@@ -1,5 +1,5 @@
 {
-  "count": 8358,
+  "count": 8359,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -60593,6 +60593,16 @@
       "title": "Call Routing Optimization Engineering Intern",
       "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394"
     },
+    "simplify:verizon communications::simplify-23eb3ce6-e1fc-472c-a546-e4b2a19212cd": {
+      "company": "Verizon Communications",
+      "first_seen": "2026-10-30T07:02:04+00:00",
+      "last_seen": "2026-10-30T07:02:04+00:00",
+      "location": "Temple Terrace, FL",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "Engineer 1 - Systems Engineering (Generative AI & Agentic Systems)",
+      "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Temple-Terrace-Florida/Engineer-I-Systems-Engineering_R-1103177-1"
+    },
     "simplify:verkada::simplify-1b2a515c-420c-4739-90eb-0ca8c93613b4": {
       "company": "Verkada",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -72575,5 +72585,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T06:43:30+00:00"
+  "updated_at": "2026-10-30T07:02:33+00:00"
 }
