@@ -1,5 +1,5 @@
 {
-  "count": 7665,
+  "count": 7666,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1290,6 +1290,16 @@
       "source": "",
       "title": "Jr. Software Development Engineer - Detroit, MI, Jr. Developer Program",
       "url": "https://www.amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program"
+    },
+    "amazon::10593521": {
+      "company": "Amazon",
+      "first_seen": "2026-10-30T15:29:21+00:00",
+      "last_seen": "2026-10-30T15:29:21+00:00",
+      "location": "Seattle, Washington, USA",
+      "posted_at": "October 30, 2026",
+      "source": "",
+      "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -64691,5 +64701,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-30T08:25:38+00:00"
+  "updated_at": "2026-10-30T15:29:50+00:00"
 }
