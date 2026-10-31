@@ -1,5 +1,5 @@
 {
-  "count": 8428,
+  "count": 8431,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -39341,6 +39341,16 @@
       "title": "Member of Technical Staff Intern",
       "url": "https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866"
     },
+    "simplify:neptune north::simplify-c5025403-6265-427a-a5b9-7633280c5bce": {
+      "company": "Neptune North",
+      "first_seen": "2026-10-31T07:01:54+00:00",
+      "last_seen": "2026-10-31T07:01:54+00:00",
+      "location": "Newcastle upon Tyne, UK",
+      "posted_at": "1777037659",
+      "source": "simplify",
+      "title": "Graduate Software Developer",
+      "url": "https://job-boards.eu.greenhouse.io/neptunenorth/jobs/4847890101"
+    },
     "simplify:nerdio::simplify-5f62b02a-d87f-4a82-9762-6fdf7588a8f1": {
       "company": "Nerdio",
       "first_seen": "2026-09-12T16:13:15+00:00",
@@ -43929,6 +43939,16 @@
       "title": "Web Architect",
       "url": "https://careers-peraton.icims.com/jobs/168482/job?mobile=true&needsRedirect=false"
     },
+    "simplify:peraton::simplify-3044c216-bdf5-4c91-af38-8b4b2030d9bb": {
+      "company": "Peraton",
+      "first_seen": "2026-10-31T07:01:54+00:00",
+      "last_seen": "2026-10-31T07:01:54+00:00",
+      "location": "United States",
+      "posted_at": "1787241660",
+      "source": "simplify",
+      "title": "COBOL Software Developer",
+      "url": "https://peraton.jibeapply.com/jobs/169891?icims=1"
+    },
     "simplify:peraton::simplify-3e18b0f3-e8d6-4b60-b92d-963abebca45b": {
       "company": "Peraton",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -44050,6 +44070,16 @@
       "source": "simplify",
       "title": "Software Engineering Co-op",
       "url": "https://careers-peraton.icims.com/jobs/171547/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:peraton::simplify-f3ee621a-d5b2-460b-9930-e8995ffc0b3f": {
+      "company": "Peraton",
+      "first_seen": "2026-10-31T07:01:54+00:00",
+      "last_seen": "2026-10-31T07:01:54+00:00",
+      "location": "Blacksburg, VA, Herndon, VA",
+      "posted_at": "1788962160",
+      "source": "simplify",
+      "title": "Software Engineer - Ignite Innovator Program",
+      "url": "https://peraton.jibeapply.com/jobs/169664?icims=1"
     },
     "simplify:peraton::simplify-fe6bef22-123f-4be3-bc91-d205cf1b4c6e": {
       "company": "Peraton",
@@ -73286,5 +73316,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-31T06:32:58+00:00"
+  "updated_at": "2026-10-31T07:02:01+00:00"
 }
