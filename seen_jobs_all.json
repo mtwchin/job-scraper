@@ -1,5 +1,5 @@
 {
-  "count": 8443,
+  "count": 8445,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -41101,6 +41101,18 @@
       "title": "Software Engineering Intern",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080"
     },
+    "simplify:northrop grumman::simplify-dc6e6af1-c573-4952-aef5-9791f94fcd44": {
+      "company": "Northrop Grumman",
+      "duplicate_of": "simplify:northrop grumman::simplify-90c10d80-558b-4325-9b3e-e883b3db1a7d",
+      "first_seen": "2026-10-31T13:32:11+00:00",
+      "last_seen": "2026-10-31T13:32:11+00:00",
+      "location": "Hollywood, MD",
+      "posted_at": "1793404800",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018"
+    },
     "simplify:northrop grumman::simplify-dd78d693-5a46-4ccf-8fec-2c46920e2d0d": {
       "company": "Northrop Grumman",
       "first_seen": "2026-10-27T14:31:28+00:00",
@@ -69522,6 +69534,16 @@
       "title": "Software Engineering Intern, AI Agents & Backend Infrastructure",
       "url": "https://go.vansh.nyc/Vv"
     },
+    "vanshb03:nvidia::vanshb03-0d271a3e-2bda-464d-89aa-a66367e0d913": {
+      "company": "NVIDIA",
+      "first_seen": "2026-10-31T12:12:39+00:00",
+      "last_seen": "2026-10-31T12:12:39+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1793448359",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/12g"
+    },
     "vanshb03:nvidia::vanshb03-86269d27-e8ef-4462-afc0-e0d487011313": {
       "company": "NVIDIA",
       "first_seen": "2026-10-30T03:07:51+00:00",
@@ -73442,5 +73464,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-31T10:20:09+00:00"
+  "updated_at": "2026-10-31T13:32:13+00:00"
 }
