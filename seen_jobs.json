@@ -762,8 +762,14 @@
   "health_reported": [
     "Adobe",
     "Barclays",
+    "Blue Origin",
+    "Cisco",
     "Disney",
-    "Nvidia"
+    "Nvidia",
+    "PayPal",
+    "Red Hat",
+    "Workday",
+    "Zoom"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -64788,5 +64794,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-31T06:15:48+00:00"
+  "updated_at": "2026-10-31T06:16:50+00:00"
 }
