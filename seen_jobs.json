@@ -1,5 +1,5 @@
 {
-  "count": 7675,
+  "count": 7676,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -61874,6 +61874,16 @@
       "title": "Software Engineering Intern, AI Agents & Backend Infrastructure",
       "url": "https://go.vansh.nyc/Vv"
     },
+    "vanshb03:nvidia::vanshb03-0d271a3e-2bda-464d-89aa-a66367e0d913": {
+      "company": "NVIDIA",
+      "first_seen": "2026-10-31T12:12:39+00:00",
+      "last_seen": "2026-10-31T12:12:39+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1793448359",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/12g"
+    },
     "vanshb03:nvidia::vanshb03-86269d27-e8ef-4462-afc0-e0d487011313": {
       "company": "NVIDIA",
       "first_seen": "2026-10-30T03:07:51+00:00",
@@ -64795,5 +64805,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-31T09:32:22+00:00"
+  "updated_at": "2026-10-31T12:13:27+00:00"
 }
