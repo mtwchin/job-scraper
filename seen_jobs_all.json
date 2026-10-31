@@ -1,5 +1,5 @@
 {
-  "count": 8452,
+  "count": 8453,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -72819,6 +72819,16 @@
       "title": "New Grad 2026: Software Engineer I",
       "url": "https://university-uber.icims.com/jobs/152427/job"
     },
+    "vanshb03:urban science::vanshb03-b1b74c12-a936-4cb0-84ea-bd9850a90a89": {
+      "company": "Urban Science",
+      "first_seen": "2026-10-31T20:14:30+00:00",
+      "last_seen": "2026-10-31T20:14:30+00:00",
+      "location": "Detroit, MI",
+      "posted_at": "1793391096",
+      "source": "vanshb03",
+      "title": "Associate Software Engineer",
+      "url": "https://go.vansh.nyc/12w"
+    },
     "vanshb03:ursa major::vanshb03-b23d5037-e119-4591-8e7f-d30fae18191b": {
       "company": "Ursa Major",
       "first_seen": "2026-10-23T16:49:10+00:00",
@@ -73552,5 +73562,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-31T20:13:38+00:00"
+  "updated_at": "2026-10-31T20:14:41+00:00"
 }
