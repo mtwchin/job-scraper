@@ -1,5 +1,5 @@
 {
-  "count": 8412,
+  "count": 8413,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -21525,6 +21525,16 @@
       "posted_at": "1788480000",
       "title": "Customer Operations Intern",
       "url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Customer-Operations-Intern_R260273"
+    },
+    "simplify:discernis::simplify-c7e4210b-fdb9-402c-8f8b-86db118cfd8b": {
+      "company": "Discernis",
+      "first_seen": "2026-10-31T02:01:37+00:00",
+      "last_seen": "2026-10-31T02:01:37+00:00",
+      "location": "NYC",
+      "posted_at": "1793145600",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/discernis/53496201-b984-4e50-938e-19c21cf26667/application?embed=true"
     },
     "simplify:ditto::simplify-9b52fccb-d8e8-4e83-bcf6-81d70ecd30e7": {
       "company": "Ditto",
@@ -73122,5 +73132,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-31T01:32:46+00:00"
+  "updated_at": "2026-10-31T02:01:49+00:00"
 }
