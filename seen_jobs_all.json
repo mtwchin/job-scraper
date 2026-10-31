@@ -68211,7 +68211,7 @@
       "company": "L3Harris Technologies",
       "duplicate_of": "vanshb03:l3harris technologies::vanshb03-dfcc782f-ef72-431f-8cf9-d41504dcee29",
       "first_seen": "2026-10-23T16:49:09+00:00",
-      "last_seen": "2026-10-26T00:02:14+00:00",
+      "last_seen": "2026-10-31T02:18:37+00:00",
       "location": "Tulsa, OK",
       "posted_at": "1792707283",
       "seeded": true,
@@ -70262,7 +70262,7 @@
     "vanshb03:rhoda ai::vanshb03-30af1325-f87d-4e4e-b279-b7c7596f0ec3": {
       "company": "Rhoda AI",
       "first_seen": "2026-10-21T19:33:33+00:00",
-      "last_seen": "2026-10-26T00:02:14+00:00",
+      "last_seen": "2026-10-31T02:18:37+00:00",
       "location": "Mountain View, CA",
       "posted_at": "1792550753",
       "source": "vanshb03",
@@ -73182,5 +73182,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-31T02:11:52+00:00"
+  "updated_at": "2026-10-31T02:18:54+00:00"
 }
