@@ -759,9 +759,7 @@
     }
   },
   "delivery_rejections": {},
-  "health_reported": [
-    "Blackrock"
-  ],
+  "health_reported": [],
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -64785,5 +64783,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-31T07:47:07+00:00"
+  "updated_at": "2026-10-31T07:48:09+00:00"
 }
