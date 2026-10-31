@@ -1,5 +1,5 @@
 {
-  "count": 8418,
+  "count": 8420,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -30587,6 +30587,16 @@
       "title": "Entry Level Software Engineer",
       "url": "https://careers-i3-corps.icims.com/jobs/5175/job?mobile=true&needsRedirect=false"
     },
+    "simplify:integration innovation (i3)::simplify-7d4ee985-9d3b-40be-9364-3d7f5c9cee84": {
+      "company": "Integration Innovation (i3)",
+      "first_seen": "2026-10-31T06:31:54+00:00",
+      "last_seen": "2026-10-31T06:31:54+00:00",
+      "location": "Huntsville, AL",
+      "posted_at": "1787318460",
+      "source": "simplify",
+      "title": "Entry Level Software Engineer",
+      "url": "https://i3-corps.jibeapply.com/jobs/5218?icims=1"
+    },
     "simplify:integration innovation (i3)::simplify-97058eb6-70e5-40db-8c64-0391a99980ec": {
       "company": "Integration Innovation (i3)",
       "first_seen": "2026-08-12T21:07:36+00:00",
@@ -33401,6 +33411,16 @@
       "posted_at": "1779671117",
       "title": "Software Development Co-op/Intern - C++",
       "url": "https://careers-kinaxis.icims.com/jobs/34764/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:kinaxis::simplify-9a6dcae3-32b0-494e-a7c2-badc43b133bf": {
+      "company": "Kinaxis",
+      "first_seen": "2026-10-31T06:31:54+00:00",
+      "last_seen": "2026-10-31T06:31:54+00:00",
+      "location": "Canada, Remote in Canada",
+      "posted_at": "1778788260",
+      "source": "simplify",
+      "title": "Software Developer - Data Ingestion - Developer Framework",
+      "url": "https://kinaxis.jibeapply.com/jobs/34791?icims=1"
     },
     "simplify:kinaxis::simplify-d3e5ba1e-a291-46e1-a4b3-7da47159deb3": {
       "company": "Kinaxis",
@@ -73182,5 +73202,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-31T04:49:52+00:00"
+  "updated_at": "2026-10-31T06:31:56+00:00"
 }
