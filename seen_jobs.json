@@ -760,7 +760,6 @@
   },
   "delivery_rejections": {},
   "health_reported": [
-    "Adobe",
     "Barclays",
     "Blackrock",
     "Blue Origin",
@@ -768,7 +767,6 @@
     "Disney",
     "Intel",
     "Nvidia",
-    "PayPal",
     "Red Hat",
     "Workday",
     "Zoom"
@@ -64796,5 +64794,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-31T06:17:52+00:00"
+  "updated_at": "2026-10-31T07:33:56+00:00"
 }
