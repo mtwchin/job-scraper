@@ -1,5 +1,5 @@
 {
-  "count": 8445,
+  "count": 8452,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -69270,6 +69270,16 @@
       "title": "Software Engineer Intern, Native SDK & Mobile Platforms",
       "url": "https://go.vansh.nyc/Uy"
     },
+    "vanshb03:nintendo::vanshb03-03cbf984-ebc6-4c0f-9488-696e2a3f6564": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T19:17:02+00:00",
+      "last_seen": "2026-10-31T19:17:02+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1793226660",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, DevOps",
+      "url": "https://careers.nintendo.com/?gh_jid=4472002009"
+    },
     "vanshb03:nintendo::vanshb03-18ade0c3-6433-41b7-a7d1-16142670fdac": {
       "company": "Nintendo",
       "first_seen": "2026-10-31T02:11:37+00:00",
@@ -69279,6 +69289,66 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Graphics",
       "url": "https://go.vansh.nyc/121"
+    },
+    "vanshb03:nintendo::vanshb03-5e4c6e14-95b0-445d-a5ac-4eeb780a5ded": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T19:17:02+00:00",
+      "last_seen": "2026-10-31T19:17:02+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1793318400",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Performance Tools",
+      "url": "https://careers.nintendo.com/?gh_jid=4473568009"
+    },
+    "vanshb03:nintendo::vanshb03-6ae8a293-8457-4df9-a1eb-2b5fb926de5e": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T19:17:02+00:00",
+      "last_seen": "2026-10-31T19:17:02+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1793226561",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, CPU Profiler",
+      "url": "https://careers.nintendo.com/?gh_jid=4469762009"
+    },
+    "vanshb03:nintendo::vanshb03-d5ec9a96-e748-4a1f-aa36-361f9e0d6761": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T19:17:02+00:00",
+      "last_seen": "2026-10-31T19:17:02+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1793226293",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, CPU Debugger",
+      "url": "https://careers.nintendo.com/?gh_jid=4471972009"
+    },
+    "vanshb03:nintendo::vanshb03-e6c54299-f853-48fe-809f-28dac76240d3": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T19:17:02+00:00",
+      "last_seen": "2026-10-31T19:17:02+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1793232000",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Connectivity",
+      "url": "https://careers.nintendo.com/?gh_jid=4472147009"
+    },
+    "vanshb03:nintendo::vanshb03-efbc9130-73e4-4d04-b7f2-b2f52dec6953": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T19:17:02+00:00",
+      "last_seen": "2026-10-31T19:17:02+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1793227382",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Platform Security",
+      "url": "https://careers.nintendo.com/?gh_jid=4469778009"
+    },
+    "vanshb03:nintendo::vanshb03-f4b6f9d7-ced6-4d94-9be5-6a974966eb39": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T19:17:02+00:00",
+      "last_seen": "2026-10-31T19:17:02+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1793227060",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Audio",
+      "url": "https://careers.nintendo.com/?gh_jid=4470048009"
     },
     "vanshb03:nokia::vanshb03-613bdfec-6f65-4560-891c-62159eeb29d9": {
       "company": "Nokia",
@@ -73464,5 +73534,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-31T15:50:29+00:00"
+  "updated_at": "2026-10-31T19:17:35+00:00"
 }
