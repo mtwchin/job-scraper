@@ -1,5 +1,5 @@
 {
-  "count": 8411,
+  "count": 8412,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -64336,6 +64336,16 @@
       "title": "Software Intern",
       "url": "https://go.vansh.nyc/gt"
     },
+    "vanshb03:amazon.com services llc::vanshb03-e1a59452-2397-4902-b5c2-126b00d941e2": {
+      "company": "Amazon.com Services LLC",
+      "first_seen": "2026-10-31T00:10:37+00:00",
+      "last_seen": "2026-10-31T00:10:37+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793318868",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer (Database)",
+      "url": "https://go.vansh.nyc/11D"
+    },
     "vanshb03:amazon::vanshb03-01c1a676-beec-4b44-a85b-a82949807095": {
       "company": "Amazon",
       "first_seen": "2026-10-26T13:45:07+00:00",
@@ -73112,5 +73122,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-31T00:01:39+00:00"
+  "updated_at": "2026-10-31T00:10:42+00:00"
 }
