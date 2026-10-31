@@ -1,5 +1,5 @@
 {
-  "count": 8413,
+  "count": 8418,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -65325,6 +65325,26 @@
       "title": "Early Career Software Engineer",
       "url": "https://jobs.battelle.org/us/en/job/BMIBMIUS75654EXTERNALENUS/Early-Career-Software-Engineer"
     },
+    "vanshb03:beli::vanshb03-dedcc90b-3974-4b69-ac71-28d3e3144cfe": {
+      "company": "Beli",
+      "first_seen": "2026-10-31T02:11:37+00:00",
+      "last_seen": "2026-10-31T02:11:37+00:00",
+      "location": "New York, NY",
+      "posted_at": "1793221150",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/11T"
+    },
+    "vanshb03:benchmark space systems::vanshb03-7ab3ef47-c3a5-47ba-b129-a11d805479a1": {
+      "company": "Benchmark Space Systems",
+      "first_seen": "2026-10-31T02:11:37+00:00",
+      "last_seen": "2026-10-31T02:11:37+00:00",
+      "location": "Burlington, VT",
+      "posted_at": "1793290922",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/11X"
+    },
     "vanshb03:berkshire hathaway energy::vanshb03-cd00c8f9-c38c-4902-8e02-e1112a8456d2": {
       "company": "Berkshire Hathaway Energy",
       "first_seen": "2026-10-25T08:27:16+00:00",
@@ -66768,6 +66788,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210894"
+    },
+    "vanshb03:elucid::vanshb03-8bfff39e-a0c8-47a1-88c0-14705d3a9c50": {
+      "company": "Elucid",
+      "first_seen": "2026-10-31T02:11:37+00:00",
+      "last_seen": "2026-10-31T02:11:37+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1793318400",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/120"
     },
     "vanshb03:eluvio::vanshb03-463576e8-f5a1-4c8f-bfce-43c8f942949a": {
       "company": "Eluvio",
@@ -68968,6 +68998,16 @@
       "title": "Software Engineer Intern, Native SDK & Mobile Platforms",
       "url": "https://go.vansh.nyc/Uy"
     },
+    "vanshb03:nintendo::vanshb03-18ade0c3-6433-41b7-a7d1-16142670fdac": {
+      "company": "Nintendo",
+      "first_seen": "2026-10-31T02:11:37+00:00",
+      "last_seen": "2026-10-31T02:11:37+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1793318400",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Graphics",
+      "url": "https://go.vansh.nyc/121"
+    },
     "vanshb03:nokia::vanshb03-613bdfec-6f65-4560-891c-62159eeb29d9": {
       "company": "Nokia",
       "first_seen": "2026-10-30T21:38:18+00:00",
@@ -69440,6 +69480,16 @@
       "source": "vanshb03",
       "title": "New Grad 2027: Software Engineer, Oracle Cloud Infrastructure",
       "url": "https://go.vansh.nyc/Hy"
+    },
+    "vanshb03:otto engineering::vanshb03-64420589-2aa1-4628-9fe9-5ff4e1843141": {
+      "company": "OTTO Engineering",
+      "first_seen": "2026-10-31T02:11:37+00:00",
+      "last_seen": "2026-10-31T02:11:37+00:00",
+      "location": "Carpentersville, IL",
+      "posted_at": "1793318400",
+      "source": "vanshb03",
+      "title": "Embedded Software Intern, Communications",
+      "url": "https://go.vansh.nyc/122"
     },
     "vanshb03:palantir technologies::vanshb03-012269d3-ac77-42ec-b155-6d02f53f8a49": {
       "company": "Palantir Technologies",
@@ -73132,5 +73182,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-31T02:01:49+00:00"
+  "updated_at": "2026-10-31T02:11:52+00:00"
 }
