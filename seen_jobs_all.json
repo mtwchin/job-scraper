@@ -1,5 +1,5 @@
 {
-  "count": 8431,
+  "count": 8442,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -30969,12 +30969,54 @@
       "title": "Software Development Intern - React",
       "url": "https://jobs.smartrecruiters.com/Interco/744000143346169"
     },
+    "simplify:intercontinental exchange::simplify-054da912-83d7-407d-92b6-28e69322dbf6": {
+      "company": "Intercontinental Exchange",
+      "duplicate_of": "simplify:intercontinental exchange::simplify-b4e0a3a3-103b-4d99-a55c-4456842414c8",
+      "first_seen": "2026-10-31T07:02:54+00:00",
+      "last_seen": "2026-10-31T07:02:54+00:00",
+      "location": "Jacksonville, FL",
+      "posted_at": "1792786140",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ice.jibeapply.com/jobs/14077?icims=1"
+    },
+    "simplify:intercontinental exchange::simplify-2cbf62c3-9af9-40c5-bada-3f3cc7eeae8e": {
+      "company": "Intercontinental Exchange",
+      "first_seen": "2026-10-31T07:02:54+00:00",
+      "last_seen": "2026-10-31T07:02:54+00:00",
+      "location": "Jacksonville, FL",
+      "posted_at": "1792786140",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Java",
+      "url": "https://ice.jibeapply.com/jobs/14078?icims=1"
+    },
     "simplify:intercontinental exchange::simplify-4915b29d-de2c-4adf-8f91-a6dd8ecb25ac": {
       "company": "Intercontinental Exchange",
       "first_seen": "2026-08-07T22:59:16+00:00",
       "posted_at": "1786140896",
       "title": "Engineer 1",
       "url": "https://careers-ice.icims.com/jobs/13435/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:intercontinental exchange::simplify-6a174ad0-4fd8-4f76-829f-53459f3b42f1": {
+      "company": "Intercontinental Exchange",
+      "first_seen": "2026-10-31T07:02:54+00:00",
+      "last_seen": "2026-10-31T07:02:54+00:00",
+      "location": "NYC",
+      "posted_at": "1792786140",
+      "source": "simplify",
+      "title": "Regulatory Products Intern",
+      "url": "https://ice.jibeapply.com/jobs/14101?icims=1"
+    },
+    "simplify:intercontinental exchange::simplify-9511f77b-8a3f-49b1-b411-bee7198a96c1": {
+      "company": "Intercontinental Exchange",
+      "first_seen": "2026-10-31T07:02:54+00:00",
+      "last_seen": "2026-10-31T07:02:54+00:00",
+      "location": "NYC",
+      "posted_at": "1792786140",
+      "source": "simplify",
+      "title": "Trading System Development Intern",
+      "url": "https://ice.jibeapply.com/jobs/14102?icims=1"
     },
     "simplify:intercontinental exchange::simplify-b3015cae-3273-4a68-adfd-587d522af9c7": {
       "company": "Intercontinental Exchange",
@@ -30985,6 +31027,36 @@
       "source": "simplify",
       "title": "Analyst \u2013 Infrastructure Development & Automation",
       "url": "https://careers-ice.icims.com/jobs/13384/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:intercontinental exchange::simplify-b4e0a3a3-103b-4d99-a55c-4456842414c8": {
+      "company": "Intercontinental Exchange",
+      "first_seen": "2026-10-31T07:02:54+00:00",
+      "last_seen": "2026-10-31T07:02:54+00:00",
+      "location": "NYC; Jacksonville, FL",
+      "posted_at": "1792786140",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ice.jibeapply.com/jobs/14105?icims=1"
+    },
+    "simplify:intercontinental exchange::simplify-edd669e1-e493-4446-99d3-e8e668188696": {
+      "company": "Intercontinental Exchange",
+      "first_seen": "2026-10-31T07:02:54+00:00",
+      "last_seen": "2026-10-31T07:02:54+00:00",
+      "location": "Jacksonville, FL",
+      "posted_at": "1792786140",
+      "source": "simplify",
+      "title": "Integration Intern",
+      "url": "https://ice.jibeapply.com/jobs/14071?icims=1"
+    },
+    "simplify:intercontinental exchange::simplify-f0f5bd69-8f2a-4aef-ba3a-87a576d04121": {
+      "company": "Intercontinental Exchange",
+      "first_seen": "2026-10-31T07:02:54+00:00",
+      "last_seen": "2026-10-31T07:02:54+00:00",
+      "location": "Jacksonville, FL",
+      "posted_at": "1792786140",
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://ice.jibeapply.com/jobs/14075?icims=1"
     },
     "simplify:interface.ai::simplify-41280a36-4216-449a-9315-6144bfec8a2b": {
       "company": "interface.ai",
@@ -43971,6 +44043,16 @@
       "title": "Software Development Associate",
       "url": "https://careers-peraton.icims.com/jobs/168946/job?mobile=true&needsRedirect=false"
     },
+    "simplify:peraton::simplify-4c60792c-0069-4c3e-bed6-f6ab0bc5610c": {
+      "company": "Peraton",
+      "first_seen": "2026-10-31T07:02:54+00:00",
+      "last_seen": "2026-10-31T07:02:54+00:00",
+      "location": "Oklahoma",
+      "posted_at": "1792008480",
+      "source": "simplify",
+      "title": "Mission Systems Software and Edge Computing Intern",
+      "url": "https://peraton.jibeapply.com/jobs/172378?icims=1"
+    },
     "simplify:peraton::simplify-53214376-dcb6-4b32-99dd-b69bd332ee7e": {
       "company": "Peraton",
       "first_seen": "2026-09-09T18:02:12+00:00",
@@ -44022,6 +44104,16 @@
       "title": "Associate Software Engineer - Cyber",
       "url": "https://careers-peraton.icims.com/jobs/170237/job?mobile=true&needsRedirect=false"
     },
+    "simplify:peraton::simplify-6d5f9388-f733-4d97-b134-21cb92a0bce8": {
+      "company": "Peraton",
+      "first_seen": "2026-10-31T07:02:54+00:00",
+      "last_seen": "2026-10-31T07:02:54+00:00",
+      "location": "Blacksburg, VA, Herndon, VA",
+      "posted_at": "1788961860",
+      "source": "simplify",
+      "title": "Engineer Co-op",
+      "url": "https://peraton.jibeapply.com/jobs/170319?icims=1"
+    },
     "simplify:peraton::simplify-a8082b63-5015-48a0-a9af-260bcc915d71": {
       "company": "Peraton",
       "first_seen": "2026-09-10T23:38:18+00:00",
@@ -44029,6 +44121,16 @@
       "posted_at": "1789079056",
       "title": "Systems Engineer Associate",
       "url": "https://careers-peraton.icims.com/jobs/170471/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:peraton::simplify-abdd970b-9c82-4b36-8726-8b1974f2ab7e": {
+      "company": "Peraton",
+      "first_seen": "2026-10-31T07:02:54+00:00",
+      "last_seen": "2026-10-31T07:02:54+00:00",
+      "location": "Topeka, KS",
+      "posted_at": "1791477780",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://peraton.jibeapply.com/jobs/172061?icims=1"
     },
     "simplify:peraton::simplify-b4c2db2d-3859-453b-823e-8dc517020ce3": {
       "company": "Peraton",
@@ -44045,6 +44147,16 @@
       "posted_at": "1785766379",
       "title": "Junior Web Developer",
       "url": "https://careers-peraton.icims.com/jobs/169306/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:peraton::simplify-d42fcbc7-e5de-4e30-bd8f-7a29b210a33e": {
+      "company": "Peraton",
+      "first_seen": "2026-10-31T07:02:54+00:00",
+      "last_seen": "2026-10-31T07:02:54+00:00",
+      "location": "Blacksburg, VA, Herndon, VA",
+      "posted_at": "1788878100",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://peraton.jibeapply.com/jobs/169665?icims=1"
     },
     "simplify:peraton::simplify-e6d169c5-4031-467b-a077-10fc12f8df10": {
       "company": "Peraton",
@@ -73316,5 +73428,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-10-31T07:02:01+00:00"
+  "updated_at": "2026-10-31T07:03:03+00:00"
 }
