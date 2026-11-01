@@ -1,5 +1,5 @@
 {
-  "count": 7693,
+  "count": 7716,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -59741,6 +59741,16 @@
       "title": "Entry Level Software Engineer",
       "url": "https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application"
     },
+    "vanshb03:bytedance::vanshb03-007bbdf4-1313-46ad-bf59-a31124fc372b": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:44+00:00",
+      "last_seen": "2026-11-01T08:04:44+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: AI Agent Security Software Engineer (Security Engineering)",
+      "url": "https://go.vansh.nyc/15j"
+    },
     "vanshb03:bytedance::vanshb03-050d8f29-405d-4cc1-90fc-e22d1fe78151": {
       "company": "ByteDance",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -59762,6 +59772,18 @@
       "title": "New Grad 2026: Software Engineer (Dev Infra)",
       "url": "https://go.vansh.nyc/pj"
     },
+    "vanshb03:bytedance::vanshb03-0981ed90-71bd-45ee-bddd-1d9043c67725": {
+      "company": "ByteDance",
+      "duplicate_of": "vanshb03:bytedance::vanshb03-9b206892-2139-45cf-9f2a-8ebd812ebbf3",
+      "first_seen": "2026-11-01T08:04:43+00:00",
+      "last_seen": "2026-11-01T08:04:43+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793519973",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer (AI Infrastructure-Compute Efficiency & Scheduling)",
+      "url": "https://go.vansh.nyc/15l"
+    },
     "vanshb03:bytedance::vanshb03-144e2a0e-b835-4a36-811c-92e04d055e78": {
       "company": "ByteDance",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -59772,6 +59794,26 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Distributed NoSQL Database Systems",
       "url": "https://joinbytedance.com/search/7668373268886161669"
+    },
+    "vanshb03:bytedance::vanshb03-1df7dcb0-4d3b-43cb-9cb7-9ca91074f18d": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:43+00:00",
+      "last_seen": "2026-11-01T08:04:43+00:00",
+      "location": "San Jose, CA; Seattle, WA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform",
+      "url": "https://go.vansh.nyc/15d"
+    },
+    "vanshb03:bytedance::vanshb03-288221b5-d327-4316-bfb5-3f5520c9ccfb": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:43+00:00",
+      "last_seen": "2026-11-01T08:04:43+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform",
+      "url": "https://go.vansh.nyc/14P"
     },
     "vanshb03:bytedance::vanshb03-2ba860c0-0191-49a5-ba9c-ac511a7081ff": {
       "company": "ByteDance",
@@ -59784,6 +59826,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, AML-Engine-Orchestration",
       "url": "https://go.vansh.nyc/14i"
+    },
+    "vanshb03:bytedance::vanshb03-2c156413-d7a1-48c1-a0a3-1be539abd981": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:43+00:00",
+      "last_seen": "2026-11-01T08:04:43+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform (Master's)",
+      "url": "https://go.vansh.nyc/14L"
     },
     "vanshb03:bytedance::vanshb03-2cf8dd13-93b9-4fee-b268-7d0e45477680": {
       "company": "ByteDance",
@@ -59807,6 +59859,16 @@
       "title": "New Grad 2026: Software Engineer",
       "url": "https://jobs.bytedance.com/en/position/7532618536427391240/detail?spread=BSPP2KS"
     },
+    "vanshb03:bytedance::vanshb03-48967855-78dd-4621-92c4-04fbbdb08903": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:43+00:00",
+      "last_seen": "2026-11-01T08:04:43+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Large Language Model Inference System Engineer (Applied Machine Learning)",
+      "url": "https://go.vansh.nyc/15a"
+    },
     "vanshb03:bytedance::vanshb03-4975d404-56c6-48ca-b7c8-65e58a26f2c5": {
       "company": "ByteDance",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -59827,6 +59889,16 @@
       "source": "vanshb03",
       "title": "Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform",
       "url": "https://go.vansh.nyc/14q"
+    },
+    "vanshb03:bytedance::vanshb03-5995fcb3-7cd4-4b68-a588-b84952523a44": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:44+00:00",
+      "last_seen": "2026-11-01T08:04:44+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer (Data-Intelligent Creation-AI Platform-Global Vision Engineering)",
+      "url": "https://go.vansh.nyc/15u"
     },
     "vanshb03:bytedance::vanshb03-5b6eac72-8c00-4cf6-b79b-316e7573ba8d": {
       "company": "ByteDance",
@@ -59850,6 +59922,26 @@
       "title": "New Grad 2026: Software Engineer (Applied Machine Learning - Enterprise)",
       "url": "https://jobs.bytedance.com/en/position/7532538236133902599/detail?spread=BSPP2KS"
     },
+    "vanshb03:bytedance::vanshb03-6f3a8739-49d2-4faf-9b7e-525ab29c922d": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:43+00:00",
+      "last_seen": "2026-11-01T08:04:43+00:00",
+      "location": "New York, NY; San Jose, CA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Production System Engineer (Server Management)",
+      "url": "https://go.vansh.nyc/156"
+    },
+    "vanshb03:bytedance::vanshb03-70e700c4-e949-4f6f-b449-511af4f6753c": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:43+00:00",
+      "last_seen": "2026-11-01T08:04:43+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, AML-Engine-Orchestration",
+      "url": "https://go.vansh.nyc/14W"
+    },
     "vanshb03:bytedance::vanshb03-7239c2a1-7dd7-445d-8e82-70399e3ef475": {
       "company": "ByteDance",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -59860,6 +59952,90 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Backend Software Engineer (Customer Service Platform)",
       "url": "https://jobs.bytedance.com/en/position/7527836662400026898/detail?spread=BSPP2KS"
+    },
+    "vanshb03:bytedance::vanshb03-7262116d-f6f2-420e-8b3d-a573e77d244c": {
+      "company": "ByteDance",
+      "duplicate_of": "vanshb03:bytedance::vanshb03-6f3a8739-49d2-4faf-9b7e-525ab29c922d",
+      "first_seen": "2026-11-01T08:04:43+00:00",
+      "last_seen": "2026-11-01T08:04:43+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793519973",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "New Grad 2027: Production System Engineer (Server Management)",
+      "url": "https://go.vansh.nyc/15q"
+    },
+    "vanshb03:bytedance::vanshb03-73ec4330-b1d5-4575-8175-5972d23d582c": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:44+00:00",
+      "last_seen": "2026-11-01T08:04:44+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Large Language Model Training System Engineer (Applied Machine Learning)",
+      "url": "https://go.vansh.nyc/15o"
+    },
+    "vanshb03:bytedance::vanshb03-750e2347-9cef-4026-bbcf-fae63a30029d": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:43+00:00",
+      "last_seen": "2026-11-01T08:04:43+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer (Data-Speech-Product RD-Engineering-US)",
+      "url": "https://go.vansh.nyc/159"
+    },
+    "vanshb03:bytedance::vanshb03-7566bd57-47d7-4e3a-8216-16b4eceb4f4b": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:44+00:00",
+      "last_seen": "2026-11-01T08:04:44+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Backend and Infra Software Engineer (Dev Infra US)",
+      "url": "https://go.vansh.nyc/15w"
+    },
+    "vanshb03:bytedance::vanshb03-7688e157-9cb0-41b2-b40b-5be0cd878e49": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:43+00:00",
+      "last_seen": "2026-11-01T08:04:43+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Dev AI Software Engineer (Dev Infra US)",
+      "url": "https://go.vansh.nyc/15b"
+    },
+    "vanshb03:bytedance::vanshb03-7c10417c-172b-4a4e-a570-d4275e6c2d1e": {
+      "company": "ByteDance",
+      "duplicate_of": "vanshb03:bytedance::vanshb03-7fd5e522-1337-412b-a6d4-7b55d283df12",
+      "first_seen": "2026-11-01T08:04:43+00:00",
+      "last_seen": "2026-11-01T08:04:43+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793519973",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)",
+      "url": "https://go.vansh.nyc/153"
+    },
+    "vanshb03:bytedance::vanshb03-7fd5e522-1337-412b-a6d4-7b55d283df12": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:43+00:00",
+      "last_seen": "2026-11-01T08:04:43+00:00",
+      "location": "San Jose, CA; Seattle, WA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Multi-Cloud CDN Data Platform Engineer, CDN Platform (Master's)",
+      "url": "https://go.vansh.nyc/150"
+    },
+    "vanshb03:bytedance::vanshb03-86aa5b0b-0908-4c3a-8dd2-44ee06bc3239": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:44+00:00",
+      "last_seen": "2026-11-01T08:04:44+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: LLM Backend Engineer (Applied Machine Learning)",
+      "url": "https://go.vansh.nyc/15m"
     },
     "vanshb03:bytedance::vanshb03-87742006-a6d1-45f2-b904-7a3d2d221d5e": {
       "company": "ByteDance",
@@ -59901,6 +60077,16 @@
       "source": "vanshb03",
       "title": "Network Security Software Engineer Intern, Security Engineering",
       "url": "https://go.vansh.nyc/14v"
+    },
+    "vanshb03:bytedance::vanshb03-9b206892-2139-45cf-9f2a-8ebd812ebbf3": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:44+00:00",
+      "last_seen": "2026-11-01T08:04:44+00:00",
+      "location": "San Jose, CA; Seattle, WA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer (AI Infrastructure \u2014 Compute Efficiency & Scheduling)",
+      "url": "https://go.vansh.nyc/15g"
     },
     "vanshb03:bytedance::vanshb03-9cdca74e-f2ef-4d8b-8572-77ac46edd421": {
       "company": "ByteDance",
@@ -59955,6 +60141,18 @@
       "title": "Production System Engineer Project Intern, Server DevOps",
       "url": "https://go.vansh.nyc/14e"
     },
+    "vanshb03:bytedance::vanshb03-aebc06b9-1bff-4889-a0bf-d1be228f7155": {
+      "company": "ByteDance",
+      "duplicate_of": "vanshb03:bytedance::vanshb03-1df7dcb0-4d3b-43cb-9cb7-9ca91074f18d",
+      "first_seen": "2026-11-01T08:04:43+00:00",
+      "last_seen": "2026-11-01T08:04:43+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793519973",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "New Grad 2027: Multi-Cloud CDN Scheduling Platform Engineer, CDN Platform",
+      "url": "https://go.vansh.nyc/15e"
+    },
     "vanshb03:bytedance::vanshb03-b399a2c9-75df-4a08-9792-35d6caba40ee": {
       "company": "ByteDance",
       "first_seen": "2026-11-01T07:59:43+00:00",
@@ -59987,6 +60185,16 @@
       "title": "Production System Engineer Project Intern, Server DevOps",
       "url": "https://go.vansh.nyc/14j"
     },
+    "vanshb03:bytedance::vanshb03-cb818cba-c8f1-45e5-ab3a-621e0140c69a": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:44+00:00",
+      "last_seen": "2026-11-01T08:04:44+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer (AML-Engine-Forge Platform)",
+      "url": "https://go.vansh.nyc/15f"
+    },
     "vanshb03:bytedance::vanshb03-d7be171c-d4b9-4086-a3a5-e2bc13f5cc81": {
       "company": "ByteDance",
       "first_seen": "2026-11-01T07:59:43+00:00",
@@ -60008,6 +60216,26 @@
       "title": "New Grad 2026: Software Engineer (Edge Platform)",
       "url": "https://joinbytedance.com/search/7538120693880834322"
     },
+    "vanshb03:bytedance::vanshb03-e5b8299c-8d36-4ca6-a0ff-a0b06bca9fc3": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:43+00:00",
+      "last_seen": "2026-11-01T08:04:43+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer - AI Agent Infra (Security Engineering)",
+      "url": "https://go.vansh.nyc/151"
+    },
+    "vanshb03:bytedance::vanshb03-e69a00e5-6847-49f8-bf9a-ecf673233fe2": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:44+00:00",
+      "last_seen": "2026-11-01T08:04:44+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Test Software Engineer, Douyin Research and Development Middle Platform",
+      "url": "https://go.vansh.nyc/15C"
+    },
     "vanshb03:bytedance::vanshb03-e92caeec-09c4-4a82-8fed-86e2a7898367": {
       "company": "ByteDance",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -60028,6 +60256,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Traffic Infrastructure",
       "url": "https://go.vansh.nyc/146"
+    },
+    "vanshb03:bytedance::vanshb03-fc684218-5256-46b2-8cec-451a00db4fdc": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T08:04:44+00:00",
+      "last_seen": "2026-11-01T08:04:44+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793519973",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, AI Infra Compute (Master's)",
+      "url": "https://go.vansh.nyc/15p"
     },
     "vanshb03:candid health::vanshb03-f3a926fc-88b6-4708-8a69-ebfa8a7b3392": {
       "company": "Candid Health",
@@ -64981,5 +65219,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-01T08:00:31+00:00"
+  "updated_at": "2026-11-01T08:05:34+00:00"
 }
