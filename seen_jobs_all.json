@@ -1,5 +1,5 @@
 {
-  "count": 8595,
+  "count": 8596,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -68138,6 +68138,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/12U"
     },
+    "vanshb03:genesys::vanshb03-5d900540-0f12-4c44-940c-842994e59867": {
+      "company": "Genesys",
+      "first_seen": "2026-11-01T21:14:57+00:00",
+      "last_seen": "2026-11-01T21:14:57+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1793394664",
+      "source": "vanshb03",
+      "title": "Associate Software Developer in Test",
+      "url": "https://go.vansh.nyc/194"
+    },
     "vanshb03:genius ai::vanshb03-aa6a99b7-7eba-4da8-a33d-c6c7d761b386": {
       "company": "Genius AI",
       "duplicate_of": "simplify:genius ai::simplify-0e1ea591-5cd9-421a-8dda-6c282f9025c0",
@@ -75029,5 +75039,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-01T21:11:59+00:00"
+  "updated_at": "2026-11-01T21:15:02+00:00"
 }
