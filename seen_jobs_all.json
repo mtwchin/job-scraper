@@ -1,5 +1,5 @@
 {
-  "count": 8489,
+  "count": 8490,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -64930,6 +64930,18 @@
       "title": "Software Engineer Intern",
       "url": "https://careers.amd.com/careers-home/jobs/91180"
     },
+    "vanshb03:american express::vanshb03-04fc6cfb-0ae3-4932-9cb7-aeb19388b7f8": {
+      "company": "American Express",
+      "duplicate_of": "vanshb03:american express::vanshb03-bdd6e13b-35b7-4758-9ef1-132e6e16276e",
+      "first_seen": "2026-11-01T05:32:08+00:00",
+      "last_seen": "2026-11-01T05:32:08+00:00",
+      "location": "Charlotte, NC",
+      "posted_at": "1787326669",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Enterprise Technology Services",
+      "url": "https://go.vansh.nyc/6Z"
+    },
     "vanshb03:american express::vanshb03-2a0e6c52-92a4-42c4-8489-108cac18c098": {
       "company": "American Express",
       "first_seen": "2026-10-26T14:03:24+00:00",
@@ -73932,5 +73944,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-01T04:32:09+00:00"
+  "updated_at": "2026-11-01T05:32:12+00:00"
 }
