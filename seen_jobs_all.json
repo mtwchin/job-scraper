@@ -1,5 +1,5 @@
 {
-  "count": 8487,
+  "count": 8488,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71974,6 +71974,16 @@
       "title": "Software Engineer, Early Career",
       "url": "https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752"
     },
+    "vanshb03:superapp::vanshb03-a69497d1-94c8-4da6-8d30-224342ac2fe9": {
+      "company": "SuperApp",
+      "first_seen": "2026-11-01T00:18:50+00:00",
+      "last_seen": "2026-11-01T00:18:50+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1793404800",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/13T"
+    },
     "vanshb03:susquehanna international group (sig)::vanshb03-83035c63-cf51-43dd-af16-3dbceba30fce": {
       "company": "Susquehanna International Group (SIG)",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -73912,5 +73922,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-01T00:13:56+00:00"
+  "updated_at": "2026-11-01T00:18:59+00:00"
 }
