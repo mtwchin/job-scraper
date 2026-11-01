@@ -1,5 +1,5 @@
 {
-  "count": 8576,
+  "count": 8593,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -666,6 +666,15 @@
       "source": "simplify",
       "title": "Software Engineer AV HIL Platform and Services Early Career",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577"
+    },
+    "simplify:goldman sachs::simplify-a79e1a77-0921-4fd2-ae92-5010c0c1ab71": {
+      "attempted_at": "2026-11-01T11:31:41+00:00",
+      "company": "Goldman Sachs",
+      "location": "Birmingham, UK",
+      "posted_at": "1790201058",
+      "source": "simplify",
+      "title": "Engineer Apprentice",
+      "url": "https://higher.gs.com/roles/174815?type=students"
     },
     "simplify:gordon food service::simplify-38c7776b-a885-4f1e-af66-2816ed57ba66": {
       "attempted_at": "2026-10-08T15:03:22+00:00",
@@ -64739,6 +64748,16 @@
       "title": "Software Development Engineer Intern",
       "url": "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us"
     },
+    "vanshb03:amazon::vanshb03-6046c3fc-ac8d-415d-ba3a-24965b1db381": {
+      "company": "Amazon",
+      "first_seen": "2026-11-01T09:58:00+00:00",
+      "last_seen": "2026-11-01T09:58:00+00:00",
+      "location": "Cupertino, CA",
+      "posted_at": "1787788800",
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern, Annapurna Labs",
+      "url": "https://go.vansh.nyc/17u"
+    },
     "vanshb03:amazon::vanshb03-66b9befa-cd91-4357-8e00-f0b6102e6a16": {
       "company": "Amazon",
       "first_seen": "2026-10-25T08:27:05+00:00",
@@ -64782,6 +64801,18 @@
       "source": "vanshb03",
       "title": "New Grad 2027: Software Development Engineer 1, Annapurna Labs",
       "url": "https://go.vansh.nyc/Bg"
+    },
+    "vanshb03:amazon::vanshb03-a344b998-4820-41aa-aee6-42ae9b98814e": {
+      "company": "Amazon",
+      "duplicate_of": "vanshb03:amazon::vanshb03-2f820aa8-a8ad-4b4c-aab3-264aebf9b625",
+      "first_seen": "2026-11-01T09:57:59+00:00",
+      "last_seen": "2026-11-01T09:57:59+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1764720000",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern, Robotics",
+      "url": "https://go.vansh.nyc/17r"
     },
     "vanshb03:amazon::vanshb03-c67980a2-a76b-4d85-bf82-7d24f5963882": {
       "company": "Amazon",
@@ -66271,6 +66302,16 @@
       "source": "vanshb03",
       "title": "Network Security Software Engineer Intern, Security Engineering",
       "url": "https://go.vansh.nyc/14v"
+    },
+    "vanshb03:bytedance::vanshb03-92dcad16-7335-4b68-909a-c98736851dcd": {
+      "company": "ByteDance",
+      "first_seen": "2026-11-01T09:58:01+00:00",
+      "last_seen": "2026-11-01T09:58:01+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793519707",
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern, Network Automation",
+      "url": "https://go.vansh.nyc/17M"
     },
     "vanshb03:bytedance::vanshb03-9b206892-2139-45cf-9f2a-8ebd812ebbf3": {
       "company": "ByteDance",
@@ -68713,6 +68754,16 @@
       "title": "Software Engineer 1",
       "url": "https://jobs.intuit.com/job/-/-/27595/87369448720"
     },
+    "vanshb03:intuit::vanshb03-b4503ebc-2f6b-4adb-937e-72db2095cd34": {
+      "company": "Intuit",
+      "first_seen": "2026-11-01T09:58:01+00:00",
+      "last_seen": "2026-11-01T09:58:01+00:00",
+      "location": "United States",
+      "posted_at": "1793361975",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Full Stack",
+      "url": "https://go.vansh.nyc/17H"
+    },
     "vanshb03:inversion space::vanshb03-33fcf848-0df4-454b-a8f4-bab99d95d1dc": {
       "company": "Inversion Space",
       "first_seen": "2026-10-19T00:51:40+00:00",
@@ -69666,6 +69717,28 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Security & Identity",
       "url": "https://go.vansh.nyc/e6"
+    },
+    "vanshb03:microsoft::vanshb03-9ac05af2-7269-4dfc-98bf-dd4b94b60202": {
+      "company": "Microsoft",
+      "first_seen": "2026-11-01T09:58:00+00:00",
+      "last_seen": "2026-11-01T09:58:00+00:00",
+      "location": "Redmond, WA; Reston, VA",
+      "posted_at": "1789151907",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/17x"
+    },
+    "vanshb03:microsoft::vanshb03-9bf362fe-814a-498e-8eca-094d9512c2c2": {
+      "company": "Microsoft",
+      "duplicate_of": "vanshb03:microsoft::vanshb03-9ac05af2-7269-4dfc-98bf-dd4b94b60202",
+      "first_seen": "2026-11-01T09:57:59+00:00",
+      "last_seen": "2026-11-01T09:57:59+00:00",
+      "location": "Reston, VA",
+      "posted_at": "1789151972",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/17y"
     },
     "vanshb03:microsoft::vanshb03-adea9c62-2047-4e4f-aebb-a218d42035ee": {
       "company": "Microsoft",
@@ -72486,6 +72559,16 @@
       "title": "Trading System Engineering Intern",
       "url": "https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088"
     },
+    "vanshb03:sycamore::vanshb03-04d85d96-fd50-4d54-b914-0e05daa94c5b": {
+      "company": "Sycamore",
+      "first_seen": "2026-11-01T13:11:25+00:00",
+      "last_seen": "2026-11-01T13:11:25+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793491200",
+      "source": "vanshb03",
+      "title": "Member of Technical Staff Intern",
+      "url": "https://go.vansh.nyc/18S"
+    },
     "vanshb03:symbotic::vanshb03-c9ad27ac-3ba7-430b-9fc9-c7e368a719d2": {
       "company": "Symbotic",
       "first_seen": "2026-10-17T18:30:53+00:00",
@@ -72941,6 +73024,16 @@
       "title": "New Grad 2026: Software Engineer Graduate (Data Arch - ShortText Rec) (BS/MS)",
       "url": "https://lifeattiktok.com/search/7535250563068528903?spread=5MWH5CQ"
     },
+    "vanshb03:tiktok::vanshb03-24c8e701-220e-4dd8-8eab-10dd0c78697d": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:58:01+00:00",
+      "last_seen": "2026-11-01T09:58:01+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793525855",
+      "source": "vanshb03",
+      "title": "Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live",
+      "url": "https://go.vansh.nyc/18h"
+    },
     "vanshb03:tiktok::vanshb03-2653ebed-f231-4222-a608-fe7190975b6d": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -73003,6 +73096,16 @@
       "source": "vanshb03",
       "title": "Backend Software Engineer Intern, Search",
       "url": "https://go.vansh.nyc/6h"
+    },
+    "vanshb03:tiktok::vanshb03-33ea4511-e520-4386-ba33-6d8dc72b3ddf": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:58:02+00:00",
+      "last_seen": "2026-11-01T09:58:02+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793525855",
+      "source": "vanshb03",
+      "title": "Software Engineer Project Intern, Recommendation Infrastructure, Video Social",
+      "url": "https://go.vansh.nyc/18F"
     },
     "vanshb03:tiktok::vanshb03-3499d2d8-5d25-497b-a7d7-554a83e9f31e": {
       "company": "TikTok",
@@ -73160,6 +73263,26 @@
       "title": "New Grad 2026: Software Engineer Graduate Product Infrastructure",
       "url": "https://lifeattiktok.com/search/7533106620768012562?spread=5MWH5CQ"
     },
+    "vanshb03:tiktok::vanshb03-52da898f-565f-4728-910e-47a8e06a6de2": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:58:01+00:00",
+      "last_seen": "2026-11-01T09:58:01+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793525855",
+      "source": "vanshb03",
+      "title": "AI Software Engineer Project Intern, Transaction Platform",
+      "url": "https://go.vansh.nyc/18t"
+    },
+    "vanshb03:tiktok::vanshb03-53492975-36bb-4bb8-a660-4a940074a96c": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:58:02+00:00",
+      "last_seen": "2026-11-01T09:58:02+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793525855",
+      "source": "vanshb03",
+      "title": "Frontend Engineer Project Intern, Multimedia Arch",
+      "url": "https://go.vansh.nyc/18z"
+    },
     "vanshb03:tiktok::vanshb03-55a5f692-52de-4415-afc6-d60e9428ccca": {
       "company": "TikTok",
       "first_seen": "2026-11-01T09:47:58+00:00",
@@ -73223,6 +73346,16 @@
       "title": "New Grad 2026: Software Engineer Graduate Social",
       "url": "https://lifeattiktok.com/search/7532627070011230482?spread=5MWH5CQ"
     },
+    "vanshb03:tiktok::vanshb03-632d38de-5b7c-4db5-91a5-83d57b29dcc7": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:58:01+00:00",
+      "last_seen": "2026-11-01T09:58:01+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793525855",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Ads Infrastructure",
+      "url": "https://go.vansh.nyc/18m"
+    },
     "vanshb03:tiktok::vanshb03-635594b8-a571-4462-8e09-b719f2d6e04b": {
       "company": "TikTok",
       "first_seen": "2026-10-26T11:48:48+00:00",
@@ -73274,6 +73407,16 @@
       "title": "New Grad 2027: Software Engineer (Video-on-Demand Algorithm)",
       "url": "https://go.vansh.nyc/176"
     },
+    "vanshb03:tiktok::vanshb03-6c306a29-4246-471e-943e-40953cf6c2c7": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:58:01+00:00",
+      "last_seen": "2026-11-01T09:58:01+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793525855",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Search Data Infra",
+      "url": "https://go.vansh.nyc/18n"
+    },
     "vanshb03:tiktok::vanshb03-6cd55831-f2f8-4658-a078-845792724ea3": {
       "company": "TikTok",
       "first_seen": "2026-11-01T09:47:55+00:00",
@@ -73283,6 +73426,16 @@
       "source": "vanshb03",
       "title": "New Grad 2027: Software Engineer (Data Arch - E-commerce)",
       "url": "https://go.vansh.nyc/15Z"
+    },
+    "vanshb03:tiktok::vanshb03-6e279e72-45f1-4eb1-bcfe-c13695713df2": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:58:01+00:00",
+      "last_seen": "2026-11-01T09:58:01+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793525855",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Search Architecture",
+      "url": "https://go.vansh.nyc/18q"
     },
     "vanshb03:tiktok::vanshb03-7460209d-4c2d-4e3b-9181-d843f046eace": {
       "company": "TikTok",
@@ -73471,6 +73624,16 @@
       "title": "New Grad 2026: AI/ML Software Engineer (Data Platform TikTok BP)",
       "url": "https://lifeattiktok.com/search/7541178634444589319"
     },
+    "vanshb03:tiktok::vanshb03-9bd4e3cc-8b9e-4f5f-8f44-ffec56eb8aa8": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:58:01+00:00",
+      "last_seen": "2026-11-01T09:58:01+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793525855",
+      "source": "vanshb03",
+      "title": "Fullstack Software Engineer Intern, Global E-Commerce",
+      "url": "https://go.vansh.nyc/18i"
+    },
     "vanshb03:tiktok::vanshb03-9dde8c27-95aa-4130-9fba-bb0b7d56c9e4": {
       "company": "TikTok",
       "first_seen": "2026-11-01T09:47:58+00:00",
@@ -73608,6 +73771,16 @@
       "title": "New Grad 2027: Fullstack Software Engineer, Global E-commerce",
       "url": "https://go.vansh.nyc/16z"
     },
+    "vanshb03:tiktok::vanshb03-be22787e-0d16-4ee7-a940-bdb8ea8e903f": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:58:01+00:00",
+      "last_seen": "2026-11-01T09:58:01+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793525855",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, TikTok AI Search & Visual Search Infra Team",
+      "url": "https://go.vansh.nyc/183"
+    },
     "vanshb03:tiktok::vanshb03-be55ad35-41e4-44c8-b177-a12a3af174dd": {
       "company": "TikTok",
       "first_seen": "2026-11-01T09:47:57+00:00",
@@ -73722,6 +73895,16 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer Graduate User Growth",
       "url": "https://lifeattiktok.com/search/7532629934058178824?spread=5MWH5CQ"
+    },
+    "vanshb03:tiktok::vanshb03-d744de80-70eb-432a-a893-21f87c28be29": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:58:01+00:00",
+      "last_seen": "2026-11-01T09:58:01+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793525855",
+      "source": "vanshb03",
+      "title": "Software Engineer Project Intern, Global E-Commerce Search Infrastructure",
+      "url": "https://go.vansh.nyc/18y"
     },
     "vanshb03:tiktok::vanshb03-d783f20d-4494-4ae6-99e2-8d7a23c87491": {
       "company": "TikTok",
@@ -74826,5 +75009,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-01T09:58:28+00:00"
+  "updated_at": "2026-11-01T13:11:32+00:00"
 }
