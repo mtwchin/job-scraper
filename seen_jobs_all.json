@@ -1,5 +1,5 @@
 {
-  "count": 8593,
+  "count": 8594,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -59307,6 +59307,16 @@
       "title": "Malware Research Intern",
       "url": "https://trendmicro.wd3.myworkdayjobs.com/External/job/Toronto/Malware-Research-Intern_R0009997"
     },
+    "simplify:trg::simplify-406b0816-39b7-4e44-bdd9-17030f08c8f2": {
+      "company": "TRG",
+      "first_seen": "2026-11-01T15:32:41+00:00",
+      "last_seen": "2026-11-01T15:32:41+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1793545518",
+      "source": "simplify",
+      "title": "Full Stack Application Developer Intern",
+      "url": "https://secure7.saashr.com/ta/6203759.careers?ShowJob=638057422&lang=en-US"
+    },
     "simplify:tribalscale::simplify-f201c4fb-0c02-4b0c-910d-f94f40ef4e92": {
       "company": "TribalScale",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -75009,5 +75019,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-01T13:51:39+00:00"
+  "updated_at": "2026-11-01T15:32:42+00:00"
 }
