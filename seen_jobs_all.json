@@ -1,5 +1,5 @@
 {
-  "count": 8532,
+  "count": 8576,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -65111,6 +65111,16 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"
     },
+    "vanshb03:antares::vanshb03-948da996-7dab-4069-8390-a5bf7fc61634": {
+      "company": "Antares",
+      "first_seen": "2026-11-01T09:58:24+00:00",
+      "last_seen": "2026-11-01T09:58:24+00:00",
+      "location": "Los Angeles, CA",
+      "posted_at": "1789538706",
+      "source": "vanshb03",
+      "title": "Reactor Software Engineering Intern",
+      "url": "https://go.vansh.nyc/17z"
+    },
     "vanshb03:anyscale::vanshb03-13003e48-b8f4-417c-b9cb-2db87d60285c": {
       "company": "Anyscale",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -68089,6 +68099,26 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/108"
     },
+    "vanshb03:geotab::vanshb03-7942598b-60d6-47e6-8f77-83741ba8dc61": {
+      "company": "Geotab",
+      "first_seen": "2026-11-01T09:58:24+00:00",
+      "last_seen": "2026-11-01T09:58:24+00:00",
+      "location": "Oakville, Canada, Toronto, Canada, Waterloo, Canada",
+      "posted_at": "1793115011",
+      "source": "vanshb03",
+      "title": "Software Developer Intern, Geotab Vitality",
+      "url": "https://go.vansh.nyc/17F"
+    },
+    "vanshb03:geotab::vanshb03-7ddba8db-a933-4940-8e23-465aaeb37517": {
+      "company": "Geotab",
+      "first_seen": "2026-11-01T09:58:24+00:00",
+      "last_seen": "2026-11-01T09:58:24+00:00",
+      "location": "Oakville, Canada, Waterloo, Canada",
+      "posted_at": "1793115010",
+      "source": "vanshb03",
+      "title": "Software Developer Intern, MyAdmin",
+      "url": "https://go.vansh.nyc/17E"
+    },
     "vanshb03:ginkgo bioworks::vanshb03-ce9656eb-4e3b-436a-8380-cd0fdee2e0bd": {
       "company": "Ginkgo Bioworks",
       "first_seen": "2026-10-26T16:38:11+00:00",
@@ -68476,6 +68506,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://apply.workable.com/hyperlight/j/5581EA0668/"
+    },
+    "vanshb03:hyphenate::vanshb03-661272ab-1496-48b4-9823-983f49845412": {
+      "company": "Hyphenate",
+      "first_seen": "2026-11-01T09:58:24+00:00",
+      "last_seen": "2026-11-01T09:58:24+00:00",
+      "location": "New York, NY",
+      "posted_at": "1787688907",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/17t"
     },
     "vanshb03:i3::vanshb03-bcccb7d7-836e-4fd2-9c12-339db8b1ade2": {
       "company": "i3",
@@ -72807,6 +72847,16 @@
       "title": "Frontend Engineer Intern, TikTok-Open Platform",
       "url": "https://go.vansh.nyc/6k"
     },
+    "vanshb03:tiktok::vanshb03-085cdf12-f415-41f1-aa86-41149865fde1": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:56+00:00",
+      "last_seen": "2026-11-01T09:47:56+00:00",
+      "location": "San Jose, CA; Seattle, WA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Backend Software Engineer, Global E-commerce",
+      "url": "https://go.vansh.nyc/16y"
+    },
     "vanshb03:tiktok::vanshb03-0d7566d2-73ff-4625-bcea-36fbbfa2bde4": {
       "company": "TikTok",
       "first_seen": "2026-10-25T08:27:07+00:00",
@@ -72838,6 +72888,36 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer (Live Service)",
       "url": "https://lifeattiktok.com/search/7538325771954637074"
+    },
+    "vanshb03:tiktok::vanshb03-164433a7-8268-4ccb-872e-ff691c7436cd": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:56+00:00",
+      "last_seen": "2026-11-01T09:47:56+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer (Global E-commerce-Search)",
+      "url": "https://go.vansh.nyc/16s"
+    },
+    "vanshb03:tiktok::vanshb03-1b910816-52a2-4670-a123-534e6658529e": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:56+00:00",
+      "last_seen": "2026-11-01T09:47:56+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: AI Systems Engineer (AI Code Infrastructure-Agentic Ops US)",
+      "url": "https://go.vansh.nyc/16t"
+    },
+    "vanshb03:tiktok::vanshb03-1d87de72-ffdb-410f-95a4-608dd716df70": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:56+00:00",
+      "last_seen": "2026-11-01T09:47:56+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, Ads Infra",
+      "url": "https://go.vansh.nyc/16q"
     },
     "vanshb03:tiktok::vanshb03-1e343c2e-d449-4973-a233-341f6dc83290": {
       "company": "TikTok",
@@ -72883,6 +72963,16 @@
       "title": "New Grad 2026: Software Engineer Graduate Short Video (BS/MS)",
       "url": "https://lifeattiktok.com/search/7532626300897937682?spread=5MWH5CQ"
     },
+    "vanshb03:tiktok::vanshb03-2cd0ebba-7313-44bb-a451-38148691cc05": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:58+00:00",
+      "last_seen": "2026-11-01T09:47:58+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, Media Engine (Master's)",
+      "url": "https://go.vansh.nyc/17c"
+    },
     "vanshb03:tiktok::vanshb03-2eceabb9-6f55-4bae-b808-e5e013312b8e": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -72893,6 +72983,16 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer Graduate (Data Platfrom TikTok BP)",
       "url": "https://lifeattiktok.com/search/7535528357414570248?spread=5MWH5CQ"
+    },
+    "vanshb03:tiktok::vanshb03-302a328b-e9dd-4e7c-b089-4fc10607fc05": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:55+00:00",
+      "last_seen": "2026-11-01T09:47:55+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer (AI Agent & Global Revenue Platform)",
+      "url": "https://go.vansh.nyc/169"
     },
     "vanshb03:tiktok::vanshb03-302db2f9-46c2-42af-a0e1-656459c754b3": {
       "company": "TikTok",
@@ -72925,6 +73025,16 @@
       "title": "Backend Software Engineer Intern, PGC-Digital Content Center",
       "url": "https://go.vansh.nyc/6f"
     },
+    "vanshb03:tiktok::vanshb03-3aec897b-7b09-46b7-943c-01da5588d10b": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:56+00:00",
+      "last_seen": "2026-11-01T09:47:56+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Frontend Software Engineer (Ads Interface)",
+      "url": "https://go.vansh.nyc/16n"
+    },
     "vanshb03:tiktok::vanshb03-3b4462db-6f92-4f9a-979c-9f340461fd30": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -72935,6 +73045,16 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer Graduate (Recommendation Platform)",
       "url": "https://lifeattiktok.com/search/7536356589390301458?spread=5MWH5CQ"
+    },
+    "vanshb03:tiktok::vanshb03-3d172baf-a1fc-4f1c-b731-5154fe35ff95": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:55+00:00",
+      "last_seen": "2026-11-01T09:47:55+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Backend Software Engineer (Feed Safety)",
+      "url": "https://go.vansh.nyc/15R"
     },
     "vanshb03:tiktok::vanshb03-3efb2bbd-9139-441f-842a-cb0b656b97ec": {
       "company": "TikTok",
@@ -72989,6 +73109,46 @@
       "title": "New Grad 2026: Software Engineer Graduate Live-Foundation-Ecosystem",
       "url": "https://lifeattiktok.com/search/7532631803707738376?spread=5MWH5CQ"
     },
+    "vanshb03:tiktok::vanshb03-484a3104-de7e-40cd-886c-94672b6ff949": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:55+00:00",
+      "last_seen": "2026-11-01T09:47:55+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, Ads Infrastructure",
+      "url": "https://go.vansh.nyc/15S"
+    },
+    "vanshb03:tiktok::vanshb03-4978165e-723b-4bea-b29a-38d1533fdff9": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:56+00:00",
+      "last_seen": "2026-11-01T09:47:56+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer (TikTok AI Search & Visual Search Infra Team)",
+      "url": "https://go.vansh.nyc/16A"
+    },
+    "vanshb03:tiktok::vanshb03-49f7a6bb-1201-44d5-881c-028f7a97e3fb": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:58+00:00",
+      "last_seen": "2026-11-01T09:47:58+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Backend Software Engineer, Creation Platform (Master's)",
+      "url": "https://go.vansh.nyc/17k"
+    },
+    "vanshb03:tiktok::vanshb03-4aa9e73e-c84b-4037-b9c9-f01a5b104990": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:55+00:00",
+      "last_seen": "2026-11-01T09:47:55+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, Ads Interface",
+      "url": "https://go.vansh.nyc/16g"
+    },
     "vanshb03:tiktok::vanshb03-4b7a3e44-2bf4-4a6d-a41c-046e72bad7db": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -72999,6 +73159,16 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer Graduate Product Infrastructure",
       "url": "https://lifeattiktok.com/search/7533106620768012562?spread=5MWH5CQ"
+    },
+    "vanshb03:tiktok::vanshb03-55a5f692-52de-4415-afc6-d60e9428ccca": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:58+00:00",
+      "last_seen": "2026-11-01T09:47:58+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Backend Engineer, TikTok Vertical Recommendation Architecture",
+      "url": "https://go.vansh.nyc/17d"
     },
     "vanshb03:tiktok::vanshb03-57746b4e-b874-455e-9a37-c6c9f3adcaab": {
       "company": "TikTok",
@@ -73031,6 +73201,16 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer Graduate Music",
       "url": "https://lifeattiktok.com/search/7532627066714753288?spread=5MWH5CQ"
+    },
+    "vanshb03:tiktok::vanshb03-5ec291c5-4d7f-4717-b500-08c33492144b": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:55+00:00",
+      "last_seen": "2026-11-01T09:47:55+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer/Mobile Engineer (Ads Core Demonstration)",
+      "url": "https://go.vansh.nyc/15Y"
     },
     "vanshb03:tiktok::vanshb03-5f45aea8-91e8-47e3-ba05-fecbd9d820c6": {
       "company": "TikTok",
@@ -73084,6 +73264,56 @@
       "title": "Backend Software Engineer Intern, Social Foundation",
       "url": "https://go.vansh.nyc/6d"
     },
+    "vanshb03:tiktok::vanshb03-6a6699df-b65a-42d1-ad9f-6529084a0ec9": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:57+00:00",
+      "last_seen": "2026-11-01T09:47:57+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer (Video-on-Demand Algorithm)",
+      "url": "https://go.vansh.nyc/176"
+    },
+    "vanshb03:tiktok::vanshb03-6cd55831-f2f8-4658-a078-845792724ea3": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:55+00:00",
+      "last_seen": "2026-11-01T09:47:55+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer (Data Arch - E-commerce)",
+      "url": "https://go.vansh.nyc/15Z"
+    },
+    "vanshb03:tiktok::vanshb03-7460209d-4c2d-4e3b-9181-d843f046eace": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:56+00:00",
+      "last_seen": "2026-11-01T09:47:56+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Recommendation Architecture AI/ML Infrastructure Engineer, Data-Arch-TikTok Live",
+      "url": "https://go.vansh.nyc/16x"
+    },
+    "vanshb03:tiktok::vanshb03-75916dca-f99b-4e7b-97e0-a96fcc32f0cc": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:57+00:00",
+      "last_seen": "2026-11-01T09:47:57+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, Foundation Platform",
+      "url": "https://go.vansh.nyc/177"
+    },
+    "vanshb03:tiktok::vanshb03-75bbcd6d-9579-441c-8f96-6f1d23e15d50": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:57+00:00",
+      "last_seen": "2026-11-01T09:47:57+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer (Ads Delivery)",
+      "url": "https://go.vansh.nyc/16E"
+    },
     "vanshb03:tiktok::vanshb03-769d0101-712d-4e54-926c-1d43d669b379": {
       "company": "TikTok",
       "first_seen": "2026-10-25T08:27:06+00:00",
@@ -73093,6 +73323,68 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, AI Agent & Global Revenue Platform",
       "url": "https://go.vansh.nyc/61"
+    },
+    "vanshb03:tiktok::vanshb03-76b48c9c-de50-483a-8c0a-50764f2f524e": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:56+00:00",
+      "last_seen": "2026-11-01T09:47:56+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Backend Engineer, User Growth",
+      "url": "https://go.vansh.nyc/16u"
+    },
+    "vanshb03:tiktok::vanshb03-7c9ec11c-8b8a-40fb-a6c5-1251c7334a0e": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:57+00:00",
+      "last_seen": "2026-11-01T09:47:57+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer (Ads Measurement Signal Technology)",
+      "url": "https://go.vansh.nyc/16F"
+    },
+    "vanshb03:tiktok::vanshb03-7dea4367-4726-4ca4-883a-7f7ddd8b18c4": {
+      "company": "TikTok",
+      "duplicate_of": "vanshb03:tiktok::vanshb03-085cdf12-f415-41f1-aa86-41149865fde1",
+      "first_seen": "2026-11-01T09:47:55+00:00",
+      "last_seen": "2026-11-01T09:47:55+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793526076",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "New Grad 2027: Backend Software Engineer (Global E-commerce)",
+      "url": "https://go.vansh.nyc/17b"
+    },
+    "vanshb03:tiktok::vanshb03-7eaef339-ab58-45db-bb7e-738ff5ec9b44": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:58+00:00",
+      "last_seen": "2026-11-01T09:47:58+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer (TikTok - Testing - Growth)",
+      "url": "https://go.vansh.nyc/178"
+    },
+    "vanshb03:tiktok::vanshb03-823f76e3-99da-43d9-a597-9a608f5de9a8": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:57+00:00",
+      "last_seen": "2026-11-01T09:47:57+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer (Video-on-Demand Algorithm) (Master's)",
+      "url": "https://go.vansh.nyc/16R"
+    },
+    "vanshb03:tiktok::vanshb03-82f61443-6f02-4ebb-ad34-33282b41354f": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:55+00:00",
+      "last_seen": "2026-11-01T09:47:55+00:00",
+      "location": "Seattle, WA; San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Backend Software Engineer (Trust & Safety)",
+      "url": "https://go.vansh.nyc/167"
     },
     "vanshb03:tiktok::vanshb03-84e4d646-f8fa-4e5e-8670-72f4bcc6fd91": {
       "company": "TikTok",
@@ -73115,6 +73407,16 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer Graduate Mobile Reliability (Android)",
       "url": "https://lifeattiktok.com/search/7534794210978187527?spread=5MWH5CQ"
+    },
+    "vanshb03:tiktok::vanshb03-8641e386-1e3e-4dbc-9dea-b093a63363ad": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:57+00:00",
+      "last_seen": "2026-11-01T09:47:57+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, Global CRM",
+      "url": "https://go.vansh.nyc/16M"
     },
     "vanshb03:tiktok::vanshb03-87c2a369-995b-4331-913a-0dcebd8c7fe9": {
       "company": "TikTok",
@@ -73148,6 +73450,16 @@
       "title": "New Grad 2026: Software Engineer (Media Engine)",
       "url": "https://lifeattiktok.com/search/7538320612860446994"
     },
+    "vanshb03:tiktok::vanshb03-94e46154-06a1-4e1a-8d89-9a0202c9366f": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:56+00:00",
+      "last_seen": "2026-11-01T09:47:56+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer (Media Engine)",
+      "url": "https://go.vansh.nyc/16w"
+    },
     "vanshb03:tiktok::vanshb03-94ed660f-0bde-41a3-8aaf-ad8896984594": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -73158,6 +73470,26 @@
       "source": "vanshb03",
       "title": "New Grad 2026: AI/ML Software Engineer (Data Platform TikTok BP)",
       "url": "https://lifeattiktok.com/search/7541178634444589319"
+    },
+    "vanshb03:tiktok::vanshb03-9dde8c27-95aa-4130-9fba-bb0b7d56c9e4": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:58+00:00",
+      "last_seen": "2026-11-01T09:47:58+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Backend Software Engineer, Privacy and Security - Product",
+      "url": "https://go.vansh.nyc/17a"
+    },
+    "vanshb03:tiktok::vanshb03-9e438b62-934a-4219-8076-925ced270548": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:58+00:00",
+      "last_seen": "2026-11-01T09:47:58+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, Business Integrity",
+      "url": "https://go.vansh.nyc/17g"
     },
     "vanshb03:tiktok::vanshb03-9e4cdbc5-5a9f-4b51-bb35-934ef8660b2f": {
       "company": "TikTok",
@@ -73181,6 +73513,28 @@
       "source": "vanshb03",
       "title": "Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation",
       "url": "https://go.vansh.nyc/RQ"
+    },
+    "vanshb03:tiktok::vanshb03-aaa30569-6cc7-4d81-bd33-126ce02d828c": {
+      "company": "TikTok",
+      "duplicate_of": "vanshb03:tiktok::vanshb03-82f61443-6f02-4ebb-ad34-33282b41354f",
+      "first_seen": "2026-11-01T09:47:55+00:00",
+      "last_seen": "2026-11-01T09:47:55+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "New Grad 2027: Backend Software Engineer (Trust & Safety)",
+      "url": "https://go.vansh.nyc/16d"
+    },
+    "vanshb03:tiktok::vanshb03-ab851e0a-c1c8-412d-9992-54ac658c3686": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:55+00:00",
+      "last_seen": "2026-11-01T09:47:55+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Backend Software Engineer, Business Governance",
+      "url": "https://go.vansh.nyc/15K"
     },
     "vanshb03:tiktok::vanshb03-abda1495-311a-45b6-aad7-1d3d86bf1c6e": {
       "company": "TikTok",
@@ -73244,6 +73598,26 @@
       "title": "New Grad 2026: Software Engineer",
       "url": "https://lifeattiktok.com/search/7532627069594224903?spread=5MWH5CQ"
     },
+    "vanshb03:tiktok::vanshb03-be1f29ea-8398-43c0-bc86-ebecfcd98b65": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:56+00:00",
+      "last_seen": "2026-11-01T09:47:56+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Fullstack Software Engineer, Global E-commerce",
+      "url": "https://go.vansh.nyc/16z"
+    },
+    "vanshb03:tiktok::vanshb03-be55ad35-41e4-44c8-b177-a12a3af174dd": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:57+00:00",
+      "last_seen": "2026-11-01T09:47:57+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer (Recommendation Architecture, Feeds Infrastructure)",
+      "url": "https://go.vansh.nyc/170"
+    },
     "vanshb03:tiktok::vanshb03-bea233a7-e8f1-404c-bce2-0539ac678585": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -73264,6 +73638,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Shoot Experience Optimization",
       "url": "https://go.vansh.nyc/69"
+    },
+    "vanshb03:tiktok::vanshb03-c4952b8d-115e-4b55-b336-449c9808d9c6": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:55+00:00",
+      "last_seen": "2026-11-01T09:47:55+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Backend Software Engineer (Machine Moderation Platform)",
+      "url": "https://go.vansh.nyc/16c"
     },
     "vanshb03:tiktok::vanshb03-c7102462-cd53-4a83-ae42-ee9ac01601e5": {
       "company": "TikTok",
@@ -73297,6 +73681,16 @@
       "title": "Backend Software Engineer Intern, Social Friending",
       "url": "https://go.vansh.nyc/6i"
     },
+    "vanshb03:tiktok::vanshb03-cf3e9f71-b5af-4013-a351-6e283e9da4ad": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:57+00:00",
+      "last_seen": "2026-11-01T09:47:57+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, Foundation Platform (Master's)",
+      "url": "https://go.vansh.nyc/175"
+    },
     "vanshb03:tiktok::vanshb03-d19c32df-55c4-4eca-b686-be1736e43c22": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -73307,6 +73701,16 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer Graduate Intelligent Creation",
       "url": "https://lifeattiktok.com/search/7532629935045232903?spread=5MWH5CQ"
+    },
+    "vanshb03:tiktok::vanshb03-d511eeea-e1f8-41df-8520-95c5c55fd39a": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:58+00:00",
+      "last_seen": "2026-11-01T09:47:58+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, Recommendation Infrastructure",
+      "url": "https://go.vansh.nyc/17l"
     },
     "vanshb03:tiktok::vanshb03-d57bf78a-b5d2-4a9d-bde5-f390047362cb": {
       "company": "TikTok",
@@ -73351,6 +73755,26 @@
       "title": "Software Engineer Intern, TikTok-Social-Friending",
       "url": "https://go.vansh.nyc/6g"
     },
+    "vanshb03:tiktok::vanshb03-df317231-4b69-43e9-a36f-0a59ec312fd5": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:57+00:00",
+      "last_seen": "2026-11-01T09:47:57+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer (Ads Signal & Measurement)",
+      "url": "https://go.vansh.nyc/16K"
+    },
+    "vanshb03:tiktok::vanshb03-e17e63c5-f646-4750-be24-fc01745ec46b": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:55+00:00",
+      "last_seen": "2026-11-01T09:47:55+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Backend Software Engineer (TikTok-PGC-Digital Content Center)",
+      "url": "https://go.vansh.nyc/15N"
+    },
     "vanshb03:tiktok::vanshb03-e5e5e861-a0f4-4983-bdb8-12c509ec53f6": {
       "company": "TikTok",
       "first_seen": "2026-10-25T08:27:06+00:00",
@@ -73372,6 +73796,16 @@
       "title": "New Grad 2026: Software Engineer Graduate (Ads Measurement Signal Technology)",
       "url": "https://lifeattiktok.com/search/7531161909615593735?spread=5MWH5CQ"
     },
+    "vanshb03:tiktok::vanshb03-e9b8b6a2-9340-484b-8996-0a0e576ed773": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:58+00:00",
+      "last_seen": "2026-11-01T09:47:58+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Backend Software Engineer, Data Lifecycle Management",
+      "url": "https://go.vansh.nyc/17i"
+    },
     "vanshb03:tiktok::vanshb03-eb59c6c4-d38e-4ec9-ba8b-912f43d2201e": {
       "company": "TikTok",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -73382,6 +73816,16 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer Graduate Search",
       "url": "https://lifeattiktok.com/search/7532627070011771154?spread=5MWH5CQ"
+    },
+    "vanshb03:tiktok::vanshb03-ec8e3c8b-c5c0-4f48-8350-d6dc113d7467": {
+      "company": "TikTok",
+      "first_seen": "2026-11-01T09:47:57+00:00",
+      "last_seen": "2026-11-01T09:47:57+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793526076",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer (Global E-Commerce-Quality Platform & AI Test Automation)",
+      "url": "https://go.vansh.nyc/16H"
     },
     "vanshb03:tiktok::vanshb03-ffe0a043-7948-43c1-a3b4-3f5d314df447": {
       "company": "TikTok",
@@ -74382,5 +74826,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-01T08:33:25+00:00"
+  "updated_at": "2026-11-01T09:58:28+00:00"
 }
