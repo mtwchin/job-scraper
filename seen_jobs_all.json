@@ -1,5 +1,5 @@
 {
-  "count": 8594,
+  "count": 8595,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -69156,6 +69156,16 @@
       "title": "Software Engineering Intern",
       "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1"
     },
+    "vanshb03:knowbe4::vanshb03-0e2a9fdd-5b7e-481b-980c-6d2373b376e3": {
+      "company": "KnowBe4",
+      "first_seen": "2026-11-01T21:11:57+00:00",
+      "last_seen": "2026-11-01T21:11:57+00:00",
+      "location": "Clearwater, FL",
+      "posted_at": "1793563542",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/191"
+    },
     "vanshb03:l3harris technologies::vanshb03-0b57208e-fafb-4160-8214-c8403abf2ac7": {
       "company": "L3Harris Technologies",
       "first_seen": "2026-10-20T22:29:43+00:00",
@@ -75019,5 +75029,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-01T19:21:56+00:00"
+  "updated_at": "2026-11-01T21:11:59+00:00"
 }
