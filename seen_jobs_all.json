@@ -1,5 +1,5 @@
 {
-  "count": 8490,
+  "count": 8492,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -64963,6 +64963,18 @@
       "title": "Software Engineer 1, Technology",
       "url": "https://aexp.eightfold.ai/careers/job/38270703"
     },
+    "vanshb03:american express::vanshb03-320488d0-3f3a-4e42-9ec4-ff5c7c02256e": {
+      "company": "American Express",
+      "duplicate_of": "vanshb03:american express::vanshb03-bdd6e13b-35b7-4758-9ef1-132e6e16276e",
+      "first_seen": "2026-11-01T06:32:07+00:00",
+      "last_seen": "2026-11-01T06:32:07+00:00",
+      "location": "Sunrise, FL",
+      "posted_at": "1787326673",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Enterprise Technology Services",
+      "url": "https://go.vansh.nyc/70"
+    },
     "vanshb03:american express::vanshb03-52b76d08-02b4-46ef-92b5-04008a0c43fb": {
       "company": "American Express",
       "first_seen": "2026-10-26T14:40:12+00:00",
@@ -64972,6 +64984,18 @@
       "source": "vanshb03",
       "title": "New Grad 2027: Software Engineer I, Enterprise Technology Services",
       "url": "https://go.vansh.nyc/Of"
+    },
+    "vanshb03:american express::vanshb03-9e5c3ecf-33a5-4ae3-9656-913717276941": {
+      "company": "American Express",
+      "duplicate_of": "vanshb03:american express::vanshb03-bdd6e13b-35b7-4758-9ef1-132e6e16276e",
+      "first_seen": "2026-11-01T06:32:07+00:00",
+      "last_seen": "2026-11-01T06:32:07+00:00",
+      "location": "Phoenix, AZ",
+      "posted_at": "1787326660",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Enterprise Technology Services",
+      "url": "https://go.vansh.nyc/6Y"
     },
     "vanshb03:american express::vanshb03-bdd6e13b-35b7-4758-9ef1-132e6e16276e": {
       "company": "American Express",
@@ -73944,5 +73968,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-01T05:32:12+00:00"
+  "updated_at": "2026-11-01T06:32:15+00:00"
 }
