@@ -1,5 +1,5 @@
 {
-  "count": 8488,
+  "count": 8489,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -72285,6 +72285,16 @@
       "title": "Software Engineering Intern",
       "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25007757"
     },
+    "vanshb03:textron::vanshb03-be304426-4fb9-4606-88f7-ed3c75eb3076": {
+      "company": "Textron",
+      "first_seen": "2026-11-01T04:32:08+00:00",
+      "last_seen": "2026-11-01T04:32:08+00:00",
+      "location": "Augusta, GA",
+      "posted_at": "1788314490",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/Q7"
+    },
     "vanshb03:the aerospace corporation::vanshb03-2a77e792-a823-40b2-bf20-244d37b55813": {
       "company": "The Aerospace Corporation",
       "first_seen": "2026-10-22T02:34:49+00:00",
@@ -73922,5 +73932,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-01T02:51:06+00:00"
+  "updated_at": "2026-11-01T04:32:09+00:00"
 }
