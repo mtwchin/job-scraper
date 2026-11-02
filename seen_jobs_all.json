@@ -1,5 +1,5 @@
 {
-  "count": 8601,
+  "count": 8602,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71024,6 +71024,16 @@
       "title": "Forward Deployed Engineer (FDE) Intern",
       "url": "https://www.workatastartup.com/jobs/93642"
     },
+    "vanshb03:paretohealth::vanshb03-4431d7a0-b59f-483d-b7f9-3e4cd03a27d5": {
+      "company": "ParetoHealth",
+      "first_seen": "2026-11-02T14:10:24+00:00",
+      "last_seen": "2026-11-02T14:10:24+00:00",
+      "location": "Philadelphia, PA",
+      "posted_at": "1793577600",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/19e"
+    },
     "vanshb03:patreon::vanshb03-b712040a-e374-471f-b223-7341fc7c178e": {
       "company": "Patreon",
       "first_seen": "2026-11-01T00:13:25+00:00",
@@ -75089,5 +75099,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-02T11:52:51+00:00"
+  "updated_at": "2026-11-02T14:10:56+00:00"
 }
