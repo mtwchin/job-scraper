@@ -1,5 +1,5 @@
 {
-  "count": 8598,
+  "count": 8601,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -27715,6 +27715,16 @@
       "title": "Software Engineer Intern",
       "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054"
     },
+    "simplify:google::simplify-da1ac264-d20e-4ad8-b630-709c0ae8cd5e": {
+      "company": "Google",
+      "first_seen": "2026-11-02T07:32:05+00:00",
+      "last_seen": "2026-11-02T07:32:05+00:00",
+      "location": "Palo Alto, CA, Madison, WI, Seattle, WA, LA, Raleigh, NC, San Bruno, CA, Durham, NC, Pittsburgh, PA, Kirkland, WA, NYC, Sunnyvale, CA, Mountain View, CA",
+      "posted_at": "1793603487",
+      "source": "simplify",
+      "title": "Software Engineer 2 \u2013 Early Career",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318"
+    },
     "simplify:google::simplify-e1b4d8a5-e0ba-4b52-9363-36b5f62610d9": {
       "company": "Google",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -29705,6 +29715,16 @@
       "posted_at": "1770602992",
       "title": "Software Development Engineer",
       "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-Virg/1362993700/?ats=successfactors"
+    },
+    "simplify:huntington ingalls industries::simplify-572e9184-7dd8-4308-a264-ad51089e3281": {
+      "company": "Huntington Ingalls Industries",
+      "first_seen": "2026-11-02T08:03:03+00:00",
+      "last_seen": "2026-11-02T08:03:03+00:00",
+      "location": "Newport News, VA",
+      "posted_at": "1793605887",
+      "source": "simplify",
+      "title": "IT Software Engineer 1 - Robotic Process Automation",
+      "url": "https://careers.huntingtoningalls.com/job/Newport-News-IT-SOFTWARE-ENGINEER-1-ROBOTIC-PROCESS-AUTOMATION-(RPA)-Virg/1445226800/?ats=successfactors"
     },
     "simplify:huntington ingalls industries::simplify-5c6a7acc-7059-4cd2-b311-ad9527733e79": {
       "company": "Huntington Ingalls Industries",
@@ -37844,6 +37864,16 @@
       "source": "simplify",
       "title": "Software Engineer - Intune",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925"
+    },
+    "simplify:microsoft::simplify-09939e91-4c36-4e3b-ace2-9d0117e05b68": {
+      "company": "Microsoft",
+      "first_seen": "2026-11-02T08:02:07+00:00",
+      "last_seen": "2026-11-02T08:02:07+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1793604875",
+      "source": "simplify",
+      "title": "Explore Program Engineering Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823"
     },
     "simplify:microsoft::simplify-12b37514-55d3-4d2b-889d-499ef0584772": {
       "company": "Microsoft",
@@ -75059,5 +75089,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-02T07:32:34+00:00"
+  "updated_at": "2026-11-02T08:03:37+00:00"
 }
