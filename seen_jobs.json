@@ -1,5 +1,5 @@
 {
-  "count": 7795,
+  "count": 7796,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -4517,6 +4517,16 @@
       "source": "",
       "title": "Junior Ground Systems Engineer - Instrumentation & Control",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8034180003"
+    },
+    "rocket lab::8042092003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-11-02T23:38:56+00:00",
+      "last_seen": "2026-11-02T23:38:56+00:00",
+      "location": "Middle River, MD",
+      "posted_at": "2026-11-02T18:37:42-05:00",
+      "source": "",
+      "title": "Ground Systems Engineering Intern Summer 2027",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8042092003"
     },
     "rocket lab::8042094003": {
       "company": "Rocket Lab",
@@ -66026,5 +66036,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-02T23:32:33+00:00"
+  "updated_at": "2026-11-02T23:39:36+00:00"
 }
