@@ -1,5 +1,5 @@
 {
-  "count": 8596,
+  "count": 8598,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -14445,6 +14445,16 @@
       "source": "simplify",
       "title": "Software Engineer",
       "url": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Olivette-MO-USA/Software-Engineer_R26_0000003648"
+    },
+    "simplify:brown & brown insurance::simplify-50699bdf-eacb-419e-8a11-b9803c46092e": {
+      "company": "Brown & Brown Insurance",
+      "first_seen": "2026-11-02T07:32:32+00:00",
+      "last_seen": "2026-11-02T07:32:32+00:00",
+      "location": "Plano, TX",
+      "posted_at": "1793491200",
+      "source": "simplify",
+      "title": "Junior HubSpot Developer",
+      "url": "https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694"
     },
     "simplify:brown university health::simplify-e214e3ea-1389-4e2b-9fa5-016e41e4dc27": {
       "company": "Brown University Health",
@@ -47906,6 +47916,16 @@
       "title": "Software Engineer - AI/UI",
       "url": "https://www.weareroku.com/jobs/8188704?gh_jid=8188704"
     },
+    "simplify:roku::simplify-ee9ecff7-1a10-4b66-ae21-f2afcc5ac4a0": {
+      "company": "Roku",
+      "first_seen": "2026-11-02T07:32:32+00:00",
+      "last_seen": "2026-11-02T07:32:32+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793601363",
+      "source": "simplify",
+      "title": "Software Engineer Intern - AI Engineering",
+      "url": "https://www.weareroku.com/jobs/8258241?gh_jid=8258241"
+    },
     "simplify:rollout::simplify-69aff88e-4f1d-437a-82b3-be6100ddd3ea": {
       "company": "Rollout",
       "first_seen": "2026-07-30T12:18:38+00:00",
@@ -75039,5 +75059,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-02T06:22:30+00:00"
+  "updated_at": "2026-11-02T07:32:34+00:00"
 }
