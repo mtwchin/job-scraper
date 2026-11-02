@@ -1000,6 +1000,15 @@
       "title": "Software Engineer New Grad - Agent Performance Modeling",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350"
     },
+    "simplify:ocado group::simplify-5a361146-c417-435f-aa29-21e4fca3ba06": {
+      "attempted_at": "2026-11-02T16:03:23+00:00",
+      "company": "Ocado Group",
+      "location": "Hatfield, UK",
+      "posted_at": "1793628920",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5018802101&gh_jid=5018802101"
+    },
     "simplify:omen ai::simplify-b2972fae-a36b-454e-859f-b0e97ae896dc": {
       "attempted_at": "2026-10-29T15:02:31+00:00",
       "company": "Omen AI",
@@ -75163,5 +75172,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-02T15:43:05+00:00"
+  "updated_at": "2026-11-02T16:04:09+00:00"
 }
