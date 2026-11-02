@@ -1,5 +1,5 @@
 {
-  "count": 7777,
+  "count": 7778,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -65329,6 +65329,16 @@
       "title": "Embedded Software Engineer Intern",
       "url": "https://go.vansh.nyc/Ot"
     },
+    "vanshb03:verkada::vanshb03-9ab6e3ea-0469-42ae-9bb6-f2f55696880d": {
+      "company": "Verkada",
+      "first_seen": "2026-11-02T19:43:43+00:00",
+      "last_seen": "2026-11-02T19:43:43+00:00",
+      "location": "San Mateo, CA",
+      "posted_at": "1793645823",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Backend Software Engineer",
+      "url": "https://go.vansh.nyc/19H"
+    },
     "vanshb03:viasat::vanshb03-e99e9d74-ff1a-42cd-a01e-32f38fb42973": {
       "company": "Viasat",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -65846,5 +65856,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-02T18:49:08+00:00"
+  "updated_at": "2026-11-02T19:44:10+00:00"
 }
