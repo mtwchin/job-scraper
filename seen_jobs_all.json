@@ -1,5 +1,5 @@
 {
-  "count": 8632,
+  "count": 8649,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -5389,6 +5389,16 @@
       "source": "",
       "title": "Junior Ground Systems Engineer - Instrumentation & Control",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8034180003"
+    },
+    "rocket lab::8042094003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-11-02T23:31:34+00:00",
+      "last_seen": "2026-11-02T23:31:34+00:00",
+      "location": "Middle River, MD",
+      "posted_at": "2026-11-02T18:30:38-05:00",
+      "source": "",
+      "title": "Ground Systems Engineering Intern Spring 2027",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003"
     },
     "rocket lab::8058455003": {
       "company": "Rocket Lab",
@@ -12386,6 +12396,16 @@
       "title": "Software Engineer Co-op Intern - Winter 2027",
       "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Engineer--Winter-2027--Co-op-Internship----4-month_R260025826"
     },
+    "simplify:bank of montreal::simplify-969fad49-3d84-4fbc-9700-8d9045078201": {
+      "company": "Bank of Montreal",
+      "first_seen": "2026-11-02T23:32:39+00:00",
+      "last_seen": "2026-11-02T23:32:39+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793661493",
+      "source": "simplify",
+      "title": "UX/UI Designer Co-op Intern",
+      "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1"
+    },
     "simplify:bank of montreal::simplify-97e495f1-2aae-4889-95a9-4b382506f276": {
       "company": "Bank of Montreal",
       "first_seen": "2026-08-26T16:21:48+00:00",
@@ -17829,6 +17849,26 @@
       "source": "simplify",
       "title": "Software Engineer 1 - Web Services",
       "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Software-Engineer-I---Web-Services_JR225073"
+    },
+    "simplify:cincinnati children\u2019s hospital and medical center::simplify-f7d94cc4-15c3-4072-a1c9-9e8a2413fd5a": {
+      "company": "Cincinnati Children\u2019s Hospital and Medical Center",
+      "first_seen": "2026-11-02T23:32:39+00:00",
+      "last_seen": "2026-11-02T23:32:39+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1793577600",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--A-_JR226736"
+    },
+    "simplify:cincinnati children\u2019s hospital and medical center::simplify-fc3fa536-4c6e-430d-ae11-d6231289e10a": {
+      "company": "Cincinnati Children\u2019s Hospital and Medical Center",
+      "first_seen": "2026-11-02T23:32:39+00:00",
+      "last_seen": "2026-11-02T23:32:39+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1793577600",
+      "source": "simplify",
+      "title": "Software Engineering Developer Intern",
+      "url": "https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/Student-II---Software-Engineering-Developer--B-_JR226743"
     },
     "simplify:cincinnati children\u2019s hospital and medical center::simplify-fcd24d2e-1552-4b2e-a939-87596e9177ce": {
       "company": "Cincinnati Children\u2019s Hospital and Medical Center",
@@ -33879,6 +33919,18 @@
       "title": "Chemical Product Engineer - Process - Tool",
       "url": "https://kla.wd1.myworkdayjobs.com/search/job/Totowa-NJ/Product-Engineer_2636515"
     },
+    "simplify:kla corporation::simplify-80f18dd7-dd58-4635-88b5-28ffe8a06439": {
+      "company": "KLA Corporation",
+      "duplicate_of": "vanshb03:kla::vanshb03-2f662d73-596b-41ad-a0ab-7f4018c784e8",
+      "first_seen": "2026-11-02T23:32:38+00:00",
+      "last_seen": "2026-11-02T23:32:38+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1793577600",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://kla.wd1.myworkdayjobs.com/search/job/Austin-TX/Software-Engineering-Intern_2642004-1"
+    },
     "simplify:kla corporation::simplify-98277f8e-e9e8-4bd6-86bd-2658b5f73e41": {
       "company": "KLA Corporation",
       "first_seen": "2026-07-29T03:35:09+00:00",
@@ -34632,6 +34684,26 @@
       "posted_at": "1785506597",
       "title": "Software Engineering Associate",
       "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors"
+    },
+    "simplify:labcorp::simplify-8c36b3e9-bb7e-465c-8e59-8add0c4ab3da": {
+      "company": "LabCorp",
+      "first_seen": "2026-11-02T23:32:39+00:00",
+      "last_seen": "2026-11-02T23:32:39+00:00",
+      "location": "Durham, NC, Burlington, NC",
+      "posted_at": "1793577600",
+      "source": "simplify",
+      "title": "Full-Stack Life Sciences Software Engineer Co-op",
+      "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Full-Stack-Life-Sciences-Engineer_2639083"
+    },
+    "simplify:labcorp::simplify-9769870e-4b9e-4899-a798-7811da36ffe5": {
+      "company": "LabCorp",
+      "first_seen": "2026-11-02T23:32:39+00:00",
+      "last_seen": "2026-11-02T23:32:39+00:00",
+      "location": "Durham, NC, Burlington, NC",
+      "posted_at": "1793577600",
+      "source": "simplify",
+      "title": "Agentic AI Developer Co-op",
+      "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Agentic-AI-Developer_2639201-1"
     },
     "simplify:laminar::simplify-f50200ae-9d5d-4692-bd20-24e9ac535f98": {
       "company": "Laminar",
@@ -38737,6 +38809,16 @@
       "source": "simplify",
       "title": "Software Engineer - Java / Python",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineer---Java---Python_R69271"
+    },
+    "simplify:motorola solutions::simplify-d961770e-2db5-4501-bd6a-d25420fa4238": {
+      "company": "Motorola Solutions",
+      "first_seen": "2026-11-02T23:32:39+00:00",
+      "last_seen": "2026-11-02T23:32:39+00:00",
+      "location": "Salt Lake City, UT, Remote in USA, Chicago, IL, Ashburn, VA, Schaumburg, IL, Plantation, FL",
+      "posted_at": "1793577600",
+      "source": "simplify",
+      "title": "Software Engineer Cybersecurity Services Intern",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250"
     },
     "simplify:motorola solutions::simplify-ff4139c4-0cba-4e64-9000-9503b26bd436": {
       "company": "Motorola Solutions",
@@ -42936,6 +43018,16 @@
       "posted_at": "1789078862",
       "title": "Software Developer Intern",
       "url": "https://jobs.paccar.com/job/Renton-2027-Winter-Internship-Software-Developer-Intern-WA-98057/1435928733/?ats=successfactors"
+    },
+    "simplify:paccar::simplify-3a491712-efae-41c7-9cf5-9e0c3367e9e1": {
+      "company": "Paccar",
+      "first_seen": "2026-11-02T23:32:39+00:00",
+      "last_seen": "2026-11-02T23:32:39+00:00",
+      "location": "Denton, TX",
+      "posted_at": "1793660700",
+      "source": "simplify",
+      "title": "AI-Driven Vehicle Definition Intern",
+      "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-AI-Driven-Vehicle-Definition-TX-76205-7864/1453573733/?ats=successfactors"
     },
     "simplify:paccar::simplify-49e57c55-743b-457d-b17f-64d6b36a90c6": {
       "company": "Paccar",
@@ -53859,6 +53951,16 @@
       "title": "Engineer 1 - Digital",
       "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineer-I--Digital_REQ-1000051830"
     },
+    "simplify:staples::simplify-7b190fdf-cbaa-48da-afc3-bdbf0f06287d": {
+      "company": "Staples",
+      "first_seen": "2026-11-02T23:32:39+00:00",
+      "last_seen": "2026-11-02T23:32:39+00:00",
+      "location": "Framingham, MA",
+      "posted_at": "1793661959",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Marketplace Platform",
+      "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77076"
+    },
     "simplify:staples::simplify-e3221443-b374-4b72-b948-ccecf7590b90": {
       "company": "Staples",
       "first_seen": "2026-08-02T23:29:04+00:00",
@@ -55075,6 +55177,30 @@
       "posted_at": "1786492800",
       "title": "Associate Engineer - Software",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Assoc-Engineer--Software_REQ367425-1"
+    },
+    "simplify:t-mobile::simplify-63d855e1-d1ea-462d-bcca-0d0d3bba5e1e": {
+      "company": "T-Mobile",
+      "duplicate_of": "simplify:t-mobile::simplify-06cae492-38dc-4006-8d0c-4e89e122c1f5",
+      "first_seen": "2026-11-02T23:32:38+00:00",
+      "last_seen": "2026-11-02T23:32:38+00:00",
+      "location": "NYC",
+      "posted_at": "1793577600",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886"
+    },
+    "simplify:t-mobile::simplify-76a9adb2-de1f-4c13-8134-c6ae9614a37d": {
+      "company": "T-Mobile",
+      "duplicate_of": "simplify:t-mobile::simplify-06cae492-38dc-4006-8d0c-4e89e122c1f5",
+      "first_seen": "2026-11-02T23:32:38+00:00",
+      "last_seen": "2026-11-02T23:32:38+00:00",
+      "location": "Philadelphia, PA",
+      "posted_at": "1793577600",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882"
     },
     "simplify:t-mobile::simplify-989986f5-744c-44d9-8783-a3495ddadb27": {
       "company": "T-Mobile",
@@ -56700,6 +56826,16 @@
       "posted_at": "1782252508",
       "title": "Junior Software Engineer - AI-Forward",
       "url": "https://apply.workable.com/texas-sports-academy-main/j/7CA2AC17A5/apply"
+    },
+    "simplify:textron::simplify-16ffdc52-e025-48ae-87f2-6935ed5dd2e2": {
+      "company": "Textron",
+      "first_seen": "2026-11-02T23:32:39+00:00",
+      "last_seen": "2026-11-02T23:32:39+00:00",
+      "location": "Mirabel, QC, Canada",
+      "posted_at": "1793660729",
+      "source": "simplify",
+      "title": "Information Technology Intern - Information Technology",
+      "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=345269"
     },
     "simplify:textron::simplify-1f33dede-1d64-4aeb-8345-18c5ceabdf28": {
       "company": "Textron",
@@ -63730,6 +63866,16 @@
       "title": "Software Engineer 1",
       "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/Software-Engineer-I_JR103056"
     },
+    "simplify:zebra technologies::simplify-62bf04c8-18c9-48d2-911d-93ed5a597077": {
+      "company": "Zebra Technologies",
+      "first_seen": "2026-11-02T23:32:39+00:00",
+      "last_seen": "2026-11-02T23:32:39+00:00",
+      "location": "Holtsville, NY",
+      "posted_at": "1793577600",
+      "source": "simplify",
+      "title": "Software/AI Engineer Intern - Handheld Mobile Computers",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632"
+    },
     "simplify:zebra technologies::simplify-64ea3f2c-3d8d-4c16-a0aa-9f31b33ec23b": {
       "company": "Zebra Technologies",
       "first_seen": "2026-09-08T23:04:44+00:00",
@@ -63751,6 +63897,26 @@
       "posted_at": "1788998400",
       "title": "Software Engineer 1",
       "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/Software-Engineer--I_JR103242-1"
+    },
+    "simplify:zebra technologies::simplify-be146f78-4172-4dbd-9839-b35a87ef06be": {
+      "company": "Zebra Technologies",
+      "first_seen": "2026-11-02T23:32:39+00:00",
+      "last_seen": "2026-11-02T23:32:39+00:00",
+      "location": "Lincolnshire, IL",
+      "posted_at": "1793577600",
+      "source": "simplify",
+      "title": "Intern - AI",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639"
+    },
+    "simplify:zebra technologies::simplify-f95a9943-a08d-468f-9a14-13f5b26ac3e3": {
+      "company": "Zebra Technologies",
+      "first_seen": "2026-11-02T23:32:39+00:00",
+      "last_seen": "2026-11-02T23:32:39+00:00",
+      "location": "Holtsville, NY",
+      "posted_at": "1793577600",
+      "source": "simplify",
+      "title": "Software Engineer Intern - US",
+      "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103626"
     },
     "simplify:zededa::simplify-54eb8a09-3206-49de-ab52-5f7361b9dae4": {
       "company": "Zededa",
@@ -63831,6 +63997,16 @@
       "source": "simplify",
       "title": "Software Development Engineer Intern",
       "url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630"
+    },
+    "simplify:zimmer biomet holdings::simplify-2ffb87fc-eef2-4456-bf21-597d3959f98e": {
+      "company": "Zimmer Biomet Holdings",
+      "first_seen": "2026-11-02T23:32:39+00:00",
+      "last_seen": "2026-11-02T23:32:39+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1793661899",
+      "source": "simplify",
+      "title": "Software Developer Co-op",
+      "url": "https://careers.zimmerbiomet.com/us/en/job/13309"
     },
     "simplify:zions bank::simplify-2a92c757-3cf3-472c-ae04-1df20bde3598": {
       "company": "Zions Bank",
@@ -75484,5 +75660,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-02T23:31:44+00:00"
+  "updated_at": "2026-11-02T23:32:47+00:00"
 }
