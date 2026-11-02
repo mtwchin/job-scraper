@@ -1,5 +1,5 @@
 {
-  "count": 8609,
+  "count": 8611,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1467,6 +1467,15 @@
       "source": "vanshb03",
       "title": "Software Engineering Co-op",
       "url": "https://go.vansh.nyc/Yb"
+    },
+    "vanshb03:kla::vanshb03-2f662d73-596b-41ad-a0ab-7f4018c784e8": {
+      "attempted_at": "2026-11-02T20:10:48+00:00",
+      "company": "KLA",
+      "location": "Totowa, NJ",
+      "posted_at": "1793577600",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/19L"
     },
     "vanshb03:kla::vanshb03-9aff637f-ed10-42d2-b06e-cbebb43ccbcd": {
       "attempted_at": "2026-10-23T17:25:09+00:00",
@@ -74546,6 +74555,16 @@
       "title": "Embedded Software Engineer Intern",
       "url": "https://go.vansh.nyc/Ot"
     },
+    "vanshb03:verkada::vanshb03-9ab6e3ea-0469-42ae-9bb6-f2f55696880d": {
+      "company": "Verkada",
+      "first_seen": "2026-11-02T19:43:43+00:00",
+      "last_seen": "2026-11-02T19:43:43+00:00",
+      "location": "San Mateo, CA",
+      "posted_at": "1793645823",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Backend Software Engineer",
+      "url": "https://go.vansh.nyc/19H"
+    },
     "vanshb03:vermeer::vanshb03-86e51beb-d377-4cd7-b3e1-3cb704c40061": {
       "company": "Vermeer",
       "first_seen": "2026-10-26T15:04:12+00:00",
@@ -74951,6 +74970,16 @@
       "title": "Mobile Software Engineering Intern 2027",
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007"
     },
+    "verkada::5280545007": {
+      "company": "Verkada",
+      "first_seen": "2026-11-02T18:48:23+00:00",
+      "last_seen": "2026-11-02T18:48:23+00:00",
+      "location": "San Mateo, CA United States",
+      "posted_at": "2026-11-02T13:47:29-05:00",
+      "source": "",
+      "title": "Backend Software Engineer - University Graduate 2027",
+      "url": "https://job-boards.greenhouse.io/verkada/jobs/5280545007"
+    },
     "virtu financial::8624410002": {
       "company": "Virtu Financial",
       "first_seen": "2026-07-21T15:59:08+00:00",
@@ -75236,5 +75265,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-02T18:42:27+00:00"
+  "updated_at": "2026-11-02T20:11:32+00:00"
 }
