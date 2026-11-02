@@ -1,5 +1,5 @@
 {
-  "count": 7775,
+  "count": 7776,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -62036,6 +62036,16 @@
       "title": "Software Engineer Intern, Security & Identity",
       "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930"
     },
+    "vanshb03:microsoft::vanshb03-71eb36cf-6990-4b6b-84ee-a4b494cc672b": {
+      "company": "Microsoft",
+      "first_seen": "2026-11-02T18:10:02+00:00",
+      "last_seen": "2026-11-02T18:10:02+00:00",
+      "location": "Aliso Viejo, CA",
+      "posted_at": "1793640795",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/19z"
+    },
     "vanshb03:microsoft::vanshb03-9843e494-b52f-4aae-9240-3aa4ecc78a8b": {
       "company": "Microsoft",
       "first_seen": "2026-10-25T08:27:04+00:00",
@@ -65826,5 +65836,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-02T17:41:02+00:00"
+  "updated_at": "2026-11-02T18:10:05+00:00"
 }
