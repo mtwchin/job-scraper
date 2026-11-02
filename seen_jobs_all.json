@@ -1,5 +1,5 @@
 {
-  "count": 8612,
+  "count": 8632,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6056,6 +6056,16 @@
       "title": "Associate Software Engineer 1",
       "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014551564"
     },
+    "simplify:abbvie::simplify-d807ef83-bb32-4b77-8a67-894a9125e8f1": {
+      "company": "AbbVie",
+      "first_seen": "2026-11-02T23:31:39+00:00",
+      "last_seen": "2026-11-02T23:31:39+00:00",
+      "location": "North Chicago, IL",
+      "posted_at": "1793648174",
+      "source": "simplify",
+      "title": "AI Engineer",
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016565806"
+    },
     "simplify:abbvie::simplify-dbb839ad-3507-43c5-980d-660e142114dd": {
       "company": "AbbVie",
       "first_seen": "2026-10-13T22:34:18+00:00",
@@ -9949,6 +9959,16 @@
       "title": "Software PhD Intern",
       "url": "https://jobs.apple.com/en-us/details/200664323"
     },
+    "simplify:apple::simplify-de9a9ad9-6f04-4abe-91d6-e8d89c552e48": {
+      "company": "Apple",
+      "first_seen": "2026-11-02T23:31:26+00:00",
+      "last_seen": "2026-11-02T23:31:26+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1793661712",
+      "source": "simplify",
+      "title": "Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200692894"
+    },
     "simplify:apple::simplify-e385d69d-8eb3-4a95-969e-3d2e6d216b1e": {
       "company": "Apple",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -10185,6 +10205,16 @@
       "posted_at": "1785189871",
       "title": "Software Engineer Intern - ML Systems",
       "url": "https://boards.greenhouse.io/apptronik/jobs/6128057004"
+    },
+    "simplify:aprio::simplify-d6d13bd7-d9ba-45ac-8dcc-4dfd951d7784": {
+      "company": "Aprio",
+      "first_seen": "2026-11-02T23:31:39+00:00",
+      "last_seen": "2026-11-02T23:31:39+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1793661231",
+      "source": "simplify",
+      "title": "Campus AI & Automation Associate",
+      "url": "https://jobs.lever.co/Aprio/9d2bacac-b74e-46ba-8fd3-ad3abb8b1378/apply"
     },
     "simplify:aptean::simplify-5d894a80-4336-46b3-a9a2-280fef8f7bbd": {
       "company": "Aptean",
@@ -22099,6 +22129,16 @@
       "posted_at": "1770275809",
       "title": "Full-Stack Engineer Intern",
       "url": "https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78/application"
+    },
+    "simplify:dtcc::simplify-4d9ef4fb-994c-4b00-b432-639a505fc699": {
+      "company": "DTCC",
+      "first_seen": "2026-11-02T23:31:39+00:00",
+      "last_seen": "2026-11-02T23:31:39+00:00",
+      "location": "Tampa, FL, Dallas, TX, Jersey City, NJ",
+      "posted_at": "1793660735",
+      "source": "simplify",
+      "title": "Software Engineer - Python & AI Solutions",
+      "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/213540"
     },
     "simplify:dtcc::simplify-5f2b852b-ba6a-48a8-85f1-ac83ec6421e0": {
       "company": "DTCC",
@@ -38691,7 +38731,7 @@
     "simplify:motorola solutions::simplify-af1c8d02-38a6-434d-9011-8739541c301c": {
       "company": "Motorola Solutions",
       "first_seen": "2026-10-28T23:01:59+00:00",
-      "last_seen": "2026-10-30T00:02:22+00:00",
+      "last_seen": "2026-11-02T23:31:39+00:00",
       "location": "Chicago, IL, Schaumburg, IL",
       "posted_at": "1793145600",
       "source": "simplify",
@@ -59690,6 +59730,16 @@
       "title": "Software Engineer 1 - Trust Tech",
       "url": "https://corporate.trustpilot.com/careers/job/8015788?gh_jid=8015788"
     },
+    "simplify:truveta::simplify-0a08202a-9ca0-4035-92b3-f5ad8cb3c2fc": {
+      "company": "Truveta",
+      "first_seen": "2026-11-02T23:31:39+00:00",
+      "last_seen": "2026-11-02T23:31:39+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793639851",
+      "source": "simplify",
+      "title": "Software Engineer - Data Fulfillment",
+      "url": "https://job-boards.greenhouse.io/truveta/jobs/6240727004"
+    },
     "simplify:truveta::simplify-2666bf8c-5bac-4f5b-9036-479d63ab0600": {
       "company": "Truveta",
       "first_seen": "2026-09-15T23:38:40+00:00",
@@ -72897,6 +72947,26 @@
       "title": "AI Software Intern, Cloud, Infrastructure & Data Centre Deployment",
       "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007"
     },
+    "vanshb03:tesla::vanshb03-00d844d4-12f5-41a4-bc4f-a2f20b260014": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:15:25+00:00",
+      "last_seen": "2026-11-02T23:15:25+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Maps & Navigation, Robotaxi",
+      "url": "https://www.tesla.com/careers/search/job/280960"
+    },
+    "vanshb03:tesla::vanshb03-0303d036-6ab0-4527-9783-90d7129930a7": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:15:26+00:00",
+      "last_seen": "2026-11-02T23:15:26+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Embedded Systems Software Engineer Intern, SI Platforms",
+      "url": "https://www.tesla.com/careers/search/job/282331"
+    },
     "vanshb03:tesla::vanshb03-08cd4385-b164-4898-b651-ad3901142318": {
       "company": "Tesla",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -72940,6 +73010,16 @@
       "title": "Backend Software Engineer Intern, Diagnostics",
       "url": "https://www.tesla.com/careers/search/job/248358"
     },
+    "vanshb03:tesla::vanshb03-1273c973-3af7-4f7b-b53c-c984421c47ef": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:15:26+00:00",
+      "last_seen": "2026-11-02T23:15:26+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern, Silicon Development",
+      "url": "https://www.tesla.com/careers/search/job/285084"
+    },
     "vanshb03:tesla::vanshb03-14a6bbc2-315f-4165-83eb-40fefb6d95a7": {
       "company": "Tesla",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -72962,6 +73042,56 @@
       "title": "Software Engineer Intern, Maps & Self-Driving Navigation",
       "url": "https://www.tesla.com/careers/search/job/248019?source=Indeed&source=Indeed&tags=organicjob"
     },
+    "vanshb03:tesla::vanshb03-19010d13-5d2f-4982-86f5-38689c8f4f29": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:15:25+00:00",
+      "last_seen": "2026-11-02T23:15:25+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Supercharger SIL Test Infrastructure Software Engineer Intern, Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/284286"
+    },
+    "vanshb03:tesla::vanshb03-2ad25055-75df-41a3-92e7-8802dd110c21": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:15:26+00:00",
+      "last_seen": "2026-11-02T23:15:26+00:00",
+      "location": "Fremont, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Site Reliability Engineer Intern, Infrastructure Engineering",
+      "url": "https://www.tesla.com/careers/search/job/281482"
+    },
+    "vanshb03:tesla::vanshb03-2d075f71-8f73-413b-9b64-b74a045d78f4": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:15:25+00:00",
+      "last_seen": "2026-11-02T23:15:25+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern, Optimus",
+      "url": "https://www.tesla.com/careers/search/job/282340"
+    },
+    "vanshb03:tesla::vanshb03-2d306709-5135-46b8-876d-6b66331430a8": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:15:25+00:00",
+      "last_seen": "2026-11-02T23:15:25+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Camera & Robotics",
+      "url": "https://www.tesla.com/careers/search/job/283274"
+    },
+    "vanshb03:tesla::vanshb03-33111242-957c-4da1-ac5b-00e6fa866710": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:15:25+00:00",
+      "last_seen": "2026-11-02T23:15:25+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern, Vehicle Suspension",
+      "url": "https://www.tesla.com/careers/search/job/285153"
+    },
     "vanshb03:tesla::vanshb03-3ab83ab5-17ee-4730-b4ca-aacaa9fa3288": {
       "company": "Tesla",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -72973,6 +73103,36 @@
       "title": "Commercial UI Software Engineer Intern, Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/248805"
     },
+    "vanshb03:tesla::vanshb03-488e712f-fe7b-42d6-921f-f4a95914bf34": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:15:25+00:00",
+      "last_seen": "2026-11-02T23:15:25+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern, Body Controls Firmware",
+      "url": "https://www.tesla.com/careers/search/job/283994"
+    },
+    "vanshb03:tesla::vanshb03-4a3d3ac6-a747-4173-8f99-8a3d9e542236": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:15:25+00:00",
+      "last_seen": "2026-11-02T23:15:25+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Software Engineer Industrial Firmware Intern, Energy Engineering",
+      "url": "https://www.tesla.com/careers/search/job/284448"
+    },
+    "vanshb03:tesla::vanshb03-57d95069-ab51-4db1-bbc2-ccc08a95d729": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:15:26+00:00",
+      "last_seen": "2026-11-02T23:15:26+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, SI Hardware Infrastructure",
+      "url": "https://www.tesla.com/careers/search/job/285076"
+    },
     "vanshb03:tesla::vanshb03-66255d25-16a2-4d86-b9f2-b8cba746694f": {
       "company": "Tesla",
       "first_seen": "2026-10-22T09:31:47+00:00",
@@ -72982,6 +73142,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Maps & Navigation Validation",
       "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-maps-navigation-validation-fall-2026--270186"
+    },
+    "vanshb03:tesla::vanshb03-830bf168-9d98-44ed-b965-6b2da4d0f452": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:15:25+00:00",
+      "last_seen": "2026-11-02T23:15:25+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "SI Software Engineer Intern, Core Infrastructure",
+      "url": "https://www.tesla.com/careers/search/job/285085"
     },
     "vanshb03:tesla::vanshb03-8c025004-2b27-43e8-8d60-a9f2eca60b3a": {
       "company": "Tesla",
@@ -73048,6 +73218,16 @@
       "title": "Embedded Software Engineer Intern, Keys & Authentication",
       "url": "https://www.tesla.com/careers/search/job/internship-embedded-software-engineer-keys-authentication-fall-2026-270067"
     },
+    "vanshb03:tesla::vanshb03-b8d04ef9-9d35-4971-a4a4-d4e793ebd5b3": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:15:25+00:00",
+      "last_seen": "2026-11-02T23:15:25+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Build & Simulation Platform",
+      "url": "https://www.tesla.com/careers/search/job/285801"
+    },
     "vanshb03:tesla::vanshb03-be3adfc0-8208-4675-a53f-0ce6b4c3f606": {
       "company": "Tesla",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -73069,6 +73249,26 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Vehicle UI Development",
       "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-vehicle-ui-development-fall-2026-270063"
+    },
+    "vanshb03:tesla::vanshb03-ce606c91-71d0-49e5-8815-860613770e4e": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:15:25+00:00",
+      "last_seen": "2026-11-02T23:15:25+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern, High Voltage Systems",
+      "url": "https://www.tesla.com/careers/search/job/282227"
+    },
+    "vanshb03:tesla::vanshb03-e98effed-7bf9-4c60-9af4-22cf273e3e6f": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:15:26+00:00",
+      "last_seen": "2026-11-02T23:15:26+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern, Steering, Chassis Systems",
+      "url": "https://www.tesla.com/careers/search/job/282248"
     },
     "vanshb03:tetramem::vanshb03-8c4e6050-7530-4d4b-9dd4-67432c5f536c": {
       "company": "TETRAMEM",
@@ -75284,5 +75484,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-02T22:57:40+00:00"
+  "updated_at": "2026-11-02T23:31:44+00:00"
 }
