@@ -1612,6 +1612,15 @@
       "title": "New Grad 2027: Trading System Engineer",
       "url": "https://go.vansh.nyc/Tz"
     },
+    "vanshb03:toshiba commerce solutions::vanshb03-4b065cd5-9738-42be-9388-f109c6f68e84": {
+      "attempted_at": "2026-11-02T22:39:48+00:00",
+      "company": "Toshiba Commerce Solutions",
+      "location": "Durham, NC",
+      "posted_at": "1793648428",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/19Y"
+    },
     "vanshb03:wolverine trading::vanshb03-33731457-31e2-43b6-9c75-cfdadc3f8ffb": {
       "attempted_at": "2026-10-26T11:49:23+00:00",
       "company": "Wolverine Trading",
@@ -75275,5 +75284,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-02T22:11:37+00:00"
+  "updated_at": "2026-11-02T22:40:40+00:00"
 }
