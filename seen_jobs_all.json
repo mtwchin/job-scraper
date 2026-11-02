@@ -1,5 +1,5 @@
 {
-  "count": 8606,
+  "count": 8608,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -69851,6 +69851,16 @@
       "title": "Software Engineer Intern, Security & Identity",
       "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930"
     },
+    "vanshb03:microsoft::vanshb03-71eb36cf-6990-4b6b-84ee-a4b494cc672b": {
+      "company": "Microsoft",
+      "first_seen": "2026-11-02T18:10:02+00:00",
+      "last_seen": "2026-11-02T18:10:02+00:00",
+      "location": "Aliso Viejo, CA",
+      "posted_at": "1793640795",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/19z"
+    },
     "vanshb03:microsoft::vanshb03-9843e494-b52f-4aae-9240-3aa4ecc78a8b": {
       "company": "Microsoft",
       "first_seen": "2026-10-25T08:27:04+00:00",
@@ -72262,6 +72272,18 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856?ashby_jid=404bb82e-37f3-4a78-b0f3-12923a7c4856"
+    },
+    "vanshb03:sierra nevada corporation::vanshb03-71bf1329-1ed8-4bc0-a0fd-b78caa5de719": {
+      "company": "Sierra Nevada Corporation",
+      "duplicate_of": "simplify:sierra nevada corporation::simplify-74129f26-3f29-4069-9bd9-234810c4491a",
+      "first_seen": "2026-11-02T18:10:48+00:00",
+      "last_seen": "2026-11-02T18:10:48+00:00",
+      "location": "Southern Pines, NC",
+      "posted_at": "1793642215",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/19v"
     },
     "vanshb03:sierra space::vanshb03-9c419789-6d1b-4cf5-aa4b-4443c7368d0d": {
       "company": "Sierra Space",
@@ -75204,5 +75226,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-02T17:41:19+00:00"
+  "updated_at": "2026-11-02T18:11:24+00:00"
 }
