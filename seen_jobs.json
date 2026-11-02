@@ -1,5 +1,5 @@
 {
-  "count": 7772,
+  "count": 7773,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -25150,6 +25150,16 @@
       "posted_at": "1787582165",
       "title": "Software Engineer Intern",
       "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054"
+    },
+    "simplify:google::simplify-da1ac264-d20e-4ad8-b630-709c0ae8cd5e": {
+      "company": "Google",
+      "first_seen": "2026-11-02T07:32:05+00:00",
+      "last_seen": "2026-11-02T07:32:05+00:00",
+      "location": "Palo Alto, CA, Madison, WI, Seattle, WA, LA, Raleigh, NC, San Bruno, CA, Durham, NC, Pittsburgh, PA, Kirkland, WA, NYC, Sunnyvale, CA, Mountain View, CA",
+      "posted_at": "1793603487",
+      "source": "simplify",
+      "title": "Software Engineer 2 \u2013 Early Career",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318"
     },
     "simplify:google::simplify-e1b4d8a5-e0ba-4b52-9363-36b5f62610d9": {
       "company": "Google",
@@ -65796,5 +65806,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-02T05:18:43+00:00"
+  "updated_at": "2026-11-02T07:32:48+00:00"
 }
