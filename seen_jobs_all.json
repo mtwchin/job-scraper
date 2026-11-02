@@ -1,5 +1,5 @@
 {
-  "count": 8602,
+  "count": 8603,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71225,6 +71225,16 @@
       "title": "Software Engineer Intern",
       "url": "https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto/"
     },
+    "vanshb03:plexus::vanshb03-03c7b737-0949-4734-bfb7-765e6a674f05": {
+      "company": "Plexus",
+      "first_seen": "2026-11-02T15:42:23+00:00",
+      "last_seen": "2026-11-02T15:42:23+00:00",
+      "location": "Neenah, WI",
+      "posted_at": "1793577600",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/19m"
+    },
     "vanshb03:point72::vanshb03-09f4fd4b-1858-448f-bc4e-04da8b4e3e35": {
       "company": "Point72",
       "first_seen": "2026-10-25T08:27:07+00:00",
@@ -75153,5 +75163,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-02T15:32:02+00:00"
+  "updated_at": "2026-11-02T15:43:05+00:00"
 }
