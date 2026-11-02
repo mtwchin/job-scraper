@@ -1,5 +1,5 @@
 {
-  "count": 7796,
+  "count": 7806,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -63911,6 +63911,16 @@
       "title": "Software Engineer Intern, Vehicle Engineering",
       "url": "https://go.vansh.nyc/1E"
     },
+    "vanshb03:tesla::vanshb03-0bc89be6-ba8b-4952-a825-25c3400e6c31": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:41:45+00:00",
+      "last_seen": "2026-11-02T23:41:45+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Automated Diagnostics",
+      "url": "https://go.vansh.nyc/1aH"
+    },
     "vanshb03:tesla::vanshb03-0d42096b-7395-4849-ad5e-1a6afb0bdcc0": {
       "company": "Tesla",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -63921,6 +63931,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Linux Update Systems",
       "url": "https://www.tesla.com/careers/search/job/248062"
+    },
+    "vanshb03:tesla::vanshb03-0df1956d-5647-49d5-be9a-d3b711914eef": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:41:45+00:00",
+      "last_seen": "2026-11-02T23:41:45+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Fullstack Software Engineer Intern, Fleetnet",
+      "url": "https://go.vansh.nyc/1ay"
     },
     "vanshb03:tesla::vanshb03-10a4c1fc-00fd-4484-a2cb-67f889fde2c0": {
       "company": "Tesla",
@@ -63942,6 +63962,16 @@
       "source": "vanshb03",
       "title": "Embedded Software Engineer Intern, Silicon Development",
       "url": "https://www.tesla.com/careers/search/job/285084"
+    },
+    "vanshb03:tesla::vanshb03-12d9ef19-d449-4739-a32c-2b3a1599cb65": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:41:45+00:00",
+      "last_seen": "2026-11-02T23:41:45+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, People Products",
+      "url": "https://go.vansh.nyc/1as"
     },
     "vanshb03:tesla::vanshb03-14a6bbc2-315f-4165-83eb-40fefb6d95a7": {
       "company": "Tesla",
@@ -63974,6 +64004,16 @@
       "source": "vanshb03",
       "title": "Supercharger SIL Test Infrastructure Software Engineer Intern, Energy Engineering",
       "url": "https://www.tesla.com/careers/search/job/284286"
+    },
+    "vanshb03:tesla::vanshb03-1e59d245-6b8f-446d-9ee4-62918c5f1db7": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:41:45+00:00",
+      "last_seen": "2026-11-02T23:41:45+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Fullstack Engineer Intern, SI Tooling",
+      "url": "https://go.vansh.nyc/1aN"
     },
     "vanshb03:tesla::vanshb03-2ad25055-75df-41a3-92e7-8802dd110c21": {
       "company": "Tesla",
@@ -64014,6 +64054,16 @@
       "source": "vanshb03",
       "title": "Embedded Software Engineer Intern, Vehicle Suspension",
       "url": "https://www.tesla.com/careers/search/job/285153"
+    },
+    "vanshb03:tesla::vanshb03-368e525d-6235-4624-8681-3a5579af5c8d": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:41:45+00:00",
+      "last_seen": "2026-11-02T23:41:45+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Infotainment Platforms Validation",
+      "url": "https://go.vansh.nyc/1ab"
     },
     "vanshb03:tesla::vanshb03-3ab83ab5-17ee-4730-b4ca-aacaa9fa3288": {
       "company": "Tesla",
@@ -64056,6 +64106,16 @@
       "title": "Software Engineer Intern, SI Hardware Infrastructure",
       "url": "https://www.tesla.com/careers/search/job/285076"
     },
+    "vanshb03:tesla::vanshb03-64d049a5-74b7-4ca7-a87b-aded7d03f060": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:41:45+00:00",
+      "last_seen": "2026-11-02T23:41:45+00:00",
+      "location": "Fremont, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Fullstack Engineer Intern, Infrastructure Engineering",
+      "url": "https://go.vansh.nyc/1b2"
+    },
     "vanshb03:tesla::vanshb03-66255d25-16a2-4d86-b9f2-b8cba746694f": {
       "company": "Tesla",
       "first_seen": "2026-10-22T09:31:47+00:00",
@@ -64065,6 +64125,26 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Maps & Navigation Validation",
       "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-maps-navigation-validation-fall-2026--270186"
+    },
+    "vanshb03:tesla::vanshb03-6f22b50f-08ee-450f-bb76-5f5e998ac5a3": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:41:45+00:00",
+      "last_seen": "2026-11-02T23:41:45+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Software Engineer Opticaster Intern, Energy Engineering",
+      "url": "https://go.vansh.nyc/1av"
+    },
+    "vanshb03:tesla::vanshb03-77873770-9a6e-4698-bd30-d77cc16c7b38": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:41:45+00:00",
+      "last_seen": "2026-11-02T23:41:45+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Core SI Compiler & Runtime",
+      "url": "https://go.vansh.nyc/1aa"
     },
     "vanshb03:tesla::vanshb03-830bf168-9d98-44ed-b965-6b2da4d0f452": {
       "company": "Tesla",
@@ -64162,6 +64242,16 @@
       "title": "Software Engineer Intern, Update Systems",
       "url": "https://www.tesla.com/careers/search/job/248104"
     },
+    "vanshb03:tesla::vanshb03-c557cc63-0922-44af-aed6-3c3865e6fd70": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:41:45+00:00",
+      "last_seen": "2026-11-02T23:41:45+00:00",
+      "location": "Fremont, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Fullstack Engineer Intern, Applications Engineering",
+      "url": "https://go.vansh.nyc/1aI"
+    },
     "vanshb03:tesla::vanshb03-cd8d84fc-f8ea-4370-ae76-d4d6aa75fe98": {
       "company": "Tesla",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -64192,6 +64282,16 @@
       "source": "vanshb03",
       "title": "Embedded Software Engineer Intern, Steering, Chassis Systems",
       "url": "https://www.tesla.com/careers/search/job/282248"
+    },
+    "vanshb03:tesla::vanshb03-f3f720cd-3734-4779-bd62-de14f5f13278": {
+      "company": "Tesla",
+      "first_seen": "2026-11-02T23:41:45+00:00",
+      "last_seen": "2026-11-02T23:41:45+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793660574",
+      "source": "vanshb03",
+      "title": "Engineering Automation Software Engineer Intern, Vehicle Engineering",
+      "url": "https://go.vansh.nyc/1b0"
     },
     "vanshb03:tetramem::vanshb03-8c4e6050-7530-4d4b-9dd4-67432c5f536c": {
       "company": "TETRAMEM",
@@ -66036,5 +66136,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-02T23:39:36+00:00"
+  "updated_at": "2026-11-02T23:42:38+00:00"
 }
