@@ -1,5 +1,5 @@
 {
-  "count": 7773,
+  "count": 7774,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -34494,6 +34494,16 @@
       "title": "Software Engineer - Intune",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556982925"
     },
+    "simplify:microsoft::simplify-09939e91-4c36-4e3b-ace2-9d0117e05b68": {
+      "company": "Microsoft",
+      "first_seen": "2026-11-02T08:02:07+00:00",
+      "last_seen": "2026-11-02T08:02:07+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1793604875",
+      "source": "simplify",
+      "title": "Explore Program Engineering Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823"
+    },
     "simplify:microsoft::simplify-12b37514-55d3-4d2b-889d-499ef0584772": {
       "company": "Microsoft",
       "first_seen": "2026-10-27T07:01:53+00:00",
@@ -52883,7 +52893,7 @@
     "simplify:tiktok::simplify-4d3acee9-3b15-433a-a4c9-4ca461058f7a": {
       "company": "TikTok",
       "first_seen": "2026-08-20T02:43:11+00:00",
-      "last_seen": "2026-10-30T00:01:32+00:00",
+      "last_seen": "2026-11-02T08:02:06+00:00",
       "posted_at": "1787190347",
       "title": "Research Scientist/Software Engineer - Neural Graphics and World Models",
       "url": "https://lifeattiktok.com/search/7668854153882011957"
@@ -65806,5 +65816,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-02T07:32:48+00:00"
+  "updated_at": "2026-11-02T08:02:51+00:00"
 }
