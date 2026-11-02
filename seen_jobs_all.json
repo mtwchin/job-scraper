@@ -1,5 +1,5 @@
 {
-  "count": 8603,
+  "count": 8606,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -69883,6 +69883,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/17y"
     },
+    "vanshb03:microsoft::vanshb03-9c065c4f-d079-4529-b897-0f3c9b3718ba": {
+      "company": "Microsoft",
+      "first_seen": "2026-11-02T17:40:03+00:00",
+      "last_seen": "2026-11-02T17:40:03+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1793639359",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, CoreAI",
+      "url": "https://go.vansh.nyc/19t"
+    },
     "vanshb03:microsoft::vanshb03-adea9c62-2047-4e4f-aebb-a218d42035ee": {
       "company": "Microsoft",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -72742,6 +72752,28 @@
       "title": "System Engineer Co-op",
       "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Brooksville-FL/Co-Op--System-Engineer_R8261"
     },
+    "vanshb03:t-mobile::vanshb03-1b79cc6c-467a-4f54-bf44-40045bf07e7d": {
+      "company": "T-Mobile",
+      "duplicate_of": "vanshb03:t-mobile::vanshb03-819f96e2-7f99-4df7-8450-f112bb017b74",
+      "first_seen": "2026-11-02T17:40:48+00:00",
+      "last_seen": "2026-11-02T17:40:48+00:00",
+      "location": "New York, NY",
+      "posted_at": "1793640067",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/19r"
+    },
+    "vanshb03:t-mobile::vanshb03-819f96e2-7f99-4df7-8450-f112bb017b74": {
+      "company": "T-Mobile",
+      "first_seen": "2026-11-02T17:40:49+00:00",
+      "last_seen": "2026-11-02T17:40:49+00:00",
+      "location": "Philadelphia, PA; New York, NY",
+      "posted_at": "1793640067",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/19q"
+    },
     "vanshb03:t-mobile::vanshb03-dd5b34d7-be48-46be-b009-2d489c67c62d": {
       "company": "T-Mobile",
       "first_seen": "2026-10-21T19:33:33+00:00",
@@ -75172,5 +75204,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-02T17:23:16+00:00"
+  "updated_at": "2026-11-02T17:41:19+00:00"
 }
