@@ -1,5 +1,5 @@
 {
-  "count": 7793,
+  "count": 7794,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -8910,6 +8910,16 @@
       "posted_at": "1779430057",
       "title": "Software PhD Intern",
       "url": "https://jobs.apple.com/en-us/details/200664323"
+    },
+    "simplify:apple::simplify-de9a9ad9-6f04-4abe-91d6-e8d89c552e48": {
+      "company": "Apple",
+      "first_seen": "2026-11-02T23:31:26+00:00",
+      "last_seen": "2026-11-02T23:31:26+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1793661712",
+      "source": "simplify",
+      "title": "Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems",
+      "url": "https://jobs.apple.com/en-us/details/200692894"
     },
     "simplify:apple::simplify-e385d69d-8eb3-4a95-969e-3d2e6d216b1e": {
       "company": "Apple",
@@ -66006,5 +66016,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-02T23:15:28+00:00"
+  "updated_at": "2026-11-02T23:31:31+00:00"
 }
