@@ -883,6 +883,15 @@
       "title": "Performance Enablement AI/ML Intern",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656"
     },
+    "simplify:lloyds bank::simplify-9c2ba35d-73ce-49a8-8cee-29048f814c46": {
+      "attempted_at": "2026-11-03T13:02:50+00:00",
+      "company": "Lloyds Bank",
+      "location": "Edinburgh, UK",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "Software Development New Grad Apprentice",
+      "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Edinburgh/Software-Development-Graduate-Apprenticeship---Edinburgh_164882"
+    },
     "simplify:macy's::simplify-2d1205f2-cb07-4355-a160-2ae1b57ed991": {
       "attempted_at": "2026-10-23T14:02:23+00:00",
       "company": "Macy's",
@@ -76496,5 +76505,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T12:32:24+00:00"
+  "updated_at": "2026-11-03T13:03:28+00:00"
 }
