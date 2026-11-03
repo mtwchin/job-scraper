@@ -1,5 +1,5 @@
 {
-  "count": 8703,
+  "count": 8716,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -68349,6 +68349,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/10X"
     },
+    "vanshb03:drivetime::vanshb03-ce70e6ec-706b-4a30-84e6-66580ed00df8": {
+      "company": "DriveTime",
+      "first_seen": "2026-11-03T06:53:59+00:00",
+      "last_seen": "2026-11-03T06:53:59+00:00",
+      "location": "Tempe, AZ",
+      "posted_at": "1793685978",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1cr"
+    },
     "vanshb03:drs::vanshb03-50dbfbb6-86b3-4d28-8be4-8a699807d614": {
       "company": "DRS",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -69486,6 +69496,16 @@
       "title": "Software Engineering Intern, Enrollment and Credentialing Services",
       "url": "https://go.vansh.nyc/12X"
     },
+    "vanshb03:igs energy::vanshb03-0bb24af4-73cf-4429-832b-24ae4c501788": {
+      "company": "IGS Energy",
+      "first_seen": "2026-11-03T06:53:59+00:00",
+      "last_seen": "2026-11-03T06:53:59+00:00",
+      "location": "Remote, United States",
+      "posted_at": "1793685978",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1d0"
+    },
     "vanshb03:imc::vanshb03-7a690259-0c9e-4272-a776-bbdd464653a1": {
       "company": "IMC",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -69517,6 +69537,16 @@
       "source": "vanshb03",
       "title": "Quantum Software Intern",
       "url": "https://go.vansh.nyc/Xz"
+    },
+    "vanshb03:inmar intelligence::vanshb03-c46e3294-ae74-4960-ad6a-e2c0566e5f76": {
+      "company": "Inmar Intelligence",
+      "first_seen": "2026-11-03T06:53:59+00:00",
+      "last_seen": "2026-11-03T06:53:59+00:00",
+      "location": "Winston Salem, NC",
+      "posted_at": "1793685978",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1d2"
     },
     "vanshb03:instead::vanshb03-1a80bf04-f124-4ed1-b1b0-72e9a6079f65": {
       "company": "Instead",
@@ -69839,6 +69869,28 @@
       "source": "vanshb03",
       "title": "New Grad 2027: Robotics & Autonomous Systems Engineer, Tailored Autonomous Systems",
       "url": "https://go.vansh.nyc/NZ"
+    },
+    "vanshb03:johnson & johnson::vanshb03-33e46f76-3411-4d71-8703-65d2392e6d68": {
+      "company": "Johnson & Johnson",
+      "first_seen": "2026-11-03T06:53:59+00:00",
+      "last_seen": "2026-11-03T06:53:59+00:00",
+      "location": "Cincinnati, OH; Danvers, MA",
+      "posted_at": "1793685978",
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/1cz"
+    },
+    "vanshb03:johnson & johnson::vanshb03-b56e00fa-81a6-4639-8175-c9f4a0773c42": {
+      "company": "Johnson & Johnson",
+      "duplicate_of": "vanshb03:johnson & johnson::vanshb03-33e46f76-3411-4d71-8703-65d2392e6d68",
+      "first_seen": "2026-11-03T06:53:58+00:00",
+      "last_seen": "2026-11-03T06:53:58+00:00",
+      "location": "Danvers, MA",
+      "posted_at": "1793685978",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/1cC"
     },
     "vanshb03:jpmorganchase::vanshb03-abc372f0-196d-4e3d-8879-4e7cb41d6bb7": {
       "company": "JPMorganChase",
@@ -71136,6 +71188,16 @@
       "title": "Systems Engineering Intern, AI Experience",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
     },
+    "vanshb03:northrop grumman::vanshb03-86a17a77-06bc-4ba0-aade-d64b0d08bead": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-03T06:53:59+00:00",
+      "last_seen": "2026-11-03T06:53:59+00:00",
+      "location": "Linthicum, MD",
+      "posted_at": "1793685978",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1d8"
+    },
     "vanshb03:northrop grumman::vanshb03-89bca250-ab21-474c-b928-0ef143615731": {
       "company": "Northrop Grumman",
       "first_seen": "2026-10-26T18:42:12+00:00",
@@ -71568,6 +71630,16 @@
       "source": "vanshb03",
       "title": "New Grad 2027: Software Engineer, Oracle Cloud Infrastructure",
       "url": "https://go.vansh.nyc/Hy"
+    },
+    "vanshb03:oshkosh::vanshb03-4e85b244-51f6-446f-8898-ba090954f70d": {
+      "company": "Oshkosh",
+      "first_seen": "2026-11-03T06:53:59+00:00",
+      "last_seen": "2026-11-03T06:53:59+00:00",
+      "location": "Greenville, WI, Oshkosh, WI",
+      "posted_at": "1793685978",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1db"
     },
     "vanshb03:otto engineering::vanshb03-64420589-2aa1-4628-9fe9-5ff4e1843141": {
       "company": "OTTO Engineering",
@@ -72723,6 +72795,16 @@
       "title": "Software Engineer - Early Career",
       "url": "https://careers.roblox.com/jobs/7114754?gh_jid=7114754"
     },
+    "vanshb03:rockwell automation::vanshb03-5152c981-a41f-41dc-ba48-40c2f6d6fcea": {
+      "company": "Rockwell Automation",
+      "first_seen": "2026-11-03T06:53:59+00:00",
+      "last_seen": "2026-11-03T06:53:59+00:00",
+      "location": "Milwaukee, WI, Mayfield Heights, OH",
+      "posted_at": "1793685978",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1di"
+    },
     "vanshb03:rockwell automation::vanshb03-a25897ba-fa00-4a2c-9b43-e56c49c8c1ca": {
       "company": "Rockwell Automation",
       "first_seen": "2026-10-26T13:44:53+00:00",
@@ -72753,6 +72835,16 @@
       "source": "vanshb03",
       "title": "Associate Software Engineer",
       "url": "https://go.vansh.nyc/1bF"
+    },
+    "vanshb03:rtx::vanshb03-1eeb3eed-2c42-4293-9bff-39edb4c4c66e": {
+      "company": "RTX",
+      "first_seen": "2026-11-03T06:53:59+00:00",
+      "last_seen": "2026-11-03T06:53:59+00:00",
+      "location": "Cedar Rapids, IA",
+      "posted_at": "1793685978",
+      "source": "vanshb03",
+      "title": "Systems Engineer Co-op",
+      "url": "https://go.vansh.nyc/1cU"
     },
     "vanshb03:rtx::vanshb03-1fe89484-cadc-486a-9f6e-e65f20873f7e": {
       "company": "RTX",
@@ -72787,6 +72879,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/IR"
+    },
+    "vanshb03:rtx::vanshb03-5264730d-9bed-4ea5-9bae-337de50e2920": {
+      "company": "RTX",
+      "first_seen": "2026-11-03T06:53:59+00:00",
+      "last_seen": "2026-11-03T06:53:59+00:00",
+      "location": "Cedar Rapids, IA",
+      "posted_at": "1793685978",
+      "source": "vanshb03",
+      "title": "Systems Engineer Intern, Mission Sensor Manager",
+      "url": "https://go.vansh.nyc/1cT"
     },
     "vanshb03:rtx::vanshb03-5cbaedb9-8b20-47ed-b530-48732c63faf9": {
       "company": "RTX",
@@ -72832,6 +72934,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/T2"
     },
+    "vanshb03:rtx::vanshb03-c80f24e3-b3cf-46b1-a2cc-5ebf75869a17": {
+      "company": "RTX",
+      "first_seen": "2026-11-03T06:53:59+00:00",
+      "last_seen": "2026-11-03T06:53:59+00:00",
+      "location": "Cedar Rapids, IA",
+      "posted_at": "1793685978",
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op, AGS",
+      "url": "https://go.vansh.nyc/1cQ"
+    },
     "vanshb03:rtx::vanshb03-f3d2fc52-679b-4e73-843f-acf80903413e": {
       "company": "RTX",
       "first_seen": "2026-10-27T23:43:06+00:00",
@@ -72841,6 +72953,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Receiver, Exciter, & Processing Architecture",
       "url": "https://go.vansh.nyc/WQ"
+    },
+    "vanshb03:rtx::vanshb03-fad43ccf-798d-4a0e-bc56-fc0f4506bec3": {
+      "company": "RTX",
+      "first_seen": "2026-11-03T06:53:59+00:00",
+      "last_seen": "2026-11-03T06:53:59+00:00",
+      "location": "East Hartford, CT",
+      "posted_at": "1793685978",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1cS"
     },
     "vanshb03:safran::vanshb03-d4d8496f-7104-4259-b775-6a77600f6f34": {
       "company": "Safran",
@@ -73559,6 +73681,16 @@
       "source": "vanshb03",
       "title": "Trading System Engineering Intern",
       "url": "https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088"
+    },
+    "vanshb03:swbc::vanshb03-db59ca79-5385-4071-a796-5c6923c563e5": {
+      "company": "SWBC",
+      "first_seen": "2026-11-03T06:53:59+00:00",
+      "last_seen": "2026-11-03T06:53:59+00:00",
+      "location": "San Antonio, TX",
+      "posted_at": "1793685978",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1cI"
     },
     "vanshb03:sycamore::vanshb03-04d85d96-fd50-4d54-b914-0e05daa94c5b": {
       "company": "Sycamore",
@@ -76324,5 +76456,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T05:12:00+00:00"
+  "updated_at": "2026-11-03T06:54:04+00:00"
 }
