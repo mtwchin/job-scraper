@@ -541,6 +541,15 @@
       "title": "Ground Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/muonspace/jobs/5266679007"
     },
+    "simplify:nvidia::simplify-46fd3fa6-a273-49da-b7ac-7cb7fcf894a9": {
+      "attempted_at": "2026-11-03T08:01:45+00:00",
+      "company": "NVIDIA",
+      "location": "Austin, TX",
+      "posted_at": "1793577600",
+      "source": "simplify",
+      "title": "AI Compiler and Kernel Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1"
+    },
     "simplify:nvidia::simplify-d848615a-0d50-478c-a92e-2dda9489542c": {
       "attempted_at": "2026-10-21T01:36:38+00:00",
       "company": "NVIDIA",
@@ -66190,5 +66199,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T02:31:53+00:00"
+  "updated_at": "2026-11-03T08:01:46+00:00"
 }
