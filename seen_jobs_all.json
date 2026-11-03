@@ -1,5 +1,5 @@
 {
-  "count": 8719,
+  "count": 8720,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -36018,6 +36018,16 @@
       "title": "Front End Web Developer 1",
       "url": "https://livingspaces.wd5.myworkdayjobs.com/ls/job/La-Mirada-CA---Corporate/Front-End-Web-Developer-1_R45250"
     },
+    "simplify:lloyds bank::simplify-4332482c-4ea5-46b7-8be3-2fb8b77b0023": {
+      "company": "Lloyds Bank",
+      "first_seen": "2026-11-03T12:31:50+00:00",
+      "last_seen": "2026-11-03T12:31:50+00:00",
+      "location": "Manchester, UK",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "Digital & Technology Solutions Degree Apprenticeship",
+      "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Manchester/Digital---Technology-Solutions-Degree-Apprenticeship---Manchester_164903"
+    },
     "simplify:lmi ::simplify-eb6d5f77-90a1-46ca-97de-1e5ad01af6a5": {
       "company": "LMI ",
       "first_seen": "2026-07-23T16:42:59+00:00",
@@ -36178,7 +36188,7 @@
     "simplify:lseg::simplify-81f6a6a0-ca1b-4a27-aafa-49735204bc0e": {
       "company": "LSEG",
       "first_seen": "2026-10-14T22:33:44+00:00",
-      "last_seen": "2026-10-26T00:02:14+00:00",
+      "last_seen": "2026-11-03T12:31:50+00:00",
       "location": "NYC",
       "posted_at": "1791936000",
       "source": "simplify",
@@ -76486,5 +76496,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T10:16:20+00:00"
+  "updated_at": "2026-11-03T12:32:24+00:00"
 }
