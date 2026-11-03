@@ -1,5 +1,5 @@
 {
-  "count": 8735,
+  "count": 8736,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -69439,6 +69439,16 @@
       "title": "Flight Software Engineering Intern, Simulation/Hardware-In-The-Loop",
       "url": "https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd"
     },
+    "vanshb03:hewlett packard (hp)::vanshb03-2a45d941-9aec-40c7-bf89-b2dbde1dacd2": {
+      "company": "Hewlett Packard (HP)",
+      "first_seen": "2026-11-03T19:41:51+00:00",
+      "last_seen": "2026-11-03T19:41:51+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1793734602",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, AIML Platform",
+      "url": "https://go.vansh.nyc/1e0"
+    },
     "vanshb03:hewlett packard enterprise::vanshb03-35b01512-5eac-4905-a87b-8a946bc4aaea": {
       "company": "Hewlett Packard Enterprise",
       "first_seen": "2026-10-26T14:03:25+00:00",
@@ -76659,5 +76669,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T19:33:28+00:00"
+  "updated_at": "2026-11-03T19:42:43+00:00"
 }
