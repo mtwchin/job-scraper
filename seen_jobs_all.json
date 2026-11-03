@@ -1450,6 +1450,15 @@
       "title": "Software Engineering Intern, DevOps",
       "url": "https://go.vansh.nyc/1c0"
     },
+    "vanshb03:amazon::vanshb03-e8764904-db74-45be-ae45-a194c869f494": {
+      "attempted_at": "2026-11-03T20:16:19+00:00",
+      "company": "Amazon",
+      "location": "Seattle, WA",
+      "posted_at": "1793736686",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer (Embedded Systems)",
+      "url": "https://go.vansh.nyc/1ec"
+    },
     "vanshb03:anysignal::vanshb03-586815ae-6642-4b03-a441-26311c0416e6": {
       "attempted_at": "2026-10-26T11:49:23+00:00",
       "company": "AnySignal",
@@ -76763,5 +76772,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T20:12:20+00:00"
+  "updated_at": "2026-11-03T20:55:24+00:00"
 }
