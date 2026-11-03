@@ -1,5 +1,5 @@
 {
-  "count": 8688,
+  "count": 8689,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1665,6 +1665,15 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/19Y"
+    },
+    "vanshb03:valmont::vanshb03-b7bab53b-5ed5-40c0-ae36-923988156655": {
+      "attempted_at": "2026-11-03T00:11:10+00:00",
+      "company": "Valmont",
+      "location": "Valley, NE",
+      "posted_at": "1793577600",
+      "source": "vanshb03",
+      "title": "Embedded Systems Engineer Intern",
+      "url": "https://go.vansh.nyc/1br"
     },
     "vanshb03:wolverine trading::vanshb03-33731457-31e2-43b6-9c75-cfdadc3f8ffb": {
       "attempted_at": "2026-10-26T11:49:23+00:00",
@@ -69563,6 +69572,18 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/YU"
     },
+    "vanshb03:jm family enterprises::vanshb03-a9a90a37-bbdd-48a4-a934-7fd728ae1056": {
+      "company": "JM Family Enterprises",
+      "duplicate_of": "vanshb03:jm family enterprises::vanshb03-2d7b1372-c43b-4ed6-9207-32a15a7ac4a7",
+      "first_seen": "2026-11-03T00:11:09+00:00",
+      "last_seen": "2026-11-03T00:11:09+00:00",
+      "location": "Deerfield Beach, FL",
+      "posted_at": "1793577600",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1bt"
+    },
     "vanshb03:john deere::vanshb03-2898916b-2a71-4848-819d-31c1c44cafd3": {
       "company": "John Deere",
       "first_seen": "2026-10-26T12:09:23+00:00",
@@ -76107,5 +76128,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T00:02:54+00:00"
+  "updated_at": "2026-11-03T00:11:57+00:00"
 }
