@@ -1,5 +1,5 @@
 {
-  "count": 7809,
+  "count": 7810,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -34554,6 +34554,18 @@
       "title": "Explore Program Engineering Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823"
     },
+    "simplify:microsoft::simplify-0def15fc-cae9-402b-85fd-6b0139206423": {
+      "company": "Microsoft",
+      "duplicate_of": "vanshb03:microsoft::vanshb03-71eb36cf-6990-4b6b-84ee-a4b494cc672b",
+      "first_seen": "2026-11-03T00:02:06+00:00",
+      "last_seen": "2026-11-03T00:02:06+00:00",
+      "location": "United States",
+      "posted_at": "1793663303",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044764"
+    },
     "simplify:microsoft::simplify-12b37514-55d3-4d2b-889d-499ef0584772": {
       "company": "Microsoft",
       "first_seen": "2026-10-27T07:01:53+00:00",
@@ -34714,7 +34726,7 @@
     "simplify:microsoft::simplify-9fe00265-7716-44f9-bc43-1017aa863220": {
       "company": "Microsoft",
       "first_seen": "2026-08-03T11:36:49+00:00",
-      "last_seen": "2026-10-08T07:05:13+00:00",
+      "last_seen": "2026-11-03T00:02:06+00:00",
       "posted_at": "1785748322",
       "title": "Software Engineer Intern - CoreAI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950"
@@ -66168,5 +66180,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T00:01:43+00:00"
+  "updated_at": "2026-11-03T00:02:45+00:00"
 }
