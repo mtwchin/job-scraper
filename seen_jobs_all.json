@@ -1,5 +1,5 @@
 {
-  "count": 8772,
+  "count": 8773,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -68266,6 +68266,16 @@
       "title": "Software Development Intern",
       "url": "https://go.vansh.nyc/1cm"
     },
+    "vanshb03:cylake::vanshb03-fe2e0cd4-e180-442f-8ec3-c0ce348cd4e7": {
+      "company": "Cylake",
+      "first_seen": "2026-11-03T23:16:20+00:00",
+      "last_seen": "2026-11-03T23:16:20+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1793747440",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/1fu"
+    },
     "vanshb03:d2l::vanshb03-c12ef982-e139-46e1-9faa-7be465019367": {
       "company": "D2L",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -77044,5 +77054,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T22:46:17+00:00"
+  "updated_at": "2026-11-03T23:17:20+00:00"
 }
