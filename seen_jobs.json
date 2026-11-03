@@ -1,5 +1,5 @@
 {
-  "count": 7814,
+  "count": 7815,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -4576,6 +4576,16 @@
       "source": "",
       "title": "Business Systems Engineer I",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8087292003"
+    },
+    "rocket lab::8182050003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-11-03T21:26:53+00:00",
+      "last_seen": "2026-11-03T21:26:53+00:00",
+      "location": "Long Beach, CA",
+      "posted_at": "2026-11-03T16:25:32-05:00",
+      "source": "",
+      "title": "AI Software Engineer I",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8182050003"
     },
     "salesforce::Missionforce---Associate-Forward-Deployed-Engineer--FDE---Public-Sector_JR333171": {
       "company": "Salesforce",
@@ -66229,5 +66239,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T20:16:24+00:00"
+  "updated_at": "2026-11-03T21:27:27+00:00"
 }
