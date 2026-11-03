@@ -721,6 +721,15 @@
       "title": "Frontend Software Engineer Intern - Summer 2027",
       "url": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd"
     },
+    "vanshb03:amazon::vanshb03-e8764904-db74-45be-ae45-a194c869f494": {
+      "attempted_at": "2026-11-03T20:16:19+00:00",
+      "company": "Amazon",
+      "location": "Seattle, WA",
+      "posted_at": "1793736686",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer (Embedded Systems)",
+      "url": "https://go.vansh.nyc/1ec"
+    },
     "vanshb03:caci::vanshb03-24dd6f67-0f24-4af4-be49-c619d04f0cb6": {
       "attempted_at": "2026-10-19T00:20:33+00:00",
       "company": "CACI",
@@ -66220,5 +66229,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T19:50:13+00:00"
+  "updated_at": "2026-11-03T20:16:24+00:00"
 }
