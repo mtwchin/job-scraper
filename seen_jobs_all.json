@@ -1,5 +1,5 @@
 {
-  "count": 8745,
+  "count": 8746,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -68753,6 +68753,16 @@
       "title": "New Grad 2025: Associate, Software Engineer",
       "url": "https://careers.publicisgroupe.com/jobs/119914"
     },
+    "vanshb03:eq bank::vanshb03-3dbb423e-7a45-40ec-9efa-fe7c096cb380": {
+      "company": "EQ Bank",
+      "first_seen": "2026-11-03T21:14:20+00:00",
+      "last_seen": "2026-11-03T21:14:20+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1791472812",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1eg"
+    },
     "vanshb03:ergotron::vanshb03-3df3fa97-cc21-4b42-bb84-2e49ae47e2c5": {
       "company": "Ergotron",
       "first_seen": "2026-10-23T16:49:10+00:00",
@@ -76772,5 +76782,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T20:55:24+00:00"
+  "updated_at": "2026-11-03T21:14:38+00:00"
 }
