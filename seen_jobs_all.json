@@ -66306,7 +66306,7 @@
     "vanshb03:asml::vanshb03-ff4f572a-2531-4acf-8e27-648b8a3929f7": {
       "company": "ASML",
       "first_seen": "2026-10-24T05:00:42+00:00",
-      "last_seen": "2026-10-26T00:02:14+00:00",
+      "last_seen": "2026-11-03T18:15:50+00:00",
       "location": "San Jose, CA",
       "posted_at": "1792808889",
       "source": "vanshb03",
@@ -76615,5 +76615,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T17:41:09+00:00"
+  "updated_at": "2026-11-03T18:16:23+00:00"
 }
