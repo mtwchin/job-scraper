@@ -1,5 +1,5 @@
 {
-  "count": 8729,
+  "count": 8730,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -66272,6 +66272,16 @@
       "title": "Member of Technical Staff Intern, Frontend",
       "url": "https://go.vansh.nyc/8v"
     },
+    "vanshb03:arrowstreet capital::vanshb03-de3a3bfa-78c7-4005-b7fc-a4fd392f7982": {
+      "company": "Arrowstreet Capital",
+      "first_seen": "2026-11-03T17:10:51+00:00",
+      "last_seen": "2026-11-03T17:10:51+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1793724160",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1dK"
+    },
     "vanshb03:artera::vanshb03-9b56566a-f423-4ea2-a03e-a302c28b3057": {
       "company": "Artera",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -76595,5 +76605,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T16:13:59+00:00"
+  "updated_at": "2026-11-03T17:11:03+00:00"
 }
