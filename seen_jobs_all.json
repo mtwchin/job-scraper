@@ -1,5 +1,5 @@
 {
-  "count": 8773,
+  "count": 8781,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -7520,6 +7520,16 @@
       "title": "Quantitative Development & Strategy Intern",
       "url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481"
     },
+    "simplify:alarm.com::simplify-74a85429-eafb-40a1-bca4-b27492a2b384": {
+      "company": "Alarm.com",
+      "first_seen": "2026-11-03T23:31:20+00:00",
+      "last_seen": "2026-11-03T23:31:20+00:00",
+      "location": "Tysons, VA",
+      "posted_at": "1793723417",
+      "source": "simplify",
+      "title": "Software Rotation Program Associate",
+      "url": "https://job-boards.greenhouse.io/alarmcom/jobs/8923631002"
+    },
     "simplify:alation::simplify-14c0df8f-b9c8-4236-bca9-4a50f9f5f256": {
       "company": "Alation",
       "first_seen": "2026-09-01T00:09:06+00:00",
@@ -8730,6 +8740,16 @@
       "source": "simplify",
       "title": "Junior Software Engineer",
       "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-CA-Vandenberg-AFB/Software-Engineer-Junior_R0173629"
+    },
+    "simplify:amentum::simplify-dcd4aea5-912b-47a6-8904-50f6557b6d6a": {
+      "company": "Amentum",
+      "first_seen": "2026-11-03T23:31:20+00:00",
+      "last_seen": "2026-11-03T23:31:20+00:00",
+      "location": "Huntsville, AL",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "Software Tools Developer",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727"
     },
     "simplify:amentum::simplify-ec0efca9-ba6b-47eb-9826-7864eb3520bc": {
       "company": "Amentum",
@@ -11207,7 +11227,7 @@
     "simplify:assyst::simplify-45efe805-86d5-4768-849b-53ab403a0c6b": {
       "company": "ASSYST",
       "first_seen": "2026-10-07T23:08:09+00:00",
-      "last_seen": "2026-10-28T00:02:06+00:00",
+      "last_seen": "2026-11-03T23:31:20+00:00",
       "location": "Sterling, VA",
       "posted_at": "1791411950",
       "source": "simplify",
@@ -14344,6 +14364,16 @@
       "posted_at": "1787093934",
       "title": "Software Development Engineer 2 - Engineering",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813422191"
+    },
+    "simplify:boston scientific::simplify-39162d49-754d-45d5-a795-e851860022d0": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-11-03T23:31:20+00:00",
+      "last_seen": "2026-11-03T23:31:20+00:00",
+      "location": "Maple Grove, MN",
+      "posted_at": "1793748335",
+      "source": "simplify",
+      "title": "Software Engineer 1 - Engineering",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813660387"
     },
     "simplify:boston scientific::simplify-521a56a4-f683-4861-8565-e081a72736c1": {
       "company": "Boston Scientific",
@@ -35830,6 +35860,16 @@
       "title": "Software Engineer 1 Graduate",
       "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Grosvernor-House/Software-Engineer-I--Graduate-_R116044-2"
     },
+    "simplify:lexisnexis risk solutions::simplify-b8b1c86d-5736-41e7-b40d-b0f22da261a6": {
+      "company": "LexisNexis Risk Solutions",
+      "first_seen": "2026-11-03T23:31:20+00:00",
+      "last_seen": "2026-11-03T23:31:20+00:00",
+      "location": "Alpharetta, GA",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "Software Engineer 1 New Grad - Software Engineer I",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836"
+    },
     "simplify:lexisnexis risk solutions::simplify-ccb6a372-4ded-4af1-96f6-f90442d4d826": {
       "company": "LexisNexis Risk Solutions",
       "first_seen": "2026-08-19T21:11:49+00:00",
@@ -37683,7 +37723,7 @@
     "simplify:meijer::simplify-ec3e9690-f766-4512-af30-a7ff06ba310d": {
       "company": "Meijer",
       "first_seen": "2026-10-23T23:02:28+00:00",
-      "last_seen": "2026-11-02T00:01:58+00:00",
+      "last_seen": "2026-11-03T23:31:20+00:00",
       "location": "Grand Rapids, MI",
       "posted_at": "1792713600",
       "source": "simplify",
@@ -39921,7 +39961,7 @@
     "simplify:ncr voyix::simplify-d899f8fd-9b88-4410-8fe0-21f2f0ac1d3d": {
       "company": "NCR Voyix",
       "first_seen": "2026-10-21T22:32:35+00:00",
-      "last_seen": "2026-10-23T00:02:39+00:00",
+      "last_seen": "2026-11-03T23:31:20+00:00",
       "location": "Atlanta, GA",
       "posted_at": "1792540800",
       "source": "simplify",
@@ -47089,6 +47129,18 @@
       "title": "Backend Software Engineer",
       "url": "https://apply.workable.com/raydar/j/943D7BFDEF/apply"
     },
+    "simplify:raydar::simplify-e028f2dd-379e-43d9-b68f-081fe1881cd5": {
+      "company": "Raydar",
+      "duplicate_of": "simplify:raydar::simplify-915fc350-2ce2-47d6-9dab-8e17db9d1f5d",
+      "first_seen": "2026-11-03T23:31:20+00:00",
+      "last_seen": "2026-11-03T23:31:20+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793747409",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Full-Stack Software Engineer",
+      "url": "https://apply.workable.com/raydar/j/5CFE2097E4/apply"
+    },
     "simplify:raydar::simplify-e2a8eb46-b3a3-4557-9dd9-33eff90f3994": {
       "company": "Raydar",
       "duplicate_of": "simplify:raydar::simplify-bfeda75e-cae7-4576-bc98-7c02ca535e9e",
@@ -47386,6 +47438,16 @@
       "posted_at": "1781639418",
       "title": "Software Engineer Apprentice",
       "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/UK---Grosvenor-House-Southampton/Apprentice-Software-Engineer_R112557-2"
+    },
+    "simplify:relx::simplify-749eae8a-d5a2-4c41-8526-4a49d4c969d2": {
+      "company": "RELX",
+      "first_seen": "2026-11-03T23:31:20+00:00",
+      "last_seen": "2026-11-03T23:31:20+00:00",
+      "location": "Alpharetta, GA",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "Software Engineer 1 New Grad - Software Engineer I",
+      "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1"
     },
     "simplify:relx::simplify-90bcba7b-34ec-4f16-8ac9-408b360c11cb": {
       "company": "RELX",
@@ -52163,6 +52225,16 @@
       "title": "Futures Summit Intern",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000129860849"
     },
+    "simplify:servicenow::simplify-ad7ee672-286b-4929-9c20-6a5cdab58d98": {
+      "company": "ServiceNow",
+      "first_seen": "2026-11-03T23:31:20+00:00",
+      "last_seen": "2026-11-03T23:31:20+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1793744959",
+      "source": "simplify",
+      "title": "Software Engineer - Agent Eval Platform",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159509479"
+    },
     "simplify:servicenow::simplify-b3ed9e95-62a3-4499-b1b0-38840f1f4711": {
       "company": "ServiceNow",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -53072,6 +53144,16 @@
       "posted_at": "1788473284",
       "title": "Data Migration Engineer",
       "url": "https://jobs.smartrecruiters.com/Skyward1/744000147336520"
+    },
+    "simplify:skyward::simplify-ae709a65-f904-4def-8b18-e1e6938af885": {
+      "company": "Skyward",
+      "first_seen": "2026-11-03T23:31:20+00:00",
+      "last_seen": "2026-11-03T23:31:20+00:00",
+      "location": "Stevens Point, WI",
+      "posted_at": "1793738433",
+      "source": "simplify",
+      "title": "Software Engineer \u2013 Entry Level",
+      "url": "https://jobs.smartrecruiters.com/Skyward1/744000159491899"
     },
     "simplify:slice (slicelife.com)::simplify-2884d651-d2f6-41f5-b48d-e12239c293ae": {
       "company": "Slice (slicelife.com)",
@@ -54947,6 +55029,7 @@
     "simplify:stv::simplify-1010548a-bf89-4255-b286-bac1944e2f44": {
       "company": "STV",
       "first_seen": "2026-07-23T11:28:38+00:00",
+      "last_seen": "2026-11-03T23:31:20+00:00",
       "posted_at": "1784505600",
       "title": "AI Engineer",
       "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/AI-Engineer_JR5923"
@@ -77054,5 +77137,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T23:17:20+00:00"
+  "updated_at": "2026-11-03T23:31:23+00:00"
 }
