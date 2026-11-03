@@ -1,5 +1,5 @@
 {
-  "count": 8692,
+  "count": 8695,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -65338,6 +65338,16 @@
       "title": "Software Intern",
       "url": "https://go.vansh.nyc/gt"
     },
+    "vanshb03:amax::vanshb03-4c899af0-af19-4377-bb8e-fbc7fd20df4e": {
+      "company": "AMAX",
+      "first_seen": "2026-11-03T03:14:38+00:00",
+      "last_seen": "2026-11-03T03:14:38+00:00",
+      "location": "Fremont, CA",
+      "posted_at": "1793672441",
+      "source": "vanshb03",
+      "title": "Junior System Engineer",
+      "url": "https://go.vansh.nyc/1bO"
+    },
     "vanshb03:amazon.com services llc::vanshb03-e1a59452-2397-4902-b5c2-126b00d941e2": {
       "company": "Amazon.com Services LLC",
       "first_seen": "2026-10-31T00:10:37+00:00",
@@ -72898,6 +72908,26 @@
       "title": "New Grad 2027: Autonomous Software Engineer",
       "url": "https://go.vansh.nyc/Xb"
     },
+    "vanshb03:shield::vanshb03-5ea820a8-e056-4e03-b68f-6b5082785278": {
+      "company": "Shield",
+      "first_seen": "2026-11-03T03:14:38+00:00",
+      "last_seen": "2026-11-03T03:14:38+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1793675362",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer",
+      "url": "https://go.vansh.nyc/1bQ"
+    },
+    "vanshb03:shield::vanshb03-84e881ac-3ea5-4fe9-a78a-41da69b04cb2": {
+      "company": "Shield",
+      "first_seen": "2026-11-03T03:14:38+00:00",
+      "last_seen": "2026-11-03T03:14:38+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793675362",
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineer I",
+      "url": "https://go.vansh.nyc/1bP"
+    },
     "vanshb03:shopback::vanshb03-26ba6d75-8482-415b-804c-b9acfae18382": {
       "company": "ShopBack",
       "duplicate_of": "vanshb03:shopback::vanshb03-d463fdf0-c66d-484c-9d06-25326a27bb3c",
@@ -76176,5 +76206,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T03:10:12+00:00"
+  "updated_at": "2026-11-03T03:15:15+00:00"
 }
