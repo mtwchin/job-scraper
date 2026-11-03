@@ -1,5 +1,5 @@
 {
-  "count": 8781,
+  "count": 8797,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -9765,6 +9765,16 @@
       "title": "IT / AI Engineer Intern",
       "url": "https://jobs.aon.com/jobs/110099?icims=1"
     },
+    "simplify:apache industrial::simplify-99711ceb-b4a5-4878-b79e-1d211bd64a29": {
+      "company": "Apache Industrial",
+      "first_seen": "2026-11-03T23:32:22+00:00",
+      "last_seen": "2026-11-03T23:32:22+00:00",
+      "location": "Houston, TX",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "AI Implementation Intern",
+      "url": "https://apacheip.wd1.myworkdayjobs.com/apache_careers/job/Houston-Headquarters/AI-Implementation-Intern_R115430"
+    },
     "simplify:apera ai::simplify-0e6b54b7-af1e-4918-8224-6720703ec563": {
       "company": "Apera AI",
       "first_seen": "2026-09-16T23:02:47+00:00",
@@ -10755,6 +10765,16 @@
       "source": "simplify",
       "title": "Software Engineer 1",
       "url": "https://careers.arcfield.com/jobs/8780?icims=1"
+    },
+    "simplify:arch capital group::simplify-f5113035-5f0f-4f0c-970b-772d643acbf6": {
+      "company": "Arch Capital Group",
+      "first_seen": "2026-11-03T23:32:22+00:00",
+      "last_seen": "2026-11-03T23:32:22+00:00",
+      "location": "Greensboro, NC",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "Originations Portal IT Intern",
+      "url": "https://archgroup.wd1.myworkdayjobs.com/careers/job/Greensboro-NC-United-States-of-America/Originations-Portal-IT-Intern_R26_1135"
     },
     "simplify:arch::simplify-d9ab191f-a642-4db2-9b5d-d6e566d0a2b8": {
       "company": "Arch",
@@ -13252,6 +13272,26 @@
       "source": "simplify",
       "title": "Graduate Systems Software Developer - Sensor Framework",
       "url": "https://bb.wd3.myworkdayjobs.com/QNX/job/Ottawa-Ontario/QNX--Graduate-Systems-Software-Developer--Sensor-Framework-_20260300"
+    },
+    "simplify:blackberry::simplify-7a2d15f6-6e49-4638-8a16-be4266a7cb87": {
+      "company": "Blackberry",
+      "first_seen": "2026-11-03T23:32:22+00:00",
+      "last_seen": "2026-11-03T23:32:22+00:00",
+      "location": "Ottawa, ON, Canada",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "Software Development Co-op",
+      "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Development-Student_20260343"
+    },
+    "simplify:blackberry::simplify-85538caf-57c4-4dda-a1e6-29487048a352": {
+      "company": "Blackberry",
+      "first_seen": "2026-11-03T23:32:22+00:00",
+      "last_seen": "2026-11-03T23:32:22+00:00",
+      "location": "Ottawa, ON, Canada",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "Software Developer Student Intern",
+      "url": "https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/Software-Developer-Student_20260342"
     },
     "simplify:blackhawk network holdings::simplify-15129436-ae9b-4bc6-8628-b77a5b2874fb": {
       "company": "Blackhawk Network Holdings",
@@ -17942,6 +17982,16 @@
       "title": "Software Engineer Intern",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372"
     },
+    "simplify:ciena::simplify-3ad36aa7-acb7-4e46-ad37-b83060c3c4e2": {
+      "company": "Ciena",
+      "first_seen": "2026-11-03T23:32:22+00:00",
+      "last_seen": "2026-11-03T23:32:22+00:00",
+      "location": "Remote in Canada, Qu\u00e9bec City, QC, Canada",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "Software Developer Co-op Intern",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046"
+    },
     "simplify:ciena::simplify-46c29440-180a-426c-9778-2c8e20bbebcd": {
       "company": "Ciena",
       "first_seen": "2026-10-29T22:32:51+00:00",
@@ -19190,6 +19240,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://apply.workable.com/commonai/j/021D3FCF3E/apply"
+    },
+    "simplify:commonwealth fusion systems::simplify-3095dc51-647e-45c6-8c95-5791bcf93583": {
+      "company": "Commonwealth Fusion Systems",
+      "first_seen": "2026-11-03T23:32:22+00:00",
+      "last_seen": "2026-11-03T23:32:22+00:00",
+      "location": "Devens, MA",
+      "posted_at": "1793748342",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.lever.co/cfsenergy/f71bb176-75b9-4a30-8b2a-e3078b45505d/apply"
     },
     "simplify:commonwealth fusion systems::simplify-e56fc6cf-2283-4163-bd37-3a76a7894bb5": {
       "company": "Commonwealth Fusion Systems",
@@ -27760,12 +27820,34 @@
       "title": "Frontend Software Developer Co-op - Information Archiving",
       "url": "https://www.globalrelay.com/careers/jobs?gh_jid=6109928004"
     },
+    "simplify:global relay::simplify-3245acd0-2f34-463e-85a8-24ae76e5f965": {
+      "company": "Global Relay",
+      "first_seen": "2026-11-03T23:32:22+00:00",
+      "last_seen": "2026-11-03T23:32:22+00:00",
+      "location": "Vancouver, BC, Canada; Halifax Regional Municipality, NS, Canada",
+      "posted_at": "1793739681",
+      "source": "simplify",
+      "title": "Java Developer Co-op",
+      "url": "https://www.globalrelay.com/careers/jobs?gh_jid=6241593004"
+    },
     "simplify:global relay::simplify-c73ff07e-53d8-4cfc-8ab2-58f9de2c9c87": {
       "company": "Global Relay",
       "first_seen": "2026-07-14T22:33:53+00:00",
       "posted_at": "1784066810",
       "title": "C# Developer Co-op",
       "url": "https://www.globalrelay.com/careers/jobs?gh_jid=6112691004"
+    },
+    "simplify:global relay::simplify-c8b528c0-9e2b-41f1-b70b-f51830b754e2": {
+      "company": "Global Relay",
+      "duplicate_of": "simplify:global relay::simplify-3245acd0-2f34-463e-85a8-24ae76e5f965",
+      "first_seen": "2026-11-03T23:32:21+00:00",
+      "last_seen": "2026-11-03T23:32:21+00:00",
+      "location": "Halifax Regional Municipality, NS, Canada",
+      "posted_at": "1793740313",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Java Developer Co-op",
+      "url": "https://www.globalrelay.com/careers/jobs?gh_jid=6241594004"
     },
     "simplify:global relay::simplify-fd14f754-6fe7-432f-94db-3b90a4a32da2": {
       "company": "Global Relay",
@@ -29197,6 +29279,16 @@
       "title": "Hearst Fellowship for Newsroom AI Development - DevHub",
       "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027417"
     },
+    "simplify:hearst::simplify-341f7fcc-9bce-4098-8f9b-c5911777a66e": {
+      "company": "Hearst",
+      "first_seen": "2026-11-03T23:32:23+00:00",
+      "last_seen": "2026-11-03T23:32:23+00:00",
+      "location": "SF",
+      "posted_at": "1793721890",
+      "source": "simplify",
+      "title": "Editorial AI Development Intern",
+      "url": "https://job-boards.greenhouse.io/hearst/jobs/4473043009"
+    },
     "simplify:hearst::simplify-e117e384-e58d-4b8c-be0d-eeb4ff54a0db": {
       "company": "Hearst",
       "first_seen": "2026-09-10T23:38:18+00:00",
@@ -29615,6 +29707,16 @@
       "title": "Applied Gen AI/Data Scientist Graduate Intern",
       "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007"
     },
+    "simplify:highmark health::simplify-33365070-1b3c-4991-85fb-04e2cdc26de7": {
+      "company": "Highmark Health",
+      "first_seen": "2026-11-03T23:32:23+00:00",
+      "last_seen": "2026-11-03T23:32:23+00:00",
+      "location": "New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "AI Services and Platforms Software Engineer Intern",
+      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322"
+    },
     "simplify:highmark health::simplify-58a7bc55-d2fe-4a18-8d1c-ad95595dd5fb": {
       "company": "Highmark Health",
       "first_seen": "2026-10-26T22:32:33+00:00",
@@ -29981,6 +30083,16 @@
       "posted_at": "1784930548",
       "title": "Product Engineer Co-op",
       "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/118645"
+    },
+    "simplify:hp inc.::simplify-8389b458-1a55-45d4-a63d-b9cfecb8824d": {
+      "company": "HP Inc.",
+      "first_seen": "2026-11-03T23:32:22+00:00",
+      "last_seen": "2026-11-03T23:32:22+00:00",
+      "location": "SF",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Product & Developer Productivity",
+      "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803"
     },
     "simplify:hp inc.::simplify-9682b9f6-49b4-4232-b676-470ac9b9e96f": {
       "company": "HP Inc.",
@@ -38969,6 +39081,16 @@
       "posted_at": "1788480000",
       "title": "Applied Technologies Intern",
       "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Norwood-Massachusetts/Intern--Applied-Technologies--Summer-2027-_R19734"
+    },
+    "simplify:moderna::simplify-a8192ed5-e5e9-415e-a09c-8bbc96ebe4bd": {
+      "company": "Moderna",
+      "first_seen": "2026-11-03T23:32:22+00:00",
+      "last_seen": "2026-11-03T23:32:22+00:00",
+      "location": "Cambridge, MA",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "mRNA Design Engineer Co-op",
+      "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/XMLNAME-2027-Co-Op--mRNA-Design-Engineering_R20128"
     },
     "simplify:modernizing medicine::simplify-fd295519-9a15-422a-a9c7-36067c9a404a": {
       "company": "Modernizing Medicine",
@@ -51621,6 +51743,16 @@
       "title": "Software Engineering Intern",
       "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091"
     },
+    "simplify:samsung research america::simplify-f107f36b-2d7b-4407-a73c-6eccd1a4a0fa": {
+      "company": "Samsung Research America",
+      "first_seen": "2026-11-03T23:32:22+00:00",
+      "last_seen": "2026-11-03T23:32:22+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1793727287",
+      "source": "simplify",
+      "title": "Agentic AI Solutions Intern",
+      "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8926019002"
+    },
     "simplify:sandhills global::simplify-1560cb5a-5cc1-4788-aa55-44b8c25b2336": {
       "company": "Sandhills Global",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -54455,6 +54587,16 @@
       "title": "Engineer 1 - Digital",
       "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Engineer-I--Digital_REQ-1000051830"
     },
+    "simplify:staples::simplify-540147a8-5c6b-4f1d-8311-8fce3c94c9de": {
+      "company": "Staples",
+      "first_seen": "2026-11-03T23:32:23+00:00",
+      "last_seen": "2026-11-03T23:32:23+00:00",
+      "location": "Framingham, MA",
+      "posted_at": "1793747252",
+      "source": "simplify",
+      "title": "Software Engineer Intern - SDS e-Commerce Team",
+      "url": "https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77133"
+    },
     "simplify:staples::simplify-7b190fdf-cbaa-48da-afc3-bdbf0f06287d": {
       "company": "Staples",
       "first_seen": "2026-11-02T23:32:39+00:00",
@@ -55153,6 +55295,18 @@
       "posted_at": "1788393600",
       "title": "Associate Software Engineer",
       "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Waterloo-Ontario/Student--Associate-Software-Engineer--Winter-2027-_JR00127614"
+    },
+    "simplify:sun life::simplify-afca41c6-cdfa-48a4-a053-f66e3f7e6cd2": {
+      "company": "Sun Life",
+      "duplicate_of": "vanshb03:sun life::vanshb03-98f7a0f6-ebb7-47cc-8403-4124e043a137",
+      "first_seen": "2026-11-03T23:32:21+00:00",
+      "last_seen": "2026-11-03T23:32:21+00:00",
+      "location": "Milwaukee, WI, Kansas City, MO, Hartford, CT, Portland, ME, Wellesley, MA",
+      "posted_at": "1793664000",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Business Operations Software Engineer Co-op",
+      "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Milwaukee-Wisconsin/Business-Operations-Software-Engineer---2027-Co-op_JR00128846-1"
     },
     "simplify:sun life::simplify-c1ff02ec-5b6a-4913-889d-999c070b5c39": {
       "company": "Sun Life",
@@ -59852,6 +60006,16 @@
       "source": "simplify",
       "title": "AI Automation & Revenue Ops Intern",
       "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5270466007"
+    },
+    "simplify:toshiba global commerce solutions::simplify-bace5e25-f7c7-40db-875f-96e30740cd4b": {
+      "company": "Toshiba Global Commerce Solutions",
+      "first_seen": "2026-11-03T23:32:23+00:00",
+      "last_seen": "2026-11-03T23:32:23+00:00",
+      "location": "Frisco, TX",
+      "posted_at": "1793734493",
+      "source": "simplify",
+      "title": "AI Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5283178007"
     },
     "simplify:toshiba global commerce solutions::simplify-ea8851db-7f77-4b09-b31c-cad41cb44180": {
       "company": "Toshiba Global Commerce Solutions",
@@ -77137,5 +77301,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T23:31:23+00:00"
+  "updated_at": "2026-11-03T23:32:26+00:00"
 }
