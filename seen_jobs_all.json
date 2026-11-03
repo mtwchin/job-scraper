@@ -1432,6 +1432,15 @@
       "title": "Software Engineering Intern, Quality Assurance",
       "url": "https://go.vansh.nyc/Xt"
     },
+    "vanshb03:allegion::vanshb03-4f56d6f3-bd89-4b0e-8542-d2cbbd1422a2": {
+      "attempted_at": "2026-11-03T04:11:10+00:00",
+      "company": "Allegion",
+      "location": "Carmel, IN, Golden, CO",
+      "posted_at": "1793678766",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, DevOps",
+      "url": "https://go.vansh.nyc/1c0"
+    },
     "vanshb03:anysignal::vanshb03-586815ae-6642-4b03-a441-26311c0416e6": {
       "attempted_at": "2026-10-26T11:49:23+00:00",
       "company": "AnySignal",
@@ -1449,6 +1458,24 @@
       "source": "vanshb03",
       "title": "Software Engineer In Test Intern, MOD",
       "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Software-Engineer-In-Test--MOD-_J-00354568"
+    },
+    "vanshb03:aspentech::vanshb03-c77ad553-abf1-43b0-9bb8-430f2f3c5bc7": {
+      "attempted_at": "2026-11-03T04:11:10+00:00",
+      "company": "AspenTech",
+      "location": "Medina, MN",
+      "posted_at": "1793678766",
+      "source": "vanshb03",
+      "title": "Software Development Intern, Digital Grid Management",
+      "url": "https://go.vansh.nyc/1c7"
+    },
+    "vanshb03:bracco::vanshb03-4ec648c3-d09a-401f-8150-4960a1b68de9": {
+      "attempted_at": "2026-11-03T04:11:10+00:00",
+      "company": "Bracco",
+      "location": "Eden Prairie, MN",
+      "posted_at": "1793678766",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1bX"
     },
     "vanshb03:caci::vanshb03-24dd6f67-0f24-4af4-be49-c619d04f0cb6": {
       "attempted_at": "2026-10-19T00:20:33+00:00",
@@ -1692,6 +1719,15 @@
       "source": "vanshb03",
       "title": "Embedded Systems Engineer Intern",
       "url": "https://go.vansh.nyc/1br"
+    },
+    "vanshb03:viavi solutions::vanshb03-b2ab631a-4815-408e-9682-b4a9a2fcbbde": {
+      "attempted_at": "2026-11-03T04:11:10+00:00",
+      "company": "Viavi Solutions",
+      "location": "Germantown, MD",
+      "posted_at": "1793678766",
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/1c8"
     },
     "vanshb03:wolverine trading::vanshb03-33731457-31e2-43b6-9c75-cfdadc3f8ffb": {
       "attempted_at": "2026-10-26T11:49:23+00:00",
@@ -76206,5 +76242,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T03:15:15+00:00"
+  "updated_at": "2026-11-03T04:11:19+00:00"
 }
