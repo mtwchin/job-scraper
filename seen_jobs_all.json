@@ -1,5 +1,5 @@
 {
-  "count": 8734,
+  "count": 8735,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -46075,6 +46075,18 @@
       "title": "Software Engineer Intern",
       "url": "https://publicisgroupe.jibeapply.com/jobs/173034?icims=1"
     },
+    "simplify:publicis groupe::simplify-88eaf5f9-1259-44ff-ab84-75c4d2d6eb63": {
+      "company": "Publicis Groupe",
+      "duplicate_of": "simplify:publicis groupe::simplify-0706bb2f-8031-40cc-9e45-2952f9353f95",
+      "first_seen": "2026-11-03T19:32:51+00:00",
+      "last_seen": "2026-11-03T19:32:51+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1788894060",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://publicisgroupe.jibeapply.com/jobs/173032?icims=1"
+    },
     "simplify:publicis groupe::simplify-9cc55cbc-fba7-49ae-b6d2-47025e62558b": {
       "company": "Publicis Groupe",
       "first_seen": "2026-09-08T23:04:44+00:00",
@@ -76647,5 +76659,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T19:16:22+00:00"
+  "updated_at": "2026-11-03T19:33:28+00:00"
 }
