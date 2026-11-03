@@ -1,5 +1,5 @@
 {
-  "count": 8723,
+  "count": 8728,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -8811,6 +8811,16 @@
       "title": "AI Engineer Intern - Undergraduate",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756"
     },
+    "simplify:american express::simplify-2898b74c-bc91-4f06-b910-1d62bdba0c18": {
+      "company": "American Express",
+      "first_seen": "2026-11-03T16:02:51+00:00",
+      "last_seen": "2026-11-03T16:02:51+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1793721064",
+      "source": "simplify",
+      "title": "Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722"
+    },
     "simplify:american express::simplify-35fb935f-b0e2-45fc-b47d-30f441bc8d56": {
       "company": "American Express",
       "first_seen": "2026-08-17T22:50:57+00:00",
@@ -14430,6 +14440,26 @@
       "posted_at": "1780621638",
       "title": "Software Engineer - Operation Platforms",
       "url": "https://job-boards.greenhouse.io/botauto/jobs/5248910008"
+    },
+    "simplify:botpress technologies::simplify-242cf8f3-3e86-497c-9929-78f7c704959b": {
+      "company": "Botpress Technologies",
+      "first_seen": "2026-11-03T16:02:51+00:00",
+      "last_seen": "2026-11-03T16:02:51+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1793720277",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://apply.workable.com/botpress/j/9B3CB646E8/apply"
+    },
+    "simplify:botpress technologies::simplify-74cb6a03-be46-40f2-8129-a4bb565f6641": {
+      "company": "Botpress Technologies",
+      "first_seen": "2026-11-03T16:02:51+00:00",
+      "last_seen": "2026-11-03T16:02:51+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1793720277",
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://apply.workable.com/botpress/j/16C68A50A7/apply"
     },
     "simplify:bowman consulting group::simplify-06db3932-5fa9-491d-a8ce-cca28e1266ed": {
       "company": "Bowman Consulting Group",
@@ -50974,6 +51004,16 @@
       "title": "Java Software Engineer 1",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Java-Software-Engineer-I--On-Site-_01860806"
     },
+    "simplify:rtx::simplify-fb29fcfc-780f-4938-b6c8-9d73ba45b207": {
+      "company": "RTX",
+      "first_seen": "2026-11-03T16:02:51+00:00",
+      "last_seen": "2026-11-03T16:02:51+00:00",
+      "location": "Arlington County, Arlington, VA",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "Leadership Development Program - Engineering - Software Discipline",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Engineering--Software-Discipline--Starts-June-2027-_01873618-1"
+    },
     "simplify:rtx::simplify-fc8f90bf-1265-416f-a1d2-b93977214909": {
       "company": "RTX",
       "first_seen": "2026-08-12T16:30:08+00:00",
@@ -60481,6 +60521,16 @@
       "posted_at": "1788906536",
       "title": "Software Engineer",
       "url": "https://twosigma.avature.net/careers/JobDetail/14018"
+    },
+    "simplify:two six technologies::simplify-8e77f653-a96d-4c5f-abc0-06ffb62f8a73": {
+      "company": "Two Six Technologies",
+      "first_seen": "2026-11-03T16:02:51+00:00",
+      "last_seen": "2026-11-03T16:02:51+00:00",
+      "location": "Arlington County, Arlington, VA",
+      "posted_at": "1793714374",
+      "source": "simplify",
+      "title": "Research Intern",
+      "url": "https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236149004"
     },
     "simplify:two six technologies::simplify-bfa01257-724c-4c7e-9a32-1bd1a99d9b9e": {
       "company": "Two Six Technologies",
@@ -76535,5 +76585,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T15:40:52+00:00"
+  "updated_at": "2026-11-03T16:02:55+00:00"
 }
