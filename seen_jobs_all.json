@@ -1,5 +1,5 @@
 {
-  "count": 8799,
+  "count": 8800,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -69236,6 +69236,16 @@
       "title": "Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true"
     },
+    "vanshb03:faros ai::vanshb03-ce683986-a9b6-4a10-9626-0d617282a20e": {
+      "company": "Faros AI",
+      "first_seen": "2026-11-03T23:47:20+00:00",
+      "last_seen": "2026-11-03T23:47:20+00:00",
+      "location": "San Mateo, CA",
+      "posted_at": "1793749322",
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineer",
+      "url": "https://go.vansh.nyc/1fH"
+    },
     "vanshb03:fellow insights::vanshb03-6394d25d-454b-456c-9c8f-cc894e02bb34": {
       "company": "Fellow Insights",
       "first_seen": "2026-10-26T12:37:52+00:00",
@@ -77321,5 +77331,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T23:42:28+00:00"
+  "updated_at": "2026-11-03T23:47:31+00:00"
 }
