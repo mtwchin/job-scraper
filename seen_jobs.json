@@ -1,5 +1,5 @@
 {
-  "count": 7812,
+  "count": 7813,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -62193,6 +62193,16 @@
       "title": "Software Engineer Intern, Data Platform/Analytics",
       "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931"
     },
+    "vanshb03:microsoft::vanshb03-aecc2da7-51c6-40b6-8c3d-2dbab1338249": {
+      "company": "Microsoft",
+      "first_seen": "2026-11-03T19:15:58+00:00",
+      "last_seen": "2026-11-03T19:15:58+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1793732873",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Teamwork Experiences",
+      "url": "https://go.vansh.nyc/1dY"
+    },
     "vanshb03:microsoft::vanshb03-c3fde03a-d232-4dd2-9236-6dad2a540d75": {
       "company": "Microsoft",
       "duplicate_of": "vanshb03:microsoft::vanshb03-9843e494-b52f-4aae-9240-3aa4ecc78a8b",
@@ -66200,5 +66210,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T17:39:07+00:00"
+  "updated_at": "2026-11-03T19:16:16+00:00"
 }
