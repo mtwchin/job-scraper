@@ -1,5 +1,5 @@
 {
-  "count": 8736,
+  "count": 8739,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -72346,6 +72346,28 @@
       "title": "Cloud Platform Engineer Intern, Growth",
       "url": "https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa"
     },
+    "vanshb03:pri engineering::vanshb03-83970a4d-1a27-40d3-9eec-351a2b64b962": {
+      "company": "PRI Engineering",
+      "first_seen": "2026-11-03T19:45:51+00:00",
+      "last_seen": "2026-11-03T19:45:51+00:00",
+      "location": "Mississauga, Canada; Calgary, Canada",
+      "posted_at": "1793648455",
+      "source": "vanshb03",
+      "title": "Junior Software Developer",
+      "url": "https://go.vansh.nyc/1e2"
+    },
+    "vanshb03:pri engineering::vanshb03-c3d69a61-eaaa-4943-ab85-cb1bf626ce06": {
+      "company": "PRI Engineering",
+      "duplicate_of": "vanshb03:pri engineering::vanshb03-83970a4d-1a27-40d3-9eec-351a2b64b962",
+      "first_seen": "2026-11-03T19:45:50+00:00",
+      "last_seen": "2026-11-03T19:45:50+00:00",
+      "location": "Calgary, Canada",
+      "posted_at": "1793648455",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Junior Software Developer",
+      "url": "https://go.vansh.nyc/1e3"
+    },
     "vanshb03:profound::vanshb03-27568766-016d-4cc0-a51e-216c025e4feb": {
       "company": "Profound",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -72598,6 +72620,16 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/13l"
+    },
+    "vanshb03:raytheon technologies::vanshb03-a96fd1bf-9735-460b-85d6-3c25d545f280": {
+      "company": "Raytheon Technologies",
+      "first_seen": "2026-11-03T19:45:51+00:00",
+      "last_seen": "2026-11-03T19:45:51+00:00",
+      "location": "Tewksbury, MA",
+      "posted_at": "1793648454",
+      "source": "vanshb03",
+      "title": "Embedded Security Software Engineer I",
+      "url": "https://go.vansh.nyc/1e1"
     },
     "vanshb03:raytheon technologies::vanshb03-eada10c2-4910-4637-9528-5e45315bae43": {
       "company": "Raytheon Technologies",
@@ -76669,5 +76701,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T19:42:43+00:00"
+  "updated_at": "2026-11-03T19:46:06+00:00"
 }
