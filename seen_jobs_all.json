@@ -1,5 +1,5 @@
 {
-  "count": 8730,
+  "count": 8731,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -68293,6 +68293,16 @@
       "title": "Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1"
     },
+    "vanshb03:dell technologies::vanshb03-d0150e72-84f1-48a6-9bb0-510c59682678": {
+      "company": "Dell Technologies",
+      "first_seen": "2026-11-03T17:40:51+00:00",
+      "last_seen": "2026-11-03T17:40:51+00:00",
+      "location": "United States",
+      "posted_at": "1793664000",
+      "source": "vanshb03",
+      "title": "Software Engineering Undergraduate Intern, CSG",
+      "url": "https://go.vansh.nyc/1dN"
+    },
     "vanshb03:demiurge studios::vanshb03-d35131d0-8a49-4839-875b-d1a06220251f": {
       "company": "Demiurge Studios",
       "first_seen": "2026-10-26T14:40:11+00:00",
@@ -76605,5 +76615,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T17:11:03+00:00"
+  "updated_at": "2026-11-03T17:41:09+00:00"
 }
