@@ -65154,7 +65154,7 @@
     "vanshb03:ace hardware corporation::vanshb03-213ac571-729d-450b-ae2a-9339c87cc649": {
       "company": "Ace Hardware Corporation",
       "first_seen": "2026-10-28T13:44:17+00:00",
-      "last_seen": "2026-10-28T13:44:17+00:00",
+      "last_seen": "2026-11-03T19:02:51+00:00",
       "location": "Oak Brook, IL",
       "posted_at": "1793194806",
       "source": "vanshb03",
@@ -76627,5 +76627,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T18:44:44+00:00"
+  "updated_at": "2026-11-03T19:03:06+00:00"
 }
