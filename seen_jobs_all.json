@@ -1,5 +1,5 @@
 {
-  "count": 8766,
+  "count": 8771,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -66671,6 +66671,26 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/cA"
     },
+    "vanshb03:blackberry::vanshb03-1a107374-7ed3-4b21-9b72-cfe1b2e9bbb8": {
+      "company": "Blackberry",
+      "first_seen": "2026-11-03T22:41:20+00:00",
+      "last_seen": "2026-11-03T22:41:20+00:00",
+      "location": "Ottawa, Canada",
+      "posted_at": "1793745398",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1fe"
+    },
+    "vanshb03:blackberry::vanshb03-1eb25b3e-ddf1-4971-b0fa-95ad88a9c943": {
+      "company": "Blackberry",
+      "first_seen": "2026-11-03T22:41:20+00:00",
+      "last_seen": "2026-11-03T22:41:20+00:00",
+      "location": "Ottawa, Canada",
+      "posted_at": "1793745398",
+      "source": "vanshb03",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/1ff"
+    },
     "vanshb03:blue origin::vanshb03-4bbbd3c1-054a-4920-83a9-6b0c439659b7": {
       "company": "Blue Origin",
       "first_seen": "2026-11-01T06:46:02+00:00",
@@ -67726,6 +67746,16 @@
       "source": "vanshb03",
       "title": "Software Developer Intern",
       "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Ottawa/Software-Developer-Intern---Winter-2027_R031953-1"
+    },
+    "vanshb03:ciena::vanshb03-619169fe-919e-4754-94e6-eaa664d7d8c9": {
+      "company": "Ciena",
+      "first_seen": "2026-11-03T22:41:20+00:00",
+      "last_seen": "2026-11-03T22:41:20+00:00",
+      "location": "Quebec, Canada, Remote, Canada",
+      "posted_at": "1793745398",
+      "source": "vanshb03",
+      "title": "Software Developer Co-op",
+      "url": "https://go.vansh.nyc/1fg"
     },
     "vanshb03:ciena::vanshb03-857072be-16de-401e-a096-37df29a6778f": {
       "company": "Ciena",
@@ -69422,6 +69452,16 @@
       "source": "vanshb03",
       "title": "Forward Deployed Engineering Intern",
       "url": "https://go.vansh.nyc/8e"
+    },
+    "vanshb03:greatamerica financial services::vanshb03-7d1bd72f-6c0b-4558-9350-5db1ac93b742": {
+      "company": "GreatAmerica Financial Services",
+      "first_seen": "2026-11-03T22:41:20+00:00",
+      "last_seen": "2026-11-03T22:41:20+00:00",
+      "location": "Cedar Rapids, IA",
+      "posted_at": "1793745398",
+      "source": "vanshb03",
+      "title": "Platform Engineering Intern",
+      "url": "https://go.vansh.nyc/1fj"
     },
     "vanshb03:greenboard (w24)::vanshb03-871c5c89-5787-4ce1-a5fa-b5d254bc1661": {
       "company": "Greenboard (W24)",
@@ -74115,6 +74155,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/Yc"
     },
+    "vanshb03:sun life::vanshb03-98f7a0f6-ebb7-47cc-8403-4124e043a137": {
+      "company": "Sun Life",
+      "first_seen": "2026-11-03T22:41:20+00:00",
+      "last_seen": "2026-11-03T22:41:20+00:00",
+      "location": "Milwaukee, WI, Wellesley Hills, MA, Hartford, CT, Portland, ME, Kansas City, MO",
+      "posted_at": "1793745398",
+      "source": "vanshb03",
+      "title": "Business Operations Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1fl"
+    },
     "vanshb03:suno::vanshb03-327c146b-66e5-4035-9b7d-8028c929a624": {
       "company": "Suno",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -76984,5 +77034,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T22:19:11+00:00"
+  "updated_at": "2026-11-03T22:42:14+00:00"
 }
