@@ -1630,6 +1630,15 @@
       "title": "Forward Deployed Engineer Intern, Global Public Sector",
       "url": "https://go.vansh.nyc/WD"
     },
+    "vanshb03:shield::vanshb03-3d8f1170-1f6c-4cd0-84ed-af7caba82377": {
+      "attempted_at": "2026-11-03T03:09:38+00:00",
+      "company": "Shield",
+      "location": "San Diego, CA",
+      "posted_at": "1793660426",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1bN"
+    },
     "vanshb03:skydio::vanshb03-2295901e-eac9-41b9-8e2c-6164c9d0f3bf": {
       "attempted_at": "2026-10-25T08:43:56+00:00",
       "company": "Skydio",
@@ -76167,5 +76176,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T03:03:09+00:00"
+  "updated_at": "2026-11-03T03:10:12+00:00"
 }
