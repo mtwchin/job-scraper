@@ -65947,7 +65947,7 @@
     "waymo::8198218": {
       "company": "Waymo",
       "first_seen": "2026-09-14T21:19:49+00:00",
-      "last_seen": "2026-10-29T00:00:01+00:00",
+      "last_seen": "2026-11-03T00:12:27+00:00",
       "location": "Mountain View, California, United States; San Francisco, California, United States",
       "posted_at": "2026-09-14T17:19:15-04:00",
       "source": "",
@@ -66180,5 +66180,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T00:02:45+00:00"
+  "updated_at": "2026-11-03T00:12:48+00:00"
 }
