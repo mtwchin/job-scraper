@@ -1,5 +1,5 @@
 {
-  "count": 7810,
+  "count": 7811,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -38276,6 +38276,16 @@
       "title": "Software Engineer New Grad - Physical Design Infrastructure",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823"
     },
+    "simplify:nvidia::simplify-a76e7223-bb98-4ed6-af28-3ae42d23856a": {
+      "company": "NVIDIA",
+      "first_seen": "2026-11-03T02:31:46+00:00",
+      "last_seen": "2026-11-03T02:31:46+00:00",
+      "location": "Canada, Santa Clara, CA, United States",
+      "posted_at": "1793577600",
+      "source": "simplify",
+      "title": "Math Libraries Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449"
+    },
     "simplify:nvidia::simplify-b21c6ecc-b04d-4db0-9eff-e6b06b5b1212": {
       "company": "NVIDIA",
       "first_seen": "2026-09-22T00:35:18+00:00",
@@ -66180,5 +66190,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T00:12:48+00:00"
+  "updated_at": "2026-11-03T02:31:53+00:00"
 }
