@@ -1,5 +1,5 @@
 {
-  "count": 7813,
+  "count": 7814,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1319,6 +1319,16 @@
       "source": "",
       "title": "Software Development Engineer (Database) Early Career- 2027 (US)",
       "url": "https://www.amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us"
+    },
+    "amazon::10595839": {
+      "company": "Amazon",
+      "first_seen": "2026-11-03T19:49:52+00:00",
+      "last_seen": "2026-11-03T19:49:52+00:00",
+      "location": "Seattle, Washington, USA",
+      "posted_at": "November  3, 2026",
+      "source": "",
+      "title": "Software Development Engineer (Embedded Systems) Early Career - 2027 (US)",
+      "url": "https://www.amazon.jobs/en/jobs/10595839/software-development-engineer-embedded-systems-early-career-2027-us"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -66210,5 +66220,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T19:16:16+00:00"
+  "updated_at": "2026-11-03T19:50:13+00:00"
 }
