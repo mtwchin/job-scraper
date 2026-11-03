@@ -1,5 +1,5 @@
 {
-  "count": 8690,
+  "count": 8692,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -27222,6 +27222,16 @@
       "title": "Engineering Intern",
       "url": "https://jobs.ashbyhq.com/geniusai/06198681-5c9d-40fa-aa68-ac92b65227c4/application?embed=true"
     },
+    "simplify:genmd::simplify-2f789670-e408-4083-8c56-78c3954a15f2": {
+      "company": "GenMD",
+      "first_seen": "2026-11-03T03:02:40+00:00",
+      "last_seen": "2026-11-03T03:02:40+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "Member of Technical Staff Intern - Applied AI",
+      "url": "https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c/application?embed=true"
+    },
     "simplify:genomics england::simplify-f7e20b19-467d-47e8-96ec-93acbd0fc3f4": {
       "company": "Genomics England",
       "first_seen": "2026-07-26T03:56:28+00:00",
@@ -42368,6 +42378,16 @@
       "posted_at": "1784764800",
       "title": "Software Engineer New Grad - Physical Design Infrastructure",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Physical-Design-Infrastructure---New-College-Grad-2026_JR2021823"
+    },
+    "simplify:nvidia::simplify-a76e7223-bb98-4ed6-af28-3ae42d23856a": {
+      "company": "NVIDIA",
+      "first_seen": "2026-11-03T02:31:46+00:00",
+      "last_seen": "2026-11-03T02:31:46+00:00",
+      "location": "Canada, Santa Clara, CA, United States",
+      "posted_at": "1793577600",
+      "source": "simplify",
+      "title": "Math Libraries Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Math-Libraries-Intern--cuEST---Summer-2027_JR2028449"
     },
     "simplify:nvidia::simplify-b21c6ecc-b04d-4db0-9eff-e6b06b5b1212": {
       "company": "NVIDIA",
@@ -76147,5 +76167,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T02:12:05+00:00"
+  "updated_at": "2026-11-03T03:03:09+00:00"
 }
