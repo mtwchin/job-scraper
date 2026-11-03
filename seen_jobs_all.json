@@ -1,5 +1,5 @@
 {
-  "count": 8689,
+  "count": 8690,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -72578,6 +72578,16 @@
       "title": "Junior Software Engineer",
       "url": "https://jobs.ashbyhq.com/Rose%20Rocket/c074b14e-ebe0-4a14-beb2-1419eca9d447/application"
     },
+    "vanshb03:rothera::vanshb03-2c4db35f-a0ef-4e44-a2bf-52f39f2359c6": {
+      "company": "Rothera",
+      "first_seen": "2026-11-03T00:43:38+00:00",
+      "last_seen": "2026-11-03T00:43:38+00:00",
+      "location": "Chicago, IL, New York, NY",
+      "posted_at": "1793666339",
+      "source": "vanshb03",
+      "title": "Associate Software Engineer",
+      "url": "https://go.vansh.nyc/1bF"
+    },
     "vanshb03:rtx::vanshb03-1fe89484-cadc-486a-9f6e-e65f20873f7e": {
       "company": "RTX",
       "first_seen": "2026-10-27T14:39:27+00:00",
@@ -76128,5 +76138,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T00:11:57+00:00"
+  "updated_at": "2026-11-03T00:44:01+00:00"
 }
