@@ -1,5 +1,5 @@
 {
-  "count": 8728,
+  "count": 8729,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -65856,6 +65856,16 @@
       "title": "New Grad 2027: Software Engineer I, Enterprise Technology Services",
       "url": "https://go.vansh.nyc/Of"
     },
+    "vanshb03:american express::vanshb03-7cc3221f-7db3-4ab6-8897-e0b946c27a7e": {
+      "company": "American Express",
+      "first_seen": "2026-11-03T16:13:51+00:00",
+      "last_seen": "2026-11-03T16:13:51+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1793721064",
+      "source": "vanshb03",
+      "title": "Undergraduate Program Software Engineer Intern, Enterprise Technology Services",
+      "url": "https://go.vansh.nyc/1dH"
+    },
     "vanshb03:american express::vanshb03-9e5c3ecf-33a5-4ae3-9656-913717276941": {
       "company": "American Express",
       "duplicate_of": "vanshb03:american express::vanshb03-bdd6e13b-35b7-4758-9ef1-132e6e16276e",
@@ -76585,5 +76595,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T16:02:55+00:00"
+  "updated_at": "2026-11-03T16:13:59+00:00"
 }
