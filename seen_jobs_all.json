@@ -1,5 +1,5 @@
 {
-  "count": 8716,
+  "count": 8717,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -999,6 +999,15 @@
       "source": "simplify",
       "title": "Associate Software Engineer - Pathways Program",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160"
+    },
+    "simplify:nvidia::simplify-46fd3fa6-a273-49da-b7ac-7cb7fcf894a9": {
+      "attempted_at": "2026-11-03T08:01:45+00:00",
+      "company": "NVIDIA",
+      "location": "Austin, TX",
+      "posted_at": "1793577600",
+      "source": "simplify",
+      "title": "AI Compiler and Kernel Intern",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1"
     },
     "simplify:nvidia::simplify-d848615a-0d50-478c-a92e-2dda9489542c": {
       "attempted_at": "2026-10-21T01:36:38+00:00",
@@ -43321,6 +43330,16 @@
       "title": "Application Developer Intern",
       "url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-(OH)-WA-98033/1451927133/?ats=successfactors"
     },
+    "simplify:paccar::simplify-ef31b232-5a78-40fe-9d4a-b2cca861468f": {
+      "company": "Paccar",
+      "first_seen": "2026-11-03T08:02:00+00:00",
+      "last_seen": "2026-11-03T08:02:00+00:00",
+      "location": "Denton, TX",
+      "posted_at": "1793692077",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors"
+    },
     "simplify:pace::simplify-1a642388-e27f-433e-b8ec-63c5709ac3aa": {
       "company": "Pace",
       "first_seen": "2026-09-14T21:34:51+00:00",
@@ -76456,5 +76475,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T06:54:04+00:00"
+  "updated_at": "2026-11-03T08:02:08+00:00"
 }
