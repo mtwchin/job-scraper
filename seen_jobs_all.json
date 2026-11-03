@@ -1,5 +1,5 @@
 {
-  "count": 8721,
+  "count": 8722,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71237,6 +71237,16 @@
       "title": "Systems Engineering Intern, AI Experience",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
     },
+    "vanshb03:northrop grumman::vanshb03-6197c3fd-130c-4bb5-8ce4-9f51e2b8c04d": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-03T14:41:18+00:00",
+      "last_seen": "2026-11-03T14:41:18+00:00",
+      "location": "Roy, UT",
+      "posted_at": "1793716605",
+      "source": "vanshb03",
+      "title": "Cyber Systems Engineer Intern",
+      "url": "https://go.vansh.nyc/1dD"
+    },
     "vanshb03:northrop grumman::vanshb03-86a17a77-06bc-4ba0-aade-d64b0d08bead": {
       "company": "Northrop Grumman",
       "first_seen": "2026-11-03T06:53:59+00:00",
@@ -76515,5 +76525,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T14:13:31+00:00"
+  "updated_at": "2026-11-03T14:41:34+00:00"
 }
