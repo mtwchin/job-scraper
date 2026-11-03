@@ -1,5 +1,5 @@
 {
-  "count": 8739,
+  "count": 8745,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2309,6 +2309,16 @@
       "source": "",
       "title": "Software Development Engineer (Database) Early Career- 2027 (US)",
       "url": "https://www.amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us"
+    },
+    "amazon::10595839": {
+      "company": "Amazon",
+      "first_seen": "2026-11-03T19:49:52+00:00",
+      "last_seen": "2026-11-03T19:49:52+00:00",
+      "location": "Seattle, Washington, USA",
+      "posted_at": "November  3, 2026",
+      "source": "",
+      "title": "Software Development Engineer (Embedded Systems) Early Career - 2027 (US)",
+      "url": "https://www.amazon.jobs/en/jobs/10595839/software-development-engineer-embedded-systems-early-career-2027-us"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -67614,6 +67624,16 @@
       "title": "Frontend Engineer Intern",
       "url": "https://go.vansh.nyc/Xa"
     },
+    "vanshb03:cfs energy::vanshb03-603a22c9-fd37-4db6-9d47-5e03c8ccb449": {
+      "company": "CFS Energy",
+      "first_seen": "2026-11-03T20:11:51+00:00",
+      "last_seen": "2026-11-03T20:11:51+00:00",
+      "location": "Devens, MA",
+      "posted_at": "1793732789",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1e7"
+    },
     "vanshb03:chathamfinancial::vanshb03-3870fd15-e536-4e22-b402-5c9d45b4322f": {
       "company": "chathamfinancial",
       "duplicate_of": "vanshb03:chathamfinancial::vanshb03-cda7ba17-183a-488e-91e2-03a1effd33c7",
@@ -69448,6 +69468,16 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern, AIML Platform",
       "url": "https://go.vansh.nyc/1e0"
+    },
+    "vanshb03:hewlett packard (hp)::vanshb03-be90619c-9d78-4fa0-8e68-c076883bb73b": {
+      "company": "Hewlett Packard (HP)",
+      "first_seen": "2026-11-03T20:11:51+00:00",
+      "last_seen": "2026-11-03T20:11:51+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1793735729",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Product & Developer Productivity",
+      "url": "https://go.vansh.nyc/1e4"
     },
     "vanshb03:hewlett packard enterprise::vanshb03-35b01512-5eac-4905-a87b-8a946bc4aaea": {
       "company": "Hewlett Packard Enterprise",
@@ -71351,6 +71381,16 @@
       "title": "New Grad 2027: Associate Software Engineer",
       "url": "https://go.vansh.nyc/Wn"
     },
+    "vanshb03:northrop grumman::vanshb03-0c9514de-36e1-457f-a3ff-175576714aae": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-03T20:11:51+00:00",
+      "last_seen": "2026-11-03T20:11:51+00:00",
+      "location": "Redondo Beach, CA",
+      "posted_at": "1793734769",
+      "source": "vanshb03",
+      "title": "Ground Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1e5"
+    },
     "vanshb03:northrop grumman::vanshb03-42b214fe-48b1-4f78-ba30-82ec84babd47": {
       "company": "Northrop Grumman",
       "first_seen": "2026-10-22T19:44:19+00:00",
@@ -73136,6 +73176,18 @@
       "source": "vanshb03",
       "title": "Software Engineer Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451"
+    },
+    "vanshb03:rtx::vanshb03-92a80325-0afd-4f33-9c06-b87732f97b84": {
+      "company": "RTX",
+      "duplicate_of": "vanshb03:rtx::vanshb03-fad43ccf-798d-4a0e-bc56-fc0f4506bec3",
+      "first_seen": "2026-11-03T20:11:50+00:00",
+      "last_seen": "2026-11-03T20:11:50+00:00",
+      "location": "West Valley City, UT",
+      "posted_at": "1793734769",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1e6"
     },
     "vanshb03:rtx::vanshb03-9496da95-497c-4080-9240-ba1f9c5d9760": {
       "company": "RTX",
@@ -75670,6 +75722,16 @@
       "title": "Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation",
       "url": "https://go.vansh.nyc/RP"
     },
+    "vanshb03:toshiba commerce solutions::vanshb03-5e261228-840f-42f5-84b9-ae1ebc3b1bae": {
+      "company": "Toshiba Commerce Solutions",
+      "first_seen": "2026-11-03T20:11:51+00:00",
+      "last_seen": "2026-11-03T20:11:51+00:00",
+      "location": "Frisco, TX",
+      "posted_at": "1793664000",
+      "source": "vanshb03",
+      "title": "AI Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1e8"
+    },
     "vanshb03:touchdown labs::vanshb03-5732d286-04e4-4a23-ad7d-d43b2e516f92": {
       "company": "Touchdown Labs",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -76701,5 +76763,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T19:46:06+00:00"
+  "updated_at": "2026-11-03T20:12:20+00:00"
 }
