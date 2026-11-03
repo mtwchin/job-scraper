@@ -1,5 +1,5 @@
 {
-  "count": 8763,
+  "count": 8766,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71338,6 +71338,16 @@
       "title": "IT Software Development Intern",
       "url": "https://go.vansh.nyc/13f"
     },
+    "vanshb03:nexthop.ai::vanshb03-e4766df2-37f5-4c05-b663-3e75b8cf0545": {
+      "company": "Nexthop.ai",
+      "first_seen": "2026-11-03T22:18:20+00:00",
+      "last_seen": "2026-11-03T22:18:20+00:00",
+      "location": "Burnaby, Canada",
+      "posted_at": "1793743949",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/1f6"
+    },
     "vanshb03:niantic spatial::vanshb03-58603e5e-b4f0-48ac-a231-daa3e18befd7": {
       "company": "Niantic Spatial",
       "duplicate_of": "simplify:niantic spatial::simplify-3619b4c7-53d4-4dcc-aa54-3f79280248ed",
@@ -72780,6 +72790,16 @@
       "title": "Software Engineer I",
       "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684"
     },
+    "vanshb03:realm::vanshb03-4163d8b2-be09-449d-9cf4-319aa1874cfe": {
+      "company": "Realm",
+      "first_seen": "2026-11-03T22:18:20+00:00",
+      "last_seen": "2026-11-03T22:18:20+00:00",
+      "location": "Remote",
+      "posted_at": "1793743949",
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineer",
+      "url": "https://go.vansh.nyc/1f8"
+    },
     "vanshb03:realm::vanshb03-68b73532-6338-4971-b2a7-5b0b9f8b5cc1": {
       "company": "Realm",
       "first_seen": "2026-11-03T22:13:20+00:00",
@@ -74018,6 +74038,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://www.stokespace.com/careers/current-openings/?gh_jid=5987663004&jr_id=69fae0acd21cf86d1e3cd79c"
+    },
+    "vanshb03:strada::vanshb03-e8997766-c243-4997-8513-20a8be3dbda0": {
+      "company": "Strada",
+      "first_seen": "2026-11-03T22:18:20+00:00",
+      "last_seen": "2026-11-03T22:18:20+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1793743949",
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineer",
+      "url": "https://go.vansh.nyc/1f7"
     },
     "vanshb03:stripe::vanshb03-5045948e-6164-4449-915b-65d210dc354a": {
       "company": "Stripe",
@@ -76954,5 +76984,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T22:14:07+00:00"
+  "updated_at": "2026-11-03T22:19:11+00:00"
 }
