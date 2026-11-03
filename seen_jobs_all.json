@@ -1,5 +1,5 @@
 {
-  "count": 8731,
+  "count": 8732,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -66785,6 +66785,18 @@
       "title": "Software Engineer I - Engineering - Development",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602803047194"
     },
+    "vanshb03:botpress technologies::vanshb03-5f4f8fec-be51-493d-81e3-d03d27ad766a": {
+      "company": "Botpress Technologies",
+      "duplicate_of": "simplify:botpress technologies::simplify-242cf8f3-3e86-497c-9929-78f7c704959b",
+      "first_seen": "2026-11-03T18:43:50+00:00",
+      "last_seen": "2026-11-03T18:43:50+00:00",
+      "location": "Montreal, Canada",
+      "posted_at": "1793730988",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1dR"
+    },
     "vanshb03:brain co.::vanshb03-3b8780e7-d461-49ef-a8c1-267ab7f97c8f": {
       "company": "Brain Co.",
       "first_seen": "2026-10-30T18:44:17+00:00",
@@ -69481,7 +69493,7 @@
     "vanshb03:honeywell::vanshb03-04dc09cc-6a15-4b6c-81d9-9ce85d513b36": {
       "company": "Honeywell",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-27T00:03:04+00:00",
+      "last_seen": "2026-11-03T18:43:50+00:00",
       "location": "Fort Mill, SC",
       "posted_at": "1759261119",
       "seeded": true,
@@ -76615,5 +76627,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T18:16:23+00:00"
+  "updated_at": "2026-11-03T18:44:44+00:00"
 }
