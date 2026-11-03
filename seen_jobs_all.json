@@ -1,5 +1,5 @@
 {
-  "count": 8720,
+  "count": 8721,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -70507,6 +70507,16 @@
       "title": "New Grad: Front-End Engineer",
       "url": "https://jobs.ashbyhq.com/mandolin/30bae6c7-6739-4cd6-97c4-fdb7662edf3b"
     },
+    "vanshb03:manulife financial::vanshb03-2522bbf3-e7b8-43a3-8bbf-d04012fcbc1c": {
+      "company": "Manulife Financial",
+      "first_seen": "2026-11-03T14:12:50+00:00",
+      "last_seen": "2026-11-03T14:12:50+00:00",
+      "location": "Waterloo, Canada",
+      "posted_at": "1791936000",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Software Engineering",
+      "url": "https://go.vansh.nyc/Cj"
+    },
     "vanshb03:mastercard::vanshb03-2b64a7c3-2798-4646-8e75-76a20fdd2b3d": {
       "company": "Mastercard",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -76505,5 +76515,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T13:03:28+00:00"
+  "updated_at": "2026-11-03T14:13:31+00:00"
 }
