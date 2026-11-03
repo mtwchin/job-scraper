@@ -1540,6 +1540,15 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/Ce"
     },
+    "vanshb03:micron technology::vanshb03-590e594f-fa28-4d71-914f-56ea1baee389": {
+      "attempted_at": "2026-11-03T02:11:38+00:00",
+      "company": "Micron Technology",
+      "location": "Boise, ID",
+      "posted_at": "1793670846",
+      "source": "vanshb03",
+      "title": "System Engineer Intern, HBM",
+      "url": "https://go.vansh.nyc/1bI"
+    },
     "vanshb03:netic::vanshb03-2fc9b171-627c-4768-b7e4-c207703abec8": {
       "attempted_at": "2026-10-27T01:31:03+00:00",
       "company": "Netic",
@@ -76138,5 +76147,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T00:44:01+00:00"
+  "updated_at": "2026-11-03T02:12:05+00:00"
 }
