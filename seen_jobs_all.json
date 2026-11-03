@@ -1,5 +1,5 @@
 {
-  "count": 8746,
+  "count": 8750,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -5565,6 +5565,16 @@
       "source": "",
       "title": "Business Systems Engineer I",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8087292003"
+    },
+    "rocket lab::8182050003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-11-03T21:26:53+00:00",
+      "last_seen": "2026-11-03T21:26:53+00:00",
+      "location": "Long Beach, CA",
+      "posted_at": "2026-11-03T16:25:32-05:00",
+      "source": "",
+      "title": "AI Software Engineer I",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8182050003"
     },
     "salesforce::Missionforce---Associate-Forward-Deployed-Engineer--FDE---Public-Sector_JR333171": {
       "company": "Salesforce",
@@ -68377,6 +68387,16 @@
       "title": "Forward Deployed Engineering Intern",
       "url": "https://www.workatastartup.com/jobs/94211"
     },
+    "vanshb03:direct supply::vanshb03-7dd8605b-8af7-4d44-bba2-d5881d50d0c8": {
+      "company": "Direct Supply",
+      "first_seen": "2026-11-03T21:41:20+00:00",
+      "last_seen": "2026-11-03T21:41:20+00:00",
+      "location": "Milwaukee, WI, Durham, NC",
+      "posted_at": "1793741809",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1eq"
+    },
     "vanshb03:disney::vanshb03-1c99b896-2442-4516-91f0-d43e043e3609": {
       "company": "Disney",
       "first_seen": "2026-10-26T16:38:06+00:00",
@@ -68698,6 +68718,16 @@
       "source": "vanshb03",
       "title": "Associate Software Engineer",
       "url": "https://jobs.jobvite.com/emoneyadvisor-review/job/oD9hxfwk"
+    },
+    "vanshb03:enfos::vanshb03-e7066622-269e-44fe-bfc1-ce043cca85f7": {
+      "company": "ENFOS",
+      "first_seen": "2026-11-03T21:41:20+00:00",
+      "last_seen": "2026-11-03T21:41:20+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1793741809",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1eo"
     },
     "vanshb03:entrust::vanshb03-5ac5f65b-16ed-45a3-80e3-eb7be468a122": {
       "company": "Entrust",
@@ -69414,6 +69444,16 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern, Embark",
       "url": "https://careers-hrblock.icims.com/jobs/76987/embark-software-engineering-intern---s/job"
+    },
+    "vanshb03:hadrian::vanshb03-febdf0a8-5f8b-42b8-b813-37ac69d5d8d6": {
+      "company": "Hadrian",
+      "first_seen": "2026-11-03T21:41:20+00:00",
+      "last_seen": "2026-11-03T21:41:20+00:00",
+      "location": "Los Angeles, CA",
+      "posted_at": "1788385618",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1el"
     },
     "vanshb03:harmonic::vanshb03-589552c3-f3eb-4d48-941c-a466b56abb42": {
       "company": "Harmonic",
@@ -76782,5 +76822,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-03T21:14:38+00:00"
+  "updated_at": "2026-11-03T21:41:57+00:00"
 }
