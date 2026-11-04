@@ -1,5 +1,5 @@
 {
-  "count": 8820,
+  "count": 8821,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -40979,6 +40979,18 @@
       "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0/application?embed=true"
     },
+    "simplify:nooks::simplify-27eff2d2-a7ab-477e-b561-728947abe09b": {
+      "company": "Nooks",
+      "duplicate_of": "simplify:nooks::simplify-2188ec4a-987f-4736-b3c9-2173a826ad74",
+      "first_seen": "2026-11-04T09:31:55+00:00",
+      "last_seen": "2026-11-04T09:31:55+00:00",
+      "location": "SF",
+      "posted_at": "1778882920",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/nooks/a46fd3d9-400c-4f99-bb83-2042a4e12ab3/application?embed=true"
+    },
     "simplify:noom::simplify-7b4418e9-7bf5-406f-ae87-67a80d64b411": {
       "company": "Noom",
       "first_seen": "2026-08-18T22:42:18+00:00",
@@ -77543,5 +77555,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T08:03:56+00:00"
+  "updated_at": "2026-11-04T09:31:59+00:00"
 }
