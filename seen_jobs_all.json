@@ -1,5 +1,5 @@
 {
-  "count": 8896,
+  "count": 8897,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -75269,6 +75269,16 @@
       "title": "Software Engineer Intern, Cloud Security",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190"
     },
+    "vanshb03:teledyne technologies incorporated::vanshb03-20c87e41-63a9-4f43-8fd7-a621aabb1e19": {
+      "company": "Teledyne Technologies Incorporated",
+      "first_seen": "2026-11-04T22:40:38+00:00",
+      "last_seen": "2026-11-04T22:40:38+00:00",
+      "location": "Waterloo, Canada",
+      "posted_at": "1793831808",
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/1ha"
+    },
     "vanshb03:teledyne technologies incorporated::vanshb03-d6b0d4fb-dd47-478e-ad9b-2887f64a1645": {
       "company": "Teledyne Technologies Incorporated",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -78317,5 +78327,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T21:40:41+00:00"
+  "updated_at": "2026-11-04T22:40:45+00:00"
 }
