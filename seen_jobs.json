@@ -1,5 +1,5 @@
 {
-  "count": 7817,
+  "count": 7818,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2367,6 +2367,16 @@
       "source": "",
       "title": "PhD Intern, Software Engineer - Graphics (2027)",
       "url": "https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004"
+    },
+    "figma::6241542004": {
+      "company": "Figma",
+      "first_seen": "2026-11-04T16:55:12+00:00",
+      "last_seen": "2026-11-04T16:55:12+00:00",
+      "location": "San Francisco, CA \u2022 New York, NY",
+      "posted_at": "2026-11-04T11:53:19-05:00",
+      "source": "",
+      "title": "PhD Intern, Software Engineer - Interaction Design (2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004"
     },
     "five rings::5349707008": {
       "company": "Five Rings",
@@ -66259,5 +66269,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T16:52:55+00:00"
+  "updated_at": "2026-11-04T16:55:57+00:00"
 }
