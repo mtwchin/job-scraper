@@ -1,5 +1,5 @@
 {
-  "count": 8846,
+  "count": 8847,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -69666,6 +69666,16 @@
       "title": "Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003"
     },
+    "vanshb03:frontgrade::vanshb03-dba41d95-16b6-4f9e-bcf8-b45015e9f755": {
+      "company": "Frontgrade",
+      "first_seen": "2026-11-04T18:48:15+00:00",
+      "last_seen": "2026-11-04T18:48:15+00:00",
+      "location": "Colorado Springs, CO",
+      "posted_at": "1793760344",
+      "source": "vanshb03",
+      "title": "Software Engineer I",
+      "url": "https://go.vansh.nyc/1gS"
+    },
     "vanshb03:gannett fleming::vanshb03-6a43aabf-45df-4a04-9cca-191d81cc8a3e": {
       "company": "Gannett Fleming",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -77809,5 +77819,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T18:10:46+00:00"
+  "updated_at": "2026-11-04T18:48:49+00:00"
 }
