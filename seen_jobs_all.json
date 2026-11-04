@@ -1,5 +1,5 @@
 {
-  "count": 8817,
+  "count": 8818,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -73865,6 +73865,16 @@
       "title": "Software Engineer Co-op",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451"
     },
+    "vanshb03:rtx::vanshb03-84c52bbc-400b-46d5-896c-75a4ff112933": {
+      "company": "RTX",
+      "first_seen": "2026-11-04T07:09:38+00:00",
+      "last_seen": "2026-11-04T07:09:38+00:00",
+      "location": "Jupiter, FL",
+      "posted_at": "1793775177",
+      "source": "vanshb03",
+      "title": "Control/Diagnostic Software Intern",
+      "url": "https://go.vansh.nyc/1g8"
+    },
     "vanshb03:rtx::vanshb03-92a80325-0afd-4f33-9c06-b87732f97b84": {
       "company": "RTX",
       "duplicate_of": "vanshb03:rtx::vanshb03-fad43ccf-798d-4a0e-bc56-fc0f4506bec3",
@@ -77513,5 +77523,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T06:11:51+00:00"
+  "updated_at": "2026-11-04T07:09:54+00:00"
 }
