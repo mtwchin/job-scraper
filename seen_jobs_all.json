@@ -1720,6 +1720,15 @@
       "title": "New Grad 2027: Trading System Engineer",
       "url": "https://go.vansh.nyc/Tz"
     },
+    "vanshb03:themis intelligence::vanshb03-6615ac7e-3558-4544-ae54-7eaaf993d05c": {
+      "attempted_at": "2026-11-04T05:13:09+00:00",
+      "company": "Themis Intelligence",
+      "location": "Mississauga, Canada",
+      "posted_at": "1792593693",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op, Data",
+      "url": "https://go.vansh.nyc/Da"
+    },
     "vanshb03:toshiba commerce solutions::vanshb03-4b065cd5-9738-42be-9388-f109c6f68e84": {
       "attempted_at": "2026-11-02T22:39:48+00:00",
       "company": "Toshiba Commerce Solutions",
@@ -77474,5 +77483,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T03:15:43+00:00"
+  "updated_at": "2026-11-04T05:13:47+00:00"
 }
