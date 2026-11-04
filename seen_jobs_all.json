@@ -1,5 +1,5 @@
 {
-  "count": 8839,
+  "count": 8840,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71066,6 +71066,16 @@
       "title": "Associate, Software Engineering",
       "url": "https://go.vansh.nyc/Ve"
     },
+    "vanshb03:l3harris technologies::vanshb03-2d524a58-3c4d-4945-b2d0-57b6a462e53e": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-11-04T15:43:16+00:00",
+      "last_seen": "2026-11-04T15:43:16+00:00",
+      "location": "Nashville, TN",
+      "posted_at": "1793804867",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1gA"
+    },
     "vanshb03:l3harris technologies::vanshb03-64282743-9efa-42ca-9cf2-5214634b3ab1": {
       "company": "L3Harris Technologies",
       "first_seen": "2026-10-23T00:57:39+00:00",
@@ -77739,5 +77749,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T15:32:27+00:00"
+  "updated_at": "2026-11-04T15:43:30+00:00"
 }
