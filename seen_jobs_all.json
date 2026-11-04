@@ -1,5 +1,5 @@
 {
-  "count": 8814,
+  "count": 8817,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -66453,6 +66453,26 @@
       "title": "New Grad 2027: Software Engineer",
       "url": "https://go.vansh.nyc/Kt"
     },
+    "vanshb03:apera ai::vanshb03-1992424c-7cba-4459-b6fe-e5f065523c76": {
+      "company": "Apera AI",
+      "first_seen": "2026-11-04T06:11:38+00:00",
+      "last_seen": "2026-11-04T06:11:38+00:00",
+      "location": "Vancouver, Canada",
+      "posted_at": "1789589559",
+      "source": "vanshb03",
+      "title": "Software Developer Co-op, Cloud Infrastructure",
+      "url": "https://go.vansh.nyc/1g2"
+    },
+    "vanshb03:apera ai::vanshb03-a816c05f-6a48-48f9-9ab3-f4a8e0ca8308": {
+      "company": "Apera AI",
+      "first_seen": "2026-11-04T06:11:38+00:00",
+      "last_seen": "2026-11-04T06:11:38+00:00",
+      "location": "Vancouver, Canada",
+      "posted_at": "1789589125",
+      "source": "vanshb03",
+      "title": "Software Developer Co-op, Full Stack",
+      "url": "https://go.vansh.nyc/1g1"
+    },
     "vanshb03:apex technology, inc.::vanshb03-26f88c07-a2f8-49b8-9a79-5a4c8c540aa5": {
       "company": "Apex Technology, Inc.",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -72492,6 +72512,16 @@
       "title": "Forward Deployed Engineer Intern",
       "url": "https://go.vansh.nyc/1eK"
     },
+    "vanshb03:pacific fusion::vanshb03-333881f5-ce8c-422b-af61-ac7132f7b76b": {
+      "company": "Pacific Fusion",
+      "first_seen": "2026-11-04T06:11:38+00:00",
+      "last_seen": "2026-11-04T06:11:38+00:00",
+      "location": "San Leandro, CA, Fremont, CA, Los Lunas, NM",
+      "posted_at": "1790884576",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1g4"
+    },
     "vanshb03:palantir technologies::vanshb03-012269d3-ac77-42ec-b155-6d02f53f8a49": {
       "company": "Palantir Technologies",
       "first_seen": "2026-10-25T08:27:04+00:00",
@@ -77483,5 +77513,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T05:13:47+00:00"
+  "updated_at": "2026-11-04T06:11:51+00:00"
 }
