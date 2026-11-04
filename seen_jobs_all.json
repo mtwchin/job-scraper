@@ -1,5 +1,5 @@
 {
-  "count": 8819,
+  "count": 8820,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -24093,6 +24093,16 @@
       "posted_at": "1785795538",
       "title": "Performance Tools Intern",
       "url": "https://jobs.ashbyhq.com/Etched/f02e8035-7dc9-4b0c-aab7-75bbb4e975b8/application?embed=true"
+    },
+    "simplify:etched::simplify-79477bc2-76a3-4678-90ed-8684e8e45c02": {
+      "company": "Etched",
+      "first_seen": "2026-11-04T08:03:55+00:00",
+      "last_seen": "2026-11-04T08:03:55+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793750400",
+      "source": "simplify",
+      "title": "IA Research Engineer Intern - Kernels",
+      "url": "https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440/application?embed=true"
     },
     "simplify:etched::simplify-87222ad1-f8f7-4042-8fa2-b284da6f5ee0": {
       "company": "Etched",
@@ -77533,5 +77543,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T07:55:53+00:00"
+  "updated_at": "2026-11-04T08:03:56+00:00"
 }
