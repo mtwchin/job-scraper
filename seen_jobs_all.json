@@ -1,5 +1,5 @@
 {
-  "count": 8832,
+  "count": 8833,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -73127,6 +73127,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/19m"
     },
+    "vanshb03:plusgrade::vanshb03-aa67a7f0-13dd-4261-9b9d-3af73d7eb158": {
+      "company": "Plusgrade",
+      "first_seen": "2026-11-04T14:11:15+00:00",
+      "last_seen": "2026-11-04T14:11:15+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1793801180",
+      "source": "vanshb03",
+      "title": "UI/UX Design and Frontend Engineer Intern",
+      "url": "https://go.vansh.nyc/1gp"
+    },
     "vanshb03:point72::vanshb03-09f4fd4b-1858-448f-bc4e-04da8b4e3e35": {
       "company": "Point72",
       "first_seen": "2026-10-25T08:27:07+00:00",
@@ -77667,5 +77677,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T13:26:14+00:00"
+  "updated_at": "2026-11-04T14:11:17+00:00"
 }
