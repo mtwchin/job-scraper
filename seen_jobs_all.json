@@ -1,5 +1,5 @@
 {
-  "count": 8837,
+  "count": 8839,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -48887,6 +48887,16 @@
       "title": "Software Engineer - AI/UI",
       "url": "https://www.weareroku.com/jobs/8188704?gh_jid=8188704"
     },
+    "simplify:roku::simplify-2a48b4e4-b815-484d-ba1f-6a52419c38d8": {
+      "company": "Roku",
+      "first_seen": "2026-11-04T15:32:16+00:00",
+      "last_seen": "2026-11-04T15:32:16+00:00",
+      "location": "Cambridge, UK; Manchester, UK",
+      "posted_at": "1793793490",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://www.weareroku.com/jobs/8345963?gh_jid=8345963"
+    },
     "simplify:roku::simplify-3c3b3366-cadb-4c09-be76-10099a6168e7": {
       "company": "Roku",
       "duplicate_of": "simplify:roku::simplify-cd0aaf62-2542-475a-9c3f-b1c5f03f0ad4",
@@ -48898,6 +48908,18 @@
       "source": "simplify",
       "title": "AI Engineering Intern",
       "url": "https://www.weareroku.com/jobs/8345947?gh_jid=8345947"
+    },
+    "simplify:roku::simplify-50c5c42d-bfc3-4f63-905a-abf16bd78c02": {
+      "company": "Roku",
+      "duplicate_of": "simplify:roku::simplify-2a48b4e4-b815-484d-ba1f-6a52419c38d8",
+      "first_seen": "2026-11-04T15:32:15+00:00",
+      "last_seen": "2026-11-04T15:32:15+00:00",
+      "location": "Manchester, UK",
+      "posted_at": "1793793543",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://www.weareroku.com/jobs/8345967?gh_jid=8345967"
     },
     "simplify:roku::simplify-cd0aaf62-2542-475a-9c3f-b1c5f03f0ad4": {
       "company": "Roku",
@@ -77717,5 +77739,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T15:14:24+00:00"
+  "updated_at": "2026-11-04T15:32:27+00:00"
 }
