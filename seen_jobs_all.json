@@ -1,5 +1,5 @@
 {
-  "count": 8845,
+  "count": 8846,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -74539,6 +74539,16 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009"
     },
+    "vanshb03:smith+nephew::vanshb03-1700e8a3-dccf-4445-a9ab-42ffe8fad5ce": {
+      "company": "Smith+Nephew",
+      "first_seen": "2026-11-04T18:10:15+00:00",
+      "last_seen": "2026-11-04T18:10:15+00:00",
+      "location": "Pittsburgh, PA",
+      "posted_at": "1793815574",
+      "source": "vanshb03",
+      "title": "Robotics Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1gO"
+    },
     "vanshb03:smith+nephew::vanshb03-4d9997e7-9568-4e49-a1d0-8b5b58081fdf": {
       "company": "Smith+Nephew",
       "first_seen": "2026-10-21T19:33:33+00:00",
@@ -77799,5 +77809,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T17:11:42+00:00"
+  "updated_at": "2026-11-04T18:10:46+00:00"
 }
