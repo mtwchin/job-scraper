@@ -1,5 +1,5 @@
 {
-  "count": 8842,
+  "count": 8845,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -3367,6 +3367,16 @@
       "title": "PhD Intern, Software Engineer - Graphics (2027)",
       "url": "https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004"
     },
+    "figma::6241542004": {
+      "company": "Figma",
+      "first_seen": "2026-11-04T16:55:12+00:00",
+      "last_seen": "2026-11-04T16:55:12+00:00",
+      "location": "San Francisco, CA \u2022 New York, NY",
+      "posted_at": "2026-11-04T11:53:19-05:00",
+      "source": "",
+      "title": "PhD Intern, Software Engineer - Interaction Design (2027)",
+      "url": "https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004"
+    },
     "five rings::5349707008": {
       "company": "Five Rings",
       "first_seen": "2026-07-14T17:57:41+00:00",
@@ -5309,6 +5319,16 @@
       "posted_at": "2026-07-16T14:09:34-04:00",
       "title": "Ground Systems Engineer I, Controls",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7647932003"
+    },
+    "rocket lab::7680875003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-11-04T16:13:54+00:00",
+      "last_seen": "2026-11-04T16:13:54+00:00",
+      "location": "Long Beach, CA",
+      "posted_at": "2026-11-04T11:11:41-05:00",
+      "source": "",
+      "title": "Fluid Systems Engineer I",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7680875003"
     },
     "rocket lab::7725384003": {
       "company": "Rocket Lab",
@@ -67380,6 +67400,16 @@
       "title": "Embedded Software Engineer Co-op, Audio Tech",
       "url": "https://go.vansh.nyc/FK"
     },
+    "vanshb03:boston scientific::vanshb03-b48d6b7f-3da9-47fb-830b-82011caa82f6": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-11-04T17:11:15+00:00",
+      "last_seen": "2026-11-04T17:11:15+00:00",
+      "location": "Maple Grove, MN",
+      "posted_at": "1793808368",
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op, Urology R&D",
+      "url": "https://go.vansh.nyc/1gJ"
+    },
     "vanshb03:boston scientific::vanshb03-ff35da1b-aa4e-4040-aff2-49c84084d8b0": {
       "company": "Boston Scientific",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -77769,5 +77799,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T16:02:37+00:00"
+  "updated_at": "2026-11-04T17:11:42+00:00"
 }
