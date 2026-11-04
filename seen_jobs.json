@@ -1,5 +1,5 @@
 {
-  "count": 7815,
+  "count": 7816,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -47039,6 +47039,16 @@
       "title": "IT Database Engineer Co-op",
       "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2621017"
     },
+    "simplify:shield ai::simplify-23f1c2c3-62c7-4b59-ad95-85d0505c58dc": {
+      "company": "Shield AI",
+      "first_seen": "2026-11-04T09:32:07+00:00",
+      "last_seen": "2026-11-04T09:32:07+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1791763200",
+      "source": "simplify",
+      "title": "Software Engineer 1 New Grad - Software - Factory Team",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true"
+    },
     "simplify:shield ai::simplify-2b3eca81-2577-435b-bff1-4b7a0b5a3e9a": {
       "company": "Shield AI",
       "first_seen": "2026-10-07T22:34:02+00:00",
@@ -66239,5 +66249,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T02:32:06+00:00"
+  "updated_at": "2026-11-04T09:32:55+00:00"
 }
