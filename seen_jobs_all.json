@@ -1,5 +1,5 @@
 {
-  "count": 8818,
+  "count": 8819,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -40959,6 +40959,16 @@
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53/application?embed=true"
     },
+    "simplify:nooks::simplify-2188ec4a-987f-4736-b3c9-2173a826ad74": {
+      "company": "Nooks",
+      "first_seen": "2026-11-04T07:33:11+00:00",
+      "last_seen": "2026-11-04T07:33:11+00:00",
+      "location": "Seattle, WA, SF",
+      "posted_at": "1793750400",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0/application?embed=true"
+    },
     "simplify:noom::simplify-7b4418e9-7bf5-406f-ae87-67a80d64b411": {
       "company": "Noom",
       "first_seen": "2026-08-18T22:42:18+00:00",
@@ -77523,5 +77533,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T07:09:54+00:00"
+  "updated_at": "2026-11-04T07:33:57+00:00"
 }
