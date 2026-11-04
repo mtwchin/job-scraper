@@ -1,5 +1,5 @@
 {
-  "count": 7816,
+  "count": 7817,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -4311,6 +4311,16 @@
       "posted_at": "2026-07-16T14:09:34-04:00",
       "title": "Ground Systems Engineer I, Controls",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7647932003"
+    },
+    "rocket lab::7680875003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-11-04T16:13:54+00:00",
+      "last_seen": "2026-11-04T16:13:54+00:00",
+      "location": "Long Beach, CA",
+      "posted_at": "2026-11-04T11:11:41-05:00",
+      "source": "",
+      "title": "Fluid Systems Engineer I",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7680875003"
     },
     "rocket lab::7725384003": {
       "company": "Rocket Lab",
@@ -66249,5 +66259,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T09:32:55+00:00"
+  "updated_at": "2026-11-04T16:14:52+00:00"
 }
