@@ -1,5 +1,5 @@
 {
-  "count": 8804,
+  "count": 8813,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -21458,6 +21458,7 @@
     "simplify:dell technologies::simplify-a7fc9580-0361-4ff0-9756-c14ebc75a0de": {
       "company": "Dell Technologies",
       "first_seen": "2026-09-10T05:13:45+00:00",
+      "last_seen": "2026-11-04T00:03:20+00:00",
       "posted_at": "1789002215",
       "title": "Software Engineer Intern - Client Solutions Group Engineering",
       "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298217"
@@ -22989,6 +22990,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216227"
     },
+    "simplify:electronic arts::simplify-1bc20c6e-0eb9-4303-9f38-13bb3df03fa8": {
+      "company": "Electronic Arts",
+      "first_seen": "2026-11-04T00:03:21+00:00",
+      "last_seen": "2026-11-04T00:03:21+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1793748580",
+      "source": "simplify",
+      "title": "Anticheat Engineer Intern",
+      "url": "https://jobs.ea.com/en_US/careers/JobDetail/Anticheat-Engineer-Intern-Summer-2027/216242"
+    },
     "simplify:electronic arts::simplify-2171d14a-e271-49bf-95cf-d6a749318018": {
       "company": "Electronic Arts",
       "first_seen": "2026-10-16T14:35:00+00:00",
@@ -23507,6 +23518,26 @@
       "posted_at": "1785738030",
       "title": "Junior Developer 1",
       "url": "https://egbc.applytojob.com/apply/7aUKZK87tT/Junior-Developer-I"
+    },
+    "simplify:engramme::simplify-4a5138ec-1fc8-423f-96e7-16dd90a25c06": {
+      "company": "Engramme",
+      "first_seen": "2026-11-04T00:03:21+00:00",
+      "last_seen": "2026-11-04T00:03:21+00:00",
+      "location": "SF",
+      "posted_at": "1792022400",
+      "source": "simplify",
+      "title": "Full-Stack Software Engineer Co-op Intern",
+      "url": "https://jobs.ashbyhq.com/engramme/06517730-61e8-4e73-bd95-2816b391a9d2/application?embed=true"
+    },
+    "simplify:engramme::simplify-c2c87441-213a-4592-9b16-3b322ab853a7": {
+      "company": "Engramme",
+      "first_seen": "2026-11-04T00:03:21+00:00",
+      "last_seen": "2026-11-04T00:03:21+00:00",
+      "location": "SF",
+      "posted_at": "1792022400",
+      "source": "simplify",
+      "title": "Back-End Software Engineer Co-op Intern",
+      "url": "https://jobs.ashbyhq.com/engramme/9233d3f9-83d2-4967-ad97-176c11e16696/application?embed=true"
     },
     "simplify:enova::simplify-282a057f-48f4-4133-a52c-2261299e04a8": {
       "company": "Enova",
@@ -27400,7 +27431,7 @@
     "simplify:geneva trading::simplify-1aced91a-6fa5-4f69-8d6c-d3036f8c30df": {
       "company": "Geneva Trading",
       "first_seen": "2026-09-21T23:07:18+00:00",
-      "last_seen": "2026-10-29T00:01:28+00:00",
+      "last_seen": "2026-11-04T00:03:20+00:00",
       "location": "Chicago, IL",
       "posted_at": "1790029856",
       "source": "simplify",
@@ -32498,6 +32529,16 @@
       "source": "simplify",
       "title": "Forward Deployed Engineer",
       "url": "https://apply.workable.com/jeffreym-consulting/j/3E649E3762/apply"
+    },
+    "simplify:jm family::simplify-62fcafce-1c3e-423e-b12d-6f064a41a6a3": {
+      "company": "JM Family",
+      "first_seen": "2026-11-04T00:03:21+00:00",
+      "last_seen": "2026-11-04T00:03:21+00:00",
+      "location": "Deerfield Beach, FL",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "AI Center of Excellence Delivery Team Intern",
+      "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Center-of-Excellence--COE--Delivery-Team-Intern_JR105176"
     },
     "simplify:jm family::simplify-f82632d8-09d1-4568-bbaf-aa4a5ecb312a": {
       "company": "JM Family",
@@ -40414,6 +40455,16 @@
       "posted_at": "1789176058",
       "title": "AI Intern - Engineering Track",
       "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4712896006"
+    },
+    "simplify:nex::simplify-24381402-1346-48ef-9e6d-909cd81ca7d5": {
+      "company": "Nex",
+      "first_seen": "2026-11-04T00:03:21+00:00",
+      "last_seen": "2026-11-04T00:03:21+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793728513",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Sports & Fitness - Game Development",
+      "url": "https://job-boards.greenhouse.io/nex/jobs/5421056008"
     },
     "simplify:nexhealth::simplify-310d9264-5d90-4890-983f-dae3a7451af5": {
       "company": "NexHealth",
@@ -49752,6 +49803,16 @@
       "title": "Software Engineer Intern - Intelligent Software & Systems",
       "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineer-Intern--Onsite-_01866914"
     },
+    "simplify:rtx::simplify-2d8c299e-32f6-48b9-96af-74653d10e44a": {
+      "company": "RTX",
+      "first_seen": "2026-11-04T00:03:21+00:00",
+      "last_seen": "2026-11-04T00:03:21+00:00",
+      "location": "West Valley City, UT",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446"
+    },
     "simplify:rtx::simplify-355ed1b0-6a7f-4f62-9f79-2eabc525e9cd": {
       "company": "RTX",
       "first_seen": "2026-09-23T16:15:40+00:00",
@@ -51326,7 +51387,7 @@
     "simplify:rubrik::simplify-fca16e07-f35d-408e-bda0-efffa4ba2163": {
       "company": "Rubrik",
       "first_seen": "2026-09-19T03:50:34+00:00",
-      "last_seen": "2026-10-08T00:00:13+00:00",
+      "last_seen": "2026-11-04T00:03:20+00:00",
       "location": "Palo Alto, CA",
       "posted_at": "1789769412",
       "source": "simplify",
@@ -55942,6 +56003,16 @@
       "title": "Associate Engineer - Software",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Engineer--Software_REQ367128"
     },
+    "simplify:t-mobile::simplify-ec682ade-102c-4bca-9824-a71e73c64c13": {
+      "company": "T-Mobile",
+      "first_seen": "2026-11-04T00:03:21+00:00",
+      "last_seen": "2026-11-04T00:03:21+00:00",
+      "location": "Philadelphia, PA",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "T-Ads Software Engineer Intern",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234"
+    },
     "simplify:t-mobile::simplify-f174b1be-a056-4615-8dff-9e0ddd31ec21": {
       "company": "T-Mobile",
       "first_seen": "2026-08-21T20:09:42+00:00",
@@ -60410,6 +60481,18 @@
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007"
     },
+    "simplify:trimble::simplify-07dd289c-f9fe-4637-a062-777f953b086b": {
+      "company": "Trimble",
+      "duplicate_of": "simplify:trimble::simplify-edcb0851-74cc-4eda-8752-622b149fc905",
+      "first_seen": "2026-11-04T00:03:20+00:00",
+      "last_seen": "2026-11-04T00:03:20+00:00",
+      "location": "Dayton, OH, Westminster, CO",
+      "posted_at": "1793664000",
+      "seeded": true,
+      "source": "simplify",
+      "title": "AI Developer Intern",
+      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/AI-Developer-Intern_R58194"
+    },
     "simplify:trimble::simplify-4914456a-2ef4-403c-918a-5bf46c8c8626": {
       "company": "Trimble",
       "first_seen": "2026-07-21T10:51:40+00:00",
@@ -60427,10 +60510,20 @@
     "simplify:trimble::simplify-ca3d442d-982e-4251-b443-6e607ffd2504": {
       "company": "Trimble",
       "first_seen": "2026-09-08T23:04:44+00:00",
-      "last_seen": "2026-11-03T00:02:09+00:00",
+      "last_seen": "2026-11-04T00:03:20+00:00",
       "posted_at": "1788825600",
       "title": "Software Engineer Intern",
       "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676"
+    },
+    "simplify:trimble::simplify-edcb0851-74cc-4eda-8752-622b149fc905": {
+      "company": "Trimble",
+      "first_seen": "2026-11-04T00:03:21+00:00",
+      "last_seen": "2026-11-04T00:03:21+00:00",
+      "location": "Dayton, OH; Dayton, OH, Westminster, CO",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "AI Developer Intern",
+      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OH-Dayton/AI-Developer-Intern_R58195"
     },
     "simplify:trinet::simplify-b2923a29-715c-4b61-b190-c00f11a10529": {
       "company": "TriNet",
@@ -77371,5 +77464,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T00:02:34+00:00"
+  "updated_at": "2026-11-04T00:03:36+00:00"
 }
