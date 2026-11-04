@@ -1,5 +1,5 @@
 {
-  "count": 8897,
+  "count": 8898,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71542,6 +71542,16 @@
       "title": "Software Engineer Intern, Backend",
       "url": "https://go.vansh.nyc/Qn"
     },
+    "vanshb03:m&t bank::vanshb03-aba84213-ef37-4f93-a077-aa071bdfb3cc": {
+      "company": "M&T Bank",
+      "first_seen": "2026-11-04T23:47:38+00:00",
+      "last_seen": "2026-11-04T23:47:38+00:00",
+      "location": "Buffalo, NY",
+      "posted_at": "1793750400",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Technology Development Program - Operating Systems Engineer",
+      "url": "https://go.vansh.nyc/1hd"
+    },
     "vanshb03:magical::vanshb03-21105f1e-b540-44e8-9c66-152d8c5ec185": {
       "company": "Magical",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -78327,5 +78337,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T22:40:45+00:00"
+  "updated_at": "2026-11-04T23:47:49+00:00"
 }
