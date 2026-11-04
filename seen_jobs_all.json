@@ -1,5 +1,5 @@
 {
-  "count": 8828,
+  "count": 8831,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -70277,6 +70277,16 @@
       "title": "Software Engineer Intern",
       "url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-c-or-python-summer-2027/?gh_src="
     },
+    "vanshb03:human interest::vanshb03-f60e91a1-8c2a-47e1-bd72-e01ddd045f91": {
+      "company": "Human Interest",
+      "first_seen": "2026-11-04T11:16:55+00:00",
+      "last_seen": "2026-11-04T11:16:55+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1793790744",
+      "source": "vanshb03",
+      "title": "Software Engineer I",
+      "url": "https://go.vansh.nyc/1gi"
+    },
     "vanshb03:humana::vanshb03-07c77413-1e32-4032-a14a-8c57dd1225c1": {
       "company": "Humana",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -72165,6 +72175,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/Wl"
     },
+    "vanshb03:northrop grumman::vanshb03-a0910ed7-6677-4130-9e9d-fa2c16691578": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-04T12:09:55+00:00",
+      "last_seen": "2026-11-04T12:09:55+00:00",
+      "location": "Clearfield, UT",
+      "posted_at": "1793793413",
+      "source": "vanshb03",
+      "title": "Cybersecurity Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1gl"
+    },
     "vanshb03:northrop grumman::vanshb03-a2bf4203-9697-48ee-ab6e-4a83627dcdd5": {
       "company": "Northrop Grumman",
       "duplicate_of": "vanshb03:northrop grumman::vanshb03-032a051a-3476-406d-9748-d7b2fb7568d5",
@@ -72218,6 +72238,16 @@
       "source": "vanshb03",
       "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
       "url": "https://go.vansh.nyc/Vw"
+    },
+    "vanshb03:northrop grumman::vanshb03-cf77144b-ecb7-4759-9b25-3e456f726e10": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-04T12:09:55+00:00",
+      "last_seen": "2026-11-04T12:09:55+00:00",
+      "location": "Roy, UT",
+      "posted_at": "1793793413",
+      "source": "vanshb03",
+      "title": "DevOps Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1gk"
     },
     "vanshb03:northrop grumman::vanshb03-ded5db26-d978-4651-b419-864dfd189e62": {
       "company": "Northrop Grumman",
@@ -77627,5 +77657,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T11:13:10+00:00"
+  "updated_at": "2026-11-04T12:09:56+00:00"
 }
