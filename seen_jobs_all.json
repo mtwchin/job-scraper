@@ -1,5 +1,5 @@
 {
-  "count": 8813,
+  "count": 8814,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -69169,6 +69169,16 @@
       "title": "Associate Software Engineer",
       "url": "https://jobs.jobvite.com/emoneyadvisor-review/job/oD9hxfwk"
     },
+    "vanshb03:endeavorai.com::vanshb03-af214ab6-d98e-4772-be80-9392a55c20fd": {
+      "company": "endeavorai.com",
+      "first_seen": "2026-11-04T03:15:38+00:00",
+      "last_seen": "2026-11-04T03:15:38+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1793750400",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Forward Deployed Engineer",
+      "url": "https://go.vansh.nyc/1fT"
+    },
     "vanshb03:enfos::vanshb03-e7066622-269e-44fe-bfc1-ce043cca85f7": {
       "company": "ENFOS",
       "first_seen": "2026-11-03T21:41:20+00:00",
@@ -77464,5 +77474,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T03:03:40+00:00"
+  "updated_at": "2026-11-04T03:15:43+00:00"
 }
