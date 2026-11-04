@@ -1,5 +1,5 @@
 {
-  "count": 8834,
+  "count": 8837,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71732,6 +71732,16 @@
       "title": "Software Engineering Co-op",
       "url": "https://go.vansh.nyc/F8"
     },
+    "vanshb03:moog::vanshb03-9957d670-bcc5-4e64-bc17-50c53193b210": {
+      "company": "Moog",
+      "first_seen": "2026-11-04T15:14:16+00:00",
+      "last_seen": "2026-11-04T15:14:16+00:00",
+      "location": "Torrance, CA",
+      "posted_at": "1793804959",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1gy"
+    },
     "vanshb03:moon::vanshb03-56cfe33e-2c3f-499e-a541-ba629d2a429c": {
       "company": "Moon",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -77257,6 +77267,16 @@
       "title": "Computational and Software Engineering Intern",
       "url": "https://go.vansh.nyc/1eH"
     },
+    "vanshb03:zebra technologies::vanshb03-08199b1e-811b-4aa5-a2f8-cfbacf4f301c": {
+      "company": "Zebra Technologies",
+      "first_seen": "2026-11-04T15:14:16+00:00",
+      "last_seen": "2026-11-04T15:14:16+00:00",
+      "location": "Germantown, MD",
+      "posted_at": "1793803854",
+      "source": "vanshb03",
+      "title": "Systems Engineer Intern",
+      "url": "https://go.vansh.nyc/1gw"
+    },
     "vanshb03:zebra technologies::vanshb03-c7aefaa9-b5bd-4f2a-aa37-e10f8069eae0": {
       "company": "Zebra Technologies",
       "first_seen": "2026-10-20T22:29:43+00:00",
@@ -77266,6 +77286,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625"
+    },
+    "vanshb03:zebra technologies::vanshb03-de47b15d-9c39-47ec-98ca-130065741661": {
+      "company": "Zebra Technologies",
+      "first_seen": "2026-11-04T15:14:16+00:00",
+      "last_seen": "2026-11-04T15:14:16+00:00",
+      "location": "Kennesaw, GA",
+      "posted_at": "1793803854",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, AI Features & Product Convergence",
+      "url": "https://go.vansh.nyc/1gx"
     },
     "vanshb03:zimmer biomet holdings::vanshb03-4b0ef260-c75f-4fb3-beff-cb861762b4c4": {
       "company": "Zimmer Biomet Holdings",
@@ -77687,5 +77717,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T14:46:21+00:00"
+  "updated_at": "2026-11-04T15:14:24+00:00"
 }
