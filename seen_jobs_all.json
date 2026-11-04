@@ -1,5 +1,5 @@
 {
-  "count": 8823,
+  "count": 8825,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -52607,6 +52607,16 @@
       "title": "Core Developer Intern",
       "url": "https://job-boards.greenhouse.io/sevenresearch/jobs/4895047008"
     },
+    "simplify:shadowdragon::simplify-7c16f1bd-bd39-4a42-a12c-2e49647c85cd": {
+      "company": "ShadowDragon",
+      "first_seen": "2026-11-04T10:31:57+00:00",
+      "last_seen": "2026-11-04T10:31:57+00:00",
+      "location": "Remote in USA, Hoover, AL",
+      "posted_at": "1793787093",
+      "source": "simplify",
+      "title": "Junior AI/Machine Learning Engineer",
+      "url": "https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c"
+    },
     "simplify:sharkninja::simplify-278bc4d9-086a-49c0-bd73-d6dc29d652f9": {
       "company": "SharkNinja",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -64305,6 +64315,16 @@
       "title": "Software Engineering Intern - Wit",
       "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242287007"
     },
+    "simplify:william blair::simplify-c9bb0b72-5857-4e2b-8a56-716d3c602ea7": {
+      "company": "William Blair",
+      "first_seen": "2026-11-04T10:31:57+00:00",
+      "last_seen": "2026-11-04T10:31:57+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1790115289",
+      "source": "simplify",
+      "title": "Agentic AI Development Intern",
+      "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242282007"
+    },
     "simplify:william blair::simplify-dc550f37-4505-4a97-8560-642d1cc2f0e9": {
       "company": "William Blair",
       "first_seen": "2026-09-22T23:43:37+00:00",
@@ -64711,7 +64731,7 @@
     "simplify:xcimer energy::simplify-b399880a-a936-4d77-ba1c-e108a00e5e51": {
       "company": "Xcimer Energy",
       "first_seen": "2026-09-11T23:13:27+00:00",
-      "last_seen": "2026-10-23T00:02:39+00:00",
+      "last_seen": "2026-11-04T10:31:56+00:00",
       "posted_at": "1789165125",
       "title": "Computational and Software Engineering Intern",
       "url": "https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911/apply"
@@ -77575,5 +77595,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T09:33:01+00:00"
+  "updated_at": "2026-11-04T10:32:05+00:00"
 }
