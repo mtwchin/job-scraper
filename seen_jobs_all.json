@@ -1,5 +1,5 @@
 {
-  "count": 8827,
+  "count": 8828,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -68156,6 +68156,16 @@
       "title": "Full-Stack Software Development Intern",
       "url": "https://go.vansh.nyc/10A"
     },
+    "vanshb03:castelion::vanshb03-347c9fa1-37de-4dca-8b4f-f3839e91aecb": {
+      "company": "Castelion",
+      "first_seen": "2026-11-04T11:12:55+00:00",
+      "last_seen": "2026-11-04T11:12:55+00:00",
+      "location": "Torrance, CA",
+      "posted_at": "1793401104",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1gh"
+    },
     "vanshb03:cboe global markets::vanshb03-4a5a1a53-d2c7-4a4c-aceb-61119f9535bb": {
       "company": "Cboe Global Markets",
       "first_seen": "2026-10-25T08:27:15+00:00",
@@ -77617,5 +77627,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T11:03:55+00:00"
+  "updated_at": "2026-11-04T11:13:10+00:00"
 }
