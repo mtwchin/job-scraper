@@ -1,5 +1,5 @@
 {
-  "count": 8841,
+  "count": 8842,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -42483,6 +42483,16 @@
       "title": "Member of Technical Staff 2 - Service Provider",
       "url": "https://jobs.jobvite.com/nutanix/job/o5HuAfwA?nl=1&nl=1&fr=false"
     },
+    "simplify:nutanix::simplify-4a56e5c7-104e-4300-af23-cd40dfd09685": {
+      "company": "Nutanix",
+      "first_seen": "2026-11-04T16:02:17+00:00",
+      "last_seen": "2026-11-04T16:02:17+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1793266442",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.jobvite.com/nutanix/job/otr1Afwf?nl=1&nl=1&fr=false"
+    },
     "simplify:nutanix::simplify-65368a41-05c8-40d7-91eb-041dfe59df54": {
       "company": "Nutanix",
       "first_seen": "2026-10-15T23:06:22+00:00",
@@ -48738,7 +48748,7 @@
     "simplify:rodan energy solutions::simplify-bfd666d6-eb74-40ca-8595-5c0e16820216": {
       "company": "Rodan Energy Solutions",
       "first_seen": "2026-09-21T23:07:18+00:00",
-      "last_seen": "2026-10-19T00:01:18+00:00",
+      "last_seen": "2026-11-04T16:02:16+00:00",
       "location": "Mississauga, ON, Canada",
       "posted_at": "1790029506",
       "source": "simplify",
@@ -77759,5 +77769,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-04T15:47:34+00:00"
+  "updated_at": "2026-11-04T16:02:37+00:00"
 }
