@@ -1,5 +1,5 @@
 {
-  "count": 9019,
+  "count": 9030,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -126,6 +126,15 @@
       "source": "",
       "title": "Flight Software Engineer I",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8038139003"
+    },
+    "salesforce::Systems-Engineering-Associate--Early-Talent_JR367534-2": {
+      "attempted_at": "2026-11-05T23:27:47+00:00",
+      "company": "Salesforce",
+      "location": "Texas - Dallas",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Systems Engineering Associate, Early Talent",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Texas---Dallas/Systems-Engineering-Associate--Early-Talent_JR367534-2"
     },
     "samsung::8046795003": {
       "attempted_at": "2026-10-28T00:23:47+00:00",
@@ -13937,7 +13946,7 @@
     "simplify:booz allen::simplify-097e5358-9e45-41e0-86bc-5289976e1828": {
       "company": "Booz Allen",
       "first_seen": "2026-09-01T17:52:38+00:00",
-      "last_seen": "2026-10-30T00:02:22+00:00",
+      "last_seen": "2026-11-05T23:32:33+00:00",
       "posted_at": "1788220800",
       "title": "Systems Engineer Intern - Summer Games",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Systems-Engineer-Intern---El-Segundo--CA_R0248366"
@@ -14194,12 +14203,22 @@
     "simplify:booz allen::simplify-765cf08e-bec4-4b7c-b810-b06b2b3d4040": {
       "company": "Booz Allen",
       "first_seen": "2026-10-26T23:02:33+00:00",
-      "last_seen": "2026-11-03T00:02:09+00:00",
+      "last_seen": "2026-11-05T23:32:33+00:00",
       "location": "Dayton, OH",
       "posted_at": "1792972800",
       "source": "simplify",
       "title": "Software Developer Intern - University - Summer Games",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345"
+    },
+    "simplify:booz allen::simplify-79fca9d7-81e2-4685-8424-9e81f988d805": {
+      "company": "Booz Allen",
+      "first_seen": "2026-11-05T23:32:34+00:00",
+      "last_seen": "2026-11-05T23:32:34+00:00",
+      "location": "Honolulu, HI, Annapolis Junction, MD, Colorado Springs, CO, McLean, VA, Rome, NY, Panama City, FL, Charleston, SC, Atlanta, GA, Huntsville, AL, San Diego, CA, El Segundo, CA",
+      "posted_at": "1793836800",
+      "source": "simplify",
+      "title": "Software Sustainment Engineer - Software Developer",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--Software-Developer_R0249796"
     },
     "simplify:booz allen::simplify-7cef83de-ff10-493e-abfb-9def6ada06d0": {
       "company": "Booz Allen",
@@ -17023,6 +17042,16 @@
       "title": "Frontend Developer - Mobile",
       "url": "https://careers.capgemini.com/job/Dallas,-TX-Mobile-Front-end-developer-TX-75201/1424082933/?ats=successfactors"
     },
+    "simplify:capgemini::simplify-9a142315-8459-43ef-a3a5-9025798c7a2d": {
+      "company": "Capgemini",
+      "first_seen": "2026-11-05T23:32:33+00:00",
+      "last_seen": "2026-11-05T23:32:33+00:00",
+      "location": "Philadelphia, PA",
+      "posted_at": "1793920527",
+      "source": "simplify",
+      "title": "Associate Application Consultant",
+      "url": "https://careers.capgemini.com/job/Berwyn,-PA-C&CA-Campus-Associate-Application-Consultant-PA/1454933833/?ats=successfactors"
+    },
     "simplify:capgemini::simplify-be953ef4-5496-47aa-9016-30832100c6ef": {
       "company": "Capgemini",
       "first_seen": "2026-11-05T02:31:58+00:00",
@@ -18395,6 +18424,16 @@
       "posted_at": "1788917215",
       "title": "Software Engineer - FORTRAN to C++ Migration",
       "url": "https://ats.rippling.com/cintal/jobs/17acea2c-d8e7-48c0-ab90-c5458fb0c3ef"
+    },
+    "simplify:cintas::simplify-93fee1f3-52c2-4e39-b47d-88c9185693aa": {
+      "company": "Cintas",
+      "first_seen": "2026-11-05T23:32:33+00:00",
+      "last_seen": "2026-11-05T23:32:33+00:00",
+      "location": "Mason, OH",
+      "posted_at": "1793921173",
+      "source": "simplify",
+      "title": "IT Intern \u2013 Engineer - Customer Channels",
+      "url": "https://careers.cintas.com/job/Mason-IT-Intern-Engineer-Customer-Channels-OH-45040/1448146400/?ats=successfactors"
     },
     "simplify:circleback::simplify-75892e9b-bebc-4e60-9e4b-a763af8e0759": {
       "company": "Circleback",
@@ -23030,6 +23069,16 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005"
     },
+    "simplify:dwyeromega::simplify-6ea63dd4-4190-48d9-ae8a-c266e90f3449": {
+      "company": "DwyerOmega",
+      "first_seen": "2026-11-05T23:32:33+00:00",
+      "last_seen": "2026-11-05T23:32:33+00:00",
+      "location": "Westerville, OH",
+      "posted_at": "1793920540",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4640548"
+    },
     "simplify:dxc technology::simplify-14128093-8fb4-4e4d-956f-83356ac71ced": {
       "company": "DXC Technology",
       "first_seen": "2026-10-14T22:37:24+00:00",
@@ -23456,6 +23505,16 @@
       "source": "simplify",
       "title": "Software Engineer Tools Intern",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Tools/216192"
+    },
+    "simplify:element fleet management::simplify-7e873b50-f8c3-4967-9769-eccdbbd62a8f": {
+      "company": "Element Fleet Management",
+      "first_seen": "2026-11-05T23:32:33+00:00",
+      "last_seen": "2026-11-05T23:32:33+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793836800",
+      "source": "simplify",
+      "title": "Forward Deployed Engineer Intern",
+      "url": "https://elementfleet.wd3.myworkdayjobs.com/External_Career_Site/job/Toronto/Forward-Deployed-Engineer--FDE--Intern--8-12-month-intern-_R105989"
     },
     "simplify:elevance health::simplify-638db733-b6c2-4e36-b1ad-1d4b6b77df9b": {
       "company": "Elevance Health",
@@ -33746,6 +33805,16 @@
       "title": "Graduate - Engineer/Analyst for ISRT and BMC2 Applications",
       "url": "https://careers.jhuapl.edu/jobs/59529?icims=1"
     },
+    "simplify:johns hopkins applied physics laboratory::simplify-fb34d39d-d7ae-4289-8018-a66c81e94fb7": {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "first_seen": "2026-11-05T23:32:33+00:00",
+      "last_seen": "2026-11-05T23:32:33+00:00",
+      "location": "Laurel, MD",
+      "posted_at": "1793894280",
+      "source": "simplify",
+      "title": "Maritime Software Development Intern - Maritime Software Development - Ocean Systems and Engineering",
+      "url": "https://careers.jhuapl.edu/jobs/60820?icims=1&lang=en-us"
+    },
     "simplify:johnson & johnson::simplify-37a55467-4513-486e-8cca-8f80493a2231": {
       "company": "Johnson & Johnson",
       "first_seen": "2026-08-24T22:49:44+00:00",
@@ -33853,6 +33922,16 @@
       "posted_at": "1787529600",
       "title": "Technology Intern - Technology LDP",
       "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602"
+    },
+    "simplify:johnson controls::simplify-749ce433-6dfe-47e5-a8f9-807c36272e57": {
+      "company": "Johnson Controls",
+      "first_seen": "2026-11-05T23:32:33+00:00",
+      "last_seen": "2026-11-05T23:32:33+00:00",
+      "location": "Milwaukee, WI, Westford, MA",
+      "posted_at": "1793836800",
+      "source": "simplify",
+      "title": "Nextgen Software Engineer",
+      "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Westford-Massachusetts-United-States-of-America/NextGen-Software-Engineer_WD30279369-2"
     },
     "simplify:johnson controls::simplify-7a6c5939-dfa6-4562-83f3-0acbec404a2a": {
       "company": "Johnson Controls",
@@ -41097,6 +41176,16 @@
       "title": "Software Engineer Intern - BCI Applications",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003"
     },
+    "simplify:neurohire.ai::simplify-e286c81e-9d91-47e7-9629-9185635680de": {
+      "company": "neurohire.ai",
+      "first_seen": "2026-11-05T23:32:33+00:00",
+      "last_seen": "2026-11-05T23:32:33+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1793920089",
+      "source": "simplify",
+      "title": "Software AI Engineer",
+      "url": "https://apply.workable.com/neurohire-dot-a-i/j/E5A5756725/apply"
+    },
     "simplify:neutreeno::simplify-884fbb6d-915c-4987-b2e4-4c384413b11e": {
       "company": "Neutreeno",
       "first_seen": "2026-10-30T23:01:18+00:00",
@@ -41699,6 +41788,16 @@
       "source": "simplify",
       "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/nooks/a46fd3d9-400c-4f99-bb83-2042a4e12ab3/application?embed=true"
+    },
+    "simplify:nooks::simplify-cfd26574-5efc-4bbd-b6de-4bb2f99e75dd": {
+      "company": "Nooks",
+      "first_seen": "2026-11-05T23:32:33+00:00",
+      "last_seen": "2026-11-05T23:32:33+00:00",
+      "location": "SF",
+      "posted_at": "1793836800",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb/application?embed=true"
     },
     "simplify:noom::simplify-7b4418e9-7bf5-406f-ae87-67a80d64b411": {
       "company": "Noom",
@@ -49026,6 +49125,16 @@
       "title": "Junior Research Scientist - Formal Methods",
       "url": "https://careers-riversideresearch.icims.com/jobs/4381/job?mobile=true&needsRedirect=false"
     },
+    "simplify:riverside research::simplify-669faba3-4676-4476-a559-f0a0713b57e2": {
+      "company": "Riverside Research",
+      "first_seen": "2026-11-05T23:32:33+00:00",
+      "last_seen": "2026-11-05T23:32:33+00:00",
+      "location": "Fairborn, OH",
+      "posted_at": "1793836800",
+      "source": "simplify",
+      "title": "Software Applications Intern",
+      "url": "https://careers-riversideresearch.icims.com/jobs/4461/job?mobile=true&needsRedirect=false"
+    },
     "simplify:riverside research::simplify-c9372099-ac31-46fe-82ad-547ac87f1e6f": {
       "company": "Riverside Research",
       "first_seen": "2026-08-07T22:59:16+00:00",
@@ -50189,6 +50298,16 @@
       "title": "Developer Intern - RBC Amplify",
       "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206-1"
     },
+    "simplify:royal bank of canada::simplify-c7027be1-999e-4aed-be4a-f4d9fa07f5a4": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-11-05T23:32:33+00:00",
+      "last_seen": "2026-11-05T23:32:33+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1793836800",
+      "source": "simplify",
+      "title": "Quantitative Technology Services Co-op - Software Developer",
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MONTRAL-Quebec-Canada/XMLNAME-2027-Winter-Capital-Markets-QTS--Software-Developer--Montreal---4-Months_R-0000184676-3"
+    },
     "simplify:royal bank of canada::simplify-ca2a28c6-6f13-4f6e-a05e-70bbce112fde": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-08-18T06:58:11+00:00",
@@ -50752,7 +50871,7 @@
     "simplify:rtx::simplify-3dcaee02-3f62-48f4-a9a3-20eb7b2a97bb": {
       "company": "RTX",
       "first_seen": "2026-09-10T00:38:47+00:00",
-      "last_seen": "2026-09-15T00:44:55+00:00",
+      "last_seen": "2026-11-05T23:32:33+00:00",
       "posted_at": "1788912000",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646"
@@ -79615,5 +79734,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T22:40:32+00:00"
+  "updated_at": "2026-11-05T23:32:36+00:00"
 }
