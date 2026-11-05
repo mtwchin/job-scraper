@@ -1,5 +1,5 @@
 {
-  "count": 7878,
+  "count": 7879,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1965,6 +1965,16 @@
       "posted_at": "Posted 30+ Days Ago",
       "title": "Junior C++ Software Engineer - Serbia - ETR",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Belgrade-Serbia/Junior-C---Software-Engineer---Serbia---ETR_2016195"
+    },
+    "cisco::Junior-Software-Engineer---Webex---Slovakia_2030989-1": {
+      "company": "Cisco",
+      "first_seen": "2026-11-05T15:36:32+00:00",
+      "last_seen": "2026-11-05T15:36:32+00:00",
+      "location": "Bratislava, Slovakia",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Junior Software Engineer - Webex - Slovakia",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bratislava-Slovakia/Junior-Software-Engineer---Webex---Slovakia_2030989-1"
     },
     "cisco::Software-Developer-Embedded-Systems-I--Co-op----Canada_2024111": {
       "company": "Cisco",
@@ -66892,5 +66902,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T15:19:55+00:00"
+  "updated_at": "2026-11-05T15:36:57+00:00"
 }
