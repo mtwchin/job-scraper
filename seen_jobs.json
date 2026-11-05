@@ -1,5 +1,5 @@
 {
-  "count": 7866,
+  "count": 7873,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6959,6 +6959,16 @@
       "source": "simplify",
       "title": "Software Development Engineer Intern - Summer",
       "url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa"
+    },
+    "simplify:amazon::simplify-1ebb8945-a47e-48a3-a181-d6bc174efd7d": {
+      "company": "Amazon",
+      "first_seen": "2026-11-05T02:32:14+00:00",
+      "last_seen": "2026-11-05T02:32:14+00:00",
+      "location": "Seattle, WA, SF, Irvine, CA",
+      "posted_at": "1793845099",
+      "source": "simplify",
+      "title": "Software Developer Engineer 1 - Security Platform",
+      "url": "https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform"
     },
     "simplify:amazon::simplify-22b41b69-61b2-4b32-88f6-61e9f4d4643d": {
       "company": "Amazon",
@@ -16189,6 +16199,16 @@
       "posted_at": "1784106695",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true"
+    },
+    "simplify:cisco::simplify-07e1f6dd-a46e-489d-b04c-f42fe868abfc": {
+      "company": "Cisco",
+      "first_seen": "2026-11-05T02:32:15+00:00",
+      "last_seen": "2026-11-05T02:32:15+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1793844912",
+      "source": "simplify",
+      "title": "Software Engineer Full Stack / Backend 1",
+      "url": "https://careers.cisco.com/global/en/job/2028784"
     },
     "simplify:cisco::simplify-09747fec-195a-49d6-8a70-a6377773a9bb": {
       "company": "Cisco",
@@ -28071,6 +28091,16 @@
       "title": "Software Solutions Engineer PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019"
     },
+    "simplify:intel::simplify-b2569f1e-a7db-491a-ad85-a3177c3b5213": {
+      "company": "Intel",
+      "first_seen": "2026-11-05T02:32:14+00:00",
+      "last_seen": "2026-11-05T02:32:14+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793750400",
+      "source": "simplify",
+      "title": "Compiler Engineer for AI Tile-based DSL",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineer-for-AI-Tile-based-DSL_JR0288443"
+    },
     "simplify:intel::simplify-b854fca7-7546-478f-937b-a76b8dbbddae": {
       "company": "Intel",
       "first_seen": "2026-09-03T08:16:46+00:00",
@@ -34727,6 +34757,16 @@
       "posted_at": "1788277810",
       "title": "Software Engineer Intern - AI and ML",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698"
+    },
+    "simplify:microsoft::simplify-769407b8-2e91-43e9-ab04-5f4eab5bf5e3": {
+      "company": "Microsoft",
+      "first_seen": "2026-11-05T02:32:18+00:00",
+      "last_seen": "2026-11-05T02:32:18+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1793844568",
+      "source": "simplify",
+      "title": "Research Intern - Multiple Teams",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069"
     },
     "simplify:microsoft::simplify-7e143f06-1c28-41b7-9291-53a869d86325": {
       "company": "Microsoft",
@@ -54787,12 +54827,34 @@
       "title": "Software Engineer - Memberships",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8605153002"
     },
+    "simplify:twitch::simplify-6e720c48-39c8-40f5-94d9-e77b402c9808": {
+      "company": "Twitch",
+      "duplicate_of": "simplify:twitch::simplify-93503435-116f-4656-9090-2c094bb6d6bd",
+      "first_seen": "2026-11-05T02:32:13+00:00",
+      "last_seen": "2026-11-05T02:32:13+00:00",
+      "location": "Seattle, WA, SF, Irvine, CA",
+      "posted_at": "1793836200",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Development Engineer 1 - Security Platform",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8931345002"
+    },
     "simplify:twitch::simplify-84537aaf-2816-4b2c-9c5e-d04454e92f47": {
       "company": "Twitch",
       "first_seen": "2026-07-02T21:01:41+00:00",
       "posted_at": "1777080097",
       "title": "Software Engineer 1",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8519628002"
+    },
+    "simplify:twitch::simplify-93503435-116f-4656-9090-2c094bb6d6bd": {
+      "company": "Twitch",
+      "first_seen": "2026-11-05T02:32:15+00:00",
+      "last_seen": "2026-11-05T02:32:15+00:00",
+      "location": "Seattle, WA; SF; Seattle, WA, SF, Irvine, CA",
+      "posted_at": "1793836198",
+      "source": "simplify",
+      "title": "Software Development Engineer 1 - Security Platform",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8931343002"
     },
     "simplify:twitch::simplify-d44042f6-e655-4729-ac89-d1b336b02aeb": {
       "company": "Twitch",
@@ -54814,6 +54876,18 @@
       "posted_at": "1784079798",
       "title": "Software Engineer 1 - Discovery",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8623578002"
+    },
+    "simplify:twitch::simplify-e83ea8a4-83fe-416d-b480-6e3a3a18cac3": {
+      "company": "Twitch",
+      "duplicate_of": "simplify:twitch::simplify-93503435-116f-4656-9090-2c094bb6d6bd",
+      "first_seen": "2026-11-05T02:32:13+00:00",
+      "last_seen": "2026-11-05T02:32:13+00:00",
+      "location": "SF",
+      "posted_at": "1793836195",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Development Engineer 1 - Security Platform",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8929545002"
     },
     "simplify:two sigma::simplify-281fb399-0f01-46dc-9b50-d761b69e53ab": {
       "company": "Two Sigma",
@@ -66755,5 +66829,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T00:43:55+00:00"
+  "updated_at": "2026-11-05T02:32:59+00:00"
 }
