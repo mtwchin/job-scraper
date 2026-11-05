@@ -1,5 +1,5 @@
 {
-  "count": 8978,
+  "count": 8981,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -31241,6 +31241,16 @@
       "title": "Senior Full Stack Engineer",
       "url": "https://jobs.ashbyhq.com/illumio/8cf0360e-c52d-458b-9735-6acd10be1ac7/application?embed=true"
     },
+    "simplify:imbue::simplify-4a41c21f-cb37-47ca-8544-a14aade71286": {
+      "company": "Imbue",
+      "first_seen": "2026-11-05T10:31:56+00:00",
+      "last_seen": "2026-11-05T10:31:56+00:00",
+      "location": "SF",
+      "posted_at": "1789168688",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://job-boards.greenhouse.io/imbueunlisted/jobs/4404628009"
+    },
     "simplify:imc trading::simplify-1c8d5fb4-7d30-4fff-adcc-7926baadf184": {
       "company": "IMC Trading",
       "first_seen": "2026-07-02T00:04:23+00:00",
@@ -44196,6 +44206,16 @@
       "title": "Graduate Analyst - Digital - Digital & Data",
       "url": "https://jobs.smartrecruiters.com/PAConsulting/744000156265474"
     },
+    "simplify:pa consulting::simplify-8cd2e960-a8c8-4158-a3df-5beb0da1dbf3": {
+      "company": "PA Consulting",
+      "first_seen": "2026-11-05T10:33:23+00:00",
+      "last_seen": "2026-11-05T10:33:23+00:00",
+      "location": "Manchester, UK",
+      "posted_at": "1793870963",
+      "source": "simplify",
+      "title": "Digital Apprentice - Digital - Software Development",
+      "url": "https://jobs.smartrecruiters.com/PAConsulting/744000159818139"
+    },
     "simplify:pa consulting::simplify-a2a16702-d4f6-4606-8b38-ff0306553401": {
       "company": "PA Consulting",
       "first_seen": "2026-10-19T14:32:11+00:00",
@@ -44205,6 +44225,16 @@
       "source": "simplify",
       "title": "Graduate Digital & Data Analyst",
       "url": "https://jobs.smartrecruiters.com/PAConsulting/744000156307844"
+    },
+    "simplify:pa consulting::simplify-c0036d75-16b6-4624-bba3-ee8ff5d0f90d": {
+      "company": "PA Consulting",
+      "first_seen": "2026-11-05T10:33:23+00:00",
+      "last_seen": "2026-11-05T10:33:23+00:00",
+      "location": "Belfast, UK",
+      "posted_at": "1793871078",
+      "source": "simplify",
+      "title": "Digital Apprentice - Software Development",
+      "url": "https://jobs.smartrecruiters.com/PAConsulting/744000159817990"
     },
     "simplify:paccar::simplify-2e4dc4df-7a1c-4c36-93b6-5e3cdd8bf6dc": {
       "company": "Paccar",
@@ -79163,5 +79193,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T10:16:57+00:00"
+  "updated_at": "2026-11-05T10:34:00+00:00"
 }
