@@ -1,5 +1,5 @@
 {
-  "count": 8899,
+  "count": 8901,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -69036,6 +69036,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/Mm"
     },
+    "vanshb03:datavisor::vanshb03-1e4cf0a5-da67-4993-bc01-7e79d627f7ab": {
+      "company": "DataVisor",
+      "first_seen": "2026-11-05T02:12:56+00:00",
+      "last_seen": "2026-11-05T02:12:56+00:00",
+      "location": "Vancouver, Canada",
+      "posted_at": "1793844399",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1hq"
+    },
     "vanshb03:dayton freight lines::vanshb03-2d4f397b-bd4f-4200-b13f-9d8321eb8495": {
       "company": "Dayton Freight Lines",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -73390,6 +73400,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto/"
+    },
+    "vanshb03:playstation waterloo co-op::vanshb03-995ba95b-1813-4800-bf2f-a3ea6364beda": {
+      "company": "PlayStation Waterloo Co-Op",
+      "first_seen": "2026-11-05T02:12:56+00:00",
+      "last_seen": "2026-11-05T02:12:56+00:00",
+      "location": "Waterloo, Canada",
+      "posted_at": "1793727522",
+      "source": "vanshb03",
+      "title": "Software Developer Co-op",
+      "url": "https://go.vansh.nyc/1hk"
     },
     "vanshb03:plexus::vanshb03-03c7b737-0949-4734-bfb7-765e6a674f05": {
       "company": "Plexus",
@@ -78347,5 +78367,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T01:13:58+00:00"
+  "updated_at": "2026-11-05T02:13:02+00:00"
 }
