@@ -1,5 +1,5 @@
 {
-  "count": 9003,
+  "count": 9006,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -81,6 +81,15 @@
       "source": "",
       "title": "Software Engineer, New Grad - Query Engines",
       "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac"
+    },
+    "palantir::cd64bcd4-50bb-4aeb-a135-4e0487ffd312": {
+      "attempted_at": "2026-11-05T18:33:36+00:00",
+      "company": "Palantir",
+      "location": "New York, NY",
+      "posted_at": "1793903375363",
+      "source": "",
+      "title": "Software Engineer, Internship - Sovereign AI Systems",
+      "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312"
     },
     "paypal::Software-Engineer-Intern---Summer-2027_R0138586": {
       "attempted_at": "2026-11-05T08:00:10+00:00",
@@ -1692,6 +1701,15 @@
       "source": "vanshb03",
       "title": "Forward Deployed Engineer Intern, Global Public Sector",
       "url": "https://go.vansh.nyc/WD"
+    },
+    "vanshb03:shield ai::vanshb03-1346f02d-6ff9-4c77-965d-5e7067f3e79b": {
+      "attempted_at": "2026-11-05T17:41:17+00:00",
+      "company": "Shield AI",
+      "location": "Dallas, TX, Washington, DC, Seattle, WA, San Diego, CA",
+      "posted_at": "1793898866",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1iN"
     },
     "vanshb03:shield::vanshb03-3d8f1170-1f6c-4cd0-84ed-af7caba82377": {
       "attempted_at": "2026-11-03T03:09:38+00:00",
@@ -67168,6 +67186,16 @@
       "title": "Software Development Engineer Intern, Amazon Leo",
       "url": "https://go.vansh.nyc/hR"
     },
+    "vanshb03:amazon::vanshb03-d546770e-dd2e-464d-9989-c0e2490d38f6": {
+      "company": "Amazon",
+      "first_seen": "2026-11-05T17:44:44+00:00",
+      "last_seen": "2026-11-05T17:44:44+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1793900437",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer, Amazon Leo",
+      "url": "https://go.vansh.nyc/1iP"
+    },
     "vanshb03:amazon::vanshb03-e1e1bbdd-3b2b-4b29-8d40-ecaee33c804e": {
       "company": "Amazon",
       "first_seen": "2026-10-25T08:27:05+00:00",
@@ -72405,6 +72433,16 @@
       "title": "Platform Engineer Intern",
       "url": "https://go.vansh.nyc/QR"
     },
+    "vanshb03:lumbermen's::vanshb03-f2dee55c-3c81-4b42-8975-75d6aa025ff6": {
+      "company": "Lumbermen's",
+      "first_seen": "2026-11-05T18:47:11+00:00",
+      "last_seen": "2026-11-05T18:47:11+00:00",
+      "location": "Grand Rapids, MI",
+      "posted_at": "1793836800",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1iS"
+    },
     "vanshb03:lumentum::vanshb03-66671d23-c5dc-4878-b87a-7fedbba12a5a": {
       "company": "Lumentum",
       "first_seen": "2026-10-26T12:09:23+00:00",
@@ -75647,6 +75685,16 @@
       "source": "vanshb03",
       "title": "New Grad: Software Engineer I",
       "url": "https://go.vansh.nyc/1bP"
+    },
+    "vanshb03:shield::vanshb03-92a01831-232a-4c0b-880e-b5f181d1115d": {
+      "company": "Shield",
+      "first_seen": "2026-11-05T18:47:11+00:00",
+      "last_seen": "2026-11-05T18:47:11+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1793898163",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1iW"
     },
     "vanshb03:shopback::vanshb03-26ba6d75-8482-415b-804c-b9acfae18382": {
       "company": "ShopBack",
@@ -79424,5 +79472,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T17:41:15+00:00"
+  "updated_at": "2026-11-05T18:47:19+00:00"
 }
