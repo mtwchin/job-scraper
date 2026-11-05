@@ -1,5 +1,5 @@
 {
-  "count": 8991,
+  "count": 8993,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2962,6 +2962,16 @@
       "posted_at": "Posted 30+ Days Ago",
       "title": "Junior C++ Software Engineer - Serbia - ETR",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Belgrade-Serbia/Junior-C---Software-Engineer---Serbia---ETR_2016195"
+    },
+    "cisco::Junior-Software-Engineer---Webex---Slovakia_2030989-1": {
+      "company": "Cisco",
+      "first_seen": "2026-11-05T15:36:32+00:00",
+      "last_seen": "2026-11-05T15:36:32+00:00",
+      "location": "Bratislava, Slovakia",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Junior Software Engineer - Webex - Slovakia",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bratislava-Slovakia/Junior-Software-Engineer---Webex---Slovakia_2030989-1"
     },
     "cisco::Software-Developer-Embedded-Systems-I--Co-op----Canada_2024111": {
       "company": "Cisco",
@@ -68956,6 +68966,16 @@
       "title": "Embedded Software Engineer Co-op",
       "url": "https://go.vansh.nyc/Lu"
     },
+    "vanshb03:caci::vanshb03-e5d4c713-661b-4326-bf25-ab480cfbdd62": {
+      "company": "CACI",
+      "first_seen": "2026-11-05T15:46:44+00:00",
+      "last_seen": "2026-11-05T15:46:44+00:00",
+      "location": "Remote",
+      "posted_at": "1793892311",
+      "source": "vanshb03",
+      "title": "Junior Software Developer",
+      "url": "https://go.vansh.nyc/1iG"
+    },
     "vanshb03:caci::vanshb03-f584eb4c-c3f2-4e17-8d18-4bc86182342a": {
       "company": "CACI",
       "duplicate_of": "vanshb03:caci::vanshb03-24dd6f67-0f24-4af4-be49-c619d04f0cb6",
@@ -79293,5 +79313,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T15:33:01+00:00"
+  "updated_at": "2026-11-05T15:47:04+00:00"
 }
