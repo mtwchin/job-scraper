@@ -1,5 +1,5 @@
 {
-  "count": 7876,
+  "count": 7877,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -27446,6 +27446,16 @@
       "source": "simplify",
       "title": "Senior Full Stack Engineer",
       "url": "https://jobs.ashbyhq.com/illumio/8cf0360e-c52d-458b-9735-6acd10be1ac7/application?embed=true"
+    },
+    "simplify:imbue::simplify-4a41c21f-cb37-47ca-8544-a14aade71286": {
+      "company": "Imbue",
+      "first_seen": "2026-11-05T10:31:56+00:00",
+      "last_seen": "2026-11-05T10:31:56+00:00",
+      "location": "SF",
+      "posted_at": "1789168688",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://job-boards.greenhouse.io/imbueunlisted/jobs/4404628009"
     },
     "simplify:imc trading::simplify-1c8d5fb4-7d30-4fff-adcc-7926baadf184": {
       "company": "IMC Trading",
@@ -66872,5 +66882,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T10:14:19+00:00"
+  "updated_at": "2026-11-05T10:32:32+00:00"
 }
