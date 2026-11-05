@@ -1,5 +1,5 @@
 {
-  "count": 8927,
+  "count": 8932,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -14524,6 +14524,16 @@
       "title": "AI Software Development Intern",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813600585"
     },
+    "simplify:boston scientific::simplify-90152193-d0a4-41f6-9a8c-c9a3d4f2a4c7": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-11-05T03:02:56+00:00",
+      "last_seen": "2026-11-05T03:02:56+00:00",
+      "location": "Marlborough, MA, Maple Grove, MN",
+      "posted_at": "1793845864",
+      "source": "simplify",
+      "title": "Urology R&D Software Engineering Co-op",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813743813"
+    },
     "simplify:boston scientific::simplify-b65c767b-a542-408b-8821-3378b57afe82": {
       "company": "Boston Scientific",
       "first_seen": "2026-10-26T22:32:33+00:00",
@@ -14537,7 +14547,7 @@
     "simplify:boston scientific::simplify-b785f9ef-f9c9-4d16-aae2-973ad2a1b2dc": {
       "company": "Boston Scientific",
       "first_seen": "2026-09-24T23:04:31+00:00",
-      "last_seen": "2026-10-10T00:01:09+00:00",
+      "last_seen": "2026-11-05T03:02:55+00:00",
       "location": "Waltham, MA",
       "posted_at": "1790288282",
       "source": "simplify",
@@ -21362,6 +21372,18 @@
       "posted_at": "1783548398",
       "title": "AI Transformation / Forward Deployed Engineer Intern - Forward Deployed Engineer",
       "url": "https://datasite.wd1.myworkdayjobs.com/datasite/job/USA---NY---New-York-City/AI-Transformation---Forward-Deployed-Engineer--FDE--Intern_R36255"
+    },
+    "simplify:datavisor::simplify-c663031b-a4c5-44d8-a1dc-1e3e9eb84a47": {
+      "company": "DataVisor",
+      "duplicate_of": "vanshb03:datavisor::vanshb03-1e4cf0a5-da67-4993-bc01-7e79d627f7ab",
+      "first_seen": "2026-11-05T03:02:56+00:00",
+      "last_seen": "2026-11-05T03:02:56+00:00",
+      "location": "Remote in Canada",
+      "posted_at": "1793846395",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply"
     },
     "simplify:dayshape::simplify-baec2182-f1a3-471d-b026-bb9c51afb325": {
       "company": "Dayshape",
@@ -35829,6 +35851,16 @@
       "title": "Systems Integration and Software Engineer Intern",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152"
     },
+    "simplify:leidos::simplify-994390d2-e931-4203-9755-1169361ef34d": {
+      "company": "Leidos",
+      "first_seen": "2026-11-05T03:02:56+00:00",
+      "last_seen": "2026-11-05T03:02:56+00:00",
+      "location": "Remote in USA, Shiloh, IL, Odenton, MD",
+      "posted_at": "1793750400",
+      "source": "simplify",
+      "title": "Software Engineering & AI Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220"
+    },
     "simplify:leidos::simplify-9cb8a5fd-6975-4674-857b-4f0669ea0515": {
       "company": "Leidos",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -40385,7 +40417,7 @@
     "simplify:ncr voyix::simplify-b02fcae4-ac36-4769-8a28-85242403362c": {
       "company": "NCR Voyix",
       "first_seen": "2026-09-24T23:04:31+00:00",
-      "last_seen": "2026-09-25T00:00:09+00:00",
+      "last_seen": "2026-11-05T03:02:55+00:00",
       "location": "Florida",
       "posted_at": "1790208000",
       "source": "simplify",
@@ -44729,7 +44761,7 @@
     "simplify:parsons::simplify-b135be7e-bf73-4526-9c91-0158ffed7bce": {
       "company": "Parsons",
       "first_seen": "2026-10-14T14:37:37+00:00",
-      "last_seen": "2026-10-16T00:00:29+00:00",
+      "last_seen": "2026-11-05T03:02:56+00:00",
       "location": "Huntsville, AL",
       "posted_at": "1791936000",
       "source": "simplify",
@@ -44834,6 +44866,26 @@
       "posted_at": "1788561667",
       "title": "Software Engineer Intern",
       "url": "https://paypal.eightfold.ai/careers/job/274922260559"
+    },
+    "simplify:paypal::simplify-9e2a3eab-c04d-4789-a788-f263deafe9ab": {
+      "company": "PayPal",
+      "first_seen": "2026-11-05T03:02:18+00:00",
+      "last_seen": "2026-11-05T03:02:18+00:00",
+      "location": "Austin, TX, San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale, AZ",
+      "posted_at": "1793845831",
+      "source": "simplify",
+      "title": "Mobile Engineer Intern",
+      "url": "https://paypal.eightfold.ai/careers/job/274922982818"
+    },
+    "simplify:paypal::simplify-ce81bab2-f54c-4774-92ac-b82f7b0c9eb3": {
+      "company": "PayPal",
+      "first_seen": "2026-11-05T03:02:18+00:00",
+      "last_seen": "2026-11-05T03:02:18+00:00",
+      "location": "Austin, TX, San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale, AZ",
+      "posted_at": "1793845831",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://paypal.eightfold.ai/careers/job/274922982814"
     },
     "simplify:pdf solutions::simplify-c5a14112-6491-4ae3-a678-23d36f21c962": {
       "company": "PDF Solutions",
@@ -53773,7 +53825,7 @@
     "simplify:smith+nephew::simplify-e89448c1-21ee-450a-85e8-84ad429d6f3e": {
       "company": "Smith+Nephew",
       "first_seen": "2026-09-17T07:47:36+00:00",
-      "last_seen": "2026-09-25T00:00:09+00:00",
+      "last_seen": "2026-11-05T03:02:55+00:00",
       "location": "Pittsburgh, PA",
       "posted_at": "1789603200",
       "source": "simplify",
@@ -78633,5 +78685,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T03:02:08+00:00"
+  "updated_at": "2026-11-05T03:03:11+00:00"
 }
