@@ -1,5 +1,5 @@
 {
-  "count": 9006,
+  "count": 9007,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -72035,6 +72035,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/aj"
     },
+    "vanshb03:keysight technologies::vanshb03-1f9c2a6d-26d3-4374-aa15-c854f370c404": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-11-05T18:52:12+00:00",
+      "last_seen": "2026-11-05T18:52:12+00:00",
+      "location": "Santa Rosa, CA",
+      "posted_at": "1793837460",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, Semiconductor Technology",
+      "url": "https://go.vansh.nyc/1iY"
+    },
     "vanshb03:keysight technologies::vanshb03-2b3118ae-29de-4ebf-acb4-07f506c0098d": {
       "company": "Keysight Technologies",
       "duplicate_of": "simplify:keysight technologies::simplify-7aa1a15a-c14e-4ed7-bccb-cb92212f2636",
@@ -79472,5 +79482,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T18:47:19+00:00"
+  "updated_at": "2026-11-05T18:52:22+00:00"
 }
