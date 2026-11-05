@@ -1,5 +1,5 @@
 {
-  "count": 8914,
+  "count": 8927,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -8072,6 +8072,16 @@
       "source": "simplify",
       "title": "Software Development Engineer Intern - Summer",
       "url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa"
+    },
+    "simplify:amazon::simplify-1ebb8945-a47e-48a3-a181-d6bc174efd7d": {
+      "company": "Amazon",
+      "first_seen": "2026-11-05T02:32:14+00:00",
+      "last_seen": "2026-11-05T02:32:14+00:00",
+      "location": "Seattle, WA, SF, Irvine, CA",
+      "posted_at": "1793845099",
+      "source": "simplify",
+      "title": "Software Developer Engineer 1 - Security Platform",
+      "url": "https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform"
     },
     "simplify:amazon::simplify-22b41b69-61b2-4b32-88f6-61e9f4d4643d": {
       "company": "Amazon",
@@ -16560,6 +16570,16 @@
       "title": "Software Developer Intern - Content Creation Tools",
       "url": "https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-017---Stagiaire-dveloppeur-se--de-logiciels_123658"
     },
+    "simplify:cae::simplify-1d6a4ac6-ef23-4ee1-bee2-ccdc9f7aa09b": {
+      "company": "CAE",
+      "first_seen": "2026-11-05T03:01:57+00:00",
+      "last_seen": "2026-11-05T03:01:57+00:00",
+      "location": "Arlington, TX",
+      "posted_at": "1793750400",
+      "source": "simplify",
+      "title": "Visualization Engineer",
+      "url": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Visualization-Engineer_124526"
+    },
     "simplify:cae::simplify-35198eff-0919-482c-86ff-21b8e8d1cd07": {
       "company": "CAE",
       "first_seen": "2026-09-21T23:07:18+00:00",
@@ -17866,6 +17886,16 @@
       "title": "Digital Fellow",
       "url": "https://careers.chick-fil-a.com/jobs/20298?icims=1"
     },
+    "simplify:choice hotels::simplify-5e00c561-b737-44bf-afa3-30cf44fe26a6": {
+      "company": "Choice Hotels",
+      "first_seen": "2026-11-05T03:01:57+00:00",
+      "last_seen": "2026-11-05T03:01:57+00:00",
+      "location": "Scottsdale, AZ",
+      "posted_at": "1793846092",
+      "source": "simplify",
+      "title": "Software Engineer 1 - Finance Technology",
+      "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1---Finance-Technology_R22514"
+    },
     "simplify:choice hotels::simplify-edbda165-162b-46f7-a991-ae76b3547d01": {
       "company": "Choice Hotels",
       "first_seen": "2026-10-16T23:04:33+00:00",
@@ -18227,6 +18257,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true"
     },
+    "simplify:cisco::simplify-07e1f6dd-a46e-489d-b04c-f42fe868abfc": {
+      "company": "Cisco",
+      "first_seen": "2026-11-05T02:32:15+00:00",
+      "last_seen": "2026-11-05T02:32:15+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1793844912",
+      "source": "simplify",
+      "title": "Software Engineer Full Stack / Backend 1",
+      "url": "https://careers.cisco.com/global/en/job/2028784"
+    },
     "simplify:cisco::simplify-09747fec-195a-49d6-8a70-a6377773a9bb": {
       "company": "Cisco",
       "first_seen": "2026-07-27T23:47:04+00:00",
@@ -18324,6 +18364,18 @@
       "posted_at": "1785363893",
       "title": "Software Engineer Backend/Platform Systems 1",
       "url": "https://careers.cisco.com/global/en/job/2000046"
+    },
+    "simplify:cisco::simplify-d6bc4342-27bd-4e74-b6eb-7f98e7706f2e": {
+      "company": "Cisco",
+      "duplicate_of": "simplify:cisco::simplify-07e1f6dd-a46e-489d-b04c-f42fe868abfc",
+      "first_seen": "2026-11-05T03:01:58+00:00",
+      "last_seen": "2026-11-05T03:01:58+00:00",
+      "location": "Houston, TX, Research Triangle Park, Durham, NC, Knoxville, TN, Nashville, TN, Austin, TX, Tampa, FL, Miami, FL, Irvine, CA, Colorado Springs, CO, Dallas, TX, Philadelphia, PA, Plano, TX, Boca Raton, FL, Chicago, IL, Boise, ID, Carlsbad, CA, Phoenix, AZ, Denver, CO, Atlanta, GA, San Diego, CA, Coral Gables, FL, Charleston, WV, Costa Mesa, CA",
+      "posted_at": "1793750400",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Full Stack / Backend 1",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Austin-Texas-US/Software-Engineer-Full-Stack---Backend-I--Full-Time----United-States_2028784"
     },
     "simplify:cisco::simplify-d8fd75f8-9639-4a1e-a974-f68d2c24cad7": {
       "company": "Cisco",
@@ -23516,6 +23568,16 @@
       "title": "Junior Software Developer - Systems Software",
       "url": "https://careers-empowerai.icims.com/jobs/9489/job?mobile=true&needsRedirect=false"
     },
+    "simplify:empower pharmacy::simplify-c423bdb8-fc59-4745-bc15-5224b565cc3a": {
+      "company": "Empower Pharmacy",
+      "first_seen": "2026-11-05T03:01:57+00:00",
+      "last_seen": "2026-11-05T03:01:57+00:00",
+      "location": "Houston, TX",
+      "posted_at": "1793815283",
+      "source": "simplify",
+      "title": "Associate Software Engineer - Full Stack",
+      "url": "https://careers.empowerpharmacy.com/jobs/?gh_jid=4479712009"
+    },
     "simplify:enact mortgage insurance::simplify-c27aa2e9-dd87-4f06-91ee-4134e27b2e2d": {
       "company": "Enact Mortgage Insurance",
       "first_seen": "2026-09-14T19:14:49+00:00",
@@ -27387,7 +27449,7 @@
     "simplify:general motors::simplify-5e2d9124-8197-4d17-9026-14c8fc221406": {
       "company": "General Motors",
       "first_seen": "2026-09-10T00:38:47+00:00",
-      "last_seen": "2026-10-09T00:00:55+00:00",
+      "last_seen": "2026-11-05T03:01:56+00:00",
       "posted_at": "1788912000",
       "title": "Machine Learning Systems Engineer - Data Labeling Engineering",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939"
@@ -28909,6 +28971,16 @@
       "posted_at": "1783987200",
       "title": "Software Engineer",
       "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/Canada---Toronto/Software-Engineer_JR_15002"
+    },
+    "simplify:guidewire::simplify-f32d93cc-7d00-40f1-97f9-335c7aec4186": {
+      "company": "Guidewire",
+      "first_seen": "2026-11-05T03:01:57+00:00",
+      "last_seen": "2026-11-05T03:01:57+00:00",
+      "location": "Exton, PA",
+      "posted_at": "1793750400",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Exton-PA/Software-Engineer_JR_15373-1"
     },
     "simplify:guidewire::simplify-f430edd0-d3c9-4fab-a589-d84c7a62cb7e": {
       "company": "Guidewire",
@@ -31117,7 +31189,7 @@
     "simplify:innovative defense technologies::simplify-10f1fba2-5f54-4e3c-9837-9d9af4a3c4cc": {
       "company": "Innovative Defense Technologies",
       "first_seen": "2026-10-21T23:02:35+00:00",
-      "last_seen": "2026-11-03T00:02:09+00:00",
+      "last_seen": "2026-11-05T03:01:56+00:00",
       "location": "Mt Laurel Township, NJ",
       "posted_at": "1792622613",
       "source": "simplify",
@@ -31596,6 +31668,16 @@
       "posted_at": "1788912000",
       "title": "Software Solutions Engineer PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Research-Engineering----PhD-Intern-_JR0287019"
+    },
+    "simplify:intel::simplify-b2569f1e-a7db-491a-ad85-a3177c3b5213": {
+      "company": "Intel",
+      "first_seen": "2026-11-05T02:32:14+00:00",
+      "last_seen": "2026-11-05T02:32:14+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793750400",
+      "source": "simplify",
+      "title": "Compiler Engineer for AI Tile-based DSL",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineer-for-AI-Tile-based-DSL_JR0288443"
     },
     "simplify:intel::simplify-b854fca7-7546-478f-937b-a76b8dbbddae": {
       "company": "Intel",
@@ -38871,6 +38953,16 @@
       "title": "Software Engineer Intern - AI and ML",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556972698"
     },
+    "simplify:microsoft::simplify-769407b8-2e91-43e9-ab04-5f4eab5bf5e3": {
+      "company": "Microsoft",
+      "first_seen": "2026-11-05T02:32:18+00:00",
+      "last_seen": "2026-11-05T02:32:18+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1793844568",
+      "source": "simplify",
+      "title": "Research Intern - Multiple Teams",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069"
+    },
     "simplify:microsoft::simplify-7e143f06-1c28-41b7-9291-53a869d86325": {
       "company": "Microsoft",
       "first_seen": "2026-08-04T09:10:05+00:00",
@@ -39901,6 +39993,16 @@
       "posted_at": "1782222034",
       "title": "Mobile Software Engineer Intern",
       "url": "https://www.murumed.com/job-listings/software-engineer-intern"
+    },
+    "simplify:myriad360::simplify-7b528d54-ffd1-46d0-b619-21281f247993": {
+      "company": "Myriad360",
+      "first_seen": "2026-11-05T03:01:57+00:00",
+      "last_seen": "2026-11-05T03:01:57+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1793812833",
+      "source": "simplify",
+      "title": "Junior AI and Automation Engineer",
+      "url": "https://boards.greenhouse.io/myriad360/jobs/8930382002"
     },
     "simplify:n1::simplify-566e37cf-7620-4e64-90ea-d25a99bb5f19": {
       "company": "N1",
@@ -61146,12 +61248,34 @@
       "title": "Software Engineer - Memberships",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8605153002"
     },
+    "simplify:twitch::simplify-6e720c48-39c8-40f5-94d9-e77b402c9808": {
+      "company": "Twitch",
+      "duplicate_of": "simplify:twitch::simplify-93503435-116f-4656-9090-2c094bb6d6bd",
+      "first_seen": "2026-11-05T02:32:13+00:00",
+      "last_seen": "2026-11-05T02:32:13+00:00",
+      "location": "Seattle, WA, SF, Irvine, CA",
+      "posted_at": "1793836200",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Development Engineer 1 - Security Platform",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8931345002"
+    },
     "simplify:twitch::simplify-84537aaf-2816-4b2c-9c5e-d04454e92f47": {
       "company": "Twitch",
       "first_seen": "2026-07-02T21:01:41+00:00",
       "posted_at": "1777080097",
       "title": "Software Engineer 1",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8519628002"
+    },
+    "simplify:twitch::simplify-93503435-116f-4656-9090-2c094bb6d6bd": {
+      "company": "Twitch",
+      "first_seen": "2026-11-05T02:32:15+00:00",
+      "last_seen": "2026-11-05T02:32:15+00:00",
+      "location": "Seattle, WA; SF; Seattle, WA, SF, Irvine, CA",
+      "posted_at": "1793836198",
+      "source": "simplify",
+      "title": "Software Development Engineer 1 - Security Platform",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8931343002"
     },
     "simplify:twitch::simplify-d44042f6-e655-4729-ac89-d1b336b02aeb": {
       "company": "Twitch",
@@ -61173,6 +61297,18 @@
       "posted_at": "1784079798",
       "title": "Software Engineer 1 - Discovery",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8623578002"
+    },
+    "simplify:twitch::simplify-e83ea8a4-83fe-416d-b480-6e3a3a18cac3": {
+      "company": "Twitch",
+      "duplicate_of": "simplify:twitch::simplify-93503435-116f-4656-9090-2c094bb6d6bd",
+      "first_seen": "2026-11-05T02:32:13+00:00",
+      "last_seen": "2026-11-05T02:32:13+00:00",
+      "location": "SF",
+      "posted_at": "1793836195",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Development Engineer 1 - Security Platform",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8929545002"
     },
     "simplify:two sigma::simplify-281fb399-0f01-46dc-9b50-d761b69e53ab": {
       "company": "Two Sigma",
@@ -78497,5 +78633,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T02:32:05+00:00"
+  "updated_at": "2026-11-05T03:02:08+00:00"
 }
