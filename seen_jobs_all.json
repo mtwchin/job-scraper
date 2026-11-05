@@ -1,5 +1,5 @@
 {
-  "count": 8933,
+  "count": 8935,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6032,6 +6032,16 @@
       "title": "AI Engineer Intern",
       "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/AI-Engineer-Intern_R26_5974-1"
     },
+    "simplify:84 lumber::simplify-6a81d31d-6a36-4f0e-bc20-897ebf83b76b": {
+      "company": "84 Lumber",
+      "first_seen": "2026-11-05T07:31:23+00:00",
+      "last_seen": "2026-11-05T07:31:23+00:00",
+      "location": "Eighty Four, PA",
+      "posted_at": "1792418160",
+      "source": "simplify",
+      "title": "Associate Web Developer",
+      "url": "https://careers.84lumber.com/jobs/26201?icims=1"
+    },
     "simplify:8vc::simplify-eaa89b1b-fe2e-45f4-8cd7-3d409b8bf22a": {
       "company": "8VC",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -10425,7 +10435,7 @@
     "simplify:applied systems, inc.::simplify-51ca28a3-5501-448a-a399-6a1d14a4fcda": {
       "company": "Applied Systems, Inc.",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T07:31:23+00:00",
       "posted_at": "1783375535",
       "title": "Associate Software Engineer",
       "url": "https://careers-appliedsystems.icims.com/jobs/7318/job?mobile=true&needsRedirect=false"
@@ -12849,7 +12859,7 @@
     "simplify:barrios::simplify-248bd865-39b3-4dab-8ccf-6a8fed297dc7": {
       "company": "Barrios",
       "first_seen": "2026-08-12T10:29:55+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T07:31:23+00:00",
       "posted_at": "1786140365",
       "title": "Software Developer",
       "url": "https://careers-barrios.icims.com/jobs/2840/job?mobile=true&needsRedirect=false"
@@ -24398,6 +24408,16 @@
       "title": "Software Engineer 1",
       "url": "https://job-boards.greenhouse.io/everlaw/jobs/4705236006"
     },
+    "simplify:everwatch::simplify-47b0bb99-c1c9-4aef-bd88-5e20f1582549": {
+      "company": "Everwatch",
+      "first_seen": "2026-11-05T07:31:23+00:00",
+      "last_seen": "2026-11-05T07:31:23+00:00",
+      "location": "Annapolis Junction, MD",
+      "posted_at": "1793862415",
+      "source": "simplify",
+      "title": "Junior Software Engineer",
+      "url": "https://everwatch-everwatchsolutions.icims.com/jobs/3573/job?mobile=true&needsRedirect=false"
+    },
     "simplify:evolent::simplify-7fb4df11-724b-4388-80ba-7b185189f957": {
       "company": "Evolent",
       "first_seen": "2026-10-26T06:31:34+00:00",
@@ -32399,7 +32419,7 @@
     "simplify:ita international::simplify-df7ccad4-e94d-42b5-914a-8875029af2a8": {
       "company": "ITA International",
       "first_seen": "2026-08-14T05:13:27+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T07:31:23+00:00",
       "posted_at": "1786680182",
       "title": "Junior Power Platform Developer",
       "url": "https://careers-ita-intl.icims.com/jobs/4470/job?mobile=true&needsRedirect=false"
@@ -45275,6 +45295,7 @@
     "simplify:peraton::simplify-3e18b0f3-e8d6-4b60-b92d-963abebca45b": {
       "company": "Peraton",
       "first_seen": "2026-07-14T19:49:46+00:00",
+      "last_seen": "2026-11-05T07:31:23+00:00",
       "posted_at": "1780092557",
       "title": "Junior Software Engineer",
       "url": "https://careers-peraton.icims.com/jobs/147065/job?mobile=true&needsRedirect=false"
@@ -45282,7 +45303,7 @@
     "simplify:peraton::simplify-44c90e9f-c59c-4e93-b432-02dfb8511e62": {
       "company": "Peraton",
       "first_seen": "2026-08-21T01:49:30+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T07:31:23+00:00",
       "posted_at": "1787274821",
       "title": "COBOL Software Developer",
       "url": "https://careers-peraton.icims.com/jobs/169891/job?mobile=true&needsRedirect=false"
@@ -45386,7 +45407,7 @@
     "simplify:peraton::simplify-b4c2db2d-3859-453b-823e-8dc517020ce3": {
       "company": "Peraton",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T07:31:23+00:00",
       "posted_at": "1772233846",
       "title": "Cloud Software Engineer 1",
       "url": "https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false"
@@ -78695,5 +78716,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T05:57:21+00:00"
+  "updated_at": "2026-11-05T07:31:25+00:00"
 }
