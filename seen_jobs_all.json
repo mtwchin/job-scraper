@@ -1,5 +1,5 @@
 {
-  "count": 8993,
+  "count": 8997,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -16064,6 +16064,18 @@
       "title": "Entry Level C# Software Engineer",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Virginia-Beach-VA-US/Entry-Level-C--Software-Engineer_333249"
     },
+    "simplify:caci::simplify-4c59213c-136f-41cc-89c2-8df6becaa89f": {
+      "company": "CACI",
+      "duplicate_of": "vanshb03:caci::vanshb03-e5d4c713-661b-4326-bf25-ab480cfbdd62",
+      "first_seen": "2026-11-05T16:01:44+00:00",
+      "last_seen": "2026-11-05T16:01:44+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1793836800",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Junior Software Developer",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Junior-Software-Developer_334685"
+    },
     "simplify:caci::simplify-4d3b608b-7d50-4226-ab3c-d8e8033c794c": {
       "company": "CACI",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -18476,6 +18488,16 @@
       "posted_at": "1783031886",
       "title": "Software Developer 1 - Software Engineering",
       "url": "https://job-boards.eu.greenhouse.io/cision/jobs/4899574101"
+    },
+    "simplify:cisive::simplify-8397a6f4-17a0-4389-94e9-190e720abe38": {
+      "company": "Cisive",
+      "first_seen": "2026-11-05T16:01:45+00:00",
+      "last_seen": "2026-11-05T16:01:45+00:00",
+      "location": "Maryland",
+      "posted_at": "1793836800",
+      "source": "simplify",
+      "title": "Associate Software Developer",
+      "url": "https://cisive.wd108.myworkdayjobs.com/Cisive/job/Headquarters-MD/Associate-Software-Developer_JR100449-1"
     },
     "simplify:cisive::simplify-bd6c1d8d-06f6-44e2-a2a5-6feff8bd6f80": {
       "company": "Cisive",
@@ -24126,6 +24148,16 @@
       "source": "simplify",
       "title": "Software Engineer 1",
       "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8071715"
+    },
+    "simplify:equipmentshare::simplify-fb9cc829-2767-40a8-bca6-eeec81ba3135": {
+      "company": "EquipmentShare",
+      "first_seen": "2026-11-05T16:01:45+00:00",
+      "last_seen": "2026-11-05T16:01:45+00:00",
+      "location": "Columbia, MO",
+      "posted_at": "1793885069",
+      "source": "simplify",
+      "title": "Junior Ecommerce Web Developer",
+      "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8319404"
     },
     "simplify:equitable bank::simplify-167090cb-a6cc-4740-9731-6e37db8ce44d": {
       "company": "Equitable Bank",
@@ -57204,6 +57236,16 @@
       "title": "Software Engineer Intern - Software Engineering Rotational Program",
       "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Analyst---Software-Engineering-Rotational-Program--New-York-City-_R_1508053"
     },
+    "simplify:td bank::simplify-d4b9b290-bb1d-4cdc-9f50-5e446cbd9540": {
+      "company": "TD Bank",
+      "first_seen": "2026-11-05T16:01:45+00:00",
+      "last_seen": "2026-11-05T16:01:45+00:00",
+      "location": "London, ON, Canada",
+      "posted_at": "1793836800",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-Ontario/Associate-Software-Engineer_R_1520502"
+    },
     "simplify:td bank::simplify-f42646c5-4269-403c-923a-b8b4e01f8f06": {
       "company": "TD Bank",
       "first_seen": "2026-07-29T00:10:36+00:00",
@@ -79313,5 +79355,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T15:47:04+00:00"
+  "updated_at": "2026-11-05T16:02:07+00:00"
 }
