@@ -1,5 +1,5 @@
 {
-  "count": 8984,
+  "count": 8985,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -78260,6 +78260,16 @@
       "title": "Systems Software Engineer Intern",
       "url": "https://go.vansh.nyc/Z3"
     },
+    "vanshb03:tyler technologies::vanshb03-49dcc5fb-640b-4f54-9b92-f36d7748a57e": {
+      "company": "Tyler Technologies",
+      "first_seen": "2026-11-05T14:43:45+00:00",
+      "last_seen": "2026-11-05T14:43:45+00:00",
+      "location": "United States",
+      "posted_at": "1793889506",
+      "source": "vanshb03",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/1ix"
+    },
     "vanshb03:tyler technologies::vanshb03-7ab1bc21-26b2-460a-afe7-a38b002662ce": {
       "company": "Tyler Technologies",
       "first_seen": "2026-10-26T13:44:52+00:00",
@@ -79223,5 +79233,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T12:32:49+00:00"
+  "updated_at": "2026-11-05T14:43:55+00:00"
 }
