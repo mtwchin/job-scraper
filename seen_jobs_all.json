@@ -1,5 +1,5 @@
 {
-  "count": 8967,
+  "count": 8969,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -41302,6 +41302,16 @@
       "title": "Software Engineer",
       "url": "https://careers.noblis.org/jobs/27515?icims=1"
     },
+    "simplify:noblis::simplify-4d6a2eee-395d-4849-9e7a-eb3d1c61aec4": {
+      "company": "Noblis",
+      "first_seen": "2026-11-05T09:32:25+00:00",
+      "last_seen": "2026-11-05T09:32:25+00:00",
+      "location": "United States",
+      "posted_at": "1793306520",
+      "source": "simplify",
+      "title": "Applied Research Intern",
+      "url": "https://careers.noblis.org/jobs/28089?icims=1&lang=en-us"
+    },
     "simplify:noblis::simplify-5836e123-acb1-49d2-abde-395cef4328dd": {
       "company": "Noblis",
       "first_seen": "2026-08-01T23:24:49+00:00",
@@ -56310,6 +56320,16 @@
       "posted_at": "1774563083",
       "title": "Software Developer",
       "url": "https://careers-sig.icims.com/jobs/10687/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:susquehanna international group::simplify-3164dba8-b1d8-4a4a-9df0-36d4603c8550": {
+      "company": "Susquehanna International Group",
+      "first_seen": "2026-11-05T09:32:25+00:00",
+      "last_seen": "2026-11-05T09:32:25+00:00",
+      "location": "Bala Cynwyd, PA",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Technology Co-op",
+      "url": "https://careers-sig.icims.com/jobs/11654/job?mobile=true&needsRedirect=false"
     },
     "simplify:susquehanna international group::simplify-4fa9bd6c-ef64-4ae9-96b4-d236c66a5ecf": {
       "company": "Susquehanna International Group",
@@ -79053,5 +79073,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T09:12:48+00:00"
+  "updated_at": "2026-11-05T09:32:51+00:00"
 }
