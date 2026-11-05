@@ -1,5 +1,5 @@
 {
-  "count": 8977,
+  "count": 8978,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -70431,6 +70431,16 @@
       "title": "Software Developer Intern",
       "url": "https://go.vansh.nyc/3y"
     },
+    "vanshb03:flexai::vanshb03-e81918c1-9586-4872-85c8-8a2b88c4537c": {
+      "company": "FlexAI",
+      "first_seen": "2026-11-05T10:16:22+00:00",
+      "last_seen": "2026-11-05T10:16:22+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793873530",
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineer",
+      "url": "https://go.vansh.nyc/1iq"
+    },
     "vanshb03:foresters financial::vanshb03-239af140-d1dd-4c4d-9c85-49b260d696c7": {
       "company": "Foresters Financial",
       "first_seen": "2026-11-01T00:13:51+00:00",
@@ -79153,5 +79163,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T10:12:54+00:00"
+  "updated_at": "2026-11-05T10:16:57+00:00"
 }
