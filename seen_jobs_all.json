@@ -1,5 +1,5 @@
 {
-  "count": 9030,
+  "count": 9033,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1827,6 +1827,15 @@
       "source": "",
       "title": "Software Engineer - New Grad",
       "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108"
+    },
+    "zoox::7b20b929-d9a4-4995-a472-16cd4925a877": {
+      "attempted_at": "2026-11-05T23:40:13+00:00",
+      "company": "Zoox",
+      "location": "Foster City, CA",
+      "posted_at": "1793399815529",
+      "source": "",
+      "title": "Software Engineer Intern, Autonomy Software [Summer 2027]",
+      "url": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877"
     }
   },
   "delivery_rejections": {},
@@ -75500,6 +75509,16 @@
       "title": "Associate Software Engineer",
       "url": "https://go.vansh.nyc/1bF"
     },
+    "vanshb03:royal bank of canada::vanshb03-586e3855-6801-4cda-9c34-4d5ded723460": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-11-05T23:46:31+00:00",
+      "last_seen": "2026-11-05T23:46:31+00:00",
+      "location": "Montreal, Canada",
+      "posted_at": "1793836800",
+      "source": "vanshb03",
+      "title": "Software Developer Co-op, Quantitative Technology Services",
+      "url": "https://go.vansh.nyc/1jt"
+    },
     "vanshb03:rtx::vanshb03-1eeb3eed-2c42-4293-9bff-39edb4c4c66e": {
       "company": "RTX",
       "first_seen": "2026-11-03T06:53:59+00:00",
@@ -79724,6 +79743,26 @@
       "source": "",
       "title": "Software Engineer - Intern",
       "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8180455"
+    },
+    "zoox::88f6cb68-1534-44af-80db-10e43c203520": {
+      "company": "Zoox",
+      "first_seen": "2026-11-05T23:41:46+00:00",
+      "last_seen": "2026-11-05T23:41:46+00:00",
+      "location": "Foster City, CA",
+      "posted_at": "1793400897859",
+      "source": "",
+      "title": "Software Engineer Intern, Software Platforms & Product [Summer 2027]",
+      "url": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520"
+    },
+    "zoox::8b32157b-ab44-4078-85ea-1d8d7b747a20": {
+      "company": "Zoox",
+      "first_seen": "2026-11-05T23:41:46+00:00",
+      "last_seen": "2026-11-05T23:41:46+00:00",
+      "location": "Foster City, CA",
+      "posted_at": "1793401565895",
+      "source": "",
+      "title": "Software Engineer Intern, Software Systems [Summer 2027]",
+      "url": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20"
     }
   },
   "prune_cutoff": "",
@@ -79734,5 +79773,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T23:32:36+00:00"
+  "updated_at": "2026-11-05T23:46:39+00:00"
 }
