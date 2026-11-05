@@ -1,5 +1,5 @@
 {
-  "count": 8985,
+  "count": 8986,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -73171,6 +73171,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/1gn"
     },
+    "vanshb03:northrop grumman::vanshb03-234d1614-a2c5-423b-a77c-2f8a075a980f": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-05T14:47:44+00:00",
+      "last_seen": "2026-11-05T14:47:44+00:00",
+      "location": "Roy, UT",
+      "posted_at": "1793836800",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Associate Cyber Systems Engineer",
+      "url": "https://go.vansh.nyc/1iB"
+    },
     "vanshb03:northrop grumman::vanshb03-42b214fe-48b1-4f78-ba30-82ec84babd47": {
       "company": "Northrop Grumman",
       "first_seen": "2026-10-22T19:44:19+00:00",
@@ -79233,5 +79243,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T14:43:55+00:00"
+  "updated_at": "2026-11-05T14:47:57+00:00"
 }
