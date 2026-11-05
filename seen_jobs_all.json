@@ -1,5 +1,5 @@
 {
-  "count": 8982,
+  "count": 8984,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -22203,6 +22203,16 @@
       "title": "Software Engineer Intern - Corporate Internship",
       "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Software-Engineering---Summer-2027-Corporate-Internship_202608792-1"
     },
+    "simplify:didero::simplify-f89a9922-e494-4caf-8db8-4ba1391447ec": {
+      "company": "Didero",
+      "first_seen": "2026-11-05T11:31:45+00:00",
+      "last_seen": "2026-11-05T11:31:45+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Forward Deployed Engineer",
+      "url": "https://jobs.ashbyhq.com/didero/02895105-d069-47cf-b1e2-be7d24909173/application?embed=true"
+    },
     "simplify:didi global::simplify-d149cf5a-5cab-4419-8845-03f38ec765eb": {
       "company": "DiDi Global",
       "first_seen": "2026-09-01T09:52:41+00:00",
@@ -28759,6 +28769,16 @@
       "posted_at": "1787582163",
       "title": "Software Developer Intern",
       "url": "https://www.google.com/about/careers/applications/jobs/results/112518690523488966"
+    },
+    "simplify:google::simplify-fc220677-a2f4-4242-869b-bc904b43547f": {
+      "company": "Google",
+      "first_seen": "2026-11-05T11:31:54+00:00",
+      "last_seen": "2026-11-05T11:31:54+00:00",
+      "location": "Montreal, QC, Canada, Waterloo, ON, Canada",
+      "posted_at": "1793616986",
+      "source": "simplify",
+      "title": "Software Developer 2 \u2013 Early Career",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/93868335938052806"
     },
     "simplify:gordon food service::simplify-058f883b-7a38-49f1-8ad9-45811313157b": {
       "company": "Gordon Food Service",
@@ -79203,5 +79223,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T11:27:42+00:00"
+  "updated_at": "2026-11-05T11:32:45+00:00"
 }
