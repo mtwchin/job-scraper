@@ -1,5 +1,5 @@
 {
-  "count": 9012,
+  "count": 9013,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -79070,6 +79070,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/10z"
     },
+    "vanshb03:wgu::vanshb03-9f89a0ba-db0b-4f48-85a9-9bf16d3cc3f2": {
+      "company": "WGU",
+      "first_seen": "2026-11-05T21:45:10+00:00",
+      "last_seen": "2026-11-05T21:45:10+00:00",
+      "location": "Salt Lake City, UT",
+      "posted_at": "1793914809",
+      "source": "vanshb03",
+      "title": "Associate Software Engineer",
+      "url": "https://go.vansh.nyc/1ji"
+    },
     "vanshb03:wsp::vanshb03-65f57b05-3453-432e-8874-c22e99f13c8f": {
       "company": "WSP",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -79541,5 +79551,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T21:40:35+00:00"
+  "updated_at": "2026-11-05T21:45:37+00:00"
 }
