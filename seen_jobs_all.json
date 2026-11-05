@@ -1,5 +1,5 @@
 {
-  "count": 9017,
+  "count": 9019,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -67574,6 +67574,16 @@
       "title": "Software Engineering Intern, Embedded Systems",
       "url": "https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11"
     },
+    "vanshb03:apex technology, inc.::vanshb03-5550d1fb-e849-4517-821f-66ce006a92d1": {
+      "company": "Apex Technology, Inc.",
+      "first_seen": "2026-11-05T22:40:31+00:00",
+      "last_seen": "2026-11-05T22:40:31+00:00",
+      "location": "Los Angeles, CA",
+      "posted_at": "1793905063",
+      "source": "vanshb03",
+      "title": "Ground Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1jo"
+    },
     "vanshb03:appian::vanshb03-22b1b26d-56bf-4146-aa1e-c48b088c33b2": {
       "company": "Appian",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -71890,6 +71900,16 @@
       "source": "vanshb03",
       "title": "New Grad 2027: Software Systems Engineer",
       "url": "https://go.vansh.nyc/10j"
+    },
+    "vanshb03:johns hopkins apl::vanshb03-97509724-1799-40e4-aa84-fada2716fc3a": {
+      "company": "Johns Hopkins APL",
+      "first_seen": "2026-11-05T22:40:31+00:00",
+      "last_seen": "2026-11-05T22:40:31+00:00",
+      "location": "Laurel, MD",
+      "posted_at": "1793918172",
+      "source": "vanshb03",
+      "title": "Maritime Software Development Intern, Ocean Systems and Engineering",
+      "url": "https://go.vansh.nyc/1jq"
     },
     "vanshb03:johns hopkins applied physics laboratory::vanshb03-2a36d013-2f05-4fdb-b236-d2fe749d92c3": {
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -79595,5 +79615,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T22:28:29+00:00"
+  "updated_at": "2026-11-05T22:40:32+00:00"
 }
