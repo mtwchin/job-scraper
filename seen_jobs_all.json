@@ -1,5 +1,5 @@
 {
-  "count": 8898,
+  "count": 8899,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -74345,6 +74345,16 @@
       "title": "Embedded Software Engineering Intern",
       "url": "https://go.vansh.nyc/BP"
     },
+    "vanshb03:rtx::vanshb03-b2bc073d-d896-48f1-8b4e-38273c90cdfb": {
+      "company": "RTX",
+      "first_seen": "2026-11-05T01:13:56+00:00",
+      "last_seen": "2026-11-05T01:13:56+00:00",
+      "location": "West Valley City, UT",
+      "posted_at": "1793839956",
+      "source": "vanshb03",
+      "title": "Infrastructure Engineer I",
+      "url": "https://go.vansh.nyc/1hj"
+    },
     "vanshb03:rtx::vanshb03-bbd0c620-54fe-4568-b5ed-1a31793eff10": {
       "company": "RTX",
       "duplicate_of": "simplify:rtx::simplify-e8a2975b-62cb-450a-9629-f7210118211b",
@@ -78337,5 +78347,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T00:26:55+00:00"
+  "updated_at": "2026-11-05T01:13:58+00:00"
 }
