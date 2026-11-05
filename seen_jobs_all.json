@@ -1,5 +1,5 @@
 {
-  "count": 9013,
+  "count": 9017,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -73389,6 +73389,16 @@
       "title": "Software Engineer Co-op",
       "url": "https://go.vansh.nyc/112"
     },
+    "vanshb03:nordson::vanshb03-33308784-9a45-44db-95bd-865630a7f67b": {
+      "company": "Nordson",
+      "first_seen": "2026-11-05T22:11:10+00:00",
+      "last_seen": "2026-11-05T22:11:10+00:00",
+      "location": "Minneapolis, MN",
+      "posted_at": "1793916379",
+      "source": "vanshb03",
+      "title": "Software Intern",
+      "url": "https://go.vansh.nyc/1jk"
+    },
     "vanshb03:nordson::vanshb03-c754e599-027e-425f-99b7-95c1f587f789": {
       "company": "Nordson",
       "first_seen": "2026-11-01T00:13:51+00:00",
@@ -75405,6 +75415,18 @@
       "title": "Systems Engineer Intern, Mission Sensor Manager",
       "url": "https://go.vansh.nyc/1cT"
     },
+    "vanshb03:rtx::vanshb03-59f6cfa9-54cc-419a-91fb-54b8d4c15197": {
+      "company": "RTX",
+      "duplicate_of": "vanshb03:rtx::vanshb03-fad43ccf-798d-4a0e-bc56-fc0f4506bec3",
+      "first_seen": "2026-11-05T22:11:10+00:00",
+      "last_seen": "2026-11-05T22:11:10+00:00",
+      "location": "Aurora, CO",
+      "posted_at": "1793916379",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1jj"
+    },
     "vanshb03:rtx::vanshb03-5cbaedb9-8b20-47ed-b530-48732c63faf9": {
       "company": "RTX",
       "duplicate_of": "simplify:rtx::simplify-d6b959d0-3774-41d6-bc89-d62b84ca38bf",
@@ -76432,6 +76454,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Cloud Security",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190"
+    },
+    "vanshb03:td bank::vanshb03-a7cec5a1-23be-4214-a5ea-94288512e8e5": {
+      "company": "TD Bank",
+      "first_seen": "2026-11-05T22:11:10+00:00",
+      "last_seen": "2026-11-05T22:11:10+00:00",
+      "location": "Toronto, Canada, Mississauga, Canada, London, Canada",
+      "posted_at": "1793916379",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1jl"
     },
     "vanshb03:techinsights::vanshb03-b42e0971-d75c-4b09-9018-3c97e357e411": {
       "company": "TechInsights",
@@ -79048,6 +79080,18 @@
       "title": "Platform Engineering Intern",
       "url": "https://go.vansh.nyc/1jh"
     },
+    "vanshb03:western alliance bancorporation::vanshb03-ba8a1180-0ea5-40fd-ba93-f17a15c117ca": {
+      "company": "Western Alliance Bancorporation",
+      "duplicate_of": "vanshb03:western alliance bancorporation::vanshb03-5b65fe26-8e0d-43aa-903e-588326b48868",
+      "first_seen": "2026-11-05T22:11:10+00:00",
+      "last_seen": "2026-11-05T22:11:10+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1793916379",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Platform Engineering Intern",
+      "url": "https://go.vansh.nyc/1jm"
+    },
     "vanshb03:western magnetics::vanshb03-d260c3c7-8b86-44e7-8d9e-1b58f3c8a645": {
       "company": "Western Magnetics",
       "duplicate_of": "simplify:western magnetics::simplify-0afedb15-13bb-4e63-b756-ae5112a89823",
@@ -79551,5 +79595,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T21:45:37+00:00"
+  "updated_at": "2026-11-05T22:11:40+00:00"
 }
