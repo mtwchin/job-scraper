@@ -1,5 +1,5 @@
 {
-  "count": 8969,
+  "count": 8977,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -66372,6 +66372,16 @@
       "title": "Graduate Software Engineer",
       "url": "https://recruiting.ultipro.com/VMS1002VMOO/JobBoard/3dde3e78-a60b-47af-93cf-ef6db6ed312b/OpportunityDetail?opportunityId=fa0772d7-fa49-4ce9-b7ae-de1a0da018eb"
     },
+    "vanshb03:4ag robotics::vanshb03-2b0c3cad-4668-4df3-9486-b074b1189007": {
+      "company": "4AG Robotics",
+      "first_seen": "2026-11-05T10:12:22+00:00",
+      "last_seen": "2026-11-05T10:12:22+00:00",
+      "location": "Salmon Arm, Canada",
+      "posted_at": "1793873217",
+      "source": "vanshb03",
+      "title": "Robotics Software Co-op",
+      "url": "https://go.vansh.nyc/1ih"
+    },
     "vanshb03:66degrees::vanshb03-d5861b9b-f5b0-409e-9e2c-c0a731c7a2a3": {
       "company": "66degrees",
       "first_seen": "2026-10-26T12:37:52+00:00",
@@ -71311,6 +71321,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/1d2"
     },
+    "vanshb03:innovative systems::vanshb03-62541384-5967-4466-9817-af491f661b69": {
+      "company": "Innovative Systems",
+      "first_seen": "2026-11-05T10:12:22+00:00",
+      "last_seen": "2026-11-05T10:12:22+00:00",
+      "location": "Pittsburgh, PA",
+      "posted_at": "1793873217",
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/1i4"
+    },
     "vanshb03:instead::vanshb03-1a80bf04-f124-4ed1-b1b0-72e9a6079f65": {
       "company": "Instead",
       "first_seen": "2026-11-01T00:13:50+00:00",
@@ -72238,6 +72258,16 @@
       "title": "Software Engineer Intern, Backend",
       "url": "https://go.vansh.nyc/Qn"
     },
+    "vanshb03:lyte ai::vanshb03-dbbcf90c-4c7e-42ea-a42c-f2a30a99f6bc": {
+      "company": "Lyte AI",
+      "first_seen": "2026-11-05T10:12:22+00:00",
+      "last_seen": "2026-11-05T10:12:22+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1793873217",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1in"
+    },
     "vanshb03:m&t bank::vanshb03-aba84213-ef37-4f93-a077-aa071bdfb3cc": {
       "company": "M&T Bank",
       "first_seen": "2026-11-04T23:47:38+00:00",
@@ -72784,6 +72814,26 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121848194"
+    },
+    "vanshb03:nebo::vanshb03-90561b3c-f696-45a5-a533-799824e0d0b5": {
+      "company": "Nebo",
+      "first_seen": "2026-11-05T10:12:22+00:00",
+      "last_seen": "2026-11-05T10:12:22+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1793873217",
+      "source": "vanshb03",
+      "title": "Front-End Engineering Intern",
+      "url": "https://go.vansh.nyc/1i7"
+    },
+    "vanshb03:nebo::vanshb03-eaaa7ac0-6ddd-49ec-9ddf-445dc4e6133f": {
+      "company": "Nebo",
+      "first_seen": "2026-11-05T10:12:22+00:00",
+      "last_seen": "2026-11-05T10:12:22+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1793873217",
+      "source": "vanshb03",
+      "title": "Back-End Engineering Intern",
+      "url": "https://go.vansh.nyc/1i8"
     },
     "vanshb03:neon::vanshb03-58df6bb2-b790-420b-b447-e1893c999a51": {
       "company": "Neon",
@@ -75781,6 +75831,16 @@
       "title": "Software Engineer Intern",
       "url": "https://www.workatastartup.com/jobs/95003"
     },
+    "vanshb03:stellar science::vanshb03-30c13bbf-d947-433e-a561-d8343ab6da86": {
+      "company": "Stellar Science",
+      "first_seen": "2026-11-05T10:12:22+00:00",
+      "last_seen": "2026-11-05T10:12:22+00:00",
+      "location": "Albuquerque, NM",
+      "posted_at": "1793873217",
+      "source": "vanshb03",
+      "title": "Scientific Software Developer Co-op",
+      "url": "https://go.vansh.nyc/1id"
+    },
     "vanshb03:stoke space::vanshb03-31531dfb-a3e8-49eb-a38c-5b543a8f3bf8": {
       "company": "Stoke Space",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -76004,6 +76064,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Cloud Security",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190"
+    },
+    "vanshb03:techinsights::vanshb03-b42e0971-d75c-4b09-9018-3c97e357e411": {
+      "company": "TechInsights",
+      "first_seen": "2026-11-05T10:12:22+00:00",
+      "last_seen": "2026-11-05T10:12:22+00:00",
+      "location": "Ottawa, Canada",
+      "posted_at": "1793873217",
+      "source": "vanshb03",
+      "title": "Software Development Co-op",
+      "url": "https://go.vansh.nyc/1ie"
     },
     "vanshb03:teledyne technologies incorporated::vanshb03-20c87e41-63a9-4f43-8fd7-a621aabb1e19": {
       "company": "Teledyne Technologies Incorporated",
@@ -78331,6 +78401,16 @@
       "title": "Embedded Software Engineer Intern",
       "url": "https://go.vansh.nyc/Ls"
     },
+    "vanshb03:veryable::vanshb03-e2864241-eb61-4c26-9c21-fde61723d136": {
+      "company": "Veryable",
+      "first_seen": "2026-11-05T10:12:22+00:00",
+      "last_seen": "2026-11-05T10:12:22+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1793873217",
+      "source": "vanshb03",
+      "title": "Platform Engineer Intern",
+      "url": "https://go.vansh.nyc/1ip"
+    },
     "vanshb03:veterans united home loans::vanshb03-4183e8da-2ffa-428f-916c-b0b081789eff": {
       "company": "Veterans United Home Loans",
       "first_seen": "2026-10-23T16:49:10+00:00",
@@ -79073,5 +79153,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T09:32:51+00:00"
+  "updated_at": "2026-11-05T10:12:54+00:00"
 }
