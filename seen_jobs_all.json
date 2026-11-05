@@ -1,5 +1,5 @@
 {
-  "count": 8935,
+  "count": 8936,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -45361,7 +45361,7 @@
     "simplify:peraton::simplify-5c53841c-7751-499e-a270-dec2580e62e6": {
       "company": "Peraton",
       "first_seen": "2026-10-08T23:07:02+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T07:32:23+00:00",
       "location": "Topeka, KS",
       "posted_at": "1791498349",
       "source": "simplify",
@@ -52604,6 +52604,16 @@
       "posted_at": "1774934795",
       "title": "Junior Firmware Engineer",
       "url": "https://job-boards.greenhouse.io/scoutai/jobs/4643333008"
+    },
+    "simplify:sdsu research foundation::simplify-9d2e8616-d457-4092-b63e-97eb1cf2fefe": {
+      "company": "SDSU Research Foundation",
+      "first_seen": "2026-11-05T07:32:24+00:00",
+      "last_seen": "2026-11-05T07:32:24+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1792566000",
+      "source": "simplify",
+      "title": "Computer Science Intern",
+      "url": "https://careers-sdsurf.icims.com/jobs/21086/job?mobile=true&needsRedirect=false"
     },
     "simplify:sdsu research foundation::simplify-eeb53961-7042-4fec-9272-ed291c610f32": {
       "company": "SDSU Research Foundation",
@@ -63655,7 +63665,7 @@
     "simplify:w.r. berkley::simplify-5977e7de-a399-4664-b4d6-04740ed3f711": {
       "company": "W.R. Berkley",
       "first_seen": "2026-09-18T20:36:16+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T07:32:23+00:00",
       "location": "Urbandale, IA",
       "posted_at": "1789740393",
       "source": "simplify",
@@ -63665,7 +63675,7 @@
     "simplify:w.r. berkley::simplify-bf48dd2b-e7b1-4338-a911-cb29771f7cce": {
       "company": "W.R. Berkley",
       "first_seen": "2026-09-17T23:03:17+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T07:32:23+00:00",
       "location": "Urbandale, IA",
       "posted_at": "1789682721",
       "source": "simplify",
@@ -78716,5 +78726,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T07:31:25+00:00"
+  "updated_at": "2026-11-05T07:32:27+00:00"
 }
