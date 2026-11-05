@@ -1,5 +1,5 @@
 {
-  "count": 8936,
+  "count": 8937,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -81,6 +81,15 @@
       "source": "",
       "title": "Software Engineer, New Grad - Query Engines",
       "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac"
+    },
+    "paypal::Software-Engineer-Intern---Summer-2027_R0138586": {
+      "attempted_at": "2026-11-05T08:00:10+00:00",
+      "company": "PayPal",
+      "location": "San Jose, California, United States of America, Chicago, Illinois, United States of America, Omaha, Nebraska, United States of America, Scottsdale, Arizona, United States of America, Austin, Texas, United States of America",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Software Engineer Intern - Summer 2027",
+      "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern---Summer-2027_R0138586"
     },
     "ramp::a13ae586-f4cb-4385-8822-c42b9b54ed74": {
       "attempted_at": "2026-09-24T00:47:26+00:00",
@@ -25777,7 +25786,7 @@
     "simplify:framatome::simplify-52c353b2-9e1b-4622-a0f1-f610019d21b7": {
       "company": "Framatome",
       "first_seen": "2026-09-09T10:46:50+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T08:01:23+00:00",
       "posted_at": "1788203450",
       "title": "Computer Science Engineer 1 - Richland",
       "url": "https://careers-framatome.icims.com/jobs/3321/job?mobile=true&needsRedirect=false"
@@ -25793,7 +25802,7 @@
     "simplify:framatome::simplify-93e93c82-d79b-44da-8a50-45bd23354fee": {
       "company": "Framatome",
       "first_seen": "2026-09-03T08:16:51+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T08:01:23+00:00",
       "posted_at": "1788203448",
       "title": "Computer Science Engineer 1 - Early Careers",
       "url": "https://careers-framatome.icims.com/jobs/3320/job?mobile=true&needsRedirect=false"
@@ -31529,7 +31538,7 @@
     "simplify:integration innovation (i3)::simplify-b30acf92-00fa-4d87-ac6e-44032cdc640b": {
       "company": "Integration Innovation (i3)",
       "first_seen": "2026-08-21T20:09:42+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T08:01:23+00:00",
       "posted_at": "1787341520",
       "title": "Software Engineer",
       "url": "https://careers-i3-corps.icims.com/jobs/5218/job?mobile=true&needsRedirect=false"
@@ -31931,7 +31940,7 @@
     "simplify:intercontinental exchange::simplify-b3015cae-3273-4a68-adfd-587d522af9c7": {
       "company": "Intercontinental Exchange",
       "first_seen": "2026-10-04T12:02:51+00:00",
-      "last_seen": "2026-10-08T00:00:13+00:00",
+      "last_seen": "2026-11-05T08:01:23+00:00",
       "location": "Atlanta, GA",
       "posted_at": "1785881639",
       "source": "simplify",
@@ -37473,7 +37482,7 @@
     "simplify:markon::simplify-94256481-4cab-4687-83aa-f17d4ffeff44": {
       "company": "Markon",
       "first_seen": "2026-07-14T19:49:46+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T08:01:23+00:00",
       "posted_at": "1780956310",
       "title": "Software Engineer Level 0",
       "url": "https://careers-markon.icims.com/jobs/8403/job?mobile=true&needsRedirect=false"
@@ -56056,6 +56065,16 @@
       "posted_at": "1788277160",
       "title": "Technology Co-op - Drexel University",
       "url": "https://careers-sig.icims.com/jobs/11422/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:susquehanna international group::simplify-c94d843b-6831-4906-8af6-9b2f52f8c06f": {
+      "company": "Susquehanna International Group",
+      "first_seen": "2026-11-05T08:01:24+00:00",
+      "last_seen": "2026-11-05T08:01:24+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1793865154",
+      "source": "simplify",
+      "title": "Software Developer - Core Order Management System - C++",
+      "url": "https://careers-sig.icims.com/jobs/11068/job?mobile=true&needsRedirect=false"
     },
     "simplify:swarm aero::simplify-4c49bc10-cd1b-499e-8eac-48cf3b26e69c": {
       "company": "Swarm Aero",
@@ -78726,5 +78745,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T07:32:27+00:00"
+  "updated_at": "2026-11-05T08:01:30+00:00"
 }
