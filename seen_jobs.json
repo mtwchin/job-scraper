@@ -1,5 +1,5 @@
 {
-  "count": 7874,
+  "count": 7876,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -40024,6 +40024,26 @@
       "title": "Software Engineer Intern",
       "url": "https://paypal.eightfold.ai/careers/job/274922260559"
     },
+    "simplify:paypal::simplify-9e2a3eab-c04d-4789-a788-f263deafe9ab": {
+      "company": "PayPal",
+      "first_seen": "2026-11-05T03:02:18+00:00",
+      "last_seen": "2026-11-05T03:02:18+00:00",
+      "location": "Austin, TX, San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale, AZ",
+      "posted_at": "1793845831",
+      "source": "simplify",
+      "title": "Mobile Engineer Intern",
+      "url": "https://paypal.eightfold.ai/careers/job/274922982818"
+    },
+    "simplify:paypal::simplify-ce81bab2-f54c-4774-92ac-b82f7b0c9eb3": {
+      "company": "PayPal",
+      "first_seen": "2026-11-05T03:02:18+00:00",
+      "last_seen": "2026-11-05T03:02:18+00:00",
+      "location": "Austin, TX, San Jose, CA, Chicago, IL, Omaha, NE, Scottsdale, AZ",
+      "posted_at": "1793845831",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://paypal.eightfold.ai/careers/job/274922982814"
+    },
     "simplify:pdf solutions::simplify-c5a14112-6491-4ae3-a678-23d36f21c962": {
       "company": "PDF Solutions",
       "first_seen": "2026-08-01T18:13:25+00:00",
@@ -66841,5 +66861,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T03:02:02+00:00"
+  "updated_at": "2026-11-05T03:03:04+00:00"
 }
