@@ -1,5 +1,5 @@
 {
-  "count": 9009,
+  "count": 9010,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -72044,6 +72044,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/139"
     },
+    "vanshb03:keenfinity::vanshb03-ee7364dd-e9d5-4519-bb85-b4bae8352efa": {
+      "company": "Keenfinity",
+      "first_seen": "2026-11-05T19:45:10+00:00",
+      "last_seen": "2026-11-05T19:45:10+00:00",
+      "location": "Fairport, NY",
+      "posted_at": "1793807268",
+      "source": "vanshb03",
+      "title": "Associate DevOps Software Engineer",
+      "url": "https://go.vansh.nyc/1j7"
+    },
     "vanshb03:kensington::vanshb03-8fa82bfb-2992-457f-9e21-8ae49c329823": {
       "company": "Kensington",
       "first_seen": "2026-10-25T08:27:16+00:00",
@@ -79511,5 +79521,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T19:12:25+00:00"
+  "updated_at": "2026-11-05T19:45:28+00:00"
 }
