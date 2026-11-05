@@ -1,5 +1,5 @@
 {
-  "count": 8981,
+  "count": 8982,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -67544,6 +67544,16 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002"
     },
+    "vanshb03:arango::vanshb03-70d4b02d-9805-4789-b5d0-6e134cb4f908": {
+      "company": "Arango",
+      "first_seen": "2026-11-05T11:17:23+00:00",
+      "last_seen": "2026-11-05T11:17:23+00:00",
+      "location": "Remote, United States",
+      "posted_at": "1793876792",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Cookbooks",
+      "url": "https://go.vansh.nyc/1it"
+    },
     "vanshb03:arcesium::vanshb03-668ecc1e-d83c-4d0a-b218-c7900a750b5c": {
       "company": "Arcesium",
       "first_seen": "2026-10-23T16:49:10+00:00",
@@ -79193,5 +79203,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T11:03:03+00:00"
+  "updated_at": "2026-11-05T11:18:06+00:00"
 }
