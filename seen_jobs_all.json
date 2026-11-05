@@ -1,5 +1,5 @@
 {
-  "count": 8932,
+  "count": 8933,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -74554,6 +74554,16 @@
       "title": "AI Software Engineering Co-op",
       "url": "https://go.vansh.nyc/Jz"
     },
+    "vanshb03:rolls-royce::vanshb03-a57d0baa-4c55-46e8-ac3c-507b149ecef6": {
+      "company": "Rolls-Royce",
+      "first_seen": "2026-11-05T03:14:56+00:00",
+      "last_seen": "2026-11-05T03:14:56+00:00",
+      "location": "Indianapolis, IN",
+      "posted_at": "1793750400",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Integrated Control Systems Engineer - Software",
+      "url": "https://go.vansh.nyc/1hE"
+    },
     "vanshb03:roserocket::vanshb03-d05a9106-8bf1-45b0-8b79-e23a39de7837": {
       "company": "Roserocket",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -78685,5 +78695,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T03:03:11+00:00"
+  "updated_at": "2026-11-05T03:15:13+00:00"
 }
