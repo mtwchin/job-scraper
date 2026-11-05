@@ -1,5 +1,5 @@
 {
-  "count": 9011,
+  "count": 9012,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -79038,6 +79038,16 @@
       "title": "IT Software Engineer Intern",
       "url": "https://go.vansh.nyc/13x"
     },
+    "vanshb03:western alliance bancorporation::vanshb03-5b65fe26-8e0d-43aa-903e-588326b48868": {
+      "company": "Western Alliance Bancorporation",
+      "first_seen": "2026-11-05T21:40:11+00:00",
+      "last_seen": "2026-11-05T21:40:11+00:00",
+      "location": "Columbus, OH",
+      "posted_at": "1793914575",
+      "source": "vanshb03",
+      "title": "Platform Engineering Intern",
+      "url": "https://go.vansh.nyc/1jh"
+    },
     "vanshb03:western magnetics::vanshb03-d260c3c7-8b86-44e7-8d9e-1b58f3c8a645": {
       "company": "Western Magnetics",
       "duplicate_of": "simplify:western magnetics::simplify-0afedb15-13bb-4e63-b756-ae5112a89823",
@@ -79531,5 +79541,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T20:11:31+00:00"
+  "updated_at": "2026-11-05T21:40:35+00:00"
 }
