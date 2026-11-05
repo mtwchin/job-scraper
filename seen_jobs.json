@@ -1,5 +1,5 @@
 {
-  "count": 7880,
+  "count": 7881,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -59573,6 +59573,16 @@
       "title": "Software Development Engineer Intern, Amazon Leo",
       "url": "https://go.vansh.nyc/hR"
     },
+    "vanshb03:amazon::vanshb03-d546770e-dd2e-464d-9989-c0e2490d38f6": {
+      "company": "Amazon",
+      "first_seen": "2026-11-05T17:44:44+00:00",
+      "last_seen": "2026-11-05T17:44:44+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1793900437",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer, Amazon Leo",
+      "url": "https://go.vansh.nyc/1iP"
+    },
     "vanshb03:amazon::vanshb03-e1e1bbdd-3b2b-4b29-8d40-ecaee33c804e": {
       "company": "Amazon",
       "first_seen": "2026-10-25T08:27:05+00:00",
@@ -66928,5 +66938,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T17:42:08+00:00"
+  "updated_at": "2026-11-05T17:45:10+00:00"
 }
