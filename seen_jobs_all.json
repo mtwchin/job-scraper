@@ -1,5 +1,5 @@
 {
-  "count": 8997,
+  "count": 9000,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -33092,6 +33092,16 @@
       "title": "AI Center of Excellence Delivery Team Intern",
       "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Center-of-Excellence--COE--Delivery-Team-Intern_JR105176"
     },
+    "simplify:jm family::simplify-972e59fe-5d7f-418d-8180-1595a1b7c989": {
+      "company": "JM Family",
+      "first_seen": "2026-11-05T16:02:45+00:00",
+      "last_seen": "2026-11-05T16:02:45+00:00",
+      "location": "Deerfield Beach, FL",
+      "posted_at": "1793836800",
+      "source": "simplify",
+      "title": "Software Analyst Intern",
+      "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187"
+    },
     "simplify:jm family::simplify-f82632d8-09d1-4568-bbaf-aa4a5ecb312a": {
       "company": "JM Family",
       "first_seen": "2026-10-29T14:33:04+00:00",
@@ -50216,6 +50226,26 @@
       "posted_at": "1788480000",
       "title": "Developer & IT Specialist Co-op - Global Asset Management",
       "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Global-Asset-Management--Winter-Developer---IT-Specialist--4-8-months-_R-0000186669"
+    },
+    "simplify:rr donnelley::simplify-b7848320-5fb7-4a6b-9c06-3f71896d60b3": {
+      "company": "RR Donnelley",
+      "first_seen": "2026-11-05T16:02:45+00:00",
+      "last_seen": "2026-11-05T16:02:45+00:00",
+      "location": "Minneapolis, MN",
+      "posted_at": "1793889019",
+      "source": "simplify",
+      "title": "IT Software Integration & Automation Intern",
+      "url": "https://jobs.smartrecruiters.com/RRDonnelley/744000159883479"
+    },
+    "simplify:rr donnelley::simplify-bfe22603-3bca-4307-b600-b967e2c833a8": {
+      "company": "RR Donnelley",
+      "first_seen": "2026-11-05T16:02:45+00:00",
+      "last_seen": "2026-11-05T16:02:45+00:00",
+      "location": "Warrenville, IL",
+      "posted_at": "1793889074",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://jobs.smartrecruiters.com/RRDonnelley/744000159883639"
     },
     "simplify:rrs group::simplify-d750fe7b-cab1-448d-87f7-d9cc9f2ad969": {
       "company": "RRS Group",
@@ -79355,5 +79385,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T16:02:07+00:00"
+  "updated_at": "2026-11-05T16:04:12+00:00"
 }
