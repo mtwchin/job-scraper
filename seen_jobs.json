@@ -1,5 +1,5 @@
 {
-  "count": 7882,
+  "count": 7884,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -66974,6 +66974,26 @@
       "source": "",
       "title": "Software Engineer - Intern",
       "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8180455"
+    },
+    "zoox::88f6cb68-1534-44af-80db-10e43c203520": {
+      "company": "Zoox",
+      "first_seen": "2026-11-05T23:41:46+00:00",
+      "last_seen": "2026-11-05T23:41:46+00:00",
+      "location": "Foster City, CA",
+      "posted_at": "1793400897859",
+      "source": "",
+      "title": "Software Engineer Intern, Software Platforms & Product [Summer 2027]",
+      "url": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520"
+    },
+    "zoox::8b32157b-ab44-4078-85ea-1d8d7b747a20": {
+      "company": "Zoox",
+      "first_seen": "2026-11-05T23:41:46+00:00",
+      "last_seen": "2026-11-05T23:41:46+00:00",
+      "location": "Foster City, CA",
+      "posted_at": "1793401565895",
+      "source": "",
+      "title": "Software Engineer Intern, Software Systems [Summer 2027]",
+      "url": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20"
     }
   },
   "prune_cutoff": "",
@@ -66984,5 +67004,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T23:40:31+00:00"
+  "updated_at": "2026-11-05T23:42:33+00:00"
 }
