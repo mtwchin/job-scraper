@@ -1,5 +1,5 @@
 {
-  "count": 7877,
+  "count": 7878,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -25305,6 +25305,16 @@
       "posted_at": "1787582163",
       "title": "Software Developer Intern",
       "url": "https://www.google.com/about/careers/applications/jobs/results/112518690523488966"
+    },
+    "simplify:google::simplify-fc220677-a2f4-4242-869b-bc904b43547f": {
+      "company": "Google",
+      "first_seen": "2026-11-05T11:31:54+00:00",
+      "last_seen": "2026-11-05T11:31:54+00:00",
+      "location": "Montreal, QC, Canada, Waterloo, ON, Canada",
+      "posted_at": "1793616986",
+      "source": "simplify",
+      "title": "Software Developer 2 \u2013 Early Career",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/93868335938052806"
     },
     "simplify:gordon food service::simplify-058f883b-7a38-49f1-8ad9-45811313157b": {
       "company": "Gordon Food Service",
@@ -66880,5 +66890,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T11:20:35+00:00"
+  "updated_at": "2026-11-05T11:32:38+00:00"
 }
