@@ -1,5 +1,5 @@
 {
-  "count": 8937,
+  "count": 8938,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -69664,6 +69664,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/10X"
     },
+    "vanshb03:draftkings::vanshb03-775b97fa-d695-4a41-a41e-b818ad26be85": {
+      "company": "DraftKings",
+      "first_seen": "2026-11-05T08:17:22+00:00",
+      "last_seen": "2026-11-05T08:17:22+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1793866217",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1hI"
+    },
     "vanshb03:drivetime::vanshb03-ce70e6ec-706b-4a30-84e6-66580ed00df8": {
       "company": "DriveTime",
       "first_seen": "2026-11-03T06:53:59+00:00",
@@ -78745,5 +78755,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T08:02:33+00:00"
+  "updated_at": "2026-11-05T08:17:36+00:00"
 }
