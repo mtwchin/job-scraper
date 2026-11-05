@@ -1,5 +1,5 @@
 {
-  "count": 7873,
+  "count": 7874,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -16307,6 +16307,18 @@
       "posted_at": "1785363893",
       "title": "Software Engineer Backend/Platform Systems 1",
       "url": "https://careers.cisco.com/global/en/job/2000046"
+    },
+    "simplify:cisco::simplify-d6bc4342-27bd-4e74-b6eb-7f98e7706f2e": {
+      "company": "Cisco",
+      "duplicate_of": "simplify:cisco::simplify-07e1f6dd-a46e-489d-b04c-f42fe868abfc",
+      "first_seen": "2026-11-05T03:01:58+00:00",
+      "last_seen": "2026-11-05T03:01:58+00:00",
+      "location": "Houston, TX, Research Triangle Park, Durham, NC, Knoxville, TN, Nashville, TN, Austin, TX, Tampa, FL, Miami, FL, Irvine, CA, Colorado Springs, CO, Dallas, TX, Philadelphia, PA, Plano, TX, Boca Raton, FL, Chicago, IL, Boise, ID, Carlsbad, CA, Phoenix, AZ, Denver, CO, Atlanta, GA, San Diego, CA, Coral Gables, FL, Charleston, WV, Costa Mesa, CA",
+      "posted_at": "1793750400",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Full Stack / Backend 1",
+      "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Austin-Texas-US/Software-Engineer-Full-Stack---Backend-I--Full-Time----United-States_2028784"
     },
     "simplify:cisco::simplify-d8fd75f8-9639-4a1e-a974-f68d2c24cad7": {
       "company": "Cisco",
@@ -66829,5 +66841,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T02:32:59+00:00"
+  "updated_at": "2026-11-05T03:02:02+00:00"
 }
