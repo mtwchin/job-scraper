@@ -1,5 +1,5 @@
 {
-  "count": 8986,
+  "count": 8991,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -13247,6 +13247,16 @@
       "posted_at": "1781734240",
       "title": "Software Engineer Intern",
       "url": "https://careers-beyondsoft.icims.com/jobs/10912/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:bibliocommons::simplify-e8e696f2-23e9-4021-95e0-fe24d2a40c66": {
+      "company": "BiblioCommons",
+      "first_seen": "2026-11-05T15:32:45+00:00",
+      "last_seen": "2026-11-05T15:32:45+00:00",
+      "location": "Ontario, Canada",
+      "posted_at": "1793836800",
+      "source": "simplify",
+      "title": "Junior Full-Stack Engineer Intern",
+      "url": "https://volarisgroup.wd3.myworkdayjobs.com/BiblioCommons/job/Canada---Ontario/PEY---Junior-Fullstack-Engineer_R72454"
     },
     "simplify:bild ai::simplify-8f6e9cb7-8cc0-439e-96df-b4749d49ba45": {
       "company": "Bild AI",
@@ -29772,6 +29782,16 @@
       "title": "Forward Deployed Software Engineer Intern",
       "url": "https://healthpeak.applytojob.com/apply/ss4v1Qi95q/Forward-Deployed-Software-Engineer-Internship"
     },
+    "simplify:hearst::simplify-0b0847e3-8e6f-4274-951d-42862523b92d": {
+      "company": "Hearst",
+      "first_seen": "2026-11-05T15:32:45+00:00",
+      "last_seen": "2026-11-05T15:32:45+00:00",
+      "location": "Carmel, IN",
+      "posted_at": "1793886733",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/hearst/jobs/4466334009"
+    },
     "simplify:hearst::simplify-0f01813c-18e9-48c2-9e47-4afaf74c1be9": {
       "company": "Hearst",
       "first_seen": "2026-09-04T17:44:00+00:00",
@@ -36764,6 +36784,26 @@
       "title": "Intern 1 - Engineering",
       "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Dole/Intern-I--engineering_JR-112116"
     },
+    "simplify:little caesars enterprises::simplify-b7dfb785-5310-43d6-a62f-4ed0b0a01714": {
+      "company": "Little Caesars Enterprises",
+      "first_seen": "2026-11-05T15:32:45+00:00",
+      "last_seen": "2026-11-05T15:32:45+00:00",
+      "location": "Detroit, MI",
+      "posted_at": "1793836800",
+      "source": "simplify",
+      "title": "Developer IT Intern",
+      "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--Developer-IT_R9677"
+    },
+    "simplify:little caesars enterprises::simplify-cfc01a26-bc31-4944-802c-370b51b0e573": {
+      "company": "Little Caesars Enterprises",
+      "first_seen": "2026-11-05T15:32:45+00:00",
+      "last_seen": "2026-11-05T15:32:45+00:00",
+      "location": "Detroit, MI",
+      "posted_at": "1793836800",
+      "source": "simplify",
+      "title": "AI IT Intern",
+      "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Intern--AI-IT_R9675"
+    },
     "simplify:live oak bank::simplify-32923ef5-9813-4720-ba0f-736ed5febb06": {
       "company": "Live Oak Bank",
       "first_seen": "2026-09-16T09:46:36+00:00",
@@ -37723,6 +37763,16 @@
       "posted_at": "1783435099",
       "title": "Junior Support Engineer",
       "url": "https://mark43.com/list-job/8048459?gh_jid=8048459"
+    },
+    "simplify:markel group::simplify-d1a00b5b-0da8-4b04-9e89-3f259a701ce6": {
+      "company": "Markel Group",
+      "first_seen": "2026-11-05T15:32:45+00:00",
+      "last_seen": "2026-11-05T15:32:45+00:00",
+      "location": "Woodland Hills, LA",
+      "posted_at": "1793836800",
+      "source": "simplify",
+      "title": "AI Automation Intern",
+      "url": "https://markelcorp.wd5.myworkdayjobs.com/GlobalCareers/job/Woodland-Hills-CA/Markel-AI-Automation-Intern_R0024277"
     },
     "simplify:markem-imaje::simplify-c3281007-1ea1-4d32-80e2-62529613957b": {
       "company": "Markem-Imaje",
@@ -79243,5 +79293,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T14:47:57+00:00"
+  "updated_at": "2026-11-05T15:33:01+00:00"
 }
