@@ -1,5 +1,5 @@
 {
-  "count": 8948,
+  "count": 8966,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -19691,6 +19691,26 @@
       "title": "Information Technology Software Development Intern",
       "url": "https://jobs.constellationenergy.com/jobs/138708?icims=1"
     },
+    "simplify:constellation energy::simplify-8d5a68f3-3c90-4a0f-9579-ef3d5483e360": {
+      "company": "Constellation Energy",
+      "first_seen": "2026-11-05T09:02:24+00:00",
+      "last_seen": "2026-11-05T09:02:24+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1792588980",
+      "source": "simplify",
+      "title": "IT Development Intern",
+      "url": "https://jobs.constellationenergy.com/jobs/140300?icims=1&lang=en-us"
+    },
+    "simplify:constellation energy::simplify-b1426836-12a4-4ad5-8a7f-bea74b0446eb": {
+      "company": "Constellation Energy",
+      "first_seen": "2026-11-05T09:02:24+00:00",
+      "last_seen": "2026-11-05T09:02:24+00:00",
+      "location": "Houston, TX",
+      "posted_at": "1793820420",
+      "source": "simplify",
+      "title": "Renewable Energy Intern",
+      "url": "https://jobs.constellationenergy.com/jobs/141851?icims=1&lang=en-us"
+    },
     "simplify:constellation energy::simplify-d26b671a-bd46-4c7b-9156-0a29cfe9579b": {
       "company": "Constellation Energy",
       "first_seen": "2026-08-27T23:56:31+00:00",
@@ -24132,6 +24152,16 @@
       "title": "IT Application Engineering Intern",
       "url": "https://erickson.wd108.myworkdayjobs.com/External/job/Baltimore-MD/College-Intern-Corporate_R0103863-1"
     },
+    "simplify:ermco distribution transformers::simplify-f3932003-830c-4658-a973-5bdf094a4196": {
+      "company": "ERMCO Distribution Transformers",
+      "first_seen": "2026-11-05T09:02:25+00:00",
+      "last_seen": "2026-11-05T09:02:25+00:00",
+      "location": "Dyersburg, TN",
+      "posted_at": "1792368000",
+      "source": "simplify",
+      "title": "Software Design Engineer 2",
+      "url": "https://careers-ermcoeci.icims.com/jobs/6987/job?mobile=true&needsRedirect=false"
+    },
     "simplify:ernst & young::simplify-5225e58c-5696-4982-94a4-d20dfef3c850": {
       "company": "Ernst & Young",
       "first_seen": "2026-10-05T14:32:26+00:00",
@@ -26168,6 +26198,16 @@
       "title": "Software Engineer 1 - Aviation Web Development",
       "url": "https://careers.garmin.com/jobs/17742?icims=1"
     },
+    "simplify:garmin::simplify-d5d8614a-7ce0-4912-94fe-5f1e220860d4": {
+      "company": "Garmin",
+      "first_seen": "2026-11-05T09:02:25+00:00",
+      "last_seen": "2026-11-05T09:02:25+00:00",
+      "location": "Olathe, KS",
+      "posted_at": "1792545900",
+      "source": "simplify",
+      "title": "Software Engineer 1 - C++ MEC Maptech",
+      "url": "https://careers.garmin.com/jobs/20439?icims=1"
+    },
     "simplify:garmin::simplify-d9e8b718-9447-4870-8009-8d4514f5eef8": {
       "company": "Garmin",
       "first_seen": "2026-08-01T23:24:49+00:00",
@@ -27123,6 +27163,16 @@
       "title": "Entry Level Software Engineer",
       "url": "https://careers-gdms.icims.com/jobs/74417/job?mobile=true&needsRedirect=false"
     },
+    "simplify:general dynamics mission systems::simplify-4fca3ed2-50bc-46e1-93b8-ca343cc300c8": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-11-05T09:02:24+00:00",
+      "last_seen": "2026-11-05T09:02:24+00:00",
+      "location": "Manassas, VA",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://careers-gdms.icims.com/jobs/75277/job?mobile=true&needsRedirect=false"
+    },
     "simplify:general dynamics mission systems::simplify-580b0f4c-0ea5-4af9-be1a-a9894f85c5aa": {
       "company": "General Dynamics Mission Systems",
       "first_seen": "2026-08-24T22:49:44+00:00",
@@ -27180,12 +27230,36 @@
       "title": "Entry Level Software Engineer",
       "url": "https://careers-gdms.icims.com/jobs/72592/job?mobile=true&needsRedirect=false"
     },
+    "simplify:general dynamics mission systems::simplify-74afe08b-36d0-4e0c-9db1-afd66f4a22da": {
+      "company": "General Dynamics Mission Systems",
+      "duplicate_of": "simplify:general dynamics mission systems::simplify-e6562a35-85d8-44a6-8bd1-d9b45bd1659e",
+      "first_seen": "2026-11-05T09:02:23+00:00",
+      "last_seen": "2026-11-05T09:02:23+00:00",
+      "location": "Port Orchard, WA",
+      "posted_at": "1793750400",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/78349/job?mobile=true&needsRedirect=false"
+    },
     "simplify:general dynamics mission systems::simplify-78ab6c83-7d91-460e-acf5-e924894eb1cc": {
       "company": "General Dynamics Mission Systems",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1778710070",
       "title": "Entry Level Infrastructure Software Engineer",
       "url": "https://careers-gdms.icims.com/jobs/72580/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:general dynamics mission systems::simplify-79652fc8-a893-4523-a5ee-774e276df266": {
+      "company": "General Dynamics Mission Systems",
+      "duplicate_of": "simplify:general dynamics mission systems::simplify-8e60e7d2-f6a1-47dd-af82-10b2144922f8",
+      "first_seen": "2026-11-05T09:02:23+00:00",
+      "last_seen": "2026-11-05T09:02:23+00:00",
+      "location": "Dedham, MA",
+      "posted_at": "1793232000",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/75965/job?mobile=true&needsRedirect=false"
     },
     "simplify:general dynamics mission systems::simplify-7f9bed81-910c-451c-afca-90b42ff6ac4e": {
       "company": "General Dynamics Mission Systems",
@@ -27229,6 +27303,16 @@
       "posted_at": "1785363017",
       "title": "Systems Engineer - FCS Auxiliary and Training Systems",
       "url": "https://careers-gdms.icims.com/jobs/73831/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:general dynamics mission systems::simplify-8e60e7d2-f6a1-47dd-af82-10b2144922f8": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-11-05T09:02:24+00:00",
+      "last_seen": "2026-11-05T09:02:24+00:00",
+      "location": "Pittsfield, MA; Dedham, MA",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/75533/job?mobile=true&needsRedirect=false"
     },
     "simplify:general dynamics mission systems::simplify-9e455d5a-c157-4189-b1f4-40f1219f2987": {
       "company": "General Dynamics Mission Systems",
@@ -27295,6 +27379,16 @@
       "title": "Entry Level Software Engineer",
       "url": "https://careers-gdms.icims.com/jobs/73140/job?mobile=true&needsRedirect=false"
     },
+    "simplify:general dynamics mission systems::simplify-bf826f59-9208-4e67-8ba0-5e800103a96e": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-11-05T09:02:24+00:00",
+      "last_seen": "2026-11-05T09:02:24+00:00",
+      "location": "United States",
+      "posted_at": "1793577600",
+      "source": "simplify",
+      "title": "Engineer Intern - Multiple Teams",
+      "url": "https://careers-gdms.icims.com/jobs/76785/job?mobile=true&needsRedirect=false"
+    },
     "simplify:general dynamics mission systems::simplify-c3a3c254-2d83-4f25-8ee6-609bfa5a7c34": {
       "company": "General Dynamics Mission Systems",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -27310,6 +27404,36 @@
       "posted_at": "1788906152",
       "title": "Systems Engineer Intern",
       "url": "https://careers-gdms.icims.com/jobs/74776/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:general dynamics mission systems::simplify-cda65e42-a8e0-4a82-ac33-408b28ba7e5d": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-11-05T09:02:24+00:00",
+      "last_seen": "2026-11-05T09:02:24+00:00",
+      "location": "United States",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "Entry Level Engineer - Multiple Teams",
+      "url": "https://careers-gdms.icims.com/jobs/75635/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:general dynamics mission systems::simplify-d5463abf-91c7-48aa-8938-693c89cd6007": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-11-05T09:02:24+00:00",
+      "last_seen": "2026-11-05T09:02:24+00:00",
+      "location": "Scottsdale, AZ",
+      "posted_at": "1791936000",
+      "source": "simplify",
+      "title": "Software Engineer for Crypto & Cross Domain Solutions Intern",
+      "url": "https://careers-gdms.icims.com/jobs/75477/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:general dynamics mission systems::simplify-df205fc7-2157-4a1a-9eca-2a3688e11b2a": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-11-05T09:02:24+00:00",
+      "last_seen": "2026-11-05T09:02:24+00:00",
+      "location": "Manassas, VA",
+      "posted_at": "1792454400",
+      "source": "simplify",
+      "title": "Entry Level Software Engineer",
+      "url": "https://careers-gdms.icims.com/jobs/75608/job?mobile=true&needsRedirect=false"
     },
     "simplify:general dynamics mission systems::simplify-e149e65e-265d-4273-bc2c-9fe3740f6c41": {
       "company": "General Dynamics Mission Systems",
@@ -27349,6 +27473,18 @@
       "title": "Software Engineer Intern",
       "url": "https://careers-gdms.icims.com/jobs/75269/job?mobile=true&needsRedirect=false"
     },
+    "simplify:general dynamics mission systems::simplify-f10156c9-01d8-45d6-a26f-ec7bfc7a6272": {
+      "company": "General Dynamics Mission Systems",
+      "duplicate_of": "simplify:general dynamics mission systems::simplify-e6562a35-85d8-44a6-8bd1-d9b45bd1659e",
+      "first_seen": "2026-11-05T09:02:23+00:00",
+      "last_seen": "2026-11-05T09:02:23+00:00",
+      "location": "Taunton, MA",
+      "posted_at": "1793664000",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://careers-gdms.icims.com/jobs/75755/job?mobile=true&needsRedirect=false"
+    },
     "simplify:general dynamics mission systems::simplify-f19b1b6b-457a-436b-9a2a-d6488e452bbd": {
       "company": "General Dynamics Mission Systems",
       "first_seen": "2026-09-10T00:38:47+00:00",
@@ -27356,6 +27492,16 @@
       "posted_at": "1788993330",
       "title": "Software Engineer Entry Level",
       "url": "https://careers-gdms.icims.com/jobs/74828/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:general dynamics mission systems::simplify-f1dff2f4-3103-4888-80cc-ae4b5a2a52d3": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-11-05T09:02:24+00:00",
+      "last_seen": "2026-11-05T09:02:24+00:00",
+      "location": "United States",
+      "posted_at": "1793577600",
+      "source": "simplify",
+      "title": "Entry Level Engineer",
+      "url": "https://careers-gdms.icims.com/jobs/76784/job?mobile=true&needsRedirect=false"
     },
     "simplify:general dynamics mission systems::simplify-f3f9b259-5f4f-4f09-af62-b8d45604be0d": {
       "company": "General Dynamics Mission Systems",
@@ -30883,6 +31029,16 @@
       "source": "simplify",
       "title": "Software Development Engineer 2 New Grad - Life Hub - Super App",
       "url": "https://job-boards.greenhouse.io/idme/jobs/8011095003"
+    },
+    "simplify:ideagen::simplify-7eaf7d6e-9621-4a6a-a1e0-f70051c0b66a": {
+      "company": "Ideagen",
+      "first_seen": "2026-11-05T09:02:25+00:00",
+      "last_seen": "2026-11-05T09:02:25+00:00",
+      "location": "Nottingham, UK",
+      "posted_at": "1792022400",
+      "source": "simplify",
+      "title": "Graduate AI Software Engineer",
+      "url": "https://careers-ideagenuk.icims.com/jobs/3239/job?mobile=true&needsRedirect=false"
     },
     "simplify:idealforce::simplify-ebdbdcd8-ef03-440b-a67f-e1930d725d62": {
       "company": "Idealforce",
@@ -44710,6 +44866,16 @@
       "title": "Software Engineer Intern",
       "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Intern---Software-Engineer_JR-011590"
     },
+    "simplify:panasonic holdings::simplify-3193616f-905e-48d7-b889-aeda810223f3": {
+      "company": "Panasonic Holdings",
+      "first_seen": "2026-11-05T09:02:25+00:00",
+      "last_seen": "2026-11-05T09:02:25+00:00",
+      "location": "Irvine, CA",
+      "posted_at": "1792436160",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://careers.na.panasonic.com/jobs/51755?icims=1&lang=en-us"
+    },
     "simplify:panasonic holdings::simplify-c1ffdb1d-0434-4753-afe0-ba4de1249538": {
       "company": "Panasonic Holdings",
       "first_seen": "2026-09-01T00:09:06+00:00",
@@ -48254,6 +48420,16 @@
       "source": "simplify",
       "title": "Associate Android Developer",
       "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1"
+    },
+    "simplify:resonetics::simplify-b2ae7df2-19b2-4b1f-b53d-3f87939f8ed2": {
+      "company": "Resonetics",
+      "first_seen": "2026-11-05T09:02:24+00:00",
+      "last_seen": "2026-11-05T09:02:24+00:00",
+      "location": "Nashua, NH",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "HR AI Automation Co-op",
+      "url": "https://careers-resonetics.icims.com/jobs/5550/job?mobile=true&needsRedirect=false"
     },
     "simplify:responsiveads::simplify-95179997-e004-4aab-84b7-07ebc63d814a": {
       "company": "ResponsiveAds",
@@ -64984,6 +65160,16 @@
       "title": "Junior Software Engineer",
       "url": "https://wonderbotz.applytojob.com/apply/RrI9QanYDY/Junior-Software-Engineer"
     },
+    "simplify:wonderbrands::simplify-e629e171-63eb-4cd3-aa5e-3329fff456bf": {
+      "company": "Wonderbrands",
+      "first_seen": "2026-11-05T09:02:25+00:00",
+      "last_seen": "2026-11-05T09:02:25+00:00",
+      "location": "Etobicoke, ON, Canada",
+      "posted_at": "1792368000",
+      "source": "simplify",
+      "title": "Fullstack Software Developer New Grad",
+      "url": "https://careersen-wonderbrands.icims.com/jobs/27702/job?mobile=true&needsRedirect=false"
+    },
     "simplify:wonderschool::simplify-e5fee829-850f-4ae1-9f1f-eda2ab36fdbe": {
       "company": "Wonderschool",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -78857,5 +79043,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T08:32:42+00:00"
+  "updated_at": "2026-11-05T09:02:45+00:00"
 }
