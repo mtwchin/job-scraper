@@ -1,5 +1,5 @@
 {
-  "count": 7879,
+  "count": 7880,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1356,6 +1356,16 @@
       "source": "",
       "title": "Software Development Engineer (Embedded Systems) Early Career - 2027 (US)",
       "url": "https://www.amazon.jobs/en/jobs/10595839/software-development-engineer-embedded-systems-early-career-2027-us"
+    },
+    "amazon::10597803": {
+      "company": "Amazon",
+      "first_seen": "2026-11-05T17:16:31+00:00",
+      "last_seen": "2026-11-05T17:16:31+00:00",
+      "location": "Redmond, Washington, USA",
+      "posted_at": "November  5, 2026",
+      "source": "",
+      "title": "Software Development Engineer, Amazon Leo, Early Career - 2027 (US)",
+      "url": "https://www.amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -66909,5 +66919,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T17:05:03+00:00"
+  "updated_at": "2026-11-05T17:17:05+00:00"
 }
