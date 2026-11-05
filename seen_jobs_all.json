@@ -1,5 +1,5 @@
 {
-  "count": 9007,
+  "count": 9009,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1648,6 +1648,15 @@
       "title": "Network Systems Engineer Co-op",
       "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41672"
     },
+    "vanshb03:palantir technologies::vanshb03-15fa9474-f3bf-465f-9aef-20f746c86a5f": {
+      "attempted_at": "2026-11-05T19:11:15+00:00",
+      "company": "Palantir Technologies",
+      "location": "New York, NY",
+      "posted_at": "1793903717",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Sovereign AI Systems",
+      "url": "https://go.vansh.nyc/1j0"
+    },
     "vanshb03:ptc::vanshb03-f950fe69-464d-4071-899c-553816100c9c": {
       "attempted_at": "2026-10-26T11:49:23+00:00",
       "company": "PTC",
@@ -2383,6 +2392,16 @@
       "source": "",
       "title": "Software Development Engineer, Amazon Leo, Early Career - 2027 (US)",
       "url": "https://www.amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us"
+    },
+    "amazon::10598021": {
+      "company": "Amazon",
+      "first_seen": "2026-11-05T18:55:38+00:00",
+      "last_seen": "2026-11-05T18:55:38+00:00",
+      "location": "Redmond, Washington, USA",
+      "posted_at": "November  5, 2026",
+      "source": "",
+      "title": "Software Development Engineer (Embedded systems), Amazon Leo, Early Career - 2027 (US)",
+      "url": "https://www.amazon.jobs/en/jobs/10598021/software-development-engineer-embedded-systems-amazon-leo-early-career-2027-us"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -76128,6 +76147,16 @@
       "title": "Embedded Software Engineering Intern",
       "url": "https://go.vansh.nyc/Lv"
     },
+    "vanshb03:starkey de m\u00e9xico s.a. de c.v.::vanshb03-b874d3e7-6f1f-4e8a-b144-3a2fda8545c7": {
+      "company": "STARKEY DE M\u00c9XICO S.A. DE C.V.",
+      "first_seen": "2026-11-05T19:12:10+00:00",
+      "last_seen": "2026-11-05T19:12:10+00:00",
+      "location": "Eden Prairie, MN",
+      "posted_at": "1793775458",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1j1"
+    },
     "vanshb03:starsling (x25)::vanshb03-571c24f4-2886-41dc-a3df-e41b5c15149a": {
       "company": "StarSling (X25)",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -79482,5 +79511,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T18:52:22+00:00"
+  "updated_at": "2026-11-05T19:12:25+00:00"
 }
