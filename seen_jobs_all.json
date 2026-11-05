@@ -1,5 +1,5 @@
 {
-  "count": 8966,
+  "count": 8967,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -78321,6 +78321,16 @@
       "title": "Software Engineer Intern",
       "url": "https://veteransunited.wd1.myworkdayjobs.com/vuhl/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249"
     },
+    "vanshb03:viasat::vanshb03-3c9db67c-02de-4acd-b098-04c5ba267506": {
+      "company": "ViaSat",
+      "first_seen": "2026-11-05T09:12:22+00:00",
+      "last_seen": "2026-11-05T09:12:22+00:00",
+      "location": "Germantown, MD",
+      "posted_at": "1793639940",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1hU"
+    },
     "vanshb03:viasat::vanshb03-e99e9d74-ff1a-42cd-a01e-32f38fb42973": {
       "company": "Viasat",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -79043,5 +79053,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T09:02:45+00:00"
+  "updated_at": "2026-11-05T09:12:48+00:00"
 }
