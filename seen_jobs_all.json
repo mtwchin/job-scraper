@@ -1,5 +1,5 @@
 {
-  "count": 8901,
+  "count": 8914,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6145,7 +6145,7 @@
     "simplify:abb::simplify-f8e5913f-abf8-4eed-838d-d784c5b7907b": {
       "company": "ABB",
       "first_seen": "2026-10-06T23:07:28+00:00",
-      "last_seen": "2026-11-02T00:01:58+00:00",
+      "last_seen": "2026-11-05T02:31:56+00:00",
       "location": "Cary, NC",
       "posted_at": "1791244800",
       "source": "simplify",
@@ -6155,7 +6155,7 @@
     "simplify:abb::simplify-fc5e6607-4ac0-4e9c-9d0d-429cb1076eee": {
       "company": "ABB",
       "first_seen": "2026-10-06T23:07:28+00:00",
-      "last_seen": "2026-11-02T00:01:58+00:00",
+      "last_seen": "2026-11-05T02:31:56+00:00",
       "location": "Cary, NC",
       "posted_at": "1791244800",
       "source": "simplify",
@@ -12524,6 +12524,16 @@
       "title": "Forward Deployed Engineer Intern",
       "url": "https://job-boards.greenhouse.io/baidu/jobs/8197142"
     },
+    "simplify:baird::simplify-1aa6e8d4-d2f5-4576-aa40-3d90a8e9e209": {
+      "company": "Baird",
+      "first_seen": "2026-11-05T02:31:57+00:00",
+      "last_seen": "2026-11-05T02:31:57+00:00",
+      "location": "Milwaukee, WI",
+      "posted_at": "1793750400",
+      "source": "simplify",
+      "title": "Automation & AI Solutions Intern",
+      "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Automation---AI-Solutions--Milwaukee--WI-_R20261262-1"
+    },
     "simplify:baird::simplify-8bab5dd2-9265-4515-b6ba-b4ca2af51a80": {
       "company": "Baird",
       "first_seen": "2026-09-15T12:33:08+00:00",
@@ -16845,6 +16855,16 @@
       "posted_at": "1786054286",
       "title": "Frontend Developer - Mobile",
       "url": "https://careers.capgemini.com/job/Dallas,-TX-Mobile-Front-end-developer-TX-75201/1424082933/?ats=successfactors"
+    },
+    "simplify:capgemini::simplify-be953ef4-5496-47aa-9016-30832100c6ef": {
+      "company": "Capgemini",
+      "first_seen": "2026-11-05T02:31:58+00:00",
+      "last_seen": "2026-11-05T02:31:58+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1792621179",
+      "source": "simplify",
+      "title": "Software Technician",
+      "url": "https://careers.capgemini.com/job/Atlanta,-GA-Software-Technician-GA-30301/1450033033/?ats=successfactors"
     },
     "simplify:capgemini::simplify-c67013f3-bb2d-4b62-9127-75264ad45442": {
       "company": "Capgemini",
@@ -23357,6 +23377,16 @@
       "title": "Software Engineer",
       "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009560"
     },
+    "simplify:emerson electric::simplify-422f2ed4-b031-4aea-943c-0d4be354f9da": {
+      "company": "Emerson Electric",
+      "first_seen": "2026-11-05T02:31:58+00:00",
+      "last_seen": "2026-11-05T02:31:58+00:00",
+      "location": "Marshalltown, IA",
+      "posted_at": "1793844181",
+      "source": "simplify",
+      "title": "Embedded Software Engineer - AI - Web",
+      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013465"
+    },
     "simplify:emerson electric::simplify-5cb3b2a7-3eeb-40f0-80ff-9f30db32b389": {
       "company": "Emerson Electric",
       "first_seen": "2026-10-04T11:31:09+00:00",
@@ -24506,6 +24536,16 @@
       "posted_at": "1787949664",
       "title": "Application & Support Engineer",
       "url": "https://expleo-jobs-gb-en.icims.com/jobs/55734/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:extra space storage::simplify-12f465cd-dc85-4295-9c43-b98d11567815": {
+      "company": "Extra Space Storage",
+      "first_seen": "2026-11-05T02:31:57+00:00",
+      "last_seen": "2026-11-05T02:31:57+00:00",
+      "location": "Cottonwood Heights, UT",
+      "posted_at": "1793750400",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://extraspace.wd5.myworkdayjobs.com/en-US/ESS_External/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-82836"
     },
     "simplify:f&g::simplify-9cb3446e-3c82-4d8d-b018-8c325d2f08b3": {
       "company": "F&G",
@@ -28650,6 +28690,16 @@
       "title": "Claims Lab Developer Intern",
       "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803"
     },
+    "simplify:great american insurance company::simplify-590f9210-8201-424d-94f2-0cfa75d5c8aa": {
+      "company": "Great American Insurance Company",
+      "first_seen": "2026-11-05T02:31:57+00:00",
+      "last_seen": "2026-11-05T02:31:57+00:00",
+      "location": "Lakeland, FL",
+      "posted_at": "1793750400",
+      "source": "simplify",
+      "title": "Associate Application Analyst & Developer",
+      "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Lakeland-FL-USA/Associate-Application-Analyst---Developer_R9850-1"
+    },
     "simplify:great american insurance company::simplify-93157a2c-d04f-4785-b701-eb8a4beb6fd7": {
       "company": "Great American Insurance Company",
       "first_seen": "2026-10-29T23:02:51+00:00",
@@ -31181,7 +31231,7 @@
     "simplify:insomniac games::simplify-f3b0993a-b1fc-4fa4-a1f4-bc7129fb05f3": {
       "company": "Insomniac Games",
       "first_seen": "2026-10-20T22:36:05+00:00",
-      "last_seen": "2026-11-03T00:02:09+00:00",
+      "last_seen": "2026-11-05T02:31:56+00:00",
       "location": "Burbank, CA",
       "posted_at": "1792534152",
       "source": "simplify",
@@ -33947,6 +33997,16 @@
       "title": "R&D Engineer - Signal Processing & Measurement Software",
       "url": "https://jobs.keysight.com/jobs/52097?lang=en-us&icims=1"
     },
+    "simplify:keysight technologies::simplify-564f421d-34c1-4db7-885e-4f6f0bd915df": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-11-05T02:31:57+00:00",
+      "last_seen": "2026-11-05T02:31:57+00:00",
+      "location": "Santa Rosa, CA",
+      "posted_at": "1793837460",
+      "source": "simplify",
+      "title": "Software Engineer-Semiconductor Technology - C#/.NET",
+      "url": "https://jobs.keysight.com/jobs/56448?icims=1"
+    },
     "simplify:keysight technologies::simplify-5caca2df-6d23-4de9-aaef-86f0ac699741": {
       "company": "Keysight Technologies",
       "first_seen": "2026-10-01T22:35:26+00:00",
@@ -34140,6 +34200,16 @@
       "posted_at": "1780927438",
       "title": "Software Development Intern",
       "url": "https://jobs.keysight.com/jobs/53081?lang=en-us&icims=1"
+    },
+    "simplify:keysight technologies::simplify-d956f4c5-a366-4e0e-800d-bef8b734b9f2": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-11-05T02:31:57+00:00",
+      "last_seen": "2026-11-05T02:31:57+00:00",
+      "location": "Santa Rosa, CA",
+      "posted_at": "1793809680",
+      "source": "simplify",
+      "title": "R&D Software Engineer - Sampling Oscilloscope Applications - DevOps",
+      "url": "https://jobs.keysight.com/jobs/55298?icims=1"
     },
     "simplify:khan academy::simplify-b1048256-c61c-403f-80b6-70efb51fdd0e": {
       "company": "Khan Academy",
@@ -36377,6 +36447,16 @@
       "title": "Software Engineer",
       "url": "https://ats.rippling.com/logicbroker-inc/jobs/3d23113d-d689-407d-af4b-57907b4e2a61"
     },
+    "simplify:logiqal::simplify-18a5b607-afda-4651-8127-866b02920c87": {
+      "company": "Logiqal",
+      "first_seen": "2026-11-05T02:31:57+00:00",
+      "last_seen": "2026-11-05T02:31:57+00:00",
+      "location": "Princeton, NJ",
+      "posted_at": "1793750400",
+      "source": "simplify",
+      "title": "Quantum Error Correction and Architecture Intern",
+      "url": "https://jobs.ashbyhq.com/logiqal/2ee3439f-b612-408e-ad7c-1012362c640f/application?embed=true"
+    },
     "simplify:loram::simplify-1dc45232-46ac-41cb-b13c-4cb7493ff849": {
       "company": "Loram",
       "first_seen": "2026-08-29T02:50:35+00:00",
@@ -38434,6 +38514,16 @@
       "posted_at": "1783900800",
       "title": "Computer Engineer - Corporate",
       "url": "https://mgmresorts.wd5.myworkdayjobs.com/MGMCareers/job/Office---US-Las-Vegas-NV-6770-Edmond-St/Computer-Engineer---Corporate_277232"
+    },
+    "simplify:microchip technology::simplify-00fc60c0-629d-484d-8e4c-0e05df78e4ba": {
+      "company": "Microchip Technology",
+      "first_seen": "2026-11-05T02:31:57+00:00",
+      "last_seen": "2026-11-05T02:31:57+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793750400",
+      "source": "simplify",
+      "title": "Engineer 1 - Software",
+      "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Engineer-I---Software_R4657-26"
     },
     "simplify:microchip technology::simplify-03f41f5f-8abb-4769-af48-22497157aece": {
       "company": "Microchip Technology",
@@ -53487,6 +53577,16 @@
       "title": "Go-To-Market Engineer",
       "url": "https://job-boards.greenhouse.io/sironamedical/jobs/4736127005"
     },
+    "simplify:sk hynix::simplify-4d29b429-149c-462d-bafe-37099c80d154": {
+      "company": "SK hynix",
+      "first_seen": "2026-11-05T02:31:57+00:00",
+      "last_seen": "2026-11-05T02:31:57+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1789081623",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4402959009"
+    },
     "simplify:skillz::simplify-f6b5ff0d-148d-4780-a5c2-ce8d5f7bcec1": {
       "company": "skillz",
       "first_seen": "2026-09-04T05:57:42+00:00",
@@ -56261,6 +56361,16 @@
       "posted_at": "1784787402",
       "title": "Software Engineer Level 1",
       "url": "https://tapengineering.applytojob.com/apply/IK0hxrQaiv/Software-Engineer-Level-1"
+    },
+    "simplify:target::simplify-1c4ef7cb-dded-4a5a-b3ed-6d0089e22d5d": {
+      "company": "Target",
+      "first_seen": "2026-11-05T02:31:57+00:00",
+      "last_seen": "2026-11-05T02:31:57+00:00",
+      "location": "Brooklyn Park, MN",
+      "posted_at": "1793750400",
+      "source": "simplify",
+      "title": "Technology Leadership Program",
+      "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Technology-Leadership-Program---Hybrid--Starting-August-2027-_R0000402314"
     },
     "simplify:target::simplify-8ee871d8-4385-49e0-9f0d-1f89f3ed0863": {
       "company": "Target",
@@ -63581,6 +63691,16 @@
       "title": "Neuroimaging Engineer - Neurology",
       "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Neuroimaging-Engineer---Neurology_JR97672"
     },
+    "simplify:wash u::simplify-ad413e45-a911-4e50-a9f5-67ba03281ad1": {
+      "company": "Wash U",
+      "first_seen": "2026-11-05T02:31:58+00:00",
+      "last_seen": "2026-11-05T02:31:58+00:00",
+      "location": "St. Louis, MO",
+      "posted_at": "1793750400",
+      "source": "simplify",
+      "title": "Neuroimaging Engineer - Psychiatry",
+      "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Neuroimaging-Engineer---Psychiatry_JR98464"
+    },
     "simplify:wash u::simplify-beffea84-5be8-454d-9c18-9bbe7f0a9fc9": {
       "company": "Wash U",
       "first_seen": "2026-10-06T23:03:27+00:00",
@@ -64465,6 +64585,16 @@
       "source": "simplify",
       "title": "Graduate Software Engineer",
       "url": "https://jobs.smartrecruiters.com/Wise/744000151030889"
+    },
+    "simplify:wolters kluwer::simplify-4e77da7c-953f-4446-a007-2fa875302ecc": {
+      "company": "Wolters Kluwer",
+      "first_seen": "2026-11-05T02:31:57+00:00",
+      "last_seen": "2026-11-05T02:31:57+00:00",
+      "location": "Sherbrooke, QC, Canada",
+      "posted_at": "1793750400",
+      "source": "simplify",
+      "title": "Front-End Developer Intern - Se",
+      "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/CAN---Sherbrooke/Dveloppeur-se--Front-End---Stage_R0060874"
     },
     "simplify:wolters kluwer::simplify-91f7ed1e-cf30-4148-8ff7-6391fc305b94": {
       "company": "Wolters Kluwer",
@@ -78367,5 +78497,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T02:13:02+00:00"
+  "updated_at": "2026-11-05T02:32:05+00:00"
 }
