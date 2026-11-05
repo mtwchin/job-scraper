@@ -1,5 +1,5 @@
 {
-  "count": 8938,
+  "count": 8941,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -12876,7 +12876,7 @@
     "simplify:barrios::simplify-6c4161c2-957e-42b2-b760-2d2ad98ab8b2": {
       "company": "Barrios",
       "first_seen": "2026-10-05T22:36:07+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T08:31:23+00:00",
       "location": "Houston, TX",
       "posted_at": "1791237833",
       "source": "simplify",
@@ -13002,6 +13002,16 @@
       "posted_at": "1771484699",
       "title": "Net Developer",
       "url": "https://jobs.smartrecruiters.com/BCforward3/93142765"
+    },
+    "simplify:bcore::simplify-78b74232-2ab0-40bd-9b72-9d83e067a67a": {
+      "company": "Bcore",
+      "first_seen": "2026-11-05T08:31:23+00:00",
+      "last_seen": "2026-11-05T08:31:23+00:00",
+      "location": "Chantilly, VA, Vienna, VA",
+      "posted_at": "1792972800",
+      "source": "simplify",
+      "title": "Junior Software Developer",
+      "url": "https://careers-bcore.icims.com/jobs/3253/job?mobile=true&needsRedirect=false"
     },
     "simplify:bdo canada::simplify-aac6f4d7-096c-4de7-b7cf-9bc0e9bd4343": {
       "company": "BDO Canada",
@@ -14951,7 +14961,7 @@
     "simplify:bruno independent living aids::simplify-f65facdb-07b5-489d-bda0-a527041c6dd5": {
       "company": "Bruno Independent Living Aids",
       "first_seen": "2026-09-15T23:08:09+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T08:31:23+00:00",
       "location": "Oconomowoc, WI",
       "posted_at": "1789510393",
       "source": "simplify",
@@ -17739,7 +17749,7 @@
     "simplify:charles schwab::simplify-d6e19b01-22aa-46ab-a8b0-95bb1092f446": {
       "company": "Charles Schwab",
       "first_seen": "2026-09-15T22:46:06+00:00",
-      "last_seen": "2026-10-09T00:00:55+00:00",
+      "last_seen": "2026-11-05T08:31:23+00:00",
       "location": "Southlake, TX",
       "posted_at": "1789510088",
       "source": "simplify",
@@ -23017,6 +23027,16 @@
       "title": "Application Engineer Co-op - Marketing",
       "url": "https://eaton.eightfold.ai/careers/job/687238323389"
     },
+    "simplify:ebsco::simplify-fbc31c37-3fee-456d-a612-f7f0473cacce": {
+      "company": "EBSCO",
+      "first_seen": "2026-11-05T08:31:23+00:00",
+      "last_seen": "2026-11-05T08:31:23+00:00",
+      "location": "Birmingham, AL",
+      "posted_at": "1792540800",
+      "source": "simplify",
+      "title": "Software Developer Engineer 1",
+      "url": "https://careers-ebscoind.icims.com/jobs/2112/job?mobile=true&needsRedirect=false"
+    },
     "simplify:echo global logistics::simplify-2873f43d-16b4-4fcf-b157-b9b935752e35": {
       "company": "Echo Global Logistics",
       "first_seen": "2026-09-10T23:38:18+00:00",
@@ -27052,7 +27072,7 @@
     "simplify:general dynamics mission systems::simplify-2af5ac17-a498-44a7-829b-c3147a8a150b": {
       "company": "General Dynamics Mission Systems",
       "first_seen": "2026-08-21T22:47:23+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T08:31:23+00:00",
       "posted_at": "1787350486",
       "title": "Software Engineer - Entry Level",
       "url": "https://careers-gdms.icims.com/jobs/74471/job?mobile=true&needsRedirect=false"
@@ -27099,7 +27119,7 @@
     "simplify:general dynamics mission systems::simplify-63d3a410-73ec-4b27-b3d5-b089f0ef4dd8": {
       "company": "General Dynamics Mission Systems",
       "first_seen": "2026-09-01T20:11:23+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T08:31:23+00:00",
       "posted_at": "1788288975",
       "title": "Software Engineer",
       "url": "https://careers-gdms.icims.com/jobs/74682/job?mobile=true&needsRedirect=false"
@@ -27136,7 +27156,7 @@
     "simplify:general dynamics mission systems::simplify-8241dd7c-e911-4078-85d3-5095ff275c0d": {
       "company": "General Dynamics Mission Systems",
       "first_seen": "2026-09-30T14:36:37+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T08:31:23+00:00",
       "location": "Middletown, RI",
       "posted_at": "1790777682",
       "source": "simplify",
@@ -27188,7 +27208,7 @@
     "simplify:general dynamics mission systems::simplify-a35187f2-2b60-4934-a7af-6dde56245e69": {
       "company": "General Dynamics Mission Systems",
       "first_seen": "2026-09-05T05:45:19+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T08:31:23+00:00",
       "posted_at": "1788570819",
       "title": "Software Engineer",
       "url": "https://careers-gdms.icims.com/jobs/74823/job?mobile=true&needsRedirect=false"
@@ -27305,7 +27325,7 @@
     "simplify:general dynamics mission systems::simplify-fb7e5b37-dce6-487d-9ad2-a804d73279bf": {
       "company": "General Dynamics Mission Systems",
       "first_seen": "2026-09-10T00:38:47+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T08:31:23+00:00",
       "posted_at": "1788993330",
       "title": "Software Engineer",
       "url": "https://careers-gdms.icims.com/jobs/74819/job?mobile=true&needsRedirect=false"
@@ -32342,7 +32362,7 @@
     "simplify:ipipeline::simplify-1ac3352d-b85c-4b65-9b43-9e0028bf8485": {
       "company": "iPipeline",
       "first_seen": "2026-10-02T22:34:44+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T08:31:23+00:00",
       "location": "Fort Lauderdale, FL",
       "posted_at": "1790979270",
       "source": "simplify",
@@ -45234,7 +45254,7 @@
     "simplify:peraton::simplify-0fd745ed-1b1c-4722-abf1-06420a3ec86d": {
       "company": "Peraton",
       "first_seen": "2026-09-09T18:02:12+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T08:31:23+00:00",
       "posted_at": "1788965225",
       "title": "Software Engineer",
       "url": "https://careers-peraton.icims.com/jobs/169664/job?mobile=true&needsRedirect=false"
@@ -45263,7 +45283,7 @@
     "simplify:peraton::simplify-24400528-c1a8-490d-9035-fea9c63d1c68": {
       "company": "Peraton",
       "first_seen": "2026-09-10T23:38:18+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T08:31:23+00:00",
       "posted_at": "1789079056",
       "title": "Software Engineering - Associate",
       "url": "https://careers-peraton.icims.com/jobs/170478/job?mobile=true&needsRedirect=false"
@@ -45398,7 +45418,7 @@
     "simplify:peraton::simplify-a8082b63-5015-48a0-a9af-260bcc915d71": {
       "company": "Peraton",
       "first_seen": "2026-09-10T23:38:18+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T08:31:23+00:00",
       "posted_at": "1789079056",
       "title": "Systems Engineer Associate",
       "url": "https://careers-peraton.icims.com/jobs/170471/job?mobile=true&needsRedirect=false"
@@ -46329,6 +46349,16 @@
       "posted_at": "1788134400",
       "title": "Software Engineering Associate",
       "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax-Innovation-Delivery-Experience--TIDE----Software-Engineering---Associate---Summer-Fall--2027_52926133EIB"
+    },
+    "simplify:prime controls::simplify-bb33bcfe-706f-4fe2-8f45-37fb6b013c8d": {
+      "company": "Prime Controls",
+      "first_seen": "2026-11-05T08:31:23+00:00",
+      "last_seen": "2026-11-05T08:31:23+00:00",
+      "location": "Lewisville, TX",
+      "posted_at": "1792713600",
+      "source": "simplify",
+      "title": "Enterprise Automation Developer",
+      "url": "https://careers-primecontrols.icims.com/jobs/2282/job?mobile=true&needsRedirect=false"
     },
     "simplify:prime healthcare::simplify-ae8e3836-b9cd-4d37-a329-26a7775fbcb8": {
       "company": "Prime Healthcare",
@@ -49342,7 +49372,7 @@
     "simplify:rovisys::simplify-d916f556-bb84-4113-9e95-d93632918d6e": {
       "company": "RoviSys",
       "first_seen": "2026-10-04T11:31:09+00:00",
-      "last_seen": "2026-10-24T00:02:27+00:00",
+      "last_seen": "2026-11-05T08:31:23+00:00",
       "location": "Thousand Oaks, CA",
       "posted_at": "1790864367",
       "source": "simplify",
@@ -78755,5 +78785,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T08:17:36+00:00"
+  "updated_at": "2026-11-05T08:31:39+00:00"
 }
