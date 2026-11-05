@@ -1,5 +1,5 @@
 {
-  "count": 9000,
+  "count": 9001,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -135,6 +135,15 @@
       "source": "",
       "title": "Intern, Systems Software Engineering",
       "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003"
+    },
+    "shield ai::db8fc063-8856-4404-991c-f287712de949": {
+      "attempted_at": "2026-11-05T17:04:53+00:00",
+      "company": "Shield AI",
+      "location": "Dallas, Texas",
+      "posted_at": "1793898163501",
+      "source": "",
+      "title": "June 2027 Co-Op - Software Engineer Intern",
+      "url": "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949"
     },
     "sigma computing::7850795003": {
       "attempted_at": "2026-10-06T22:49:19+00:00",
@@ -70330,6 +70339,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210894"
     },
+    "vanshb03:element fleet management::vanshb03-74286338-ba79-46ac-9951-98194e3d9789": {
+      "company": "Element Fleet Management",
+      "first_seen": "2026-11-05T17:11:11+00:00",
+      "last_seen": "2026-11-05T17:11:11+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1793898378",
+      "source": "vanshb03",
+      "title": "Forward Deployed Engineer (FDE) Intern",
+      "url": "https://go.vansh.nyc/1iM"
+    },
     "vanshb03:elucid::vanshb03-8bfff39e-a0c8-47a1-88c0-14705d3a9c50": {
       "company": "Elucid",
       "first_seen": "2026-10-31T02:11:37+00:00",
@@ -79385,5 +79404,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-05T16:58:09+00:00"
+  "updated_at": "2026-11-05T17:11:12+00:00"
 }
