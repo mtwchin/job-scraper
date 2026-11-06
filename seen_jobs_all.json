@@ -1,5 +1,5 @@
 {
-  "count": 9076,
+  "count": 9083,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -4218,6 +4218,16 @@
       "title": "Software Engineer Intern, BCI Applications",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003"
     },
+    "notion::27090d0f-07d3-419b-adaa-837b5e22f947": {
+      "company": "Notion",
+      "first_seen": "2026-11-06T18:42:27+00:00",
+      "last_seen": "2026-11-06T18:42:27+00:00",
+      "location": "New York, New York",
+      "posted_at": "2026-11-06T18:41:27.009+00:00",
+      "source": "",
+      "title": "Software Engineering Intern, iOS (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947"
+    },
     "notion::297b4ece-765f-4eea-b1b8-46057cb6501f": {
       "company": "Notion",
       "first_seen": "2026-07-06T20:25:30+00:00",
@@ -4243,6 +4253,16 @@
       "posted_at": "2026-08-14T19:07:13.459+00:00",
       "title": "Software Engineer Intern (Summer 2027)",
       "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c"
+    },
+    "notion::43ffba97-b64a-4c6a-ac13-c803253c9413": {
+      "company": "Notion",
+      "first_seen": "2026-11-06T18:43:25+00:00",
+      "last_seen": "2026-11-06T18:43:25+00:00",
+      "location": "New York, New York",
+      "posted_at": "2026-11-06T18:42:11.019+00:00",
+      "source": "",
+      "title": "Software Engineering Intern, Frontend (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413"
     },
     "notion::5b15697c-fa91-4511-9482-c98a6ff29f90": {
       "company": "Notion",
@@ -74161,6 +74181,16 @@
       "title": "Software Engineer, Fullstack, Early Career",
       "url": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b"
     },
+    "vanshb03:notion::vanshb03-2abe537f-7430-4129-9693-b9dbae53fd75": {
+      "company": "Notion",
+      "first_seen": "2026-11-06T19:10:30+00:00",
+      "last_seen": "2026-11-06T19:10:30+00:00",
+      "location": "New York, NY",
+      "posted_at": "1793990730",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Frontend",
+      "url": "https://go.vansh.nyc/1kP"
+    },
     "vanshb03:notion::vanshb03-4051ecc3-bb1d-4ba6-8c83-1f10e9633e06": {
       "company": "Notion",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -74171,6 +74201,16 @@
       "source": "vanshb03",
       "title": "Software Engineer, Infrastructure, Early Career",
       "url": "https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80"
+    },
+    "vanshb03:notion::vanshb03-8032c2c5-6470-46b7-8645-8d54a125dd0e": {
+      "company": "Notion",
+      "first_seen": "2026-11-06T19:10:30+00:00",
+      "last_seen": "2026-11-06T19:10:30+00:00",
+      "location": "New York, NY",
+      "posted_at": "1793990670",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, iOS",
+      "url": "https://go.vansh.nyc/1kQ"
     },
     "vanshb03:notion::vanshb03-a405e7dd-4aa4-4671-b28c-e9b2f0d4a3a9": {
       "company": "Notion",
@@ -76208,6 +76248,16 @@
       "title": "New Grad 2025: Software Engineer",
       "url": "https://jobs.ashbyhq.com/sentry/90fb5dd4-410d-4672-9f40-3f11ea01c75d"
     },
+    "vanshb03:serval::vanshb03-00cc0eb1-236a-4b7b-adc1-549c0b75fa1f": {
+      "company": "Serval",
+      "first_seen": "2026-11-06T19:43:26+00:00",
+      "last_seen": "2026-11-06T19:43:26+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1783962155",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1kU"
+    },
     "vanshb03:servicenow::vanshb03-0a2c3c96-6161-4f97-aa48-518f989408a5": {
       "company": "ServiceNow",
       "first_seen": "2026-10-27T22:09:45+00:00",
@@ -77029,6 +77079,26 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Cloud Security",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190"
+    },
+    "vanshb03:talos::vanshb03-06a29dd4-95c0-4c35-be8f-e69495933d50": {
+      "company": "Talos",
+      "first_seen": "2026-11-06T19:43:26+00:00",
+      "last_seen": "2026-11-06T19:43:26+00:00",
+      "location": "New York, NY",
+      "posted_at": "1793286501",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, RFQ",
+      "url": "https://go.vansh.nyc/1kW"
+    },
+    "vanshb03:talos::vanshb03-944f02eb-05f0-406f-9d52-73757fdbcfba": {
+      "company": "Talos",
+      "first_seen": "2026-11-06T19:43:26+00:00",
+      "last_seen": "2026-11-06T19:43:26+00:00",
+      "location": "New York, NY",
+      "posted_at": "1793286648",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Dealer",
+      "url": "https://go.vansh.nyc/1kX"
     },
     "vanshb03:td bank::vanshb03-a7cec5a1-23be-4214-a5ea-94288512e8e5": {
       "company": "TD Bank",
@@ -80220,5 +80290,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T17:44:49+00:00"
+  "updated_at": "2026-11-06T19:43:53+00:00"
 }
