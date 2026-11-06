@@ -1,5 +1,5 @@
 {
-  "count": 7889,
+  "count": 7890,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -66999,6 +66999,16 @@
       "title": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8287385"
     },
+    "waymo::8350832": {
+      "company": "Waymo",
+      "first_seen": "2026-11-06T14:21:59+00:00",
+      "last_seen": "2026-11-06T14:21:59+00:00",
+      "location": "San Francisco, California, USA",
+      "posted_at": "2026-11-06T09:21:23-05:00",
+      "source": "",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8350832"
+    },
     "webflow::8122601": {
       "company": "Webflow",
       "first_seen": "2026-08-12T20:19:37+00:00",
@@ -67065,5 +67075,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T08:03:20+00:00"
+  "updated_at": "2026-11-06T14:22:27+00:00"
 }
