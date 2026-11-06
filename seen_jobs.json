@@ -1,5 +1,5 @@
 {
-  "count": 7898,
+  "count": 7899,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -64219,6 +64219,16 @@
       "title": "New Grad: Software Engineer, Agent",
       "url": "https://jobs.ashbyhq.com/Sierra/ce2ae656-714c-4a6c-a020-fe418f868075"
     },
+    "vanshb03:sierra::vanshb03-8ff7be57-732f-4962-8806-a0d159aed557": {
+      "company": "Sierra",
+      "first_seen": "2026-11-06T22:10:48+00:00",
+      "last_seen": "2026-11-06T22:10:48+00:00",
+      "location": "San Francisco, CA, New York, NY",
+      "posted_at": "1788212539",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Agent",
+      "url": "https://go.vansh.nyc/1ln"
+    },
     "vanshb03:sig::vanshb03-fec7501c-18a5-4233-9d14-fed4d85a8a32": {
       "company": "SIG",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -67157,5 +67167,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T20:57:49+00:00"
+  "updated_at": "2026-11-06T22:10:57+00:00"
 }
