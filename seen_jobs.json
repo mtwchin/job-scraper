@@ -793,6 +793,15 @@
       "title": "AI Software Engineering Co-op",
       "url": "https://go.vansh.nyc/ZK"
     },
+    "vanshb03:salesforce::vanshb03-9821be37-9467-4367-bf4e-a498d12e4d39": {
+      "attempted_at": "2026-11-06T00:21:18+00:00",
+      "company": "Salesforce",
+      "location": "Dallas, TX",
+      "posted_at": "1793923488",
+      "source": "vanshb03",
+      "title": "Systems Engineering Associate",
+      "url": "https://go.vansh.nyc/1jP"
+    },
     "vanshb03:salesforce::vanshb03-a37a1acf-a0a0-4dc4-b183-d7050135a28f": {
       "attempted_at": "2026-10-27T22:38:11+00:00",
       "company": "Salesforce",
@@ -67026,5 +67035,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T00:05:42+00:00"
+  "updated_at": "2026-11-06T00:21:44+00:00"
 }
