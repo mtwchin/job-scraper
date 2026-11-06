@@ -1,5 +1,5 @@
 {
-  "count": 7901,
+  "count": 7904,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -7683,6 +7683,16 @@
       "source": "simplify",
       "title": "Software System Designer",
       "url": "https://careers.amd.com/jobs/91827?icims=1"
+    },
+    "simplify:amd::simplify-aa2ac712-d6a4-43d6-a62c-0d3634bb35d1": {
+      "company": "AMD",
+      "first_seen": "2026-11-06T23:31:50+00:00",
+      "last_seen": "2026-11-06T23:31:50+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1793981460",
+      "source": "simplify",
+      "title": "Senior Software Engineer",
+      "url": "https://careers.amd.com/jobs/94257?icims=1&lang=en-us"
     },
     "simplify:amd::simplify-b17cd560-c6e3-41da-9178-9503bee4c38f": {
       "company": "AMD",
@@ -19925,6 +19935,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://careers.docusign.com/jobs/30497?icims=1"
+    },
+    "simplify:docusign::simplify-c35a9168-9923-4395-bcca-05777cef1cdc": {
+      "company": "Docusign",
+      "first_seen": "2026-11-06T23:31:50+00:00",
+      "last_seen": "2026-11-06T23:31:50+00:00",
+      "location": "SF",
+      "posted_at": "1793998800",
+      "source": "simplify",
+      "title": "Agentic AI Engineer Intern",
+      "url": "https://careers.docusign.com/jobs/30587?icims=1&lang=en-us"
     },
     "simplify:docusign::simplify-f3b565a6-e92b-41cc-aee4-4099b4c83171": {
       "company": "DocuSign",
@@ -42126,6 +42146,16 @@
       "posted_at": "1785910578",
       "title": "AI Integration & Interoperability Intern",
       "url": "https://qualcomm.eightfold.ai/careers/job/446716226621"
+    },
+    "simplify:qualcomm::simplify-e2c0d408-223c-4ea4-8b0f-7a49bb4b7e1a": {
+      "company": "Qualcomm",
+      "first_seen": "2026-11-06T23:31:50+00:00",
+      "last_seen": "2026-11-06T23:31:50+00:00",
+      "location": "Markham, ON, Canada",
+      "posted_at": "1794006790",
+      "source": "simplify",
+      "title": "AI and DSP Applications Software Engineer - Machine Learning Engineering",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446722003218"
     },
     "simplify:qualcomm::simplify-e2e74d29-f67c-4468-808e-766ee1fd7616": {
       "company": "Qualcomm",
@@ -67187,5 +67217,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T23:11:07+00:00"
+  "updated_at": "2026-11-06T23:32:09+00:00"
 }
