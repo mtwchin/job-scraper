@@ -1,5 +1,5 @@
 {
-  "count": 9063,
+  "count": 9068,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -8235,6 +8235,18 @@
       "title": "Software Developer Engineer 1 - Security Platform",
       "url": "https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform"
     },
+    "simplify:amazon::simplify-20102156-230a-4d18-a3eb-dcc6a46d3a14": {
+      "company": "Amazon",
+      "duplicate_of": "simplify:amazon::simplify-bb1b5428-f0ef-4b5c-af37-6b28e35d359c",
+      "first_seen": "2026-11-06T15:32:09+00:00",
+      "last_seen": "2026-11-06T15:32:09+00:00",
+      "location": "Swansea, UK",
+      "posted_at": "1793977604",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Development Engineer Apprentice",
+      "url": "https://amazon.jobs/en/jobs/10598613/software-development-engineer-apprentice-42-month-fixed-term-contract"
+    },
     "simplify:amazon::simplify-22b41b69-61b2-4b32-88f6-61e9f4d4643d": {
       "company": "Amazon",
       "first_seen": "2026-10-29T23:02:02+00:00",
@@ -8462,6 +8474,16 @@
       "source": "simplify",
       "title": "Systems Development Engineer Intern",
       "url": "https://amazon.jobs/en/jobs/10573984/systems-development-engineer-intern-us-2027"
+    },
+    "simplify:amazon::simplify-bb1b5428-f0ef-4b5c-af37-6b28e35d359c": {
+      "company": "Amazon",
+      "first_seen": "2026-11-06T15:32:09+00:00",
+      "last_seen": "2026-11-06T15:32:09+00:00",
+      "location": "Edinburgh, UK; Swansea, UK",
+      "posted_at": "1793977608",
+      "source": "simplify",
+      "title": "Software Development Engineer Apprentice",
+      "url": "https://amazon.jobs/en/jobs/10598611/software-development-engineer-apprentice-48-month-fixed-term-contract"
     },
     "simplify:amazon::simplify-beb3809f-7e70-4921-8048-c14921c4ba78": {
       "company": "Amazon",
@@ -16472,6 +16494,16 @@
       "posted_at": "1784505600",
       "title": "Junior Application Developer",
       "url": "https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Junior-Application-Developer_328917"
+    },
+    "simplify:caci::simplify-dce9fd9f-e2c7-4cce-ac21-2cdf97ae4509": {
+      "company": "CACI",
+      "first_seen": "2026-11-06T16:02:27+00:00",
+      "last_seen": "2026-11-06T16:02:27+00:00",
+      "location": "King of Prussia, PA",
+      "posted_at": "1793923200",
+      "source": "simplify",
+      "title": "Software Engineering Co-op",
+      "url": "https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665"
     },
     "simplify:caci::simplify-e6e68252-64e3-4113-87e6-21679405692d": {
       "company": "CACI",
@@ -53109,6 +53141,16 @@
       "title": "Software Development and Testing Intern",
       "url": "https://careers-sas.icims.com/jobs/42964/job?mobile=true&needsRedirect=false"
     },
+    "simplify:sas::simplify-4c1d2a29-8238-4827-a622-c10a3a4efcf9": {
+      "company": "SAS",
+      "first_seen": "2026-11-06T16:02:27+00:00",
+      "last_seen": "2026-11-06T16:02:27+00:00",
+      "location": "Cary, NC",
+      "posted_at": "1793923200",
+      "source": "simplify",
+      "title": "Data Scientist Intern",
+      "url": "https://careers-sas.icims.com/jobs/42786/job?mobile=true&needsRedirect=false"
+    },
     "simplify:savannah river mission completion::simplify-35e05405-c3a2-4b74-a350-587930a5e2b3": {
       "company": "Savannah River Mission Completion",
       "first_seen": "2026-08-10T23:03:12+00:00",
@@ -57234,6 +57276,18 @@
       "posted_at": "1786406400",
       "title": "Associate Engineer - Software",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Engineer--Software_REQ367128"
+    },
+    "simplify:t-mobile::simplify-e069ea1c-b571-46be-95e2-d1071dbcb2dd": {
+      "company": "T-Mobile",
+      "duplicate_of": "vanshb03:t-mobile::vanshb03-819f96e2-7f99-4df7-8450-f112bb017b74",
+      "first_seen": "2026-11-06T16:02:27+00:00",
+      "last_seen": "2026-11-06T16:02:27+00:00",
+      "location": "Overland Park, KS",
+      "posted_at": "1793923200",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734"
     },
     "simplify:t-mobile::simplify-ec682ade-102c-4bca-9824-a71e73c64c13": {
       "company": "T-Mobile",
@@ -80084,5 +80138,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T15:32:30+00:00"
+  "updated_at": "2026-11-06T16:02:33+00:00"
 }
