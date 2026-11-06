@@ -1,5 +1,5 @@
 {
-  "count": 9047,
+  "count": 9049,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -11249,6 +11249,16 @@
       "posted_at": "1771485127",
       "title": ".NET Developer",
       "url": "https://jobs.smartrecruiters.com/AskITConsulting/112581670"
+    },
+    "simplify:asm international::simplify-03bd77d2-3d33-47c7-93cd-c8cc83b1d94f": {
+      "company": "ASM International",
+      "first_seen": "2026-11-06T08:02:51+00:00",
+      "last_seen": "2026-11-06T08:02:51+00:00",
+      "location": "Phoenix, AZ",
+      "posted_at": "1793938669",
+      "source": "simplify",
+      "title": "Product Intelligence Engineering Intern - AI/ML",
+      "url": "https://www.asm.com/open-vacancies/?gh_jid=5029228101"
     },
     "simplify:asm international::simplify-3ab26bfe-972a-4b2f-8014-7b6add4f83d3": {
       "company": "ASM International",
@@ -66846,6 +66856,16 @@
       "title": "Software Engineer I",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8906750002"
     },
+    "twitch::8917377002": {
+      "company": "Twitch",
+      "first_seen": "2026-11-06T05:04:40+00:00",
+      "last_seen": "2026-11-06T05:04:40+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "2026-11-06T00:03:56-05:00",
+      "source": "",
+      "title": "Software Engineer I - Engagement Growth",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8917377002"
+    },
     "vanshb03:21cs::vanshb03-8f371c86-66af-4fb5-b691-d8e1f3497d40": {
       "company": "21CS",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -79924,5 +79944,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T03:58:48+00:00"
+  "updated_at": "2026-11-06T08:02:54+00:00"
 }
