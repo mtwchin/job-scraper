@@ -1,5 +1,5 @@
 {
-  "count": 9056,
+  "count": 9057,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -70518,6 +70518,16 @@
       "title": "AI Platform Engineer Intern",
       "url": "https://go.vansh.nyc/BR"
     },
+    "vanshb03:docusign::vanshb03-ff1c269c-f387-49d7-a46d-ff4caebc037d": {
+      "company": "DocuSign",
+      "first_seen": "2026-11-06T14:41:49+00:00",
+      "last_seen": "2026-11-06T14:41:49+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1793975779",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Self-Service Directory Diagnostics",
+      "url": "https://go.vansh.nyc/1kf"
+    },
     "vanshb03:domino data lab::vanshb03-47cb7e73-22bf-4680-b063-0d7e80c2ca6a": {
       "company": "Domino Data Lab",
       "first_seen": "2026-10-26T15:30:11+00:00",
@@ -80014,5 +80024,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T14:42:22+00:00"
+  "updated_at": "2026-11-06T14:59:25+00:00"
 }
