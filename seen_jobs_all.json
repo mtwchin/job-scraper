@@ -1,5 +1,5 @@
 {
-  "count": 9052,
+  "count": 9056,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -67228,6 +67228,16 @@
       "title": "Software Developer Intern",
       "url": "https://apply.workable.com/al-warren-oil-company-inc/j/A4487B349D/"
     },
+    "vanshb03:alaska airlines::vanshb03-5fe7398f-98bf-495d-9061-92bb0aa8210f": {
+      "company": "Alaska Airlines",
+      "first_seen": "2026-11-06T14:42:09+00:00",
+      "last_seen": "2026-11-06T14:42:09+00:00",
+      "location": "SeaTac, WA",
+      "posted_at": "1793975779",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1kc"
+    },
     "vanshb03:allegion::vanshb03-b6a9003d-149f-4f13-b5df-63c10630f95b": {
       "company": "Allegion",
       "first_seen": "2026-10-28T13:44:17+00:00",
@@ -76159,6 +76169,16 @@
       "title": "Software Engineering Intern",
       "url": "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856?ashby_jid=404bb82e-37f3-4a78-b0f3-12923a7c4856"
     },
+    "vanshb03:shure::vanshb03-a899c918-7ddb-450e-a44b-b5766f24ec12": {
+      "company": "Shure",
+      "first_seen": "2026-11-06T14:42:09+00:00",
+      "last_seen": "2026-11-06T14:42:09+00:00",
+      "location": "Niles, IL",
+      "posted_at": "1793975779",
+      "source": "vanshb03",
+      "title": "Embedded Software Intern",
+      "url": "https://go.vansh.nyc/1ka"
+    },
     "vanshb03:sierra nevada corporation::vanshb03-71bf1329-1ed8-4bc0-a0fd-b78caa5de719": {
       "company": "Sierra Nevada Corporation",
       "duplicate_of": "simplify:sierra nevada corporation::simplify-74129f26-3f29-4069-9bd9-234810c4491a",
@@ -79429,6 +79449,16 @@
       "title": "IT Software Engineer Intern",
       "url": "https://go.vansh.nyc/13x"
     },
+    "vanshb03:western & southern financial group::vanshb03-9918924b-7a6c-421f-94ab-c6511e8b369d": {
+      "company": "Western & Southern Financial Group",
+      "first_seen": "2026-11-06T14:42:09+00:00",
+      "last_seen": "2026-11-06T14:42:09+00:00",
+      "location": "Cincinnati, OH",
+      "posted_at": "1793975779",
+      "source": "vanshb03",
+      "title": "Software Developer Intern, Agency Systems",
+      "url": "https://go.vansh.nyc/1k9"
+    },
     "vanshb03:western alliance bancorporation::vanshb03-5b65fe26-8e0d-43aa-903e-588326b48868": {
       "company": "Western Alliance Bancorporation",
       "first_seen": "2026-11-05T21:40:11+00:00",
@@ -79908,6 +79938,16 @@
       "title": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8287385"
     },
+    "waymo::8350832": {
+      "company": "Waymo",
+      "first_seen": "2026-11-06T14:21:59+00:00",
+      "last_seen": "2026-11-06T14:21:59+00:00",
+      "location": "San Francisco, California, USA",
+      "posted_at": "2026-11-06T09:21:23-05:00",
+      "source": "",
+      "title": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8350832"
+    },
     "webflow::8122601": {
       "company": "Webflow",
       "first_seen": "2026-08-12T20:19:37+00:00",
@@ -79974,5 +80014,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T11:02:15+00:00"
+  "updated_at": "2026-11-06T14:42:22+00:00"
 }
