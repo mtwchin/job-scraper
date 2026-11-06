@@ -1,5 +1,5 @@
 {
-  "count": 7896,
+  "count": 7898,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -62919,6 +62919,16 @@
       "title": "Software Engineer, Fullstack, Early Career",
       "url": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b"
     },
+    "vanshb03:notion::vanshb03-2abe537f-7430-4129-9693-b9dbae53fd75": {
+      "company": "Notion",
+      "first_seen": "2026-11-06T19:10:30+00:00",
+      "last_seen": "2026-11-06T19:10:30+00:00",
+      "location": "New York, NY",
+      "posted_at": "1793990730",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Frontend",
+      "url": "https://go.vansh.nyc/1kP"
+    },
     "vanshb03:notion::vanshb03-4051ecc3-bb1d-4ba6-8c83-1f10e9633e06": {
       "company": "Notion",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -62929,6 +62939,16 @@
       "source": "vanshb03",
       "title": "Software Engineer, Infrastructure, Early Career",
       "url": "https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80"
+    },
+    "vanshb03:notion::vanshb03-8032c2c5-6470-46b7-8645-8d54a125dd0e": {
+      "company": "Notion",
+      "first_seen": "2026-11-06T19:10:30+00:00",
+      "last_seen": "2026-11-06T19:10:30+00:00",
+      "location": "New York, NY",
+      "posted_at": "1793990670",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, iOS",
+      "url": "https://go.vansh.nyc/1kQ"
     },
     "vanshb03:notion::vanshb03-a405e7dd-4aa4-4671-b28c-e9b2f0d4a3a9": {
       "company": "Notion",
@@ -67137,5 +67157,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T18:43:47+00:00"
+  "updated_at": "2026-11-06T19:10:49+00:00"
 }
