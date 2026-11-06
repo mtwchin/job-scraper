@@ -1,5 +1,5 @@
 {
-  "count": 9086,
+  "count": 9087,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -77689,6 +77689,16 @@
       "title": "Embedded Software Engineer Intern, Multiple Teams",
       "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949"
     },
+    "vanshb03:the new york times::vanshb03-1089f88c-b03e-44ac-8aba-2fabe5383d82": {
+      "company": "The New York Times",
+      "first_seen": "2026-11-06T21:40:43+00:00",
+      "last_seen": "2026-11-06T21:40:43+00:00",
+      "location": "New York, NY",
+      "posted_at": "1793997674",
+      "source": "vanshb03",
+      "title": "Backend Engineering Intern",
+      "url": "https://go.vansh.nyc/1lg"
+    },
     "vanshb03:the new york times::vanshb03-1a095c91-e8c7-4659-9182-1ba0158aae9d": {
       "company": "The New York Times",
       "first_seen": "2026-11-06T20:40:44+00:00",
@@ -80320,5 +80330,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T21:15:47+00:00"
+  "updated_at": "2026-11-06T21:40:50+00:00"
 }
