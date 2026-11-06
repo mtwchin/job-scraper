@@ -1,5 +1,5 @@
 {
-  "count": 9074,
+  "count": 9075,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -76956,6 +76956,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/19r"
     },
+    "vanshb03:t-mobile::vanshb03-26bb3ea6-6483-47e7-98a0-889c19f1e29b": {
+      "company": "T-Mobile",
+      "first_seen": "2026-11-06T17:41:26+00:00",
+      "last_seen": "2026-11-06T17:41:26+00:00",
+      "location": "Bellevue, WA",
+      "posted_at": "1793986331",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, HR Data Products",
+      "url": "https://go.vansh.nyc/1kD"
+    },
     "vanshb03:t-mobile::vanshb03-7181c16a-ea49-4184-97b9-40c48b036d6e": {
       "company": "T-Mobile",
       "first_seen": "2026-11-03T22:13:20+00:00",
@@ -80200,5 +80210,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T17:10:44+00:00"
+  "updated_at": "2026-11-06T17:41:46+00:00"
 }
