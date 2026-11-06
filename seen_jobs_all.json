@@ -1,5 +1,5 @@
 {
-  "count": 9075,
+  "count": 9076,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -73812,6 +73812,16 @@
       "title": "Software Engineer Intern, Native SDK & Mobile Platforms",
       "url": "https://go.vansh.nyc/Uy"
     },
+    "vanshb03:nightwing::vanshb03-28be59cf-9187-419b-a891-4720131eeb28": {
+      "company": "Nightwing",
+      "first_seen": "2026-11-06T17:44:26+00:00",
+      "last_seen": "2026-11-06T17:44:26+00:00",
+      "location": "Huntsville, AL",
+      "posted_at": "1793985634",
+      "source": "vanshb03",
+      "title": "Software Developer I, System Security",
+      "url": "https://go.vansh.nyc/1kI"
+    },
     "vanshb03:nintendo::vanshb03-03cbf984-ebc6-4c0f-9488-696e2a3f6564": {
       "company": "Nintendo",
       "first_seen": "2026-10-31T19:17:02+00:00",
@@ -80210,5 +80220,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T17:41:46+00:00"
+  "updated_at": "2026-11-06T17:44:49+00:00"
 }
