@@ -1,5 +1,5 @@
 {
-  "count": 9068,
+  "count": 9070,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -9023,6 +9023,16 @@
       "title": "Software Engineer",
       "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Software-Engineer_R0005723"
     },
+    "simplify:american college of obstetricians and gynecologists::simplify-b144a963-f3de-4a6f-8839-795f8fa620b6": {
+      "company": "American College of Obstetricians and Gynecologists",
+      "first_seen": "2026-11-06T16:03:27+00:00",
+      "last_seen": "2026-11-06T16:03:27+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1790609025",
+      "source": "simplify",
+      "title": "Full-Stack Developer",
+      "url": "https://job-boards.greenhouse.io/acog/jobs/4401658009"
+    },
     "simplify:american equity::simplify-9e90a7af-8784-4ab2-8bf8-b0ecce10575b": {
       "company": "American Equity",
       "first_seen": "2026-09-17T23:03:17+00:00",
@@ -17947,6 +17957,16 @@
       "posted_at": "1787963196",
       "title": "Software Engineering Intern - Technology",
       "url": "https://career-schwab.icims.com/jobs/126228/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:charles schwab::simplify-3894dc6f-4a40-46a7-a802-6df2df2be783": {
+      "company": "Charles Schwab",
+      "first_seen": "2026-11-06T16:03:27+00:00",
+      "last_seen": "2026-11-06T16:03:27+00:00",
+      "location": "Austin, TX, Southlake, TX",
+      "posted_at": "1793923200",
+      "source": "simplify",
+      "title": "Associate Software Development & Engineering",
+      "url": "https://career-schwab.icims.com/jobs/129593/job?mobile=true&needsRedirect=false"
     },
     "simplify:charles schwab::simplify-40bf0d3e-456c-4a73-a81b-3767a13f72ea": {
       "company": "Charles Schwab",
@@ -80138,5 +80158,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T16:02:33+00:00"
+  "updated_at": "2026-11-06T16:03:36+00:00"
 }
