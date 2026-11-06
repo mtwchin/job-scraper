@@ -25248,7 +25248,7 @@
     "simplify:goldman sachs::simplify-ebecfe1f-3890-4cf8-8663-d7b118197e24": {
       "company": "Goldman Sachs",
       "first_seen": "2026-08-15T15:35:14+00:00",
-      "last_seen": "2026-11-05T00:01:58+00:00",
+      "last_seen": "2026-11-06T00:02:47+00:00",
       "posted_at": "1786767937",
       "title": "New Analyst - Engineering",
       "url": "https://higher.gs.com/roles/171569?type=students"
@@ -34987,7 +34987,7 @@
     "simplify:microsoft::simplify-b4e7a187-9537-4e72-8b27-c8d54faf0118": {
       "company": "Microsoft",
       "first_seen": "2026-10-04T12:02:50+00:00",
-      "last_seen": "2026-10-14T00:00:26+00:00",
+      "last_seen": "2026-11-06T00:02:47+00:00",
       "location": "Redmond, WA",
       "posted_at": "1789425238",
       "source": "simplify",
@@ -67026,5 +67026,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T00:02:39+00:00"
+  "updated_at": "2026-11-06T00:05:42+00:00"
 }
