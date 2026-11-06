@@ -1,5 +1,5 @@
 {
-  "count": 9045,
+  "count": 9046,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -75078,6 +75078,16 @@
       "title": "New Grad: Software Engineer",
       "url": "https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db"
     },
+    "vanshb03:raft company website::vanshb03-c2bf4080-dcb0-4762-852e-58da25da038d": {
+      "company": "Raft Company Website",
+      "first_seen": "2026-11-06T02:16:31+00:00",
+      "last_seen": "2026-11-06T02:16:31+00:00",
+      "location": "McLean, VA",
+      "posted_at": "1793923200",
+      "source": "vanshb03",
+      "title": "Full Stack Engineering Intern",
+      "url": "https://go.vansh.nyc/1jS"
+    },
     "vanshb03:ramp::vanshb03-6327379a-da68-4367-bcf6-4ec69a9c9ebd": {
       "company": "Ramp",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -79904,5 +79914,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T01:10:49+00:00"
+  "updated_at": "2026-11-06T02:16:52+00:00"
 }
