@@ -1,5 +1,5 @@
 {
-  "count": 9059,
+  "count": 9063,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -59623,6 +59623,16 @@
       "title": "Software Engineer - Content Data Products",
       "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4713567005"
     },
+    "simplify:the new york times::simplify-e83280af-86b2-46ea-8179-6344933c3f14": {
+      "company": "The New York Times",
+      "first_seen": "2026-11-06T15:32:28+00:00",
+      "last_seen": "2026-11-06T15:32:28+00:00",
+      "location": "NYC",
+      "posted_at": "1793976463",
+      "source": "simplify",
+      "title": "Interactive News Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751790005"
+    },
     "simplify:the nuclear company::simplify-366b26f5-59ce-47c1-b9f4-4d13c1b61a49": {
       "company": "The Nuclear Company",
       "first_seen": "2026-09-03T19:27:16+00:00",
@@ -61151,6 +61161,36 @@
       "posted_at": "1772810202",
       "title": "Kernel Engineer \u2013 Intern and Full-time",
       "url": "https://jobs.ashbyhq.com/tilderesearch/bc4e4071-cf64-4460-8265-b1e5a603d6b8/application"
+    },
+    "simplify:tinder::simplify-2a9865db-8f3e-40ac-a2fb-b90b64595d1e": {
+      "company": "Tinder",
+      "first_seen": "2026-11-06T15:32:28+00:00",
+      "last_seen": "2026-11-06T15:32:28+00:00",
+      "location": "Palo Alto, CA, LA",
+      "posted_at": "1793978802",
+      "source": "simplify",
+      "title": "iOS Engineer Intern",
+      "url": "https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef/apply"
+    },
+    "simplify:tinder::simplify-b0484564-9325-4e1a-a91d-2005a8c9bbfb": {
+      "company": "Tinder",
+      "first_seen": "2026-11-06T15:32:28+00:00",
+      "last_seen": "2026-11-06T15:32:28+00:00",
+      "location": "Palo Alto, CA, LA",
+      "posted_at": "1793978800",
+      "source": "simplify",
+      "title": "Backend Engineer Intern",
+      "url": "https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3/apply"
+    },
+    "simplify:tinder::simplify-e2ba2687-1ac6-40c9-a236-61fad22d9407": {
+      "company": "Tinder",
+      "first_seen": "2026-11-06T15:32:28+00:00",
+      "last_seen": "2026-11-06T15:32:28+00:00",
+      "location": "LA",
+      "posted_at": "1793978800",
+      "source": "simplify",
+      "title": "Android Engineer Intern",
+      "url": "https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d/apply"
     },
     "simplify:titan::simplify-b0de04a6-86de-4f47-b55b-b49784fc6c07": {
       "company": "Titan",
@@ -80044,5 +80084,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T15:12:28+00:00"
+  "updated_at": "2026-11-06T15:32:30+00:00"
 }
