@@ -1,5 +1,5 @@
 {
-  "count": 9039,
+  "count": 9044,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -17121,6 +17121,16 @@
       "title": "Junior Frontend Developer",
       "url": "https://careers.capgemini.com/job/Atlanta,-GA-Junior-Frontend-Developer-GA-30301/1435951433/?ats=successfactors"
     },
+    "simplify:capital automotive group::simplify-cfd1fc37-3582-4a60-9573-d2031927d1ed": {
+      "company": "Capital Automotive Group",
+      "first_seen": "2026-11-06T00:03:31+00:00",
+      "last_seen": "2026-11-06T00:03:31+00:00",
+      "location": "Regina, SK, Canada",
+      "posted_at": "1793836800",
+      "source": "simplify",
+      "title": "AI & Data Systems Specialist",
+      "url": "https://capitalauto.wd3.myworkdayjobs.com/capitalautogroupcareers/job/Regina-SK/AI---Data-Systems-Specialist_R3010"
+    },
     "simplify:capital de recherche tower::simplify-0fe687ca-5424-4eac-9d21-5b5baf0a4e5d": {
       "company": "Capital de Recherche Tower",
       "first_seen": "2026-10-29T09:32:08+00:00",
@@ -19734,7 +19744,7 @@
       "company": "Computershare",
       "duplicate_of": "simplify:computershare::simplify-57c3e597-0998-4bdd-93ed-9ff2e7e67cee",
       "first_seen": "2026-10-22T14:32:27+00:00",
-      "last_seen": "2026-11-05T00:01:38+00:00",
+      "last_seen": "2026-11-06T00:03:31+00:00",
       "location": "Bristol, UK",
       "posted_at": "1792678054",
       "seeded": true,
@@ -19821,6 +19831,16 @@
       "posted_at": "1783721450",
       "title": "Software Engineer - .NET & AI",
       "url": "https://confluence.pinpointhq.com/en/postings/49d5aa65-dc1b-4254-ae94-f645e7488aa1?ats=pinpointhq"
+    },
+    "simplify:connecticut state community college::simplify-a81edb52-97d8-4e8f-a9e2-eb16d6d46179": {
+      "company": "Connecticut State Community College",
+      "first_seen": "2026-11-06T00:03:31+00:00",
+      "last_seen": "2026-11-06T00:03:31+00:00",
+      "location": "Hartford, CT",
+      "posted_at": "1793921684",
+      "source": "simplify",
+      "title": "Web Developer",
+      "url": "https://ctstatecommunitycollege.applytojob.com/apply/eZ3iKftuW4/Web-Developer"
     },
     "simplify:constant contact::simplify-58a29872-deec-4a7e-8a5a-237b34edd4af": {
       "company": "Constant Contact",
@@ -23197,7 +23217,7 @@
     "simplify:early warning::simplify-b81ad8d8-409c-4563-b87b-1aa4661b4937": {
       "company": "Early Warning",
       "first_seen": "2026-09-29T22:33:45+00:00",
-      "last_seen": "2026-10-01T00:31:31+00:00",
+      "last_seen": "2026-11-06T00:03:31+00:00",
       "location": "SF, Chicago, IL, Scottsdale, AZ",
       "posted_at": "1790640000",
       "source": "simplify",
@@ -37682,6 +37702,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/United-Kingdom---Belfast/Software-Engineer---Student-Placement--Queens-University-Only-_R-01418"
+    },
+    "simplify:magnite::simplify-fae59f96-5710-421a-bfae-8a351efd0dd7": {
+      "company": "Magnite",
+      "first_seen": "2026-11-06T00:03:31+00:00",
+      "last_seen": "2026-11-06T00:03:31+00:00",
+      "location": "NYC",
+      "posted_at": "1793836800",
+      "source": "simplify",
+      "title": "Engineer 1 - Automation and Custom Applications",
+      "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Engineer-I_R-01440"
     },
     "simplify:major league baseball::simplify-867ae6e2-184d-4c9f-947a-7af657510d2c": {
       "company": "Major League Baseball",
@@ -56358,6 +56388,16 @@
       "title": "Software Engineer 1 - Core Compute Platform",
       "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4921819101"
     },
+    "simplify:stubhub::simplify-b6f8c62c-4d2c-44f5-8147-cca845fe05d3": {
+      "company": "StubHub",
+      "first_seen": "2026-11-06T00:03:31+00:00",
+      "last_seen": "2026-11-06T00:03:31+00:00",
+      "location": "NYC",
+      "posted_at": "1793901366",
+      "source": "simplify",
+      "title": "Software Engineer New Grad - Consumer Experience",
+      "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101"
+    },
     "simplify:study.com::simplify-11510869-ac93-4ce2-85d4-2787fe2b2cb2": {
       "company": "Study.com",
       "first_seen": "2026-09-19T03:50:34+00:00",
@@ -62418,6 +62458,16 @@
       "posted_at": "1776525911",
       "title": "Banco de Talentos J\u00f3venes Intern",
       "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Bogota-DC-Colombia/Banco-de-Talentos-Jvenes---UIS-Colombia_REQ563731"
+    },
+    "simplify:unisys::simplify-e6ee9bdf-544b-4d00-a331-f03481ecb95e": {
+      "company": "Unisys",
+      "first_seen": "2026-11-06T00:03:31+00:00",
+      "last_seen": "2026-11-06T00:03:31+00:00",
+      "location": "Eagan, MN",
+      "posted_at": "1793836800",
+      "source": "simplify",
+      "title": "Associate Engineer",
+      "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Eagan-MN-United-States-of-America/Associate-Engineer-ClearPath_REQ575397"
     },
     "simplify:united airlines::simplify-6131fc0a-92b8-493d-9444-82f1e8b4a4db": {
       "company": "United Airlines",
@@ -79835,5 +79885,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T00:02:42+00:00"
+  "updated_at": "2026-11-06T00:03:45+00:00"
 }
