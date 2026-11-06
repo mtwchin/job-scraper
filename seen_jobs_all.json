@@ -1,5 +1,5 @@
 {
-  "count": 9087,
+  "count": 9096,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -67280,6 +67280,16 @@
       "title": "Software Engineer I",
       "url": "https://careers.aflac.com/job/Software-Engineer-I-GA-31999/1323022100/?ats=successfactors"
     },
+    "vanshb03:afterquery::vanshb03-be2dc777-ac7d-4946-a5d5-b1bff342975f": {
+      "company": "AfterQuery",
+      "first_seen": "2026-11-06T22:10:44+00:00",
+      "last_seen": "2026-11-06T22:10:44+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1763406496",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1li"
+    },
     "vanshb03:agave (w22)::vanshb03-9ccf59df-d799-4ddf-8a33-9eca9ed3c991": {
       "company": "Agave (W22)",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -71110,6 +71120,36 @@
       "title": "Software Engineer I, Cloud",
       "url": "https://go.vansh.nyc/XK"
     },
+    "vanshb03:fab2::vanshb03-2a0ce6d8-86a6-4cbc-b321-08184d9fafea": {
+      "company": "fab2",
+      "first_seen": "2026-11-06T22:10:44+00:00",
+      "last_seen": "2026-11-06T22:10:44+00:00",
+      "location": "Austin, TX, San Francisco, CA",
+      "posted_at": "1788627333",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1lr"
+    },
+    "vanshb03:fab2::vanshb03-3309ab7b-8c36-41af-92df-e0d053ebfc13": {
+      "company": "fab2",
+      "first_seen": "2026-11-06T22:10:44+00:00",
+      "last_seen": "2026-11-06T22:10:44+00:00",
+      "location": "Austin, TX, San Francisco, CA",
+      "posted_at": "1787876419",
+      "source": "vanshb03",
+      "title": "Rust Software Engineering Intern, Chip Design Tools",
+      "url": "https://go.vansh.nyc/1lk"
+    },
+    "vanshb03:fab2::vanshb03-5d73e765-5bb6-4974-9f85-74732e0689be": {
+      "company": "fab2",
+      "first_seen": "2026-11-06T22:10:44+00:00",
+      "last_seen": "2026-11-06T22:10:44+00:00",
+      "location": "Austin, TX, San Francisco, CA",
+      "posted_at": "1787875657",
+      "source": "vanshb03",
+      "title": "Automation Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1lj"
+    },
     "vanshb03:fab2::vanshb03-855e82b4-84ec-4205-8af2-715d9fa32d21": {
       "company": "fab2",
       "first_seen": "2026-10-26T14:48:12+00:00",
@@ -71130,6 +71170,26 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://jobs.ashbyhq.com/fab2/947338ca-e135-4398-9aa3-79e131bc03d5?embed=true"
+    },
+    "vanshb03:fab2::vanshb03-affc218b-b347-4ae2-9673-cb60591c594b": {
+      "company": "fab2",
+      "first_seen": "2026-11-06T22:10:44+00:00",
+      "last_seen": "2026-11-06T22:10:44+00:00",
+      "location": "Austin, TX, San Francisco, CA",
+      "posted_at": "1787877967",
+      "source": "vanshb03",
+      "title": "Infrastructure Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1ll"
+    },
+    "vanshb03:fab2::vanshb03-be6725a3-7f46-4fbd-914a-2758aa697127": {
+      "company": "fab2",
+      "first_seen": "2026-11-06T22:10:44+00:00",
+      "last_seen": "2026-11-06T22:10:44+00:00",
+      "location": "Austin, TX, San Francisco, CA",
+      "posted_at": "1787881508",
+      "source": "vanshb03",
+      "title": "Fab Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1lm"
     },
     "vanshb03:faros ai::vanshb03-ce683986-a9b6-4a10-9626-0d617282a20e": {
       "company": "Faros AI",
@@ -72960,6 +73020,16 @@
       "source": "vanshb03",
       "title": "Member of Technical Staff Intern",
       "url": "https://go.vansh.nyc/hy"
+    },
+    "vanshb03:llbean::vanshb03-d01605e5-ffa2-437c-a134-507bb90dc514": {
+      "company": "Llbean",
+      "first_seen": "2026-11-06T22:10:44+00:00",
+      "last_seen": "2026-11-06T22:10:44+00:00",
+      "location": "Freeport, ME",
+      "posted_at": "1793923200",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1lw"
     },
     "vanshb03:lockheed martin::vanshb03-12457784-c81a-4877-9db8-ecccb9c9d098": {
       "company": "Lockheed Martin",
@@ -76403,6 +76473,16 @@
       "title": "Software Engineering Intern",
       "url": "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856?ashby_jid=404bb82e-37f3-4a78-b0f3-12923a7c4856"
     },
+    "vanshb03:shure::vanshb03-39089d25-8f19-48bd-bd54-d2e778febd74": {
+      "company": "Shure",
+      "first_seen": "2026-11-06T22:10:44+00:00",
+      "last_seen": "2026-11-06T22:10:44+00:00",
+      "location": "Niles, IL",
+      "posted_at": "1794002799",
+      "source": "vanshb03",
+      "title": "Cloud Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1lx"
+    },
     "vanshb03:shure::vanshb03-a899c918-7ddb-450e-a44b-b5766f24ec12": {
       "company": "Shure",
       "first_seen": "2026-11-06T14:42:09+00:00",
@@ -77192,6 +77272,16 @@
       "source": "vanshb03",
       "title": "AI Software Intern, Cloud, Infrastructure & Data Centre Deployment",
       "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007"
+    },
+    "vanshb03:terranova::vanshb03-0bfdd550-59c5-48c2-820f-9540611f867c": {
+      "company": "Terranova",
+      "first_seen": "2026-11-06T22:10:44+00:00",
+      "last_seen": "2026-11-06T22:10:44+00:00",
+      "location": "Berkeley, CA",
+      "posted_at": "1790391196",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1lv"
     },
     "vanshb03:tesla::vanshb03-00d844d4-12f5-41a4-bc4f-a2f20b260014": {
       "company": "Tesla",
@@ -80330,5 +80420,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T21:40:50+00:00"
+  "updated_at": "2026-11-06T22:10:52+00:00"
 }
