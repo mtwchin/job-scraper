@@ -1,5 +1,5 @@
 {
-  "count": 7894,
+  "count": 7895,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -3219,6 +3219,16 @@
       "last_seen": "2026-11-06T00:00:11+00:00",
       "title": "Software Engineer Intern, BCI Applications",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003"
+    },
+    "notion::27090d0f-07d3-419b-adaa-837b5e22f947": {
+      "company": "Notion",
+      "first_seen": "2026-11-06T18:42:27+00:00",
+      "last_seen": "2026-11-06T18:42:27+00:00",
+      "location": "New York, New York",
+      "posted_at": "2026-11-06T18:41:27.009+00:00",
+      "source": "",
+      "title": "Software Engineering Intern, iOS (Summer 2027)",
+      "url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947"
     },
     "notion::297b4ece-765f-4eea-b1b8-46057cb6501f": {
       "company": "Notion",
@@ -67117,5 +67127,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T16:31:39+00:00"
+  "updated_at": "2026-11-06T18:42:44+00:00"
 }
