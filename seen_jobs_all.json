@@ -1,5 +1,5 @@
 {
-  "count": 9057,
+  "count": 9059,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71500,6 +71500,16 @@
       "title": "AI/ML Systems Engineering Intern",
       "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051"
     },
+    "vanshb03:globus medical::vanshb03-d4bc46be-9835-4429-83c7-d0cb196cd298": {
+      "company": "Globus Medical",
+      "first_seen": "2026-11-06T15:12:26+00:00",
+      "last_seen": "2026-11-06T15:12:26+00:00",
+      "location": "Methuen, MA",
+      "posted_at": "1793977236",
+      "source": "vanshb03",
+      "title": "Software Co-op",
+      "url": "https://go.vansh.nyc/1kn"
+    },
     "vanshb03:google::vanshb03-21405d15-54dd-45da-a0f1-9ea32ffc3f54": {
       "company": "Google",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -73059,6 +73069,16 @@
       "source": "vanshb03",
       "title": "Software Engineer I",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/corporatecareers/job/OFallon-Missouri/Software-Engineer-I_R-292618-1"
+    },
+    "vanshb03:match group::vanshb03-b9850010-162e-40c5-9496-eae57429f6d6": {
+      "company": "Match Group",
+      "first_seen": "2026-11-06T15:12:26+00:00",
+      "last_seen": "2026-11-06T15:12:26+00:00",
+      "location": "Palo Alto, CA, Los Angeles, CA",
+      "posted_at": "1793937996",
+      "source": "vanshb03",
+      "title": "Backend Engineer Intern",
+      "url": "https://go.vansh.nyc/1kj"
     },
     "vanshb03:mathtech::vanshb03-a3c476d8-893d-4647-ae26-c33f13121cee": {
       "company": "Mathtech",
@@ -80024,5 +80044,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T14:59:25+00:00"
+  "updated_at": "2026-11-06T15:12:28+00:00"
 }
