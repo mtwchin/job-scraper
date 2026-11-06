@@ -1,5 +1,5 @@
 {
-  "count": 9044,
+  "count": 9045,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1710,6 +1710,15 @@
       "source": "vanshb03",
       "title": "Software Engineer Co-op",
       "url": "https://go.vansh.nyc/Xu"
+    },
+    "vanshb03:salesforce::vanshb03-9821be37-9467-4367-bf4e-a498d12e4d39": {
+      "attempted_at": "2026-11-06T00:21:18+00:00",
+      "company": "Salesforce",
+      "location": "Dallas, TX",
+      "posted_at": "1793923488",
+      "source": "vanshb03",
+      "title": "Systems Engineering Associate",
+      "url": "https://go.vansh.nyc/1jP"
     },
     "vanshb03:salesforce::vanshb03-a37a1acf-a0a0-4dc4-b183-d7050135a28f": {
       "attempted_at": "2026-10-27T22:38:11+00:00",
@@ -72666,6 +72675,16 @@
       "title": "Software Engineer Intern",
       "url": "https://lnw.wd5.myworkdayjobs.com/en-US/LightWonderExternalCareers/job/Las-Vegas-NV/Software-Engineer---Intern_R323017"
     },
+    "vanshb03:light & wonder::vanshb03-9903862f-8590-413d-abb6-f842d803d1c9": {
+      "company": "Light & Wonder",
+      "first_seen": "2026-11-06T01:10:31+00:00",
+      "last_seen": "2026-11-06T01:10:31+00:00",
+      "location": "Reno, NV",
+      "posted_at": "1793927151",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1jR"
+    },
     "vanshb03:linkedin::vanshb03-d1dc33d2-36e1-4f24-bd0b-d8b4f6e5694b": {
       "company": "LinkedIn",
       "first_seen": "2026-11-04T19:03:02+00:00",
@@ -79885,5 +79904,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T00:03:45+00:00"
+  "updated_at": "2026-11-06T01:10:49+00:00"
 }
