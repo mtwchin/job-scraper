@@ -1,5 +1,5 @@
 {
-  "count": 9085,
+  "count": 9086,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71915,6 +71915,16 @@
       "title": "Software Engineer I",
       "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931"
     },
+    "vanshb03:hootsuite::vanshb03-28116d33-a609-4059-b45c-16f8734dc18a": {
+      "company": "Hootsuite",
+      "first_seen": "2026-11-06T21:15:44+00:00",
+      "last_seen": "2026-11-06T21:15:44+00:00",
+      "location": "Vancouver, Canada, Toronto, Canada",
+      "posted_at": "1793996800",
+      "source": "vanshb03",
+      "title": "Software Development Co-op",
+      "url": "https://go.vansh.nyc/1lf"
+    },
     "vanshb03:hpr::vanshb03-e563fe75-dbf7-4799-9d0c-f3586112ce97": {
       "company": "HPR",
       "first_seen": "2026-10-25T08:27:15+00:00",
@@ -80310,5 +80320,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T20:40:45+00:00"
+  "updated_at": "2026-11-06T21:15:47+00:00"
 }
