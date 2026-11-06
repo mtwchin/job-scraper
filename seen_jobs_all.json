@@ -1,5 +1,5 @@
 {
-  "count": 9046,
+  "count": 9047,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -34676,7 +34676,7 @@
     "simplify:keysight technologies::simplify-564f421d-34c1-4db7-885e-4f6f0bd915df": {
       "company": "Keysight Technologies",
       "first_seen": "2026-11-05T02:31:57+00:00",
-      "last_seen": "2026-11-05T02:31:57+00:00",
+      "last_seen": "2026-11-06T02:32:32+00:00",
       "location": "Santa Rosa, CA",
       "posted_at": "1793837460",
       "source": "simplify",
@@ -36903,6 +36903,16 @@
       "posted_at": "1787097600",
       "title": "Associate Software Engineer",
       "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Associate-Software-Engineer_R322683"
+    },
+    "simplify:light & wonder::simplify-f175936e-7cd2-44d3-8f3d-2c881af188ce": {
+      "company": "Light & Wonder",
+      "first_seen": "2026-11-06T02:32:32+00:00",
+      "last_seen": "2026-11-06T02:32:32+00:00",
+      "location": "Reno, NV",
+      "posted_at": "1793931548",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"
     },
     "simplify:lightcast::simplify-0b926dfc-d03c-4a6d-9ed1-fb53005cb7a4": {
       "company": "Lightcast",
@@ -79914,5 +79924,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T02:16:52+00:00"
+  "updated_at": "2026-11-06T02:32:55+00:00"
 }
