@@ -1,5 +1,5 @@
 {
-  "count": 9070,
+  "count": 9071,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -72247,6 +72247,16 @@
       "title": "Vehicle Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/inversionspace/jobs/4745083005"
     },
+    "vanshb03:invitation-charter::vanshb03-fe6fdf54-5e01-45d7-8b73-750989d7ca11": {
+      "company": "Invitation-charter",
+      "first_seen": "2026-11-06T16:16:26+00:00",
+      "last_seen": "2026-11-06T16:16:26+00:00",
+      "location": "Englewood, CO",
+      "posted_at": "1793981214",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1kv"
+    },
     "vanshb03:iridium communications::vanshb03-b3079d04-e46e-474a-964f-7f4335aabf74": {
       "company": "Iridium Communications",
       "first_seen": "2026-11-01T00:13:51+00:00",
@@ -80158,5 +80168,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T16:03:36+00:00"
+  "updated_at": "2026-11-06T16:16:38+00:00"
 }
