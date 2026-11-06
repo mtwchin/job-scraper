@@ -1,5 +1,5 @@
 {
-  "count": 9073,
+  "count": 9074,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -76966,6 +76966,18 @@
       "title": "T-Ads Software Engineering Intern",
       "url": "https://go.vansh.nyc/1er"
     },
+    "vanshb03:t-mobile::vanshb03-7f55bd2b-4377-4916-ad3e-72353142eb10": {
+      "company": "T-Mobile",
+      "duplicate_of": "vanshb03:t-mobile::vanshb03-819f96e2-7f99-4df7-8450-f112bb017b74",
+      "first_seen": "2026-11-06T17:10:26+00:00",
+      "last_seen": "2026-11-06T17:10:26+00:00",
+      "location": "Bellevue, WA",
+      "posted_at": "1793984797",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1kB"
+    },
     "vanshb03:t-mobile::vanshb03-808cc5a4-9fee-4454-8e0f-5b408d40dc9c": {
       "company": "T-Mobile",
       "duplicate_of": "vanshb03:t-mobile::vanshb03-819f96e2-7f99-4df7-8450-f112bb017b74",
@@ -80188,5 +80200,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T16:40:41+00:00"
+  "updated_at": "2026-11-06T17:10:44+00:00"
 }
