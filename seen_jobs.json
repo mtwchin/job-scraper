@@ -1,5 +1,5 @@
 {
-  "count": 7900,
+  "count": 7901,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -60123,6 +60123,16 @@
       "title": "Flight Software Intern",
       "url": "https://go.vansh.nyc/Jn"
     },
+    "vanshb03:astranis::vanshb03-350d28f8-5462-4813-9d81-b07550f1c3bd": {
+      "company": "Astranis",
+      "first_seen": "2026-11-06T23:10:28+00:00",
+      "last_seen": "2026-11-06T23:10:28+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1794004814",
+      "source": "vanshb03",
+      "title": "Embedded Software Developer Intern, Network/Payload",
+      "url": "https://go.vansh.nyc/1lz"
+    },
     "vanshb03:atlassian::vanshb03-1133c4b4-7c0a-4f83-a978-519b8f8d0cb3": {
       "company": "Atlassian",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -67177,5 +67187,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T22:32:04+00:00"
+  "updated_at": "2026-11-06T23:11:07+00:00"
 }
