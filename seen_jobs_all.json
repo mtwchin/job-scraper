@@ -1,5 +1,5 @@
 {
-  "count": 9051,
+  "count": 9052,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -34245,7 +34245,7 @@
     "simplify:k-id::simplify-d1956f60-b9eb-4d52-8da7-ac5ab857772b": {
       "company": "k-ID",
       "first_seen": "2026-08-01T21:25:18+00:00",
-      "last_seen": "2026-10-23T00:02:39+00:00",
+      "last_seen": "2026-11-06T11:02:10+00:00",
       "posted_at": "1784596670",
       "title": "Engineering Intern - Program",
       "url": "https://jobs.ashbyhq.com/k-id/18619df2-45d8-4732-8815-9a340d498d48/application?embed=true"
@@ -52547,6 +52547,16 @@
       "posted_at": "1782425175",
       "title": "Application Analyst 1",
       "url": "https://careers-ruralking.icims.com/jobs/38941/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:ryan::simplify-735655c4-f70b-4be5-ba86-d6fd7a348457": {
+      "company": "Ryan",
+      "first_seen": "2026-11-06T11:02:10+00:00",
+      "last_seen": "2026-11-06T11:02:10+00:00",
+      "location": "North York, ON, Canada",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Summer-2027-Intern--Software-Engineering_R0020806-1"
     },
     "simplify:ryan::simplify-9ca48e9a-a09b-4300-802e-47d9b4466d99": {
       "company": "Ryan",
@@ -79964,5 +79974,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-06T10:32:12+00:00"
+  "updated_at": "2026-11-06T11:02:15+00:00"
 }
