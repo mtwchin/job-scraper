@@ -1,5 +1,5 @@
 {
-  "count": 9146,
+  "count": 9150,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -70974,6 +70974,16 @@
       "title": "Entry Level Software Developer",
       "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false"
     },
+    "vanshb03:dayton freight::vanshb03-5fb0fbdb-db5e-4be8-ba77-c7e1b6122f87": {
+      "company": "Dayton Freight",
+      "first_seen": "2026-11-07T17:14:39+00:00",
+      "last_seen": "2026-11-07T17:14:39+00:00",
+      "location": "Dayton, OH",
+      "posted_at": "1794071215",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1m9"
+    },
     "vanshb03:de shaw::vanshb03-d9afb286-3ab9-41bd-bea3-d54207ec3a07": {
       "company": "DE Shaw",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -71410,6 +71420,16 @@
       "source": "vanshb03",
       "title": "Associate Software Engineer",
       "url": "https://jobs.jobvite.com/emoneyadvisor-review/job/oD9hxfwk"
+    },
+    "vanshb03:empirical::vanshb03-01b87f50-811e-49de-8736-42da45c82da8": {
+      "company": "empirical",
+      "first_seen": "2026-11-07T17:14:39+00:00",
+      "last_seen": "2026-11-07T17:14:39+00:00",
+      "location": "Dakota Dunes, SD",
+      "posted_at": "1794071215",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1mg"
     },
     "vanshb03:endeavorai.com::vanshb03-af214ab6-d98e-4772-be80-9392a55c20fd": {
       "company": "endeavorai.com",
@@ -77361,6 +77381,26 @@
       "title": "Software Engineer Intern, AI Infrastructure / Training / Inference",
       "url": "https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1"
     },
+    "vanshb03:springs window fashions::vanshb03-40d4886d-46a0-4351-aab3-90949018dc80": {
+      "company": "Springs Window Fashions",
+      "first_seen": "2026-11-07T17:14:39+00:00",
+      "last_seen": "2026-11-07T17:14:39+00:00",
+      "location": "Long Island City, NY",
+      "posted_at": "1794071215",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1mf"
+    },
+    "vanshb03:springs window fashions::vanshb03-6a809ff4-4c16-47ae-afa5-988a08d9c83e": {
+      "company": "Springs Window Fashions",
+      "first_seen": "2026-11-07T17:14:39+00:00",
+      "last_seen": "2026-11-07T17:14:39+00:00",
+      "location": "Middleton, WI",
+      "posted_at": "1794071215",
+      "source": "vanshb03",
+      "title": "Textile Engineering Analytics & Software Intern",
+      "url": "https://go.vansh.nyc/1me"
+    },
     "vanshb03:squaretrade::vanshb03-34e6d9f1-3982-42b3-944a-df9b33b26baf": {
       "company": "SquareTrade",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -80920,5 +80960,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-07T13:15:41+00:00"
+  "updated_at": "2026-11-07T17:14:48+00:00"
 }
