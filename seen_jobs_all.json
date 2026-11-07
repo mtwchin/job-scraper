@@ -1,5 +1,5 @@
 {
-  "count": 9142,
+  "count": 9143,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -65647,6 +65647,16 @@
       "title": "Software Engineer Consulting Intern - AI Concentration",
       "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6173003004"
     },
+    "simplify:west monroe::simplify-82d52f8a-60a6-470b-abc6-feb1c6b7df89": {
+      "company": "West Monroe",
+      "first_seen": "2026-11-07T10:32:23+00:00",
+      "last_seen": "2026-11-07T10:32:23+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1791269207",
+      "source": "simplify",
+      "title": "Software Engineering Consultant Intern - AI Concentration",
+      "url": "https://westmonroe.com/careers/job-details-students?gh_jid=6183029004"
+    },
     "simplify:west monroe::simplify-85f5fdbe-da5d-442d-be70-bf1fbe77e77b": {
       "company": "West Monroe",
       "first_seen": "2026-10-06T07:02:27+00:00",
@@ -80880,5 +80890,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-07T08:03:24+00:00"
+  "updated_at": "2026-11-07T10:32:29+00:00"
 }
