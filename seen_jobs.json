@@ -851,12 +851,9 @@
   "delivery_rejections": {},
   "health_reported": [
     "Blackrock",
-    "Blue Origin",
     "Cisco",
-    "Disney",
     "Intel",
     "PayPal",
-    "Red Hat",
     "Workday",
     "Zoom"
   ],
@@ -67267,5 +67264,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-07T08:38:51+00:00"
+  "updated_at": "2026-11-07T08:45:53+00:00"
 }
