@@ -1,5 +1,5 @@
 {
-  "count": 9141,
+  "count": 9142,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -17646,6 +17646,16 @@
       "posted_at": "1784592000",
       "title": "Full-Stack Software Engineer Intern",
       "url": "https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Full-Stack-Software-Engineer-Internship--Summer-2027-_R1350"
+    },
+    "simplify:category labs::simplify-482492ee-a5b2-4831-a3e9-65a37b6c1a46": {
+      "company": "Category Labs",
+      "first_seen": "2026-11-07T08:02:23+00:00",
+      "last_seen": "2026-11-07T08:02:23+00:00",
+      "location": "NYC",
+      "posted_at": "1794009600",
+      "source": "simplify",
+      "title": "Research Intern",
+      "url": "https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?embed=true"
     },
     "simplify:caterpillar inc.::simplify-352477a3-29ad-47a1-9809-69a1da28d66c": {
       "company": "Caterpillar Inc.",
@@ -80870,5 +80880,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-07T07:30:21+00:00"
+  "updated_at": "2026-11-07T08:03:24+00:00"
 }
