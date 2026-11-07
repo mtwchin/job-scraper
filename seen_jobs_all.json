@@ -1,5 +1,5 @@
 {
-  "count": 9139,
+  "count": 9140,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6560,7 +6560,7 @@
     "simplify:accenture::simplify-14e80d85-4ad4-4325-8b16-b03eeeb9834d": {
       "company": "Accenture",
       "first_seen": "2026-09-10T23:38:18+00:00",
-      "last_seen": "2026-10-23T00:02:39+00:00",
+      "last_seen": "2026-11-07T03:03:04+00:00",
       "posted_at": "1788998400",
       "title": "Technology Summer Analyst - Multiple Teams",
       "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Technology-Summer-Analyst---Various-Locations---NAELFY27_R00355981"
@@ -37729,6 +37729,16 @@
       "title": "Engineer \u2013 Generalist",
       "url": "https://jobs.lever.co/lumaril-corporation/bf68ec9b-b6a6-48da-b532-b3254dec1cd1/apply"
     },
+    "simplify:lumentum::simplify-4c35ea86-4881-4a1a-8263-44df9a6b8c5b": {
+      "company": "Lumentum",
+      "first_seen": "2026-11-07T03:03:04+00:00",
+      "last_seen": "2026-11-07T03:03:04+00:00",
+      "location": "Ottawa, ON, Canada",
+      "posted_at": "1793923200",
+      "source": "simplify",
+      "title": "Process Automation Software Engineer - MEMS",
+      "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Automation-Software-Engineer---MEMS_20261527"
+    },
     "simplify:lumentum::simplify-6df12b44-dd54-4190-9e0b-c129286498e4": {
       "company": "Lumentum",
       "first_seen": "2026-07-21T10:51:40+00:00",
@@ -64720,7 +64730,7 @@
     "simplify:visa::simplify-4c2d5f64-e8be-4bd2-b925-eea984ca00ab": {
       "company": "Visa",
       "first_seen": "2026-10-07T01:33:53+00:00",
-      "last_seen": "2026-11-02T00:01:58+00:00",
+      "last_seen": "2026-11-07T03:03:04+00:00",
       "location": "Austin, TX",
       "posted_at": "1791335194",
       "source": "simplify",
@@ -80850,5 +80860,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-07T02:33:04+00:00"
+  "updated_at": "2026-11-07T03:03:08+00:00"
 }
