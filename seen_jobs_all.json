@@ -1,5 +1,5 @@
 {
-  "count": 9135,
+  "count": 9138,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -8629,6 +8629,16 @@
       "posted_at": "1778191356",
       "title": "Software Development Engineer - AWS Data Services",
       "url": "https://amazon.jobs/en/jobs/10414316/software-development-engineer-aws-data-services-2026-us"
+    },
+    "simplify:amazon::simplify-e7b2cc70-862f-4045-bc00-627e408d80b1": {
+      "company": "Amazon",
+      "first_seen": "2026-11-07T00:01:50+00:00",
+      "last_seen": "2026-11-07T00:01:50+00:00",
+      "location": "Denver, CO",
+      "posted_at": "1794008658",
+      "source": "simplify",
+      "title": "Systems Development Engineer - AWS Commerce Platform-ADC",
+      "url": "https://amazon.jobs/en/jobs/10598815/systems-development-engineer-aws-commerce-platform-adc"
     },
     "simplify:amazon::simplify-ea127849-c2ce-48a3-8ef5-8024831dc02e": {
       "company": "Amazon",
@@ -32533,6 +32543,16 @@
       "title": "Software Engineer Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834"
     },
+    "simplify:intel::simplify-bdb0207c-3202-40fe-b709-7747795a55f5": {
+      "company": "Intel",
+      "first_seen": "2026-11-07T00:01:50+00:00",
+      "last_seen": "2026-11-07T00:01:50+00:00",
+      "location": "Hillsboro, OR",
+      "posted_at": "1793923200",
+      "source": "simplify",
+      "title": "Software Performance Engineer",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Performance-Engineer_JR0288983"
+    },
     "simplify:intel::simplify-c76bdf45-b985-490a-83f2-38586bb77ae5": {
       "company": "Intel",
       "first_seen": "2026-10-28T22:31:19+00:00",
@@ -39934,6 +39954,16 @@
       "posted_at": "1778767648",
       "title": "Software Engineer 2 - Foundry Agents - CoreAI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556863227"
+    },
+    "simplify:microsoft::simplify-5b152919-6dd2-49e1-9338-9bec77d7fdd3": {
+      "company": "Microsoft",
+      "first_seen": "2026-11-07T00:01:50+00:00",
+      "last_seen": "2026-11-07T00:01:50+00:00",
+      "location": "Reston, VA",
+      "posted_at": "1794008282",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557053350"
     },
     "simplify:microsoft::simplify-6245b5b1-9a7d-4d30-aabb-19a2cedbde40": {
       "company": "Microsoft",
@@ -80810,5 +80840,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-07T00:01:59+00:00"
+  "updated_at": "2026-11-07T02:00:01+00:00"
 }
