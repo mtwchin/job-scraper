@@ -1,5 +1,5 @@
 {
-  "count": 9143,
+  "count": 9146,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -67593,6 +67593,26 @@
       "title": "New Grad 2026: Software Engineer",
       "url": "https://careers.adobe.com/us/en/job/ADOBUSR159933EXTERNALENUS/2026-University-Graduate-Software-Engineer"
     },
+    "vanshb03:aechelon technology::vanshb03-0e484cfb-1c06-4b49-aac5-c917f96ff4cb": {
+      "company": "Aechelon Technology",
+      "first_seen": "2026-11-07T13:15:39+00:00",
+      "last_seen": "2026-11-07T13:15:39+00:00",
+      "location": "Overland Park, KS",
+      "posted_at": "1786652134",
+      "source": "vanshb03",
+      "title": "Junior Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1m2"
+    },
+    "vanshb03:aechelon technology::vanshb03-7c7f1bb6-c0a0-4187-acf8-32ac98907ddb": {
+      "company": "Aechelon Technology",
+      "first_seen": "2026-11-07T13:15:39+00:00",
+      "last_seen": "2026-11-07T13:15:39+00:00",
+      "location": "Farmer's Branch, TX",
+      "posted_at": "1786652313",
+      "source": "vanshb03",
+      "title": "Junior Software Engineer Intern, RTK",
+      "url": "https://go.vansh.nyc/1m3"
+    },
     "vanshb03:aero::vanshb03-a2a4f3cb-d6a9-4249-a39f-481670583669": {
       "company": "Aero",
       "first_seen": "2026-10-26T14:03:25+00:00",
@@ -72569,6 +72589,16 @@
       "source": "vanshb03",
       "title": "Cloud Software Engineering Intern",
       "url": "https://uscareers-idemia.icims.com/jobs/8707/cloud-software-engineering-internship/job"
+    },
+    "vanshb03:idemia::vanshb03-45e00c75-26c7-4bd1-9d26-27af2fd8e1f4": {
+      "company": "IDEMIA",
+      "first_seen": "2026-11-07T13:15:39+00:00",
+      "last_seen": "2026-11-07T13:15:39+00:00",
+      "location": "Brentwood, TN",
+      "posted_at": "1794009600",
+      "source": "vanshb03",
+      "title": "Service Platform Engineering Intern",
+      "url": "https://go.vansh.nyc/1m1"
     },
     "vanshb03:idemia::vanshb03-bbbcffba-39a0-4f4f-8e5b-dfe4a2d95709": {
       "company": "IDEMIA",
@@ -80890,5 +80920,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-07T13:00:38+00:00"
+  "updated_at": "2026-11-07T13:15:41+00:00"
 }
