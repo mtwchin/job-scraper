@@ -1,5 +1,5 @@
 {
-  "count": 9138,
+  "count": 9139,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6362,6 +6362,16 @@
       "posted_at": "1787706452",
       "title": "Business Technology Solutions Intern - Data & Software Engineering",
       "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860306"
+    },
+    "simplify:abbvie::simplify-4b5a24bb-4cb3-4d79-95d7-860287cc32b8": {
+      "company": "AbbVie",
+      "first_seen": "2026-11-07T02:32:04+00:00",
+      "last_seen": "2026-11-07T02:32:04+00:00",
+      "location": "North Chicago, IL",
+      "posted_at": "1794014714",
+      "source": "simplify",
+      "title": "Associate Software Engineer 1",
+      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016715126"
     },
     "simplify:abbvie::simplify-8172b446-22d1-4377-b335-6f5fd54371aa": {
       "company": "AbbVie",
@@ -80840,5 +80850,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-07T02:00:01+00:00"
+  "updated_at": "2026-11-07T02:33:04+00:00"
 }
