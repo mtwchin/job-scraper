@@ -851,11 +851,8 @@
   "delivery_rejections": {},
   "health_reported": [
     "Blackrock",
-    "Cisco",
     "Intel",
-    "PayPal",
-    "Workday",
-    "Zoom"
+    "PayPal"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -67264,5 +67261,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-07T08:45:53+00:00"
+  "updated_at": "2026-11-07T08:46:55+00:00"
 }
