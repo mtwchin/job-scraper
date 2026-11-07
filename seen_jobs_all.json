@@ -1,5 +1,5 @@
 {
-  "count": 9140,
+  "count": 9141,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -66967,6 +66967,16 @@
       "title": "Software Development Intern",
       "url": "https://jobs.smartrecruiters.com/CustomShow/75886593"
     },
+    "simplify:zoox::simplify-074c9d6a-c89d-49bf-b2ab-27d71b051a60": {
+      "company": "Zoox",
+      "first_seen": "2026-11-07T03:02:19+00:00",
+      "last_seen": "2026-11-07T03:02:19+00:00",
+      "location": "Foster City, CA",
+      "posted_at": "1794019460",
+      "source": "simplify",
+      "title": "AI Workflows & Safety Decision Making Intern",
+      "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1/apply"
+    },
     "simplify:zoox::simplify-63b2b431-dd8a-4ed5-8d8d-ae9abcc4878a": {
       "company": "Zoox",
       "first_seen": "2026-07-21T06:16:21+00:00",
@@ -80860,5 +80870,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-07T03:03:08+00:00"
+  "updated_at": "2026-11-07T07:30:21+00:00"
 }
