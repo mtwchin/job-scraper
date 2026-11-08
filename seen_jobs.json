@@ -1,5 +1,5 @@
 {
-  "count": 7909,
+  "count": 7914,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -47395,6 +47395,16 @@
       "title": "Software Engineer 1 New Grad - Software - Factory Team",
       "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true"
     },
+    "simplify:shield ai::simplify-2a02aac8-141d-448e-bdf4-a6842f1f372e": {
+      "company": "Shield AI",
+      "first_seen": "2026-11-08T23:32:08+00:00",
+      "last_seen": "2026-11-08T23:32:08+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1794096000",
+      "source": "simplify",
+      "title": "Engineer 1 New Grad - Software - Perception",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7/application?embed=true"
+    },
     "simplify:shield ai::simplify-2b3eca81-2577-435b-bff1-4b7a0b5a3e9a": {
       "company": "Shield AI",
       "first_seen": "2026-10-07T22:34:02+00:00",
@@ -47424,6 +47434,16 @@
       "source": "simplify",
       "title": "Software Integration Engineer 1 New Grad - Software Integration",
       "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/bffebf59-65b7-4f4f-805e-a9cdf0d2b252/application?embed=true"
+    },
+    "simplify:shield ai::simplify-5443fedc-d890-4929-9ace-e2ce40d1b5a6": {
+      "company": "Shield AI",
+      "first_seen": "2026-11-08T23:32:08+00:00",
+      "last_seen": "2026-11-08T23:32:08+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1794096000",
+      "source": "simplify",
+      "title": "Engineer 1 New Grad - Software - Autonomous Pilot Integration",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/29917792-e504-4cb5-9e70-9d74212d3b1f/application?embed=true"
     },
     "simplify:shield ai::simplify-5e01c887-e95d-4785-9a00-436d4da36038": {
       "company": "Shield AI",
@@ -47493,6 +47513,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010/apply"
     },
+    "simplify:shield ai::simplify-bead51fa-aa91-421e-9b22-bc3e451072b1": {
+      "company": "Shield AI",
+      "first_seen": "2026-11-08T23:32:08+00:00",
+      "last_seen": "2026-11-08T23:32:08+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1794179354",
+      "source": "simplify",
+      "title": "Engineer 2 New Grad - Multiple Teams",
+      "url": "https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff/apply"
+    },
     "simplify:shield ai::simplify-c0e68386-5f91-485f-86a7-c92db1919740": {
       "company": "Shield AI",
       "first_seen": "2026-10-10T06:37:11+00:00",
@@ -47502,6 +47532,26 @@
       "source": "simplify",
       "title": "Software Engineer 1 - Factory Team",
       "url": "https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68/apply"
+    },
+    "simplify:shield ai::simplify-cb9057c1-ead7-42d2-8535-e6ee376a8005": {
+      "company": "Shield AI",
+      "first_seen": "2026-11-08T23:32:08+00:00",
+      "last_seen": "2026-11-08T23:32:08+00:00",
+      "location": "United States",
+      "posted_at": "1794096000",
+      "source": "simplify",
+      "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true"
+    },
+    "simplify:shield ai::simplify-cbd9ea2f-0c98-4c65-b81a-72290dca5c9c": {
+      "company": "Shield AI",
+      "first_seen": "2026-11-08T23:32:08+00:00",
+      "last_seen": "2026-11-08T23:32:08+00:00",
+      "location": "United States",
+      "posted_at": "1794179352",
+      "source": "simplify",
+      "title": "Engineer 1 New Grad - Software - Autonomy Capabilities",
+      "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896/apply"
     },
     "simplify:shopback::simplify-2555118e-7714-4f03-b900-03de0e5c29db": {
       "company": "ShopBack",
@@ -67267,5 +67317,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-08T13:12:59+00:00"
+  "updated_at": "2026-11-08T23:32:58+00:00"
 }
