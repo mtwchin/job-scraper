@@ -1,5 +1,5 @@
 {
-  "count": 9152,
+  "count": 9153,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -76736,6 +76736,18 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/1cS"
     },
+    "vanshb03:ryan::vanshb03-8bb8c0d3-3452-4c57-ad7b-6fdb0385312f": {
+      "company": "Ryan",
+      "duplicate_of": "simplify:ryan::simplify-735655c4-f70b-4be5-ba86-d6fd7a348457",
+      "first_seen": "2026-11-08T13:12:47+00:00",
+      "last_seen": "2026-11-08T13:12:47+00:00",
+      "location": "North York, Canada",
+      "posted_at": "1793232000",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1mO"
+    },
     "vanshb03:safran::vanshb03-d4d8496f-7104-4259-b775-6a77600f6f34": {
       "company": "Safran",
       "first_seen": "2026-10-22T02:34:49+00:00",
@@ -80980,5 +80992,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-08T11:01:46+00:00"
+  "updated_at": "2026-11-08T13:12:51+00:00"
 }
