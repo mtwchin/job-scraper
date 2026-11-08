@@ -1,5 +1,5 @@
 {
-  "count": 9151,
+  "count": 9152,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -73311,6 +73311,16 @@
       "title": "Software Engineering Intern",
       "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern_2642189-1"
     },
+    "vanshb03:klaviyo::vanshb03-2e219007-5a68-4e1f-9e7e-eb3fe131f951": {
+      "company": "Klaviyo",
+      "first_seen": "2026-11-08T05:12:11+00:00",
+      "last_seen": "2026-11-08T05:12:11+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1793363833",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1mK"
+    },
     "vanshb03:knowbe4::vanshb03-0e2a9fdd-5b7e-481b-980c-6d2373b376e3": {
       "company": "KnowBe4",
       "first_seen": "2026-11-01T21:11:57+00:00",
@@ -80970,5 +80980,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-08T00:03:12+00:00"
+  "updated_at": "2026-11-08T05:12:19+00:00"
 }
