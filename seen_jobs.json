@@ -1,5 +1,5 @@
 {
-  "count": 7908,
+  "count": 7909,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -61614,6 +61614,16 @@
       "title": "New Grad 2027: Software Engineer",
       "url": "https://go.vansh.nyc/Kd"
     },
+    "vanshb03:doordash::vanshb03-590f0187-974f-46ce-a63e-aa00578c8907": {
+      "company": "DoorDash",
+      "first_seen": "2026-11-08T13:12:37+00:00",
+      "last_seen": "2026-11-08T13:12:37+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1793905182",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1mQ"
+    },
     "vanshb03:doordash::vanshb03-70264109-99ca-4129-bc64-efa7eb25fa59": {
       "company": "DoorDash",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -67257,5 +67267,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-08T00:05:10+00:00"
+  "updated_at": "2026-11-08T13:12:59+00:00"
 }
