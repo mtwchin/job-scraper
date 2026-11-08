@@ -1,5 +1,5 @@
 {
-  "count": 9160,
+  "count": 9161,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -70285,6 +70285,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/1e7"
     },
+    "vanshb03:charles schwab::vanshb03-318f0a61-91ee-4e98-88cb-67c6ce27acfe": {
+      "company": "Charles Schwab",
+      "first_seen": "2026-11-08T21:18:06+00:00",
+      "last_seen": "2026-11-08T21:18:06+00:00",
+      "location": "Omaha, NE",
+      "posted_at": "1793999600",
+      "source": "vanshb03",
+      "title": "Jr. Software Developer",
+      "url": "https://go.vansh.nyc/1nb"
+    },
     "vanshb03:charta health::vanshb03-4b0b4eb9-9bff-48a0-bd6c-314f56f46fbe": {
       "company": "Charta Health",
       "first_seen": "2026-11-03T22:13:20+00:00",
@@ -81062,5 +81072,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-08T21:15:13+00:00"
+  "updated_at": "2026-11-08T21:18:16+00:00"
 }
