@@ -1,5 +1,5 @@
 {
-  "count": 9159,
+  "count": 9160,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -72844,6 +72844,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/130"
     },
+    "vanshb03:intercontinental exchange::vanshb03-9e248626-b519-4e7f-9c7e-d1a16fac1602": {
+      "company": "Intercontinental Exchange",
+      "first_seen": "2026-11-08T21:14:38+00:00",
+      "last_seen": "2026-11-08T21:14:38+00:00",
+      "location": "New York, NY",
+      "posted_at": "1792786140",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1n6"
+    },
     "vanshb03:intercontinental exchange::vanshb03-eb3c17c5-1879-4bf5-93a7-30f1d7433f79": {
       "company": "Intercontinental Exchange",
       "first_seen": "2026-11-01T00:13:50+00:00",
@@ -81052,5 +81062,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-08T17:18:08+00:00"
+  "updated_at": "2026-11-08T21:15:13+00:00"
 }
