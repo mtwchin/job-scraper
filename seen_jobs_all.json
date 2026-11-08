@@ -1,5 +1,5 @@
 {
-  "count": 9156,
+  "count": 9159,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -67562,6 +67562,16 @@
       "title": "IT Associate Software Engineer Intern",
       "url": "https://go.vansh.nyc/Xx"
     },
+    "vanshb03:aclu kentucky::vanshb03-7a973823-2752-458d-ab30-14773b10fe25": {
+      "company": "ACLU Kentucky",
+      "first_seen": "2026-11-08T17:17:38+00:00",
+      "last_seen": "2026-11-08T17:17:38+00:00",
+      "location": "New York, NY",
+      "posted_at": "1793129801",
+      "source": "vanshb03",
+      "title": "Undergraduate Software Engineer Intern, Technology and Analytics (Educate Pod)",
+      "url": "https://go.vansh.nyc/1mY"
+    },
     "vanshb03:activision blizzard::vanshb03-24f00b37-ccc2-446f-ad23-adacfd0198b6": {
       "company": "Activision Blizzard",
       "first_seen": "2026-10-26T14:17:24+00:00",
@@ -69234,6 +69244,16 @@
       "source": "vanshb03",
       "title": "Software Developer Intern",
       "url": "https://go.vansh.nyc/SY"
+    },
+    "vanshb03:booz allen hamilton::vanshb03-2ea95c5c-8bbf-4fff-b497-844a2040d183": {
+      "company": "Booz Allen Hamilton",
+      "first_seen": "2026-11-08T17:17:38+00:00",
+      "last_seen": "2026-11-08T17:17:38+00:00",
+      "location": "Dayton, OH",
+      "posted_at": "1792972800",
+      "source": "vanshb03",
+      "title": "Systems Engineer Intern",
+      "url": "https://go.vansh.nyc/1mV"
     },
     "vanshb03:booz allen hamilton::vanshb03-2f91e9c4-1b12-4b14-a545-b8a0c3ebfe13": {
       "company": "Booz Allen Hamilton",
@@ -72993,6 +73013,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/DZ"
+    },
+    "vanshb03:john deere::vanshb03-8ef761a5-f3f8-4a85-b411-ccbb028cd05f": {
+      "company": "John Deere",
+      "first_seen": "2026-11-08T17:17:38+00:00",
+      "last_seen": "2026-11-08T17:17:38+00:00",
+      "location": "Waterloo, IA, Cary, NC",
+      "posted_at": "1792795459",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Product Engineering",
+      "url": "https://go.vansh.nyc/1mU"
     },
     "vanshb03:john deere::vanshb03-fc2f20cf-9da2-4d1c-8fc2-b7a54db14b66": {
       "company": "John Deere",
@@ -81022,5 +81052,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-08T16:32:05+00:00"
+  "updated_at": "2026-11-08T17:18:08+00:00"
 }
