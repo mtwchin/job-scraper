@@ -1,5 +1,5 @@
 {
-  "count": 9153,
+  "count": 9156,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -70890,6 +70890,26 @@
       "title": "New Grad: Backend Engineer",
       "url": "https://d3.com/careers#jobs-listing"
     },
+    "vanshb03:d3::vanshb03-65ab575c-06c1-40fa-b34d-097c1bdb1fa2": {
+      "company": "D3",
+      "first_seen": "2026-11-08T13:15:48+00:00",
+      "last_seen": "2026-11-08T13:15:48+00:00",
+      "location": "Los Angeles, CA",
+      "posted_at": "1794143551",
+      "source": "vanshb03",
+      "title": "New Grad: Frontend Engineer",
+      "url": "https://go.vansh.nyc/1mS"
+    },
+    "vanshb03:d3::vanshb03-f4bcdc3a-3cfc-45f6-b92e-4b18961afb5b": {
+      "company": "D3",
+      "first_seen": "2026-11-08T13:15:48+00:00",
+      "last_seen": "2026-11-08T13:15:48+00:00",
+      "location": "Los Angeles, CA",
+      "posted_at": "1794143551",
+      "source": "vanshb03",
+      "title": "New Grad: Backend Engineer",
+      "url": "https://go.vansh.nyc/1mR"
+    },
     "vanshb03:databricks::vanshb03-14eabd84-8b95-40f7-81db-425c63c52927": {
       "company": "Databricks",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -71201,6 +71221,16 @@
       "source": "vanshb03",
       "title": "New Grad 2027: Software Engineer",
       "url": "https://go.vansh.nyc/Kd"
+    },
+    "vanshb03:doordash::vanshb03-590f0187-974f-46ce-a63e-aa00578c8907": {
+      "company": "DoorDash",
+      "first_seen": "2026-11-08T13:12:37+00:00",
+      "last_seen": "2026-11-08T13:12:37+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1793905182",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1mQ"
     },
     "vanshb03:doordash::vanshb03-70264109-99ca-4129-bc64-efa7eb25fa59": {
       "company": "DoorDash",
@@ -80992,5 +81022,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-08T13:12:51+00:00"
+  "updated_at": "2026-11-08T13:15:53+00:00"
 }
