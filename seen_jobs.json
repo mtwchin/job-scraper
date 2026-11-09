@@ -2702,7 +2702,7 @@
     "harvey::06d64648-b84b-48ae-94a2-d9c06dfdcb5d": {
       "company": "Harvey",
       "first_seen": "2026-10-02T17:06:03+00:00",
-      "last_seen": "2026-10-27T00:00:41+00:00",
+      "last_seen": "2026-11-09T21:15:14+00:00",
       "location": "New York",
       "posted_at": "2026-10-02T17:00:56.168+00:00",
       "source": "",
@@ -2712,7 +2712,7 @@
     "harvey::3a34578d-d42e-45bb-ac5c-0c3357e8cbb7": {
       "company": "Harvey",
       "first_seen": "2026-10-02T17:06:03+00:00",
-      "last_seen": "2026-10-27T00:00:41+00:00",
+      "last_seen": "2026-11-09T21:15:14+00:00",
       "location": "San Francisco",
       "posted_at": "2026-10-02T17:00:52.813+00:00",
       "source": "",
@@ -2742,7 +2742,7 @@
     "harvey::d40e15aa-2351-4be8-ac8f-1faf60bfcdbf": {
       "company": "Harvey",
       "first_seen": "2026-10-02T17:06:03+00:00",
-      "last_seen": "2026-10-19T00:01:18+00:00",
+      "last_seen": "2026-11-09T21:15:14+00:00",
       "location": "Toronto",
       "posted_at": "2026-10-02T17:00:57.494+00:00",
       "source": "",
@@ -67417,5 +67417,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-09T20:42:48+00:00"
+  "updated_at": "2026-11-09T21:15:50+00:00"
 }
