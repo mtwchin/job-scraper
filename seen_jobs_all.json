@@ -1,5 +1,5 @@
 {
-  "count": 9218,
+  "count": 9222,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -33683,6 +33683,16 @@
       "posted_at": "1784154192",
       "title": "Linux Engineer",
       "url": "https://job-boards.greenhouse.io/janestreet/jobs/8626260002"
+    },
+    "simplify:jane street::simplify-06cbf327-ad4e-41cc-8494-8802fcc605ff": {
+      "company": "Jane Street",
+      "first_seen": "2026-11-09T23:32:02+00:00",
+      "last_seen": "2026-11-09T23:32:02+00:00",
+      "location": "NYC",
+      "posted_at": "1794242752",
+      "source": "simplify",
+      "title": "Formal Methods Research and Development Intern",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8927083002?gh_jid=8927083002"
     },
     "simplify:jane street::simplify-4770a4e3-28be-40d7-b5a2-700c0307960d": {
       "company": "Jane Street",
@@ -71914,6 +71924,16 @@
       "title": "Gameplay Programmer Intern",
       "url": "https://www.epicgames.com/site/careers/jobs/6141180004?gh_jid=6141180004"
     },
+    "vanshb03:epic games::vanshb03-89af158c-32d7-4752-971a-5c2a0e151ec1": {
+      "company": "Epic Games",
+      "first_seen": "2026-11-09T23:45:56+00:00",
+      "last_seen": "2026-11-09T23:45:56+00:00",
+      "location": "Cary, NC",
+      "posted_at": "1794265681",
+      "source": "vanshb03",
+      "title": "AI Programmer Intern",
+      "url": "https://go.vansh.nyc/1pv"
+    },
     "vanshb03:epsilon::vanshb03-23712499-9468-4090-80e8-ee398751b7d1": {
       "company": "Epsilon",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -76160,6 +76180,16 @@
       "title": "Software Engineer Intern",
       "url": "https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto/"
     },
+    "vanshb03:pivotal aero::vanshb03-5d8546fc-8669-48df-859f-81535edfea96": {
+      "company": "Pivotal Aero",
+      "first_seen": "2026-11-09T23:45:56+00:00",
+      "last_seen": "2026-11-09T23:45:56+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1794266629",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1px"
+    },
     "vanshb03:playstation waterloo co-op::vanshb03-995ba95b-1813-4800-bf2f-a3ea6364beda": {
       "company": "PlayStation Waterloo Co-Op",
       "first_seen": "2026-11-05T02:12:56+00:00",
@@ -80361,6 +80391,16 @@
       "title": "Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation",
       "url": "https://go.vansh.nyc/RP"
     },
+    "vanshb03:tonic::vanshb03-bdb0738e-89fe-4c74-ae89-a3e6f40077e8": {
+      "company": "Tonic",
+      "first_seen": "2026-11-09T23:45:56+00:00",
+      "last_seen": "2026-11-09T23:45:56+00:00",
+      "location": "Remote, United States",
+      "posted_at": "1794182400",
+      "source": "vanshb03",
+      "title": "Forward Deployed Engineer Co-op, Data De-Identification",
+      "url": "https://go.vansh.nyc/1po"
+    },
     "vanshb03:toshiba commerce solutions::vanshb03-5e261228-840f-42f5-84b9-ae1ebc3b1bae": {
       "company": "Toshiba Commerce Solutions",
       "first_seen": "2026-11-03T20:11:51+00:00",
@@ -81644,5 +81684,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-09T23:32:10+00:00"
+  "updated_at": "2026-11-09T23:46:12+00:00"
 }
