@@ -1,5 +1,5 @@
 {
-  "count": 7918,
+  "count": 7919,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2206,6 +2206,16 @@
       "source": "",
       "title": "Software Engineer Full Stack / Backend I (Co-op) - United States",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049"
+    },
+    "cisco::Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2024647-1": {
+      "company": "Cisco",
+      "first_seen": "2026-11-09T14:54:15+00:00",
+      "last_seen": "2026-11-09T14:54:15+00:00",
+      "location": "San Jose, California, US, Austin, Texas, US, RTP, North Carolina, US",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Software Engineer Full-Stack / Backend I (Intern) \u2013 United States",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2024647-1"
     },
     "cisco::Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924": {
       "company": "Cisco",
@@ -67357,5 +67367,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-09T10:32:22+00:00"
+  "updated_at": "2026-11-09T14:54:57+00:00"
 }
