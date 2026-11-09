@@ -1,5 +1,5 @@
 {
-  "count": 7920,
+  "count": 7921,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -64303,6 +64303,16 @@
       "title": "New Grad 2027: Software Engineer, Public Sector",
       "url": "https://go.vansh.nyc/Ka"
     },
+    "vanshb03:seatgeek::vanshb03-9be71852-c6b0-4056-9e1c-3665750a1199": {
+      "company": "SeatGeek",
+      "first_seen": "2026-11-09T19:10:43+00:00",
+      "last_seen": "2026-11-09T19:10:43+00:00",
+      "location": "New York, NY",
+      "posted_at": "1793222844",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1p0"
+    },
     "vanshb03:sentry::vanshb03-b562fdec-1ab1-4886-a2a1-864620b7d2d8": {
       "company": "Sentry",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -67377,5 +67387,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-09T17:40:08+00:00"
+  "updated_at": "2026-11-09T19:11:40+00:00"
 }
