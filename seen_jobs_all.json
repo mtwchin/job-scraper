@@ -1,5 +1,5 @@
 {
-  "count": 9175,
+  "count": 9178,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -67807,6 +67807,16 @@
       "title": "Software Engineer 1",
       "url": "https://go.vansh.nyc/HK"
     },
+    "vanshb03:affirm::vanshb03-20691b9f-a82b-445c-8815-01271f978a4b": {
+      "company": "Affirm",
+      "first_seen": "2026-11-09T08:14:18+00:00",
+      "last_seen": "2026-11-09T08:14:18+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1790979178",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Machine Learning",
+      "url": "https://go.vansh.nyc/1nR"
+    },
     "vanshb03:affirm::vanshb03-81196d38-84cd-4243-95d9-89a75b0f4a40": {
       "company": "Affirm",
       "duplicate_of": "vanshb03:affirm::vanshb03-1e3c4ba5-87e3-49f3-930d-ef1f99d25691",
@@ -80722,6 +80732,26 @@
       "title": "Software Developer Intern",
       "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/86808"
     },
+    "vanshb03:xai::vanshb03-1236ec56-5b53-4c21-a3a5-d1b2cb939ece": {
+      "company": "xAI",
+      "first_seen": "2026-11-09T08:14:18+00:00",
+      "last_seen": "2026-11-09T08:14:18+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1790979147",
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/1nP"
+    },
+    "vanshb03:xai::vanshb03-ee4a0d64-e248-4b1f-b5f6-653c297c2f13": {
+      "company": "xAI",
+      "first_seen": "2026-11-09T08:14:18+00:00",
+      "last_seen": "2026-11-09T08:14:18+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1790979149",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1nQ"
+    },
     "vanshb03:xcimer energy::vanshb03-855efcd0-3481-401c-83bb-18cdf25eec59": {
       "company": "Xcimer Energy",
       "first_seen": "2026-11-03T22:13:20+00:00",
@@ -81212,5 +81242,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-09T08:14:53+00:00"
+  "updated_at": "2026-11-09T09:02:57+00:00"
 }
