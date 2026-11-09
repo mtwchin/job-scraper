@@ -1,5 +1,5 @@
 {
-  "count": 7924,
+  "count": 7925,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -4728,6 +4728,16 @@
       "source": "",
       "title": "Ground Systems Engineering Intern Spring 2027",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003"
+    },
+    "rocket lab::8057246003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-11-09T22:53:31+00:00",
+      "last_seen": "2026-11-09T22:53:31+00:00",
+      "location": "Pasadena, CA",
+      "posted_at": "2026-11-09T17:52:03-05:00",
+      "source": "",
+      "title": "Software Engineer I",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8057246003"
     },
     "rocket lab::8058455003": {
       "company": "Rocket Lab",
@@ -67417,5 +67427,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-09T21:15:50+00:00"
+  "updated_at": "2026-11-09T22:53:54+00:00"
 }
