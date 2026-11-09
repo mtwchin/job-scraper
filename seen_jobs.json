@@ -1,5 +1,5 @@
 {
-  "count": 7914,
+  "count": 7915,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -64390,6 +64390,16 @@
       "title": "New Grad: Software Developer",
       "url": "https://careers.sig.com/job/SUSQA004Y9261"
     },
+    "vanshb03:sigma computing::vanshb03-35a4309c-8e46-4788-b06b-a86681ab473c": {
+      "company": "Sigma Computing",
+      "first_seen": "2026-11-09T07:10:02+00:00",
+      "last_seen": "2026-11-09T07:10:02+00:00",
+      "location": "San Francisco, CA, New York, NY",
+      "posted_at": "1791337035",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1nG"
+    },
     "vanshb03:sixtyfour (x25)::vanshb03-84367af2-83ed-47f7-a231-2418fae3f83d": {
       "company": "Sixtyfour (X25)",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -67317,5 +67327,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-09T00:06:04+00:00"
+  "updated_at": "2026-11-09T07:10:04+00:00"
 }
