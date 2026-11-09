@@ -1,5 +1,5 @@
 {
-  "count": 9205,
+  "count": 9218,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -5727,6 +5727,16 @@
       "title": "Ground Systems Engineering Intern Spring 2027",
       "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8042094003"
     },
+    "rocket lab::8057246003": {
+      "company": "Rocket Lab",
+      "first_seen": "2026-11-09T22:53:31+00:00",
+      "last_seen": "2026-11-09T22:53:31+00:00",
+      "location": "Pasadena, CA",
+      "posted_at": "2026-11-09T17:52:03-05:00",
+      "source": "",
+      "title": "Software Engineer I",
+      "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8057246003"
+    },
     "rocket lab::8058455003": {
       "company": "Rocket Lab",
       "first_seen": "2026-10-29T00:57:43+00:00",
@@ -7069,6 +7079,16 @@
       "posted_at": "1763665754",
       "title": "Rtk Internship - Junior Software Engineer",
       "url": "https://job-boards.greenhouse.io/aechelontechnology/jobs/4904960008"
+    },
+    "simplify:aecom::simplify-4152640b-1b6d-4621-9de2-e197c7cd336e": {
+      "company": "AECOM",
+      "first_seen": "2026-11-09T23:31:58+00:00",
+      "last_seen": "2026-11-09T23:31:58+00:00",
+      "location": "Tallahassee, FL",
+      "posted_at": "1794255869",
+      "source": "simplify",
+      "title": "Software Developer 1",
+      "url": "https://jobs.smartrecruiters.com/AECOM2/744000160723419"
     },
     "simplify:aecom::simplify-d78207a4-b67f-45c0-8743-fcdae0cf6380": {
       "company": "AECOM",
@@ -11307,6 +11327,16 @@
       "title": "Manufacturing Solutions Specialist",
       "url": "https://jobs.armstrong.com/job/Salt-Lake-City-Manufacturing-Solutions-Specialist-Job-Utah/1386739100/?ats=successfactors"
     },
+    "simplify:art of problem solving::simplify-ee2563b2-9b6b-44b2-9c70-3a8e4b9284da": {
+      "company": "Art of Problem Solving",
+      "first_seen": "2026-11-09T23:31:58+00:00",
+      "last_seen": "2026-11-09T23:31:58+00:00",
+      "location": "San Diego, CA",
+      "posted_at": "1794252580",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://artofproblemsolving.com/careers/job/8199296003?gh_jid=8199296003"
+    },
     "simplify:artera technologies::simplify-43282669-26b4-424d-a58e-152780651ad6": {
       "company": "Artera Technologies",
       "first_seen": "2026-08-03T11:36:50+00:00",
@@ -13558,6 +13588,26 @@
       "posted_at": "1782349812",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895/application"
+    },
+    "simplify:biodesix::simplify-4addda59-dd49-4992-a0f7-cdd03e19a8c0": {
+      "company": "Biodesix",
+      "first_seen": "2026-11-09T23:31:58+00:00",
+      "last_seen": "2026-11-09T23:31:58+00:00",
+      "location": "Louisville, CO",
+      "posted_at": "1794243668",
+      "source": "simplify",
+      "title": "AI Research & Development Intern",
+      "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4485306009"
+    },
+    "simplify:biodesix::simplify-b00ca55a-feeb-45fc-992e-37138258392c": {
+      "company": "Biodesix",
+      "first_seen": "2026-11-09T23:31:58+00:00",
+      "last_seen": "2026-11-09T23:31:58+00:00",
+      "location": "Louisville, CO",
+      "posted_at": "1794243706",
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://www.biodesix.com/careers/current-openings?gh_jid=4485410009"
     },
     "simplify:biogen::simplify-3922d4b5-0abb-4220-a5a2-9a47a2faba53": {
       "company": "Biogen",
@@ -37430,6 +37480,16 @@
       "title": "Application Engineer",
       "url": "https://ats.rippling.com/lightguide/jobs/6571ec49-8229-40b0-be4b-6b031d5c5af8"
     },
+    "simplify:lila sciences::simplify-5d76baf6-4844-4194-bbcc-1389f637363d": {
+      "company": "Lila Sciences",
+      "first_seen": "2026-11-09T23:31:58+00:00",
+      "last_seen": "2026-11-09T23:31:58+00:00",
+      "location": "SF",
+      "posted_at": "1794248995",
+      "source": "simplify",
+      "title": "Applied AI Platform Engineer Co-op",
+      "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4472540009"
+    },
     "simplify:lila sciences::simplify-81b53a9d-31ff-4481-83c9-87505d06dbab": {
       "company": "Lila Sciences",
       "first_seen": "2026-10-28T22:32:28+00:00",
@@ -39420,6 +39480,16 @@
       "posted_at": "1787341447",
       "title": "Software Engineer 1 Test",
       "url": "https://careers-mercuryinsurance.icims.com/jobs/6745/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:mercury insurance::simplify-8fdeb561-a8db-4d1a-a92f-1065c24f4d9d": {
+      "company": "Mercury Insurance",
+      "first_seen": "2026-11-09T23:31:58+00:00",
+      "last_seen": "2026-11-09T23:31:58+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1794182400",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://careers-mercuryinsurance.icims.com/jobs/6943/job?mobile=true&needsRedirect=false"
     },
     "simplify:mercury insurance::simplify-9e675a71-dd54-4b7e-9dad-72b84c93433e": {
       "company": "Mercury Insurance",
@@ -53140,6 +53210,16 @@
       "title": "Software Development Intern",
       "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Plano/Summer-2027-Intern--Software-Development_R0020822"
     },
+    "simplify:ryan::simplify-f011fb5a-1c6a-4bd5-b057-c3c730ee16ce": {
+      "company": "Ryan",
+      "first_seen": "2026-11-09T23:31:58+00:00",
+      "last_seen": "2026-11-09T23:31:58+00:00",
+      "location": "Burlington, VT",
+      "posted_at": "1794182400",
+      "source": "simplify",
+      "title": "Application Development Intern - Application Development",
+      "url": "https://ryan.wd1.myworkdayjobs.com/Students-Graduates/job/Burlington/Summer-2027-Intern--Application-Development_R0020810"
+    },
     "simplify:ryder system::simplify-3115293e-b441-44c4-a702-ffbbf8b9ef9e": {
       "company": "Ryder System",
       "first_seen": "2026-07-21T10:51:40+00:00",
@@ -57379,6 +57459,16 @@
       "posted_at": "1784596650",
       "title": "Junior Software Engineer",
       "url": "https://ats.rippling.com/supernova-technology/jobs/7ea1a05c-b0e6-4f1a-b53c-193ce3d91502"
+    },
+    "simplify:sur la table::simplify-7c4d202a-5223-4dae-849f-21fa7489315e": {
+      "company": "Sur La Table",
+      "first_seen": "2026-11-09T23:31:58+00:00",
+      "last_seen": "2026-11-09T23:31:58+00:00",
+      "location": "Toronto, ON, Canada, Remote in USA",
+      "posted_at": "1794266373",
+      "source": "simplify",
+      "title": "Junior Software Engineer",
+      "url": "https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185/apply"
     },
     "simplify:susquehanna international group (sig)::simplify-06099fa3-77ff-4576-859d-299374395c99": {
       "company": "Susquehanna International Group (SIG)",
@@ -65442,6 +65532,16 @@
       "title": "Full Stack Developer Intern",
       "url": "https://jobs.ashbyhq.com/walrusfi/99c93c0e-ed9a-4e41-862a-0cdbe71d7d54"
     },
+    "simplify:warner bros.::simplify-99f97a9b-d612-47ee-aed7-7b2e1f5083af": {
+      "company": "Warner Bros.",
+      "first_seen": "2026-11-09T23:31:58+00:00",
+      "last_seen": "2026-11-09T23:31:58+00:00",
+      "location": "Needham, MA",
+      "posted_at": "1794182400",
+      "source": "simplify",
+      "title": "Software Engineer Co-op",
+      "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/MA-Needham-117-Kendrick-St/WB-Games-Engineering-Co-op--Needham--MA---January-May-2027_R000109901"
+    },
     "simplify:warner bros.::simplify-a6b38bf3-bca0-4b0e-9222-e004683aea98": {
       "company": "Warner Bros.",
       "first_seen": "2026-09-03T23:33:20+00:00",
@@ -66243,6 +66343,16 @@
       "title": "Software Engineer 1 - Backend",
       "url": "https://jobs.ashbyhq.com/whoop/0623a9e9-d7bb-4ee5-8100-51c68df81133/application?embed=true"
     },
+    "simplify:whoop::simplify-8311a236-895c-4bee-b40e-ed11cf6127e8": {
+      "company": "Whoop",
+      "first_seen": "2026-11-09T23:31:58+00:00",
+      "last_seen": "2026-11-09T23:31:58+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1794182400",
+      "source": "simplify",
+      "title": "Software Engineer 1 - Backend - Growth",
+      "url": "https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622/application?embed=true"
+    },
     "simplify:whoop::simplify-8dc34a98-6cba-4361-b5ab-d5e64d0e8b2e": {
       "company": "Whoop",
       "first_seen": "2026-10-06T07:05:30+00:00",
@@ -66433,6 +66543,16 @@
       "posted_at": "1786754507",
       "title": "Entry Level C++ Software Engineer",
       "url": "https://wolve.pinpointhq.com/en/postings/e03d9864-a128-40ff-91b5-dfc9fd1b59d6?ats=pinpointhq"
+    },
+    "simplify:wolverine trading::simplify-3dbb6972-d6ac-421f-a585-0e73f702f92a": {
+      "company": "Wolverine Trading",
+      "first_seen": "2026-11-09T23:31:58+00:00",
+      "last_seen": "2026-11-09T23:31:58+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1794242819",
+      "source": "simplify",
+      "title": "C++ Software Engineer New Grad",
+      "url": "https://wolve.pinpointhq.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c?ats=pinpointhq"
     },
     "simplify:wolverine trading::simplify-f6bb2b02-e42b-41a6-9f90-35a28fcb0708": {
       "company": "Wolverine Trading",
@@ -67115,6 +67235,16 @@
       "posted_at": "1787265072",
       "title": "Software Engineer Intern - Spring 2027",
       "url": "https://www.zipline.com/open-roles?gh_jid=7907191003"
+    },
+    "simplify:zoetis services::simplify-8d56b883-ad20-4375-bb8e-bc6f1460e609": {
+      "company": "Zoetis Services",
+      "first_seen": "2026-11-09T23:31:58+00:00",
+      "last_seen": "2026-11-09T23:31:58+00:00",
+      "location": "Parsippany-Troy Hills, NJ",
+      "posted_at": "1794182400",
+      "source": "simplify",
+      "title": "AI Assistant Development Intern",
+      "url": "https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Parsippany/AI-Assistant-Development-Intern_JR00022012-1"
     },
     "simplify:zoll medical corporation::simplify-4094133f-5f18-4aff-9d72-ecf4280916d4": {
       "company": "ZOLL Medical Corporation",
@@ -81514,5 +81644,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-09T21:40:06+00:00"
+  "updated_at": "2026-11-09T23:32:10+00:00"
 }
