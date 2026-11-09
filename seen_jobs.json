@@ -1,5 +1,5 @@
 {
-  "count": 7919,
+  "count": 7920,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -61242,6 +61242,16 @@
       "title": "Software Engineer Data & AI II Intern",
       "url": "https://go.vansh.nyc/gO"
     },
+    "vanshb03:cisco::vanshb03-8fa2e7e6-1cd2-40bb-beef-79cc408d52ff": {
+      "company": "Cisco",
+      "first_seen": "2026-11-09T15:09:57+00:00",
+      "last_seen": "2026-11-09T15:09:57+00:00",
+      "location": "San Jose, CA, Austin, TX, Research Triangle Park, NC",
+      "posted_at": "1794236111",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Full-Stack / Backend I",
+      "url": "https://go.vansh.nyc/1ok"
+    },
     "vanshb03:cisco::vanshb03-9f825d8b-b93e-47ec-8fea-e2693848b31a": {
       "company": "Cisco",
       "first_seen": "2026-10-25T08:27:08+00:00",
@@ -67367,5 +67377,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-09T14:54:57+00:00"
+  "updated_at": "2026-11-09T15:09:59+00:00"
 }
