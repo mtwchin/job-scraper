@@ -1,5 +1,5 @@
 {
-  "count": 9174,
+  "count": 9175,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -80283,6 +80283,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/1ey"
     },
+    "vanshb03:varda space industries::vanshb03-19dd7308-5c4e-45e0-84c9-8800e3f59010": {
+      "company": "Varda Space Industries",
+      "first_seen": "2026-11-09T08:14:42+00:00",
+      "last_seen": "2026-11-09T08:14:42+00:00",
+      "location": "El Segundo, CA",
+      "posted_at": "1790845434",
+      "source": "vanshb03",
+      "title": "Flight Software Intern",
+      "url": "https://go.vansh.nyc/1nI"
+    },
     "vanshb03:varian::vanshb03-e072999b-c23c-41f5-9b50-713875bc48f2": {
       "company": "Varian",
       "first_seen": "2026-11-06T16:40:26+00:00",
@@ -81202,5 +81212,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-09T07:10:50+00:00"
+  "updated_at": "2026-11-09T08:14:53+00:00"
 }
