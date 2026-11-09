@@ -1,5 +1,5 @@
 {
-  "count": 7925,
+  "count": 7926,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -29223,6 +29223,16 @@
       "posted_at": "1784154192",
       "title": "Linux Engineer",
       "url": "https://job-boards.greenhouse.io/janestreet/jobs/8626260002"
+    },
+    "simplify:jane street::simplify-06cbf327-ad4e-41cc-8494-8802fcc605ff": {
+      "company": "Jane Street",
+      "first_seen": "2026-11-09T23:32:02+00:00",
+      "last_seen": "2026-11-09T23:32:02+00:00",
+      "location": "NYC",
+      "posted_at": "1794242752",
+      "source": "simplify",
+      "title": "Formal Methods Research and Development Intern",
+      "url": "https://www.janestreet.com/join-jane-street/apply/8927083002?gh_jid=8927083002"
     },
     "simplify:jane street::simplify-4770a4e3-28be-40d7-b5a2-700c0307960d": {
       "company": "Jane Street",
@@ -67427,5 +67437,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-09T22:53:54+00:00"
+  "updated_at": "2026-11-09T23:32:57+00:00"
 }
