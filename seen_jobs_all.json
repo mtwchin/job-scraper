@@ -1,5 +1,5 @@
 {
-  "count": 9168,
+  "count": 9170,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71996,6 +71996,16 @@
       "title": "C#/.NET Software Engineer 1",
       "url": "https://careers.garmin.com/careers-home/jobs/15924"
     },
+    "vanshb03:garmin::vanshb03-47f25f76-21e5-42c6-9680-a5a09556c002": {
+      "company": "Garmin",
+      "first_seen": "2026-11-09T05:13:42+00:00",
+      "last_seen": "2026-11-09T05:13:42+00:00",
+      "location": "Brea, CA",
+      "posted_at": "1792074960",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1nr"
+    },
     "vanshb03:garmin::vanshb03-6914b142-7dd6-4443-a881-e62c539ab833": {
       "company": "Garmin",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -72801,6 +72811,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://www.imc.com/us/careers/jobs/4823924101"
+    },
+    "vanshb03:indie::vanshb03-71692505-b388-4b13-ae10-52c8540c059d": {
+      "company": "Indie",
+      "first_seen": "2026-11-09T05:13:42+00:00",
+      "last_seen": "2026-11-09T05:13:42+00:00",
+      "location": "Aliso Viejo, CA",
+      "posted_at": "1792005868",
+      "source": "vanshb03",
+      "title": "Applications Software Developer Intern",
+      "url": "https://go.vansh.nyc/1nq"
     },
     "vanshb03:infleqtion::vanshb03-3f178600-999b-4d23-8264-65108f950e20": {
       "company": "Infleqtion",
@@ -81142,5 +81162,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-09T03:32:41+00:00"
+  "updated_at": "2026-11-09T05:13:44+00:00"
 }
