@@ -1,5 +1,5 @@
 {
-  "count": 9172,
+  "count": 9174,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -77270,6 +77270,16 @@
       "title": "New Grad: Software Developer",
       "url": "https://careers.sig.com/job/SUSQA004Y9261"
     },
+    "vanshb03:sigma computing::vanshb03-35a4309c-8e46-4788-b06b-a86681ab473c": {
+      "company": "Sigma Computing",
+      "first_seen": "2026-11-09T07:10:02+00:00",
+      "last_seen": "2026-11-09T07:10:02+00:00",
+      "location": "San Francisco, CA, New York, NY",
+      "posted_at": "1791337035",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1nG"
+    },
     "vanshb03:simbe robotics::vanshb03-f10c3139-9c8b-4b4c-befd-6b3511e2304f": {
       "company": "Simbe Robotics",
       "first_seen": "2026-10-24T05:00:42+00:00",
@@ -77301,6 +77311,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009"
+    },
+    "vanshb03:skyband systems::vanshb03-4ccfd956-2a52-4a87-9b78-6e2d91267da5": {
+      "company": "Skyband Systems",
+      "first_seen": "2026-11-09T07:10:42+00:00",
+      "last_seen": "2026-11-09T07:10:42+00:00",
+      "location": "Kirkland, WA",
+      "posted_at": "1791331200",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1nF"
     },
     "vanshb03:skydio::vanshb03-69559fdb-2de6-4bd1-8c5a-f7396d2646ab": {
       "company": "Skydio",
@@ -81182,5 +81202,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-09T06:11:47+00:00"
+  "updated_at": "2026-11-09T07:10:50+00:00"
 }
