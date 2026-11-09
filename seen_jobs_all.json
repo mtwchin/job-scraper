@@ -1,5 +1,5 @@
 {
-  "count": 9170,
+  "count": 9172,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -77467,6 +77467,16 @@
       "title": "Software Engineer Co-op, Agents",
       "url": "https://go.vansh.nyc/13K"
     },
+    "vanshb03:solopulse::vanshb03-bfbc46ee-7a0d-4afb-ba1c-5911afd9428d": {
+      "company": "SoloPulse",
+      "first_seen": "2026-11-09T06:11:42+00:00",
+      "last_seen": "2026-11-09T06:11:42+00:00",
+      "location": "Peachtree Corners, GA",
+      "posted_at": "1791498217",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1nw"
+    },
     "vanshb03:sonos::vanshb03-c0f16512-8c7e-4733-bd2b-f0450e636a7e": {
       "company": "Sonos",
       "first_seen": "2026-10-27T19:09:45+00:00",
@@ -78004,6 +78014,16 @@
       "source": "vanshb03",
       "title": "AI Software Intern, Cloud, Infrastructure & Data Centre Deployment",
       "url": "https://go.vansh.nyc/Ha"
+    },
+    "vanshb03:tenstorrent::vanshb03-460c645e-5cf9-4b30-85bc-72968c00cab1": {
+      "company": "Tenstorrent",
+      "first_seen": "2026-11-09T06:11:42+00:00",
+      "last_seen": "2026-11-09T06:11:42+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1791450939",
+      "source": "vanshb03",
+      "title": "AI Software Intern",
+      "url": "https://go.vansh.nyc/1nu"
     },
     "vanshb03:tenstorrent::vanshb03-46c114a3-a96a-4ec5-b228-68de72c09e17": {
       "company": "Tenstorrent",
@@ -81162,5 +81182,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-09T05:13:44+00:00"
+  "updated_at": "2026-11-09T06:11:47+00:00"
 }
