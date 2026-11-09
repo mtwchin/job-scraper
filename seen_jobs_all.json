@@ -1,5 +1,5 @@
 {
-  "count": 9222,
+  "count": 9224,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -73875,6 +73875,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/YO"
     },
+    "vanshb03:l3harris technologies::vanshb03-8001c87a-98e5-4ba6-b37e-4abb953841b5": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-11-09T23:47:56+00:00",
+      "last_seen": "2026-11-09T23:47:56+00:00",
+      "location": "Anaheim, CA",
+      "posted_at": "1794265483",
+      "source": "vanshb03",
+      "title": "Associate, Software Engineering",
+      "url": "https://go.vansh.nyc/1pC"
+    },
     "vanshb03:l3harris technologies::vanshb03-87722e15-d9ac-47ac-b193-851da07c9b85": {
       "company": "L3Harris Technologies",
       "duplicate_of": "vanshb03:l3harris technologies::vanshb03-dfcc782f-ef72-431f-8cf9-d41504dcee29",
@@ -78196,6 +78206,18 @@
       "title": "New Grad 2027: Software Engineer",
       "url": "https://go.vansh.nyc/13T"
     },
+    "vanshb03:sur la table::vanshb03-614f6dd8-1fa6-4e92-b630-a05968975206": {
+      "company": "Sur La Table",
+      "duplicate_of": "simplify:sur la table::simplify-7c4d202a-5223-4dae-849f-21fa7489315e",
+      "first_seen": "2026-11-09T23:47:55+00:00",
+      "last_seen": "2026-11-09T23:47:55+00:00",
+      "location": "Toronto, Canada, Remote",
+      "posted_at": "1794266373",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Junior Software Engineer",
+      "url": "https://go.vansh.nyc/1pz"
+    },
     "vanshb03:susquehanna international group (sig)::vanshb03-83035c63-cf51-43dd-af16-3dbceba30fce": {
       "company": "Susquehanna International Group (SIG)",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -81684,5 +81706,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-09T23:46:12+00:00"
+  "updated_at": "2026-11-09T23:48:14+00:00"
 }
