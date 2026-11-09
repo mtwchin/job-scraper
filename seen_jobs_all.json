@@ -1,5 +1,5 @@
 {
-  "count": 9204,
+  "count": 9205,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -70321,6 +70321,16 @@
       "title": "GIS Software Developer Intern",
       "url": "https://go.vansh.nyc/1ce"
     },
+    "vanshb03:cai::vanshb03-859cb598-83a0-4c0a-bcd2-702096e453af": {
+      "company": "CAI",
+      "first_seen": "2026-11-09T21:39:56+00:00",
+      "last_seen": "2026-11-09T21:39:56+00:00",
+      "location": "United States",
+      "posted_at": "1794260255",
+      "source": "vanshb03",
+      "title": "Programmer Intern",
+      "url": "https://go.vansh.nyc/1pg"
+    },
     "vanshb03:cambridge investment research::vanshb03-c3d67b0c-d093-40bc-a7c8-3a1fd5d45a67": {
       "company": "Cambridge Investment Research",
       "first_seen": "2026-11-03T05:11:59+00:00",
@@ -81504,5 +81514,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-09T21:17:03+00:00"
+  "updated_at": "2026-11-09T21:40:06+00:00"
 }
