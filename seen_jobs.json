@@ -62856,7 +62856,7 @@
     "vanshb03:microsoft::vanshb03-9c065c4f-d079-4529-b897-0f3c9b3718ba": {
       "company": "Microsoft",
       "first_seen": "2026-11-02T17:40:03+00:00",
-      "last_seen": "2026-11-04T19:03:02+00:00",
+      "last_seen": "2026-11-09T10:31:59+00:00",
       "location": "Redmond, WA",
       "posted_at": "1793639359",
       "source": "vanshb03",
@@ -67357,5 +67357,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-09T08:15:17+00:00"
+  "updated_at": "2026-11-09T10:32:22+00:00"
 }
