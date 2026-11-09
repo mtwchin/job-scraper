@@ -1,5 +1,5 @@
 {
-  "count": 9198,
+  "count": 9200,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -67230,6 +67230,16 @@
       "title": "Data Acquisition Software Engineer Co-op",
       "url": "https://jobs.ashbyhq.com/zus-health/985c43c5-3c2a-4174-831d-b53ef0d6308c/application?embed=true"
     },
+    "skydio::33f1f123-8cec-4e6a-b125-e8831603a62a": {
+      "company": "Skydio",
+      "first_seen": "2026-11-09T19:55:43+00:00",
+      "last_seen": "2026-11-09T19:55:43+00:00",
+      "location": "San Mateo, California, United States",
+      "posted_at": "2026-11-09T19:53:20.602+00:00",
+      "source": "",
+      "title": "Systems Engineering Intern - Summer 2027",
+      "url": "https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a"
+    },
     "skydio::370da6a5-5ae6-48fe-8e08-9b1dcc63bf34": {
       "company": "Skydio",
       "first_seen": "2026-10-20T19:33:49+00:00",
@@ -80483,6 +80493,16 @@
       "title": "Flight Software Intern",
       "url": "https://go.vansh.nyc/1nI"
     },
+    "vanshb03:varian::vanshb03-aa09be7d-ec57-4c7e-aa99-322a69368a4d": {
+      "company": "Varian",
+      "first_seen": "2026-11-09T20:40:56+00:00",
+      "last_seen": "2026-11-09T20:40:56+00:00",
+      "location": "Canada",
+      "posted_at": "1794256659",
+      "source": "vanshb03",
+      "title": "Application Software Developer Co-op",
+      "url": "https://go.vansh.nyc/1p8"
+    },
     "vanshb03:varian::vanshb03-e072999b-c23c-41f5-9b50-713875bc48f2": {
       "company": "Varian",
       "first_seen": "2026-11-06T16:40:26+00:00",
@@ -81442,5 +81462,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-09T19:42:54+00:00"
+  "updated_at": "2026-11-09T20:40:58+00:00"
 }
