@@ -1,5 +1,5 @@
 {
-  "count": 7938,
+  "count": 7939,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -3643,6 +3643,18 @@
       "posted_at": "1750296862911",
       "title": "Software Engineer, New Grad - Defense",
       "url": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278"
+    },
+    "palantir::130ee501-bd22-4d44-b651-39581ef97743": {
+      "company": "Palantir",
+      "duplicate_of": "palantir::eb496d6a-a960-43d3-a09b-e3843052f54e",
+      "first_seen": "2026-11-10T16:43:17+00:00",
+      "last_seen": "2026-11-10T16:43:17+00:00",
+      "location": "New York, NY",
+      "posted_at": "1793824890986",
+      "seeded": true,
+      "source": "",
+      "title": "Software Engineer, Intern - Connectivity Platform and Product",
+      "url": "https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743"
     },
     "palantir::15844944-fb69-4b57-9531-e988650b20c6": {
       "company": "Palantir",
@@ -67558,5 +67570,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T16:41:56+00:00"
+  "updated_at": "2026-11-10T16:43:58+00:00"
 }
