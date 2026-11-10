@@ -1,5 +1,5 @@
 {
-  "count": 9242,
+  "count": 9243,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -73845,6 +73845,16 @@
       "title": "R&D Software Engineer Intern",
       "url": "https://jobs.keysight.com/jobs/54673?icims=1"
     },
+    "vanshb03:keysight technologies::vanshb03-637094d6-15a7-4912-95fd-b176794aa0c7": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-11-10T00:39:55+00:00",
+      "last_seen": "2026-11-10T00:39:55+00:00",
+      "location": "Cambridge, MA",
+      "posted_at": "1794266160",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1pK"
+    },
     "vanshb03:keysight technologies::vanshb03-64a42a30-e583-4ea4-a97a-4cd7a4436dd3": {
       "company": "Keysight Technologies",
       "first_seen": "2026-10-26T16:38:11+00:00",
@@ -81890,5 +81900,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T00:10:19+00:00"
+  "updated_at": "2026-11-10T00:40:22+00:00"
 }
