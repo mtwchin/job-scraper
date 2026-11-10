@@ -1,5 +1,5 @@
 {
-  "count": 7932,
+  "count": 7933,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2351,6 +2351,16 @@
       "posted_at": "2026-06-29T15:00:23-04:00",
       "title": "Forward Deployed Engineering Intern (AI Agent)",
       "url": "https://job-boards.greenhouse.io/cresta/jobs/5106468008"
+    },
+    "cursor::164e27cd-289e-4bcd-8aaf-5280e75c5ed6": {
+      "company": "Cursor",
+      "first_seen": "2026-11-10T07:44:35+00:00",
+      "last_seen": "2026-11-10T07:44:35+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "2026-11-10T00:20:41.676+00:00",
+      "source": "",
+      "title": "Software Engineer, New Grad 2027",
+      "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6"
     },
     "cursor::d0e5b41d-84ab-4887-bd3a-55589b11dd7b": {
       "company": "Cursor",
@@ -67497,5 +67507,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T06:02:28+00:00"
+  "updated_at": "2026-11-10T07:45:05+00:00"
 }
