@@ -1,5 +1,5 @@
 {
-  "count": 9317,
+  "count": 9320,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -67976,6 +67976,16 @@
       "title": "Hardware In Loop (HIL) Software Engineer Intern - Winter 2027",
       "url": "https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded"
     },
+    "skydio::c85af510-9fe4-4167-a914-c3ab344bef03": {
+      "company": "Skydio",
+      "first_seen": "2026-11-10T21:47:19+00:00",
+      "last_seen": "2026-11-10T21:47:19+00:00",
+      "location": "San Mateo, California, United States",
+      "posted_at": "2026-11-10T21:44:18.297+00:00",
+      "source": "",
+      "title": "Middleware Software Engineer Intern - Summer 2027",
+      "url": "https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03"
+    },
     "skydio::d79ccbaa-2901-4303-bd90-675db7802366": {
       "company": "Skydio",
       "first_seen": "2026-10-23T21:20:35+00:00",
@@ -77427,6 +77437,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/1ew"
     },
+    "vanshb03:regent::vanshb03-14aba243-07a7-4628-98f0-a4817ef9d6f4": {
+      "company": "REGENT",
+      "first_seen": "2026-11-10T22:39:23+00:00",
+      "last_seen": "2026-11-10T22:39:23+00:00",
+      "location": "North Kingstown, RI",
+      "posted_at": "1794268800",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1sb"
+    },
     "vanshb03:relativity space::vanshb03-ecf033a4-0c5b-4616-af3e-c5e73272342f": {
       "company": "Relativity Space",
       "first_seen": "2026-10-27T01:30:02+00:00",
@@ -82064,6 +82084,16 @@
       "title": "Platform Engineering Intern",
       "url": "https://go.vansh.nyc/1jm"
     },
+    "vanshb03:western digital::vanshb03-6fb240ce-7e9b-4110-abd5-02b476eb6f8d": {
+      "company": "Western Digital",
+      "first_seen": "2026-11-10T22:39:23+00:00",
+      "last_seen": "2026-11-10T22:39:23+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1794348073",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1s8"
+    },
     "vanshb03:western magnetics::vanshb03-d260c3c7-8b86-44e7-8d9e-1b58f3c8a645": {
       "company": "Western Magnetics",
       "duplicate_of": "simplify:western magnetics::simplify-0afedb15-13bb-4e63-b756-ae5112a89823",
@@ -82647,5 +82677,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T19:39:28+00:00"
+  "updated_at": "2026-11-10T22:39:35+00:00"
 }
