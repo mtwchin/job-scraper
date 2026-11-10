@@ -1,5 +1,5 @@
 {
-  "count": 9316,
+  "count": 9317,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -68431,6 +68431,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/PT"
     },
+    "vanshb03:addepar::vanshb03-def9b2ef-44f6-407d-91a5-fc96f24a61fb": {
+      "company": "Addepar",
+      "first_seen": "2026-11-10T19:39:23+00:00",
+      "last_seen": "2026-11-10T19:39:23+00:00",
+      "location": "New York, NY",
+      "posted_at": "1794328067",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1rW"
+    },
     "vanshb03:adobe::vanshb03-2831b917-2c9f-428b-b256-37b173939f56": {
       "company": "Adobe",
       "first_seen": "2026-10-26T14:02:47+00:00",
@@ -82637,5 +82647,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T19:15:25+00:00"
+  "updated_at": "2026-11-10T19:39:28+00:00"
 }
