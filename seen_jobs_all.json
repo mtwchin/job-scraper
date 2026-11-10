@@ -1,5 +1,5 @@
 {
-  "count": 9284,
+  "count": 9287,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -14728,7 +14728,7 @@
     "simplify:booz allen::simplify-bf4ff037-a559-4845-9678-eb93cb17a890": {
       "company": "Booz Allen",
       "first_seen": "2026-09-10T00:38:47+00:00",
-      "last_seen": "2026-10-23T00:02:39+00:00",
+      "last_seen": "2026-11-10T16:03:06+00:00",
       "posted_at": "1788912000",
       "title": "Quantum Computing Research Intern",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046"
@@ -28326,6 +28326,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://careers-gdms.icims.com/jobs/75040/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:general dynamics mission systems::simplify-e6fb5000-2e1c-4620-a9c8-da52d2e6ca4d": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-11-10T16:03:06+00:00",
+      "last_seen": "2026-11-10T16:03:06+00:00",
+      "location": "San Antonio, TX, Scottsdale, AZ",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "Systems and Software Development Intern",
+      "url": "https://careers-gdms.icims.com/jobs/76099/job?mobile=true&needsRedirect=false"
     },
     "simplify:general dynamics mission systems::simplify-e808ba48-68a5-402a-b394-ca05a260cfe8": {
       "company": "General Dynamics Mission Systems",
@@ -44651,6 +44661,16 @@
       "title": "PhD Software Engineer Intern - Decision Intelligence",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522"
     },
+    "simplify:nvidia::simplify-da999960-efdd-44de-9632-cb4db8868203": {
+      "company": "NVIDIA",
+      "first_seen": "2026-11-10T16:02:29+00:00",
+      "last_seen": "2026-11-10T16:02:29+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "AI Operations Intern - AI Clouds",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1"
+    },
     "simplify:nvidia::simplify-db183b6e-7d41-477f-9b23-f7e8518745e7": {
       "company": "NVIDIA",
       "first_seen": "2026-11-10T02:32:40+00:00",
@@ -58288,6 +58308,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886"
+    },
+    "simplify:t-mobile::simplify-6f89592c-cad0-4384-8d65-14460588b283": {
+      "company": "T-Mobile",
+      "first_seen": "2026-11-10T16:03:06+00:00",
+      "last_seen": "2026-11-10T16:03:06+00:00",
+      "location": "Philadelphia, PA",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "Software Engineer Intern - T-Ads",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219"
     },
     "simplify:t-mobile::simplify-70e0a583-e0c2-4a95-a452-fdfddad3b3db": {
       "company": "T-Mobile",
@@ -82313,5 +82343,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T16:02:12+00:00"
+  "updated_at": "2026-11-10T16:03:18+00:00"
 }
