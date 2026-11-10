@@ -1,5 +1,5 @@
 {
-  "count": 7934,
+  "count": 7935,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -51943,6 +51943,16 @@
       "title": "AI Inference Engineer Intern - Software Compiler Engineer - AI Inference",
       "url": "https://www.tesla.com/careers/search/job/263211"
     },
+    "simplify:tesla::simplify-e6830c63-857b-4f03-83ac-bb0149515d2d": {
+      "company": "Tesla",
+      "first_seen": "2026-11-10T10:32:27+00:00",
+      "last_seen": "2026-11-10T10:32:27+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1794305830",
+      "source": "simplify",
+      "title": "Mobile Application Developer Intern",
+      "url": "https://www.tesla.com/careers/search/job/289480"
+    },
     "simplify:tesla::simplify-e899751e-0313-4b38-844c-137b5cba368a": {
       "company": "Tesla",
       "first_seen": "2026-06-29T20:12:41+00:00",
@@ -67517,5 +67527,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T08:15:08+00:00"
+  "updated_at": "2026-11-10T10:33:12+00:00"
 }
