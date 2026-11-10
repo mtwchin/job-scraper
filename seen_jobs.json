@@ -1,5 +1,5 @@
 {
-  "count": 7928,
+  "count": 7931,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -62629,6 +62629,16 @@
       "title": "Software Engineer Intern, First Play",
       "url": "https://go.vansh.nyc/Y5"
     },
+    "vanshb03:lockheed martin::vanshb03-0f407ea7-c16d-4420-8c94-a830766d126b": {
+      "company": "Lockheed Martin",
+      "first_seen": "2026-11-10T04:10:38+00:00",
+      "last_seen": "2026-11-10T04:10:38+00:00",
+      "location": "Mt Laurel Township, NJ",
+      "posted_at": "1794283631",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1q0"
+    },
     "vanshb03:lockheed martin::vanshb03-12457784-c81a-4877-9db8-ecccb9c9d098": {
       "company": "Lockheed Martin",
       "duplicate_of": "vanshb03:lockheed martin::vanshb03-d2362609-cc36-4fdf-8c97-53a4bf6b5bac",
@@ -62640,6 +62650,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/Xr"
+    },
+    "vanshb03:lockheed martin::vanshb03-80452e21-1dae-46b9-8419-d758981df6a0": {
+      "company": "Lockheed Martin",
+      "first_seen": "2026-11-10T04:10:38+00:00",
+      "last_seen": "2026-11-10T04:10:38+00:00",
+      "location": "Bethesda, MD, Rockville, MD",
+      "posted_at": "1794283631",
+      "source": "vanshb03",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/1pZ"
     },
     "vanshb03:lockheed martin::vanshb03-d2362609-cc36-4fdf-8c97-53a4bf6b5bac": {
       "company": "Lockheed Martin",
@@ -63019,6 +63039,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Backend & API",
       "url": "https://ats.rippling.com/en-GB/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b"
+    },
+    "vanshb03:morgan stanley::vanshb03-aa272dfa-e020-4bb3-91d2-1826def725c1": {
+      "company": "Morgan Stanley",
+      "first_seen": "2026-11-10T04:10:38+00:00",
+      "last_seen": "2026-11-10T04:10:38+00:00",
+      "location": "New York, NY, Alpharetta, GA",
+      "posted_at": "1794283631",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op, Parametric",
+      "url": "https://go.vansh.nyc/1q1"
     },
     "vanshb03:nash::vanshb03-18b7d350-1f9a-4ab2-ad4b-0027c482ff67": {
       "company": "Nash",
@@ -67457,5 +67487,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T02:33:20+00:00"
+  "updated_at": "2026-11-10T04:11:24+00:00"
 }
