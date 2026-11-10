@@ -1,5 +1,5 @@
 {
-  "count": 9250,
+  "count": 9254,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -74102,6 +74102,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/1gA"
     },
+    "vanshb03:l3harris technologies::vanshb03-37e37f9d-8908-4a12-9767-780cbfb35e0f": {
+      "company": "L3Harris Technologies",
+      "first_seen": "2026-11-10T04:11:17+00:00",
+      "last_seen": "2026-11-10T04:11:17+00:00",
+      "location": "Rochester, NY",
+      "posted_at": "1794283631",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1pY"
+    },
     "vanshb03:l3harris technologies::vanshb03-4f99432b-8328-4c8e-8953-21f6a3c0e46c": {
       "company": "L3Harris Technologies",
       "first_seen": "2026-11-04T15:47:15+00:00",
@@ -74310,6 +74320,16 @@
       "title": "Software Developer Intern",
       "url": "https://go.vansh.nyc/1lw"
     },
+    "vanshb03:lockheed martin::vanshb03-0f407ea7-c16d-4420-8c94-a830766d126b": {
+      "company": "Lockheed Martin",
+      "first_seen": "2026-11-10T04:10:38+00:00",
+      "last_seen": "2026-11-10T04:10:38+00:00",
+      "location": "Mt Laurel Township, NJ",
+      "posted_at": "1794283631",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1q0"
+    },
     "vanshb03:lockheed martin::vanshb03-12457784-c81a-4877-9db8-ecccb9c9d098": {
       "company": "Lockheed Martin",
       "duplicate_of": "vanshb03:lockheed martin::vanshb03-d2362609-cc36-4fdf-8c97-53a4bf6b5bac",
@@ -74321,6 +74341,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/Xr"
+    },
+    "vanshb03:lockheed martin::vanshb03-80452e21-1dae-46b9-8419-d758981df6a0": {
+      "company": "Lockheed Martin",
+      "first_seen": "2026-11-10T04:10:38+00:00",
+      "last_seen": "2026-11-10T04:10:38+00:00",
+      "location": "Bethesda, MD, Rockville, MD",
+      "posted_at": "1794283631",
+      "source": "vanshb03",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/1pZ"
     },
     "vanshb03:lockheed martin::vanshb03-d2362609-cc36-4fdf-8c97-53a4bf6b5bac": {
       "company": "Lockheed Martin",
@@ -74920,6 +74950,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Backend & API",
       "url": "https://ats.rippling.com/en-GB/moon/jobs/8b81bca7-1a64-4377-8ea8-869aac03080b"
+    },
+    "vanshb03:morgan stanley::vanshb03-aa272dfa-e020-4bb3-91d2-1826def725c1": {
+      "company": "Morgan Stanley",
+      "first_seen": "2026-11-10T04:10:38+00:00",
+      "last_seen": "2026-11-10T04:10:38+00:00",
+      "location": "New York, NY, Alpharetta, GA",
+      "posted_at": "1794283631",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op, Parametric",
+      "url": "https://go.vansh.nyc/1q1"
     },
     "vanshb03:motorola solutions::vanshb03-0e38900e-b4ba-4cd1-9d8f-192cd126d0e3": {
       "company": "Motorola Solutions",
@@ -81973,5 +82013,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T03:02:26+00:00"
+  "updated_at": "2026-11-10T04:11:30+00:00"
 }
