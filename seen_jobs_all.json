@@ -1,5 +1,5 @@
 {
-  "count": 9255,
+  "count": 9257,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71861,6 +71861,16 @@
       "title": "Forward Deployed Engineer Intern",
       "url": "https://go.vansh.nyc/Qk"
     },
+    "vanshb03:domino data lab::vanshb03-c3a95a2c-e2f2-4585-8471-24dee58961d8": {
+      "company": "Domino Data Lab",
+      "first_seen": "2026-11-10T07:09:43+00:00",
+      "last_seen": "2026-11-10T07:09:43+00:00",
+      "location": "New York, NY",
+      "posted_at": "1790191365",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Campus Recruiting",
+      "url": "https://go.vansh.nyc/1q4"
+    },
     "vanshb03:doordash::vanshb03-30db1ad6-60d1-4d8c-a71c-ec14e2488d1e": {
       "company": "DoorDash",
       "first_seen": "2026-10-26T14:02:48+00:00",
@@ -75061,6 +75071,16 @@
       "source": "vanshb03",
       "title": "Platform Development Intern, Systems Engineering",
       "url": "https://go.vansh.nyc/JP"
+    },
+    "vanshb03:national information solutions cooperative::vanshb03-a0148a4e-205d-464c-83ad-88313e777e10": {
+      "company": "National Information Solutions Cooperative",
+      "first_seen": "2026-11-10T07:09:43+00:00",
+      "last_seen": "2026-11-10T07:09:43+00:00",
+      "location": "Cedar Rapids, IA",
+      "posted_at": "1793996703",
+      "source": "vanshb03",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/1q5"
     },
     "vanshb03:na\u00efve::vanshb03-8a1aa0c6-4cf5-4223-ba75-fae2a979699a": {
       "company": "Na\u00efve",
@@ -82023,5 +82043,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T06:43:41+00:00"
+  "updated_at": "2026-11-10T07:09:44+00:00"
 }
