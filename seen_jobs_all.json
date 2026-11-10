@@ -1,5 +1,5 @@
 {
-  "count": 9323,
+  "count": 9342,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6988,6 +6988,38 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/ada18/jobs/5180710007"
     },
+    "simplify:addepar::simplify-4d0d75c7-3dee-4949-8213-a6940fd8a2e9": {
+      "company": "Addepar",
+      "first_seen": "2026-11-10T23:32:43+00:00",
+      "last_seen": "2026-11-10T23:32:43+00:00",
+      "location": "NYC; Edinburgh, UK",
+      "posted_at": "1794327450",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927531002"
+    },
+    "simplify:addepar::simplify-6f84906a-1c80-4e4e-9e1e-e9823c821842": {
+      "company": "Addepar",
+      "first_seen": "2026-11-10T23:32:43+00:00",
+      "last_seen": "2026-11-10T23:32:43+00:00",
+      "location": "NYC",
+      "posted_at": "1794327489",
+      "source": "simplify",
+      "title": "AI Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927543002"
+    },
+    "simplify:addepar::simplify-b785500e-0243-4933-92f7-1a66eef04648": {
+      "company": "Addepar",
+      "duplicate_of": "simplify:addepar::simplify-4d0d75c7-3dee-4949-8213-a6940fd8a2e9",
+      "first_seen": "2026-11-10T23:32:43+00:00",
+      "last_seen": "2026-11-10T23:32:43+00:00",
+      "location": "Edinburgh, UK",
+      "posted_at": "1794327377",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927507002"
+    },
     "simplify:adidev technologies inc::simplify-2bba0fd8-a19f-4bc4-be98-e3237e625a1a": {
       "company": "Adidev Technologies Inc",
       "first_seen": "2026-08-13T07:14:16+00:00",
@@ -8295,6 +8327,16 @@
       "title": "Quartus Compiler Software Intern",
       "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108"
     },
+    "simplify:altice usa::simplify-93f840b3-e735-4ee5-8cbb-e007eafb977f": {
+      "company": "Altice USA",
+      "first_seen": "2026-11-10T23:32:43+00:00",
+      "last_seen": "2026-11-10T23:32:43+00:00",
+      "location": "Bethpage, NY",
+      "posted_at": "1794353014",
+      "source": "simplify",
+      "title": "Developer Intern - Financial & People Systems",
+      "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Developer,-Financial-&-People-Systems-NY-11714/1449511200/?ats=successfactors"
+    },
     "simplify:altice usa::simplify-ed1c1803-cea0-4778-8d48-8ba69bc0716a": {
       "company": "Altice USA",
       "first_seen": "2026-08-29T02:50:35+00:00",
@@ -8302,6 +8344,16 @@
       "posted_at": "1787304182",
       "title": "Software Development Engineer 1",
       "url": "https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors"
+    },
+    "simplify:altice usa::simplify-f60a9ca0-d42f-48f5-9643-b10749754e9e": {
+      "company": "Altice USA",
+      "first_seen": "2026-11-10T23:32:43+00:00",
+      "last_seen": "2026-11-10T23:32:43+00:00",
+      "location": "Bethpage, NY",
+      "posted_at": "1794353015",
+      "source": "simplify",
+      "title": "Software Development Intern",
+      "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Software-Development-NY-11714/1449514200/?ats=successfactors"
     },
     "simplify:altom transport::simplify-42d36fe6-4ad6-4a59-ae82-a57bca2b40a4": {
       "company": "Altom Transport",
@@ -9112,6 +9164,16 @@
       "title": "Entry Level Software Engineer",
       "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0172148"
     },
+    "simplify:amentum::simplify-90db78c6-5299-42af-be1e-45755a035943": {
+      "company": "Amentum",
+      "first_seen": "2026-11-10T23:32:44+00:00",
+      "last_seen": "2026-11-10T23:32:44+00:00",
+      "location": "Dahlgren, VA",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "Junior Software Developer",
+      "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040"
+    },
     "simplify:amentum::simplify-b370b3ca-e8e9-4e2e-a20a-1b94dd207e75": {
       "company": "Amentum",
       "first_seen": "2026-09-01T00:09:06+00:00",
@@ -9701,6 +9763,16 @@
       "posted_at": "1789084800",
       "title": "Software Engineer Intern - Amgen\u2019s Technology & Medical Organizations",
       "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745"
+    },
+    "simplify:amgen::simplify-6720bfaa-e0e6-4eba-967e-54b8576e2587": {
+      "company": "Amgen",
+      "first_seen": "2026-11-10T23:32:43+00:00",
+      "last_seen": "2026-11-10T23:32:43+00:00",
+      "location": "Burnaby, BC, Canada",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "Computer Engineering Co-op - Large Molecule Discovery - Technology",
+      "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/Canada---Burnaby/Undergraduate---Graduate-Co-op-Student---Software-Engineer---Large-Molecule-Discovery---Technology_R-260920"
     },
     "simplify:amgen::simplify-8c712045-978a-4def-bc1b-e654cb23e4c3": {
       "company": "Amgen",
@@ -12498,6 +12570,16 @@
       "title": "Cloud Developer Intern",
       "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2"
     },
+    "simplify:autodesk::simplify-e8e17538-17f3-46fe-8263-c93de47d77c6": {
+      "company": "Autodesk",
+      "first_seen": "2026-11-10T23:32:44+00:00",
+      "last_seen": "2026-11-10T23:32:44+00:00",
+      "location": "Novi, MI",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "Software Engineer: AI & Fusion Engineering - Fusion Engineering",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Novi-MI-USA/Software-Engineer_26WD102129-1"
+    },
     "simplify:autodesk::simplify-fb717af7-686b-4077-a8c0-033da193b3fb": {
       "company": "Autodesk",
       "first_seen": "2026-08-07T23:34:48+00:00",
@@ -13760,6 +13842,16 @@
       "source": "simplify",
       "title": "Machine Learning Engineering Co-op",
       "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310"
+    },
+    "simplify:biointellisense::simplify-afd2e61c-f545-47bc-a2cc-cd9956d7fa62": {
+      "company": "Biointellisense",
+      "first_seen": "2026-11-10T23:32:44+00:00",
+      "last_seen": "2026-11-10T23:32:44+00:00",
+      "location": "Redwood City, CA, Golden, CO",
+      "posted_at": "1794351884",
+      "source": "simplify",
+      "title": "Android Engineer",
+      "url": "https://jobs.lever.co/biointellisense/52cc3af7-e615-4f5f-9d4a-5eec094b3e28/apply"
     },
     "simplify:bip ventures::simplify-3b795f89-6464-4dce-bc94-f55a4821c04f": {
       "company": "BIP Ventures",
@@ -21075,6 +21167,16 @@
       "title": "Entry Level Software Engineer",
       "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Entry-Level-Software-Engineer-Carmel--IN_R202680859"
     },
+    "simplify:cox automotive::simplify-6d65d71a-c89b-41ea-a76a-4d4f43b82d7e": {
+      "company": "Cox Automotive",
+      "first_seen": "2026-11-10T23:32:44+00:00",
+      "last_seen": "2026-11-10T23:32:44+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I---19025_R202684623"
+    },
     "simplify:cox automotive::simplify-72746436-f86c-473c-be29-91efd6fe9c8c": {
       "company": "Cox Automotive",
       "first_seen": "2026-08-26T01:26:26+00:00",
@@ -21590,7 +21692,7 @@
       "company": "CVS Health",
       "duplicate_of": "simplify:cvs health::simplify-bab3c73f-9824-4c77-9ad6-c7450b4e9ed8",
       "first_seen": "2026-10-07T06:34:31+00:00",
-      "last_seen": "2026-10-08T00:00:13+00:00",
+      "last_seen": "2026-11-10T23:32:43+00:00",
       "location": "Alpharetta, GA",
       "posted_at": "1791331200",
       "seeded": true,
@@ -24633,6 +24735,16 @@
       "posted_at": "1788912000",
       "title": "AI Continuous Improvement Co-op",
       "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Decatur-TX/AI-Continuous-Improvement-Co-Op_REQ-14509"
+    },
+    "simplify:entegris::simplify-7e72d2cd-9045-4a9f-951e-e816064fd1cd": {
+      "company": "Entegris",
+      "first_seen": "2026-11-10T23:32:43+00:00",
+      "last_seen": "2026-11-10T23:32:43+00:00",
+      "location": "Billerica, MA",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "Filtration Portfolio Automation Intern",
+      "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Filtration-Portfolio-Automation-Intern_REQ-15840"
     },
     "simplify:entegris::simplify-a3b700b5-11b3-48ae-92cf-a4cd8017c1f6": {
       "company": "Entegris",
@@ -28727,6 +28839,16 @@
       "posted_at": "1785283200",
       "title": "Digital Vehicle Experience Software Developer Co-op",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2026-Fall-Co-op-Digital-Vehicle-Experience-Software-Developer_JR-202616330"
+    },
+    "simplify:general motors::simplify-ea1d2e68-6b46-4d69-817a-c5ae496ba6d4": {
+      "company": "General Motors",
+      "first_seen": "2026-11-10T23:32:44+00:00",
+      "last_seen": "2026-11-10T23:32:44+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Machine Learning Engineer - Embodied AI",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034"
     },
     "simplify:general translation::simplify-93653740-1b17-4398-9636-83230c035a55": {
       "company": "General Translation",
@@ -33563,6 +33685,16 @@
       "title": "Early Career Intern - Technology",
       "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Atlanta-Georgia/Early-Career-Intern---Technology_R-15619-1"
     },
+    "simplify:investissement qu\u00e9bec::simplify-93ec3dc9-9199-4cc3-b201-70a6e5ba9917": {
+      "company": "Investissement Qu\u00e9bec",
+      "first_seen": "2026-11-10T23:32:44+00:00",
+      "last_seen": "2026-11-10T23:32:44+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "Automation and Artificial Intelligence Intern",
+      "url": "https://investquebec.wd10.myworkdayjobs.com/ext/job/Montral/tudiant---Automatisation-et-intelligence-artificielle--Montral-_R3656"
+    },
     "simplify:ion group::simplify-fff88dea-356b-4db6-8aa2-4f103f1909c6": {
       "company": "ION Group",
       "first_seen": "2026-10-01T11:32:31+00:00",
@@ -33927,6 +34059,16 @@
       "source": "simplify",
       "title": "AI and Data Solutions Developer - Global Supply Chain",
       "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Solutions-Developer-Global-Supply-Chain_J2467953"
+    },
+    "simplify:jabil::simplify-8d781ddc-c921-4453-97e0-fa7e1cacf002": {
+      "company": "Jabil",
+      "first_seen": "2026-11-10T23:32:43+00:00",
+      "last_seen": "2026-11-10T23:32:43+00:00",
+      "location": "St. Petersburg, FL",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "AI Agent Developer Intern - Supply Chain IT - AI & Enablement",
+      "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054"
     },
     "simplify:jahnel group::simplify-8d500528-6b4d-4491-abf2-cff73f21e6d7": {
       "company": "Jahnel Group",
@@ -39419,12 +39561,32 @@
       "title": "Software Engineer - Undergraduate Placement",
       "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Software-Engineer---Undergraduate-Placement-2027_R37445"
     },
+    "simplify:mcdonald's::simplify-3dd2c951-2883-4af9-bb11-1099a176d735": {
+      "company": "McDonald's",
+      "first_seen": "2026-11-10T23:32:43+00:00",
+      "last_seen": "2026-11-10T23:32:43+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1794352831",
+      "source": "simplify",
+      "title": "Software Development Engineer Intern",
+      "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449046600/?ats=successfactors"
+    },
     "simplify:mcdonald's::simplify-8b055c51-7d1e-44f0-b190-12b9ab15e25a": {
       "company": "McDonald's",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1778922398",
       "title": "Software Engineer 1 C#",
       "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-C-IL-60607/1340292800/?ats=successfactors"
+    },
+    "simplify:mcdonald's::simplify-a34749cb-1425-494f-8acb-09f66135961e": {
+      "company": "McDonald's",
+      "first_seen": "2026-11-10T23:32:43+00:00",
+      "last_seen": "2026-11-10T23:32:43+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1794268155",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449052900/?ats=successfactors"
     },
     "simplify:mcg health::simplify-5428a3c8-3c8c-496a-87c2-2afbd536b54f": {
       "company": "MCG Health",
@@ -41272,7 +41434,7 @@
     "simplify:motorola::simplify-7483f661-ca29-4d1f-8d41-0e3036f6a27e": {
       "company": "Motorola",
       "first_seen": "2026-10-05T23:17:18+00:00",
-      "last_seen": "2026-11-03T00:02:09+00:00",
+      "last_seen": "2026-11-10T23:32:43+00:00",
       "location": "Remote in Canada",
       "posted_at": "1791158400",
       "source": "simplify",
@@ -51173,6 +51335,16 @@
       "title": "Developer Co-op - Multiple Roles",
       "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/RBC-WATERPARK-PLACE-88-QUEENS-QUAY-WTORONTO/XMLNAME-2027-Winter-Student-Opportunities-RBC-Borealis---Software-Developer--4-8-Months_R-0000184501"
     },
+    "simplify:royal bank of canada::simplify-47cdb3e9-c70d-4703-8fc3-385bc01fe015": {
+      "company": "Royal Bank of Canada",
+      "first_seen": "2026-11-10T23:32:44+00:00",
+      "last_seen": "2026-11-10T23:32:44+00:00",
+      "location": "NYC",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "Global Investment Banking Intern",
+      "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/BROOKFIELD-PLACE-FKA-3-WORLD-FINANCIAL-CENTER-200-VESEY-STREETNEW-YORK/XMLNAME-2027-Global-Investment-Banking--AidenEdge-Program-Winter-Analyst--4-Months-_R-0000186588-1"
+    },
     "simplify:royal bank of canada::simplify-5083267e-7caf-40f1-ad4c-7ca8ac259584": {
       "company": "Royal Bank of Canada",
       "first_seen": "2026-07-29T23:12:09+00:00",
@@ -53846,6 +54018,16 @@
       "posted_at": "1772089448",
       "title": "Python Developer",
       "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603750"
+    },
+    "simplify:salesforce::simplify-0120e440-b745-4397-ba25-12ed4f87430c": {
+      "company": "Salesforce",
+      "first_seen": "2026-11-10T23:32:21+00:00",
+      "last_seen": "2026-11-10T23:32:21+00:00",
+      "location": "Seattle, WA, SF, NYC",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "AI Labs Rotational Fellow",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643-1"
     },
     "simplify:salesforce::simplify-1a2e58cc-f4e5-478e-a272-afd67fbeedd1": {
       "company": "Salesforce",
@@ -59995,6 +60177,16 @@
       "posted_at": "1784671447",
       "title": "Career Accelerator Program - Product Engineer",
       "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25003917"
+    },
+    "simplify:texas instruments::simplify-8e552038-bcd1-40b1-8b6d-37abf98cb3f5": {
+      "company": "Texas Instruments",
+      "first_seen": "2026-11-10T23:32:43+00:00",
+      "last_seen": "2026-11-10T23:32:43+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1794352961",
+      "source": "simplify",
+      "title": "Product Marketing Engineer Intern - Marketing",
+      "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019924"
     },
     "simplify:texas instruments::simplify-993e682f-95cd-4e4d-8efb-2e6f929d5b6b": {
       "company": "Texas Instruments",
@@ -82707,5 +82899,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T23:14:41+00:00"
+  "updated_at": "2026-11-10T23:33:44+00:00"
 }
