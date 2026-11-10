@@ -1,5 +1,5 @@
 {
-  "count": 9241,
+  "count": 9242,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -80670,6 +80670,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/IM"
     },
+    "vanshb03:trimble::vanshb03-f4589e7d-2624-4d74-ba7e-11ce0c722113": {
+      "company": "Trimble",
+      "first_seen": "2026-11-10T00:09:56+00:00",
+      "last_seen": "2026-11-10T00:09:56+00:00",
+      "location": "Lake Oswego, OR",
+      "posted_at": "1794268740",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1pD"
+    },
     "vanshb03:trimble::vanshb03-f74f172a-ca58-493f-b5b4-de835edd606c": {
       "company": "Trimble",
       "first_seen": "2026-10-24T05:00:42+00:00",
@@ -81880,5 +81890,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T00:03:17+00:00"
+  "updated_at": "2026-11-10T00:10:19+00:00"
 }
