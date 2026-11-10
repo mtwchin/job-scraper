@@ -1,5 +1,5 @@
 {
-  "count": 7927,
+  "count": 7928,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -38733,6 +38733,16 @@
       "title": "PhD Software Engineer Intern - Decision Intelligence",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522"
     },
+    "simplify:nvidia::simplify-db183b6e-7d41-477f-9b23-f7e8518745e7": {
+      "company": "NVIDIA",
+      "first_seen": "2026-11-10T02:32:40+00:00",
+      "last_seen": "2026-11-10T02:32:40+00:00",
+      "location": "Canada, Santa Clara, CA, United States",
+      "posted_at": "1794182400",
+      "source": "simplify",
+      "title": "Systems Research Intern - Observability",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644"
+    },
     "simplify:nvidia::simplify-e3815529-57c7-41bb-8d69-cad889c3b01e": {
       "company": "NVIDIA",
       "first_seen": "2026-07-23T23:33:00+00:00",
@@ -67447,5 +67457,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T00:48:17+00:00"
+  "updated_at": "2026-11-10T02:33:20+00:00"
 }
