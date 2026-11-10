@@ -1,5 +1,5 @@
 {
-  "count": 9309,
+  "count": 9310,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -75494,6 +75494,16 @@
       "title": "Software Development Intern",
       "url": "https://go.vansh.nyc/1q5"
     },
+    "vanshb03:natoma::vanshb03-4b10cd29-777b-498b-9f03-e36ff08bf591": {
+      "company": "Natoma",
+      "first_seen": "2026-11-10T16:50:05+00:00",
+      "last_seen": "2026-11-10T16:50:05+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1794329139",
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineer",
+      "url": "https://go.vansh.nyc/1rp"
+    },
     "vanshb03:na\u00efve::vanshb03-8a1aa0c6-4cf5-4223-ba75-fae2a979699a": {
       "company": "Na\u00efve",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -82567,5 +82577,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T16:46:22+00:00"
+  "updated_at": "2026-11-10T16:50:25+00:00"
 }
