@@ -65277,7 +65277,7 @@
     "vanshb03:tesla::vanshb03-78a79579-faa0-453d-8f2e-cf06498bba07": {
       "company": "Tesla",
       "first_seen": "2026-11-04T19:03:05+00:00",
-      "last_seen": "2026-11-04T19:03:05+00:00",
+      "last_seen": "2026-11-10T21:32:08+00:00",
       "location": "Palo Alto, CA",
       "posted_at": "1793660574",
       "source": "vanshb03",
@@ -67600,5 +67600,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T18:44:48+00:00"
+  "updated_at": "2026-11-10T21:32:53+00:00"
 }
