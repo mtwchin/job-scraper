@@ -1,5 +1,5 @@
 {
-  "count": 7939,
+  "count": 7940,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -3746,6 +3746,16 @@
       "posted_at": "1783723333024",
       "title": "Forward Deployed Infrastructure Engineer, Internship - US Government",
       "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9"
+    },
+    "palantir::45e4617d-d658-4b30-8dc9-378ca84a027a": {
+      "company": "Palantir",
+      "first_seen": "2026-11-10T16:44:17+00:00",
+      "last_seen": "2026-11-10T16:44:17+00:00",
+      "location": "New York, NY",
+      "posted_at": "1793824715114",
+      "source": "",
+      "title": "Software Engineer, Internship - Data Connectors",
+      "url": "https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a"
     },
     "palantir::4abf26b4-795c-420a-bf22-1ab98db268b4": {
       "company": "Palantir",
@@ -67570,5 +67580,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T16:43:58+00:00"
+  "updated_at": "2026-11-10T16:45:02+00:00"
 }
