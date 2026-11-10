@@ -1,5 +1,5 @@
 {
-  "count": 9342,
+  "count": 9343,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -78201,6 +78201,18 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/Ww"
     },
+    "vanshb03:rtx::vanshb03-4191da66-3e1d-4a73-a62c-b68dcf5a67c2": {
+      "company": "RTX",
+      "duplicate_of": "vanshb03:rtx::vanshb03-bd59d805-af2f-4380-afd5-2a2900bf852a",
+      "first_seen": "2026-11-10T23:44:41+00:00",
+      "last_seen": "2026-11-10T23:44:41+00:00",
+      "location": "Largo, FL",
+      "posted_at": "1794268800",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1sg"
+    },
     "vanshb03:rtx::vanshb03-44ecec59-f0a0-4e6a-9c1e-3c1c49902fba": {
       "company": "RTX",
       "duplicate_of": "simplify:rtx::simplify-09d77bd3-845b-4ffb-bc37-c77d9ed70dd6",
@@ -82899,5 +82911,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T23:33:44+00:00"
+  "updated_at": "2026-11-10T23:44:47+00:00"
 }
