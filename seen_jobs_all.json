@@ -1,5 +1,5 @@
 {
-  "count": 9267,
+  "count": 9269,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -9876,6 +9876,16 @@
       "posted_at": "1787702400",
       "title": "Software Engineer Co-op - Observability",
       "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Software-Engineer---Observability--Co-op_R003434"
+    },
+    "simplify:ande::simplify-1b06d46c-1d95-462b-a362-76624d029916": {
+      "company": "Ande",
+      "first_seen": "2026-11-10T09:33:44+00:00",
+      "last_seen": "2026-11-10T09:33:44+00:00",
+      "location": "NYC",
+      "posted_at": "1794009600",
+      "source": "simplify",
+      "title": "Software Engineer \u2013 Early Career - AI",
+      "url": "https://jobs.ashbyhq.com/ande/8ff8145e-8040-4a7a-a90c-cc1fdc36deb1/application?embed=true"
     },
     "simplify:ando::simplify-f5021ba3-ab40-4f41-8ba1-9bb148f6533d": {
       "company": "Ando",
@@ -71522,6 +71532,16 @@
       "title": "Software Engineer I, C#/.NET",
       "url": "https://go.vansh.nyc/1oL"
     },
+    "vanshb03:cursor::vanshb03-5b8e4ad0-e54a-4c77-94c1-09f70c16e127": {
+      "company": "Cursor",
+      "first_seen": "2026-11-10T08:15:05+00:00",
+      "last_seen": "2026-11-10T08:15:05+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1794273212",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/1qa"
+    },
     "vanshb03:cvent::vanshb03-c712bdc5-df3c-4678-aeed-f83b93f67d33": {
       "company": "Cvent",
       "first_seen": "2026-10-26T14:17:23+00:00",
@@ -82143,5 +82163,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T08:02:53+00:00"
+  "updated_at": "2026-11-10T09:33:57+00:00"
 }
