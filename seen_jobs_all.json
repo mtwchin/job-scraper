@@ -1,5 +1,5 @@
 {
-  "count": 9243,
+  "count": 9244,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2567,6 +2567,16 @@
       "source": "",
       "title": "2027 Early Career Systems Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5262340007?gh_jid=5262340007"
+    },
+    "anduril::5290310007": {
+      "company": "Anduril",
+      "first_seen": "2026-11-10T00:47:45+00:00",
+      "last_seen": "2026-11-10T00:47:45+00:00",
+      "location": "Costa Mesa, California, United States",
+      "posted_at": "2026-11-09T19:46:38-05:00",
+      "source": "",
+      "title": "Early Career RF Mission Systems Engineer, Air Dominance & Strike",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5290310007?gh_jid=5290310007"
     },
     "apple::200664320-3810": {
       "company": "Apple",
@@ -81900,5 +81910,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T00:40:22+00:00"
+  "updated_at": "2026-11-10T01:13:15+00:00"
 }
