@@ -1,5 +1,5 @@
 {
-  "count": 9310,
+  "count": 9313,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -77602,6 +77602,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/1oJ"
     },
+    "vanshb03:rivet::vanshb03-7acbbd39-a292-4c96-a1a0-1e7bdde798a2": {
+      "company": "Rivet",
+      "first_seen": "2026-11-10T17:11:05+00:00",
+      "last_seen": "2026-11-10T17:11:05+00:00",
+      "location": "United States",
+      "posted_at": "1794330395",
+      "source": "vanshb03",
+      "title": "Full-Stack Engineering Intern",
+      "url": "https://go.vansh.nyc/1ru"
+    },
     "vanshb03:rivian and volkswagen group technologies::vanshb03-515fddf8-0310-463b-9688-e0b712daa48e": {
       "company": "Rivian and Volkswagen Group Technologies",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -79003,6 +79013,16 @@
       "source": "vanshb03",
       "title": "New Grad: Software Engineer I",
       "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4749965101"
+    },
+    "vanshb03:substrate::vanshb03-90e34e1e-6bc6-47bf-bac9-863613fd6256": {
+      "company": "Substrate",
+      "first_seen": "2026-11-10T17:11:05+00:00",
+      "last_seen": "2026-11-10T17:11:05+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1794330395",
+      "source": "vanshb03",
+      "title": "Systems Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1rx"
     },
     "vanshb03:subtotal::vanshb03-bf987a07-4488-439f-94a0-35d69467dcb8": {
       "company": "Subtotal",
@@ -82139,6 +82159,16 @@
       "title": "Software Developer Co-op",
       "url": "https://go.vansh.nyc/1bk"
     },
+    "vanshb03:zingage::vanshb03-7ebac9e0-cc01-40a4-aac5-b80050fd79ec": {
+      "company": "Zingage",
+      "first_seen": "2026-11-10T17:11:05+00:00",
+      "last_seen": "2026-11-10T17:11:05+00:00",
+      "location": "New York, NY",
+      "posted_at": "1794330395",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1rB"
+    },
     "vanshb03:zip::vanshb03-0b015602-2842-416a-99fe-598292dec664": {
       "company": "Zip",
       "first_seen": "2026-10-26T14:40:11+00:00",
@@ -82577,5 +82607,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T16:50:25+00:00"
+  "updated_at": "2026-11-10T17:11:28+00:00"
 }
