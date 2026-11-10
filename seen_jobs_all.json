@@ -1,5 +1,5 @@
 {
-  "count": 9245,
+  "count": 9248,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -26349,6 +26349,16 @@
       "title": "Software Engineer 1",
       "url": "https://forge-nano.breezy.hr/p/66630c61f7e4/apply"
     },
+    "simplify:formfactor::simplify-445db909-6382-4c10-911d-fd089f146f4a": {
+      "company": "FormFactor",
+      "first_seen": "2026-11-10T02:33:19+00:00",
+      "last_seen": "2026-11-10T02:33:19+00:00",
+      "location": "Livermore, CA",
+      "posted_at": "1794182400",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Software-Engineer-Intern_JR101288"
+    },
     "simplify:formfactor::simplify-e8606879-563d-41b2-95b4-fdb2205d94f0": {
       "company": "FormFactor",
       "first_seen": "2026-10-28T22:32:28+00:00",
@@ -27406,6 +27416,7 @@
     "simplify:ge vernova::simplify-cda123ef-2e15-45a0-8ef1-f1983b6bf58b": {
       "company": "GE Vernova",
       "first_seen": "2026-08-21T18:41:57+00:00",
+      "last_seen": "2026-11-10T02:33:18+00:00",
       "posted_at": "1787270400",
       "title": "Energy Optimization Software Engineer Intern - Summer 2027",
       "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-1"
@@ -44500,6 +44511,16 @@
       "title": "PhD Software Engineer Intern - Decision Intelligence",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Software-Engineering-Intern--Decision-Intelligence---Fall-2026_JR2017522"
     },
+    "simplify:nvidia::simplify-db183b6e-7d41-477f-9b23-f7e8518745e7": {
+      "company": "NVIDIA",
+      "first_seen": "2026-11-10T02:32:40+00:00",
+      "last_seen": "2026-11-10T02:32:40+00:00",
+      "location": "Canada, Santa Clara, CA, United States",
+      "posted_at": "1794182400",
+      "source": "simplify",
+      "title": "Systems Research Intern - Observability",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644"
+    },
     "simplify:nvidia::simplify-e3815529-57c7-41bb-8d69-cad889c3b01e": {
       "company": "NVIDIA",
       "first_seen": "2026-07-23T23:33:00+00:00",
@@ -47149,6 +47170,16 @@
       "posted_at": "1786843116",
       "title": "Software Engineering Intern - AI",
       "url": "https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738"
+    },
+    "simplify:pika::simplify-bdd3a0f8-3d9c-4fba-9550-fba440691018": {
+      "company": "Pika",
+      "first_seen": "2026-11-10T02:33:19+00:00",
+      "last_seen": "2026-11-10T02:33:19+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "Applied AI Engineer Intern - Creative Experiences",
+      "url": "https://jobs.ashbyhq.com/pika/b075e6fb-df01-4eac-9437-1c1db97ea881/application?embed=true"
     },
     "simplify:pilot company::simplify-8af537c8-1c4a-4baf-a924-99bf28fc30a0": {
       "company": "Pilot Company",
@@ -81920,5 +81951,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T02:32:20+00:00"
+  "updated_at": "2026-11-10T02:33:23+00:00"
 }
