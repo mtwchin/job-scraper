@@ -1,5 +1,5 @@
 {
-  "count": 9244,
+  "count": 9245,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -41288,6 +41288,16 @@
       "title": "Software Integration Intern",
       "url": "https://mujin.bamboohr.com/careers/166/"
     },
+    "simplify:multi media::simplify-12e1fe90-2686-45e5-a2cb-28ea043f4489": {
+      "company": "Multi Media",
+      "first_seen": "2026-11-10T02:32:18+00:00",
+      "last_seen": "2026-11-10T02:32:18+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1794276968",
+      "source": "simplify",
+      "title": "Software Engineer 1/2",
+      "url": "https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs"
+    },
     "simplify:multiply labs::simplify-97e90df1-ce3c-402c-b01a-191b722209e1": {
       "company": "Multiply Labs",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -81910,5 +81920,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T01:13:15+00:00"
+  "updated_at": "2026-11-10T02:32:20+00:00"
 }
