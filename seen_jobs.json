@@ -1,5 +1,5 @@
 {
-  "count": 7940,
+  "count": 7941,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -59250,6 +59250,16 @@
       "title": "Mobile Software Engineer Intern - Summer 2027",
       "url": "https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52"
     },
+    "skydio::add7fd86-78e6-483e-98cd-cdfc1029fded": {
+      "company": "Skydio",
+      "first_seen": "2026-11-10T18:05:50+00:00",
+      "last_seen": "2026-11-10T18:05:50+00:00",
+      "location": "San Mateo, California, United States",
+      "posted_at": "2026-11-10T18:03:40.976+00:00",
+      "source": "",
+      "title": "Hardware In Loop (HIL) Software Engineer Intern - Winter 2027",
+      "url": "https://jobs.ashbyhq.com/skydio/add7fd86-78e6-483e-98cd-cdfc1029fded"
+    },
     "skydio::d79ccbaa-2901-4303-bd90-675db7802366": {
       "company": "Skydio",
       "first_seen": "2026-10-23T21:20:35+00:00",
@@ -67580,5 +67590,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T16:45:02+00:00"
+  "updated_at": "2026-11-10T18:06:46+00:00"
 }
