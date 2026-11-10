@@ -1,5 +1,5 @@
 {
-  "count": 9248,
+  "count": 9250,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -49380,6 +49380,16 @@
       "title": "IT and Systems Intern - Industrial Operations and Product Supply",
       "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-IT---Systems--IOPS-_R51822"
     },
+    "simplify:regent::simplify-55e6b934-6590-46a7-97c8-0304e24dd3bb": {
+      "company": "REGENT",
+      "first_seen": "2026-11-10T03:02:19+00:00",
+      "last_seen": "2026-11-10T03:02:19+00:00",
+      "location": "North Kingstown, RI",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "Mission Software Engineering Intern",
+      "url": "https://jobs.ashbyhq.com/regent/1da518a0-9030-48d1-a58c-15d1f88f0eaa/application?embed=true"
+    },
     "simplify:regions bank::simplify-3fbde271-db0b-4f32-a74c-aa1682b44994": {
       "company": "Regions Bank",
       "first_seen": "2026-09-03T16:42:59+00:00",
@@ -62787,6 +62797,18 @@
       "posted_at": "1780956623",
       "title": "Software Engineer",
       "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/UK---Remote/Software-Engineer_R56506"
+    },
+    "simplify:trimble::simplify-7e711ce3-51ad-4c03-ba5e-9f27258b65df": {
+      "company": "Trimble",
+      "duplicate_of": "vanshb03:trimble::vanshb03-f4589e7d-2624-4d74-ba7e-11ce0c722113",
+      "first_seen": "2026-11-10T03:02:18+00:00",
+      "last_seen": "2026-11-10T03:02:18+00:00",
+      "location": "Portland, OR",
+      "posted_at": "1794182400",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---OR-Lake-Oswego/Software-Engineer-Intern_R58171"
     },
     "simplify:trimble::simplify-ca3d442d-982e-4251-b443-6e607ffd2504": {
       "company": "Trimble",
@@ -81951,5 +81973,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T02:33:23+00:00"
+  "updated_at": "2026-11-10T03:02:26+00:00"
 }
