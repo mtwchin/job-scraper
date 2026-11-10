@@ -1,5 +1,5 @@
 {
-  "count": 9269,
+  "count": 9274,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -24691,6 +24691,16 @@
       "title": "Full Stack Developer",
       "url": "https://jobs.ashbyhq.com/envision-horizons/ec0c6149-02d0-48ce-8612-61fea67918af/application?embed=true"
     },
+    "simplify:envoy air::simplify-2e2e68c0-6a5c-4917-ba15-5c1200450b37": {
+      "company": "Envoy Air",
+      "first_seen": "2026-11-10T10:32:44+00:00",
+      "last_seen": "2026-11-10T10:32:44+00:00",
+      "location": "Irving, TX",
+      "posted_at": "1793577600",
+      "source": "simplify",
+      "title": "College Intern - Maintenance Programs",
+      "url": "https://us-envoyair.icims.com/jobs/13091/job?mobile=true&needsRedirect=false"
+    },
     "simplify:envoy::simplify-4dbf8f7e-b82e-4f37-97c6-327eac9a9efd": {
       "company": "Envoy",
       "first_seen": "2026-09-25T01:34:11+00:00",
@@ -28655,6 +28665,16 @@
       "posted_at": "1785283200",
       "title": "Digital Vehicle Experience Software Developer Co-op",
       "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2026-Fall-Co-op-Digital-Vehicle-Experience-Software-Developer_JR-202616330"
+    },
+    "simplify:general translation::simplify-93653740-1b17-4398-9636-83230c035a55": {
+      "company": "General Translation",
+      "first_seen": "2026-11-10T10:32:44+00:00",
+      "last_seen": "2026-11-10T10:32:44+00:00",
+      "location": "SF",
+      "posted_at": "1784596560",
+      "source": "simplify",
+      "title": "Software Engineer - Product",
+      "url": "https://jobs.ashbyhq.com/generaltranslation/e8b7eb44-f36b-4032-a5f4-fff189f29f51/application?embed=true"
     },
     "simplify:genesis molecular ai::simplify-80a7e2c3-ed7c-41dc-92a7-85bf12db37f5": {
       "company": "Genesis Molecular AI",
@@ -54368,6 +54388,36 @@
       "posted_at": "1788905439",
       "title": "Patient Care Technician",
       "url": "https://jobs-selectmedicalcorp.icims.com/jobs/382977/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:selective insurance::simplify-7a74692b-0b32-47df-baa6-04c6d52dacd8": {
+      "company": "Selective Insurance",
+      "first_seen": "2026-11-10T10:32:44+00:00",
+      "last_seen": "2026-11-10T10:32:44+00:00",
+      "location": "Charlotte, NC, Hartford, CT",
+      "posted_at": "1788840000",
+      "source": "simplify",
+      "title": "IT E&S Insurance Product Delivery Intern",
+      "url": "https://jobs.selective.com/jobs/5778?icims=1&lang=en-us"
+    },
+    "simplify:selective insurance::simplify-b1c42508-489a-4a21-bf5b-ebd2039bbe7b": {
+      "company": "Selective Insurance",
+      "first_seen": "2026-11-10T10:32:44+00:00",
+      "last_seen": "2026-11-10T10:32:44+00:00",
+      "location": "Charlotte, NC",
+      "posted_at": "1788840000",
+      "source": "simplify",
+      "title": "IT Claims Application Delivery Intern",
+      "url": "https://jobs.selective.com/jobs/5750?icims=1&lang=en-us"
+    },
+    "simplify:selective insurance::simplify-ec82070a-1dec-4b05-9e7d-e8e93eab62f9": {
+      "company": "Selective Insurance",
+      "first_seen": "2026-11-10T10:32:44+00:00",
+      "last_seen": "2026-11-10T10:32:44+00:00",
+      "location": "Charlotte, NC, Hartford, CT",
+      "posted_at": "1788840000",
+      "source": "simplify",
+      "title": "IT Commercial Lines Summer Intern",
+      "url": "https://jobs.selective.com/jobs/5701?icims=1&lang=en-us"
     },
     "simplify:selector software::simplify-b9e498c9-b575-4a49-8288-ac332424e40d": {
       "company": "Selector Software",
@@ -82163,5 +82213,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T10:02:01+00:00"
+  "updated_at": "2026-11-10T10:33:04+00:00"
 }
