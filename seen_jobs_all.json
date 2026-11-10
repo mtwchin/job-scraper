@@ -1,5 +1,5 @@
 {
-  "count": 9263,
+  "count": 9267,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -3350,6 +3350,16 @@
       "posted_at": "2026-06-29T15:00:23-04:00",
       "title": "Forward Deployed Engineering Intern (AI Agent)",
       "url": "https://job-boards.greenhouse.io/cresta/jobs/5106468008"
+    },
+    "cursor::164e27cd-289e-4bcd-8aaf-5280e75c5ed6": {
+      "company": "Cursor",
+      "first_seen": "2026-11-10T07:44:35+00:00",
+      "last_seen": "2026-11-10T07:44:35+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "2026-11-10T00:20:41.676+00:00",
+      "source": "",
+      "title": "Software Engineer, New Grad 2027",
+      "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6"
     },
     "cursor::d0e5b41d-84ab-4887-bd3a-55589b11dd7b": {
       "company": "Cursor",
@@ -23703,6 +23713,16 @@
       "title": "Software Developer Trainee",
       "url": "https://apply.workable.com/ecareers/j/5049C7B338/apply"
     },
+    "simplify:eagle wireless::simplify-f145045a-af90-4af6-844d-430a822643df": {
+      "company": "Eagle Wireless",
+      "first_seen": "2026-11-10T08:02:42+00:00",
+      "last_seen": "2026-11-10T08:02:42+00:00",
+      "location": "Solon, OH",
+      "posted_at": "1794296658",
+      "source": "simplify",
+      "title": "MES Software Engineer",
+      "url": "https://ats.rippling.com/eagle-wireless/jobs/98f304e6-3067-4d28-ba94-4c48d5c92434"
+    },
     "simplify:eai technologies::simplify-165def57-d2b8-4820-944f-203575dd7b00": {
       "company": "EAi Technologies",
       "first_seen": "2026-08-03T08:03:11+00:00",
@@ -25081,7 +25101,7 @@
     "simplify:etched::simplify-1677419e-8d02-4e05-b049-cd051f2b1b28": {
       "company": "Etched",
       "first_seen": "2026-10-05T04:01:10+00:00",
-      "last_seen": "2026-11-03T00:02:09+00:00",
+      "last_seen": "2026-11-10T08:02:42+00:00",
       "location": "San Jose, CA",
       "posted_at": "1779239343",
       "source": "simplify",
@@ -49686,6 +49706,16 @@
       "title": "Android Developer Intern",
       "url": "https://jobs.lever.co/reply/0fb458db-7cb9-4bfd-b9b6-c1c681316061/apply"
     },
+    "simplify:republic finance::simplify-3fb8b7bd-86cb-4d5f-ab4d-109326b3686b": {
+      "company": "Republic Finance",
+      "first_seen": "2026-11-10T08:02:42+00:00",
+      "last_seen": "2026-11-10T08:02:42+00:00",
+      "location": "Plano, TX",
+      "posted_at": "1794002880",
+      "source": "simplify",
+      "title": "React Developer Intern",
+      "url": "https://jobs.republicfinance.com/jobs/15411?icims=1&lang=en-us"
+    },
     "simplify:research innovations::simplify-d025632f-3cb7-4ab5-9fd2-b99e9585016b": {
       "company": "Research Innovations",
       "first_seen": "2026-10-15T23:06:22+00:00",
@@ -62831,6 +62861,16 @@
       "posted_at": "1786141829",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007"
+    },
+    "simplify:trilogy health services::simplify-4b696a25-371d-4850-bd83-a776f749aa20": {
+      "company": "Trilogy Health Services",
+      "first_seen": "2026-11-10T08:02:42+00:00",
+      "last_seen": "2026-11-10T08:02:42+00:00",
+      "location": "Louisville, KY",
+      "posted_at": "1794237780",
+      "source": "simplify",
+      "title": "Information Systems Developer of AI and Automated Solutions Intern",
+      "url": "https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us"
     },
     "simplify:trimble::simplify-07dd289c-f9fe-4637-a062-777f953b086b": {
       "company": "Trimble",
@@ -82103,5 +82143,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T07:32:49+00:00"
+  "updated_at": "2026-11-10T08:02:53+00:00"
 }
