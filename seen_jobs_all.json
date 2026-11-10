@@ -1,5 +1,5 @@
 {
-  "count": 9279,
+  "count": 9281,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -39143,6 +39143,16 @@
       "title": "Associate Software Engineer",
       "url": "https://jobs.lever.co/matillion/62ae3359-b2ea-43bc-bed7-574e939f66e2/apply"
     },
+    "simplify:matillion::simplify-ae7750b1-899e-4303-94dc-793bbd2be58d": {
+      "company": "Matillion",
+      "first_seen": "2026-11-10T15:32:07+00:00",
+      "last_seen": "2026-11-10T15:32:07+00:00",
+      "location": "Manchester, UK",
+      "posted_at": "1794323429",
+      "source": "simplify",
+      "title": "Computer Science Intern - Software Engineering with AI",
+      "url": "https://jobs.lever.co/matillion/72564dd8-fed7-4fc5-9b16-8c7a2cfd3f22/apply"
+    },
     "simplify:maven securities::simplify-24751870-3351-4625-9977-345222746d6e": {
       "company": "Maven Securities",
       "first_seen": "2026-08-22T09:33:50+00:00",
@@ -49473,7 +49483,7 @@
     "simplify:regeneron pharmaceuticals::simplify-0798f561-9eaf-425b-aaf1-80d2da8691a2": {
       "company": "Regeneron Pharmaceuticals",
       "first_seen": "2026-10-28T23:02:28+00:00",
-      "last_seen": "2026-11-09T00:02:26+00:00",
+      "last_seen": "2026-11-10T15:32:06+00:00",
       "location": "Rensselaer, NY",
       "posted_at": "1793145600",
       "source": "simplify",
@@ -64954,6 +64964,16 @@
       "posted_at": "1765904967",
       "title": "Data Engineer",
       "url": "https://velera.wd5.myworkdayjobs.com/veleracareers/job/Remote-USA/Intern---Data-Engineer--REMOTE-_8844"
+    },
+    "simplify:veolia::simplify-9c3d434b-a6d9-43ad-a828-71d1d4170e6e": {
+      "company": "Veolia",
+      "first_seen": "2026-11-10T15:32:07+00:00",
+      "last_seen": "2026-11-10T15:32:07+00:00",
+      "location": "Boulder, CO",
+      "posted_at": "1794322464",
+      "source": "simplify",
+      "title": "Manufacturing Software Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000160896184"
     },
     "simplify:veralto::simplify-669285b9-7671-42a2-aa8c-413c7a3d0334": {
       "company": "Veralto",
@@ -82263,5 +82283,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T12:14:03+00:00"
+  "updated_at": "2026-11-10T15:32:09+00:00"
 }
