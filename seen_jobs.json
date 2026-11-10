@@ -1,5 +1,5 @@
 {
-  "count": 7933,
+  "count": 7934,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -61489,6 +61489,16 @@
       "title": "New Grad: Software Engineer",
       "url": "https://jobs.ashbyhq.com/creditgenie/016056e0-61cd-4a19-9d42-5f3cd88fed02"
     },
+    "vanshb03:cursor::vanshb03-5b8e4ad0-e54a-4c77-94c1-09f70c16e127": {
+      "company": "Cursor",
+      "first_seen": "2026-11-10T08:15:05+00:00",
+      "last_seen": "2026-11-10T08:15:05+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1794273212",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/1qa"
+    },
     "vanshb03:cvs health::vanshb03-03761046-05de-4fe9-8754-3ef666d42e4a": {
       "company": "CVS Health",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -67507,5 +67517,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T07:45:05+00:00"
+  "updated_at": "2026-11-10T08:15:08+00:00"
 }
