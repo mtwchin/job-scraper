@@ -1,5 +1,5 @@
 {
-  "count": 9258,
+  "count": 9263,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -12097,6 +12097,46 @@
       "source": "simplify",
       "title": "AI & Automation Intern",
       "url": "https://atriumhospitality.wd5.myworkdayjobs.com/atriumhospitality/job/Alpharetta-GA/AI---Automation-Intern_R50811"
+    },
+    "simplify:auburn university::simplify-625ad44f-ed6c-44b1-af1b-7421389d7149": {
+      "company": "Auburn University",
+      "first_seen": "2026-11-10T07:32:43+00:00",
+      "last_seen": "2026-11-10T07:32:43+00:00",
+      "location": "Auburn, AL",
+      "posted_at": "1786480860",
+      "source": "simplify",
+      "title": "Information Technology Co-op",
+      "url": "https://jobs.auburn.edu/jobs/9874?icims=1&lang=en-us"
+    },
+    "simplify:auburn university::simplify-9e9618c5-cc03-438e-a758-3e5a6d379c79": {
+      "company": "Auburn University",
+      "first_seen": "2026-11-10T07:32:43+00:00",
+      "last_seen": "2026-11-10T07:32:43+00:00",
+      "location": "Auburn, AL",
+      "posted_at": "1786473180",
+      "source": "simplify",
+      "title": "Student Developer & Data Analyst",
+      "url": "https://jobs.auburn.edu/jobs/10020?icims=1&lang=en-us"
+    },
+    "simplify:auburn university::simplify-bacd854c-f3b3-40b9-b7b1-a0511c2e41b2": {
+      "company": "Auburn University",
+      "first_seen": "2026-11-10T07:32:43+00:00",
+      "last_seen": "2026-11-10T07:32:43+00:00",
+      "location": "Auburn, AL",
+      "posted_at": "1793637900",
+      "source": "simplify",
+      "title": "LabVIEW Research Support Assistant Intern",
+      "url": "https://jobs.auburn.edu/jobs/10846?icims=1&lang=en-us"
+    },
+    "simplify:auburn university::simplify-f2ace705-ba05-4fde-8bd1-0420dea9181f": {
+      "company": "Auburn University",
+      "first_seen": "2026-11-10T07:32:43+00:00",
+      "last_seen": "2026-11-10T07:32:43+00:00",
+      "location": "Alabama",
+      "posted_at": "1784133540",
+      "source": "simplify",
+      "title": "Student Web Development Assistant Intern",
+      "url": "https://jobs.auburn.edu/jobs/9684?icims=1&lang=en-us"
     },
     "simplify:auctor::simplify-5a48777f-0af6-4e37-b9d2-1766b5c02ea2": {
       "company": "Auctor",
@@ -57969,6 +58009,16 @@
       "title": "R&D Engineering - Staff Engineer",
       "url": "https://synopsys.avature.net/careers/JobDetail/18519"
     },
+    "simplify:synopsys::simplify-32826384-5a69-4b08-87a5-1569af0c6d83": {
+      "company": "Synopsys",
+      "first_seen": "2026-11-10T07:32:43+00:00",
+      "last_seen": "2026-11-10T07:32:43+00:00",
+      "location": "Sunnyvale, CA, Remote in Canada",
+      "posted_at": "1794295024",
+      "source": "simplify",
+      "title": "R&D Engineering - Engineer",
+      "url": "https://synopsys.avature.net/careers/JobDetail/19637"
+    },
     "simplify:synqor::simplify-8c4b3913-d07d-4778-9227-405aec81c720": {
       "company": "SynQor",
       "first_seen": "2026-08-04T09:10:06+00:00",
@@ -82053,5 +82103,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T07:13:47+00:00"
+  "updated_at": "2026-11-10T07:32:49+00:00"
 }
