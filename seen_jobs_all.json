@@ -1,5 +1,5 @@
 {
-  "count": 9281,
+  "count": 9284,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -26015,6 +26015,16 @@
       "title": "Mainframe Software Engineer 1",
       "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0308256-1"
     },
+    "simplify:fidelity national information services::simplify-c1ff6cc7-a1ca-4fa9-8175-f705039e837f": {
+      "company": "Fidelity National Information Services",
+      "first_seen": "2026-11-10T16:02:08+00:00",
+      "last_seen": "2026-11-10T16:02:08+00:00",
+      "location": "Columbus, GA",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "Mainframe Software Engineer 1",
+      "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1"
+    },
     "simplify:fidelity national information services::simplify-fd11a598-750e-41c2-a06d-7ff0ae10fe31": {
       "company": "Fidelity National Information Services",
       "first_seen": "2026-09-11T23:13:27+00:00",
@@ -34450,7 +34460,7 @@
     "simplify:johns hopkins applied physics laboratory::simplify-a9b29fe5-49d0-4198-8037-ebf9c8ef0bd2": {
       "company": "Johns Hopkins Applied Physics Laboratory",
       "first_seen": "2026-09-08T18:00:46+00:00",
-      "last_seen": "2026-10-22T00:01:33+00:00",
+      "last_seen": "2026-11-10T16:02:07+00:00",
       "posted_at": "1788876555",
       "title": "Software Developer / RF Systems Engineer",
       "url": "https://careers.jhuapl.edu/jobs/59975?icims=1"
@@ -35025,6 +35035,16 @@
       "source": "simplify",
       "title": "Applications Integration Engineer",
       "url": "https://job-boards.greenhouse.io/kairospower/jobs/6206174004"
+    },
+    "simplify:kalshi::simplify-e5ddb274-9f36-4709-abfb-02a004dccbc1": {
+      "company": "Kalshi",
+      "first_seen": "2026-11-10T16:02:08+00:00",
+      "last_seen": "2026-11-10T16:02:08+00:00",
+      "location": "NYC",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "Software Engineer - Marketing",
+      "url": "https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e/application?embed=true"
     },
     "simplify:kanbrick::simplify-fc0ba9c7-8038-43b5-ae74-d319237d1147": {
       "company": "Kanbrick",
@@ -36966,6 +36986,16 @@
       "source": "simplify",
       "title": "Software Engineer 1",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Software-Engineer_R-00192469"
+    },
+    "simplify:leidos::simplify-321b8448-8bae-4dbf-a481-4f65e850cffb": {
+      "company": "Leidos",
+      "first_seen": "2026-11-10T16:02:08+00:00",
+      "last_seen": "2026-11-10T16:02:08+00:00",
+      "location": "Bristol, UK",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "Software Engineer - Application Development",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bristol-Gloucestershire-UK/Software-Engineer---Application-Development_R-00194447"
     },
     "simplify:leidos::simplify-3308ac34-523a-4204-824a-4cbe54e395b0": {
       "company": "Leidos",
@@ -82283,5 +82313,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T15:32:09+00:00"
+  "updated_at": "2026-11-10T16:02:12+00:00"
 }
