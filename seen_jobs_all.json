@@ -1,5 +1,5 @@
 {
-  "count": 9257,
+  "count": 9258,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71871,6 +71871,16 @@
       "title": "Software Engineer Intern, Campus Recruiting",
       "url": "https://go.vansh.nyc/1q4"
     },
+    "vanshb03:domino::vanshb03-f176a641-a962-4f88-9bd2-efbcb4092590": {
+      "company": "Domino",
+      "first_seen": "2026-11-10T07:13:42+00:00",
+      "last_seen": "2026-11-10T07:13:42+00:00",
+      "location": "New York, NY",
+      "posted_at": "1794294569",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/1q7"
+    },
     "vanshb03:doordash::vanshb03-30db1ad6-60d1-4d8c-a71c-ec14e2488d1e": {
       "company": "DoorDash",
       "first_seen": "2026-10-26T14:02:48+00:00",
@@ -82043,5 +82053,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T07:09:44+00:00"
+  "updated_at": "2026-11-10T07:13:47+00:00"
 }
