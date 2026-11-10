@@ -1,5 +1,5 @@
 {
-  "count": 9276,
+  "count": 9279,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -77837,6 +77837,26 @@
       "title": "Software Engineer Intern, Security/Government",
       "url": "https://go.vansh.nyc/bA"
     },
+    "vanshb03:sambanova::vanshb03-7f0254fe-9c00-438d-a6d2-293fb21c6dc4": {
+      "company": "SambaNova",
+      "first_seen": "2026-11-10T11:16:43+00:00",
+      "last_seen": "2026-11-10T11:16:43+00:00",
+      "location": "Austin, TX, San Jose, CA",
+      "posted_at": "1794309161",
+      "source": "vanshb03",
+      "title": "New Grad: ML Infrastructure Engineer",
+      "url": "https://go.vansh.nyc/1qn"
+    },
+    "vanshb03:sambanova::vanshb03-fb423ebc-8446-4ede-a5d2-7142d03e548f": {
+      "company": "SambaNova",
+      "first_seen": "2026-11-10T11:16:43+00:00",
+      "last_seen": "2026-11-10T11:16:43+00:00",
+      "location": "Austin, TX, San Jose, CA",
+      "posted_at": "1794309161",
+      "source": "vanshb03",
+      "title": "New Grad: Cloud Platform Engineer",
+      "url": "https://go.vansh.nyc/1qj"
+    },
     "vanshb03:samsara::vanshb03-39e6d57e-60d5-4926-8ab4-08c5c5651d77": {
       "company": "Samsara",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -81588,6 +81608,16 @@
       "title": "Software Engineering Co-op, WB Games",
       "url": "https://go.vansh.nyc/1oz"
     },
+    "vanshb03:waymo::vanshb03-62b968b8-7ea5-492d-8e8a-bb4fe3a0e949": {
+      "company": "Waymo",
+      "first_seen": "2026-11-10T11:12:46+00:00",
+      "last_seen": "2026-11-10T11:12:46+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1794268461",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Multiverse",
+      "url": "https://go.vansh.nyc/1qh"
+    },
     "vanshb03:waymo::vanshb03-c92100ab-20db-4adc-bd14-b23fa54ece5c": {
       "company": "Waymo",
       "first_seen": "2026-10-26T13:45:08+00:00",
@@ -82233,5 +82263,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T11:13:08+00:00"
+  "updated_at": "2026-11-10T11:17:12+00:00"
 }
