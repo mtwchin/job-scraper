@@ -1,5 +1,5 @@
 {
-  "count": 7941,
+  "count": 7942,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -64655,6 +64655,16 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009"
     },
+    "vanshb03:skydio::vanshb03-38075853-84d1-4661-b7de-b5c05974406d": {
+      "company": "Skydio",
+      "first_seen": "2026-11-10T18:44:46+00:00",
+      "last_seen": "2026-11-10T18:44:46+00:00",
+      "location": "San Mateo, CA",
+      "posted_at": "1794334344",
+      "source": "vanshb03",
+      "title": "Hardware In Loop (HIL) Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1rH"
+    },
     "vanshb03:skydio::vanshb03-69559fdb-2de6-4bd1-8c5a-f7396d2646ab": {
       "company": "Skydio",
       "first_seen": "2026-11-04T19:03:05+00:00",
@@ -67590,5 +67600,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T18:06:46+00:00"
+  "updated_at": "2026-11-10T18:44:48+00:00"
 }
