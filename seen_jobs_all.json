@@ -1,5 +1,5 @@
 {
-  "count": 9320,
+  "count": 9323,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -3195,6 +3195,16 @@
       "source": "",
       "title": "Software Engineer Embedded Systems I (Co-op) - United States",
       "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Co-op----United-States_2029701"
+    },
+    "cisco::Software-Engineer-Embedded-Systems-I--Intern----United-States_2024641-1": {
+      "company": "Cisco",
+      "first_seen": "2026-11-10T22:47:36+00:00",
+      "last_seen": "2026-11-10T22:47:36+00:00",
+      "location": "San Jose, California, US, Austin, Texas, US, RTP, North Carolina, US",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Software Engineer Embedded Systems I (Intern) - United States",
+      "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2024641-1"
     },
     "cisco::Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926": {
       "company": "Cisco",
@@ -78109,6 +78119,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/T2"
     },
+    "vanshb03:rtx::vanshb03-bd59d805-af2f-4380-afd5-2a2900bf852a": {
+      "company": "RTX",
+      "first_seen": "2026-11-10T23:10:23+00:00",
+      "last_seen": "2026-11-10T23:10:23+00:00",
+      "location": "St Petersburg, FL",
+      "posted_at": "1794351415",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1sc"
+    },
     "vanshb03:rtx::vanshb03-c80f24e3-b3cf-46b1-a2cc-5ebf75869a17": {
       "company": "RTX",
       "first_seen": "2026-11-03T06:53:59+00:00",
@@ -78624,6 +78644,16 @@
       "source": "vanshb03",
       "title": "Mobile Software Engineer Intern",
       "url": "https://go.vansh.nyc/cH"
+    },
+    "vanshb03:skydio::vanshb03-7ae9c9a0-b81b-4b36-9b22-76b22a5547ff": {
+      "company": "Skydio",
+      "first_seen": "2026-11-10T22:39:26+00:00",
+      "last_seen": "2026-11-10T22:39:26+00:00",
+      "location": "San Mateo, CA",
+      "posted_at": "1794347533",
+      "source": "vanshb03",
+      "title": "Middleware Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1s9"
     },
     "vanshb03:skydio::vanshb03-7f7136dc-48c9-43a3-8d88-b991b5a78c3b": {
       "company": "Skydio",
@@ -82677,5 +82707,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T22:39:35+00:00"
+  "updated_at": "2026-11-10T23:10:39+00:00"
 }
