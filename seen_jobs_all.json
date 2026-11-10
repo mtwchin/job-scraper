@@ -1,5 +1,5 @@
 {
-  "count": 9254,
+  "count": 9255,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -3873,6 +3873,16 @@
       "source": "",
       "title": "AI Software Engineering Undergraduate Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583"
+    },
+    "intel::HR-IT-Software-Engineer-Intern_JR0288637": {
+      "company": "Intel",
+      "first_seen": "2026-11-10T06:01:32+00:00",
+      "last_seen": "2026-11-10T06:01:32+00:00",
+      "location": "Costa Rica, San Jose",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "HR IT Software Engineer Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/External/job/Costa-Rica-San-Jose/HR-IT-Software-Engineer-Intern_JR0288637"
     },
     "intel::JR0282639": {
       "company": "Intel",
@@ -82013,5 +82023,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T04:11:30+00:00"
+  "updated_at": "2026-11-10T06:43:41+00:00"
 }
