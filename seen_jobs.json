@@ -1,5 +1,5 @@
 {
-  "count": 7945,
+  "count": 7946,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -35037,7 +35037,7 @@
     "simplify:microsoft::simplify-1d54b27d-8a8b-4037-85f3-347baff81004": {
       "company": "Microsoft",
       "first_seen": "2026-10-12T23:05:34+00:00",
-      "last_seen": "2026-10-20T00:00:02+00:00",
+      "last_seen": "2026-11-10T23:32:21+00:00",
       "location": "Redmond, WA",
       "posted_at": "1791843002",
       "source": "simplify",
@@ -46696,6 +46696,16 @@
       "posted_at": "1772089448",
       "title": "Python Developer",
       "url": "https://jobs.smartrecruiters.com/SajixSoftwareSolutionPrivateLimited/744000058603750"
+    },
+    "simplify:salesforce::simplify-0120e440-b745-4397-ba25-12ed4f87430c": {
+      "company": "Salesforce",
+      "first_seen": "2026-11-10T23:32:21+00:00",
+      "last_seen": "2026-11-10T23:32:21+00:00",
+      "location": "Seattle, WA, SF, NYC",
+      "posted_at": "1794268800",
+      "source": "simplify",
+      "title": "AI Labs Rotational Fellow",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/AI-Labs-Rotational-Fellowship--Emerging-Talent_JR367643-1"
     },
     "simplify:salesforce::simplify-1a2e58cc-f4e5-478e-a272-afd67fbeedd1": {
       "company": "Salesforce",
@@ -67630,5 +67640,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-10T22:47:38+00:00"
+  "updated_at": "2026-11-10T23:32:41+00:00"
 }
