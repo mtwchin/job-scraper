@@ -1,5 +1,5 @@
 {
-  "count": 7955,
+  "count": 7956,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -9359,6 +9359,16 @@
       "posted_at": "1787263809",
       "title": "Darwin Runtime Engineer - Core OS",
       "url": "https://jobs.apple.com/en-us/details/200662330"
+    },
+    "simplify:apple::simplify-fa8c7d9d-20a4-4fe9-a1da-5c782f538b96": {
+      "company": "Apple",
+      "first_seen": "2026-11-11T07:31:53+00:00",
+      "last_seen": "2026-11-11T07:31:53+00:00",
+      "location": "Cupertino, CA",
+      "posted_at": "1794381911",
+      "source": "simplify",
+      "title": "Darwin Runtime Engineer - Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200678840"
     },
     "simplify:applied intuition::simplify-988e5175-a56f-4c3a-b1d9-3a643a63a503": {
       "company": "Applied Intuition",
@@ -67731,5 +67741,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T05:57:33+00:00"
+  "updated_at": "2026-11-11T07:32:36+00:00"
 }
