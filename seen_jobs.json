@@ -1,5 +1,5 @@
 {
-  "count": 7953,
+  "count": 7955,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -63447,6 +63447,16 @@
       "title": "Software Engineer Intern, Mobile",
       "url": "https://jobs.ashbyhq.com/notion/3e56e35b-f35b-4b1a-ba2b-0ccdc6f60421"
     },
+    "vanshb03:nuro::vanshb03-be26e98c-02ea-4a1f-8540-f700e27803d3": {
+      "company": "Nuro",
+      "first_seen": "2026-11-11T05:57:31+00:00",
+      "last_seen": "2026-11-11T05:57:31+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1792368702",
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineer, AI Platform",
+      "url": "https://go.vansh.nyc/1ul"
+    },
     "vanshb03:nuro::vanshb03-ebcf7f36-de1b-4a59-846e-60e6b1ebb496": {
       "company": "Nuro",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -64118,6 +64128,16 @@
       "source": "vanshb03",
       "title": "New Grad 2026: Software Engineer",
       "url": "https://www.pinterestcareers.com/job-form?gh_jid=7211012"
+    },
+    "vanshb03:pinterest::vanshb03-afe0d7f5-3dc9-4655-a418-61ec24f91623": {
+      "company": "Pinterest",
+      "first_seen": "2026-11-11T05:57:31+00:00",
+      "last_seen": "2026-11-11T05:57:31+00:00",
+      "location": "San Francisco, CA, Remote",
+      "posted_at": "1790893159",
+      "source": "vanshb03",
+      "title": "University Grad Software Engineer",
+      "url": "https://go.vansh.nyc/1u0"
     },
     "vanshb03:pinterest::vanshb03-d3b06542-ab51-4b6a-a0ac-4869c2e9c530": {
       "company": "Pinterest",
@@ -67711,5 +67731,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T05:47:31+00:00"
+  "updated_at": "2026-11-11T05:57:33+00:00"
 }
