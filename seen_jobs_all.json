@@ -1,5 +1,5 @@
 {
-  "count": 9362,
+  "count": 9363,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -26718,6 +26718,16 @@
       "title": "Manufacturing Test Software Intern",
       "url": "https://careers.formlabs.com/job/8021679/apply/?gh_jid=8021679"
     },
+    "simplify:formulary financial::simplify-84ac8ab7-abcc-40b8-a4f6-f5d5125165dc": {
+      "company": "Formulary Financial",
+      "first_seen": "2026-11-11T03:02:44+00:00",
+      "last_seen": "2026-11-11T03:02:44+00:00",
+      "location": "NYC",
+      "posted_at": "1794096000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04/application?embed=true"
+    },
     "simplify:fortinet::simplify-0129aefa-6830-42c7-97c4-bfaada409ad1": {
       "company": "Fortinet",
       "first_seen": "2026-09-01T20:11:23+00:00",
@@ -29595,7 +29605,7 @@
     "simplify:goaly::simplify-cd6f30ae-cfcf-4975-8371-655f5f3c95f4": {
       "company": "Goaly",
       "first_seen": "2026-10-28T02:02:07+00:00",
-      "last_seen": "2026-11-06T00:02:31+00:00",
+      "last_seen": "2026-11-11T03:02:43+00:00",
       "location": "Palo Alto, CA",
       "posted_at": "1790208000",
       "source": "simplify",
@@ -83105,5 +83115,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T02:33:07+00:00"
+  "updated_at": "2026-11-11T03:03:10+00:00"
 }
