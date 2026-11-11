@@ -1,5 +1,5 @@
 {
-  "count": 7961,
+  "count": 7962,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1966,6 +1966,16 @@
       "source": "",
       "title": "2026 Intern Conversion - Electronics/Electrical Systems Engineer I",
       "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Electronics-Electrical-Systems-Engineer-I_R70292"
+    },
+    "brex::8936403002": {
+      "company": "Brex",
+      "first_seen": "2026-11-11T16:25:37+00:00",
+      "last_seen": "2026-11-11T16:25:37+00:00",
+      "location": "San Francisco, California, United States",
+      "posted_at": "2026-11-11T11:23:25-05:00",
+      "source": "",
+      "title": "Software Engineer, Intern  (Summer 2027(",
+      "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002"
     },
     "capital one::Associate--Software-Engineer--New-Grad-Card-Expansion_R236833": {
       "company": "Capital One",
@@ -67791,5 +67801,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T16:19:03+00:00"
+  "updated_at": "2026-11-11T16:26:05+00:00"
 }
