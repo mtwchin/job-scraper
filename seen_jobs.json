@@ -1,5 +1,5 @@
 {
-  "count": 7956,
+  "count": 7957,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -61536,6 +61536,16 @@
       "title": "Software Developer Embedded Systems I Co-op",
       "url": "https://go.vansh.nyc/K6"
     },
+    "vanshb03:cisco::vanshb03-ceae067f-4432-4d8a-84e7-331000e69f40": {
+      "company": "Cisco",
+      "first_seen": "2026-11-11T11:13:31+00:00",
+      "last_seen": "2026-11-11T11:13:31+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1794308773",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Embedded Systems I",
+      "url": "https://go.vansh.nyc/1uy"
+    },
     "vanshb03:cisco::vanshb03-e0f8d61d-374d-4b65-a6d9-046d2a8fd10c": {
       "company": "Cisco",
       "first_seen": "2026-10-25T08:27:07+00:00",
@@ -67741,5 +67751,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T07:32:36+00:00"
+  "updated_at": "2026-11-11T11:14:11+00:00"
 }
