@@ -1,5 +1,5 @@
 {
-  "count": 9444,
+  "count": 9448,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -8738,6 +8738,16 @@
       "source": "simplify",
       "title": "Software Development Engineer Apprentice",
       "url": "https://amazon.jobs/en/jobs/10598611/software-development-engineer-apprentice-48-month-fixed-term-contract"
+    },
+    "simplify:amazon::simplify-bbb6aade-f690-4c25-ad16-29372ae900b1": {
+      "company": "Amazon",
+      "first_seen": "2026-11-11T23:37:33+00:00",
+      "last_seen": "2026-11-11T23:37:33+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1794438267",
+      "source": "simplify",
+      "title": "Software Developer Engineer",
+      "url": "https://amazon.jobs/en/jobs/10589122/software-dev-engineer"
     },
     "simplify:amazon::simplify-beb3809f-7e70-4921-8048-c14921c4ba78": {
       "company": "Amazon",
@@ -70787,6 +70797,28 @@
       "title": "Software Intern",
       "url": "https://go.vansh.nyc/Qv"
     },
+    "vanshb03:bask health::vanshb03-968793d6-2170-41e5-a2d2-fd9e521f912e": {
+      "company": "Bask Health",
+      "first_seen": "2026-11-11T23:46:56+00:00",
+      "last_seen": "2026-11-11T23:46:56+00:00",
+      "location": "Remote, United States",
+      "posted_at": "1794438468",
+      "source": "vanshb03",
+      "title": "Backend Engineer Intern",
+      "url": "https://go.vansh.nyc/1vx"
+    },
+    "vanshb03:bask health::vanshb03-9b3ad213-2a8c-4538-aa64-be436081692c": {
+      "company": "Bask Health",
+      "duplicate_of": "simplify:bask health::simplify-9582c4ee-4d88-47d4-8b67-db20474e723a",
+      "first_seen": "2026-11-11T23:46:55+00:00",
+      "last_seen": "2026-11-11T23:46:55+00:00",
+      "location": "Remote, United States",
+      "posted_at": "1794438468",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1vw"
+    },
     "vanshb03:bask::vanshb03-0531d89b-6bb3-4d54-a92b-b850e8bf3224": {
       "company": "Bask",
       "first_seen": "2026-11-11T21:40:56+00:00",
@@ -74548,7 +74580,7 @@
     "vanshb03:honeywell::vanshb03-d504c3bc-9216-4430-99f9-5637046ca7d8": {
       "company": "HoneyWell",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-27T00:03:04+00:00",
+      "last_seen": "2026-11-11T23:46:55+00:00",
       "location": "Clearwater, FL",
       "posted_at": "1759261119",
       "seeded": true,
@@ -76555,6 +76587,18 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000121851427"
+    },
+    "vanshb03:nbcuniversal::vanshb03-54279981-c4e6-4d09-a8df-35f544dd3d2b": {
+      "company": "NBCUniversal",
+      "duplicate_of": "simplify:nbcuniversal::simplify-54a75919-6e10-4a6a-8257-af5ebf85bf60",
+      "first_seen": "2026-11-11T23:46:55+00:00",
+      "last_seen": "2026-11-11T23:46:55+00:00",
+      "location": "Universal City, CA",
+      "posted_at": "1794437779",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1vv"
     },
     "vanshb03:nbcuniversal::vanshb03-556c1091-31ca-47ab-8cdb-09e98cfe8fd2": {
       "company": "NBCUniversal",
@@ -83935,5 +83979,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T23:33:16+00:00"
+  "updated_at": "2026-11-11T23:47:19+00:00"
 }
