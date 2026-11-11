@@ -1,5 +1,5 @@
 {
-  "count": 9365,
+  "count": 9377,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -68754,6 +68754,16 @@
       "title": "Integrated Motor Drive Software Co-op",
       "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Greenville-South-Carolina-United-States-of-America/Integrated-Motor-Drive-SW-Co-Op---Spring-2027_JR00050240"
     },
+    "vanshb03:abbvie::vanshb03-6fd84995-b172-48a1-aee1-003f8ea96724": {
+      "company": "AbbVie",
+      "first_seen": "2026-11-11T05:47:03+00:00",
+      "last_seen": "2026-11-11T05:47:03+00:00",
+      "location": "North Chicago, IL",
+      "posted_at": "1790350746",
+      "source": "vanshb03",
+      "title": "Business Technology Solutions Intern - Data & Software Engineering",
+      "url": "https://go.vansh.nyc/1tw"
+    },
     "vanshb03:abundant::vanshb03-be8a32ae-5fd1-4286-9558-350522401001": {
       "company": "Abundant",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -70610,6 +70620,16 @@
       "title": "Software Engineering Co-op",
       "url": "https://go.vansh.nyc/bd"
     },
+    "vanshb03:bosch::vanshb03-c5cacae0-d772-4c06-9200-a9802854e450": {
+      "company": "Bosch",
+      "first_seen": "2026-11-11T05:47:03+00:00",
+      "last_seen": "2026-11-11T05:47:03+00:00",
+      "location": "Fountain Inn, SC",
+      "posted_at": "1792414581",
+      "source": "vanshb03",
+      "title": "Embedded AI Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/1tK"
+    },
     "vanshb03:bose::vanshb03-148946ea-c06d-4871-90b9-7295f5157d10": {
       "company": "Bose",
       "first_seen": "2026-10-26T12:09:23+00:00",
@@ -71476,6 +71496,16 @@
       "source": "vanshb03",
       "title": "New Grad: Software Engineer",
       "url": "https://jobs.ashbyhq.com/Cape/bd280ded-4298-47de-a186-1aebd1bd94b8"
+    },
+    "vanshb03:capital de recherche tower::vanshb03-e7275e94-c46d-48fe-8080-0477893e1f0e": {
+      "company": "Capital de Recherche Tower",
+      "first_seen": "2026-11-11T05:47:03+00:00",
+      "last_seen": "2026-11-11T05:47:03+00:00",
+      "location": "Montreal, Canada",
+      "posted_at": "1789678789",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1t0"
     },
     "vanshb03:capital one::vanshb03-26dc04ff-78b4-4078-a223-a25add01bb70": {
       "company": "Capital One",
@@ -73075,6 +73105,16 @@
       "title": "Software Engineer I, Cloud",
       "url": "https://go.vansh.nyc/XK"
     },
+    "vanshb03:f&g::vanshb03-41e1e17f-fe68-4099-8384-b7300a044a81": {
+      "company": "F&G",
+      "first_seen": "2026-11-11T05:47:03+00:00",
+      "last_seen": "2026-11-11T05:47:03+00:00",
+      "location": "Des Moines, IA",
+      "posted_at": "1789491512",
+      "source": "vanshb03",
+      "title": "IT Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1sU"
+    },
     "vanshb03:fab2::vanshb03-2a0ce6d8-86a6-4cbc-b321-08184d9fafea": {
       "company": "fab2",
       "first_seen": "2026-11-06T22:10:44+00:00",
@@ -73639,6 +73679,28 @@
       "source": "vanshb03",
       "title": "New Grad 2027: Software Developer",
       "url": "https://go.vansh.nyc/Pw"
+    },
+    "vanshb03:global relay::vanshb03-4f633b85-17cb-487e-9207-afbefccd02f9": {
+      "company": "Global Relay",
+      "first_seen": "2026-11-11T05:47:03+00:00",
+      "last_seen": "2026-11-11T05:47:03+00:00",
+      "location": "Vancouver, Canada; Halifax, Canada",
+      "posted_at": "1793739493",
+      "source": "vanshb03",
+      "title": "Software Development Engineer in Test Co-op",
+      "url": "https://go.vansh.nyc/1tP"
+    },
+    "vanshb03:global relay::vanshb03-a0d44bff-d55b-4043-b548-1b1bcff58c95": {
+      "company": "Global Relay",
+      "duplicate_of": "vanshb03:global relay::vanshb03-4f633b85-17cb-487e-9207-afbefccd02f9",
+      "first_seen": "2026-11-11T05:47:02+00:00",
+      "last_seen": "2026-11-11T05:47:02+00:00",
+      "location": "Halifax, Canada",
+      "posted_at": "1793739883",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Development Engineer in Test Co-op",
+      "url": "https://go.vansh.nyc/1tQ"
     },
     "vanshb03:global relay::vanshb03-a1fe1160-a32c-41b1-a47d-c72c5d2785d6": {
       "company": "Global Relay",
@@ -76188,6 +76250,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, CPU Profiler",
       "url": "https://careers.nintendo.com/?gh_jid=4469762009"
+    },
+    "vanshb03:nintendo::vanshb03-7ccba412-268c-44fb-9a2f-d622ae7a3fd7": {
+      "company": "Nintendo",
+      "first_seen": "2026-11-11T05:47:03+00:00",
+      "last_seen": "2026-11-11T05:47:03+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1792368000",
+      "source": "vanshb03",
+      "title": "IT Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1tJ"
     },
     "vanshb03:nintendo::vanshb03-d5ec9a96-e748-4a1f-aa36-361f9e0d6761": {
       "company": "Nintendo",
@@ -82482,6 +82554,26 @@
       "title": "Software Engineer Intern, AI Platform Team",
       "url": "https://go.vansh.nyc/1bl"
     },
+    "vanshb03:wellmark::vanshb03-8af81f25-301e-49b2-84df-6c073e0fdafd": {
+      "company": "Wellmark",
+      "first_seen": "2026-11-11T05:47:03+00:00",
+      "last_seen": "2026-11-11T05:47:03+00:00",
+      "location": "Des Moines, IA",
+      "posted_at": "1790624295",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern - Marketing and Digital Team",
+      "url": "https://go.vansh.nyc/1tx"
+    },
+    "vanshb03:wellmark::vanshb03-d6e31612-19c3-4c5a-9890-494c2c86c4ce": {
+      "company": "Wellmark",
+      "first_seen": "2026-11-11T05:47:03+00:00",
+      "last_seen": "2026-11-11T05:47:03+00:00",
+      "location": "Des Moines, IA",
+      "posted_at": "1789094158",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern - User Experience Team",
+      "url": "https://go.vansh.nyc/1tn"
+    },
     "vanshb03:weride::vanshb03-9501d08e-8de9-4c94-a656-bb6d34475205": {
       "company": "WeRide",
       "first_seen": "2026-10-26T15:04:12+00:00",
@@ -82595,6 +82687,36 @@
       "source": "vanshb03",
       "title": "Software Engineer Co-op, Backend, Business Systems",
       "url": "https://go.vansh.nyc/1sK"
+    },
+    "vanshb03:wing::vanshb03-58fed81e-0948-41cb-a71a-6365a3e46df0": {
+      "company": "Wing",
+      "first_seen": "2026-11-11T05:47:03+00:00",
+      "last_seen": "2026-11-11T05:47:03+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1791849600",
+      "source": "vanshb03",
+      "title": "Route Planning Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1tE"
+    },
+    "vanshb03:wing::vanshb03-b4aeb635-6daa-4a6f-b2ab-a795e882d984": {
+      "company": "Wing",
+      "first_seen": "2026-11-11T05:47:03+00:00",
+      "last_seen": "2026-11-11T05:47:03+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1791849600",
+      "source": "vanshb03",
+      "title": "Execution & Topology Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1tF"
+    },
+    "vanshb03:wing::vanshb03-dacb5c91-7259-4e2b-a853-730d2ee0baeb": {
+      "company": "Wing",
+      "first_seen": "2026-11-11T05:47:03+00:00",
+      "last_seen": "2026-11-11T05:47:03+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1791849600",
+      "source": "vanshb03",
+      "title": "Data Infrastructure Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1tD"
     },
     "vanshb03:wolverine trading::vanshb03-bb00ca5a-ce6a-41e7-a4d7-c772d5389e96": {
       "company": "Wolverine Trading",
@@ -83137,5 +83259,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T04:45:01+00:00"
+  "updated_at": "2026-11-11T05:47:05+00:00"
 }
