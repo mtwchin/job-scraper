@@ -1,5 +1,5 @@
 {
-  "count": 9390,
+  "count": 9393,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -10659,6 +10659,16 @@
       "posted_at": "1788991789",
       "title": "Software Engineer - Apple Ads",
       "url": "https://jobs.apple.com/en-us/details/200682706"
+    },
+    "simplify:apple::simplify-cceaa90f-ed2e-4df2-b29a-b53f8da47d99": {
+      "company": "Apple",
+      "first_seen": "2026-11-11T11:32:13+00:00",
+      "last_seen": "2026-11-11T11:32:13+00:00",
+      "location": "Swindon, UK",
+      "posted_at": "1794394874",
+      "source": "simplify",
+      "title": "CAD Virtuoso Engineer Intern",
+      "url": "https://jobs.apple.com/en-us/details/200693133"
     },
     "simplify:apple::simplify-d3c2d57b-c7ea-4194-ac33-731c72f64420": {
       "company": "Apple",
@@ -56025,6 +56035,16 @@
       "title": "Software Engineer - Early Career - C++ & Systems",
       "url": "https://job-boards.greenhouse.io/sirenopt/jobs/4452002009"
     },
+    "simplify:sirion::simplify-828e0967-a10d-43b8-a626-6768e2d26833": {
+      "company": "Sirion",
+      "first_seen": "2026-11-11T11:32:21+00:00",
+      "last_seen": "2026-11-11T11:32:21+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1794388487",
+      "source": "simplify",
+      "title": "Junior AI Agent Builder",
+      "url": "https://job-boards.anz.greenhouse.io/sirionlabspteltd/jobs/4009600201"
+    },
     "simplify:sirona medical::simplify-373a9878-b32b-4c85-8ce6-20b6df03c8b3": {
       "company": "Sirona Medical",
       "first_seen": "2026-09-21T10:53:47+00:00",
@@ -71939,6 +71959,16 @@
       "title": "Software Developer Embedded Systems I Co-op",
       "url": "https://go.vansh.nyc/K6"
     },
+    "vanshb03:cisco::vanshb03-ceae067f-4432-4d8a-84e7-331000e69f40": {
+      "company": "Cisco",
+      "first_seen": "2026-11-11T11:13:31+00:00",
+      "last_seen": "2026-11-11T11:13:31+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1794308773",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Embedded Systems I",
+      "url": "https://go.vansh.nyc/1uy"
+    },
     "vanshb03:cisco::vanshb03-e0f8d61d-374d-4b65-a6d9-046d2a8fd10c": {
       "company": "Cisco",
       "first_seen": "2026-10-25T08:27:07+00:00",
@@ -83391,5 +83421,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T10:15:19+00:00"
+  "updated_at": "2026-11-11T11:32:23+00:00"
 }
