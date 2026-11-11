@@ -1,5 +1,5 @@
 {
-  "count": 9409,
+  "count": 9411,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -68863,6 +68863,16 @@
       "title": "Software Engineer I - Engagement Growth",
       "url": "https://job-boards.greenhouse.io/twitch/jobs/8917377002"
     },
+    "twitch::8934067002": {
+      "company": "Twitch",
+      "first_seen": "2026-11-11T18:40:38+00:00",
+      "last_seen": "2026-11-11T18:40:38+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "2026-11-11T13:39:50-05:00",
+      "source": "",
+      "title": "Software Engineer I, Commerce",
+      "url": "https://job-boards.greenhouse.io/twitch/jobs/8934067002"
+    },
     "vanshb03:21cs::vanshb03-8f371c86-66af-4fb5-b691-d8e1f3497d40": {
       "company": "21CS",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -74003,6 +74013,16 @@
       "source": "vanshb03",
       "title": "Forward Deployed Engineering Intern",
       "url": "https://go.vansh.nyc/8e"
+    },
+    "vanshb03:gournay consulting::vanshb03-330134c9-da3c-43d9-a888-cd45d580dd4d": {
+      "company": "Gournay Consulting",
+      "first_seen": "2026-11-11T18:49:36+00:00",
+      "last_seen": "2026-11-11T18:49:36+00:00",
+      "location": "New Hope, PA",
+      "posted_at": "1794314224",
+      "source": "vanshb03",
+      "title": "Systems Engineer I",
+      "url": "https://go.vansh.nyc/1uS"
     },
     "vanshb03:greatamerica financial services::vanshb03-7d1bd72f-6c0b-4558-9350-5db1ac93b742": {
       "company": "GreatAmerica Financial Services",
@@ -83581,5 +83601,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T17:12:43+00:00"
+  "updated_at": "2026-11-11T18:49:47+00:00"
 }
