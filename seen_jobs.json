@@ -1,5 +1,5 @@
 {
-  "count": 7950,
+  "count": 7951,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -51638,6 +51638,16 @@
       "title": "Software Engineer Intern - Software Engineer - Information Security",
       "url": "https://www.tesla.com/careers/search/job/270497"
     },
+    "simplify:tesla::simplify-69fc016e-5ad7-44cf-b4a2-2659826b2808": {
+      "company": "Tesla",
+      "first_seen": "2026-11-11T02:32:01+00:00",
+      "last_seen": "2026-11-11T02:32:01+00:00",
+      "location": "Fremont, CA",
+      "posted_at": "1794363974",
+      "source": "simplify",
+      "title": "Software Developer Intern - IT Apps",
+      "url": "https://www.tesla.com/careers/search/job/289683"
+    },
     "simplify:tesla::simplify-6f49e470-0a16-4b21-86e6-7a8a8a5cd275": {
       "company": "Tesla",
       "first_seen": "2026-10-02T23:03:29+00:00",
@@ -67681,5 +67691,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T02:02:57+00:00"
+  "updated_at": "2026-11-11T02:32:59+00:00"
 }
