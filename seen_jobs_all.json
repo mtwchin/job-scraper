@@ -1,5 +1,5 @@
 {
-  "count": 9393,
+  "count": 9394,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -82272,6 +82272,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/1oN"
     },
+    "vanshb03:unisys::vanshb03-f4f12920-d8db-4adb-b1f7-0b316f05b8a3": {
+      "company": "Unisys",
+      "first_seen": "2026-11-11T14:40:21+00:00",
+      "last_seen": "2026-11-11T14:40:21+00:00",
+      "location": "Eagan, MN",
+      "posted_at": "1794355200",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1uC"
+    },
     "vanshb03:uplimit::vanshb03-8555d620-3098-4982-8c5b-c1c26385fb13": {
       "company": "Uplimit",
       "first_seen": "2026-11-10T16:46:07+00:00",
@@ -83421,5 +83431,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T11:32:23+00:00"
+  "updated_at": "2026-11-11T14:40:30+00:00"
 }
