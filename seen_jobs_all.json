@@ -1,5 +1,5 @@
 {
-  "count": 9358,
+  "count": 9360,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71709,6 +71709,16 @@
       "title": "Software Engineer Intern, Full Stack / Backend II",
       "url": "https://go.vansh.nyc/e4"
     },
+    "vanshb03:cisco::vanshb03-1026c810-c164-4212-b162-cc4482482cc9": {
+      "company": "Cisco",
+      "first_seen": "2026-11-11T01:11:20+00:00",
+      "last_seen": "2026-11-11T01:11:20+00:00",
+      "location": "San Jose, CA, Austin, TX, Research Triangle Park, NC",
+      "posted_at": "1794357721",
+      "source": "vanshb03",
+      "title": "Software Engineer Embedded Systems I Intern",
+      "url": "https://go.vansh.nyc/1sE"
+    },
     "vanshb03:cisco::vanshb03-1d3ae82c-b797-450a-a50a-a11f5796a353": {
       "company": "Cisco",
       "first_seen": "2026-10-25T08:27:07+00:00",
@@ -82524,6 +82534,16 @@
       "title": "Software Engineer I (Backend, Growth)",
       "url": "https://go.vansh.nyc/1pe"
     },
+    "vanshb03:whoop::vanshb03-e03b6712-6fc8-49ac-8eff-78c833c529fa": {
+      "company": "Whoop",
+      "first_seen": "2026-11-11T02:14:42+00:00",
+      "last_seen": "2026-11-11T02:14:42+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1794262317",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op, Backend, Business Systems",
+      "url": "https://go.vansh.nyc/1sK"
+    },
     "vanshb03:wolverine trading::vanshb03-bb00ca5a-ce6a-41e7-a4d7-c772d5389e96": {
       "company": "Wolverine Trading",
       "first_seen": "2026-11-09T19:41:57+00:00",
@@ -83065,5 +83085,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T00:40:58+00:00"
+  "updated_at": "2026-11-11T02:15:03+00:00"
 }
