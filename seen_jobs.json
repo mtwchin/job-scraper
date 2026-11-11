@@ -1,5 +1,5 @@
 {
-  "count": 7957,
+  "count": 7958,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -9284,6 +9284,16 @@
       "posted_at": "1788991789",
       "title": "Software Engineer - Apple Ads",
       "url": "https://jobs.apple.com/en-us/details/200682706"
+    },
+    "simplify:apple::simplify-cceaa90f-ed2e-4df2-b29a-b53f8da47d99": {
+      "company": "Apple",
+      "first_seen": "2026-11-11T11:32:13+00:00",
+      "last_seen": "2026-11-11T11:32:13+00:00",
+      "location": "Swindon, UK",
+      "posted_at": "1794394874",
+      "source": "simplify",
+      "title": "CAD Virtuoso Engineer Intern",
+      "url": "https://jobs.apple.com/en-us/details/200693133"
     },
     "simplify:apple::simplify-d3c2d57b-c7ea-4194-ac33-731c72f64420": {
       "company": "Apple",
@@ -67751,5 +67761,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T11:14:11+00:00"
+  "updated_at": "2026-11-11T11:32:13+00:00"
 }
