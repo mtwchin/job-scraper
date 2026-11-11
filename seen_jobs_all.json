@@ -1,5 +1,5 @@
 {
-  "count": 9416,
+  "count": 9420,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -70585,6 +70585,26 @@
       "title": "Software Intern",
       "url": "https://go.vansh.nyc/Qv"
     },
+    "vanshb03:bask::vanshb03-0531d89b-6bb3-4d54-a92b-b850e8bf3224": {
+      "company": "Bask",
+      "first_seen": "2026-11-11T21:40:56+00:00",
+      "last_seen": "2026-11-11T21:40:56+00:00",
+      "location": "United States",
+      "posted_at": "1794433010",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1vj"
+    },
+    "vanshb03:bask::vanshb03-cefcba71-0efe-4d66-a73d-202ad27b1b2f": {
+      "company": "Bask",
+      "first_seen": "2026-11-11T21:40:56+00:00",
+      "last_seen": "2026-11-11T21:40:56+00:00",
+      "location": "United States",
+      "posted_at": "1794433010",
+      "source": "vanshb03",
+      "title": "Backend Engineering Intern",
+      "url": "https://go.vansh.nyc/1vi"
+    },
     "vanshb03:battelle::vanshb03-7dccad6a-25e0-4448-bbf8-efe61702482c": {
       "company": "Battelle",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -76181,6 +76201,16 @@
       "title": "Junior Software Engineer - Emergency Call Handling",
       "url": "https://go.vansh.nyc/W6"
     },
+    "vanshb03:motorola::vanshb03-9e99a6f2-8eb4-4e47-b1db-6f201acf2b56": {
+      "company": "Motorola",
+      "first_seen": "2026-11-11T21:40:56+00:00",
+      "last_seen": "2026-11-11T21:40:56+00:00",
+      "location": "Schaumburg, IL",
+      "posted_at": "1794433010",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1vh"
+    },
     "vanshb03:motorola::vanshb03-b0de13da-8568-4fdd-a82d-2bc05827fdd3": {
       "company": "Motorola",
       "first_seen": "2026-10-26T12:37:52+00:00",
@@ -79167,6 +79197,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/1p0"
+    },
+    "vanshb03:securitymetrics::vanshb03-a782e737-53bb-4139-b4c9-a29ea038c117": {
+      "company": "Securitymetrics",
+      "first_seen": "2026-11-11T21:40:56+00:00",
+      "last_seen": "2026-11-11T21:40:56+00:00",
+      "location": "Orem, UT",
+      "posted_at": "1794355200",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1vg"
     },
     "vanshb03:semtech::vanshb03-529386e9-c026-4317-9c23-71723dc0b364": {
       "company": "Semtech",
@@ -83653,5 +83693,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T21:16:57+00:00"
+  "updated_at": "2026-11-11T21:41:00+00:00"
 }
