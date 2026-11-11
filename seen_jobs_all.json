@@ -1,5 +1,5 @@
 {
-  "count": 9412,
+  "count": 9413,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -69908,6 +69908,16 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"
     },
+    "vanshb03:annapurna labs (u.s.) inc.::vanshb03-e002e73f-242d-4ec3-84a4-c33e05713ca5": {
+      "company": "Annapurna Labs (U.S.) Inc.",
+      "first_seen": "2026-11-11T19:14:36+00:00",
+      "last_seen": "2026-11-11T19:14:36+00:00",
+      "location": "Cupertino, CA",
+      "posted_at": "1794337935",
+      "source": "vanshb03",
+      "title": "Software Development Engineer I, Inference models optimization, AWS Neuron Inference",
+      "url": "https://go.vansh.nyc/1v5"
+    },
     "vanshb03:antares::vanshb03-948da996-7dab-4069-8390-a5bf7fc61634": {
       "company": "Antares",
       "first_seen": "2026-11-01T09:58:24+00:00",
@@ -83611,5 +83621,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T19:11:49+00:00"
+  "updated_at": "2026-11-11T19:14:51+00:00"
 }
