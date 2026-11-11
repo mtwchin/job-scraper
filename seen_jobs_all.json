@@ -1,5 +1,5 @@
 {
-  "count": 9404,
+  "count": 9407,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2965,6 +2965,16 @@
       "source": "",
       "title": "2026 Intern Conversion - Electronics/Electrical Systems Engineer I",
       "url": "https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/XMLNAME-2026-Intern-Conversion---Electronics-Electrical-Systems-Engineer-I_R70292"
+    },
+    "brex::8936403002": {
+      "company": "Brex",
+      "first_seen": "2026-11-11T16:25:37+00:00",
+      "last_seen": "2026-11-11T16:25:37+00:00",
+      "location": "San Francisco, California, United States",
+      "posted_at": "2026-11-11T11:23:25-05:00",
+      "source": "",
+      "title": "Software Engineer, Intern  (Summer 2027(",
+      "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002"
     },
     "capital one::Associate--Software-Engineer--New-Grad-Card-Expansion_R236833": {
       "company": "Capital One",
@@ -70780,6 +70790,16 @@
       "title": "Embedded Software Engineer Co-op, Audio Tech",
       "url": "https://go.vansh.nyc/FK"
     },
+    "vanshb03:bose::vanshb03-1e9173b2-e5b5-477e-bcd6-4440beb811a9": {
+      "company": "Bose",
+      "first_seen": "2026-11-11T17:09:36+00:00",
+      "last_seen": "2026-11-11T17:09:36+00:00",
+      "location": "Framingham, MA",
+      "posted_at": "1794415081",
+      "source": "vanshb03",
+      "title": "Digital Signal Processing ML Software Development Co-op",
+      "url": "https://go.vansh.nyc/1uN"
+    },
     "vanshb03:boston scientific::vanshb03-b48d6b7f-3da9-47fb-830b-82011caa82f6": {
       "company": "Boston Scientific",
       "first_seen": "2026-11-04T17:11:15+00:00",
@@ -78935,6 +78955,16 @@
       "title": "Software Engineer Associate",
       "url": "https://go.vansh.nyc/XG"
     },
+    "vanshb03:salesforce::vanshb03-040ae0b9-6d76-4faf-9fbb-83d3353f714f": {
+      "company": "Salesforce",
+      "first_seen": "2026-11-11T16:18:21+00:00",
+      "last_seen": "2026-11-11T16:18:21+00:00",
+      "location": "Palo Alto, CA, Seattle, WA, Indianapolis, IN, San Francisco, CA, Dallas, TX, New York, NY, Bellevue, WA",
+      "posted_at": "1794355200",
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineering AMTS",
+      "url": "https://go.vansh.nyc/1uI"
+    },
     "vanshb03:salesforce::vanshb03-c80adfa7-7b0a-4ef6-9984-b28540e9dc6f": {
       "company": "Salesforce",
       "first_seen": "2026-10-25T08:27:04+00:00",
@@ -83531,5 +83561,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T16:03:37+00:00"
+  "updated_at": "2026-11-11T17:09:40+00:00"
 }
