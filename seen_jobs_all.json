@@ -1,5 +1,5 @@
 {
-  "count": 9402,
+  "count": 9404,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -43500,6 +43500,16 @@
       "title": "Engineer Systems Test / Principal Engineer Systems Test",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Engineer-Systems-Test---Principal-Engineer-Systems-Test_R10237185"
     },
+    "simplify:northrop grumman::simplify-42f44307-aff3-43e3-a668-7c1e8f770572": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-11T16:02:37+00:00",
+      "last_seen": "2026-11-11T16:02:37+00:00",
+      "location": "Boulder, CO",
+      "posted_at": "1794355200",
+      "source": "simplify",
+      "title": "Associate Software Engineer - Pathways",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171"
+    },
     "simplify:northrop grumman::simplify-47db7b74-b29c-4098-9e87-68af93ab3843": {
       "company": "Northrop Grumman",
       "first_seen": "2026-08-12T23:20:43+00:00",
@@ -61223,6 +61233,16 @@
       "posted_at": "1785369600",
       "title": "AI Engineer Intern",
       "url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547"
+    },
+    "simplify:the marzetti company::simplify-147dd9d6-d48b-4893-a8f0-0fbd709ad7cd": {
+      "company": "The Marzetti Company",
+      "first_seen": "2026-11-11T16:02:37+00:00",
+      "last_seen": "2026-11-11T16:02:37+00:00",
+      "location": "Columbus, OH",
+      "posted_at": "1794404520",
+      "source": "simplify",
+      "title": "AI Solutions Intern - Human Resources",
+      "url": "https://careers.marzetticompany.com/jobs/8128?icims=1&lang=en-us"
     },
     "simplify:the new school::simplify-e27a1299-105b-46ac-b8a2-2db48c0c9d62": {
       "company": "The New School",
@@ -83511,5 +83531,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T15:45:35+00:00"
+  "updated_at": "2026-11-11T16:03:37+00:00"
 }
