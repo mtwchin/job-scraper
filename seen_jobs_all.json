@@ -1,5 +1,5 @@
 {
-  "count": 9422,
+  "count": 9424,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -83318,6 +83318,26 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/ZY"
     },
+    "vanshb03:zotec partners::vanshb03-53b63a8c-522c-4074-9ed5-36c4f9a4cc1d": {
+      "company": "Zotec Partners",
+      "first_seen": "2026-11-11T22:40:56+00:00",
+      "last_seen": "2026-11-11T22:40:56+00:00",
+      "location": "Carmel, IN",
+      "posted_at": "1794355200",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, RCI",
+      "url": "https://go.vansh.nyc/1vo"
+    },
+    "vanshb03:zotec partners::vanshb03-753abcaf-ab1b-404c-ba61-a4f52ca4fef0": {
+      "company": "Zotec Partners",
+      "first_seen": "2026-11-11T22:40:56+00:00",
+      "last_seen": "2026-11-11T22:40:56+00:00",
+      "location": "Carmel, IN",
+      "posted_at": "1794355200",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1vp"
+    },
     "vercel::6181755004": {
       "company": "Vercel",
       "first_seen": "2026-09-08T18:00:44+00:00",
@@ -83713,5 +83733,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T22:11:05+00:00"
+  "updated_at": "2026-11-11T22:41:08+00:00"
 }
