@@ -1,5 +1,5 @@
 {
-  "count": 9395,
+  "count": 9399,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -33384,6 +33384,16 @@
       "title": "Software Engineer Intern",
       "url": "https://ice.jibeapply.com/jobs/14077?icims=1"
     },
+    "simplify:intercontinental exchange::simplify-08b6aa04-6182-4358-9dac-780dc740bfee": {
+      "company": "Intercontinental Exchange",
+      "first_seen": "2026-11-11T15:32:22+00:00",
+      "last_seen": "2026-11-11T15:32:22+00:00",
+      "location": "Jacksonville, FL",
+      "posted_at": "1794406140",
+      "source": "simplify",
+      "title": "Associate Software Developer",
+      "url": "https://ice.jibeapply.com/jobs/14039?icims=1&lang=en-us"
+    },
     "simplify:intercontinental exchange::simplify-2cbf62c3-9af9-40c5-bada-3f3cc7eeae8e": {
       "company": "Intercontinental Exchange",
       "first_seen": "2026-10-31T07:02:54+00:00",
@@ -55169,6 +55179,16 @@
       "title": "Junior AI/Machine Learning Engineer",
       "url": "https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c"
     },
+    "simplify:sharkninja::simplify-1712cac2-b710-4c41-a381-3eb6e3155972": {
+      "company": "SharkNinja",
+      "first_seen": "2026-11-11T15:32:22+00:00",
+      "last_seen": "2026-11-11T15:32:22+00:00",
+      "location": "Needham, MA",
+      "posted_at": "1794406823",
+      "source": "simplify",
+      "title": "Forward Deployed Engineer - Entry Level - THE FIN",
+      "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4728305006"
+    },
     "simplify:sharkninja::simplify-278bc4d9-086a-49c0-bd73-d6dc29d652f9": {
       "company": "SharkNinja",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -61323,6 +61343,16 @@
       "posted_at": "1786141307",
       "title": "Software Engineering Intern - Product - Platform",
       "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008"
+    },
+    "simplify:the progeny group::simplify-2e2fb962-17db-4a2d-91cc-ed79e091a0ff": {
+      "company": "The Progeny Group",
+      "first_seen": "2026-11-11T15:32:22+00:00",
+      "last_seen": "2026-11-11T15:32:22+00:00",
+      "location": "Midlothian, UK",
+      "posted_at": "1794410590",
+      "source": "simplify",
+      "title": "Graduate Digital & Technology",
+      "url": "https://theprogenygroup.bamboohr.com/careers/307/"
     },
     "simplify:the redesign group::simplify-0012aa78-86b4-4df6-adf6-b46844f4ad9f": {
       "company": "The Redesign Group",
@@ -68290,6 +68320,16 @@
       "posted_at": "1783059113",
       "title": "Software Development Engineer",
       "url": "https://job-boards.greenhouse.io/zscaler/jobs/5177411007"
+    },
+    "simplify:zt systems::simplify-d218cb23-e4d7-4435-83c7-be934cc67e49": {
+      "company": "ZT Systems",
+      "first_seen": "2026-11-11T15:32:22+00:00",
+      "last_seen": "2026-11-11T15:32:22+00:00",
+      "location": "Secaucus, NJ",
+      "posted_at": "1794355200",
+      "source": "simplify",
+      "title": "Test Software Developer",
+      "url": "https://connect.wd1.myworkdayjobs.com/ztsystemscareers/job/Secaucus-NJ/Test-Software-Developer_R-105519-1"
     },
     "simplify:zurich insurance::simplify-ac56ab22-4e58-404f-bd27-334854dd766c": {
       "company": "Zurich Insurance",
@@ -83441,5 +83481,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T15:10:33+00:00"
+  "updated_at": "2026-11-11T15:32:36+00:00"
 }
