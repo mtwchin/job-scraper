@@ -1,5 +1,5 @@
 {
-  "count": 9414,
+  "count": 9416,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -69110,6 +69110,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/cy"
     },
+    "vanshb03:aerovironment::vanshb03-d1006c78-7116-4707-987d-ccda9ff2fa40": {
+      "company": "AeroVironment",
+      "first_seen": "2026-11-11T21:15:56+00:00",
+      "last_seen": "2026-11-11T21:15:56+00:00",
+      "location": "Lawrence, KS",
+      "posted_at": "1794431172",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1vd"
+    },
     "vanshb03:aerovironment::vanshb03-d9d0eae0-f29d-4b86-84d4-92a3b6d705b7": {
       "company": "AeroVironment",
       "first_seen": "2026-10-25T08:27:16+00:00",
@@ -73667,6 +73677,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/Oq"
+    },
+    "vanshb03:gastronomous technologies::vanshb03-adb9ac5a-b68a-4fcb-86cb-15f4669c8731": {
+      "company": "Gastronomous Technologies",
+      "first_seen": "2026-11-11T21:15:56+00:00",
+      "last_seen": "2026-11-11T21:15:56+00:00",
+      "location": "Oakville, Canada",
+      "posted_at": "1794339392",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1vc"
     },
     "vanshb03:gecko robotics::vanshb03-1fe62028-1608-4bc3-98f3-13c95345faf1": {
       "company": "Gecko Robotics",
@@ -83633,5 +83653,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T21:15:54+00:00"
+  "updated_at": "2026-11-11T21:16:57+00:00"
 }
