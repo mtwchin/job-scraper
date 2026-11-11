@@ -1,5 +1,5 @@
 {
-  "count": 7960,
+  "count": 7961,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -64616,6 +64616,16 @@
       "title": "Junior Software Engineer",
       "url": "https://jobs.ashbyhq.com/Rose%20Rocket/c074b14e-ebe0-4a14-beb2-1419eca9d447/application"
     },
+    "vanshb03:salesforce::vanshb03-040ae0b9-6d76-4faf-9fbb-83d3353f714f": {
+      "company": "Salesforce",
+      "first_seen": "2026-11-11T16:18:21+00:00",
+      "last_seen": "2026-11-11T16:18:21+00:00",
+      "location": "Palo Alto, CA, Seattle, WA, Indianapolis, IN, San Francisco, CA, Dallas, TX, New York, NY, Bellevue, WA",
+      "posted_at": "1794355200",
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineering AMTS",
+      "url": "https://go.vansh.nyc/1uI"
+    },
     "vanshb03:salesforce::vanshb03-c80adfa7-7b0a-4ef6-9984-b28540e9dc6f": {
       "company": "Salesforce",
       "first_seen": "2026-10-25T08:27:04+00:00",
@@ -67781,5 +67791,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T15:32:59+00:00"
+  "updated_at": "2026-11-11T16:19:03+00:00"
 }
