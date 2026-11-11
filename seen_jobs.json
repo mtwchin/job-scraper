@@ -1,5 +1,5 @@
 {
-  "count": 7951,
+  "count": 7952,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1678,6 +1678,16 @@
       "posted_at": "2026-07-23T18:06:26-04:00",
       "title": "Software Engineer Intern - Enterprise Systems (Fall 2026)",
       "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006"
+    },
+    "astranis::4704569006": {
+      "company": "Astranis",
+      "first_seen": "2026-11-11T04:15:12+00:00",
+      "last_seen": "2026-11-11T04:15:12+00:00",
+      "location": "San Francisco",
+      "posted_at": "2026-11-10T23:14:19-05:00",
+      "source": "",
+      "title": "Embedded Software Developer, Network/Payload Intern (Summer 2027)",
+      "url": "https://job-boards.greenhouse.io/astranis/jobs/4704569006"
     },
     "astranis::4704571006": {
       "company": "Astranis",
@@ -67691,5 +67701,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T02:32:59+00:00"
+  "updated_at": "2026-11-11T04:15:19+00:00"
 }
