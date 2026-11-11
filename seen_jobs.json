@@ -1,5 +1,5 @@
 {
-  "count": 7964,
+  "count": 7965,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -7503,6 +7503,16 @@
       "source": "simplify",
       "title": "Software Development Engineer Apprentice",
       "url": "https://amazon.jobs/en/jobs/10598611/software-development-engineer-apprentice-48-month-fixed-term-contract"
+    },
+    "simplify:amazon::simplify-bbb6aade-f690-4c25-ad16-29372ae900b1": {
+      "company": "Amazon",
+      "first_seen": "2026-11-11T23:37:33+00:00",
+      "last_seen": "2026-11-11T23:37:33+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1794438267",
+      "source": "simplify",
+      "title": "Software Developer Engineer",
+      "url": "https://amazon.jobs/en/jobs/10589122/software-dev-engineer"
     },
     "simplify:amazon::simplify-beb3809f-7e70-4921-8048-c14921c4ba78": {
       "company": "Amazon",
@@ -67821,5 +67831,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T18:41:12+00:00"
+  "updated_at": "2026-11-11T23:38:31+00:00"
 }
