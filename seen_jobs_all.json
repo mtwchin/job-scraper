@@ -1,5 +1,5 @@
 {
-  "count": 9387,
+  "count": 9390,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -10734,6 +10734,16 @@
       "posted_at": "1787263809",
       "title": "Darwin Runtime Engineer - Core OS",
       "url": "https://jobs.apple.com/en-us/details/200662330"
+    },
+    "simplify:apple::simplify-fa8c7d9d-20a4-4fe9-a1da-5c782f538b96": {
+      "company": "Apple",
+      "first_seen": "2026-11-11T07:31:53+00:00",
+      "last_seen": "2026-11-11T07:31:53+00:00",
+      "location": "Cupertino, CA",
+      "posted_at": "1794381911",
+      "source": "simplify",
+      "title": "Darwin Runtime Engineer - Core OS",
+      "url": "https://jobs.apple.com/en-us/details/200678840"
     },
     "simplify:applied intuition::simplify-988e5175-a56f-4c3a-b1d9-3a643a63a503": {
       "company": "Applied Intuition",
@@ -24366,7 +24376,7 @@
     "simplify:elire::simplify-575cff72-551d-4520-b574-ee32f9252195": {
       "company": "Elire",
       "first_seen": "2026-09-15T23:08:09+00:00",
-      "last_seen": "2026-09-30T00:01:01+00:00",
+      "last_seen": "2026-11-11T08:03:03+00:00",
       "location": "Remote in USA, Minneapolis, MN",
       "posted_at": "1789510908",
       "source": "simplify",
@@ -44620,6 +44630,16 @@
       "title": "Software Developer Co-op",
       "url": "https://jobs.jobvite.com/nutanix/job/oiwZAfw7?nl=1&nl=1&fr=false"
     },
+    "simplify:nutanix::simplify-992f2065-49f7-43cf-8d39-2d59f7c0574e": {
+      "company": "Nutanix",
+      "first_seen": "2026-11-11T08:03:04+00:00",
+      "last_seen": "2026-11-11T08:03:04+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1794382356",
+      "source": "simplify",
+      "title": "Member of Technical Staff 3",
+      "url": "https://jobs.jobvite.com/nutanix/job/ob35AfwD?nl=1&nl=1&fr=false"
+    },
     "simplify:nutanix::simplify-a32df889-25e2-4ac6-8202-5cad12a2d4df": {
       "company": "Nutanix",
       "first_seen": "2026-09-23T01:35:15+00:00",
@@ -55355,6 +55375,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98/apply"
+    },
+    "simplify:shopline::simplify-cc8216f4-5899-4120-a588-e19994b5c98a": {
+      "company": "SHOPLINE",
+      "first_seen": "2026-11-11T08:03:04+00:00",
+      "last_seen": "2026-11-11T08:03:04+00:00",
+      "location": "United States",
+      "posted_at": "1794382528",
+      "source": "simplify",
+      "title": "AI Skill Developer Intern",
+      "url": "https://shopline.applytojob.com/apply/Ujgi4rGMS1/AI-Skill-Agent-Skill-Builder-Intern"
     },
     "simplify:shure::simplify-052aae75-1cb8-41e7-9062-f49eac2a2fd6": {
       "company": "Shure",
@@ -83361,5 +83391,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T07:32:14+00:00"
+  "updated_at": "2026-11-11T08:03:18+00:00"
 }
