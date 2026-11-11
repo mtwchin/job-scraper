@@ -1,5 +1,5 @@
 {
-  "count": 9360,
+  "count": 9362,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -13539,6 +13539,16 @@
       "posted_at": "1767769857",
       "title": "Software Engineer - Model Performance Tooling",
       "url": "https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f/application"
+    },
+    "simplify:bask health::simplify-43b8e348-e9a9-41b1-9c10-5bc2b4d1cbce": {
+      "company": "Bask Health",
+      "first_seen": "2026-11-11T02:32:43+00:00",
+      "last_seen": "2026-11-11T02:32:43+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1794362780",
+      "source": "simplify",
+      "title": "Product Builder, Early Career",
+      "url": "https://apply.workable.com/bask-health-1/j/854A2D27D1/apply"
     },
     "simplify:bass pro shops::simplify-24ee0ceb-0e78-42b5-9fd4-47bbbf594757": {
       "company": "Bass Pro Shops",
@@ -59704,6 +59714,16 @@
       "title": "Software Engineer Intern - Software Engineer - Information Security",
       "url": "https://www.tesla.com/careers/search/job/270497"
     },
+    "simplify:tesla::simplify-69fc016e-5ad7-44cf-b4a2-2659826b2808": {
+      "company": "Tesla",
+      "first_seen": "2026-11-11T02:32:01+00:00",
+      "last_seen": "2026-11-11T02:32:01+00:00",
+      "location": "Fremont, CA",
+      "posted_at": "1794363974",
+      "source": "simplify",
+      "title": "Software Developer Intern - IT Apps",
+      "url": "https://www.tesla.com/careers/search/job/289683"
+    },
     "simplify:tesla::simplify-6f49e470-0a16-4b21-86e6-7a8a8a5cd275": {
       "company": "Tesla",
       "first_seen": "2026-10-02T23:03:29+00:00",
@@ -83085,5 +83105,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T02:15:03+00:00"
+  "updated_at": "2026-11-11T02:33:07+00:00"
 }
