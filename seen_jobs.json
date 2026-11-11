@@ -1,5 +1,5 @@
 {
-  "count": 7948,
+  "count": 7949,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -60022,6 +60022,16 @@
       "title": "Software Development Engineer Intern, Robotics",
       "url": "https://go.vansh.nyc/17r"
     },
+    "vanshb03:amazon::vanshb03-c4d7ab6c-a1c8-427a-9a75-340e78062307": {
+      "company": "Amazon",
+      "first_seen": "2026-11-11T00:12:40+00:00",
+      "last_seen": "2026-11-11T00:12:40+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1794355773",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer, Amazon Dedicated Cloud",
+      "url": "https://go.vansh.nyc/1sv"
+    },
     "vanshb03:amazon::vanshb03-c510e8f8-0e9e-41bd-aabc-52d797769f82": {
       "company": "Amazon",
       "duplicate_of": "vanshb03:amazon::vanshb03-e8764904-db74-45be-ae45-a194c869f494",
@@ -67660,5 +67670,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T00:02:48+00:00"
+  "updated_at": "2026-11-11T00:12:50+00:00"
 }
