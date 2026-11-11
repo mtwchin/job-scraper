@@ -1,5 +1,5 @@
 {
-  "count": 9411,
+  "count": 9412,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -73497,6 +73497,16 @@
       "title": "Software Engineer Co-op, AI",
       "url": "https://go.vansh.nyc/13D"
     },
+    "vanshb03:formlabs::vanshb03-3fed844b-6be1-48d7-b004-2127687632b9": {
+      "company": "Formlabs",
+      "first_seen": "2026-11-11T19:11:36+00:00",
+      "last_seen": "2026-11-11T19:11:36+00:00",
+      "location": "Somerville, MA",
+      "posted_at": "1794312601",
+      "source": "vanshb03",
+      "title": "Desktop Software Intern",
+      "url": "https://go.vansh.nyc/1v2"
+    },
     "vanshb03:formulary financial::vanshb03-cdca6be1-eca1-4458-bf11-cd2aea577cae": {
       "company": "Formulary Financial",
       "duplicate_of": "simplify:formulary financial::simplify-84ac8ab7-abcc-40b8-a4f6-f5d5125165dc",
@@ -83601,5 +83611,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T18:49:47+00:00"
+  "updated_at": "2026-11-11T19:11:49+00:00"
 }
