@@ -1,5 +1,5 @@
 {
-  "count": 7962,
+  "count": 7963,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -60720,6 +60720,16 @@
       "title": "AI Platform Engineer Co-op",
       "url": "https://jobs.ashbyhq.com/brainco/aadc490a-0d72-4be0-891b-4c362d491c3a/application"
     },
+    "vanshb03:brex::vanshb03-667d3bdf-042a-4962-b8a0-3e508f5b4075": {
+      "company": "Brex",
+      "first_seen": "2026-11-11T17:09:40+00:00",
+      "last_seen": "2026-11-11T17:09:40+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1794414481",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1uO"
+    },
     "vanshb03:brm::vanshb03-f858a9c5-9848-4c93-9f14-dabd4522cb6d": {
       "company": "BRM",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -67801,5 +67811,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T16:26:05+00:00"
+  "updated_at": "2026-11-11T17:10:08+00:00"
 }
