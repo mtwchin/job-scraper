@@ -1,5 +1,5 @@
 {
-  "count": 9355,
+  "count": 9356,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -78475,6 +78475,18 @@
       "title": "Secure System Engineering Intern",
       "url": "https://go.vansh.nyc/1du"
     },
+    "vanshb03:rtx::vanshb03-dee46f41-1810-4fe8-9944-119d7591c04a": {
+      "company": "RTX",
+      "duplicate_of": "vanshb03:rtx::vanshb03-bd59d805-af2f-4380-afd5-2a2900bf852a",
+      "first_seen": "2026-11-11T00:09:42+00:00",
+      "last_seen": "2026-11-11T00:09:42+00:00",
+      "location": "Richardson, TX",
+      "posted_at": "1794354736",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1ss"
+    },
     "vanshb03:rtx::vanshb03-f3d2fc52-679b-4e73-843f-acf80903413e": {
       "company": "RTX",
       "first_seen": "2026-10-27T23:43:06+00:00",
@@ -83033,5 +83045,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T00:02:51+00:00"
+  "updated_at": "2026-11-11T00:09:54+00:00"
 }
