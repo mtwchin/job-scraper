@@ -1,5 +1,5 @@
 {
-  "count": 9448,
+  "count": 9449,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -70797,6 +70797,16 @@
       "title": "Software Intern",
       "url": "https://go.vansh.nyc/Qv"
     },
+    "vanshb03:bask health::vanshb03-71bb8b85-79c8-4fba-af9b-ff7cba137689": {
+      "company": "Bask Health",
+      "first_seen": "2026-11-11T23:48:56+00:00",
+      "last_seen": "2026-11-11T23:48:56+00:00",
+      "location": "Remote",
+      "posted_at": "1794438467",
+      "source": "vanshb03",
+      "title": "New Grad: Backend Engineer",
+      "url": "https://go.vansh.nyc/1vF"
+    },
     "vanshb03:bask health::vanshb03-968793d6-2170-41e5-a2d2-fd9e521f912e": {
       "company": "Bask Health",
       "first_seen": "2026-11-11T23:46:56+00:00",
@@ -83979,5 +83989,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T23:47:19+00:00"
+  "updated_at": "2026-11-11T23:49:21+00:00"
 }
