@@ -1,5 +1,5 @@
 {
-  "count": 9386,
+  "count": 9387,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -55654,6 +55654,16 @@
       "title": "Agent Development Intern",
       "url": "https://jobs.ashbyhq.com/Sierra/02e1c456-8489-4a74-9fe7-af8845b040e4/application?embed=true"
     },
+    "simplify:sieve::simplify-8a7f91b5-0a95-4dfe-8aaf-dd982bfa8af0": {
+      "company": "Sieve",
+      "first_seen": "2026-11-11T07:32:05+00:00",
+      "last_seen": "2026-11-11T07:32:05+00:00",
+      "location": "SF",
+      "posted_at": "1794355200",
+      "source": "simplify",
+      "title": "Deployment Engineer",
+      "url": "https://jobs.ashbyhq.com/sieve/b8a87691-3b2a-4960-aa0e-cda34894039c/application?embed=true"
+    },
     "simplify:sifive::simplify-ec5e83b4-1cb5-4b81-9056-28110a076c6e": {
       "company": "SiFive",
       "first_seen": "2026-07-29T23:12:09+00:00",
@@ -83351,5 +83361,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T05:58:09+00:00"
+  "updated_at": "2026-11-11T07:32:14+00:00"
 }
