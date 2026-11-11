@@ -1,5 +1,5 @@
 {
-  "count": 9363,
+  "count": 9364,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -73227,6 +73227,18 @@
       "title": "Software Engineer Co-op, AI",
       "url": "https://go.vansh.nyc/13D"
     },
+    "vanshb03:formulary financial::vanshb03-cdca6be1-eca1-4458-bf11-cd2aea577cae": {
+      "company": "Formulary Financial",
+      "duplicate_of": "simplify:formulary financial::simplify-84ac8ab7-abcc-40b8-a4f6-f5d5125165dc",
+      "first_seen": "2026-11-11T03:32:43+00:00",
+      "last_seen": "2026-11-11T03:32:43+00:00",
+      "location": "New York, NY",
+      "posted_at": "1794096000",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1sP"
+    },
     "vanshb03:freeform::vanshb03-056e95c2-3285-4d51-9cce-7b391ca79b7c": {
       "company": "Freeform",
       "first_seen": "2026-10-26T15:04:12+00:00",
@@ -83115,5 +83127,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T03:03:10+00:00"
+  "updated_at": "2026-11-11T03:33:13+00:00"
 }
