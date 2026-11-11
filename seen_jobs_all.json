@@ -1,5 +1,5 @@
 {
-  "count": 9377,
+  "count": 9386,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71362,6 +71362,16 @@
       "title": "New Grad 2027: Forward Deployed Engineer",
       "url": "https://go.vansh.nyc/KL"
     },
+    "vanshb03:c3.ai::vanshb03-e0b3398c-dc37-47c8-bd14-d014354fd89c": {
+      "company": "C3.ai",
+      "first_seen": "2026-11-11T05:58:02+00:00",
+      "last_seen": "2026-11-11T05:58:02+00:00",
+      "location": "Tysons, VA",
+      "posted_at": "1792448909",
+      "source": "vanshb03",
+      "title": "New Grad: Forward Deployed Engineer - Federal",
+      "url": "https://go.vansh.nyc/1u6"
+    },
     "vanshb03:caci::vanshb03-330c18ca-9e8a-49a2-8f42-0014f6560377": {
       "company": "CACI",
       "first_seen": "2026-10-26T14:17:23+00:00",
@@ -71496,6 +71506,16 @@
       "source": "vanshb03",
       "title": "New Grad: Software Engineer",
       "url": "https://jobs.ashbyhq.com/Cape/bd280ded-4298-47de-a186-1aebd1bd94b8"
+    },
+    "vanshb03:capital de recherche tower::vanshb03-408db90a-5691-4570-85bd-fc3ded65fc35": {
+      "company": "Capital de Recherche Tower",
+      "first_seen": "2026-11-11T05:58:02+00:00",
+      "last_seen": "2026-11-11T05:58:02+00:00",
+      "location": "Montreal, Canada",
+      "posted_at": "1789480714",
+      "source": "vanshb03",
+      "title": "New Grad: C++ Software Developer",
+      "url": "https://go.vansh.nyc/1ua"
     },
     "vanshb03:capital de recherche tower::vanshb03-e7275e94-c46d-48fe-8080-0477893e1f0e": {
       "company": "Capital de Recherche Tower",
@@ -71808,6 +71828,16 @@
       "source": "vanshb03",
       "title": "Software Engineer II Co-op",
       "url": "https://go.vansh.nyc/fV"
+    },
+    "vanshb03:cisco::vanshb03-329555f7-ccbb-4636-ada2-8ceff325cde4": {
+      "company": "Cisco",
+      "first_seen": "2026-11-11T05:46:51+00:00",
+      "last_seen": "2026-11-11T05:46:51+00:00",
+      "location": "Kanata, Canada, Laurent, Canada, Calgary, Canada, Toronto, Canada, Montreal, Canada, Vancouver, Canada, Halifax, Canada, Ottawa, Canada",
+      "posted_at": "1793995600",
+      "source": "vanshb03",
+      "title": "Software Developer Co-op - Full Stack / Backend",
+      "url": "https://go.vansh.nyc/1tS"
     },
     "vanshb03:cisco::vanshb03-6889390f-30ad-42a0-9126-421ad4550b1e": {
       "company": "Cisco",
@@ -76664,6 +76694,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/1re"
     },
+    "vanshb03:nuro::vanshb03-be26e98c-02ea-4a1f-8540-f700e27803d3": {
+      "company": "Nuro",
+      "first_seen": "2026-11-11T05:57:31+00:00",
+      "last_seen": "2026-11-11T05:57:31+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1792368702",
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineer, AI Platform",
+      "url": "https://go.vansh.nyc/1ul"
+    },
     "vanshb03:nuro::vanshb03-ebcf7f36-de1b-4a59-846e-60e6b1ebb496": {
       "company": "Nuro",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -76685,6 +76725,16 @@
       "source": "vanshb03",
       "title": "New Grad: Software Engineer, Routing",
       "url": "https://www.nuro.ai/careersitem?gh_jid=7066706"
+    },
+    "vanshb03:nutanix::vanshb03-4ff1b92a-bb6f-445e-ab5f-442fc363db18": {
+      "company": "Nutanix",
+      "first_seen": "2026-11-11T05:58:02+00:00",
+      "last_seen": "2026-11-11T05:58:02+00:00",
+      "location": "Vancouver, Canada",
+      "posted_at": "1790374523",
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineer (Master's)",
+      "url": "https://go.vansh.nyc/1u1"
     },
     "vanshb03:nutanix::vanshb03-8791b328-dea4-4b7e-ae50-500a0164e5f1": {
       "company": "Nutanix",
@@ -77508,6 +77558,16 @@
       "title": "New Grad 2026: Software Engineer",
       "url": "https://www.pinterestcareers.com/job-form?gh_jid=7211012"
     },
+    "vanshb03:pinterest::vanshb03-afe0d7f5-3dc9-4655-a418-61ec24f91623": {
+      "company": "Pinterest",
+      "first_seen": "2026-11-11T05:57:31+00:00",
+      "last_seen": "2026-11-11T05:57:31+00:00",
+      "location": "San Francisco, CA, Remote",
+      "posted_at": "1790893159",
+      "source": "vanshb03",
+      "title": "University Grad Software Engineer",
+      "url": "https://go.vansh.nyc/1u0"
+    },
     "vanshb03:pinterest::vanshb03-d3b06542-ab51-4b6a-a0ac-4869c2e9c530": {
       "company": "Pinterest",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -77528,6 +77588,18 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/1px"
+    },
+    "vanshb03:planview::vanshb03-0dd5a692-8e1b-4e38-acb8-d6cd9f41cc64": {
+      "company": "Planview",
+      "duplicate_of": "simplify:planview::simplify-4db68403-cd75-4370-8b2b-304162a154ba",
+      "first_seen": "2026-11-11T05:58:02+00:00",
+      "last_seen": "2026-11-11T05:58:02+00:00",
+      "location": "Remote",
+      "posted_at": "1792188717",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer 1",
+      "url": "https://go.vansh.nyc/1u4"
     },
     "vanshb03:playstation waterloo co-op::vanshb03-995ba95b-1813-4800-bf2f-a3ea6364beda": {
       "company": "PlayStation Waterloo Co-Op",
@@ -82336,6 +82408,16 @@
       "title": "Full Stack Software Engineer, Early Career",
       "url": "https://careers.viasat.com/jobs/4457"
     },
+    "vanshb03:viggle ai::vanshb03-e4aaa049-8fee-46a8-9e19-e444c2039788": {
+      "company": "Viggle AI",
+      "first_seen": "2026-11-11T05:58:02+00:00",
+      "last_seen": "2026-11-11T05:58:02+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1789516800",
+      "source": "vanshb03",
+      "title": "New Grad: Full-Stack Software Engineer - AI & 3D Creator Tools",
+      "url": "https://go.vansh.nyc/1u7"
+    },
     "vanshb03:visa::vanshb03-100accc3-8e15-4a53-84c1-adbb02b57a69": {
       "company": "Visa",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -82727,6 +82809,16 @@
       "source": "vanshb03",
       "title": "New Grad: C++ Software Engineer",
       "url": "https://go.vansh.nyc/1oT"
+    },
+    "vanshb03:wonderbrands::vanshb03-bc47a9f1-633f-4314-85a1-6e6ab3942ea4": {
+      "company": "Wonderbrands",
+      "first_seen": "2026-11-11T05:58:02+00:00",
+      "last_seen": "2026-11-11T05:58:02+00:00",
+      "location": "Etobicoke, Canada",
+      "posted_at": "1792368000",
+      "source": "vanshb03",
+      "title": "New Grad: Fullstack Software Developer",
+      "url": "https://go.vansh.nyc/1ue"
     },
     "vanshb03:wsp::vanshb03-65f57b05-3453-432e-8874-c22e99f13c8f": {
       "company": "WSP",
@@ -83259,5 +83351,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T05:47:05+00:00"
+  "updated_at": "2026-11-11T05:58:09+00:00"
 }
