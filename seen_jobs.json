@@ -1,5 +1,5 @@
 {
-  "count": 7952,
+  "count": 7953,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -61456,6 +61456,16 @@
       "title": "Software Engineer II Co-op",
       "url": "https://go.vansh.nyc/fV"
     },
+    "vanshb03:cisco::vanshb03-329555f7-ccbb-4636-ada2-8ceff325cde4": {
+      "company": "Cisco",
+      "first_seen": "2026-11-11T05:46:51+00:00",
+      "last_seen": "2026-11-11T05:46:51+00:00",
+      "location": "Kanata, Canada, Laurent, Canada, Calgary, Canada, Toronto, Canada, Montreal, Canada, Vancouver, Canada, Halifax, Canada, Ottawa, Canada",
+      "posted_at": "1793995600",
+      "source": "vanshb03",
+      "title": "Software Developer Co-op - Full Stack / Backend",
+      "url": "https://go.vansh.nyc/1tS"
+    },
     "vanshb03:cisco::vanshb03-6889390f-30ad-42a0-9126-421ad4550b1e": {
       "company": "Cisco",
       "first_seen": "2026-10-25T08:27:08+00:00",
@@ -67701,5 +67711,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T04:15:19+00:00"
+  "updated_at": "2026-11-11T05:47:31+00:00"
 }
