@@ -1,5 +1,5 @@
 {
-  "count": 9421,
+  "count": 9422,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -76139,6 +76139,16 @@
       "title": "Software Engineer Intern, Cloud & Distributed Backend",
       "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923"
     },
+    "vanshb03:mks instruments::vanshb03-d3ba4e5f-22fb-4075-8e54-db327fa10503": {
+      "company": "MKS Instruments",
+      "first_seen": "2026-11-11T22:10:56+00:00",
+      "last_seen": "2026-11-11T22:10:56+00:00",
+      "location": "Andover, MA",
+      "posted_at": "1794434797",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1vn"
+    },
     "vanshb03:mobius renewables::vanshb03-97b0cba0-dd39-418f-ad24-32e4f39d8f32": {
       "company": "Mobius Renewables",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -83703,5 +83713,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T21:45:02+00:00"
+  "updated_at": "2026-11-11T22:11:05+00:00"
 }
