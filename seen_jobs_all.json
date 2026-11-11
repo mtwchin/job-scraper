@@ -1,5 +1,5 @@
 {
-  "count": 9356,
+  "count": 9358,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -69318,6 +69318,16 @@
       "title": "Software Development Engineer Intern, Robotics",
       "url": "https://go.vansh.nyc/17r"
     },
+    "vanshb03:amazon::vanshb03-c4d7ab6c-a1c8-427a-9a75-340e78062307": {
+      "company": "Amazon",
+      "first_seen": "2026-11-11T00:12:40+00:00",
+      "last_seen": "2026-11-11T00:12:40+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1794355773",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer, Amazon Dedicated Cloud",
+      "url": "https://go.vansh.nyc/1sv"
+    },
     "vanshb03:amazon::vanshb03-c510e8f8-0e9e-41bd-aabc-52d797769f82": {
       "company": "Amazon",
       "duplicate_of": "vanshb03:amazon::vanshb03-e8764904-db74-45be-ae45-a194c869f494",
@@ -74428,6 +74438,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/1bt"
+    },
+    "vanshb03:jmp statistical discovery::vanshb03-772bbd0c-a709-4d5e-a370-da560505b82e": {
+      "company": "JMP Statistical Discovery",
+      "first_seen": "2026-11-11T00:40:42+00:00",
+      "last_seen": "2026-11-11T00:40:42+00:00",
+      "location": "Cary, NC",
+      "posted_at": "1794268800",
+      "source": "vanshb03",
+      "title": "Software Development Intern, C++",
+      "url": "https://go.vansh.nyc/1sw"
     },
     "vanshb03:john deere::vanshb03-2898916b-2a71-4848-819d-31c1c44cafd3": {
       "company": "John Deere",
@@ -83045,5 +83065,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T00:09:54+00:00"
+  "updated_at": "2026-11-11T00:40:58+00:00"
 }
