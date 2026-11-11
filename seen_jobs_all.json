@@ -1,5 +1,5 @@
 {
-  "count": 9394,
+  "count": 9395,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -78546,6 +78546,16 @@
       "title": "AI Software Engineering Co-op",
       "url": "https://go.vansh.nyc/Jz"
     },
+    "vanshb03:rockwell automation::vanshb03-ff017a5b-bb09-4715-ad01-20b88978e273": {
+      "company": "Rockwell Automation",
+      "first_seen": "2026-11-11T15:10:20+00:00",
+      "last_seen": "2026-11-11T15:10:20+00:00",
+      "location": "Mequon, WI",
+      "posted_at": "1794409556",
+      "source": "vanshb03",
+      "title": "Software Developer/Engineering Intern",
+      "url": "https://go.vansh.nyc/1uD"
+    },
     "vanshb03:rolls-royce::vanshb03-a57d0baa-4c55-46e8-ac3c-507b149ecef6": {
       "company": "Rolls-Royce",
       "first_seen": "2026-11-05T03:14:56+00:00",
@@ -83431,5 +83441,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-11T14:40:30+00:00"
+  "updated_at": "2026-11-11T15:10:33+00:00"
 }
