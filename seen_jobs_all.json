@@ -1,5 +1,5 @@
 {
-  "count": 9465,
+  "count": 9466,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -72370,6 +72370,16 @@
       "title": "Software Developer Co-op",
       "url": "https://go.vansh.nyc/1fg"
     },
+    "vanshb03:ciena::vanshb03-73fb5342-ed4f-42ad-b200-4a2721fd4d39": {
+      "company": "Ciena",
+      "first_seen": "2026-11-12T00:12:56+00:00",
+      "last_seen": "2026-11-12T00:12:56+00:00",
+      "location": "Ottawa, Canada",
+      "posted_at": "1794355200",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Embedded Software Engineer",
+      "url": "https://go.vansh.nyc/1vL"
+    },
     "vanshb03:ciena::vanshb03-857072be-16de-401e-a096-37df29a6778f": {
       "company": "Ciena",
       "first_seen": "2026-10-28T22:43:27+00:00",
@@ -84151,5 +84161,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T00:03:27+00:00"
+  "updated_at": "2026-11-12T00:13:30+00:00"
 }
