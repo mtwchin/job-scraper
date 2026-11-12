@@ -1,5 +1,5 @@
 {
-  "count": 9473,
+  "count": 9474,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -79471,6 +79471,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/T2"
     },
+    "vanshb03:rtx::vanshb03-bc41dd4e-3319-4672-8e56-bee0b6b615df": {
+      "company": "RTX",
+      "first_seen": "2026-11-12T04:14:13+00:00",
+      "last_seen": "2026-11-12T04:14:13+00:00",
+      "location": "Etc, CT",
+      "posted_at": "1794456017",
+      "source": "vanshb03",
+      "title": "Associate Software Engineer I, CDS / Engine System Software",
+      "url": "https://go.vansh.nyc/1w2"
+    },
     "vanshb03:rtx::vanshb03-bd59d805-af2f-4380-afd5-2a2900bf852a": {
       "company": "RTX",
       "first_seen": "2026-11-10T23:10:23+00:00",
@@ -84231,5 +84241,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T03:03:14+00:00"
+  "updated_at": "2026-11-12T04:14:18+00:00"
 }
