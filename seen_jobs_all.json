@@ -1,5 +1,5 @@
 {
-  "count": 9508,
+  "count": 9513,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -18794,6 +18794,28 @@
       "title": "Digital Integration Intern",
       "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Manufacturing-Company-Inc---Mequon-WI/Digital-Integration-Intern--Year-Round-_R08129"
     },
+    "simplify:chatham financial::simplify-c2d94f4d-4b20-4555-839d-59bfaea7bcd8": {
+      "company": "Chatham Financial",
+      "first_seen": "2026-11-12T16:02:51+00:00",
+      "last_seen": "2026-11-12T16:02:51+00:00",
+      "location": "Kennett Square, PA; Denver, CO",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348"
+    },
+    "simplify:chatham financial::simplify-d1904255-ff24-4a54-948f-1b66a6a7a370": {
+      "company": "Chatham Financial",
+      "duplicate_of": "simplify:chatham financial::simplify-c2d94f4d-4b20-4555-839d-59bfaea7bcd8",
+      "first_seen": "2026-11-12T16:02:51+00:00",
+      "last_seen": "2026-11-12T16:02:51+00:00",
+      "location": "Denver, CO",
+      "posted_at": "1793059200",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Denver/XMLNAME-2027-Software-Engineering-Intern_R-100349"
+    },
     "simplify:check::simplify-fe8f92c8-cf1e-4d48-a2fa-65d895096b5a": {
       "company": "Check",
       "first_seen": "2026-10-14T15:03:03+00:00",
@@ -27281,6 +27303,16 @@
       "title": "Patient Care Technician",
       "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Norristown-PA/Patient-Care-Technician--Training-Provided_R0268334"
     },
+    "simplify:fresenius medical care::simplify-f79149fd-0f69-4f4e-81be-3acf35d2aab8": {
+      "company": "Fresenius Medical Care",
+      "first_seen": "2026-11-12T16:02:51+00:00",
+      "last_seen": "2026-11-12T16:02:51+00:00",
+      "location": "Lawrence, MA",
+      "posted_at": "1794441600",
+      "source": "simplify",
+      "title": "Agentic AI Analytics Co-op",
+      "url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Agentic-AI-Analytics-Co-op_R0277797"
+    },
     "simplify:frontier technology::simplify-9a553838-a007-4071-b969-45ccfd1b81cb": {
       "company": "Frontier Technology",
       "first_seen": "2026-10-01T00:31:32+00:00",
@@ -32679,6 +32711,16 @@
       "source": "simplify",
       "title": "Information Systems Technician 1 - Business Services Office",
       "url": "https://ilsos.applytojob.com/apply/OvFQ8chh0P/Information-Systems-Technician-I-Business-Services-Office"
+    },
+    "simplify:illinois tool works::simplify-14085e38-d7e6-4dde-89a8-5714d59445d5": {
+      "company": "Illinois Tool Works",
+      "first_seen": "2026-11-12T16:02:51+00:00",
+      "last_seen": "2026-11-12T16:02:51+00:00",
+      "location": "United States",
+      "posted_at": "1790726400",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://itw.wd5.myworkdayjobs.com/external/job/MTS-Headquarters/Software-Engineering-Intern_JR10261"
     },
     "simplify:illinois tool works::simplify-47e15701-8350-4806-9e72-912b4f89f705": {
       "company": "Illinois Tool Works",
@@ -39109,7 +39151,7 @@
     "simplify:magna::simplify-aa975266-5fe4-4030-a4d9-2b7f6ba7f717": {
       "company": "Magna",
       "first_seen": "2026-09-01T17:52:38+00:00",
-      "last_seen": "2026-09-15T00:44:55+00:00",
+      "last_seen": "2026-11-12T16:02:51+00:00",
       "posted_at": "1788220800",
       "title": "ADAS Feature Owner Intern - Systems Organization",
       "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Southfield-Michigan-US/Student---Engineering_R00235434"
@@ -42142,6 +42184,16 @@
       "source": "simplify",
       "title": "Software Engineer 1/2",
       "url": "https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs"
+    },
+    "simplify:multimatic::simplify-2fedec52-542e-439e-8763-27df0941a48b": {
+      "company": "Multimatic",
+      "first_seen": "2026-11-12T16:02:51+00:00",
+      "last_seen": "2026-11-12T16:02:51+00:00",
+      "location": "East Gwillimbury, ON, Canada",
+      "posted_at": "1789948800",
+      "source": "simplify",
+      "title": "Application Engineering Co-op",
+      "url": "https://multimatic.wd10.myworkdayjobs.com/MMEC/job/East-Gwillimbury-Ontario/Application-Engineering-Co-op_JR103259"
     },
     "simplify:multiply labs::simplify-97e90df1-ce3c-402c-b01a-191b722209e1": {
       "company": "Multiply Labs",
@@ -84587,5 +84639,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T15:40:55+00:00"
+  "updated_at": "2026-11-12T16:02:58+00:00"
 }
