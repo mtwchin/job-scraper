@@ -1,5 +1,5 @@
 {
-  "count": 7972,
+  "count": 7973,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -5040,6 +5040,16 @@
       "source": "",
       "title": "Software Engineer - Internship",
       "url": "https://seatgeek.com/jobs/8227553?gh_jid=8227553"
+    },
+    "shield ai::1bcb2094-e52d-4af9-9eee-2bcd655536ca": {
+      "company": "Shield AI",
+      "first_seen": "2026-11-12T21:14:33+00:00",
+      "last_seen": "2026-11-12T21:14:33+00:00",
+      "location": "San Diego, California",
+      "posted_at": "1794517890641",
+      "source": "",
+      "title": "2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)",
+      "url": "https://jobs.lever.co/shieldai/1bcb2094-e52d-4af9-9eee-2bcd655536ca"
     },
     "shield ai::633a3038-574c-45ff-babb-7e1b8b7c6196": {
       "company": "Shield AI",
@@ -67901,5 +67911,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T19:35:53+00:00"
+  "updated_at": "2026-11-12T21:14:57+00:00"
 }
