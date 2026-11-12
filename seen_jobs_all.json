@@ -1,5 +1,5 @@
 {
-  "count": 9494,
+  "count": 9495,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -78581,6 +78581,16 @@
       "title": "Software Engineer 1",
       "url": "https://go.vansh.nyc/1u4"
     },
+    "vanshb03:planview::vanshb03-ddc8d096-6d8e-49e7-b96a-0c37a347e3f3": {
+      "company": "Planview",
+      "first_seen": "2026-11-12T12:15:33+00:00",
+      "last_seen": "2026-11-12T12:15:33+00:00",
+      "location": "Vancouver, Canada",
+      "posted_at": "1794485451",
+      "source": "vanshb03",
+      "title": "Software Engineer I",
+      "url": "https://go.vansh.nyc/1wo"
+    },
     "vanshb03:playstation waterloo co-op::vanshb03-995ba95b-1813-4800-bf2f-a3ea6364beda": {
       "company": "PlayStation Waterloo Co-Op",
       "first_seen": "2026-11-05T02:12:56+00:00",
@@ -84443,5 +84453,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T12:02:45+00:00"
+  "updated_at": "2026-11-12T12:15:48+00:00"
 }
