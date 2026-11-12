@@ -1,5 +1,5 @@
 {
-  "count": 9468,
+  "count": 9469,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -66160,6 +66160,16 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/viamrobotics/jobs/6185046004"
     },
+    "simplify:viasat::simplify-313bd68b-d18b-43ab-b3df-d8486aeb24ba": {
+      "company": "ViaSat",
+      "first_seen": "2026-11-12T02:31:56+00:00",
+      "last_seen": "2026-11-12T02:31:56+00:00",
+      "location": "Carlsbad, CA",
+      "posted_at": "1794445380",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://careers.viasat.com/jobs/7147?icims=1&lang=en-us"
+    },
     "simplify:viasat::simplify-f65480d4-ea80-40b5-8df9-f91ba3d8d535": {
       "company": "ViaSat",
       "first_seen": "2026-09-03T12:51:17+00:00",
@@ -84181,5 +84191,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T01:33:36+00:00"
+  "updated_at": "2026-11-12T02:32:40+00:00"
 }
