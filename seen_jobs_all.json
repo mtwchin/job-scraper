@@ -1,5 +1,5 @@
 {
-  "count": 9521,
+  "count": 9530,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -4462,6 +4462,16 @@
       "source": "",
       "title": "New Grad Software Engineer, Routing",
       "url": "https://nuro.ai/careersitem?gh_jid=8248317"
+    },
+    "nuro::8360415": {
+      "company": "Nuro",
+      "first_seen": "2026-11-12T19:35:21+00:00",
+      "last_seen": "2026-11-12T19:35:21+00:00",
+      "location": "Mountain View, California (HQ)",
+      "posted_at": "2026-11-12T14:34:27-05:00",
+      "source": "",
+      "title": "Systems Engineering, New Grad 2027",
+      "url": "https://nuro.ai/careersitem?gh_jid=8360415"
     },
     "nvidia::AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170": {
       "company": "Nvidia",
@@ -72644,6 +72654,26 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/1wz"
     },
+    "vanshb03:cargurus::vanshb03-8e0ef0fb-9369-4dae-9aea-ece63f39a25d": {
+      "company": "CarGurus",
+      "first_seen": "2026-11-12T19:54:13+00:00",
+      "last_seen": "2026-11-12T19:54:13+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1794370665",
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern, Full Stack",
+      "url": "https://go.vansh.nyc/1wW"
+    },
+    "vanshb03:cargurus::vanshb03-c34af04d-cfd3-4d42-b16c-ff65defd67a2": {
+      "company": "CarGurus",
+      "first_seen": "2026-11-12T19:54:13+00:00",
+      "last_seen": "2026-11-12T19:54:13+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1794387859",
+      "source": "vanshb03",
+      "title": "Data Platform Engineer Intern",
+      "url": "https://go.vansh.nyc/1x3"
+    },
     "vanshb03:carnegie mellon sei::vanshb03-8e58257a-5eb1-484a-b8ef-ecf664431925": {
       "company": "Carnegie Mellon SEI",
       "first_seen": "2026-10-30T16:11:51+00:00",
@@ -74380,6 +74410,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004"
+    },
+    "vanshb03:firefly aerospace::vanshb03-7eb39d7e-4a98-4f1b-804c-3c37cc25e95f": {
+      "company": "Firefly Aerospace",
+      "first_seen": "2026-11-12T19:54:13+00:00",
+      "last_seen": "2026-11-12T19:54:13+00:00",
+      "location": "Cedar Park, TX",
+      "posted_at": "1794380065",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1x0"
     },
     "vanshb03:first solar (us)::vanshb03-a6e71544-6972-44f0-8ff4-390a382624aa": {
       "company": "First Solar (US)",
@@ -76631,6 +76671,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Backend",
       "url": "https://go.vansh.nyc/Qn"
+    },
+    "vanshb03:lynco products::vanshb03-5ae87dcd-6427-4623-bc0a-ed3ab5423905": {
+      "company": "Lynco Products",
+      "first_seen": "2026-11-12T19:54:13+00:00",
+      "last_seen": "2026-11-12T19:54:13+00:00",
+      "location": "West Milan, IL",
+      "posted_at": "1794436186",
+      "source": "vanshb03",
+      "title": "Full Stack Software Development Intern",
+      "url": "https://go.vansh.nyc/1xd"
     },
     "vanshb03:lyte ai::vanshb03-dbbcf90c-4c7e-42ea-a42c-f2a30a99f6bc": {
       "company": "Lyte AI",
@@ -81123,6 +81173,16 @@
       "title": "System Engineer Co-op",
       "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Brooksville-FL/Co-Op--System-Engineer_R8261"
     },
+    "vanshb03:systems planning and analysis::vanshb03-334331c4-b6e5-4c0e-be7c-68dd730beffb": {
+      "company": "Systems Planning and Analysis",
+      "first_seen": "2026-11-12T19:54:13+00:00",
+      "last_seen": "2026-11-12T19:54:13+00:00",
+      "location": "Alexandria, VA",
+      "posted_at": "1794438238",
+      "source": "vanshb03",
+      "title": "UI/UX Software Intern",
+      "url": "https://go.vansh.nyc/1xp"
+    },
     "vanshb03:t-mobile::vanshb03-1b79cc6c-467a-4f54-bf44-40045bf07e7d": {
       "company": "T-Mobile",
       "duplicate_of": "vanshb03:t-mobile::vanshb03-819f96e2-7f99-4df7-8450-f112bb017b74",
@@ -83580,6 +83640,38 @@
       "title": "Embedded Flight Software Intern",
       "url": "https://ursamajor.com/careers/?gh_jid=4746825005"
     },
+    "vanshb03:us internships public careers site::vanshb03-1422242f-d957-4f09-8ed2-73917b37714e": {
+      "company": "US Internships Public Careers Site",
+      "first_seen": "2026-11-12T19:54:13+00:00",
+      "last_seen": "2026-11-12T19:54:13+00:00",
+      "location": "San Diego, CA; Aliso Viejo, CA",
+      "posted_at": "1794382584",
+      "source": "vanshb03",
+      "title": "Undergraduate Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1x1"
+    },
+    "vanshb03:us internships public careers site::vanshb03-806ada8d-1150-4772-a408-1cb2fc0177fe": {
+      "company": "US Internships Public Careers Site",
+      "duplicate_of": "vanshb03:us internships public careers site::vanshb03-1422242f-d957-4f09-8ed2-73917b37714e",
+      "first_seen": "2026-11-12T19:54:13+00:00",
+      "last_seen": "2026-11-12T19:54:13+00:00",
+      "location": "Aliso Viejo, CA",
+      "posted_at": "1794383245",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Undergraduate Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1x2"
+    },
+    "vanshb03:us internships public careers site::vanshb03-80f074f6-8c1a-4a06-914d-b125a12299c8": {
+      "company": "US Internships Public Careers Site",
+      "first_seen": "2026-11-12T19:54:13+00:00",
+      "last_seen": "2026-11-12T19:54:13+00:00",
+      "location": "Los Angeles, CA, San Mateo, CA",
+      "posted_at": "1794432730",
+      "source": "vanshb03",
+      "title": "Undergraduate Frontend Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1xb"
+    },
     "vanshb03:usafacts::vanshb03-1ce438e0-93cc-4b6e-8be6-8f66373a6c24": {
       "company": "USAFacts",
       "first_seen": "2026-11-01T00:13:51+00:00",
@@ -84719,5 +84811,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T19:17:11+00:00"
+  "updated_at": "2026-11-12T19:54:15+00:00"
 }
