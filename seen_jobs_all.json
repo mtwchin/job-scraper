@@ -1,5 +1,5 @@
 {
-  "count": 9469,
+  "count": 9472,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -14321,6 +14321,26 @@
       "source": "simplify",
       "title": "RL Environments Engineer",
       "url": "https://jobs.ashbyhq.com/blockhouse/f0e609b1-5237-407d-afe2-281b824ec25c/application?embed=true"
+    },
+    "simplify:bloom energy::simplify-0782c3c1-9f23-435c-8099-773f0d072339": {
+      "company": "Bloom Energy",
+      "first_seen": "2026-11-12T02:32:56+00:00",
+      "last_seen": "2026-11-12T02:32:56+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1794355200",
+      "source": "simplify",
+      "title": "Remote Monitoring Control Center Systems Engineer Intern",
+      "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/RMCC-Systems-Engineering-Intern_JR-25363"
+    },
+    "simplify:bloom energy::simplify-b3250061-6dc6-4189-b542-8f40f0f6c4f3": {
+      "company": "Bloom Energy",
+      "first_seen": "2026-11-12T02:32:56+00:00",
+      "last_seen": "2026-11-12T02:32:56+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1794355200",
+      "source": "simplify",
+      "title": "AI Solutions Engineer Intern",
+      "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/AI-Solutions-Engineer-Intern_JR-25361"
     },
     "simplify:blue cross and blue shield of kansas::simplify-1928f9d6-0a30-4adb-94a2-06207eed993a": {
       "company": "Blue Cross and Blue Shield of Kansas",
@@ -55660,6 +55680,16 @@
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true"
     },
+    "simplify:shield ai::simplify-8317de49-cf07-44e3-9ff1-0de4a824662a": {
+      "company": "Shield AI",
+      "first_seen": "2026-11-12T02:31:53+00:00",
+      "last_seen": "2026-11-12T02:31:53+00:00",
+      "location": "United States",
+      "posted_at": "1794355200",
+      "source": "simplify",
+      "title": "Engineer 2 New Grad - Software - Perception",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true"
+    },
     "simplify:shield ai::simplify-9c20706d-1c36-49c7-a6d2-07c92520bf94": {
       "company": "Shield AI",
       "first_seen": "2026-10-28T06:31:45+00:00",
@@ -84191,5 +84221,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T02:32:40+00:00"
+  "updated_at": "2026-11-12T02:33:43+00:00"
 }
