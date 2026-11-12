@@ -1,5 +1,5 @@
 {
-  "count": 9481,
+  "count": 9483,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -39493,6 +39493,16 @@
       "title": "Software Engineer Level 0",
       "url": "https://careers-markon.icims.com/jobs/8107/job?mobile=true&needsRedirect=false"
     },
+    "simplify:markon::simplify-6d58d484-4f54-48a9-bf20-be2c64214b60": {
+      "company": "Markon",
+      "first_seen": "2026-11-12T08:02:14+00:00",
+      "last_seen": "2026-11-12T08:02:14+00:00",
+      "location": "Annapolis Junction, MD",
+      "posted_at": "1794252600",
+      "source": "simplify",
+      "title": "Software Engineer Level 0",
+      "url": "https://markonsolutions.jibeapply.com/jobs/8806?icims=1&lang=en-us"
+    },
     "simplify:markon::simplify-94256481-4cab-4687-83aa-f17d4ffeff44": {
       "company": "Markon",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -39500,6 +39510,16 @@
       "posted_at": "1780956310",
       "title": "Software Engineer Level 0",
       "url": "https://careers-markon.icims.com/jobs/8403/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:markon::simplify-9e5f2a4a-9ce5-441d-bb41-8f11f28a4fb8": {
+      "company": "Markon",
+      "first_seen": "2026-11-12T08:02:14+00:00",
+      "last_seen": "2026-11-12T08:02:14+00:00",
+      "location": "Fort Meade, MD",
+      "posted_at": "1780940640",
+      "source": "simplify",
+      "title": "Software Engineer 0",
+      "url": "https://markonsolutions.jibeapply.com/jobs/8403?icims=1&lang=en-us"
     },
     "simplify:markon::simplify-c5ff9f6b-a9b1-42fb-a97c-480de7e81283": {
       "company": "Markon",
@@ -84311,5 +84331,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T07:32:25+00:00"
+  "updated_at": "2026-11-12T08:02:27+00:00"
 }
