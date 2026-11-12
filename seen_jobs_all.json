@@ -1,5 +1,5 @@
 {
-  "count": 9519,
+  "count": 9520,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71260,6 +71260,16 @@
       "title": "Software Engineer Intern",
       "url": "https://aoins.wd5.myworkdayjobs.com/concord/job/Bedford-NH/Software-Engineer-Intern_R_14465"
     },
+    "vanshb03:autodesk::vanshb03-a2649cec-59ab-446c-bd7f-ef900b3de72d": {
+      "company": "Autodesk",
+      "first_seen": "2026-11-12T18:45:51+00:00",
+      "last_seen": "2026-11-12T18:45:51+00:00",
+      "location": "Montreal, Canada",
+      "posted_at": "1794508606",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1wN"
+    },
     "vanshb03:avarint::vanshb03-6ab39d80-cdad-46e1-8e6b-b91229095dba": {
       "company": "AVARINT",
       "first_seen": "2026-10-23T16:49:10+00:00",
@@ -84699,5 +84709,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T16:42:03+00:00"
+  "updated_at": "2026-11-12T18:46:07+00:00"
 }
