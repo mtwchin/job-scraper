@@ -1,5 +1,5 @@
 {
-  "count": 9493,
+  "count": 9494,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -51389,6 +51389,16 @@
       "title": "Software Engineer Intern",
       "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713"
     },
+    "simplify:roche::simplify-ea12beda-d207-46ec-aec9-ec828c03b0d3": {
+      "company": "Roche",
+      "first_seen": "2026-11-12T12:02:34+00:00",
+      "last_seen": "2026-11-12T12:02:34+00:00",
+      "location": "Welwyn, UK",
+      "posted_at": "1794441600",
+      "source": "simplify",
+      "title": "AI & Digitalisation Intern",
+      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/AI---Digitalisation-Intern-Graduate-PSD_202610-127162"
+    },
     "simplify:rochester regional health::simplify-385dc12f-2ac2-4312-8605-7f8b09d77fd9": {
       "company": "Rochester Regional Health",
       "first_seen": "2026-08-10T15:11:36+00:00",
@@ -84433,5 +84443,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T11:32:43+00:00"
+  "updated_at": "2026-11-12T12:02:45+00:00"
 }
