@@ -1,5 +1,5 @@
 {
-  "count": 9475,
+  "count": 9481,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -13650,6 +13650,16 @@
       "title": "Product Engineer New Grad",
       "url": "https://apply.workable.com/bask-health-1/j/E7E44CA0FC/apply"
     },
+    "simplify:bask health::simplify-33b98fd9-daf3-45e9-9fd7-4ea7b235bf9c": {
+      "company": "Bask Health",
+      "first_seen": "2026-11-12T07:32:14+00:00",
+      "last_seen": "2026-11-12T07:32:14+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1794467523",
+      "source": "simplify",
+      "title": "Junior Design Engineer",
+      "url": "https://apply.workable.com/bask-health-1/j/E8EA53DF48/apply"
+    },
     "simplify:bask health::simplify-43b8e348-e9a9-41b1-9c10-5bc2b4d1cbce": {
       "company": "Bask Health",
       "first_seen": "2026-11-11T02:32:43+00:00",
@@ -13669,6 +13679,16 @@
       "source": "simplify",
       "title": "Product Engineering Intern",
       "url": "https://apply.workable.com/bask-health-1/j/1C108B16E2/apply"
+    },
+    "simplify:bask health::simplify-6b8e3394-dd09-4734-be54-025c5d544c77": {
+      "company": "Bask Health",
+      "first_seen": "2026-11-12T07:32:14+00:00",
+      "last_seen": "2026-11-12T07:32:14+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1794467524",
+      "source": "simplify",
+      "title": "Frontend Engineer Intern - Frontend Engineering",
+      "url": "https://apply.workable.com/bask-health-1/j/9C2964C7CD/apply"
     },
     "simplify:bask health::simplify-74d82beb-3517-4872-9c8b-d941ed96a360": {
       "company": "Bask Health",
@@ -13719,6 +13739,26 @@
       "source": "simplify",
       "title": "Backend Engineer New Grad",
       "url": "https://apply.workable.com/bask-health-1/j/472CF47F60/apply"
+    },
+    "simplify:bask health::simplify-ca8d4e99-7c1a-43f6-9730-cb0083351686": {
+      "company": "Bask Health",
+      "first_seen": "2026-11-12T07:32:14+00:00",
+      "last_seen": "2026-11-12T07:32:14+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1794467524",
+      "source": "simplify",
+      "title": "Frontend Engineer New Grad",
+      "url": "https://apply.workable.com/bask-health-1/j/95FB1074E4/apply"
+    },
+    "simplify:bask health::simplify-ef469032-ac28-42a0-b8a3-09bac01d9a2b": {
+      "company": "Bask Health",
+      "first_seen": "2026-11-12T07:32:14+00:00",
+      "last_seen": "2026-11-12T07:32:14+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1794467524",
+      "source": "simplify",
+      "title": "Creative Engineering Intern",
+      "url": "https://apply.workable.com/bask-health-1/j/24DD93E3BA/apply"
     },
     "simplify:bask health::simplify-f2780a21-a21c-43d2-97ce-2c496ab82c90": {
       "company": "Bask Health",
@@ -31405,6 +31445,16 @@
       "title": "Software Engineer - Block Storage",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bristol-Avon-United-Kingdom/Software-Engineer---Block-Storage-UK_1214489-1"
     },
+    "simplify:hewlett packard enterprise::simplify-c3014c87-ec26-4022-be89-770beb5f1b96": {
+      "company": "Hewlett Packard Enterprise",
+      "first_seen": "2026-11-12T07:32:14+00:00",
+      "last_seen": "2026-11-12T07:32:14+00:00",
+      "location": "Milpitas, CA",
+      "posted_at": "1794355200",
+      "source": "simplify",
+      "title": "Systems Architecture Research Associate Intern - Systems Architecture Lab",
+      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Milpitas-California-United-States-of-America/HPE-Labs---Systems-Architecture-Lab-Research-Associate-Intern_1218728"
+    },
     "simplify:hewlett packard enterprise::simplify-c986d084-22ce-42b2-8117-a1fdd3db77a4": {
       "company": "Hewlett Packard Enterprise",
       "first_seen": "2026-10-06T07:02:27+00:00",
@@ -42134,6 +42184,16 @@
       "posted_at": "1788739200",
       "title": "Software Development Student - January 2027",
       "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Canada---St-Johns---Newfoundland--Labrador/Verafin---Software-Development-Student--January-2027-_R0026898"
+    },
+    "simplify:nasdaq::simplify-16cc4f32-9167-49ad-8133-830054443080": {
+      "company": "Nasdaq",
+      "first_seen": "2026-11-12T07:32:14+00:00",
+      "last_seen": "2026-11-12T07:32:14+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793124223",
+      "source": "simplify",
+      "title": "Back End Software Developer Co-op Intern",
+      "url": "https://job-boards.greenhouse.io/nasdaq/jobs/4453620009"
     },
     "simplify:nasdaq::simplify-2655bb99-a78d-4a0c-9a3f-947a9579f7bf": {
       "company": "Nasdaq",
@@ -84251,5 +84311,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T07:14:22+00:00"
+  "updated_at": "2026-11-12T07:32:25+00:00"
 }
