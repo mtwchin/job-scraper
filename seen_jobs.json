@@ -1,5 +1,5 @@
 {
-  "count": 7968,
+  "count": 7969,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -25451,7 +25451,7 @@
     "simplify:goldman sachs::simplify-5bdec003-2a02-42a4-a602-467541840552": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-11-11T00:02:21+00:00",
+      "last_seen": "2026-11-12T02:32:13+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Americas - Engineering",
       "url": "https://higher.gs.com/roles/171565?type=students"
@@ -25469,7 +25469,7 @@
     "simplify:goldman sachs::simplify-792220f4-3ba1-4cf8-843e-e23208ba8d24": {
       "company": "Goldman Sachs",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-11-11T00:02:21+00:00",
+      "last_seen": "2026-11-12T02:32:13+00:00",
       "posted_at": "1786767953",
       "title": "Summer Analyst Intern - Engineering",
       "url": "https://higher.gs.com/roles/171553?type=students"
@@ -25532,7 +25532,7 @@
     "simplify:goldman sachs::simplify-ebecfe1f-3890-4cf8-8663-d7b118197e24": {
       "company": "Goldman Sachs",
       "first_seen": "2026-08-15T15:35:14+00:00",
-      "last_seen": "2026-11-11T00:02:21+00:00",
+      "last_seen": "2026-11-12T02:31:53+00:00",
       "posted_at": "1786767937",
       "title": "New Analyst - Engineering",
       "url": "https://higher.gs.com/roles/171569?type=students"
@@ -47728,6 +47728,16 @@
       "title": "Software Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true"
     },
+    "simplify:shield ai::simplify-8317de49-cf07-44e3-9ff1-0de4a824662a": {
+      "company": "Shield AI",
+      "first_seen": "2026-11-12T02:31:53+00:00",
+      "last_seen": "2026-11-12T02:31:53+00:00",
+      "location": "United States",
+      "posted_at": "1794355200",
+      "source": "simplify",
+      "title": "Engineer 2 New Grad - Software - Perception",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true"
+    },
     "simplify:shield ai::simplify-9c20706d-1c36-49c7-a6d2-07c92520bf94": {
       "company": "Shield AI",
       "first_seen": "2026-10-28T06:31:45+00:00",
@@ -67861,5 +67871,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T00:05:37+00:00"
+  "updated_at": "2026-11-12T02:32:42+00:00"
 }
