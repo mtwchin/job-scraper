@@ -1,5 +1,5 @@
 {
-  "count": 9483,
+  "count": 9486,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -10784,6 +10784,16 @@
       "posted_at": "1787263809",
       "title": "Darwin Runtime Engineer - Core OS",
       "url": "https://jobs.apple.com/en-us/details/200662330"
+    },
+    "simplify:apple::simplify-f8b06033-a0d7-44b2-a883-7e962adb56c7": {
+      "company": "Apple",
+      "first_seen": "2026-11-12T08:03:17+00:00",
+      "last_seen": "2026-11-12T08:03:17+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1794468504",
+      "source": "simplify",
+      "title": "Camera Software Intern",
+      "url": "https://jobs.apple.com/en-us/details/200694477"
     },
     "simplify:apple::simplify-fa8c7d9d-20a4-4fe9-a1da-5c782f538b96": {
       "company": "Apple",
@@ -62718,6 +62728,16 @@
       "title": "Software Engineer Graduate",
       "url": "https://lifeattiktok.com/search/7531175534148045063"
     },
+    "simplify:tiktok::simplify-7be3b067-334e-4e71-9af4-fa7933195bdb": {
+      "company": "TikTok",
+      "first_seen": "2026-11-12T08:03:18+00:00",
+      "last_seen": "2026-11-12T08:03:18+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1794470231",
+      "source": "simplify",
+      "title": "Software Engineer Intern - TikTok Search",
+      "url": "https://lifeattiktok.com/search/7704696088079010053"
+    },
     "simplify:tiktok::simplify-7cbf5e66-95b6-4b66-b41f-fa9cdeadcadc": {
       "company": "TikTok",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -73597,6 +73617,16 @@
       "title": "Platform Engineer Intern",
       "url": "https://www.drw.com/work-at-drw/listings/platform-engineer-intern-3468737"
     },
+    "vanshb03:dryft::vanshb03-2be947ac-20dd-4e53-b1fb-8b163734d7b0": {
+      "company": "Dryft",
+      "first_seen": "2026-11-12T08:03:14+00:00",
+      "last_seen": "2026-11-12T08:03:14+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1793404800",
+      "source": "vanshb03",
+      "title": "Member of Technical Staff Intern",
+      "url": "https://go.vansh.nyc/12Q"
+    },
     "vanshb03:duolingo::vanshb03-f98ead95-0331-41fd-8a6e-998120f25f28": {
       "company": "Duolingo",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -84331,5 +84361,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T08:02:27+00:00"
+  "updated_at": "2026-11-12T08:03:30+00:00"
 }
