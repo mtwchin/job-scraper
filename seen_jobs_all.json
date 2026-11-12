@@ -1,5 +1,5 @@
 {
-  "count": 9513,
+  "count": 9518,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -18401,6 +18401,16 @@
       "title": "Associate Software Engineer",
       "url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9201-1"
     },
+    "simplify:cdk global::simplify-9fa2eb47-a66a-4b1a-8312-5931c405f743": {
+      "company": "CDK Global",
+      "first_seen": "2026-11-12T16:03:51+00:00",
+      "last_seen": "2026-11-12T16:03:51+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1794441600",
+      "source": "simplify",
+      "title": "Associate Database Engineer",
+      "url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Database-Engineer_JR9386"
+    },
     "simplify:cdm smith::simplify-15ef0fd8-5b89-4710-b2a2-44655a6688c4": {
       "company": "CDM Smith",
       "first_seen": "2026-09-04T23:26:59+00:00",
@@ -23414,6 +23424,16 @@
       "posted_at": "1783319524",
       "title": "Software Engineer 2",
       "url": "https://job-boards.greenhouse.io/diligentcorporation/jobs/6020954004"
+    },
+    "simplify:dillards::simplify-72998fbc-3a95-4d6b-a032-1fb07c109862": {
+      "company": "Dillards",
+      "first_seen": "2026-11-12T16:03:51+00:00",
+      "last_seen": "2026-11-12T16:03:51+00:00",
+      "location": "Little Rock, AR",
+      "posted_at": "1794497398",
+      "source": "simplify",
+      "title": "COBOL Developer",
+      "url": "https://job-boards.greenhouse.io/dillards/jobs/5293318007"
     },
     "simplify:dimensional fund advisors::simplify-2339b28c-2c1e-486e-a448-13adc31b9ad2": {
       "company": "Dimensional Fund Advisors",
@@ -32760,6 +32780,16 @@
       "title": "Software Engineer Intern - Application Software",
       "url": "https://careers.itw.com/global/en/job/JR10491"
     },
+    "simplify:illinois tool works::simplify-ee214fdd-2517-47e8-b43d-07651288dc9a": {
+      "company": "Illinois Tool Works",
+      "first_seen": "2026-11-12T16:03:51+00:00",
+      "last_seen": "2026-11-12T16:03:51+00:00",
+      "location": "Rogers, MN",
+      "posted_at": "1783382400",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://itw.wd5.myworkdayjobs.com/external/job/Rogers---55374/Software-Engineer_JR8874-1"
+    },
     "simplify:illinois tool works::simplify-f9344b8e-43cf-4dac-aef6-05e00717fd78": {
       "company": "Illinois Tool Works",
       "first_seen": "2026-08-18T06:58:11+00:00",
@@ -35163,6 +35193,16 @@
       "posted_at": "1786679934",
       "title": "BS/MS Rotational Discovery Program",
       "url": "https://careers.jhuapl.edu/jobs/59402?icims=1"
+    },
+    "simplify:johns hopkins applied physics laboratory::simplify-d0ffdbce-6964-4f14-9040-25a5e9369505": {
+      "company": "Johns Hopkins Applied Physics Laboratory",
+      "first_seen": "2026-11-12T16:03:51+00:00",
+      "last_seen": "2026-11-12T16:03:51+00:00",
+      "location": "Laurel, MD",
+      "posted_at": "1794490980",
+      "source": "simplify",
+      "title": "Mission Modeling, Simulation & Software Engineer New Grad",
+      "url": "https://careers.jhuapl.edu/jobs/60029?icims=1&lang=en-us"
     },
     "simplify:johns hopkins applied physics laboratory::simplify-d35bfea3-6726-44d8-99a1-9bcf97ebd7f4": {
       "company": "Johns Hopkins Applied Physics Laboratory",
@@ -38813,7 +38853,7 @@
     "simplify:lumentum::simplify-4c35ea86-4881-4a1a-8263-44df9a6b8c5b": {
       "company": "Lumentum",
       "first_seen": "2026-11-07T03:03:04+00:00",
-      "last_seen": "2026-11-10T00:02:56+00:00",
+      "last_seen": "2026-11-12T16:03:51+00:00",
       "location": "Ottawa, ON, Canada",
       "posted_at": "1793923200",
       "source": "simplify",
@@ -42721,6 +42761,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.lever.co/neighbor/7d66629f-3f4b-41ee-a324-fe0154e13c46/apply"
     },
+    "simplify:neko health::simplify-8ec06333-5fb9-4e54-bd9b-f6524d48c54f": {
+      "company": "Neko Health",
+      "first_seen": "2026-11-12T16:03:51+00:00",
+      "last_seen": "2026-11-12T16:03:51+00:00",
+      "location": "NYC",
+      "posted_at": "1794497714",
+      "source": "simplify",
+      "title": "AI Acceleration Specialist",
+      "url": "https://jobs.ashbyhq.com/neko-health/555d3020-e769-4d2d-bb64-d94107b1b79f/application?embed=true"
+    },
     "simplify:nelnet::simplify-0c1f3584-5544-4498-90f5-5e78dbaaa86b": {
       "company": "Nelnet",
       "first_seen": "2026-09-15T23:08:09+00:00",
@@ -44719,7 +44769,7 @@
     "simplify:northrop grumman::simplify-fd35bf7d-2a83-4c94-84df-7f5ae7a4429f": {
       "company": "Northrop Grumman",
       "first_seen": "2026-07-30T23:41:21+00:00",
-      "last_seen": "2026-10-07T00:00:57+00:00",
+      "last_seen": "2026-11-12T16:03:51+00:00",
       "posted_at": "1785369600",
       "title": "Associate Software Engineer / Software Engineer",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060"
@@ -84639,5 +84689,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T16:02:58+00:00"
+  "updated_at": "2026-11-12T16:04:00+00:00"
 }
