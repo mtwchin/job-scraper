@@ -1,5 +1,5 @@
 {
-  "count": 9491,
+  "count": 9492,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -74566,6 +74566,16 @@
       "title": "Software Intern, Autonomous Lab",
       "url": "https://go.vansh.nyc/Qz"
     },
+    "vanshb03:giro::vanshb03-bd67c552-7200-4b8e-8296-300def2d479b": {
+      "company": "GIRO",
+      "first_seen": "2026-11-12T09:17:33+00:00",
+      "last_seen": "2026-11-12T09:17:33+00:00",
+      "location": "Montreal, Canada",
+      "posted_at": "1794474797",
+      "source": "vanshb03",
+      "title": "Software Development Intern, Algorithms and Operations Research",
+      "url": "https://go.vansh.nyc/1wg"
+    },
     "vanshb03:gitai::vanshb03-e02fd1c7-0009-4df2-93f3-f81cd8c394cd": {
       "company": "GITAI",
       "first_seen": "2026-11-01T00:13:51+00:00",
@@ -84413,5 +84423,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T08:17:33+00:00"
+  "updated_at": "2026-11-12T09:17:36+00:00"
 }
