@@ -1,5 +1,5 @@
 {
-  "count": 7975,
+  "count": 7976,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -9310,6 +9310,16 @@
       "posted_at": "1779430057",
       "title": "Software Undergrad Engineer Intern",
       "url": "https://jobs.apple.com/en-us/details/200664785"
+    },
+    "simplify:apple::simplify-a3642769-8b21-4778-b06c-fa2122acc55a": {
+      "company": "Apple",
+      "first_seen": "2026-11-12T23:32:12+00:00",
+      "last_seen": "2026-11-12T23:32:12+00:00",
+      "location": "Cupertino, CA",
+      "posted_at": "1794525361",
+      "source": "simplify",
+      "title": "Software Engineer - Ad Platforms",
+      "url": "https://jobs.apple.com/en-us/details/200694769"
     },
     "simplify:apple::simplify-a96278c1-ade0-425c-83f0-3a2b804be61d": {
       "company": "Apple",
@@ -67933,5 +67943,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T23:17:16+00:00"
+  "updated_at": "2026-11-12T23:32:18+00:00"
 }
