@@ -1,5 +1,5 @@
 {
-  "count": 7971,
+  "count": 7972,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -3464,6 +3464,16 @@
       "source": "",
       "title": "New Grad Software Engineer, Routing",
       "url": "https://nuro.ai/careersitem?gh_jid=8248317"
+    },
+    "nuro::8360415": {
+      "company": "Nuro",
+      "first_seen": "2026-11-12T19:35:21+00:00",
+      "last_seen": "2026-11-12T19:35:21+00:00",
+      "location": "Mountain View, California (HQ)",
+      "posted_at": "2026-11-12T14:34:27-05:00",
+      "source": "",
+      "title": "Systems Engineering, New Grad 2027",
+      "url": "https://nuro.ai/careersitem?gh_jid=8360415"
     },
     "nvidia::AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170": {
       "company": "Nvidia",
@@ -67891,5 +67901,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T10:33:22+00:00"
+  "updated_at": "2026-11-12T19:35:53+00:00"
 }
