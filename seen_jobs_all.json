@@ -1,5 +1,5 @@
 {
-  "count": 9548,
+  "count": 9556,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -10088,7 +10088,7 @@
     "simplify:ancestry::simplify-ee03f6e5-4ee4-4045-9664-e38ffc7617bd": {
       "company": "Ancestry",
       "first_seen": "2026-08-26T22:44:32+00:00",
-      "last_seen": "2026-10-28T00:02:06+00:00",
+      "last_seen": "2026-11-12T23:33:14+00:00",
       "posted_at": "1787702400",
       "title": "Software Engineer Co-op - Observability",
       "url": "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Software-Engineer---Observability--Co-op_R003434"
@@ -13348,6 +13348,16 @@
       "posted_at": "1787616000",
       "title": "Software Developer New Grad",
       "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222-3"
+    },
+    "simplify:bank of montreal::simplify-1a8a2082-f784-4219-9e82-2a23882ac9b7": {
+      "company": "Bank of Montreal",
+      "first_seen": "2026-11-12T23:33:15+00:00",
+      "last_seen": "2026-11-12T23:33:15+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1794441600",
+      "source": "simplify",
+      "title": "AI Developer Co-op Intern",
+      "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323"
     },
     "simplify:bank of montreal::simplify-1ae63a72-5b5e-4b56-b60e-1a760b92fb39": {
       "company": "Bank of Montreal",
@@ -28482,6 +28492,16 @@
       "title": "AI/ML Software Development and Engineering Intern",
       "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939"
     },
+    "simplify:general dynamics information technology::simplify-c7ea0325-d8d2-42f5-b7ac-3e4998fe42a5": {
+      "company": "General Dynamics Information Technology",
+      "first_seen": "2026-11-12T23:33:15+00:00",
+      "last_seen": "2026-11-12T23:33:15+00:00",
+      "location": "Raleigh, NC",
+      "posted_at": "1794441600",
+      "source": "simplify",
+      "title": "Programmer Intern",
+      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-NC-Raleigh/Professional-Programmer---Intern_RQ232030"
+    },
     "simplify:general dynamics information technology::simplify-ca54c597-62db-4da0-94dc-586e386ef525": {
       "company": "General Dynamics Information Technology",
       "first_seen": "2026-10-21T23:02:34+00:00",
@@ -36932,6 +36952,16 @@
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003"
     },
+    "simplify:klaviyo::simplify-30bcdd6c-3fac-42e1-a4ef-2da1711b4cae": {
+      "company": "Klaviyo",
+      "first_seen": "2026-11-12T23:33:15+00:00",
+      "last_seen": "2026-11-12T23:33:15+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1789171200",
+      "source": "simplify",
+      "title": "Software Engineer Co-op",
+      "url": "https://jobs.ashbyhq.com/f40d14d9-07f4-403d-802b-37453deccf0a/e43e7edf-f5c7-4e3c-b62d-92ebfa5120fa/application?embed=true"
+    },
     "simplify:klaviyo::simplify-4c913790-31a6-448a-bfb5-21b1bffb2dc7": {
       "company": "Klaviyo",
       "first_seen": "2026-09-23T23:06:47+00:00",
@@ -38109,6 +38139,16 @@
       "title": "Software Development Intern",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103"
     },
+    "simplify:leidos::simplify-e6452344-d309-4582-b483-df07312248b6": {
+      "company": "Leidos",
+      "first_seen": "2026-11-12T23:33:15+00:00",
+      "last_seen": "2026-11-12T23:33:15+00:00",
+      "location": "Tucson, AZ",
+      "posted_at": "1794441600",
+      "source": "simplify",
+      "title": "Junior Software Engineer / Data Scientist Intern",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510"
+    },
     "simplify:leidos::simplify-e9a5e0b0-0a4d-4c94-9bfc-dc97ba351bf8": {
       "company": "Leidos",
       "first_seen": "2026-10-06T23:07:28+00:00",
@@ -38532,6 +38572,16 @@
       "posted_at": "1784596611",
       "title": "Application Engineer",
       "url": "https://ats.rippling.com/lightguide/jobs/6571ec49-8229-40b0-be4b-6b031d5c5af8"
+    },
+    "simplify:lightmatter::simplify-3ccd0b28-1c06-43f2-be85-1902e772f95b": {
+      "company": "Lightmatter",
+      "first_seen": "2026-11-12T23:33:15+00:00",
+      "last_seen": "2026-11-12T23:33:15+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1794522963",
+      "source": "simplify",
+      "title": "Data & AI Platform Intern",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5474807008"
     },
     "simplify:lila sciences::simplify-5d76baf6-4844-4194-bbcc-1389f637363d": {
       "company": "Lila Sciences",
@@ -41933,6 +41983,16 @@
       "title": "Software Engineer 1",
       "url": "https://jobs.ashbyhq.com/morrishealthtech/21e734ca-b012-438d-af22-ff30ea12bf39/application?embed=true"
     },
+    "simplify:motorola solutions::simplify-40f272f0-0fd5-47cf-9442-284ef60ed9c8": {
+      "company": "Motorola Solutions",
+      "first_seen": "2026-11-12T23:33:15+00:00",
+      "last_seen": "2026-11-12T23:33:15+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1794441600",
+      "source": "simplify",
+      "title": "Systems Engineering Intern",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/North-America--NA--Systems-Engineering-Operations-Internship----2027_R70657"
+    },
     "simplify:motorola solutions::simplify-4749eed9-dd34-4ec5-b20d-18276b56dd7b": {
       "company": "Motorola Solutions",
       "first_seen": "2026-10-23T14:31:52+00:00",
@@ -42346,6 +42406,16 @@
       "posted_at": "1787529600",
       "title": "Immunization & Community Health Intern - Prevention and Health Promotion",
       "url": "https://multco.wd1.myworkdayjobs.com/multco_jobs/job/Portland-OR/PHP-Immunization---Community-Health-Intern_R-20139"
+    },
+    "simplify:muon space::simplify-f7300419-4cb7-4b86-bb44-cac2e3d6a836": {
+      "company": "Muon Space",
+      "first_seen": "2026-11-12T23:33:15+00:00",
+      "last_seen": "2026-11-12T23:33:15+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1794524817",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Information Systems",
+      "url": "https://job-boards.greenhouse.io/muonspace/jobs/5293973007"
     },
     "simplify:mural::simplify-f88acee1-e8f7-4a59-a421-4f83cb55b4c4": {
       "company": "Mural",
@@ -68355,6 +68425,16 @@
       "title": "Front-End Developer Intern - Se",
       "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/CAN---Sherbrooke/Dveloppeur-se--Front-End---Stage_R0060874"
     },
+    "simplify:wolters kluwer::simplify-527bfca2-0633-4f39-9057-864baf83e6ac": {
+      "company": "Wolters Kluwer",
+      "first_seen": "2026-11-12T23:33:15+00:00",
+      "last_seen": "2026-11-12T23:33:15+00:00",
+      "location": "Waltham, MA",
+      "posted_at": "1794441600",
+      "source": "simplify",
+      "title": "Product Software Engineer Intern",
+      "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Waltham-MA/Product-Software-Engineer_R0061394"
+    },
     "simplify:wolters kluwer::simplify-91f7ed1e-cf30-4148-8ff7-6391fc305b94": {
       "company": "Wolters Kluwer",
       "first_seen": "2026-07-24T23:33:06+00:00",
@@ -84996,5 +85076,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T23:32:29+00:00"
+  "updated_at": "2026-11-12T23:33:32+00:00"
 }
