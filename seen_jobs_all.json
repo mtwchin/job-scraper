@@ -1,5 +1,5 @@
 {
-  "count": 9531,
+  "count": 9540,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6038,6 +6038,16 @@
       "source": "",
       "title": "Software Engineer - Internship",
       "url": "https://seatgeek.com/jobs/8227553?gh_jid=8227553"
+    },
+    "shield ai::1bcb2094-e52d-4af9-9eee-2bcd655536ca": {
+      "company": "Shield AI",
+      "first_seen": "2026-11-12T21:41:12+00:00",
+      "last_seen": "2026-11-12T21:41:12+00:00",
+      "location": "San Diego, California",
+      "posted_at": "1794517890641",
+      "source": "",
+      "title": "2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)",
+      "url": "https://jobs.lever.co/shieldai/1bcb2094-e52d-4af9-9eee-2bcd655536ca"
     },
     "shield ai::633a3038-574c-45ff-babb-7e1b8b7c6196": {
       "company": "Shield AI",
@@ -72466,6 +72476,16 @@
       "title": "Software Engineering Co-op",
       "url": "https://go.vansh.nyc/YV"
     },
+    "vanshb03:caci::vanshb03-7996168b-53aa-452b-891f-956ae5ec7de5": {
+      "company": "CACI",
+      "first_seen": "2026-11-12T23:14:13+00:00",
+      "last_seen": "2026-11-12T23:14:13+00:00",
+      "location": "Denver, CO",
+      "posted_at": "1794517637",
+      "source": "vanshb03",
+      "title": "Embedded Software Development Intern",
+      "url": "https://go.vansh.nyc/1xA"
+    },
     "vanshb03:caci::vanshb03-8228caeb-818c-413b-a67b-22aefe7b85b9": {
       "company": "CACI",
       "first_seen": "2026-10-26T14:48:12+00:00",
@@ -75784,6 +75804,16 @@
       "title": "New Grad: Software Engineer",
       "url": "https://www.ixl.com/company/careers?gh_jid=8017370002"
     },
+    "vanshb03:jabil::vanshb03-3b2aeb59-9bd4-43fe-baac-a64c599ae480": {
+      "company": "Jabil",
+      "first_seen": "2026-11-12T23:14:13+00:00",
+      "last_seen": "2026-11-12T23:14:13+00:00",
+      "location": "Florence, KY",
+      "posted_at": "1794519325",
+      "source": "vanshb03",
+      "title": "IT Programmer Analyst Co-op",
+      "url": "https://go.vansh.nyc/1xS"
+    },
     "vanshb03:jane street::vanshb03-c05efabc-e56c-42df-acdf-6792be1be56d": {
       "company": "Jane Street",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -76243,6 +76273,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/191"
+    },
+    "vanshb03:kudu dynamics::vanshb03-5f5b2b11-07a9-4429-9545-7d2d115e30bc": {
+      "company": "Kudu Dynamics",
+      "first_seen": "2026-11-12T23:14:13+00:00",
+      "last_seen": "2026-11-12T23:14:13+00:00",
+      "location": "Tucson, AZ",
+      "posted_at": "1794441600",
+      "source": "vanshb03",
+      "title": "Junior Software Engineer/Data Scientist Intern",
+      "url": "https://go.vansh.nyc/1xK"
     },
     "vanshb03:l3harris technologies::vanshb03-0b57208e-fafb-4160-8214-c8403abf2ac7": {
       "company": "L3Harris Technologies",
@@ -79282,6 +79322,16 @@
       "source": "vanshb03",
       "title": "Software Engineer I",
       "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-107--400-Collins-Rd-NE--BLDG-107/Software-Engineer-I--Onsite-_01872684"
+    },
+    "vanshb03:ready to?::vanshb03-1e9ff354-74c7-40e2-bab5-0eecdfd10073": {
+      "company": "Ready to?",
+      "first_seen": "2026-11-12T23:14:13+00:00",
+      "last_seen": "2026-11-12T23:14:13+00:00",
+      "location": "Idaho Falls, ID",
+      "posted_at": "1794515724",
+      "source": "vanshb03",
+      "title": "Software Development Intern",
+      "url": "https://go.vansh.nyc/1xQ"
     },
     "vanshb03:realm::vanshb03-4163d8b2-be09-449d-9cf4-319aa1874cfe": {
       "company": "Realm",
@@ -83650,6 +83700,28 @@
       "title": "Embedded Flight Software Intern",
       "url": "https://ursamajor.com/careers/?gh_jid=4746825005"
     },
+    "vanshb03:us internships public careers site::vanshb03-05cc0447-3f67-440a-a5ca-64f459f5028c": {
+      "company": "US Internships Public Careers Site",
+      "duplicate_of": "vanshb03:us internships public careers site::vanshb03-1422242f-d957-4f09-8ed2-73917b37714e",
+      "first_seen": "2026-11-12T23:14:12+00:00",
+      "last_seen": "2026-11-12T23:14:12+00:00",
+      "location": "San Mateo, CA",
+      "posted_at": "1793643845",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Undergraduate Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1xC"
+    },
+    "vanshb03:us internships public careers site::vanshb03-133ae722-9332-4627-9e38-7ab341e50801": {
+      "company": "US Internships Public Careers Site",
+      "first_seen": "2026-11-12T23:14:13+00:00",
+      "last_seen": "2026-11-12T23:14:13+00:00",
+      "location": "San Mateo, CA",
+      "posted_at": "1794212636",
+      "source": "vanshb03",
+      "title": "Undergraduate Software Engineering Intern, Compilers",
+      "url": "https://go.vansh.nyc/1xH"
+    },
     "vanshb03:us internships public careers site::vanshb03-1422242f-d957-4f09-8ed2-73917b37714e": {
       "company": "US Internships Public Careers Site",
       "first_seen": "2026-11-12T19:54:13+00:00",
@@ -83659,6 +83731,16 @@
       "source": "vanshb03",
       "title": "Undergraduate Software Engineering Intern",
       "url": "https://go.vansh.nyc/1x1"
+    },
+    "vanshb03:us internships public careers site::vanshb03-439a9c70-0b41-46a2-bedf-33340c20dc0f": {
+      "company": "US Internships Public Careers Site",
+      "first_seen": "2026-11-12T23:14:13+00:00",
+      "last_seen": "2026-11-12T23:14:13+00:00",
+      "location": "San Mateo, CA",
+      "posted_at": "1793643845",
+      "source": "vanshb03",
+      "title": "Undergraduate Software Development Engineer in Test Intern, AI/ML",
+      "url": "https://go.vansh.nyc/1xE"
     },
     "vanshb03:us internships public careers site::vanshb03-806ada8d-1150-4772-a408-1cb2fc0177fe": {
       "company": "US Internships Public Careers Site",
@@ -83681,6 +83763,16 @@
       "source": "vanshb03",
       "title": "Undergraduate Frontend Software Engineering Intern",
       "url": "https://go.vansh.nyc/1xb"
+    },
+    "vanshb03:us internships public careers site::vanshb03-c6116538-8105-4401-8521-74f45636fc7e": {
+      "company": "US Internships Public Careers Site",
+      "first_seen": "2026-11-12T23:14:13+00:00",
+      "last_seen": "2026-11-12T23:14:13+00:00",
+      "location": "San Mateo, CA",
+      "posted_at": "1793643845",
+      "source": "vanshb03",
+      "title": "Undergraduate Backend Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1xF"
     },
     "vanshb03:usafacts::vanshb03-1ce438e0-93cc-4b6e-8be6-8f66373a6c24": {
       "company": "USAFacts",
@@ -84821,5 +84913,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T20:11:18+00:00"
+  "updated_at": "2026-11-12T23:14:25+00:00"
 }
