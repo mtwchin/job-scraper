@@ -1,5 +1,5 @@
 {
-  "count": 9496,
+  "count": 9506,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -15562,6 +15562,16 @@
       "title": "Coffee Bar Barista - Java Vegas - On Call",
       "url": "https://jobs.smartrecruiters.com/BoydGaming/3743990014633026"
     },
+    "simplify:bracco::simplify-146e2884-2956-4a84-9f53-3abbc462c608": {
+      "company": "Bracco",
+      "first_seen": "2026-11-12T15:32:52+00:00",
+      "last_seen": "2026-11-12T15:32:52+00:00",
+      "location": "Eden Prairie, MN",
+      "posted_at": "1788998400",
+      "source": "simplify",
+      "title": "Software Engineer Intern/Co-op - R&D Sustaining",
+      "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327"
+    },
     "simplify:bracebridge capital::simplify-5360208a-9885-42bb-a092-21121b730e84": {
       "company": "Bracebridge Capital",
       "first_seen": "2026-10-19T15:06:03+00:00",
@@ -30573,6 +30583,16 @@
       "title": "Application Developer Co-op",
       "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Developer-Co-op_JR104721"
     },
+    "simplify:greystone::simplify-c954619f-edf2-43f7-88e7-7dd114fbd845": {
+      "company": "Greystone",
+      "first_seen": "2026-11-12T15:32:52+00:00",
+      "last_seen": "2026-11-12T15:32:52+00:00",
+      "location": "Warrenton, VA",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Full Stack Engineer Intern",
+      "url": "https://greyco.wd108.myworkdayjobs.com/GTI/job/Warrenton-VA/Summer-2027---Full-Stack-Engineer-Internship_JR0000145"
+    },
     "simplify:groma::simplify-4e618daf-121b-4dda-bc86-e3ddc5cd88bc": {
       "company": "Groma",
       "first_seen": "2026-10-14T01:34:23+00:00",
@@ -42989,6 +43009,16 @@
       "title": "Forward Deployed Engineer Intern - AI Implementation",
       "url": "https://www.nextiva.com/company/careers-listing?gh_jid=8639480002"
     },
+    "simplify:nextpower::simplify-47420edd-5afc-4a9e-a8f6-b320be382c2c": {
+      "company": "Nextpower",
+      "first_seen": "2026-11-12T15:32:52+00:00",
+      "last_seen": "2026-11-12T15:32:52+00:00",
+      "location": "Fremont, CA",
+      "posted_at": "1784851200",
+      "source": "simplify",
+      "title": "Forward Deployed Engineer - AI",
+      "url": "https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Fremont-South-Bldg-California---USA/Forward-Deployed-Engineer--AI-_NX-4260"
+    },
     "simplify:nexus intelligence::simplify-57a309e5-7707-4ec6-bfe7-d87ac8aa3725": {
       "company": "Nexus Intelligence",
       "first_seen": "2026-10-28T07:02:25+00:00",
@@ -48278,6 +48308,16 @@
       "title": "Software Engineer Intern - Data Infrastructure and Tools",
       "url": "https://jobs.lever.co/plus-2/06b808df-85a1-4ddd-863c-3e1cbe61eda9/apply"
     },
+    "simplify:plusgrade::simplify-25e8649f-61f6-49a9-a172-868e4116b894": {
+      "company": "Plusgrade",
+      "first_seen": "2026-11-12T15:32:52+00:00",
+      "last_seen": "2026-11-12T15:32:52+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1793750400",
+      "source": "simplify",
+      "title": "Applied AI Engineer Intern",
+      "url": "https://plusgrade.wd10.myworkdayjobs.com/Plusgrade_External_Site/job/CAN---Toronto/Applied-AI-Engineer-Intern_JR100233"
+    },
     "simplify:pmg::simplify-34b4bba8-0ba5-4b42-a122-3a31a62260b9": {
       "company": "PMG",
       "first_seen": "2026-07-20T23:15:00+00:00",
@@ -48710,6 +48750,28 @@
       "posted_at": "1788503281",
       "title": "Software Engineer Intern - Full Stack",
       "url": "https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application?embed=true"
+    },
+    "simplify:primoris services::simplify-1ad68d11-18ba-4fa5-9ceb-2cd3a605c0d2": {
+      "company": "Primoris Services",
+      "first_seen": "2026-11-12T15:32:52+00:00",
+      "last_seen": "2026-11-12T15:32:52+00:00",
+      "location": "Edmonton, AB, Canada; Acheson, AB, Canada",
+      "posted_at": "1785110400",
+      "source": "simplify",
+      "title": "Application Developer",
+      "url": "https://prim.wd108.myworkdayjobs.com/Primoris/job/PSC-Canada-Corporate-Office/Application-Developer_JR100778"
+    },
+    "simplify:primoris services::simplify-423380fd-564c-44d9-9994-51fcf17b9f27": {
+      "company": "Primoris Services",
+      "duplicate_of": "simplify:primoris services::simplify-1ad68d11-18ba-4fa5-9ceb-2cd3a605c0d2",
+      "first_seen": "2026-11-12T15:32:52+00:00",
+      "last_seen": "2026-11-12T15:32:52+00:00",
+      "location": "Acheson, AB, Canada",
+      "posted_at": "1790726400",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Application Developer",
+      "url": "https://prim.wd108.myworkdayjobs.com/Primoris/job/Edmonton-AB/Application-Developer_JR102635"
     },
     "simplify:principal financial group::simplify-12e13643-ecc8-42a5-b20c-2c17fd0c17a0": {
       "company": "Principal Financial Group",
@@ -56020,6 +56082,16 @@
       "posted_at": "1784671667",
       "title": "AI Engineer Intern",
       "url": "https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd/apply"
+    },
+    "simplify:sidley austin::simplify-d27033dc-cd8d-45ae-ac8e-89877f9a71c2": {
+      "company": "Sidley Austin",
+      "first_seen": "2026-11-12T15:32:52+00:00",
+      "last_seen": "2026-11-12T15:32:52+00:00",
+      "location": "Palo Alto, CA, Boston, MA, Houston, TX, Washington, DC, Miami, FL, Dallas, TX, Chicago, IL, NYC",
+      "posted_at": "1790812800",
+      "source": "simplify",
+      "title": "Senior Software Engineer",
+      "url": "https://sidley.wd501.myworkdayjobs.com/US/job/Chicago/Senior-Software-Engineer_R00993"
     },
     "simplify:siemens::simplify-71dbd73f-4fbe-4df9-986b-c986496cf7c5": {
       "company": "Siemens",
@@ -65889,6 +65961,16 @@
       "title": "Software Engineer 1",
       "url": "https://careers.varsitybrands.com/global/en/job/JR114172"
     },
+    "simplify:varsity brands::simplify-dcd493ac-2ca5-4ee6-9b28-1e1c02169ed1": {
+      "company": "Varsity Brands",
+      "first_seen": "2026-11-12T15:32:52+00:00",
+      "last_seen": "2026-11-12T15:32:52+00:00",
+      "location": "Farmers Branch, TX",
+      "posted_at": "1791158400",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TX---Farmers-Branch/Software-Engineer---Early-Career_JR113366-1"
+    },
     "simplify:varsity brands::simplify-f5e6e2dc-a266-4145-ae2f-57af70ca00ba": {
       "company": "Varsity Brands",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -66589,6 +66671,18 @@
       "title": "Software Engineer",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF088588W"
     },
+    "simplify:visa::simplify-be5563f9-1a50-43de-91fc-6b0b11d799eb": {
+      "company": "Visa",
+      "duplicate_of": "simplify:visa::simplify-db47c3f9-10a7-47a6-bc11-6f289c9d2291",
+      "first_seen": "2026-11-12T15:32:52+00:00",
+      "last_seen": "2026-11-12T15:32:52+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1794441600",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W"
+    },
     "simplify:visa::simplify-d02657b4-87d2-4593-8b0e-d4bfb5b50cce": {
       "company": "Visa",
       "first_seen": "2026-09-17T14:34:35+00:00",
@@ -66625,6 +66719,16 @@
       "posted_at": "1783041113",
       "title": "Software Engineer",
       "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer_REF081674W-1"
+    },
+    "simplify:visa::simplify-db47c3f9-10a7-47a6-bc11-6f289c9d2291": {
+      "company": "Visa",
+      "first_seen": "2026-11-12T15:32:52+00:00",
+      "last_seen": "2026-11-12T15:32:52+00:00",
+      "location": "Reading, UK; Cambridge, UK",
+      "posted_at": "1794441600",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W"
     },
     "simplify:visa::simplify-e7be092f-49c3-429c-a396-1bdbff4a3e79": {
       "company": "Visa",
@@ -84463,5 +84567,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T13:46:49+00:00"
+  "updated_at": "2026-11-12T15:32:53+00:00"
 }
