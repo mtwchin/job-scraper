@@ -1,5 +1,5 @@
 {
-  "count": 9556,
+  "count": 9557,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -77880,6 +77880,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/13g"
     },
+    "vanshb03:north atlantic industries::vanshb03-2d4d449b-924e-459b-aefe-f93728c1a8ff": {
+      "company": "North Atlantic Industries",
+      "first_seen": "2026-11-12T23:46:12+00:00",
+      "last_seen": "2026-11-12T23:46:12+00:00",
+      "location": "Bohemia, NY",
+      "posted_at": "1794525336",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1y5"
+    },
     "vanshb03:north texas family health::vanshb03-352c1fb7-dbd6-40c8-baeb-0d62c6f5fdea": {
       "company": "North Texas Family Health",
       "first_seen": "2026-11-10T16:46:07+00:00",
@@ -85076,5 +85086,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T23:33:32+00:00"
+  "updated_at": "2026-11-12T23:46:34+00:00"
 }
