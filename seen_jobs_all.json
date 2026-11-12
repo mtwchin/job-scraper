@@ -1,5 +1,5 @@
 {
-  "count": 9489,
+  "count": 9491,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71163,6 +71163,16 @@
       "title": "Frontend Engineer Intern, Frontend Engineering",
       "url": "https://go.vansh.nyc/1w9"
     },
+    "vanshb03:bask health::vanshb03-f0623ca0-a2f2-4b34-a08b-00227e1f8e8d": {
+      "company": "Bask Health",
+      "first_seen": "2026-11-12T08:17:33+00:00",
+      "last_seen": "2026-11-12T08:17:33+00:00",
+      "location": "Remote",
+      "posted_at": "1794467524",
+      "source": "vanshb03",
+      "title": "New Grad: Frontend Engineer",
+      "url": "https://go.vansh.nyc/1wd"
+    },
     "vanshb03:bask::vanshb03-0531d89b-6bb3-4d54-a92b-b850e8bf3224": {
       "company": "Bask",
       "first_seen": "2026-11-11T21:40:56+00:00",
@@ -71192,6 +71202,16 @@
       "source": "vanshb03",
       "title": "Frontend Engineering Intern",
       "url": "https://go.vansh.nyc/1wc"
+    },
+    "vanshb03:bask::vanshb03-83c52e8a-0bc9-4526-889a-a6871b82a2e4": {
+      "company": "Bask",
+      "first_seen": "2026-11-12T08:17:33+00:00",
+      "last_seen": "2026-11-12T08:17:33+00:00",
+      "location": "Remote",
+      "posted_at": "1794471231",
+      "source": "vanshb03",
+      "title": "New Grad: Frontend Engineer",
+      "url": "https://go.vansh.nyc/1wf"
     },
     "vanshb03:bask::vanshb03-cefcba71-0efe-4d66-a73d-202ad27b1b2f": {
       "company": "Bask",
@@ -84393,5 +84413,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T08:16:31+00:00"
+  "updated_at": "2026-11-12T08:17:33+00:00"
 }
