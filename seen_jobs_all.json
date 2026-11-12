@@ -1,5 +1,5 @@
 {
-  "count": 9472,
+  "count": 9473,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -43864,7 +43864,7 @@
       "company": "Northrop Grumman",
       "duplicate_of": "simplify:northrop grumman::simplify-90c10d80-558b-4325-9b3e-e883b3db1a7d",
       "first_seen": "2026-10-27T22:32:46+00:00",
-      "last_seen": "2026-11-08T00:00:12+00:00",
+      "last_seen": "2026-11-12T03:02:14+00:00",
       "location": "Boulder, CO",
       "posted_at": "1793059200",
       "seeded": true,
@@ -65466,6 +65466,16 @@
       "title": "Fullstack Software Developer - AI-enabled",
       "url": "https://apply.workable.com/valsoft-corp/j/E96D7950A5/apply"
     },
+    "simplify:valsoft::simplify-b4b8cdbd-8502-4a14-81ea-6cecbaa6c781": {
+      "company": "Valsoft",
+      "first_seen": "2026-11-12T03:02:15+00:00",
+      "last_seen": "2026-11-12T03:02:15+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1794451495",
+      "source": "simplify",
+      "title": "AI Software Developer - Research & Development",
+      "url": "https://apply.workable.com/valsoft-corp/j/EE42775BE3/apply"
+    },
     "simplify:valsoft::simplify-ecdbd017-708f-4b53-8587-6d05535c32c2": {
       "company": "Valsoft",
       "first_seen": "2026-11-06T23:31:45+00:00",
@@ -84221,5 +84231,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T02:46:12+00:00"
+  "updated_at": "2026-11-12T03:03:14+00:00"
 }
