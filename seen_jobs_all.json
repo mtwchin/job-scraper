@@ -1,5 +1,5 @@
 {
-  "count": 9466,
+  "count": 9467,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -79789,6 +79789,16 @@
       "title": "Software Engineer Co-op",
       "url": "https://go.vansh.nyc/1iW"
     },
+    "vanshb03:shive-hattery::vanshb03-94703794-890b-4bb4-8e2f-bb71a8519b9a": {
+      "company": "Shive-Hattery",
+      "first_seen": "2026-11-12T00:47:56+00:00",
+      "last_seen": "2026-11-12T00:47:56+00:00",
+      "location": "Iowa City, IA",
+      "posted_at": "1794440619",
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1vU"
+    },
     "vanshb03:shopback::vanshb03-26ba6d75-8482-415b-804c-b9acfae18382": {
       "company": "ShopBack",
       "duplicate_of": "vanshb03:shopback::vanshb03-d463fdf0-c66d-484c-9d06-25326a27bb3c",
@@ -84161,5 +84171,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T00:13:30+00:00"
+  "updated_at": "2026-11-12T00:48:33+00:00"
 }
