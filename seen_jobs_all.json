@@ -1,5 +1,5 @@
 {
-  "count": 9474,
+  "count": 9475,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -76615,6 +76615,16 @@
       "title": "Software Engineer Intern, Cloud & Distributed Backend",
       "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923"
     },
+    "vanshb03:mitre::vanshb03-08788972-04f8-47bc-aeec-cd411e37610e": {
+      "company": "MITRE",
+      "first_seen": "2026-11-12T07:14:13+00:00",
+      "last_seen": "2026-11-12T07:14:13+00:00",
+      "location": "Remote",
+      "posted_at": "1794321558",
+      "source": "vanshb03",
+      "title": "Associate Software Engineer",
+      "url": "https://go.vansh.nyc/1w5"
+    },
     "vanshb03:mks instruments::vanshb03-d3ba4e5f-22fb-4075-8e54-db327fa10503": {
       "company": "MKS Instruments",
       "first_seen": "2026-11-11T22:10:56+00:00",
@@ -84241,5 +84251,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T04:14:18+00:00"
+  "updated_at": "2026-11-12T07:14:22+00:00"
 }
