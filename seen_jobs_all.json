@@ -1,5 +1,5 @@
 {
-  "count": 9540,
+  "count": 9548,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2014,6 +2014,28 @@
       "source": "",
       "title": "Software Engineer I, Fullstack (Search)",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8017342003"
+    },
+    "affirm::8181183003": {
+      "company": "Affirm",
+      "duplicate_of": "affirm::8181185003",
+      "first_seen": "2026-11-12T23:17:06+00:00",
+      "last_seen": "2026-11-12T23:17:06+00:00",
+      "location": "Remote US",
+      "posted_at": "2026-11-12T18:15:54-05:00",
+      "seeded": true,
+      "source": "",
+      "title": "Software Engineer I, Backend (Continuous Delivery)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003"
+    },
+    "affirm::8181185003": {
+      "company": "Affirm",
+      "first_seen": "2026-11-12T23:17:06+00:00",
+      "last_seen": "2026-11-12T23:17:06+00:00",
+      "location": "Remote Canada; Remote US",
+      "posted_at": "2026-11-12T18:15:57-05:00",
+      "source": "",
+      "title": "Software Engineer I, Backend (Continuous Delivery)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003"
     },
     "akuna capital::8013085": {
       "company": "Akuna Capital",
@@ -6803,7 +6825,7 @@
     "simplify:accenture::simplify-9a334ffd-3252-4f69-a5fc-d3e16083784e": {
       "company": "Accenture",
       "first_seen": "2026-09-01T22:35:56+00:00",
-      "last_seen": "2026-09-29T00:00:29+00:00",
+      "last_seen": "2026-11-12T23:32:13+00:00",
       "posted_at": "1788298375",
       "title": "Associate Software Engineer - Pega",
       "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006"
@@ -9453,7 +9475,7 @@
     "simplify:american express::simplify-482d2483-2739-4860-9f2a-b5903674a731": {
       "company": "American Express",
       "first_seen": "2026-09-02T04:55:51+00:00",
-      "last_seen": "2026-11-01T00:01:50+00:00",
+      "last_seen": "2026-11-12T23:32:13+00:00",
       "posted_at": "1788310286",
       "title": "Software Engineer 2 - Enterprise Technology Services",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012940"
@@ -9536,7 +9558,7 @@
     "simplify:american express::simplify-a6080c21-a844-48d7-bcc9-8a240ddd19e1": {
       "company": "American Express",
       "first_seen": "2026-09-02T04:55:51+00:00",
-      "last_seen": "2026-11-01T00:01:50+00:00",
+      "last_seen": "2026-11-12T23:32:13+00:00",
       "posted_at": "1788310288",
       "title": "Software Engineer 1 - Enterprise Technology Services",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796"
@@ -10684,6 +10706,16 @@
       "title": "Software Undergrad Engineer Intern",
       "url": "https://jobs.apple.com/en-us/details/200664785"
     },
+    "simplify:apple::simplify-a3642769-8b21-4778-b06c-fa2122acc55a": {
+      "company": "Apple",
+      "first_seen": "2026-11-12T23:32:12+00:00",
+      "last_seen": "2026-11-12T23:32:12+00:00",
+      "location": "Cupertino, CA",
+      "posted_at": "1794525361",
+      "source": "simplify",
+      "title": "Software Engineer - Ad Platforms",
+      "url": "https://jobs.apple.com/en-us/details/200694769"
+    },
     "simplify:apple::simplify-a96278c1-ade0-425c-83f0-3a2b804be61d": {
       "company": "Apple",
       "first_seen": "2026-08-18T07:36:14+00:00",
@@ -11445,6 +11477,16 @@
       "posted_at": "1788452256",
       "title": "ServiceNow Developer Intern",
       "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114145"
+    },
+    "simplify:arcxis::simplify-efaec2f3-aac7-4d48-8c20-2fdc525641a7": {
+      "company": "ARCXIS",
+      "first_seen": "2026-11-12T23:32:14+00:00",
+      "last_seen": "2026-11-12T23:32:14+00:00",
+      "location": "Houston, TX",
+      "posted_at": "1794521966",
+      "source": "simplify",
+      "title": "AI Rapid Prototype Developer Level 1",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4661286"
     },
     "simplify:ares management::simplify-b8a4dc60-ad57-4a14-858b-ee170a129ee1": {
       "company": "Ares Management",
@@ -31527,6 +31569,16 @@
       "title": "Software Engineer",
       "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Westford-Massachusetts-United-States-of-America/Software-Engineer_1208770"
     },
+    "simplify:hewlett packard enterprise::simplify-916df818-e027-4ffe-b744-46e7ae1f630a": {
+      "company": "Hewlett Packard Enterprise",
+      "first_seen": "2026-11-12T23:32:14+00:00",
+      "last_seen": "2026-11-12T23:32:14+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1794441600",
+      "source": "simplify",
+      "title": "Systems/Software Engineer 1",
+      "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821-2"
+    },
     "simplify:hewlett packard enterprise::simplify-9e2a98d3-d831-4cf0-8d19-28dfaf4710f3": {
       "company": "Hewlett Packard Enterprise",
       "first_seen": "2026-10-09T06:37:05+00:00",
@@ -38036,6 +38088,16 @@
       "source": "simplify",
       "title": "Electronic Warfare Software Engineer",
       "url": "https://leidos.wd5.myworkdayjobs.com/External/job/2682-Huntsville-AL/Electronic-Warfare-Software-Engineer_R-00190536"
+    },
+    "simplify:leidos::simplify-d552a111-e580-42cf-82ae-1eb3177f261a": {
+      "company": "Leidos",
+      "first_seen": "2026-11-12T23:32:14+00:00",
+      "last_seen": "2026-11-12T23:32:14+00:00",
+      "location": "Tucson, AZ",
+      "posted_at": "1794441600",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Software-Engineer_R-00196751"
     },
     "simplify:leidos::simplify-e61c4916-6a49-4922-a691-73e2250dd9c9": {
       "company": "Leidos",
@@ -51385,6 +51447,16 @@
       "title": "Software Engineer Intern Co-op - Product Lifecycle Management",
       "url": "https://careers.rivian.com/jobs/33746?icims=1"
     },
+    "simplify:rli::simplify-f4419c88-b5a8-4f99-97c1-3dbdcc1d3aa1": {
+      "company": "RLI",
+      "first_seen": "2026-11-12T23:32:14+00:00",
+      "last_seen": "2026-11-12T23:32:14+00:00",
+      "location": "Peoria, IL, Tempe, AZ",
+      "posted_at": "1794441600",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://wd1.myworkdaysite.com/recruiting/rlicorp/RLI_Corp_Careers/job/Peoria-IL/Associate-Software-Engineer--Net----Peoria--IL-or-Tempe--AZ_R1864"
+    },
     "simplify:road runner::simplify-d45acc1f-f48c-4f62-8dd2-171e5665c943": {
       "company": "Road Runner",
       "first_seen": "2026-07-16T14:24:25+00:00",
@@ -52952,6 +53024,7 @@
     "simplify:rtx::simplify-39d0cc56-bb3b-4cdd-98d2-bc30149309ff": {
       "company": "RTX",
       "first_seen": "2026-08-05T15:31:06+00:00",
+      "last_seen": "2026-11-12T23:32:13+00:00",
       "posted_at": "1785888000",
       "title": "Software Engineer 1 - Air Traffic Solutions",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineer-I---Air-Traffic-Solutions--Onsite-_01864077"
@@ -68887,6 +68960,16 @@
       "posted_at": "1775686204",
       "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/zettabyte-space/50a9c6dc-7225-4ff0-a914-69d1dd325d6a/application"
+    },
+    "simplify:zettasquared::simplify-5c0bcf75-8935-487e-84af-65b44d75fae9": {
+      "company": "ZettaSquared",
+      "first_seen": "2026-11-12T23:32:14+00:00",
+      "last_seen": "2026-11-12T23:32:14+00:00",
+      "location": "Houston, TX",
+      "posted_at": "1794441600",
+      "source": "simplify",
+      "title": "Forward Engineer / AI Developer",
+      "url": "https://jobs.ashbyhq.com/zetta2/28a44d44-b138-476f-acda-65384f1623dc/application?embed=true"
     },
     "simplify:zgf architects::simplify-61518b6a-0c0a-450a-b25d-82c438d68acc": {
       "company": "ZGF Architects",
@@ -84913,5 +84996,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T23:14:25+00:00"
+  "updated_at": "2026-11-12T23:32:29+00:00"
 }
