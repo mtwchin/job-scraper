@@ -1,5 +1,5 @@
 {
-  "count": 9486,
+  "count": 9489,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71151,6 +71151,18 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/1vw"
     },
+    "vanshb03:bask health::vanshb03-d6fa99c7-5328-4b3e-8943-78f757bacf6e": {
+      "company": "Bask Health",
+      "duplicate_of": "simplify:bask health::simplify-6b8e3394-dd09-4734-be54-025c5d544c77",
+      "first_seen": "2026-11-12T08:14:13+00:00",
+      "last_seen": "2026-11-12T08:14:13+00:00",
+      "location": "Remote, United States",
+      "posted_at": "1794467524",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Frontend Engineer Intern, Frontend Engineering",
+      "url": "https://go.vansh.nyc/1w9"
+    },
     "vanshb03:bask::vanshb03-0531d89b-6bb3-4d54-a92b-b850e8bf3224": {
       "company": "Bask",
       "first_seen": "2026-11-11T21:40:56+00:00",
@@ -71170,6 +71182,16 @@
       "source": "vanshb03",
       "title": "New Grad: Backend Engineer",
       "url": "https://go.vansh.nyc/1vk"
+    },
+    "vanshb03:bask::vanshb03-75324407-cb76-46b0-a8ac-04ec9ba0316f": {
+      "company": "Bask",
+      "first_seen": "2026-11-12T08:14:14+00:00",
+      "last_seen": "2026-11-12T08:14:14+00:00",
+      "location": "United States",
+      "posted_at": "1794470833",
+      "source": "vanshb03",
+      "title": "Frontend Engineering Intern",
+      "url": "https://go.vansh.nyc/1wc"
     },
     "vanshb03:bask::vanshb03-cefcba71-0efe-4d66-a73d-202ad27b1b2f": {
       "company": "Bask",
@@ -76886,6 +76908,16 @@
       "source": "vanshb03",
       "title": "New Grad Software Engineer - Backend Rust",
       "url": "https://go.vansh.nyc/rf"
+    },
+    "vanshb03:nasdaq::vanshb03-ee2fc443-9ed2-4774-82bd-b152a8bd2a9f": {
+      "company": "Nasdaq",
+      "first_seen": "2026-11-12T08:14:14+00:00",
+      "last_seen": "2026-11-12T08:14:14+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1793124223",
+      "source": "vanshb03",
+      "title": "Back End Software Developer Co-op",
+      "url": "https://go.vansh.nyc/1wb"
     },
     "vanshb03:nash::vanshb03-18b7d350-1f9a-4ab2-ad4b-0027c482ff67": {
       "company": "Nash",
@@ -84361,5 +84393,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T08:03:30+00:00"
+  "updated_at": "2026-11-12T08:14:32+00:00"
 }
