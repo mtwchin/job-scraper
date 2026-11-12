@@ -1,5 +1,5 @@
 {
-  "count": 9518,
+  "count": 9519,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -72828,6 +72828,16 @@
       "title": "Software Engineer Intern, Security",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926"
     },
+    "vanshb03:cigna::vanshb03-eb012f78-2110-4935-b8eb-74a435dfe5aa": {
+      "company": "Cigna",
+      "first_seen": "2026-11-12T16:41:51+00:00",
+      "last_seen": "2026-11-12T16:41:51+00:00",
+      "location": "St. Louis, MO, Austin, TX, Morris Plains, NJ, Bloomfield, CT",
+      "posted_at": "1794501451",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1wH"
+    },
     "vanshb03:cincinnati children\u2019s hospital and medical center::vanshb03-74927ede-4531-4e09-b4d7-82a09feacec6": {
       "company": "Cincinnati Children\u2019s Hospital and Medical Center",
       "duplicate_of": "simplify:cincinnati children\u2019s hospital and medical center::simplify-f7d94cc4-15c3-4072-a1c9-9e8a2413fd5a",
@@ -84689,5 +84699,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T16:04:00+00:00"
+  "updated_at": "2026-11-12T16:42:03+00:00"
 }
