@@ -1,5 +1,5 @@
 {
-  "count": 9530,
+  "count": 9531,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -74694,6 +74694,16 @@
       "title": "Systems Engineer Intern",
       "url": "https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity"
     },
+    "vanshb03:general dynamics information technology::vanshb03-c7e6a21c-950d-4911-9d30-2d9677d32f46": {
+      "company": "General Dynamics Information Technology",
+      "first_seen": "2026-11-12T20:11:13+00:00",
+      "last_seen": "2026-11-12T20:11:13+00:00",
+      "location": "Raleigh, NC",
+      "posted_at": "1794514007",
+      "source": "vanshb03",
+      "title": "Professional Programmer Intern",
+      "url": "https://go.vansh.nyc/1xx"
+    },
     "vanshb03:general dynamics mission systems::vanshb03-41b1fef4-b52b-4801-8aa7-7e5fa7cfedce": {
       "company": "General Dynamics Mission Systems",
       "first_seen": "2026-10-21T00:20:12+00:00",
@@ -84811,5 +84821,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T19:54:15+00:00"
+  "updated_at": "2026-11-12T20:11:18+00:00"
 }
