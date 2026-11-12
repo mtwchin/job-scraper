@@ -1,5 +1,5 @@
 {
-  "count": 9456,
+  "count": 9465,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -7276,6 +7276,16 @@
       "title": "Software Engineer Intern",
       "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Software-Engineering-Intern_9094"
     },
+    "simplify:aerovironment::simplify-14be2013-8cfc-4697-bee6-4079af413274": {
+      "company": "AeroVironment",
+      "first_seen": "2026-11-12T00:02:57+00:00",
+      "last_seen": "2026-11-12T00:02:57+00:00",
+      "location": "Lawrence, KS",
+      "posted_at": "1794355200",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Lawrence-KS/Software-Engineering-Intern_9360"
+    },
     "simplify:aerovironment::simplify-1bb300c1-9aa0-4d66-8dff-028810318c8e": {
       "company": "AeroVironment",
       "first_seen": "2026-09-10T23:38:18+00:00",
@@ -8002,7 +8012,7 @@
     "simplify:alexion::simplify-40714b55-23e6-4ad4-af4f-3fb84666d2be": {
       "company": "Alexion",
       "first_seen": "2026-09-29T23:04:17+00:00",
-      "last_seen": "2026-10-06T00:00:06+00:00",
+      "last_seen": "2026-11-12T00:02:56+00:00",
       "location": "Mississauga, ON, Canada",
       "posted_at": "1790640000",
       "source": "simplify",
@@ -11246,6 +11256,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008"
+    },
+    "simplify:arcesium::simplify-3a9cc68f-b19b-4099-b4c5-a5cb94c647d8": {
+      "company": "Arcesium",
+      "first_seen": "2026-11-12T00:02:57+00:00",
+      "last_seen": "2026-11-12T00:02:57+00:00",
+      "location": "NYC",
+      "posted_at": "1794420802",
+      "source": "simplify",
+      "title": "Technology Operations Intern",
+      "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5257251007"
     },
     "simplify:arcesium::simplify-3fee6412-b96e-41cf-a210-558b2b32773d": {
       "company": "Arcesium",
@@ -32024,6 +32044,16 @@
       "title": "Student Programmer Analyst",
       "url": "https://hubinternational.wd1.myworkdayjobs.com/en-US/HUBInternational/job/Edmonton-AB/Student-Programmer-Analyst_R0037883"
     },
+    "simplify:hub international::simplify-dbb7c270-0388-431d-bff1-05473a3db39e": {
+      "company": "HUB International",
+      "first_seen": "2026-11-12T00:02:57+00:00",
+      "last_seen": "2026-11-12T00:02:57+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1794355200",
+      "source": "simplify",
+      "title": "AI Engineer Intern",
+      "url": "https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Chicago-IL/AI-Engineering-Intern_R0039470"
+    },
     "simplify:hubspot::simplify-76683b81-5fbd-480b-9373-93c41652901b": {
       "company": "HubSpot",
       "first_seen": "2026-10-05T09:34:23+00:00",
@@ -40974,6 +41004,16 @@
       "title": "Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557053350"
     },
+    "simplify:microsoft::simplify-5b83878d-7d81-44e4-89ea-10b040471cb7": {
+      "company": "Microsoft",
+      "first_seen": "2026-11-12T00:01:53+00:00",
+      "last_seen": "2026-11-12T00:01:53+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1794440956",
+      "source": "simplify",
+      "title": "Software Development Engineer",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557050698"
+    },
     "simplify:microsoft::simplify-6245b5b1-9a7d-4d30-aabb-19a2cedbde40": {
       "company": "Microsoft",
       "first_seen": "2026-08-22T03:26:25+00:00",
@@ -48873,6 +48913,16 @@
       "title": "GenAI and Digital Workplace Intern",
       "url": "https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--GenAI-and-Digital-Workplace--January---April-2027-_R5003"
     },
+    "simplify:ptc::simplify-3dfa0fc8-0607-42b8-b7e9-8d05ad28e891": {
+      "company": "PTC",
+      "first_seen": "2026-11-12T00:02:57+00:00",
+      "last_seen": "2026-11-12T00:02:57+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1794355200",
+      "source": "simplify",
+      "title": "Creo Graphics Engineering Intern",
+      "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Graphics-Engineering-Intern--Summer-2027-_JR112970"
+    },
     "simplify:ptc::simplify-b1c85b2f-82a7-405f-be5e-b91959b2f8aa": {
       "company": "PTC",
       "first_seen": "2026-10-30T14:31:52+00:00",
@@ -48899,6 +48949,16 @@
       "source": "simplify",
       "title": "Arena Engineering Intern",
       "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/USA-San-Mateo-CA/Arena-Engineering-Intern_JR112955"
+    },
+    "simplify:ptc::simplify-f865a3d4-ed0b-49c0-89c5-e6ce47db6f5a": {
+      "company": "PTC",
+      "first_seen": "2026-11-12T00:02:57+00:00",
+      "last_seen": "2026-11-12T00:02:57+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1794355200",
+      "source": "simplify",
+      "title": "Creo Core Geometry Intern",
+      "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Core-Geometry-Intern--Summer-2027-_JR112959"
     },
     "simplify:publicis groupe::simplify-0706bb2f-8031-40cc-9e45-2952f9353f95": {
       "company": "Publicis Groupe",
@@ -50732,6 +50792,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://jobs.ashbyhq.com/rilla/0e111ca4-3837-43d2-8507-6030a0dc32d9/application?embed=true"
+    },
+    "simplify:riot games::simplify-5ba9451c-c34f-47bc-9930-d18b4a4494c0": {
+      "company": "Riot Games",
+      "first_seen": "2026-11-12T00:02:33+00:00",
+      "last_seen": "2026-11-12T00:02:33+00:00",
+      "location": "LA",
+      "posted_at": "1794426850",
+      "source": "simplify",
+      "title": "Technical Game Design Intern - League of Legends and Teamfight Tactics",
+      "url": "https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525"
     },
     "simplify:rippling::simplify-0271dfee-afcf-4a95-ad39-156710edc8ce": {
       "company": "Rippling",
@@ -55667,6 +55737,26 @@
       "source": "simplify",
       "title": "Engineer 1 New Grad - Software - Autonomy Capabilities",
       "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896/apply"
+    },
+    "simplify:shield ai::simplify-f633b964-2b4e-4cc9-909b-0de4e42c4cc6": {
+      "company": "Shield AI",
+      "first_seen": "2026-11-12T00:02:33+00:00",
+      "last_seen": "2026-11-12T00:02:33+00:00",
+      "location": "United States",
+      "posted_at": "1794355200",
+      "source": "simplify",
+      "title": "Engineer 2 New Grad - Software - Autonomy Capabilities",
+      "url": "https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true"
+    },
+    "simplify:shive-hattery::simplify-a31cdf39-a527-48df-95d0-b048ca50228e": {
+      "company": "Shive-Hattery",
+      "first_seen": "2026-11-12T00:02:57+00:00",
+      "last_seen": "2026-11-12T00:02:57+00:00",
+      "location": "Iowa City, IA",
+      "posted_at": "1794440619",
+      "source": "simplify",
+      "title": "Software Developer Intern - Software Development",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4619793"
     },
     "simplify:shopback::simplify-2555118e-7714-4f03-b900-03de0e5c29db": {
       "company": "ShopBack",
@@ -84061,5 +84151,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-12T00:02:24+00:00"
+  "updated_at": "2026-11-12T00:03:27+00:00"
 }
