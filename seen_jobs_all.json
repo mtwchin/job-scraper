@@ -1,5 +1,5 @@
 {
-  "count": 9590,
+  "count": 9591,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -76226,6 +76226,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/1kv"
     },
+    "vanshb03:ipconfigure::vanshb03-e2e0354e-84d3-4e6c-90ad-f15189b4f675": {
+      "company": "IPConfigure",
+      "first_seen": "2026-11-13T15:12:08+00:00",
+      "last_seen": "2026-11-13T15:12:08+00:00",
+      "location": "Norfolk, VA",
+      "posted_at": "1794582424",
+      "source": "vanshb03",
+      "title": "Software Development Intern, Video Surveillance Software",
+      "url": "https://go.vansh.nyc/1yE"
+    },
     "vanshb03:iridium communications::vanshb03-b3079d04-e46e-474a-964f-7f4335aabf74": {
       "company": "Iridium Communications",
       "first_seen": "2026-11-01T00:13:51+00:00",
@@ -85421,5 +85431,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T14:46:12+00:00"
+  "updated_at": "2026-11-13T15:12:14+00:00"
 }
