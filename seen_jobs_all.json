@@ -1,5 +1,5 @@
 {
-  "count": 9608,
+  "count": 9620,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -12947,7 +12947,7 @@
     "simplify:avis budget group::simplify-23eccfe8-4364-45b3-a8ef-cb8127b89e2c": {
       "company": "Avis Budget Group",
       "first_seen": "2026-09-17T15:03:56+00:00",
-      "last_seen": "2026-10-14T00:00:26+00:00",
+      "last_seen": "2026-11-13T23:33:16+00:00",
       "location": "Parsippany-Troy Hills, NJ",
       "posted_at": "1789603200",
       "source": "simplify",
@@ -14763,6 +14763,16 @@
       "title": "Entry-Level Flight Simulation Software Engineer",
       "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155-1"
     },
+    "simplify:boeing::simplify-e269fc40-0943-4e09-bb96-e5d7ecdffddc": {
+      "company": "Boeing",
+      "first_seen": "2026-11-13T23:33:17+00:00",
+      "last_seen": "2026-11-13T23:33:17+00:00",
+      "location": "Oklahoma City, OK",
+      "posted_at": "1794528000",
+      "source": "simplify",
+      "title": "Design and Analysis Engineer Entry Level or Associate",
+      "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/C-17-Design-and-Analysis-Engineer--Entry-Level-or-Associate-_JR2026525656-1"
+    },
     "simplify:book of the month::simplify-8cd5dbe2-a8d3-434d-8a4c-9f6270250bc6": {
       "company": "Book of the Month",
       "first_seen": "2026-10-04T17:01:29+00:00",
@@ -15103,6 +15113,18 @@
       "posted_at": "1787875200",
       "title": "AI Software Developer Intern",
       "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115"
+    },
+    "simplify:booz allen::simplify-8104d082-e5b3-415a-94ba-55cf7b4b79ea": {
+      "company": "Booz Allen",
+      "duplicate_of": "simplify:booz allen::simplify-5dd20db4-2a48-4210-930a-e6630cac52bc",
+      "first_seen": "2026-11-13T23:33:16+00:00",
+      "last_seen": "2026-11-13T23:33:16+00:00",
+      "location": "Beavercreek, OH",
+      "posted_at": "1794528000",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Systems Engineer",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/Systems-Engineer_R0253553"
     },
     "simplify:booz allen::simplify-82a9b6d4-6ab6-499d-a373-79b618b18010": {
       "company": "Booz Allen",
@@ -17860,12 +17882,32 @@
       "title": "Software Engineer Intern",
       "url": "https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Software-Engineering-Intern_R-2025-219"
     },
+    "simplify:cambridge mobile telematics::simplify-4dc93ea5-f9ac-40cb-af35-d168b68a2f4e": {
+      "company": "Cambridge Mobile Telematics",
+      "first_seen": "2026-11-13T23:33:17+00:00",
+      "last_seen": "2026-11-13T23:33:17+00:00",
+      "location": "Cambridge, MA",
+      "posted_at": "1794589884",
+      "source": "simplify",
+      "title": "Software Engineer 1, Cloud",
+      "url": "https://job-boards.greenhouse.io/cmt/jobs/8385978"
+    },
     "simplify:camlin::simplify-273c41ba-8d4c-449e-827f-e190604ab395": {
       "company": "Camlin",
       "first_seen": "2026-07-29T09:11:55+00:00",
       "posted_at": "1784585483",
       "title": "Incident Support Engineer",
       "url": "https://ats.rippling.com/camlin-careers/jobs/803397be-f794-4002-8c8a-c39e99a3ce2b"
+    },
+    "simplify:canadian tire::simplify-a429667e-4913-40e2-8b6a-ff22e64696c8": {
+      "company": "Canadian Tire",
+      "first_seen": "2026-11-13T23:33:17+00:00",
+      "last_seen": "2026-11-13T23:33:17+00:00",
+      "location": "Mississauga, ON, Canada",
+      "posted_at": "1794528000",
+      "source": "simplify",
+      "title": "Programmer Analyst Intern",
+      "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Mississauga-ON/Programmer-Analyst-Intern--12-months----Winter-2027_JR167748"
     },
     "simplify:candidate fyi::simplify-d8d7e2e3-1906-4c1e-9c88-0e8a1619f222": {
       "company": "candidate fyi",
@@ -24937,6 +24979,16 @@
       "title": "Software Engineer Intern",
       "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010928"
     },
+    "simplify:emerson electric::simplify-2bfd33ca-a576-43cf-b83d-428a0f935f05": {
+      "company": "Emerson Electric",
+      "first_seen": "2026-11-13T23:33:17+00:00",
+      "last_seen": "2026-11-13T23:33:17+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1794611091",
+      "source": "simplify",
+      "title": "Software Engineer - Applied AI",
+      "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013909"
+    },
     "simplify:emerson electric::simplify-2f04cf36-aee9-49fa-845e-326106818d30": {
       "company": "Emerson Electric",
       "first_seen": "2026-10-27T22:32:46+00:00",
@@ -26740,6 +26792,16 @@
       "posted_at": "1782454002",
       "title": "Field Application Engineer",
       "url": "https://jobs.lever.co/field-ai/6a93ac30-56af-4726-bb05-9d71f8622b58/apply"
+    },
+    "simplify:fieldpulse::simplify-cb848a3c-9a28-4557-91ee-9c5c4a3029c2": {
+      "company": "FieldPulse",
+      "first_seen": "2026-11-13T23:33:17+00:00",
+      "last_seen": "2026-11-13T23:33:17+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1794611845",
+      "source": "simplify",
+      "title": "AI Intern",
+      "url": "https://ats.rippling.com/fieldpulse/jobs/bfade8ef-2509-4042-b400-019fe3a84a7d"
     },
     "simplify:fifth third bank::simplify-7d8242ec-06c9-4afb-abfb-ccbd11a5f47b": {
       "company": "Fifth Third Bank",
@@ -31883,6 +31945,16 @@
       "title": "Full Stack Engineer",
       "url": "https://jobs.lever.co/hhaexchange/37711e74-f9e9-42c5-9c4f-66df2afab2e2/apply"
     },
+    "simplify:hiebing::simplify-25d29951-f992-466b-8b3b-15611c4f89f3": {
+      "company": "Hiebing",
+      "first_seen": "2026-11-13T23:33:17+00:00",
+      "last_seen": "2026-11-13T23:33:17+00:00",
+      "location": "Madison, WI",
+      "posted_at": "1794612421",
+      "source": "simplify",
+      "title": "AI Agent Developer Intern",
+      "url": "https://hiebing.applytojob.com/apply/yIhDpeWv4F/AI-Agent-Developer-Intern"
+    },
     "simplify:hiebing::simplify-38ef5409-b962-46f0-a83e-73363efb0f04": {
       "company": "Hiebing",
       "first_seen": "2026-08-10T19:44:57+00:00",
@@ -32624,6 +32696,16 @@
       "posted_at": "1784246400",
       "title": "Technology Delivery Analyst - Elevate",
       "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0074064"
+    },
+    "simplify:huntington ingalls industries::simplify-11cf81e0-6a40-43ec-b7ed-93f63541c96d": {
+      "company": "Huntington Ingalls Industries",
+      "first_seen": "2026-11-13T23:33:17+00:00",
+      "last_seen": "2026-11-13T23:33:17+00:00",
+      "location": "Newport News, VA",
+      "posted_at": "1794611375",
+      "source": "simplify",
+      "title": "Software Development Engineer 1",
+      "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-1-Virg/1450616800/?ats=successfactors"
     },
     "simplify:huntington ingalls industries::simplify-1fee781e-3297-48d6-bbf1-a6d0eb4dadbd": {
       "company": "Huntington Ingalls Industries",
@@ -36558,6 +36640,16 @@
       "title": "Software Engineer Intern",
       "url": "https://jobs.keysight.com/jobs/54668?icims=1"
     },
+    "simplify:keysight technologies::simplify-a99d96d3-8116-41b2-b34c-e16cbf88122b": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-11-13T23:33:17+00:00",
+      "last_seen": "2026-11-13T23:33:17+00:00",
+      "location": "Colorado Springs, CO",
+      "posted_at": "1794594600",
+      "source": "simplify",
+      "title": "IT Engineer - Software",
+      "url": "https://jobs.keysight.com/jobs/56558?icims=1&lang=en-us"
+    },
     "simplify:keysight technologies::simplify-aabb6bc2-6230-4e0f-aa9d-24371647b689": {
       "company": "Keysight Technologies",
       "first_seen": "2026-11-07T00:01:45+00:00",
@@ -39700,6 +39792,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Software Engineering",
       "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1"
+    },
+    "simplify:manulife financial::simplify-1210667d-a04b-4e6f-94c9-652d67be9369": {
+      "company": "Manulife Financial",
+      "first_seen": "2026-11-13T23:33:17+00:00",
+      "last_seen": "2026-11-13T23:33:17+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1794528000",
+      "source": "simplify",
+      "title": "Software Engineering Co-op Intern",
+      "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405"
     },
     "simplify:manulife financial::simplify-1d938bfb-bee6-422b-9ba6-6fa75f0b6751": {
       "company": "Manulife Financial",
@@ -43584,6 +43686,16 @@
       "posted_at": "1780740233",
       "title": "Application Engineering Co-op",
       "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Application-Engineering-Co-Op_R0016076"
+    },
+    "simplify:nightwing intelligence solutions::simplify-476b3885-29d1-46c2-9639-18d818a66d49": {
+      "company": "Nightwing Intelligence Solutions",
+      "first_seen": "2026-11-13T23:33:17+00:00",
+      "last_seen": "2026-11-13T23:33:17+00:00",
+      "location": "Huntsville, AL",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "Software Developer 2 - System Security",
+      "url": "https://nwis.wd12.myworkdayjobs.com/NW/job/AL600-600-Boulevard-South-Huntsville-AL/Software-Developer-II--System-Security-_JR102207"
     },
     "simplify:nightwing intelligence solutions::simplify-74ecf24a-3da9-4055-ae12-5927fed9f147": {
       "company": "Nightwing Intelligence Solutions",
@@ -55461,6 +55573,16 @@
       "source": "simplify",
       "title": "Agentic AI Solutions Intern",
       "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8926019002"
+    },
+    "simplify:samsung::simplify-0b4ccde0-5421-4204-8674-7df0ce55af74": {
+      "company": "Samsung",
+      "first_seen": "2026-11-13T23:32:12+00:00",
+      "last_seen": "2026-11-13T23:32:12+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1794596442",
+      "source": "simplify",
+      "title": "ML Compiler Intern - Kernel Auto-Tuning",
+      "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003"
     },
     "simplify:samsung::simplify-710b4782-710d-4d0d-b636-26fef8fa8649": {
       "company": "Samsung",
@@ -85606,5 +85728,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T23:10:50+00:00"
+  "updated_at": "2026-11-13T23:33:54+00:00"
 }
