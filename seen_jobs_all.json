@@ -1,5 +1,5 @@
 {
-  "count": 9568,
+  "count": 9570,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -15032,6 +15032,16 @@
       "title": "Software Engineer",
       "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University---Software-Engineer_R0246658"
     },
+    "simplify:booz allen::simplify-693ebc18-2528-4b4e-822a-53fa49691c64": {
+      "company": "Booz Allen",
+      "first_seen": "2026-11-13T00:03:13+00:00",
+      "last_seen": "2026-11-13T00:03:13+00:00",
+      "location": "Beavercreek, OH",
+      "posted_at": "1794441600",
+      "source": "simplify",
+      "title": "Junior C++ Software Engineer",
+      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425"
+    },
     "simplify:booz allen::simplify-69f5edde-2904-4610-a7eb-8132ce17ead9": {
       "company": "Booz Allen",
       "first_seen": "2026-09-11T23:13:27+00:00",
@@ -28709,6 +28719,16 @@
       "title": "Software Engineer - Entry Level",
       "url": "https://careers-gdms.icims.com/jobs/74471/job?mobile=true&needsRedirect=false"
     },
+    "simplify:general dynamics mission systems::simplify-31a732f2-d65e-41e9-818b-7b4da40f9eae": {
+      "company": "General Dynamics Mission Systems",
+      "first_seen": "2026-11-13T00:03:13+00:00",
+      "last_seen": "2026-11-13T00:03:13+00:00",
+      "location": "Scottsdale, AZ",
+      "posted_at": "1794441600",
+      "source": "simplify",
+      "title": "Platform Services Software Engineer Entry Level",
+      "url": "https://careers-gdms.icims.com/jobs/80580/job?mobile=true&needsRedirect=false"
+    },
     "simplify:general dynamics mission systems::simplify-38c27a23-7876-45aa-b3c9-dc90974d6625": {
       "company": "General Dynamics Mission Systems",
       "first_seen": "2026-08-25T18:59:37+00:00",
@@ -41195,6 +41215,7 @@
     "simplify:micron technology::simplify-2bc345ba-6706-4efb-925f-c449a37bc3d5": {
       "company": "Micron Technology",
       "first_seen": "2026-08-27T23:56:31+00:00",
+      "last_seen": "2026-11-13T00:03:13+00:00",
       "posted_at": "1787788800",
       "title": "Software Engineer New Grad",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692"
@@ -85198,5 +85219,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T00:02:38+00:00"
+  "updated_at": "2026-11-13T00:03:41+00:00"
 }
