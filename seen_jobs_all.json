@@ -1,5 +1,5 @@
 {
-  "count": 9599,
+  "count": 9600,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -79960,6 +79960,16 @@
       "title": "Software Engineer I, Factory Platform",
       "url": "https://go.vansh.nyc/Ub"
     },
+    "vanshb03:reliable robotics corporation::vanshb03-00d8719d-ba6a-4333-9c93-4e5c6de20b4b": {
+      "company": "Reliable Robotics Corporation",
+      "first_seen": "2026-11-13T19:41:25+00:00",
+      "last_seen": "2026-11-13T19:41:25+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1794528000",
+      "source": "vanshb03",
+      "title": "Flight Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1z1"
+    },
     "vanshb03:relling::vanshb03-e4f9e4fe-f38f-4735-9984-d952770bd1c4": {
       "company": "Relling",
       "first_seen": "2026-11-01T00:13:51+00:00",
@@ -85512,5 +85522,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T19:11:34+00:00"
+  "updated_at": "2026-11-13T19:41:36+00:00"
 }
