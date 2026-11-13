@@ -1,5 +1,5 @@
 {
-  "count": 9594,
+  "count": 9595,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -66152,6 +66152,16 @@
       "title": "Enterprise Applications Developer - Enterprise Applications",
       "url": "https://jobs.smartrecruiters.com/ValeoFoods/744000142617715"
     },
+    "simplify:valeo::simplify-72b5942c-9dc6-4ec1-9a0c-c84205825459": {
+      "company": "Valeo",
+      "first_seen": "2026-11-13T15:33:08+00:00",
+      "last_seen": "2026-11-13T15:33:08+00:00",
+      "location": "Troy, MI",
+      "posted_at": "1794528000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Software-Engineer-Intern--Year-Round-_REQ2026081794"
+    },
     "simplify:valeo::simplify-c744757a-3327-4052-bc7a-62b0e22f6dce": {
       "company": "Valeo",
       "first_seen": "2026-09-16T23:02:47+00:00",
@@ -85461,5 +85471,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T15:32:17+00:00"
+  "updated_at": "2026-11-13T15:33:19+00:00"
 }
