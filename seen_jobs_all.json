@@ -1,5 +1,5 @@
 {
-  "count": 9582,
+  "count": 9583,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71654,6 +71654,16 @@
       "title": "Software Engineer 1",
       "url": "https://aurora.tech/jobs/8191750002?gh_jid=8191750002"
     },
+    "vanshb03:aurora innovation::vanshb03-b56e91ef-db7b-4b0a-bcb7-19bc013e1f4c": {
+      "company": "Aurora Innovation",
+      "first_seen": "2026-11-13T06:11:32+00:00",
+      "last_seen": "2026-11-13T06:11:32+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1794538186",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Vehicle Platforms",
+      "url": "https://go.vansh.nyc/1yu"
+    },
     "vanshb03:aurora innovation::vanshb03-c79ba0d8-b60c-4344-8550-45a73cb92050": {
       "company": "Aurora Innovation",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -85341,5 +85351,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T03:02:42+00:00"
+  "updated_at": "2026-11-13T06:11:49+00:00"
 }
