@@ -1,5 +1,5 @@
 {
-  "count": 9584,
+  "count": 9585,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -25127,6 +25127,16 @@
       "source": "simplify",
       "title": "Associate Software Engineer - Full Stack",
       "url": "https://careers.empowerpharmacy.com/jobs/?gh_jid=4479712009"
+    },
+    "simplify:empowerly::simplify-48575bc5-b3c7-42b6-b136-7df9d7bd0791": {
+      "company": "Empowerly",
+      "first_seen": "2026-11-13T08:02:52+00:00",
+      "last_seen": "2026-11-13T08:02:52+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1794555523",
+      "source": "simplify",
+      "title": "Full Stack Software Engineer",
+      "url": "https://ats.rippling.com/empowerly/jobs/bf9b3e41-e94a-409e-8dc6-620f2cc0171b"
     },
     "simplify:enact mortgage insurance::simplify-c27aa2e9-dd87-4f06-91ee-4134e27b2e2d": {
       "company": "Enact Mortgage Insurance",
@@ -65153,7 +65163,7 @@
     "simplify:tyler technologies::simplify-d6c24595-0dd3-449f-b0ae-d13e256fc740": {
       "company": "Tyler Technologies",
       "first_seen": "2026-09-22T03:24:56+00:00",
-      "last_seen": "2026-11-07T00:01:45+00:00",
+      "last_seen": "2026-11-13T08:02:52+00:00",
       "location": "Yarmouth, ME, Orono, ME, Falmouth, ME",
       "posted_at": "1790029561",
       "source": "simplify",
@@ -85361,5 +85371,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T07:32:54+00:00"
+  "updated_at": "2026-11-13T08:02:57+00:00"
 }
