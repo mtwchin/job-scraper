@@ -1,5 +1,5 @@
 {
-  "count": 9572,
+  "count": 9574,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -20962,6 +20962,16 @@
       "posted_at": "1787349948",
       "title": "Associate Software Engineer - Product Development",
       "url": "https://careers-constructconnect.icims.com/jobs/2191/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:constructive dialogue institute::simplify-2da3ae25-41c7-4c97-bae2-3e06a9a2050d": {
+      "company": "Constructive Dialogue Institute",
+      "first_seen": "2026-11-13T02:32:34+00:00",
+      "last_seen": "2026-11-13T02:32:34+00:00",
+      "location": "NYC",
+      "posted_at": "1791912933",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://constructivedialogue.recruitee.com/o/software-engineer-early-career"
     },
     "simplify:consultadd public services::simplify-0feed693-981e-4e08-8b5c-c552dde2d841": {
       "company": "Consultadd Public Services",
@@ -42769,6 +42779,16 @@
       "posted_at": "1788307200",
       "title": "Software Engineer - Full Stack - Application Product Security",
       "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer--Full-Stack-_100006"
+    },
+    "simplify:natuvion::simplify-731706ec-a376-4475-9c04-ca9812810191": {
+      "company": "Natuvion",
+      "first_seen": "2026-11-13T02:32:34+00:00",
+      "last_seen": "2026-11-13T02:32:34+00:00",
+      "location": "Malvern, PA",
+      "posted_at": "1792506202",
+      "source": "simplify",
+      "title": "AI Developer",
+      "url": "https://natuvion.recruitee.com/o/ai-developer-on-site"
     },
     "simplify:natwest group::simplify-ba72bc0a-c5ca-41ea-87bc-e7b5abe02f6a": {
       "company": "NatWest Group",
@@ -85241,5 +85261,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T01:10:34+00:00"
+  "updated_at": "2026-11-13T02:32:38+00:00"
 }
