@@ -1,5 +1,5 @@
 {
-  "count": 7979,
+  "count": 7981,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -47740,6 +47740,16 @@
       "title": "Simulation Framework Engineer 1",
       "url": "https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba/apply"
     },
+    "simplify:shield ai::simplify-2ed6f5ef-9ec5-455f-b7df-59d3272f49fd": {
+      "company": "Shield AI",
+      "first_seen": "2026-11-13T11:02:06+00:00",
+      "last_seen": "2026-11-13T11:02:06+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1794566944",
+      "source": "simplify",
+      "title": "Engineer 1 New Grad - Software",
+      "url": "https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b/apply"
+    },
     "simplify:shield ai::simplify-4be638e1-80b0-4aa7-ac1f-416839d623c1": {
       "company": "Shield AI",
       "first_seen": "2026-10-28T06:31:45+00:00",
@@ -47819,6 +47829,16 @@
       "source": "simplify",
       "title": "Software Engineer 1 New Grad",
       "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true"
+    },
+    "simplify:shield ai::simplify-96c7f622-1cce-4faa-831c-906a6515ce68": {
+      "company": "Shield AI",
+      "first_seen": "2026-11-13T11:02:06+00:00",
+      "last_seen": "2026-11-13T11:02:06+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1794566934",
+      "source": "simplify",
+      "title": "Human Machine Teaming Intern",
+      "url": "https://jobs.lever.co/shieldai/a737063e-e831-49e1-98c3-25be44faac30/apply"
     },
     "simplify:shield ai::simplify-9c20706d-1c36-49c7-a6d2-07c92520bf94": {
       "company": "Shield AI",
@@ -67973,5 +67993,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T08:03:01+00:00"
+  "updated_at": "2026-11-13T11:02:44+00:00"
 }
