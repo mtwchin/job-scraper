@@ -1,5 +1,5 @@
 {
-  "count": 9600,
+  "count": 9602,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -78344,6 +78344,18 @@
       "title": "New Grad 2027: Associate Cyber Systems Engineer",
       "url": "https://go.vansh.nyc/1iB"
     },
+    "vanshb03:northrop grumman::vanshb03-3138182f-6caa-4f92-9dbb-a9e70d34d352": {
+      "company": "Northrop Grumman",
+      "duplicate_of": "vanshb03:northrop grumman::vanshb03-e2506cfc-ee9b-4728-b100-ac84dd19e4ad",
+      "first_seen": "2026-11-13T19:45:25+00:00",
+      "last_seen": "2026-11-13T19:45:25+00:00",
+      "location": "Boulder, CO",
+      "posted_at": "1794426065",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "New Grad 2027: Associate Software Engineer, Pathways",
+      "url": "https://go.vansh.nyc/1z4"
+    },
     "vanshb03:northrop grumman::vanshb03-42b214fe-48b1-4f78-ba30-82ec84babd47": {
       "company": "Northrop Grumman",
       "first_seen": "2026-10-22T19:44:19+00:00",
@@ -78511,6 +78523,16 @@
       "source": "vanshb03",
       "title": "Flight Software Engineer Intern",
       "url": "https://go.vansh.nyc/1dV"
+    },
+    "vanshb03:northrop grumman::vanshb03-e2506cfc-ee9b-4728-b100-ac84dd19e4ad": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-13T19:45:25+00:00",
+      "last_seen": "2026-11-13T19:45:25+00:00",
+      "location": "Colorado Springs, CO; Boulder, CO",
+      "posted_at": "1794426065",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Associate Software Engineer, Pathways",
+      "url": "https://go.vansh.nyc/1z3"
     },
     "vanshb03:northwood space::vanshb03-f059e346-e26d-484c-9dcd-6e572ce46932": {
       "company": "Northwood Space",
@@ -85522,5 +85544,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T19:41:36+00:00"
+  "updated_at": "2026-11-13T19:45:39+00:00"
 }
