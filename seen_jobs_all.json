@@ -1,5 +1,5 @@
 {
-  "count": 9589,
+  "count": 9590,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -78401,6 +78401,16 @@
       "title": "New Grad 2027: Associate Software Engineer / Software Engineer",
       "url": "https://go.vansh.nyc/Vw"
     },
+    "vanshb03:northrop grumman::vanshb03-c6e45d65-5cbd-4eec-b84d-4cbdaf868c28": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-13T14:46:08+00:00",
+      "last_seen": "2026-11-13T14:46:08+00:00",
+      "location": "Mcclellan, CA",
+      "posted_at": "1794528000",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Associate Software Engineer",
+      "url": "https://go.vansh.nyc/1yD"
+    },
     "vanshb03:northrop grumman::vanshb03-cf77144b-ecb7-4759-9b25-3e456f726e10": {
       "company": "Northrop Grumman",
       "first_seen": "2026-11-04T12:09:55+00:00",
@@ -85411,5 +85421,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T11:48:06+00:00"
+  "updated_at": "2026-11-13T14:46:12+00:00"
 }
