@@ -1,5 +1,5 @@
 {
-  "count": 9583,
+  "count": 9584,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -25370,6 +25370,16 @@
       "posted_at": "1784596403",
       "title": "Full Stack Developer",
       "url": "https://jobs.ashbyhq.com/envision-horizons/ec0c6149-02d0-48ce-8612-61fea67918af/application?embed=true"
+    },
+    "simplify:envita solutions::simplify-84683a1c-87f6-45c9-a94e-879f4dd879e8": {
+      "company": "Envita Solutions",
+      "first_seen": "2026-11-13T07:32:52+00:00",
+      "last_seen": "2026-11-13T07:32:52+00:00",
+      "location": "Indianapolis, IN",
+      "posted_at": "1789084800",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Applied AI",
+      "url": "https://thgrp.wd12.myworkdayjobs.com/envita/job/Indianapolis-IN/Software-Engineering-Intern--Applied-AI_R-1727"
     },
     "simplify:envoy air::simplify-2e2e68c0-6a5c-4917-ba15-5c1200450b37": {
       "company": "Envoy Air",
@@ -85351,5 +85361,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T06:17:50+00:00"
+  "updated_at": "2026-11-13T07:32:54+00:00"
 }
