@@ -1,5 +1,5 @@
 {
-  "count": 7981,
+  "count": 7982,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -47048,6 +47048,16 @@
       "title": "Software Engineering Intern",
       "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091"
     },
+    "simplify:samsung::simplify-0b4ccde0-5421-4204-8674-7df0ce55af74": {
+      "company": "Samsung",
+      "first_seen": "2026-11-13T23:32:12+00:00",
+      "last_seen": "2026-11-13T23:32:12+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1794596442",
+      "source": "simplify",
+      "title": "ML Compiler Intern - Kernel Auto-Tuning",
+      "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8203052003"
+    },
     "simplify:samsung::simplify-710b4782-710d-4d0d-b636-26fef8fa8649": {
       "company": "Samsung",
       "first_seen": "2026-11-13T08:02:16+00:00",
@@ -68002,5 +68012,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T23:03:42+00:00"
+  "updated_at": "2026-11-13T23:32:45+00:00"
 }
