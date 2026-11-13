@@ -74906,7 +74906,7 @@
     "vanshb03:garmin::vanshb03-47f25f76-21e5-42c6-9680-a5a09556c002": {
       "company": "Garmin",
       "first_seen": "2026-11-09T05:13:42+00:00",
-      "last_seen": "2026-11-09T05:13:42+00:00",
+      "last_seen": "2026-11-13T01:10:32+00:00",
       "location": "Brea, CA",
       "posted_at": "1792074960",
       "source": "vanshb03",
@@ -85241,5 +85241,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T00:47:31+00:00"
+  "updated_at": "2026-11-13T01:10:34+00:00"
 }
