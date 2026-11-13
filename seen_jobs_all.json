@@ -1,5 +1,5 @@
 {
-  "count": 9595,
+  "count": 9596,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -8412,7 +8412,7 @@
     "simplify:altera::simplify-e76d4605-d469-425d-a79a-1fa00dca13b2": {
       "company": "Altera",
       "first_seen": "2026-09-15T22:46:06+00:00",
-      "last_seen": "2026-10-29T00:01:28+00:00",
+      "last_seen": "2026-11-13T16:03:08+00:00",
       "location": "Toronto, ON, Canada",
       "posted_at": "1789430400",
       "source": "simplify",
@@ -24566,6 +24566,7 @@
     "simplify:edgewater it::simplify-2d577c12-94df-4e2a-bc76-56cbcdcf573a": {
       "company": "Edgewater IT",
       "first_seen": "2026-08-05T22:37:23+00:00",
+      "last_seen": "2026-11-13T16:03:08+00:00",
       "posted_at": "1785967912",
       "title": "Application Developer 1",
       "url": "https://careers-edgewaterit.icims.com/jobs/4760/job?mobile=true&needsRedirect=false"
@@ -49804,6 +49805,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798"
+    },
+    "simplify:q2::simplify-e83b2b8a-4be2-4964-85be-319d2e951209": {
+      "company": "Q2",
+      "first_seen": "2026-11-13T16:03:08+00:00",
+      "last_seen": "2026-11-13T16:03:08+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1794528000",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12953"
     },
     "simplify:qorvo::simplify-056e0096-9f6b-4c3a-844f-cd627807e7f6": {
       "company": "Qorvo",
@@ -85471,5 +85482,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T15:33:19+00:00"
+  "updated_at": "2026-11-13T16:03:22+00:00"
 }
