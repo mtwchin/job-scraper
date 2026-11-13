@@ -1,5 +1,5 @@
 {
-  "count": 9603,
+  "count": 9604,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -76010,6 +76010,16 @@
       "title": "Cloud Software Engineering Intern",
       "url": "https://uscareers-idemia.icims.com/jobs/8707/cloud-software-engineering-internship/job"
     },
+    "vanshb03:idemia north america::vanshb03-e58c30ca-2da0-46be-87ac-12390f19fb10": {
+      "company": "IDEMIA North America",
+      "first_seen": "2026-11-13T20:42:25+00:00",
+      "last_seen": "2026-11-13T20:42:25+00:00",
+      "location": "Eden Prairie, MN",
+      "posted_at": "1794602251",
+      "source": "vanshb03",
+      "title": "Full Stack Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1z9"
+    },
     "vanshb03:idemia::vanshb03-45e00c75-26c7-4bd1-9d26-27af2fd8e1f4": {
       "company": "IDEMIA",
       "first_seen": "2026-11-07T13:15:39+00:00",
@@ -85554,5 +85564,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T20:12:42+00:00"
+  "updated_at": "2026-11-13T20:42:44+00:00"
 }
