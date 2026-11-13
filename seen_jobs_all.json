@@ -1,5 +1,5 @@
 {
-  "count": 9606,
+  "count": 9607,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71754,6 +71754,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/93"
     },
+    "vanshb03:aurora innovation::vanshb03-572e208d-9a2e-4e34-ad0e-713d727a8680": {
+      "company": "Aurora Innovation",
+      "first_seen": "2026-11-13T22:42:25+00:00",
+      "last_seen": "2026-11-13T22:42:25+00:00",
+      "location": "Bozeman, MT",
+      "posted_at": "1790893478",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer Intern, Lidar",
+      "url": "https://go.vansh.nyc/1zg"
+    },
     "vanshb03:aurora innovation::vanshb03-58733930-a2d2-45da-a177-7fc8f45219f5": {
       "company": "Aurora Innovation",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -85584,5 +85594,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T22:12:51+00:00"
+  "updated_at": "2026-11-13T22:42:55+00:00"
 }
