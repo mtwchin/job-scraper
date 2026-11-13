@@ -1459,6 +1459,15 @@
       "title": "Frontend Software Engineer Intern - Summer 2027",
       "url": "https://jobs.ashbyhq.com/skydio/89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd"
     },
+    "vanshb03:activision blizzard::vanshb03-fb45af46-5f92-486c-898a-99f8ce300988": {
+      "attempted_at": "2026-11-13T23:46:16+00:00",
+      "company": "Activision Blizzard",
+      "location": "United States",
+      "posted_at": "1794613235",
+      "source": "vanshb03",
+      "title": "Game Systems Engineering Intern",
+      "url": "https://go.vansh.nyc/1zl"
+    },
     "vanshb03:aerospace::vanshb03-31c7eb71-7a6a-41e8-8b27-2c390d478ed9": {
       "attempted_at": "2026-10-29T17:42:31+00:00",
       "company": "Aerospace",
@@ -85728,5 +85737,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T23:33:54+00:00"
+  "updated_at": "2026-11-13T23:46:57+00:00"
 }
