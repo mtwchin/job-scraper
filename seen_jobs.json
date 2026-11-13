@@ -849,7 +849,9 @@
     }
   },
   "delivery_rejections": {},
-  "health_reported": [],
+  "health_reported": [
+    "Apple"
+  ],
   "jobs": {
     "abnormal security::7814567003": {
       "company": "Abnormal Security",
@@ -67953,5 +67955,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T00:13:25+00:00"
+  "updated_at": "2026-11-13T02:35:30+00:00"
 }
