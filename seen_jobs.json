@@ -850,7 +850,8 @@
   },
   "delivery_rejections": {},
   "health_reported": [
-    "Nvidia"
+    "Nvidia",
+    "Red Hat"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -67995,5 +67996,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T21:51:19+00:00"
+  "updated_at": "2026-11-13T22:25:22+00:00"
 }
