@@ -1,5 +1,5 @@
 {
-  "count": 9607,
+  "count": 9608,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -50737,6 +50737,18 @@
       "title": "Forward Deployed Engineer",
       "url": "https://apply.workable.com/raydar/j/3D1A5526C8/apply"
     },
+    "simplify:raydar::simplify-ed53caa1-ded9-414a-9867-67d067689f25": {
+      "company": "Raydar",
+      "duplicate_of": "simplify:raydar::simplify-a258eec4-7137-4d4b-b446-f390e0c33826",
+      "first_seen": "2026-11-13T23:03:16+00:00",
+      "last_seen": "2026-11-13T23:03:16+00:00",
+      "location": "SF",
+      "posted_at": "1793312988",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Founding Software Engineer",
+      "url": "https://apply.workable.com/raydar/j/61ED3CA042/apply"
+    },
     "simplify:raymond james financial::simplify-ed410248-773f-43a3-a1dd-3157708a9b23": {
       "company": "Raymond James Financial",
       "first_seen": "2026-08-24T16:58:49+00:00",
@@ -85594,5 +85606,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T22:48:44+00:00"
+  "updated_at": "2026-11-13T23:03:47+00:00"
 }
