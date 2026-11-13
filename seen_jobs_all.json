@@ -1,5 +1,5 @@
 {
-  "count": 9591,
+  "count": 9594,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -44177,6 +44177,16 @@
       "title": "Engineer / Principal Software Engineer - Cloud & Applications",
       "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Engineer---Principal-Engineer-Software---Cloud---Applications_R10237199"
     },
+    "simplify:northrop grumman::simplify-13e19999-69ce-4245-a0f6-9b5b7fd62382": {
+      "company": "Northrop Grumman",
+      "first_seen": "2026-11-13T15:32:08+00:00",
+      "last_seen": "2026-11-13T15:32:08+00:00",
+      "location": "McClellan Park, CA",
+      "posted_at": "1794528000",
+      "source": "simplify",
+      "title": "Associate Software Engineer",
+      "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423"
+    },
     "simplify:northrop grumman::simplify-1461f1f6-683f-4743-a11d-5779aebc0f59": {
       "company": "Northrop Grumman",
       "duplicate_of": "simplify:northrop grumman::simplify-fe413853-4493-4bf0-a4af-5723d1b9fdbc",
@@ -48263,6 +48273,16 @@
       "posted_at": "1772233846",
       "title": "Cloud Software Engineer 1",
       "url": "https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:peraton::simplify-b9d84af2-efb4-477c-b75e-0b43d90c6cdf": {
+      "company": "Peraton",
+      "first_seen": "2026-11-13T15:32:08+00:00",
+      "last_seen": "2026-11-13T15:32:08+00:00",
+      "location": "Columbus, OH",
+      "posted_at": "1794528000",
+      "source": "simplify",
+      "title": "Full Stack Engineer",
+      "url": "https://careers-peraton.icims.com/jobs/173596/job?mobile=true&needsRedirect=false"
     },
     "simplify:peraton::simplify-beffc9df-d33a-4e8c-bd21-8ac5229e3ab7": {
       "company": "Peraton",
@@ -62749,6 +62769,16 @@
       "source": "simplify",
       "title": "Associate Developer",
       "url": "https://www.thoughtworks.com/careers/jobs/8333236?gh_jid=8333236"
+    },
+    "simplify:thoughtworks::simplify-c467ce94-cbcc-46f7-9a47-5673ae132895": {
+      "company": "Thoughtworks",
+      "first_seen": "2026-11-13T15:32:08+00:00",
+      "last_seen": "2026-11-13T15:32:08+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1793232000",
+      "source": "simplify",
+      "title": "Graduate Developer",
+      "url": "https://jobs.ashbyhq.com/c898d712-c4ab-4157-954a-5df226a781e2/aff64320-4e2f-41b5-bbdf-7aed82751dd0/application?embed=true"
     },
     "simplify:thrivent::simplify-61b9a212-f545-496c-b822-3bae971775e3": {
       "company": "Thrivent",
@@ -85431,5 +85461,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T15:12:14+00:00"
+  "updated_at": "2026-11-13T15:32:17+00:00"
 }
