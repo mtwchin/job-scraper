@@ -1,5 +1,5 @@
 {
-  "count": 9596,
+  "count": 9598,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -73095,6 +73095,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/1ch"
     },
+    "vanshb03:canadian tire corporation, limited::vanshb03-1b5b80dc-0b90-413e-b55f-31472cfbb06b": {
+      "company": "Canadian Tire Corporation, Limited",
+      "first_seen": "2026-11-13T18:46:25+00:00",
+      "last_seen": "2026-11-13T18:46:25+00:00",
+      "location": "Mississauga, Canada",
+      "posted_at": "1794595014",
+      "source": "vanshb03",
+      "title": "Programmer Analyst Intern",
+      "url": "https://go.vansh.nyc/1yQ"
+    },
     "vanshb03:candid health::vanshb03-f3a926fc-88b6-4708-8a69-ebfa8a7b3392": {
       "company": "Candid Health",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -77341,6 +77351,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Software Engineering",
       "url": "https://go.vansh.nyc/Cj"
+    },
+    "vanshb03:manulife financial::vanshb03-6bb5d202-72c3-4433-af30-535b92508802": {
+      "company": "Manulife Financial",
+      "first_seen": "2026-11-13T18:46:25+00:00",
+      "last_seen": "2026-11-13T18:46:25+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1794595014",
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/1yR"
     },
     "vanshb03:mastercard::vanshb03-2b64a7c3-2798-4646-8e75-76a20fdd2b3d": {
       "company": "Mastercard",
@@ -85482,5 +85502,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T18:12:27+00:00"
+  "updated_at": "2026-11-13T18:46:31+00:00"
 }
