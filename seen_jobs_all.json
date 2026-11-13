@@ -1,5 +1,5 @@
 {
-  "count": 9574,
+  "count": 9582,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -32382,6 +32382,86 @@
       "posted_at": "1771898982",
       "title": "Python Developer",
       "url": "https://jobs.smartrecruiters.com/HSSSoft/99156168"
+    },
+    "simplify:huawei::simplify-326351dd-6d13-457e-90d4-f2bda553dbde": {
+      "company": "Huawei",
+      "first_seen": "2026-11-13T03:02:35+00:00",
+      "last_seen": "2026-11-13T03:02:35+00:00",
+      "location": "Markham, ON, Canada",
+      "posted_at": "1778270810",
+      "source": "simplify",
+      "title": "Engineer-Mobile AI Co-op",
+      "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-mobile-ai"
+    },
+    "simplify:huawei::simplify-58ca9177-7b2c-4472-8fe2-05c124cca7dd": {
+      "company": "Huawei",
+      "first_seen": "2026-11-13T03:02:35+00:00",
+      "last_seen": "2026-11-13T03:02:35+00:00",
+      "location": "Markham, ON, Canada",
+      "posted_at": "1788550327",
+      "source": "simplify",
+      "title": "Researcher Intern - Multimodal AI & Interaction",
+      "url": "https://huaweicanada.recruitee.com/o/intern-researcher-multimodal-ai-interaction"
+    },
+    "simplify:huawei::simplify-5e9eca7f-524c-44e5-85c0-cb5bbe2163f3": {
+      "company": "Huawei",
+      "first_seen": "2026-11-13T03:02:35+00:00",
+      "last_seen": "2026-11-13T03:02:35+00:00",
+      "location": "Markham, ON, Canada",
+      "posted_at": "1781728922",
+      "source": "simplify",
+      "title": "Software Engineer Co-op - AI Software Engineering",
+      "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-ai-software-engineering"
+    },
+    "simplify:huawei::simplify-775dd1f4-1211-4500-9c9e-8e8a47553158": {
+      "company": "Huawei",
+      "first_seen": "2026-11-13T03:02:35+00:00",
+      "last_seen": "2026-11-13T03:02:35+00:00",
+      "location": "Edmonton, AB, Canada",
+      "posted_at": "1780504219",
+      "source": "simplify",
+      "title": "Intern Engineer - Game Engine System",
+      "url": "https://huaweicanada.recruitee.com/o/intern-engineer-game-engine-system"
+    },
+    "simplify:huawei::simplify-98b99dd7-cba9-4350-be70-6983b108701f": {
+      "company": "Huawei",
+      "first_seen": "2026-11-13T03:02:35+00:00",
+      "last_seen": "2026-11-13T03:02:35+00:00",
+      "location": "Markham, ON, Canada",
+      "posted_at": "1783953981",
+      "source": "simplify",
+      "title": "Engineer Distributed Agent System Co-op",
+      "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-distributed-agent-system-1"
+    },
+    "simplify:huawei::simplify-b5e0adf9-5977-4432-ae4d-aa1803b66414": {
+      "company": "Huawei",
+      "first_seen": "2026-11-13T03:02:35+00:00",
+      "last_seen": "2026-11-13T03:02:35+00:00",
+      "location": "Markham, ON, Canada",
+      "posted_at": "1785932833",
+      "source": "simplify",
+      "title": "Engineer Co-op - Openjiuwen AI Agent Platform",
+      "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-openjiuwen-ai-agent-platform"
+    },
+    "simplify:huawei::simplify-f285604b-c7e7-4333-9901-870a103aaca1": {
+      "company": "Huawei",
+      "first_seen": "2026-11-13T03:02:35+00:00",
+      "last_seen": "2026-11-13T03:02:35+00:00",
+      "location": "Ottawa, ON, Canada",
+      "posted_at": "1785854802",
+      "source": "simplify",
+      "title": "Engineer Co-op - Intelligent Real-Time Operating System",
+      "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-intelligent-real-time-operating-system"
+    },
+    "simplify:huawei::simplify-ff35d928-bda9-4876-80f6-102b8df3d1e4": {
+      "company": "Huawei",
+      "first_seen": "2026-11-13T03:02:35+00:00",
+      "last_seen": "2026-11-13T03:02:35+00:00",
+      "location": "Markham, ON, Canada",
+      "posted_at": "1781539148",
+      "source": "simplify",
+      "title": "Engineer Co-op - Compiler",
+      "url": "https://huaweicanada.recruitee.com/o/co-op-engineer-compiler-7"
     },
     "simplify:hub international::simplify-2930e1fb-2b4f-4e11-885f-44f806cb97cb": {
       "company": "HUB International",
@@ -85261,5 +85341,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T02:32:38+00:00"
+  "updated_at": "2026-11-13T03:02:42+00:00"
 }
