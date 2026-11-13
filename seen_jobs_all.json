@@ -1,5 +1,5 @@
 {
-  "count": 9604,
+  "count": 9605,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -80678,6 +80678,16 @@
       "title": "Embedded Software Engineer I",
       "url": "https://go.vansh.nyc/VA"
     },
+    "vanshb03:rtx::vanshb03-a73403c0-30ce-4961-9980-73cb517b313f": {
+      "company": "RTX",
+      "first_seen": "2026-11-13T21:42:25+00:00",
+      "last_seen": "2026-11-13T21:42:25+00:00",
+      "location": "Richardson, TX",
+      "posted_at": "1794604797",
+      "source": "vanshb03",
+      "title": "Software Engineering Co-op",
+      "url": "https://go.vansh.nyc/1zb"
+    },
     "vanshb03:rtx::vanshb03-aa3767fb-f5f0-41c7-b500-3bd4c16ad62e": {
       "company": "RTX",
       "first_seen": "2026-10-26T08:51:05+00:00",
@@ -85564,5 +85574,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T20:42:44+00:00"
+  "updated_at": "2026-11-13T21:42:48+00:00"
 }
