@@ -1,5 +1,5 @@
 {
-  "count": 7977,
+  "count": 7979,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -47039,6 +47039,16 @@
       "title": "Software Engineering Intern",
       "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091"
     },
+    "simplify:samsung::simplify-710b4782-710d-4d0d-b636-26fef8fa8649": {
+      "company": "Samsung",
+      "first_seen": "2026-11-13T08:02:16+00:00",
+      "last_seen": "2026-11-13T08:02:16+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1794551014",
+      "source": "simplify",
+      "title": "Compiler Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003"
+    },
     "simplify:sandhills global::simplify-1560cb5a-5cc1-4788-aa55-44b8c25b2336": {
       "company": "Sandhills Global",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -47799,6 +47809,16 @@
       "source": "simplify",
       "title": "Engineer 2 New Grad - Software - Perception",
       "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true"
+    },
+    "simplify:shield ai::simplify-8b086459-985c-4225-b509-facb2dce5e94": {
+      "company": "Shield AI",
+      "first_seen": "2026-11-13T08:02:16+00:00",
+      "last_seen": "2026-11-13T08:02:16+00:00",
+      "location": "Washington, DC",
+      "posted_at": "1794528000",
+      "source": "simplify",
+      "title": "Software Engineer 1 New Grad",
+      "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true"
     },
     "simplify:shield ai::simplify-9c20706d-1c36-49c7-a6d2-07c92520bf94": {
       "company": "Shield AI",
@@ -67953,5 +67973,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T03:05:33+00:00"
+  "updated_at": "2026-11-13T08:03:01+00:00"
 }
