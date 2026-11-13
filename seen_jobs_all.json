@@ -1,5 +1,5 @@
 {
-  "count": 9602,
+  "count": 9603,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -74697,6 +74697,16 @@
       "title": "Software Engineering Co-op",
       "url": "https://entrust.wd1.myworkdayjobs.com/en-US/entrustcareers/job/United-States---Shakopee-MN-GHQ/Software-Engineering-Co-op_R004425"
     },
+    "vanshb03:envita solutions::vanshb03-6902b812-f453-463f-90a1-2a58068262bf": {
+      "company": "Envita Solutions",
+      "first_seen": "2026-11-13T20:12:25+00:00",
+      "last_seen": "2026-11-13T20:12:25+00:00",
+      "location": "Indianapolis, IN",
+      "posted_at": "1794600434",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Applied AI",
+      "url": "https://go.vansh.nyc/1z7"
+    },
     "vanshb03:epic games::vanshb03-6ad34b8c-97ef-49cf-8230-cc2fd4d26258": {
       "company": "Epic Games",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -85544,5 +85554,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T19:45:39+00:00"
+  "updated_at": "2026-11-13T20:12:42+00:00"
 }
