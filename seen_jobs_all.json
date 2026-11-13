@@ -1,5 +1,5 @@
 {
-  "count": 9570,
+  "count": 9572,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -70226,6 +70226,16 @@
       "title": "Software Engineer Intern, Machine Learning",
       "url": "https://go.vansh.nyc/1nR"
     },
+    "vanshb03:affirm::vanshb03-70b6e1f1-7456-4126-b5e4-570ef3247da9": {
+      "company": "Affirm",
+      "first_seen": "2026-11-13T00:12:32+00:00",
+      "last_seen": "2026-11-13T00:12:32+00:00",
+      "location": "Remote, Canada",
+      "posted_at": "1794525357",
+      "source": "vanshb03",
+      "title": "Software Engineer 1, Backend, Continuous Delivery",
+      "url": "https://go.vansh.nyc/1yc"
+    },
     "vanshb03:affirm::vanshb03-81196d38-84cd-4243-95d9-89a75b0f4a40": {
       "company": "Affirm",
       "duplicate_of": "vanshb03:affirm::vanshb03-1e3c4ba5-87e3-49f3-930d-ef1f99d25691",
@@ -80255,6 +80265,18 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/1sg"
     },
+    "vanshb03:rtx::vanshb03-43745b8d-0e85-4f00-b58c-71b5dcb8ffb5": {
+      "company": "RTX",
+      "duplicate_of": "vanshb03:rtx::vanshb03-bd59d805-af2f-4380-afd5-2a2900bf852a",
+      "first_seen": "2026-11-13T00:42:12+00:00",
+      "last_seen": "2026-11-13T00:42:12+00:00",
+      "location": "Melbourne, FL",
+      "posted_at": "1794529372",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1yk"
+    },
     "vanshb03:rtx::vanshb03-44ecec59-f0a0-4e6a-9c1e-3c1c49902fba": {
       "company": "RTX",
       "duplicate_of": "simplify:rtx::simplify-09d77bd3-845b-4ffb-bc37-c77d9ed70dd6",
@@ -85219,5 +85241,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-13T00:03:41+00:00"
+  "updated_at": "2026-11-13T00:42:45+00:00"
 }
