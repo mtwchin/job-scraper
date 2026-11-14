@@ -1477,6 +1477,15 @@
       "title": "Software Engineer I, Middleware",
       "url": "https://go.vansh.nyc/Za"
     },
+    "vanshb03:aerospace::vanshb03-e8d1690c-7154-48e4-944a-b11c5a40d67e": {
+      "attempted_at": "2026-11-14T02:18:45+00:00",
+      "company": "Aerospace",
+      "location": "Phoenix, AZ",
+      "posted_at": "1794622505",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineer I - Flight Management System",
+      "url": "https://go.vansh.nyc/1zw"
+    },
     "vanshb03:allegion::vanshb03-34c528f8-854f-47f6-a542-98288d7250d4": {
       "attempted_at": "2026-10-28T12:39:17+00:00",
       "company": "Allegion",
@@ -85881,5 +85890,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-14T01:14:14+00:00"
+  "updated_at": "2026-11-14T02:19:19+00:00"
 }
