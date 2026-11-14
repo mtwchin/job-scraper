@@ -1,5 +1,5 @@
 {
-  "count": 9635,
+  "count": 9637,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -85505,6 +85505,26 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/ZY"
     },
+    "vanshb03:zoox::vanshb03-50cfd082-a01c-412b-9307-ccb67e4c5f8a": {
+      "company": "Zoox",
+      "first_seen": "2026-11-14T03:33:24+00:00",
+      "last_seen": "2026-11-14T03:33:24+00:00",
+      "location": "Foster City, CA",
+      "posted_at": "1793932597",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Software Systems",
+      "url": "https://go.vansh.nyc/1jW"
+    },
+    "vanshb03:zoox::vanshb03-fe252f01-13cf-4442-a65c-d32b8fe94a3e": {
+      "company": "Zoox",
+      "first_seen": "2026-11-14T03:33:24+00:00",
+      "last_seen": "2026-11-14T03:33:24+00:00",
+      "location": "Foster City, CA",
+      "posted_at": "1793932595",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Software Platforms & Product",
+      "url": "https://go.vansh.nyc/1jV"
+    },
     "vanshb03:zotec partners::vanshb03-53b63a8c-522c-4074-9ed5-36c4f9a4cc1d": {
       "company": "Zotec Partners",
       "first_seen": "2026-11-11T22:40:56+00:00",
@@ -85920,5 +85940,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-14T03:12:23+00:00"
+  "updated_at": "2026-11-14T04:19:02+00:00"
 }
