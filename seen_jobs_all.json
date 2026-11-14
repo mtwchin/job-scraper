@@ -1,5 +1,5 @@
 {
-  "count": 9631,
+  "count": 9632,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -74406,6 +74406,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/1hq"
     },
+    "vanshb03:datavisor::vanshb03-c9cd9ec6-b9b3-4716-9921-287555fa2a7e": {
+      "company": "DataVisor",
+      "first_seen": "2026-11-14T01:13:45+00:00",
+      "last_seen": "2026-11-14T01:13:45+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1794618592",
+      "source": "vanshb03",
+      "title": "New Grad: Infrastructure Engineer",
+      "url": "https://go.vansh.nyc/1zv"
+    },
     "vanshb03:dayton freight lines::vanshb03-2d4f397b-bd4f-4200-b13f-9d8321eb8495": {
       "company": "Dayton Freight Lines",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -85871,5 +85881,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-14T01:12:11+00:00"
+  "updated_at": "2026-11-14T01:14:14+00:00"
 }
