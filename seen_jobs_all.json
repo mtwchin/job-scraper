@@ -1,5 +1,5 @@
 {
-  "count": 9649,
+  "count": 9650,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -24790,6 +24790,16 @@
       "posted_at": "1788253877",
       "title": "Computer Science Intern",
       "url": "https://apply.edisoncareers.com/job/Santa-Ana-2027-Summer-Internship-Computer-Science-(Santa-Ana)-CA-92705/1425158700/?ats=successfactors"
+    },
+    "simplify:edmentum::simplify-788e4fa2-855c-4290-a24e-47ddccdf7692": {
+      "company": "edmentum",
+      "first_seen": "2026-11-14T10:02:22+00:00",
+      "last_seen": "2026-11-14T10:02:22+00:00",
+      "location": "Bloomington, MN",
+      "posted_at": "1794429078",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://job-boards.greenhouse.io/edmentum/jobs/6255572004"
     },
     "simplify:egis group::simplify-f8a46b4e-7c6d-4626-8a8a-5b680d71b9d0": {
       "company": "Egis Group",
@@ -86066,5 +86076,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-14T09:49:20+00:00"
+  "updated_at": "2026-11-14T10:03:23+00:00"
 }
