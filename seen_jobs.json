@@ -1,5 +1,5 @@
 {
-  "count": 7983,
+  "count": 7984,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -35338,6 +35338,16 @@
       "title": "Software Engineer - PRISMA Research Fabric",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556937438"
     },
+    "simplify:microsoft::simplify-970abbb2-7906-4686-914b-09bd6d622dd5": {
+      "company": "Microsoft",
+      "first_seen": "2026-11-14T02:32:02+00:00",
+      "last_seen": "2026-11-14T02:32:02+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1794623047",
+      "source": "simplify",
+      "title": "Software Engineer - Microsoft Business Operations",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073410"
+    },
     "simplify:microsoft::simplify-97d2fcce-ce62-4964-b105-dbef913bdce6": {
       "company": "Microsoft",
       "first_seen": "2026-08-10T23:03:10+00:00",
@@ -68025,5 +68035,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-14T01:36:46+00:00"
+  "updated_at": "2026-11-14T02:32:49+00:00"
 }
