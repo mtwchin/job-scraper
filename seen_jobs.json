@@ -850,7 +850,6 @@
   },
   "delivery_rejections": {},
   "health_reported": [
-    "Blackrock",
     "Disney",
     "Intel",
     "Nvidia",
@@ -68050,5 +68049,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-14T15:35:45+00:00"
+  "updated_at": "2026-11-14T16:04:48+00:00"
 }
