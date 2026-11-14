@@ -1639,6 +1639,24 @@
       "title": "System Engineer Intern, HBM",
       "url": "https://go.vansh.nyc/1bI"
     },
+    "vanshb03:netapp::vanshb03-10f04304-2d16-4c81-a08b-7fd2714c8d5c": {
+      "attempted_at": "2026-11-14T01:11:16+00:00",
+      "company": "NetApp",
+      "location": "San Jose, CA",
+      "posted_at": "1794618364",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Cloud",
+      "url": "https://go.vansh.nyc/1zr"
+    },
+    "vanshb03:netapp::vanshb03-b0b4f421-1ea4-4e78-9207-507ac7a5d39c": {
+      "attempted_at": "2026-11-14T01:11:16+00:00",
+      "company": "NetApp",
+      "location": "San Jose, CA",
+      "posted_at": "1794618364",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Systems",
+      "url": "https://go.vansh.nyc/1zs"
+    },
     "vanshb03:netic::vanshb03-2fc9b171-627c-4768-b7e4-c207703abec8": {
       "attempted_at": "2026-10-27T01:31:03+00:00",
       "company": "Netic",
@@ -85853,5 +85871,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-14T00:14:07+00:00"
+  "updated_at": "2026-11-14T01:12:11+00:00"
 }
