@@ -1,5 +1,5 @@
 {
-  "count": 9659,
+  "count": 9660,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -81477,6 +81477,16 @@
       "title": "Software Development Intern",
       "url": "https://go.vansh.nyc/H3"
     },
+    "vanshb03:sas::vanshb03-aa0151db-14e4-48b2-b31e-250a3964aa1f": {
+      "company": "SAS",
+      "first_seen": "2026-11-14T17:15:40+00:00",
+      "last_seen": "2026-11-14T17:15:40+00:00",
+      "location": "Cary, NC",
+      "posted_at": "1794614400",
+      "source": "vanshb03",
+      "title": "Software Developer Intern, Go/Golang",
+      "url": "https://go.vansh.nyc/1zC"
+    },
     "vanshb03:scale ai::vanshb03-e2f24589-1208-4005-9f05-6ecdffd66536": {
       "company": "Scale AI",
       "first_seen": "2026-10-26T14:02:48+00:00",
@@ -86166,5 +86176,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-14T16:02:45+00:00"
+  "updated_at": "2026-11-14T17:15:49+00:00"
 }
