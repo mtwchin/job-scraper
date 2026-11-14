@@ -1,5 +1,5 @@
 {
-  "count": 9663,
+  "count": 9664,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -36067,6 +36067,16 @@
       "title": "Technology Intern - Technology LDP",
       "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Summer-Internship_R-095602"
     },
+    "simplify:johnson controls::simplify-45a2526c-381b-4e2e-95c9-cf132d4dea09": {
+      "company": "Johnson Controls",
+      "first_seen": "2026-11-14T23:32:02+00:00",
+      "last_seen": "2026-11-14T23:32:02+00:00",
+      "location": "Milwaukee, WI, Westford, MA, Glendale, WI",
+      "posted_at": "1794528000",
+      "source": "simplify",
+      "title": "Nextgen Software Engineer New Grad",
+      "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30279373-2"
+    },
     "simplify:johnson controls::simplify-749ce433-6dfe-47e5-a8f9-807c36272e57": {
       "company": "Johnson Controls",
       "first_seen": "2026-11-05T23:32:33+00:00",
@@ -66457,7 +66467,7 @@
     "simplify:usaa::simplify-59607dda-cef3-4eb4-8c26-edee74b6dd72": {
       "company": "USAA",
       "first_seen": "2026-09-10T00:38:47+00:00",
-      "last_seen": "2026-10-04T00:30:21+00:00",
+      "last_seen": "2026-11-14T23:32:01+00:00",
       "posted_at": "1788912000",
       "title": "Technology Intern",
       "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Technology-Intern_R0120133"
@@ -86206,5 +86216,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-14T21:16:03+00:00"
+  "updated_at": "2026-11-14T23:32:08+00:00"
 }
