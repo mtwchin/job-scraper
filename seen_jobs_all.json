@@ -1,5 +1,5 @@
 {
-  "count": 9632,
+  "count": 9635,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -41835,6 +41835,16 @@
       "title": "Software Engineer - PRISMA Research Fabric",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556937438"
     },
+    "simplify:microsoft::simplify-970abbb2-7906-4686-914b-09bd6d622dd5": {
+      "company": "Microsoft",
+      "first_seen": "2026-11-14T02:32:02+00:00",
+      "last_seen": "2026-11-14T02:32:02+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1794623047",
+      "source": "simplify",
+      "title": "Software Engineer - Microsoft Business Operations",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557073410"
+    },
     "simplify:microsoft::simplify-97d2fcce-ce62-4964-b105-dbef913bdce6": {
       "company": "Microsoft",
       "first_seen": "2026-08-10T23:03:10+00:00",
@@ -76943,6 +76953,26 @@
       "title": "Software Engineer 1",
       "url": "https://go.vansh.nyc/Nl"
     },
+    "vanshb03:kbr wyle services::vanshb03-017cf013-0df6-4a6a-badb-29a312b08edd": {
+      "company": "KBR Wyle Services",
+      "first_seen": "2026-11-14T03:11:45+00:00",
+      "last_seen": "2026-11-14T03:11:45+00:00",
+      "location": "Chantilly, VA, Ann Arbor, MI, Lexington, MA, Kihei, HI, Beavercreek, OH, Lexington Park, MD, King of Prussia, PA, Colorado Springs, CO, Huntsville, AL, El Segundo, CA, Orlando, FL",
+      "posted_at": "1794625575",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Defense & Intel (D&I)",
+      "url": "https://go.vansh.nyc/1zz"
+    },
+    "vanshb03:kbr wyle services::vanshb03-b6806496-971d-484b-91c7-eebe53494791": {
+      "company": "KBR Wyle Services",
+      "first_seen": "2026-11-14T03:11:45+00:00",
+      "last_seen": "2026-11-14T03:11:45+00:00",
+      "location": "Sioux Falls, SD",
+      "posted_at": "1794625575",
+      "source": "vanshb03",
+      "title": "Image Processing Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1zx"
+    },
     "vanshb03:keenfinity::vanshb03-159b415e-ba3b-4e1d-a4a7-9f0f019c50da": {
       "company": "Keenfinity",
       "first_seen": "2026-11-01T00:13:51+00:00",
@@ -85890,5 +85920,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-14T02:19:19+00:00"
+  "updated_at": "2026-11-14T03:12:23+00:00"
 }
