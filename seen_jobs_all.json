@@ -1,5 +1,5 @@
 {
-  "count": 9645,
+  "count": 9649,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6827,6 +6827,16 @@
       "title": "Software Engineering New Grad",
       "url": "https://accenture.pinpointhq.com/en/postings/c2cbc079-dce6-4033-88a2-79b1246cdf21?ats=pinpointhq"
     },
+    "simplify:accenture::simplify-268c0f47-1419-4ab7-9842-72c0ba322fa9": {
+      "company": "Accenture",
+      "first_seen": "2026-11-14T08:03:04+00:00",
+      "last_seen": "2026-11-14T08:03:04+00:00",
+      "location": "Glasgow, UK",
+      "posted_at": "1792764171",
+      "source": "simplify",
+      "title": "Technology Degree Apprentice",
+      "url": "https://accenture.pinpointhq.com/en/postings/fc130ed0-852f-4efa-afc5-780a10e88fb1?ats=pinpointhq"
+    },
     "simplify:accenture::simplify-2fae2ca8-33da-4c81-80c9-12c6ffc8737b": {
       "company": "Accenture",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -6921,6 +6931,16 @@
       "source": "simplify",
       "title": "Software Engineering New Grad",
       "url": "https://accenture.pinpointhq.com/en/postings/ace42afc-8144-49f7-84df-c9dbb66e352f?ats=pinpointhq"
+    },
+    "simplify:accenture::simplify-a876872e-f37a-4ea0-89a2-4186656af26f": {
+      "company": "Accenture",
+      "first_seen": "2026-11-14T08:03:04+00:00",
+      "last_seen": "2026-11-14T08:03:04+00:00",
+      "location": "Newcastle upon Tyne, UK",
+      "posted_at": "1792754026",
+      "source": "simplify",
+      "title": "Technology Software Engineer Apprentice",
+      "url": "https://accenture.pinpointhq.com/en/postings/97c7121d-21cf-4cfc-aed2-5f4b54e81368?ats=pinpointhq"
     },
     "simplify:accenture::simplify-b4e0bd04-a49e-4fe5-be6c-29ac1d93bff3": {
       "company": "Accenture",
@@ -18098,7 +18118,7 @@
     "simplify:capgemini::simplify-7ed33e96-4645-4b9d-8798-e6d7a35228a3": {
       "company": "Capgemini",
       "first_seen": "2026-10-15T09:32:12+00:00",
-      "last_seen": "2026-11-13T00:02:13+00:00",
+      "last_seen": "2026-11-14T08:03:04+00:00",
       "location": "Telford, UK",
       "posted_at": "1792056418",
       "source": "simplify",
@@ -18530,6 +18550,26 @@
       "source": "simplify",
       "title": "Technology Rotation Program",
       "url": "https://carmax.wd1.myworkdayjobs.com/External/job/Corporate---Richmond/Technology-Rotation-Program_JR-189585"
+    },
+    "simplify:carnegie mellon university::simplify-02e22e65-de2c-4f9c-961a-087373b3ff41": {
+      "company": "Carnegie Mellon University",
+      "first_seen": "2026-11-14T08:03:04+00:00",
+      "last_seen": "2026-11-14T08:03:04+00:00",
+      "location": "Pittsburgh, PA",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "Enabling Mission Capability at Scale Intern",
+      "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1"
+    },
+    "simplify:carnegie mellon university::simplify-05ac7813-4580-43e3-8ff6-8dcc716b7bc7": {
+      "company": "Carnegie Mellon University",
+      "first_seen": "2026-11-14T08:03:04+00:00",
+      "last_seen": "2026-11-14T08:03:04+00:00",
+      "location": "Pittsburgh, PA",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "Agentic Development Intern",
+      "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Agentic-Development-Intern_2025292-1"
     },
     "simplify:carrier global::simplify-2d3097e6-ff7f-44d6-8ce1-ef6cec8ec7e5": {
       "company": "Carrier Global",
@@ -47141,7 +47181,7 @@
     "simplify:paccar::simplify-ef31b232-5a78-40fe-9d4a-b2cca861468f": {
       "company": "Paccar",
       "first_seen": "2026-11-03T08:02:00+00:00",
-      "last_seen": "2026-11-04T00:02:20+00:00",
+      "last_seen": "2026-11-14T08:03:04+00:00",
       "location": "Denton, TX",
       "posted_at": "1793692077",
       "source": "simplify",
@@ -86026,5 +86066,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-14T08:02:10+00:00"
+  "updated_at": "2026-11-14T08:03:12+00:00"
 }
