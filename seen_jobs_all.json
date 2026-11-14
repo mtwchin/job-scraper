@@ -1,5 +1,5 @@
 {
-  "count": 9637,
+  "count": 9638,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -40776,6 +40776,16 @@
       "posted_at": "1788307200",
       "title": "Software Engineer Intern",
       "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-GA-Atlanta/Software-Engineer-Intern---Summer-2027_JR0153235"
+    },
+    "simplify:mcmaster-carr::simplify-049abd17-7f5b-4e36-9f8b-96b028fa0720": {
+      "company": "McMaster-Carr",
+      "first_seen": "2026-11-14T07:34:03+00:00",
+      "last_seen": "2026-11-14T07:34:03+00:00",
+      "location": "Elmhurst, IL",
+      "posted_at": "1792674033",
+      "source": "simplify",
+      "title": "Technology Developer - Development - Design",
+      "url": "https://job-boards.greenhouse.io/mcmaster-carr-systems/jobs/4463263009"
     },
     "simplify:mcmaster-carr::simplify-4600d580-8dad-49ce-93c7-89ae51839461": {
       "company": "McMaster-Carr",
@@ -85940,5 +85950,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-14T04:19:02+00:00"
+  "updated_at": "2026-11-14T07:34:07+00:00"
 }
