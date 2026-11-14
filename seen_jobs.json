@@ -888,7 +888,7 @@
     "adobe::XMLNAME-2027-Intern---Software-Engineer_R171666": {
       "company": "Adobe",
       "first_seen": "2026-09-03T16:42:58+00:00",
-      "last_seen": "2026-11-13T00:00:50+00:00",
+      "last_seen": "2026-11-14T15:35:05+00:00",
       "posted_at": "Posted Today",
       "title": "2027 Intern - Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666"
@@ -896,7 +896,7 @@
     "adobe::XMLNAME-2027-Intern--Software-Engineer_R173015": {
       "company": "Adobe",
       "first_seen": "2026-10-19T11:47:31+00:00",
-      "last_seen": "2026-11-13T00:00:50+00:00",
+      "last_seen": "2026-11-14T15:35:05+00:00",
       "location": "Basel",
       "posted_at": "Posted Today",
       "source": "",
@@ -907,7 +907,7 @@
       "company": "Adobe",
       "duplicate_of": "adobe::XMLNAME-2027-Intern--Software-Engineer_R173015",
       "first_seen": "2026-10-19T12:07:51+00:00",
-      "last_seen": "2026-11-13T00:00:50+00:00",
+      "last_seen": "2026-11-14T15:35:05+00:00",
       "location": "Bucharest",
       "posted_at": "Posted Today",
       "seeded": true,
@@ -919,7 +919,7 @@
       "company": "Adobe",
       "duplicate_of": "adobe::XMLNAME-2027-Intern--Software-Engineer_R173015",
       "first_seen": "2026-10-19T18:17:14+00:00",
-      "last_seen": "2026-11-13T00:00:50+00:00",
+      "last_seen": "2026-11-14T15:35:05+00:00",
       "location": "Yerevan",
       "posted_at": "Posted Today",
       "seeded": true,
@@ -940,7 +940,7 @@
     "adobe::XMLNAME-2027-University-Graduate---Software-Engineer_R172083": {
       "company": "Adobe",
       "first_seen": "2026-09-24T15:53:24+00:00",
-      "last_seen": "2026-11-13T00:00:50+00:00",
+      "last_seen": "2026-11-14T15:35:05+00:00",
       "location": "San Jose, San Francisco, Austin, Seattle, Lehi, New York",
       "posted_at": "Posted Today",
       "source": "",
@@ -68050,5 +68050,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-14T15:34:43+00:00"
+  "updated_at": "2026-11-14T15:35:45+00:00"
 }
