@@ -1,5 +1,5 @@
 {
-  "count": 9650,
+  "count": 9652,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -18767,6 +18767,16 @@
       "title": "Electrical Engineer Intern - Summer 2027",
       "url": "https://careers.cdmsmith.com/jobs/4398?icims=1"
     },
+    "simplify:cdphp::simplify-be00edcb-0605-494a-93b0-3872479dfe92": {
+      "company": "CDPHP",
+      "first_seen": "2026-11-14T15:31:41+00:00",
+      "last_seen": "2026-11-14T15:31:41+00:00",
+      "location": "Rochester, NY, De Witt, NY, Utica, NY, Albany, NY, Binghamton, NY, Buffalo, NY",
+      "posted_at": "1794441600",
+      "source": "simplify",
+      "title": "Software Engineer - ETL",
+      "url": "https://lthc.wd1.myworkdayjobs.com/CDPHPCareers/job/Rochester/Software-Engineer---ETL_JR104172"
+    },
     "simplify:celonis::simplify-8d9e3fac-74a7-4c48-9788-7e80245bc5fc": {
       "company": "Celonis",
       "first_seen": "2026-08-25T16:08:25+00:00",
@@ -19483,6 +19493,16 @@
       "posted_at": "1781343905",
       "title": "Enterprise Integration Developer",
       "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Baltimore/Enterprise-Integration-Developer_R030725"
+    },
+    "simplify:ciena::simplify-0e303eb4-b2a7-4b14-93a4-89b286202f08": {
+      "company": "Ciena",
+      "first_seen": "2026-11-14T15:32:41+00:00",
+      "last_seen": "2026-11-14T15:32:41+00:00",
+      "location": "Montreal, QC, Canada, Ottawa, ON, Canada",
+      "posted_at": "1794528000",
+      "source": "simplify",
+      "title": "Technical Solution Engineer Intern - SE&I",
+      "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114"
     },
     "simplify:ciena::simplify-18dc27db-b7e3-4011-8f62-be35525277f1": {
       "company": "Ciena",
@@ -86076,5 +86096,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-14T15:19:39+00:00"
+  "updated_at": "2026-11-14T15:32:41+00:00"
 }
