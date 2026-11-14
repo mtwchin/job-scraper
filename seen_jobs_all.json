@@ -1,5 +1,5 @@
 {
-  "count": 9638,
+  "count": 9645,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -6785,6 +6785,18 @@
       "title": "Technology Summer Analyst - Multiple Teams",
       "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chicago-Accenture-Tower-Corp/Technology-Summer-Analyst---Various-Locations---NAELFY27_R00355981"
     },
+    "simplify:accenture::simplify-1c6153b6-21de-4fdf-85d2-b7eab2023840": {
+      "company": "Accenture",
+      "duplicate_of": "simplify:accenture::simplify-4f8b6972-afef-4061-9793-31aa2c86495c",
+      "first_seen": "2026-11-14T08:02:04+00:00",
+      "last_seen": "2026-11-14T08:02:04+00:00",
+      "location": "Newcastle upon Tyne, UK",
+      "posted_at": "1790080414",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineering New Grad",
+      "url": "https://accenture.pinpointhq.com/en/postings/fff24465-85e4-4642-a888-8df902586f39?ats=pinpointhq"
+    },
     "simplify:accenture::simplify-20688eaf-1a51-4f19-8b7d-bfafc2497702": {
       "company": "Accenture",
       "first_seen": "2026-10-19T23:05:20+00:00",
@@ -6803,6 +6815,18 @@
       "title": "Associate Software Engineer - Pega",
       "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4711147006"
     },
+    "simplify:accenture::simplify-257cfc8d-99de-4c4a-96a1-d47f3117b265": {
+      "company": "Accenture",
+      "duplicate_of": "simplify:accenture::simplify-4f8b6972-afef-4061-9793-31aa2c86495c",
+      "first_seen": "2026-11-14T08:02:04+00:00",
+      "last_seen": "2026-11-14T08:02:04+00:00",
+      "location": "Manchester, UK",
+      "posted_at": "1790077985",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineering New Grad",
+      "url": "https://accenture.pinpointhq.com/en/postings/c2cbc079-dce6-4033-88a2-79b1246cdf21?ats=pinpointhq"
+    },
     "simplify:accenture::simplify-2fae2ca8-33da-4c81-80c9-12c6ffc8737b": {
       "company": "Accenture",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -6817,6 +6841,16 @@
       "posted_at": "1786601623",
       "title": "Entry Level SAP Development Associate",
       "url": "https://jobs.smartrecruiters.com/AccentureFederalServices/78366098"
+    },
+    "simplify:accenture::simplify-4f8b6972-afef-4061-9793-31aa2c86495c": {
+      "company": "Accenture",
+      "first_seen": "2026-11-14T08:02:04+00:00",
+      "last_seen": "2026-11-14T08:02:04+00:00",
+      "location": "Edinburgh, UK; Glasgow, UK; Manchester, UK; Newcastle upon Tyne, UK",
+      "posted_at": "1790078263",
+      "source": "simplify",
+      "title": "Software Engineering New Grad",
+      "url": "https://accenture.pinpointhq.com/en/postings/78aa2ac9-c644-40be-87d3-f2c3a9e06e64?ats=pinpointhq"
     },
     "simplify:accenture::simplify-5cec425a-d9fb-468b-97d1-d5006c0f5694": {
       "company": "Accenture",
@@ -6858,6 +6892,16 @@
       "title": "Technology Development Program - Applied Intelligence Analyst",
       "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/IL---Chicago/Technology-Development-Program--TDP----Applied-Intelligence-Analyst---NAELFY26_R00326732"
     },
+    "simplify:accenture::simplify-99faec69-36c3-45b0-b133-b5adf3e845f9": {
+      "company": "Accenture",
+      "first_seen": "2026-11-14T08:02:04+00:00",
+      "last_seen": "2026-11-14T08:02:04+00:00",
+      "location": "Birmingham, UK",
+      "posted_at": "1790078519",
+      "source": "simplify",
+      "title": "Software Engineering New Grad - Graduate Programme",
+      "url": "https://accenture.pinpointhq.com/en/postings/4c48dfbf-568a-42a6-b8b0-00283eceb049?ats=pinpointhq"
+    },
     "simplify:accenture::simplify-9a334ffd-3252-4f69-a5fc-d3e16083784e": {
       "company": "Accenture",
       "first_seen": "2026-09-01T22:35:56+00:00",
@@ -6865,6 +6909,38 @@
       "posted_at": "1788298375",
       "title": "Associate Software Engineer - Pega",
       "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006"
+    },
+    "simplify:accenture::simplify-a215785a-a17e-4d39-8508-4062629e0681": {
+      "company": "Accenture",
+      "duplicate_of": "simplify:accenture::simplify-4f8b6972-afef-4061-9793-31aa2c86495c",
+      "first_seen": "2026-11-14T08:02:04+00:00",
+      "last_seen": "2026-11-14T08:02:04+00:00",
+      "location": "Glasgow, UK",
+      "posted_at": "1790078373",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineering New Grad",
+      "url": "https://accenture.pinpointhq.com/en/postings/ace42afc-8144-49f7-84df-c9dbb66e352f?ats=pinpointhq"
+    },
+    "simplify:accenture::simplify-b4e0bd04-a49e-4fe5-be6c-29ac1d93bff3": {
+      "company": "Accenture",
+      "first_seen": "2026-11-14T08:02:04+00:00",
+      "last_seen": "2026-11-14T08:02:04+00:00",
+      "location": "Leeds, UK",
+      "posted_at": "1790072752",
+      "source": "simplify",
+      "title": "Software Engineering Graduate Program",
+      "url": "https://accenture.pinpointhq.com/en/postings/ea5476ed-b07b-4a24-b7c9-541881141de8?ats=pinpointhq"
+    },
+    "simplify:accenture::simplify-c039496a-1e56-45d6-a014-aba00cbbb349": {
+      "company": "Accenture",
+      "first_seen": "2026-11-14T08:02:04+00:00",
+      "last_seen": "2026-11-14T08:02:04+00:00",
+      "location": "Bristol, UK",
+      "posted_at": "1790078454",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://accenture.pinpointhq.com/en/postings/106b5cb5-20ea-4d22-8f92-c29c599f0dc6?ats=pinpointhq"
     },
     "simplify:accenture::simplify-c8d29e73-aa91-42fb-92af-482d6cdb70d4": {
       "company": "Accenture",
@@ -18039,7 +18115,7 @@
     "simplify:capgemini::simplify-9a142315-8459-43ef-a3a5-9025798c7a2d": {
       "company": "Capgemini",
       "first_seen": "2026-11-05T23:32:33+00:00",
-      "last_seen": "2026-11-13T00:02:13+00:00",
+      "last_seen": "2026-11-14T08:02:04+00:00",
       "location": "Philadelphia, PA",
       "posted_at": "1793920527",
       "source": "simplify",
@@ -18059,7 +18135,7 @@
     "simplify:capgemini::simplify-c67013f3-bb2d-4b62-9127-75264ad45442": {
       "company": "Capgemini",
       "first_seen": "2026-10-14T09:36:52+00:00",
-      "last_seen": "2026-11-13T00:02:13+00:00",
+      "last_seen": "2026-11-14T08:02:04+00:00",
       "location": "Nashville, TN, Chicago, IL, Bridgewater, NJ, NYC, Atlanta, GA",
       "posted_at": "1790029614",
       "source": "simplify",
@@ -18069,7 +18145,7 @@
     "simplify:capgemini::simplify-d99c1e84-901c-49a8-9b2b-7bf6f62850a1": {
       "company": "Capgemini",
       "first_seen": "2026-10-15T09:32:12+00:00",
-      "last_seen": "2026-11-13T00:02:13+00:00",
+      "last_seen": "2026-11-14T08:02:04+00:00",
       "location": "Telford, UK, Hove, Brighton and Hove, UK",
       "posted_at": "1792056417",
       "source": "simplify",
@@ -85950,5 +86026,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-14T07:34:07+00:00"
+  "updated_at": "2026-11-14T08:02:10+00:00"
 }
