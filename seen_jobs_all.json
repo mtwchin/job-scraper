@@ -1,5 +1,5 @@
 {
-  "count": 9660,
+  "count": 9663,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -73981,6 +73981,16 @@
       "title": "Software Engineering Developer Intern",
       "url": "https://go.vansh.nyc/1be"
     },
+    "vanshb03:cintas::vanshb03-a0ba899c-7e15-4b02-8d1e-1b9ecca3f9fd": {
+      "company": "Cintas",
+      "first_seen": "2026-11-14T21:16:01+00:00",
+      "last_seen": "2026-11-14T21:16:01+00:00",
+      "location": "United States",
+      "posted_at": "1794537406",
+      "source": "vanshb03",
+      "title": "OT Software Engineer Intern, IT",
+      "url": "https://go.vansh.nyc/1zH"
+    },
     "vanshb03:circle::vanshb03-49a7d53a-eab0-4f53-827c-aa2b38c81596": {
       "company": "Circle",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -79575,6 +79585,16 @@
       "title": "Embedded Software Intern, Communications",
       "url": "https://go.vansh.nyc/122"
     },
+    "vanshb03:owl cyber defense::vanshb03-77cf25ba-f921-4df4-b968-7aee04dc38fa": {
+      "company": "Owl Cyber Defense",
+      "first_seen": "2026-11-14T21:16:01+00:00",
+      "last_seen": "2026-11-14T21:16:01+00:00",
+      "location": "Columbia, MD",
+      "posted_at": "1794601076",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1zK"
+    },
     "vanshb03:pace::vanshb03-8d941360-afbe-4fc7-b778-ac1d11545cb2": {
       "company": "Pace",
       "first_seen": "2026-11-03T22:13:20+00:00",
@@ -82211,6 +82231,16 @@
       "source": "vanshb03",
       "title": "Associate Software Engineer",
       "url": "https://jobs.smartrecruiters.com/SquareTrade1/744000045758179-associate-software-engineer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73"
+    },
+    "vanshb03:ssi shipconstructor::vanshb03-864ef071-56cc-431a-b5d8-d7805c5aed18": {
+      "company": "SSI ShipConstructor",
+      "first_seen": "2026-11-14T21:16:01+00:00",
+      "last_seen": "2026-11-14T21:16:01+00:00",
+      "location": "Victoria, Canada",
+      "posted_at": "1794562791",
+      "source": "vanshb03",
+      "title": "Software Developer Co-op",
+      "url": "https://go.vansh.nyc/1zJ"
     },
     "vanshb03:stanley black & decker::vanshb03-a91c1bea-5d10-45fe-9adf-a715a602eae1": {
       "company": "Stanley Black & Decker",
@@ -86176,5 +86206,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-14T20:50:00+00:00"
+  "updated_at": "2026-11-14T21:16:03+00:00"
 }
