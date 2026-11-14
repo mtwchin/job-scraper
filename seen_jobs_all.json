@@ -1,5 +1,5 @@
 {
-  "count": 9630,
+  "count": 9631,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -74158,6 +74158,16 @@
       "title": "Software Engineer I, C#/.NET",
       "url": "https://go.vansh.nyc/1oL"
     },
+    "vanshb03:cummins::vanshb03-f07e0447-01c5-4882-9f98-b9c4c8f835b9": {
+      "company": "Cummins",
+      "first_seen": "2026-11-14T00:13:45+00:00",
+      "last_seen": "2026-11-14T00:13:45+00:00",
+      "location": "Seymour, IN",
+      "posted_at": "1794612800",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Systems Engineer",
+      "url": "https://go.vansh.nyc/1zp"
+    },
     "vanshb03:cursor::vanshb03-5b8e4ad0-e54a-4c77-94c1-09f70c16e127": {
       "company": "Cursor",
       "first_seen": "2026-11-10T08:15:05+00:00",
@@ -85843,5 +85853,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-14T00:04:04+00:00"
+  "updated_at": "2026-11-14T00:14:07+00:00"
 }
