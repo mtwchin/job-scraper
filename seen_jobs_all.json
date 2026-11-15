@@ -1,5 +1,5 @@
 {
-  "count": 9673,
+  "count": 9674,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -18600,6 +18600,16 @@
       "source": "simplify",
       "title": "Agentic Development Intern",
       "url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Agentic-Development-Intern_2025292-1"
+    },
+    "simplify:carnegie mellon university::simplify-0e9dcc61-445c-45de-ab79-e854c16a9da2": {
+      "company": "Carnegie Mellon University",
+      "first_seen": "2026-11-15T16:03:56+00:00",
+      "last_seen": "2026-11-15T16:03:56+00:00",
+      "location": "Pittsburgh, PA",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "Research Assistant - Kenneth C. Griffin School of Computer Science - S3D",
+      "url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---Kenneth-C-Griffin-School-of-Computer-Science---S3D_2025318"
     },
     "simplify:carrier global::simplify-2d3097e6-ff7f-44d6-8ce1-ef6cec8ec7e5": {
       "company": "Carrier Global",
@@ -86306,5 +86316,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-15T15:32:58+00:00"
+  "updated_at": "2026-11-15T16:04:02+00:00"
 }
