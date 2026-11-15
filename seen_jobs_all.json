@@ -1,5 +1,5 @@
 {
-  "count": 9665,
+  "count": 9668,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -39066,6 +39066,26 @@
       "title": "Software Engineer New Grad - Risk Solutions Technology Graduate Program",
       "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--Alpharetta---January-_R117617"
     },
+    "simplify:liberty blume::simplify-2f1fbfff-cf0b-467f-b51c-776ec922737c": {
+      "company": "Liberty Blume",
+      "first_seen": "2026-11-15T07:32:20+00:00",
+      "last_seen": "2026-11-15T07:32:20+00:00",
+      "location": "Leeds, UK",
+      "posted_at": "1790812800",
+      "source": "simplify",
+      "title": "Technology Graduate",
+      "url": "https://libertyglobal.wd3.myworkdayjobs.com/Liberty_Global_Blume/job/Leeds/Technology-Graduate_REQ_00038717"
+    },
+    "simplify:liberty global::simplify-87cb6cd5-16c9-4506-9220-46fabfd14884": {
+      "company": "Liberty Global",
+      "first_seen": "2026-11-15T07:32:20+00:00",
+      "last_seen": "2026-11-15T07:32:20+00:00",
+      "location": "Leeds, UK",
+      "posted_at": "1790812800",
+      "source": "simplify",
+      "title": "Technology Graduate",
+      "url": "https://libertyglobal.wd3.myworkdayjobs.com/Liberty_Global_Careers/job/Leeds/Technology-Graduate_REQ_00038717-2"
+    },
     "simplify:liberty mutual canada::simplify-442f74df-bb53-4a98-b1d0-2513a5e31985": {
       "company": "Liberty Mutual Canada",
       "first_seen": "2026-10-13T14:32:45+00:00",
@@ -46090,6 +46110,16 @@
       "posted_at": "1782957642",
       "title": "PhD Research Intern - System Software and I/O Architecture",
       "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--System-Software-and-I-O-Architecture---Fall-2026_JR2019667"
+    },
+    "simplify:nvidia::simplify-07af461e-da0d-4062-b7f9-8b0eafd5795f": {
+      "company": "NVIDIA",
+      "first_seen": "2026-11-15T03:02:18+00:00",
+      "last_seen": "2026-11-15T03:02:18+00:00",
+      "location": "United States",
+      "posted_at": "1794614400",
+      "source": "simplify",
+      "title": "Deep Learning Framework Communications Engineer New Grad",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Framework-Communications-Engineer---New-College-Grad-2026_JR2026129-1"
     },
     "simplify:nvidia::simplify-0ac04b5c-cd94-4e69-b532-c62eb19b9fa9": {
       "company": "NVIDIA",
@@ -86226,5 +86256,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-15T02:20:18+00:00"
+  "updated_at": "2026-11-15T07:32:26+00:00"
 }
