@@ -1,5 +1,5 @@
 {
-  "count": 9675,
+  "count": 9676,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -76764,6 +76764,16 @@
       "title": "Associate Software Engineer",
       "url": "https://go.vansh.nyc/1gv"
     },
+    "vanshb03:ingalls shipbuilding::vanshb03-11e2ec03-8f65-4c19-b392-e9d523c3e8ef": {
+      "company": "Ingalls Shipbuilding",
+      "first_seen": "2026-11-15T21:19:11+00:00",
+      "last_seen": "2026-11-15T21:19:11+00:00",
+      "location": "Newport News, VA",
+      "posted_at": "1794698149",
+      "source": "vanshb03",
+      "title": "Software Development Engineer 1",
+      "url": "https://go.vansh.nyc/1A0"
+    },
     "vanshb03:inmar intelligence::vanshb03-c46e3294-ae74-4960-ad6a-e2c0566e5f76": {
       "company": "Inmar Intelligence",
       "first_seen": "2026-11-03T06:53:59+00:00",
@@ -86326,5 +86336,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-15T21:15:14+00:00"
+  "updated_at": "2026-11-15T21:19:16+00:00"
 }
