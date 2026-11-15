@@ -1,5 +1,5 @@
 {
-  "count": 9664,
+  "count": 9665,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -77128,6 +77128,16 @@
       "title": "Software Engineering Co-op",
       "url": "https://go.vansh.nyc/1cC"
     },
+    "vanshb03:johnson controls::vanshb03-0f6698b3-c1c3-4b84-8a15-e5345e5d2012": {
+      "company": "Johnson Controls",
+      "first_seen": "2026-11-15T01:19:03+00:00",
+      "last_seen": "2026-11-15T01:19:03+00:00",
+      "location": "Milwaukee, WI, Westford, MA, Glendale, WI",
+      "posted_at": "1794528000",
+      "source": "vanshb03",
+      "title": "New Grad: Nextgen Software Engineer",
+      "url": "https://go.vansh.nyc/1zN"
+    },
     "vanshb03:jpmorganchase::vanshb03-abc372f0-196d-4e3d-8879-4e7cb41d6bb7": {
       "company": "JPMorganChase",
       "first_seen": "2026-10-26T15:04:12+00:00",
@@ -86216,5 +86226,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-15T00:03:12+00:00"
+  "updated_at": "2026-11-15T01:19:16+00:00"
 }
