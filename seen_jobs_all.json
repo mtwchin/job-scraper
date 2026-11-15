@@ -1,5 +1,5 @@
 {
-  "count": 9671,
+  "count": 9673,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -14086,6 +14086,16 @@
       "posted_at": "1783375839",
       "title": "Frontend Web App Engineer - Frontend/Web App",
       "url": "https://jobs.ashbyhq.com/beaconai/c7c05f23-554c-4679-a34f-bfbd6e1de79c/application"
+    },
+    "simplify:beacon mobility::simplify-95e3d3ae-bbc6-4105-8ec0-dc66cc12a47e": {
+      "company": "Beacon Mobility",
+      "first_seen": "2026-11-15T11:32:39+00:00",
+      "last_seen": "2026-11-15T11:32:39+00:00",
+      "location": "Beacon, NY",
+      "posted_at": "1792627200",
+      "source": "simplify",
+      "title": "AI Innovation & Automation Analyst",
+      "url": "https://gobeacon.wd1.myworkdayjobs.com/beaconmobilitycareers/job/Beacon/AI-Innovation---Automation-Analyst--Fleet_REQ-2026-4555"
     },
     "simplify:beacon software::simplify-7d13d689-657d-404d-9463-284ccb89bd44": {
       "company": "Beacon Software",
@@ -43526,6 +43536,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009"
+    },
+    "simplify:ncr atleos::simplify-008cb674-f57a-4a6c-8865-05d831611eb9": {
+      "company": "NCR Atleos",
+      "first_seen": "2026-11-15T11:32:39+00:00",
+      "last_seen": "2026-11-15T11:32:39+00:00",
+      "location": "Dundee, UK",
+      "posted_at": "1791417600",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Software-Engineering-Internship_R1154942"
     },
     "simplify:ncr voyix::simplify-09c0d678-51ef-4e83-a6cd-30b5148869f4": {
       "company": "NCR Voyix",
@@ -86286,5 +86306,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-15T08:03:40+00:00"
+  "updated_at": "2026-11-15T11:32:47+00:00"
 }
