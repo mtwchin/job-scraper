@@ -1,5 +1,5 @@
 {
-  "count": 9674,
+  "count": 9675,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -80049,6 +80049,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/19e"
     },
+    "vanshb03:pason & iws career::vanshb03-0bf6e192-bd4b-4d84-b937-aa5b5d634f4c": {
+      "company": "Pason & IWS Career",
+      "first_seen": "2026-11-15T21:15:11+00:00",
+      "last_seen": "2026-11-15T21:15:11+00:00",
+      "location": "Calgary, Canada",
+      "posted_at": "1794630623",
+      "source": "vanshb03",
+      "title": "Software Developer Intern, Datahub",
+      "url": "https://go.vansh.nyc/1zT"
+    },
     "vanshb03:patreon::vanshb03-459ff52e-a09a-4b92-bd95-62d6a6c2b553": {
       "company": "Patreon",
       "first_seen": "2026-11-04T19:03:05+00:00",
@@ -86316,5 +86326,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-15T18:51:10+00:00"
+  "updated_at": "2026-11-15T21:15:14+00:00"
 }
