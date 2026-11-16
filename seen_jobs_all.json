@@ -1,5 +1,5 @@
 {
-  "count": 9691,
+  "count": 9692,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2841,6 +2841,16 @@
       "posted_at": "1785862113119",
       "title": "Software Engineer - Entry Level 2027",
       "url": "https://jobs.lever.co/belvederetrading/2f6480e5-7bf1-4c41-b3b5-3c7404d95b5f"
+    },
+    "blackrock::Applied-AI-Engineer--Software-Engineering---Associate_R267006": {
+      "company": "Blackrock",
+      "first_seen": "2026-11-16T21:27:47+00:00",
+      "last_seen": "2026-11-16T21:27:47+00:00",
+      "location": "NY7 - 50 Hudson Yards, New York",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Applied AI Engineer, Software Engineering \u2013 Associate",
+      "url": "https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/NY7---50-Hudson-Yards-New-York/Applied-AI-Engineer--Software-Engineering---Associate_R267006"
     },
     "blackrock::Associate--Frontend-Software-Engineer--React----SpiderRock-Advisors_R266836-1": {
       "company": "Blackrock",
@@ -86490,5 +86500,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T21:18:37+00:00"
+  "updated_at": "2026-11-16T22:22:45+00:00"
 }
