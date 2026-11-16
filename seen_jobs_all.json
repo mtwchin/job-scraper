@@ -1,5 +1,5 @@
 {
-  "count": 9677,
+  "count": 9678,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -81388,6 +81388,18 @@
       "title": "Control/Diagnostic Software Intern",
       "url": "https://go.vansh.nyc/1g8"
     },
+    "vanshb03:rtx::vanshb03-894a0678-d486-4483-aa2a-5d69969e1df2": {
+      "company": "RTX",
+      "duplicate_of": "vanshb03:rtx::vanshb03-bd59d805-af2f-4380-afd5-2a2900bf852a",
+      "first_seen": "2026-11-16T06:10:44+00:00",
+      "last_seen": "2026-11-16T06:10:44+00:00",
+      "location": "El Segundo, CA",
+      "posted_at": "1794807624",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1A3"
+    },
     "vanshb03:rtx::vanshb03-92a80325-0afd-4f33-9c06-b87732f97b84": {
       "company": "RTX",
       "duplicate_of": "vanshb03:rtx::vanshb03-fad43ccf-798d-4a0e-bc56-fc0f4506bec3",
@@ -86346,5 +86358,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T05:51:43+00:00"
+  "updated_at": "2026-11-16T06:10:46+00:00"
 }
