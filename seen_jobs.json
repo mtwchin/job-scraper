@@ -850,8 +850,7 @@
   },
   "delivery_rejections": {},
   "health_reported": [
-    "Capital One",
-    "Salesforce"
+    "Capital One"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -68066,5 +68065,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T04:57:38+00:00"
+  "updated_at": "2026-11-16T04:59:40+00:00"
 }
