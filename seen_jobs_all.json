@@ -1,5 +1,5 @@
 {
-  "count": 9692,
+  "count": 9695,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -4171,6 +4171,16 @@
       "title": "Software Engineer Intern (First Play)  - Summer 2027 (Mountain View, CA) ",
       "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000158394370"
     },
+    "linkedin::744000161930950": {
+      "company": "LinkedIn",
+      "first_seen": "2026-11-16T23:13:06+00:00",
+      "last_seen": "2026-11-16T23:13:06+00:00",
+      "location": "Mountain View, CA, us",
+      "posted_at": "2026-11-16T23:12:19.307Z",
+      "source": "",
+      "title": "Systems & Infrastructure Engineer Intern, Masters - Summer 2027 (Mountain View, CA)",
+      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000161930950"
+    },
     "lyft::8767534002": {
       "company": "Lyft",
       "first_seen": "2026-09-11T18:28:10+00:00",
@@ -6730,6 +6740,16 @@
       "posted_at": "1783980751",
       "title": "Software Engineer",
       "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace/application"
+    },
+    "simplify:absolics::simplify-3ba24240-cd53-48ec-bb4d-c4a7d232932b": {
+      "company": "Absolics",
+      "first_seen": "2026-11-16T23:31:47+00:00",
+      "last_seen": "2026-11-16T23:31:47+00:00",
+      "location": "Covington, GA",
+      "posted_at": "1794862328",
+      "source": "simplify",
+      "title": "Production Automation Engineer",
+      "url": "https://job-boards.greenhouse.io/absolicsinc/jobs/4509348009"
     },
     "simplify:absolute facility solutions::simplify-ee3acc1d-ec01-40a7-b496-7855fc2ae28d": {
       "company": "Absolute Facility Solutions",
@@ -40204,6 +40224,16 @@
       "posted_at": "1785632356",
       "title": "Associate Software Engineer",
       "url": "https://mantech.avature.net/en_US/careers/JobDetail/65051"
+    },
+    "simplify:mantech::simplify-ba5c5c84-8f73-4d59-9559-a55ddffd9c82": {
+      "company": "ManTech",
+      "first_seen": "2026-11-16T23:31:47+00:00",
+      "last_seen": "2026-11-16T23:31:47+00:00",
+      "location": "St Inigoes, MD",
+      "posted_at": "1794870956",
+      "source": "simplify",
+      "title": "Junior Software Developer",
+      "url": "https://mantech.avature.net/en_US/careers/JobDetail/67115"
     },
     "simplify:mantech::simplify-cb369351-882d-41be-9e85-42d3312f503a": {
       "company": "ManTech",
@@ -86500,5 +86530,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T22:22:45+00:00"
+  "updated_at": "2026-11-16T23:31:50+00:00"
 }
