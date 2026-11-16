@@ -1,5 +1,5 @@
 {
-  "count": 9681,
+  "count": 9682,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -9562,6 +9562,16 @@
       "posted_at": "1788310292",
       "title": "Software Engineer Intern - Enterprise Technology Services",
       "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012801"
+    },
+    "simplify:american express::simplify-1f5243e7-418c-45e0-a517-5603c9d3eae6": {
+      "company": "American Express",
+      "first_seen": "2026-11-16T15:32:06+00:00",
+      "last_seen": "2026-11-16T15:32:06+00:00",
+      "location": "Toronto, ON, Canada",
+      "posted_at": "1794841980",
+      "source": "simplify",
+      "title": "Campus Undergraduate Full-Time Engineer - Software Engineer 1",
+      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677"
     },
     "simplify:american express::simplify-275ffbf9-4e98-440f-92a7-a43740911ff4": {
       "company": "American Express",
@@ -86388,5 +86398,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T11:22:02+00:00"
+  "updated_at": "2026-11-16T15:32:10+00:00"
 }
