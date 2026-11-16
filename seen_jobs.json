@@ -855,11 +855,11 @@
     "Blue Origin",
     "Capital One",
     "Cisco",
-    "Disney",
     "Intel",
     "Nvidia",
     "Red Hat",
-    "Workday"
+    "Workday",
+    "Zoom"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -68126,5 +68126,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T23:18:24+00:00"
+  "updated_at": "2026-11-16T23:20:26+00:00"
 }
