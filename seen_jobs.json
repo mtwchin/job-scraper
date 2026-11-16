@@ -861,7 +861,8 @@
     "PayPal",
     "Red Hat",
     "Salesforce",
-    "Workday"
+    "Workday",
+    "Zoom"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -68118,5 +68119,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T21:33:37+00:00"
+  "updated_at": "2026-11-16T21:36:39+00:00"
 }
