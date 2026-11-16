@@ -1,5 +1,5 @@
 {
-  "count": 9688,
+  "count": 9689,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -22355,6 +22355,16 @@
       "posted_at": "1786342534",
       "title": "Product Engineer - Turbo Platform Product Engineering",
       "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434284"
+    },
+    "simplify:cummins::simplify-87499c78-5377-4d6c-8cf3-c001065b8238": {
+      "company": "Cummins",
+      "first_seen": "2026-11-16T18:02:28+00:00",
+      "last_seen": "2026-11-16T18:02:28+00:00",
+      "location": "Columbus, IN",
+      "posted_at": "1794354355",
+      "source": "simplify",
+      "title": "Electronic Systems Engineer - Software",
+      "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433871"
     },
     "simplify:cummins::simplify-8def6cd4-02f6-4045-9290-2e08f2f10b24": {
       "company": "Cummins",
@@ -86460,5 +86470,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T16:52:24+00:00"
+  "updated_at": "2026-11-16T18:03:28+00:00"
 }
