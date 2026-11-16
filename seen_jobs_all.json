@@ -1,5 +1,5 @@
 {
-  "count": 9687,
+  "count": 9688,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -81995,6 +81995,18 @@
       "title": "Software Engineering Intern",
       "url": "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856?ashby_jid=404bb82e-37f3-4a78-b0f3-12923a7c4856"
     },
+    "vanshb03:shopify::vanshb03-1d22db6f-f91c-43a7-9c93-0c5d73d1e995": {
+      "company": "Shopify",
+      "duplicate_of": "simplify:shopify::simplify-2308660d-6e87-4b5c-9008-376f4a467804",
+      "first_seen": "2026-11-16T16:11:37+00:00",
+      "last_seen": "2026-11-16T16:11:37+00:00",
+      "location": "Montreal, Canada, Toronto, Canada, Ottawa, Canada",
+      "posted_at": "1794843089",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1Ac"
+    },
     "vanshb03:shure::vanshb03-39089d25-8f19-48bd-bd54-d2e778febd74": {
       "company": "Shure",
       "first_seen": "2026-11-06T22:10:44+00:00",
@@ -86448,5 +86460,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T16:02:14+00:00"
+  "updated_at": "2026-11-16T16:52:24+00:00"
 }
