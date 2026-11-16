@@ -1,5 +1,5 @@
 {
-  "count": 9695,
+  "count": 9699,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -39347,7 +39347,7 @@
     "simplify:lightmatter::simplify-3ccd0b28-1c06-43f2-be85-1902e772f95b": {
       "company": "Lightmatter",
       "first_seen": "2026-11-12T23:33:15+00:00",
-      "last_seen": "2026-11-13T00:02:13+00:00",
+      "last_seen": "2026-11-16T23:32:47+00:00",
       "location": "Boston, MA",
       "posted_at": "1794522963",
       "source": "simplify",
@@ -50968,6 +50968,16 @@
       "title": "Quantum Computing Intern - Research & Development",
       "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5227710008"
     },
+    "simplify:quest analytics::simplify-2d118061-4df0-42b0-bb7c-a4062ea46dd1": {
+      "company": "Quest Analytics",
+      "first_seen": "2026-11-16T23:32:48+00:00",
+      "last_seen": "2026-11-16T23:32:48+00:00",
+      "location": "Overland Park, KS",
+      "posted_at": "1794871465",
+      "source": "simplify",
+      "title": "Software Engineer Intern - C# - ASP.NET",
+      "url": "https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply"
+    },
     "simplify:quince::simplify-37a68980-82f2-4c55-b307-c8baff3b2fb8": {
       "company": "Quince",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -56313,6 +56323,16 @@
       "title": "Software Developer Intern - Go/Golang Experience",
       "url": "https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false"
     },
+    "simplify:sas::simplify-c3097cfc-65e3-4288-81bb-b628a4d7683f": {
+      "company": "SAS",
+      "first_seen": "2026-11-16T23:32:48+00:00",
+      "last_seen": "2026-11-16T23:32:48+00:00",
+      "location": "Cary, NC",
+      "posted_at": "1794787200",
+      "source": "simplify",
+      "title": "Optimization Intern",
+      "url": "https://careers-sas.icims.com/jobs/42754/job?mobile=true&needsRedirect=false"
+    },
     "simplify:savannah river mission completion::simplify-35e05405-c3a2-4b74-a350-587930a5e2b3": {
       "company": "Savannah River Mission Completion",
       "first_seen": "2026-08-10T23:03:12+00:00",
@@ -59211,6 +59231,16 @@
       "posted_at": "1785190047",
       "title": "Drexel University Co-op: Software Engineering/Full stack development",
       "url": "https://careers-sri.icims.com/jobs/6432/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:sri international::simplify-5f58a0fb-d141-428a-9d07-2aaafd67354e": {
+      "company": "SRI International",
+      "first_seen": "2026-11-16T23:32:48+00:00",
+      "last_seen": "2026-11-16T23:32:48+00:00",
+      "location": "Princeton, NJ",
+      "posted_at": "1794787200",
+      "source": "simplify",
+      "title": "Software Engineering/Full Stack Development Co-op",
+      "url": "https://careers-sri.icims.com/jobs/6541/job?mobile=true&needsRedirect=false"
     },
     "simplify:sri international::simplify-6046a49d-ec99-4f69-9fdd-e3203016a911": {
       "company": "SRI International",
@@ -63833,6 +63863,16 @@
       "title": "Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer",
       "url": "https://lifeattiktok.com/search/7670738362521520437"
     },
+    "simplify:tiktok::simplify-411d0068-e3dc-4f32-ba5d-69e7b4649fb8": {
+      "company": "TikTok",
+      "first_seen": "2026-11-16T23:32:05+00:00",
+      "last_seen": "2026-11-16T23:32:05+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1794870538",
+      "source": "simplify",
+      "title": "Client Security & Data Foundation Machine Learning Engineer Intern",
+      "url": "https://lifeattiktok.com/search/7708750900450134325"
+    },
     "simplify:tiktok::simplify-42b0f3dc-9fe2-4f26-ac9b-eaaa21075017": {
       "company": "TikTok",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -66006,7 +66046,7 @@
     "simplify:tyler technologies::simplify-d6c24595-0dd3-449f-b0ae-d13e256fc740": {
       "company": "Tyler Technologies",
       "first_seen": "2026-09-22T03:24:56+00:00",
-      "last_seen": "2026-11-15T15:32:55+00:00",
+      "last_seen": "2026-11-16T23:32:47+00:00",
       "location": "Yarmouth, ME, Orono, ME, Falmouth, ME",
       "posted_at": "1790029561",
       "source": "simplify",
@@ -86530,5 +86570,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T23:31:50+00:00"
+  "updated_at": "2026-11-16T23:32:53+00:00"
 }
