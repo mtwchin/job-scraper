@@ -859,8 +859,7 @@
     "Nvidia",
     "Red Hat",
     "Salesforce",
-    "Workday",
-    "Zoom"
+    "Workday"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -2014,7 +2013,7 @@
     "brex::8936403002": {
       "company": "Brex",
       "first_seen": "2026-11-11T16:25:37+00:00",
-      "last_seen": "2026-11-12T00:01:27+00:00",
+      "last_seen": "2026-11-16T23:02:44+00:00",
       "location": "San Francisco, California, United States",
       "posted_at": "2026-11-11T11:23:25-05:00",
       "source": "",
@@ -68117,5 +68116,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T23:01:15+00:00"
+  "updated_at": "2026-11-16T23:03:17+00:00"
 }
