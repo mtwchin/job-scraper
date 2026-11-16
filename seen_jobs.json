@@ -1,5 +1,5 @@
 {
-  "count": 7988,
+  "count": 7990,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -42469,6 +42469,16 @@
       "title": "AI Software Core Software Engineer - AI Software Platform - Machine Learning Engineering",
       "url": "https://qualcomm.eightfold.ai/careers/job/446718120116"
     },
+    "simplify:qualcomm::simplify-9f33eb65-3c19-47fa-b0ca-d0101c113023": {
+      "company": "Qualcomm",
+      "first_seen": "2026-11-16T16:01:59+00:00",
+      "last_seen": "2026-11-16T16:01:59+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1794843361",
+      "source": "simplify",
+      "title": "GPU Compiler Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446722152489"
+    },
     "simplify:qualcomm::simplify-a5c09908-c437-4b31-badf-24f0d4accd96": {
       "company": "Qualcomm",
       "first_seen": "2026-10-29T22:32:03+00:00",
@@ -48002,6 +48012,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98/apply"
+    },
+    "simplify:shopify::simplify-2308660d-6e87-4b5c-9008-376f4a467804": {
+      "company": "Shopify",
+      "first_seen": "2026-11-16T16:01:59+00:00",
+      "last_seen": "2026-11-16T16:01:59+00:00",
+      "location": "Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada",
+      "posted_at": "1794843089",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a"
     },
     "simplify:shure::simplify-052aae75-1cb8-41e7-9062-f49eac2a2fd6": {
       "company": "Shure",
@@ -68078,5 +68098,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T14:01:58+00:00"
+  "updated_at": "2026-11-16T16:02:02+00:00"
 }
