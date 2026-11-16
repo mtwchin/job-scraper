@@ -857,8 +857,9 @@
     "Cisco",
     "Disney",
     "Intel",
-    "PayPal",
+    "Nvidia",
     "Red Hat",
+    "Salesforce",
     "Workday"
   ],
   "jobs": {
@@ -68116,5 +68117,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T22:37:08+00:00"
+  "updated_at": "2026-11-16T22:46:10+00:00"
 }
