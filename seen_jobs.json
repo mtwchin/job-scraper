@@ -1,5 +1,5 @@
 {
-  "count": 7990,
+  "count": 7991,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -65048,6 +65048,18 @@
       "title": "Software Engineering Intern",
       "url": "https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856?ashby_jid=404bb82e-37f3-4a78-b0f3-12923a7c4856"
     },
+    "vanshb03:shopify::vanshb03-1d22db6f-f91c-43a7-9c93-0c5d73d1e995": {
+      "company": "Shopify",
+      "duplicate_of": "simplify:shopify::simplify-2308660d-6e87-4b5c-9008-376f4a467804",
+      "first_seen": "2026-11-16T16:11:37+00:00",
+      "last_seen": "2026-11-16T16:11:37+00:00",
+      "location": "Montreal, Canada, Toronto, Canada, Ottawa, Canada",
+      "posted_at": "1794843089",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1Ac"
+    },
     "vanshb03:sierra::vanshb03-063c73ea-6a18-4cd0-b970-f55a4e5f5461": {
       "company": "Sierra",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -68098,5 +68110,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T16:02:02+00:00"
+  "updated_at": "2026-11-16T16:12:04+00:00"
 }
