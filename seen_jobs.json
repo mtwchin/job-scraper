@@ -861,7 +861,8 @@
     "Nvidia",
     "PayPal",
     "Red Hat",
-    "Workday"
+    "Workday",
+    "Zoom"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -68138,5 +68139,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T23:39:38+00:00"
+  "updated_at": "2026-11-16T23:41:40+00:00"
 }
