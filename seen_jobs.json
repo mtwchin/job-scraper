@@ -1,5 +1,5 @@
 {
-  "count": 7992,
+  "count": 7993,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -3146,6 +3146,16 @@
       "source": "",
       "title": "Software Engineer Intern (First Play)  - Summer 2027 (Mountain View, CA) ",
       "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000158394370"
+    },
+    "linkedin::744000161930950": {
+      "company": "LinkedIn",
+      "first_seen": "2026-11-16T23:13:06+00:00",
+      "last_seen": "2026-11-16T23:13:06+00:00",
+      "location": "Mountain View, CA, us",
+      "posted_at": "2026-11-16T23:12:19.307Z",
+      "source": "",
+      "title": "Systems & Infrastructure Engineer Intern, Masters - Summer 2027 (Mountain View, CA)",
+      "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000161930950"
     },
     "lyft::8767534002": {
       "company": "Lyft",
@@ -68115,5 +68125,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T23:11:21+00:00"
+  "updated_at": "2026-11-16T23:13:22+00:00"
 }
