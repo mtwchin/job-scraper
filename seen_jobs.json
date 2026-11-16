@@ -1,5 +1,5 @@
 {
-  "count": 7987,
+  "count": 7988,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -50228,6 +50228,16 @@
       "title": "Software Engineer New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8157838"
     },
+    "simplify:stripe::simplify-3f12b8ac-a406-4397-9458-ea07e6d144b3": {
+      "company": "Stripe",
+      "first_seen": "2026-11-16T02:01:48+00:00",
+      "last_seen": "2026-11-16T02:01:48+00:00",
+      "location": "Seattle, WA, SF, NYC",
+      "posted_at": "1789522300",
+      "source": "simplify",
+      "title": "Product Manager New Grad",
+      "url": "https://stripe.com/jobs/search?gh_jid=7737124"
+    },
     "simplify:stripe::simplify-7bce6045-fde1-44d3-b2cc-1f56ae0dec16": {
       "company": "Stripe",
       "first_seen": "2026-09-01T09:52:40+00:00",
@@ -68056,5 +68066,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T00:35:22+00:00"
+  "updated_at": "2026-11-16T02:02:26+00:00"
 }
