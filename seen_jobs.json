@@ -859,8 +859,7 @@
     "Intel",
     "Nvidia",
     "PayPal",
-    "Red Hat",
-    "Zoom"
+    "Red Hat"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -68127,5 +68126,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T23:26:32+00:00"
+  "updated_at": "2026-11-16T23:29:34+00:00"
 }
