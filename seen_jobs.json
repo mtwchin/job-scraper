@@ -858,6 +858,7 @@
     "Cisco",
     "Intel",
     "Nvidia",
+    "PayPal",
     "Red Hat",
     "Workday",
     "Zoom"
@@ -68127,5 +68128,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T23:22:28+00:00"
+  "updated_at": "2026-11-16T23:25:30+00:00"
 }
