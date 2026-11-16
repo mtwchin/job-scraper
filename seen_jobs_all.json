@@ -1,5 +1,5 @@
 {
-  "count": 9678,
+  "count": 9679,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -24870,6 +24870,16 @@
       "source": "simplify",
       "title": "Software Engineer 1",
       "url": "https://job-boards.greenhouse.io/edmentum/jobs/6255572004"
+    },
+    "simplify:edwards health care services::simplify-64a7d794-0649-4452-b5a6-a8339cd35893": {
+      "company": "Edwards Health Care Services",
+      "first_seen": "2026-11-16T08:02:46+00:00",
+      "last_seen": "2026-11-16T08:02:46+00:00",
+      "location": "Hudson, OH",
+      "posted_at": "1793738172",
+      "source": "simplify",
+      "title": "Programmer Analyst 3",
+      "url": "https://gemcorehealth.recruitee.com/o/programmer-analyst-iii-hybridonsite-position"
     },
     "simplify:egis group::simplify-f8a46b4e-7c6d-4626-8a8a-5b680d71b9d0": {
       "company": "Egis Group",
@@ -86358,5 +86368,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T06:10:46+00:00"
+  "updated_at": "2026-11-16T08:02:51+00:00"
 }
