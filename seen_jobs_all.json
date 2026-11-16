@@ -1,5 +1,5 @@
 {
-  "count": 9682,
+  "count": 9687,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -8551,6 +8551,16 @@
       "title": "Quartus Compiler Software Intern",
       "url": "https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Quartus-Compiler-Software---Intern_R03108"
     },
+    "simplify:altice usa::simplify-93a09d2c-4c6c-48b4-b6d9-ab0a27a3951d": {
+      "company": "Altice USA",
+      "first_seen": "2026-11-16T16:02:05+00:00",
+      "last_seen": "2026-11-16T16:02:05+00:00",
+      "location": "Bethpage, NY",
+      "posted_at": "1794843283",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://www.optimumcareers.com/job/Bethpage-Intern-Software-Developer-NY-11714/1450884000/?ats=successfactors"
+    },
     "simplify:altice usa::simplify-93f840b3-e735-4ee5-8cbb-e007eafb977f": {
       "company": "Altice USA",
       "first_seen": "2026-11-10T23:32:43+00:00",
@@ -8572,7 +8582,7 @@
     "simplify:altice usa::simplify-f60a9ca0-d42f-48f5-9643-b10749754e9e": {
       "company": "Altice USA",
       "first_seen": "2026-11-10T23:32:43+00:00",
-      "last_seen": "2026-11-11T00:02:43+00:00",
+      "last_seen": "2026-11-16T16:02:04+00:00",
       "location": "Bethpage, NY",
       "posted_at": "1794353015",
       "source": "simplify",
@@ -15767,6 +15777,26 @@
       "source": "simplify",
       "title": "Software Development Engineer Intern",
       "url": "https://bostonscientific.eightfold.ai/careers/job/563602813567960"
+    },
+    "simplify:boston scientific::simplify-ba118afe-7991-4a5a-87c7-f68325d9f99d": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-11-16T16:02:05+00:00",
+      "last_seen": "2026-11-16T16:02:05+00:00",
+      "location": "Marlborough, MA, Maple Grove, MN, Arden Hills, MN",
+      "posted_at": "1794844278",
+      "source": "simplify",
+      "title": "AI Engineer Intern - Generative & Agentic AI",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813827837"
+    },
+    "simplify:boston scientific::simplify-d48bdf87-b0ff-4edc-a9a5-5f5ecca2154c": {
+      "company": "Boston Scientific",
+      "first_seen": "2026-11-16T16:02:05+00:00",
+      "last_seen": "2026-11-16T16:02:05+00:00",
+      "location": "Marlborough, MA",
+      "posted_at": "1794844280",
+      "source": "simplify",
+      "title": "AI Acceleration Intern",
+      "url": "https://bostonscientific.eightfold.ai/careers/job/563602813862390"
     },
     "simplify:boston scientific::simplify-dba1e111-7c03-486c-ac67-456bd8a9e0a0": {
       "company": "Boston Scientific",
@@ -50678,6 +50708,16 @@
       "title": "AI Software Core Software Engineer - AI Software Platform - Machine Learning Engineering",
       "url": "https://qualcomm.eightfold.ai/careers/job/446718120116"
     },
+    "simplify:qualcomm::simplify-9f33eb65-3c19-47fa-b0ca-d0101c113023": {
+      "company": "Qualcomm",
+      "first_seen": "2026-11-16T16:01:59+00:00",
+      "last_seen": "2026-11-16T16:01:59+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1794843361",
+      "source": "simplify",
+      "title": "GPU Compiler Intern",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446722152489"
+    },
     "simplify:qualcomm::simplify-a5c09908-c437-4b31-badf-24f0d4accd96": {
       "company": "Qualcomm",
       "first_seen": "2026-10-29T22:32:03+00:00",
@@ -57168,6 +57208,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98/apply"
+    },
+    "simplify:shopify::simplify-2308660d-6e87-4b5c-9008-376f4a467804": {
+      "company": "Shopify",
+      "first_seen": "2026-11-16T16:01:59+00:00",
+      "last_seen": "2026-11-16T16:01:59+00:00",
+      "location": "Montreal, QC, Canada, Toronto, ON, Canada, Ottawa, ON, Canada",
+      "posted_at": "1794843089",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a"
     },
     "simplify:shopline::simplify-cc8216f4-5899-4120-a588-e19994b5c98a": {
       "company": "SHOPLINE",
@@ -86398,5 +86448,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T15:32:10+00:00"
+  "updated_at": "2026-11-16T16:02:14+00:00"
 }
