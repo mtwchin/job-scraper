@@ -1,5 +1,5 @@
 {
-  "count": 9679,
+  "count": 9681,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -33958,6 +33958,26 @@
       "posted_at": "1780478009",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/instead/jobs/7761472003"
+    },
+    "simplify:instil software ltd::simplify-30bd4dfd-b823-4a01-841f-76c3c17f0de1": {
+      "company": "Instil Software Ltd",
+      "first_seen": "2026-11-16T10:32:45+00:00",
+      "last_seen": "2026-11-16T10:32:45+00:00",
+      "location": "Belfast, UK",
+      "posted_at": "1794787200",
+      "source": "simplify",
+      "title": "Software Engineer Placement Intern",
+      "url": "https://jobs.ashbyhq.com/instil/b1be07e8-60de-432c-82ff-6ffb220ce563/application?embed=true"
+    },
+    "simplify:instil software ltd::simplify-37c952a4-d32a-4e2e-9508-0533dcc6735f": {
+      "company": "Instil Software Ltd",
+      "first_seen": "2026-11-16T10:32:45+00:00",
+      "last_seen": "2026-11-16T10:32:45+00:00",
+      "location": "Belfast, UK",
+      "posted_at": "1794787200",
+      "source": "simplify",
+      "title": "Graduate Agentic Software Engineer",
+      "url": "https://jobs.ashbyhq.com/instil/5d2b8cc5-1276-4993-a407-ed502cd79fc8/application?embed=true"
     },
     "simplify:intact::simplify-1f12c834-20d2-4074-b938-f4f23df36e31": {
       "company": "Intact",
@@ -86368,5 +86388,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T08:02:51+00:00"
+  "updated_at": "2026-11-16T10:32:56+00:00"
 }
