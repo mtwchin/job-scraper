@@ -1,5 +1,5 @@
 {
-  "count": 9689,
+  "count": 9691,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -71324,6 +71324,16 @@
       "title": "Software Systems Engineering Intern",
       "url": "https://go.vansh.nyc/Xv"
     },
+    "vanshb03:alphaone robotics::vanshb03-df09cecc-0472-4247-9c6a-5d0d8fa0fc47": {
+      "company": "AlphaOne Robotics",
+      "first_seen": "2026-11-16T21:18:25+00:00",
+      "last_seen": "2026-11-16T21:18:25+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1794785104",
+      "source": "vanshb03",
+      "title": "Junior Robotics Software Engineer",
+      "url": "https://go.vansh.nyc/1Ar"
+    },
     "vanshb03:altera::vanshb03-0bc7cec5-c9d8-46e9-8417-fefa13de197d": {
       "company": "Altera",
       "first_seen": "2026-10-25T08:27:15+00:00",
@@ -78551,6 +78561,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern, Cloud & Distributed Backend",
       "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923"
+    },
+    "vanshb03:miraterra::vanshb03-0fa27844-9118-4266-a470-fcadb886b6fe": {
+      "company": "Miraterra",
+      "first_seen": "2026-11-16T21:18:25+00:00",
+      "last_seen": "2026-11-16T21:18:25+00:00",
+      "location": "Toronto, Canada",
+      "posted_at": "1794702376",
+      "source": "vanshb03",
+      "title": "Associate Software Developer",
+      "url": "https://go.vansh.nyc/1At"
     },
     "vanshb03:mitre::vanshb03-08788972-04f8-47bc-aeec-cd411e37610e": {
       "company": "MITRE",
@@ -86470,5 +86490,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-16T18:03:28+00:00"
+  "updated_at": "2026-11-16T21:18:37+00:00"
 }
