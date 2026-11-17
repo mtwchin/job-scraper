@@ -1,5 +1,5 @@
 {
-  "count": 8001,
+  "count": 8003,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2021,6 +2021,26 @@
       "source": "",
       "title": "Software Engineer, Intern  (Summer 2027(",
       "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002"
+    },
+    "cadence::Graduate-Student-Intern---Software-Engineering_R56405-2": {
+      "company": "Cadence",
+      "first_seen": "2026-11-17T05:51:31+00:00",
+      "last_seen": "2026-11-17T05:51:31+00:00",
+      "location": "AUSTIN",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "",
+      "title": "Graduate Student Intern - Software Engineering",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56405-2"
+    },
+    "cadence::Intern--Software-Engineering--Hardware-Verification-R-D_R56477": {
+      "company": "Cadence",
+      "first_seen": "2026-11-17T05:51:31+00:00",
+      "last_seen": "2026-11-17T05:51:31+00:00",
+      "location": "BELO HORIZONTE",
+      "posted_at": "Posted 30+ Days Ago",
+      "source": "",
+      "title": "Intern: Software Engineering: Hardware Verification R&D",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering--Hardware-Verification-R-D_R56477"
     },
     "capital one::Associate--Software-Engineer--New-Grad-Card-Expansion_R236833": {
       "company": "Capital One",
@@ -68198,5 +68218,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T05:50:48+00:00"
+  "updated_at": "2026-11-17T05:51:50+00:00"
 }
