@@ -850,8 +850,7 @@
   },
   "delivery_rejections": {},
   "health_reported": [
-    "Barclays",
-    "Blue Origin"
+    "Barclays"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -68168,5 +68167,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T04:28:21+00:00"
+  "updated_at": "2026-11-17T04:31:23+00:00"
 }
