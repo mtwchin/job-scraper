@@ -1,5 +1,5 @@
 {
-  "count": 7996,
+  "count": 7997,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -1643,6 +1643,16 @@
       "source": "",
       "title": "Software Undergrad Engineering Internships",
       "url": "https://jobs.apple.com/en-us/details/200664785-3810/software-undergrad-engineering-internships"
+    },
+    "apple::200695289-4265": {
+      "company": "Apple",
+      "first_seen": "2026-11-17T02:48:51+00:00",
+      "last_seen": "2026-11-17T02:48:51+00:00",
+      "location": "Linz",
+      "posted_at": "2026-11-17T02:47:47.129Z",
+      "source": "",
+      "title": "Cellular RF Receiver System Engineer Intern",
+      "url": "https://jobs.apple.com/en-us/details/200695289-4265/cellular-rf-receiver-system-engineer-intern"
     },
     "applied intuition::31140958-d768-452c-8498-0b1c7f403943": {
       "company": "Applied Intuition",
@@ -68148,5 +68158,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T02:40:04+00:00"
+  "updated_at": "2026-11-17T02:49:06+00:00"
 }
