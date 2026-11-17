@@ -1,5 +1,5 @@
 {
-  "count": 8119,
+  "count": 8120,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [
@@ -60603,6 +60603,16 @@
       "title": "Software Development Engineer Intern",
       "url": "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us"
     },
+    "vanshb03:amazon::vanshb03-5f48f5fa-99cf-41f8-a755-c038a1debc45": {
+      "company": "Amazon",
+      "first_seen": "2026-11-17T14:45:23+00:00",
+      "last_seen": "2026-11-17T14:45:23+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1794873600",
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern, Artificial General Intelligence",
+      "url": "https://go.vansh.nyc/1Bf"
+    },
     "vanshb03:amazon::vanshb03-6046c3fc-ac8d-415d-ba3a-24965b1db381": {
       "company": "Amazon",
       "first_seen": "2026-11-01T09:58:00+00:00",
@@ -68641,5 +68651,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T14:40:28+00:00"
+  "updated_at": "2026-11-17T14:45:30+00:00"
 }
