@@ -1,5 +1,5 @@
 {
-  "count": 9963,
+  "count": 9965,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [],
@@ -647,6 +647,16 @@
       "source": "",
       "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2027, Amazon Dedicated Cloud (ADC)",
       "url": "https://www.amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc"
+    },
+    "amazon::10606968": {
+      "company": "Amazon",
+      "first_seen": "2026-11-17T14:39:29+00:00",
+      "last_seen": "2026-11-17T14:39:29+00:00",
+      "location": "Sunnyvale, California, USA",
+      "posted_at": "November 17, 2026",
+      "source": "",
+      "title": "Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
+      "url": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -72031,6 +72041,16 @@
       "title": "Software Development Engineer Intern",
       "url": "https://www.amazon.jobs/en/jobs/3101249/software-development-engineer-internship-winter-2026-us"
     },
+    "vanshb03:amazon::vanshb03-5f48f5fa-99cf-41f8-a755-c038a1debc45": {
+      "company": "Amazon",
+      "first_seen": "2026-11-17T14:45:23+00:00",
+      "last_seen": "2026-11-17T14:45:23+00:00",
+      "location": "Sunnyvale, CA",
+      "posted_at": "1794873600",
+      "source": "vanshb03",
+      "title": "Software Development Engineer Intern, Artificial General Intelligence",
+      "url": "https://go.vansh.nyc/1Bf"
+    },
     "vanshb03:amazon::vanshb03-6046c3fc-ac8d-415d-ba3a-24965b1db381": {
       "company": "Amazon",
       "first_seen": "2026-11-01T09:58:00+00:00",
@@ -87542,5 +87562,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T11:32:34+00:00"
+  "updated_at": "2026-11-17T14:53:41+00:00"
 }
