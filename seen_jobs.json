@@ -850,7 +850,8 @@
   },
   "delivery_rejections": {},
   "health_reported": [
-    "Barclays"
+    "Barclays",
+    "Red Hat"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -68167,5 +68168,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T05:46:37+00:00"
+  "updated_at": "2026-11-17T05:49:46+00:00"
 }
