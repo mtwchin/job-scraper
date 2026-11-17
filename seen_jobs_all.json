@@ -1,5 +1,5 @@
 {
-  "count": 9974,
+  "count": 9984,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [],
@@ -6552,6 +6552,7 @@
     "simplify:akuna capital university::simplify-13b103af-8b5c-4685-9b00-18ce29399f40": {
       "company": "Akuna Capital University",
       "first_seen": "2026-07-14T19:49:46+00:00",
+      "last_seen": "2026-11-17T23:32:04+00:00",
       "posted_at": "1783980581",
       "title": "Software Engineer Intern - Python",
       "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853"
@@ -19979,6 +19980,26 @@
       "posted_at": "1786687014",
       "title": "Forward Deployed Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/composio/f83a19a0-8188-4100-9dd5-b259efb342e6/application?embed=true"
+    },
+    "simplify:compunetix::simplify-14b45ec6-cd52-4f94-9eee-9ca874bdac85": {
+      "company": "Compunetix",
+      "first_seen": "2026-11-17T23:32:05+00:00",
+      "last_seen": "2026-11-17T23:32:05+00:00",
+      "location": "Monroeville, PA",
+      "posted_at": "1794956856",
+      "source": "simplify",
+      "title": "Software Engineer Co-op",
+      "url": "https://jobs.jobvite.com/compunetix/job/oMdpAfwI?nl=1&nl=1&fr=false"
+    },
+    "simplify:compunetix::simplify-5ddb911a-674b-4f51-90af-01a951c5e2e6": {
+      "company": "Compunetix",
+      "first_seen": "2026-11-17T23:32:05+00:00",
+      "last_seen": "2026-11-17T23:32:05+00:00",
+      "location": "Monroeville, PA",
+      "posted_at": "1794956856",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://jobs.jobvite.com/compunetix/job/o25QAfwh?nl=1&nl=1&fr=false"
     },
     "simplify:computershare::simplify-319cbcee-d50c-4be3-965d-86b2c09bdc4a": {
       "company": "Computershare",
@@ -34020,7 +34041,7 @@
     "simplify:intercontinental exchange::simplify-08b6aa04-6182-4358-9dac-780dc740bfee": {
       "company": "Intercontinental Exchange",
       "first_seen": "2026-11-11T15:32:22+00:00",
-      "last_seen": "2026-11-12T00:01:56+00:00",
+      "last_seen": "2026-11-17T23:32:04+00:00",
       "location": "Jacksonville, FL",
       "posted_at": "1794406140",
       "source": "simplify",
@@ -37827,6 +37848,16 @@
       "posted_at": "1785506597",
       "title": "Software Engineering Associate",
       "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors"
+    },
+    "simplify:laansu::simplify-5455b937-ca16-4e56-89ad-4f0bd88daaf6": {
+      "company": "Laansu",
+      "first_seen": "2026-11-17T23:32:05+00:00",
+      "last_seen": "2026-11-17T23:32:05+00:00",
+      "location": "Sterling, VA",
+      "posted_at": "1794957796",
+      "source": "simplify",
+      "title": "Junior Software Developer",
+      "url": "https://laansu.applytojob.com/apply/IiHJSaTASV/Junior-Software-Developer"
     },
     "simplify:labcorp::simplify-8c36b3e9-bb7e-465c-8e59-8add0c4ab3da": {
       "company": "LabCorp",
@@ -48016,7 +48047,7 @@
     "simplify:parabola::simplify-9912194a-3526-43dc-9964-d2906b6b3a07": {
       "company": "Parabola",
       "first_seen": "2026-11-11T23:31:56+00:00",
-      "last_seen": "2026-11-12T00:01:56+00:00",
+      "last_seen": "2026-11-17T23:32:04+00:00",
       "location": "SF, NYC",
       "posted_at": "1794355200",
       "source": "simplify",
@@ -48098,6 +48129,16 @@
       "posted_at": "1784124772",
       "title": "Technical Software Consultant",
       "url": "https://jobs.ashbyhq.com/pariveda/d825ed65-edd8-4540-92c9-4c01f2b6a982/application?embed=true"
+    },
+    "simplify:parkland health::simplify-0d0f7d65-803e-4567-a73b-de5c5a1442f1": {
+      "company": "Parkland Health",
+      "first_seen": "2026-11-17T23:32:05+00:00",
+      "last_seen": "2026-11-17T23:32:05+00:00",
+      "location": "United States",
+      "posted_at": "1794873600",
+      "source": "simplify",
+      "title": "Information Technology Application Systems Associate - Pharmacy",
+      "url": "https://wd12.myworkdaysite.com/recruiting/parklandhospital/Parkland_Careers/job/8435-Stemmons-Bldg/Information-Technology-Application-Systems-Associate----Pharmacy_990604-1"
     },
     "simplify:parsons::simplify-2e2c0e4f-cc59-4c29-a9fb-d9908fcc7e06": {
       "company": "Parsons",
@@ -51211,6 +51252,16 @@
       "title": "ServiceNow Engineer Intern",
       "url": "https://jobs.ashbyhq.com/rapdev/b022388e-79d0-43b8-b524-64aaed9ff4dc/application?embed=true"
     },
+    "simplify:raptor maps::simplify-57496224-42e6-4869-8a6e-bc34925be9f1": {
+      "company": "Raptor Maps",
+      "first_seen": "2026-11-17T23:32:05+00:00",
+      "last_seen": "2026-11-17T23:32:05+00:00",
+      "location": "Somerville, MA",
+      "posted_at": "1794957659",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ats.rippling.com/raptor-maps-inc/jobs/be25d98e-262f-42a2-8276-dffbfbbf402a"
+    },
     "simplify:rave aerospace::simplify-59143a12-b5c5-4756-adf5-a3376f4b7296": {
       "company": "RAVE Aerospace",
       "first_seen": "2026-09-16T10:04:14+00:00",
@@ -51469,6 +51520,36 @@
       "posted_at": "1787927295",
       "title": "Graduate Programmer",
       "url": "https://apply.workable.com/rebellion/j/051D15CCA1/apply"
+    },
+    "simplify:red alpha::simplify-00fdcfd6-755a-42a2-8263-944d35b10eb5": {
+      "company": "Red Alpha",
+      "first_seen": "2026-11-17T23:32:05+00:00",
+      "last_seen": "2026-11-17T23:32:05+00:00",
+      "location": "Columbia, MD",
+      "posted_at": "1794956664",
+      "source": "simplify",
+      "title": "Entry to Mid-Level Software Engineer",
+      "url": "https://jobs.jobvite.com/redalpha/job/ouIosfwM?nl=1&nl=1&fr=false"
+    },
+    "simplify:red alpha::simplify-3efcc74f-837e-4304-9aeb-354126ca3e5b": {
+      "company": "Red Alpha",
+      "first_seen": "2026-11-17T23:32:05+00:00",
+      "last_seen": "2026-11-17T23:32:05+00:00",
+      "location": "Annapolis Junction, MD",
+      "posted_at": "1794956665",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://jobs.jobvite.com/redalpha/job/oy0ZpfwG?nl=1&nl=1&fr=false"
+    },
+    "simplify:red alpha::simplify-d48f4133-284f-47da-9dc5-fc700d4535a8": {
+      "company": "Red Alpha",
+      "first_seen": "2026-11-17T23:32:05+00:00",
+      "last_seen": "2026-11-17T23:32:05+00:00",
+      "location": "Annapolis Junction, MD",
+      "posted_at": "1794956666",
+      "source": "simplify",
+      "title": "Software Engineer Level 0",
+      "url": "https://jobs.jobvite.com/redalpha/job/oNLpAfwh?nl=1&nl=1&fr=false"
     },
     "simplify:red hat::simplify-24815578-f6f1-4a50-85b5-fc4d793c9966": {
       "company": "Red Hat",
@@ -59562,6 +59643,16 @@
       "title": "Software Engineer 1",
       "url": "https://job-boards.greenhouse.io/startree/jobs/6235909004"
     },
+    "simplify:starwood capital group::simplify-c34c6925-097c-4bad-bab0-a81212890927": {
+      "company": "Starwood Capital Group",
+      "first_seen": "2026-11-17T23:32:05+00:00",
+      "last_seen": "2026-11-17T23:32:05+00:00",
+      "location": "NYC",
+      "posted_at": "1794956647",
+      "source": "simplify",
+      "title": "Agentic Engineering Intern",
+      "url": "https://jobs.jobvite.com/starwoodcapitalgroup/job/okzWAfw9?nl=1&nl=1&fr=false"
+    },
     "simplify:state affairs::simplify-d9aac9f7-0c18-43c3-a877-644cfdbdb57a": {
       "company": "State Affairs",
       "first_seen": "2026-10-07T23:03:20+00:00",
@@ -65185,6 +65276,16 @@
       "posted_at": "1787178888",
       "title": "Engineer Intern - Spring 2027",
       "url": "https://apply.workable.com/tmeic-corporation-americas/j/532EE44DFB/apply"
+    },
+    "simplify:tms international::simplify-715c0bbc-df0d-495d-96ff-9e0f78a79a06": {
+      "company": "TMS International",
+      "first_seen": "2026-11-17T23:32:05+00:00",
+      "last_seen": "2026-11-17T23:32:05+00:00",
+      "location": "Hammond, IN",
+      "posted_at": "1794956637",
+      "source": "simplify",
+      "title": "Manufacturing Systems Software Engineer",
+      "url": "https://tmsinternationalrawmaterialsandoptmization.applytojob.com/apply/a0i667jprM/Software-Engineer"
     },
     "simplify:tmx group::simplify-7d2fd52b-088e-42b5-a423-c67a3beb56fd": {
       "company": "TMX Group",
@@ -87652,5 +87753,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T22:46:17+00:00"
+  "updated_at": "2026-11-17T23:32:21+00:00"
 }
