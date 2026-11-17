@@ -853,12 +853,14 @@
     "Barclays",
     "Blackrock",
     "Blue Origin",
+    "Capital One",
     "Cisco",
     "Disney",
     "Intel",
     "Nvidia",
     "PayPal",
     "Red Hat",
+    "Workday",
     "Zoom"
   ],
   "jobs": {
@@ -68146,5 +68148,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T01:25:01+00:00"
+  "updated_at": "2026-11-17T01:26:03+00:00"
 }
