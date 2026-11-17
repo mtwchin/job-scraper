@@ -1,5 +1,5 @@
 {
-  "count": 9973,
+  "count": 9974,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [],
@@ -73755,6 +73755,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/12D"
     },
+    "vanshb03:bread financial::vanshb03-e0808a9d-9886-4076-aefc-56af4b4b83cb": {
+      "company": "Bread Financial",
+      "first_seen": "2026-11-17T22:46:04+00:00",
+      "last_seen": "2026-11-17T22:46:04+00:00",
+      "location": "Columbus, OH, Chadds Ford, PA, Frisco, TX, Draper, UT, Wilmington, DE",
+      "posted_at": "1794868780",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1Bz"
+    },
     "vanshb03:brex::vanshb03-667d3bdf-042a-4962-b8a0-3e508f5b4075": {
       "company": "Brex",
       "first_seen": "2026-11-11T17:09:40+00:00",
@@ -87642,5 +87652,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T22:32:14+00:00"
+  "updated_at": "2026-11-17T22:46:17+00:00"
 }
