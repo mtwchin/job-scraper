@@ -856,8 +856,7 @@
     "Capital One",
     "Cisco",
     "Disney",
-    "Intel",
-    "Red Hat"
+    "Intel"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -68144,5 +68143,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T01:51:20+00:00"
+  "updated_at": "2026-11-17T01:53:22+00:00"
 }
