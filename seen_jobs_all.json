@@ -1,5 +1,5 @@
 {
-  "count": 9720,
+  "count": 9727,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -2675,6 +2675,16 @@
       "source": "",
       "title": "Software Undergrad Engineering Internships",
       "url": "https://jobs.apple.com/en-us/details/200664785-3810/software-undergrad-engineering-internships"
+    },
+    "apple::200695289-4265": {
+      "company": "Apple",
+      "first_seen": "2026-11-17T02:48:51+00:00",
+      "last_seen": "2026-11-17T02:48:51+00:00",
+      "location": "Linz",
+      "posted_at": "2026-11-17T02:47:47.129Z",
+      "source": "",
+      "title": "Cellular RF Receiver System Engineer Intern",
+      "url": "https://jobs.apple.com/en-us/details/200695289-4265/cellular-rf-receiver-system-engineer-intern"
     },
     "applied intuition::31140958-d768-452c-8498-0b1c7f403943": {
       "company": "Applied Intuition",
@@ -6840,7 +6850,7 @@
     "simplify:accenture::simplify-2448117a-1dcc-4ed7-8746-9d828b68bdf7": {
       "company": "Accenture",
       "first_seen": "2026-09-04T05:57:42+00:00",
-      "last_seen": "2026-11-12T00:01:56+00:00",
+      "last_seen": "2026-11-17T03:02:48+00:00",
       "posted_at": "1788484604",
       "title": "Associate Software Engineer - Pega",
       "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4711147006"
@@ -9340,6 +9350,16 @@
       "posted_at": "1788278728",
       "title": "Compiler Engineer Intern/Co-op - Masters",
       "url": "https://careers.amd.com/jobs/91867?icims=1"
+    },
+    "simplify:amd::simplify-cc25dde6-f879-43a3-976f-e184d8620ca7": {
+      "company": "AMD",
+      "first_seen": "2026-11-17T02:33:10+00:00",
+      "last_seen": "2026-11-17T02:33:10+00:00",
+      "location": "Markham, ON, Canada",
+      "posted_at": "1794873840",
+      "source": "simplify",
+      "title": "Silicon Design Engineer",
+      "url": "https://careers.amd.com/jobs/95823?icims=1&lang=en-us"
     },
     "simplify:amd::simplify-e9f9050a-780c-47dd-b98a-17dda2af0453": {
       "company": "AMD",
@@ -38419,6 +38439,16 @@
       "title": "Agentic AI Developer Co-op",
       "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Co-op---Agentic-AI-Developer_2639201-1"
     },
+    "simplify:laborie medical technologies::simplify-cea336b4-1147-402b-9c76-6b7ed2757eee": {
+      "company": "Laborie Medical Technologies",
+      "first_seen": "2026-11-17T03:02:48+00:00",
+      "last_seen": "2026-11-17T03:02:48+00:00",
+      "location": "Portsmouth, NH",
+      "posted_at": "1794882903",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://jobs.jobvite.com/laborie/job/oQOXAfwV?nl=1&nl=1&fr=false"
+    },
     "simplify:laminar::simplify-f50200ae-9d5d-4692-bd20-24e9ac535f98": {
       "company": "Laminar",
       "first_seen": "2026-10-28T06:32:25+00:00",
@@ -46315,7 +46345,7 @@
     "simplify:nutanix::simplify-4a56e5c7-104e-4300-af23-cd40dfd09685": {
       "company": "Nutanix",
       "first_seen": "2026-11-04T16:02:17+00:00",
-      "last_seen": "2026-11-16T00:02:11+00:00",
+      "last_seen": "2026-11-17T03:02:48+00:00",
       "location": "Cambridge, UK",
       "posted_at": "1793266442",
       "source": "simplify",
@@ -50547,6 +50577,16 @@
       "source": "simplify",
       "title": "Associate Developer",
       "url": "https://pultegroup.wd1.myworkdayjobs.com/PGI/job/Tempe-AZ/Associate-Developer_JR9750"
+    },
+    "simplify:punchcut::simplify-909a8be2-be56-4b49-afc5-12397e8e0576": {
+      "company": "Punchcut",
+      "first_seen": "2026-11-17T03:02:48+00:00",
+      "last_seen": "2026-11-17T03:02:48+00:00",
+      "location": "SF",
+      "posted_at": "1794883050",
+      "source": "simplify",
+      "title": "Design Engineer Intern",
+      "url": "https://punchcut.bamboohr.com/careers/65/"
     },
     "simplify:pure storage::simplify-4bed7671-153b-4cbc-84ad-30fbb5e3f1f1": {
       "company": "Pure Storage",
@@ -58609,6 +58649,16 @@
       "posted_at": "1782914766",
       "title": "Software Engineer 1",
       "url": "https://jobs.lever.co/sophos/797834ca-58be-4a7c-a220-b2eefd449d97/apply"
+    },
+    "simplify:soros fund management::simplify-218fd898-7718-46b4-bc2b-65b9ee205d5c": {
+      "company": "Soros Fund Management",
+      "first_seen": "2026-11-17T03:02:48+00:00",
+      "last_seen": "2026-11-17T03:02:48+00:00",
+      "location": "NYC",
+      "posted_at": "1794581212",
+      "source": "simplify",
+      "title": "Trading Intern - Middle and Back Office Dev",
+      "url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202862003"
     },
     "simplify:sosi::simplify-f2c37266-0aea-45bc-b19c-fff00c5e3490": {
       "company": "SOSi",
@@ -67240,6 +67290,16 @@
       "title": "IT Associate Programmer Analyst",
       "url": "https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Omaha-NE/IT-Associate-Programmer-Analyst_R28670"
     },
+    "simplify:valnet freelance::simplify-d368fd11-ce02-47aa-9e65-d577e546d4d3": {
+      "company": "Valnet Freelance",
+      "first_seen": "2026-11-17T03:02:48+00:00",
+      "last_seen": "2026-11-17T03:02:48+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1794883840",
+      "source": "simplify",
+      "title": "AI Operations Analyst - Digital Publishing & Social Media",
+      "url": "https://valnetconcept.applytojob.com/apply/Zen8WsV71B/AI-Operations-Analyst-Digital-Publishing-Social-Media"
+    },
     "simplify:valon::simplify-99404c39-7108-4b92-89ba-eb3166763456": {
       "company": "Valon",
       "first_seen": "2026-09-02T00:29:34+00:00",
@@ -70070,6 +70130,16 @@
       "posted_at": "1784152990",
       "title": "Software Engineer 1",
       "url": "https://jobs.lever.co/wyetechllc/b464498e-c95f-4f95-89ad-72d4ab61ab7e/apply"
+    },
+    "simplify:wyetech::simplify-d679fa04-c74e-4987-a9aa-2e381ad6fa52": {
+      "company": "Wyetech",
+      "first_seen": "2026-11-17T03:02:48+00:00",
+      "last_seen": "2026-11-17T03:02:48+00:00",
+      "location": "United States",
+      "posted_at": "1794883475",
+      "source": "simplify",
+      "title": "Software Engineer 0 or 1",
+      "url": "https://wyetech.applytojob.com/apply/7d200RlbqP/Software-Engineer-Skill-Level-0-Or-1"
     },
     "simplify:wyetech::simplify-fcba025b-7ee1-430b-9e21-9d26659e462c": {
       "company": "Wyetech",
@@ -86784,5 +86854,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T02:33:03+00:00"
+  "updated_at": "2026-11-17T03:03:07+00:00"
 }
