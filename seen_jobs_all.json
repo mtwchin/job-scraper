@@ -1,5 +1,5 @@
 {
-  "count": 9970,
+  "count": 9971,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [],
@@ -76636,6 +76636,16 @@
       "title": "Software Engineer Intern, C#",
       "url": "https://go.vansh.nyc/Zc"
     },
+    "vanshb03:garmin::vanshb03-123c5545-024f-43f4-ad4b-caedd02cfb62": {
+      "company": "Garmin",
+      "first_seen": "2026-11-17T21:18:04+00:00",
+      "last_seen": "2026-11-17T21:18:04+00:00",
+      "location": "Chanhassen, MN",
+      "posted_at": "1794949724",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Real Time Aviation Data",
+      "url": "https://go.vansh.nyc/1Bs"
+    },
     "vanshb03:garmin::vanshb03-26093e95-ae02-466f-9159-da032bc2e2f5": {
       "company": "Garmin",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -87612,5 +87622,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T20:24:03+00:00"
+  "updated_at": "2026-11-17T21:18:07+00:00"
 }
