@@ -1,5 +1,5 @@
 {
-  "count": 8003,
+  "count": 8018,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -18118,6 +18118,16 @@
       "title": "AI & Automation Development Intern",
       "url": "https://apply.workable.com/coretek-services/j/8D69C6C871/apply"
     },
+    "simplify:coreweave::simplify-70c66cee-4da9-4920-9fa3-bc55fae14123": {
+      "company": "CoreWeave",
+      "first_seen": "2026-11-17T06:02:27+00:00",
+      "last_seen": "2026-11-17T06:02:27+00:00",
+      "location": "Bellevue, WA, Sunnyvale, CA",
+      "posted_at": "1790374261",
+      "source": "simplify",
+      "title": "Software Engineer - Inference",
+      "url": "https://coreweave.com/careers/job?4703438006&board=coreweave&gh_jid=4703438006"
+    },
     "simplify:coreweave::simplify-f51da956-7968-41bf-9b6a-860c33aeb7aa": {
       "company": "CoreWeave",
       "first_seen": "2026-07-25T14:12:51+00:00",
@@ -18521,10 +18531,20 @@
       "title": "Events Specialist",
       "url": "https://jobs.smartrecruiters.com/CROSSMARK1/92227917"
     },
+    "simplify:crowdstrike::simplify-41415b92-15bf-4391-90e1-04a32e549fed": {
+      "company": "CrowdStrike",
+      "first_seen": "2026-11-17T06:02:27+00:00",
+      "last_seen": "2026-11-17T06:02:27+00:00",
+      "location": "Arlington County, Arlington, VA",
+      "posted_at": "1793836800",
+      "source": "simplify",
+      "title": "Intelligence Intern",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Arlington-VA/Intelligence-Intern---Summer-2027_R30605"
+    },
     "simplify:crowdstrike::simplify-b798780f-4009-488b-ab0c-948146a7a0ca": {
       "company": "Crowdstrike",
       "first_seen": "2026-08-24T13:39:03+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "posted_at": "1787529600",
       "title": "Software Engineer - Sensor - SAO",
       "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874"
@@ -21004,7 +21024,7 @@
     "simplify:electronic arts::simplify-3ace9955-fb8a-4ca0-a716-7b9d6f86671f": {
       "company": "Electronic Arts",
       "first_seen": "2026-10-16T14:35:00+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "location": "Birmingham, UK",
       "posted_at": "1792159777",
       "source": "simplify",
@@ -21044,7 +21064,7 @@
     "simplify:electronic arts::simplify-9c64ea05-ef86-4f4e-a20c-74a25b071a10": {
       "company": "Electronic Arts",
       "first_seen": "2026-10-12T23:06:34+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "location": "Austin, TX",
       "posted_at": "1791843379",
       "source": "simplify",
@@ -21064,7 +21084,7 @@
     "simplify:electronic arts::simplify-bc6412bd-7dbe-456e-8c67-d2002acadeaa": {
       "company": "Electronic Arts",
       "first_seen": "2026-10-01T00:31:32+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "location": "Orlando, FL",
       "posted_at": "1790806630",
       "source": "simplify",
@@ -21074,7 +21094,7 @@
     "simplify:electronic arts::simplify-c0ed9e00-a8a7-4c6d-b0a2-caef36fca2a9": {
       "company": "Electronic Arts",
       "first_seen": "2026-10-09T23:05:55+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "location": "Vancouver, BC, Canada",
       "posted_at": "1791584455",
       "source": "simplify",
@@ -21084,7 +21104,7 @@
     "simplify:electronic arts::simplify-c150fc14-14cb-445f-b7a5-4f8d6b827ffc": {
       "company": "Electronic Arts",
       "first_seen": "2026-10-09T23:05:55+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "location": "Vancouver, BC, Canada",
       "posted_at": "1791584461",
       "source": "simplify",
@@ -21094,7 +21114,7 @@
     "simplify:electronic arts::simplify-d5b1be21-ea3d-442a-ac92-5df1ec91238c": {
       "company": "Electronic Arts",
       "first_seen": "2026-10-09T23:05:55+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "location": "Vancouver, BC, Canada",
       "posted_at": "1791584462",
       "source": "simplify",
@@ -21114,7 +21134,7 @@
     "simplify:electronic arts::simplify-e77870f3-55c7-4d18-8364-57029d5adc18": {
       "company": "Electronic Arts",
       "first_seen": "2026-10-16T14:35:00+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "location": "Birmingham, UK",
       "posted_at": "1792159776",
       "source": "simplify",
@@ -21647,7 +21667,7 @@
     "simplify:epic games::simplify-6747a804-3d64-4369-a51e-9309bb720e0c": {
       "company": "Epic Games",
       "first_seen": "2026-09-22T03:24:56+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "location": "Cary, NC",
       "posted_at": "1790040161",
       "source": "simplify",
@@ -21665,7 +21685,7 @@
     "simplify:epic games::simplify-75a2a7c4-e5d9-4544-bf24-a2a705653433": {
       "company": "Epic Games",
       "first_seen": "2026-09-04T14:30:47+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "posted_at": "1787190049",
       "title": "Technical Art Intern - Rocket League",
       "url": "https://epicgames.com/careers/jobs/6147154004?gh_jid=6147154004"
@@ -21673,7 +21693,7 @@
     "simplify:epic games::simplify-bc9d071a-1dae-48fc-a18e-293c48a4ccb0": {
       "company": "Epic Games",
       "first_seen": "2026-08-20T02:43:11+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "posted_at": "1787190052",
       "title": "Tools Programmer Intern",
       "url": "https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004"
@@ -21689,7 +21709,7 @@
     "simplify:epic games::simplify-cc42178a-cb7e-4d51-9f4c-a0cfc4b81f50": {
       "company": "Epic Games",
       "first_seen": "2026-09-10T05:13:45+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "posted_at": "1789002898",
       "title": "UI Programmer Intern - Games",
       "url": "https://epicgames.com/careers/jobs/6183401004?gh_jid=6183401004"
@@ -35060,7 +35080,7 @@
     "simplify:micron technology::simplify-0f1a5eef-d0e4-4005-9f93-f6e95245eb6f": {
       "company": "Micron Technology",
       "first_seen": "2026-09-14T19:14:49+00:00",
-      "last_seen": "2026-09-15T00:44:55+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "location": "Boise, ID",
       "posted_at": "1789344000",
       "source": "simplify",
@@ -35103,7 +35123,7 @@
     "simplify:micron technology::simplify-25e41706-146c-4f0f-957d-7f2cd557405e": {
       "company": "Micron Technology",
       "first_seen": "2026-10-15T22:34:25+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "location": "Boise, ID",
       "posted_at": "1792022400",
       "source": "simplify",
@@ -35113,6 +35133,7 @@
     "simplify:micron technology::simplify-2bc345ba-6706-4efb-925f-c449a37bc3d5": {
       "company": "Micron Technology",
       "first_seen": "2026-08-27T23:56:31+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "posted_at": "1787788800",
       "title": "Software Engineer New Grad",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692"
@@ -35158,6 +35179,16 @@
       "source": "simplify",
       "title": "CAD Engineer New Grad",
       "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/New-College-Grad---CAD-Engineer_JR114754"
+    },
+    "simplify:micron technology::simplify-b83ac3e2-dbad-4c8f-ad68-1ed696c5a30a": {
+      "company": "Micron Technology",
+      "first_seen": "2026-11-17T06:02:27+00:00",
+      "last_seen": "2026-11-17T06:02:27+00:00",
+      "location": "Boise, ID",
+      "posted_at": "1793059200",
+      "source": "simplify",
+      "title": "Product Yield Enhancement Software Engineer Intern",
+      "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Product-Yield-Software-Engineer_JR115864"
     },
     "simplify:micron technology::simplify-ec2d8499-9c16-4277-8aac-c8300d24f46f": {
       "company": "Micron Technology",
@@ -42237,7 +42268,7 @@
     "simplify:pure storage::simplify-4bed7671-153b-4cbc-84ad-30fbb5e3f1f1": {
       "company": "Pure Storage",
       "first_seen": "2026-10-06T23:07:28+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "location": "Santa Clara, CA",
       "posted_at": "1791325536",
       "source": "simplify",
@@ -42247,7 +42278,7 @@
     "simplify:pure storage::simplify-99fee0ad-92bd-4ac6-99a0-d812ab1776d0": {
       "company": "Pure Storage",
       "first_seen": "2026-10-06T23:03:27+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "location": "Santa Clara, CA",
       "posted_at": "1791325545",
       "source": "simplify",
@@ -47724,7 +47755,7 @@
     "simplify:servicenow::simplify-290dbd18-b2d1-4c4d-b9a7-99c6c3b2511a": {
       "company": "ServiceNow",
       "first_seen": "2026-10-13T22:35:29+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "location": "Santa Clara, CA, West Palm Beach, FL, Kirkland, WA, San Diego, CA",
       "posted_at": "1791929235",
       "source": "simplify",
@@ -47759,12 +47790,42 @@
       "title": "Software Engineer - Agentic AI Harness & Quality",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000141814009"
     },
+    "simplify:servicenow::simplify-a2fe1cc0-aff1-49f6-bc73-fc65ecaa526f": {
+      "company": "ServiceNow",
+      "first_seen": "2026-11-17T06:02:27+00:00",
+      "last_seen": "2026-11-17T06:02:27+00:00",
+      "location": "Santa Clara, CA, NYC",
+      "posted_at": "1794872241",
+      "source": "simplify",
+      "title": "Associate Forward Deployed Solution Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936128"
+    },
     "simplify:servicenow::simplify-a321ad73-583a-4203-bee3-a9fe75923346": {
       "company": "ServiceNow",
       "first_seen": "2026-07-14T19:49:46+00:00",
       "posted_at": "1780437900",
       "title": "Futures Summit Intern",
       "url": "https://jobs.smartrecruiters.com/ServiceNow/744000129860849"
+    },
+    "simplify:servicenow::simplify-a636d4ab-c3a9-4cf8-8ee7-ebf8b6151781": {
+      "company": "ServiceNow",
+      "first_seen": "2026-11-17T06:02:27+00:00",
+      "last_seen": "2026-11-17T06:02:27+00:00",
+      "location": "Santa Clara, CA, NYC",
+      "posted_at": "1794872224",
+      "source": "simplify",
+      "title": "Forward Deployed Solution Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936020"
+    },
+    "simplify:servicenow::simplify-ad7ee672-286b-4929-9c20-6a5cdab58d98": {
+      "company": "ServiceNow",
+      "first_seen": "2026-11-17T06:02:27+00:00",
+      "last_seen": "2026-11-17T06:02:27+00:00",
+      "location": "Mountain View, CA",
+      "posted_at": "1793744959",
+      "source": "simplify",
+      "title": "Software Engineer - Agent Eval Platform",
+      "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159509479"
     },
     "simplify:servicenow::simplify-b3ed9e95-62a3-4499-b1b0-38840f1f4711": {
       "company": "ServiceNow",
@@ -47797,7 +47858,7 @@
     "simplify:servicenow::simplify-e7154c19-1906-4634-9226-1da16eb77416": {
       "company": "ServiceNow",
       "first_seen": "2026-10-13T22:35:29+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "location": "Santa Clara, CA, West Palm Beach, FL, Kirkland, WA, San Diego, CA",
       "posted_at": "1791929238",
       "source": "simplify",
@@ -62499,6 +62560,36 @@
       "title": "AI Full-Stack Engineering Intern",
       "url": "https://www.workatastartup.com/jobs/86239"
     },
+    "vanshb03:electronic arts::vanshb03-1d687638-1aa8-47d4-98d7-50ae072b4002": {
+      "company": "Electronic Arts",
+      "first_seen": "2026-11-17T06:02:27+00:00",
+      "last_seen": "2026-11-17T06:02:27+00:00",
+      "location": "Vancouver, Canada",
+      "posted_at": "1791584461",
+      "source": "vanshb03",
+      "title": "Gameplay Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/Gz"
+    },
+    "vanshb03:electronic arts::vanshb03-3af1013f-f48d-43be-837e-cb2626d9182d": {
+      "company": "Electronic Arts",
+      "first_seen": "2026-11-17T06:02:27+00:00",
+      "last_seen": "2026-11-17T06:02:27+00:00",
+      "location": "Vancouver, Canada",
+      "posted_at": "1791584455",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, C++",
+      "url": "https://go.vansh.nyc/Gy"
+    },
+    "vanshb03:electronic arts::vanshb03-e25aa1e3-2733-46af-99f5-60a1da6c05f5": {
+      "company": "Electronic Arts",
+      "first_seen": "2026-11-17T06:02:27+00:00",
+      "last_seen": "2026-11-17T06:02:27+00:00",
+      "location": "Vancouver, Canada",
+      "posted_at": "1791584462",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/GA"
+    },
     "vanshb03:electronic arts::vanshb03-fdb2c607-14e1-40eb-affe-d200f49fba8c": {
       "company": "Electronic Arts",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -62552,6 +62643,18 @@
       "source": "vanshb03",
       "title": "Gameplay Programmer Intern",
       "url": "https://www.epicgames.com/site/careers/jobs/6141180004?gh_jid=6141180004"
+    },
+    "vanshb03:epic games::vanshb03-89af158c-32d7-4752-971a-5c2a0e151ec1": {
+      "company": "Epic Games",
+      "duplicate_of": "epic games::6251540004",
+      "first_seen": "2026-11-17T06:02:26+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
+      "location": "Cary, NC",
+      "posted_at": "1794265681",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "AI Programmer Intern",
+      "url": "https://go.vansh.nyc/1pv"
     },
     "vanshb03:epsilon::vanshb03-23712499-9468-4090-80e8-ee398751b7d1": {
       "company": "Epsilon",
@@ -63516,6 +63619,36 @@
       "source": "vanshb03",
       "title": "Associate Software Developer",
       "url": "https://www.metrostar.com/job-post/?gh_jid=6667276003"
+    },
+    "vanshb03:micron technology::vanshb03-0ecc23a9-3ba8-4c00-beee-aad3199b0d40": {
+      "company": "Micron Technology",
+      "first_seen": "2026-11-17T06:02:27+00:00",
+      "last_seen": "2026-11-17T06:02:27+00:00",
+      "location": "Boise, ID",
+      "posted_at": "1793145981",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://go.vansh.nyc/XX"
+    },
+    "vanshb03:micron technology::vanshb03-590e594f-fa28-4d71-914f-56ea1baee389": {
+      "company": "Micron Technology",
+      "first_seen": "2026-11-17T06:02:27+00:00",
+      "last_seen": "2026-11-17T06:02:27+00:00",
+      "location": "Boise, ID",
+      "posted_at": "1793670846",
+      "source": "vanshb03",
+      "title": "System Engineer Intern, HBM",
+      "url": "https://go.vansh.nyc/1bI"
+    },
+    "vanshb03:micron technology::vanshb03-63ac0a6d-d75c-4d16-ae7b-e30f5346a86a": {
+      "company": "Micron Technology",
+      "first_seen": "2026-11-17T06:02:27+00:00",
+      "last_seen": "2026-11-17T06:02:27+00:00",
+      "location": "Boise, ID",
+      "posted_at": "1793116696",
+      "source": "vanshb03",
+      "title": "Product Yield Software Engineer Intern",
+      "url": "https://go.vansh.nyc/VP"
     },
     "vanshb03:microsoft::vanshb03-0d25edcf-4b13-487c-9567-7ca21a9b042b": {
       "company": "Microsoft",
@@ -65104,6 +65237,16 @@
       "title": "Associate Systems Engineer",
       "url": "https://careers.servicenow.com/jobs/744000073378905/associate-systems-engineer/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73"
     },
+    "vanshb03:servicenow::vanshb03-f3cfcfb6-329b-4efb-a4f3-b982703d0448": {
+      "company": "ServiceNow",
+      "first_seen": "2026-11-17T06:02:27+00:00",
+      "last_seen": "2026-11-17T06:02:27+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1791874800",
+      "source": "vanshb03",
+      "title": "Associate Software Engineer Intern, AI Engineering",
+      "url": "https://go.vansh.nyc/8N"
+    },
     "vanshb03:sev1tech::vanshb03-b613ccb0-7dc2-4056-b507-9415cf812734": {
       "company": "Sev1Tech",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -65339,7 +65482,7 @@
     "vanshb03:sofi::vanshb03-d6cf78de-6213-4463-9bd3-c2055e77408a": {
       "company": "SoFi",
       "first_seen": "2026-09-14T19:14:47+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T06:02:26+00:00",
       "location": "Seattle, WA, Helena, MT",
       "posted_at": "1755347554",
       "seeded": true,
@@ -65520,6 +65663,16 @@
       "source": "vanshb03",
       "title": "Software Engineer - New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=7210112"
+    },
+    "vanshb03:stubhub::vanshb03-2d7cb1e2-852d-4269-8b7a-b22661e6a514": {
+      "company": "StubHub",
+      "first_seen": "2026-11-17T06:02:27+00:00",
+      "last_seen": "2026-11-17T06:02:27+00:00",
+      "location": "New York, NY",
+      "posted_at": "1793901510",
+      "source": "vanshb03",
+      "title": "New Grad: Software Engineer I, Consumer Experience",
+      "url": "https://go.vansh.nyc/1iQ"
     },
     "vanshb03:stubhub::vanshb03-35cf42a3-b608-4e00-835b-36a1e0e57285": {
       "company": "StubHub",
@@ -68218,5 +68371,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T05:51:50+00:00"
+  "updated_at": "2026-11-17T06:02:53+00:00"
 }
