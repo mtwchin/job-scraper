@@ -1,5 +1,5 @@
 {
-  "count": 9840,
+  "count": 9841,
   "delivery_attempts": {
     "simplify:abb::simplify-bc7d8bd5-8a92-4609-ab88-b1fe213fc0a4": {
       "attempted_at": "2026-10-23T01:32:40+00:00",
@@ -21782,6 +21782,16 @@
       "posted_at": "1788993024",
       "title": "Developer Intern",
       "url": "https://jobs.lever.co/crestoperations/e012721c-e731-483d-a4e3-1a240c48bfbd/apply"
+    },
+    "simplify:critical environment technologies::simplify-22ffdc54-a0ba-4f2a-990a-f4fde578fb3f": {
+      "company": "Critical Environment Technologies",
+      "first_seen": "2026-11-17T08:03:03+00:00",
+      "last_seen": "2026-11-17T08:03:03+00:00",
+      "location": "Delta, BC, Canada",
+      "posted_at": "1794901595",
+      "source": "simplify",
+      "title": "Computer Science Co-op",
+      "url": "https://cetci.bamboohr.com/careers/92/"
     },
     "simplify:crosscountry consulting::simplify-240c8b54-b581-4a55-8ff5-c992035db71d": {
       "company": "CrossCountry Consulting",
@@ -87215,5 +87225,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T08:02:14+00:00"
+  "updated_at": "2026-11-17T08:03:16+00:00"
 }
