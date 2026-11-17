@@ -1,5 +1,5 @@
 {
-  "count": 9718,
+  "count": 9720,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -32467,6 +32467,16 @@
       "title": "Positioning Services Intern",
       "url": "https://careers-hexagonpositioning.icims.com/jobs/3085/job?mobile=true&needsRedirect=false"
     },
+    "simplify:hexarmor::simplify-ba23165e-e66d-4e52-90f4-9e640cdb5325": {
+      "company": "HexArmor",
+      "first_seen": "2026-11-17T02:32:48+00:00",
+      "last_seen": "2026-11-17T02:32:48+00:00",
+      "location": "Atlanta, GA",
+      "posted_at": "1794875463",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/hexarmor/jobs/8206200003"
+    },
     "simplify:hhaexchange::simplify-dca5d2f4-fa28-471c-9c4a-8b7568c510bc": {
       "company": "hhaexchange",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -63471,6 +63481,16 @@
       "title": "Software Engineering Intern - Product - Platform",
       "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008"
     },
+    "simplify:the opus group::simplify-d174fe5d-9211-4aa0-9ec6-572bc4d1baa5": {
+      "company": "The Opus Group",
+      "first_seen": "2026-11-17T02:32:48+00:00",
+      "last_seen": "2026-11-17T02:32:48+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1794881324",
+      "source": "simplify",
+      "title": "Interactive Resident",
+      "url": "https://jobs.jobvite.com/theopusgroup/job/oPMUAfwP?nl=1&nl=1&fr=false"
+    },
     "simplify:the progeny group::simplify-2e2fb962-17db-4a2d-91cc-ed79e091a0ff": {
       "company": "The Progeny Group",
       "first_seen": "2026-11-11T15:32:22+00:00",
@@ -86764,5 +86784,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T00:02:57+00:00"
+  "updated_at": "2026-11-17T02:33:03+00:00"
 }
