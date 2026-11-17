@@ -1,5 +1,5 @@
 {
-  "count": 9956,
+  "count": 9957,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [],
@@ -61454,6 +61454,16 @@
       "title": "Software Engineer Intern - Backend",
       "url": "https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/application?embed=true"
     },
+    "simplify:terranova::simplify-41612ff8-92f1-4246-90fb-49193cf5ca38": {
+      "company": "Terranova",
+      "first_seen": "2026-11-17T10:02:25+00:00",
+      "last_seen": "2026-11-17T10:02:25+00:00",
+      "location": "Berkeley, CA",
+      "posted_at": "1793664000",
+      "source": "simplify",
+      "title": "AI Intern",
+      "url": "https://jobs.ashbyhq.com/terranova/b6ce03c4-07b6-45e1-94e9-24b3ec17d942/application?embed=true"
+    },
     "simplify:terranova::simplify-5725405b-6f22-485b-a418-ad3c6148afb4": {
       "company": "Terranova",
       "first_seen": "2026-08-07T07:47:03+00:00",
@@ -87472,5 +87482,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T09:23:21+00:00"
+  "updated_at": "2026-11-17T10:03:24+00:00"
 }
