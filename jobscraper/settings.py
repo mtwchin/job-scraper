@@ -132,7 +132,7 @@ MAX_NOTIFICATIONS_PER_RUN = int(os.environ.get("MAX_NOTIFICATIONS_PER_RUN", "60"
 # How many companies to fetch in parallel. Different companies are on different
 # hosts, so this doesn't hammer any single API.
 CONCURRENCY = int(os.environ.get("CONCURRENCY", "12"))
-# A board is reported as down (once, until it recovers) when it has failed this
+# A board is logged as down (once, until it recovers) when it has failed this
 # many attempts in a row...
 HEALTH_ALERT_SWEEPS = max(int(os.environ.get("HEALTH_ALERT_SWEEPS", "2")), 1)
 # ...over at least this many minutes. Workday's throttling, the outage that
@@ -143,6 +143,18 @@ HEALTH_ALERT_MINUTES = float(os.environ.get("HEALTH_ALERT_MINUTES", "10"))
 # rate-limiting us only keeps it rate-limiting us.
 BACKOFF_BASE_SECONDS = float(os.environ.get("BACKOFF_BASE_SECONDS", "30"))
 BACKOFF_MAX_SECONDS = float(os.environ.get("BACKOFF_MAX_SECONDS", "900"))
+
+# Workday rate-limits by client IP, answers 429 with no Retry-After, and keeps
+# refusing for a few minutes -- longer if requests keep arriving meanwhile.
+# Measured: three back-to-back requests to one board tripped it, the block then
+# covered every Workday tenant, and it cleared between 2 and 3 minutes after
+# the last request. So requests to one board are spaced this far apart...
+WORKDAY_MIN_GAP_SECONDS = float(os.environ.get("WORKDAY_MIN_GAP_SECONDS", "1.0"))
+# ...and a board that says it is throttling us is left completely alone for
+# this long (doubling while it keeps refusing, up to the max) rather than
+# retried: no request at all is what lets the block expire.
+WORKDAY_COOLDOWN_SECONDS = float(os.environ.get("WORKDAY_COOLDOWN_SECONDS", "240"))
+WORKDAY_COOLDOWN_MAX_SECONDS = float(os.environ.get("WORKDAY_COOLDOWN_MAX_SECONDS", "1800"))
 
 # Lets the feed poller ask GitHub for each feed's newest commit and fetch it
 # directly, instead of a branch URL the CDN may serve up to 5 minutes stale.

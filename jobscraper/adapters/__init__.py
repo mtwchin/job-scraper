@@ -28,3 +28,9 @@ REGISTRY: dict[str, FetchFn] = {
 
 def get(name: str) -> FetchFn | None:
     return REGISTRY.get(name)
+
+
+def cooling_down(company: CompanyConfig) -> bool:
+    """Whether the company's platform has asked us to stay away for now, in
+    which case a sweep should leave the board out instead of fetching it."""
+    return company.adapter == "workday" and ats.workday_cooling(company.params.get("host", ""))

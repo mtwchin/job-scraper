@@ -71,7 +71,7 @@ _backoff: dict[str, tuple[float, int]] = {}
 
 def _backing_off(company: CompanyConfig, now: float) -> bool:
     entry = _backoff.get(company.name)
-    return entry is not None and now < entry[0]
+    return (entry is not None and now < entry[0]) or adapters.cooling_down(company)
 
 
 def _note_outcome(company: CompanyConfig, error: str | None) -> None:
@@ -268,14 +268,15 @@ def _collect_aggregators(result: Collection, general: Collection, seen: KeySet,
     return changed
 
 
-def _maybe_health_alert(c: Collection, store: SeenStore, min_sweeps: int,
-                        min_age: float | None = None) -> None:
-    """Post one alert per outage and one note when it clears.
+def _log_health(c: Collection, store: SeenStore, min_sweeps: int,
+                min_age: float | None = None) -> None:
+    """Log one line per outage and one when it clears. Nothing goes to Discord:
+    the channel is for jobs, and a board that is down is retried on its own.
 
     A company counts as down once it has failed `min_sweeps` attempts in a row
     for at least `min_age` seconds, so a momentary blip on the runner (every
-    host failing DNS at once) doesn't page. See health.py for why this is
-    tracked per company rather than as an error rate per sweep.
+    host failing DNS at once) isn't logged as an outage. See health.py for why
+    this is tracked per company rather than as an error rate per sweep.
     """
     for name, adapter, error in c.outcomes:
         store.health.record(name, adapter, error)
@@ -285,32 +286,16 @@ def _maybe_health_alert(c: Collection, store: SeenStore, min_sweeps: int,
     if report.down:
         logger.warning(health.format_down(report, store.health))
     elif c.errors:
-        logger.warning("%d board(s) errored this sweep; alerting if it persists. First: %s",
-                       len(c.errors), c.errors[0])
+        logger.warning("%d board(s) errored this sweep. First: %s", len(c.errors), c.errors[0])
     if report.recovered:
         logger.info(health.format_recovered(report.recovered))
-    if settings.DRY_RUN or not settings.DISCORD_WEBHOOK_URL or not (report.down or report.recovered):
-        return
-
-    if report.recovered:
+    if report.down or report.recovered:
+        # Remembered (and persisted with the next save) so each outage is
+        # logged once, not on every sweep or again by the next watch loop.
         store.health_reported -= set(report.recovered)
-        store._dirty = True
-        store.save()
-        notify.notify_summary(health.format_recovered(report.recovered))
-    if report.down:
-        # Recorded before sending: a send that dies halfway must not turn into
-        # the same alert every sweep. A rejected webhook is the exception —
-        # nothing reached the channel, so it has to be retried.
         store.health_reported |= set(report.down)
-        store._dirty = True
-        store.save()
-        try:
-            notify.notify_summary(health.format_down(report, store.health))
-        except notify.WebhookRejected:
-            store.health_reported -= set(report.down)
+        if not settings.DRY_RUN:
             store._dirty = True
-            store.save()
-            raise
 
 
 def select_new(store: SeenStore, matches: list[Job]) -> list[Job]:
@@ -461,7 +446,7 @@ def dispatch(store: SeenStore, c: Collection, general: Collection,
     )
     for line in c.errors:
         logger.debug("  ! %s", line)
-    _maybe_health_alert(c, store, health_min_sweeps or settings.HEALTH_ALERT_SWEEPS, health_min_age)
+    _log_health(c, store, health_min_sweeps or settings.HEALTH_ALERT_SWEEPS, health_min_age)
 
     if not store.existed and settings.SEED_QUIETLY:
         # Genuine first run: absorb the whole backlog silently so we don't dump it.

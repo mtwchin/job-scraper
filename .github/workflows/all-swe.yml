@@ -86,7 +86,7 @@ jobs:
 
       - name: Watch for new roles
         env:
-          # Summaries and health notes for this tier go to its own channel too.
+          # Summaries for this tier go to its own channel too.
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL_ALL }}
           DISCORD_WEBHOOK_URL_ALL: ${{ secrets.DISCORD_WEBHOOK_URL_ALL }}
           SCOPE: rest
