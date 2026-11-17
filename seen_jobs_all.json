@@ -1,5 +1,5 @@
 {
-  "count": 9969,
+  "count": 9970,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [],
@@ -66091,6 +66091,16 @@
       "title": "Senior Artificial Intelligence Engineer",
       "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Dahlgren-VA/Senior-AI-Engineer_JR2591"
     },
+    "simplify:tsc::simplify-32d3d3e3-69ab-4d15-a0fd-a71e46167a58": {
+      "company": "TSC",
+      "first_seen": "2026-11-17T16:02:44+00:00",
+      "last_seen": "2026-11-17T16:02:44+00:00",
+      "location": "Silver Spring, MD",
+      "posted_at": "1793318400",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2898"
+    },
     "simplify:tsc::simplify-3fa13a7e-c5ff-44e8-982b-19a4d1129b16": {
       "company": "TSC",
       "first_seen": "2026-09-03T19:27:16+00:00",
@@ -87602,5 +87612,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T15:32:47+00:00"
+  "updated_at": "2026-11-17T16:02:51+00:00"
 }
