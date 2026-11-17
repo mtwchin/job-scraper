@@ -1,5 +1,5 @@
 {
-  "count": 7995,
+  "count": 7996,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -850,14 +850,13 @@
   },
   "delivery_rejections": {},
   "health_reported": [
-    "Adobe",
     "Barclays",
     "Blackrock",
     "Blue Origin",
     "Cisco",
     "Disney",
-    "Intel",
-    "PayPal"
+    "PayPal",
+    "Zoom"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -7943,6 +7942,16 @@
       "posted_at": "1788278728",
       "title": "Compiler Engineer Intern/Co-op - Masters",
       "url": "https://careers.amd.com/jobs/91867?icims=1"
+    },
+    "simplify:amd::simplify-cc25dde6-f879-43a3-976f-e184d8620ca7": {
+      "company": "AMD",
+      "first_seen": "2026-11-17T02:33:10+00:00",
+      "last_seen": "2026-11-17T02:33:10+00:00",
+      "location": "Markham, ON, Canada",
+      "posted_at": "1794873840",
+      "source": "simplify",
+      "title": "Silicon Design Engineer",
+      "url": "https://careers.amd.com/jobs/95823?icims=1&lang=en-us"
     },
     "simplify:amd::simplify-e9f9050a-780c-47dd-b98a-17dda2af0453": {
       "company": "AMD",
@@ -68144,5 +68153,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T02:31:57+00:00"
+  "updated_at": "2026-11-17T02:33:59+00:00"
 }
