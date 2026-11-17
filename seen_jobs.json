@@ -1,5 +1,5 @@
 {
-  "count": 7997,
+  "count": 7998,
   "delivery_attempts": {
     "abnormal security::8015179003": {
       "attempted_at": "2026-10-17T04:07:11+00:00",
@@ -35271,6 +35271,16 @@
       "title": "Software Engineer",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556960468"
     },
+    "simplify:microsoft::simplify-542753ed-5d89-4aa7-855f-a20530ae5084": {
+      "company": "Microsoft",
+      "first_seen": "2026-11-17T03:02:10+00:00",
+      "last_seen": "2026-11-17T03:02:10+00:00",
+      "location": "Redmond, WA",
+      "posted_at": "1794883795",
+      "source": "simplify",
+      "title": "Software Engineer Agentic Security",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557074643"
+    },
     "simplify:microsoft::simplify-56b688ac-5461-4812-9be2-46a7c60e49be": {
       "company": "Microsoft",
       "first_seen": "2026-07-03T11:02:40+00:00",
@@ -68158,5 +68168,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T02:49:06+00:00"
+  "updated_at": "2026-11-17T03:03:12+00:00"
 }
