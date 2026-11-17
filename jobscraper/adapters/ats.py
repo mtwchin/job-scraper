@@ -5,6 +5,7 @@ import re
 import threading
 import time
 from dataclasses import replace
+from urllib.parse import urlsplit
 
 from .. import filters, http, settings
 from ..models import CompanyConfig, Job
@@ -106,7 +107,7 @@ _WORKDAY_TODAY = re.compile(r"\btoday\b|just posted", re.I)
 # Workday companies failed at once (HTTP 500s, then empty 200 bodies) for hours.
 # Capping our concurrent Workday requests keeps the sweep's burst modest.
 _WORKDAY_SLOTS = threading.BoundedSemaphore(3)
-# Quick (priority) sweeps get slots of their own. Sharing, they queued behind a
+# Quick sweeps get slots of their own. Sharing, they queued behind a
 # full sweep's ~250 Workday requests and a 4s look at NVIDIA took 50s. Their
 # whole sweep is a dozen-odd requests, so this adds little to the burst.
 _WORKDAY_QUICK_SLOTS = threading.BoundedSemaphore(2)
@@ -116,19 +117,81 @@ _workday_locations: dict[str, str] = {}
 _WORKDAY_LOCATION_CACHE_MAX = 5000
 
 
+
+class WorkdayThrottled(Exception):
+    """Workday is rate-limiting us; the board is being left alone to recover."""
+
+
+# Pacing and cooldown, shared by the full and quick lanes (see the
+# WORKDAY_* settings for the measurements behind them). Both are keyed by host,
+# which is one board. Retrying a throttled board is what used to keep it
+# throttled: a 429 was retried 1.5s later and the board polled again after 30s
+# and 60s, each one restarting Workday's clock, so a block that clears by itself
+# in three minutes turned into "failing for 10 min" several times an hour.
+_workday_lock = threading.Lock()
+_workday_next: dict[str, float] = {}                 # host -> earliest next request
+_workday_cooling: dict[str, tuple[float, int]] = {}  # host -> (resume at, throttles in a row)
+_workday_all_until = 0.0                             # every host, when the block is IP-wide
+# This many boards throttled at once means it is our IP, not one tenant.
+_WORKDAY_WIDE_BLOCK_HOSTS = 3
+
+
+def workday_cooling(host: str, now: float | None = None) -> bool:
+    """Whether `host` is sitting out a throttle, so a sweep can skip it unasked."""
+    now = time.monotonic() if now is None else now
+    with _workday_lock:
+        return now < max(_workday_all_until, _workday_cooling.get(host, (0.0, 0))[0])
+
+
+def _workday_wait_turn(host: str) -> None:
+    """Hold this request until `host` is due another; refuse if it is cooling."""
+    if workday_cooling(host):
+        raise WorkdayThrottled(f"{host} is cooling down after a rate limit; not sending")
+    with _workday_lock:
+        now = time.monotonic()
+        at = max(now, _workday_next.get(host, 0.0))
+        _workday_next[host] = at + settings.WORKDAY_MIN_GAP_SECONDS
+    if at > now:
+        time.sleep(at - now)
+
+
+def _workday_throttled(host: str) -> float:
+    """Start (or lengthen) `host`'s cooldown; returns how long it will sit out."""
+    global _workday_all_until
+    with _workday_lock:
+        now = time.monotonic()
+        strikes = _workday_cooling.get(host, (0.0, 0))[1] + 1
+        pause = min(settings.WORKDAY_COOLDOWN_SECONDS * 2 ** (strikes - 1),
+                    settings.WORKDAY_COOLDOWN_MAX_SECONDS)
+        _workday_cooling[host] = (now + pause, strikes)
+        if sum(now < until for until, _ in _workday_cooling.values()) >= _WORKDAY_WIDE_BLOCK_HOSTS:
+            _workday_all_until = max(_workday_all_until, now + pause)
+    return pause
+
+
 def _workday_call(fn, url: str, quick: bool = False, **kwargs):
-    """One Workday request: bounded concurrency, a clear error for a throttled
-    (non-JSON) answer, and a single patient retry for one."""
-    for attempt in range(2):
-        with _WORKDAY_QUICK_SLOTS if quick else _WORKDAY_SLOTS:
-            resp = fn(url, retries=1, timeout=20, **kwargs)
-        resp.raise_for_status()
-        try:
-            return http.json_body(resp)
-        except http.NotJSON:
-            if attempt:
-                raise
-        time.sleep(3)
+    """One Workday request: paced per board, bounded concurrency, and no retry
+    of a throttled answer (a 429, or a 200 that isn't JSON) -- the board cools
+    down instead."""
+    host = urlsplit(url).netloc
+    _workday_wait_turn(host)
+    with _WORKDAY_QUICK_SLOTS if quick else _WORKDAY_SLOTS:
+        resp = fn(url, retries=1, retry_429=False, timeout=20, **kwargs)
+    if getattr(resp, "status_code", 200) == 429:
+        pause = _workday_throttled(host)
+        raise WorkdayThrottled(f"HTTP 429 from {host}; leaving it alone for {pause:.0f}s")
+    resp.raise_for_status()
+    try:
+        data = http.json_body(resp)
+    except http.NotJSON:
+        _workday_throttled(host)
+        raise
+    with _workday_lock:
+        # Answered properly, so strikes start over -- unless the other lane was
+        # throttled while this request was in flight; that cooldown stands.
+        if time.monotonic() >= _workday_cooling.get(host, (0.0, 0))[0]:
+            _workday_cooling.pop(host, None)
+    return data
 
 
 def _workday_relevant(title: str) -> bool:
@@ -148,7 +211,7 @@ def fetch_workday(company: CompanyConfig) -> list[Job]:
     jobs: dict[str, Job] = {}
     detail_paths: dict[str, str] = {}
 
-    # A quick (priority) sweep runs only the newest-first pass: it is what
+    # A quick sweep runs only the newest-first pass: it is what
     # catches a fresh posting, at a fraction of the keyword queries' requests.
     for query in ("",) if company.quick else _WORKDAY_QUERIES:
         newest = not query

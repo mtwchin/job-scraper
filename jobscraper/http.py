@@ -30,14 +30,19 @@ def session() -> requests.Session:
     return s
 
 
-def request(method: str, url: str, *, retries: int = 2, **kwargs) -> requests.Response:
+def request(method: str, url: str, *, retries: int = 2, retry_429: bool = True,
+            **kwargs) -> requests.Response:
+    """retry_429=False hands a 429 straight back: for a host whose rate limiter
+    restarts its clock on every request, a quick retry only extends the block."""
     kwargs.setdefault("timeout", settings.REQUEST_TIMEOUT)
     last_exc: Exception | None = None
     for attempt in range(retries + 1):
         try:
             resp = session().request(method, url, **kwargs)
             # Retry on transient server / rate-limit responses.
-            if resp.status_code in (429, 500, 502, 503, 504) and attempt < retries:
+            retryable = resp.status_code in (500, 502, 503, 504) or (
+                resp.status_code == 429 and retry_429)
+            if retryable and attempt < retries:
                 time.sleep(_retry_delay(resp, attempt))
                 continue
             return resp

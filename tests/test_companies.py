@@ -5,7 +5,7 @@ from jobscraper.companies import load_companies
 
 def test_companies_parse():
     companies = load_companies(settings.COMPANIES_FILE)
-    assert len(companies) > 50  # sanity: the table loaded
+    assert len(companies) > 30  # sanity: every section of the table loaded
 
 
 def test_every_enabled_company_has_known_adapter_and_config():

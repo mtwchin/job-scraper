@@ -125,7 +125,7 @@ def test_uncategorized_source_gets_title_matching(monkeypatch):
 
 
 # --------------------------------------------------------------------------- #
-# health alert
+# health: logged once per outage, never posted to Discord
 # --------------------------------------------------------------------------- #
 def _sweep(failing: int, total: int = 10, adapter: str = "workday") -> main.Collection:
     outcomes = [(f"Co{i}", adapter, "[workday] NotJSON: HTTP 200 with an empty body" if i < failing
@@ -135,78 +135,107 @@ def _sweep(failing: int, total: int = 10, adapter: str = "workday") -> main.Coll
 
 
 @pytest.fixture
-def alerts(monkeypatch):
-    sent = []
+def health_log(monkeypatch, caplog):
+    """The health lines logged, with a live webhook configured: anything
+    posted to it lands in `.posted`, which must stay empty."""
+    posted = []
     monkeypatch.setattr(settings, "DRY_RUN", False)
     monkeypatch.setattr(settings, "DISCORD_WEBHOOK_URL", "https://example.test/webhook")
-    monkeypatch.setattr(main.notify, "notify_summary", lambda msg, *a, **kw: sent.append(msg))
-    return sent
+    monkeypatch.setattr(main.notify, "notify_summary", lambda msg, *a, **kw: posted.append(msg))
+    monkeypatch.setattr(main.logger, "propagate", True)
+    caplog.set_level("INFO")
+
+    class Log:
+        def __init__(self):
+            self.posted = posted
+
+        @property
+        def down(self):
+            return [r.getMessage() for r in caplog.records if "Scraper health" in r.getMessage()
+                    and r.getMessage().startswith("⚠️")]
+
+        @property
+        def recovered(self):
+            return [r.getMessage() for r in caplog.records if r.getMessage().startswith("✅ Scraper health")]
+    return Log()
 
 
-def test_single_bad_sweep_does_not_alert(store, alerts):
+def test_outages_and_recoveries_are_never_posted_to_discord(store, health_log):
+    for _ in range(4):
+        main._log_health(_sweep(9), store, min_sweeps=2, min_age=0)
+    for _ in range(2):
+        main._log_health(_sweep(0), store, min_sweeps=2, min_age=0)
+    assert len(health_log.down) == 1 and len(health_log.recovered) == 1
+    assert health_log.posted == []
+
+
+def test_dispatch_with_failing_boards_posts_nothing(store, health_log):
+    store.existed = True                 # not a first run: no "is live" note
+    for _ in range(3):
+        main.dispatch(store, _sweep(9), main.Collection(), health_min_sweeps=1, health_min_age=0)
+    main.dispatch(store, _sweep(0), main.Collection(), health_min_sweeps=1, health_min_age=0)
+    assert health_log.down and health_log.recovered
+    assert health_log.posted == []
+
+
+def test_single_bad_sweep_is_not_an_outage(store, health_log):
     """One sweep where everything fails is usually the runner's network blinking."""
-    main._maybe_health_alert(_sweep(9), store, min_sweeps=2, min_age=0)
-    main._maybe_health_alert(_sweep(0), store, min_sweeps=2, min_age=0)
-    main._maybe_health_alert(_sweep(9), store, min_sweeps=2, min_age=0)
-    assert alerts == []
+    main._log_health(_sweep(9), store, min_sweeps=2, min_age=0)
+    main._log_health(_sweep(0), store, min_sweeps=2, min_age=0)
+    main._log_health(_sweep(9), store, min_sweeps=2, min_age=0)
+    assert health_log.down == []
 
 
-def test_sustained_errors_alert_once(store, alerts):
+def test_sustained_errors_are_logged_once(store, health_log):
     for _ in range(4):
-        main._maybe_health_alert(_sweep(9), store, min_sweeps=2, min_age=0)
-    assert len(alerts) == 1
-    assert "9 companies failing" in alerts[0]
-    assert "workday" in alerts[0] and "empty body" in alerts[0]
+        main._log_health(_sweep(9), store, min_sweeps=2, min_age=0)
+    assert len(health_log.down) == 1
+    assert "9 companies failing" in health_log.down[0]
+    assert "workday" in health_log.down[0] and "empty body" in health_log.down[0]
 
 
-def test_alert_waits_for_min_age(store, alerts):
+def test_outage_waits_for_min_age(store, health_log):
     for _ in range(4):
-        main._maybe_health_alert(_sweep(3), store, min_sweeps=2, min_age=600)
-    assert alerts == []
+        main._log_health(_sweep(3), store, min_sweeps=2, min_age=600)
+    assert health_log.down == []
 
 
-def test_one_shot_run_alerts_on_first_sweep(store, alerts):
-    main._maybe_health_alert(_sweep(9), store, min_sweeps=1, min_age=0)
-    assert len(alerts) == 1
-
-
-def test_mixed_sweep_sizes_do_not_repeat_the_alert(store, alerts):
-    """The regression: a small priority sweep (5/19 failing) and a big full
+def test_mixed_sweep_sizes_do_not_repeat_the_outage(store, health_log):
+    """The regression: a small quick sweep (5/19 failing) and a big full
     sweep (10/136 failing) alternated, and the low-rate full sweep counted as a
-    recovery, re-arming the alert every few minutes."""
+    recovery, re-arming the warning every few minutes."""
     def sweep(total, failing):
         outcomes = [(f"Co{i}", "workday" if i < 10 else "greenhouse",
                      "[workday] NotJSON" if i < failing else None) for i in range(total)]
         return main.Collection(errors=["x"] * failing, outcomes=outcomes, n_enabled=total)
 
     for _ in range(10):
-        main._maybe_health_alert(sweep(5, 5), store, min_sweeps=2, min_age=0)
-        main._maybe_health_alert(sweep(136, 10), store, min_sweeps=2, min_age=0)
-    downs = [a for a in alerts if a.startswith("⚠️")]
+        main._log_health(sweep(5, 5), store, min_sweeps=2, min_age=0)
+        main._log_health(sweep(136, 10), store, min_sweeps=2, min_age=0)
     # Co0-4 go down together, Co5-9 (full sweep only) a sweep later — then silence.
-    assert len(downs) == 2
-    assert not any(a.startswith("✅") for a in alerts)
+    assert len(health_log.down) == 2
+    assert health_log.recovered == []
 
 
-def test_recovery_is_announced_once(store, alerts):
+def test_recovery_is_logged_once(store, health_log):
     for _ in range(2):
-        main._maybe_health_alert(_sweep(3), store, min_sweeps=2, min_age=0)
-    main._maybe_health_alert(_sweep(0), store, min_sweeps=2, min_age=0)
-    main._maybe_health_alert(_sweep(0), store, min_sweeps=2, min_age=0)
-    assert len(alerts) == 2
-    assert alerts[1].startswith("✅") and "Co0, Co1, Co2" in alerts[1]
+        main._log_health(_sweep(3), store, min_sweeps=2, min_age=0)
+    main._log_health(_sweep(0), store, min_sweeps=2, min_age=0)
+    main._log_health(_sweep(0), store, min_sweeps=2, min_age=0)
+    assert len(health_log.recovered) == 1 and "Co0, Co1, Co2" in health_log.recovered[0]
 
 
-def test_reported_outage_survives_a_new_process(tmp_path, alerts):
-    """A fresh watch loop that starts mid-outage must not repeat the alert."""
+def test_logged_outage_survives_a_new_process(tmp_path, health_log):
+    """A fresh watch loop that starts mid-outage must not log it again."""
     path = tmp_path / "seen.json"
     first = SeenStore(path)
     for _ in range(2):
-        main._maybe_health_alert(_sweep(3), first, min_sweeps=2, min_age=0)
+        main._log_health(_sweep(3), first, min_sweeps=2, min_age=0)
+    first.save()
     second = SeenStore(path)
     for _ in range(3):
-        main._maybe_health_alert(_sweep(3), second, min_sweeps=2, min_age=0)
-    assert len(alerts) == 1
+        main._log_health(_sweep(3), second, min_sweeps=2, min_age=0)
+    assert len(health_log.down) == 1
 
 
 # --------------------------------------------------------------------------- #

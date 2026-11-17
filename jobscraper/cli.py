@@ -28,8 +28,8 @@ def _cmd_watch(args) -> int:
         settings.WATCH_INTERVAL = args.interval
     if args.company_interval:
         settings.WATCH_COMPANY_INTERVAL = args.company_interval
-    if args.priority_interval:
-        settings.WATCH_PRIORITY_INTERVAL = args.priority_interval
+    if args.quick_interval:
+        settings.WATCH_QUICK_INTERVAL = args.quick_interval
     if args.duration:
         settings.WATCH_DURATION = args.duration
     return main_entry()
@@ -77,17 +77,35 @@ def _cmd_probe(args) -> int:
     return 0 if jobs else 1
 
 
-def _cmd_delivery_status(_args) -> int:
-    """Inspect webhook attempts whose outcome Discord did not confirm."""
-    from .state import SeenStore
-    attempts = SeenStore(settings.STATE_FILE).delivery_attempts
+def _cmd_delivery_status(args) -> int:
+    """Inspect, and optionally resolve, webhook attempts Discord did not confirm."""
+    from .state import SeenStore, file_lock
+
+    with file_lock(settings.STATE_FILE):
+        store = SeenStore(settings.STATE_FILE)
+        action = "settle" if args.settle else "retry" if args.retry else ""
+        if action:
+            uids = sorted(store.delivery_attempts) if args.all else args.uids
+            if not uids:
+                print("Name the attempt uid(s) to resolve, or pass --all.")
+                return 2
+            resolve = store.settle_attempt if action == "settle" else store.retry_attempt
+            for uid in uids:
+                done = resolve(uid)
+                print(f"  {'settled' if action == 'settle' else 'will resend'}: {uid}"
+                      if done else f"  not pending: {uid}")
+            store.save()
+        attempts = store.delivery_attempts
     if not attempts:
         print("No webhook deliveries with unknown outcomes.")
         return 0
-    print(f"{len(attempts)} webhook attempt(s) need manual review:")
+    hours = settings.DELIVERY_ATTEMPT_SETTLE_HOURS
+    print(f"{len(attempts)} webhook attempt(s) with unknown outcomes"
+          + (f" (settled as delivered after {hours:g}h):" if hours > 0 else ":"))
     for uid, item in sorted(attempts.items()):
         print(f"  {item.get('attempted_at', '?')}  {uid}  {item.get('url', '')}")
-    print("Check Discord before clearing an attempt from delivery_attempts in the state file.")
+    print("Check Discord, then `delivery-status --settle UID` if it arrived or "
+          "`--retry UID` to send it again.")
     return 1
 
 
@@ -226,8 +244,8 @@ def build_parser() -> argparse.ArgumentParser:
     pw.add_argument("--company-interval", type=int, default=0,
                     help="seconds between full company-ATS sweeps "
                          f"(default {settings.WATCH_COMPANY_INTERVAL})")
-    pw.add_argument("--priority-interval", type=int, default=0,
-                    help=f"seconds between major-company sweeps (default {settings.WATCH_PRIORITY_INTERVAL})")
+    pw.add_argument("--quick-interval", type=int, default=0,
+                    help=f"seconds between quick board sweeps (default {settings.WATCH_QUICK_INTERVAL})")
     pw.add_argument("--duration", type=int, default=0,
                     help=f"seconds to run before exiting (default {settings.WATCH_DURATION})")
     pw.set_defaults(fn=_cmd_watch)
@@ -251,8 +269,15 @@ def build_parser() -> argparse.ArgumentParser:
 
     sub.add_parser("audit", help="freshness report of past alerts").set_defaults(fn=_cmd_audit)
 
-    sub.add_parser("delivery-status", help="show uncertain webhook deliveries").set_defaults(
-        fn=_cmd_delivery_status)
+    pd = sub.add_parser("delivery-status", help="show or resolve uncertain webhook deliveries")
+    resolve = pd.add_mutually_exclusive_group()
+    resolve.add_argument("--settle", action="store_true",
+                         help="record the named attempt(s) as delivered")
+    resolve.add_argument("--retry", action="store_true",
+                         help="drop the named attempt(s) so they send again next sweep")
+    pd.add_argument("--all", action="store_true", help="apply --settle/--retry to every attempt")
+    pd.add_argument("uids", nargs="*", help="attempt uid(s), as listed")
+    pd.set_defaults(fn=_cmd_delivery_status)
 
     sub.add_parser("doctor", help="health-check companies: which can produce alerts?").set_defaults(
         fn=_cmd_doctor)

@@ -3,7 +3,7 @@ name: all-swe
 # The broad tier: SWE intern / new-grad roles at every company that is NOT in
 # companies.md, from the community aggregator feeds, alerting to
 # DISCORD_WEBHOOK_URL_ALL. No company boards are swept here; those belong to the
-# low-latency top-companies workflow (scraper.yml), which this one runs beside
+# low-latency faang+ workflow (scraper.yml), which this one runs beside
 # and cannot slow down.
 #
 # Keeps its own state file so the two tiers never contend for one, and folds in
@@ -17,9 +17,8 @@ name: all-swe
 # ever caught was ten minutes old.
 #
 # So a run no longer scrapes once and exits. It starts a watch loop that stays
-# alive for ~5.5h, polling the aggregator feeds every 20s (conditional requests
-# that cost a 304 when nothing changed) while sweeping priority boards every
-# minute and every company's ATS every two, in the background. When a loop
+# alive for ~5.5h, polling the aggregator feeds every 60s (conditional requests
+# that cost a 304 when nothing changed). When a loop
 # finishes it dispatches the next run itself (see the last step), so coverage is
 # continuous rather than waiting on cron. The cron below is only a backstop for a
 # chain that broke, e.g. a runner that died outright.
@@ -87,7 +86,7 @@ jobs:
 
       - name: Watch for new roles
         env:
-          # Summaries and health notes for this tier go to its own channel too.
+          # Summaries for this tier go to its own channel too.
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL_ALL }}
           DISCORD_WEBHOOK_URL_ALL: ${{ secrets.DISCORD_WEBHOOK_URL_ALL }}
           SCOPE: rest

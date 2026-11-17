@@ -1,7 +1,7 @@
 # Internship Radar 🛰️
 
-Polls priority (FAANG+) companies' **official career APIs** every **15 seconds**,
-aggregator feeds every 20 seconds, and the full company list every minute. It pings a
+Polls FAANG+ companies' **official career APIs** every **15 seconds** (a deep
+scan every minute) and the aggregator feeds every 20 seconds. It pings a
 **Discord webhook** the moment a new **SWE/SDE internship or new-grad** role opens.
 Tuned for **off-season** (fall/winter/spring) internships by default.
 
@@ -57,11 +57,12 @@ aggregator feeds (listings.json) ──────┘              (3 keys)
 | `apple`      | jobs.apple.com                  | — (server-rendered internship listings) |
 | `oracle`     | *.fa.oraclecloud.com            | `host=;site=` (full paginated board) |
 
-Verified-working out of the box: **Amazon, Google, Netflix, Palantir, OpenAI,
-Ramp, Notion, Plaid, Stripe, Databricks, Coinbase, Robinhood, Airbnb, Dropbox,
-Reddit, Pinterest, DoorDash, Instacart, Lyft, Brex, Figma, Discord, Anthropic,
-Scale AI, Cloudflare, Roblox, Block, Affirm, Asana, Samsara, Nvidia, Salesforce,
-Adobe, PayPal, Microsoft, Apple, JPMC**.
+`companies.md` is the FAANG+ list: about 160 companies at or near IBM on the
+Plonkd prestige ranking, plus any company paying entry-level SWEs over $200K
+total comp (levels.fyi). That covers big tech, AI labs, top-tier and
+infrastructure tech, the top banks, and the quant firms. Every row,
+whether its board is read or not, alerts to the FAANG+ channel; every company
+not listed goes to the all-SWE channel. To demote a company, delete its row.
 
 > **Meta** remains disabled because its GraphQL query ID rotates.
 
@@ -104,7 +105,7 @@ starts its own successor:
 
 | Workflow | Covers | Channel | Cadence |
 |---|---|---|---|
-| `scraper.yml` (*top-companies*) | every company in `companies.md`: its own board, plus the feeds' copies | `DISCORD_WEBHOOK_URL` | feeds every 20s, priority boards every 15s, all boards every 60s |
+| `scraper.yml` (*faang+*) | every company in `companies.md` (FAANG+): its own board, plus the feeds' copies | `DISCORD_WEBHOOK_URL` | feeds every 20s, quick board sweep every 15s, full board sweep every 60s |
 | `all-swe.yml` (*all-swe*) | SWE roles at every **other** company, from the aggregator feeds | `DISCORD_WEBHOOK_URL_ALL` | feeds every 60s |
 
 They are separate on purpose: the broad feed can't slow down or take out the
@@ -127,7 +128,7 @@ Install once (`pip install -e .`) to get a `jobscraper` command, or use
 | `jobscraper run` | A single sweep, then exit. Useful for testing and for external cron. |
 | `jobscraper list [--disabled]` | Show tracked companies and the adapter breakdown. |
 | `jobscraper audit` | Freshness report — catch latency of past alerts (see below). |
-| `jobscraper delivery-status` | List webhook batches whose outcome needs manual review. |
+| `jobscraper delivery-status [--settle\|--retry] [--all \| UID...]` | List webhook batches with unknown outcomes, or resolve them. |
 | `jobscraper doctor` | Health-check every company: which can produce alerts, which are broken. |
 | `jobscraper discover <name\|url>` | Detect a company's ATS config to add/fix it. |
 | `jobscraper probe <adapter> <config>` | Run one adapter against one config and show what it returns. |
@@ -145,14 +146,21 @@ companies that fetch fine but happen to have no matching role open right now
 (normal, especially off-season). Most runs alerting on few roles is expected: at
 any moment only a handful of companies have a *fresh* (<24 h) US/CA SWE role.
 
-Run fetches companies concurrently (`CONCURRENCY`, default 12), so ~136 companies
-complete in ~25–30 s rather than minutes. Logs are structured (`LOG_LEVEL=DEBUG`
+Run fetches companies concurrently (`CONCURRENCY`, default 12), so the whole
+list completes in well under a minute. Logs are structured (`LOG_LEVEL=DEBUG`
 for per-company detail). A board that keeps failing (`HEALTH_ALERT_SWEEPS`
-attempts in a row over `HEALTH_ALERT_MINUTES`) gets **one** Discord heads-up,
-grouped by platform, and a ✅ when it recovers. It is never re-posted every
-sweep, and a new watch loop that starts mid-outage stays quiet. Meanwhile a
-failing board backs off (30 s, doubling to 15 min) so we stop hammering a host
-that is rate-limiting us.
+attempts in a row over `HEALTH_ALERT_MINUTES`) gets **one** line in the run
+log, grouped by platform, and another when it recovers. Nothing about scraper
+health is posted to Discord: the channel only carries jobs. Meanwhile a failing
+board backs off (30 s, doubling to 15 min) so we stop hammering a host that is
+struggling.
+
+Workday gets stricter handling, because it rate-limits by client IP, sends no
+`Retry-After`, and extends the block whenever another request arrives during it.
+Requests to one Workday board are spaced `WORKDAY_MIN_GAP_SECONDS` apart, and a
+board that answers 429 (or an empty 200) is not retried: it sits out
+`WORKDAY_COOLDOWN_SECONDS`, doubling while it keeps refusing, and sweeps skip
+it until then. Three boards refusing at once pauses every Workday board.
 
 `pytest` covers the filter and config logic and runs in CI (`.github/workflows/
 tests.yml`) on every push.
@@ -177,8 +185,10 @@ Set these as env vars (locally) or edit the `env:` block in the workflow:
 | `TITLE_COOLDOWN_HOURS` | `168`           | Don't re-alert a company + title in another location within this window. `0` = off. |
 | `CONCURRENCY`       | `12`               | Companies fetched in parallel.                     |
 | `HEALTH_ALERT_SWEEPS` | `2`              | A board is "down" after this many failed attempts in a row... |
-| `HEALTH_ALERT_MINUTES` | `10`            | ...spanning at least this long. One alert per outage. |
+| `HEALTH_ALERT_MINUTES` | `10`            | ...spanning at least this long. Logged once per outage; never posted to Discord. |
 | `BACKOFF_BASE_SECONDS` / `BACKOFF_MAX_SECONDS` | `30` / `900` | Pause a failing board, doubling per failure. |
+| `WORKDAY_MIN_GAP_SECONDS` | `1.0`       | Minimum spacing between requests to one Workday board. |
+| `WORKDAY_COOLDOWN_SECONDS` / `WORKDAY_COOLDOWN_MAX_SECONDS` | `240` / `1800` | How long a throttled Workday board is left alone, doubling per repeat. |
 | `LOG_LEVEL`         | `INFO`             | `DEBUG` shows per-company fetch/error lines.        |
 | `DISCORD_WEBHOOK_URL_ALL` | unset        | Second channel: every Simplify SWE role, any company. Unset = disabled. |
 | `SIMPLIFY_ALL_ENABLED` | `true`          | Master switch for the all-companies feed (still needs `DISCORD_WEBHOOK_URL_ALL`). |
@@ -379,11 +389,14 @@ polls on its own clock**:
 - **Every company’s own ATS every minute**, on a background thread. Hundreds of
   requests with no conditional-request support, and a full sweep takes 15–90s;
   it used to sit in front of every feed poll, and now never delays one.
-- **Priority (FAANG+) boards every 15s**, in a lane of their own so a slow full
-  sweep never holds them back. It is a *quick* sweep: Workday boards read only
-  their newest-first "Posted Today" pages instead of every keyword search, so
-  the whole priority sweep takes a few seconds rather than ~30. The full sweep
-  still runs the complete scan. `PRIORITY_COMPANIES` sets the list.
+- **Every board again every 15s**, in a lane of its own so a slow full sweep
+  never holds it back. It is a *quick* sweep: Workday boards read only their
+  newest-first "Posted Today" pages instead of every keyword search. The full
+  sweep still runs the complete scan. `WATCH_QUICK_INTERVAL` sets the pace.
+- **Each board alerts the moment it finishes**, not when its sweep does. A
+  sweep lasts as long as its slowest board, and one board (Anduril's Greenhouse
+  API, on a bad minute) can take 50s; reporting per sweep held every other
+  board's new roles back that long.
 - The loop runs ~5.5h, then exits cleanly and **dispatches its own successor**
   (`workflow_dispatch`, one of the few events `GITHUB_TOKEN` may trigger). The
   `concurrency` group queues that run behind anything still running, so it
@@ -392,15 +405,9 @@ polls on its own clock**:
   gaps of up to 2.5h.
 
 Detection latency is now bounded by the poll interval (~20s after an aggregator
-publishes, ~15-20s for a priority board, ~1-2 min for another company board), not
-by the scheduler.
-
-**Priority alerts come first.** A priority company's new roles are sent ahead of
-everything else in their own message, marked ⭐, and are never the ones held
-back by `MAX_NOTIFICATIONS_PER_RUN`. Set the `PRIORITY_MENTION` repository
-variable (Settings → Secrets and variables → Actions → Variables), e.g. `@here`
-or a role `<@&ROLE_ID>`, and that message pings too, so a FAANG+ opening reaches
-your phone instead of waiting in the channel. Other alerts never ping.
+publishes, ~15-20s after a role appears on a tracked board), not by the
+scheduler. Every alert message has the same `🚨 N new role(s) just opened`
+header.
 
 **Aggregators publish in batches.** Simplify pushes its feed every 30 minutes
 (at :01 and :31), so a role that only reaches us through Simplify can be up to
@@ -428,9 +435,14 @@ Set `PRUNE_DELISTED_DAYS` if you need to bound state size; pruning uses
 
 Before each webhook batch, the scraper saves a delivery attempt. A lost response
 or server error holds that batch for manual review, while an explicit 4xx
-rejection leaves it eligible for retry. Run `jobscraper delivery-status` to list
-unknown outcomes and check Discord before clearing an attempt from
-`delivery_attempts` in `seen_jobs.json`. GitHub still has a short window between
+rejection leaves it eligible for retry. An unknown outcome (usually a Discord
+POST that timed out after it was received) keeps the job suppressed, since it
+most likely posted. Run `jobscraper delivery-status` to list them; after
+checking Discord, `--settle UID` records one as delivered and `--retry UID`
+sends it again next sweep (`--all` for every attempt). Anything left alone is
+settled as delivered after `DELIVERY_ATTEMPT_SETTLE_HOURS` (default 24; 0
+keeps attempts pending), and the sweep warning only repeats when the set of
+pending attempts changes. GitHub still has a short window between
 the local save and the next state push; the one-minute checkpoints bound that
 window but cannot make Discord and git an atomic transaction.
 

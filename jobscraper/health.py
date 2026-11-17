@@ -1,10 +1,14 @@
-"""Per-company health: one alert per outage, one note when it clears.
+"""Per-company health: one log line per outage, one when it clears.
+
+Log only. These used to be posted to the Discord channel as well, where they
+buried the job alerts they sat between; a board that is down is backed off
+and retried automatically, so there was never anything to do about one.
 
 This used to be a single error *rate* per sweep, which broke down once the
-watch loop ran two kinds of sweep. A priority sweep of 19 boards with five
+watch loop ran two kinds of sweep. A quick sweep of 19 boards with five
 Workday boards down is 26% and over the threshold; the full sweep of ~136
 boards a minute later is 7% and under it, which counted as "recovered" and
-re-armed the alert. The result was the same warning every three minutes for
+re-armed the warning. The result was the same warning every three minutes for
 hours.
 
 So health is now tracked per company, across every sweep that touches it. A
@@ -53,7 +57,7 @@ class Tracker:
 
     def evaluate(self, reported: set[str], min_streak: int, min_age: float,
                  now: float | None = None) -> Report:
-        """What to tell the channel, given who has already been reported."""
+        """What to log, given who has already been reported."""
         now = now or time.time()
         down = {
             name: f for name, f in self.failing.items()
@@ -88,7 +92,7 @@ def format_down(report: Report, tracker: Tracker, now: float | None = None) -> s
         scope = f"{len(names)}/{tracked}" if tracked else str(len(names))
         sample = short_error(report.down[names[0]].error)
         lines.append(f"• **{adapter}** ({scope}): {', '.join(names)} — {sample}")
-    lines.append("They're backed off and retried automatically; you'll get a ✅ when they recover.")
+    lines.append("They're backed off and retried automatically.")
     return "\n".join(lines)
 
 

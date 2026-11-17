@@ -14,9 +14,9 @@ So one invocation stays up for hours and sweeps on a timer:
   cycle costs a couple of hundred milliseconds and no parsing at all.
 * On background threads, every WATCH_COMPANY_INTERVAL (default 120s) it sweeps
   every company's own ATS, which is hundreds of requests and can't be
-  short-circuited, and every WATCH_PRIORITY_INTERVAL (60s), in a lane of its
-  own, it takes a quick look at the priority companies' boards. A sweep in
-  progress never delays a feed poll or the other lane.
+  short-circuited, and every WATCH_QUICK_INTERVAL (60s), in a lane of its own,
+  it takes a quick look at every board's newest postings. A sweep in progress
+  never delays a feed poll or the other lane.
 
 State lives in memory for the life of the loop and is flushed to disk on a timer
 and immediately after anything is sent, so a killed runner loses at most one
@@ -25,6 +25,7 @@ flush interval — and never re-sends what it already delivered.
 from __future__ import annotations
 
 import concurrent.futures as cf
+import queue
 import signal
 import time
 from dataclasses import dataclass, field
@@ -44,7 +45,7 @@ _HEARTBEAT_INTERVAL = 30 * 60
 class Stats:
     cycles: int = 0
     company_sweeps: int = 0
-    priority_sweeps: int = 0
+    quick_sweeps: int = 0
     sent: int = 0
     idle_cycles: int = 0        # nothing changed upstream; cycle short-circuited
     errors: int = 0
@@ -94,11 +95,25 @@ def _sleep_until(deadline: float, stopper: _Stopper, on_wake=None) -> None:
 class _Lane:
     """One kind of board sweep on its own worker thread."""
 
-    def __init__(self, name: str, interval: int, only_priority: bool):
-        self.name, self.interval, self.only_priority = name, interval, only_priority
+    def __init__(self, name: str, interval: int, quick: bool):
+        self.name, self.interval, self.quick = name, interval, quick
         self.pool = cf.ThreadPoolExecutor(max_workers=1, thread_name_prefix=f"boards-{name}")
         self.future: cf.Future | None = None
         self.next_at = 0.0          # sweep right away
+        # Boards the running sweep has finished, waiting for the main thread.
+        self.done: queue.SimpleQueue[main.Collection] = queue.SimpleQueue()
+
+    def drain(self) -> main.Collection | None:
+        """Every board finished since the last drain, as one collection."""
+        c = None
+        while True:
+            try:
+                board = self.done.get_nowait()
+            except queue.Empty:
+                return c
+            if c is None:
+                c = main.Collection()
+            c.absorb(board)
 
 
 class _Boards:
@@ -106,58 +121,77 @@ class _Boards:
 
     A full sweep takes 15-90s and used to sit in front of every feed poll, so a
     role that had just landed in a feed waited behind it. Now sweeps run beside
-    the feed poller, and their results are dispatched on the main thread the
-    moment they finish. Dispatch stays single-threaded, so the store needs no
-    locking.
+    the feed poller, and each board's results are dispatched on the main thread
+    within a second of that board finishing, not when the sweep's slowest
+    board does. Dispatch stays single-threaded, so the store needs no locking.
 
-    Priority boards get a lane of their own. Sharing one worker with the full
-    sweep, they were checked about once a minute whatever the priority interval
-    said, because a priority sweep could only start once the full sweep ahead of
-    it had finished. Their sweep is also a quick one (see CompanyConfig.quick),
-    so it takes seconds and can run every few.
+    Quick sweeps get a lane of their own. Sharing one worker with the full
+    sweep, they ran about once a minute whatever their interval said, because a
+    quick sweep could only start once the full sweep ahead of it had finished.
+    A quick sweep reads only each board's newest postings (see
+    CompanyConfig.quick), so it takes seconds and can run every few.
     """
 
     def __init__(self, store: SeenStore, stats: Stats, company_interval: int,
-                 priority_interval: int):
+                 quick_interval: int):
         self.store, self.stats = store, stats
-        self.full = _Lane("full", company_interval, only_priority=False)
-        self.priority = _Lane("priority", priority_interval, only_priority=True)
+        self.full = _Lane("full", company_interval, quick=False)
+        self.quick = _Lane("quick", quick_interval, quick=True)
 
     def tick(self) -> None:
         """Dispatch any finished sweep, then start each lane's next one if due."""
         if settings.SCOPE == "rest":
             return                  # the broad tier never sweeps boards
-        for lane in (self.priority, self.full):
+        for lane in (self.quick, self.full):
             self._tick(lane)
 
     def _tick(self, lane: _Lane) -> None:
+        # Drain before checking the future: a board can land between the two,
+        # and the future finishing only after the drain means no board is left.
+        boards = lane.drain()
+        finished = lane.future is not None and lane.future.done()
+        if boards is not None:
+            self._dispatch(lane, boards, main.Collection())
         if lane.future is not None:
-            if not lane.future.done():
+            if not finished:
                 return
             future, lane.future = lane.future, None
+            if (boards := lane.drain()) is not None:
+                self._dispatch(lane, boards, main.Collection())
             try:
                 c, general = future.result()
-                self.stats.sent += main.dispatch(self.store, c, general)
-                self.stats.errors += len(c.errors)
             except Exception:  # noqa: BLE001 - one bad sweep must not end the loop
                 self.stats.errors += 1
                 logger.exception("watch: %s sweep failed; continuing", lane.name)
+            else:
+                # Its boards went out above; what is left is only bookkeeping.
+                if c.matches or general.matches or c.outcomes:
+                    self._dispatch(lane, c, general)
 
         now = time.monotonic()
         if now < lane.next_at:
             return
         lane.next_at = now + lane.interval
-        if lane.only_priority:
-            self.stats.priority_sweeps += 1
+        if lane.quick:
+            self.stats.quick_sweeps += 1
         else:
             self.stats.company_sweeps += 1
         lane.future = lane.pool.submit(main.collect_matches, include_companies=True,
-                                       only_priority=lane.only_priority,
-                                       include_aggregators=False)
+                                       quick=lane.quick,
+                                       include_aggregators=False,
+                                       on_board=lane.done.put)
+
+    def _dispatch(self, lane: _Lane, c: main.Collection, general: main.Collection) -> None:
+        try:
+            self.stats.sent += main.dispatch(self.store, c, general, quiet=True)
+            self.stats.errors += len(c.errors)
+        except Exception:  # noqa: BLE001 - one bad dispatch must not end the loop
+            self.stats.errors += 1
+            logger.exception("watch: %s sweep dispatch failed; continuing", lane.name)
 
     def finish(self) -> None:
         """Let in-flight sweeps land so what they found is not dropped."""
-        for lane in (self.priority, self.full):
+        for lane in (self.quick, self.full):
             if lane.future is not None:
                 cf.wait([lane.future])
             lane.next_at = float("inf")
@@ -172,15 +206,15 @@ def watch() -> int:
 
     interval = max(settings.WATCH_INTERVAL, 5)
     company_interval = max(settings.WATCH_COMPANY_INTERVAL, 15)
-    priority_interval = max(settings.WATCH_PRIORITY_INTERVAL, 15)
+    quick_interval = max(settings.WATCH_QUICK_INTERVAL, 10)
     duration = settings.WATCH_DURATION
     stopper = _Stopper()
     store = SeenStore(settings.STATE_FILE)
     stats = Stats()
-    boards = _Boards(store, stats, company_interval, priority_interval)
+    boards = _Boards(store, stats, company_interval, quick_interval)
 
     boards_desc = ("no board sweeps" if settings.SCOPE == "rest" else
-                   f"priority boards every {priority_interval}s, "
+                   f"quick board sweep every {quick_interval}s, "
                    f"full company sweep every {company_interval}s")
     logger.info(
         "watch [scope=%s]: polling feeds every %ds, %s, for up to %s "
@@ -222,10 +256,10 @@ def watch() -> int:
             logger.debug("watch: feed poll %d took %.1fs, longer than the %ds interval",
                          stats.cycles, elapsed, interval)
         if now >= next_heartbeat:
-            logger.info("watch: %s in — %d feed polls (%d idle), %d full / %d priority sweeps, "
+            logger.info("watch: %s in — %d feed polls (%d idle), %d full / %d quick sweeps, "
                         "%d sent, %d records",
                         _fmt_duration(int(stats.uptime())), stats.cycles, stats.idle_cycles,
-                        stats.company_sweeps, stats.priority_sweeps, stats.sent, len(store))
+                        stats.company_sweeps, stats.quick_sweeps, stats.sent, len(store))
             next_heartbeat = now + _HEARTBEAT_INTERVAL
         # Never sleep past the deadline: overshooting by a whole interval would
         # push a long run past the job limit it was sized to fit inside.
@@ -240,10 +274,10 @@ def watch() -> int:
         store.save()
 
     logger.info(
-        "watch: done after %s — %d feed polls (%d idle, %d full sweeps, %d priority sweeps), "
+        "watch: done after %s — %d feed polls (%d idle, %d full sweeps, %d quick sweeps), "
         "%d notification(s), %d error(s), %d records",
         _fmt_duration(int(stats.uptime())), stats.cycles, stats.idle_cycles,
-        stats.company_sweeps, stats.priority_sweeps, stats.sent, stats.errors, len(store),
+        stats.company_sweeps, stats.quick_sweeps, stats.sent, stats.errors, len(store),
     )
     return 0
 
