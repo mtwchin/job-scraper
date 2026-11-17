@@ -851,7 +851,6 @@
   "delivery_rejections": {},
   "health_reported": [
     "Barclays",
-    "Blue Origin",
     "Salesforce"
   ],
   "jobs": {
@@ -1875,7 +1874,7 @@
       "company": "Blue Origin",
       "duplicate_of": "blue origin::Aerospace-Systems-Engineer-I---Early-Career--2026-Starts-_R70060",
       "first_seen": "2026-10-21T03:37:43+00:00",
-      "last_seen": "2026-11-16T00:00:34+00:00",
+      "last_seen": "2026-11-17T03:12:34+00:00",
       "location": "Greater Seattle Area, Space Coast, FL, Denver, CO, Reston, VA",
       "posted_at": "Posted 30+ Days Ago",
       "seeded": true,
@@ -1886,7 +1885,7 @@
     "blue origin::Aerospace-Systems-Engineer-I---Early-Career--2026-Starts-_R70060": {
       "company": "Blue Origin",
       "first_seen": "2026-10-21T03:37:44+00:00",
-      "last_seen": "2026-11-16T00:00:34+00:00",
+      "last_seen": "2026-11-17T03:12:34+00:00",
       "location": "Greater Seattle Area, Space Coast, FL, Denver, CO, Longmont, CO; Greater Seattle Area, Space Coast, FL, Denver, CO, Reston, VA",
       "posted_at": "Posted 30+ Days Ago",
       "source": "",
@@ -1896,7 +1895,7 @@
     "blue origin::Aerospace-Systems-Engineer-I---Early-Career--2027-Starts-_R71322": {
       "company": "Blue Origin",
       "first_seen": "2026-10-21T03:37:44+00:00",
-      "last_seen": "2026-11-16T00:00:34+00:00",
+      "last_seen": "2026-11-17T03:12:34+00:00",
       "location": "Greater Seattle Area, Van Horn, TX, Space Coast, FL, Huntsville, AL, Denver, CO",
       "posted_at": "Posted 30+ Days Ago",
       "source": "",
@@ -1906,7 +1905,7 @@
     "blue origin::Avionics---Embedded-Software-Engineer-I---Early-Career--2026-Starts-_R70055": {
       "company": "Blue Origin",
       "first_seen": "2026-10-21T03:37:45+00:00",
-      "last_seen": "2026-11-16T00:00:34+00:00",
+      "last_seen": "2026-11-17T03:12:34+00:00",
       "location": "Greater Seattle Area, Los Angeles, CA",
       "posted_at": "Posted 30+ Days Ago",
       "source": "",
@@ -1916,7 +1915,7 @@
     "blue origin::Avionics---Embedded-Software-Engineer-I---Early-Career--2027-Starts-_R71324": {
       "company": "Blue Origin",
       "first_seen": "2026-10-21T03:37:44+00:00",
-      "last_seen": "2026-11-16T00:00:34+00:00",
+      "last_seen": "2026-11-17T03:12:34+00:00",
       "location": "Greater Seattle Area, Van Horn, TX, Space Coast, FL, Huntsville, AL, Denver, CO",
       "posted_at": "Posted 30+ Days Ago",
       "source": "",
@@ -1936,7 +1935,7 @@
     "blue origin::Summer-2027-Aerospace-Systems-Engineering-Intern---Graduate_R71435": {
       "company": "Blue Origin",
       "first_seen": "2026-10-21T03:37:44+00:00",
-      "last_seen": "2026-11-16T00:00:34+00:00",
+      "last_seen": "2026-11-17T03:12:34+00:00",
       "location": "Greater Seattle Area, Space Coast, FL, Denver, CO",
       "posted_at": "Posted 6 Days Ago",
       "source": "",
@@ -1946,7 +1945,7 @@
     "blue origin::Summer-2027-Avionics-Software-Internship---Graduate_R71423": {
       "company": "Blue Origin",
       "first_seen": "2026-10-21T20:11:14+00:00",
-      "last_seen": "2026-11-16T00:00:34+00:00",
+      "last_seen": "2026-11-17T03:12:34+00:00",
       "location": "Greater Seattle Area, Los Angeles, CA, Denver, CO",
       "posted_at": "Posted 8 Days Ago",
       "source": "",
@@ -1966,7 +1965,7 @@
     "blue origin::Summer-2027-Electrical-Systems-Engineering-Internship---Graduate_R71437": {
       "company": "Blue Origin",
       "first_seen": "2026-10-21T03:37:44+00:00",
-      "last_seen": "2026-11-16T00:00:34+00:00",
+      "last_seen": "2026-11-17T03:12:34+00:00",
       "location": "Greater Seattle Area, Space Coast, FL, Huntsville, AL, Denver, CO, Los Angeles, CA",
       "posted_at": "Posted 6 Days Ago",
       "source": "",
@@ -1986,7 +1985,7 @@
     "blue origin::Summer-2027-Software-Developer-Internship---Graduate_R71434": {
       "company": "Blue Origin",
       "first_seen": "2026-10-21T03:37:44+00:00",
-      "last_seen": "2026-11-16T00:00:34+00:00",
+      "last_seen": "2026-11-17T03:12:34+00:00",
       "location": "Greater Seattle Area, Denver, CO, Los Angeles, CA, Longmont, CO",
       "posted_at": "Posted 7 Days Ago",
       "source": "",
@@ -1996,7 +1995,7 @@
     "blue origin::Summer-2027-Software-Developer-Internship---Undergraduate_R71425": {
       "company": "Blue Origin",
       "first_seen": "2026-10-21T03:37:44+00:00",
-      "last_seen": "2026-11-16T00:00:34+00:00",
+      "last_seen": "2026-11-17T03:12:34+00:00",
       "location": "Greater Seattle Area, Los Angeles, CA, Denver, CO",
       "posted_at": "Posted 7 Days Ago",
       "source": "",
@@ -68169,5 +68168,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T03:09:14+00:00"
+  "updated_at": "2026-11-17T03:13:16+00:00"
 }
