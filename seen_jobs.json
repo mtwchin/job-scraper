@@ -850,17 +850,16 @@
   },
   "delivery_rejections": {},
   "health_reported": [
+    "Adobe",
     "Barclays",
     "Blackrock",
     "Blue Origin",
     "Capital One",
     "Cisco",
-    "Disney",
     "Intel",
     "Nvidia",
     "Red Hat",
     "Salesforce",
-    "Workday",
     "Zoom"
   ],
   "jobs": {
@@ -68148,5 +68147,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T00:35:53+00:00"
+  "updated_at": "2026-11-17T00:37:55+00:00"
 }
