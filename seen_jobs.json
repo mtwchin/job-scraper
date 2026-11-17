@@ -856,7 +856,6 @@
     "Capital One",
     "Cisco",
     "Disney",
-    "Intel",
     "Nvidia",
     "PayPal",
     "Workday"
@@ -2901,7 +2900,7 @@
       "company": "Intel",
       "duplicate_of": "intel::AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139",
       "first_seen": "2026-10-20T21:16:46+00:00",
-      "last_seen": "2026-11-16T00:00:34+00:00",
+      "last_seen": "2026-11-17T02:06:10+00:00",
       "location": "US, California, Santa Clara",
       "posted_at": "Posted Today",
       "seeded": true,
@@ -2912,7 +2911,7 @@
     "intel::AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139": {
       "company": "Intel",
       "first_seen": "2026-10-20T21:07:14+00:00",
-      "last_seen": "2026-11-16T00:00:34+00:00",
+      "last_seen": "2026-11-17T02:06:10+00:00",
       "location": "US, Oregon, Hillsboro",
       "posted_at": "Posted Today",
       "source": "",
@@ -3046,7 +3045,7 @@
     "intel::Software-Engineering-PhD-Intern-New-2027_JR0287458-1": {
       "company": "Intel",
       "first_seen": "2026-10-01T22:33:09+00:00",
-      "last_seen": "2026-11-16T00:00:34+00:00",
+      "last_seen": "2026-11-17T02:06:10+00:00",
       "location": "US, Oregon, Hillsboro",
       "posted_at": "Posted Today",
       "source": "",
@@ -3066,7 +3065,7 @@
     "intel::System-Software-Engineering---PhD-Intern_JR0287457": {
       "company": "Intel",
       "first_seen": "2026-09-25T18:59:20+00:00",
-      "last_seen": "2026-11-16T00:00:34+00:00",
+      "last_seen": "2026-11-17T02:06:10+00:00",
       "location": "US, Oregon, Hillsboro",
       "posted_at": "Posted Today",
       "source": "",
@@ -68146,5 +68145,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T02:05:36+00:00"
+  "updated_at": "2026-11-17T02:06:38+00:00"
 }
