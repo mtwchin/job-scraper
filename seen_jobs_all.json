@@ -1,5 +1,5 @@
 {
-  "count": 9838,
+  "count": 9840,
   "delivery_attempts": {
     "simplify:abb::simplify-bc7d8bd5-8a92-4609-ab88-b1fe213fc0a4": {
       "attempted_at": "2026-10-23T01:32:40+00:00",
@@ -8629,7 +8629,7 @@
     "simplify:amd::simplify-0727f717-7671-410b-a2ce-72856c4f8adb": {
       "company": "AMD",
       "first_seen": "2026-10-28T23:01:31+00:00",
-      "last_seen": "2026-10-28T23:01:31+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "Austin, TX, San Jose, CA",
       "posted_at": "1793210760",
       "source": "simplify",
@@ -8758,7 +8758,7 @@
     "simplify:amd::simplify-aa2ac712-d6a4-43d6-a62c-0d3634bb35d1": {
       "company": "AMD",
       "first_seen": "2026-11-06T23:31:50+00:00",
-      "last_seen": "2026-11-06T23:31:50+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "San Jose, CA",
       "posted_at": "1793981460",
       "source": "simplify",
@@ -13187,7 +13187,7 @@
     "simplify:barclays::simplify-0c491fd8-af0e-4083-a67f-3227daff2f2c": {
       "company": "Barclays",
       "first_seen": "2026-09-10T00:38:44+00:00",
-      "last_seen": "2026-10-02T00:00:32+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1788912000",
       "title": "Technology Developer Graduate Programme",
       "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Graduate-Programme-Knutsford_JR-0000129319"
@@ -13195,7 +13195,7 @@
     "simplify:barclays::simplify-0da1449e-7007-4294-b336-740b56c5fbfc": {
       "company": "Barclays",
       "first_seen": "2026-09-10T00:38:44+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1788912000",
       "title": "Technology Developer Intern",
       "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381"
@@ -13203,7 +13203,7 @@
     "simplify:barclays::simplify-1be31250-7c2e-4be6-8e3d-c3c5b791655a": {
       "company": "Barclays",
       "first_seen": "2026-09-10T00:38:44+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1788912000",
       "title": "Technology Developer Apprentice",
       "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Knutsford_JR-0000129443"
@@ -13211,7 +13211,7 @@
     "simplify:barclays::simplify-2892cb3f-9aea-4076-b536-63a821a5fecd": {
       "company": "Barclays",
       "first_seen": "2026-09-10T00:38:44+00:00",
-      "last_seen": "2026-09-26T00:00:26+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1788912000",
       "title": "Technology Developer Intern - Programme",
       "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379"
@@ -13235,7 +13235,7 @@
     "simplify:barclays::simplify-75af429c-8e03-496d-9fd9-59a3f5333cc7": {
       "company": "Barclays",
       "first_seen": "2026-09-10T00:38:44+00:00",
-      "last_seen": "2026-10-02T00:00:32+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1788912000",
       "title": "Graduate Technology Developer",
       "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Graduate-Programme-Glasgow_JR-0000129313"
@@ -13253,7 +13253,7 @@
     "simplify:barclays::simplify-81a0e97d-9eea-4bd4-bbf6-b511c860fa9c": {
       "company": "Barclays",
       "first_seen": "2026-09-10T00:38:44+00:00",
-      "last_seen": "2026-09-26T00:00:26+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1788912000",
       "title": "Technology Developer Intern",
       "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387"
@@ -13276,7 +13276,7 @@
     "simplify:barclays::simplify-999c4ce7-c078-4671-af20-af4781f19526": {
       "company": "Barclays",
       "first_seen": "2026-09-10T00:38:44+00:00",
-      "last_seen": "2026-09-26T00:00:26+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1788912000",
       "title": "Technology Developer Apprentice - Digital & Technology Solutions",
       "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Northampton_JR-0000129431"
@@ -13292,7 +13292,7 @@
     "simplify:barclays::simplify-de612dd0-b7b6-47d1-b04a-c71a0e2b1bc1": {
       "company": "Barclays",
       "first_seen": "2026-09-10T00:38:44+00:00",
-      "last_seen": "2026-10-02T00:00:32+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1788912000",
       "title": "Technology Developer Graduate",
       "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Graduate-Programme-Northampton_JR-0000129374"
@@ -13308,7 +13308,7 @@
     "simplify:barclays::simplify-e3d70ac5-dc1d-4c06-b733-8c76af99ef70": {
       "company": "Barclays",
       "first_seen": "2026-09-10T00:38:44+00:00",
-      "last_seen": "2026-09-26T00:00:26+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1788912000",
       "title": "Technology Developer Apprentice",
       "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Graduate-Apprenticeship-Programme-Glasgow_JR-0000129447"
@@ -26593,6 +26593,16 @@
       "title": "Technology Program Intern",
       "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Reston-VA/Campus---Technology-Program-Intern_JR2810"
     },
+    "simplify:fantom::simplify-ae1ec61d-333f-47da-8b9c-8bf931b6d07b": {
+      "company": "Fantom",
+      "first_seen": "2026-11-17T08:02:04+00:00",
+      "last_seen": "2026-11-17T08:02:04+00:00",
+      "location": "Hanover, MD",
+      "posted_at": "1794901487",
+      "source": "simplify",
+      "title": "Software Engineer Level 0",
+      "url": "https://jobs.lever.co/fantom-corporation/814d8302-21a4-420c-90d2-925644524af7/apply"
+    },
     "simplify:faraday future::simplify-4b7d9212-ac43-4c9a-8377-465403c23615": {
       "company": "Faraday Future",
       "first_seen": "2026-10-17T01:36:08+00:00",
@@ -33580,7 +33590,7 @@
     "simplify:imbue::simplify-4a41c21f-cb37-47ca-8544-a14aade71286": {
       "company": "Imbue",
       "first_seen": "2026-11-05T10:31:56+00:00",
-      "last_seen": "2026-11-05T10:31:56+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "SF",
       "posted_at": "1789168688",
       "source": "simplify",
@@ -37909,6 +37919,16 @@
       "posted_at": "1782828297",
       "title": "Programming Intern",
       "url": "https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002"
+    },
+    "simplify:kraun electric::simplify-d1eb1835-b3a8-4b81-b754-d7ce73824f78": {
+      "company": "Kraun Electric",
+      "first_seen": "2026-11-17T08:02:04+00:00",
+      "last_seen": "2026-11-17T08:02:04+00:00",
+      "location": "St. Catharines, ON, Canada",
+      "posted_at": "1794902183",
+      "source": "simplify",
+      "title": "Junior Software Developer",
+      "url": "https://kraunelectric.bamboohr.com/careers/98/"
     },
     "simplify:krew::simplify-33c556a0-fa16-4b9c-8048-8d7a864d8293": {
       "company": "Krew",
@@ -49505,7 +49525,7 @@
     "simplify:planetscale::simplify-1ca5e526-fbd6-44f5-bc8a-870e4dd5c496": {
       "company": "PlanetScale",
       "first_seen": "2026-09-01T00:09:02+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1788215582",
       "title": "Software Engineer - Internal Tools",
       "url": "https://job-boards.greenhouse.io/planetscale/jobs/4389100009"
@@ -51831,7 +51851,7 @@
     "simplify:relativity space::simplify-b2c6199d-57c1-4fbb-9de4-1dbb413f3c65": {
       "company": "Relativity Space",
       "first_seen": "2026-08-18T23:23:41+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1787092614",
       "title": "AI Software Engineer - Terrestrial Software - AI, Data and Platform Engineering",
       "url": "https://boards.greenhouse.io/relativity/jobs/8726261002"
@@ -56384,7 +56404,7 @@
     "simplify:samsung::simplify-0b4ccde0-5421-4204-8674-7df0ce55af74": {
       "company": "Samsung",
       "first_seen": "2026-11-13T23:32:12+00:00",
-      "last_seen": "2026-11-13T23:32:12+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "San Jose, CA",
       "posted_at": "1794596442",
       "source": "simplify",
@@ -56394,7 +56414,7 @@
     "simplify:samsung::simplify-710b4782-710d-4d0d-b636-26fef8fa8649": {
       "company": "Samsung",
       "first_seen": "2026-11-13T08:02:16+00:00",
-      "last_seen": "2026-11-13T08:02:16+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "San Jose, CA",
       "posted_at": "1794551014",
       "source": "simplify",
@@ -57285,7 +57305,7 @@
     "simplify:shield ai::simplify-2a02aac8-141d-448e-bdf4-a6842f1f372e": {
       "company": "Shield AI",
       "first_seen": "2026-11-08T23:32:08+00:00",
-      "last_seen": "2026-11-08T23:32:08+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "Washington, DC",
       "posted_at": "1794096000",
       "source": "simplify",
@@ -57335,7 +57355,7 @@
     "simplify:shield ai::simplify-5443fedc-d890-4929-9ace-e2ce40d1b5a6": {
       "company": "Shield AI",
       "first_seen": "2026-11-08T23:32:08+00:00",
-      "last_seen": "2026-11-08T23:32:08+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "Washington, DC",
       "posted_at": "1794096000",
       "source": "simplify",
@@ -57345,7 +57365,7 @@
     "simplify:shield ai::simplify-5e01c887-e95d-4785-9a00-436d4da36038": {
       "company": "Shield AI",
       "first_seen": "2026-11-06T00:02:24+00:00",
-      "last_seen": "2026-11-06T00:02:24+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "Dallas, TX",
       "posted_at": "1793836800",
       "source": "simplify",
@@ -57365,7 +57385,7 @@
     "simplify:shield ai::simplify-74eb4b4b-ac29-4bdc-90f3-f70b743e4c06": {
       "company": "Shield AI",
       "first_seen": "2026-10-28T06:31:45+00:00",
-      "last_seen": "2026-10-28T06:31:45+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "Seattle, WA",
       "posted_at": "1792713600",
       "source": "simplify",
@@ -57385,7 +57405,7 @@
     "simplify:shield ai::simplify-8b086459-985c-4225-b509-facb2dce5e94": {
       "company": "Shield AI",
       "first_seen": "2026-11-13T08:02:16+00:00",
-      "last_seen": "2026-11-13T08:02:16+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "Washington, DC",
       "posted_at": "1794528000",
       "source": "simplify",
@@ -57913,7 +57933,7 @@
     "simplify:sigma computing::simplify-f0c09f25-6461-4b5e-8bce-950aa917c086": {
       "company": "Sigma Computing",
       "first_seen": "2026-06-29T20:35:16+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1775456189",
       "title": "Software Engineer New Grad",
       "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003"
@@ -67959,7 +67979,7 @@
     "simplify:verkada::simplify-20898b37-1e46-4759-b318-1a51ae4d1200": {
       "company": "Verkada",
       "first_seen": "2026-08-25T18:59:36+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1787681643",
       "title": "Frontend Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007"
@@ -67967,7 +67987,7 @@
     "simplify:verkada::simplify-27ec0955-4e9f-417f-b354-3581a4623c59": {
       "company": "Verkada",
       "first_seen": "2026-08-25T18:59:36+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1787681641",
       "title": "Backend Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007"
@@ -67975,7 +67995,7 @@
     "simplify:verkada::simplify-5dc175a4-02e4-4a5c-a8b7-054139db1ef9": {
       "company": "Verkada",
       "first_seen": "2026-08-25T18:59:36+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1787681646",
       "title": "Mobile Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007"
@@ -67990,7 +68010,7 @@
     "simplify:verkada::simplify-d16387c0-00df-452f-95bb-dd8aab25a372": {
       "company": "Verkada",
       "first_seen": "2026-08-25T18:59:36+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1787681644",
       "title": "Security Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007"
@@ -68241,7 +68261,7 @@
     "simplify:virtu financial::simplify-800e06ea-4a8a-4db5-a93a-7aae82cfac49": {
       "company": "Virtu Financial",
       "first_seen": "2026-07-22T03:38:14+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1784672785",
       "title": "Software Engineer Intern - Software Engineer",
       "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002"
@@ -68249,6 +68269,7 @@
     "simplify:virtu financial::simplify-d8419553-b116-44e9-8ec0-d1ae843c6512": {
       "company": "Virtu Financial",
       "first_seen": "2026-07-30T00:10:16+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1785363946",
       "title": "Frontend Developer Internship",
       "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002"
@@ -68256,7 +68277,7 @@
     "simplify:virtu financial::simplify-f65657ff-9f42-4256-ac69-c3a4b36628ea": {
       "company": "Virtu Financial",
       "first_seen": "2026-07-02T21:01:41+00:00",
-      "last_seen": "2026-10-21T00:00:49+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "posted_at": "1777932683",
       "title": "Software Engineer - Desktop Frontend Developer - C#/Winforms",
       "url": "https://job-boards.greenhouse.io/virtu/jobs/8516902002"
@@ -72897,7 +72918,7 @@
     "vanshb03:astranis::vanshb03-2d76f90c-c8c6-4848-a9ed-af84ec343da4": {
       "company": "Astranis",
       "first_seen": "2026-10-26T13:45:08+00:00",
-      "last_seen": "2026-10-26T13:45:08+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "San Francisco, CA",
       "posted_at": "1790126212",
       "source": "vanshb03",
@@ -72907,7 +72928,7 @@
     "vanshb03:astranis::vanshb03-350d28f8-5462-4813-9d81-b07550f1c3bd": {
       "company": "Astranis",
       "first_seen": "2026-11-06T23:10:28+00:00",
-      "last_seen": "2026-11-06T23:10:28+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "San Francisco, CA",
       "posted_at": "1794004814",
       "source": "vanshb03",
@@ -76581,7 +76602,7 @@
     "vanshb03:gemini::vanshb03-dd307d08-b142-4c53-b2b3-5297ceff917a": {
       "company": "Gemini",
       "first_seen": "2026-10-26T13:45:08+00:00",
-      "last_seen": "2026-10-26T13:45:08+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "New York, NY",
       "posted_at": "1789769377",
       "source": "vanshb03",
@@ -78512,7 +78533,7 @@
     "vanshb03:lockheed martin::vanshb03-0f407ea7-c16d-4420-8c94-a830766d126b": {
       "company": "Lockheed Martin",
       "first_seen": "2026-11-10T04:10:38+00:00",
-      "last_seen": "2026-11-10T04:10:38+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "Mt Laurel Township, NJ",
       "posted_at": "1794283631",
       "source": "vanshb03",
@@ -78523,7 +78544,7 @@
       "company": "Lockheed Martin",
       "duplicate_of": "vanshb03:lockheed martin::vanshb03-d2362609-cc36-4fdf-8c97-53a4bf6b5bac",
       "first_seen": "2026-10-28T11:13:59+00:00",
-      "last_seen": "2026-10-28T11:13:59+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "Sunnyvale, CA",
       "posted_at": "1793185551",
       "seeded": true,
@@ -78534,7 +78555,7 @@
     "vanshb03:lockheed martin::vanshb03-80452e21-1dae-46b9-8419-d758981df6a0": {
       "company": "Lockheed Martin",
       "first_seen": "2026-11-10T04:10:38+00:00",
-      "last_seen": "2026-11-10T04:10:38+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "Bethesda, MD, Rockville, MD",
       "posted_at": "1794283631",
       "source": "vanshb03",
@@ -78544,7 +78565,7 @@
     "vanshb03:lockheed martin::vanshb03-d2362609-cc36-4fdf-8c97-53a4bf6b5bac": {
       "company": "Lockheed Martin",
       "first_seen": "2026-10-27T01:52:21+00:00",
-      "last_seen": "2026-10-27T01:52:21+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "Huntsville, AL",
       "posted_at": "1793065665",
       "source": "vanshb03",
@@ -78555,7 +78576,7 @@
       "company": "Lockheed Martin",
       "duplicate_of": "vanshb03:lockheed martin::vanshb03-d2362609-cc36-4fdf-8c97-53a4bf6b5bac",
       "first_seen": "2026-10-28T19:08:33+00:00",
-      "last_seen": "2026-10-28T19:08:33+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "Littleton, CO",
       "posted_at": "1793214392",
       "seeded": true,
@@ -78566,7 +78587,7 @@
     "vanshb03:lockheed martin::vanshb03-e3253f6e-43c9-4222-b07c-0ea2b474046c": {
       "company": "Lockheed Martin",
       "first_seen": "2026-10-26T16:38:06+00:00",
-      "last_seen": "2026-10-26T16:38:06+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "Calgary, Canada",
       "posted_at": "1792339604",
       "source": "vanshb03",
@@ -79243,7 +79264,7 @@
     "vanshb03:morgan stanley::vanshb03-aa272dfa-e020-4bb3-91d2-1826def725c1": {
       "company": "Morgan Stanley",
       "first_seen": "2026-11-10T04:10:38+00:00",
-      "last_seen": "2026-11-10T04:10:38+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "New York, NY, Alpharetta, GA",
       "posted_at": "1794283631",
       "source": "vanshb03",
@@ -80819,7 +80840,7 @@
     "vanshb03:patreon::vanshb03-b712040a-e374-471f-b223-7341fc7c178e": {
       "company": "Patreon",
       "first_seen": "2026-11-01T00:13:25+00:00",
-      "last_seen": "2026-11-01T00:13:25+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "New York, NY",
       "posted_at": "1793404800",
       "source": "vanshb03",
@@ -82462,7 +82483,7 @@
     "vanshb03:seatgeek::vanshb03-4291cc71-c375-469b-b519-64f791e98a7b": {
       "company": "SeatGeek",
       "first_seen": "2026-11-09T19:13:41+00:00",
-      "last_seen": "2026-11-09T19:13:41+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "New York, NY",
       "posted_at": "1794251402",
       "source": "vanshb03",
@@ -82472,7 +82493,7 @@
     "vanshb03:seatgeek::vanshb03-9be71852-c6b0-4056-9e1c-3665750a1199": {
       "company": "SeatGeek",
       "first_seen": "2026-11-09T19:10:43+00:00",
-      "last_seen": "2026-11-09T19:10:43+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "New York, NY",
       "posted_at": "1793222844",
       "source": "vanshb03",
@@ -82596,7 +82617,7 @@
     "vanshb03:shield ai::vanshb03-818c120a-e0d0-4b4d-894a-9652e93acf9b": {
       "company": "Shield AI",
       "first_seen": "2026-10-28T07:09:21+00:00",
-      "last_seen": "2026-10-28T07:09:21+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "San Diego, CA",
       "posted_at": "1793059200",
       "source": "vanshb03",
@@ -82776,7 +82797,7 @@
     "vanshb03:sigma computing::vanshb03-35a4309c-8e46-4788-b06b-a86681ab473c": {
       "company": "Sigma Computing",
       "first_seen": "2026-11-09T07:10:02+00:00",
-      "last_seen": "2026-11-09T07:10:02+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "San Francisco, CA, New York, NY",
       "posted_at": "1791337035",
       "source": "vanshb03",
@@ -86111,7 +86132,7 @@
     "vanshb03:verkada::vanshb03-9182f910-36f9-456c-b69b-e868455546f9": {
       "company": "Verkada",
       "first_seen": "2026-10-26T14:47:47+00:00",
-      "last_seen": "2026-10-26T14:47:47+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "San Mateo, CA",
       "posted_at": "1787681642",
       "source": "vanshb03",
@@ -86121,7 +86142,7 @@
     "vanshb03:verkada::vanshb03-9ab6e3ea-0469-42ae-9bb6-f2f55696880d": {
       "company": "Verkada",
       "first_seen": "2026-11-02T19:43:43+00:00",
-      "last_seen": "2026-11-02T19:43:43+00:00",
+      "last_seen": "2026-11-17T08:02:03+00:00",
       "location": "San Mateo, CA",
       "posted_at": "1793645823",
       "source": "vanshb03",
@@ -87194,5 +87215,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T07:33:11+00:00"
+  "updated_at": "2026-11-17T08:02:14+00:00"
 }
