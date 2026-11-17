@@ -851,7 +851,6 @@
   "delivery_rejections": {},
   "health_reported": [
     "Barclays",
-    "Blackrock",
     "Blue Origin",
     "Capital One",
     "Cisco",
@@ -1820,7 +1819,7 @@
     "blackrock::Applied-AI-Engineer--Software-Engineering---Associate_R267006": {
       "company": "Blackrock",
       "first_seen": "2026-11-16T21:27:47+00:00",
-      "last_seen": "2026-11-16T21:27:47+00:00",
+      "last_seen": "2026-11-17T00:54:31+00:00",
       "location": "NY7 - 50 Hudson Yards, New York",
       "posted_at": "Posted Today",
       "source": "",
@@ -1840,7 +1839,7 @@
     "blackrock::Associate--Software-Engineer---Aladdin-Graph_R266598": {
       "company": "Blackrock",
       "first_seen": "2026-10-21T03:37:45+00:00",
-      "last_seen": "2026-11-16T00:00:34+00:00",
+      "last_seen": "2026-11-17T00:54:31+00:00",
       "location": "New York, NY",
       "posted_at": "Posted 29 Days Ago",
       "source": "",
@@ -1850,7 +1849,7 @@
     "blackrock::Associate--Software-Engineer---SMA-Solutions_R266216": {
       "company": "Blackrock",
       "first_seen": "2026-10-21T03:37:45+00:00",
-      "last_seen": "2026-11-16T00:00:34+00:00",
+      "last_seen": "2026-11-17T00:54:31+00:00",
       "location": "Chicago, IL",
       "posted_at": "Posted 30+ Days Ago",
       "source": "",
@@ -1860,7 +1859,7 @@
     "blackrock::Java-Developer--Software-Engineering--Associate--Regulatory-Reporting_R267007": {
       "company": "Blackrock",
       "first_seen": "2026-10-30T19:32:59+00:00",
-      "last_seen": "2026-11-16T00:00:34+00:00",
+      "last_seen": "2026-11-17T00:54:31+00:00",
       "location": "NY7 - 50 Hudson Yards, New York",
       "posted_at": "Posted Today",
       "source": "",
@@ -68145,5 +68144,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T00:52:29+00:00"
+  "updated_at": "2026-11-17T00:54:44+00:00"
 }
