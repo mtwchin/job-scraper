@@ -1,5 +1,5 @@
 {
-  "count": 8118,
+  "count": 8119,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [
@@ -662,6 +662,16 @@
       "source": "",
       "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2027, Amazon Dedicated Cloud (ADC)",
       "url": "https://www.amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc"
+    },
+    "amazon::10606968": {
+      "company": "Amazon",
+      "first_seen": "2026-11-17T14:39:29+00:00",
+      "last_seen": "2026-11-17T14:39:29+00:00",
+      "location": "Sunnyvale, California, USA",
+      "posted_at": "November 17, 2026",
+      "source": "",
+      "title": "Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
+      "url": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027"
     },
     "amazon::3136266": {
       "company": "Amazon",
@@ -68631,5 +68641,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T14:36:25+00:00"
+  "updated_at": "2026-11-17T14:40:28+00:00"
 }
