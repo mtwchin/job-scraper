@@ -852,11 +852,13 @@
   "health_reported": [
     "Barclays",
     "Blue Origin",
+    "Cadence",
     "Capital One",
     "Cisco",
     "Intel",
     "Micron",
     "Red Hat",
+    "Workday",
     "Zoom"
   ],
   "jobs": {
@@ -68377,5 +68379,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T06:16:11+00:00"
+  "updated_at": "2026-11-17T06:19:13+00:00"
 }
