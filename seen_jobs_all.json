@@ -1,5 +1,5 @@
 {
-  "count": 9960,
+  "count": 9963,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [],
@@ -27165,6 +27165,36 @@
       "source": "simplify",
       "title": "Engineer Intern",
       "url": "https://jobs.ashbyhq.com/FSH/ae9aa402-9f8c-401d-b201-218ccd21b150/application?embed=true"
+    },
+    "simplify:fsp::simplify-28965fd6-c62b-40e3-bfd8-db8f0bb6d15e": {
+      "company": "FSP",
+      "first_seen": "2026-11-17T11:02:24+00:00",
+      "last_seen": "2026-11-17T11:02:24+00:00",
+      "location": "Glasgow, UK, Reading, UK",
+      "posted_at": "1794912190",
+      "source": "simplify",
+      "title": "Graduate AI Consultant",
+      "url": "https://fsp.bamboohr.com/careers/329/"
+    },
+    "simplify:fsp::simplify-2eeaf899-7a03-48cc-bac4-923fadf3aace": {
+      "company": "FSP",
+      "first_seen": "2026-11-17T11:02:24+00:00",
+      "last_seen": "2026-11-17T11:02:24+00:00",
+      "location": "Glasgow, UK, Reading, UK",
+      "posted_at": "1794912191",
+      "source": "simplify",
+      "title": "Graduate Software Developer",
+      "url": "https://fsp.bamboohr.com/careers/322/"
+    },
+    "simplify:fsp::simplify-b344f0b9-d226-4e26-b217-c3c275f9cfce": {
+      "company": "FSP",
+      "first_seen": "2026-11-17T11:02:24+00:00",
+      "last_seen": "2026-11-17T11:02:24+00:00",
+      "location": "Glasgow, UK, Reading, UK",
+      "posted_at": "1794912191",
+      "source": "simplify",
+      "title": "Placement Software Developer Intern",
+      "url": "https://fsp.bamboohr.com/careers/323/"
     },
     "simplify:fuel cycle::simplify-127bc03f-ece8-439b-afc6-f12063bfd838": {
       "company": "Fuel Cycle",
@@ -57221,7 +57251,7 @@
     "simplify:shield ai::simplify-cb9057c1-ead7-42d2-8535-e6ee376a8005": {
       "company": "Shield AI",
       "first_seen": "2026-11-08T23:32:08+00:00",
-      "last_seen": "2026-11-08T23:32:08+00:00",
+      "last_seen": "2026-11-17T11:02:24+00:00",
       "location": "United States",
       "posted_at": "1794096000",
       "source": "simplify",
@@ -87512,5 +87542,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T10:32:27+00:00"
+  "updated_at": "2026-11-17T11:02:31+00:00"
 }
