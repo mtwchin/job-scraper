@@ -1,5 +1,5 @@
 {
-  "count": 8120,
+  "count": 8121,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [
@@ -3028,6 +3028,16 @@
       "posted_at": "2026-07-01T15:30:14-04:00",
       "title": "Graduate Software Engineer (2027 Start)",
       "url": "https://www.optiver.com/join-us/jobs/8604899002/?gh_jid=8604899002"
+    },
+    "oracle::350821": {
+      "company": "Oracle",
+      "first_seen": "2026-11-17T21:37:51+00:00",
+      "last_seen": "2026-11-17T21:37:51+00:00",
+      "location": "Nashville, TN, United States",
+      "posted_at": "2026-11-17",
+      "source": "",
+      "title": "OCI Intern Conversion - Undergrad Software Engineer Full-Time  - Nashville, TN - February 2027",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350821/"
     },
     "palantir::09846827-b931-4a9f-bd64-c3bb8860187b": {
       "company": "Palantir",
@@ -68654,5 +68664,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T21:16:07+00:00"
+  "updated_at": "2026-11-17T21:38:10+00:00"
 }
