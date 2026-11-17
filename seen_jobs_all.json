@@ -1,5 +1,5 @@
 {
-  "count": 9967,
+  "count": 9969,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [],
@@ -37156,7 +37156,7 @@
     "simplify:kla::simplify-a7373af1-154a-4460-accf-0f684091471b": {
       "company": "KLA",
       "first_seen": "2026-09-30T15:04:37+00:00",
-      "last_seen": "2026-10-27T00:03:04+00:00",
+      "last_seen": "2026-11-17T15:32:43+00:00",
       "location": "Milpitas, CA",
       "posted_at": "1790726400",
       "source": "simplify",
@@ -50012,6 +50012,16 @@
       "title": "Software Integration Engineer",
       "url": "https://careers.promega.com/jobs/4373?icims=1&lang=en-us"
     },
+    "simplify:prometheus group::simplify-8f5d75e1-148b-4d22-93db-1e9061aec1b2": {
+      "company": "Prometheus Group",
+      "first_seen": "2026-11-17T15:32:43+00:00",
+      "last_seen": "2026-11-17T15:32:43+00:00",
+      "location": "Raleigh, NC",
+      "posted_at": "1794928349",
+      "source": "simplify",
+      "title": "Web Development Intern",
+      "url": "https://prometheusgroup.bamboohr.com/careers/97/"
+    },
     "simplify:pronexus::simplify-7ededa5d-af4b-4f9d-80ae-9e03985190e9": {
       "company": "ProNexus",
       "first_seen": "2026-08-08T02:09:23+00:00",
@@ -52527,6 +52537,16 @@
       "source": "simplify",
       "title": "Graduate AI & Automation Engineer",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159172560"
+    },
+    "simplify:robert bosch venture capital::simplify-bee8e5de-03d0-4cf7-9457-e9ec51642c89": {
+      "company": "Robert Bosch Venture Capital",
+      "first_seen": "2026-11-17T15:32:43+00:00",
+      "last_seen": "2026-11-17T15:32:43+00:00",
+      "location": "Farmington Hills, MI",
+      "posted_at": "1794922500",
+      "source": "simplify",
+      "title": "AI Application Intern",
+      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162076254"
     },
     "simplify:robert bosch venture capital::simplify-c0344e84-2a29-4511-8025-7ee4893566d7": {
       "company": "Robert Bosch Venture Capital",
@@ -87582,5 +87602,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T15:31:45+00:00"
+  "updated_at": "2026-11-17T15:32:47+00:00"
 }
