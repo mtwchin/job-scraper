@@ -15,12 +15,14 @@
     "Intel",
     "Micron",
     "Nvidia",
+    "Palantir",
     "PayPal",
     "Red Hat",
     "Salesforce",
     "Spotify",
     "Workday",
-    "Zoom"
+    "Zoom",
+    "Zoox"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -68635,5 +68637,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T10:48:19+00:00"
+  "updated_at": "2026-11-17T10:53:21+00:00"
 }
