@@ -1,5 +1,5 @@
 {
-  "count": 10005,
+  "count": 10006,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [],
@@ -59631,6 +59631,16 @@
       "title": "Healthcare AI & Automation Intern",
       "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Healthcare-AI---Automation-Intern_R45126"
     },
+    "simplify:ssi::simplify-660c847a-60fb-4269-bd43-e9e2f7ef9f36": {
+      "company": "SSI",
+      "first_seen": "2026-11-18T07:33:06+00:00",
+      "last_seen": "2026-11-18T07:33:06+00:00",
+      "location": "Victoria, BC, Canada",
+      "posted_at": "1794985469",
+      "source": "simplify",
+      "title": "Software Developer Co-op",
+      "url": "https://ssicorporate.bamboohr.com/careers/101/"
+    },
     "simplify:ssoe group::simplify-edcdcb19-1dc2-452a-88bb-9b84fa4340c0": {
       "company": "SSOE Group",
       "first_seen": "2026-09-15T23:08:09+00:00",
@@ -87967,5 +87977,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T07:25:03+00:00"
+  "updated_at": "2026-11-18T07:34:06+00:00"
 }
