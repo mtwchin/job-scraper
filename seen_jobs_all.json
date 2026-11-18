@@ -1,5 +1,5 @@
 {
-  "count": 10012,
+  "count": 10015,
   "delivery_attempts": {
     "simplify:arcadion::simplify-c0ee6fb3-e347-4bbf-ab4d-d8651f68b82e": {
       "attempted_at": "2026-11-18T08:02:37+00:00",
@@ -5918,6 +5918,16 @@
       "posted_at": "1784596312",
       "title": "Product Engineer",
       "url": "https://ats.rippling.com/advocate-technologies-inc/jobs/50d16a20-4191-4bac-8915-230f81df29b3"
+    },
+    "simplify:adyen::simplify-3731ea17-7b7f-45a8-9f5e-995882d14ed6": {
+      "company": "Adyen",
+      "first_seen": "2026-11-18T16:03:03+00:00",
+      "last_seen": "2026-11-18T16:03:03+00:00",
+      "location": "Chicago, IL",
+      "posted_at": "1795016524",
+      "source": "simplify",
+      "title": "Junior Full-Stack Developer - Docs Experience Engineering Team",
+      "url": "https://job-boards.greenhouse.io/adyen/jobs/8068230"
     },
     "simplify:adyen::simplify-63cd8363-9acb-4154-b81c-b9a70cfb5ce8": {
       "company": "Adyen",
@@ -23558,6 +23568,16 @@
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294"
     },
+    "simplify:drivewealth::simplify-3f1088e9-3742-4919-8f86-1fb30cc82265": {
+      "company": "DriveWealth",
+      "first_seen": "2026-11-18T16:03:03+00:00",
+      "last_seen": "2026-11-18T16:03:03+00:00",
+      "location": "Chicago, IL, NYC",
+      "posted_at": "1794960000",
+      "source": "simplify",
+      "title": "AI Consulting Associate Program People Analytics Intern",
+      "url": "https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true"
+    },
     "simplify:drivewealth::simplify-7f0b6226-d723-4097-a060-879f717c121d": {
       "company": "DriveWealth",
       "delivery_unconfirmed": true,
@@ -28475,6 +28495,16 @@
       "posted_at": "1785974400",
       "title": "Junior Software Engineer - Clearance Sponsorship",
       "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Junior-Software-Engineer--Clearance-Sponsorship-_RQ225645-1"
+    },
+    "simplify:general dynamics information technology::simplify-e40ead49-69ad-422a-8008-5929557e27a4": {
+      "company": "General Dynamics Information Technology",
+      "first_seen": "2026-11-18T16:03:03+00:00",
+      "last_seen": "2026-11-18T16:03:03+00:00",
+      "location": "Falls Church, VA, Gaithersburg, MD",
+      "posted_at": "1794787200",
+      "source": "simplify",
+      "title": "Engineering Intern",
+      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Engineering--General--Internship_RQ232323"
     },
     "simplify:general dynamics information technology::simplify-f582972e-e7c0-4d00-941e-67ece4906d06": {
       "company": "General Dynamics Information Technology",
@@ -88085,5 +88115,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T15:33:36+00:00"
+  "updated_at": "2026-11-18T16:03:38+00:00"
 }
