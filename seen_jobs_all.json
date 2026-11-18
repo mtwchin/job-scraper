@@ -1,5 +1,5 @@
 {
-  "count": 10015,
+  "count": 10016,
   "delivery_attempts": {
     "anduril::5300647007": {
       "attempted_at": "2026-11-18T16:46:42+00:00",
@@ -80000,6 +80000,16 @@
       "title": "Junior Software Engineer - Emergency Call Handling",
       "url": "https://go.vansh.nyc/W6"
     },
+    "vanshb03:motorola solutions::vanshb03-7d34e50a-474a-41ea-9111-cd1c39354293": {
+      "company": "Motorola Solutions",
+      "first_seen": "2026-11-18T19:17:47+00:00",
+      "last_seen": "2026-11-18T19:17:47+00:00",
+      "location": "Remote, United States",
+      "posted_at": "1794942632",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1Cj"
+    },
     "vanshb03:motorola::vanshb03-9e99a6f2-8eb4-4e47-b1db-6f201acf2b56": {
       "company": "Motorola",
       "first_seen": "2026-11-11T21:40:56+00:00",
@@ -88133,5 +88143,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T18:25:46+00:00"
+  "updated_at": "2026-11-18T19:17:50+00:00"
 }
