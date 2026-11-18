@@ -1,5 +1,5 @@
 {
-  "count": 10019,
+  "count": 10025,
   "delivery_attempts": {
     "anduril::5300647007": {
       "attempted_at": "2026-11-18T16:46:42+00:00",
@@ -36964,6 +36964,16 @@
       "title": "Software Engineer Intern - AI Developer Tooling",
       "url": "https://jobs.keysight.com/jobs/54383?icims=1"
     },
+    "simplify:keysight technologies::simplify-cae2bac1-48ca-4ed4-81e5-98fa2587e13f": {
+      "company": "Keysight Technologies",
+      "first_seen": "2026-11-18T23:32:48+00:00",
+      "last_seen": "2026-11-18T23:32:48+00:00",
+      "location": "Santa Rosa, CA, Remote in USA",
+      "posted_at": "1795032600",
+      "source": "simplify",
+      "title": "AI Productivity Specialist - Corporate Communications",
+      "url": "https://jobs.keysight.com/jobs/58059?icims=1&lang=en-us"
+    },
     "simplify:keysight technologies::simplify-cf8d2b20-f6d6-4d82-a5e9-7a1e97484d23": {
       "company": "Keysight Technologies",
       "first_seen": "2026-09-18T05:48:39+00:00",
@@ -37203,6 +37213,26 @@
       "posted_at": "1773267873",
       "title": "AI Intern",
       "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/AI-Internships_JR-0088855-1"
+    },
+    "simplify:kira learning::simplify-00d1d6f1-5e80-44eb-8ad7-81cda1883638": {
+      "company": "Kira Learning",
+      "first_seen": "2026-11-18T23:32:48+00:00",
+      "last_seen": "2026-11-18T23:32:48+00:00",
+      "location": "SF, NYC",
+      "posted_at": "1794960000",
+      "source": "simplify",
+      "title": "Software Engineer Entry Level",
+      "url": "https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7/application?embed=true"
+    },
+    "simplify:kira learning::simplify-2f406251-cd61-4118-99af-c862671e6b0b": {
+      "company": "Kira Learning",
+      "first_seen": "2026-11-18T23:32:48+00:00",
+      "last_seen": "2026-11-18T23:32:48+00:00",
+      "location": "SF",
+      "posted_at": "1794960000",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/kira/9d275e39-e62b-4ee6-9625-97a3ca6b88fe/application?embed=true"
     },
     "simplify:kirin::simplify-8cd6c68a-d1b7-4a16-9dc4-411fb9932fbb": {
       "company": "Kirin",
@@ -38279,6 +38309,16 @@
       "source": "simplify",
       "title": "Data Visualization Software Engineer",
       "url": "https://jobs.smartrecruiters.com/LLNL/3743990016422126"
+    },
+    "simplify:lawrence livermore national laboratory (llnl)::simplify-b7ec9df6-51ee-4637-b702-7ae0ef77c256": {
+      "company": "Lawrence Livermore National Laboratory (LLNL)",
+      "first_seen": "2026-11-18T23:32:48+00:00",
+      "last_seen": "2026-11-18T23:32:48+00:00",
+      "location": "Livermore, CA",
+      "posted_at": "1795021460",
+      "source": "simplify",
+      "title": "Numerical Program Analysis for Scientific Computing Postdoctoral Researcher",
+      "url": "https://jobs.smartrecruiters.com/LLNL/3743990016939826"
     },
     "simplify:lawrence livermore national laboratory (llnl)::simplify-f3d3f266-8dd3-4d3a-b387-6431187b5e2a": {
       "company": "Lawrence Livermore National Laboratory (LLNL)",
@@ -50991,6 +51031,16 @@
       "source": "simplify",
       "title": "GPU Compiler Intern",
       "url": "https://qualcomm.eightfold.ai/careers/job/446722152489"
+    },
+    "simplify:qualcomm::simplify-9f405c95-b573-4414-9ce3-fc0fcd2d7b2b": {
+      "company": "Qualcomm",
+      "first_seen": "2026-11-18T23:32:14+00:00",
+      "last_seen": "2026-11-18T23:32:14+00:00",
+      "location": "Markham, ON, Canada",
+      "posted_at": "1795043367",
+      "source": "simplify",
+      "title": "GPU Compiler Development Intern - Interim Engineering Intern - HW",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446722198182"
     },
     "simplify:qualcomm::simplify-a5c09908-c437-4b31-badf-24f0d4accd96": {
       "company": "Qualcomm",
@@ -66475,6 +66525,16 @@
       "posted_at": "1787178528",
       "title": "Software Engineer - Commerce",
       "url": "https://job-boards.greenhouse.io/truveta/jobs/6147526004"
+    },
+    "simplify:truveta::simplify-7766a454-005e-4e27-8359-8572fd17712f": {
+      "company": "Truveta",
+      "first_seen": "2026-11-18T23:32:48+00:00",
+      "last_seen": "2026-11-18T23:32:48+00:00",
+      "location": "Seattle, WA",
+      "posted_at": "1795033834",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/truveta/jobs/6249810004"
     },
     "simplify:truveta::simplify-9d21429a-ec03-4ab5-8c5f-dccc28783311": {
       "company": "Truveta",
@@ -86847,7 +86907,7 @@
     "vanshb03:uipath::vanshb03-fe8d2d00-dfae-4556-b0a5-99c74f1f21be": {
       "company": "UiPath",
       "first_seen": "2026-11-09T19:41:57+00:00",
-      "last_seen": "2026-11-09T19:41:57+00:00",
+      "last_seen": "2026-11-18T23:32:47+00:00",
       "location": "Bellevue, WA",
       "posted_at": "1794244854",
       "source": "vanshb03",
@@ -88182,5 +88242,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T23:03:01+00:00"
+  "updated_at": "2026-11-18T23:33:05+00:00"
 }
