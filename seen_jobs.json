@@ -1,5 +1,5 @@
 {
-  "count": 8129,
+  "count": 8130,
   "delivery_attempts": {
     "anduril::5300647007": {
       "attempted_at": "2026-11-18T16:46:42+00:00",
@@ -42635,6 +42635,16 @@
       "title": "GPU Compiler Intern",
       "url": "https://qualcomm.eightfold.ai/careers/job/446722152489"
     },
+    "simplify:qualcomm::simplify-9f405c95-b573-4414-9ce3-fc0fcd2d7b2b": {
+      "company": "Qualcomm",
+      "first_seen": "2026-11-18T23:32:14+00:00",
+      "last_seen": "2026-11-18T23:32:14+00:00",
+      "location": "Markham, ON, Canada",
+      "posted_at": "1795043367",
+      "source": "simplify",
+      "title": "GPU Compiler Development Intern - Interim Engineering Intern - HW",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446722198182"
+    },
     "simplify:qualcomm::simplify-a5c09908-c437-4b31-badf-24f0d4accd96": {
       "company": "Qualcomm",
       "first_seen": "2026-10-29T22:32:03+00:00",
@@ -68765,5 +68775,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T22:20:35+00:00"
+  "updated_at": "2026-11-18T23:32:38+00:00"
 }
