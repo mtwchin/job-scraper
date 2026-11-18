@@ -1,5 +1,5 @@
 {
-  "count": 10018,
+  "count": 10019,
   "delivery_attempts": {
     "anduril::5300647007": {
       "attempted_at": "2026-11-18T16:46:42+00:00",
@@ -1928,6 +1928,16 @@
       "source": "",
       "title": "Software Engineer, Thrive Intern",
       "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002"
+    },
+    "epic games::6232770004": {
+      "company": "Epic Games",
+      "first_seen": "2026-11-18T22:20:17+00:00",
+      "last_seen": "2026-11-18T22:20:17+00:00",
+      "location": "Cary,North Carolina,United States",
+      "posted_at": "2026-11-18T17:19:28-05:00",
+      "source": "",
+      "title": "Tools Programmer Intern (Graphics)",
+      "url": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004"
     },
     "epic games::6251540004": {
       "company": "Epic Games",
@@ -37525,7 +37535,7 @@
     "simplify:klaviyo::simplify-30bcdd6c-3fac-42e1-a4ef-2da1711b4cae": {
       "company": "Klaviyo",
       "first_seen": "2026-11-12T23:33:15+00:00",
-      "last_seen": "2026-11-12T23:33:15+00:00",
+      "last_seen": "2026-11-18T23:02:47+00:00",
       "location": "Boston, MA",
       "posted_at": "1789171200",
       "source": "simplify",
@@ -88172,5 +88182,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T21:19:56+00:00"
+  "updated_at": "2026-11-18T23:03:01+00:00"
 }
