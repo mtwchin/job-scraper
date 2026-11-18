@@ -1,5 +1,5 @@
 {
-  "count": 8123,
+  "count": 8124,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [
@@ -6868,6 +6868,16 @@
       "posted_at": "1782436004",
       "title": "Software Development Engineer - AWS Glue",
       "url": "https://amazon.jobs/en/jobs/10459443/software-development-engineer-aws-glue"
+    },
+    "simplify:amazon::simplify-2ebe6dc0-7a17-40c2-a840-c58c312185d9": {
+      "company": "Amazon",
+      "first_seen": "2026-11-18T03:01:32+00:00",
+      "last_seen": "2026-11-18T03:01:32+00:00",
+      "location": "Austin, TX, North Reading, MA, Westborough, MA",
+      "posted_at": "1794970278",
+      "source": "simplify",
+      "title": "Software Development Engineer - Robotics",
+      "url": "https://amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027"
     },
     "simplify:amazon::simplify-312b7b27-dc1b-4ccc-a582-f20be014c2e9": {
       "company": "Amazon",
@@ -68685,5 +68695,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T02:55:29+00:00"
+  "updated_at": "2026-11-18T03:02:32+00:00"
 }
