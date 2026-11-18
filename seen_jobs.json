@@ -1,5 +1,5 @@
 {
-  "count": 8125,
+  "count": 8126,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [
@@ -60480,6 +60480,16 @@
       "title": "Embedded Software Engineer Intern",
       "url": "https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors"
     },
+    "vanshb03:airbnb::vanshb03-73863aac-542c-4b1b-a529-014e8b839a56": {
+      "company": "Airbnb",
+      "first_seen": "2026-11-18T06:16:08+00:00",
+      "last_seen": "2026-11-18T06:16:08+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1794978623",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1C6"
+    },
     "vanshb03:akuna capital::vanshb03-738d5932-714e-4521-a698-6865157d598c": {
       "company": "Akuna Capital",
       "first_seen": "2026-10-26T12:08:28+00:00",
@@ -68704,5 +68714,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T06:09:20+00:00"
+  "updated_at": "2026-11-18T06:16:22+00:00"
 }
