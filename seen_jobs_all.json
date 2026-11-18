@@ -1,5 +1,5 @@
 {
-  "count": 10025,
+  "count": 10026,
   "delivery_attempts": {
     "anduril::5300647007": {
       "attempted_at": "2026-11-18T16:46:42+00:00",
@@ -78943,6 +78943,18 @@
       "title": "Cloud Developer Intern, Platform Engineering",
       "url": "https://careers-kinaxis.icims.com/jobs/35572/intern-cloud-developer%2c-platform-engineering/job"
     },
+    "vanshb03:kira learning::vanshb03-666a712b-bb73-4464-95dc-d40f749a22cd": {
+      "company": "Kira Learning",
+      "duplicate_of": "simplify:kira learning::simplify-2f406251-cd61-4118-99af-c862671e6b0b",
+      "first_seen": "2026-11-18T23:52:47+00:00",
+      "last_seen": "2026-11-18T23:52:47+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1794960000",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineer Intern",
+      "url": "https://go.vansh.nyc/1Cx"
+    },
     "vanshb03:kla::vanshb03-09b4184d-3d91-4e02-bae2-8d473b1cee44": {
       "company": "KLA",
       "first_seen": "2026-10-17T18:30:53+00:00",
@@ -88242,5 +88254,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T23:33:05+00:00"
+  "updated_at": "2026-11-18T23:53:08+00:00"
 }
