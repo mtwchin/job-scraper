@@ -1,5 +1,5 @@
 {
-  "count": 10011,
+  "count": 10012,
   "delivery_attempts": {
     "simplify:arcadion::simplify-c0ee6fb3-e347-4bbf-ab4d-d8651f68b82e": {
       "attempted_at": "2026-11-18T08:02:37+00:00",
@@ -9,6 +9,24 @@
       "source": "simplify",
       "title": "Junior AI Developer",
       "url": "https://arcadion.bamboohr.com/careers/52/"
+    },
+    "simplify:berkshire hathaway energy::simplify-6613bded-9926-49a7-bc7f-60a11f1a05ee": {
+      "attempted_at": "2026-11-18T15:33:02+00:00",
+      "company": "Berkshire Hathaway Energy",
+      "location": "Omaha, NE",
+      "posted_at": "1795014388",
+      "source": "simplify",
+      "title": "Software Engineer - Bhepg",
+      "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006023"
+    },
+    "simplify:cerence::simplify-60ea7bb5-3160-449a-9e8c-df9e0b2b6839": {
+      "attempted_at": "2026-11-18T15:33:02+00:00",
+      "company": "Cerence",
+      "location": "Remote in UK",
+      "posted_at": "1794873600",
+      "source": "simplify",
+      "title": "Student Worker Intern",
+      "url": "https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---Great-Britain/Student-Worker_R0006047"
     },
     "simplify:eql tech::simplify-981500f0-50ca-42b6-9612-97edf956e5a3": {
       "attempted_at": "2026-11-18T10:32:36+00:00",
@@ -1283,6 +1301,16 @@
       "source": "",
       "title": "Intern: Software Engineering: Hardware Verification R&D",
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering--Hardware-Verification-R-D_R56477"
+    },
+    "cadence::Intern--Software-Engineering-Jasper-R-D_R55530": {
+      "company": "Cadence",
+      "first_seen": "2026-11-18T15:29:57+00:00",
+      "last_seen": "2026-11-18T15:29:57+00:00",
+      "location": "BELO HORIZONTE",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Intern: Software Engineering Jasper R&D",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530"
     },
     "capital one::Associate--Software-Engineer--New-Grad-Card-Expansion_R236833": {
       "company": "Capital One",
@@ -76336,7 +76364,7 @@
     "vanshb03:drw::vanshb03-01c1fcb9-0733-4c21-b3ce-0e4909dd74f9": {
       "company": "DRW",
       "first_seen": "2026-10-15T08:36:30+00:00",
-      "last_seen": "2026-10-15T08:36:30+00:00",
+      "last_seen": "2026-11-18T15:33:02+00:00",
       "location": "Chicago, IL",
       "posted_at": "1785516451",
       "source": "vanshb03",
@@ -88057,5 +88085,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T14:33:32+00:00"
+  "updated_at": "2026-11-18T15:33:36+00:00"
 }
