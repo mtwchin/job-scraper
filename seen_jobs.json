@@ -1,5 +1,5 @@
 {
-  "count": 8124,
+  "count": 8125,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [
@@ -227,6 +227,16 @@
       "source": "",
       "title": "Software Engineer I, Backend (Continuous Delivery)",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003"
+    },
+    "airbnb::8360478": {
+      "company": "Airbnb",
+      "first_seen": "2026-11-18T05:00:34+00:00",
+      "last_seen": "2026-11-18T05:00:34+00:00",
+      "location": "San Francisco, California",
+      "posted_at": "2026-11-18T00:00:14-05:00",
+      "source": "",
+      "title": "Software Engineering Intern (BS/MS)",
+      "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478"
     },
     "akuna capital::8013085": {
       "company": "Akuna Capital",
@@ -68693,5 +68703,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T04:53:10+00:00"
+  "updated_at": "2026-11-18T05:01:12+00:00"
 }
