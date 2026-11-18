@@ -1,5 +1,5 @@
 {
-  "count": 10008,
+  "count": 10011,
   "delivery_attempts": {
     "simplify:arcadion::simplify-c0ee6fb3-e347-4bbf-ab4d-d8651f68b82e": {
       "attempted_at": "2026-11-18T08:02:37+00:00",
@@ -23904,7 +23904,7 @@
     "simplify:early warning::simplify-b81ad8d8-409c-4563-b87b-1aa4661b4937": {
       "company": "Early Warning",
       "first_seen": "2026-09-29T22:33:45+00:00",
-      "last_seen": "2026-11-06T00:03:31+00:00",
+      "last_seen": "2026-11-18T14:33:01+00:00",
       "location": "SF, Chicago, IL, Scottsdale, AZ",
       "posted_at": "1790640000",
       "source": "simplify",
@@ -29669,6 +29669,36 @@
       "posted_at": "1769614520",
       "title": "Software Intern - Autonomous Lab",
       "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033167007"
+    },
+    "simplify:giro::simplify-02dc8172-98b9-4eae-87c0-88f943e02b14": {
+      "company": "GIRO",
+      "first_seen": "2026-11-18T14:33:02+00:00",
+      "last_seen": "2026-11-18T14:33:02+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1792368000",
+      "source": "simplify",
+      "title": "Front-End Web Developer",
+      "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-web--Front-end_R-100000287"
+    },
+    "simplify:giro::simplify-8da7e607-788f-4d80-ad68-62014bf8575f": {
+      "company": "GIRO",
+      "first_seen": "2026-11-18T14:33:02+00:00",
+      "last_seen": "2026-11-18T14:33:02+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1792368000",
+      "source": "simplify",
+      "title": "Junior C++ Developer",
+      "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-C---junior_R-100000346"
+    },
+    "simplify:giro::simplify-cd9fa12e-1ae0-4151-ae6b-3a709f7ae230": {
+      "company": "GIRO",
+      "first_seen": "2026-11-18T14:33:02+00:00",
+      "last_seen": "2026-11-18T14:33:02+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1789344000",
+      "source": "simplify",
+      "title": "Software Development and Artificial Intelligence Intern",
+      "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel-et-intelligence-artificielle_R-100000321"
     },
     "simplify:gitar, inc.::simplify-53fcaec4-0e49-4a63-94d1-c52a5741cef0": {
       "company": "Gitar, Inc.",
@@ -88027,5 +88057,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T12:55:29+00:00"
+  "updated_at": "2026-11-18T14:33:32+00:00"
 }
