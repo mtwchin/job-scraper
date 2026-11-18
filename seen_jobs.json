@@ -1995,7 +1995,7 @@
     "glean::4748567005": {
       "company": "Glean",
       "first_seen": "2026-10-28T17:23:03+00:00",
-      "last_seen": "2026-10-30T23:28:17+00:00",
+      "last_seen": "2026-11-18T21:50:46+00:00",
       "location": "Mountain View, CA",
       "posted_at": "2026-10-28T13:22:26-04:00",
       "source": "",
@@ -68755,5 +68755,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T20:48:06+00:00"
+  "updated_at": "2026-11-18T21:51:32+00:00"
 }
