@@ -1,5 +1,5 @@
 {
-  "count": 8127,
+  "count": 8128,
   "delivery_attempts": {
     "anduril::5300647007": {
       "attempted_at": "2026-11-18T16:46:42+00:00",
@@ -4008,6 +4008,16 @@
       "posted_at": "2026-08-05T12:46:52-04:00",
       "title": "[Summer 2027] Software Engineer Intern",
       "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713"
+    },
+    "roblox::8386080": {
+      "company": "Roblox",
+      "first_seen": "2026-11-18T19:37:19+00:00",
+      "last_seen": "2026-11-18T19:37:19+00:00",
+      "location": "Vancouver, British Columbia, Canada",
+      "posted_at": "2026-11-18T14:37:03-05:00",
+      "source": "",
+      "title": "[Summer 2027 Canada] Software Engineer Intern, Engine",
+      "url": "https://careers.roblox.com/jobs/8386080?gh_jid=8386080"
     },
     "rocket lab::6589226003": {
       "company": "Rocket Lab",
@@ -68736,5 +68746,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T16:46:58+00:00"
+  "updated_at": "2026-11-18T19:38:03+00:00"
 }
