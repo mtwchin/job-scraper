@@ -1,5 +1,5 @@
 {
-  "count": 8126,
+  "count": 8127,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [
@@ -8,7 +8,6 @@
     "Blackrock",
     "Blue Origin",
     "Broadcom",
-    "Cadence",
     "Capital One",
     "Cisco",
     "CrowdStrike",
@@ -1273,6 +1272,16 @@
       "source": "",
       "title": "Intern: Software Engineering: Hardware Verification R&D",
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering--Hardware-Verification-R-D_R56477"
+    },
+    "cadence::Intern--Software-Engineering-Jasper-R-D_R55530": {
+      "company": "Cadence",
+      "first_seen": "2026-11-18T15:29:57+00:00",
+      "last_seen": "2026-11-18T15:29:57+00:00",
+      "location": "BELO HORIZONTE",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Intern: Software Engineering Jasper R&D",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530"
     },
     "capital one::Associate--Software-Engineer--New-Grad-Card-Expansion_R236833": {
       "company": "Capital One",
@@ -68716,5 +68725,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T15:15:01+00:00"
+  "updated_at": "2026-11-18T15:30:52+00:00"
 }
