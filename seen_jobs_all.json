@@ -1,5 +1,5 @@
 {
-  "count": 10006,
+  "count": 10007,
   "delivery_attempts": {
     "simplify:arcadion::simplify-c0ee6fb3-e347-4bbf-ab4d-d8651f68b82e": {
       "attempted_at": "2026-11-18T08:02:37+00:00",
@@ -10547,6 +10547,16 @@
       "posted_at": "1776895586",
       "title": "Software Engineering Intern",
       "url": "https://www.asm.com/open-vacancies/?gh_jid=4830113101"
+    },
+    "simplify:asm international::simplify-7ff1037a-0d70-4c8f-8e2a-19d7d8f52893": {
+      "company": "ASM International",
+      "first_seen": "2026-11-18T10:02:37+00:00",
+      "last_seen": "2026-11-18T10:02:37+00:00",
+      "location": "Phoenix, AZ",
+      "posted_at": "1793979266",
+      "source": "simplify",
+      "title": "Software Engineer \u2013 Early Career",
+      "url": "https://www.asm.com/open-vacancies/?gh_jid=5019821101"
     },
     "simplify:asml::simplify-26950fa2-b1ab-4035-b222-f7a747d72c6c": {
       "company": "ASML",
@@ -87996,5 +88006,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T08:03:09+00:00"
+  "updated_at": "2026-11-18T10:03:13+00:00"
 }
