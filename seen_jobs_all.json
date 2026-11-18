@@ -1,5 +1,5 @@
 {
-  "count": 9998,
+  "count": 10000,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [],
@@ -56277,6 +56277,16 @@
       "title": "Engineer 1",
       "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Engineer-I_R26_000476"
     },
+    "simplify:sallie mae::simplify-cd04939e-41ff-4433-9c3d-b29cd8035646": {
+      "company": "Sallie Mae",
+      "first_seen": "2026-11-18T02:32:35+00:00",
+      "last_seen": "2026-11-18T02:32:35+00:00",
+      "location": "Indianapolis, IN",
+      "posted_at": "1794873600",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633"
+    },
     "simplify:salvo health::simplify-e9358a97-f8ce-46dd-aff0-ad02907f6d31": {
       "company": "Salvo Health",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -72378,6 +72388,16 @@
       "title": "Software Engineer Intern, Embedded Systems",
       "url": "https://go.vansh.nyc/FS"
     },
+    "vanshb03:amazon::vanshb03-9a12e36f-50b3-4517-ac49-7756fc90877d": {
+      "company": "Amazon",
+      "first_seen": "2026-11-18T02:27:30+00:00",
+      "last_seen": "2026-11-18T02:27:30+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1794968436",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Development Engineer, Robotics",
+      "url": "https://go.vansh.nyc/1C2"
+    },
     "vanshb03:amazon::vanshb03-9df960cc-66fe-437d-ab6b-32f6e36fbbed": {
       "company": "Amazon",
       "first_seen": "2026-10-25T08:27:05+00:00",
@@ -87895,5 +87915,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T01:54:31+00:00"
+  "updated_at": "2026-11-18T02:33:35+00:00"
 }
