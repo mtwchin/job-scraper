@@ -1,5 +1,5 @@
 {
-  "count": 10016,
+  "count": 10018,
   "delivery_attempts": {
     "anduril::5300647007": {
       "attempted_at": "2026-11-18T16:46:42+00:00",
@@ -63,6 +63,15 @@
       "source": "simplify",
       "title": "Entry-Level Modeling & Simulation Software Engineer",
       "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Modeling---Simulation-Software-Engineer_R2206-1"
+    },
+    "vanshb03:roblox::vanshb03-0f1ce92c-d9dd-44eb-a263-8abec9bab838": {
+      "attempted_at": "2026-11-18T20:47:36+00:00",
+      "company": "Roblox",
+      "location": "Vancouver, Canada",
+      "posted_at": "1795030623",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Engine",
+      "url": "https://go.vansh.nyc/1Cn"
     }
   },
   "delivery_rejections": {},
@@ -4043,6 +4052,16 @@
       "posted_at": "2026-08-05T12:46:52-04:00",
       "title": "[Summer 2027] Software Engineer Intern",
       "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713"
+    },
+    "roblox::8386080": {
+      "company": "Roblox",
+      "first_seen": "2026-11-18T19:37:19+00:00",
+      "last_seen": "2026-11-18T19:37:19+00:00",
+      "location": "Vancouver, British Columbia, Canada",
+      "posted_at": "2026-11-18T14:37:03-05:00",
+      "source": "",
+      "title": "[Summer 2027 Canada] Software Engineer Intern, Engine",
+      "url": "https://careers.roblox.com/jobs/8386080?gh_jid=8386080"
     },
     "rocket lab::6589226003": {
       "company": "Rocket Lab",
@@ -79510,6 +79529,16 @@
       "title": "Software Engineering Co-op",
       "url": "https://go.vansh.nyc/1yR"
     },
+    "vanshb03:marvell::vanshb03-2d3e4416-a4c6-40d4-aa01-3eeab7e11b91": {
+      "company": "Marvell",
+      "first_seen": "2026-11-18T21:19:48+00:00",
+      "last_seen": "2026-11-18T21:19:48+00:00",
+      "location": "Santa Clara, CA",
+      "posted_at": "1794949859",
+      "source": "vanshb03",
+      "title": "MS AI Infrastructure Engineer Intern",
+      "url": "https://go.vansh.nyc/1Cp"
+    },
     "vanshb03:mastercard::vanshb03-2b64a7c3-2798-4646-8e75-76a20fdd2b3d": {
       "company": "Mastercard",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -88143,5 +88172,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T19:17:50+00:00"
+  "updated_at": "2026-11-18T21:19:56+00:00"
 }
