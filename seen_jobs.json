@@ -11,8 +11,10 @@
     "Capital One",
     "Cisco",
     "CrowdStrike",
+    "Intel",
     "Micron",
     "Nvidia",
+    "PayPal",
     "Red Hat",
     "Salesforce",
     "Workday"
@@ -68672,5 +68674,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T00:31:03+00:00"
+  "updated_at": "2026-11-18T00:34:05+00:00"
 }
