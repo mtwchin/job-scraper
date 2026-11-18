@@ -1,5 +1,5 @@
 {
-  "count": 10003,
+  "count": 10005,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [],
@@ -212,6 +212,16 @@
       "source": "",
       "title": "Software Engineer I, Backend (Continuous Delivery)",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003"
+    },
+    "airbnb::8360478": {
+      "company": "Airbnb",
+      "first_seen": "2026-11-18T05:00:34+00:00",
+      "last_seen": "2026-11-18T05:00:34+00:00",
+      "location": "San Francisco, California",
+      "posted_at": "2026-11-18T00:00:14-05:00",
+      "source": "",
+      "title": "Software Engineering Intern (BS/MS)",
+      "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478"
     },
     "akuna capital::8013085": {
       "company": "Akuna Capital",
@@ -72106,6 +72116,16 @@
       "title": "Software Engineering Intern, Backend",
       "url": "https://job-boards.greenhouse.io/aidashinc/jobs/4436057009"
     },
+    "vanshb03:airbnb::vanshb03-73863aac-542c-4b1b-a529-014e8b839a56": {
+      "company": "Airbnb",
+      "first_seen": "2026-11-18T06:16:08+00:00",
+      "last_seen": "2026-11-18T06:16:08+00:00",
+      "location": "San Francisco, CA",
+      "posted_at": "1794978623",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1C6"
+    },
     "vanshb03:akuna capital::vanshb03-738d5932-714e-4521-a698-6865157d598c": {
       "company": "Akuna Capital",
       "first_seen": "2026-10-26T12:08:28+00:00",
@@ -87947,5 +87967,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T03:32:43+00:00"
+  "updated_at": "2026-11-18T07:25:03+00:00"
 }
