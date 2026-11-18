@@ -828,7 +828,7 @@
     "apple::200664320-3810": {
       "company": "Apple",
       "first_seen": "2026-09-23T10:45:10+00:00",
-      "last_seen": "2026-11-17T00:00:14+00:00",
+      "last_seen": "2026-11-18T00:00:05+00:00",
       "location": "United States",
       "posted_at": "2026-05-21T19:15:38.511Z",
       "source": "",
@@ -838,7 +838,7 @@
     "apple::200664323-3810": {
       "company": "Apple",
       "first_seen": "2026-09-23T10:45:10+00:00",
-      "last_seen": "2026-11-17T00:00:14+00:00",
+      "last_seen": "2026-11-18T00:00:05+00:00",
       "location": "United States",
       "posted_at": "2026-05-21T19:16:20.297Z",
       "source": "",
@@ -848,7 +848,7 @@
     "apple::200664785-3810": {
       "company": "Apple",
       "first_seen": "2026-09-23T10:45:10+00:00",
-      "last_seen": "2026-11-17T00:00:14+00:00",
+      "last_seen": "2026-11-18T00:00:05+00:00",
       "location": "United States",
       "posted_at": "2026-05-21T19:14:07.743Z",
       "source": "",
@@ -858,7 +858,7 @@
     "apple::200695289-4265": {
       "company": "Apple",
       "first_seen": "2026-11-17T02:48:51+00:00",
-      "last_seen": "2026-11-17T02:48:51+00:00",
+      "last_seen": "2026-11-18T00:00:05+00:00",
       "location": "Linz",
       "posted_at": "2026-11-17T02:47:47.129Z",
       "source": "",
@@ -68664,5 +68664,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-17T23:52:51+00:00"
+  "updated_at": "2026-11-18T00:00:53+00:00"
 }
