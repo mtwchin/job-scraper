@@ -37,6 +37,15 @@
       "title": "Founding Full Stack Engineer - Fintech & Edtech",
       "url": "https://apply.workable.com/eqltech/j/E001CE3E7F/apply"
     },
+    "simplify:giro::simplify-401dc22d-9fa3-46ca-b73d-c68bde0ddc1c": {
+      "attempted_at": "2026-11-18T16:33:01+00:00",
+      "company": "GIRO",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1788134400",
+      "source": "simplify",
+      "title": "Software Developer Intern - Algorithms and Operations Research",
+      "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314"
+    },
     "simplify:torch technologies::simplify-0e5bab81-2a1e-4d4d-8960-3f6bbb527ab9": {
       "attempted_at": "2026-11-18T08:02:37+00:00",
       "company": "Torch Technologies",
@@ -88115,5 +88124,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T16:03:38+00:00"
+  "updated_at": "2026-11-18T16:33:41+00:00"
 }
