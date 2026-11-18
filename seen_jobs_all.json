@@ -1,5 +1,5 @@
 {
-  "count": 10000,
+  "count": 10003,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [],
@@ -7279,6 +7279,16 @@
       "posted_at": "1782436004",
       "title": "Software Development Engineer - AWS Glue",
       "url": "https://amazon.jobs/en/jobs/10459443/software-development-engineer-aws-glue"
+    },
+    "simplify:amazon::simplify-2ebe6dc0-7a17-40c2-a840-c58c312185d9": {
+      "company": "Amazon",
+      "first_seen": "2026-11-18T03:01:32+00:00",
+      "last_seen": "2026-11-18T03:01:32+00:00",
+      "location": "Austin, TX, North Reading, MA, Westborough, MA",
+      "posted_at": "1794970278",
+      "source": "simplify",
+      "title": "Software Development Engineer - Robotics",
+      "url": "https://amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027"
     },
     "simplify:amazon::simplify-312b7b27-dc1b-4ccc-a582-f20be014c2e9": {
       "company": "Amazon",
@@ -26369,6 +26379,18 @@
       "title": "Database Engineer / Database Administrator",
       "url": "https://jobs.lever.co/finquery/8d49690f-a2fe-4f7b-8af2-434d0dbeb0e9/apply"
     },
+    "simplify:firefly aerospace::simplify-189abd7e-504a-48da-a428-77b194d234c0": {
+      "company": "Firefly Aerospace",
+      "duplicate_of": "vanshb03:firefly aerospace::vanshb03-7eb39d7e-4a98-4f1b-804c-3c37cc25e95f",
+      "first_seen": "2026-11-18T03:02:34+00:00",
+      "last_seen": "2026-11-18T03:02:34+00:00",
+      "location": "Leander, TX",
+      "posted_at": "1792454400",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://fireflyspace.wd115.myworkdayjobs.com/firefly/job/Cedar-Park-TX/Internship---Software-Engineering---Spring-2027_JR100188"
+    },
     "simplify:firetiger::simplify-005ce970-8e7b-41e0-9e62-2f26655f9748": {
       "company": "Firetiger",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -34540,6 +34562,16 @@
       "source": "simplify",
       "title": "Automation and Artificial Intelligence Intern",
       "url": "https://investquebec.wd10.myworkdayjobs.com/ext/job/Montral/tudiant---Automatisation-et-intelligence-artificielle--Montral-_R3656"
+    },
+    "simplify:invitation homes::simplify-ef2faf73-e6f3-42de-9c9d-4b35b6fdb91f": {
+      "company": "Invitation Homes",
+      "first_seen": "2026-11-18T03:02:35+00:00",
+      "last_seen": "2026-11-18T03:02:35+00:00",
+      "location": "Dallas, TX",
+      "posted_at": "1794873600",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://invitationhomes.wd503.myworkdayjobs.com/INVH/job/Dallas-TX--HQ/Intern-Software-Engineering_R5984"
     },
     "simplify:ion group::simplify-fff88dea-356b-4db6-8aa2-4f103f1909c6": {
       "company": "ION Group",
@@ -87915,5 +87947,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T02:33:35+00:00"
+  "updated_at": "2026-11-18T03:02:39+00:00"
 }
