@@ -1,6 +1,25 @@
 {
   "count": 10006,
-  "delivery_attempts": {},
+  "delivery_attempts": {
+    "simplify:arcadion::simplify-c0ee6fb3-e347-4bbf-ab4d-d8651f68b82e": {
+      "attempted_at": "2026-11-18T08:02:37+00:00",
+      "company": "Arcadion",
+      "location": "Ottawa, ON, Canada",
+      "posted_at": "1794987486",
+      "source": "simplify",
+      "title": "Junior AI Developer",
+      "url": "https://arcadion.bamboohr.com/careers/52/"
+    },
+    "simplify:torch technologies::simplify-0e5bab81-2a1e-4d4d-8960-3f6bbb527ab9": {
+      "attempted_at": "2026-11-18T08:02:37+00:00",
+      "company": "Torch Technologies",
+      "location": "Huntsville, AL",
+      "posted_at": "1794873600",
+      "source": "simplify",
+      "title": "Entry-Level Modeling & Simulation Software Engineer",
+      "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Modeling---Simulation-Software-Engineer_R2206-1"
+    }
+  },
   "delivery_rejections": {},
   "health_reported": [],
   "jobs": {
@@ -87977,5 +87996,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T07:34:06+00:00"
+  "updated_at": "2026-11-18T08:03:09+00:00"
 }
