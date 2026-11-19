@@ -83237,7 +83237,7 @@
     "vanshb03:rtx::vanshb03-a73403c0-30ce-4961-9980-73cb517b313f": {
       "company": "RTX",
       "first_seen": "2026-11-13T21:42:25+00:00",
-      "last_seen": "2026-11-14T00:02:47+00:00",
+      "last_seen": "2026-11-19T04:32:05+00:00",
       "location": "Richardson, TX",
       "posted_at": "1794604797",
       "source": "vanshb03",
@@ -88356,5 +88356,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T03:03:13+00:00"
+  "updated_at": "2026-11-19T04:32:17+00:00"
 }
