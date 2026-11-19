@@ -1,5 +1,5 @@
 {
-  "count": 10064,
+  "count": 10072,
   "delivery_attempts": {
     "simplify:super micro computer::simplify-2f26dbb7-f29f-4f57-bede-ddd673581370": {
       "attempted_at": "2026-11-19T10:03:03+00:00",
@@ -9,6 +9,15 @@
       "source": "simplify",
       "title": "Software Engineer",
       "url": "https://jobs.supermicro.com/job/San-Jose-Software-Engineer-Cali/1430200500/?ats=successfactors"
+    },
+    "vanshb03:snowflake::vanshb03-363d73ec-815f-4c95-bb0f-b34587572a05": {
+      "attempted_at": "2026-11-19T22:53:31+00:00",
+      "company": "Snowflake",
+      "location": "Menlo Park, CA, Bellevue, WA",
+      "posted_at": "1795046400",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, AI/ML",
+      "url": "https://go.vansh.nyc/1Dr"
     }
   },
   "delivery_rejections": {},
@@ -32544,6 +32553,28 @@
       "title": "MuleSoft Developer",
       "url": "https://jobs.smartrecruiters.com/HorizonTechnologiesInc/94324377"
     },
+    "simplify:horizon trading solutions::simplify-4b186364-72dd-445a-aa47-b26731004b25": {
+      "company": "Horizon Trading Solutions",
+      "duplicate_of": "simplify:horizon trading solutions::simplify-95e6e9a2-6a90-4a42-8ecc-c899e3ccd385",
+      "first_seen": "2026-11-19T23:32:36+00:00",
+      "last_seen": "2026-11-19T23:32:36+00:00",
+      "location": "Montreal, QC, Canada, Paris, France, Nantes, France, Rennes, France, Hong Kong",
+      "posted_at": "1795106817",
+      "seeded": true,
+      "source": "simplify",
+      "title": "Java Developer Intern",
+      "url": "https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011266101"
+    },
+    "simplify:horizon trading solutions::simplify-95e6e9a2-6a90-4a42-8ecc-c899e3ccd385": {
+      "company": "Horizon Trading Solutions",
+      "first_seen": "2026-11-19T23:32:36+00:00",
+      "last_seen": "2026-11-19T23:32:36+00:00",
+      "location": "Montreal, QC, Canada; Montreal, QC, Canada, Paris, France, Nantes, France, Rennes, France, Hong Kong",
+      "posted_at": "1795106830",
+      "source": "simplify",
+      "title": "Java Developer Intern",
+      "url": "https://job-boards.eu.greenhouse.io/horizontradingsolutions/jobs/5011271101"
+    },
     "simplify:hormel foods::simplify-d5b9d173-6ab2-4e2d-8b42-f7e118c97ece": {
       "company": "Hormel Foods",
       "first_seen": "2026-09-02T13:39:08+00:00",
@@ -32682,6 +32713,16 @@
       "source": "simplify",
       "title": "Technology Intern - App Dev",
       "url": "https://job-boards.greenhouse.io/hpsinterns/jobs/4739898005"
+    },
+    "simplify:hr wallingford::simplify-005f9727-e36d-44e3-b252-31964ac2c013": {
+      "company": "HR Wallingford",
+      "first_seen": "2026-11-19T23:32:36+00:00",
+      "last_seen": "2026-11-19T23:32:36+00:00",
+      "location": "Wallingford, UK",
+      "posted_at": "1795105701",
+      "source": "simplify",
+      "title": "Graduate Software Developer",
+      "url": "https://job-boards.eu.greenhouse.io/hrwallingford/jobs/5042719101"
     },
     "simplify:hsssoft::simplify-63216d89-2b2c-4885-82f0-086dfd9dac5b": {
       "company": "HSSSoft",
@@ -37748,6 +37789,16 @@
       "title": "Software Engineer Co-op",
       "url": "https://rakuten.wd1.myworkdayjobs.com/Kobo/job/Toronto-Canada/Software-Quality-Assurance-Engineer-Co-op_1035873"
     },
+    "simplify:koch industries::simplify-503772a8-8c8b-473a-b256-7c19df4fd35f": {
+      "company": "Koch Industries",
+      "first_seen": "2026-11-19T23:32:36+00:00",
+      "last_seen": "2026-11-19T23:32:36+00:00",
+      "location": "Fremont, CA",
+      "posted_at": "1795130632",
+      "source": "simplify",
+      "title": "Software Engineer - AI Agents",
+      "url": "https://koch.avature.net/en_US/careers/JobDetail/197657"
+    },
     "simplify:koch industries::simplify-c059887d-a7ce-40a1-bc58-605181078fb9": {
       "company": "Koch Industries",
       "first_seen": "2026-09-16T23:35:12+00:00",
@@ -41723,6 +41774,16 @@
       "title": "Camera Software Intern",
       "url": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6/application?embed=true"
     },
+    "simplify:metaphase::simplify-cc764a4b-cb50-4162-afaa-5d5dcbc0a454": {
+      "company": "MetaPhase",
+      "first_seen": "2026-11-19T23:32:36+00:00",
+      "last_seen": "2026-11-19T23:32:36+00:00",
+      "location": "Reston, VA",
+      "posted_at": "1795129682",
+      "source": "simplify",
+      "title": "Junior Forward Deployed Engineer",
+      "url": "https://jobs.jobvite.com/metaphaseconsulting/job/oaR7Afws?nl=1&nl=1&fr=false"
+    },
     "simplify:metaview::simplify-9fad232c-43cc-403b-9475-b965f64e9c1f": {
       "company": "Metaview",
       "first_seen": "2026-09-05T12:52:21+00:00",
@@ -44168,6 +44229,16 @@
       "source": "simplify",
       "title": "Software Developer",
       "url": "https://apply.workable.com/neurohire-dot-a-i/j/01ECE8E2C4/apply"
+    },
+    "simplify:neurohire.ai::simplify-af19d8f3-e4eb-443f-9668-3e0c5ba8d5f1": {
+      "company": "neurohire.ai",
+      "first_seen": "2026-11-19T23:32:36+00:00",
+      "last_seen": "2026-11-19T23:32:36+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1795129470",
+      "source": "simplify",
+      "title": "Forward Deployed Engineer",
+      "url": "https://apply.workable.com/neurohire-dot-a-i/j/59974A3466/apply"
     },
     "simplify:neurohire.ai::simplify-e286c81e-9d91-47e7-9629-9185635680de": {
       "company": "neurohire.ai",
@@ -51657,6 +51728,16 @@
       "source": "simplify",
       "title": "Research and Development Co-op",
       "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10637"
+    },
+    "simplify:ralliant::simplify-ffd308ae-0047-4f00-9033-765b3021b684": {
+      "company": "Ralliant",
+      "first_seen": "2026-11-19T23:32:36+00:00",
+      "last_seen": "2026-11-19T23:32:36+00:00",
+      "location": "Beaverton, OR",
+      "posted_at": "1795129504",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153"
     },
     "simplify:rambus::simplify-70badd1a-bc27-4f10-9eec-48b90aeaa47f": {
       "company": "Rambus",
@@ -67239,6 +67320,16 @@
       "posted_at": "1782511612",
       "title": "Integrated Test Environment Software Engineer 1",
       "url": "https://jobs.ulalaunch.com/job/Centennial-Integrated-Test-Environment-(ITE)-Software-Engineer-1-CO-80112/1403796400/?ats=successfactors"
+    },
+    "simplify:united launch alliance::simplify-b77f486a-2b51-4a28-aa1a-586e0eee73a6": {
+      "company": "United Launch Alliance",
+      "first_seen": "2026-11-19T23:32:36+00:00",
+      "last_seen": "2026-11-19T23:32:36+00:00",
+      "location": "Centennial, CO",
+      "posted_at": "1795130593",
+      "source": "simplify",
+      "title": "Ground Software Avionics & Infrastructure Engineer 1",
+      "url": "https://jobs.ulalaunch.com/job/Centennial-Ground-Software-(GSW)-Avionics-&-Infrastructure-Engineer-1-CO-80112/1452361700/?ats=successfactors"
     },
     "simplify:united launch alliance::simplify-d95db18e-3cf3-44d3-8de3-e765f832d1a9": {
       "company": "United Launch Alliance",
@@ -88587,5 +88678,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T22:53:40+00:00"
+  "updated_at": "2026-11-19T23:32:42+00:00"
 }
