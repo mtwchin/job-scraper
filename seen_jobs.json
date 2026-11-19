@@ -1,5 +1,5 @@
 {
-  "count": 8138,
+  "count": 8139,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [
@@ -60098,6 +60098,16 @@
       "title": "Manufacturing Software Engineer Intern - Winter 2027",
       "url": "https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb"
     },
+    "snowflake::185d165c-09c7-4b57-9281-ff7c2c541907": {
+      "company": "Snowflake",
+      "first_seen": "2026-11-19T21:35:47+00:00",
+      "last_seen": "2026-11-19T21:35:47+00:00",
+      "location": "US-CA-Menlo Park",
+      "posted_at": "2026-11-19T21:34:53.479+00:00",
+      "source": "",
+      "title": "Software Engineer Intern (AI / ML) - Summer 2027",
+      "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907"
+    },
     "snowflake::26a0ae52-97a6-4a46-9216-3c382570d89b": {
       "company": "Snowflake",
       "first_seen": "2026-06-28T23:46:38+00:00",
@@ -68838,5 +68848,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T20:48:22+00:00"
+  "updated_at": "2026-11-19T21:36:25+00:00"
 }
