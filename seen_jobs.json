@@ -1,6 +1,16 @@
 {
   "count": 8141,
-  "delivery_attempts": {},
+  "delivery_attempts": {
+    "vanshb03:snowflake::vanshb03-363d73ec-815f-4c95-bb0f-b34587572a05": {
+      "attempted_at": "2026-11-19T22:53:31+00:00",
+      "company": "Snowflake",
+      "location": "Menlo Park, CA, Bellevue, WA",
+      "posted_at": "1795046400",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, AI/ML",
+      "url": "https://go.vansh.nyc/1Dr"
+    }
+  },
   "delivery_rejections": {},
   "health_reported": [
     "Adobe",
@@ -68868,5 +68878,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T21:37:28+00:00"
+  "updated_at": "2026-11-19T22:54:31+00:00"
 }
