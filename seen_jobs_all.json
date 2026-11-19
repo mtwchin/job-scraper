@@ -1,5 +1,5 @@
 {
-  "count": 10041,
+  "count": 10044,
   "delivery_attempts": {
     "anduril::5300647007": {
       "attempted_at": "2026-11-18T16:46:42+00:00",
@@ -27,15 +27,6 @@
       "source": "simplify",
       "title": "Student Worker Intern",
       "url": "https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---Great-Britain/Student-Worker_R0006047"
-    },
-    "simplify:eql tech::simplify-981500f0-50ca-42b6-9612-97edf956e5a3": {
-      "attempted_at": "2026-11-18T10:32:36+00:00",
-      "company": "EQL Tech",
-      "location": "SF",
-      "posted_at": "1793313333",
-      "source": "simplify",
-      "title": "Founding Full Stack Engineer - Fintech & Edtech",
-      "url": "https://apply.workable.com/eqltech/j/E001CE3E7F/apply"
     },
     "simplify:giro::simplify-401dc22d-9fa3-46ca-b73d-c68bde0ddc1c": {
       "attempted_at": "2026-11-18T16:33:01+00:00",
@@ -21318,6 +21309,7 @@
     "simplify:crossmark::simplify-f06e9a4c-1da2-4d84-9f17-94d0eeed1835": {
       "company": "CROSSMARK",
       "first_seen": "2026-09-03T16:42:59+00:00",
+      "last_seen": "2026-11-19T10:33:03+00:00",
       "posted_at": "1787016967",
       "title": "Events Specialist",
       "url": "https://jobs.smartrecruiters.com/CROSSMARK1/92227917"
@@ -21434,6 +21426,16 @@
       "source": "simplify",
       "title": "Gameplay Engineer Intern",
       "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4746848005"
+    },
+    "simplify:crystal dynamics::simplify-ae65cb8b-ec6b-48b7-a221-afec9b7f068d": {
+      "company": "Crystal Dynamics",
+      "first_seen": "2026-11-19T10:33:03+00:00",
+      "last_seen": "2026-11-19T10:33:03+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1793040388",
+      "source": "simplify",
+      "title": "Game Design Intern",
+      "url": "https://job-boards.greenhouse.io/crystaldynamics/jobs/4747682005"
     },
     "simplify:csc generation::simplify-03b53364-747f-47ed-8bfc-ba012349cb8c": {
       "company": "CSC Generation",
@@ -25230,6 +25232,17 @@
       "posted_at": "1786602082",
       "title": "Software Engineer 3",
       "url": "https://eposnowgroup.bamboohr.com/careers/567/"
+    },
+    "simplify:eql tech::simplify-981500f0-50ca-42b6-9612-97edf956e5a3": {
+      "company": "EQL Tech",
+      "delivery_unconfirmed": true,
+      "first_seen": "2026-11-18T10:32:36+00:00",
+      "last_seen": "2026-11-19T10:33:03+00:00",
+      "location": "SF",
+      "posted_at": "1793313333",
+      "source": "simplify",
+      "title": "Founding Full Stack Engineer - Fintech & Edtech",
+      "url": "https://apply.workable.com/eqltech/j/E001CE3E7F/apply"
     },
     "simplify:equifax::simplify-3e140e24-914a-47bb-907d-a78fd0345f62": {
       "company": "Equifax",
@@ -52111,6 +52124,16 @@
       "posted_at": "1787534651",
       "title": "Associate Software Engineer - Salesforce",
       "url": "https://careers-reisystems.icims.com/jobs/3495/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:rei systems::simplify-98a47c6e-06dd-4d9d-95c5-02197443ddc8": {
+      "company": "REI Systems",
+      "first_seen": "2026-11-19T10:33:03+00:00",
+      "last_seen": "2026-11-19T10:33:03+00:00",
+      "location": "Sterling, VA",
+      "posted_at": "1793864468",
+      "source": "simplify",
+      "title": "Junior Associate Software Engineer - Java Full Stack",
+      "url": "https://careers-reisystems.icims.com/jobs/3511/job?mobile=true&needsRedirect=false"
     },
     "simplify:relativity space::simplify-b2c6199d-57c1-4fbb-9de4-1dbb413f3c65": {
       "company": "Relativity Space",
@@ -88399,5 +88422,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T10:03:44+00:00"
+  "updated_at": "2026-11-19T10:33:47+00:00"
 }
