@@ -46,6 +46,15 @@
       "title": "Software Developer Intern - Algorithms and Operations Research",
       "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314"
     },
+    "simplify:super micro computer::simplify-2f26dbb7-f29f-4f57-bede-ddd673581370": {
+      "attempted_at": "2026-11-19T10:03:03+00:00",
+      "company": "Super Micro Computer",
+      "location": "San Jose, CA",
+      "posted_at": "1789509772",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://jobs.supermicro.com/job/San-Jose-Software-Engineer-Cali/1430200500/?ats=successfactors"
+    },
     "vanshb03:roblox::vanshb03-0f1ce92c-d9dd-44eb-a263-8abec9bab838": {
       "attempted_at": "2026-11-18T20:47:36+00:00",
       "company": "Roblox",
@@ -88390,5 +88399,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T09:33:40+00:00"
+  "updated_at": "2026-11-19T10:03:44+00:00"
 }
