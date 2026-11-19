@@ -1,5 +1,5 @@
 {
-  "count": 10056,
+  "count": 10062,
   "delivery_attempts": {
     "simplify:super micro computer::simplify-2f26dbb7-f29f-4f57-bede-ddd673581370": {
       "attempted_at": "2026-11-19T10:03:03+00:00",
@@ -71787,6 +71787,26 @@
       "title": "Manufacturing Software Engineer Intern - Winter 2027",
       "url": "https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb"
     },
+    "snowflake::0223923d-4f0f-44e6-9649-0d1a9eda950d": {
+      "company": "Snowflake",
+      "first_seen": "2026-11-19T21:36:47+00:00",
+      "last_seen": "2026-11-19T21:36:47+00:00",
+      "location": "US-CA-Menlo Park",
+      "posted_at": "2026-11-19T21:33:52.400+00:00",
+      "source": "",
+      "title": "Software Engineer Intern (Database Engineering) - Summer 2027",
+      "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d"
+    },
+    "snowflake::185d165c-09c7-4b57-9281-ff7c2c541907": {
+      "company": "Snowflake",
+      "first_seen": "2026-11-19T21:35:47+00:00",
+      "last_seen": "2026-11-19T21:35:47+00:00",
+      "location": "US-CA-Menlo Park",
+      "posted_at": "2026-11-19T21:34:53.479+00:00",
+      "source": "",
+      "title": "Software Engineer Intern (AI / ML) - Summer 2027",
+      "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907"
+    },
     "snowflake::26a0ae52-97a6-4a46-9216-3c382570d89b": {
       "company": "Snowflake",
       "first_seen": "2026-06-28T23:46:38+00:00",
@@ -71834,6 +71854,16 @@
       "first_seen": "2026-06-28T23:46:38+00:00",
       "title": "Software Engineer Intern (AI/ML) - 2026",
       "url": "https://jobs.ashbyhq.com/snowflake/897e1850-c590-4462-b187-0516b65b2034"
+    },
+    "snowflake::e194759e-3a20-47c9-868d-f47179613897": {
+      "company": "Snowflake",
+      "first_seen": "2026-11-19T21:36:47+00:00",
+      "last_seen": "2026-11-19T21:36:47+00:00",
+      "location": "US-CA-Menlo Park",
+      "posted_at": "2026-11-19T21:36:05.815+00:00",
+      "source": "",
+      "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Summer 2027",
+      "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897"
     },
     "spacex::8403219002": {
       "company": "SpaceX",
@@ -79683,6 +79713,38 @@
       "source": "vanshb03",
       "title": "Embedded Software Engineer Intern",
       "url": "https://go.vansh.nyc/Iv"
+    },
+    "vanshb03:lutron::vanshb03-087931c9-390b-4a7d-af34-5267fa08ac2c": {
+      "company": "Lutron",
+      "first_seen": "2026-11-19T21:55:18+00:00",
+      "last_seen": "2026-11-19T21:55:18+00:00",
+      "location": "Cincinnati, OH",
+      "posted_at": "1795124808",
+      "source": "vanshb03",
+      "title": "Embedded Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1De"
+    },
+    "vanshb03:lutron::vanshb03-63af27a3-5a8b-40af-8a37-6a10a6d5ef97": {
+      "company": "Lutron",
+      "first_seen": "2026-11-19T21:55:18+00:00",
+      "last_seen": "2026-11-19T21:55:18+00:00",
+      "location": "Philadelphia, PA; Cincinnati, OH",
+      "posted_at": "1795124808",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1Dg"
+    },
+    "vanshb03:lutron::vanshb03-b6d027a2-70fc-4d98-8bd1-d50255cf2049": {
+      "company": "Lutron",
+      "duplicate_of": "vanshb03:lutron::vanshb03-63af27a3-5a8b-40af-8a37-6a10a6d5ef97",
+      "first_seen": "2026-11-19T21:55:18+00:00",
+      "last_seen": "2026-11-19T21:55:18+00:00",
+      "location": "Cincinnati, OH",
+      "posted_at": "1795124808",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1Dj"
     },
     "vanshb03:lyft::vanshb03-1b07aa70-502b-4d79-a50d-87e9fac7d55b": {
       "company": "Lyft",
@@ -88505,5 +88567,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T21:19:41+00:00"
+  "updated_at": "2026-11-19T21:55:45+00:00"
 }
