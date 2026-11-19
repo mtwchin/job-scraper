@@ -1,5 +1,5 @@
 {
-  "count": 10072,
+  "count": 10074,
   "delivery_attempts": {
     "simplify:super micro computer::simplify-2f26dbb7-f29f-4f57-bede-ddd673581370": {
       "attempted_at": "2026-11-19T10:03:03+00:00",
@@ -76145,6 +76145,16 @@
       "title": "New Grad 2026: Software Engineer",
       "url": "https://jobs.ashbyhq.com/Commure-Athelas/00dbfa4a-986c-4c98-a966-47874d1ff0f8"
     },
+    "vanshb03:compassion international::vanshb03-16d9a23e-0411-48ab-a603-0881117dfe0f": {
+      "company": "Compassion International",
+      "first_seen": "2026-11-19T23:50:36+00:00",
+      "last_seen": "2026-11-19T23:50:36+00:00",
+      "location": "United States",
+      "posted_at": "1795131985",
+      "source": "vanshb03",
+      "title": "Data and Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1DA"
+    },
     "vanshb03:compeer financial::vanshb03-e055ac75-21f6-4a59-a35c-8125ff1474d5": {
       "company": "Compeer Financial",
       "first_seen": "2026-10-26T14:17:24+00:00",
@@ -79784,6 +79794,16 @@
       "source": "vanshb03",
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/Ce"
+    },
+    "vanshb03:lucid motors::vanshb03-d7fcce10-ad3b-469a-86e4-8cbb5df3a52a": {
+      "company": "Lucid Motors",
+      "first_seen": "2026-11-19T23:50:36+00:00",
+      "last_seen": "2026-11-19T23:50:36+00:00",
+      "location": "Newark, CA",
+      "posted_at": "1795046400",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, SDET",
+      "url": "https://go.vansh.nyc/1Dw"
     },
     "vanshb03:lumbermen's::vanshb03-f2dee55c-3c81-4b42-8975-75d6aa025ff6": {
       "company": "Lumbermen's",
@@ -88678,5 +88698,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T23:32:42+00:00"
+  "updated_at": "2026-11-19T23:50:45+00:00"
 }
