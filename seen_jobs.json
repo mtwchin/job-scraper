@@ -23,7 +23,6 @@
   "delivery_rejections": {},
   "health_reported": [
     "Barclays",
-    "Blackrock",
     "Blue Origin",
     "Broadcom",
     "Cadence",
@@ -35,7 +34,6 @@
     "PayPal",
     "Red Hat",
     "Salesforce",
-    "Workday",
     "Zoom"
   ],
   "jobs": {
@@ -68823,5 +68821,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T13:18:53+00:00"
+  "updated_at": "2026-11-19T13:23:56+00:00"
 }
