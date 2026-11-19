@@ -1,15 +1,6 @@
 {
-  "count": 8136,
+  "count": 8137,
   "delivery_attempts": {
-    "anduril::5300647007": {
-      "attempted_at": "2026-11-18T16:46:42+00:00",
-      "company": "Anduril",
-      "location": "Costa Mesa, California, United States",
-      "posted_at": "2026-11-18T11:45:29-05:00",
-      "source": "",
-      "title": "2027 Business Systems Engineer Intern",
-      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007"
-    },
     "vanshb03:roblox::vanshb03-0f1ce92c-d9dd-44eb-a263-8abec9bab838": {
       "attempted_at": "2026-11-18T20:47:36+00:00",
       "company": "Roblox",
@@ -846,6 +837,17 @@
       "source": "",
       "title": "Early Career RF Mission Systems Engineer, Air Dominance & Strike",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5290310007?gh_jid=5290310007"
+    },
+    "anduril::5300647007": {
+      "company": "Anduril",
+      "delivery_unconfirmed": true,
+      "first_seen": "2026-11-18T16:46:42+00:00",
+      "last_seen": "2026-11-19T16:46:51+00:00",
+      "location": "Costa Mesa, California, United States",
+      "posted_at": "2026-11-18T11:45:29-05:00",
+      "source": "",
+      "title": "2027 Business Systems Engineer Intern",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007"
     },
     "apple::200664320-3810": {
       "company": "Apple",
@@ -68828,5 +68830,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T16:38:52+00:00"
+  "updated_at": "2026-11-19T16:46:54+00:00"
 }
