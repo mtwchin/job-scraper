@@ -1,5 +1,5 @@
 {
-  "count": 10055,
+  "count": 10056,
   "delivery_attempts": {
     "simplify:super micro computer::simplify-2f26dbb7-f29f-4f57-bede-ddd673581370": {
       "attempted_at": "2026-11-19T10:03:03+00:00",
@@ -78333,6 +78333,16 @@
       "title": "New Grad 2027: Software Development Engineer",
       "url": "https://go.vansh.nyc/Kx"
     },
+    "vanshb03:idaho national laboratory::vanshb03-3839596b-91de-48e4-8f95-06c341099144": {
+      "company": "Idaho National Laboratory",
+      "first_seen": "2026-11-19T21:19:18+00:00",
+      "last_seen": "2026-11-19T21:19:18+00:00",
+      "location": "Idaho Falls, ID",
+      "posted_at": "1795046400",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Java/API Development for Neutronics Code",
+      "url": "https://go.vansh.nyc/1D6"
+    },
     "vanshb03:idemia north america::vanshb03-74589929-de53-4e2a-ac78-6ea4baa44f1c": {
       "company": "IDEMIA North America",
       "first_seen": "2026-10-23T16:49:11+00:00",
@@ -88495,5 +88505,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T20:55:37+00:00"
+  "updated_at": "2026-11-19T21:19:41+00:00"
 }
