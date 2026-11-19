@@ -22,20 +22,9 @@
   },
   "delivery_rejections": {},
   "health_reported": [
-    "Adobe",
     "Barclays",
-    "Blackrock",
     "Blue Origin",
-    "Broadcom",
-    "Cadence",
-    "Cisco",
-    "CrowdStrike",
-    "Intel",
-    "PayPal",
-    "Red Hat",
-    "Salesforce",
-    "Workday",
-    "Zoom"
+    "Salesforce"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -1293,7 +1282,7 @@
     "cadence::Intern--Software-Engineering-Jasper-R-D_R55530": {
       "company": "Cadence",
       "first_seen": "2026-11-18T15:29:57+00:00",
-      "last_seen": "2026-11-18T15:29:57+00:00",
+      "last_seen": "2026-11-19T06:17:19+00:00",
       "location": "BELO HORIZONTE",
       "posted_at": "Posted Today",
       "source": "",
@@ -68792,5 +68781,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T05:41:29+00:00"
+  "updated_at": "2026-11-19T06:17:32+00:00"
 }
