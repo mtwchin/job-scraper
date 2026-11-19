@@ -1,16 +1,6 @@
 {
-  "count": 8137,
-  "delivery_attempts": {
-    "vanshb03:roblox::vanshb03-0f1ce92c-d9dd-44eb-a263-8abec9bab838": {
-      "attempted_at": "2026-11-18T20:47:36+00:00",
-      "company": "Roblox",
-      "location": "Vancouver, Canada",
-      "posted_at": "1795030623",
-      "source": "vanshb03",
-      "title": "Software Engineer Intern, Engine",
-      "url": "https://go.vansh.nyc/1Cn"
-    }
-  },
+  "count": 8138,
+  "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [
     "Adobe",
@@ -65471,6 +65461,17 @@
       "title": "Software Engineering Co-op",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156311682"
     },
+    "vanshb03:roblox::vanshb03-0f1ce92c-d9dd-44eb-a263-8abec9bab838": {
+      "company": "Roblox",
+      "delivery_unconfirmed": true,
+      "first_seen": "2026-11-18T20:47:36+00:00",
+      "last_seen": "2026-11-19T20:47:41+00:00",
+      "location": "Vancouver, Canada",
+      "posted_at": "1795030623",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Engine",
+      "url": "https://go.vansh.nyc/1Cn"
+    },
     "vanshb03:roblox::vanshb03-516fc19f-aadc-4ffe-8d15-aea277fef78b": {
       "company": "Roblox",
       "first_seen": "2026-11-04T19:03:02+00:00",
@@ -68837,5 +68838,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T19:04:53+00:00"
+  "updated_at": "2026-11-19T20:48:22+00:00"
 }
