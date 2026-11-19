@@ -1,5 +1,5 @@
 {
-  "count": 10062,
+  "count": 10063,
   "delivery_attempts": {
     "simplify:super micro computer::simplify-2f26dbb7-f29f-4f57-bede-ddd673581370": {
       "attempted_at": "2026-11-19T10:03:03+00:00",
@@ -77751,6 +77751,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/108"
     },
+    "vanshb03:gentuity::vanshb03-257ec1ee-8999-4991-88e4-8ec356662ce8": {
+      "company": "Gentuity",
+      "first_seen": "2026-11-19T22:17:36+00:00",
+      "last_seen": "2026-11-19T22:17:36+00:00",
+      "location": "Sudbury, MA",
+      "posted_at": "1795046400",
+      "source": "vanshb03",
+      "title": "Software Engineer Co-op",
+      "url": "https://go.vansh.nyc/1Do"
+    },
     "vanshb03:geotab::vanshb03-7942598b-60d6-47e6-8f77-83741ba8dc61": {
       "company": "Geotab",
       "first_seen": "2026-11-01T09:58:24+00:00",
@@ -88567,5 +88577,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T21:57:35+00:00"
+  "updated_at": "2026-11-19T22:17:37+00:00"
 }
