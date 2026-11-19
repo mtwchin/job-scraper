@@ -1,5 +1,5 @@
 {
-  "count": 8139,
+  "count": 8141,
   "delivery_attempts": {},
   "delivery_rejections": {},
   "health_reported": [
@@ -60098,6 +60098,16 @@
       "title": "Manufacturing Software Engineer Intern - Winter 2027",
       "url": "https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb"
     },
+    "snowflake::0223923d-4f0f-44e6-9649-0d1a9eda950d": {
+      "company": "Snowflake",
+      "first_seen": "2026-11-19T21:36:47+00:00",
+      "last_seen": "2026-11-19T21:36:47+00:00",
+      "location": "US-CA-Menlo Park",
+      "posted_at": "2026-11-19T21:33:52.400+00:00",
+      "source": "",
+      "title": "Software Engineer Intern (Database Engineering) - Summer 2027",
+      "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d"
+    },
     "snowflake::185d165c-09c7-4b57-9281-ff7c2c541907": {
       "company": "Snowflake",
       "first_seen": "2026-11-19T21:35:47+00:00",
@@ -60155,6 +60165,16 @@
       "first_seen": "2026-06-28T23:46:38+00:00",
       "title": "Software Engineer Intern (AI/ML) - 2026",
       "url": "https://jobs.ashbyhq.com/snowflake/897e1850-c590-4462-b187-0516b65b2034"
+    },
+    "snowflake::e194759e-3a20-47c9-868d-f47179613897": {
+      "company": "Snowflake",
+      "first_seen": "2026-11-19T21:36:47+00:00",
+      "last_seen": "2026-11-19T21:36:47+00:00",
+      "location": "US-CA-Menlo Park",
+      "posted_at": "2026-11-19T21:36:05.815+00:00",
+      "source": "",
+      "title": "Software Engineer Intern (Core, Infrastructure & Security) \u2014 Summer 2027",
+      "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897"
     },
     "spacex::8403219002": {
       "company": "SpaceX",
@@ -68848,5 +68868,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T21:36:25+00:00"
+  "updated_at": "2026-11-19T21:37:28+00:00"
 }
