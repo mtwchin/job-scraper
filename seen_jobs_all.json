@@ -1,5 +1,5 @@
 {
-  "count": 10049,
+  "count": 10050,
   "delivery_attempts": {
     "anduril::5300647007": {
       "attempted_at": "2026-11-18T16:46:42+00:00",
@@ -14926,6 +14926,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/braze/jobs/8301086"
+    },
+    "simplify:bread financial::simplify-c0fa2195-311d-4b20-895a-835015b65bb8": {
+      "company": "Bread Financial",
+      "first_seen": "2026-11-19T16:02:51+00:00",
+      "last_seen": "2026-11-19T16:02:51+00:00",
+      "location": "Frisco, TX, Chadds Ford Township, PA, Columbus, OH, Draper, UT, Wilmington, DE",
+      "posted_at": "1794787200",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/Columbus-OH/Intern---Software-Engineering_R1013421"
     },
     "simplify:bree::simplify-0808a8e7-18e7-48d5-ad82-fdc4baaf595c": {
       "company": "Bree",
@@ -88458,5 +88468,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T15:48:01+00:00"
+  "updated_at": "2026-11-19T16:03:04+00:00"
 }
