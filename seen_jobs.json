@@ -28,7 +28,6 @@
     "Broadcom",
     "Cadence",
     "CrowdStrike",
-    "Intel",
     "Micron",
     "Nvidia",
     "Red Hat",
@@ -68830,5 +68829,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T14:28:34+00:00"
+  "updated_at": "2026-11-19T14:33:36+00:00"
 }
