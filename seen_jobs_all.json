@@ -1,5 +1,5 @@
 {
-  "count": 10050,
+  "count": 10051,
   "delivery_attempts": {
     "anduril::5300647007": {
       "attempted_at": "2026-11-18T16:46:42+00:00",
@@ -9,15 +9,6 @@
       "source": "",
       "title": "2027 Business Systems Engineer Intern",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007"
-    },
-    "simplify:giro::simplify-401dc22d-9fa3-46ca-b73d-c68bde0ddc1c": {
-      "attempted_at": "2026-11-18T16:33:01+00:00",
-      "company": "GIRO",
-      "location": "Montreal, QC, Canada",
-      "posted_at": "1788134400",
-      "source": "simplify",
-      "title": "Software Developer Intern - Algorithms and Operations Research",
-      "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314"
     },
     "simplify:super micro computer::simplify-2f26dbb7-f29f-4f57-bede-ddd673581370": {
       "attempted_at": "2026-11-19T10:03:03+00:00",
@@ -29896,6 +29887,17 @@
       "source": "simplify",
       "title": "Front-End Web Developer",
       "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-web--Front-end_R-100000287"
+    },
+    "simplify:giro::simplify-401dc22d-9fa3-46ca-b73d-c68bde0ddc1c": {
+      "company": "GIRO",
+      "delivery_unconfirmed": true,
+      "first_seen": "2026-11-18T16:33:01+00:00",
+      "last_seen": "2026-11-19T16:33:18+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1788134400",
+      "source": "simplify",
+      "title": "Software Developer Intern - Algorithms and Operations Research",
+      "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314"
     },
     "simplify:giro::simplify-8da7e607-788f-4d80-ad68-62014bf8575f": {
       "company": "GIRO",
@@ -88468,5 +88470,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T16:27:16+00:00"
+  "updated_at": "2026-11-19T16:33:19+00:00"
 }
