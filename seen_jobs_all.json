@@ -25461,6 +25461,7 @@
     "simplify:erpa::simplify-b93029bb-0502-4da5-9050-4b8933270db8": {
       "company": "ERPA",
       "first_seen": "2026-08-12T03:29:34+00:00",
+      "last_seen": "2026-11-19T11:02:50+00:00",
       "posted_at": "1786496876",
       "title": "Software Developer",
       "url": "https://jobs.smartrecruiters.com/ERPAnalysts1/743999677352777"
@@ -61155,6 +61156,7 @@
     "simplify:symphony::simplify-e605eb24-fccd-40f1-ba50-1d8692ca8ee7": {
       "company": "Symphony",
       "first_seen": "2026-08-12T03:29:34+00:00",
+      "last_seen": "2026-11-19T11:02:50+00:00",
       "posted_at": "1786497173",
       "title": "Application Architect 1",
       "url": "https://jobs.smartrecruiters.com/SymphonyCorp1/96481365"
@@ -88422,5 +88424,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T10:56:48+00:00"
+  "updated_at": "2026-11-19T11:03:51+00:00"
 }
