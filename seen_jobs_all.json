@@ -1,5 +1,5 @@
 {
-  "count": 10044,
+  "count": 10047,
   "delivery_attempts": {
     "anduril::5300647007": {
       "attempted_at": "2026-11-18T16:46:42+00:00",
@@ -1320,6 +1320,16 @@
       "source": "",
       "title": "Intern: Software Engineering Jasper R&D",
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530"
+    },
+    "cadence::Intern-Software-Engineer--Summer-2027--Three-Month-Duration----_R57170": {
+      "company": "Cadence",
+      "first_seen": "2026-11-19T12:27:45+00:00",
+      "last_seen": "2026-11-19T12:27:45+00:00",
+      "location": "EDINBURGH 01",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Intern Software Engineer, Summer 2027, Three Month Duration\u00a0  \u00a0",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/EDINBURGH-01/Intern-Software-Engineer--Summer-2027--Three-Month-Duration----_R57170"
     },
     "capital one::Associate--Software-Engineer--New-Grad-Card-Expansion_R236833": {
       "company": "Capital One",
@@ -3705,6 +3715,16 @@
       "source": "",
       "title": "2027 Summer Internship \u2013 Software Engineer ",
       "url": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002"
+    },
+    "pure storage::8393948": {
+      "company": "Pure Storage",
+      "first_seen": "2026-11-19T14:16:36+00:00",
+      "last_seen": "2026-11-19T14:16:36+00:00",
+      "location": "Chicago, Illinois; Lehi, Utah; Raleigh, North Carolina",
+      "posted_at": "2026-11-19T09:16:00-05:00",
+      "source": "",
+      "title": "Associate Systems Engineer",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8393948"
     },
     "ramp::67fadb77-43d8-4449-954b-d4cf2c6d3b8b": {
       "company": "Ramp",
@@ -59290,6 +59310,16 @@
       "title": "Software Engineer Intern - Software, AI, & Machine Learning",
       "url": "https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning"
     },
+    "simplify:space dynamics laboratory::simplify-ec63f3d6-689a-45ea-aa6a-980217419acf": {
+      "company": "Space Dynamics Laboratory",
+      "first_seen": "2026-11-19T15:32:50+00:00",
+      "last_seen": "2026-11-19T15:32:50+00:00",
+      "location": "Logan, UT",
+      "posted_at": "1795101750",
+      "source": "simplify",
+      "title": "Software Engineering Assistant Intern",
+      "url": "https://spacedynamicslaboratory.applytojob.com/apply/qi2jNoCwKX/Student-Software-Engineering-Assistant"
+    },
     "simplify:space dynamics laboratory::simplify-f7628ce8-6895-4567-b889-509bb8769f10": {
       "company": "Space Dynamics Laboratory",
       "first_seen": "2026-09-14T21:34:51+00:00",
@@ -88424,5 +88454,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T11:03:51+00:00"
+  "updated_at": "2026-11-19T15:32:59+00:00"
 }
