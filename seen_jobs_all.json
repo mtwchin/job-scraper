@@ -1,5 +1,5 @@
 {
-  "count": 10034,
+  "count": 10036,
   "delivery_attempts": {
     "anduril::5300647007": {
       "attempted_at": "2026-11-18T16:46:42+00:00",
@@ -43416,6 +43416,16 @@
       "title": "Junior AI and Automation Engineer",
       "url": "https://boards.greenhouse.io/myriad360/jobs/8930382002"
     },
+    "simplify:mytra::simplify-f8d027b7-dcfb-4dc2-8c62-0b33b8491181": {
+      "company": "Mytra",
+      "first_seen": "2026-11-19T02:32:06+00:00",
+      "last_seen": "2026-11-19T02:32:06+00:00",
+      "location": "Brisbane, CA",
+      "posted_at": "1795043849",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://ats.rippling.com/mytra/jobs/5e479468-c622-4d2b-8789-89fbc14f3292"
+    },
     "simplify:n1::simplify-566e37cf-7620-4e64-90ea-d25a99bb5f19": {
       "company": "N1",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -46337,7 +46347,7 @@
     "simplify:nutanix::simplify-4a56e5c7-104e-4300-af23-cd40dfd09685": {
       "company": "Nutanix",
       "first_seen": "2026-11-04T16:02:17+00:00",
-      "last_seen": "2026-11-18T00:02:04+00:00",
+      "last_seen": "2026-11-19T02:32:05+00:00",
       "location": "Cambridge, UK",
       "posted_at": "1793266442",
       "source": "simplify",
@@ -70654,6 +70664,16 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/workshop/jobs/5237900007"
     },
+    "simplify:workstream::simplify-40ef9e3b-1493-4170-b639-2beafbc6c791": {
+      "company": "Workstream",
+      "first_seen": "2026-11-19T02:32:06+00:00",
+      "last_seen": "2026-11-19T02:32:06+00:00",
+      "location": "Vancouver, BC, Canada",
+      "posted_at": "1795053901",
+      "source": "simplify",
+      "title": "Full Stack Engineer Intern",
+      "url": "https://job-boards.greenhouse.io/workstream/jobs/6265872004"
+    },
     "simplify:worldscape technology::simplify-4f87a199-9c4d-468f-b17c-66ea30769939": {
       "company": "Worldscape Technology",
       "first_seen": "2026-10-23T09:01:28+00:00",
@@ -88336,5 +88356,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T00:03:06+00:00"
+  "updated_at": "2026-11-19T02:32:10+00:00"
 }
