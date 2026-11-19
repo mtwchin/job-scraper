@@ -1,5 +1,5 @@
 {
-  "count": 10038,
+  "count": 10041,
   "delivery_attempts": {
     "anduril::5300647007": {
       "attempted_at": "2026-11-18T16:46:42+00:00",
@@ -9378,6 +9378,16 @@
       "source": "simplify",
       "title": "Software Engineer - Siri User Experiences",
       "url": "https://jobs.apple.com/en-us/details/200687375"
+    },
+    "simplify:apple::simplify-07baff59-c50a-4fc1-b101-cdf0b86ff995": {
+      "company": "Apple",
+      "first_seen": "2026-11-19T09:32:04+00:00",
+      "last_seen": "2026-11-19T09:32:04+00:00",
+      "location": "Cupertino, CA",
+      "posted_at": "1791853806",
+      "source": "simplify",
+      "title": "OS Software Engineer - Evaluation",
+      "url": "https://jobs.apple.com/en-us/details/200688625"
     },
     "simplify:apple::simplify-0ad7f4c0-4ab8-4bed-8204-15a557a79c1e": {
       "company": "Apple",
@@ -39784,6 +39794,16 @@
       "title": "Software Engineering Co-op",
       "url": "https://careers.lutron.com/jobs/5616?icims=1"
     },
+    "simplify:lyft::simplify-01f581df-ff1b-4b67-a134-b125e39c9921": {
+      "company": "Lyft",
+      "first_seen": "2026-11-19T09:32:04+00:00",
+      "last_seen": "2026-11-19T09:32:04+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1787950624",
+      "source": "simplify",
+      "title": "Android Software Engineer - Lyft Urban Solutions",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002"
+    },
     "simplify:lyft::simplify-0b7f448f-85cf-4eb9-95a0-7de074ec13a5": {
       "company": "Lyft",
       "first_seen": "2026-09-11T23:13:21+00:00",
@@ -41256,6 +41276,16 @@
       "posted_at": "1779228404",
       "title": "Software Development Co-op",
       "url": "https://careers.medpace.com/jobs/12766?lang=en-us&icims=1"
+    },
+    "simplify:medpace::simplify-0cfbb61c-d1bc-419f-84c0-28ddb50ae557": {
+      "company": "Medpace",
+      "first_seen": "2026-11-19T09:33:04+00:00",
+      "last_seen": "2026-11-19T09:33:04+00:00",
+      "location": "Irving, TX",
+      "posted_at": "1785967854",
+      "source": "simplify",
+      "title": "Shiny App Developer",
+      "url": "https://careers.medpace.com/jobs/12908?icims=1&lang=en-us"
     },
     "simplify:medpace::simplify-73c1ef4b-88b7-4b1c-b439-231e8bb950fd": {
       "company": "Medpace",
@@ -88360,5 +88390,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T08:03:36+00:00"
+  "updated_at": "2026-11-19T09:33:40+00:00"
 }
