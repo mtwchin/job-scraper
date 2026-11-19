@@ -1,5 +1,5 @@
 {
-  "count": 10036,
+  "count": 10038,
   "delivery_attempts": {
     "anduril::5300647007": {
       "attempted_at": "2026-11-18T16:46:42+00:00",
@@ -9,15 +9,6 @@
       "source": "",
       "title": "2027 Business Systems Engineer Intern",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007"
-    },
-    "simplify:arcadion::simplify-c0ee6fb3-e347-4bbf-ab4d-d8651f68b82e": {
-      "attempted_at": "2026-11-18T08:02:37+00:00",
-      "company": "Arcadion",
-      "location": "Ottawa, ON, Canada",
-      "posted_at": "1794987486",
-      "source": "simplify",
-      "title": "Junior AI Developer",
-      "url": "https://arcadion.bamboohr.com/careers/52/"
     },
     "simplify:berkshire hathaway energy::simplify-6613bded-9926-49a7-bc7f-60a11f1a05ee": {
       "attempted_at": "2026-11-18T15:33:02+00:00",
@@ -54,15 +45,6 @@
       "source": "simplify",
       "title": "Software Developer Intern - Algorithms and Operations Research",
       "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314"
-    },
-    "simplify:torch technologies::simplify-0e5bab81-2a1e-4d4d-8960-3f6bbb527ab9": {
-      "attempted_at": "2026-11-18T08:02:37+00:00",
-      "company": "Torch Technologies",
-      "location": "Huntsville, AL",
-      "posted_at": "1794873600",
-      "source": "simplify",
-      "title": "Entry-Level Modeling & Simulation Software Engineer",
-      "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Modeling---Simulation-Software-Engineer_R2206-1"
     },
     "vanshb03:roblox::vanshb03-0f1ce92c-d9dd-44eb-a263-8abec9bab838": {
       "attempted_at": "2026-11-18T20:47:36+00:00",
@@ -10194,6 +10176,17 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/arcboatcompany/jobs/5442881008"
+    },
+    "simplify:arcadion::simplify-c0ee6fb3-e347-4bbf-ab4d-d8651f68b82e": {
+      "company": "Arcadion",
+      "delivery_unconfirmed": true,
+      "first_seen": "2026-11-18T08:02:37+00:00",
+      "last_seen": "2026-11-19T08:03:03+00:00",
+      "location": "Ottawa, ON, Canada",
+      "posted_at": "1794987486",
+      "source": "simplify",
+      "title": "Junior AI Developer",
+      "url": "https://arcadion.bamboohr.com/careers/52/"
     },
     "simplify:arcesium::simplify-3a9cc68f-b19b-4099-b4c5-a5cb94c647d8": {
       "company": "Arcesium",
@@ -65807,6 +65800,17 @@
       "title": "Software Engineer - Mission Control",
       "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8566427002"
     },
+    "simplify:torch technologies::simplify-0e5bab81-2a1e-4d4d-8960-3f6bbb527ab9": {
+      "company": "Torch Technologies",
+      "delivery_unconfirmed": true,
+      "first_seen": "2026-11-18T08:02:37+00:00",
+      "last_seen": "2026-11-19T08:03:03+00:00",
+      "location": "Huntsville, AL",
+      "posted_at": "1794873600",
+      "source": "simplify",
+      "title": "Entry-Level Modeling & Simulation Software Engineer",
+      "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Modeling---Simulation-Software-Engineer_R2206-1"
+    },
     "simplify:torch technologies::simplify-67f27f9c-9ca2-4d28-ae38-d2292a9ab45f": {
       "company": "Torch Technologies",
       "first_seen": "2026-08-17T22:50:57+00:00",
@@ -88356,5 +88360,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T05:26:30+00:00"
+  "updated_at": "2026-11-19T08:03:36+00:00"
 }
