@@ -1,5 +1,5 @@
 {
-  "count": 8134,
+  "count": 8135,
   "delivery_attempts": {
     "anduril::5300647007": {
       "attempted_at": "2026-11-18T16:46:42+00:00",
@@ -22,23 +22,10 @@
   },
   "delivery_rejections": {},
   "health_reported": [
-    "Adobe",
     "Barclays",
-    "Blackrock",
-    "Blue Origin",
-    "Broadcom",
-    "Cadence",
-    "Capital One",
-    "Cisco",
-    "CrowdStrike",
     "Intel",
     "Micron",
-    "Nvidia",
-    "PayPal",
-    "Red Hat",
-    "Salesforce",
-    "Workday",
-    "Zoom"
+    "Salesforce"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -1302,6 +1289,16 @@
       "source": "",
       "title": "Intern: Software Engineering Jasper R&D",
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/BELO-HORIZONTE/Intern--Software-Engineering-Jasper-R-D_R55530"
+    },
+    "cadence::Intern-Software-Engineer--Summer-2027--Three-Month-Duration----_R57170": {
+      "company": "Cadence",
+      "first_seen": "2026-11-19T12:27:45+00:00",
+      "last_seen": "2026-11-19T12:27:45+00:00",
+      "location": "EDINBURGH 01",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Intern Software Engineer, Summer 2027, Three Month Duration\u00a0  \u00a0",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/EDINBURGH-01/Intern-Software-Engineer--Summer-2027--Three-Month-Duration----_R57170"
     },
     "capital one::Associate--Software-Engineer--New-Grad-Card-Expansion_R236833": {
       "company": "Capital One",
@@ -68815,5 +68812,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T11:53:32+00:00"
+  "updated_at": "2026-11-19T12:28:35+00:00"
 }
