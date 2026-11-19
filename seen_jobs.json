@@ -1,5 +1,5 @@
 {
-  "count": 8135,
+  "count": 8136,
   "delivery_attempts": {
     "anduril::5300647007": {
       "attempted_at": "2026-11-18T16:46:42+00:00",
@@ -3696,6 +3696,16 @@
       "source": "",
       "title": "2027 Summer Internship \u2013 Software Engineer ",
       "url": "https://boards.greenhouse.io/point72/jobs/8885733002?gh_jid=8885733002"
+    },
+    "pure storage::8393948": {
+      "company": "Pure Storage",
+      "first_seen": "2026-11-19T14:16:36+00:00",
+      "last_seen": "2026-11-19T14:16:36+00:00",
+      "location": "Chicago, Illinois; Lehi, Utah; Raleigh, North Carolina",
+      "posted_at": "2026-11-19T09:16:00-05:00",
+      "source": "",
+      "title": "Associate Systems Engineer",
+      "url": "https://job-boards.greenhouse.io/purestorage/jobs/8393948"
     },
     "ramp::67fadb77-43d8-4449-954b-d4cf2c6d3b8b": {
       "company": "Ramp",
@@ -68823,5 +68833,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T14:14:30+00:00"
+  "updated_at": "2026-11-19T14:17:32+00:00"
 }
