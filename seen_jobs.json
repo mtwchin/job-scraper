@@ -189,7 +189,7 @@
     "affirm::8011590003": {
       "company": "Affirm",
       "first_seen": "2026-10-02T21:57:22+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "San Francisco, California, United States",
       "posted_at": "2026-10-02T17:54:11-04:00",
       "source": "",
@@ -210,7 +210,7 @@
       "company": "Affirm",
       "duplicate_of": "affirm::8017342003",
       "first_seen": "2026-10-15T21:34:34+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Remote US",
       "posted_at": "2026-10-15T17:31:09-04:00",
       "seeded": true,
@@ -221,7 +221,7 @@
     "affirm::8017342003": {
       "company": "Affirm",
       "first_seen": "2026-10-15T21:34:35+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Remote Canada; Remote US",
       "posted_at": "2026-10-15T17:31:11-04:00",
       "source": "",
@@ -232,7 +232,7 @@
       "company": "Affirm",
       "duplicate_of": "affirm::8181185003",
       "first_seen": "2026-11-12T23:17:06+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Remote US",
       "posted_at": "2026-11-12T18:15:54-05:00",
       "seeded": true,
@@ -243,7 +243,7 @@
     "affirm::8181185003": {
       "company": "Affirm",
       "first_seen": "2026-11-12T23:17:06+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Remote Canada; Remote US",
       "posted_at": "2026-11-12T18:15:57-05:00",
       "source": "",
@@ -253,7 +253,7 @@
     "airbnb::8360478": {
       "company": "Airbnb",
       "first_seen": "2026-11-18T05:00:34+00:00",
-      "last_seen": "2026-11-18T05:00:34+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "San Francisco, California",
       "posted_at": "2026-11-18T00:00:14-05:00",
       "source": "",
@@ -287,7 +287,7 @@
     "akuna capital::8018853": {
       "company": "Akuna Capital",
       "first_seen": "2026-07-13T18:54:24+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-07-13T14:21:39-04:00",
       "title": "Software Engineer Intern - Python, Summer 2027",
       "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853"
@@ -396,7 +396,7 @@
     "amazon::10513110": {
       "company": "Amazon",
       "first_seen": "2026-08-25T01:45:07+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "August 25, 2026",
       "title": "Software Development Engineer, Amazon Leo, Early Career - 2026",
       "url": "https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026"
@@ -412,7 +412,7 @@
     "amazon::10517567": {
       "company": "Amazon",
       "first_seen": "2026-08-27T23:56:29+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "August 27, 2026",
       "title": "Software Development Engineer Intern, Annapurna Labs - 2027",
       "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027"
@@ -420,7 +420,7 @@
     "amazon::10529525": {
       "company": "Amazon",
       "first_seen": "2026-09-04T01:16:47+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "September  4, 2026",
       "title": "Software Development Engineer Intern, ROBOTICS - 2027",
       "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027"
@@ -428,7 +428,7 @@
     "amazon::10529546": {
       "company": "Amazon",
       "first_seen": "2026-09-04T05:57:38+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "September  4, 2026",
       "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026",
       "url": "https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026"
@@ -452,7 +452,7 @@
     "amazon::10535280": {
       "company": "Amazon",
       "first_seen": "2026-09-09T20:51:54+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "September  9, 2026",
       "title": "Software Development Engineer Intern, ROBOTICS - 2027",
       "url": "https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027"
@@ -460,7 +460,7 @@
     "amazon::10538066": {
       "company": "Amazon",
       "first_seen": "2026-09-11T23:13:21+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "September 11, 2026",
       "title": "ML Systems Software Development Engineer Intern, Annapurna Labs - 2027",
       "url": "https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027"
@@ -478,7 +478,7 @@
     "amazon::10552937": {
       "company": "Amazon",
       "first_seen": "2026-09-18T16:49:23+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Seattle, Washington, USA",
       "posted_at": "September 17, 2026",
       "source": "",
@@ -498,7 +498,7 @@
     "amazon::10559746": {
       "company": "Amazon",
       "first_seen": "2026-09-24T22:21:23+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Seattle, Washington, USA",
       "posted_at": "September 24, 2026",
       "source": "",
@@ -518,7 +518,7 @@
     "amazon::10565667": {
       "company": "Amazon",
       "first_seen": "2026-09-30T17:00:06+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Seattle, Washington, USA",
       "posted_at": "September 30, 2026",
       "source": "",
@@ -538,7 +538,7 @@
     "amazon::10567914": {
       "company": "Amazon",
       "first_seen": "2026-10-02T16:00:33+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Seattle, Washington, USA",
       "posted_at": "October  2, 2026",
       "source": "",
@@ -558,7 +558,7 @@
     "amazon::10571374": {
       "company": "Amazon",
       "first_seen": "2026-10-07T00:48:55+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Redmond, Washington, USA",
       "posted_at": "October  7, 2026",
       "source": "",
@@ -628,7 +628,7 @@
     "amazon::10593521": {
       "company": "Amazon",
       "first_seen": "2026-10-30T15:29:21+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Seattle, Washington, USA",
       "posted_at": "October 30, 2026",
       "source": "",
@@ -688,7 +688,7 @@
     "amazon::10601956": {
       "company": "Amazon",
       "first_seen": "2026-11-10T23:57:58+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Seattle, Washington, USA",
       "posted_at": "November 10, 2026",
       "source": "",
@@ -714,7 +714,7 @@
     "amazon::3136815": {
       "company": "Amazon",
       "first_seen": "2026-06-28T23:35:42+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "title": "Robotics - Software Development Engineer Intern - 2026 - Toronto",
       "url": "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto"
     },
@@ -734,21 +734,21 @@
     "anduril::5148079007": {
       "company": "Anduril",
       "first_seen": "2026-06-28T23:46:38+00:00",
-      "last_seen": "2026-11-18T00:07:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "title": "2027 Software Engineer Intern",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"
     },
     "anduril::5162263007": {
       "company": "Anduril",
       "first_seen": "2026-06-28T23:46:38+00:00",
-      "last_seen": "2026-11-18T00:07:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "title": "2027 Early Career Software Engineer ",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007"
     },
     "anduril::5228868007": {
       "company": "Anduril",
       "first_seen": "2026-09-02T19:52:06+00:00",
-      "last_seen": "2026-11-18T00:07:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "2026-09-02T15:33:53-04:00",
       "title": "2027 Early Career Flight Software Engineer",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007"
@@ -756,7 +756,7 @@
     "anduril::5236563007": {
       "company": "Anduril",
       "first_seen": "2026-09-15T17:50:52+00:00",
-      "last_seen": "2026-11-18T00:07:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "location": "Quincy, Massachusetts, United States",
       "posted_at": "2026-09-15T13:49:51-04:00",
       "source": "",
@@ -766,7 +766,7 @@
     "anduril::5236599007": {
       "company": "Anduril",
       "first_seen": "2026-09-15T17:55:49+00:00",
-      "last_seen": "2026-11-18T00:07:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "location": "Quincy, Massachusetts, United States",
       "posted_at": "2026-09-15T13:53:53-04:00",
       "source": "",
@@ -776,7 +776,7 @@
     "anduril::5239083007": {
       "company": "Anduril",
       "first_seen": "2026-09-15T19:21:15+00:00",
-      "last_seen": "2026-11-18T00:07:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "location": "Costa Mesa, California, United States",
       "posted_at": "2026-09-15T15:20:09-04:00",
       "source": "",
@@ -816,7 +816,7 @@
     "anduril::5257690007": {
       "company": "Anduril",
       "first_seen": "2026-10-06T00:11:09+00:00",
-      "last_seen": "2026-11-18T00:07:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "location": "Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States",
       "posted_at": "2026-10-05T20:08:43-04:00",
       "source": "",
@@ -826,7 +826,7 @@
     "anduril::5262340007": {
       "company": "Anduril",
       "first_seen": "2026-10-09T16:30:13+00:00",
-      "last_seen": "2026-11-18T00:07:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "location": "Boston, Massachusetts, United States; Boulder, Colorado, United States; Costa Mesa, California, United States; Foothill Ranch, California, United States; Huntsville, Alabama, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States",
       "posted_at": "2026-10-09T12:28:14-04:00",
       "source": "",
@@ -847,7 +847,7 @@
     "anduril::5290310007": {
       "company": "Anduril",
       "first_seen": "2026-11-10T00:47:45+00:00",
-      "last_seen": "2026-11-18T00:07:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "location": "Costa Mesa, California, United States",
       "posted_at": "2026-11-09T19:46:38-05:00",
       "source": "",
@@ -897,7 +897,7 @@
     "applied intuition::31140958-d768-452c-8498-0b1c7f403943": {
       "company": "Applied Intuition",
       "first_seen": "2026-09-02T19:52:06+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "2026-09-02T18:45:38.938+00:00",
       "title": "Forward Deployed Engineer - New Grad (December 2026)",
       "url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943"
@@ -905,7 +905,7 @@
     "applied intuition::6971d533-1536-448b-96b8-544ad5383f44": {
       "company": "Applied Intuition",
       "first_seen": "2026-08-14T22:01:38+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "2026-08-14T21:57:00.558+00:00",
       "title": "Embedded Software Engineer - New Grad 2027",
       "url": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44"
@@ -913,7 +913,7 @@
     "applied intuition::a561fff8-aa38-4a5d-8b29-66c191f7328e": {
       "company": "Applied Intuition",
       "first_seen": "2026-09-02T19:52:06+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "2026-09-02T18:46:50.291+00:00",
       "title": "Cybersecurity Software Engineer - New Grad (December 2027)",
       "url": "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e"
@@ -921,7 +921,7 @@
     "applied intuition::a837cbd6-9fe4-4d74-a2dc-84f602c40694": {
       "company": "Applied Intuition",
       "first_seen": "2026-08-14T22:01:38+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "2026-08-14T21:57:14.117+00:00",
       "title": "Software Engineer - New Grad (December 2026)",
       "url": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694"
@@ -1266,7 +1266,7 @@
     "brex::8936403002": {
       "company": "Brex",
       "first_seen": "2026-11-11T16:25:37+00:00",
-      "last_seen": "2026-11-18T00:00:28+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "San Francisco, California, United States",
       "posted_at": "2026-11-11T11:23:25-05:00",
       "source": "",
@@ -1681,7 +1681,7 @@
     "cloudflare::7774167": {
       "company": "Cloudflare",
       "first_seen": "2026-10-06T23:09:21+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "Hybrid",
       "posted_at": "2026-10-06T19:08:02-04:00",
       "source": "",
@@ -1698,7 +1698,7 @@
     "coinbase::8168315": {
       "company": "Coinbase",
       "first_seen": "2026-09-08T23:04:39+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-09-08T18:12:20-04:00",
       "title": "Software Engineer Intern",
       "url": "https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315"
@@ -1706,7 +1706,7 @@
     "coinbase::8175510": {
       "company": "Coinbase",
       "first_seen": "2026-10-09T16:51:53+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "Hybrid - New York, NY",
       "posted_at": "2026-10-09T12:51:20-04:00",
       "source": "",
@@ -1750,7 +1750,7 @@
     "databricks::6865687002": {
       "company": "Databricks",
       "first_seen": "2026-10-12T16:35:22+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
       "posted_at": "2026-10-12T12:34:54-04:00",
       "source": "",
@@ -1839,7 +1839,7 @@
     "doordash::8163709": {
       "company": "DoorDash",
       "first_seen": "2026-09-04T10:32:12+00:00",
-      "last_seen": "2026-11-18T00:00:23+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-09-04T06:21:45-04:00",
       "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
       "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709"
@@ -1847,7 +1847,7 @@
     "doordash::8171041": {
       "company": "DoorDash",
       "first_seen": "2026-09-14T22:54:46+00:00",
-      "last_seen": "2026-11-18T00:00:23+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA",
       "posted_at": "2026-09-14T18:51:00-04:00",
       "source": "",
@@ -1858,7 +1858,7 @@
       "company": "DoorDash",
       "delivery_unconfirmed": true,
       "first_seen": "2026-10-08T06:51:14+00:00",
-      "last_seen": "2026-11-18T00:00:23+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": " San Francisco, CA; Sunnyvale, CA",
       "posted_at": "2026-10-08T02:50:12-04:00",
       "source": "",
@@ -1896,7 +1896,7 @@
     "epic games::6232770004": {
       "company": "Epic Games",
       "first_seen": "2026-11-18T22:20:17+00:00",
-      "last_seen": "2026-11-18T22:20:17+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Cary,North Carolina,United States",
       "posted_at": "2026-11-18T17:19:28-05:00",
       "source": "",
@@ -1906,7 +1906,7 @@
     "epic games::6251540004": {
       "company": "Epic Games",
       "first_seen": "2026-11-17T05:50:23+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Cary,North Carolina,United States",
       "posted_at": "2026-11-09T18:08:01-05:00",
       "source": "",
@@ -1924,7 +1924,7 @@
     "figma::6143238004": {
       "company": "Figma",
       "first_seen": "2026-09-14T18:25:36+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-09-14T13:36:20-04:00",
       "title": "Software Engineer Intern (Summer 2027)",
       "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004"
@@ -1932,7 +1932,7 @@
     "figma::6219995004": {
       "company": "Figma",
       "first_seen": "2026-10-13T16:18:29+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "San Francisco, CA \u2022 New York, NY",
       "posted_at": "2026-10-13T12:17:57-04:00",
       "source": "",
@@ -1942,7 +1942,7 @@
     "figma::6241542004": {
       "company": "Figma",
       "first_seen": "2026-11-04T16:55:12+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "San Francisco, CA \u2022 New York, NY",
       "posted_at": "2026-11-04T11:53:19-05:00",
       "source": "",
@@ -1952,7 +1952,7 @@
     "five rings::5349707008": {
       "company": "Five Rings",
       "first_seen": "2026-07-14T17:57:41+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-07-14T13:51:03-04:00",
       "title": "Summer Intern 2027 - Software Developer",
       "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008"
@@ -1960,7 +1960,7 @@
     "five rings::5349839008": {
       "company": "Five Rings",
       "first_seen": "2026-07-14T17:57:41+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-07-14T13:52:00-04:00",
       "title": "Campus Full Time 2027 - Software Developer",
       "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349839008"
@@ -2029,7 +2029,7 @@
     "google::112518690523488966": {
       "company": "Google",
       "first_seen": "2026-08-24T08:23:25+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "",
       "title": "Software Developer Intern Phd Summer 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/112518690523488966-software-developer-intern-phd-summer-2027"
@@ -2073,7 +2073,7 @@
     "google::75665705386549958": {
       "company": "Google",
       "first_seen": "2026-10-12T09:10:47+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "United States",
       "posted_at": "",
       "source": "",
@@ -2111,7 +2111,7 @@
     "google::91436104816698054": {
       "company": "Google",
       "first_seen": "2026-08-24T08:23:25+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "",
       "title": "Software Engineering Intern Phd Summer 2026",
       "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2026"
@@ -2210,7 +2210,7 @@
     "imc trading::4796143101": {
       "company": "IMC Trading",
       "first_seen": "2026-09-30T19:01:04+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Chicago, United States",
       "posted_at": "2026-09-30T14:26:36-04:00",
       "source": "",
@@ -2228,7 +2228,7 @@
     "imc trading::4823924101": {
       "company": "IMC Trading",
       "first_seen": "2026-07-01T18:17:45+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-07-01T13:11:54-04:00",
       "title": "Software Engineer Intern - Summer 2027",
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101"
@@ -2453,7 +2453,7 @@
     "jump trading::8003019": {
       "company": "Jump Trading",
       "first_seen": "2026-07-08T21:54:44+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-07-08T17:35:13-04:00",
       "title": "Campus UI Software Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8003019"
@@ -2461,7 +2461,7 @@
     "jump trading::8007788": {
       "company": "Jump Trading",
       "first_seen": "2026-07-08T21:54:44+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-07-08T17:39:29-04:00",
       "title": "Campus Systems Engineer (Intern)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8007788"
@@ -2469,7 +2469,7 @@
     "jump trading::8008112": {
       "company": "Jump Trading",
       "first_seen": "2026-07-08T21:54:44+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-07-08T17:38:21-04:00",
       "title": "Campus Systems Engineer (Full-Time)",
       "url": "https://www.jumptrading.com/hr/job?gh_jid=8008112"
@@ -2487,7 +2487,7 @@
     "linkedin::744000161930950": {
       "company": "LinkedIn",
       "first_seen": "2026-11-16T23:13:06+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "location": "Mountain View, CA, us",
       "posted_at": "2026-11-16T23:12:19.307Z",
       "source": "",
@@ -2497,7 +2497,7 @@
     "lyft::8767534002": {
       "company": "Lyft",
       "first_seen": "2026-09-11T18:28:10+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-09-11T12:49:13-04:00",
       "title": "Software Engineer Intern, Test Automation (Summer 2027)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8767534002?gh_jid=8767534002"
@@ -2505,7 +2505,7 @@
     "lyft::8767710002": {
       "company": "Lyft",
       "first_seen": "2026-09-11T18:28:10+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-09-11T12:48:00-04:00",
       "title": "Software Engineer Intern, Backend (Summer 2027)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002"
@@ -2513,7 +2513,7 @@
     "lyft::8767726002": {
       "company": "Lyft",
       "first_seen": "2026-09-11T18:28:10+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-09-11T12:46:45-04:00",
       "title": "Software Engineer Intern, Backend (Summer 2027)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002"
@@ -2521,7 +2521,7 @@
     "lyft::8796054002": {
       "company": "Lyft",
       "first_seen": "2026-09-11T18:28:10+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-09-11T12:49:30-04:00",
       "title": "Software Engineer Intern, Backend (Summer 2027)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002"
@@ -2537,7 +2537,7 @@
     "lyft::8797859002": {
       "company": "Lyft",
       "first_seen": "2026-09-11T18:28:10+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-09-11T12:48:36-04:00",
       "title": "Software Engineer Intern, Fullstack (Summer 2027)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002"
@@ -2545,7 +2545,7 @@
     "lyft::8802222002": {
       "company": "Lyft",
       "first_seen": "2026-09-28T22:56:44+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "Toronto, Canada",
       "posted_at": "2026-09-28T17:33:25-04:00",
       "source": "",
@@ -2555,7 +2555,7 @@
     "lyft::8802332002": {
       "company": "Lyft",
       "first_seen": "2026-09-11T21:08:14+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-09-11T15:58:05-04:00",
       "title": "Software Engineer Intern, Machine Learning (Summer 2027)",
       "url": "https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002"
@@ -2563,7 +2563,7 @@
     "lyft::8817974002": {
       "company": "Lyft",
       "first_seen": "2026-10-06T20:02:32+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "San Francisco, CA",
       "posted_at": "2026-10-06T16:01:42-04:00",
       "source": "",
@@ -2633,7 +2633,7 @@
     "mongodb::8209134": {
       "company": "MongoDB",
       "first_seen": "2026-10-23T12:58:00+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Austin; New York City; Palo Alto; San Francisco; Seattle",
       "posted_at": "2026-10-23T08:57:16-04:00",
       "source": "",
@@ -2660,7 +2660,7 @@
     "netflix::790318904468": {
       "company": "Netflix",
       "first_seen": "2026-10-13T22:12:17+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Los Gatos,California,United States of America",
       "posted_at": "1791763200",
       "source": "",
@@ -2670,49 +2670,49 @@
     "neuralink::5469298003": {
       "company": "Neuralink",
       "first_seen": "2026-06-28T23:46:38+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "title": "Software Engineer Intern, Infrastructure",
       "url": "https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003"
     },
     "neuralink::5469305003": {
       "company": "Neuralink",
       "first_seen": "2026-06-28T23:46:38+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "title": "Software Engineer Intern, Robotics",
       "url": "https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003"
     },
     "neuralink::6083322003": {
       "company": "Neuralink",
       "first_seen": "2026-06-28T23:46:38+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "title": "Software Engineer Intern, Internal Apps",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003"
     },
     "neuralink::6283663003": {
       "company": "Neuralink",
       "first_seen": "2026-06-28T23:46:38+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "title": "Embedded Software Engineer Intern, Implant Embedded Systems",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003"
     },
     "neuralink::6569018003": {
       "company": "Neuralink",
       "first_seen": "2026-06-28T23:46:38+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "title": "Software Engineer Intern, Implant",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003"
     },
     "neuralink::6594422003": {
       "company": "Neuralink",
       "first_seen": "2026-06-28T23:46:38+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "title": "Software Engineer Intern, BCI Applications",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003"
     },
     "notion::27090d0f-07d3-419b-adaa-837b5e22f947": {
       "company": "Notion",
       "first_seen": "2026-11-06T18:42:27+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "New York, New York",
       "posted_at": "2026-11-06T18:41:27.009+00:00",
       "source": "",
@@ -2722,7 +2722,7 @@
     "notion::297b4ece-765f-4eea-b1b8-46057cb6501f": {
       "company": "Notion",
       "first_seen": "2026-07-06T20:25:30+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-07-06T18:37:35.161+00:00",
       "title": "Software Engineer, Early Career",
       "url": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f"
@@ -2730,7 +2730,7 @@
     "notion::2b587e66-deac-421a-a824-9415ba78b5a7": {
       "company": "Notion",
       "first_seen": "2026-09-24T20:04:11+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "San Francisco, California",
       "posted_at": "2026-09-24T19:58:11.492+00:00",
       "source": "",
@@ -2740,7 +2740,7 @@
     "notion::3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c": {
       "company": "Notion",
       "first_seen": "2026-08-14T19:25:02+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-08-14T19:07:13.459+00:00",
       "title": "Software Engineer Intern (Summer 2027)",
       "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c"
@@ -2748,7 +2748,7 @@
     "notion::43ffba97-b64a-4c6a-ac13-c803253c9413": {
       "company": "Notion",
       "first_seen": "2026-11-06T18:43:25+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "New York, New York",
       "posted_at": "2026-11-06T18:42:11.019+00:00",
       "source": "",
@@ -2770,7 +2770,7 @@
     "notion::85947779-6b87-466a-98bc-30a640448c28": {
       "company": "Notion",
       "first_seen": "2026-07-06T20:25:30+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-07-06T18:37:42.434+00:00",
       "title": "Software Engineer, Early Career (AI)",
       "url": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28"
@@ -2784,7 +2784,7 @@
     "notion::e32799d2-8ef8-4803-8189-c72514afa816": {
       "company": "Notion",
       "first_seen": "2026-08-14T19:25:02+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-08-14T19:12:39.557+00:00",
       "title": "Software Engineer, New Grad (Dec 2026)",
       "url": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816"
@@ -2807,7 +2807,7 @@
     "nuro::7351061": {
       "company": "Nuro",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-06-15T13:18:22-04:00",
       "title": "Software Engineer, AI Platform - Intern",
       "url": "https://nuro.ai/careersitem?gh_jid=7351061"
@@ -2815,7 +2815,7 @@
     "nuro::7351066": {
       "company": "Nuro",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-06-15T13:18:50-04:00",
       "title": "Software Engineer, AI Platform - New Grad",
       "url": "https://nuro.ai/careersitem?gh_jid=7351066"
@@ -2857,7 +2857,7 @@
     "nuro::8360415": {
       "company": "Nuro",
       "first_seen": "2026-11-12T19:35:21+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Mountain View, California (HQ)",
       "posted_at": "2026-11-12T14:34:27-05:00",
       "source": "",
@@ -3023,7 +3023,7 @@
     "old mission::78e433a8-cd5f-404d-8f58-3fcb61e9837d": {
       "company": "Old Mission",
       "first_seen": "2026-10-21T19:33:47+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Chicago, IL",
       "posted_at": "2026-07-13T19:46:19.369+00:00",
       "source": "",
@@ -3033,7 +3033,7 @@
     "old mission::d003aaa4-a1e9-46b5-b271-eaccc15db9d6": {
       "company": "Old Mission",
       "first_seen": "2026-10-21T19:33:47+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Chicago, IL",
       "posted_at": "2026-07-15T17:45:13.245+00:00",
       "source": "",
@@ -3091,7 +3091,7 @@
     "palantir::09846827-b931-4a9f-bd64-c3bb8860187b": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1475793251878",
       "title": "Privacy and Civil Liberties Software Engineer, Internship",
       "url": "https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b"
@@ -3099,7 +3099,7 @@
     "palantir::0a838e66-1ab0-4fc4-b4d3-4671c0352278": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1750296862911",
       "title": "Software Engineer, New Grad - Defense",
       "url": "https://jobs.lever.co/palantir/0a838e66-1ab0-4fc4-b4d3-4671c0352278"
@@ -3108,7 +3108,7 @@
       "company": "Palantir",
       "duplicate_of": "palantir::eb496d6a-a960-43d3-a09b-e3843052f54e",
       "first_seen": "2026-11-10T16:43:17+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "location": "New York, NY",
       "posted_at": "1793824890986",
       "seeded": true,
@@ -3119,7 +3119,7 @@
     "palantir::15844944-fb69-4b57-9531-e988650b20c6": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1755596238891",
       "title": "Software Engineer, New Grad - Production Infrastructure",
       "url": "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6"
@@ -3127,7 +3127,7 @@
     "palantir::18d901fc-93bb-4d18-9f04-c72031e20d79": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1750297066017",
       "title": "Software Engineer, New Grad - Defense",
       "url": "https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79"
@@ -3141,7 +3141,7 @@
     "palantir::2e6b0ac8-83e9-4be5-a3aa-cf319f751728": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1749858306552",
       "title": "Forward Deployed Software Engineer, New Grad - Commercial",
       "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728"
@@ -3149,14 +3149,14 @@
     "palantir::315f695d-04d1-4a9a-848e-cb2bec7a997e": {
       "company": "Palantir",
       "first_seen": "2026-06-28T23:35:42+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "title": "Forward Deployed Software Engineer, Internship - US Government",
       "url": "https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e"
     },
     "palantir::33243fb5-6907-40c7-930c-968b25d825d0": {
       "company": "Palantir",
       "first_seen": "2026-07-24T22:29:19+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1761769577197",
       "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
       "url": "https://jobs.lever.co/palantir/33243fb5-6907-40c7-930c-968b25d825d0"
@@ -3164,7 +3164,7 @@
     "palantir::373367a9-3160-49d8-b7af-2efec062fad1": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1750968313023",
       "title": "Software Engineer, Internship - Production Infrastructure",
       "url": "https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1"
@@ -3172,7 +3172,7 @@
     "palantir::373eb939-6f57-4836-8479-be79a5e07249": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1724906088941",
       "title": "Software Engineer, Internship",
       "url": "https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249"
@@ -3180,7 +3180,7 @@
     "palantir::37964982-9b4c-471e-a1d8-fb8f45d7f116": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1750968274819",
       "title": "Software Engineer, Internship - Production Infrastructure",
       "url": "https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116"
@@ -3194,7 +3194,7 @@
     "palantir::3ab9e715-1ea9-4c6c-ad50-7340eac14e86": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:16:36+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1755596487314",
       "title": "Software Engineer, Internship - Production Infrastructure",
       "url": "https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86"
@@ -3210,7 +3210,7 @@
     "palantir::45e4617d-d658-4b30-8dc9-378ca84a027a": {
       "company": "Palantir",
       "first_seen": "2026-11-10T16:44:17+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "location": "New York, NY",
       "posted_at": "1793824715114",
       "source": "",
@@ -3220,7 +3220,7 @@
     "palantir::4abf26b4-795c-420a-bf22-1ab98db268b4": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1750899669277",
       "title": "Software Engineer, New Grad - Infrastructure",
       "url": "https://jobs.lever.co/palantir/4abf26b4-795c-420a-bf22-1ab98db268b4"
@@ -3228,7 +3228,7 @@
     "palantir::4d29249a-d7e8-4c39-880d-3b35d7b2f6f6": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1456357025251",
       "title": "Forward Deployed Software Engineer, Internship - Commercial",
       "url": "https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6"
@@ -3236,7 +3236,7 @@
     "palantir::4d5a144e-87ea-45e2-a68c-3fad590629af": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1750967689498",
       "title": "Software Engineer, New Grad - Production Infrastructure",
       "url": "https://jobs.lever.co/palantir/4d5a144e-87ea-45e2-a68c-3fad590629af"
@@ -3244,7 +3244,7 @@
     "palantir::5a28f3a5-8655-47f2-ab19-a79b8a319da8": {
       "company": "Palantir",
       "first_seen": "2026-07-24T22:29:19+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1761769632326",
       "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
       "url": "https://jobs.lever.co/palantir/5a28f3a5-8655-47f2-ab19-a79b8a319da8"
@@ -3252,28 +3252,28 @@
     "palantir::5c4c65c5-77da-4d36-856c-4ade87631019": {
       "company": "Palantir",
       "first_seen": "2026-06-28T23:35:42+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
       "url": "https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019"
     },
     "palantir::5c7bb70c-83ea-43e7-8055-0c8f319f4333": {
       "company": "Palantir",
       "first_seen": "2026-06-28T23:35:42+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - USG",
       "url": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333"
     },
     "palantir::655f9937-a4ce-4e7d-80e2-a6659af07329": {
       "company": "Palantir",
       "first_seen": "2026-06-28T23:35:42+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "title": "Year at Palantir - Software Engineer, Internship",
       "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329"
     },
     "palantir::66b495eb-aaf9-4bf9-a759-41854534add7": {
       "company": "Palantir",
       "first_seen": "2026-10-22T21:35:28+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "location": "New York, NY",
       "posted_at": "1792704868169",
       "source": "",
@@ -3283,7 +3283,7 @@
     "palantir::701a9307-0619-45d3-b077-cabe9897cd12": {
       "company": "Palantir",
       "first_seen": "2026-08-31T20:53:23+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1788193656814",
       "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
       "url": "https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12"
@@ -3291,14 +3291,14 @@
     "palantir::75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3": {
       "company": "Palantir",
       "first_seen": "2026-06-28T23:35:42+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
       "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3"
     },
     "palantir::7d69cf8a-06fd-4f05-bd84-27149db29c4d": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1656623940945",
       "title": "Software Engineer, Internship",
       "url": "https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d"
@@ -3306,7 +3306,7 @@
     "palantir::7d75bed5-45d8-4876-840a-2d92ea79c98d": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1755596738032",
       "title": "Software Engineer, New Grad - Infrastructure",
       "url": "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d"
@@ -3314,7 +3314,7 @@
     "palantir::8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1722900428111",
       "title": "Software Engineer, Internship - Defense Tech",
       "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e"
@@ -3331,7 +3331,7 @@
       "company": "Palantir",
       "delivery_unconfirmed": true,
       "first_seen": "2026-10-19T23:47:18+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "location": "New York, NY",
       "posted_at": "1792453522249",
       "source": "",
@@ -3341,7 +3341,7 @@
     "palantir::91117724-9389-48dc-912f-98e48d4d45d8": {
       "company": "Palantir",
       "first_seen": "2026-07-24T22:29:19+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1761762442352",
       "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
       "url": "https://jobs.lever.co/palantir/91117724-9389-48dc-912f-98e48d4d45d8"
@@ -3349,7 +3349,7 @@
     "palantir::94984771-0704-446c-88c6-91ce748f6d92": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1625171097701",
       "title": "Software Engineer, New Grad",
       "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92"
@@ -3365,7 +3365,7 @@
     "palantir::a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1722900402003",
       "title": "Software Engineer, Internship - Defense Tech",
       "url": "https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d"
@@ -3373,14 +3373,14 @@
     "palantir::ac0dc094-2480-43c2-8495-26ade227ff4f": {
       "company": "Palantir",
       "first_seen": "2026-06-28T23:35:42+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "title": "Forward Deployed Software Engineer, Internship - France",
       "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f"
     },
     "palantir::b229baac-494b-4a0d-9a13-2e38806e06f3": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1750950062839",
       "title": "Software Engineer, Internship - Infrastructure",
       "url": "https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3"
@@ -3388,7 +3388,7 @@
     "palantir::b3d81928-6c26-432f-8a0a-36602c2eefcb": {
       "company": "Palantir",
       "first_seen": "2026-10-22T21:38:36+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "location": "New York, NY",
       "posted_at": "1792705069924",
       "source": "",
@@ -3398,7 +3398,7 @@
     "palantir::bdcfb29f-4f27-42de-933f-7f83a359b9f0": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1625176840124",
       "title": "Software Engineer, Internship",
       "url": "https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0"
@@ -3406,7 +3406,7 @@
     "palantir::c34b424e-caf2-455a-b104-ae1096ccca29": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1603823560993",
       "title": "Software Engineer, New Grad",
       "url": "https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29"
@@ -3414,7 +3414,7 @@
     "palantir::cbe90327-3e6e-451c-a54c-1d3cbcef5aeb": {
       "company": "Palantir",
       "first_seen": "2026-06-28T23:35:42+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "title": "Forward Deployed Software Engineer, New Grad - US Government",
       "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb"
     },
@@ -3429,7 +3429,7 @@
       "company": "Palantir",
       "delivery_unconfirmed": true,
       "first_seen": "2026-11-05T18:33:36+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "location": "New York, NY",
       "posted_at": "1793903375363",
       "source": "",
@@ -3447,14 +3447,14 @@
     "palantir::d1ac83d0-e923-42a5-8e6d-58dd0cab25ca": {
       "company": "Palantir",
       "first_seen": "2026-06-28T23:35:42+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "title": "Forward Deployed Software Engineer, New Grad - US Government",
       "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca"
     },
     "palantir::d5486403-c050-4920-b2e0-91b69b61ebb2": {
       "company": "Palantir",
       "first_seen": "2026-06-30T20:14:10+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1782849666026",
       "title": "Forward Deployed Software Engineer, Internship - Commercial",
       "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2"
@@ -3468,7 +3468,7 @@
     "palantir::da774f81-c98c-4dcf-9b9c-949fd7d90a13": {
       "company": "Palantir",
       "first_seen": "2026-10-19T23:49:07+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "location": "New York, NY",
       "posted_at": "1792453658809",
       "source": "",
@@ -3478,14 +3478,14 @@
     "palantir::e0010393-c300-446f-bf67-fa2ef067f16f": {
       "company": "Palantir",
       "first_seen": "2026-06-28T23:35:42+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "title": "Forward Deployed Software Engineer, Internship - US Government",
       "url": "https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f"
     },
     "palantir::e1a6c138-98bf-45e2-97f7-2c70371cc38a": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1750967619925",
       "title": "Software Engineer, New Grad - Production Infrastructure",
       "url": "https://jobs.lever.co/palantir/e1a6c138-98bf-45e2-97f7-2c70371cc38a"
@@ -3493,7 +3493,7 @@
     "palantir::e27af7ab-41fc-40c9-b31d-02c6cb1c505c": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1625176335503",
       "title": "Software Engineer, Internship",
       "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c"
@@ -3501,28 +3501,28 @@
     "palantir::e500bcf3-19d8-4d3c-b340-4d76e4a55b40": {
       "company": "Palantir",
       "first_seen": "2026-06-29T16:06:36+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "title": "Forward Deployed Software Engineer, New Grad - Commercial",
       "url": "https://jobs.lever.co/palantir/e500bcf3-19d8-4d3c-b340-4d76e4a55b40"
     },
     "palantir::e6789b17-62fb-4226-a079-f8c17ff19e2d": {
       "company": "Palantir",
       "first_seen": "2026-06-28T23:35:42+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
       "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d"
     },
     "palantir::e6ff8bf2-135e-474d-ad37-24f490ae1dd2": {
       "company": "Palantir",
       "first_seen": "2026-06-28T23:35:42+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "title": "Forward Deployed Software Engineer, Internship - US Government",
       "url": "https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2"
     },
     "palantir::eb496d6a-a960-43d3-a09b-e3843052f54e": {
       "company": "Palantir",
       "first_seen": "2026-11-10T16:41:49+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "location": "Denver, CO",
       "posted_at": "1794328840747",
       "source": "",
@@ -3532,7 +3532,7 @@
     "palantir::f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1722900376668",
       "title": "Software Engineer, Internship - Defense Tech",
       "url": "https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7"
@@ -3540,7 +3540,7 @@
     "palantir::f221738b-e97c-4ce3-a12a-17ada2b855e4": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1755596923334",
       "title": "Software Engineer, Internship - Infrastructure",
       "url": "https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4"
@@ -3548,7 +3548,7 @@
     "palantir::f362d7aa-360d-4059-ab38-f482742693b3": {
       "company": "Palantir",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "posted_at": "1750296980878",
       "title": "Software Engineer, New Grad - Defense",
       "url": "https://jobs.lever.co/palantir/f362d7aa-360d-4059-ab38-f482742693b3"
@@ -3556,7 +3556,7 @@
     "palantir::fbca0358-083a-4222-bdbb-3bd729b48382": {
       "company": "Palantir",
       "first_seen": "2026-06-28T23:35:42+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "title": "Forward Deployed Software Engineer, New Grad - Intel, US Government",
       "url": "https://jobs.lever.co/palantir/fbca0358-083a-4222-bdbb-3bd729b48382"
     },
@@ -3611,7 +3611,7 @@
     "pdt partners::8077685": {
       "company": "PDT Partners",
       "first_seen": "2026-07-24T21:16:41+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-07-24T16:16:09-04:00",
       "title": "Summer 2027 Software Engineering Intern",
       "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685"
@@ -3619,7 +3619,7 @@
     "pdt partners::8083292": {
       "company": "PDT Partners",
       "first_seen": "2026-07-24T21:16:41+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-07-24T16:21:44-04:00",
       "title": "Summer 2027 Systems Engineering Intern",
       "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8083292"
@@ -3634,7 +3634,7 @@
     "pinterest::7838577": {
       "company": "Pinterest",
       "first_seen": "2026-10-01T17:08:35+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "San Francisco, CA, US; Remote, US",
       "posted_at": "2026-10-01T13:03:52-04:00",
       "source": "",
@@ -3644,7 +3644,7 @@
     "pinterest::7838591": {
       "company": "Pinterest",
       "first_seen": "2026-10-01T17:08:35+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "San Francisco, CA, US; Remote, US",
       "posted_at": "2026-10-01T13:06:41-04:00",
       "source": "",
@@ -3654,7 +3654,7 @@
     "pinterest::8138039": {
       "company": "Pinterest",
       "first_seen": "2026-10-01T17:08:35+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Toronto, ON, CA",
       "posted_at": "2026-10-01T13:03:18-04:00",
       "source": "",
@@ -3674,7 +3674,7 @@
     "point72::7297666002": {
       "company": "Point72",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-06-25T22:13:45-04:00",
       "title": "Quantitative Software Developer Intern",
       "url": "https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002"
@@ -3682,7 +3682,7 @@
     "point72::8885733002": {
       "company": "Point72",
       "first_seen": "2026-10-14T14:22:28+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "New York, NY",
       "posted_at": "2026-10-14T10:20:41-04:00",
       "source": "",
@@ -3699,7 +3699,7 @@
       "company": "Ramp",
       "delivery_unconfirmed": true,
       "first_seen": "2026-09-24T00:47:26+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "New York, NY (HQ)",
       "posted_at": "2026-09-24T00:40:15.975+00:00",
       "source": "",
@@ -3709,7 +3709,7 @@
     "ramp::acf6b28d-767f-483f-8ff2-114620cd7e04": {
       "company": "Ramp",
       "first_seen": "2026-09-24T00:36:50+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "New York, NY (HQ)",
       "posted_at": "2026-04-09T01:01:29.953+00:00",
       "source": "",
@@ -3719,7 +3719,7 @@
     "ramp::b66be397-240b-41a6-9b05-493299b270a9": {
       "company": "Ramp",
       "first_seen": "2026-09-24T03:16:26+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "New York, NY (HQ)",
       "posted_at": "2026-09-24T01:01:49.394+00:00",
       "source": "",
@@ -3729,7 +3729,7 @@
     "ramp::fcf118cc-521a-4a62-9d13-945e5b6e3cb8": {
       "company": "Ramp",
       "first_seen": "2026-09-24T00:58:25+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "New York, NY (HQ)",
       "posted_at": "2026-09-24T00:55:33.807+00:00",
       "source": "",
@@ -4015,7 +4015,7 @@
     "roblox::8072244": {
       "company": "Roblox",
       "first_seen": "2026-08-05T17:04:42+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-08-05T12:46:52-04:00",
       "title": "[2027] Software Engineer, Early Career",
       "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244"
@@ -4023,7 +4023,7 @@
     "roblox::8072713": {
       "company": "Roblox",
       "first_seen": "2026-08-05T17:04:42+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-08-05T12:46:52-04:00",
       "title": "[Summer 2027] Software Engineer Intern",
       "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713"
@@ -4031,7 +4031,7 @@
     "roblox::8386080": {
       "company": "Roblox",
       "first_seen": "2026-11-18T19:37:19+00:00",
-      "last_seen": "2026-11-18T19:37:19+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Vancouver, British Columbia, Canada",
       "posted_at": "2026-11-18T14:37:03-05:00",
       "source": "",
@@ -4462,7 +4462,7 @@
     "samsara::8358786": {
       "company": "Samsara",
       "first_seen": "2026-11-06T16:31:35+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "San Francisco - SF9",
       "posted_at": "2026-11-06T11:29:49-05:00",
       "source": "",
@@ -4494,7 +4494,7 @@
     "scale ai::4730834005": {
       "company": "Scale AI",
       "first_seen": "2026-09-14T18:25:36+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-09-14T09:13:08-04:00",
       "title": "Software Engineering Intern (Summer 2027) ",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730834005"
@@ -4502,7 +4502,7 @@
     "scale ai::4730836005": {
       "company": "Scale AI",
       "first_seen": "2026-09-04T17:43:59+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-09-04T12:53:37-04:00",
       "title": "Software Engineer - New Grad",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005"
@@ -4510,7 +4510,7 @@
     "scale ai::4730845005": {
       "company": "Scale AI",
       "first_seen": "2026-09-04T17:43:59+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-09-04T12:00:19-04:00",
       "title": "Software Engineering Intern (Summer 2027) ",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005"
@@ -4518,7 +4518,7 @@
     "scale ai::4730851005": {
       "company": "Scale AI",
       "first_seen": "2026-09-14T18:25:36+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-09-14T09:09:35-04:00",
       "title": "Software Engineer - New Grad",
       "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005"
@@ -4526,7 +4526,7 @@
     "scale ai::4736426005": {
       "company": "Scale AI",
       "first_seen": "2026-09-23T18:03:43+00:00",
-      "last_seen": "2026-11-18T00:00:25+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "San Francisco, CA",
       "posted_at": "2026-09-23T13:55:35-04:00",
       "source": "",
@@ -4563,7 +4563,7 @@
     "servicenow::744000157571919": {
       "company": "ServiceNow",
       "first_seen": "2026-11-17T05:50:23+00:00",
-      "last_seen": "2026-11-18T00:00:27+00:00",
+      "last_seen": "2026-11-19T00:00:07+00:00",
       "location": "Santa Clara, CALIFORNIA, us",
       "posted_at": "2026-10-23T21:24:58.987Z",
       "source": "",
@@ -4629,7 +4629,7 @@
     "sierra::149f368c-52d5-408f-ba26-ad888f318a00": {
       "company": "Sierra",
       "first_seen": "2026-09-01T00:09:02+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-08-31T17:54:40.218+00:00",
       "title": "Software Engineer, Agent (New Grad 2027)",
       "url": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00"
@@ -4637,7 +4637,7 @@
     "sierra::34b31b67-268c-4270-b48f-72e59064c96e": {
       "company": "Sierra",
       "first_seen": "2026-09-09T22:48:03+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-08-31T21:42:19.593+00:00",
       "title": "Software Engineer Intern, Agent (Summer 2027)",
       "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e"
@@ -59934,7 +59934,7 @@
     "skydio::33f1f123-8cec-4e6a-b125-e8831603a62a": {
       "company": "Skydio",
       "first_seen": "2026-11-09T19:55:43+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "San Mateo, California, United States",
       "posted_at": "2026-11-09T19:53:20.602+00:00",
       "source": "",
@@ -59954,7 +59954,7 @@
     "skydio::79fdda46-4ff5-42c7-b208-55f2084cdb8c": {
       "company": "Skydio",
       "first_seen": "2026-10-14T19:18:37+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "San Mateo, California, United States",
       "posted_at": "2026-10-13T17:51:26.463+00:00",
       "source": "",
@@ -59982,7 +59982,7 @@
       "company": "Skydio",
       "delivery_unconfirmed": true,
       "first_seen": "2026-10-22T19:46:19+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "San Mateo, California, United States",
       "posted_at": "2026-10-22T19:44:53.854+00:00",
       "source": "",
@@ -59992,7 +59992,7 @@
     "skydio::8a237302-3fe8-4403-b32b-7690f333ba52": {
       "company": "Skydio",
       "first_seen": "2026-10-20T21:00:43+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "San Mateo, California, United States",
       "posted_at": "2026-10-20T20:58:33.699+00:00",
       "source": "",
@@ -60002,7 +60002,7 @@
     "skydio::add7fd86-78e6-483e-98cd-cdfc1029fded": {
       "company": "Skydio",
       "first_seen": "2026-11-10T18:05:50+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "San Mateo, California, United States",
       "posted_at": "2026-11-10T18:03:40.976+00:00",
       "source": "",
@@ -60012,7 +60012,7 @@
     "skydio::c85af510-9fe4-4167-a914-c3ab344bef03": {
       "company": "Skydio",
       "first_seen": "2026-11-10T21:47:19+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "San Mateo, California, United States",
       "posted_at": "2026-11-10T21:44:18.297+00:00",
       "source": "",
@@ -60022,7 +60022,7 @@
     "skydio::d79ccbaa-2901-4303-bd90-675db7802366": {
       "company": "Skydio",
       "first_seen": "2026-10-23T21:20:35+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "San Mateo, California, United States",
       "posted_at": "2026-10-23T21:18:39.017+00:00",
       "source": "",
@@ -60039,7 +60039,7 @@
     "skydio::ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb": {
       "company": "Skydio",
       "first_seen": "2026-10-14T17:15:14+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": "San Mateo, California, United States",
       "posted_at": "2026-10-14T17:12:07.430+00:00",
       "source": "",
@@ -60103,7 +60103,7 @@
     "spacex::8621756002": {
       "company": "SpaceX",
       "first_seen": "2026-08-03T18:16:01+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-08-03T13:26:50-04:00",
       "title": "Spring 2027 Software Engineering Internship/Co-op",
       "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002"
@@ -60111,7 +60111,7 @@
     "spacex::8621757002": {
       "company": "SpaceX",
       "first_seen": "2026-08-03T18:16:01+00:00",
-      "last_seen": "2026-11-18T00:00:24+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "posted_at": "2026-08-03T13:41:40-04:00",
       "title": "Summer 2027 Software Engineering Internship/Co-op",
       "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002"
@@ -60119,7 +60119,7 @@
     "squarepoint::6033550": {
       "company": "Squarepoint",
       "first_seen": "2026-07-10T02:08:17+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-05-19T10:40:29-04:00",
       "title": "Junior Software Developer (Python)",
       "url": "https://www.squarepoint-capital.com/open-opportunities?id=6033550&gh_jid=6033550"
@@ -60127,7 +60127,7 @@
     "squarepoint::6034447": {
       "company": "Squarepoint",
       "first_seen": "2026-07-10T02:08:17+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-05-19T10:39:41-04:00",
       "title": "Junior Software Developer - Front-end",
       "url": "https://www.squarepoint-capital.com/open-opportunities?id=6034447&gh_jid=6034447"
@@ -60135,7 +60135,7 @@
     "squarepoint::6040731": {
       "company": "Squarepoint",
       "first_seen": "2026-07-10T02:08:17+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-05-19T10:37:24-04:00",
       "title": "Junior Software Developer (C++)",
       "url": "https://www.squarepoint-capital.com/open-opportunities?id=6040731&gh_jid=6040731"
@@ -60143,7 +60143,7 @@
     "squarepoint::6040773": {
       "company": "Squarepoint",
       "first_seen": "2026-07-10T02:08:17+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-05-19T10:40:00-04:00",
       "title": "Junior Software Developer (KDB+/Q)",
       "url": "https://www.squarepoint-capital.com/open-opportunities?id=6040773&gh_jid=6040773"
@@ -60151,7 +60151,7 @@
     "squarepoint::6040910": {
       "company": "Squarepoint",
       "first_seen": "2026-06-29T20:12:41+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-05-12T16:08:56-04:00",
       "title": "Graduate Software Developer",
       "url": "https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910"
@@ -60159,7 +60159,7 @@
     "squarepoint::7905463": {
       "company": "Squarepoint",
       "first_seen": "2026-08-18T13:58:28+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-08-18T09:23:22-04:00",
       "title": "Intern Software Developer - Montreal - 2027",
       "url": "https://www.squarepoint-capital.com/open-opportunities?id=7905463&gh_jid=7905463"
@@ -60185,7 +60185,7 @@
     "stripe::8128744": {
       "company": "Stripe",
       "first_seen": "2026-09-01T00:09:02+00:00",
-      "last_seen": "2026-11-18T00:00:23+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-08-31T19:34:55-04:00",
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8128744"
@@ -60193,7 +60193,7 @@
     "stripe::8128745": {
       "company": "Stripe",
       "first_seen": "2026-09-01T00:09:02+00:00",
-      "last_seen": "2026-11-18T00:00:23+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-08-31T19:23:40-04:00",
       "title": "Software Engineer, Intern (Summer or Winter)",
       "url": "https://stripe.com/jobs/search?gh_jid=8128745"
@@ -60201,7 +60201,7 @@
     "stripe::8130805": {
       "company": "Stripe",
       "first_seen": "2026-09-01T00:09:02+00:00",
-      "last_seen": "2026-11-18T00:00:23+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-08-31T19:21:48-04:00",
       "title": "Software Engineer, Intern (Summer or Winter)",
       "url": "https://stripe.com/jobs/search?gh_jid=8130805"
@@ -60209,7 +60209,7 @@
     "stripe::8130807": {
       "company": "Stripe",
       "first_seen": "2026-09-01T00:09:02+00:00",
-      "last_seen": "2026-11-18T00:00:23+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-08-31T18:56:01-04:00",
       "title": "Software Engineer, Intern ",
       "url": "https://stripe.com/jobs/search?gh_jid=8130807"
@@ -60217,7 +60217,7 @@
     "stripe::8130922": {
       "company": "Stripe",
       "first_seen": "2026-09-01T00:09:02+00:00",
-      "last_seen": "2026-11-18T00:00:23+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-08-31T19:03:34-04:00",
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8130922"
@@ -60225,7 +60225,7 @@
     "stripe::8157838": {
       "company": "Stripe",
       "first_seen": "2026-09-01T00:09:02+00:00",
-      "last_seen": "2026-11-18T00:00:23+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "posted_at": "2026-08-31T19:16:14-04:00",
       "title": "Software Engineer, New Grad",
       "url": "https://stripe.com/jobs/search?gh_jid=8157838"
@@ -60233,7 +60233,7 @@
     "stripe::8212508": {
       "company": "Stripe",
       "first_seen": "2026-09-17T23:23:13+00:00",
-      "last_seen": "2026-11-18T00:00:23+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "San Francisco, Seattle, New York",
       "posted_at": "2026-09-17T19:22:32-04:00",
       "source": "",
@@ -60243,7 +60243,7 @@
     "stripe::8212517": {
       "company": "Stripe",
       "first_seen": "2026-09-18T00:18:25+00:00",
-      "last_seen": "2026-11-18T00:00:23+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Toronto",
       "posted_at": "2026-09-17T19:35:28-04:00",
       "source": "",
@@ -60253,7 +60253,7 @@
     "stripe::8241260": {
       "company": "Stripe",
       "first_seen": "2026-09-30T20:15:07+00:00",
-      "last_seen": "2026-11-18T00:00:23+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Seattle, San Francisco",
       "posted_at": "2026-09-30T16:13:51-04:00",
       "source": "",
@@ -60263,7 +60263,7 @@
     "stubhub::5027626101": {
       "company": "StubHub",
       "first_seen": "2026-11-17T05:50:23+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "New York, New York, United States",
       "posted_at": "2026-11-05T12:56:06-05:00",
       "source": "",
@@ -60303,7 +60303,7 @@
     "tower research::8126667": {
       "company": "Tower Research",
       "first_seen": "2026-09-15T14:01:12+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Montreal",
       "posted_at": "2026-09-15T09:58:08-04:00",
       "source": "",
@@ -60323,7 +60323,7 @@
     "tower research::8212179": {
       "company": "Tower Research",
       "first_seen": "2026-09-17T21:03:12+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Montreal",
       "posted_at": "2026-09-17T16:59:48-04:00",
       "source": "",
@@ -60343,7 +60343,7 @@
     "twitch::8879673002": {
       "company": "Twitch",
       "first_seen": "2026-10-21T03:37:44+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "San Francisco, CA",
       "posted_at": "2026-10-08T14:09:39-04:00",
       "source": "",
@@ -60353,7 +60353,7 @@
     "twitch::8886605002": {
       "company": "Twitch",
       "first_seen": "2026-10-22T19:19:35+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "San Francisco, CA",
       "posted_at": "2026-10-22T15:18:02-04:00",
       "source": "",
@@ -60363,7 +60363,7 @@
     "twitch::8886748002": {
       "company": "Twitch",
       "first_seen": "2026-10-22T19:19:35+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "San Francisco, CA",
       "posted_at": "2026-10-22T15:17:18-04:00",
       "source": "",
@@ -60374,7 +60374,7 @@
       "company": "Twitch",
       "duplicate_of": "twitch::8879673002",
       "first_seen": "2026-10-21T20:58:35+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Seattle, WA",
       "posted_at": "2026-10-21T16:56:21-04:00",
       "seeded": true,
@@ -60385,7 +60385,7 @@
     "twitch::8917377002": {
       "company": "Twitch",
       "first_seen": "2026-11-06T05:04:40+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "San Francisco, CA",
       "posted_at": "2026-11-06T00:03:56-05:00",
       "source": "",
@@ -60395,7 +60395,7 @@
     "twitch::8934067002": {
       "company": "Twitch",
       "first_seen": "2026-11-11T18:40:38+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "San Francisco, CA",
       "posted_at": "2026-11-11T13:39:50-05:00",
       "source": "",
@@ -60406,7 +60406,7 @@
       "company": "Twitch",
       "duplicate_of": "twitch::8934067002",
       "first_seen": "2026-11-18T00:30:27+00:00",
-      "last_seen": "2026-11-18T00:30:27+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Seattle, WA",
       "posted_at": "2026-11-17T19:30:12-05:00",
       "seeded": true,
@@ -68540,7 +68540,7 @@
     "waymo::8221795": {
       "company": "Waymo",
       "first_seen": "2026-09-21T22:34:45+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Mountain View, California, USA",
       "posted_at": "2026-09-21T17:51:45-04:00",
       "source": "",
@@ -68550,7 +68550,7 @@
     "waymo::8224729": {
       "company": "Waymo",
       "first_seen": "2026-09-23T19:31:29+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Mountain View, California",
       "posted_at": "2026-09-23T15:28:59-04:00",
       "source": "",
@@ -68580,7 +68580,7 @@
     "waymo::8231711": {
       "company": "Waymo",
       "first_seen": "2026-09-25T20:40:18+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Mountain View, CA, USA ",
       "posted_at": "2026-09-25T16:33:28-04:00",
       "source": "",
@@ -68590,7 +68590,7 @@
     "waymo::8233746": {
       "company": "Waymo",
       "first_seen": "2026-09-25T21:07:48+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Mountain View, CA, USA",
       "posted_at": "2026-09-25T17:01:50-04:00",
       "source": "",
@@ -68600,7 +68600,7 @@
     "waymo::8234161": {
       "company": "Waymo",
       "first_seen": "2026-09-25T21:57:12+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Mountain View, CA, USA",
       "posted_at": "2026-09-25T17:55:21-04:00",
       "source": "",
@@ -68610,7 +68610,7 @@
     "waymo::8234670": {
       "company": "Waymo",
       "first_seen": "2026-09-28T19:41:15+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "San Francisco, California",
       "posted_at": "2026-09-28T15:34:51-04:00",
       "source": "",
@@ -68630,7 +68630,7 @@
     "waymo::8240198": {
       "company": "Waymo",
       "first_seen": "2026-09-30T18:09:02+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Mountain View, CA, USA",
       "posted_at": "2026-09-30T14:03:17-04:00",
       "source": "",
@@ -68650,7 +68650,7 @@
     "waymo::8257205": {
       "company": "Waymo",
       "first_seen": "2026-10-05T19:45:06+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Mountain View, CA, USA",
       "posted_at": "2026-10-05T15:44:22-04:00",
       "source": "",
@@ -68670,7 +68670,7 @@
     "waymo::8287385": {
       "company": "Waymo",
       "first_seen": "2026-10-23T19:56:15+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "Mountain View, CA, USA",
       "posted_at": "2026-10-23T15:55:17-04:00",
       "source": "",
@@ -68680,7 +68680,7 @@
     "waymo::8350832": {
       "company": "Waymo",
       "first_seen": "2026-11-06T14:21:59+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:06+00:00",
       "location": "San Francisco, California, USA",
       "posted_at": "2026-11-06T09:21:23-05:00",
       "source": "",
@@ -68697,7 +68697,7 @@
     "xai::5252108007": {
       "company": "xAI",
       "first_seen": "2026-10-02T19:21:50+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": " Palo Alto, CA",
       "posted_at": "2026-10-02T15:15:20-04:00",
       "source": "",
@@ -68707,7 +68707,7 @@
     "xai::5255111007": {
       "company": "xAI",
       "first_seen": "2026-10-02T19:21:50+00:00",
-      "last_seen": "2026-11-18T00:00:26+00:00",
+      "last_seen": "2026-11-19T00:00:05+00:00",
       "location": " Palo Alto, CA",
       "posted_at": "2026-10-02T15:15:13-04:00",
       "source": "",
@@ -68739,7 +68739,7 @@
       "company": "Zoox",
       "delivery_unconfirmed": true,
       "first_seen": "2026-11-05T23:40:13+00:00",
-      "last_seen": "2026-11-18T00:00:33+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "location": "Foster City, CA",
       "posted_at": "1793399815529",
       "source": "",
@@ -68749,7 +68749,7 @@
     "zoox::88f6cb68-1534-44af-80db-10e43c203520": {
       "company": "Zoox",
       "first_seen": "2026-11-05T23:41:46+00:00",
-      "last_seen": "2026-11-18T00:00:33+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "location": "Foster City, CA",
       "posted_at": "1793400897859",
       "source": "",
@@ -68759,7 +68759,7 @@
     "zoox::8b32157b-ab44-4078-85ea-1d8d7b747a20": {
       "company": "Zoox",
       "first_seen": "2026-11-05T23:41:46+00:00",
-      "last_seen": "2026-11-18T00:00:33+00:00",
+      "last_seen": "2026-11-19T00:00:04+00:00",
       "location": "Foster City, CA",
       "posted_at": "1793401565895",
       "source": "",
@@ -68775,5 +68775,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-18T23:32:38+00:00"
+  "updated_at": "2026-11-19T00:00:41+00:00"
 }
