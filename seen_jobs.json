@@ -22,10 +22,7 @@
   },
   "delivery_rejections": {},
   "health_reported": [
-    "Barclays",
-    "Intel",
-    "Micron",
-    "Salesforce"
+    "Barclays"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -68812,5 +68809,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T12:28:35+00:00"
+  "updated_at": "2026-11-19T12:33:37+00:00"
 }
