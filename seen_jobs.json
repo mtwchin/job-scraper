@@ -22,7 +22,23 @@
   },
   "delivery_rejections": {},
   "health_reported": [
-    "Barclays"
+    "Adobe",
+    "Barclays",
+    "Blackrock",
+    "Blue Origin",
+    "Broadcom",
+    "Cadence",
+    "Capital One",
+    "Cisco",
+    "CrowdStrike",
+    "Intel",
+    "Micron",
+    "Nvidia",
+    "PayPal",
+    "Red Hat",
+    "Salesforce",
+    "Workday",
+    "Zoom"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -68809,5 +68825,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T12:57:46+00:00"
+  "updated_at": "2026-11-19T13:07:48+00:00"
 }
