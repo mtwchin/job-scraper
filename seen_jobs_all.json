@@ -1,5 +1,5 @@
 {
-  "count": 10047,
+  "count": 10049,
   "delivery_attempts": {
     "anduril::5300647007": {
       "attempted_at": "2026-11-18T16:46:42+00:00",
@@ -9,24 +9,6 @@
       "source": "",
       "title": "2027 Business Systems Engineer Intern",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007"
-    },
-    "simplify:berkshire hathaway energy::simplify-6613bded-9926-49a7-bc7f-60a11f1a05ee": {
-      "attempted_at": "2026-11-18T15:33:02+00:00",
-      "company": "Berkshire Hathaway Energy",
-      "location": "Omaha, NE",
-      "posted_at": "1795014388",
-      "source": "simplify",
-      "title": "Software Engineer - Bhepg",
-      "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006023"
-    },
-    "simplify:cerence::simplify-60ea7bb5-3160-449a-9e8c-df9e0b2b6839": {
-      "attempted_at": "2026-11-18T15:33:02+00:00",
-      "company": "Cerence",
-      "location": "Remote in UK",
-      "posted_at": "1794873600",
-      "source": "simplify",
-      "title": "Student Worker Intern",
-      "url": "https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---Great-Britain/Student-Worker_R0006047"
     },
     "simplify:giro::simplify-401dc22d-9fa3-46ca-b73d-c68bde0ddc1c": {
       "attempted_at": "2026-11-18T16:33:01+00:00",
@@ -13014,6 +12996,17 @@
       "title": "Software Engineer 1 - Automation",
       "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004755"
     },
+    "simplify:berkshire hathaway energy::simplify-6613bded-9926-49a7-bc7f-60a11f1a05ee": {
+      "company": "Berkshire Hathaway Energy",
+      "delivery_unconfirmed": true,
+      "first_seen": "2026-11-18T15:33:02+00:00",
+      "last_seen": "2026-11-19T15:47:49+00:00",
+      "location": "Omaha, NE",
+      "posted_at": "1795014388",
+      "source": "simplify",
+      "title": "Software Engineer - Bhepg",
+      "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006023"
+    },
     "simplify:berkshire hathaway energy::simplify-727bca38-2bd8-4617-9787-7d0297465286": {
       "company": "Berkshire Hathaway Energy",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -18060,6 +18053,17 @@
       "posted_at": "1784845011",
       "title": "Kernel Engineer New Grad",
       "url": "https://jobs.ashbyhq.com/cerebras/9c7da4b8-446b-4bf2-8d07-23241590bf2e/application?embed=true"
+    },
+    "simplify:cerence::simplify-60ea7bb5-3160-449a-9e8c-df9e0b2b6839": {
+      "company": "Cerence",
+      "delivery_unconfirmed": true,
+      "first_seen": "2026-11-18T15:33:02+00:00",
+      "last_seen": "2026-11-19T15:47:49+00:00",
+      "location": "Remote in UK",
+      "posted_at": "1794873600",
+      "source": "simplify",
+      "title": "Student Worker Intern",
+      "url": "https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---Great-Britain/Student-Worker_R0006047"
     },
     "simplify:cerence::simplify-ffb41745-2e42-4e1e-a0bc-f617a050a263": {
       "company": "Cerence",
@@ -88454,5 +88458,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-19T15:32:59+00:00"
+  "updated_at": "2026-11-19T15:48:01+00:00"
 }
