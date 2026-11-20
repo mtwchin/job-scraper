@@ -1,5 +1,5 @@
 {
-  "count": 10125,
+  "count": 10130,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -24328,6 +24328,16 @@
       "title": "Digital & AI Technology Intern",
       "url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Saint-Paul/Digital---AI-Technology-Intern_R00303249"
     },
+    "simplify:ecpi university::simplify-edc801c6-bd58-4fa1-a574-fa3e72eef52c": {
+      "company": "ECPI University",
+      "first_seen": "2026-11-20T23:31:54+00:00",
+      "last_seen": "2026-11-20T23:31:54+00:00",
+      "location": "Virginia Beach, VA",
+      "posted_at": "1795215856",
+      "source": "simplify",
+      "title": "Associate Software Developer",
+      "url": "https://recruiting.ultipro.com/ecp1000ecpi/JobBoard/e017f5e5-4f5e-4a98-a5d2-83db591e186f/OpportunityDetail?opportunityId=4b69f6b1-0298-4c53-9d7a-5555320c1c56"
+    },
     "simplify:edgehog trading::simplify-c4ab4946-ca32-40a8-871d-7f457ac74405": {
       "company": "Edgehog Trading",
       "first_seen": "2026-09-04T23:26:59+00:00",
@@ -24969,6 +24979,16 @@
       "posted_at": "1787015436",
       "title": "Software Developer Intern",
       "url": "https://jobs.smartrecruiters.com/EncephaloInvestments/743999734497349"
+    },
+    "simplify:encore::simplify-7fc39317-d604-49b6-b040-6ff19b02c712": {
+      "company": "Encore",
+      "first_seen": "2026-11-20T23:31:54+00:00",
+      "last_seen": "2026-11-20T23:31:54+00:00",
+      "location": "Schiller Park, IL",
+      "posted_at": "1795216277",
+      "source": "simplify",
+      "title": "Associate Application Developer",
+      "url": "https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=bf6ce5bb-f991-46de-a0cb-50f4f9577ee9"
     },
     "simplify:encova::simplify-cc99eb43-48b8-443d-be7a-b621cbef7dcd": {
       "company": "Encova",
@@ -27784,6 +27804,16 @@
       "posted_at": "1785579910",
       "title": "Software Engineer 1 - Real Time Aviation Data",
       "url": "https://careers.garmin.com/jobs/18762?icims=1"
+    },
+    "simplify:garmin::simplify-0f148b88-dec2-44e9-8f58-c1bcb66881f3": {
+      "company": "Garmin",
+      "first_seen": "2026-11-20T23:31:54+00:00",
+      "last_seen": "2026-11-20T23:31:54+00:00",
+      "location": "Salem, OR",
+      "posted_at": "1795211820",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://careers.garmin.com/jobs/21486?icims=1&lang=en-us"
     },
     "simplify:garmin::simplify-124ba47c-7dd9-4556-9940-a7ff02138433": {
       "company": "Garmin",
@@ -44502,6 +44532,16 @@
       "title": "Software Engineer Intern - BCI Applications",
       "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003"
     },
+    "simplify:neurohire.ai::simplify-6cb7e4b7-e534-4f0c-ad21-b6277cdbde16": {
+      "company": "neurohire.ai",
+      "first_seen": "2026-11-20T23:31:54+00:00",
+      "last_seen": "2026-11-20T23:31:54+00:00",
+      "location": "Remote in USA",
+      "posted_at": "1795215849",
+      "source": "simplify",
+      "title": "Python Developer",
+      "url": "https://apply.workable.com/neurohire-dot-a-i/j/D9A059DF68/apply"
+    },
     "simplify:neurohire.ai::simplify-87c40439-ed10-4b6a-99b3-511100982f8f": {
       "company": "neurohire.ai",
       "delivery_unconfirmed": true,
@@ -60923,6 +60963,16 @@
       "source": "simplify",
       "title": "Associate Embedded Systems Emulation Engineer",
       "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4721162006"
+    },
+    "simplify:str::simplify-c339b2ee-361c-42dc-9a66-57e89474841d": {
+      "company": "STR",
+      "first_seen": "2026-11-20T23:31:54+00:00",
+      "last_seen": "2026-11-20T23:31:54+00:00",
+      "location": "Arlington County, Arlington, VA",
+      "posted_at": "1795197345",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4727237006"
     },
     "simplify:strada::simplify-8900ebd2-3908-4311-861b-2774c0681730": {
       "company": "Strada",
@@ -89207,5 +89257,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T22:56:02+00:00"
+  "updated_at": "2026-11-20T23:32:05+00:00"
 }
