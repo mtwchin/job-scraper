@@ -1,5 +1,5 @@
 {
-  "count": 8145,
+  "count": 8146,
   "delivery_attempts": {
     "vanshb03:snowflake::vanshb03-363d73ec-815f-4c95-bb0f-b34587572a05": {
       "attempted_at": "2026-11-19T22:53:31+00:00",
@@ -62211,6 +62211,16 @@
       "title": "Software Engineering Intern",
       "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543"
     },
+    "vanshb03:cadence::vanshb03-664874cf-5a9c-49bc-b435-300a795ca9f0": {
+      "company": "Cadence",
+      "first_seen": "2026-11-20T10:19:06+00:00",
+      "last_seen": "2026-11-20T10:19:06+00:00",
+      "location": "Boston, MA",
+      "posted_at": "1795169500",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1El"
+    },
     "vanshb03:candid health::vanshb03-f3a926fc-88b6-4708-8a69-ebfa8a7b3392": {
       "company": "Candid Health",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -68918,5 +68928,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T10:17:59+00:00"
+  "updated_at": "2026-11-20T10:20:01+00:00"
 }
