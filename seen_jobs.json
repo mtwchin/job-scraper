@@ -1,5 +1,5 @@
 {
-  "count": 8150,
+  "count": 8151,
   "delivery_attempts": {
     "vanshb03:snowflake::vanshb03-363d73ec-815f-4c95-bb0f-b34587572a05": {
       "attempted_at": "2026-11-19T22:53:31+00:00",
@@ -926,6 +926,16 @@
       "source": "",
       "title": "Cellular RF Receiver System Engineer Intern",
       "url": "https://jobs.apple.com/en-us/details/200695289-4265/cellular-rf-receiver-system-engineer-intern"
+    },
+    "apple::200696199-1251": {
+      "company": "Apple",
+      "first_seen": "2026-11-20T19:24:24+00:00",
+      "last_seen": "2026-11-20T19:24:24+00:00",
+      "location": "Cambridge",
+      "posted_at": "2026-11-20T19:23:54.063Z",
+      "source": "",
+      "title": "Software Engineering Intern, App Intelligence Experience",
+      "url": "https://jobs.apple.com/en-us/details/200696199-1251/software-engineering-intern-app-intelligence-experience"
     },
     "applied intuition::31140958-d768-452c-8498-0b1c7f403943": {
       "company": "Applied Intuition",
@@ -68973,5 +68983,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T19:23:58+00:00"
+  "updated_at": "2026-11-20T19:25:00+00:00"
 }
