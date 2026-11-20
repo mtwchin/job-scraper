@@ -1,5 +1,5 @@
 {
-  "count": 8151,
+  "count": 8152,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -4650,6 +4650,16 @@
       "source": "",
       "title": "Associate Software Engineer",
       "url": "https://jobs.smartrecruiters.com/Servicenow/744000157571919"
+    },
+    "servicenow::744000162827365": {
+      "company": "ServiceNow",
+      "first_seen": "2026-11-20T22:06:37+00:00",
+      "last_seen": "2026-11-20T22:06:37+00:00",
+      "location": "Kirkland, Washington, us",
+      "posted_at": "2026-11-20T22:06:05.531Z",
+      "source": "",
+      "title": "Security Software Engineer Intern",
+      "url": "https://jobs.smartrecruiters.com/Servicenow/744000162827365"
     },
     "shield ai::1bcb2094-e52d-4af9-9eee-2bcd655536ca": {
       "company": "Shield AI",
@@ -68991,5 +69001,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T21:30:08+00:00"
+  "updated_at": "2026-11-20T22:07:10+00:00"
 }
