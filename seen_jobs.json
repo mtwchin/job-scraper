@@ -19,9 +19,16 @@
     "Blue Origin",
     "Broadcom",
     "Cadence",
+    "Capital One",
+    "Cisco",
+    "CrowdStrike",
     "Intel",
     "Micron",
+    "Nvidia",
     "PayPal",
+    "Red Hat",
+    "Salesforce",
+    "Workday",
     "Zoom"
   ],
   "jobs": {
@@ -68923,5 +68930,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T12:05:13+00:00"
+  "updated_at": "2026-11-20T12:24:15+00:00"
 }
