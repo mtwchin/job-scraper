@@ -14,13 +14,13 @@
   "delivery_rejections": {},
   "health_reported": [
     "Adobe",
+    "Anduril",
     "Barclays",
     "Blackrock",
     "Blue Origin",
     "Broadcom",
     "Cadence",
     "Capital One",
-    "Cisco",
     "CrowdStrike",
     "Intel",
     "Micron",
@@ -69003,5 +69003,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T22:54:12+00:00"
+  "updated_at": "2026-11-20T22:57:15+00:00"
 }
