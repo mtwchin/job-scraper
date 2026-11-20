@@ -1,5 +1,5 @@
 {
-  "count": 10094,
+  "count": 10103,
   "delivery_attempts": {
     "simplify:super micro computer::simplify-2f26dbb7-f29f-4f57-bede-ddd673581370": {
       "attempted_at": "2026-11-19T10:03:03+00:00",
@@ -17717,6 +17717,16 @@
       "title": "Software Engineering",
       "url": "https://www.carvana.com/careers/apply?gh_jid=7542940"
     },
+    "simplify:cas::simplify-b9cf15b7-d82f-4efc-8428-4313aa985f7a": {
+      "company": "CAS",
+      "first_seen": "2026-11-20T08:02:54+00:00",
+      "last_seen": "2026-11-20T08:02:54+00:00",
+      "location": "Columbus, OH",
+      "posted_at": "1795160574",
+      "source": "simplify",
+      "title": "Cheminformatics Scientist Intern",
+      "url": "https://recruiting.ultipro.com/AME1095ACHM/JobBoard/c06ddd6c-8fd2-42b0-96f5-4d70bdc7655a/OpportunityDetail?opportunityId=2225e962-d694-4585-a937-82c9c01b6337"
+    },
     "simplify:castle::simplify-49359bde-573c-4530-af6e-e13563e1ff13": {
       "company": "Castle",
       "first_seen": "2026-07-21T03:41:07+00:00",
@@ -32474,6 +32484,46 @@
       "title": "Full Stack Engineer Co-op",
       "url": "https://job-boards.greenhouse.io/hometapjobs/jobs/4927882007"
     },
+    "simplify:honeywell aerospace::simplify-28aae0c2-d80b-44a5-a6a7-7ecabb7e51af": {
+      "company": "Honeywell Aerospace",
+      "first_seen": "2026-11-20T08:02:54+00:00",
+      "last_seen": "2026-11-20T08:02:54+00:00",
+      "location": "United States",
+      "posted_at": "1795159699",
+      "source": "simplify",
+      "title": "Software Engineer Recent Grad",
+      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120265"
+    },
+    "simplify:honeywell aerospace::simplify-67b563de-9d90-4f4b-b20e-2f5948926ed5": {
+      "company": "Honeywell Aerospace",
+      "first_seen": "2026-11-20T08:02:54+00:00",
+      "last_seen": "2026-11-20T08:02:54+00:00",
+      "location": "United States",
+      "posted_at": "1795159699",
+      "source": "simplify",
+      "title": "Software Engineering New Grad",
+      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120524"
+    },
+    "simplify:honeywell aerospace::simplify-bd33ada7-01d7-4b42-afd3-dbfd56e9010e": {
+      "company": "Honeywell Aerospace",
+      "first_seen": "2026-11-20T08:02:54+00:00",
+      "last_seen": "2026-11-20T08:02:54+00:00",
+      "location": "United States",
+      "posted_at": "1795159699",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119718"
+    },
+    "simplify:honeywell aerospace::simplify-f0885220-6817-4024-8e1b-6c94e820f385": {
+      "company": "Honeywell Aerospace",
+      "first_seen": "2026-11-20T08:02:54+00:00",
+      "last_seen": "2026-11-20T08:02:54+00:00",
+      "location": "Clearwater, FL",
+      "posted_at": "1795159688",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/99125642"
+    },
     "simplify:honeywell::simplify-45abede7-dc8b-4a14-80ef-9bcf0a9396b7": {
       "company": "Honeywell",
       "first_seen": "2026-08-17T22:50:57+00:00",
@@ -33178,6 +33228,16 @@
       "posted_at": "1782511462",
       "title": "Materials & Application Engineer",
       "url": "https://hoganas.wd3.myworkdayjobs.com/Careers/job/Tomball-TX/Materials---Application-Engineer_JR1211"
+    },
+    "simplify:ia::simplify-100a3877-0948-435a-a35c-03be89ef5d7f": {
+      "company": "iA",
+      "first_seen": "2026-11-20T08:02:54+00:00",
+      "last_seen": "2026-11-20T08:02:54+00:00",
+      "location": "Binghamton, NY",
+      "posted_at": "1795160325",
+      "source": "simplify",
+      "title": "Software Development Engineer Intern",
+      "url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936414429_1"
     },
     "simplify:iboss::simplify-09f00af3-f301-47dc-8feb-407479362a10": {
       "company": "iboss",
@@ -40672,6 +40732,16 @@
       "title": "Associate Software Engineer",
       "url": "https://mpc.wd1.myworkdayjobs.com/en-US/MPCCareers/job/San-Antonio-Texas/Associate-Software-Engineer_00023623"
     },
+    "simplify:marias technology::simplify-7a1cd48c-673b-4540-99e2-41bf53c586d4": {
+      "company": "Marias Technology",
+      "first_seen": "2026-11-20T08:02:54+00:00",
+      "last_seen": "2026-11-20T08:02:54+00:00",
+      "location": "Covington, OH",
+      "posted_at": "1795159863",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://mariastechnology.bamboohr.com/careers/27/"
+    },
     "simplify:marigold::simplify-2568859c-6383-4f07-a5dc-5350765a1d3a": {
       "company": "Marigold",
       "first_seen": "2026-10-12T23:05:35+00:00",
@@ -40912,6 +40982,16 @@
       "posted_at": "1785196800",
       "title": "Applications Analyst 1",
       "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Applications-Analyst-I_RQ4071746-1"
+    },
+    "simplify:massey services::simplify-3fb3fe3f-5c74-4b1d-9353-c79b6d570a33": {
+      "company": "Massey Services",
+      "first_seen": "2026-11-20T08:02:54+00:00",
+      "last_seen": "2026-11-20T08:02:54+00:00",
+      "location": "Orlando, FL",
+      "posted_at": "1787097600",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://masseyservices.wd5.myworkdayjobs.com/masseyservices/job/Orlando-FL/BI-Software-Engineer-Intern---Orlando_JR104566"
     },
     "simplify:mastercard::simplify-0904ada8-dd5b-47ed-b6b2-f23cdd66fb39": {
       "company": "Mastercard",
@@ -57099,6 +57179,16 @@
       "posted_at": "1788220800",
       "title": "Application Development Specialist",
       "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Dallas/Specialist--Application-Development_Req1610190"
+    },
+    "simplify:sante::simplify-b84e71f0-da1d-40e1-809e-312f13a0dd2c": {
+      "company": "Sante",
+      "first_seen": "2026-11-20T08:02:54+00:00",
+      "last_seen": "2026-11-20T08:02:54+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1795161279",
+      "source": "simplify",
+      "title": "AI Engineer",
+      "url": "https://workforcenow.adp.com/job?cid=6045a3c5-9cfb-4d71-9c06-80a911514305&jobId=274361596777_1"
     },
     "simplify:sardine::simplify-860a5d35-fd73-4f09-9dab-71f9950473cf": {
       "company": "Sardine",
@@ -88900,5 +88990,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T07:33:03+00:00"
+  "updated_at": "2026-11-20T08:03:06+00:00"
 }
