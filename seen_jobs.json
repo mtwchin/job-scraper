@@ -22,11 +22,13 @@
     "Capital One",
     "Cisco",
     "CrowdStrike",
+    "Intel",
     "Micron",
     "Nvidia",
     "PayPal",
     "Red Hat",
-    "Salesforce"
+    "Salesforce",
+    "Zoom"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -68897,5 +68899,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T05:58:58+00:00"
+  "updated_at": "2026-11-20T06:19:23+00:00"
 }
