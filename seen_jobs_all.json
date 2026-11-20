@@ -1,5 +1,5 @@
 {
-  "count": 10115,
+  "count": 10116,
   "delivery_attempts": {
     "vanshb03:snowflake::vanshb03-363d73ec-815f-4c95-bb0f-b34587572a05": {
       "attempted_at": "2026-11-19T22:53:31+00:00",
@@ -27494,7 +27494,7 @@
     "simplify:freedom technology solutions group::simplify-1137567c-261b-4ccb-8a65-00a55a4d57b5": {
       "company": "Freedom Technology Solutions Group",
       "first_seen": "2026-09-18T22:19:43+00:00",
-      "last_seen": "2026-10-09T00:00:55+00:00",
+      "last_seen": "2026-11-20T16:02:34+00:00",
       "location": "Annapolis Junction, MD",
       "posted_at": "1785449999",
       "source": "simplify",
@@ -64574,6 +64574,16 @@
       "title": "Software Developer Co-op",
       "url": "https://apply.workable.com/semios/j/4B5D1FB613/apply"
     },
+    "simplify:the silverlogic::simplify-1c40cb3e-36ea-45e6-9a21-bf448515a35e": {
+      "company": "The SilverLogic",
+      "first_seen": "2026-11-20T16:02:37+00:00",
+      "last_seen": "2026-11-20T16:02:37+00:00",
+      "location": "Boca Raton, FL",
+      "posted_at": "1795189720",
+      "source": "simplify",
+      "title": "AI Engineer/Consultant Intern",
+      "url": "https://silverlogic.bamboohr.com/careers/36/"
+    },
     "simplify:the toro company::simplify-75a57c7c-d53e-471f-ad32-b424227e9f4a": {
       "company": "The Toro Company",
       "first_seen": "2026-10-19T22:38:06+00:00",
@@ -89104,5 +89114,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T15:49:40+00:00"
+  "updated_at": "2026-11-20T16:02:43+00:00"
 }
