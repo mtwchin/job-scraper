@@ -1,5 +1,5 @@
 {
-  "count": 10104,
+  "count": 10106,
   "delivery_attempts": {
     "simplify:super micro computer::simplify-2f26dbb7-f29f-4f57-bede-ddd673581370": {
       "attempted_at": "2026-11-19T10:03:03+00:00",
@@ -78619,6 +78619,16 @@
       "title": "Forward Deployed Engineering Intern, AI-Native",
       "url": "https://jobs.ashbyhq.com/homebase/a7ab59c0-786e-4675-b684-2ed19b240fb2"
     },
+    "vanshb03:honeywell aerospace::vanshb03-b574f5e1-90c5-4823-af0b-7b222e94262f": {
+      "company": "Honeywell Aerospace",
+      "first_seen": "2026-11-20T08:30:53+00:00",
+      "last_seen": "2026-11-20T08:30:53+00:00",
+      "location": "Remote",
+      "posted_at": "1795159699",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineering",
+      "url": "https://go.vansh.nyc/1Ee"
+    },
     "vanshb03:honeywell aerospace::vanshb03-d673fde3-3700-4877-8b71-aaec39165d88": {
       "company": "Honeywell Aerospace",
       "first_seen": "2026-11-12T13:10:33+00:00",
@@ -78628,6 +78638,16 @@
       "source": "vanshb03",
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/1wq"
+    },
+    "vanshb03:honeywell aerospace::vanshb03-f4d3c972-4d91-4781-bce6-59d7fa63d393": {
+      "company": "Honeywell Aerospace",
+      "first_seen": "2026-11-20T08:30:53+00:00",
+      "last_seen": "2026-11-20T08:30:53+00:00",
+      "location": "Remote",
+      "posted_at": "1795159699",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer",
+      "url": "https://go.vansh.nyc/1Ef"
     },
     "vanshb03:honeywell::vanshb03-04dc09cc-6a15-4b6c-81d9-9ce85d513b36": {
       "company": "Honeywell",
@@ -89000,5 +89020,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T08:23:09+00:00"
+  "updated_at": "2026-11-20T08:31:12+00:00"
 }
