@@ -1,15 +1,6 @@
 {
-  "count": 10108,
+  "count": 10109,
   "delivery_attempts": {
-    "simplify:super micro computer::simplify-2f26dbb7-f29f-4f57-bede-ddd673581370": {
-      "attempted_at": "2026-11-19T10:03:03+00:00",
-      "company": "Super Micro Computer",
-      "location": "San Jose, CA",
-      "posted_at": "1789509772",
-      "source": "simplify",
-      "title": "Software Engineer",
-      "url": "https://jobs.supermicro.com/job/San-Jose-Software-Engineer-Cali/1430200500/?ats=successfactors"
-    },
     "vanshb03:snowflake::vanshb03-363d73ec-815f-4c95-bb0f-b34587572a05": {
       "attempted_at": "2026-11-19T22:53:31+00:00",
       "company": "Snowflake",
@@ -61255,6 +61246,17 @@
       "title": "Automation Intern - Software or Computer Engineering Student",
       "url": "https://suncor.wd1.myworkdayjobs.com/Suncor_External/job/Fort-McMurray-Base-Plant-AB-CAN/Automation--Software-or-Computer-Engineering-Student---January-2027_R0017525"
     },
+    "simplify:super micro computer::simplify-2f26dbb7-f29f-4f57-bede-ddd673581370": {
+      "company": "Super Micro Computer",
+      "delivery_unconfirmed": true,
+      "first_seen": "2026-11-19T10:03:03+00:00",
+      "last_seen": "2026-11-20T10:19:07+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1789509772",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://jobs.supermicro.com/job/San-Jose-Software-Engineer-Cali/1430200500/?ats=successfactors"
+    },
     "simplify:super micro computer::simplify-58482676-348d-4ce8-83f5-39def79ad066": {
       "company": "Super Micro Computer",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -89040,5 +89042,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T09:32:11+00:00"
+  "updated_at": "2026-11-20T10:19:14+00:00"
 }
