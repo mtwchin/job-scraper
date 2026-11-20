@@ -29,16 +29,13 @@
     "Broadcom",
     "Cadence",
     "Capital One",
-    "Cisco",
     "CrowdStrike",
     "Intel",
     "Micron",
     "Nvidia",
     "PayPal",
     "Red Hat",
-    "Salesforce",
-    "Workday",
-    "Zoom"
+    "Salesforce"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -69001,5 +68998,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T22:07:10+00:00"
+  "updated_at": "2026-11-20T22:47:07+00:00"
 }
