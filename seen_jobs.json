@@ -1,5 +1,5 @@
 {
-  "count": 8144,
+  "count": 8145,
   "delivery_attempts": {
     "vanshb03:snowflake::vanshb03-363d73ec-815f-4c95-bb0f-b34587572a05": {
       "attempted_at": "2026-11-19T22:53:31+00:00",
@@ -8993,6 +8993,16 @@
       "posted_at": "1782972444",
       "title": "Software Engineer-Systems",
       "url": "https://jobs.apple.com/en-us/details/200669153"
+    },
+    "simplify:apple::simplify-b3468972-56ab-4076-a1ee-c523f1a719cd": {
+      "company": "Apple",
+      "first_seen": "2026-11-20T07:31:45+00:00",
+      "last_seen": "2026-11-20T07:31:45+00:00",
+      "location": "Sunnyvale, CA, Boulder, CO",
+      "posted_at": "1795159460",
+      "source": "simplify",
+      "title": "AR/VR Software Engineer - Spatial System UI - Vision Products Software",
+      "url": "https://jobs.apple.com/en-us/details/200696147"
     },
     "simplify:apple::simplify-bda8e644-cbbf-4bf8-9a2b-14157ea1cb43": {
       "company": "Apple",
@@ -68905,5 +68915,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T07:27:38+00:00"
+  "updated_at": "2026-11-20T07:32:40+00:00"
 }
