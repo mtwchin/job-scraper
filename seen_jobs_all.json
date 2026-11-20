@@ -1,5 +1,5 @@
 {
-  "count": 10130,
+  "count": 10142,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -6318,6 +6318,16 @@
       "title": "Software Engineer 1 - Frontend - Upfunnel",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/7985907003"
     },
+    "simplify:afl::simplify-b3662e64-26cb-4061-ab69-f95b1b2b1e97": {
+      "company": "AFL",
+      "first_seen": "2026-11-20T23:32:53+00:00",
+      "last_seen": "2026-11-20T23:32:53+00:00",
+      "location": "Duncan, SC",
+      "posted_at": "1795216421",
+      "source": "simplify",
+      "title": "Web Design/Development Intern",
+      "url": "https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80"
+    },
     "simplify:after school matters::simplify-9b64f67e-d7bf-4c3f-9a3c-25474deb0b4d": {
       "company": "After School Matters",
       "first_seen": "2026-09-03T12:51:17+00:00",
@@ -7563,6 +7573,16 @@
       "source": "simplify",
       "title": "Senior Software Engineer - Amazon Tax",
       "url": "https://amazon.jobs/en/jobs/10471522/senior-sde-amazon-tax"
+    },
+    "simplify:amazon::simplify-6c7a89cf-644c-4f35-aa42-f275bd7c31a7": {
+      "company": "Amazon",
+      "first_seen": "2026-11-20T23:32:11+00:00",
+      "last_seen": "2026-11-20T23:32:11+00:00",
+      "location": "Seattle, WA, United States",
+      "posted_at": "1795216761",
+      "source": "simplify",
+      "title": "Design Technologist Intern",
+      "url": "https://amazon.jobs/en/jobs/10610836/design-technologist-intern-fy2027-summer"
     },
     "simplify:amazon::simplify-6d55f27f-9786-4c75-ab7c-c79dd9c729e0": {
       "company": "Amazon",
@@ -9490,6 +9510,16 @@
       "title": "Screening & Integration Engineer - Watch Software - Sensing & Connectivity",
       "url": "https://jobs.apple.com/en-us/details/200687790"
     },
+    "simplify:apple::simplify-4340e43e-b31d-42c0-bbd8-deb5cd3f9fa2": {
+      "company": "Apple",
+      "first_seen": "2026-11-20T23:32:11+00:00",
+      "last_seen": "2026-11-20T23:32:11+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1795216308",
+      "source": "simplify",
+      "title": "Software Engineer Intern - App Intelligence Experience",
+      "url": "https://jobs.apple.com/en-us/details/200696199"
+    },
     "simplify:apple::simplify-59e18143-8042-4a91-96f7-4d3bbed0be51": {
       "company": "Apple",
       "first_seen": "2026-10-07T10:08:00+00:00",
@@ -9752,6 +9782,16 @@
       "posted_at": "1786572311",
       "title": "Software Engineer - Applied Machine Learning - IS&T",
       "url": "https://jobs.apple.com/en-us/details/200677645"
+    },
+    "simplify:apple::simplify-eeb8a3d8-a05a-4abf-b269-e5682537a216": {
+      "company": "Apple",
+      "first_seen": "2026-11-20T23:31:49+00:00",
+      "last_seen": "2026-11-20T23:31:49+00:00",
+      "location": "Seattle, WA, NYC, Cupertino, CA",
+      "posted_at": "1795216305",
+      "source": "simplify",
+      "title": "Engineer New Grad - Evolve - An Apple Services Rotation Program",
+      "url": "https://jobs.apple.com/en-us/details/200695965"
     },
     "simplify:apple::simplify-f58075d4-27db-4102-bd57-53ec0e1878fb": {
       "company": "Apple",
@@ -12333,6 +12373,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/GB-NU-CRAMLINGTON-ATLEY-WAY-NORTH-NELSON-INDUSTRIAL-ESTATE/Intern---Software-Engineering---2027_R170942"
+    },
+    "simplify:baltimore aircoil company::simplify-bf86df30-189b-4cfc-b24b-403efc15c3d1": {
+      "company": "Baltimore Aircoil Company",
+      "first_seen": "2026-11-20T23:32:53+00:00",
+      "last_seen": "2026-11-20T23:32:53+00:00",
+      "location": "Jessup, MD",
+      "posted_at": "1795216741",
+      "source": "simplify",
+      "title": "HRIS Intern",
+      "url": "https://recruiting2.ultipro.com/AMS1003AMSII/JobBoard/15976ef7-7f1f-4b2f-8a0c-0e0ac1193dd8/OpportunityDetail?opportunityId=8cf02ccb-59d2-4585-a3d9-4aee8218f42f"
     },
     "simplify:bank of china usa::simplify-67073e06-6a56-423e-8829-d36ad479d2fe": {
       "company": "Bank of China USA",
@@ -27984,6 +28034,16 @@
       "title": "Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/gassouth/jobs/8247622"
     },
+    "simplify:gci::simplify-0b7e1658-3d8b-4e1f-92cf-0f1ce0d05287": {
+      "company": "GCI",
+      "first_seen": "2026-11-20T23:32:53+00:00",
+      "last_seen": "2026-11-20T23:32:53+00:00",
+      "location": "Virginia",
+      "posted_at": "1795217118",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://recruiting.ultipro.com/GCI1000GCI/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=561ce011-a9e5-4635-b991-2c8abd3d88bf"
+    },
     "simplify:gcm grosvenor::simplify-dd2973ae-073f-4dfb-a211-94b50b8b7a19": {
       "company": "GCM Grosvenor",
       "first_seen": "2026-10-09T23:05:56+00:00",
@@ -41592,6 +41652,16 @@
       "title": "Programmer Apprentice",
       "url": "https://jobs.smartrecruiters.com/McWaneInc/3743990014702976"
     },
+    "simplify:mda space::simplify-284cb7c3-3b6e-4bc3-8271-c566bcd82aa2": {
+      "company": "MDA Space",
+      "first_seen": "2026-11-20T23:32:53+00:00",
+      "last_seen": "2026-11-20T23:32:53+00:00",
+      "location": "Sainte-Anne-de-Bellevue, QC, Canada",
+      "posted_at": "1795216943",
+      "source": "simplify",
+      "title": "Engineering Student Intern - Python Test Data Processing",
+      "url": "https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=67af442f-ca28-47b2-b86b-eaa3d5192fe0"
+    },
     "simplify:mechanize::simplify-25a28b63-1772-404b-a5c1-29c24b2ceb2d": {
       "company": "Mechanize",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -46653,6 +46723,16 @@
       "title": "Software Engineer - Pathway - Rig Technologies",
       "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/44448"
     },
+    "simplify:nov::simplify-2d1727e3-8490-410b-9414-8a693c34359a": {
+      "company": "NOV",
+      "first_seen": "2026-11-20T23:32:53+00:00",
+      "last_seen": "2026-11-20T23:32:53+00:00",
+      "location": "Houston, TX",
+      "posted_at": "1795216294",
+      "source": "simplify",
+      "title": "Forward Deployed Engineer Intern",
+      "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/45321"
+    },
     "simplify:nov::simplify-8711cb99-1e0e-45db-a68f-35b89350309e": {
       "company": "NOV",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -47851,6 +47931,16 @@
       "posted_at": "1785939185",
       "title": "Application Software Engineer 2 - CDeX",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340958"
+    },
+    "simplify:oracle::simplify-1ce6ada2-5aa1-4d38-be28-f8fe2df04845": {
+      "company": "Oracle",
+      "first_seen": "2026-11-20T23:31:49+00:00",
+      "last_seen": "2026-11-20T23:31:49+00:00",
+      "location": "Nashville, TN",
+      "posted_at": "1795216298",
+      "source": "simplify",
+      "title": "Software Engineer New Grad - Oracle Cloud Infrastructure",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350824"
     },
     "simplify:oracle::simplify-574e0ff5-d748-4c63-bd72-624e3b87f93e": {
       "company": "Oracle",
@@ -52061,6 +52151,16 @@
       "source": "simplify",
       "title": "Research and Development Co-op",
       "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10637"
+    },
+    "simplify:ralliant::simplify-fc70ea6e-e47c-4d60-a90e-b27b036faf17": {
+      "company": "Ralliant",
+      "first_seen": "2026-11-20T23:32:53+00:00",
+      "last_seen": "2026-11-20T23:32:53+00:00",
+      "location": "Beaverton, OR",
+      "posted_at": "1795216676",
+      "source": "simplify",
+      "title": "Software Engineering Intern - AI Building",
+      "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11324"
     },
     "simplify:ralliant::simplify-ffd308ae-0047-4f00-9033-765b3021b684": {
       "company": "Ralliant",
@@ -59729,6 +59829,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Summer-2027-Software-Engineer-Internship_R-2026-73270"
+    },
+    "simplify:southwest power pool::simplify-4c0f14d8-1841-43e3-a1bf-345dccb80352": {
+      "company": "Southwest Power Pool",
+      "first_seen": "2026-11-20T23:32:53+00:00",
+      "last_seen": "2026-11-20T23:32:53+00:00",
+      "location": "Little Rock, AR",
+      "posted_at": "1795216930",
+      "source": "simplify",
+      "title": "Operations Developer Intern",
+      "url": "https://recruiting2.ultipro.com/SOU1052SPPI/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=51168e8a-cd42-4169-9c50-0019367a9d83"
     },
     "simplify:space dynamics laboratory::simplify-2e5df730-d9a8-47e0-aac3-c386a7274276": {
       "company": "Space Dynamics Laboratory",
@@ -70171,6 +70281,16 @@
       "source": "simplify",
       "title": "Business & Technology Application Analyst 1 - Pathology and Immunology",
       "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Business---Technology-Application-Analyst-I---Pathology-and-Immunology_JR97913"
+    },
+    "simplify:watchfire signs::simplify-7bea3e7f-e636-4538-a09d-41867842463f": {
+      "company": "Watchfire Signs",
+      "first_seen": "2026-11-20T23:32:53+00:00",
+      "last_seen": "2026-11-20T23:32:53+00:00",
+      "location": "Danville, IL",
+      "posted_at": "1795216393",
+      "source": "simplify",
+      "title": "Software Engineering Intern",
+      "url": "https://watchfiresigns.rec.pro.ukg.net/WAT1501WFSI/JobBoard/d3278620-b590-426f-899b-eb88c1096ad9/OpportunityDetail?opportunityId=b1838552-e606-4247-a3ce-2ce25d11e732"
     },
     "simplify:wave life sciences usa::simplify-8d877b1b-437c-4ddd-94ef-af8b4819b9fb": {
       "company": "Wave Life Sciences USA",
@@ -89257,5 +89377,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T23:32:05+00:00"
+  "updated_at": "2026-11-20T23:33:08+00:00"
 }
