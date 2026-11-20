@@ -1,5 +1,5 @@
 {
-  "count": 8143,
+  "count": 8144,
   "delivery_attempts": {
     "vanshb03:snowflake::vanshb03-363d73ec-815f-4c95-bb0f-b34587572a05": {
       "attempted_at": "2026-11-19T22:53:31+00:00",
@@ -18,17 +18,13 @@
     "Blackrock",
     "Blue Origin",
     "Broadcom",
-    "Cadence",
     "Capital One",
-    "Cisco",
     "CrowdStrike",
-    "Intel",
     "Micron",
     "Nvidia",
     "PayPal",
     "Red Hat",
     "Salesforce",
-    "Workday",
     "Zoom"
   ],
   "jobs": {
@@ -1298,7 +1294,7 @@
     "cadence::Intern--Software-Engineering-Jasper-R-D_R55530": {
       "company": "Cadence",
       "first_seen": "2026-11-18T15:29:57+00:00",
-      "last_seen": "2026-11-19T06:17:19+00:00",
+      "last_seen": "2026-11-20T06:49:39+00:00",
       "location": "BELO HORIZONTE",
       "posted_at": "Posted Today",
       "source": "",
@@ -1308,12 +1304,22 @@
     "cadence::Intern-Software-Engineer--Summer-2027--Three-Month-Duration----_R57170": {
       "company": "Cadence",
       "first_seen": "2026-11-19T12:27:45+00:00",
-      "last_seen": "2026-11-19T12:27:45+00:00",
+      "last_seen": "2026-11-20T06:49:39+00:00",
       "location": "EDINBURGH 01",
       "posted_at": "Posted Today",
       "source": "",
       "title": "Intern Software Engineer, Summer 2027, Three Month Duration\u00a0  \u00a0",
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/EDINBURGH-01/Intern-Software-Engineer--Summer-2027--Three-Month-Duration----_R57170"
+    },
+    "cadence::Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254-1": {
+      "company": "Cadence",
+      "first_seen": "2026-11-20T06:49:39+00:00",
+      "last_seen": "2026-11-20T06:49:39+00:00",
+      "location": "SAN JOSE",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Software Engineering Intern - Circuit Simulation infrastructure",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254-1"
     },
     "capital one::Associate--Software-Engineer--New-Grad-Card-Expansion_R236833": {
       "company": "Capital One",
@@ -68900,5 +68906,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T06:34:25+00:00"
+  "updated_at": "2026-11-20T06:50:27+00:00"
 }
