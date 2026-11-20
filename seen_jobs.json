@@ -1,5 +1,5 @@
 {
-  "count": 8157,
+  "count": 8158,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -240,6 +240,16 @@
       "source": "",
       "title": "Software Engineer I, Backend (Continuous Delivery)",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003"
+    },
+    "affirm::8196691003": {
+      "company": "Affirm",
+      "first_seen": "2026-11-20T23:50:46+00:00",
+      "last_seen": "2026-11-20T23:50:46+00:00",
+      "location": "Remote Canada",
+      "posted_at": "2026-11-20T18:50:34-05:00",
+      "source": "",
+      "title": "Software Engineer I, Fullstack (Disputes Platform)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196691003"
     },
     "airbnb::8360478": {
       "company": "Airbnb",
@@ -69043,5 +69053,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T23:32:25+00:00"
+  "updated_at": "2026-11-20T23:51:28+00:00"
 }
