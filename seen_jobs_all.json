@@ -1,5 +1,5 @@
 {
-  "count": 10110,
+  "count": 10114,
   "delivery_attempts": {
     "vanshb03:snowflake::vanshb03-363d73ec-815f-4c95-bb0f-b34587572a05": {
       "attempted_at": "2026-11-19T22:53:31+00:00",
@@ -26874,6 +26874,16 @@
       "title": "Senior Automation Engineer - Platform Biology",
       "url": "https://boards.greenhouse.io/flagshippioneeringinc/jobs/8651011002"
     },
+    "simplify:flare::simplify-ca3f8898-4242-437d-93c0-86e4161f061a": {
+      "company": "Flare",
+      "first_seen": "2026-11-20T15:32:35+00:00",
+      "last_seen": "2026-11-20T15:32:35+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1795188134",
+      "source": "simplify",
+      "title": "Software Developer Intern",
+      "url": "https://flare.bamboohr.com/careers/29/"
+    },
     "simplify:flexai::simplify-af8ee11b-8ecb-4e0d-a573-663d2b202291": {
       "company": "FlexAI",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -44309,6 +44319,16 @@
       "title": "Member of Technical Staff Intern",
       "url": "https://ats.rippling.com/neosigma/jobs/a2ee1d26-a551-45d2-9854-6dbf8ed2c866"
     },
+    "simplify:nephila capital::simplify-414e035f-278d-4400-814d-740ffda95605": {
+      "company": "Nephila Capital",
+      "first_seen": "2026-11-20T15:32:35+00:00",
+      "last_seen": "2026-11-20T15:32:35+00:00",
+      "location": "Nashville, TN",
+      "posted_at": "1795188076",
+      "source": "simplify",
+      "title": "Technology Associate",
+      "url": "https://nephila.bamboohr.com/careers/104/"
+    },
     "simplify:neptune north::simplify-c5025403-6265-427a-a5b9-7633280c5bce": {
       "company": "Neptune North",
       "first_seen": "2026-10-31T07:01:54+00:00",
@@ -61513,6 +61533,16 @@
       "title": "Software Engineer New Grad",
       "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Software-Engineer_R6770"
     },
+    "simplify:symbotic::simplify-aebb523a-9619-4c64-9e37-32778713a349": {
+      "company": "Symbotic",
+      "first_seen": "2026-11-20T15:32:35+00:00",
+      "last_seen": "2026-11-20T15:32:35+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1795132800",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Front-End",
+      "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1"
+    },
     "simplify:symmetry systems::simplify-292136b3-bb82-4394-a209-1c2782549340": {
       "company": "Symmetry Systems",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -68113,6 +68143,16 @@
       "source": "simplify",
       "title": "AI & Software Engineer Intern",
       "url": "https://job-boards.greenhouse.io/usafacts/jobs/4472154009"
+    },
+    "simplify:usan::simplify-0465505f-4e77-4a73-ac70-00d3069cce3f": {
+      "company": "USAN",
+      "first_seen": "2026-11-20T15:32:35+00:00",
+      "last_seen": "2026-11-20T15:32:35+00:00",
+      "location": "Norcross, GA",
+      "posted_at": "1795187876",
+      "source": "simplify",
+      "title": "Application Developer New Grad",
+      "url": "https://usan.bamboohr.com/careers/204/"
     },
     "simplify:usm business systems::simplify-10fd1f55-da69-47fe-9aab-74af4f789977": {
       "company": "USM Business Systems",
@@ -89052,5 +89092,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T14:28:33+00:00"
+  "updated_at": "2026-11-20T15:32:37+00:00"
 }
