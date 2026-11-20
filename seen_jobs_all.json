@@ -1,5 +1,5 @@
 {
-  "count": 10087,
+  "count": 10088,
   "delivery_attempts": {
     "simplify:super micro computer::simplify-2f26dbb7-f29f-4f57-bede-ddd673581370": {
       "attempted_at": "2026-11-19T10:03:03+00:00",
@@ -79927,6 +79927,16 @@
       "title": "Software Engineer Intern",
       "url": "https://go.vansh.nyc/Ce"
     },
+    "vanshb03:lucid motors::vanshb03-2f12a729-6964-43d7-b78d-fe6be0b654f0": {
+      "company": "Lucid Motors",
+      "first_seen": "2026-11-20T03:18:36+00:00",
+      "last_seen": "2026-11-20T03:18:36+00:00",
+      "location": "Newark, CA",
+      "posted_at": "1795135259",
+      "source": "vanshb03",
+      "title": "Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving",
+      "url": "https://go.vansh.nyc/1DT"
+    },
     "vanshb03:lucid motors::vanshb03-d7fcce10-ad3b-469a-86e4-8cbb5df3a52a": {
       "company": "Lucid Motors",
       "first_seen": "2026-11-19T23:50:36+00:00",
@@ -88830,5 +88840,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T03:02:56+00:00"
+  "updated_at": "2026-11-20T03:18:59+00:00"
 }
