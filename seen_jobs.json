@@ -19,15 +19,9 @@
     "Blue Origin",
     "Broadcom",
     "Cadence",
-    "Capital One",
-    "Cisco",
-    "CrowdStrike",
     "Intel",
     "Micron",
-    "Nvidia",
-    "PayPal",
-    "Red Hat",
-    "Salesforce"
+    "PayPal"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -68928,5 +68922,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T11:50:08+00:00"
+  "updated_at": "2026-11-20T12:00:10+00:00"
 }
