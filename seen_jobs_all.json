@@ -1,5 +1,5 @@
 {
-  "count": 10114,
+  "count": 10115,
   "delivery_attempts": {
     "vanshb03:snowflake::vanshb03-363d73ec-815f-4c95-bb0f-b34587572a05": {
       "attempted_at": "2026-11-19T22:53:31+00:00",
@@ -77804,6 +77804,18 @@
       "title": "Software Developer Intern",
       "url": "https://go.vansh.nyc/3y"
     },
+    "vanshb03:flare::vanshb03-dd5d5296-9831-4956-af05-2945da3e069d": {
+      "company": "Flare",
+      "duplicate_of": "simplify:flare::simplify-ca3f8898-4242-437d-93c0-86e4161f061a",
+      "first_seen": "2026-11-20T15:49:33+00:00",
+      "last_seen": "2026-11-20T15:49:33+00:00",
+      "location": "Montreal, Canada",
+      "posted_at": "1795188134",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1ED"
+    },
     "vanshb03:flexai::vanshb03-e81918c1-9586-4872-85c8-8a2b88c4537c": {
       "company": "FlexAI",
       "first_seen": "2026-11-05T10:16:22+00:00",
@@ -89092,5 +89104,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T15:32:37+00:00"
+  "updated_at": "2026-11-20T15:49:40+00:00"
 }
