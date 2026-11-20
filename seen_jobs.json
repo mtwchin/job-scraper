@@ -18,12 +18,15 @@
     "Blackrock",
     "Blue Origin",
     "Broadcom",
+    "Cadence",
     "Capital One",
+    "Intel",
     "Micron",
     "Nvidia",
     "PayPal",
     "Red Hat",
-    "Salesforce"
+    "Salesforce",
+    "Workday"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -68904,5 +68907,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T06:58:30+00:00"
+  "updated_at": "2026-11-20T07:04:31+00:00"
 }
