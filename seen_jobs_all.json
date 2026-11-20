@@ -1,5 +1,5 @@
 {
-  "count": 10088,
+  "count": 10092,
   "delivery_attempts": {
     "simplify:super micro computer::simplify-2f26dbb7-f29f-4f57-bede-ddd673581370": {
       "attempted_at": "2026-11-19T10:03:03+00:00",
@@ -1305,6 +1305,16 @@
       "source": "",
       "title": "Intern Software Engineer, Summer 2027, Three Month Duration\u00a0  \u00a0",
       "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/EDINBURGH-01/Intern-Software-Engineer--Summer-2027--Three-Month-Duration----_R57170"
+    },
+    "cadence::Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254-1": {
+      "company": "Cadence",
+      "first_seen": "2026-11-20T06:49:39+00:00",
+      "last_seen": "2026-11-20T06:49:39+00:00",
+      "location": "SAN JOSE",
+      "posted_at": "Posted Today",
+      "source": "",
+      "title": "Software Engineering Intern - Circuit Simulation infrastructure",
+      "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254-1"
     },
     "capital one::Associate--Software-Engineer--New-Grad-Card-Expansion_R236833": {
       "company": "Capital One",
@@ -39567,6 +39577,16 @@
       "title": "Associate Software Engineer",
       "url": "https://litera.wd12.myworkdayjobs.com/Litera_Careers/job/Denver-CO/Associate-Software-Engineer_R-501347"
     },
+    "simplify:litmus::simplify-7144d3f5-2136-4096-8ad3-54c3376e858e": {
+      "company": "Litmus",
+      "first_seen": "2026-11-20T07:31:53+00:00",
+      "last_seen": "2026-11-20T07:31:53+00:00",
+      "location": "SF",
+      "posted_at": "1794873600",
+      "source": "simplify",
+      "title": "Founding Member of Technical Staff",
+      "url": "https://jobs.ashbyhq.com/litmushiring/7693e9a2-bc0f-4b43-a5dc-cb2bb27683b3/application?embed=true"
+    },
     "simplify:littelfuse::simplify-684c7d2c-b34e-4cf6-95e4-d11be0cc5565": {
       "company": "Littelfuse",
       "first_seen": "2026-07-21T23:14:00+00:00",
@@ -52991,6 +53011,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern - Backend Focused",
       "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"
+    },
+    "simplify:rise internet::simplify-2826d282-8f4d-4136-ac55-8b63c5942327": {
+      "company": "Rise Internet",
+      "first_seen": "2026-11-20T07:31:53+00:00",
+      "last_seen": "2026-11-20T07:31:53+00:00",
+      "location": "Texas, Irving, TX",
+      "posted_at": "1795158577",
+      "source": "simplify",
+      "title": "Software Engineer 1",
+      "url": "https://workforcenow.adp.com/job?cid=025c6b1c-d982-48ca-a361-edd0625dd097&jobId=9204447887026_1"
     },
     "simplify:ritchie bros.::simplify-5525b708-b3f8-4b78-a546-7b5c638d8fdb": {
       "company": "Ritchie Bros.",
@@ -71543,6 +71573,16 @@
       "title": "Graduate Software Engineer - AI Platform Development",
       "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153873"
     },
+    "simplify:zepto life technology::simplify-3b40bb90-ae9c-4d47-ac95-d8dd6c416a99": {
+      "company": "Zepto Life Technology",
+      "first_seen": "2026-11-20T07:31:53+00:00",
+      "last_seen": "2026-11-20T07:31:53+00:00",
+      "location": "St Paul, MN",
+      "posted_at": "1795159138",
+      "source": "simplify",
+      "title": "Software Developer 1",
+      "url": "https://zeptolife.bamboohr.com/careers/143/"
+    },
     "simplify:zettabyte::simplify-5fdf7d5e-02c5-4d49-9d2b-a9b3dc38869d": {
       "company": "Zettabyte",
       "first_seen": "2026-08-01T11:50:42+00:00",
@@ -88840,5 +88880,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T03:27:52+00:00"
+  "updated_at": "2026-11-20T07:32:00+00:00"
 }
