@@ -1,5 +1,5 @@
 {
-  "count": 8152,
+  "count": 8153,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -9,15 +9,6 @@
       "source": "vanshb03",
       "title": "New Grad 2027: Software Engineer, DL Kernel Libraries",
       "url": "https://go.vansh.nyc/1F0"
-    },
-    "vanshb03:snowflake::vanshb03-363d73ec-815f-4c95-bb0f-b34587572a05": {
-      "attempted_at": "2026-11-19T22:53:31+00:00",
-      "company": "Snowflake",
-      "location": "Menlo Park, CA, Bellevue, WA",
-      "posted_at": "1795046400",
-      "source": "vanshb03",
-      "title": "Software Engineer Intern, AI/ML",
-      "url": "https://go.vansh.nyc/1Dr"
     }
   },
   "delivery_rejections": {},
@@ -66045,6 +66036,17 @@
       "title": "Software Engineer Intern (Core Engineering)",
       "url": "https://careers.snowflake.com/us/en/job/SNCOUS0214F57FFF904B4AB58DD1965DC9927EEXTERNALENUS4F34AEFA681B4AA8A0EA28CE56C9F1A5/Software-Engineer-Intern-Core-Engineering-Fall-2026"
     },
+    "vanshb03:snowflake::vanshb03-363d73ec-815f-4c95-bb0f-b34587572a05": {
+      "company": "Snowflake",
+      "delivery_unconfirmed": true,
+      "first_seen": "2026-11-19T22:53:31+00:00",
+      "last_seen": "2026-11-20T22:53:31+00:00",
+      "location": "Menlo Park, CA, Bellevue, WA",
+      "posted_at": "1795046400",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, AI/ML",
+      "url": "https://go.vansh.nyc/1Dr"
+    },
     "vanshb03:snowflake::vanshb03-a2669f25-69ee-46bf-ac90-d16ea9026103": {
       "company": "Snowflake",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -69001,5 +69003,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T22:52:10+00:00"
+  "updated_at": "2026-11-20T22:54:12+00:00"
 }
