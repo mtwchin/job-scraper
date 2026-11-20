@@ -1,5 +1,5 @@
 {
-  "count": 10086,
+  "count": 10087,
   "delivery_attempts": {
     "simplify:super micro computer::simplify-2f26dbb7-f29f-4f57-bede-ddd673581370": {
       "attempted_at": "2026-11-19T10:03:03+00:00",
@@ -11084,6 +11084,16 @@
       "posted_at": "1782956324",
       "title": "Senior Specialist Member of Technical Staff",
       "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACASan-Ramon--5005-Executive-Pkwy---Adm-north-Wing5005-Executive-Pkwy/Sr-Specialist-Member-of-Technical-Staff_R-113509"
+    },
+    "simplify:ata engineering::simplify-a8001fb2-9680-4964-8743-9e22282fe768": {
+      "company": "ATA Engineering",
+      "first_seen": "2026-11-20T03:02:36+00:00",
+      "last_seen": "2026-11-20T03:02:36+00:00",
+      "location": "Lakewood, CO, Huntsville, AL, San Diego, CA",
+      "posted_at": "1795142907",
+      "source": "simplify",
+      "title": "Engineering Software Programmer",
+      "url": "https://ataengineering.applytojob.com/apply/ivXsyvzO4I/Engineering-Software-Programmer"
     },
     "simplify:atalanta::simplify-1f3952cc-171c-4509-9532-4e1449ff14f2": {
       "company": "Atalanta",
@@ -88820,5 +88830,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T02:32:54+00:00"
+  "updated_at": "2026-11-20T03:02:56+00:00"
 }
