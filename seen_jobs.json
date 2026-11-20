@@ -1,5 +1,5 @@
 {
-  "count": 8153,
+  "count": 8157,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -7144,6 +7144,16 @@
       "title": "Senior Software Engineer - Amazon Tax",
       "url": "https://amazon.jobs/en/jobs/10471522/senior-sde-amazon-tax"
     },
+    "simplify:amazon::simplify-6c7a89cf-644c-4f35-aa42-f275bd7c31a7": {
+      "company": "Amazon",
+      "first_seen": "2026-11-20T23:32:11+00:00",
+      "last_seen": "2026-11-20T23:32:11+00:00",
+      "location": "Seattle, WA, United States",
+      "posted_at": "1795216761",
+      "source": "simplify",
+      "title": "Design Technologist Intern",
+      "url": "https://amazon.jobs/en/jobs/10610836/design-technologist-intern-fy2027-summer"
+    },
     "simplify:amazon::simplify-6d55f27f-9786-4c75-ab7c-c79dd9c729e0": {
       "company": "Amazon",
       "first_seen": "2026-07-02T21:01:41+00:00",
@@ -8888,6 +8898,16 @@
       "title": "Screening & Integration Engineer - Watch Software - Sensing & Connectivity",
       "url": "https://jobs.apple.com/en-us/details/200687790"
     },
+    "simplify:apple::simplify-4340e43e-b31d-42c0-bbd8-deb5cd3f9fa2": {
+      "company": "Apple",
+      "first_seen": "2026-11-20T23:32:11+00:00",
+      "last_seen": "2026-11-20T23:32:11+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1795216308",
+      "source": "simplify",
+      "title": "Software Engineer Intern - App Intelligence Experience",
+      "url": "https://jobs.apple.com/en-us/details/200696199"
+    },
     "simplify:apple::simplify-59e18143-8042-4a91-96f7-4d3bbed0be51": {
       "company": "Apple",
       "first_seen": "2026-10-07T10:08:00+00:00",
@@ -9150,6 +9170,16 @@
       "posted_at": "1786572311",
       "title": "Software Engineer - Applied Machine Learning - IS&T",
       "url": "https://jobs.apple.com/en-us/details/200677645"
+    },
+    "simplify:apple::simplify-eeb8a3d8-a05a-4abf-b269-e5682537a216": {
+      "company": "Apple",
+      "first_seen": "2026-11-20T23:31:49+00:00",
+      "last_seen": "2026-11-20T23:31:49+00:00",
+      "location": "Seattle, WA, NYC, Cupertino, CA",
+      "posted_at": "1795216305",
+      "source": "simplify",
+      "title": "Engineer New Grad - Evolve - An Apple Services Rotation Program",
+      "url": "https://jobs.apple.com/en-us/details/200695965"
     },
     "simplify:apple::simplify-f58075d4-27db-4102-bd57-53ec0e1878fb": {
       "company": "Apple",
@@ -20066,7 +20096,7 @@
     "simplify:docusign::simplify-2216540f-0c95-48ab-9ac1-9a2581596dce": {
       "company": "DocuSign",
       "first_seen": "2026-10-06T23:07:27+00:00",
-      "last_seen": "2026-10-15T00:00:13+00:00",
+      "last_seen": "2026-11-20T23:32:10+00:00",
       "location": "Seattle, WA",
       "posted_at": "1791324896",
       "source": "simplify",
@@ -35455,7 +35485,7 @@
     "simplify:microsoft::simplify-5b152919-6dd2-49e1-9338-9bec77d7fdd3": {
       "company": "Microsoft",
       "first_seen": "2026-11-07T00:01:50+00:00",
-      "last_seen": "2026-11-14T00:02:51+00:00",
+      "last_seen": "2026-11-20T23:31:49+00:00",
       "location": "Reston, VA",
       "posted_at": "1794008282",
       "source": "simplify",
@@ -39728,6 +39758,16 @@
       "posted_at": "1785939185",
       "title": "Application Software Engineer 2 - CDeX",
       "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/340958"
+    },
+    "simplify:oracle::simplify-1ce6ada2-5aa1-4d38-be28-f8fe2df04845": {
+      "company": "Oracle",
+      "first_seen": "2026-11-20T23:31:49+00:00",
+      "last_seen": "2026-11-20T23:31:49+00:00",
+      "location": "Nashville, TN",
+      "posted_at": "1795216298",
+      "source": "simplify",
+      "title": "Software Engineer New Grad - Oracle Cloud Infrastructure",
+      "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350824"
     },
     "simplify:oracle::simplify-574e0ff5-d748-4c63-bd72-624e3b87f93e": {
       "company": "Oracle",
@@ -69003,5 +69043,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T23:13:21+00:00"
+  "updated_at": "2026-11-20T23:32:25+00:00"
 }
