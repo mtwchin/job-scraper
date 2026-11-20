@@ -1,6 +1,15 @@
 {
-  "count": 10122,
+  "count": 10123,
   "delivery_attempts": {
+    "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
+      "attempted_at": "2026-11-20T21:29:50+00:00",
+      "company": "NVIDIA",
+      "location": "Santa Clara, CA",
+      "posted_at": "1795208877",
+      "source": "vanshb03",
+      "title": "New Grad 2027: Software Engineer, DL Kernel Libraries",
+      "url": "https://go.vansh.nyc/1F0"
+    },
     "vanshb03:snowflake::vanshb03-363d73ec-815f-4c95-bb0f-b34587572a05": {
       "attempted_at": "2026-11-19T22:53:31+00:00",
       "company": "Snowflake",
@@ -83708,6 +83717,16 @@
       "title": "Software Engineer Co-op, Embedded Software",
       "url": "https://go.vansh.nyc/ER"
     },
+    "vanshb03:rivian::vanshb03-c1f70d5f-5bf6-460b-a8da-482ccf71c649": {
+      "company": "Rivian",
+      "first_seen": "2026-11-20T21:48:53+00:00",
+      "last_seen": "2026-11-20T21:48:53+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1795210836",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, AI Platform, Autonomy",
+      "url": "https://go.vansh.nyc/1F3"
+    },
     "vanshb03:rivian::vanshb03-df3ca5c0-0b8b-4742-ba39-3013194951fb": {
       "company": "Rivian",
       "first_seen": "2026-10-26T16:38:12+00:00",
@@ -89176,5 +89195,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T19:58:52+00:00"
+  "updated_at": "2026-11-20T21:48:57+00:00"
 }
