@@ -1,5 +1,5 @@
 {
-  "count": 10103,
+  "count": 10104,
   "delivery_attempts": {
     "simplify:super micro computer::simplify-2f26dbb7-f29f-4f57-bede-ddd673581370": {
       "attempted_at": "2026-11-19T10:03:03+00:00",
@@ -75872,6 +75872,16 @@
       "title": "Full-Stack Software Development Intern",
       "url": "https://go.vansh.nyc/10A"
     },
+    "vanshb03:cas::vanshb03-22288cec-cf9f-4ef3-9faf-44f21fa39077": {
+      "company": "CAS",
+      "first_seen": "2026-11-20T08:22:53+00:00",
+      "last_seen": "2026-11-20T08:22:53+00:00",
+      "location": "Columbus, OH",
+      "posted_at": "1795160574",
+      "source": "vanshb03",
+      "title": "Technology Intern, Software Engineering",
+      "url": "https://go.vansh.nyc/1E9"
+    },
     "vanshb03:castelion::vanshb03-347c9fa1-37de-4dca-8b4f-f3839e91aecb": {
       "company": "Castelion",
       "first_seen": "2026-11-04T11:12:55+00:00",
@@ -88990,5 +89000,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T08:03:06+00:00"
+  "updated_at": "2026-11-20T08:23:09+00:00"
 }
