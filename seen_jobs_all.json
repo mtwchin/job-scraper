@@ -1,5 +1,5 @@
 {
-  "count": 10106,
+  "count": 10107,
   "delivery_attempts": {
     "simplify:super micro computer::simplify-2f26dbb7-f29f-4f57-bede-ddd673581370": {
       "attempted_at": "2026-11-19T10:03:03+00:00",
@@ -52955,6 +52955,16 @@
       "title": "Full-Stack AI Developer Intern",
       "url": "https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044912"
     },
+    "simplify:rexa::simplify-a4da6180-6f78-4f2c-ac8b-f1d23a467b3b": {
+      "company": "REXA",
+      "first_seen": "2026-11-20T08:32:53+00:00",
+      "last_seen": "2026-11-20T08:32:53+00:00",
+      "location": "Middleborough, MA",
+      "posted_at": "1795161554",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://rexa.bamboohr.com/careers/134/"
+    },
     "simplify:rf-smart::simplify-5c16ff34-e8ca-4a08-9d69-f9acac0df9a8": {
       "company": "RF-SMART",
       "first_seen": "2026-09-08T23:04:44+00:00",
@@ -89020,5 +89030,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T08:31:12+00:00"
+  "updated_at": "2026-11-20T08:33:14+00:00"
 }
