@@ -1,5 +1,5 @@
 {
-  "count": 10116,
+  "count": 10121,
   "delivery_attempts": {
     "vanshb03:snowflake::vanshb03-363d73ec-815f-4c95-bb0f-b34587572a05": {
       "attempted_at": "2026-11-19T22:53:31+00:00",
@@ -837,6 +837,36 @@
       "source": "",
       "title": "2027 Business Systems Engineer Intern",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007"
+    },
+    "anduril::5303479007": {
+      "company": "Anduril",
+      "first_seen": "2026-11-20T16:58:06+00:00",
+      "last_seen": "2026-11-20T16:58:06+00:00",
+      "location": "Costa Mesa, California, United States",
+      "posted_at": "2026-11-20T11:40:06-05:00",
+      "source": "",
+      "title": "Mission Systems Engineer, Early Career",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303479007?gh_jid=5303479007"
+    },
+    "anduril::5303550007": {
+      "company": "Anduril",
+      "first_seen": "2026-11-20T16:58:06+00:00",
+      "last_seen": "2026-11-20T16:58:06+00:00",
+      "location": "Costa Mesa, California, United States",
+      "posted_at": "2026-11-20T11:42:31-05:00",
+      "source": "",
+      "title": "RF Integration Systems Engineer, Early Career",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303550007?gh_jid=5303550007"
+    },
+    "anduril::5303553007": {
+      "company": "Anduril",
+      "first_seen": "2026-11-20T16:58:06+00:00",
+      "last_seen": "2026-11-20T16:58:06+00:00",
+      "location": "Costa Mesa, California, United States",
+      "posted_at": "2026-11-20T11:43:30-05:00",
+      "source": "",
+      "title": "Radar Systems Engineer, Early Career",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303553007?gh_jid=5303553007"
     },
     "apple::200664320-3810": {
       "company": "Apple",
@@ -34639,6 +34669,16 @@
       "source": "simplify",
       "title": "Software Engineer Intern",
       "url": "https://ice.jibeapply.com/jobs/14105?icims=1"
+    },
+    "simplify:intercontinental exchange::simplify-bf8068f6-2266-41e3-a2e7-a16e3f7bc6dc": {
+      "company": "Intercontinental Exchange",
+      "first_seen": "2026-11-20T19:02:36+00:00",
+      "last_seen": "2026-11-20T19:02:36+00:00",
+      "location": "NYC",
+      "posted_at": "1792713600",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://careers-ice.icims.com/jobs/14105/job?mobile=true&needsRedirect=false"
     },
     "simplify:intercontinental exchange::simplify-edd669e1-e493-4446-99d3-e8e668188696": {
       "company": "Intercontinental Exchange",
@@ -75728,6 +75768,18 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/VM"
     },
+    "vanshb03:cadence::vanshb03-180c89f7-8e1d-44bb-8b04-efe171cbfe27": {
+      "company": "Cadence",
+      "duplicate_of": "cadence::Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254-1",
+      "first_seen": "2026-11-20T18:51:18+00:00",
+      "last_seen": "2026-11-20T18:51:18+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1795169500",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Engineering Intern, Circuit Simulation Infrastructure",
+      "url": "https://go.vansh.nyc/1EP"
+    },
     "vanshb03:cadence::vanshb03-664874cf-5a9c-49bc-b435-300a795ca9f0": {
       "company": "Cadence",
       "first_seen": "2026-11-20T10:19:06+00:00",
@@ -89114,5 +89166,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T16:02:43+00:00"
+  "updated_at": "2026-11-20T19:02:50+00:00"
 }
