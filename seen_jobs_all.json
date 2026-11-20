@@ -1,5 +1,5 @@
 {
-  "count": 10142,
+  "count": 10145,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -222,6 +222,16 @@
       "source": "",
       "title": "Software Engineer I, Backend (Continuous Delivery)",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003"
+    },
+    "affirm::8196691003": {
+      "company": "Affirm",
+      "first_seen": "2026-11-20T23:50:46+00:00",
+      "last_seen": "2026-11-20T23:50:46+00:00",
+      "location": "Remote Canada",
+      "posted_at": "2026-11-20T18:50:34-05:00",
+      "source": "",
+      "title": "Software Engineer I, Fullstack (Disputes Platform)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8196691003"
     },
     "airbnb::8360478": {
       "company": "Airbnb",
@@ -78203,6 +78213,16 @@
       "title": "Software Engineer Intern, Real Time Aviation Data",
       "url": "https://go.vansh.nyc/1Bs"
     },
+    "vanshb03:garmin::vanshb03-1408d9d9-9a75-4350-a2c1-1cf347978f2a": {
+      "company": "Garmin",
+      "first_seen": "2026-11-20T23:52:53+00:00",
+      "last_seen": "2026-11-20T23:52:53+00:00",
+      "location": "Yarmouth, ME",
+      "posted_at": "1795210560",
+      "source": "vanshb03",
+      "title": "Software Engineer Intern, Web/Mobile",
+      "url": "https://go.vansh.nyc/1Fa"
+    },
     "vanshb03:garmin::vanshb03-26093e95-ae02-466f-9159-da032bc2e2f5": {
       "company": "Garmin",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -78289,6 +78309,18 @@
       "source": "vanshb03",
       "title": "Embedded Software Engineer Co-op",
       "url": "https://go.vansh.nyc/1vc"
+    },
+    "vanshb03:gci::vanshb03-5ac128ad-04ff-496c-b150-30867cd0a503": {
+      "company": "GCI",
+      "duplicate_of": "simplify:gci::simplify-0b7e1658-3d8b-4e1f-92cf-0f1ce0d05287",
+      "first_seen": "2026-11-20T23:52:53+00:00",
+      "last_seen": "2026-11-20T23:52:53+00:00",
+      "location": "United States",
+      "posted_at": "1795217118",
+      "seeded": true,
+      "source": "vanshb03",
+      "title": "Software Developer Intern",
+      "url": "https://go.vansh.nyc/1Fi"
     },
     "vanshb03:gecko robotics::vanshb03-1fe62028-1608-4bc3-98f3-13c95345faf1": {
       "company": "Gecko Robotics",
@@ -89377,5 +89409,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T23:33:08+00:00"
+  "updated_at": "2026-11-20T23:53:11+00:00"
 }
