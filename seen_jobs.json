@@ -1,5 +1,5 @@
 {
-  "count": 8146,
+  "count": 8149,
   "delivery_attempts": {
     "vanshb03:snowflake::vanshb03-363d73ec-815f-4c95-bb0f-b34587572a05": {
       "attempted_at": "2026-11-19T22:53:31+00:00",
@@ -14,7 +14,6 @@
   "delivery_rejections": {},
   "health_reported": [
     "Adobe",
-    "Anduril",
     "Barclays",
     "Blackrock",
     "Broadcom",
@@ -855,6 +854,36 @@
       "source": "",
       "title": "2027 Business Systems Engineer Intern",
       "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007"
+    },
+    "anduril::5303479007": {
+      "company": "Anduril",
+      "first_seen": "2026-11-20T16:58:06+00:00",
+      "last_seen": "2026-11-20T16:58:06+00:00",
+      "location": "Costa Mesa, California, United States",
+      "posted_at": "2026-11-20T11:40:06-05:00",
+      "source": "",
+      "title": "Mission Systems Engineer, Early Career",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303479007?gh_jid=5303479007"
+    },
+    "anduril::5303550007": {
+      "company": "Anduril",
+      "first_seen": "2026-11-20T16:58:06+00:00",
+      "last_seen": "2026-11-20T16:58:06+00:00",
+      "location": "Costa Mesa, California, United States",
+      "posted_at": "2026-11-20T11:42:31-05:00",
+      "source": "",
+      "title": "RF Integration Systems Engineer, Early Career",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303550007?gh_jid=5303550007"
+    },
+    "anduril::5303553007": {
+      "company": "Anduril",
+      "first_seen": "2026-11-20T16:58:06+00:00",
+      "last_seen": "2026-11-20T16:58:06+00:00",
+      "location": "Costa Mesa, California, United States",
+      "posted_at": "2026-11-20T11:43:30-05:00",
+      "source": "",
+      "title": "Radar Systems Engineer, Early Career",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303553007?gh_jid=5303553007"
     },
     "apple::200664320-3810": {
       "company": "Apple",
@@ -68930,5 +68959,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T16:49:35+00:00"
+  "updated_at": "2026-11-20T16:58:38+00:00"
 }
