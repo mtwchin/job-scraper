@@ -1,5 +1,5 @@
 {
-  "count": 10083,
+  "count": 10086,
   "delivery_attempts": {
     "simplify:super micro computer::simplify-2f26dbb7-f29f-4f57-bede-ddd673581370": {
       "attempted_at": "2026-11-19T10:03:03+00:00",
@@ -27046,6 +27046,16 @@
       "title": "Test Software Intern",
       "url": "https://careers.formlabs.com/job/8065543/apply/?gh_jid=8065543"
     },
+    "simplify:formlabs::simplify-6088d4cc-1e5f-4495-8f41-33af9ea62bde": {
+      "company": "Formlabs",
+      "first_seen": "2026-11-20T02:32:38+00:00",
+      "last_seen": "2026-11-20T02:32:38+00:00",
+      "location": "Somerville, MA",
+      "posted_at": "1795134860",
+      "source": "simplify",
+      "title": "API & Automation Intern",
+      "url": "https://careers.formlabs.com/job/8400855/apply/?gh_jid=8400855"
+    },
     "simplify:formlabs::simplify-6b403ecb-e347-4da1-909a-4874e69f0c32": {
       "company": "Formlabs",
       "first_seen": "2026-10-22T22:32:09+00:00",
@@ -39863,6 +39873,16 @@
       "title": "Engineering Graduate Programme",
       "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Engineering-Graduate-Programme_R0123391"
     },
+    "simplify:lucid motors::simplify-8cf12030-dee3-49e9-baaa-ea5dfb834537": {
+      "company": "Lucid Motors",
+      "first_seen": "2026-11-20T02:32:38+00:00",
+      "last_seen": "2026-11-20T02:32:38+00:00",
+      "location": "Newark, CA",
+      "posted_at": "1795138046",
+      "source": "simplify",
+      "title": "Infotainment Software Intern",
+      "url": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007"
+    },
     "simplify:lumaril::simplify-24bb49cb-168e-4f7f-aef6-fc5fe1503447": {
       "company": "Lumaril",
       "first_seen": "2026-10-28T02:02:07+00:00",
@@ -48840,6 +48860,16 @@
       "posted_at": "1773786170",
       "title": "Software Engineer 1 - Fullstack",
       "url": "https://www.pathai.com/careers/8466724002?gh_jid=8466724002"
+    },
+    "simplify:pathlabs::simplify-b0cd14b7-c677-4221-b6fb-e7a8d7035eff": {
+      "company": "Pathlabs",
+      "first_seen": "2026-11-20T02:32:38+00:00",
+      "last_seen": "2026-11-20T02:32:38+00:00",
+      "location": "Missoula, MT",
+      "posted_at": "1795141335",
+      "source": "simplify",
+      "title": "Software and AI Engineer Intern",
+      "url": "https://pathlabs.applytojob.com/apply/qW73dwA0iS/Software-And-AI-Engineering-Intern"
     },
     "simplify:pattern data::simplify-0f83da46-16ec-46ca-9e0d-17c88d922fdc": {
       "company": "Pattern Data",
@@ -88790,5 +88820,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T00:32:50+00:00"
+  "updated_at": "2026-11-20T02:32:54+00:00"
 }
