@@ -19,13 +19,11 @@
     "Blue Origin",
     "Broadcom",
     "Capital One",
-    "CrowdStrike",
     "Micron",
     "Nvidia",
     "PayPal",
     "Red Hat",
-    "Salesforce",
-    "Zoom"
+    "Salesforce"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -68906,5 +68904,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-20T06:50:27+00:00"
+  "updated_at": "2026-11-20T06:58:30+00:00"
 }
