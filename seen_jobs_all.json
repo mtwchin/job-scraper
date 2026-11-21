@@ -1,5 +1,5 @@
 {
-  "count": 10184,
+  "count": 10185,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -66972,6 +66972,16 @@
       "title": "Board Operator - Kixz",
       "url": "https://careers.townsquaremedia.com/job-details/?gh_jid=8071200"
     },
+    "simplify:toyota::simplify-a8173e49-9529-464c-ac9f-d73516392948": {
+      "company": "Toyota",
+      "first_seen": "2026-11-21T03:32:12+00:00",
+      "last_seen": "2026-11-21T03:32:12+00:00",
+      "location": "Plano, TX",
+      "posted_at": "1795132800",
+      "source": "simplify",
+      "title": "Software Engineer",
+      "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10340846"
+    },
     "simplify:toyota::simplify-cb3cc844-e743-4ff9-b173-f83f0dd66831": {
       "company": "Toyota",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -89801,5 +89811,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T03:02:17+00:00"
+  "updated_at": "2026-11-21T03:32:20+00:00"
 }
