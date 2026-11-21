@@ -1,5 +1,5 @@
 {
-  "count": 10178,
+  "count": 10179,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -75308,6 +75308,16 @@
       "title": "Extended Reality Programmer Intern",
       "url": "https://go.vansh.nyc/Sm"
     },
+    "vanshb03:bombardier::vanshb03-db8f94f1-00ac-4915-8ca5-97f9bfb510b5": {
+      "company": "Bombardier",
+      "first_seen": "2026-11-21T00:50:53+00:00",
+      "last_seen": "2026-11-21T00:50:53+00:00",
+      "location": "Wichita, KS",
+      "posted_at": "1795221705",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1FS"
+    },
     "vanshb03:booz allen hamilton::vanshb03-0f277df1-f76a-4b63-947d-bc876f9f40a3": {
       "company": "Booz Allen Hamilton",
       "duplicate_of": "vanshb03:booz allen hamilton::vanshb03-702d1faa-d613-4a9e-bb2a-22362f0f7faf",
@@ -89739,5 +89749,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T00:33:26+00:00"
+  "updated_at": "2026-11-21T00:51:29+00:00"
 }
