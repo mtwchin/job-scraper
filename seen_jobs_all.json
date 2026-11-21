@@ -1,5 +1,5 @@
 {
-  "count": 10182,
+  "count": 10184,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -24519,6 +24519,16 @@
       "title": "BIM Developer",
       "url": "https://jobs.smartrecruiters.com/EgisGroup/744000127876298"
     },
+    "simplify:eisneramper::simplify-91e04d19-b6ad-443f-8742-2cf4fd1eb19c": {
+      "company": "EisnerAmper",
+      "first_seen": "2026-11-21T03:02:12+00:00",
+      "last_seen": "2026-11-21T03:02:12+00:00",
+      "location": "Iselin, Woodbridge Township, NJ",
+      "posted_at": "1795132800",
+      "source": "simplify",
+      "title": "Outsourcing IT Staff 1",
+      "url": "https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/Iselin/XMLNAME-2026-Outsourcing-IT-Staff-I_Req-9694"
+    },
     "simplify:eisneramper::simplify-99ceee79-3f21-401d-8568-200921f46ba8": {
       "company": "EisnerAmper",
       "first_seen": "2026-09-01T00:09:06+00:00",
@@ -30895,6 +30905,16 @@
       "source": "simplify",
       "title": "Software Developer 2 \u2013 Early Career",
       "url": "https://www.google.com/about/careers/applications/jobs/results/93868335938052806"
+    },
+    "simplify:gorbel::simplify-fe1b3680-b402-4413-a522-d43c7499a5a9": {
+      "company": "Gorbel",
+      "first_seen": "2026-11-21T03:02:12+00:00",
+      "last_seen": "2026-11-21T03:02:12+00:00",
+      "location": "Victor, NY",
+      "posted_at": "1795132800",
+      "source": "simplify",
+      "title": "Front-End Web Developer Co-op",
+      "url": "https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1"
     },
     "simplify:gordon food service::simplify-058f883b-7a38-49f1-8ad9-45811313157b": {
       "company": "Gordon Food Service",
@@ -89781,5 +89801,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T02:32:14+00:00"
+  "updated_at": "2026-11-21T03:02:17+00:00"
 }
