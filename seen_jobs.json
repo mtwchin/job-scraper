@@ -17,6 +17,7 @@
     "Barclays",
     "Blackrock",
     "Blue Origin",
+    "Broadcom",
     "Cadence",
     "Capital One",
     "Cisco",
@@ -25,7 +26,6 @@
     "Nvidia",
     "PayPal",
     "Red Hat",
-    "Salesforce",
     "Workday",
     "Zoom"
   ],
@@ -69093,5 +69093,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T02:42:12+00:00"
+  "updated_at": "2026-11-21T02:48:15+00:00"
 }
