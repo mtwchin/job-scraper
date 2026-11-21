@@ -1,5 +1,5 @@
 {
-  "count": 10195,
+  "count": 10197,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -16819,6 +16819,16 @@
       "posted_at": "1785456000",
       "title": "Application Software Developer New Grad",
       "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/LIVONIA-01/Adams-Application-Software-Developer---Recent-Grad-2026-_R55736-2"
+    },
+    "simplify:cadence design systems::simplify-7da54211-7443-4a5b-86bd-e49ac0409028": {
+      "company": "Cadence Design Systems",
+      "first_seen": "2026-11-21T15:32:18+00:00",
+      "last_seen": "2026-11-21T15:32:18+00:00",
+      "location": "San Jose, CA",
+      "posted_at": "1795046400",
+      "source": "simplify",
+      "title": "Software Engineer Recent Grad - Verification IP Team",
+      "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineering--Verification-IP-Team--Recent-Grad-2026-_R55884"
     },
     "simplify:cadence design systems::simplify-7fc25a2f-3933-4a77-aa4a-79e8169532c4": {
       "company": "Cadence Design Systems",
@@ -71835,6 +71845,16 @@
       "title": "Software Engineer 0 - Entry-Level Software Engineering",
       "url": "https://jobs-woodcons.icims.com/jobs/14759/job?mobile=true&needsRedirect=false"
     },
+    "simplify:woodward governor::simplify-28b10e18-b290-443b-b1ae-dca8536f1cd0": {
+      "company": "Woodward Governor",
+      "first_seen": "2026-11-21T15:32:47+00:00",
+      "last_seen": "2026-11-21T15:32:47+00:00",
+      "location": "Niles, IL, Fort Collins, CO",
+      "posted_at": "1795132800",
+      "source": "simplify",
+      "title": "AI Intern",
+      "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291"
+    },
     "simplify:woongjin::simplify-ea634b62-9d57-4c6d-8b6f-bbc560848a6f": {
       "company": "Woongjin",
       "first_seen": "2026-07-23T04:36:54+00:00",
@@ -89911,5 +89931,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T15:31:56+00:00"
+  "updated_at": "2026-11-21T15:32:59+00:00"
 }
