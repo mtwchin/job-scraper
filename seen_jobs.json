@@ -1,5 +1,5 @@
 {
-  "count": 8160,
+  "count": 8162,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -247,6 +247,28 @@
       "source": "",
       "title": "Software Engineer I, Fullstack (Disputes Platform)",
       "url": "https://job-boards.greenhouse.io/affirm/jobs/8196691003"
+    },
+    "affirm::8201469003": {
+      "company": "Affirm",
+      "first_seen": "2026-11-21T01:09:20+00:00",
+      "last_seen": "2026-11-21T01:09:20+00:00",
+      "location": "Remote US; Remote Canada",
+      "posted_at": "2026-11-20T20:09:09-05:00",
+      "source": "",
+      "title": "Software Engineer I, Backend (Streaming Infra)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003"
+    },
+    "affirm::8201471003": {
+      "company": "Affirm",
+      "duplicate_of": "affirm::8201469003",
+      "first_seen": "2026-11-21T01:09:19+00:00",
+      "last_seen": "2026-11-21T01:09:19+00:00",
+      "location": "Remote Canada",
+      "posted_at": "2026-11-20T20:09:11-05:00",
+      "seeded": true,
+      "source": "",
+      "title": "Software Engineer I, Backend (Streaming Infra)",
+      "url": "https://job-boards.greenhouse.io/affirm/jobs/8201471003"
     },
     "airbnb::8360478": {
       "company": "Airbnb",
@@ -69070,5 +69092,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T01:08:40+00:00"
+  "updated_at": "2026-11-21T01:09:43+00:00"
 }
