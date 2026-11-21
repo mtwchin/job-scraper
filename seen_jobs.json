@@ -16,14 +16,14 @@
     "Adobe",
     "Barclays",
     "Blackrock",
+    "Blue Origin",
     "Broadcom",
-    "Cadence",
     "Capital One",
     "Cisco",
     "CrowdStrike",
-    "Red Hat",
-    "Salesforce",
-    "Zoom"
+    "Micron",
+    "Nvidia",
+    "PayPal"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -69089,5 +69089,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T11:37:05+00:00"
+  "updated_at": "2026-11-21T12:07:07+00:00"
 }
