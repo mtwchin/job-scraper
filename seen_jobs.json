@@ -20,10 +20,12 @@
     "Broadcom",
     "Cadence",
     "Capital One",
+    "Cisco",
     "CrowdStrike",
     "Intel",
     "Micron",
     "Nvidia",
+    "PayPal",
     "Red Hat",
     "Salesforce",
     "Workday",
@@ -69093,5 +69095,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T05:06:48+00:00"
+  "updated_at": "2026-11-21T05:36:50+00:00"
 }
