@@ -15,6 +15,7 @@
   "health_reported": [
     "Barclays",
     "Blackrock",
+    "Cadence",
     "Intel",
     "Micron"
   ],
@@ -69082,5 +69083,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T02:27:04+00:00"
+  "updated_at": "2026-11-21T02:32:07+00:00"
 }
