@@ -1,5 +1,5 @@
 {
-  "count": 10192,
+  "count": 10193,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -61050,6 +61050,16 @@
       "title": "Financial Systems Engineer",
       "url": "https://job-boards.greenhouse.io/starmountaincapital/jobs/4466686009"
     },
+    "simplify:starbridge::simplify-fbcc1432-da10-41dc-8e7a-16058604cc38": {
+      "company": "Starbridge",
+      "first_seen": "2026-11-21T11:32:28+00:00",
+      "last_seen": "2026-11-21T11:32:28+00:00",
+      "location": "NYC",
+      "posted_at": "1794787200",
+      "source": "simplify",
+      "title": "Software Engineer - Federal",
+      "url": "https://jobs.ashbyhq.com/starbridge/7a86e5d3-0871-4a1f-a65d-bfadb7be3b4d/application?embed=true"
+    },
     "simplify:starbucks::simplify-10282be3-6654-440b-8bd2-74329d579fb0": {
       "company": "Starbucks",
       "first_seen": "2026-09-16T04:16:17+00:00",
@@ -89881,5 +89891,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T10:32:38+00:00"
+  "updated_at": "2026-11-21T11:32:42+00:00"
 }
