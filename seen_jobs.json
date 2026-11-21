@@ -14,18 +14,14 @@
   "delivery_rejections": {},
   "health_reported": [
     "Barclays",
-    "Blackrock",
     "Blue Origin",
     "Broadcom",
-    "Cadence",
     "Capital One",
     "Intel",
     "JPMC",
-    "Micron",
     "Nvidia",
     "PayPal",
-    "Red Hat",
-    "Workday"
+    "Red Hat"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -69091,5 +69087,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T03:15:25+00:00"
+  "updated_at": "2026-11-21T03:26:28+00:00"
 }
