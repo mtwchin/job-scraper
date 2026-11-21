@@ -1,5 +1,5 @@
 {
-  "count": 10190,
+  "count": 10192,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -17357,6 +17357,16 @@
       "source": "simplify",
       "title": "Java Engineer",
       "url": "https://careers.capgemini.com/job/Telford-Relaunch-Java-Engineer/1446799533/?ats=successfactors"
+    },
+    "simplify:capgemini::simplify-78b37fbd-305b-4198-8167-595160398a9c": {
+      "company": "Capgemini",
+      "first_seen": "2026-11-21T10:32:28+00:00",
+      "last_seen": "2026-11-21T10:32:28+00:00",
+      "location": "Houston, TX, Dallas, TX, Chicago, IL, Atlanta, GA",
+      "posted_at": "1790029611",
+      "source": "simplify",
+      "title": "Associate Application Consultant",
+      "url": "https://careers.capgemini.com/job/Atlanta,-GA-Domain-Associate-Application-Consultant-GA-30301/1439772633/?ats=successfactors"
     },
     "simplify:capgemini::simplify-7ed33e96-4645-4b9d-8798-e6d7a35228a3": {
       "company": "Capgemini",
@@ -38244,6 +38254,16 @@
       "posted_at": "1787093704",
       "title": "Software Engineer - Early Career",
       "url": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808/application?embed=true"
+    },
+    "simplify:kobalt labs::simplify-85c54102-e81e-473e-9444-313292ad97d8": {
+      "company": "Kobalt Labs",
+      "first_seen": "2026-11-21T10:32:28+00:00",
+      "last_seen": "2026-11-21T10:32:28+00:00",
+      "location": "NYC",
+      "posted_at": "1789430400",
+      "source": "simplify",
+      "title": "Software Engineer - Full Stack",
+      "url": "https://jobs.ashbyhq.com/kobalt%20labs/0c96afd7-4469-4121-9232-847e8f8f4502/application?embed=true"
     },
     "simplify:kobo::simplify-4b6839e2-e49a-4a07-8df2-fae7b6226e2b": {
       "company": "Kobo",
@@ -89861,5 +89881,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T10:02:35+00:00"
+  "updated_at": "2026-11-21T10:32:38+00:00"
 }
