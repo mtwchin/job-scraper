@@ -1,5 +1,5 @@
 {
-  "count": 10173,
+  "count": 10174,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -79855,6 +79855,16 @@
       "title": "IT Programmer Analyst Co-op",
       "url": "https://go.vansh.nyc/1xS"
     },
+    "vanshb03:jabil::vanshb03-cc820781-db51-49dc-9933-8ca4613a5c67": {
+      "company": "Jabil",
+      "first_seen": "2026-11-21T00:25:53+00:00",
+      "last_seen": "2026-11-21T00:25:53+00:00",
+      "location": "Austin, TX",
+      "posted_at": "1795216422",
+      "source": "vanshb03",
+      "title": "Software Engineering Intern",
+      "url": "https://go.vansh.nyc/1FD"
+    },
     "vanshb03:jane street::vanshb03-c05efabc-e56c-42df-acdf-6792be1be56d": {
       "company": "Jane Street",
       "first_seen": "2026-09-14T19:14:47+00:00",
@@ -89689,5 +89699,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T00:03:17+00:00"
+  "updated_at": "2026-11-21T00:26:21+00:00"
 }
