@@ -1,5 +1,5 @@
 {
-  "count": 10193,
+  "count": 10194,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -73414,6 +73414,16 @@
       "title": "Software Engineering Intern",
       "url": "https://go.vansh.nyc/N6"
     },
+    "vanshb03:activision blizzard::vanshb03-73e6ad9a-7961-4c4e-a4a6-4a357fb33dea": {
+      "company": "Activision Blizzard",
+      "first_seen": "2026-11-21T13:20:47+00:00",
+      "last_seen": "2026-11-21T13:20:47+00:00",
+      "location": "Irvine, CA",
+      "posted_at": "1795223480",
+      "source": "vanshb03",
+      "title": "Data Platform Engineering Intern",
+      "url": "https://go.vansh.nyc/1Ge"
+    },
     "vanshb03:activision blizzard::vanshb03-fb45af46-5f92-486c-898a-99f8ce300988": {
       "company": "Activision Blizzard",
       "delivery_unconfirmed": true,
@@ -81830,7 +81840,7 @@
     "vanshb03:natoma::vanshb03-4b10cd29-777b-498b-9f03-e36ff08bf591": {
       "company": "Natoma",
       "first_seen": "2026-11-10T16:50:05+00:00",
-      "last_seen": "2026-11-10T16:50:05+00:00",
+      "last_seen": "2026-11-21T13:20:47+00:00",
       "location": "Boston, MA",
       "posted_at": "1794329139",
       "source": "vanshb03",
@@ -89891,5 +89901,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T12:29:46+00:00"
+  "updated_at": "2026-11-21T13:20:50+00:00"
 }
