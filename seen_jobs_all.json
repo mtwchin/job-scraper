@@ -1,5 +1,5 @@
 {
-  "count": 10187,
+  "count": 10189,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -18073,6 +18073,16 @@
       "title": "Software Engineer - ETL",
       "url": "https://lthc.wd1.myworkdayjobs.com/CDPHPCareers/job/Rochester/Software-Engineer---ETL_JR104172"
     },
+    "simplify:cdpq::simplify-3519502a-3aa8-4fdd-988c-8ccbaa4706d6": {
+      "company": "CDPQ",
+      "first_seen": "2026-11-21T08:02:28+00:00",
+      "last_seen": "2026-11-21T08:02:28+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1795046400",
+      "source": "simplify",
+      "title": "Developer - Digital Solutions and Analytics - Liquid Markets",
+      "url": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Analytique---Marchs-boursiers_R05211"
+    },
     "simplify:celonis::simplify-8d9e3fac-74a7-4c48-9788-7e80245bc5fc": {
       "company": "Celonis",
       "first_seen": "2026-08-25T16:08:25+00:00",
@@ -20727,6 +20737,16 @@
       "posted_at": "1776388276",
       "title": "Intern",
       "url": "https://jobs.ashbyhq.com/context/1c657ebf-3842-4ca4-ab55-54ffaf1e49d8/application"
+    },
+    "simplify:convverge::simplify-fbb75aa4-661e-464a-988f-c30cfd40ddb5": {
+      "company": "Convverge",
+      "first_seen": "2026-11-21T08:02:28+00:00",
+      "last_seen": "2026-11-21T08:02:28+00:00",
+      "location": "Calgary, AB, Canada",
+      "posted_at": "1795246991",
+      "source": "simplify",
+      "title": "Junior Developer Co-op",
+      "url": "https://convverge.bamboohr.com/careers/31/"
     },
     "simplify:cook group::simplify-3af1c40c-bee2-4e35-b456-9f362654cf4e": {
       "company": "Cook Group",
@@ -89831,5 +89851,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T07:32:29+00:00"
+  "updated_at": "2026-11-21T08:02:32+00:00"
 }
