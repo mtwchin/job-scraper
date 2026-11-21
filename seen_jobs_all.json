@@ -1,5 +1,5 @@
 {
-  "count": 10185,
+  "count": 10187,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -30235,6 +30235,16 @@
       "title": "Software Developer Intern - Algorithms and Operations Research",
       "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314"
     },
+    "simplify:giro::simplify-79319947-ff13-43ec-ba20-dd86e6a6b401": {
+      "company": "GIRO",
+      "first_seen": "2026-11-21T07:32:28+00:00",
+      "last_seen": "2026-11-21T07:32:28+00:00",
+      "location": "Montreal, QC, Canada",
+      "posted_at": "1793491200",
+      "source": "simplify",
+      "title": "Front-End Web Development Intern",
+      "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-web--Front-end_R-100000317"
+    },
     "simplify:giro::simplify-8da7e607-788f-4d80-ad68-62014bf8575f": {
       "company": "GIRO",
       "first_seen": "2026-11-18T14:33:02+00:00",
@@ -31040,6 +31050,16 @@
       "posted_at": "1788912000",
       "title": "AI Engineer Intern",
       "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/AI-intern_R0023512"
+    },
+    "simplify:gradient msp::simplify-b98f5eb8-103b-4503-af0d-7e7d64d11f97": {
+      "company": "Gradient MSP",
+      "first_seen": "2026-11-21T07:32:28+00:00",
+      "last_seen": "2026-11-21T07:32:28+00:00",
+      "location": "Remote in Canada",
+      "posted_at": "1795245517",
+      "source": "simplify",
+      "title": "Junior Full Stack Developer",
+      "url": "https://gradientmsp.bamboohr.com/careers/72/"
     },
     "simplify:graham capital management::simplify-726a67fb-9bab-4e59-97a7-777e543943ab": {
       "company": "Graham Capital Management",
@@ -89811,5 +89831,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T06:59:27+00:00"
+  "updated_at": "2026-11-21T07:32:29+00:00"
 }
