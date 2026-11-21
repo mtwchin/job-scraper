@@ -22,11 +22,13 @@
     "Capital One",
     "Cisco",
     "CrowdStrike",
+    "Intel",
     "Micron",
     "Nvidia",
     "PayPal",
     "Red Hat",
     "Salesforce",
+    "Workday",
     "Zoom"
   ],
   "jobs": {
@@ -69093,5 +69095,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T12:25:10+00:00"
+  "updated_at": "2026-11-21T12:40:12+00:00"
 }
