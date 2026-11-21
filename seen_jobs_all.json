@@ -1,5 +1,5 @@
 {
-  "count": 10176,
+  "count": 10178,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -43922,6 +43922,16 @@
       "title": "AI Engineer Co-op",
       "url": "https://careers.msasafety.com/jobs/10243?icims=1"
     },
+    "simplify:msu federal credit union::simplify-c9344731-46ee-48eb-bbf4-b01acf1ad7f1": {
+      "company": "MSU Federal Credit Union",
+      "first_seen": "2026-11-21T00:32:54+00:00",
+      "last_seen": "2026-11-21T00:32:54+00:00",
+      "location": "Michigan, Illinois",
+      "posted_at": "1795219120",
+      "source": "simplify",
+      "title": "Software Engineer - Front-End/Full Stack - Mobile/Website/Core",
+      "url": "https://recruiting.ultipro.com/MIC1007/JobBoard/24c0bd68-a7ff-5460-0b4e-fe75a81b0396/OpportunityDetail?opportunityId=8c5ed6c6-dd4a-4bd3-88cb-7af4a764b2d3"
+    },
     "simplify:mthree::simplify-5034a0e7-592a-458f-b515-579d804d7bef": {
       "company": "mthree",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -67073,6 +67083,16 @@
       "title": "Software Engineer Intern",
       "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288"
     },
+    "simplify:transcore::simplify-c7a67833-979c-4af3-83e1-d17ea4ec0a14": {
+      "company": "TransCore",
+      "first_seen": "2026-11-21T00:32:54+00:00",
+      "last_seen": "2026-11-21T00:32:54+00:00",
+      "location": "Nashville, TN",
+      "posted_at": "1795219109",
+      "source": "simplify",
+      "title": "Software Engineer 1 - SQL Development",
+      "url": "https://recruiting2.ultipro.com/TRA1034TNSC/JobBoard/0885e26f-46c3-45cc-8f3a-b849c09d3bdd/OpportunityDetail?opportunityId=3ce5c847-8e02-470d-aed6-9630544aa893"
+    },
     "simplify:transmarket group::simplify-990a1adb-e945-417c-b734-fb15286f993b": {
       "company": "TransMarket Group",
       "first_seen": "2026-08-14T22:52:10+00:00",
@@ -89719,5 +89739,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T00:32:23+00:00"
+  "updated_at": "2026-11-21T00:33:26+00:00"
 }
