@@ -1,5 +1,5 @@
 {
-  "count": 8158,
+  "count": 8160,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -42794,6 +42794,16 @@
       "title": "Data Networking Software Engineer - Modem Software Engineering",
       "url": "https://qualcomm.eightfold.ai/careers/job/446719871565"
     },
+    "simplify:qualcomm::simplify-7b28eca7-bb38-4da1-90a6-5d35e1971877": {
+      "company": "Qualcomm",
+      "first_seen": "2026-11-21T00:02:11+00:00",
+      "last_seen": "2026-11-21T00:02:11+00:00",
+      "location": "Cambridge, UK",
+      "posted_at": "1795218331",
+      "source": "simplify",
+      "title": "Software Systems Engineer Intern - Systems Engineering Team - Data Center Group",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446722247294"
+    },
     "simplify:qualcomm::simplify-872d9c82-5186-439d-be5c-907d58d05b0c": {
       "company": "Qualcomm",
       "first_seen": "2026-08-21T01:49:29+00:00",
@@ -52530,6 +52540,16 @@
       "posted_at": "1788570474",
       "title": "Software Engineer Intern - Code Hardening & Framework Resilience - Robotaxi",
       "url": "https://www.tesla.com/careers/search/job/282598"
+    },
+    "simplify:tesla::simplify-9c50d6d5-ef29-435d-8941-7d083495ada7": {
+      "company": "Tesla",
+      "first_seen": "2026-11-21T00:02:11+00:00",
+      "last_seen": "2026-11-21T00:02:11+00:00",
+      "location": "Palo Alto, CA",
+      "posted_at": "1795217608",
+      "source": "simplify",
+      "title": "Software Engineer Intern - SI Hardware Architecture Simulation",
+      "url": "https://www.tesla.com/careers/search/job/290756"
     },
     "simplify:tesla::simplify-9ce31f80-9f48-43a4-924d-9739d2b61cf8": {
       "company": "Tesla",
@@ -69017,7 +69037,7 @@
       "company": "Zoox",
       "delivery_unconfirmed": true,
       "first_seen": "2026-11-05T23:40:13+00:00",
-      "last_seen": "2026-11-20T00:00:13+00:00",
+      "last_seen": "2026-11-21T00:00:11+00:00",
       "location": "Foster City, CA",
       "posted_at": "1793399815529",
       "source": "",
@@ -69027,7 +69047,7 @@
     "zoox::88f6cb68-1534-44af-80db-10e43c203520": {
       "company": "Zoox",
       "first_seen": "2026-11-05T23:41:46+00:00",
-      "last_seen": "2026-11-20T00:00:13+00:00",
+      "last_seen": "2026-11-21T00:00:11+00:00",
       "location": "Foster City, CA",
       "posted_at": "1793400897859",
       "source": "",
@@ -69037,7 +69057,7 @@
     "zoox::8b32157b-ab44-4078-85ea-1d8d7b747a20": {
       "company": "Zoox",
       "first_seen": "2026-11-05T23:41:46+00:00",
-      "last_seen": "2026-11-20T00:00:13+00:00",
+      "last_seen": "2026-11-21T00:00:11+00:00",
       "location": "Foster City, CA",
       "posted_at": "1793401565895",
       "source": "",
@@ -69053,5 +69073,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T00:00:31+00:00"
+  "updated_at": "2026-11-21T00:02:33+00:00"
 }
