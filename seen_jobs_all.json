@@ -1,5 +1,5 @@
 {
-  "count": 10197,
+  "count": 10200,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -13039,7 +13039,7 @@
     "simplify:bdo canada::simplify-aac6f4d7-096c-4de7-b7cf-9bc0e9bd4343": {
       "company": "BDO Canada",
       "first_seen": "2026-09-14T20:06:23+00:00",
-      "last_seen": "2026-10-01T00:31:31+00:00",
+      "last_seen": "2026-11-21T16:02:48+00:00",
       "location": "Toronto, ON, Canada, Oakville, ON, Canada, Ottawa, ON, Canada",
       "posted_at": "1789344000",
       "source": "simplify",
@@ -23190,6 +23190,16 @@
       "posted_at": "1781215631",
       "title": "Application Development Intern",
       "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship---Application-Development_JR101348"
+    },
+    "simplify:delta dental::simplify-fbc36d2d-35f9-4bfd-8880-eacd9e2756cc": {
+      "company": "Delta Dental",
+      "first_seen": "2026-11-21T16:02:49+00:00",
+      "last_seen": "2026-11-21T16:02:49+00:00",
+      "location": "Okemos, MI",
+      "posted_at": "1794960000",
+      "source": "simplify",
+      "title": "Application Development Intern",
+      "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR101534"
     },
     "simplify:deluxe::simplify-0d697037-f364-4cd3-a87a-6720118c57ea": {
       "company": "Deluxe",
@@ -53579,6 +53589,16 @@
       "title": "UI Engineer Co-op",
       "url": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Ontario-Ottawa/Canada--Co-op-_REQ-2026-2965"
     },
+    "simplify:ribbon::simplify-b5e9a29a-b709-4d78-8e07-c795aad202ea": {
+      "company": "Ribbon",
+      "first_seen": "2026-11-21T16:02:49+00:00",
+      "last_seen": "2026-11-21T16:02:49+00:00",
+      "location": "Canada",
+      "posted_at": "1795046400",
+      "source": "simplify",
+      "title": "Software Developer Co-op - Common Cloud Services",
+      "url": "https://vhr-genband.wd1.myworkdayjobs.com/ribboncareers/job/Canada-Quebec-Montreal/Software-Developer---Common-Cloud-Services--Co-Op-_REQ-2026-3079"
+    },
     "simplify:ridgeline::simplify-ccfd0e70-7190-455d-bcb2-c5d80518bad9": {
       "company": "Ridgeline",
       "first_seen": "2026-09-10T23:38:18+00:00",
@@ -58149,6 +58169,16 @@
       "posted_at": "1788916174",
       "title": "Software Developer Intern",
       "url": "https://careers-canada-secure.icims.com/jobs/1934/job?mobile=true&needsRedirect=false"
+    },
+    "simplify:secureframe::simplify-99cd5349-8e9e-40e3-966e-f41ccfd17d61": {
+      "company": "Secureframe",
+      "first_seen": "2026-11-21T16:02:49+00:00",
+      "last_seen": "2026-11-21T16:02:49+00:00",
+      "location": "NYC",
+      "posted_at": "1795219200",
+      "source": "simplify",
+      "title": "Software Engineer New Grad",
+      "url": "https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb/application?embed=true"
     },
     "simplify:securian financial group::simplify-61b8359d-6611-4e4e-af7f-469b630f576e": {
       "company": "Securian Financial Group",
@@ -89931,5 +89961,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T15:32:59+00:00"
+  "updated_at": "2026-11-21T16:03:03+00:00"
 }
