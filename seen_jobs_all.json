@@ -1,5 +1,5 @@
 {
-  "count": 10174,
+  "count": 10176,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -5729,6 +5729,16 @@
       "source": "simplify",
       "title": "Junior Developer",
       "url": "https://jobs.jobvite.com/actionet/job/ofYQzfwm?nl=1&nl=1&fr=false"
+    },
+    "simplify:acuity insurance::simplify-612e81e2-c670-4480-bb34-d840b958320e": {
+      "company": "Acuity Insurance",
+      "first_seen": "2026-11-21T00:31:54+00:00",
+      "last_seen": "2026-11-21T00:31:54+00:00",
+      "location": "Remote in USA, Sheboygan, WI",
+      "posted_at": "1795219214",
+      "source": "simplify",
+      "title": "Software Engineer Intern",
+      "url": "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217"
     },
     "simplify:acuity international::simplify-96d58925-a30c-4f80-a64a-6d7f7846bfe4": {
       "company": "Acuity International",
@@ -41405,6 +41415,16 @@
       "posted_at": "1785749241",
       "title": "Developer New Grad",
       "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8048802"
+    },
+    "simplify:mawer investment management::simplify-95d9a24b-d178-47f6-b2eb-e2ca86cb444d": {
+      "company": "Mawer Investment Management",
+      "first_seen": "2026-11-21T00:31:54+00:00",
+      "last_seen": "2026-11-21T00:31:54+00:00",
+      "location": "Calgary, AB, Canada",
+      "posted_at": "1795219070",
+      "source": "simplify",
+      "title": "AI Orchestrator Student Intern",
+      "url": "https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=b4553d3e-9bfd-4102-b608-00c266607fd0"
     },
     "simplify:maxima::simplify-da228603-aa5d-4d28-94e6-89b4d8db92e7": {
       "company": "Maxima",
@@ -89699,5 +89719,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T00:26:21+00:00"
+  "updated_at": "2026-11-21T00:32:23+00:00"
 }
