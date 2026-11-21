@@ -1,5 +1,5 @@
 {
-  "count": 10194,
+  "count": 10195,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -70602,6 +70602,16 @@
       "title": "Software Engineer 3",
       "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Software-Engineer-III_R-2556771"
     },
+    "simplify:walmart::simplify-7ad57a9d-6cf2-4dea-bbb4-f6ad41b8a491": {
+      "company": "Walmart",
+      "first_seen": "2026-11-21T15:31:48+00:00",
+      "last_seen": "2026-11-21T15:31:48+00:00",
+      "location": "Seattle, WA, Denver, CO",
+      "posted_at": "1794960000",
+      "source": "simplify",
+      "title": "Software Engineer 3",
+      "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-VIZIO-SERVICES-DENVER-CO-DENVER-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2674054-1"
+    },
     "simplify:walmart::simplify-86f07a59-1ed5-4896-9caa-860180ff3c9e": {
       "company": "Walmart",
       "first_seen": "2026-07-14T19:49:46+00:00",
@@ -89901,5 +89911,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T13:20:50+00:00"
+  "updated_at": "2026-11-21T15:31:56+00:00"
 }
