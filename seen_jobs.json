@@ -1,6 +1,15 @@
 {
   "count": 8163,
   "delivery_attempts": {
+    "simplify:cadence design systems::simplify-2f9d52bb-ed7d-407a-b2db-ba4eaffe95b9": {
+      "attempted_at": "2026-11-21T16:02:54+00:00",
+      "company": "Cadence Design Systems",
+      "location": "San Jose, CA",
+      "posted_at": "1795046400",
+      "source": "simplify",
+      "title": "Software Engineer Intern - Circuit Simulation infrastructure",
+      "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254"
+    },
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
       "company": "NVIDIA",
@@ -69105,5 +69114,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T15:32:31+00:00"
+  "updated_at": "2026-11-21T16:03:34+00:00"
 }
