@@ -13,20 +13,8 @@
   },
   "delivery_rejections": {},
   "health_reported": [
-    "Adobe",
     "Barclays",
-    "Blackrock",
-    "Blue Origin",
-    "Broadcom",
-    "Cadence",
-    "Capital One",
-    "Cisco",
-    "Micron",
-    "Nvidia",
-    "Red Hat",
-    "Salesforce",
-    "Workday",
-    "Zoom"
+    "Cisco"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -1387,7 +1375,7 @@
     "cadence::Software-Engineering-Intern---Circuit-Simulation-infrastructure_R57254-1": {
       "company": "Cadence",
       "first_seen": "2026-11-20T06:49:39+00:00",
-      "last_seen": "2026-11-20T06:49:39+00:00",
+      "last_seen": "2026-11-21T01:49:45+00:00",
       "location": "SAN JOSE",
       "posted_at": "Posted Today",
       "source": "",
@@ -69092,5 +69080,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T01:49:49+00:00"
+  "updated_at": "2026-11-21T01:54:52+00:00"
 }
