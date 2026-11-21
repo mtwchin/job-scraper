@@ -21,7 +21,8 @@
     "JPMC",
     "Nvidia",
     "PayPal",
-    "Red Hat"
+    "Red Hat",
+    "Salesforce"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -69087,5 +69088,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T03:26:28+00:00"
+  "updated_at": "2026-11-21T03:42:31+00:00"
 }
