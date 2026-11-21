@@ -16,8 +16,14 @@
     "Barclays",
     "Blackrock",
     "Broadcom",
+    "Capital One",
     "Cisco",
-    "Intel"
+    "CrowdStrike",
+    "Intel",
+    "Micron",
+    "Nvidia",
+    "Red Hat",
+    "Salesforce"
   ],
   "jobs": {
     "abnormal security::7814567003": {
@@ -69083,5 +69089,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T02:13:59+00:00"
+  "updated_at": "2026-11-21T02:22:02+00:00"
 }
