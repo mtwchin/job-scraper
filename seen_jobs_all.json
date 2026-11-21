@@ -1,5 +1,5 @@
 {
-  "count": 10189,
+  "count": 10190,
   "delivery_attempts": {
     "vanshb03:nvidia::vanshb03-6329f1b4-9d3b-4e82-9e87-a5425aa11916": {
       "attempted_at": "2026-11-20T21:29:50+00:00",
@@ -67146,6 +67146,16 @@
       "title": "AI Software Engineer Intern",
       "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301902"
     },
+    "simplify:trajectory::simplify-59dd5c4a-eb80-4559-ab58-af2899bbdad9": {
+      "company": "Trajectory",
+      "first_seen": "2026-11-21T10:02:28+00:00",
+      "last_seen": "2026-11-21T10:02:28+00:00",
+      "location": "SF",
+      "posted_at": "1793836800",
+      "source": "simplify",
+      "title": "Member of Technical Staff Generalist Engineer Intern",
+      "url": "https://jobs.ashbyhq.com/trajectory/ceee0ea0-195d-4c58-8b57-4013c81e373c/application?embed=true"
+    },
     "simplify:trane technologies::simplify-15f1d4cb-e814-4f44-a827-6caf6c32bf60": {
       "company": "Trane Technologies",
       "first_seen": "2026-08-20T01:44:05+00:00",
@@ -89851,5 +89861,5 @@
     "vanshb03"
   ],
   "simplify_all_seeded": true,
-  "updated_at": "2026-11-21T08:02:32+00:00"
+  "updated_at": "2026-11-21T10:02:35+00:00"
 }
